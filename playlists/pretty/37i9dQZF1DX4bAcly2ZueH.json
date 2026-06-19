@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 55039,
+  "num_followers": 55043,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,30 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
+        "name": "no one else",
+        "url": "https://open.spotify.com/album/55GSHcWOrbvL233s62HEPG"
+      },
+      "artists": [
+        {
+          "name": "fcj",
+          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
+        },
+        {
+          "name": "Alys",
+          "url": "https://open.spotify.com/artist/4cS8r9JlwhqLafUWAXkzHx"
+        },
+        {
+          "name": "Colt",
+          "url": "https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "no one else",
+      "url": "https://open.spotify.com/track/0P983JO9vCqhq3Tv7arhNa"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
         "name": "Chroma Velocity",
         "url": "https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo"
       },
@@ -239,30 +263,6 @@
       "duration_ms": 167978,
       "name": "Maru",
       "url": "https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
-        "name": "no one else",
-        "url": "https://open.spotify.com/album/55GSHcWOrbvL233s62HEPG"
-      },
-      "artists": [
-        {
-          "name": "fcj",
-          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
-        },
-        {
-          "name": "Alys",
-          "url": "https://open.spotify.com/artist/4cS8r9JlwhqLafUWAXkzHx"
-        },
-        {
-          "name": "Colt",
-          "url": "https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "no one else",
-      "url": "https://open.spotify.com/track/0P983JO9vCqhq3Tv7arhNa"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "Somnolent Nova",
-        "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
-      },
-      "artists": [
-        {
-          "name": "City Girl",
-          "url": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Somnolent Nova",
-      "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 132274,
       "name": "The Perks of Being a Wallflower",
       "url": "https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "Somnolent Nova",
+        "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
+      },
+      "artists": [
+        {
+          "name": "City Girl",
+          "url": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Somnolent Nova",
+      "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf"
-      },
-      "artists": [
-        {
-          "name": "Katu",
-          "url": "https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "Greens",
         "url": "https://open.spotify.com/album/13irODzikOapHKbxYIj42v"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf"
+      },
+      "artists": [
+        {
+          "name": "Katu",
+          "url": "https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
         "name": "three",
         "url": "https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl"
       },
@@ -399,26 +399,6 @@
       "duration_ms": 187118,
       "name": "three",
       "url": "https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
-        "name": "This is Our First EP",
-        "url": "https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9"
-      },
-      "artists": [
-        {
-          "name": "BLYNE",
-          "url": "https://open.spotify.com/artist/3B6ECroeS4yEP8xKx5zyDD"
-        },
-        {
-          "name": "B O K E H",
-          "url": "https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO"
-        }
-      ],
-      "duration_ms": 212690,
-      "name": "School",
-      "url": "https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -439,6 +419,26 @@
       "duration_ms": 119230,
       "name": "Namikimichi",
       "url": "https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "This is Our First EP",
+        "url": "https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9"
+      },
+      "artists": [
+        {
+          "name": "BLYNE",
+          "url": "https://open.spotify.com/artist/3B6ECroeS4yEP8xKx5zyDD"
+        },
+        {
+          "name": "B O K E H",
+          "url": "https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO"
+        }
+      ],
+      "duration_ms": 212690,
+      "name": "School",
+      "url": "https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
-      },
-      "artists": [
-        {
-          "name": "Kastorbeats",
-          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "Late Summer",
         "url": "https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 154520,
       "name": "Late Summer",
       "url": "https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
+      },
+      "artists": [
+        {
+          "name": "Kastorbeats",
+          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
+        "name": "UP AND DOWN Original Soundtrack",
+        "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
+      },
+      "artists": [
+        {
+          "name": "Marihiko Hara",
+          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
+        }
+      ],
+      "duration_ms": 189696,
+      "name": "\u304a\u306f\u306a\u3057\u306e\u306f\u3058\u307e\u308a",
+      "url": "https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
         "name": "Scenery",
         "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 156363,
       "name": "Day of the Moon",
       "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
-        "name": "UP AND DOWN Original Soundtrack",
-        "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
-      },
-      "artists": [
-        {
-          "name": "Marihiko Hara",
-          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
-        }
-      ],
-      "duration_ms": 189696,
-      "name": "\u304a\u306f\u306a\u3057\u306e\u306f\u3058\u307e\u308a",
-      "url": "https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
+        "name": "KUMORI",
+        "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "KUMORI",
+      "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
         "name": "When We Were Small",
         "url": "https://open.spotify.com/album/0iJ6h9uWLJZCqS6l4yYbtm"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 133953,
       "name": "When We Were Small",
       "url": "https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
-        "name": "KUMORI",
-        "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "KUMORI",
-      "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "Breezy",
-      "url": "https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "Abbot Kinney",
         "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 191040,
       "name": "Thank You (feat. Jozzy)",
       "url": "https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Breezy",
+      "url": "https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "yomichi",
-        "url": "https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj"
-      },
-      "artists": [
-        {
-          "name": "The LASTTRAK",
-          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "yomichi",
-      "url": "https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "Chips & Chill",
         "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "The Color and the Light",
-        "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
+        "name": "yomichi",
+        "url": "https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj"
       },
       "artists": [
         {
-          "name": "Jesse Blake",
-          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+          "name": "The LASTTRAK",
+          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
         }
       ],
-      "duration_ms": 295058,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
+      "duration_ms": 120000,
+      "name": "yomichi",
+      "url": "https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -983,6 +967,22 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
+        "name": "The Color and the Light",
+        "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+        }
+      ],
+      "duration_ms": 295058,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
         "name": "fresh",
         "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 263341,
       "name": "fresh",
       "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "SHIBUYA 246",
+        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "SHIBUYA 246",
+      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -1031,22 +1047,6 @@
       "duration_ms": 55226,
       "name": "hakubo",
       "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
-        "name": "SHIBUYA 246",
-        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "SHIBUYA 246",
-      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
+        "name": "Higashi no Sora",
+        "url": "https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Higashi no Sora",
+      "url": "https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
         "name": "Purity",
         "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "Higashi no Sora",
-        "url": "https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh"
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/6xsSwoYLUzO1g2eVATDlbQ"
       },
       "artists": [
         {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
         }
       ],
-      "duration_ms": 175774,
-      "name": "Higashi no Sora",
-      "url": "https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O"
+      "duration_ms": 196250,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/6LvQFF9REVEO1aYfG07e0z"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -1155,22 +1171,6 @@
       "duration_ms": 222985,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
-        "name": "Chamomile",
-        "url": "https://open.spotify.com/album/6xsSwoYLUzO1g2eVATDlbQ"
-      },
-      "artists": [
-        {
-          "name": "KOTARO SAITO",
-          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Chamomile",
-      "url": "https://open.spotify.com/track/6LvQFF9REVEO1aYfG07e0z"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "C.itosakura f.ascendens (synfilums rework)",
-        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
-      },
-      "artists": [
-        {
-          "name": "synfilums",
-          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "C.itosakura f.ascendens - synfilums rework",
-      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "tide sketch",
         "url": "https://open.spotify.com/album/4n2xL62SCpwN2kuQWZ2DSm"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 130908,
       "name": "tide sketch",
       "url": "https://open.spotify.com/track/3olx1vNPEziegPrjO44r8O"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "C.itosakura f.ascendens (synfilums rework)",
+        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
+      },
+      "artists": [
+        {
+          "name": "synfilums",
+          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "C.itosakura f.ascendens - synfilums rework",
+      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "Eshajori",
-        "url": "https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI"
-      },
-      "artists": [
-        {
-          "name": "Aether",
-          "url": "https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN"
-        }
-      ],
-      "duration_ms": 274131,
-      "name": "Nights in Ikebukuro",
-      "url": "https://open.spotify.com/track/6Fpb2vui5MXFW3zmiL4D9O"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 169090,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "Eshajori",
+        "url": "https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI"
+      },
+      "artists": [
+        {
+          "name": "Aether",
+          "url": "https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN"
+        }
+      ],
+      "duration_ms": 274131,
+      "name": "Nights in Ikebukuro",
+      "url": "https://open.spotify.com/track/6Fpb2vui5MXFW3zmiL4D9O"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "Meditation Loop",
-        "url": "https://open.spotify.com/album/7u0RdGp0lZfmZGmU4bx1pc"
-      },
-      "artists": [
-        {
-          "name": "Yusuke Shima",
-          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
-        },
-        {
-          "name": "Wind Loop Case",
-          "url": "https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh"
-        }
-      ],
-      "duration_ms": 256551,
-      "name": "Meditation Loop",
-      "url": "https://open.spotify.com/track/3O3x1XjurQCpCH6ATdF6AR"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "bed (rework)",
         "url": "https://open.spotify.com/album/55TlZbTAmCgXIS1aGdQgRS"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 235339,
       "name": "bed - rework",
       "url": "https://open.spotify.com/track/2KsL8zTHdhq9UCoQS828JR"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "Meditation Loop",
+        "url": "https://open.spotify.com/album/7u0RdGp0lZfmZGmU4bx1pc"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "Wind Loop Case",
+          "url": "https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh"
+        }
+      ],
+      "duration_ms": 256551,
+      "name": "Meditation Loop",
+      "url": "https://open.spotify.com/track/3O3x1XjurQCpCH6ATdF6AR"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "asobiba",
-        "url": "https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox"
-      },
-      "artists": [
-        {
-          "name": "chanoma",
-          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "asobiba",
-      "url": "https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "Introspect",
         "url": "https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 67062,
       "name": "Muse",
       "url": "https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "asobiba",
+        "url": "https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox"
+      },
+      "artists": [
+        {
+          "name": "chanoma",
+          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "asobiba",
+      "url": "https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi"
     },
     {
       "added_at": "2026-06-12 14:15:03",

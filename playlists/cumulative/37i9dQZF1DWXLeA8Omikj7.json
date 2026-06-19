@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "Music To Watch Seeds Grow By 008: Salamanda (Basil)",
+        "url": "https://open.spotify.com/album/21Yh6bO2hOL7wqy5mZsaSs"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146791,
+      "name": "Basil's dream",
+      "url": "https://open.spotify.com/track/6jmirL4rbnzVmxdo9XITR3"
+    },
+    {
+      "album": {
         "name": "elysian",
         "url": "https://open.spotify.com/album/228l4A41HRKtL3R1rlUNGv"
       },
@@ -7420,7 +7438,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 204153,
       "name": "Folded",
       "url": "https://open.spotify.com/track/7copOFAaVNZ3Sa3A9owxtu"
@@ -19161,6 +19179,28 @@
     },
     {
       "album": {
+        "name": "Tera (K-LONE Remix)",
+        "url": "https://open.spotify.com/album/1Nqu9ENUgSjDaIVFoiQjRT"
+      },
+      "artists": [
+        {
+          "name": "H.Takahashi",
+          "url": "https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV"
+        },
+        {
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446814,
+      "name": "Tera (K-LONE Remix)",
+      "url": "https://open.spotify.com/track/2aXfrM1CqWcP3o8lCXN4Ye"
+    },
+    {
+      "album": {
         "name": "Terrace Rain/Grid Search",
         "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
       },
@@ -19608,7 +19648,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 288694,
       "name": "The Long Journey Home",
       "url": "https://open.spotify.com/track/78qoim2GGUkspkxV8kUtVv"

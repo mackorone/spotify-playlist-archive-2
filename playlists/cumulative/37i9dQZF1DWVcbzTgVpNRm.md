@@ -4,7 +4,7 @@
 
 > Your favorite Latin anthems to get the party started!<br/>Cover: Daddy Yankee
 
-274 songs - 17 hr 18 min
+275 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 | 2021-12-29 |  |
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2022-05-12 | 2024-07-12 |
 | [La Chona](https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Para Tucancillos y Tucancillas](https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb) | 3:19 | 2024-07-11 |  |
+| [La Cumbia Sampuesana](https://open.spotify.com/track/0HwlxSs5mE9BQisZHxEzZD) | [Aniceto Molina Y La Luz Roja De San Marcos](https://open.spotify.com/artist/2w1Cbkm6vXYqdfHkFpe4XO) | [20 Anos de Exitos](https://open.spotify.com/album/6rqBG2zNOkfcfrn6O6Z9Rc) | 3:53 | 2024-12-17 |  |
 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 | 2021-12-29 | 2024-07-12 |
 | [La Dueña del Swing](https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Los Dueños del Swing](https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw) | 4:20 | 2024-07-11 |  |
 | [La Gota Fria](https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clasicos de la Provincia](https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in) | 3:35 | 2022-05-12 |  |
@@ -227,7 +228,7 @@
 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 | 2021-12-29 | 2024-07-12 |
 | [Safaera](https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:55 | 2021-12-29 |  |
 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 | 2021-12-29 | 2024-07-12 |
-| [Se Me Perdió la Cadenita](https://open.spotify.com/track/7187wJoQMEZ4OhYIOp90Lk) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Perez](https://open.spotify.com/artist/1FkShPhdyKcNIsGpxiYogj) | [Dinamitazos Tropicales de Siempre](https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko) | 2:35 | 2024-07-11 |  |
+| [Se Me Perdió la Cadenita](https://open.spotify.com/track/7187wJoQMEZ4OhYIOp90Lk) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Perez](https://open.spotify.com/artist/1FkShPhdyKcNIsGpxiYogj) | [Dinamitazos Tropicales de Siempre](https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko) | 2:35 | 2024-07-11 | 2026-06-19 |
 | [Se Preparó](https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:08 | 2024-07-11 |  |
 | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF) | 2:35 | 2021-12-29 | 2024-07-12 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2024-07-11 |  |

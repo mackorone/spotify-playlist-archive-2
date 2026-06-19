@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20905,
+  "num_followers": 20910,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABNBYVpeks+Gym+i9tSkM9S",
+  "snapshot_id": "ajHjgAAAAABa/67N76rI81n4jhUH7Yid",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perimenopop",
-        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 211719,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/46g5hMEcalsXMw8SEtvo39"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HANA (Deluxe)",
         "url": "https://open.spotify.com/album/7qLSaa8bECEnHabElnugub"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 182799,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/12nbpyxZJ1WZW4KYXRD0Jk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 211719,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/46g5hMEcalsXMw8SEtvo39"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "Runaway Daydreamer",
+      "url": "https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical 80s Dance",
         "url": "https://open.spotify.com/album/4lXao2y0nV9OyHL4QBW6x5"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 240040,
-      "name": "Runaway Daydreamer",
-      "url": "https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "Wild Forever",
-      "url": "https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
         "url": "https://open.spotify.com/album/3BVWvOqPRrA7YuNkzCi9Xe"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 253866,
       "name": "Do You Remember the First Time? - Live",
       "url": "https://open.spotify.com/track/1K3tMyvX5uU0bVi8KSC4TH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "Wild Forever",
+      "url": "https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "The Deer & the Wolf",
+      "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Crown Jewels - Ten Crowns (DELUXE)",
         "url": "https://open.spotify.com/album/424ucCJYFDFZxz5icFVk2R"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 204519,
       "name": "The Calming",
       "url": "https://open.spotify.com/track/7JqPicp7t2SgXngVUuihtF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "The Deer & the Wolf",
-      "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Love Is a Camera",
+      "url": "https://open.spotify.com/track/5Lbt7w60bPFzouE6bEWFyL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical 80s Dance",
         "url": "https://open.spotify.com/album/4lXao2y0nV9OyHL4QBW6x5"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 227000,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/409E7VEl0dAqHw5wk5gdvM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "China Heart",
-      "url": "https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A"
     }
   ],
   "unique_name": "This Is Sophie Ellis-Bextor",

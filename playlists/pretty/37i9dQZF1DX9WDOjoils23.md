@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,052 likes - 50 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,094 likes - 50 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 39 | [Meriyaan Udaasiyann](https://open.spotify.com/track/7HE54gXIfogSglOKCPrnmD) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Meriyaan Udaasiyann](https://open.spotify.com/album/1xWbPeWLVJeLZyFYRt4W9k) | 10:45 |
 | 40 | [Jaan Na Jaan \- Male Version](https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx) | [Harpreet](https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb), [Baba Bulleh Shah](https://open.spotify.com/artist/2MgGHPYmzWK4JhwnYoGLHt) | [Ek Anokhi Dulhan Saavi](https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4) | 5:06 |
 | 41 | [Bawa](https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 5:20 |
-| 42 | [Bismillah](https://open.spotify.com/track/2MzQaBSb9oj8q3AytmAkjE) | [Rais Anis Sabri](https://open.spotify.com/artist/7II57RndXqhcPF7t6trV0O), [Jaspal Singh](https://open.spotify.com/artist/0vOHNs0vuZmA3M0oui0wZM), [Ashok Sharma](https://open.spotify.com/artist/7MK1dDhPZ2IsthCeTX7qu5) | [Bismillah](https://open.spotify.com/album/7q7dXFQ8ygLIUC0yOdfy3F) | 5:58 |
+| 42 | [Bismillah](https://open.spotify.com/track/2MzQaBSb9oj8q3AytmAkjE) | [Rais Anis Sabri](https://open.spotify.com/artist/5T5dXV0e8XnBMY5I3TBVoD), [Jaspal Singh](https://open.spotify.com/artist/0vOHNs0vuZmA3M0oui0wZM), [Ashok Sharma](https://open.spotify.com/artist/7MK1dDhPZ2IsthCeTX7qu5) | [Bismillah](https://open.spotify.com/album/7q7dXFQ8ygLIUC0yOdfy3F) | 5:58 |
 | 43 | [Ghamaan Di Raat Lammi Ae](https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 3:49 |
 | 44 | [Charkha \(From "Paro Pinaki Ki Kahani"\)](https://open.spotify.com/track/1raFdZRNKcl8xGd4M2Cj4l) | [Rahul Solanki](https://open.spotify.com/artist/1zO9idOZBXu4TsTIXVBvSz), [Aarush Purabiya](https://open.spotify.com/artist/1zEMxqg0gN10XL5mxLDCdX), [Britto Khangchian](https://open.spotify.com/artist/6WCLC4572cMMQAFt0WEWYk) | [Charkha \(From "Paro Pinaki Ki Kahani"\)](https://open.spotify.com/album/2tHIjdAIk12mBxate3hRTS) | 5:04 |
 | 45 | [Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry](https://open.spotify.com/track/6M4o88XTUa3RxrB4TcN1Gt) | [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 6:54 |

@@ -5533,6 +5533,24 @@
     },
     {
       "album": {
+        "name": "Dagliga dos",
+        "url": "https://open.spotify.com/album/3Tv6RzDplNdg9pq01b6BMD"
+      },
+      "artists": [
+        {
+          "name": "Lilla London",
+          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151538,
+      "name": "Dagliga dos",
+      "url": "https://open.spotify.com/track/45V8V8SOkHnSEa5PccBP8o"
+    },
+    {
+      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
       },
@@ -6435,6 +6453,24 @@
     },
     {
       "album": {
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/6MtBtFiKOgpwO5RaCBClhs"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199953,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/4O4f29FbJH50Nu8jBXKtQT"
+    },
+    {
+      "album": {
         "name": "Die For Me",
         "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
       },
@@ -6718,6 +6754,24 @@
       "duration_ms": 173361,
       "name": "Dirty (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
+    },
+    {
+      "album": {
+        "name": "Dis-le",
+        "url": "https://open.spotify.com/album/27cdPx9msMd1V64HzU4DyF"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247458,
+      "name": "Dis-le",
+      "url": "https://open.spotify.com/track/58H3IsZi2NemGRCttisETY"
     },
     {
       "album": {
@@ -7068,7 +7122,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 167789,
       "name": "Dopamin",
       "url": "https://open.spotify.com/track/2MTE1WtJmn9rFoOM2Qzn2L"
@@ -10832,7 +10886,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 136438,
       "name": "Grabbar",
       "url": "https://open.spotify.com/track/6QE6XoSJbdsJazrXKryvcm"
@@ -10988,7 +11042,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 194716,
       "name": "Guilt",
       "url": "https://open.spotify.com/track/2Pk3SRbA8lGwwuf0MNvqEJ"
@@ -11880,6 +11934,24 @@
       "duration_ms": 234600,
       "name": "Heatstroke",
       "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453"
     },
     {
       "album": {
@@ -14094,7 +14166,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 139200,
       "name": "I Miss Us",
       "url": "https://open.spotify.com/track/4aM0qZIjcEHcHPHhJIlOlf"
@@ -17191,6 +17263,24 @@
     },
     {
       "album": {
+        "name": "Lose Myself / I Wanna",
+        "url": "https://open.spotify.com/album/5pLDXKmvchaKPLdI93TAjH"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Lose Myself",
+      "url": "https://open.spotify.com/track/0e5K24g47Xze7bR6eftsHT"
+    },
+    {
+      "album": {
         "name": "Lose Yourself",
         "url": "https://open.spotify.com/album/0IXM5PRVeRZEFC43V1FurB"
       },
@@ -19107,6 +19197,24 @@
     },
     {
       "album": {
+        "name": "Midsummer",
+        "url": "https://open.spotify.com/album/6Bq3FPWmydEJTfOLqTlJac"
+      },
+      "artists": [
+        {
+          "name": "Mondo",
+          "url": "https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187978,
+      "name": "Midsummer",
+      "url": "https://open.spotify.com/track/4zFTHnd6J02sxwaqiHCDbn"
+    },
+    {
+      "album": {
         "name": "MIG/DIG (feat. Klaudy)",
         "url": "https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S"
       },
@@ -20332,6 +20440,24 @@
       "duration_ms": 163173,
       "name": "nah",
       "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
+    },
+    {
+      "album": {
+        "name": "NAIV",
+        "url": "https://open.spotify.com/album/0r7Kk1tzX4cV5d4rU2NtXV"
+      },
+      "artists": [
+        {
+          "name": "jalda",
+          "url": "https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "NAIV",
+      "url": "https://open.spotify.com/track/2QhztKJs02D1szEWKim8pn"
     },
     {
       "album": {
@@ -25259,6 +25385,28 @@
     },
     {
       "album": {
+        "name": "siren",
+        "url": "https://open.spotify.com/album/5Ra6GPqaqVgsRExfv24TBG"
+      },
+      "artists": [
+        {
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165003,
+      "name": "siren",
+      "url": "https://open.spotify.com/track/2Abgq1EmE3gDZhhaLBmbAn"
+    },
+    {
+      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
       },
@@ -25468,7 +25616,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 225483,
       "name": "Sliding Doors",
       "url": "https://open.spotify.com/track/1gLhkXTS6sS3kfYLwrzwNP"
@@ -26644,7 +26792,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 181948,
       "name": "Sp\u00f6ken",
       "url": "https://open.spotify.com/track/71eGRVXsrdEdGScvbz13gK"
@@ -27844,7 +27992,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 175005,
       "name": "Surprise Surprise",
       "url": "https://open.spotify.com/track/1qxP9aigVY42COVRva1rO9"

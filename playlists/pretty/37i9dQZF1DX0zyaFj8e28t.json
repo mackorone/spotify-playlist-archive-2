@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 405761,
+  "num_followers": 405790,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
+        "name": "C'est la ouate",
+        "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
+      },
+      "artists": [
+        {
+          "name": "Caroline Loeb",
+          "url": "https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm"
+        }
+      ],
+      "duration_ms": 228187,
+      "name": "C'est la ouate - Radio Edit Original Version 1987",
+      "url": "https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l"
+    },
+    {
+      "added_at": "2026-05-19 09:20:45",
+      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 296506,
       "name": "D\u00e9sir, d\u00e9sir, Pt. 1",
       "url": "https://open.spotify.com/track/2tr24VBF280hvO14tSNBEO"
-    },
-    {
-      "added_at": "2026-05-19 09:20:45",
-      "album": {
-        "name": "C'est la ouate",
-        "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
-      },
-      "artists": [
-        {
-          "name": "Caroline Loeb",
-          "url": "https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm"
-        }
-      ],
-      "duration_ms": 228187,
-      "name": "C'est la ouate - Radio Edit Original Version 1987",
-      "url": "https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l"
     },
     {
       "added_at": "2026-05-19 09:20:45",

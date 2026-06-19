@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Awful.",
+        "url": "https://open.spotify.com/album/7woYa61JH27nnHpi1L7L15"
+      },
+      "artists": [
+        {
+          "name": "7ru7h",
+          "url": "https://open.spotify.com/artist/5WnlPOcTodnSWDtjnrjmzv"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166783,
+      "name": "Awful.",
+      "url": "https://open.spotify.com/track/5s50QqqraeCG31TXuWthNJ"
+    },
+    {
+      "album": {
         "name": "ay! (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3"
       },
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 117011,
       "name": "Cali Crazy",
       "url": "https://open.spotify.com/track/3f3mRpt6XsijsdVjzrXi7W"
@@ -13196,7 +13214,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 165977,
       "name": "Something Stupid",
       "url": "https://open.spotify.com/track/5i7zaf08ZrlMcsSEB111aq"
@@ -14214,6 +14232,32 @@
       "duration_ms": 153672,
       "name": "TAKEN BACK",
       "url": "https://open.spotify.com/track/4WOKM2f2FgbuLPiEqGSlBi"
+    },
+    {
+      "album": {
+        "name": "Paperboys",
+        "url": "https://open.spotify.com/album/5m2gqKEDfPpHaKkYerkN1z"
+      },
+      "artists": [
+        {
+          "name": "Paperboys",
+          "url": "https://open.spotify.com/artist/74FBtqFO0SZn7nWzwql2VP"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132313,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/7zN5aETfVFOlhJZTUyH2pk"
     },
     {
       "album": {

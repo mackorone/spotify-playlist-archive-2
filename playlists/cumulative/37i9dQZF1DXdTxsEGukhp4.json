@@ -4759,6 +4759,24 @@
     },
     {
       "album": {
+        "name": "Partner",
+        "url": "https://open.spotify.com/album/1wvgIolL7kiU2z52hVV8BK"
+      },
+      "artists": [
+        {
+          "name": "YUKA",
+          "url": "https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174013,
+      "name": "Partner",
+      "url": "https://open.spotify.com/track/48lsRmp9AC6tU4rP9QJx4H"
+    },
+    {
+      "album": {
         "name": "GATHER",
         "url": "https://open.spotify.com/album/5RMTQ1Qu7bGVyDmyhAXzdC"
       },
@@ -7288,7 +7306,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 187266,
       "name": "\u3060\u3051\u3069\u50d5\u306f",
       "url": "https://open.spotify.com/track/3kenAyozcSKh83nRsaGqru"

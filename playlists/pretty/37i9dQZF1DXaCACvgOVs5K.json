@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 890914,
+  "num_followers": 891181,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -815,34 +815,6 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
-        "name": "Mi Combi EP",
-        "url": "https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd"
-      },
-      "artists": [
-        {
-          "name": "Ollie BC",
-          "url": "https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ"
-        },
-        {
-          "name": "Mason Collective",
-          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
-        },
-        {
-          "name": "Dany Gomez",
-          "url": "https://open.spotify.com/artist/5kMchfwW30VxyO1hwOnaCt"
-        },
-        {
-          "name": "EMBI",
-          "url": "https://open.spotify.com/artist/6NBXnI1dWJ0gh8CrmV4Wg0"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Mi Combi",
-      "url": "https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc"
-    },
-    {
-      "added_at": "2026-06-11 23:00:12",
-      "album": {
         "name": "My Temptations",
         "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
       },
@@ -879,6 +851,34 @@
       "duration_ms": 223660,
       "name": "Lemme Dance",
       "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
+    },
+    {
+      "added_at": "2026-06-11 23:00:12",
+      "album": {
+        "name": "Mi Combi EP",
+        "url": "https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd"
+      },
+      "artists": [
+        {
+          "name": "Ollie BC",
+          "url": "https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ"
+        },
+        {
+          "name": "Mason Collective",
+          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
+        },
+        {
+          "name": "Dany Gomez",
+          "url": "https://open.spotify.com/artist/5kMchfwW30VxyO1hwOnaCt"
+        },
+        {
+          "name": "EMBI",
+          "url": "https://open.spotify.com/artist/6NBXnI1dWJ0gh8CrmV4Wg0"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Mi Combi",
+      "url": "https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 224911,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl"
+    },
+    {
+      "added_at": "2026-06-11 23:00:12",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2mJ08Ks0w1VpU5g5LjgM6W"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 219080,
       "name": "Lost",
       "url": "https://open.spotify.com/track/7qMxaJcpIGtxzEiovcnZ8A"
-    },
-    {
-      "added_at": "2026-06-11 23:00:12",
-      "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 224911,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -1163,30 +1163,26 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
-        "name": "Fold",
-        "url": "https://open.spotify.com/album/3c3SAUJ4LrCHGvAOySzfW1"
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/7ieJv1Atprqvc1UQb58j6l"
       },
       "artists": [
         {
-          "name": "Jump Source",
-          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
+          "name": "FLETCH",
+          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
         },
         {
-          "name": "Patrick Holland",
-          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+          "name": "Mason Collective",
+          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
         },
         {
-          "name": "Priori",
-          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
-        },
-        {
-          "name": "BEA1991",
-          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+          "name": "Ellie Allen",
+          "url": "https://open.spotify.com/artist/6j3YrJV3BXTaXl3Q152Mzq"
         }
       ],
-      "duration_ms": 357466,
-      "name": "Endlessly (feat. BEA1991)",
-      "url": "https://open.spotify.com/track/7ugmWtCmv1AlUFhtb69m3v"
+      "duration_ms": 189374,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/1MGf9t1hGyC99eSLbHXFtY"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -1215,26 +1211,30 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
-        "name": "Sun Goes Down",
-        "url": "https://open.spotify.com/album/7ieJv1Atprqvc1UQb58j6l"
+        "name": "Fold",
+        "url": "https://open.spotify.com/album/3c3SAUJ4LrCHGvAOySzfW1"
       },
       "artists": [
         {
-          "name": "FLETCH",
-          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
+          "name": "Jump Source",
+          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
         },
         {
-          "name": "Mason Collective",
-          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
         },
         {
-          "name": "Ellie Allen",
-          "url": "https://open.spotify.com/artist/6j3YrJV3BXTaXl3Q152Mzq"
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        },
+        {
+          "name": "BEA1991",
+          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
         }
       ],
-      "duration_ms": 189374,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/1MGf9t1hGyC99eSLbHXFtY"
+      "duration_ms": 357466,
+      "name": "Endlessly (feat. BEA1991)",
+      "url": "https://open.spotify.com/track/7ugmWtCmv1AlUFhtb69m3v"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
-        "name": "Back in the Streets",
-        "url": "https://open.spotify.com/album/5UJcqXGPkLb76sRSgWoTqz"
-      },
-      "artists": [
-        {
-          "name": "Hotboxx",
-          "url": "https://open.spotify.com/artist/2xnJfZkR6JiCoWz3e2B5zD"
-        },
-        {
-          "name": "Justin Garcia",
-          "url": "https://open.spotify.com/artist/1M8O4b6jTq2K2iJxrDXG5x"
-        }
-      ],
-      "duration_ms": 298023,
-      "name": "Back in the Streets",
-      "url": "https://open.spotify.com/track/0UxnhnIwvPayOUU5JlCE6P"
-    },
-    {
-      "added_at": "2026-06-11 23:00:12",
-      "album": {
         "name": "Hotter",
         "url": "https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 190866,
       "name": "Hotter",
       "url": "https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg"
+    },
+    {
+      "added_at": "2026-06-11 23:00:12",
+      "album": {
+        "name": "Back in the Streets",
+        "url": "https://open.spotify.com/album/5UJcqXGPkLb76sRSgWoTqz"
+      },
+      "artists": [
+        {
+          "name": "Hotboxx",
+          "url": "https://open.spotify.com/artist/2xnJfZkR6JiCoWz3e2B5zD"
+        },
+        {
+          "name": "Justin Garcia",
+          "url": "https://open.spotify.com/artist/1M8O4b6jTq2K2iJxrDXG5x"
+        }
+      ],
+      "duration_ms": 298023,
+      "name": "Back in the Streets",
+      "url": "https://open.spotify.com/track/0UxnhnIwvPayOUU5JlCE6P"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
-        "name": "nothin lasts 4ever",
-        "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "nothin lasts 4ever",
-      "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
-    },
-    {
-      "added_at": "2026-06-11 23:00:12",
-      "album": {
         "name": "AD02: Pans Of Death / Rounds",
         "url": "https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 320597,
       "name": "Pans Of Death",
       "url": "https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T"
+    },
+    {
+      "added_at": "2026-06-11 23:00:12",
+      "album": {
+        "name": "nothin lasts 4ever",
+        "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "nothin lasts 4ever",
+      "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
-        "name": "Yes Bby",
-        "url": "https://open.spotify.com/album/2gifJ3lYQNUkNoa52gZqmJ"
-      },
-      "artists": [
-        {
-          "name": "Demi Riqu\u00edsimo",
-          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
-        },
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Yes Bby",
-      "url": "https://open.spotify.com/track/45qhj65d6tIlCp0x5l62OG"
-    },
-    {
-      "added_at": "2026-06-11 23:00:12",
-      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/0yxTOsfDsksCM1YvXJbqAJ"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 239523,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0FWEux3aj0qlSnguvnYk6I"
+    },
+    {
+      "added_at": "2026-06-11 23:00:12",
+      "album": {
+        "name": "Yes Bby",
+        "url": "https://open.spotify.com/album/2gifJ3lYQNUkNoa52gZqmJ"
+      },
+      "artists": [
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Yes Bby",
+      "url": "https://open.spotify.com/track/45qhj65d6tIlCp0x5l62OG"
     },
     {
       "added_at": "2026-06-11 23:00:12",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2026-06-11 23:00:12",
       "album": {
-        "name": "Drums Keep Calling",
-        "url": "https://open.spotify.com/album/1IWXvOPBMtk7fVzb9yNaP3"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Flagrant Drvms",
-          "url": "https://open.spotify.com/artist/55kBvzKEORCymfAWcBzGSb"
-        }
-      ],
-      "duration_ms": 227812,
-      "name": "Drums Keep Calling",
-      "url": "https://open.spotify.com/track/4242cbONa04ZeHNTWtzzND"
-    },
-    {
-      "added_at": "2026-06-11 23:00:12",
-      "album": {
         "name": "Come Back Tomorrow",
         "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 202017,
       "name": "Come Back Tomorrow",
       "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
+    },
+    {
+      "added_at": "2026-06-11 23:00:12",
+      "album": {
+        "name": "Drums Keep Calling",
+        "url": "https://open.spotify.com/album/1IWXvOPBMtk7fVzb9yNaP3"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Flagrant Drvms",
+          "url": "https://open.spotify.com/artist/55kBvzKEORCymfAWcBzGSb"
+        }
+      ],
+      "duration_ms": 227812,
+      "name": "Drums Keep Calling",
+      "url": "https://open.spotify.com/track/4242cbONa04ZeHNTWtzzND"
     },
     {
       "added_at": "2026-06-11 23:00:12",

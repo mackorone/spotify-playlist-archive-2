@@ -624,7 +624,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 187968,
       "name": "Antes De Ti",
       "url": "https://open.spotify.com/track/5NVw3McHW9CgCm9Z50PIHb"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 231400,
       "name": "Blaus i blaus",
       "url": "https://open.spotify.com/track/6lxpSkwryQcC3tBMQnYZCD"
@@ -1214,6 +1214,28 @@
       "duration_ms": 273696,
       "name": "Capitana",
       "url": "https://open.spotify.com/track/76TSlE0RFkF6hiO1jVwFUz"
+    },
+    {
+      "album": {
+        "name": "Capitana - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5bUTNLImQtVvWRc1TFv5um"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272996,
+      "name": "Capitana - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2elUMQsM86Mc76C3kytRkq"
     },
     {
       "album": {
@@ -1902,7 +1924,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 288626,
       "name": "Dice la gente",
       "url": "https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia"
@@ -2255,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "El Mortadela",
+        "url": "https://open.spotify.com/album/6MwihdqVyD8RWgl4vodfzp"
+      },
+      "artists": [
+        {
+          "name": "Albert Pla",
+          "url": "https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255607,
+      "name": "El Mortadela",
+      "url": "https://open.spotify.com/track/6DVcS98mQ3nXbDXJ4VkGnM"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/6XlZhZZ0tjPOTZhdyRDIul"
       },
@@ -2483,6 +2523,32 @@
     },
     {
       "album": {
+        "name": "Endecha espa\u00f1ola",
+        "url": "https://open.spotify.com/album/3jfFIoHrAb295nuxSPOhNq"
+      },
+      "artists": [
+        {
+          "name": "Rosa Leon",
+          "url": "https://open.spotify.com/artist/03ukvtQJzZmG7CEOmnkoMW"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        },
+        {
+          "name": "Alejo Stivel",
+          "url": "https://open.spotify.com/artist/7mGfdRd3PB4mRMPymFQM7n"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212265,
+      "name": "Endecha espa\u00f1ola",
+      "url": "https://open.spotify.com/track/33KGSfwbsaeTLsv9aD4NzD"
+    },
+    {
+      "album": {
         "name": "Enero en Buenos Aires",
         "url": "https://open.spotify.com/album/4GXjX23fckp9hcqqdEkomn"
       },
@@ -2542,6 +2608,24 @@
       "duration_ms": 214576,
       "name": "Escorpiano",
       "url": "https://open.spotify.com/track/2kKnZJSyzL77X0fLNUw0QJ"
+    },
+    {
+      "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/28TqDQjCTcNiNTOAIk2aMB"
+      },
+      "artists": [
+        {
+          "name": "Sandra Bernardo",
+          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213529,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/7EnuokVtN9AS3pPnoTgEhe"
     },
     {
       "album": {
@@ -2656,7 +2740,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 277653,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
@@ -3390,7 +3474,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 117649,
       "name": "La Juana",
       "url": "https://open.spotify.com/track/4timC4zICjoUoJ6eZSOl7f"
@@ -3492,6 +3576,28 @@
       "duration_ms": 207657,
       "name": "La Memoria Del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1oQzGXjYAJ77bFfZSui6Ng"
+    },
+    {
+      "album": {
+        "name": "la misma piedra",
+        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
+      },
+      "artists": [
+        {
+          "name": "Ton Felices",
+          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216996,
+      "name": "la misma piedra",
+      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
     },
     {
       "album": {
@@ -4077,6 +4183,28 @@
     },
     {
       "album": {
+        "name": "LOS TERCOS",
+        "url": "https://open.spotify.com/album/6nZLreFLjI9YMvmdBwUGiA"
+      },
+      "artists": [
+        {
+          "name": "Depedro",
+          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
+        },
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172625,
+      "name": "LOS TERCOS",
+      "url": "https://open.spotify.com/track/2lMt8E70EGDUoxFODGSY1Z"
+    },
+    {
+      "album": {
         "name": "B\u00e1sico",
         "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
       },
@@ -4244,7 +4372,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 242991,
       "name": "Manuelita la Tortuga",
       "url": "https://open.spotify.com/track/2YK2dM2bGi8spBKaKmmKtN"
@@ -5143,6 +5271,28 @@
     },
     {
       "album": {
+        "name": "Nos entendemos",
+        "url": "https://open.spotify.com/album/3T62Ul9s1D4T0IP7gPCw7e"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133650,
+      "name": "Nos entendemos",
+      "url": "https://open.spotify.com/track/3xdOGgUU9n2H0GHPDkIeiD"
+    },
+    {
+      "album": {
         "name": "Nos fuimos",
         "url": "https://open.spotify.com/album/6mGzlO4WlG4AMNEjWJqXuA"
       },
@@ -5342,7 +5492,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 214565,
       "name": "papel mach\u00e9",
       "url": "https://open.spotify.com/track/46E7G0KBbKsLCHm96dulv4"
@@ -5760,7 +5910,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 343316,
       "name": "P\u00e1jaro de plata",
       "url": "https://open.spotify.com/track/1wyS23ca4ftuz7ya46zbRa"
@@ -6154,7 +6304,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 237760,
       "name": "Risk",
       "url": "https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg"
@@ -6201,6 +6351,24 @@
     },
     {
       "album": {
+        "name": "Rug\u00edo de Sentir",
+        "url": "https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm"
+      },
+      "artists": [
+        {
+          "name": "Paco Pecado",
+          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203896,
+      "name": "Rug\u00edo de Sentir",
+      "url": "https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs"
+    },
+    {
+      "album": {
         "name": "S'aigo no",
         "url": "https://open.spotify.com/album/4RSEFM9yDXKVZaJahBnbvQ"
       },
@@ -6212,7 +6380,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 231866,
       "name": "S'aigo no",
       "url": "https://open.spotify.com/track/02mErHjSX42Z48IP1YPJmm"
@@ -6440,7 +6608,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 258655,
       "name": "Ser humano",
       "url": "https://open.spotify.com/track/2uaF06GGCnO7HzLIHkQqQC"
@@ -7346,7 +7514,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 217146,
       "name": "Todo se transforma",
       "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
@@ -7466,7 +7634,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 226814,
       "name": "T\u00fanel de la M-30",
       "url": "https://open.spotify.com/track/0YrFOkCLwloqcKCjpU7nRY"
@@ -7676,6 +7844,28 @@
       "duration_ms": 308510,
       "name": "Unicornio",
       "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
+    },
+    {
+      "album": {
+        "name": "U\u00f1a y carne",
+        "url": "https://open.spotify.com/album/4QFBqAjG4IaXEzOHDzTHoD"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/0gSQL5vYxb1lUz50k2QrLo"
+        },
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194306,
+      "name": "U\u00f1a y carne",
+      "url": "https://open.spotify.com/track/0gbkpwAZIiDyPsSUEJO2Rc"
     },
     {
       "album": {
@@ -8164,7 +8354,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 162880,
       "name": "\u00c9 triste viver sem seu amor",
       "url": "https://open.spotify.com/track/2KdPQSWt58AJCsMvWau5s0"

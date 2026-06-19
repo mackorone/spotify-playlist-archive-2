@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,127 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,151 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 14 | [Khayal](https://open.spotify.com/track/2CWsTZRHy24PwrtQSPfXCn) | [Kazdoura](https://open.spotify.com/artist/7zm6lF98wKwyohB2zFetum) | [Ghoyoum](https://open.spotify.com/album/1ClZnjc27poFIrvyGscC0y) | 3:26 |
 | 15 | [Lamma Bada Yatathana](https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [The Collection](https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3) | 4:01 |
 | 16 | [A Vava Inouva](https://open.spotify.com/track/06eEMrvlkBmLLaezDSDcEl) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 4:26 |
-| 17 | [Al Bint El Chalabeya](https://open.spotify.com/track/2OxygAH92guaY9kliJboul) | [Dorsaf Hamdani](https://open.spotify.com/artist/4U5Hsr79OtYv01I4hOqruF) | [Dorsaf Hamdani chante Barbara & Fairouz](https://open.spotify.com/album/1GDQ89kQyz1755fry29kVm) | 3:06 |
-| 18 | [Al Bostah](https://open.spotify.com/track/6GzuaEPTnBhfvZtDeeHzTl) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 8:54 |
+| 17 | [Al Bostah](https://open.spotify.com/track/6GzuaEPTnBhfvZtDeeHzTl) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 8:54 |
+| 18 | [Al Bint El Chalabeya](https://open.spotify.com/track/2OxygAH92guaY9kliJboul) | [Dorsaf Hamdani](https://open.spotify.com/artist/4U5Hsr79OtYv01I4hOqruF) | [Dorsaf Hamdani chante Barbara & Fairouz](https://open.spotify.com/album/1GDQ89kQyz1755fry29kVm) | 3:06 |
 | 19 | [Bel Ahlam](https://open.spotify.com/track/4tqnXpS0wJcqkZMFx7reaY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Bel Ahlam](https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk) | 2:49 |
 | 20 | [غصن رمان](https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv) | [Maryam Shehab](https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU) | [غصن رمان](https://open.spotify.com/album/2vNjWCygjXwVn1kForeD8k) | 2:30 |
 | 21 | [Khedni Maak Aa Darb Bi'ldi](https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 4:14 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 31 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 |
 | 32 | [Shou Hal Ayyam \- 2008 Remastered](https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Ana Moush Kafer](https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N) | 5:46 |
 | 33 | [Ya Zaman](https://open.spotify.com/track/5V9UYttxpcWXeHNyZRaZPV) | [Mike Massy](https://open.spotify.com/artist/4g5NYCLpdbph9wm6QUaFmd) | [Ya Zaman](https://open.spotify.com/album/5xSrFopsZNVGYXaucue8cW) | 4:17 |
-| 34 | [Ana Bakhaf Min El Commitment](https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [El Makina](https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK) | 4:20 |
-| 35 | [Ya Sarek Makatibi](https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN) | [Pascale Sakr](https://open.spotify.com/artist/3C0eerDETbEk4rjuAjss0B) | [Pascale Sakr Sings Elias Rahbani](https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab) | 6:32 |
+| 34 | [Ya Sarek Makatibi](https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN) | [Pascale Sakr](https://open.spotify.com/artist/3C0eerDETbEk4rjuAjss0B) | [Pascale Sakr Sings Elias Rahbani](https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab) | 6:32 |
+| 35 | [Ana Bakhaf Min El Commitment](https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [El Makina](https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK) | 4:20 |
 | 36 | [Call of the Rooster \(El Helwa Di\)](https://open.spotify.com/track/4FnuYtmoJT8x2Ypf9lFxmp) | [Marcel Khalife](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Dreamy Sunrise \(Ya Mahla Nourha\)](https://open.spotify.com/album/2dDo3HRY4ca0PHgFgMCaXB) | 3:24 |
 | 37 | [Btazkor Bel Layl](https://open.spotify.com/track/5qa7qeIhhgDQpspgxZs9V5) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Eella \(Music from the Play\)](https://open.spotify.com/album/0jOwn20BQkhAS9vs7VnPMz) | 3:47 |
 | 38 | [law f zaman tany](https://open.spotify.com/track/3LRXM9DLmDYTc4P9QP9rjx) | [Noha](https://open.spotify.com/artist/7tBhTihCulpL1l61zcMxcA) | [law f zaman tany](https://open.spotify.com/album/0xBHnUAm32g1SC8AZNVVGQ) | 2:23 |

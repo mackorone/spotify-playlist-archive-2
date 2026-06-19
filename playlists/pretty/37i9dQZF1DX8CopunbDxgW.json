@@ -1,13 +1,101 @@
 {
-  "description": "The Avalanches are drinking good \ud83d\udd25\ud83e\udd64 metropolis is your home for the best indie dance",
-  "num_followers": 870941,
+  "description": "Tonique & Man with more rich grooves \ud83c\uddeb\ud83c\uddf7\ud83c\udf1e metropolis is your home for the best indie dance",
+  "num_followers": 870900,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAES/dBlGmtVBhIn3hw0Wri3D7EAA",
+  "snapshot_id": "AAAAANtjeH/Z3PwowZd2fa6/ZAvPjDFP",
   "tracks": [
+    {
+      "added_at": "2026-06-19 04:16:01",
+      "album": {
+        "name": "Your Lovin'",
+        "url": "https://open.spotify.com/album/2IBfTB4yaFwniF9lzIm1be"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "Your Lovin'",
+      "url": "https://open.spotify.com/track/1CzwbuxixZXvQjfvNqsK8d"
+    },
+    {
+      "added_at": "2026-04-10 04:02:28",
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-05-29 04:17:08",
+      "album": {
+        "name": "Return To Bhibo",
+        "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 157840,
+      "name": "Return To Bhibo",
+      "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
+    },
+    {
+      "added_at": "2026-06-19 04:16:01",
+      "album": {
+        "name": "Beautiful Noise In My Head",
+        "url": "https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "duration_ms": 211331,
+      "name": "Beautiful Noise In My Head",
+      "url": "https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6"
+    },
+    {
+      "added_at": "2026-06-12 04:02:04",
+      "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 229475,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
+    },
     {
       "added_at": "2026-06-12 04:02:04",
       "album": {
@@ -29,20 +117,92 @@
       "url": "https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo"
     },
     {
-      "added_at": "2026-05-29 04:17:08",
+      "added_at": "2026-06-12 04:02:04",
       "album": {
-        "name": "Return To Bhibo",
-        "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
+        "name": "Hurt Nobody",
+        "url": "https://open.spotify.com/album/7sp0zG7BlTWuLUKkMUYg48"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
         }
       ],
-      "duration_ms": 157840,
-      "name": "Return To Bhibo",
-      "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
+      "duration_ms": 177318,
+      "name": "Hurt Nobody",
+      "url": "https://open.spotify.com/track/7pPskSvN203zIew4AgRM2E"
+    },
+    {
+      "added_at": "2026-06-19 04:16:01",
+      "album": {
+        "name": "Goes Like",
+        "url": "https://open.spotify.com/album/2FeWQKBnsphp5N5xyCuBXZ"
+      },
+      "artists": [
+        {
+          "name": "From Dave",
+          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
+        },
+        {
+          "name": "That Franco",
+          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
+        }
+      ],
+      "duration_ms": 169392,
+      "name": "Goes Like",
+      "url": "https://open.spotify.com/track/05p4Ruz6Pg0X3IuyZ3BbBR"
+    },
+    {
+      "added_at": "2026-06-19 04:16:01",
+      "album": {
+        "name": "Round The Block",
+        "url": "https://open.spotify.com/album/78DEb7OzxItyfsHEUpedmo"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "Jane",
+          "url": "https://open.spotify.com/artist/14DueMqxGvc2A8DPSXMpTk"
+        }
+      ],
+      "duration_ms": 162673,
+      "name": "Round The Block",
+      "url": "https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG"
+    },
+    {
+      "added_at": "2026-06-12 04:02:04",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/41PukD61rDw9ioUFlUdnIO"
+      },
+      "artists": [
+        {
+          "name": "Fi Sullivan",
+          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/5rYf4GkNZPYUMDf0SqF4gg"
+    },
+    {
+      "added_at": "2026-05-15 04:01:39",
+      "album": {
+        "name": "Falling Again",
+        "url": "https://open.spotify.com/album/4adnBo43aGOYUjnHHVzI8G"
+      },
+      "artists": [
+        {
+          "name": "3kelves",
+          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Falling Again",
+      "url": "https://open.spotify.com/track/1KOKSXOF3t21CKCR3DeEkR"
     },
     {
       "added_at": "2026-06-12 04:02:04",
@@ -65,10 +225,30 @@
       "url": "https://open.spotify.com/track/4JU9hY1zC0MAIVEjzyMibu"
     },
     {
-      "added_at": "2026-04-10 04:02:28",
+      "added_at": "2026-06-19 04:16:01",
       "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/4K9rfx9YiUfGvCV4qLtdd5"
+      },
+      "artists": [
+        {
+          "name": "Plaisance",
+          "url": "https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu"
+        },
+        {
+          "name": "MATTII",
+          "url": "https://open.spotify.com/artist/1tCd8DCTFUYDclgcwuL1A6"
+        }
+      ],
+      "duration_ms": 187223,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/7G7CE9KCxDS3QNO7f9tp8T"
+    },
+    {
+      "added_at": "2026-06-19 04:16:01",
+      "album": {
+        "name": "Lose Myself / I Wanna",
+        "url": "https://open.spotify.com/album/5pLDXKmvchaKPLdI93TAjH"
       },
       "artists": [
         {
@@ -76,25 +256,57 @@
           "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
         }
       ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+      "duration_ms": 166153,
+      "name": "Lose Myself",
+      "url": "https://open.spotify.com/track/0e5K24g47Xze7bR6eftsHT"
     },
     {
-      "added_at": "2026-06-12 04:02:04",
+      "added_at": "2026-05-29 04:02:14",
       "album": {
-        "name": "Hurt Nobody",
-        "url": "https://open.spotify.com/album/7sp0zG7BlTWuLUKkMUYg48"
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
       },
       "artists": [
         {
-          "name": "Alex Bone",
-          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 177318,
-      "name": "Hurt Nobody",
-      "url": "https://open.spotify.com/track/7pPskSvN203zIew4AgRM2E"
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
+    },
+    {
+      "added_at": "2026-05-15 04:01:39",
+      "album": {
+        "name": "Never Seen You Dance (DJ-Kicks Version)",
+        "url": "https://open.spotify.com/album/4rOy0iDYBcVWINYxANcwK4"
+      },
+      "artists": [
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 229294,
+      "name": "Never Seen You Dance - DJ-Kicks Version",
+      "url": "https://open.spotify.com/track/4htyuJyykfMfdlN5RujEV2"
+    },
+    {
+      "added_at": "2026-06-19 04:16:01",
+      "album": {
+        "name": "No Bad Trips",
+        "url": "https://open.spotify.com/album/7kXCnYWjMwmpLG0XtwPF6m"
+      },
+      "artists": [
+        {
+          "name": "Birthday in Texas",
+          "url": "https://open.spotify.com/artist/35SYTkkKBjuA75X0FoLRjA"
+        }
+      ],
+      "duration_ms": 155622,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/6hU4PamXZpUNkDvBwfraUi"
     },
     {
       "added_at": "2026-05-01 04:01:44",
@@ -111,38 +323,6 @@
       "duration_ms": 205161,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
-    },
-    {
-      "added_at": "2026-06-12 04:02:04",
-      "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/5Temir79WPxflPU00Tv4Qp"
-      },
-      "artists": [
-        {
-          "name": "Jersey",
-          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2yNe0KpyIimbKYeIhWrdKF"
-    },
-    {
-      "added_at": "2026-05-15 04:01:39",
-      "album": {
-        "name": "Falling Again",
-        "url": "https://open.spotify.com/album/4adnBo43aGOYUjnHHVzI8G"
-      },
-      "artists": [
-        {
-          "name": "3kelves",
-          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Falling Again",
-      "url": "https://open.spotify.com/track/1KOKSXOF3t21CKCR3DeEkR"
     },
     {
       "added_at": "2026-05-15 04:01:39",
@@ -165,38 +345,6 @@
       "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
     },
     {
-      "added_at": "2026-05-29 04:02:14",
-      "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 202972,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
-    },
-    {
-      "added_at": "2026-06-12 04:02:04",
-      "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 229475,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
-    },
-    {
       "added_at": "2026-06-12 04:02:04",
       "album": {
         "name": "young soul",
@@ -213,6 +361,22 @@
       "url": "https://open.spotify.com/track/5BuJ9cxG6ausuunYjkKBUK"
     },
     {
+      "added_at": "2026-06-19 04:16:01",
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/7bo3qLuwCzmWn4KIZzMkON"
+      },
+      "artists": [
+        {
+          "name": "Jaime Rosso",
+          "url": "https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ"
+        }
+      ],
+      "duration_ms": 241612,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/4YAhKZrz4S6dH4Ro4WMPdB"
+    },
+    {
       "added_at": "2026-05-29 04:02:14",
       "album": {
         "name": "A Love Letter",
@@ -227,22 +391,6 @@
       "duration_ms": 200841,
       "name": "Empty Spaces",
       "url": "https://open.spotify.com/track/7lIayjdTqnvqu7sXJvKR1Z"
-    },
-    {
-      "added_at": "2026-05-15 04:01:39",
-      "album": {
-        "name": "Never Seen You Dance (DJ-Kicks Version)",
-        "url": "https://open.spotify.com/album/4rOy0iDYBcVWINYxANcwK4"
-      },
-      "artists": [
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 229294,
-      "name": "Never Seen You Dance - DJ-Kicks Version",
-      "url": "https://open.spotify.com/track/4htyuJyykfMfdlN5RujEV2"
     },
     {
       "added_at": "2026-05-29 04:02:14",
@@ -277,20 +425,20 @@
       "url": "https://open.spotify.com/track/1xIbvPoDlX5c143CNWlp1S"
     },
     {
-      "added_at": "2026-06-12 04:02:04",
+      "added_at": "2026-06-19 04:16:01",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/41PukD61rDw9ioUFlUdnIO"
+        "name": "SATURN (rip my heart out gently)",
+        "url": "https://open.spotify.com/album/4y5S11iWke77AAlVkhqspe"
       },
       "artists": [
         {
-          "name": "Fi Sullivan",
-          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
+          "name": "Baobei",
+          "url": "https://open.spotify.com/artist/2Pj6Ot77F8iLP6H0QkXt1h"
         }
       ],
-      "duration_ms": 144750,
-      "name": "Real Life",
-      "url": "https://open.spotify.com/track/5rYf4GkNZPYUMDf0SqF4gg"
+      "duration_ms": 179458,
+      "name": "SATURN (rip my heart out gently)",
+      "url": "https://open.spotify.com/track/2dB60JiZmoBzem1HJopKjl"
     },
     {
       "added_at": "2026-05-08 04:04:16",
@@ -315,6 +463,38 @@
       "duration_ms": 392013,
       "name": "Get A Grip - Make A Dance Remix",
       "url": "https://open.spotify.com/track/1t8ZZYDtprPhRtXU3977NH"
+    },
+    {
+      "added_at": "2026-06-12 04:02:04",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/5Temir79WPxflPU00Tv4Qp"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2yNe0KpyIimbKYeIhWrdKF"
+    },
+    {
+      "added_at": "2026-06-19 04:16:01",
+      "album": {
+        "name": "So Deep",
+        "url": "https://open.spotify.com/album/1Ivjg4NNdikBJLIAteBXR2"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 130336,
+      "name": "So Deep - Radio Edit",
+      "url": "https://open.spotify.com/track/6ISkehTjzbOEGLves1FMLE"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -587,26 +767,6 @@
     {
       "added_at": "2026-05-15 04:01:39",
       "album": {
-        "name": "What You Say (ft umru)",
-        "url": "https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        },
-        {
-          "name": "umru",
-          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
-        }
-      ],
-      "duration_ms": 219526,
-      "name": "What You Say - ft umru",
-      "url": "https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev"
-    },
-    {
-      "added_at": "2026-05-15 04:01:39",
-      "album": {
         "name": "Himalaya",
         "url": "https://open.spotify.com/album/3F1BzuzhZ5tfPCJuR4O15K"
       },
@@ -675,26 +835,6 @@
       "duration_ms": 227326,
       "name": "Strike a Fire (feat. Cults)",
       "url": "https://open.spotify.com/track/2TZBden0i5zcEM7B2te0Wx"
-    },
-    {
-      "added_at": "2026-05-01 04:01:44",
-      "album": {
-        "name": "Face to Face with You",
-        "url": "https://open.spotify.com/album/089Qn23B9Xbsw9MQ3J5efI"
-      },
-      "artists": [
-        {
-          "name": "Alex Bone",
-          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
-        },
-        {
-          "name": "Allegra Miles",
-          "url": "https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu"
-        }
-      ],
-      "duration_ms": 187695,
-      "name": "Face to Face with You",
-      "url": "https://open.spotify.com/track/41gQlJxSCJ87c3M5ycS1jh"
     },
     {
       "added_at": "2026-05-22 04:01:02",
@@ -821,22 +961,6 @@
       "url": "https://open.spotify.com/track/5bFIeyLczKP7BADj3z6Mst"
     },
     {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Kelsier",
-        "url": "https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "Kelsier",
-      "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
-    },
-    {
       "added_at": "2026-05-08 04:04:16",
       "album": {
         "name": "Sd-3",
@@ -851,26 +975,6 @@
       "duration_ms": 160263,
       "name": "Pink Bape Lighter",
       "url": "https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi"
-    },
-    {
-      "added_at": "2026-05-08 04:04:16",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6MAjiisN6QMWW8lHbsyIb3"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        },
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 211233,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/1ymIM4nUVE2IDbmMjgBWoT"
     },
     {
       "added_at": "2026-04-24 04:02:18",
@@ -935,50 +1039,6 @@
     {
       "added_at": "2026-04-24 04:02:18",
       "album": {
-        "name": "GIMME LUV",
-        "url": "https://open.spotify.com/album/27uYcMKxORRAN6koqnvbQF"
-      },
-      "artists": [
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        },
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "GIMME LUV",
-      "url": "https://open.spotify.com/track/18YToI8aVM1EtWrfSVfOCG"
-    },
-    {
-      "added_at": "2026-04-24 04:02:18",
-      "album": {
-        "name": "Orange Wine (Retrowaves Remix)",
-        "url": "https://open.spotify.com/album/0zsoqqgtdcMK9EOIycKP9F"
-      },
-      "artists": [
-        {
-          "name": "Sonan",
-          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
-        },
-        {
-          "name": "Retrowaves",
-          "url": "https://open.spotify.com/artist/70zYhpnNC3lzfakeigAD4X"
-        },
-        {
-          "name": "Lynden",
-          "url": "https://open.spotify.com/artist/5q6iGOspbddquMKyvxKQYv"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Orange Wine - Retrowaves Remix",
-      "url": "https://open.spotify.com/track/29g7fBTBY3OblBNFcfvS1G"
-    },
-    {
-      "added_at": "2026-04-24 04:02:18",
-      "album": {
         "name": "Lots of Love",
         "url": "https://open.spotify.com/album/50vTpftBnpvCMzTGLZ0cYH"
       },
@@ -1035,22 +1095,6 @@
       "duration_ms": 219013,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/7CdKgelWaFAubv36vIUNPA"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "added_at": "2026-04-24 04:02:18",
@@ -1239,42 +1283,6 @@
       "duration_ms": 211653,
       "name": "Supercolor (feat. CECI)",
       "url": "https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Do I Like You Like That?",
-        "url": "https://open.spotify.com/album/1uL0MJ82ZEIJXzBLN7l2in"
-      },
-      "artists": [
-        {
-          "name": "Justin Jay",
-          "url": "https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ"
-        },
-        {
-          "name": "EVA",
-          "url": "https://open.spotify.com/artist/0v6LuGKJtBASsQuJVSf0K0"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "Do I Like You Like That?",
-      "url": "https://open.spotify.com/track/0wmoYDroQBJResdGOxuH1B"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Jeopardy EP",
-        "url": "https://open.spotify.com/album/59wJCNrnQCkbxaX5hBdlz9"
-      },
-      "artists": [
-        {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
-        }
-      ],
-      "duration_ms": 214404,
-      "name": "We Owe This World",
-      "url": "https://open.spotify.com/track/3QKmcMR54aqIKxvV7ZqYHe"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -1503,22 +1511,6 @@
       "duration_ms": 153750,
       "name": "Powder Hour",
       "url": "https://open.spotify.com/track/5XW6pzlCr6RJ6YZdMjLauL"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Loverr",
-        "url": "https://open.spotify.com/album/1IAifM8CYCpNvG45SIUMHt"
-      },
-      "artists": [
-        {
-          "name": "Human Family",
-          "url": "https://open.spotify.com/artist/3rAmqzzZzmxAbxPyi3liyH"
-        }
-      ],
-      "duration_ms": 200761,
-      "name": "Loverr",
-      "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
     },
     {
       "added_at": "2026-04-10 04:02:28",

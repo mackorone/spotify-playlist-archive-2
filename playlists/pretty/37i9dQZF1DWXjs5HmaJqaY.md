@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,577 likes - 49 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,667 likes - 49 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 5 | [Everybody](https://open.spotify.com/track/41oLjXkDavyLPTIuaaRYMl) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/4cHYUcFMJlapi74Qk5cYdF) | 2:34 |
 | 6 | [All Smiles](https://open.spotify.com/track/1VZGcjxTvnGIEcX46BH3aw) | [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [All Smiles](https://open.spotify.com/album/03vjP0kuneZzx4dblhQGIX) | 3:44 |
 | 7 | [no cash](https://open.spotify.com/track/4uiNlx5Bcs11EFfm25Gg1h) | [shot by stanley](https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ) | [no cash](https://open.spotify.com/album/1c5Rfb4ZXGxQ687ogtmcCG) | 3:20 |
-| 8 | [Busy Ants \- Olympe Remix](https://open.spotify.com/track/0Ec9enRBb3T7PxWKBx1AgP) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Olympe](https://open.spotify.com/artist/5uK8yW5uGiMKQH3YI8DztF) | [Busy Ants \(Olympe Remix\)](https://open.spotify.com/album/4INzqG4iTeaZUcFKPhhYaV) | 5:06 |
+| 8 | [Busy Ants \- Olympe Remix](https://open.spotify.com/track/0Ec9enRBb3T7PxWKBx1AgP) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Olympe](https://open.spotify.com/artist/5uK8yW5uGiMKQH3YI8DztF) | [Busy Ants \(Olympe Remix\)](https://open.spotify.com/album/4INzqG4iTeaZUcFKPhhYaV) | 5:01 |
 | 9 | [Bravado](https://open.spotify.com/track/6creN9PWg3V2rCPuRhpphR) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Bravado](https://open.spotify.com/album/6q2n9sjPo2MMhXh0HsQ8kD) | 2:37 |
 | 10 | [Be OK](https://open.spotify.com/track/6GlkUBDTFpwp8dkFTA6yR9) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Be OK](https://open.spotify.com/album/48fu5AK77F4tovPGX5bFJH) | 3:00 |
 | 11 | [I Wanna Feel Alive](https://open.spotify.com/track/0zAt0nMa8R6Tfs5DGShLTE) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [I Wanna Feel Alive](https://open.spotify.com/album/0h6CgBHJzlN4HsGgaK5g3m) | 3:33 |

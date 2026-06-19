@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rXL3w.md) - [plain]
 | 24 | [Nothing Could Keep Me Away \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/6qgk650u7bie0MlLEMcndW) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 1:17 |
 | 25 | [Almost Kiss \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 1:23 |
 
-Snapshot ID: `ajCSAAAAAACBAlEMQPNipxcfQDIKD1Fn`
+Snapshot ID: `ajHjgAAAAADkkQEkYPFVaEnIgvqz3CMH`

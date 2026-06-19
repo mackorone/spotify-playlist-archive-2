@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Elif Buse Doğan
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: BLOK3
 
 321 songs - 15 hr 37 min
 

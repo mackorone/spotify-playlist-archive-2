@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iDTU5OeufK.md) - [plain]
 
 > Muy a mi nivel 💋✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,515 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,548 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iDTU5OeufK.md) - [plain]
 | 57 | [Bailando](https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Tarpeia](https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf) | 3:49 |
 | 58 | [Te Aprovechas](https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe) | 3:07 |
 | 59 | [Cuando Me Muera Te Olvido](https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:34 |
-| 60 | [Qué Agonía](https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:32 |
-| 61 | [Secunena](https://open.spotify.com/track/04vz25NeqrGvqqL219tlhM) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Secunena](https://open.spotify.com/album/7LSWqWZtU9bQ4SZAxWhkXa) | 2:39 |
+| 60 | [Secunena](https://open.spotify.com/track/04vz25NeqrGvqqL219tlhM) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Secunena](https://open.spotify.com/album/7LSWqWZtU9bQ4SZAxWhkXa) | 2:39 |
+| 61 | [Qué Agonía](https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:32 |
 | 62 | [Por Dentro](https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Por Dentro](https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4) | 2:45 |
 | 63 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 |
 | 64 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iDTU5OeufK.md) - [plain]
 | 82 | [El Bombón Asesino](https://open.spotify.com/track/4WXP5uP1Ugp8aEIVpNRk5g) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [El Bombon Asesino](https://open.spotify.com/album/2qyTvN94CL82u76kPQxY3l) | 3:12 |
 | 83 | [el cielo](https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [el cielo](https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk) | 3:08 |
 | 84 | [EX EX EX](https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:01 |
-| 85 | [Hermanas de leche](https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Hermanas de leche](https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp) | 2:45 |
-| 86 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
+| 85 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
+| 86 | [Hermanas de leche](https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Hermanas de leche](https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp) | 2:45 |
 | 87 | [Solo Se Vive una Vez](https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Monica Naranjo](https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz) | 4:13 |
 | 88 | [Ride Or Die](https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ride Or Die](https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP) | 3:04 |
 | 89 | [La Llamada \- 1993 Version](https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [Selena LIVE](https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck) | 3:11 |

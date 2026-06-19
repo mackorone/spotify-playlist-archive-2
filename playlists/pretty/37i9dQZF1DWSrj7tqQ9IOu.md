@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,180 likes - 35 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,178 likes - 35 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 4 | [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 |
 | 5 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 6 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
-| 7 | [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 |
-| 8 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 |
+| 7 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 |
+| 8 | [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 |
 | 9 | [Talk On The Hill](https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Talk On The Hill](https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y) | 3:27 |
 | 10 | [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 |
 | 11 | [Chanson triste \(feat\. a6el\)](https://open.spotify.com/track/1sc6lYULJA1X0s1yT9r2p3) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Chanson triste \(feat\. a6el\)](https://open.spotify.com/album/0eGdXwZZ95NTZwOjR0G13Q) | 2:24 |

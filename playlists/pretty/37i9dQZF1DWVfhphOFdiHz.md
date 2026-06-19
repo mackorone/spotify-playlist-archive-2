@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Kevin Atwater
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,343 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,364 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

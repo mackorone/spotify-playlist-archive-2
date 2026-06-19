@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Jeffrey Heesen",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Frans Duijts & Lange Frans",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -922,7 +922,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 148841,
       "name": "Als Jij Kon Voelen - Akoestisch",
       "url": "https://open.spotify.com/track/3T2r47vW6PdiNRL62zFQ0K"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 142941,
       "name": "BBL",
       "url": "https://open.spotify.com/track/3VvgwTBOtDPylEZHtPvBuz"
@@ -1624,6 +1624,24 @@
       "duration_ms": 162892,
       "name": "Blijf Nog Even Open",
       "url": "https://open.spotify.com/track/6SCRUa7JgPJsipP9HaWUKF"
+    },
+    {
+      "album": {
+        "name": "Blijf Toch Bij Mij",
+        "url": "https://open.spotify.com/album/1b92VcEiAZtAoHnqHyEy7K"
+      },
+      "artists": [
+        {
+          "name": "Robert Pater",
+          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184218,
+      "name": "Blijf Toch Bij Mij",
+      "url": "https://open.spotify.com/track/23zNgmYFEz8MkJSlOzDiUQ"
     },
     {
       "album": {
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 151013,
       "name": "Dansen In De Kroeg",
       "url": "https://open.spotify.com/track/5xcWDblbN7zWJrZLu99cAY"
@@ -2457,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "De klok die tikt maar door",
+        "url": "https://open.spotify.com/album/14lzSqSagaKE1HU1GLKx9x"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134546,
+      "name": "De klok die tikt maar door",
+      "url": "https://open.spotify.com/track/16tncKUuUJbrC8tLnR8DOj"
+    },
+    {
+      "album": {
         "name": "De Klok van de toren",
         "url": "https://open.spotify.com/album/5jVKD5DVzQGOu1Zg7rONAU"
       },
@@ -2504,7 +2540,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 134692,
       "name": "De Leeuw Komt Eraan",
       "url": "https://open.spotify.com/track/28GAHI5g37JbdtdwcTyfI7"
@@ -2576,7 +2612,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 158000,
       "name": "De Prijs Van De Liefde",
       "url": "https://open.spotify.com/track/0Bsus5ptmw7Zfvcdd2C1H4"
@@ -5127,6 +5163,24 @@
     },
     {
       "album": {
+        "name": "Hypnose",
+        "url": "https://open.spotify.com/album/5Z1NBukAhJkZiMbXj6kjcz"
+      },
+      "artists": [
+        {
+          "name": "Ray Benjamin",
+          "url": "https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160781,
+      "name": "Hypnose",
+      "url": "https://open.spotify.com/track/7ATMIrDLDbASh2lscHksUd"
+    },
+    {
+      "album": {
         "name": "H\u00e9 Kom Maar Op",
         "url": "https://open.spotify.com/album/7lsoBXhIYtiPA78OCsP0uV"
       },
@@ -5156,7 +5210,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 187009,
       "name": "Ideale Schoonzoon",
       "url": "https://open.spotify.com/track/5wRcs5uMy4M2bxNJib8DNH"
@@ -5289,6 +5343,24 @@
     },
     {
       "album": {
+        "name": "Ik Ben Nog Lang Niet Klaar",
+        "url": "https://open.spotify.com/album/7jHtm1l6HGuqfAF3RmyRD1"
+      },
+      "artists": [
+        {
+          "name": "Imca Marina",
+          "url": "https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173308,
+      "name": "Ik Ben Nog Lang Niet Klaar",
+      "url": "https://open.spotify.com/track/6WN2QFqYxQOe9uGRb63sg9"
+    },
+    {
+      "album": {
         "name": "Ik Bewonder Jou",
         "url": "https://open.spotify.com/album/6pXXpLRnCANGGxoVzfNSMJ"
       },
@@ -5412,7 +5484,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 153726,
       "name": "Ik Geniet En Ik Leef",
       "url": "https://open.spotify.com/track/6mY2IGGSG8vILXNZhb8Q5S"
@@ -6214,7 +6286,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170396,
       "name": "In Het Hart Van",
       "url": "https://open.spotify.com/track/6KudrzhnOIAhbB7qLKNgeM"
@@ -6724,7 +6796,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 154472,
       "name": "Jij Maakt Mij Een Ander Mens",
       "url": "https://open.spotify.com/track/6oPDtkLPH5e4jJISWpW0nQ"
@@ -8903,6 +8975,24 @@
     },
     {
       "album": {
+        "name": "Niet Zo Bij Mij",
+        "url": "https://open.spotify.com/album/5VDLrug7HnOz9Akct4Lrzj"
+      },
+      "artists": [
+        {
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145781,
+      "name": "Niet Zo Bij Mij",
+      "url": "https://open.spotify.com/track/0vGhsdlU74edh1570DWm3c"
+    },
+    {
+      "album": {
         "name": "Nog Een Nacht Met Jou",
         "url": "https://open.spotify.com/album/5o62VS3NEt1Xf5njq6erzD"
       },
@@ -9041,6 +9131,24 @@
     },
     {
       "album": {
+        "name": "Noorderzon",
+        "url": "https://open.spotify.com/album/1GvWBSg999Qsyqj9qcbz7m"
+      },
+      "artists": [
+        {
+          "name": "Maico",
+          "url": "https://open.spotify.com/artist/329IRkmntTtlXpNGnVvtGf"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Noorderzon",
+      "url": "https://open.spotify.com/track/5nN79ne2EfD7OOM4kPUpmR"
+    },
+    {
+      "album": {
         "name": "Nu Jij Hier Niet Meer Bent",
         "url": "https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6"
       },
@@ -9074,6 +9182,24 @@
       "duration_ms": 161282,
       "name": "O Ya L\u00e9l\u00e9",
       "url": "https://open.spotify.com/track/02PkufbhBgxhNO5Su1Z7Qu"
+    },
+    {
+      "album": {
+        "name": "Ogen Op De Prijs",
+        "url": "https://open.spotify.com/album/7mu8tAa700p5jUMFepBBDq"
+      },
+      "artists": [
+        {
+          "name": "Dennis Vermeulen",
+          "url": "https://open.spotify.com/artist/5H2cSXMMNVFInW2uypvVxE"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191109,
+      "name": "Ogen Op De Prijs",
+      "url": "https://open.spotify.com/track/4PWNEjo3FeGVXJMf0VO7Dj"
     },
     {
       "album": {
@@ -9446,6 +9572,32 @@
       "duration_ms": 177627,
       "name": "Pak me vast",
       "url": "https://open.spotify.com/track/6juG98n2oIp704jO1N4vqT"
+    },
+    {
+      "album": {
+        "name": "Pakt Mij",
+        "url": "https://open.spotify.com/album/1KaoBUwB2I3VyJxgYvyEAZ"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        },
+        {
+          "name": "De Amsterdamse Zomer",
+          "url": "https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164653,
+      "name": "Pakt Mij",
+      "url": "https://open.spotify.com/track/7quqA00qtOBWoTcYJ2nLME"
     },
     {
       "album": {
@@ -10325,6 +10477,24 @@
     },
     {
       "album": {
+        "name": "Stem In Je Hart",
+        "url": "https://open.spotify.com/album/6kqY2FBr1jp9cQ5FCHPhnW"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178572,
+      "name": "Stem In Je Hart",
+      "url": "https://open.spotify.com/track/3gDh5tdexIUxKyRvlqXmxk"
+    },
+    {
+      "album": {
         "name": "Stiekem",
         "url": "https://open.spotify.com/album/7LffxnKB5uREXy5NFJ0ztb"
       },
@@ -10491,6 +10661,24 @@
     },
     {
       "album": {
+        "name": "Tante Roos",
+        "url": "https://open.spotify.com/album/4r695eTDXPKBTrxa8ubYQc"
+      },
+      "artists": [
+        {
+          "name": "Jesse de Koning",
+          "url": "https://open.spotify.com/artist/7gTwWOWfZyuo20boJ8bGU0"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151773,
+      "name": "Tante Roos",
+      "url": "https://open.spotify.com/track/63pkTCe2ZIANlqGNH6L2ca"
+    },
+    {
+      "album": {
         "name": "Tante uit Texas",
         "url": "https://open.spotify.com/album/7nRj13b50j8hom1QT85Dru"
       },
@@ -10654,6 +10842,32 @@
       "duration_ms": 168814,
       "name": "Tot In De Late Uurtjes",
       "url": "https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb"
+    },
+    {
+      "album": {
+        "name": "Tour de Frans (Hey Fransie)",
+        "url": "https://open.spotify.com/album/0cgw4g3NdnWms9NcPL2P93"
+      },
+      "artists": [
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        },
+        {
+          "name": "De Voorhoede",
+          "url": "https://open.spotify.com/artist/30P6li7INhXvV1XIPKlMBU"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143636,
+      "name": "Tour de Frans (Hey Fransie)",
+      "url": "https://open.spotify.com/track/59Gt0pczJlB8zYTUqdKzxC"
     },
     {
       "album": {
@@ -11002,7 +11216,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 173102,
       "name": "Veel Leuker Met Jou",
       "url": "https://open.spotify.com/track/73nmRgRJboLydYZkLh9emE"
@@ -11474,7 +11688,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 178432,
       "name": "Waar Blijf Je Nou",
       "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"

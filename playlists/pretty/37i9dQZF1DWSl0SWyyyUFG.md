@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. COSME TADEO en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,946 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,054 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 86 | [Tus Desprecios](https://open.spotify.com/track/1uuGSnwSJOJsNW9iN4uskZ) | [Jorge Luis Cabrera con Banda Tierra Blanca](https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr) | [Música Romántica](https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD) | 2:23 |
 | 87 | [El Baile Nuevo](https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 2:55 |
 | 88 | [Hasta La Miel Amarga](https://open.spotify.com/track/0FpI0nJLp0xE9rSf2VE7PD) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Al Ataque](https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv) | 3:09 |
-| 89 | [El Diablo En Una Botella](https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj) | [Banda Roja de Jose Leon](https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5) | [Canciones Tristes Canciones](https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl) | 3:01 |
+| 89 | [Son Las Dos De La Mañana](https://open.spotify.com/track/3K5sjhg9VMOH5jSw58DHmH) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar con Tambora](https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM) | 2:37 |
 | 90 | [Cuando Los Hombres Lloran](https://open.spotify.com/track/355sdIGsNoFpGz5hqLL6EA) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Cuando Los Hombres Lloran](https://open.spotify.com/album/0wL6K5Tee6JIF3rxBv9GH2) | 2:16 |
-| 91 | [Son Las Dos De La Mañana](https://open.spotify.com/track/3K5sjhg9VMOH5jSw58DHmH) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar con Tambora](https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM) | 2:37 |
+| 91 | [El Diablo En Una Botella](https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj) | [Banda Roja de Jose Leon](https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5) | [Canciones Tristes Canciones](https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl) | 3:01 |
 | 92 | [Para Morir Iguales](https://open.spotify.com/track/37tG6I3qhaYuXQrmb65O7c) | [Nico Flores Y Su Banda Puro Mazatlán](https://open.spotify.com/artist/6WcMKSNQdcj4BlR52fhsrF) | [Voy Navegando](https://open.spotify.com/album/6e8UxG17eo7xQ6zDyzIDAg) | 3:41 |
 | 93 | [Animas Que No Amanezca](https://open.spotify.com/track/2eHAZVZggELJy1iTWJiMaq) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Cada Amanecer](https://open.spotify.com/album/71OF2FGR7cCkrrwvHrOZmf) | 2:35 |
 | 94 | [Tu Eterno Enamorado](https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:40 |

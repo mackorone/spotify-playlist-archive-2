@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svenska punkklassiker och hardcore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,638 likes - 140 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,647 likes - 140 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 24 | [Samma bur som igår](https://open.spotify.com/track/2djpq3lTkRFBDELes0c8Ob) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Splitter](https://open.spotify.com/album/7iP2d6T1gMjhQ9VcAYRgT5) | 3:00 |
 | 25 | [Johanna](https://open.spotify.com/track/2ekTSYW68ShERRzsPBbRaF) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 2:34 |
 | 26 | [Tidens tempo](https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 2:12 |
-| 27 | [Risk på fyllan](https://open.spotify.com/track/2B2KDdeGBBxSTHuRrftDwN) | [Björnarna](https://open.spotify.com/artist/06ZDy2XhBL6QUegO9n2Y4Y) | [Risk på fyllan](https://open.spotify.com/album/5VgurtulNGTe625aNhBIsi) | 2:57 |
-| 28 | [24 psykologer](https://open.spotify.com/track/1wtFAyKaWzZ5q2o4kZhba4) | [Hata Som Lejon](https://open.spotify.com/artist/0Tdayxonpn7TNV0fNq1EMw) | [Mörkret i ljuset](https://open.spotify.com/album/5N59H0i5NmYjwUcAF8Tb1c) | 1:55 |
+| 27 | [24 psykologer](https://open.spotify.com/track/1wtFAyKaWzZ5q2o4kZhba4) | [Hata Som Lejon](https://open.spotify.com/artist/0Tdayxonpn7TNV0fNq1EMw) | [Mörkret i ljuset](https://open.spotify.com/album/5N59H0i5NmYjwUcAF8Tb1c) | 1:55 |
+| 28 | [Risk på fyllan](https://open.spotify.com/track/2B2KDdeGBBxSTHuRrftDwN) | [Björnarna](https://open.spotify.com/artist/06ZDy2XhBL6QUegO9n2Y4Y) | [Risk på fyllan](https://open.spotify.com/album/5VgurtulNGTe625aNhBIsi) | 2:57 |
 | 29 | [Simpel Matematik](https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [\[emo\]](https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP) | 3:12 |
 | 30 | [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 |
 | 31 | [Abab](https://open.spotify.com/track/0dy6fTM1ac2mAmkDPUB6xz) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [MNW Digital Archive 1979](https://open.spotify.com/album/06H2x5cRaSVly5u1fhHWuV) | 2:03 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 37 | [Tänk negativt](https://open.spotify.com/track/0C8VuNSqfWxkwKmVx8Spl9) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Det blir som det blir](https://open.spotify.com/album/6ejXSnBxHRi9g5HuT1lMfj) | 2:31 |
 | 38 | [Som En Doft Av Napalm](https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 2:25 |
 | 39 | [Den dagen är inte idag](https://open.spotify.com/track/3bBOmq9ox4bD1jNT1ojsey) | [Ärkepucko](https://open.spotify.com/artist/6LkA0guHyb6HPuYilkOYdX) | [Den dagen är inte idag](https://open.spotify.com/album/1yxYMRzEhVFUf3KFQNhHE2) | 3:06 |
-| 40 | [Parasit](https://open.spotify.com/track/1444rqkJkj584AmeUdHEbv) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Parasit](https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK) | 2:32 |
-| 41 | [S.O.S](https://open.spotify.com/track/7yNxro22FYcz5HSdfB7Crr) | [SMÅJÄVLAFÖTTER](https://open.spotify.com/artist/2Ml3alZX8KmZYcaVzzgdx5) | [Kapitalismens sista generation](https://open.spotify.com/album/7luX0TYMkpAIVxN4s0hBZs) | 1:35 |
+| 40 | [S.O.S](https://open.spotify.com/track/7yNxro22FYcz5HSdfB7Crr) | [SMÅJÄVLAFÖTTER](https://open.spotify.com/artist/2Ml3alZX8KmZYcaVzzgdx5) | [Kapitalismens sista generation](https://open.spotify.com/album/7luX0TYMkpAIVxN4s0hBZs) | 1:35 |
+| 41 | [Parasit](https://open.spotify.com/track/1444rqkJkj584AmeUdHEbv) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Parasit](https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK) | 2:32 |
 | 42 | [Gamla ideal](https://open.spotify.com/track/2xDX2oOUlUJcNhJh7kqKhX) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Bland tomtar och troll](https://open.spotify.com/album/5qpQHc2lLSL8klOE7Yiyx0) | 3:22 |
 | 43 | [Förlorarna](https://open.spotify.com/track/6XVXlChzCSbdpMbkPIKFMx) | [Hata Som Lejon](https://open.spotify.com/artist/0Tdayxonpn7TNV0fNq1EMw) | [Förlorarna](https://open.spotify.com/album/3KeQBgt24FXOqtzEfpRJxT) | 3:11 |
 | 44 | [Knivhjärta](https://open.spotify.com/track/1tn6kFlK0sVNWJNu52THfH) | [Dödskällan](https://open.spotify.com/artist/6ubVra3DC7sDD6KjSuVjbA) | [Knivhjärta](https://open.spotify.com/album/6EUQZtQHAruBPqWQXOSsRf) | 3:15 |
@@ -61,18 +61,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 51 | [Grabbarna på stan](https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Grabbarna på Stan](https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L) | [Grabbarna på Stan](https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D) | 3:34 |
 | 52 | [Med munnen full av hat](https://open.spotify.com/track/4Xwxr2b9lxhLwmnuKaj47h) | [Vet Hut](https://open.spotify.com/artist/1hYSAZUsXHo5io3lCKRIXs) | [Med munnen full av hat](https://open.spotify.com/album/5cC3X7yrOQOTmdqqZYRSb3) | 2:51 |
 | 53 | [Vem fan är liberal?](https://open.spotify.com/track/1f07uOacf7BpsHyzBsvDMm) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Vem fan är liberal?](https://open.spotify.com/album/3nS0eCqVJu74EghUIJOMKE) | 2:58 |
-| 54 | [Låt dom brinna](https://open.spotify.com/track/4FzIbuIVlRWjcb27PUtjqm) | [Slaveriet](https://open.spotify.com/artist/3yCXFddAsqxzxRlSbkm43L) | [Ett småskaligt krig](https://open.spotify.com/album/730Lj8aZVdswCX0sLaqNNb) | 2:18 |
-| 55 | [Hatar dig ändå](https://open.spotify.com/track/1LEIcs4cZtLJ32MbiC1owp) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Hatar dig ändå](https://open.spotify.com/album/6wz5C9g5rdVI0fSnhTvnVK) | 2:39 |
+| 54 | [Hatar dig ändå](https://open.spotify.com/track/1LEIcs4cZtLJ32MbiC1owp) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Hatar dig ändå](https://open.spotify.com/album/6wz5C9g5rdVI0fSnhTvnVK) | 2:39 |
+| 55 | [Låt dom brinna](https://open.spotify.com/track/4FzIbuIVlRWjcb27PUtjqm) | [Slaveriet](https://open.spotify.com/artist/3yCXFddAsqxzxRlSbkm43L) | [Ett småskaligt krig](https://open.spotify.com/album/730Lj8aZVdswCX0sLaqNNb) | 2:18 |
 | 56 | [Stockholms bästa band](https://open.spotify.com/track/1fecBg16RMBCaBDOM2mKJc) | [INTENSIVEN](https://open.spotify.com/artist/1p0EQ3biZsVtQBmjmMBymr) | [Stockholms bästa band](https://open.spotify.com/album/3ocY1J8pZDpn6pwT5uI3n8) | 3:38 |
 | 57 | [Modets Klappträn](https://open.spotify.com/track/5LnLs4Zd79RQ5y7VdKHMXQ) | [Total Apati](https://open.spotify.com/artist/3gzEJGALMIHxyjYm0Q5Eg4) | [Att Ni Inte Ser...](https://open.spotify.com/album/0qcE2ZLlJjIELkvLHMpdo1) | 2:51 |
 | 58 | [När broar bränns](https://open.spotify.com/track/3AUZ76y1Sg7dsuyVvkgXO5) | [Hata Som Lejon](https://open.spotify.com/artist/0Tdayxonpn7TNV0fNq1EMw) | [När broar bränns](https://open.spotify.com/album/1QmuGtosgz3jMsbw4Zhxxh) | 2:31 |
-| 59 | [Våga!](https://open.spotify.com/track/5UVYZ4sGc0myt98mSs9xy7) | [Världen Brinner](https://open.spotify.com/artist/6qOb7jx3dXa3oUbCnLSF8g) | [Vi Äger Natten](https://open.spotify.com/album/6PE6UFsbSCTXP96nCaUPHi) | 2:15 |
-| 60 | [Ta ställning](https://open.spotify.com/track/3GENhjdodAEroiioaU01Fv) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Samling i särklass](https://open.spotify.com/album/3ToAC3pLqmeHGRBTBmEK9S) | 2:43 |
+| 59 | [Ta ställning](https://open.spotify.com/track/3GENhjdodAEroiioaU01Fv) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Samling i särklass](https://open.spotify.com/album/3ToAC3pLqmeHGRBTBmEK9S) | 2:43 |
+| 60 | [Våga!](https://open.spotify.com/track/5UVYZ4sGc0myt98mSs9xy7) | [Världen Brinner](https://open.spotify.com/artist/6qOb7jx3dXa3oUbCnLSF8g) | [Vi Äger Natten](https://open.spotify.com/album/6PE6UFsbSCTXP96nCaUPHi) | 2:15 |
 | 61 | [Punkfestival](https://open.spotify.com/track/2HsOYlJSGyrQoMU5ju4YJ9) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Punkfestival](https://open.spotify.com/album/2dHXmO7yLflqWRsE1O0b5A) | 2:22 |
 | 62 | [Morgonrock](https://open.spotify.com/track/1oCOrqMo9jQykW9kXeeUdg) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Morgonrock](https://open.spotify.com/album/49ik5mw9UpRZ8mq3w4HziG) | 1:42 |
 | 63 | [Allting](https://open.spotify.com/track/3RcOF4HdKHLqFrG0h9Fjcj) | [Spader Kung](https://open.spotify.com/artist/2mEFbDp6rw4nL1p3RRGZ6t) | [Allting](https://open.spotify.com/album/4TeP1PFOOZ9piaT5K1n6jk) | 3:26 |
-| 64 | [Berlin](https://open.spotify.com/track/3fUUGJIm8JqnFX6elcbTHV) | [Världen Brinner](https://open.spotify.com/artist/6qOb7jx3dXa3oUbCnLSF8g) | [Berlin](https://open.spotify.com/album/2Se4lK8pvTHK3AmGyskrUU) | 2:55 |
-| 65 | [Solidaritet](https://open.spotify.com/track/3YHnUzkxw8T74vSGWz9AO5) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Solidaritet](https://open.spotify.com/album/3oZ5BccCuonR7hvzAL1PM5) | 2:40 |
+| 64 | [Solidaritet](https://open.spotify.com/track/3YHnUzkxw8T74vSGWz9AO5) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Solidaritet](https://open.spotify.com/album/3oZ5BccCuonR7hvzAL1PM5) | 2:40 |
+| 65 | [Berlin](https://open.spotify.com/track/3fUUGJIm8JqnFX6elcbTHV) | [Världen Brinner](https://open.spotify.com/artist/6qOb7jx3dXa3oUbCnLSF8g) | [Berlin](https://open.spotify.com/album/2Se4lK8pvTHK3AmGyskrUU) | 2:55 |
 | 66 | [Äganderätt?](https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F) | [Gymnastiken](https://open.spotify.com/artist/2Y0hhrOobEr0wh8JbCBiI2) | [Ännu En Gång](https://open.spotify.com/album/6E7agzpUqkobH8BXLbct0F) | 2:35 |
 | 67 | [Sex Noll Två](https://open.spotify.com/track/2cDhN8iMlxEQPpjkcqCgQP) | [Shuvit](https://open.spotify.com/artist/1ydU8JWvSYgDkNetiiWxgM) | [Sex Noll Två](https://open.spotify.com/album/1RQDWa5oI0JVu5WUq9mxnw) | 3:29 |
 | 68 | [Boostade Egon](https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 1:08 |

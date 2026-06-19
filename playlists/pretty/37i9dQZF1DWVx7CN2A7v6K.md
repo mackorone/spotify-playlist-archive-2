@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 
 > A  blend of J\-pop to soundtrack your perfect matcha moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,911 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,975 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 | 54 | [春泥棒](https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [春泥棒](https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz) | 4:50 |
 | 55 | [悲しみがとまらない　I CAN'T STOP THE LONELINESS](https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:23 |
 | 56 | [夜に駆ける](https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [夜に駆ける](https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23) | 4:21 |
-| 57 | [光るなら](https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa) | [Goose house](https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ) | [Milk](https://open.spotify.com/album/0uF7LYXx0mDrWeMxZ3vRkz) | 4:12 |
-| 58 | [チェリー](https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [インディゴ地平線](https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N) | 4:19 |
+| 57 | [チェリー](https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [インディゴ地平線](https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N) | 4:19 |
+| 58 | [光るなら](https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa) | [Goose house](https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ) | [Milk](https://open.spotify.com/album/0uF7LYXx0mDrWeMxZ3vRkz) | 4:12 |
 | 59 | [白日](https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [CEREMONY](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) | 4:36 |
 | 60 | [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 |
 | 61 | [ダーリン](https://open.spotify.com/track/62x4EMPyCFF2Ohv7qDjalp) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダーリン](https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u) | 4:40 |
@@ -90,18 +90,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 | 80 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 |
 | 81 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 |
 | 82 | [打上花火](https://open.spotify.com/track/4IouQaO9GkaHC7AtMErdSa) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [THANK YOU BLUE](https://open.spotify.com/album/7202ZrUyEoOv4xwbbBEfql) | 4:49 |
-| 83 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \- Bansanka](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
-| 84 | [ビビデバ](https://open.spotify.com/track/5Ct010aQ4rroKyjKhTlS7I) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [新星目録](https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z) | 2:44 |
-| 85 | [真夏の果実](https://open.spotify.com/track/3AVLsBieDGotYuo5RPEL64) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [真夏の果実](https://open.spotify.com/album/6yqQMQGUPlrEHUC8WHHwp1) | 4:39 |
-| 86 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
+| 83 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
+| 84 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \- Bansanka](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
+| 85 | [ビビデバ](https://open.spotify.com/track/5Ct010aQ4rroKyjKhTlS7I) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [新星目録](https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z) | 2:44 |
+| 86 | [真夏の果実](https://open.spotify.com/track/3AVLsBieDGotYuo5RPEL64) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [真夏の果実](https://open.spotify.com/album/6yqQMQGUPlrEHUC8WHHwp1) | 4:39 |
 | 87 | [まちがいさがし](https://open.spotify.com/track/55Ww4Pa1iIQMhh0MLMetjo) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [LOVE](https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B) | 3:43 |
 | 88 | [恋風](https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [恋風](https://open.spotify.com/album/2YnF0m9IK3ZEApvRVb7tqo) | 3:02 |
 | 89 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
 | 90 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 |
 | 91 | [ひまわりの約束](https://open.spotify.com/track/45jGOHwYKgsRYbAJ8DR61d) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [青の光景](https://open.spotify.com/album/35HzEGeHwTNMiZIVXCOlPc) | 5:08 |
 | 92 | [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 |
-| 93 | [ドライフラワー](https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ドライフラワー](https://open.spotify.com/album/69BzgmDXpLIPQI4tUGuLZM) | 4:45 |
-| 94 | [夏夜のマジック](https://open.spotify.com/track/144pIQC3mpmUkZXMt8fIwb) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [藍色ミュージック](https://open.spotify.com/album/7xcwmNnb4URBJMKgyfaTkU) | 5:05 |
+| 93 | [夏夜のマジック](https://open.spotify.com/track/144pIQC3mpmUkZXMt8fIwb) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [藍色ミュージック](https://open.spotify.com/album/7xcwmNnb4URBJMKgyfaTkU) | 5:05 |
+| 94 | [ドライフラワー](https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ドライフラワー](https://open.spotify.com/album/69BzgmDXpLIPQI4tUGuLZM) | 4:45 |
 | 95 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 |
 | 96 | [美しい鰭](https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 3:31 |
 | 97 | [breakfast](https://open.spotify.com/track/7BPgsEG645OAnpetcBbLrZ) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [breakfast](https://open.spotify.com/album/09JHBF2CtK8UUhcvot8ZGX) | 3:48 |

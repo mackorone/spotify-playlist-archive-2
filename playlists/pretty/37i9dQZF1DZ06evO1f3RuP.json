@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 297,
+  "num_followers": 298,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAADfJ+RsGZ6pqR/6vUst5eeF",
+  "snapshot_id": "ajHjgAAAAAAyflQtBvrtfgU/QZEDsuMH",
   "tracks": [
     {
       "added_at": null,
@@ -107,26 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TSUNAMI",
-        "url": "https://open.spotify.com/album/1J26PJZThn7pSo1ZFcdawr"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 126486,
-      "name": "TSUNAMI",
-      "url": "https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS"
       },
@@ -147,34 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+        "name": "TSUNAMI",
+        "url": "https://open.spotify.com/album/1J26PJZThn7pSo1ZFcdawr"
       },
       "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 130560,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 121423,
-      "name": "SUGARCOAT",
-      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
+      "duration_ms": 126486,
+      "name": "TSUNAMI",
+      "url": "https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY"
     },
     {
       "added_at": null,
@@ -195,6 +163,38 @@
       "duration_ms": 154213,
       "name": "BOTH",
       "url": "https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 121423,
+      "name": "SUGARCOAT",
+      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
     },
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO RE-ENTRY (Nano Mixes)",
+        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 123720,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/6BgdkRfOOxxOnARUTuAFs8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "stories from new york",
         "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
       },
@@ -371,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "demon time",
-        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 130057,
-      "name": "demon time (with BAYLI)",
-      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO RE-ENTRY",
         "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
       },
@@ -411,6 +407,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 130057,
+      "name": "demon time (with BAYLI)",
+      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "act up",
         "url": "https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 128793,
       "name": "act up",
       "url": "https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY (Nano Mixes)",
-        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 123720,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/6BgdkRfOOxxOnARUTuAFs8"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busy (BAYLI Remix)",
-        "url": "https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe"
-      },
-      "artists": [
-        {
-          "name": "Nina Las Vegas",
-          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 165086,
-      "name": "Busy - BAYLI Remix",
-      "url": "https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SICK!",
         "url": "https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 126743,
       "name": "SICK!",
       "url": "https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Busy (BAYLI Remix)",
+        "url": "https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe"
+      },
+      "artists": [
+        {
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 165086,
+      "name": "Busy - BAYLI Remix",
+      "url": "https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7"
     },
     {
       "added_at": null,

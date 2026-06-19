@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2224,
+  "num_followers": 2225,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABJJ1+dJOj45J0UyN+xslXd",
+  "snapshot_id": "ajHjgAAAAAAX7KJQyXYPA1Qp/t1SJZc0",
   "tracks": [
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cargo del Terreno",
-        "url": "https://open.spotify.com/album/6ZaB0FWEXlgSEAgirQs8cG"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 142474,
-      "name": "A Cargo del Terreno",
-      "url": "https://open.spotify.com/track/0zC0P5eGWHbUB3T0uJpv0L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sue\u00f1os de la Clika",
         "url": "https://open.spotify.com/album/2IxCJCJ38SMYibMNgntmAJ"
       },
@@ -907,6 +891,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Cargo del Terreno",
+        "url": "https://open.spotify.com/album/6ZaB0FWEXlgSEAgirQs8cG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 142474,
+      "name": "A Cargo del Terreno",
+      "url": "https://open.spotify.com/track/0zC0P5eGWHbUB3T0uJpv0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
+        "url": "https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 174704,
+      "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
+      "url": "https://open.spotify.com/track/0hgTaCVMiUVwp4cK4kmkDW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobra y Falta",
         "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 190161,
       "name": "Sobra y Falta",
       "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
-        "url": "https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 174704,
-      "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
-      "url": "https://open.spotify.com/track/0hgTaCVMiUVwp4cK4kmkDW"
     },
     {
       "added_at": null,

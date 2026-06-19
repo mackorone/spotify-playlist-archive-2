@@ -1,12 +1,12 @@
 {
   "description": "Remembering Oliver Tree.",
-  "num_followers": 225171,
+  "num_followers": 225221,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAw1XI6EZCEFtrXDHIjA1aTO78Et",
+  "snapshot_id": "AAAAAEstqcXBhtoqz4ybqxbT+3MyiIn9",
   "tracks": [
     {
       "added_at": "2026-06-16 21:32:47",
@@ -39,6 +39,30 @@
       "duration_ms": 169230,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/4TR8OxI9K7VshkXX52Ku4G"
+    },
+    {
+      "added_at": "2026-06-19 04:01:16",
+      "album": {
+        "name": "Paperboys",
+        "url": "https://open.spotify.com/album/5m2gqKEDfPpHaKkYerkN1z"
+      },
+      "artists": [
+        {
+          "name": "Paperboys",
+          "url": "https://open.spotify.com/artist/74FBtqFO0SZn7nWzwql2VP"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "duration_ms": 132313,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/7zN5aETfVFOlhJZTUyH2pk"
     },
     {
       "added_at": "2026-05-22 05:28:06",
@@ -75,6 +99,22 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-06-19 04:01:16",
+      "album": {
+        "name": "Awful.",
+        "url": "https://open.spotify.com/album/7woYa61JH27nnHpi1L7L15"
+      },
+      "artists": [
+        {
+          "name": "7ru7h",
+          "url": "https://open.spotify.com/artist/5WnlPOcTodnSWDtjnrjmzv"
+        }
+      ],
+      "duration_ms": 166783,
+      "name": "Awful.",
+      "url": "https://open.spotify.com/track/5s50QqqraeCG31TXuWthNJ"
     },
     {
       "added_at": "2026-01-05 22:03:13",
@@ -733,22 +773,6 @@
       "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
     },
     {
-      "added_at": "2026-01-15 05:49:44",
-      "album": {
-        "name": "Cali Crazy",
-        "url": "https://open.spotify.com/album/0YXmAxmk8349DJ7WNRBWIB"
-      },
-      "artists": [
-        {
-          "name": "Feng",
-          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
-        }
-      ],
-      "duration_ms": 117011,
-      "name": "Cali Crazy",
-      "url": "https://open.spotify.com/track/3f3mRpt6XsijsdVjzrXi7W"
-    },
-    {
       "added_at": "2026-01-05 22:03:13",
       "album": {
         "name": "someone new",
@@ -763,22 +787,6 @@
       "duration_ms": 154105,
       "name": "someone new",
       "url": "https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS"
-    },
-    {
-      "added_at": "2026-02-01 20:41:15",
-      "album": {
-        "name": "Something Stupid",
-        "url": "https://open.spotify.com/album/0S3fTNkqwroxTqhVCryyCP"
-      },
-      "artists": [
-        {
-          "name": "AmiiFy",
-          "url": "https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ"
-        }
-      ],
-      "duration_ms": 165977,
-      "name": "Something Stupid",
-      "url": "https://open.spotify.com/track/5i7zaf08ZrlMcsSEB111aq"
     },
     {
       "added_at": "2026-01-05 22:03:13",

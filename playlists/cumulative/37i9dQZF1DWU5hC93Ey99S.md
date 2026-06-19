@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-1,036 songs - 2 day 7 hr 9 min
+1,039 songs - 2 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Fear Me](https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Fear Me](https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML) | 2:46 | 2026-01-08 |  |
 | [Feel](https://open.spotify.com/track/5IdCgUmwofSaQr049J075O) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Better Days](https://open.spotify.com/album/03aIi0ntic2DQaI2U37oS3) | 3:33 | 2024-08-22 | 2025-08-13 |
 | [feel again \(feat\. Tchami\)](https://open.spotify.com/track/7LAFTet7LRO1ydBaqNRgr9) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [feel again](https://open.spotify.com/album/2LlVenmalkzuTsDMMKSxEK) | 3:30 | 2024-09-26 | 2025-08-13 |
+| [Feel For You](https://open.spotify.com/track/5erP6H73cDKlE3ChJz3KCt) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [Feel For You](https://open.spotify.com/album/7IQTG1D8cmjJ3qTPUbuumb) | 2:45 | 2026-06-18 |  |
 | [FEEL IT](https://open.spotify.com/track/5C2KI4yrciy2qx9K3k6d3S) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [FEEL IT](https://open.spotify.com/album/0fQFNk6WSQnwx0LK0n9sGQ) | 2:03 | 2024-08-22 | 2025-08-13 |
 | [Feel So Right](https://open.spotify.com/track/1w4ovi2ob7kOujP5COL8v7) | [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH), [Kimonos](https://open.spotify.com/artist/32XZI46GRocn0V8ghzhDYN) | [Feel So Right](https://open.spotify.com/album/0SAtqCGoeVPEIpvpZjRQE6) | 3:25 | 2026-05-21 |  |
 | [feel something real](https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [feel something real](https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N) | 3:28 | 2023-08-03 | 2024-01-06 |
@@ -420,6 +421,7 @@
 | [If I could stop time...](https://open.spotify.com/track/1kni5NOsxhGawUi4CfWaEz) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [If I could stop time...](https://open.spotify.com/album/6ljrkih4qJTkkmJOVtnlrc) | 2:31 | 2026-06-11 |  |
 | [If This Is It](https://open.spotify.com/track/71vkCMFohC2QD94tlyIGln) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8) | [If This Is It](https://open.spotify.com/album/4EQ1QONy2hsmWHFdxOB7gm) | 4:03 | 2026-05-14 |  |
 | [If U Get Lost](https://open.spotify.com/track/1clcJIgwOLFu4t0Bz0p8FF) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [If U Get Lost](https://open.spotify.com/album/1fmQ63djQBOt6M2XscCL1D) | 2:36 | 2024-07-12 | 2025-08-13 |
+| [ill be there for u](https://open.spotify.com/track/2pfbhevjWzuSycZzSXAuVU) | [amil raja](https://open.spotify.com/artist/4emKkyOHSx3lMdmNNBZiUt) | [ill be there for u](https://open.spotify.com/album/4igH6XAgzuFY0OXVXOSIod) | 3:09 | 2026-06-18 |  |
 | [Imagination](https://open.spotify.com/track/43FVchS087rIcfmnrOkNsC) | [Hunter/Game](https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt), [Aries](https://open.spotify.com/artist/5i3GGVDRXf0fPJsmzA6uuC) | [Imagination](https://open.spotify.com/album/7IcoBgb1jeBfEDDQ9R0lg0) | 2:46 | 2026-04-09 |  |
 | [imissthetimes](https://open.spotify.com/track/24fIb3TQ2uhY23caHh5Zi5) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [imissthetimes](https://open.spotify.com/album/6soiQc7YLffUhmPHzWbz7q) | 2:24 | 2026-01-22 |  |
 | [In And Out Of Love](https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sharon Den Adel](https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi) | [In And Out Of Love](https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK) | 3:46 | 2024-07-25 | 2025-08-13 |
@@ -1001,6 +1003,7 @@
 | [WHERE DO I GO?](https://open.spotify.com/track/2dkzYmHV0jW0I66hmdMTey) | [OLIIVER](https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p) | [WHERE DO I GO?](https://open.spotify.com/album/4sIC55nFfEL0Gy7RRYAgbt) | 2:09 | 2026-03-12 |  |
 | [WHERE'S MY VAPE?](https://open.spotify.com/track/398FKmK2bGM2FBmI0g9PnN) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [WHERE'S MY VAPE?](https://open.spotify.com/album/2vNQ3JP3vnNL47n6yx5EIi) | 4:39 | 2024-08-22 | 2025-08-13 |
 | [Who Do You Love?](https://open.spotify.com/track/3zp7oZR40DR3cJEoPOSx0D) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [CRONIN](https://open.spotify.com/artist/6FJuV645kRPPrMRHLjPq7M) | [Who Do You Love?](https://open.spotify.com/album/0rOp11E18uEr0Jjjg4Ppj7) | 3:03 | 2025-02-07 | 2025-08-13 |
+| [Why Does It \(With Jozzy\)](https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Why Does It \(With Jozzy\)](https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm) | 2:54 | 2026-06-18 |  |
 | [Why Does My Heart](https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Why Does My Heart](https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd) | 2:52 | 2023-06-22 | 2024-01-06 |
 | [Why Don’t You Stay](https://open.spotify.com/track/3zpU8dcXmI2iynGZdUP6un) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Why Don’t You Stay](https://open.spotify.com/album/4FPG8XZhRDMU9qJVVUQuK7) | 2:37 | 2024-05-16 | 2025-05-02 |
 | [Wide Awake](https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Tom Did It](https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ) | [Wide Awake](https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe) | 4:16 | 2026-03-26 |  |

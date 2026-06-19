@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 847 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 849 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,18 +89,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 79 | [Reborn](https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Reborn](https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV) | 3:19 |
 | 80 | [Survivor](https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Dirt](https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P) | 2:40 |
 | 81 | [Story On Sale \(Feat\. DAMYE\)](https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [GAROSAWK](https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi) | 4:10 |
-| 82 | [OWL](https://open.spotify.com/track/7h9gz8EKmkBdTOU4WFkkQu) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BREATHE](https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW) | 3:25 |
-| 83 | [The Surface](https://open.spotify.com/track/1z9TQOl5KFxFPksB4weOMM) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 3:09 |
+| 82 | [500000](https://open.spotify.com/track/68CH3kN7G1Ve7TBUFICh0z) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 2:08 |
+| 83 | [OWL](https://open.spotify.com/track/7h9gz8EKmkBdTOU4WFkkQu) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BREATHE](https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW) | 3:25 |
 | 84 | [1llusion Remix \- Bonus Track](https://open.spotify.com/track/7h8KGENglYCGD6MD6PfeRu) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Reborn](https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV) | 4:23 |
 | 85 | [Superbee's Maserati](https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) | [Superbee's Maserati](https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl) | 3:50 |
 | 86 | [WINNING MIND \(Feat\. Chin, LIL GIMCHI\)](https://open.spotify.com/track/2wwmdvHAH09hRZ9w7tqNie) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Chin](https://open.spotify.com/artist/0wLLr9JWffvRvyWpn0NfgZ), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [FAKE RAPPERS KILLER](https://open.spotify.com/album/52Htfn8fvmMajlxTlVtP4b) | 3:23 |
-| 87 | [FEELING](https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BREATHE](https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW) | 3:08 |
-| 88 | [500000](https://open.spotify.com/track/68CH3kN7G1Ve7TBUFICh0z) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 2:08 |
+| 87 | [The Surface](https://open.spotify.com/track/1z9TQOl5KFxFPksB4weOMM) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 3:09 |
+| 88 | [FEELING](https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BREATHE](https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW) | 3:08 |
 | 89 | [Never Give Up](https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [Graduation](https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX) | 2:41 |
 | 90 | [죽을힘을 다하여](https://open.spotify.com/track/5IEz46ferHq5IuyZH0WJtj) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [죽을힘을 다하여](https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb) | 2:28 |
 | 91 | [Good Time For The Team](https://open.spotify.com/track/1XROjtYVZkHRwCt79VzwZc) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Good Time For The Team](https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw) | 3:52 |
-| 92 | [DEAR MOM](https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 3:44 |
-| 93 | [Cheat Code](https://open.spotify.com/track/4dxwpBK9LAbmh7Hf1ebLoq) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 3:02 |
+| 92 | [Cheat Code](https://open.spotify.com/track/4dxwpBK9LAbmh7Hf1ebLoq) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 3:02 |
+| 93 | [DEAR MOM](https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 3:44 |
 | 94 | [It's Your Turn \(Feat\. Futuristic Swaver\)](https://open.spotify.com/track/37gsND37Afaqykeo0forwU) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Futuristic Swaver](https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF) | [It's Your Turn \(Feat\. Futuristic Swaver\)](https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt) | 3:13 |
 | 95 | [Look What I Did \(Feat\. The Quiett\)](https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Stargaze](https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5) | 3:42 |
 | 96 | [Foul](https://open.spotify.com/track/1vuDBx9G8oiinlw2KWlU0X) | [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [Polodared](https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR) | 2:16 |

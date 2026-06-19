@@ -2,9 +2,9 @@
 
 ### [WOR K  OUT](https://open.spotify.com/playlist/37i9dQZF1DX3ZeFHRhhi7Y)
 
-> Workout to K\-Pop? Count me in! \(Cover: MEOVV\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
+> Workout to K\-Pop? Count me in! \(Cover: aespa\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-672 songs - 1 day 11 hr 32 min
+674 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Chili](https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Chili](https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK) | 2:15 | 2023-11-03 | 2024-06-03 |
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-03-03 | 2022-04-15 |
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-07-25 |  |
-| [CLIK CLAK](https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 2:49 | 2024-11-21 |  |
+| [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-06-18 |  |
+| [CLIK CLAK](https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 2:49 | 2024-11-21 | 2026-06-19 |
 | [Coin](https://open.spotify.com/track/7CZRguMolNqIobnXxpV735) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:13 | 2021-12-20 | 2022-07-20 |
 | [Coin Wash](https://open.spotify.com/track/6S8USpSfSRY2Cd2SOBjJLT) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [Jacoby](https://open.spotify.com/artist/7xNGZ0xM6gxBr9og1RE5wF) | [Coin Wash](https://open.spotify.com/album/2Eiiaxoi26LGN4XIQpqwkt) | 3:31 | 2022-03-22 | 2022-04-14 |
 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 | 2021-12-20 | 2023-07-21 |
@@ -468,7 +469,7 @@
 | [Ready or Not](https://open.spotify.com/track/5ArnumzuZkiaSmZaxPsQfh) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [SUN SEEKER](https://open.spotify.com/album/1FdVBP7g9FfMa7ifgyY4iA) | 3:11 | 2023-09-15 | 2023-11-04 |
 | [Ready to love](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:06 | 2021-12-20 | 2024-09-24 |
 | [Really](https://open.spotify.com/track/2r5oD7twaQTsv5KoRS6v16) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:17 | 2021-12-20 | 2022-07-29 |
-| [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-01-14 |  |
+| [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-01-14 | 2026-06-19 |
 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 | 2021-12-20 | 2025-11-15 |
 | [Red Light, Green Light](https://open.spotify.com/track/4xgBVNYwDQNhtpeyxQWP8s) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Red Light, Green Light](https://open.spotify.com/album/7AOjftp6myCoxMR7pnoGLB) | 3:23 | 2022-03-22 | 2022-04-16 |
 | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/album/5NdzPZhyIA3JaEpSqq9JM3) | 3:23 | 2021-12-20 | 2022-07-24 |
@@ -626,6 +627,7 @@
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 | 2023-05-02 | 2024-04-19 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-16 | 2023-05-01 |
 | [Villain](https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 3rd Mini Album \[Villain\]](https://open.spotify.com/album/4oOm4qnnn2qdOwSBX7nsWd) | 3:01 | 2022-01-18 | 2022-04-09 |
+| [VIRAL](https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME](https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad) | 3:18 | 2026-06-18 |  |
 | [Virtual Angel](https://open.spotify.com/track/1iGNZerzZHm2GLu7k1OS3J) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Dall>](https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS) | 2:53 | 2024-06-14 | 2024-08-24 |
 | [VISION](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Follow us\]](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) | 3:09 | 2022-10-13 | 2023-01-14 |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-01-03 | 2024-05-09 |

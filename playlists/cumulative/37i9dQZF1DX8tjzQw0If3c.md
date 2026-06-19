@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: quiet morning
+> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Alpha
 
-319 songs - 17 hr 23 min
+322 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Hadirlah Cahaya](https://open.spotify.com/track/6vQMYsi0YFiR8G0GVxPOa6) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 4:08 | 2024-08-08 | 2024-12-05 |
 | [half of my heart](https://open.spotify.com/track/1axeB1swjtFnZk8weaQcrN) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT](https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g) | 3:38 | 2024-12-04 | 2025-10-17 |
 | [half of my heart](https://open.spotify.com/track/42BeZN1Am9yq6xkkuyumrG) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 3:38 | 2024-06-27 | 2024-12-05 |
+| [Haru Biru](https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t), [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [The First Wave](https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU) | 3:05 | 2026-06-18 |  |
 | [HASTE](https://open.spotify.com/track/4LkpLJvOYZSLgo9ZWN3kHG) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [HASTE](https://open.spotify.com/album/3dpBjcmALy8faXQ28ikOPK) | 3:00 | 2025-04-15 | 2026-04-07 |
 | [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 | 2025-09-08 | 2025-10-17 |
 | [headspace](https://open.spotify.com/track/7iYW5BO8v0Q5Lh2vG9cdTX) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [headspace](https://open.spotify.com/album/0RKtnkVRnOQwD5OBcXnFEP) | 3:08 | 2025-04-24 | 2026-04-07 |
@@ -156,7 +157,8 @@
 | [Kenangan Lama](https://open.spotify.com/track/00XJNXUSrnbf3RGekd5D7G) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Cari Cinta](https://open.spotify.com/album/6m1lPXy9LW1MF9K9RGVKWY) | 2:29 | 2025-11-20 | 2026-04-07 |
 | [KOPI](https://open.spotify.com/track/2EWtkQdW9o8PtIbw0OqNMw) | [NAZU](https://open.spotify.com/artist/37MgONBWvDKXtHSnIo59dk), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [KOPI](https://open.spotify.com/album/5bqruzmuQMjI8YZXIv589g) | 2:54 | 2025-10-24 | 2026-04-07 |
 | [Ku Ingin Tahu](https://open.spotify.com/track/5X2AqXUHVJJDMJDAfwHzJc) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Ku Ingin Tahu](https://open.spotify.com/album/6CUysXbpDxvoMhvByozznK) | 3:16 | 2024-06-27 | 2024-12-05 |
-| [Lagu Healing Kita](https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Lagu Healing Kita](https://open.spotify.com/album/7B6oz3qkogH2Xy2kKCDTkZ) | 3:32 | 2026-05-08 |  |
+| [Lagu Healing Kita](https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Lagu Healing Kita](https://open.spotify.com/album/7B6oz3qkogH2Xy2kKCDTkZ) | 3:32 | 2026-05-08 | 2026-06-19 |
+| [Lagu Healing Kita \(Live At Padang B Dataran Shah Alam, 2026\)](https://open.spotify.com/track/04LdgbXouZb5MIkgnhwNTI) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Lagu Healing Kita \(Live At Padang B Dataran Shah Alam, 2026\)](https://open.spotify.com/album/6yZ9s6ceabGracinevOJxi) | 3:38 | 2026-06-18 |  |
 | [Langit Yang Sama](https://open.spotify.com/track/2wBw1ynBnUoozBCmsnects) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Fasa](https://open.spotify.com/album/0UI4CCBeKA3Wrj4iymyYUc) | 4:05 | 2025-09-08 | 2025-10-17 |
 | [Lantak Kau Lah](https://open.spotify.com/track/7DsciZNFr4za9SnflPKGA1) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [Lantak Kau Lah](https://open.spotify.com/album/7umz4CdIgqrpktR9oT9rVE) | 3:20 | 2026-04-06 |  |
 | [LATE](https://open.spotify.com/track/5dINyexwj0eNiugJREkRd5) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [LATE](https://open.spotify.com/album/4vssHzH0VzPsTf23EtiMJH) | 2:46 | 2025-05-15 | 2026-04-07 |
@@ -184,6 +186,7 @@
 | [lupakanku](https://open.spotify.com/track/7fJmvjxfNVVv9Kvr2DgPhR) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [lupakanku](https://open.spotify.com/album/2S9K7ZvBc0mP5ACdvef4gI) | 3:32 | 2025-06-05 | 2026-04-07 |
 | [m00d](https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [m00d](https://open.spotify.com/album/5zFqEhDGip3zPPvLshFeDk) | 3:04 | 2025-09-08 | 2025-10-17 |
 | [MADELINE](https://open.spotify.com/track/3D824LVyFynyKdvMBgEYHe) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [FUN N FRENS](https://open.spotify.com/album/2FhWYE5T1lmT4fX56QQUDi) | 2:59 | 2025-07-24 | 2026-04-07 |
+| [Mahkota Cinta](https://open.spotify.com/track/7bIJHmQrQxTrmuCwB3PL5U) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [The First Wave](https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU) | 4:16 | 2026-06-18 |  |
 | [MAJOR](https://open.spotify.com/track/1SIwlryejNmakfYwW3hTTl) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [MAJOR](https://open.spotify.com/album/3j7NuPl15ipyBD2zd5FSpx) | 2:27 | 2024-06-27 | 2024-12-05 |
 | [Manis](https://open.spotify.com/track/2DC4XhFNBcnF1mIINob0ZI) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Manis](https://open.spotify.com/album/2hUGh46dEXYxupRcLKEh41) | 3:06 | 2024-11-21 | 2024-12-05 |
 | [Manjaku](https://open.spotify.com/track/62M7xd1Z0ttgB0W6dGPKOC) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Tabby](https://open.spotify.com/artist/6BAq3z4cxDc18TzodScekT) | [Manjaku](https://open.spotify.com/album/1tTj8roApYZg4rwQd6Qlgu) | 2:48 | 2025-04-15 | 2026-04-07 |

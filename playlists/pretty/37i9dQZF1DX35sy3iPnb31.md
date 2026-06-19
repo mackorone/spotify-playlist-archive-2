@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,913 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,915 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 6 | [BIRTHDAY](https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [BIRTHDAY](https://open.spotify.com/album/3D0LxzawBk0Q6YIawaq6Kw) | 3:40 |
 | 7 | [Can't Get You Out of My Head \- Spotify Singles](https://open.spotify.com/track/6j4kyvjM60Te1mU0H2LTwR) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Can't Get You Out of My Head \- Spotify Singles](https://open.spotify.com/album/6ynUBc9yQ4pq7kImTMdOql) | 2:58 |
 | 8 | [PARTY](https://open.spotify.com/track/1oRovB4I1ZmRMkk8qoouBr) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [PARTY](https://open.spotify.com/album/7GsDyPuQvAeuIAukkjV69V) | 3:37 |
-| 9 | [MAGFEST](https://open.spotify.com/track/61nYrNZFXChbd8HQnCM7do) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [MAGFEST](https://open.spotify.com/album/3tXUvtmuSLx2fwFuZmGLbZ) | 3:14 |
+| 9 | [Wanted Me To Be](https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Wanted Me To Be](https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK) | 3:05 |
 | 10 | [stone sculpted heart](https://open.spotify.com/track/10TQ5jFLDmJlOyfJQKIOMZ) | [.ape](https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju) | [stone sculpted heart](https://open.spotify.com/album/6aqZH96RIf4ikXh35FoQGX) | 2:56 |
-| 11 | [Wanted Me To Be](https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Wanted Me To Be](https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK) | 3:05 |
+| 11 | [MAGFEST](https://open.spotify.com/track/61nYrNZFXChbd8HQnCM7do) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [MAGFEST](https://open.spotify.com/album/3tXUvtmuSLx2fwFuZmGLbZ) | 3:14 |
 | 12 | [mailman](https://open.spotify.com/track/7idTksaN3JHW4hIxucaUv9) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [speed](https://open.spotify.com/album/4D2i96fOirLLCHYAbf8lA0) | 3:25 |
 | 13 | [HOTLINE](https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOTLINE](https://open.spotify.com/album/0SX53qBcN61hcPcUJY1Hou) | 2:46 |
 | 14 | [Bad Combination](https://open.spotify.com/track/6hEYKhkbUzXq15uRDTOcsU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Bad Combination](https://open.spotify.com/album/7GPl7lfPggDwXt1LfNi6wt) | 3:14 |
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 19 | [WAHALA RIDDIM](https://open.spotify.com/track/6cDoUJQTi3yANsfEQRh2x8) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [WAHALA RIDDIM](https://open.spotify.com/album/0SciOReSTeXfZT3hTo59kO) | 3:22 |
 | 20 | [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 |
 | 21 | [In Da Jungle](https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [In Da Jungle](https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz) | 2:44 |
-| 22 | [BORN WINNER](https://open.spotify.com/track/4ACkAjg9smuLvjskptzLgE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [BORN WINNER](https://open.spotify.com/album/6V8vpu5MiLkOSLifAGfe2f) | 4:10 |
-| 23 | [Out of Water](https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Out of Water](https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f) | 3:27 |
-| 24 | [Like Heaven](https://open.spotify.com/track/5pZGuhprytXKB7QRMul3jq) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Like Heaven](https://open.spotify.com/album/2f4vxEOlp1k8ZSffiROoHE) | 3:38 |
-| 25 | [On Cam](https://open.spotify.com/track/6X0gxQVDV5foS61ukGYJzb) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [On Cam](https://open.spotify.com/album/60fRgIaM94Ua327WIZ3nhr) | 4:04 |
+| 22 | [Out of Water](https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Out of Water](https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f) | 3:27 |
+| 23 | [BORN WINNER](https://open.spotify.com/track/4ACkAjg9smuLvjskptzLgE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [BORN WINNER](https://open.spotify.com/album/6V8vpu5MiLkOSLifAGfe2f) | 4:10 |
+| 24 | [On Cam](https://open.spotify.com/track/6X0gxQVDV5foS61ukGYJzb) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [On Cam](https://open.spotify.com/album/60fRgIaM94Ua327WIZ3nhr) | 4:04 |
+| 25 | [Like Heaven](https://open.spotify.com/track/5pZGuhprytXKB7QRMul3jq) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Like Heaven](https://open.spotify.com/album/2f4vxEOlp1k8ZSffiROoHE) | 3:38 |
 | 26 | [Only The Good I Keep](https://open.spotify.com/track/4zbYQmI3s9tMTCdOVIZgOD) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Remember The Humans](https://open.spotify.com/album/6skQ2cM5dafp4UdvvN0Xf9) | 3:27 |
 | 27 | [G.Y.A.M.L \(My Love\)](https://open.spotify.com/track/76QPCZs6SWpfMJy7tylWj0) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [G.Y.A.M.L \(My Love\)](https://open.spotify.com/album/0xeEoXE1WXKkuYFh3bEZPc) | 3:27 |
 | 28 | [Higher](https://open.spotify.com/track/736dtUONBLraRNmUFBixTX) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Run, Run Pure Beauty](https://open.spotify.com/album/6tEKOTU8xDuIabBbNTkoam) | 4:06 |

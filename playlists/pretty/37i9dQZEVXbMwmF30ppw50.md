@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMwmF30ppw50.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- United Kingdom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,374 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,407 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMwmF30ppw50.md) - [plain]
 | 39 | [NOBLE](https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE \(Slowed Down\)](https://open.spotify.com/album/3MXz6kSonuMCXDZoOmNRom) | 3:05 |
 | 40 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 41 | [bloodstream](https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [bloodstream](https://open.spotify.com/album/4KGK9opFcC60xCe29CTZus) | 2:57 |
-| 42 | [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 |
+| 42 | [Go](https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Born In The Echoes](https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD) | 4:20 |
 | 43 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
 | 44 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
 | 45 | [Rain Sounds for Sleeping, Pt\. 06 \(Continuous No Gaps\)](https://open.spotify.com/track/7gF2mPcjipv2hLGHY7bi17) | [White Noise Radiance](https://open.spotify.com/artist/0QUBaF6Rtta4TTmxYYfzux), [Rain Sounds](https://open.spotify.com/artist/5nSGBmlgUdqWNExnOX8VtV) | [10 Hours of Continuous Rain Sounds for Sleeping](https://open.spotify.com/album/54vGSK50oe08qxz2xXECEC) | 6:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMwmF30ppw50.md) - [plain]
 | 49 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 | 50 | [Riptide](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Deluxe Edition\)](https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT) | 3:24 |
 
-Snapshot ID: `McYZWAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `McdviAAAAAAAAAAAAAAAAAAAAAAAAGVu`

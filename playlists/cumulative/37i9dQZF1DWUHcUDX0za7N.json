@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "1942",
+        "url": "https://open.spotify.com/album/4vqElV5yYZYLkh2T6ssMHw"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B"
+    },
+    {
+      "album": {
         "name": "R2 Sept 12",
         "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
       },
@@ -1267,6 +1285,28 @@
     },
     {
       "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165991,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
+    },
+    {
+      "album": {
         "name": "BACK IN UNI",
         "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
       },
@@ -1853,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "Big Bad World",
+        "url": "https://open.spotify.com/album/4pCFcva7BTJM5Onhh4hiEn"
+      },
+      "artists": [
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148636,
+      "name": "Big Bad World",
+      "url": "https://open.spotify.com/track/5TPAFz0dbYfWSEcDOKUYBc"
+    },
+    {
+      "album": {
         "name": "Big Bum Bum",
         "url": "https://open.spotify.com/album/3sb9wp0YtrNwfHajHmWF8S"
       },
@@ -2382,7 +2440,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 173559,
       "name": "BORN TO BE GREAT",
       "url": "https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl"
@@ -3754,7 +3812,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 226666,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/6N93363KAGUQFviDFAmuhz"
@@ -6908,7 +6966,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 82758,
       "name": "I knoww",
       "url": "https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF"
@@ -7490,7 +7548,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 172784,
       "name": "ISLAND GIRLS",
       "url": "https://open.spotify.com/track/1FXaBqoI5KFH8uR8UBiGI9"
@@ -10814,7 +10872,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170526,
       "name": "OBT (feat. BhadBoi OML)",
       "url": "https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex"
@@ -11832,7 +11890,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 131592,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
@@ -14815,6 +14873,36 @@
     },
     {
       "album": {
+        "name": "Titled Man",
+        "url": "https://open.spotify.com/album/3KKp6GcA79KnWNSCRq4lmo"
+      },
+      "artists": [
+        {
+          "name": "Crown Ape",
+          "url": "https://open.spotify.com/artist/6nnAwOJLUlSt8Jjl484R7r"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        },
+        {
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218136,
+      "name": "Titled Man",
+      "url": "https://open.spotify.com/track/7bwcPyehJbv09za87ij9ox"
+    },
+    {
+      "album": {
         "name": "To the Max",
         "url": "https://open.spotify.com/album/34kBsbz1eruAwZcuETkmUF"
       },
@@ -16091,6 +16179,32 @@
     },
     {
       "album": {
+        "name": "GBED$$$",
+        "url": "https://open.spotify.com/album/4EglvXBZ5ofjhhRAv0qygO"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157794,
+      "name": "WOE$KII",
+      "url": "https://open.spotify.com/track/0n9bLhbejFfR54AehIevMU"
+    },
+    {
+      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
@@ -16310,6 +16424,24 @@
       "duration_ms": 156470,
       "name": "W\u00e0s\u00e9r\u00e8",
       "url": "https://open.spotify.com/track/6QeLXEmMJsuu3r9RtKncCT"
+    },
+    {
+      "album": {
+        "name": "B4R&W",
+        "url": "https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130140,
+      "name": "Y26k",
+      "url": "https://open.spotify.com/track/4JsuLvXMwVB8552sXp8VEt"
     },
     {
       "album": {

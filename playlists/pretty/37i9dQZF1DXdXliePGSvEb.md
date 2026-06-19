@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,290 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,289 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 19 | [All My Friends](https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:20 |
 | 20 | [BR3ATH3](https://open.spotify.com/track/55mBen1aWkKJC9W3Mzjo5J) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC) | [BR3ATH3](https://open.spotify.com/album/4IjgjKh1QcQyx1K7xr2MKR) | 4:49 |
 | 21 | [A Deeper Life](https://open.spotify.com/track/2BeFVOi5hh545rnHTmDmPF) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Isaac Aesili](https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE) | [A Deeper Life](https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F) | 8:04 |
-| 22 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |
-| 23 | [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 |
+| 22 | [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 |
+| 23 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 |
 | 24 | [Into Dust \(Still Falling\)](https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Into Dust \(Still Falling\)](https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0) | 5:33 |
-| 25 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 |
+| 25 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |
 | 26 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
 | 27 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 28 | [START UP A RUMOUR](https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [START UP A RUMOUR](https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt) | 3:20 |
 | 29 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 |
-| 30 | [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 |
-| 31 | [Air](https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [FOREVER](https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh) | 3:42 |
+| 30 | [Air](https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [FOREVER](https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh) | 3:42 |
+| 31 | [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 |
 | 32 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 |
 | 33 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 |
 | 34 | [Monsoon](https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [DUMB](https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs) | 2:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,909 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,968 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 71 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
 | 72 | [Bridges](https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Nedja](https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN) | [Heart \- EP](https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP) | 3:01 |
 | 73 | [Holding Hands](https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Holding Hands](https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J) | 2:50 |
-| 74 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
-| 75 | [You Always Knew That Feeling](https://open.spotify.com/track/1VnREQaW6uCVuznjVKNY7h) | [Jennifur](https://open.spotify.com/artist/3IZ1UX4baD16tONZHqaQhb) | [You Always Knew That Feeling](https://open.spotify.com/album/6U83FfftHQv57gB9hSapLT) | 3:05 |
+| 74 | [You Always Knew That Feeling](https://open.spotify.com/track/1VnREQaW6uCVuznjVKNY7h) | [Jennifur](https://open.spotify.com/artist/3IZ1UX4baD16tONZHqaQhb) | [You Always Knew That Feeling](https://open.spotify.com/album/6U83FfftHQv57gB9hSapLT) | 3:05 |
+| 75 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
 | 76 | [Memories](https://open.spotify.com/track/0VvWm52C4RIGG5ONseFy8D) | [Tenashee](https://open.spotify.com/artist/2pxtbaUgYSasZSHOQKGC9s), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz), [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Memories](https://open.spotify.com/album/17Xrkd8IgpkcbSayGmNvwG) | 3:19 |
 | 77 | [Lines](https://open.spotify.com/track/63qu72CjJpo4TWkg7fY54B) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Lines](https://open.spotify.com/album/3kdKeoPkQpKnchJDmuzuNn) | 4:26 |
 | 78 | [Ohh Baby](https://open.spotify.com/track/4P19q3dSHap2uHkqRsF4YS) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Space Drag](https://open.spotify.com/album/0IRRsRMpxLm9wkQyFtoSfx) | 5:08 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 81 | [Been Such a Long Time \- Luke Alessi Remix](https://open.spotify.com/track/57G4GO2Q2VPiQZjSnWhPgg) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Been Such a Long Time \(Luke Alessi Remixes\)](https://open.spotify.com/album/1ygb2SakGO4F333VZEpkoo) | 4:41 |
 | 82 | [Sun\_3hd](https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0) | [Rein](https://open.spotify.com/artist/5RUjaQZcU0IX0ayjFQrQQt) | [Sun\_3hd](https://open.spotify.com/album/1h9XUarVfrkzHUk350s4K1) | 6:16 |
 | 83 | [locket](https://open.spotify.com/track/1jXxhzjFxH8hN1xmcnYhjs) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv), [Ari Liloia](https://open.spotify.com/artist/6rYxB2pEDc1emPnoDq8rg3) | [keepsakeFM](https://open.spotify.com/album/2i1cIbR3OSxc6Mwx1UDgyH) | 2:16 |
-| 84 | [Good Night Baby](https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Good Night Baby](https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4) | 4:21 |
-| 85 | [All I Need](https://open.spotify.com/track/4XE1zWdwAyTxmzOom1wM3h) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Flowerdrum](https://open.spotify.com/album/2nTAmXD5n7KSDEWTpdtXCk) | 4:08 |
+| 84 | [All I Need](https://open.spotify.com/track/4XE1zWdwAyTxmzOom1wM3h) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Flowerdrum](https://open.spotify.com/album/2nTAmXD5n7KSDEWTpdtXCk) | 4:08 |
+| 85 | [Good Night Baby](https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Good Night Baby](https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4) | 4:21 |
 | 86 | [Affection](https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Affection](https://open.spotify.com/album/0oDifJioDcsvb3rt03OPPp) | 3:40 |
 | 87 | [Eon Lens](https://open.spotify.com/track/15qiprD5zSvHE0JF8duU3J) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Eon Lens](https://open.spotify.com/album/12ya6nZTDp02vO0W8uCwL6) | 5:43 |
 | 88 | [how2feel](https://open.spotify.com/track/0jMHvOP80LTKOQ8HMxE3yf) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [how2feel](https://open.spotify.com/album/6i9uwLdKpZTxrC65hJZArc) | 2:52 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 94 | [Sugar for the Pill](https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:30 |
 | 95 | [Saw You for the First Time](https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 6:44 |
 | 96 | [Poison Tree](https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE) | 3:16 |
-| 97 | [An Ending, a Beginning](https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Other Lights](https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb) | 2:08 |
-| 98 | [Another Girl](https://open.spotify.com/track/0eHYHJ7tpSXYvka4zgejeG) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Another Girl](https://open.spotify.com/album/3AQwqy7mrNS5InBDlDSDIA) | 6:42 |
-| 99 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 |
+| 97 | [Another Girl](https://open.spotify.com/track/0eHYHJ7tpSXYvka4zgejeG) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Another Girl](https://open.spotify.com/album/3AQwqy7mrNS5InBDlDSDIA) | 6:42 |
+| 98 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 |
+| 99 | [An Ending, a Beginning](https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Other Lights](https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb) | 2:08 |
 | 100 | [Odyssey](https://open.spotify.com/track/1luDTOkUqKMQ8gQvB3U3gO) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Dan Heath](https://open.spotify.com/artist/0DHqlyxrbPpHcR8MQqP14P) | [Odyssey](https://open.spotify.com/album/4OiAIm1kS30F3QOgmmfC3L) | 3:25 |
 
 Snapshot ID: `AAAAAKuZHoAXSfFuDSFYQ8AnRmp5jQcm`

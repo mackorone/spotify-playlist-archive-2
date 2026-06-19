@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,657 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,760 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 11 | [Ahista](https://open.spotify.com/track/3GIxNehfNB1vsDCTWBoGiU) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Stolen Moments](https://open.spotify.com/album/1rH4PEQvD7A4PcXcuc05K9) | 7:14 |
 | 12 | [Nain Se Naino Ko Mila](https://open.spotify.com/track/5dU0yXUXYjP1e6e2s6OSh2) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Tera Chehra](https://open.spotify.com/album/5RzyMZc5rfjS1G8JzuI97a) | 4:12 |
 | 13 | [Ho Jayegi Balle Balle](https://open.spotify.com/track/6ZdUoU3nGE4elsw4HSu5fu) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Ho Jayegi Balle Balle](https://open.spotify.com/album/3GRXDOkaGugQQWm0dQgdxM) | 4:49 |
-| 14 | [Dil Le Gayee](https://open.spotify.com/track/69c3TizFHuPtBa7WTBTnXx) | [Jassi](https://open.spotify.com/artist/0QicOPoGCIHxlRFG0I4r9H) | [Nishani Pyar Di](https://open.spotify.com/album/2FQZblRJlJsEKrXWqWk1vz) | 4:52 |
-| 15 | [Aankhon Mein](https://open.spotify.com/track/77y2yW2spk3HCkZXjlbhCD) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ) | [Aankhon Mein Tera Hi Chehra](https://open.spotify.com/album/6mCDTT1XGTf48p6FkK9qFL) | 4:31 |
+| 14 | [Aankhon Mein](https://open.spotify.com/track/77y2yW2spk3HCkZXjlbhCD) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ) | [Aankhon Mein Tera Hi Chehra](https://open.spotify.com/album/6mCDTT1XGTf48p6FkK9qFL) | 4:31 |
+| 15 | [Dil Le Gayee](https://open.spotify.com/track/69c3TizFHuPtBa7WTBTnXx) | [Jassi](https://open.spotify.com/artist/0QicOPoGCIHxlRFG0I4r9H) | [Nishani Pyar Di](https://open.spotify.com/album/2FQZblRJlJsEKrXWqWk1vz) | 4:52 |
 | 16 | [Rock Tha Party](https://open.spotify.com/track/0NoNwbg1fnrb3DHCZ8We6q) | [Bombay Rockers](https://open.spotify.com/artist/1bLQBuSop3ekE5Qustj5nP) | [Introducing…](https://open.spotify.com/album/0A9PclEuPJL5dmc9eAso14) | 3:32 |
 | 17 | [Kehdoon Tumhen \(Close To U\)](https://open.spotify.com/track/2up5kZEADyiPGQNDhgdDVl) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Ramona](https://open.spotify.com/artist/4AlZlo4zQrs1xVL37oZsIl), [Blazee](https://open.spotify.com/artist/0DfkTmaYSHh3urEl71R9A0), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [The Return Of Daddy Mix](https://open.spotify.com/album/3XureElTa0Ra4VRxbn72oa) | 4:56 |
 | 18 | [Leja Leja](https://open.spotify.com/track/5kWMV8yuPP6zSdz4MZhjVh) | [Ustad Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Ustad And The Divas](https://open.spotify.com/album/01s2aUyGKULtAK1Q6BEdV7) | 4:29 |
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 22 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |
 | 23 | [Maine Payal Hai Chhankai](https://open.spotify.com/track/51EUKH2M1QGN50iGUlnxmU) | [Falguni Pathak](https://open.spotify.com/artist/6nAVJkZZ55jorZmO5bpezv) | [Maine Payal Hai Chhankai & Other Hits](https://open.spotify.com/album/4qahs4ZSSw4yVX6HIghALw) | 4:39 |
 | 24 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
-| 25 | [Dholna](https://open.spotify.com/track/2wl5TR6jkmnU0gE16p6fzH) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Pyar Ke Geet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6j1UaM7zAqvnQ9WYdvRwy7) | 4:40 |
-| 26 | [Is Kadar Pyar Hai Tumse](https://open.spotify.com/track/5rOTik1LSA6A1OPbRRwJdy) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 5:24 |
+| 25 | [Is Kadar Pyar Hai Tumse](https://open.spotify.com/track/5rOTik1LSA6A1OPbRRwJdy) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 5:24 |
+| 26 | [Dholna](https://open.spotify.com/track/2wl5TR6jkmnU0gE16p6fzH) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Pyar Ke Geet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6j1UaM7zAqvnQ9WYdvRwy7) | 4:40 |
 | 27 | [Don't Be Shy](https://open.spotify.com/track/1MbYpxr2x4f2B13OHLwQgw) | [Rouge](https://open.spotify.com/artist/68PVS6ZpjnsIIARGI0h8mi) | [Don't Be Shy](https://open.spotify.com/album/2eqktpsBOh0TMyZ0JMzryo) | 3:12 |
 | 28 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 |
 | 29 | [Sayonee](https://open.spotify.com/track/075QYa566prNemChnZDEY1) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Azadi](https://open.spotify.com/album/5xLL0ENxSbpHlSjstHntIM) | 5:04 |
-| 30 | [Dekha Hai Teri Aankhon Ko](https://open.spotify.com/track/3GVXeCSri5gx5TEn9MmW9V) | [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Dekha Hai Teri Aankhon Ko](https://open.spotify.com/album/7dZkrrf2KRYUxQpJe62O4L) | 3:56 |
-| 31 | [Deewana Tera](https://open.spotify.com/track/2bJZCUnAI9Se6MmtQy8Fcv) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:00 |
+| 30 | [Deewana Tera](https://open.spotify.com/track/2bJZCUnAI9Se6MmtQy8Fcv) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:00 |
+| 31 | [Dekha Hai Teri Aankhon Ko](https://open.spotify.com/track/3GVXeCSri5gx5TEn9MmW9V) | [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Dekha Hai Teri Aankhon Ko](https://open.spotify.com/album/7dZkrrf2KRYUxQpJe62O4L) | 3:56 |
 | 32 | [Kya Soorat Hai](https://open.spotify.com/track/2uGLo0jNB0LNDX5yHkZhFR) | [Bombay Vikings](https://open.spotify.com/artist/0IOJyZSSqmto4oze5nSCo0) | [Kya Surat Hai](https://open.spotify.com/album/2bQctlBwJyk3uL2jG8f3bN) | 3:53 |
 | 33 | [Saade Dil Te Chhuriyan Chaliyan](https://open.spotify.com/track/4MmlE62E59WSZtH90Kbu5C) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Ho Jayegi Balle Balle](https://open.spotify.com/album/3GRXDOkaGugQQWm0dQgdxM) | 3:12 |
 | 34 | [Sochta Hun Uska Dil](https://open.spotify.com/track/5UivuAWteghGcxElCwX7Pk) | [Babul Supriyo](https://open.spotify.com/artist/7guD32ltIhsA1tHdf7IVe0) | [Sochta Hun](https://open.spotify.com/album/228iPPykSMuAzeTH71RDmc) | 4:16 |

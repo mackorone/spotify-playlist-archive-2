@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 
 > This is Playboi Carti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,915 likes - 47 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,948 likes - 47 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 33 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 |
 | 34 | [FlatBed Freestyle](https://open.spotify.com/track/5nayhWICkQGMTkisxVMbRw) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:13 |
 | 35 | [New Tank](https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:29 |
-| 36 | [Let's Do It \(feat\. Playboi Carti & Skooly\)](https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:22 |
-| 37 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 |
+| 36 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 |
+| 37 | [Let's Do It \(feat\. Playboi Carti & Skooly\)](https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:22 |
 | 38 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 |
 | 39 | [Summer Bummer \(feat\. A$AP Rocky & Playboi Carti\)](https://open.spotify.com/track/5QqyRUZeBE04yJxsD1OC0I) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:20 |
 | 40 | [Off The Meter \(with Playboi Carti & Destroy Lonely\)](https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:39 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 46 | [Uh Uh \- feat\. Playboi Carti](https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Mansion Musick](https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4) | 2:46 |
 | 47 | [100 Racks \(Offset feat\. Playboi Carti\)](https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:37 |
 
-Snapshot ID: `ajCSAAAAAAAKanbXHF1MP3sxT5Pi4/Wo`
+Snapshot ID: `ajHjgAAAAAAXtTa6zJrGm4vWa8Tg780C`

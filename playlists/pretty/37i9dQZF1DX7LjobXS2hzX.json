@@ -1,15 +1,35 @@
 {
   "description": "Voici les hits du moment avec LOST",
-  "num_followers": 142375,
+  "num_followers": 142362,
   "original_name": "La Hit Liste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK9KMLDnXrfOFwUnpFOYV/FPES9i",
+  "snapshot_id": "AAAAAA7URiOrBdwfDKRpqvV8r0BFr7sN",
   "tracks": [
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
+      "album": {
+        "name": "MONSTRE",
+        "url": "https://open.spotify.com/album/0PIKu8Kbqbef0MsIlb4GNV"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Ill\u00e9gal",
+      "url": "https://open.spotify.com/track/6xjGT0wCJvMU77T9SQUOlo"
+    },
+    {
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
@@ -45,7 +65,7 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "GAMAN",
         "url": "https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/5hmxAHWDIaZJ3iuLsk5NY7"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Ma chanson pr\u00e9f\u00e9r\u00e9e",
         "url": "https://open.spotify.com/album/7ar4ggbBmvZyrWXtT2EdpY"
@@ -81,7 +101,23 @@
       "url": "https://open.spotify.com/track/6TVJ1b2N8gFUa6HuEKqJ69"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
+      "album": {
+        "name": "Mademoiselle",
+        "url": "https://open.spotify.com/album/5OCHnxfcb5Rgi3SmDsZJEJ"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 197435,
+      "name": "Mademoiselle",
+      "url": "https://open.spotify.com/track/6l6bh1BetpFBtKZRhNIN2v"
+    },
+    {
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "je n'entends plus",
         "url": "https://open.spotify.com/album/7BsHuSyxz1pZ7hDbf8GB5h"
@@ -97,7 +133,7 @@
       "url": "https://open.spotify.com/track/45I6Tnlo8gSv3kYKWu4f1c"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Dance With the Sun (Ol\u00e9 Ol\u00e9)",
         "url": "https://open.spotify.com/album/5tbcyBLj7Kc5gwH5atwyob"
@@ -117,7 +153,7 @@
       "url": "https://open.spotify.com/track/0WzvrM4odU3A6pK07EmioN"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Ricardo",
         "url": "https://open.spotify.com/album/36iPQwFaUWTGjG70sPhtUN"
@@ -133,7 +169,7 @@
       "url": "https://open.spotify.com/track/0koMZx6hCGqzZjEeJu9Dad"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "I Knew It, I Knew You",
         "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
@@ -149,7 +185,7 @@
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "hate that i made you love me",
         "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
@@ -165,7 +201,7 @@
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "J't'en vacances (j'fais c'que j'veux)",
         "url": "https://open.spotify.com/album/2MKmI0ZxUvXA5ZlEHeuvml"
@@ -201,7 +237,7 @@
       "url": "https://open.spotify.com/track/3cgOQLfKsHchjogpWaFE41"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Choosin' Texas",
         "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
@@ -217,7 +253,7 @@
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Deep Water",
         "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
@@ -233,7 +269,7 @@
       "url": "https://open.spotify.com/track/5NIrBJ64wXc8eZB317cmqZ"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
@@ -249,7 +285,7 @@
       "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Alouette!",
         "url": "https://open.spotify.com/album/3DH22OuM4KWNsKDevq3j3n"
@@ -265,7 +301,7 @@
       "url": "https://open.spotify.com/track/0tVA3ZlfIhV7SC73fegUSI"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Qui je suis",
         "url": "https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1"
@@ -281,7 +317,7 @@
       "url": "https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Le c\u0153ur \u00e0 la bonne place",
         "url": "https://open.spotify.com/album/69ZYia8iytJHvAOGO13UYP"
@@ -301,7 +337,7 @@
       "url": "https://open.spotify.com/track/6ZNpcOR6olDX8ruuR1hBII"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Si j'avais un clou",
         "url": "https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl"
@@ -317,7 +353,7 @@
       "url": "https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
@@ -333,7 +369,7 @@
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Mr. Know It All",
         "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
@@ -349,7 +385,7 @@
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
@@ -365,7 +401,7 @@
       "url": "https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "FEVER DREAM",
         "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
@@ -381,7 +417,7 @@
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "WOR$T GIRL IN AMERICA",
         "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
@@ -397,7 +433,7 @@
       "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Hit the Wall",
         "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
@@ -413,7 +449,7 @@
       "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -429,7 +465,7 @@
       "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Dansons",
         "url": "https://open.spotify.com/album/18y0UlYOveexsqLeSswHG5"
@@ -445,7 +481,7 @@
       "url": "https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "L'amour",
         "url": "https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5"
@@ -465,7 +501,7 @@
       "url": "https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/3aS2BgGCVSbHwCFNcf5Qvl"
@@ -481,7 +517,7 @@
       "url": "https://open.spotify.com/track/5Ktp9NwJYIGCL6YgdlrRy5"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "MONTR\u00c9AL 25",
         "url": "https://open.spotify.com/album/0KLvAjUQy4XuJ93MOWTbjs"
@@ -497,7 +533,7 @@
       "url": "https://open.spotify.com/track/0NbNlydNs5JITOvtirFgKi"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Buzz\u00e9 Pack",
         "url": "https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI"
@@ -529,7 +565,7 @@
       "url": "https://open.spotify.com/track/0DerIoTW99VdoDKNDBIVsU"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Fancy That",
         "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
@@ -545,7 +581,7 @@
       "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "The Way We Touch",
         "url": "https://open.spotify.com/album/4BZUr9W8PmYcwfzM6aHg12"
@@ -561,7 +597,7 @@
       "url": "https://open.spotify.com/track/4A5RlP9QGsqPdTwCOpcwKK"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Maladie",
         "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
@@ -577,7 +613,7 @@
       "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/1ih1sEDRvMpNRUbInc6hfD"
@@ -593,7 +629,7 @@
       "url": "https://open.spotify.com/track/06csBJCLcIQJbR113EuURC"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "EVIL WORLD",
         "url": "https://open.spotify.com/album/6v5mzCcDl3yZzi8EtPIslR"
@@ -609,7 +645,7 @@
       "url": "https://open.spotify.com/track/3p7Xlyos3h0Ua6XNe2LviD"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "She Stole My Truck",
         "url": "https://open.spotify.com/album/0hjiKG6daMiML6mvD0fZEC"
@@ -625,7 +661,7 @@
       "url": "https://open.spotify.com/track/5VoOUxtMkxqNC0XuolPHcL"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -641,7 +677,7 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "J'te trippe dessus / P'us d'plan\u00e8te",
         "url": "https://open.spotify.com/album/6hVUXRNXFQFgovp56HZPWM"
@@ -657,7 +693,7 @@
       "url": "https://open.spotify.com/track/4fcl4jh8dVZ9CSB96FaACU"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Je te laisserai des mots",
         "url": "https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Rivi\u00e8re",
         "url": "https://open.spotify.com/album/3xsOfF7KbAqA2PyW9mWytV"
@@ -693,7 +729,7 @@
       "url": "https://open.spotify.com/track/4NAWiD6hltdiI4zvdbl3J9"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Tant pis pour elle",
         "url": "https://open.spotify.com/album/0D7w7NEXkbNnhMLDm1tawk"
@@ -709,7 +745,7 @@
       "url": "https://open.spotify.com/track/2GDZe8GdXd0LoUtpVpMUVy"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -725,7 +761,7 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Vol.II",
         "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
@@ -741,7 +777,7 @@
       "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Zendaya",
         "url": "https://open.spotify.com/album/3FKIScubGhjN8tUjWCDCuf"
@@ -761,7 +797,7 @@
       "url": "https://open.spotify.com/track/5FK0U9DnJ8UEJNkwUuUL74"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Record n\u00b0V",
         "url": "https://open.spotify.com/album/10J5WwzpLF6FRz7MABkLps"
@@ -777,7 +813,7 @@
       "url": "https://open.spotify.com/track/6MvBA4qUPzHQd6PMt9tA5i"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -793,7 +829,7 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -809,7 +845,7 @@
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Tant qu'on est toi et moi",
         "url": "https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T"
@@ -825,7 +861,7 @@
       "url": "https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg"
     },
     {
-      "added_at": "2026-06-12 04:02:58",
+      "added_at": "2026-06-19 04:02:58",
       "album": {
         "name": "Journal d'un Loup-Garou",
         "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
@@ -839,38 +875,6 @@
       "duration_ms": 309760,
       "name": "Dis-moi dis-moi dis-moi",
       "url": "https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu"
-    },
-    {
-      "added_at": "2026-06-12 04:02:58",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
-    },
-    {
-      "added_at": "2026-06-12 04:02:58",
-      "album": {
-        "name": "Toutes les rues sont silencieuses",
-        "url": "https://open.spotify.com/album/0TiErnEo7n4RpcFM6tTTCa"
-      },
-      "artists": [
-        {
-          "name": "Jay Sc\u00f8tt",
-          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
-        }
-      ],
-      "duration_ms": 178447,
-      "name": "Woodstock",
-      "url": "https://open.spotify.com/track/0oBxRhHoaLXn7pK2uaqhuN"
     }
   ],
   "unique_name": "La Hit Liste",

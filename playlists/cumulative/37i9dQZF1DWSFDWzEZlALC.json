@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Blumengarten",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: SOFFIE",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -308,6 +308,24 @@
       "duration_ms": 211973,
       "name": "17. Juli 1989",
       "url": "https://open.spotify.com/track/6S0TLeKgZ34PLBF7vbFcJP"
+    },
+    {
+      "album": {
+        "name": "17000 Meilen",
+        "url": "https://open.spotify.com/album/6Tldckcsir5Hn6EbK88UG1"
+      },
+      "artists": [
+        {
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "17000 Meilen",
+      "url": "https://open.spotify.com/track/5OIvnAOpwJbHrKzI5udm6w"
     },
     {
       "album": {
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 199146,
       "name": "Alles Vorbei",
       "url": "https://open.spotify.com/track/475EYKLvOX9YaCJJ4cHrsS"
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 152324,
       "name": "Amanda",
       "url": "https://open.spotify.com/track/5jyRLWQaULXTKZcFIMlmmt"
@@ -2152,7 +2170,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 208615,
       "name": "amore abgrundtief",
       "url": "https://open.spotify.com/track/3bfwHHYGKSuMr6SjtTQcDW"
@@ -2784,7 +2802,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 127333,
       "name": "Auf dich",
       "url": "https://open.spotify.com/track/2otC9SlXj6GmQhMAwK5DyR"
@@ -3287,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "Bademeister",
+        "url": "https://open.spotify.com/album/2OkyCn8q3W3VuMOfGJKgZa"
+      },
+      "artists": [
+        {
+          "name": "yara",
+          "url": "https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147950,
+      "name": "Bademeister",
+      "url": "https://open.spotify.com/track/0Vj1J0HvrZGpk6GvptnKmj"
+    },
+    {
+      "album": {
         "name": "badezimmer",
         "url": "https://open.spotify.com/album/388lsBaN0NRYHYU8BDpOhv"
       },
@@ -3587,6 +3623,24 @@
     },
     {
       "album": {
+        "name": "beijing",
+        "url": "https://open.spotify.com/album/3e0JxopFuRzQkHUOUZ2vI2"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118200,
+      "name": "beijing",
+      "url": "https://open.spotify.com/track/4TXXiugsx7XUPLT4qVJvd9"
+    },
+    {
+      "album": {
         "name": "Beiss mich fest",
         "url": "https://open.spotify.com/album/6OQaolEPGCprA6DZeckT2f"
       },
@@ -3790,7 +3844,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 225897,
       "name": "Besser als morgen",
       "url": "https://open.spotify.com/track/1kOVwHYDgVsTwmKviwWfxk"
@@ -3946,6 +4000,24 @@
       "duration_ms": 173520,
       "name": "BIS EINER WEINT",
       "url": "https://open.spotify.com/track/1iMuG0PaAK5ORbHuIJ54Ah"
+    },
+    {
+      "album": {
+        "name": "Bist du noch da",
+        "url": "https://open.spotify.com/album/2AXhD4rk0JIkt3rYReK6rm"
+      },
+      "artists": [
+        {
+          "name": "FREDRIK",
+          "url": "https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221205,
+      "name": "Bist du noch da",
+      "url": "https://open.spotify.com/track/4Sxg5naRGtlmeTE4NLQUzk"
     },
     {
       "album": {
@@ -5412,7 +5484,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 145116,
       "name": "Cooked",
       "url": "https://open.spotify.com/track/7piFVylkRO6hOmQanHlDOZ"
@@ -5459,6 +5531,24 @@
     },
     {
       "album": {
+        "name": "Crop Top Boy",
+        "url": "https://open.spotify.com/album/4nIFrIJ8WucC5GBEf3VvcK"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129471,
+      "name": "Crop Top Boy",
+      "url": "https://open.spotify.com/track/6dZfgdDKew60Qq7Jjn6Z94"
+    },
+    {
+      "album": {
         "name": "Cruisen",
         "url": "https://open.spotify.com/album/456CPopRAisSeK6XfI4fy0"
       },
@@ -5488,7 +5578,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 128490,
       "name": "c\u00f4te d\u2019azur",
       "url": "https://open.spotify.com/track/0xquiEavk4Gj6wzJGmJSTe"
@@ -8197,6 +8287,24 @@
     },
     {
       "album": {
+        "name": "einzelteile",
+        "url": "https://open.spotify.com/album/3ea5WWydw1JDNz5cggpxal"
+      },
+      "artists": [
+        {
+          "name": "Yukno",
+          "url": "https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204513,
+      "name": "einzelteile",
+      "url": "https://open.spotify.com/track/6M7Nc8vK5T6Hmlgz2IkghD"
+    },
+    {
+      "album": {
         "name": "N\u00e4he/Distanz",
         "url": "https://open.spotify.com/album/3WzITMAhHFKV8fGy6NWdFv"
       },
@@ -8576,7 +8684,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 149589,
       "name": "Erdbeereis",
       "url": "https://open.spotify.com/track/6UcfekMI5nzNwPb3fNbal0"
@@ -11001,6 +11109,24 @@
     },
     {
       "album": {
+        "name": "ganz egal EP",
+        "url": "https://open.spotify.com/album/64k6ouKeUs8LtxZox04dr6"
+      },
+      "artists": [
+        {
+          "name": "jaschu",
+          "url": "https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157942,
+      "name": "ganz egal",
+      "url": "https://open.spotify.com/track/5mYxmx18pW25tP2tySMdf9"
+    },
+    {
+      "album": {
         "name": "Ganze Torte Scham.",
         "url": "https://open.spotify.com/album/0d1xzAzshldEtUYw73hR0p"
       },
@@ -12199,6 +12325,24 @@
     },
     {
       "album": {
+        "name": "gute geister",
+        "url": "https://open.spotify.com/album/5QioEAqRojamvD83Kw1w8D"
+      },
+      "artists": [
+        {
+          "name": "selene",
+          "url": "https://open.spotify.com/artist/3Mg9i6HVFg0ETCcGMqNhU9"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126620,
+      "name": "gute geister",
+      "url": "https://open.spotify.com/track/1qEEhLq83vQKPlcRgbtU7k"
+    },
+    {
+      "album": {
         "name": "Maschinenmensch EP",
         "url": "https://open.spotify.com/album/0aB1rZ0lKJU3dIea7UkFrf"
       },
@@ -12280,6 +12424,28 @@
       "duration_ms": 131857,
       "name": "G\u20acLD",
       "url": "https://open.spotify.com/track/6ZuBdYeF4hDOv81YbtH14J"
+    },
+    {
+      "album": {
+        "name": "habt euch lieb",
+        "url": "https://open.spotify.com/album/7dv0hrWJd3nmAT76zshkgE"
+      },
+      "artists": [
+        {
+          "name": "jaydee",
+          "url": "https://open.spotify.com/artist/1cNaJ7b5yqUMmJeHKSBK8v"
+        },
+        {
+          "name": "zuender",
+          "url": "https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "habt euch lieb",
+      "url": "https://open.spotify.com/track/0kcCoOpxg0uS341DdK4PDp"
     },
     {
       "album": {
@@ -12424,6 +12590,28 @@
       "duration_ms": 142608,
       "name": "halbe sachen",
       "url": "https://open.spotify.com/track/1CxKNERZr6gi9oGHJ6CbeJ"
+    },
+    {
+      "album": {
+        "name": "Halbe Schachtel",
+        "url": "https://open.spotify.com/album/0T1irXefFwVu1hFGyJjFrS"
+      },
+      "artists": [
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160130,
+      "name": "Halbe Schachtel",
+      "url": "https://open.spotify.com/track/1NexEC05MHCDaeKOh00kre"
     },
     {
       "album": {
@@ -13420,7 +13608,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 187000,
       "name": "Hochhaus",
       "url": "https://open.spotify.com/track/5AjIxBCf7pVb5ZopqftVsw"
@@ -13966,7 +14154,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 141895,
       "name": "Ich hab das nie gehabt",
       "url": "https://open.spotify.com/track/73Rzc2roeMf1fmzLr8qnEc"
@@ -15724,7 +15912,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 178203,
       "name": "Junkie",
       "url": "https://open.spotify.com/track/421pMbVNbXVDtSzNynVlop"
@@ -18504,7 +18692,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 156000,
       "name": "liebesbriefe",
       "url": "https://open.spotify.com/track/69MCaMdyBZdEbQ8Cmm4KR8"
@@ -19078,7 +19266,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 129218,
       "name": "luzifer",
       "url": "https://open.spotify.com/track/67etqcB3Ay4k9FwrH8k60k"
@@ -19132,7 +19320,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 121111,
       "name": "mach nich so",
       "url": "https://open.spotify.com/track/74sWsXinuC5RQAFWjhWFvU"
@@ -19190,6 +19378,24 @@
       "duration_ms": 155482,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5HmeC9Mv4IFmxeIX135sVE"
+    },
+    {
+      "album": {
+        "name": "Magnolien",
+        "url": "https://open.spotify.com/album/6T3scIZpn1hsE0rKsY3pLj"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Magnolien",
+      "url": "https://open.spotify.com/track/2nidsluLEAaLCN4BXp3TPp"
     },
     {
       "album": {
@@ -19710,7 +19916,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 114600,
       "name": "me time",
       "url": "https://open.spotify.com/track/0H2O96ucZa17GuK8P4iXQD"
@@ -20155,6 +20361,24 @@
     },
     {
       "album": {
+        "name": "Midsommar",
+        "url": "https://open.spotify.com/album/4H8VdoYyGOGIsbck7T7OZS"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157280,
+      "name": "Midsommar",
+      "url": "https://open.spotify.com/track/5FC1EYofuu7LkF8DJNuwG1"
+    },
+    {
+      "album": {
         "name": "MIESES LEBEN / WOLKEN (feat. Haiyti)",
         "url": "https://open.spotify.com/album/7dQJSvxjsFTyccNHvbsRQ5"
       },
@@ -20542,6 +20766,24 @@
       "duration_ms": 227166,
       "name": "morgen",
       "url": "https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3"
+    },
+    {
+      "album": {
+        "name": "Morgen fr\u00fch",
+        "url": "https://open.spotify.com/album/7DFZ7o87muVdmg9dJAJcXN"
+      },
+      "artists": [
+        {
+          "name": "Baumgart",
+          "url": "https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164653,
+      "name": "Morgen fr\u00fch",
+      "url": "https://open.spotify.com/track/1ozUACLMVWbfXr6GxPmtD2"
     },
     {
       "album": {
@@ -22228,6 +22470,24 @@
       "duration_ms": 121829,
       "name": "ok wenn du weinst",
       "url": "https://open.spotify.com/track/7HcAbD1vX5zznHjZJQEPi5"
+    },
+    {
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/2t4eDtFXjI5W9RJMxNopH4"
+      },
+      "artists": [
+        {
+          "name": "Jaq",
+          "url": "https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0nV4seYGREUdjoCY2PUd7h"
     },
     {
       "album": {
@@ -23997,6 +24257,24 @@
     },
     {
       "album": {
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/5aXg6CGGSrnWbxCRocFaS7"
+      },
+      "artists": [
+        {
+          "name": "Mende",
+          "url": "https://open.spotify.com/artist/1XfqP1N38BVNsyLfMD2UTL"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188728,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/2NTqEI0iCeSYvHRElRZBMk"
+    },
+    {
+      "album": {
         "name": "ROSA ROT",
         "url": "https://open.spotify.com/album/4qP4LmS4Phul7nHsSIReIY"
       },
@@ -24449,6 +24727,24 @@
     },
     {
       "album": {
+        "name": "Sag Mir",
+        "url": "https://open.spotify.com/album/68onCHfqLhBU2hdSwaIPYL"
+      },
+      "artists": [
+        {
+          "name": "mathi",
+          "url": "https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138205,
+      "name": "Sag Mir",
+      "url": "https://open.spotify.com/track/1JYrq0ZyF6oQrb3HG4mFqe"
+    },
+    {
+      "album": {
         "name": "Sag mir was du willst",
         "url": "https://open.spotify.com/album/580gUTcJs6tlqI9JDR4FsB"
       },
@@ -24620,6 +24916,24 @@
       "duration_ms": 131315,
       "name": "Sanduhr",
       "url": "https://open.spotify.com/track/0hab3VhPV6LIWZbOgwm67L"
+    },
+    {
+      "album": {
+        "name": "Sanft",
+        "url": "https://open.spotify.com/album/5YfsSejkPMLwcLwLeGzyKe"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223879,
+      "name": "Sanft",
+      "url": "https://open.spotify.com/track/1tLxFRRDxtDHnbmoW6Sq5p"
     },
     {
       "album": {
@@ -24866,6 +25180,24 @@
       "duration_ms": 172549,
       "name": "Schlalalafen",
       "url": "https://open.spotify.com/track/7xszxxMBk5CPOn0lsk02l3"
+    },
+    {
+      "album": {
+        "name": "Schlangenhaut",
+        "url": "https://open.spotify.com/album/4biXNZbPAY1YR7sVWnuyCq"
+      },
+      "artists": [
+        {
+          "name": "carls8erg",
+          "url": "https://open.spotify.com/artist/4nZDWhkKuOHrd6OxwoslWp"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181423,
+      "name": "Schlangenhaut",
+      "url": "https://open.spotify.com/track/7KfVtjIYOF0tx6MfR6IHvd"
     },
     {
       "album": {
@@ -25966,7 +26298,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 154015,
       "name": "Siegfried & Roy",
       "url": "https://open.spotify.com/track/48JQZEdveC9jCUDhlGFk1x"
@@ -28751,6 +29083,42 @@
     },
     {
       "album": {
+        "name": "Eine Wolke, die sich vor die Sonne schiebt",
+        "url": "https://open.spotify.com/album/5VYpZwbtDV8lFazEL49DeG"
+      },
+      "artists": [
+        {
+          "name": "bella bazz",
+          "url": "https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/2hqJEsX7PNKKk9P1Z5uMj5"
+    },
+    {
+      "album": {
+        "name": "Neue Hoffnung, oder wie man sie nicht verliert",
+        "url": "https://open.spotify.com/album/2MUn2mfBtCLrCVHfetvFIO"
+      },
+      "artists": [
+        {
+          "name": "diggidaniel",
+          "url": "https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/5xvyu9K4RFRVg7PVjqlzwN"
+    },
+    {
+      "album": {
         "name": "trauen",
         "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
@@ -29464,7 +29832,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 155832,
       "name": "Ungesund",
       "url": "https://open.spotify.com/track/62fzqGNID3VjdNdLHypD4Z"
@@ -29718,6 +30086,24 @@
       "duration_ms": 150000,
       "name": "Unterwegs",
       "url": "https://open.spotify.com/track/40jJzV9jbjOBffMaSNeWXT"
+    },
+    {
+      "album": {
+        "name": "Urlaub auf der Autobahn",
+        "url": "https://open.spotify.com/album/2MipsyPiWm2HYechY5yGWj"
+      },
+      "artists": [
+        {
+          "name": "RIAN",
+          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122206,
+      "name": "Urlaub auf der Autobahn",
+      "url": "https://open.spotify.com/track/5Uo8BNl6iPgkekMp1dEEKX"
     },
     {
       "album": {
@@ -31052,7 +31438,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 128759,
       "name": "Warum bist du so gemein?",
       "url": "https://open.spotify.com/track/1hvC4zi6wELchx7cWRWRGW"
@@ -32006,7 +32392,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 143017,
       "name": "Wenn Es Liebe Noch Gibt",
       "url": "https://open.spotify.com/track/2MeFzP8dUdyUzw58ud0VOP"
@@ -32190,7 +32576,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 157533,
       "name": "Wer nichts hat, kann nichts verlieren",
       "url": "https://open.spotify.com/track/30YonV3sLjut7kp72bwUNG"
@@ -32448,6 +32834,24 @@
       "duration_ms": 144859,
       "name": "wie lang geht das noch gut",
       "url": "https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw"
+    },
+    {
+      "album": {
+        "name": "Wie man tanzt",
+        "url": "https://open.spotify.com/album/60QgySsUojKs6F7luRS14s"
+      },
+      "artists": [
+        {
+          "name": "Sarro",
+          "url": "https://open.spotify.com/artist/6cFU9LlvHa1exQs5MJg6vB"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132974,
+      "name": "Wie man tanzt",
+      "url": "https://open.spotify.com/track/24cEVAkUqDen6ZmYGfwf4T"
     },
     {
       "album": {
@@ -33160,7 +33564,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 179853,
       "name": "wundersch\u00f6n",
       "url": "https://open.spotify.com/track/1zFQF4A7SOCcBFvcZZNKns"
@@ -33692,7 +34096,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 121084,
       "name": "Zu jung",
       "url": "https://open.spotify.com/track/1x5kr8H7AW5lgAUvGUfYOj"

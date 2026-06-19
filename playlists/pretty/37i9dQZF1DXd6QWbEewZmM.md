@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,613 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,684 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 36 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
 | 37 | [Ya Te Olvide](https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ya Te Olvide](https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB) | 3:36 |
 | 38 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 |
-| 39 | [Sin Pagar Renta](https://open.spotify.com/track/2NQZVzSRRatbbPWD5IfadH) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Sin Pagar Renta](https://open.spotify.com/album/6THFGUOwWMPRb6x58aVpDZ) | 3:13 |
-| 40 | [CHANEL](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [CHANEL](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 |
+| 39 | [CHANEL](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [CHANEL](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 |
+| 40 | [Sin Pagar Renta](https://open.spotify.com/track/2NQZVzSRRatbbPWD5IfadH) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Sin Pagar Renta](https://open.spotify.com/album/6THFGUOwWMPRb6x58aVpDZ) | 3:13 |
 | 41 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 |
 | 42 | [Ninguna Como Ella](https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:20 |
 | 43 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 |
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 52 | [Está Noche](https://open.spotify.com/track/6uOMIOljAGYvk0pVMpYxFI) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve) | [Está Noche](https://open.spotify.com/album/2vR2wBrb5I4UKOVyMxxVz8) | 2:04 |
 | 53 | [Amor](https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 4:41 |
 | 54 | [Baby Please](https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Baby Please](https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63) | 2:58 |
-| 55 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 |
-| 56 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
+| 55 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
+| 56 | [0 Sentimientos](https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [0 Sentimientos](https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi) | 3:15 |
 | 57 | [Adueñarme](https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Adueñarme](https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF) | 3:03 |
-| 58 | [0 Sentimientos](https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [0 Sentimientos](https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi) | 3:15 |
+| 58 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 |
 | 59 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 |
 | 60 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 |
 | 61 | [Que Pedo](https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Que Pedo](https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy) | 3:14 |

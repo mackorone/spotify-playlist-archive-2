@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 
 > Tropical nature sounds for bedtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,992 likes - 90 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,083 likes - 90 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 19 | [Rain In The Rainforest](https://open.spotify.com/track/7709cD193A9ASewVfJ849M) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Nature Living](https://open.spotify.com/album/7v6f0Qzdn4U2kLXX43D0fW) | 2:23 |
 | 20 | [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 1:44 |
 | 21 | [Songbirds at Dawn](https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Songbirds at Dawn](https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq) | 2:49 |
-| 22 | [Wildlife Storm \(Nature\)](https://open.spotify.com/track/2qqME0ZRyHJjCkfNWZpnOC) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 2:04 |
+| 22 | [Small River Stream in the Jungle](https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Small River Stream in the Jungle](https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj) | 4:41 |
 | 23 | [costa rica jungle downpour](https://open.spotify.com/track/2HvAiax6XQNCORkA6S1WoF) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [costa rica rains](https://open.spotify.com/album/3oxEFOaQCjpQxlBHeOBAuV) | 2:14 |
-| 24 | [Small River Stream in the Jungle](https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Small River Stream in the Jungle](https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj) | 4:41 |
+| 24 | [Wildlife Storm \(Nature\)](https://open.spotify.com/track/2qqME0ZRyHJjCkfNWZpnOC) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 2:04 |
 | 25 | [Insects in Rain](https://open.spotify.com/track/3Vh7Iwv7haRwZ967WwPk4C) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 2:32 |
 | 26 | [Creek Rain With Brids And Thunder \- Seamless](https://open.spotify.com/track/5cbC6ObMsFLXW9co3vlUMk) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [When It Pours It Rains](https://open.spotify.com/album/20BqShqyjjbjVXMIRVGwyB) | 2:06 |
 | 27 | [Wetland At Night](https://open.spotify.com/track/06wGShX4zK2yQMJJgjrWiB) | [Wetland Adventures](https://open.spotify.com/artist/01myJOKWFORKHtMxNWPib5) | [Wetland At Night](https://open.spotify.com/album/0DEj6QWMqXNm5b0FnncJTA) | 3:14 |
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 51 | [Wet jungle birds, crickets, and wind](https://open.spotify.com/track/39PIA9wGZKSuPBADuLwhBk) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Wet jungle birds, crickets, and wind](https://open.spotify.com/album/2w5AsB1dec413V8rHgwY6Q) | 3:41 |
 | 52 | [The Swing of the Forest](https://open.spotify.com/track/6zHlA4ul8Tbgc7VKo5gEZW) | [Sounds Of The World](https://open.spotify.com/artist/1I48Szo0ovLGZJG3q12EWC) | [Songs of the Forest](https://open.spotify.com/album/2mIncYGaadbTt4698eL9Ow) | 4:16 |
 | 53 | [Sleepy Stream XIII](https://open.spotify.com/track/1iGgsgW34vp3wnl1LL0ybf) | [Mill Pond](https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7) | [Sleepy Stream XIII](https://open.spotify.com/album/4HOPK4G0nBdZwZ6oVTIWrl) | 1:55 |
-| 54 | [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 |
+| 54 | [Soft Stream](https://open.spotify.com/track/1eC6Wmq37JseUSUILFrHTS) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Soft Stream](https://open.spotify.com/album/0JxcMY0Ayx8FFAzvOcLhqA) | 3:06 |
 | 55 | [Many Jungle Birds](https://open.spotify.com/track/0H35gcoQAOvPoFpSbO8Ylp) | [Dr\. Meditation](https://open.spotify.com/artist/3oZYKXyDVvu1P0wVIrCquY) | [200 Nature Sounds](https://open.spotify.com/album/5JojOrCQpS1pYJXAgOQkSV) | 3:12 |
-| 56 | [Soft Stream](https://open.spotify.com/track/1eC6Wmq37JseUSUILFrHTS) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Soft Stream](https://open.spotify.com/album/0JxcMY0Ayx8FFAzvOcLhqA) | 3:06 |
+| 56 | [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 |
 | 57 | [Green Until Morning](https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt) | [The Long Nap](https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU) | [Green Until Morning](https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn) | 2:04 |
 | 58 | [Dreamy Rainforest](https://open.spotify.com/track/69bd86Umw7LLAkKIxxiQGQ) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Walk in the Wild](https://open.spotify.com/album/2HqQGJKCRxwLEKsTtUUDxq) | 3:04 |
-| 59 | [Soothing Sounds Of The Forest](https://open.spotify.com/track/66i2MpxMRrYegF4Ca68egW) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Let the forest talk](https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk) | 3:32 |
-| 60 | [Rain on the Leaves](https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |
-| 61 | [Birds in the Forest](https://open.spotify.com/track/6xYPYS7c6y8f6QszLSMtCB) | [Memorable](https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV) | [Therapy Birds](https://open.spotify.com/album/2sENQCcr3TVwPG5JFiU7Ai) | 3:42 |
+| 59 | [Rain on the Leaves](https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |
+| 60 | [Birds in the Forest](https://open.spotify.com/track/6xYPYS7c6y8f6QszLSMtCB) | [Memorable](https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV) | [Therapy Birds](https://open.spotify.com/album/2sENQCcr3TVwPG5JFiU7Ai) | 3:42 |
+| 61 | [Soothing Sounds Of The Forest](https://open.spotify.com/track/66i2MpxMRrYegF4Ca68egW) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Let the forest talk](https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk) | 3:32 |
 | 62 | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/track/26MpviERp5F3eLwotmejx7) | [Sleeping Peace](https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw) | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/album/6WNnFWfsilmn4th5FDhBU2) | 8:52 |
 | 63 | [Humid Trail](https://open.spotify.com/track/0sXVczy0THItL74ACWvRdF) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Nap in the Wild](https://open.spotify.com/album/0OCN5QxiQoRZI4Oz0IMYr9) | 3:30 |
 | 64 | [Sleepy Stream XIV](https://open.spotify.com/track/4Dh5KMfMrGzyiNaUFBeMpU) | [Mill Pond](https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7) | [Sleepy Stream XIV](https://open.spotify.com/album/7sX5U6EO4Y8whRL59FenOc) | 1:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 
 > This is Ayra Starr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,846 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,871 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 | 49 | [Take It To The Top \(Becky G & Ayra Starr\)](https://open.spotify.com/track/4mKUfMSg0geJFVscFdaMcQ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION\)](https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx) | 2:05 |
 | 50 | [Amina](https://open.spotify.com/track/6n30D6vK0xN4XjA8u64F5E) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B) | [Chapter X](https://open.spotify.com/album/7u1jkHWcxmUL7lbNDNyMRY) | 3:41 |
 
-Snapshot ID: `ajCSAAAAAAAbTwmoOAdDJhRLe/om1c0q`
+Snapshot ID: `ajHjgAAAAACq1TIXYacWXBrzzdkMT4u9`

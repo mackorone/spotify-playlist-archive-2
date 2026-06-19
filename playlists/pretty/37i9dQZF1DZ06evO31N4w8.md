@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,582 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,590 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 21 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 |
 | 22 | [Por Tu Maldito Amor](https://open.spotify.com/track/4LBU6vLTwbgE6VQ6ZYeyKp) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Más Escuchado De](https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk) | 3:54 |
 | 23 | [Renunciacion](https://open.spotify.com/track/3040vDurd9VfDGb4gvj6JT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Historicos, Vol\. 2](https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV) | 3:11 |
-| 24 | [Tu Ultimo Verano](https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Rifare Mi Suerte](https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf) | 3:01 |
-| 25 | [Yo Quería A Las Dos](https://open.spotify.com/track/6S8ZzM5yzxlYl2GpXodBcT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 2:43 |
-| 26 | [No Volveré](https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Mejor De...](https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ) | 2:57 |
+| 24 | [No Volveré](https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Mejor De...](https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ) | 2:57 |
+| 25 | [Tu Ultimo Verano](https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Rifare Mi Suerte](https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf) | 3:01 |
+| 26 | [Yo Quería A Las Dos](https://open.spotify.com/track/6S8ZzM5yzxlYl2GpXodBcT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 2:43 |
 | 27 | [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
 | 28 | [El Golpe Traidor](https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:34 |
 | 29 | [Abrazado De Un Poste](https://open.spotify.com/track/2OERX7ib8Yu6YYPnngeldn) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Más Escuchado De](https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk) | 2:29 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 41 | [Falsa y Mancornadora](https://open.spotify.com/track/5lIOB6lSPG1rQtpiQwVyze) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:51 |
 | 42 | [Juan Marta](https://open.spotify.com/track/2qokG9oARhQAn2FPBt029T) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 3:31 |
 | 43 | [Amor Ingrato](https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Historicos, Vol\. 2](https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV) | 3:04 |
-| 44 | [Una Aventura](https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Castillo de Ilusión](https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU) | 3:26 |
-| 45 | [Un Engaño Más](https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:52 |
+| 44 | [Estabas Tan Linda](https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:42 |
+| 45 | [Una Aventura](https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Castillo de Ilusión](https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU) | 3:26 |
 | 46 | [Al Ver Que Te Vas](https://open.spotify.com/track/0DRAf1NW1dBCMJOq5r0RKV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 3:28 |
 | 47 | [Las Rejas No Matan](https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Mejor De...](https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ) | 3:22 |
-| 48 | [Estabas Tan Linda](https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:42 |
+| 48 | [Un Engaño Más](https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:52 |
 | 49 | [Presiento Que Voy a Llorar](https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Seguimos Firme](https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7) | 3:31 |
 | 50 | [Mi Primer Amor \(Meu Primeiro Amor\)](https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Siempre Imitado, Jamas Igualado](https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5) | 3:28 |
 
-Snapshot ID: `ajCSAAAAAADkeIuaSkYwUboaM4jsmoZI`
+Snapshot ID: `ajHjgAAAAADMjoTW9jlWRUVQkMdg8AJl`

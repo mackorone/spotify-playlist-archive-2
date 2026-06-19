@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162702,
+  "num_followers": 162699,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAACLpw+FOdHBuzb408N0dVsT",
+  "snapshot_id": "ajHjgAAAAAAH2DZXFAfFUqM6ItrQYY2K",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caminho de Milagres",
-        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 275295,
-      "name": "Caminho de Milagres",
-      "url": "https://open.spotify.com/track/6tN9l7ThcLuuwVbt773zIX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 329586,
       "name": "Ele Vem / A Cidade Santa - Ao Vivo",
       "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 275295,
+      "name": "Caminho de Milagres",
+      "url": "https://open.spotify.com/track/6tN9l7ThcLuuwVbt773zIX"
     },
     {
       "added_at": null,
@@ -623,6 +623,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ele Se Move",
+        "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 341717,
+      "name": "Ele Se Move",
+      "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minha Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
       },
@@ -651,30 +675,6 @@
       "duration_ms": 189939,
       "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
       "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele Se Move",
-        "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 341717,
-      "name": "Ele Se Move",
-      "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 160914,
-      "name": "Samuel",
-      "url": "https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 287120,
       "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
       "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 160914,
+      "name": "Samuel",
+      "url": "https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE"
     },
     {
       "added_at": null,

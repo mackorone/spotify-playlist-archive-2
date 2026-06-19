@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 大江千里
 
-524 songs - 1 day 18 hr 40 min
+525 songs - 1 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Someday My Prince Will Come \- Live at 100Ban Hall, Kobe, 2022](https://open.spotify.com/track/6H1gpUbzY2NGPpWdADWXn4) | [Hiro Kimura](https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI), [Kazuhiko Takeda](https://open.spotify.com/artist/4dz95tAaThmn1OI31rMkhU), [Miki Hirose](https://open.spotify.com/artist/1HCCpOwaRMg0YNT0GFRSPx), [Naoko Tanaka](https://open.spotify.com/artist/2CfxaAgevavjDFRRghjSVt), [Yuji Ito](https://open.spotify.com/artist/7nwmT6Ckut3gaKlyfL45NF) | [Someday My Prince Will Come \(Live at 100Ban Hall, Kobe, 2022\)](https://open.spotify.com/album/4kT6XpWuPM5q7lnevRGMNY) | 6:36 | 2023-03-07 | 2023-04-05 |
 | [Sonicwonderland](https://open.spotify.com/track/7gc3pcQOvzAgpNtY5y6SbB) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/7IWueag5hUcfCqB6AS6Ky2) | 8:15 | 2023-08-25 | 2023-09-24 |
 | [Soul Funkafied feat\. Yoshiaki Muto](https://open.spotify.com/track/2rFbfBplp0vd2hIFQWVrjY) | [Akira Jimbo](https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC) | [34/45](https://open.spotify.com/album/06lupQqsX3gZuaiECZAMge) | 4:03 | 2026-01-13 | 2026-05-14 |
+| [Soy Califa](https://open.spotify.com/track/4nAQpP8dFX9rU9UO1WrR7D) | [石川周之介](https://open.spotify.com/artist/0USuuHr06Mmk5TLrg1ctkt) | [Soy Califa](https://open.spotify.com/album/4R0gpdP9V7vyK1N18KtnHF) | 5:12 | 2026-06-19 |  |
 | [Spain](https://open.spotify.com/track/2MAcJ1Z0ShlQPDXPWsZwwc) | [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO), [木村仁星](https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8) | [Spain](https://open.spotify.com/album/3LOZ21HBgvxGVdytLCdkoE) | 5:11 | 2022-10-04 | 2022-11-16 |
 | [Spark](https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Spark](https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj) | 2:45 | 2025-06-24 |  |
 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 | 2022-09-06 | 2024-12-18 |
@@ -441,7 +442,7 @@
 | [water of goddess](https://open.spotify.com/track/6yoA5AMvxjNd1RoykmbnAZ) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [water of goddess](https://open.spotify.com/album/6xN8qW4onF9aYvqZTx2XDt) | 3:38 | 2023-01-10 | 2023-02-28 |
 | [Waterfilm](https://open.spotify.com/track/76KVWgsaoamQvSAdcmahcH) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Waterfilm](https://open.spotify.com/album/0fur4DVWgZwn44dDy9ZpFs) | 4:17 | 2024-10-01 | 2025-08-01 |
 | [Wave \- Só Danço Samba \- Samba de Uma Nota Só](https://open.spotify.com/track/1SEPQ6vkPJ5kdU2Wgtw3Ox) | [Lisa Ono](https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k) | [Wave \- Só Danço Samba \- Samba de Uma Nota Só](https://open.spotify.com/album/7vfmIP4xrni7mSiHimadQT) | 4:51 | 2026-03-24 | 2026-05-20 |
-| [WE ARE](https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl) | [N.S\. DANCEMBLE](https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr) | [WE ARE](https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr) | 4:01 | 2025-04-01 |  |
+| [WE ARE](https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl) | [N.S\. DANCEMBLE](https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr) | [WE ARE](https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr) | 4:01 | 2025-04-01 | 2026-06-19 |
 | [WE WILL](https://open.spotify.com/track/01qqs2S9rb01JaXSYiaBk0) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:11 | 2023-02-16 |  |
 | [WELCOME TO THE BLACK PARADE](https://open.spotify.com/track/747cIzkwZSoEL01oLUiCZC) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [WELCOME TO THE BLACK PARADE](https://open.spotify.com/album/2IYQXw6OPHd2yMPmtqGDlN) | 4:40 | 2023-04-04 | 2023-05-24 |
 | [What hummingbirds teach us about flying](https://open.spotify.com/track/63A5iao38RysFoJepVv63Y) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [What hummingbirds teach us about flying](https://open.spotify.com/album/2GdtjdIIi9Pa1plK5YkoQn) | 5:27 | 2025-06-03 | 2025-07-18 |

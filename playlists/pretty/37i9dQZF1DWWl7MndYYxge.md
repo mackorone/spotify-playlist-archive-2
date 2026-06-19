@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 
 > Le meilleur des années 80 en 80 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,222 likes - 80 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,227 likes - 80 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 23 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
 | 24 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 |
 | 25 | [Owner of a Lonely Heart](https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [90125 \(Deluxe Version\)](https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz) | 4:28 |
-| 26 | [Voyage voyage](https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 4:26 |
-| 27 | [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 |
+| 26 | [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 |
+| 27 | [Voyage voyage](https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 4:26 |
 | 28 | [Need You Tonight](https://open.spotify.com/track/3h04eZTnmFLRMjZajbrp2R) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick \(Remastered 2011\)](https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu) | 3:01 |
 | 29 | [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 |
 | 30 | [Purple Rain \- 7" Single Edit; 2017 Remaster](https://open.spotify.com/track/3FnP3j1TyiTwbJb5AR2ynT) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 4:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9a3CsU85wl6.md) - [plain]
 
 > For tiny adventures disguised as errands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,777 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,772 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9a3CsU85wl6.md) - [plain]
 | 13 | [Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:32 |
 | 14 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 15 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
-| 16 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
+| 16 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
 | 17 | [Where Is My Mind? \- 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(2007 Remaster\)](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
-| 18 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
+| 18 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
 | 19 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 |
 | 20 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 |
 | 21 | [Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 3:25 |

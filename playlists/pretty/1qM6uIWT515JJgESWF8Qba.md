@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 483 likes - 61 songs - 3 hr 52 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 484 likes - 61 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

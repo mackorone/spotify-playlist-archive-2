@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: K.O",
+  "description": "Proudly Southern African Afropop gems. Cover: Sjava, Emtee, Saudi, Ruff",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -4545,6 +4545,36 @@
     },
     {
       "album": {
+        "name": "The Trap Temptations",
+        "url": "https://open.spotify.com/album/5NbREtW6Pvn1U8ha72Pv5m"
+      },
+      "artists": [
+        {
+          "name": "Ruff",
+          "url": "https://open.spotify.com/artist/4MChJwJ4CmqZkLJVracqjh"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Saudi",
+          "url": "https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296470,
+      "name": "Ibandla",
+      "url": "https://open.spotify.com/track/6EpoJJIRPkO79fFZvGzSY6"
+    },
+    {
+      "album": {
         "name": "ICE BOY",
         "url": "https://open.spotify.com/album/5coGZmI44wlfeivpxWBPIJ"
       },
@@ -4590,6 +4620,28 @@
       "duration_ms": 305840,
       "name": "Idliso",
       "url": "https://open.spotify.com/track/19nYxv4eoMwEjxgruXqOSK"
+    },
+    {
+      "album": {
+        "name": "Igama",
+        "url": "https://open.spotify.com/album/3uVznnYiHoGD8madKHx6RM"
+      },
+      "artists": [
+        {
+          "name": "Nobuhle",
+          "url": "https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM"
+        },
+        {
+          "name": "Mr Luu",
+          "url": "https://open.spotify.com/artist/30f7PK6kTtrOc4HkSVGjgb"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242734,
+      "name": "Igama",
+      "url": "https://open.spotify.com/track/5HluhfaqX9cBkqVWmJdX4l"
     },
     {
       "album": {
@@ -6198,7 +6250,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 191460,
       "name": "Jabula",
       "url": "https://open.spotify.com/track/51KkTuxHUuuXt0ymodfw1X"
@@ -6638,7 +6690,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 231910,
       "name": "Khumbula (feat. Nobantu Vilakazi, 031 Choppa, Jay Sax & Mzizi)",
       "url": "https://open.spotify.com/track/1yqoQCmrxuoAheiGOfilhc"
@@ -13423,6 +13475,24 @@
     },
     {
       "album": {
+        "name": "Thandeka",
+        "url": "https://open.spotify.com/album/1sK87EicEM1oKpLO1KrJlG"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Thandeka",
+      "url": "https://open.spotify.com/track/1uz9gA7mEOuzfV78JjToh3"
+    },
+    {
+      "album": {
         "name": "Thando",
         "url": "https://open.spotify.com/album/56HyXXGbXrhDZ1yLeLVpqR"
       },
@@ -15344,7 +15414,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 156226,
       "name": "UThando Olufudumele",
       "url": "https://open.spotify.com/track/1Yf2Dda3imm3Y34Kgd8uWU"

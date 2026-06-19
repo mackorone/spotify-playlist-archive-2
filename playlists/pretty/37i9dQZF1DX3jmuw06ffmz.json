@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 2000. Foto: Paulina Rubio",
-  "num_followers": 428693,
+  "num_followers": 428782,
   "original_name": "Pop Latino: Los 2000",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
         "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
         "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 230280,
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
     },
     {
       "added_at": "2024-06-12 20:29:16",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "Escucha",
-        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 236613,
-      "name": "V\u00edveme",
-      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
         "name": "El Mundo Se Equivoca",
         "url": "https://open.spotify.com/album/6C0am1pBvF0viIFsa0FZnp"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 189560,
       "name": "Me Muero",
       "url": "https://open.spotify.com/track/3ri9fLG89OdSpjxheYxU7S"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
+        "name": "Escucha",
+        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 236613,
+      "name": "V\u00edveme",
+      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
     },
     {
       "added_at": "2024-06-12 20:29:16",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 240613,
-      "name": "Que Lloro",
-      "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
         "name": "Flores De Alquiler",
         "url": "https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
-        "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
       },
       "artists": [
         {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 236786,
-      "name": "Puedes Contar Conmigo",
-      "url": "https://open.spotify.com/track/1hbWtHgRDG25DkmxE4I28V"
+      "duration_ms": 240613,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
     },
     {
       "added_at": "2024-06-12 20:29:16",
@@ -443,6 +427,22 @@
       "duration_ms": 266666,
       "name": "Aunque no te pueda ver",
       "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
+        "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
+        "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Puedes Contar Conmigo",
+      "url": "https://open.spotify.com/track/1hbWtHgRDG25DkmxE4I28V"
     },
     {
       "added_at": "2024-06-12 20:29:16",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
         "name": "Secuencia",
         "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 221200,
       "name": "Sabes",
       "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
     },
     {
       "added_at": "2024-06-12 20:29:16",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 240120,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
         "name": "Reik",
         "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 203226,
       "name": "Noviembre Sin Ti",
       "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf"
     },
     {
       "added_at": "2024-06-12 20:29:16",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
         "name": "Hijas del Tomate",
         "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 213973,
       "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
       "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
       "added_at": "2024-06-12 20:29:16",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Cu\u00eddate",
-      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 194106,
       "name": "Suerte (Whenever, Wherever)",
       "url": "https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Cu\u00eddate",
+      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
     },
     {
       "added_at": "2024-06-12 20:29:16",

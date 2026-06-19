@@ -4230,7 +4230,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 163465,
       "name": "ATL",
       "url": "https://open.spotify.com/track/6FfgsAZ4s1D6X7jKNpw7lt"
@@ -10750,6 +10750,24 @@
       "duration_ms": 209447,
       "name": "Ch\u00e2teau noir",
       "url": "https://open.spotify.com/track/7CAZp2oaUNJ47vtAZDfKn6"
+    },
+    {
+      "album": {
+        "name": "Ch\u00e9rie coco",
+        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ch\u00e9rie coco",
+      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
     },
     {
       "album": {
@@ -19044,6 +19062,24 @@
       "duration_ms": 211180,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1mBdiyA2OUySEprEEOKJ6g"
+    },
+    {
+      "album": {
+        "name": "24 KARA",
+        "url": "https://open.spotify.com/album/4GZSouPUDOnxWARfOS79hm"
+      },
+      "artists": [
+        {
+          "name": "Bilouki",
+          "url": "https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Full",
+      "url": "https://open.spotify.com/track/6ZjD4Qv5dPdV3pqouXjr0j"
     },
     {
       "album": {
@@ -37868,7 +37904,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
@@ -39752,7 +39788,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 230000,
       "name": "Poney",
       "url": "https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r"
@@ -40656,7 +40692,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 210247,
       "name": "P\u00e9tunias",
       "url": "https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu"
@@ -44180,7 +44216,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 138591,
       "name": "Serrure #5",
       "url": "https://open.spotify.com/track/74bFjTmlTbZVH9lG3EH7C2"
@@ -47520,7 +47556,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 217861,
       "name": "T'es en love",
       "url": "https://open.spotify.com/track/2wqymG0P5vfYc3jU92DFgB"

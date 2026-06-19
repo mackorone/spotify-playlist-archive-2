@@ -2587,6 +2587,36 @@
     },
     {
       "album": {
+        "name": "Korngold & Barber",
+        "url": "https://open.spotify.com/album/4xg6newHZjB6Wl5kMHHSsV"
+      },
+      "artists": [
+        {
+          "name": "Samuel Barber",
+          "url": "https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x"
+        },
+        {
+          "name": "Paul Huang",
+          "url": "https://open.spotify.com/artist/2yQvgqt7qJjKrHVIx7Kzll"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Jun M\u00e4rkl",
+          "url": "https://open.spotify.com/artist/6TmtR0aZY7PSPdpW3qz7Ku"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 655656,
+      "name": "Violin Concerto, Op. 14: I. Allegro",
+      "url": "https://open.spotify.com/track/39R3F1Wqf6jL39zPWQTtS5"
+    },
+    {
+      "album": {
         "name": "Chopin: Waltz No. 19 in A Minor, KK IVb (Version for Harp in A Flat Minor)",
         "url": "https://open.spotify.com/album/0abwlgcTkteYoqF5MdJqvO"
       },

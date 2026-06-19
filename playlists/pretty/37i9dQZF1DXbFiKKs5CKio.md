@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,800 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,814 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 18 | [Vai dar Bom \(Ao Vivo\)](https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Neverlândia Sessions \(Ao Vivo\)](https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT) | 3:26 |
 | 19 | [Cola Comigo](https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Cola Comigo](https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw) | 3:28 |
 | 20 | [FORA DA LEI](https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [FORA DA LEI](https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E) | 3:06 |
-| 21 | [Abre Alas](https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Abre Alas](https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5) | 5:11 |
-| 22 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
+| 21 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
+| 22 | [Abre Alas](https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Abre Alas](https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5) | 5:11 |
 | 23 | [PASSARINHO](https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [PASSARINHO](https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8) | 3:21 |
 | 24 | [Aprendi a Viver Só](https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Novela](https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx) | 3:18 |
 | 25 | [Sexto Sentido](https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Sexto Sentido](https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK) | 2:31 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 37 | [Vícios q eu gosto](https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Vícios q eu gosto](https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN) | 2:32 |
 | 38 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |
 | 39 | [Tudo o Que Sou](https://open.spotify.com/track/0pc7uFEfMbjbU8KIQdTfU0) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [LAR](https://open.spotify.com/album/17HW9qCYB9V3WBBDQgEgUQ) | 2:52 |
-| 40 | [Me Amas](https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Como é bom poder dizer eu te amo](https://open.spotify.com/album/21295uHlotpc6pU7N7dso1) | 2:23 |
-| 41 | [reconectar](https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Murilo Orum](https://open.spotify.com/artist/6NwIrTXWOBJQRNrsIkY1yP) | [reconectar](https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI) | 2:48 |
+| 40 | [reconectar](https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Murilo Orum](https://open.spotify.com/artist/6NwIrTXWOBJQRNrsIkY1yP) | [reconectar](https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI) | 2:48 |
+| 41 | [Me Amas](https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Como é bom poder dizer eu te amo](https://open.spotify.com/album/21295uHlotpc6pU7N7dso1) | 2:23 |
 | 42 | [Você Merece](https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt) | [Passageiro do Bem \- LADO B](https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ) | 3:04 |
 | 43 | [\(Des\)conectar](https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31) | [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [\(Des\)conectar](https://open.spotify.com/album/57phCII157BEvM0camoMvd) | 3:20 |
 | 44 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |

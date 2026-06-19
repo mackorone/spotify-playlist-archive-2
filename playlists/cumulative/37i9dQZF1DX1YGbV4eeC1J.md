@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Otile Brown
+> What is your love language? Say it in Swahili\.  Cover: Phany Love
 
-369 songs - 20 hr 40 min
+370 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Mwambieni](https://open.spotify.com/track/0RHpqRNqC51Jb3BFvRjhB9) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Mwambieni](https://open.spotify.com/album/5KWJSzOB7rysi3VT90lTAJ) | 3:00 | 2022-05-26 | 2023-03-10 |
 | [My Babe](https://open.spotify.com/track/29qNcVV0QERBR5c6TSBEvv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Flowers III](https://open.spotify.com/album/4d2U5waYnl1NwFs0aQ5fhL) | 4:13 | 2023-05-11 | 2024-01-26 |
 | [My Baby](https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [My Baby](https://open.spotify.com/album/3hMzqCdDnvkt4yPpqzZ4NW) | 2:48 | 2023-02-03 | 2024-12-14 |
+| [My Baby](https://open.spotify.com/track/1XhVA2goJwKSfUYN8k8AoF) | [Phany Love](https://open.spotify.com/artist/1lmt7WTILm10srwXjf4F0M) | [My Baby](https://open.spotify.com/album/496cKX0aoovWWXdZlTdO9Q) | 2:43 | 2026-06-18 |  |
 | [My Baby \(feat\. Chike\)](https://open.spotify.com/track/6bicSRBtEUReuqCpZQrsbi) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [My Baby \(feat\. Chike\)](https://open.spotify.com/album/6cZI2v0HjkvMZ2R12M14go) | 3:32 | 2024-03-14 | 2024-03-22 |
 | [My Boo](https://open.spotify.com/track/7MR6B14XLBuEt167xbdWB5) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Fancy Fingers](https://open.spotify.com/artist/1xdz3e3xkRKYMS9TqgIbi5) | [The Lion of Sudah](https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h) | 4:02 | 2023-04-20 | 2023-09-01 |
 | [My Chunun](https://open.spotify.com/track/037gbzOGoBdc1ghXlsuHev) | [GENIUSJINI X66](https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW), [Cliv](https://open.spotify.com/artist/0C07Qgst3VI7IdbyjYg8xL) | [My Chunun](https://open.spotify.com/album/6RYbxaMWtH59GPzIDzxAPy) | 3:49 | 2025-02-20 | 2025-11-07 |
@@ -261,7 +262,7 @@
 | [Okay](https://open.spotify.com/track/5wY9TuRcJ5G9gz7SpqMzSW) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Okay](https://open.spotify.com/album/7wt6uu5it7TniGsatpOgKb) | 2:52 | 2024-12-05 | 2025-05-09 |
 | [Ololo](https://open.spotify.com/track/3CTio0dVlFuBRjsH0bnStu) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Ololo](https://open.spotify.com/album/1Iff4SIo4M6kq4IaCdLLJg) | 4:01 | 2024-08-15 | 2025-03-15 |
 | [Only You](https://open.spotify.com/track/4n1FawMqnngqLyF9KslSPh) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Only You](https://open.spotify.com/album/18tAdLw8uME5BDHtEtipBd) | 3:21 | 2024-07-25 | 2024-12-20 |
-| [Ova](https://open.spotify.com/track/7uX7KgRXMVcwH5vA6MdtZo) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Ova](https://open.spotify.com/album/0CGUBjwQngYOV8uaOD4t4J) | 3:28 | 2024-10-04 |  |
+| [Ova](https://open.spotify.com/track/7uX7KgRXMVcwH5vA6MdtZo) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Ova](https://open.spotify.com/album/0CGUBjwQngYOV8uaOD4t4J) | 3:28 | 2024-10-04 | 2026-06-19 |
 | [Pambe Tu](https://open.spotify.com/track/5LQbgAhs2SLyZwzSZhGjYs) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Pambe Tu](https://open.spotify.com/album/3By27Rll9J132bK0qKxObI) | 4:00 | 2024-03-14 | 2024-11-29 |
 | [Pamela](https://open.spotify.com/track/7jSPRtC4yAPeuV9DBQjqCk) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [The Music Station](https://open.spotify.com/album/3uVHxFHLQ1WeJchiIff5jJ) | 2:57 | 2025-04-18 | 2025-08-22 |
 | [Pawa](https://open.spotify.com/track/51TVoZ4d09tedi9Z8iSX5r) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Room Number 3](https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY) | 3:46 | 2025-06-13 |  |

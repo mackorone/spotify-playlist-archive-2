@@ -4,7 +4,7 @@
 
 > Bağımsız yerli sahneden keşifler! Kapak: Flu Çizim: Isu Kim
 
-1,300 songs - 2 day 23 hr 49 min
+1,301 songs - 2 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Gel Benimle](https://open.spotify.com/track/2nz7jCVtv4SRNhgyEpjAMp) | [Yılmaz Açıkyer](https://open.spotify.com/artist/7KnyUlO6hscu5egsLBOADq) | [Gel Benimle](https://open.spotify.com/album/0fOFNvmx0dPd1DkxvT71wt) | 2:42 | 2023-11-21 | 2023-11-30 |
 | [Gel Gel](https://open.spotify.com/track/0ToSaNsf240ZCQ0Q8gre1R) | [Başak Çalık](https://open.spotify.com/artist/7rmp4C7dbpPmlf3Uyt4rAm) | [Gel Gel](https://open.spotify.com/album/0jK49PUTT6MymztcBdLVm7) | 2:31 | 2025-07-25 | 2025-10-22 |
 | [Gel Konuşalım Bi'](https://open.spotify.com/track/1RG1GitgYQybDpy5cQz1Cz) | [Berfu Sarıbaz](https://open.spotify.com/artist/2XMjwgTfTAtsxuPcCYU62m) | [Gel Konuşalım Bi'](https://open.spotify.com/album/3za3tPA0AbT6S4maeyIapK) | 2:46 | 2023-09-26 | 2023-11-30 |
+| [Gel Yanıma](https://open.spotify.com/track/4Jjna45Y0hrWHmPPIYlle9) | [Gizem Kurtulmuş](https://open.spotify.com/artist/4hSFPzEefNBTUumGzWu3j2) | [Gel Yanıma](https://open.spotify.com/album/6PTzJz6zhAyInGy4Aft0uC) | 2:41 | 2026-06-18 |  |
 | [Gelen Gider](https://open.spotify.com/track/5E6lqZ9jztvUSlaQDad7yt) | [The Dirty Duo](https://open.spotify.com/artist/6iA3wtdaV8ssFUQfHUm6OZ) | [TUR101](https://open.spotify.com/album/6hV2PKx03vVYV71wjFFljS) | 4:02 | 2026-05-05 |  |
 | [Gelmişi Geçmişi](https://open.spotify.com/track/2ndBtvcj8PVlymDEEvnUUw) | [bodes](https://open.spotify.com/artist/6TfzPXVRRzCJq0euMymU3I) | [Gelmişi Geçmişi](https://open.spotify.com/album/4Khwxa4LofNZXiYU5J6rWp) | 3:18 | 2025-05-18 | 2026-01-15 |
 | [Geni Bozuk](https://open.spotify.com/track/0Q2bWZinsdlzgzn1zgQNMg) | [Bakhalar](https://open.spotify.com/artist/2bdY5peepr0ICpi6gC18Ej) | [Geni Bozuk](https://open.spotify.com/album/0BQGhOvpLn7KRG5jtKUxbo) | 6:18 | 2023-07-18 | 2023-11-30 |
@@ -1056,7 +1057,7 @@
 | [Tutulmayan Sözler](https://open.spotify.com/track/2VKH1lsU7ThH7PFE1rrhbP) | [Bîdar](https://open.spotify.com/artist/7jOk8UWLjN0boLFk0q9RgT) | [Tutulmayan Sözler](https://open.spotify.com/album/4KiZL4oBhqaUZAyeJohTpf) | 3:39 | 2025-02-25 | 2025-05-31 |
 | [Tutuşursa](https://open.spotify.com/track/5sj9RlsNNS3xij0ij5YfGi) | [Alança](https://open.spotify.com/artist/0GtJApmg5HlC724a8wNLr8) | [Tutuşursa](https://open.spotify.com/album/3GTFAY5xwqOjgSR8Oov4GT) | 2:41 | 2025-11-14 | 2026-03-20 |
 | [tıpçı flow](https://open.spotify.com/track/5gBvKIf0tgw9g5YqnRM3jt) | [memzst](https://open.spotify.com/artist/6tZwkaDY6jnUHzFfr9ktRg), [Perzingo](https://open.spotify.com/artist/4inGBaq5Imy4yb9thAh2oG), [ALP YILDIZ](https://open.spotify.com/artist/61t1QSp6Zwq6FAZSdwTGBV) | [tıpçı flow](https://open.spotify.com/album/0yVYX7VG09eYzrAvz5Hqht) | 2:07 | 2025-06-06 | 2025-08-23 |
-| [Ufalanır](https://open.spotify.com/track/7o5WZz0oIFtcils7Dco05E) | [2bin7](https://open.spotify.com/artist/2M3UxH9J4IsFHtY9OUNSlk) | [Ufalanır](https://open.spotify.com/album/2tIJuMG1d5UcYf2eKTYklj) | 3:18 | 2026-04-01 |  |
+| [Ufalanır](https://open.spotify.com/track/7o5WZz0oIFtcils7Dco05E) | [2bin7](https://open.spotify.com/artist/2M3UxH9J4IsFHtY9OUNSlk) | [Ufalanır](https://open.spotify.com/album/2tIJuMG1d5UcYf2eKTYklj) | 3:18 | 2026-04-01 | 2026-06-19 |
 | [UKALA](https://open.spotify.com/track/3Frrg5vlLgJMwhSa3817Sf) | [Kimera](https://open.spotify.com/artist/4T4Iw2jsjHVIYirEEZLfVm) | [UKALA](https://open.spotify.com/album/7Kh7dCYSaWYZen1eAdiINy) | 2:11 | 2024-02-13 | 2024-03-13 |
 | [Ukde](https://open.spotify.com/track/6YBdIjewK90Ii3Pk5QqAgm) | [Kaan Çelik Metin](https://open.spotify.com/artist/0UpAvZ6nJyJ6cTXfln5Uvs) | [Ukde](https://open.spotify.com/album/1XgjG2kUPGJpGcFIloAPcW) | 3:27 | 2023-05-09 | 2024-01-10 |
 | [Ulak](https://open.spotify.com/track/5zZAecteha5eiWvWLG3NXH) | [Congulus](https://open.spotify.com/artist/0WsU84w8gq3xJa1B5U87gk) | [Ulak](https://open.spotify.com/album/6vOg13yUoNX4MUeop5jN4j) | 5:36 | 2024-03-12 | 2024-05-08 |

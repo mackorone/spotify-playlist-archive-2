@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: Olivia Rodrigo
+> The hottest 50\. Cover: Drake
 
 1,392 songs - 3 day 2 hr 44 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2642538,
+  "num_followers": 2642493,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "The Kick Inside",
         "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 269066,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "I Came to Sing the Song",
-        "url": "https://open.spotify.com/album/2m19dJQ6TcCzfJUl3QcGpB"
-      },
-      "artists": [
-        {
-          "name": "Adam Torres",
-          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
-        }
-      ],
-      "duration_ms": 334786,
-      "name": "Green Mountain Road",
-      "url": "https://open.spotify.com/track/4lSofToZxg0tPiVfv6AOMM"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Van Ronk Sings",
         "url": "https://open.spotify.com/album/34j8rWAn2K4du9ay3WRvmQ"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 264440,
       "name": "Tell Old Bill",
       "url": "https://open.spotify.com/track/2ddznUWfrjiPS0cYGGf2jy"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "I Came to Sing the Song",
+        "url": "https://open.spotify.com/album/2m19dJQ6TcCzfJUl3QcGpB"
+      },
+      "artists": [
+        {
+          "name": "Adam Torres",
+          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
+        }
+      ],
+      "duration_ms": 334786,
+      "name": "Green Mountain Road",
+      "url": "https://open.spotify.com/track/4lSofToZxg0tPiVfv6AOMM"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Black Gold (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6cbqf84EsLlPeu72H2Al0H"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 274613,
-      "name": "Turn, Turn, Turn (To Everything There Is a Season) - Live in Munich, Germany - April 1969",
-      "url": "https://open.spotify.com/track/3RfmRk00qn35rvO6CXdnxb"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Simon Linsteadt",
         "url": "https://open.spotify.com/album/4ouxaHFhnih4OmbKNNmEMZ"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 77893,
       "name": "Back to Bed In California",
       "url": "https://open.spotify.com/track/62lTgvo168FYxDpu6VPNLe"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Black Gold (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6cbqf84EsLlPeu72H2Al0H"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 274613,
+      "name": "Turn, Turn, Turn (To Everything There Is a Season) - Live in Munich, Germany - April 1969",
+      "url": "https://open.spotify.com/track/3RfmRk00qn35rvO6CXdnxb"
     },
     {
       "added_at": "2026-01-26 17:08:09",

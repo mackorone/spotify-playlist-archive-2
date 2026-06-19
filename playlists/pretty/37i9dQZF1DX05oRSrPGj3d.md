@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,505 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,537 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 71 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
 | 72 | [Texas On My Mind](https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Three Days](https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4) | 4:40 |
 | 73 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 |
-| 74 | [There Goes My Heart Again](https://open.spotify.com/track/6U42tr2pL6gFjdX6iY57PH) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 2:37 |
-| 75 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 |
+| 74 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 |
+| 75 | [There Goes My Heart Again](https://open.spotify.com/track/6U42tr2pL6gFjdX6iY57PH) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 2:37 |
 | 76 | [The Highway Kind](https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:59 |
 | 77 | [No Vacancy](https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O) | 4:04 |
 | 78 | [Beer, Bait and Ammo](https://open.spotify.com/track/7irS1d9sepVtxIrGQKc0Vy) | [Kevin Fowler](https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n) | [Beer, Bait and Ammo](https://open.spotify.com/album/7eM2NVyKYavESvxkNxrE8T) | 5:15 |

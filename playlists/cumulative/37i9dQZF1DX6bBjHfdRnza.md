@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance tracks from independent artists & labels\. Featuring Delilah\. Curated by human Spotify editors.
+> The best new dance tracks from independent artists & labels\. Featuring VIVI909\. Curated by human Spotify editors.
 
-3,552 songs - 9 day 14 hr 0 min
+3,555 songs - 9 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -814,6 +814,7 @@
 | [Distant Thoughts](https://open.spotify.com/track/3ULyNETw72K1nR6tdRz76w) | [Justin Jet Zorbas](https://open.spotify.com/artist/10G9N5ABjyamTFBEAsquNs), [Inum](https://open.spotify.com/artist/3TAGwIg5m6pwHRuBMvtsup) | [Distant Thoughts](https://open.spotify.com/album/1Y2A4NGnjArQf9DLy3Unv2) | 2:27 | 2023-03-08 | 2023-04-06 |
 | [Distortion](https://open.spotify.com/track/7s7Sl5nzDoAfptd0iayLsN) | [Liam Berg](https://open.spotify.com/artist/7clhsBAvVnsCliiFIAo2Lu) | [Distortion](https://open.spotify.com/album/6Nw6FzxXHEND92BelMM45q) | 4:06 | 2026-01-15 | 2026-03-14 |
 | [dive in](https://open.spotify.com/track/5r4Ng8Yg5ekJOQVSqHYkaE) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [dive in](https://open.spotify.com/album/1eL6sP8iKnZGZiEEdzF5d5) | 2:51 | 2022-04-13 | 2022-04-28 |
+| [DIVING](https://open.spotify.com/track/2TKUS9hoarxOCQwiO7drVS) | [K.ONE](https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt) | [DIVING](https://open.spotify.com/album/08yP27NXn7S7l8cGS7l80g) | 3:41 | 2026-06-19 |  |
 | [Diving Birds](https://open.spotify.com/track/6b5Y2qdzMU6X9sK11UXouC) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn), [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 5:29 | 2021-12-01 | 2022-01-20 |
 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 | 2022-05-31 | 2022-07-21 |
 | [Dizzee](https://open.spotify.com/track/6GY4aSoW8OiAseARRhI4UK) | [JDG](https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP) | [Dizzee](https://open.spotify.com/album/0jtXQWRDZpR5Z7HxHl85Gk) | 2:43 | 2023-06-21 | 2023-08-03 |
@@ -1051,7 +1052,7 @@
 | [Falling](https://open.spotify.com/track/2LsJ4sBvlz0V6MDCbwy4Bn) | [nate band](https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W) | [Falling](https://open.spotify.com/album/16kgfRu4InGlPouk5dzOjZ) | 2:35 | 2025-07-25 | 2025-09-12 |
 | [FALLING \(breathing slowly\)](https://open.spotify.com/track/0Pkwrelbc8cnzZoexCmVeT) | [Nanomake](https://open.spotify.com/artist/5IqyGfpBzT30zaatdUkauJ) | [FALLING \(breathing slowly\)](https://open.spotify.com/album/1PWbToqopI8aDJpCP2b0Ew) | 1:56 | 2024-09-04 | 2024-10-12 |
 | [Falling Again](https://open.spotify.com/track/1KOKSXOF3t21CKCR3DeEkR) | [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH) | [Falling Again](https://open.spotify.com/album/4adnBo43aGOYUjnHHVzI8G) | 2:20 | 2026-05-14 |  |
-| [Fanga](https://open.spotify.com/track/2DykxprHbMOi4HlOGVXBo3) | [Narasimha](https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV) | [Fanga](https://open.spotify.com/album/71MjiX9HjfdP5Kf7WwnUtq) | 3:29 | 2026-04-30 |  |
+| [Fanga](https://open.spotify.com/track/2DykxprHbMOi4HlOGVXBo3) | [Narasimha](https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV) | [Fanga](https://open.spotify.com/album/71MjiX9HjfdP5Kf7WwnUtq) | 3:29 | 2026-04-30 | 2026-06-19 |
 | [Fantasies](https://open.spotify.com/track/4mLr8WI3QGcHN9g4bnjgTr) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Fantasies](https://open.spotify.com/album/5ZXmA40qxKsawQ36CDasQj) | 2:38 | 2025-01-24 | 2025-03-06 |
 | [Fantasmagorii](https://open.spotify.com/track/5Bg2xmAFHsWmFsUWxyjKhX) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Fantasmagorii EP](https://open.spotify.com/album/4cRqqjosVkLS8rIVRcboi4) | 7:04 | 2022-09-28 | 2022-10-06 |
 | [Fantasy](https://open.spotify.com/track/3hqwdKWk9JMxG0cnLZcyMi) | [CRUSH3d](https://open.spotify.com/artist/5Qvgao5nFsaKRPeL42Dnpf) | [Fantasy](https://open.spotify.com/album/6QcKSF2m6u09gNMpg4uOtZ) | 4:30 | 2022-05-04 | 2022-07-07 |
@@ -2225,7 +2226,7 @@
 | [Nothing Feels The Same](https://open.spotify.com/track/66P0qP5U9ymSHio61L0Buy) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [Nothing Feels The Same](https://open.spotify.com/album/2PBO8ZKmkZ6PU6Jlhf6o8o) | 3:01 | 2024-04-26 | 2024-05-16 |
 | [Nothing Hurts](https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Nothing Hurts](https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH) | 3:09 | 2024-08-30 | 2024-11-16 |
 | [Nothing Lasts Forever](https://open.spotify.com/track/2qWe5HDWdBMz3dfTKo0i6f) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY) | [Nothing Lasts Forever](https://open.spotify.com/album/1LkAvMZzW5qEmWOrYDUfwk) | 3:21 | 2024-05-30 | 2024-08-24 |
-| [Nothing Left to Say \- Radio Edit](https://open.spotify.com/track/2gP0oGwwCef1i4lOQesUj2) | [Sebastian Konrad](https://open.spotify.com/artist/1I7cqwyb1cKU55oVbvQ66C) | [Nothing Left to Say](https://open.spotify.com/album/003d8yyAwXiYHTEUNkXoIO) | 3:48 | 2026-02-18 |  |
+| [Nothing Left to Say \- Radio Edit](https://open.spotify.com/track/2gP0oGwwCef1i4lOQesUj2) | [Sebastian Konrad](https://open.spotify.com/artist/1I7cqwyb1cKU55oVbvQ66C) | [Nothing Left to Say](https://open.spotify.com/album/003d8yyAwXiYHTEUNkXoIO) | 3:48 | 2026-02-18 | 2026-06-19 |
 | [Nothing You Can Do](https://open.spotify.com/track/6DR6v2joJOH33K6ZPxsvEU) | [Street Player](https://open.spotify.com/artist/24QWArjejyNw2lLlwAk69O) | [Nothing You Can Do](https://open.spotify.com/album/5zlbNUgdxCWfTfGeUtXfDE) | 5:15 | 2022-08-31 | 2022-11-10 |
 | [notice](https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [notice](https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7) | 2:35 | 2023-05-31 | 2024-01-11 |
 | [Notorious](https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Notorious](https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG) | 2:55 | 2025-06-06 | 2025-07-31 |
@@ -2361,6 +2362,7 @@
 | [Oxygn](https://open.spotify.com/track/0WuABxcSEkrj5cjkxaeiXG) | [YAOB](https://open.spotify.com/artist/1E2EOI7vULMnFTX1pC7Uju) | [Oxygn](https://open.spotify.com/album/2G2Olyu8iGW7Bd59L5hqAb) | 2:33 | 2024-03-27 | 2024-06-01 |
 | [P Power](https://open.spotify.com/track/2VVJAGlI3uYCE3yM1FnRsN) | [Stef Davidse](https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX) | [P Power](https://open.spotify.com/album/5vgwUctmCAXT1JCQSRZ5kz) | 5:10 | 2025-02-26 | 2025-04-26 |
 | [P!NK](https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn), [Dan Molinari](https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE) | [D.O.P.E.](https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d) | 3:00 | 2025-03-05 | 2026-01-15 |
+| [P0W3R](https://open.spotify.com/track/166ucatDT06X6iEDPc5oFH) | [TWONSKi](https://open.spotify.com/artist/0wpHC77nsV39LreyyX5TK3) | [ALMO$T ALWAY$](https://open.spotify.com/album/0J5UxmS70GjdYIZvpDTvE5) | 5:33 | 2026-06-19 |  |
 | [P7 Swim Session](https://open.spotify.com/track/6c24HG5ETrnQvECb9V641o) | [DJ Physical](https://open.spotify.com/artist/5gLrd7zW9n1zpwkKsmzsrk) | [P7 Swim Session](https://open.spotify.com/album/6mKMEWHE6e69EHVQUTfJMo) | 5:08 | 2025-01-15 | 2025-02-06 |
 | [packing my shit](https://open.spotify.com/track/1lwFfgvnreClQ1F3siP0lp) | [=DDDDDDD](https://open.spotify.com/artist/3FGaLcXw7UdpblgGotJFTT) | [nine 2 five](https://open.spotify.com/album/0at4idrw5Sughuq9IM98Ve) | 1:55 | 2024-04-03 | 2024-05-03 |
 | [Palma](https://open.spotify.com/track/25xCDpudKgR3fKpAoJpDSY) | [jaakob](https://open.spotify.com/artist/3UzlexNjM9XmG3Fb3O6Enb) | [Palma](https://open.spotify.com/album/1AvJKmHJIWQq0kh8ZUNx7I) | 3:04 | 2022-05-31 | 2022-08-11 |
@@ -3266,6 +3268,7 @@
 | [Unfaithful](https://open.spotify.com/track/7IJozY3Zc4qPGvCg3Sfbs4) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Unfaithful](https://open.spotify.com/album/6G2N95ktK6lASJVSWvucIX) | 3:27 | 2024-01-10 | 2024-02-29 |
 | [Unified](https://open.spotify.com/track/11MAaiTZl81vYHM4hBoC9P) | [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn) | [Unified / Atlantis](https://open.spotify.com/album/5HwmyfSY7FgoeHbiLfxTjB) | 6:32 | 2022-05-31 | 2022-07-21 |
 | [Unique](https://open.spotify.com/track/7chDllCV1g3mIf27gjOJnl) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Unique EP](https://open.spotify.com/album/1p5cdny6T3dcuF0vFlkpjF) | 4:03 | 2023-09-20 | 2023-11-16 |
+| [uniti/separati](https://open.spotify.com/track/4MIOpYyJVYuG5JTqGjlBcC) | [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [uniti/separati](https://open.spotify.com/album/3BerwqIItBI9kVMUlfgJo7) | 3:17 | 2026-06-19 |  |
 | [Universe](https://open.spotify.com/track/6u5uJUkN4Virf2lLxRCcve) | [Ontonic](https://open.spotify.com/artist/2ubj9n9jrEgvG6pbegX06x) | [Universe](https://open.spotify.com/album/5Zr1RpCtSSjJSQLvFYJXSb) | 3:47 | 2026-04-01 | 2026-05-07 |
 | [Unknown Angel](https://open.spotify.com/track/0c3l1ht3cKspGlY67Fcogu) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Unknown Angel](https://open.spotify.com/album/0Uo6UEk7brlxliZ1KmzTKV) | 6:59 | 2023-03-15 | 2023-04-13 |
 | [unleaded\. x](https://open.spotify.com/track/3oW4roafF7W7zoI4gK1zKx) | [cell m8](https://open.spotify.com/artist/7y2p7RZViBzJimqtS1xW1c) | [unleaded\. x](https://open.spotify.com/album/2VJyEzZ0S2MsmrFwcL1QDv) | 3:30 | 2024-11-20 | 2024-12-05 |
@@ -3410,7 +3413,7 @@
 | [what ur looking for \- mixed](https://open.spotify.com/track/490M8dxTfYGzbZPGZNdCHe) | [La La](https://open.spotify.com/artist/2k4MX5x2LmAOKmYl3BtuW5) | [give yourself a try \(mixtape\)](https://open.spotify.com/album/4UEK7fXuiO4lHab2ORjKUJ) | 2:57 | 2023-07-19 | 2023-08-24 |
 | [what would i do?](https://open.spotify.com/track/2h18ysGvFARxAevVvEi1Db) | [SD Gloria](https://open.spotify.com/artist/7ClPlZhvkoOQWUY0ADmvAI) | [what would i do?](https://open.spotify.com/album/0B0c2DWwqUwm1VQ9sfCBsK) | 2:31 | 2023-10-04 | 2023-11-30 |
 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 | 2025-04-23 | 2025-07-05 |
-| [What Ya Got](https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055) | [Wal](https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc) | [GTFU](https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam) | 3:50 | 2026-03-18 |  |
+| [What Ya Got](https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055) | [Wal](https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc) | [GTFU](https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam) | 3:50 | 2026-03-18 | 2026-06-19 |
 | [What You Got To Do](https://open.spotify.com/track/1hzrme3eRaGGOLfrcfxZpv) | [American Dance Ghosts](https://open.spotify.com/artist/5iK0IA5h8WCOKSCfiJGVLT) | [What You Got To Do](https://open.spotify.com/album/517FRnU6gKU3cSlIWbHrUO) | 3:36 | 2022-01-12 | 2022-02-24 |
 | [What You Need](https://open.spotify.com/track/1Q6zHALZxfArSQYmrZIHuJ) | [Davide Dev](https://open.spotify.com/artist/2C6UKuUrQSYVz39Fm5Ko4q) | [Future Chic EP](https://open.spotify.com/album/4Eu7jmYbEQcfDdODAzAMA2) | 2:47 | 2026-01-15 | 2026-02-19 |
 | [What You Waiting For](https://open.spotify.com/track/6fTWk9wpKkE64teVqn8KkS) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [What You Waiting For](https://open.spotify.com/album/3drZTTzMPAJzZlw06fX2hE) | 3:17 | 2025-03-26 | 2025-05-03 |

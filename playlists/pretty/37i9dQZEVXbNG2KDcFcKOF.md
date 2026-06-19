@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNG2KDcFcKOF.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Global.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,820,082 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,820,727 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNG2KDcFcKOF.md) - [plain]
 | 8 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 |
 | 9 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
 | 10 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
-| 11 | [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
+| 11 | [The One That Got Away](https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 |
 | 12 | [Chicago](https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 4:05 |
 | 13 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
 | 14 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNG2KDcFcKOF.md) - [plain]
 | 49 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 |
 | 50 | [TU SANCHO](https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:57 |
 
-Snapshot ID: `McYZWAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `McdviAAAAAAAAAAAAAAAAAAAAAAAAGVu`

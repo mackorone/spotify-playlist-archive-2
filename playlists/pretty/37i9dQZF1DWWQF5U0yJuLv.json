@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 61943,
+  "num_followers": 61970,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Fahrenheit Fair Enough",
-        "url": "https://open.spotify.com/album/27teXombBxDGNa9f5jtOr2"
+        "name": "Bright Serpent",
+        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
       },
       "artists": [
         {
-          "name": "Telefon Tel Aviv",
-          "url": "https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC"
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
         }
       ],
-      "duration_ms": 400293,
-      "name": "Fahrenheit Fair Enough",
-      "url": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh"
+      "duration_ms": 232960,
+      "name": "At Height",
+      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -431,18 +431,18 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Bright Serpent",
-        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
+        "name": "Fahrenheit Fair Enough",
+        "url": "https://open.spotify.com/album/27teXombBxDGNa9f5jtOr2"
       },
       "artists": [
         {
-          "name": "Inwards",
-          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+          "name": "Telefon Tel Aviv",
+          "url": "https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC"
         }
       ],
-      "duration_ms": 232960,
-      "name": "At Height",
-      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
+      "duration_ms": 400293,
+      "name": "Fahrenheit Fair Enough",
+      "url": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 346586,
-      "name": "For Marmish",
-      "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "The Space Lady's Greatest Hits",
         "url": "https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 275372,
       "name": "I Had Too Much to Dream Last Night",
       "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 346586,
+      "name": "For Marmish",
+      "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Harmonic Frequencies",
         "url": "https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 383899,
       "name": "Music To Heal To",
       "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 642653,
+      "name": "Silhouettes (I, II, III)",
+      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "Stereomission",
-      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Trusted EP",
         "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 194358,
       "name": "Trusted",
       "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "Stereomission",
+      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Minecraft - Volume Beta",
-        "url": "https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX"
-      },
-      "artists": [
-        {
-          "name": "C418",
-          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
-        }
-      ],
-      "duration_ms": 186987,
-      "name": "Chirp",
-      "url": "https://open.spotify.com/track/1cjYtL6yMFDLyZYn9bDkGo"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Kpm 1000 Series: Atmospheres",
         "url": "https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 129549,
       "name": "Jolly Pranks",
       "url": "https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Minecraft - Volume Beta",
+        "url": "https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "duration_ms": 186987,
+      "name": "Chirp",
+      "url": "https://open.spotify.com/track/1cjYtL6yMFDLyZYn9bDkGo"
     },
     {
       "added_at": "2025-11-07 05:00:56",

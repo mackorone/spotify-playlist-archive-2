@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 
 > Hits terpanas dari Pamungkas, enau, Ari Lesmana, Ariana Grande, Bruno Mars serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,448,577 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,448,567 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 | 36 | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq) | 3:09 |
 | 37 | [EEEE A](https://open.spotify.com/track/4h07ne6Xf5AaCIGkrgNq1i) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [INI DIA](https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR) | 1:58 |
 | 38 | [Tak Ada Yang Sepertimu](https://open.spotify.com/track/5Yh1sTQAU3BTIKMp3K5ZOX) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 3:11 |
-| 39 | [Iqro'](https://open.spotify.com/track/2YRHj7X19faZv4WZZ3JnZq) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Iqro'](https://open.spotify.com/album/60e4PvVMY5S565Rt56dzHs) | 3:54 |
+| 39 | [iqro'](https://open.spotify.com/track/2YRHj7X19faZv4WZZ3JnZq) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Iqro'](https://open.spotify.com/album/60e4PvVMY5S565Rt56dzHs) | 3:54 |
 | 40 | [Nina](https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Nina](https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4) | 4:37 |
 | 41 | [mejikuhibiniu](https://open.spotify.com/track/278PwGlIm7MxVTZud18Rx4) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [mejikuhibiniu](https://open.spotify.com/album/1DZHkeHPjLkuclwTVtjIOK) | 3:16 |
 | 42 | [disarankan di bandung](https://open.spotify.com/track/1BZsLiymbw2UihokAVyTrR) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm), [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [I Don't Know and I Dongker](https://open.spotify.com/album/6tKbLS7Vy0R1fQ2zUUQM3J) | 2:32 |

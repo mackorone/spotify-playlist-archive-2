@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-26",
-  "description": "The UK's biggest playlist. Cover: Ariana Grande",
+  "description": "The UK's biggest playlist. Cover: Olivia Rodrigo",
   "name": "Hot Hits UK",
   "tracks": [
     {
@@ -2306,6 +2306,24 @@
       "duration_ms": 201000,
       "name": "Drive Safe",
       "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
     },
     {
       "album": {
@@ -7950,7 +7968,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 193846,
       "name": "Talk of the Town",
       "url": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF"

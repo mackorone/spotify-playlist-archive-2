@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,861 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,902 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 17 | [Cedo la Palabra](https://open.spotify.com/track/4aaQNd15yoMaTIghRfB8gj) | [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Cedo la Palabra](https://open.spotify.com/album/3hCE0IRBPUcgQ7FI2u3TaG) | 3:00 |
 | 18 | [Y Tu](https://open.spotify.com/track/3YzK5ai82cZ7PewBtMul78) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21) | 3:19 |
 | 19 | [En Pláticas \(Los Hermanos\) \(En Vivo\)](https://open.spotify.com/track/5vuj9ly8WNoLvrCaMKdC37) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [En Pláticas \(Los Hermanos\) \(En Vivo\)](https://open.spotify.com/album/3EkbIuzFjc14Q4Ztynzggr) | 3:45 |
-| 20 | [GPI](https://open.spotify.com/track/7DsD9yMF1utdPikPX8qDWc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z) | 2:13 |
+| 20 | [El Güicho](https://open.spotify.com/track/6kAV5MT0hKfm5m8xb7w0dO) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z) | 2:44 |
 | 21 | [El Dos de los Antrax](https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Dos de los Antrax](https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS) | 3:19 |
 | 22 | [Hay Unos Ojos \- En Vivo](https://open.spotify.com/track/5XYqS4FF4WSfyhiGvn1dkh) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE) | 2:48 |
 | 23 | [Que Somos De Guerra](https://open.spotify.com/track/3HC7YpUGk9Q6rq1GLpyRqq) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Que Somos De Guerra](https://open.spotify.com/album/3nyOttSBrL1aFt70bdlGnE) | 2:48 |
-| 24 | [El Güicho](https://open.spotify.com/track/6kAV5MT0hKfm5m8xb7w0dO) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z) | 2:44 |
+| 24 | [GPI](https://open.spotify.com/track/7DsD9yMF1utdPikPX8qDWc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z) | 2:13 |
 | 25 | [Te Veo A Las 10](https://open.spotify.com/track/6WRvHIM7VJIDl7JmcH2B8b) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21) | 2:29 |
 | 26 | [El Puente Roto \- En Vivo](https://open.spotify.com/track/3MMi65sc2HfkcHwrWz9KPx) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE) | 2:58 |
 | 27 | [Coordinando Gente](https://open.spotify.com/track/3zXHraACnTEbNmtv6ncDeF) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [TRAVESÍA](https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 49 | [Como No Quererte](https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 2:34 |
 | 50 | [El Señor De La Montaña \- Live](https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Señor De La Montaña \(Live\)](https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97) | 4:00 |
 
-Snapshot ID: `ajCSAAAAAAANOGCuG6MvvgqfGk2zXDQz`
+Snapshot ID: `ajHjgAAAAADYC23IKfU3PAZyAKdC+3MZ`

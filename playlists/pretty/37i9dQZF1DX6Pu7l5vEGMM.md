@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Pu7l5vEGMM.md) - [plain]
 
 > what are we?
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,619 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,779 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Pu7l5vEGMM.md) - [plain]
 | 23 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 |
 | 24 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 |
 | 25 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 |
-| 26 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 |
-| 27 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 |
+| 26 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 |
+| 27 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 |
 | 28 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 |
 | 29 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
 | 30 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Pu7l5vEGMM.md) - [plain]
 | 43 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 44 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
 | 45 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
-| 46 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 |
-| 47 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Pineapple Sunrise](https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj) | 3:16 |
-| 48 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
-| 49 | [Don't](https://open.spotify.com/track/3pXF1nA74528Edde4of9CC) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:18 |
+| 46 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Pineapple Sunrise](https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj) | 3:16 |
+| 47 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 |
+| 48 | [Don't](https://open.spotify.com/track/3pXF1nA74528Edde4of9CC) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:18 |
+| 49 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 50 | [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 |
 
 Snapshot ID: `AAAAAJCDkLxjVryPCvDwzGbKDpD4MwQ2`

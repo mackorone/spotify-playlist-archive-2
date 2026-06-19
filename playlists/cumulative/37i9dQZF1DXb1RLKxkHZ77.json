@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Alalala Shayang",
+        "url": "https://open.spotify.com/album/2A7iRA2j5eW1sKt39E4Qud"
+      },
+      "artists": [
+        {
+          "name": "Khai Bahar",
+          "url": "https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195987,
+      "name": "Alalala Shayang",
+      "url": "https://open.spotify.com/track/5OVvMjDnLaP3Sq0IzhnA57"
+    },
+    {
+      "album": {
         "name": "Alamak",
         "url": "https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT"
       },
@@ -5530,7 +5548,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 168048,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/5QTLkIBuxqpEXE4gm7IKCX"
@@ -7068,7 +7086,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 234229,
-      "name": "Iqro'",
+      "name": "iqro'",
       "url": "https://open.spotify.com/track/2YRHj7X19faZv4WZZ3JnZq"
     },
     {
@@ -7602,6 +7620,28 @@
       "duration_ms": 196573,
       "name": "Janji Manis",
       "url": "https://open.spotify.com/track/31ECplyzYRmbQihescMh6N"
+    },
+    {
+      "album": {
+        "name": "Janji Setia",
+        "url": "https://open.spotify.com/album/0KuBeerNz7JtLRsvWDEbgg"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "MELONii",
+          "url": "https://open.spotify.com/artist/5IVgCOmq1RxhSQ9lcf3ZMi"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Janji Setia",
+      "url": "https://open.spotify.com/track/6cfod5D7hS31TbRtH16kQx"
     },
     {
       "album": {
@@ -9310,6 +9350,24 @@
       "duration_ms": 254268,
       "name": "Ku Tak Mampu Lagi",
       "url": "https://open.spotify.com/track/5LymVUEKH7rGgZUZD0XrqU"
+    },
+    {
+      "album": {
+        "name": "Ku Yang Berjuang",
+        "url": "https://open.spotify.com/album/2qKc3HT2yePyhDP3CAw3v0"
+      },
+      "artists": [
+        {
+          "name": "Danial Kifli",
+          "url": "https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Ku Yang Berjuang",
+      "url": "https://open.spotify.com/track/6vESiRXG0vOpUgI5pt3eOb"
     },
     {
       "album": {
@@ -12706,7 +12764,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 215062,
       "name": "Pegang Tangan (feat. Adam Nuqris)",
       "url": "https://open.spotify.com/track/1syP0xdRh40Qs8bQThmEpE"
@@ -13446,7 +13504,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 175176,
       "name": "Rabun Jauh",
       "url": "https://open.spotify.com/track/670sqeIKIxTu0DweRjnjKt"
@@ -15502,7 +15560,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170361,
       "name": "seketika",
       "url": "https://open.spotify.com/track/432AvgkVqNjwXiN5xjuOuu"
@@ -17344,6 +17402,28 @@
       "duration_ms": 237798,
       "name": "Tak Kan Terganti",
       "url": "https://open.spotify.com/track/03JEmUuvNg6a3SHW8HNI98"
+    },
+    {
+      "album": {
+        "name": "Brickcity's Illest",
+        "url": "https://open.spotify.com/album/0BBvAoVF8EWYqvY1qz0gxB"
+      },
+      "artists": [
+        {
+          "name": "MC Syze",
+          "url": "https://open.spotify.com/artist/415RH1HJvYXcARc4o4CdBV"
+        },
+        {
+          "name": "Malique",
+          "url": "https://open.spotify.com/artist/4ZsSCvTFG2Krx3AyQ6vHzk"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239161,
+      "name": "Tak Nak",
+      "url": "https://open.spotify.com/track/3hJpGa4xPQOV1mXusqrP3m"
     },
     {
       "album": {

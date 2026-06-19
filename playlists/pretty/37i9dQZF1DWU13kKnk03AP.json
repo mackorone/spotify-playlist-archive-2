@@ -1,6 +1,6 @@
 {
   "description": "Pump it up with these current jams!",
-  "num_followers": 2199480,
+  "num_followers": 2199470,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
-        "name": "no more regrets",
-        "url": "https://open.spotify.com/album/5cdZLcELt79qq6zxd0oFkA"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 178477,
-      "name": "no more regrets",
-      "url": "https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
         "name": "FLY",
         "url": "https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
+        "name": "no more regrets",
+        "url": "https://open.spotify.com/album/5cdZLcELt79qq6zxd0oFkA"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 178477,
+      "name": "no more regrets",
+      "url": "https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
         "name": "Empires On Fire",
         "url": "https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 219800,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
     },
     {
       "added_at": "2026-05-15 04:01:41",
@@ -903,22 +919,6 @@
       "duration_ms": 198600,
       "name": "girl next door",
       "url": "https://open.spotify.com/track/0xCRp9lVz8jrq7G9syKlYL"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
     },
     {
       "added_at": "2026-05-15 04:01:41",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
-        "name": "The Weight of the Woods",
-        "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 230418,
-      "name": "Turnstile",
-      "url": "https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
         "name": "Before You Leave Me",
         "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
-        "name": "Jericho",
-        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
+        "name": "The Weight of the Woods",
+        "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd"
       },
       "artists": [
         {
-          "name": "Iniko",
-          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 158133,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
+      "duration_ms": 230418,
+      "name": "Turnstile",
+      "url": "https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"
     },
     {
       "added_at": "2026-05-15 04:01:41",
@@ -1219,6 +1203,22 @@
       "duration_ms": 183212,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/2xSEiQBQ39xfUgj2KmeRET"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
-        "name": "Burning Down",
-        "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 179437,
-      "name": "Burning Down",
-      "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
         "name": "Flowers Need Rain",
         "url": "https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 168126,
       "name": "Flowers Need Rain",
       "url": "https://open.spotify.com/track/079mntueS2KWjxVqOHjG70"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
+        "name": "Burning Down",
+        "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 179437,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
     },
     {
       "added_at": "2026-05-01 04:27:45",

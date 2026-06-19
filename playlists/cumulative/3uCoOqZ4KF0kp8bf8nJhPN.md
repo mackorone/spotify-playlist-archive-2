@@ -4,7 +4,7 @@
 
 > 
 
-318 songs - 12 hr 38 min
+320 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [iwalkwhenitalk</3](https://open.spotify.com/track/03CRk2KMH20SAWv6OOQ9er) | [vnmpire](https://open.spotify.com/artist/0QsNA8omL2RFyNoHlWwlio) | [iwalkwhenitalk</3](https://open.spotify.com/album/3nc5FjDOeuHvzmM1NirYeA) | 1:38 | 2025-04-09 |  |
 | [JAMS!](https://open.spotify.com/track/3k7D5oH5H3W6he2Eah9Xc5) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [JAMS!](https://open.spotify.com/album/0LP2fZJno04gAR9bhraoZ6) | 1:44 | 2025-03-27 | 2025-04-10 |
 | [JERK!](https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [JERK!](https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc) | 2:11 | 2025-07-12 |  |
+| [JUDY!](https://open.spotify.com/track/0NAMg4Md7nJKeX7UvRdKRB) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [JUDY!](https://open.spotify.com/album/7BiHfH4R4fBa1xQZWM9Fzb) | 1:35 | 2026-06-19 |  |
 | [Just Be Competent](https://open.spotify.com/track/2q5JF3bRPDeAS8EO8KIjEH) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Just Be Competent](https://open.spotify.com/album/1y1d8qRhQtD3UkkUFHsJOS) | 2:36 | 2025-12-07 |  |
 | [KATAMARI](https://open.spotify.com/track/5iAE3uBqaZm9aHUx9yy6a0) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [KATAMARI](https://open.spotify.com/album/4qfXJdKTc2dvIfdlqytd2E) | 2:38 | 2025-03-05 |  |
 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2025-04-11 | 2025-04-17 |
@@ -282,6 +283,7 @@
 | [young](https://open.spotify.com/track/1f0Ar8UYiDo3pI2AWhQRLw) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9) | [young](https://open.spotify.com/album/0YEId6xTxxIB0udIsCDSMs) | 2:31 | 2025-02-14 | 2026-04-04 |
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2025-02-26 |  |
 | [YUCK!](https://open.spotify.com/track/37nSkzg3bcTQz0bS3snV3e) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [SWAGGOT!](https://open.spotify.com/album/4WJUXqDqrqXFmA2dDUasSg) | 1:34 | 2025-11-29 |  |
+| [Y’ALL DON’T KNOW MA BODY!](https://open.spotify.com/track/3jr1jNlXjbXzya7J3tQEyC) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [SWAGGOT! \(B SIDE\)](https://open.spotify.com/album/0ebnfu4hXifVFCgrAv6l3Y) | 1:59 | 2026-06-19 |  |
 | [Биг Сити Лайф](https://open.spotify.com/track/3cqVWI3s0TgcesZsyi42Xp) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [Биг Сити Лайф](https://open.spotify.com/album/4GIGtvvVL4PTa25xN6dnMP) | 2:08 | 2025-08-11 |  |
 | [Биг Сити Лайф](https://open.spotify.com/track/5ZmkKKcxj1H6jiFhq21eHI) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:08 | 2025-08-09 |  |
 | [Биография](https://open.spotify.com/track/5PkgICX1gpyCSOqNEXX99f) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 1:40 | 2025-08-15 |  |

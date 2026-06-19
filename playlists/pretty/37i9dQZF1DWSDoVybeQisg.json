@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1258998,
+  "num_followers": 1259068,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Born To Be Wild (Best Of....)",
+        "url": "https://open.spotify.com/album/14Gu72n79AHDrcFWJ86mdc"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 348560,
+      "name": "The Pusher",
+      "url": "https://open.spotify.com/track/28sa14rbWiHZPs9m1IeDI5"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 265080,
       "name": "Five To One",
       "url": "https://open.spotify.com/track/4IxCudQYUrgPu6qVrwnB5p"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Nights In White Satin Hit Pac",
-        "url": "https://open.spotify.com/album/2cYCHa8cPrvU2Vrw4xahof"
-      },
-      "artists": [
-        {
-          "name": "The Moody Blues",
-          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
-        }
-      ],
-      "duration_ms": 264133,
-      "name": "Nights In White Satin - Single Edit",
-      "url": "https://open.spotify.com/track/6clw4A52XQ9tLBPHBM8SYG"
     }
   ],
   "unique_name": "Psychedelic Rock",

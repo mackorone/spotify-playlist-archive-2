@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2026 RADAR登場！持續發掘香港未來新聲！Cover: The Hertz
+> 2026 RADAR登場！持續發掘香港未來新聲！Cover: Teddy Fan
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,875 likes - 44 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,877 likes - 44 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

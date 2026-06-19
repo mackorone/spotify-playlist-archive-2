@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Ränta på ränta..\. 💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,333 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,310 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

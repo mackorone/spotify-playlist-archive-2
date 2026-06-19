@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,136 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,138 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 10 | [No Problem \(feat\. Lil Wayne & 2 Chainz\)](https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 5:04 |
 | 11 | [I\. The Worst Guys](https://open.spotify.com/track/4jnctHRggVIvMgkru936fN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Because the Internet](https://open.spotify.com/album/5h0KYWMZIg8xT6eRGYkNMh) | 3:39 |
 | 12 | [Favorite Song](https://open.spotify.com/track/1tyCvK8fhQ1UUVK0nY1JlH) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Acid Rap](https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid) | 3:05 |
-| 13 | [Baby Blue \(feat\. Chance the Rapper\)](https://open.spotify.com/track/7gDwRzJhLs0fFHaGtMDJVM) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Mr\. Wonderful](https://open.spotify.com/album/7ijgeLAW3W3vZ9jf6tozFq) | 4:40 |
+| 13 | [Holy \- Acoustic](https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy \(Acoustic\)](https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU) | 3:25 |
 | 14 | [All Night \(feat\. Knox Fortune\)](https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 2:21 |
-| 15 | [Holy \- Acoustic](https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy \(Acoustic\)](https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU) | 3:25 |
+| 15 | [Baby Blue \(feat\. Chance the Rapper\)](https://open.spotify.com/track/7gDwRzJhLs0fFHaGtMDJVM) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Mr\. Wonderful](https://open.spotify.com/album/7ijgeLAW3W3vZ9jf6tozFq) | 4:40 |
 | 16 | [Cross Me \(feat\. Chance the Rapper & PnB Rock\)](https://open.spotify.com/track/4wuCQX7JvAZLlrcmH4AeZF) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:26 |
 | 17 | [Juice](https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap \(10th Anniversary \- Complete Edition\)](https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1) | 3:35 |
 | 18 | [Same Drugs](https://open.spotify.com/track/6m9qPYXmhge2QhBLfFKnVF) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 49 | [I Love You \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [A Love Letter To You 4 \(Deluxe\)](https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9) | 3:49 |
 | 50 | [The Man Who Has Everything](https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Man Who Has Everything](https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu) | 3:38 |
 
-Snapshot ID: `ajCSAAAAAACQKsjXTlBW+vglYIM9mBTL`
+Snapshot ID: `ajHjgAAAAABhkUji4UmsSiw7zLtEh5jT`

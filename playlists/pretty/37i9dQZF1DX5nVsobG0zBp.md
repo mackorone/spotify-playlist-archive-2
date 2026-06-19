@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: LON3R JOHNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,243 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,263 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 61 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
 | 62 | [NUVENS](https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NUVENS](https://open.spotify.com/album/1e01W4bZ9pbHawTp1XZkBb) | 2:37 |
 | 63 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
-| 64 | [CABARET](https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [CABARET](https://open.spotify.com/album/31BxT3LcIPCP5P04rZgoah) | 2:15 |
+| 64 | [DAKAR](https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [DAKAR](https://open.spotify.com/album/6a0RFiFtvOADiIpxS3SfVR) | 3:44 |
 | 65 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 |
 | 66 | [Laços](https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Laços](https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw) | 3:26 |
 | 67 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 68 | [Mo Boy](https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 3:52 |
-| 69 | [DAKAR](https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [DAKAR](https://open.spotify.com/album/6a0RFiFtvOADiIpxS3SfVR) | 3:44 |
+| 69 | [CABARET](https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [CABARET](https://open.spotify.com/album/31BxT3LcIPCP5P04rZgoah) | 2:15 |
 | 70 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
 | 71 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 |
 | 72 | [Lua](https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua](https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1) | 3:12 |

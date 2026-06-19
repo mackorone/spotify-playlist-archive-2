@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,192 likes - 125 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,210 likes - 125 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 52 | [Dile, Cuentale](https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Dile, Cuentale](https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu) | 4:10 |
 | 53 | [Soy Maraquero](https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII) | [Kual](https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo) | [Lo Mas Ka\-Bron Sonidero](https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA) | 5:00 |
 | 54 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
-| 55 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 |
-| 56 | [Mami \(Angel De Paz\)](https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9) | [Andikiru](https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o) | [Sueño Contigo](https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O) | 3:31 |
+| 55 | [Mami \(Angel De Paz\)](https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9) | [Andikiru](https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o) | [Sueño Contigo](https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O) | 3:31 |
+| 56 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 |
 | 57 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
 | 58 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |
 | 59 | [La Rumba Quimbumba](https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX), [Grupo Kien? Los reyes del sabor](https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:56 |
@@ -106,12 +106,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 96 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren](https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh) | 3:44 |
 | 97 | [El Diario De Un Borracho](https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [El Condor Legendario](https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG) | 4:26 |
 | 98 | [El Reo Ausente](https://open.spotify.com/track/6feUE7Z9pGHfCHbh6EOA0j) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Desafiando Estilos](https://open.spotify.com/album/2REmS5o5mh0QWNuZa6WGhs) | 5:49 |
-| 99 | [Conga Y Timbal](https://open.spotify.com/track/7LXEJkLmNUCXD4WNbshFdy) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi) | 3:39 |
+| 99 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
 | 100 | [El Verde De Tus Ojos](https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Serie 20 Exitos Los Yes Yes](https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t) | 5:13 |
 | 101 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 |
 | 102 | [Agua de vida](https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg) | [Perla Colombiana](https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14) | [La Perla Colombiana 20 Exitos \(Vol 1\)](https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu) | 3:38 |
 | 103 | [Mi Cucu](https://open.spotify.com/track/22FB6hM6aonuPuVzBQYRcx) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [La Sonora Dinamita Tributo a: Lucho Argain Vol\. 1](https://open.spotify.com/album/48nbvAUIvwhn49b7ZwF9A4) | 3:54 |
-| 104 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
+| 104 | [Conga Y Timbal](https://open.spotify.com/track/7LXEJkLmNUCXD4WNbshFdy) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi) | 3:39 |
 | 105 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |
 | 106 | [El Baile De San Juan](https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [Con Musica Del Barrio y Para El Barrio](https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo) | 4:14 |
 | 107 | [No Me Llames Mas](https://open.spotify.com/track/0hs7HcC5yR727pM2xWEqeN) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [No Me Llames Mas](https://open.spotify.com/album/64MByVkltf90JUh4xgD2Gf) | 4:27 |

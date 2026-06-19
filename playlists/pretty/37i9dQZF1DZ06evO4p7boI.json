@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 96305,
+  "num_followers": 96303,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAATBReNeVhWnPxQvJ+AMG8Y",
+  "snapshot_id": "ajHjgAAAAACnzPcj3yZzhOVkZQzokEWL",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 131214,
+      "name": "Vicodin",
+      "url": "https://open.spotify.com/track/19CWeHbg3Z9XJH4Uzdk6tf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
         "url": "https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 194843,
       "name": "Leaders (feat. NAV)",
       "url": "https://open.spotify.com/track/4D7NrSeqkTarBrJ80b2sBc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 131214,
-      "name": "Vicodin",
-      "url": "https://open.spotify.com/track/19CWeHbg3Z9XJH4Uzdk6tf"
     },
     {
       "added_at": null,

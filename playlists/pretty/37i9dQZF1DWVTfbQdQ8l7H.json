@@ -1,6 +1,6 @@
 {
   "description": "Unforgettable love songs from the 2010s.",
-  "num_followers": 692213,
+  "num_followers": 692379,
   "original_name": "10s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -978,15 +978,11 @@
         {
           "name": "Maroon 5",
           "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 199849,
-      "name": "What Lovers Do (feat. SZA)",
-      "url": "https://open.spotify.com/track/0GxQ1A5L9xnMOytbP6eKBG"
+      "duration_ms": 215229,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/7npLlaPu9Mfno8hjk5OagD"
     },
     {
       "added_at": "2026-02-25 17:46:18",
@@ -1066,11 +1062,15 @@
         {
           "name": "Maroon 5",
           "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 215229,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/7npLlaPu9Mfno8hjk5OagD"
+      "duration_ms": 199849,
+      "name": "What Lovers Do (feat. SZA)",
+      "url": "https://open.spotify.com/track/0GxQ1A5L9xnMOytbP6eKBG"
     },
     {
       "added_at": "2026-02-25 17:46:18",

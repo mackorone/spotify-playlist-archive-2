@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 
 > a serotonin forward glow
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,722,169 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,722,334 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 | 43 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 |
 | 44 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
 | 45 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
-| 46 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
-| 47 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
+| 46 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
+| 47 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
 | 48 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
 | 49 | [supernatural](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 |
 | 50 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
@@ -65,15 +65,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 | 55 | [Carla's Song](https://open.spotify.com/track/3QuRLv8zkIYH31O5VgEpmo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:13 |
 | 56 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
 | 57 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 |
-| 58 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
-| 59 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
-| 60 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 |
-| 61 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
+| 58 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
+| 59 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 |
+| 60 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
+| 61 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 62 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
 | 63 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
 | 64 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:50 |
-| 65 | [Your Love](https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Super Hits](https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4) | 3:41 |
-| 66 | [Naive](https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 3:23 |
+| 65 | [Naive](https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 3:23 |
+| 66 | [Your Love](https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Super Hits](https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4) | 3:41 |
 | 67 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 |
 | 68 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 |
 | 69 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 |

@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 10614,
+  "num_followers": 10622,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\uc30d\ub465\uc774 \ud30c\uc6cc",
-        "url": "https://open.spotify.com/album/2Rz5WSnrj1Bvw3j8H7AfLN"
-      },
-      "artists": [
-        {
-          "name": "\ub7c9\ud604\ub7c9\ud558",
-          "url": "https://open.spotify.com/artist/2KFiocGPkYOBHVP1CF9elk"
-        }
-      ],
-      "duration_ms": 244271,
-      "name": "\ud559\uad50\ub97c \uc548\uac14\uc5b4",
-      "url": "https://open.spotify.com/track/5Jwc8DEZiU7rmn73how81q"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "All Details",
         "url": "https://open.spotify.com/album/2XTDT3Dae6mzMhyhVKU16Z"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 216224,
       "name": "The Rose of Betrayal",
       "url": "https://open.spotify.com/track/08NeKzNpojEoIjiGVVZMh4"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "\uc30d\ub465\uc774 \ud30c\uc6cc",
+        "url": "https://open.spotify.com/album/2Rz5WSnrj1Bvw3j8H7AfLN"
+      },
+      "artists": [
+        {
+          "name": "\ub7c9\ud604\ub7c9\ud558",
+          "url": "https://open.spotify.com/artist/2KFiocGPkYOBHVP1CF9elk"
+        }
+      ],
+      "duration_ms": 244271,
+      "name": "\ud559\uad50\ub97c \uc548\uac14\uc5b4",
+      "url": "https://open.spotify.com/track/5Jwc8DEZiU7rmn73how81q"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Roo`ra Best Album",
-        "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
-      },
-      "artists": [
-        {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
-        }
-      ],
-      "duration_ms": 243435,
-      "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
-      "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Big 5",
         "url": "https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 244509,
       "name": "Sad Fate",
       "url": "https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Roo`ra Best Album",
+        "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
+      },
+      "artists": [
+        {
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+        }
+      ],
+      "duration_ms": 243435,
+      "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
+      "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"
     },
     {
       "added_at": "2024-04-04 20:06:12",

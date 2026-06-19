@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Giorgos Sabanis",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ellize, FY",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -666,7 +666,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 198360,
       "name": "Anemos",
       "url": "https://open.spotify.com/track/1ot6Dg7Sn77aL45m7O6aYG"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 196975,
       "name": "Ekeinos",
       "url": "https://open.spotify.com/track/7vEFGoqbuVcLmyCkBKFDkQ"
@@ -1894,7 +1894,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 161632,
       "name": "Ela Ela",
       "url": "https://open.spotify.com/track/10FlcJhTdA0ubuTd2FWejq"
@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 180000,
       "name": "Ferto",
       "url": "https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5"
@@ -2480,7 +2480,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 142909,
       "name": "GET LOW",
       "url": "https://open.spotify.com/track/4IcDfTKEPoCyZNbPWDLV32"
@@ -2666,6 +2666,24 @@
       "duration_ms": 140777,
       "name": "Glyko Antio",
       "url": "https://open.spotify.com/track/1XJAyJ7p11u2He72ecoq5C"
+    },
+    {
+      "album": {
+        "name": "Granita Lemoni",
+        "url": "https://open.spotify.com/album/6QusMyuqgtSe2W2naYg85e"
+      },
+      "artists": [
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216377,
+      "name": "Granita Lemoni",
+      "url": "https://open.spotify.com/track/1d7mMTCDkPB6No9nvJ6Lhc"
     },
     {
       "album": {
@@ -2979,6 +2997,28 @@
     },
     {
       "album": {
+        "name": "Jackie \u039f'",
+        "url": "https://open.spotify.com/album/35hZqIutiGG7tCaPNDlnE9"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157346,
+      "name": "Jackie \u039f'",
+      "url": "https://open.spotify.com/track/3eki2WDPpHdejxehX147UA"
+    },
+    {
+      "album": {
         "name": "Kaigomai",
         "url": "https://open.spotify.com/album/2sWotPDlxvtwKk5fhvkrqD"
       },
@@ -3074,6 +3114,28 @@
       "duration_ms": 157675,
       "name": "Kalos Se Vrika",
       "url": "https://open.spotify.com/track/6HZ1lSvUt5gKsJx2DBDmBg"
+    },
+    {
+      "album": {
+        "name": "KARALHO",
+        "url": "https://open.spotify.com/album/5V94gUViWjEaX3RGgshVHz"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        },
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "KARALHO",
+      "url": "https://open.spotify.com/track/1vTAwpWr8qOtFM7pfMw6wM"
     },
     {
       "album": {
@@ -3576,7 +3638,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 114571,
       "name": "Mama",
       "url": "https://open.spotify.com/track/08dIKnRL0hADQh0jdlra6B"
@@ -3956,6 +4018,24 @@
       "duration_ms": 188000,
       "name": "Nero",
       "url": "https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f"
+    },
+    {
+      "album": {
+        "name": "NEVRA S3X STRESS",
+        "url": "https://open.spotify.com/album/7KfKlTNQgQevztlEaaK5AD"
+      },
+      "artists": [
+        {
+          "name": "Joanne",
+          "url": "https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152340,
+      "name": "NEVRA S3X STRESS",
+      "url": "https://open.spotify.com/track/2f9lwB6SpNuOYkESI3wbpj"
     },
     {
       "album": {
@@ -4841,6 +4921,28 @@
     },
     {
       "album": {
+        "name": "Say My Name (The Riddle)",
+        "url": "https://open.spotify.com/album/0qPkNAhuVS4GaOLfOwAGTX"
+      },
+      "artists": [
+        {
+          "name": "TR3NACRIA",
+          "url": "https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH"
+        },
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210476,
+      "name": "Say My Name (The Riddle)",
+      "url": "https://open.spotify.com/track/21I7tYAMKAf4nizvkdX4hY"
+    },
+    {
+      "album": {
         "name": "Se Mia Stigmi",
         "url": "https://open.spotify.com/album/6JG6ZymOscG7SsvhD1SSqr"
       },
@@ -5148,6 +5250,24 @@
       "duration_ms": 170464,
       "name": "Ta Pagkakia",
       "url": "https://open.spotify.com/track/15OwfEKAhTnQovplNkR0Ms"
+    },
+    {
+      "album": {
+        "name": "Ta Zodia",
+        "url": "https://open.spotify.com/album/0wn9x0ww3k8B8ledxB4kC3"
+      },
+      "artists": [
+        {
+          "name": "Sofia Danezi",
+          "url": "https://open.spotify.com/artist/1u4J3P9pN4BHvmbQY10oUK"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195652,
+      "name": "Ta Zodia",
+      "url": "https://open.spotify.com/track/5DQwQ5msHyjTo58XjCXsm4"
     },
     {
       "album": {

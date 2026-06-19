@@ -1,6 +1,6 @@
 {
   "description": "Tu karaoke personal para darlo todo cantando.",
-  "num_followers": 1644102,
+  "num_followers": 1643979,
   "original_name": "Karaoke 2026",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 249293,
-      "name": "Livin' On A Prayer",
-      "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 221366,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "Livin' On A Prayer",
+      "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -791,6 +791,26 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
+        "name": "The Score (Expanded Edition)",
+        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
         "name": "St. Elsewhere",
         "url": "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 177933,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
-        "name": "The Score (Expanded Edition)",
-        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
-      },
-      "artists": [
-        {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Along Came Jones",
-        "url": "https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR"
-      },
-      "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        }
-      ],
-      "duration_ms": 119800,
-      "name": "It's Not Unusual",
-      "url": "https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "\u00bfQu\u00e9 pides t\u00fa?",
         "url": "https://open.spotify.com/album/2C7L4EkbJEfR7cJnQduvXr"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 310866,
       "name": "Sin miedo a nada (feat. Amaia Montero)",
       "url": "https://open.spotify.com/track/0EA40dd5ghMqemzoqWvo3E"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Along Came Jones",
+        "url": "https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "duration_ms": 119800,
+      "name": "It's Not Unusual",
+      "url": "https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "What A Feeling",
-        "url": "https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "What A Feeling",
-      "url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "1 (Remastered)",
         "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 425653,
       "name": "Hey Jude - Remastered 2015",
       "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "What A Feeling",
+        "url": "https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "What A Feeling",
+      "url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "2000 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
-      },
-      "artists": [
-        {
-          "name": "Chocolate",
-          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Mayonesa",
-      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 256320,
       "name": "Si t\u00fa no estas",
       "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "2000 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
+      },
+      "artists": [
+        {
+          "name": "Chocolate",
+          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Mayonesa",
+      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2547,22 +2547,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "P\u00e1jaros En La Cabeza",
-        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Marta, Sebas, Guille y los dem\u00e1s",
-      "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
         "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
@@ -2575,6 +2559,22 @@
       "duration_ms": 232880,
       "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
       "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "P\u00e1jaros En La Cabeza",
+        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Marta, Sebas, Guille y los dem\u00e1s",
+      "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3043,22 +3043,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Greatest Vol.1 - Belinda Carlisle",
-        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
-      },
-      "artists": [
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 246520,
-      "name": "Heaven Is A Place On Earth",
-      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/02h9kO2oLKnLtycgbElKsw"
       },
@@ -3075,18 +3059,18 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [International Version]",
-        "url": "https://open.spotify.com/album/5lNzygOpCmzRx4N301icBB"
+        "name": "Greatest Vol.1 - Belinda Carlisle",
+        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
       },
       "artists": [
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
         }
       ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/70cTMpcgWMcR18t9MRJFjB"
+      "duration_ms": 246520,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3103,6 +3087,22 @@
       "duration_ms": 306426,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [International Version]",
+        "url": "https://open.spotify.com/album/5lNzygOpCmzRx4N301icBB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/70cTMpcgWMcR18t9MRJFjB"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3163,22 +3163,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Nevermind (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -3199,6 +3183,22 @@
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Nevermind (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5"
     },
     {
       "added_at": "2026-03-17 11:58:46",

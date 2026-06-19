@@ -4,7 +4,7 @@
 
 > A new world of alternative noise\. Cover: YHWH Nailgun
 
-204 songs - 11 hr 8 min
+208 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 | 2025-10-23 | 2026-05-15 |
 | [Can't Feel It](https://open.spotify.com/track/0FeXCUdFEYzYRxsl0ntsgH) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Can't Feel It](https://open.spotify.com/album/0NF5PG5PmiomlWNUBt0mTa) | 3:37 | 2025-10-23 | 2026-04-10 |
 | [Claires Whip](https://open.spotify.com/track/2KiXoQzagdrDIjAlgfqM2t) | [Dragnet](https://open.spotify.com/artist/4N5f5r6VSt8LaWeAKlK91o) | [Dragnet Reigns!](https://open.spotify.com/album/62I8kD8qVSthButF7DN4pR) | 1:52 | 2025-10-23 | 2026-02-13 |
+| [Cola](https://open.spotify.com/track/4BvMEPDYv85Z9ofDZjL2GF) | [Cold Court](https://open.spotify.com/artist/0p2iWhKSNA2FX3ZaB0IoM0) | [\\ \(^\_^\) /](https://open.spotify.com/album/6zKGIFG5YMxgaVixABT5A5) | 3:19 | 2026-06-18 |  |
 | [Cold](https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Cold](https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t) | 2:21 | 2025-11-06 | 2026-01-15 |
 | [Cruise Ship Designer](https://open.spotify.com/track/4bxf0SkBztnpD2pmG4E3XE) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Cruise Ship Designer](https://open.spotify.com/album/4TS9qII3TePPw5supS6ydF) | 2:29 | 2025-11-13 | 2026-02-06 |
 | [Cult of Celebrity](https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Cult of Celebrity](https://open.spotify.com/album/0WI41FEVRdFwjcVdrTSBrm) | 2:13 | 2026-04-02 | 2026-06-05 |
@@ -75,7 +76,7 @@
 | [gloss](https://open.spotify.com/track/4954IoAJu2QJAYZBDWTn6F) | [horse](https://open.spotify.com/artist/6V9Tfh0YmcoTEBKd35s9ql) | [gloss](https://open.spotify.com/album/5cB6ytAOOS0PSbkWewmteI) | 2:58 | 2026-06-04 |  |
 | [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 | 2026-05-15 |  |
 | [Gold](https://open.spotify.com/track/4ab3Sjx3e92nsAGrL0BYL7) | [The world is against you](https://open.spotify.com/artist/5jsUB6RwIhNXHZMUGskMpz) | [gold / fawn](https://open.spotify.com/album/2TOEnmEgLeiozFQcJKats7) | 4:27 | 2026-02-05 |  |
-| [Gold Things](https://open.spotify.com/track/3wH727bYhimLg5cCL9ZCy7) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Gold Things](https://open.spotify.com/album/3udQKwBiO7fJZcQTwkJ8j5) | 3:09 | 2026-04-23 |  |
+| [Gold Things](https://open.spotify.com/track/3wH727bYhimLg5cCL9ZCy7) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Gold Things](https://open.spotify.com/album/3udQKwBiO7fJZcQTwkJ8j5) | 3:09 | 2026-04-23 | 2026-06-19 |
 | [Golden Boy](https://open.spotify.com/track/3A1ODOlyUOBNHHSkob57Ym) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Golden Boy](https://open.spotify.com/album/7ukf25x1Denwo0UbDfaEXx) | 3:41 | 2025-10-23 | 2026-01-30 |
 | [good luck](https://open.spotify.com/track/3oAziHFXoYjjdNqkldMO9w) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [good luck](https://open.spotify.com/album/0QqHV2pIGSb6DMjyV98lrb) | 1:46 | 2025-10-23 | 2026-02-27 |
 | [Green Screen](https://open.spotify.com/track/1P8hB555l5NAmbfIq2xvtz) | [Hektor](https://open.spotify.com/artist/6TkIRova0MUAByYUBmbVnd), [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo) | [The Divine](https://open.spotify.com/album/15tkGgCqPiqktQImQw8Uy0) | 3:57 | 2026-04-09 |  |
@@ -99,7 +100,7 @@
 | [Jackpot](https://open.spotify.com/track/6qOsoCLbqPSGECCdOHPWlu) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [Theft World](https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk) | 3:17 | 2026-05-08 | 2026-06-05 |
 | [James Bay's Hat](https://open.spotify.com/track/7pBHLxLuo0epUw53Wij0Pq) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Primordial Slot Machine](https://open.spotify.com/album/0SfAfwswZrrbQuSBNHfMgU) | 2:06 | 2025-10-23 | 2025-12-12 |
 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-10-23 | 2026-03-13 |
-| [Jets](https://open.spotify.com/track/7KHCTOQdd3fbhE4A4nLMMg) | [Billions](https://open.spotify.com/artist/0d4Vp1bZp6pienWr5UZk4o) | [Jets](https://open.spotify.com/album/4XT8suRAQcriBXpFu1Sepd) | 3:13 | 2026-02-19 |  |
+| [Jets](https://open.spotify.com/track/7KHCTOQdd3fbhE4A4nLMMg) | [Billions](https://open.spotify.com/artist/0d4Vp1bZp6pienWr5UZk4o) | [Jets](https://open.spotify.com/album/4XT8suRAQcriBXpFu1Sepd) | 3:13 | 2026-02-19 | 2026-06-19 |
 | [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 | 2026-01-15 | 2026-03-13 |
 | [Just a Memory](https://open.spotify.com/track/10ElMw2aUfjQgq0l9ATVXR) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Just a Memory](https://open.spotify.com/album/7ChJguOeuMu7fwDhFooODN) | 3:31 | 2025-12-18 | 2026-06-05 |
 | [Keychain](https://open.spotify.com/track/2VOhFvluZlMT2wHIuJWkR1) | [Hot Glue](https://open.spotify.com/artist/6Xz3noOPv6Cpb2ULyIHOiG) | [Again, Again](https://open.spotify.com/album/3sAXgTIcyf8B18AsLj2Mru) | 3:01 | 2026-04-16 | 2026-06-05 |
@@ -161,7 +162,7 @@
 | [S.S.R.I.](https://open.spotify.com/track/4pTYYj4OePKSu2lOBPRcoJ) | [Special Guest](https://open.spotify.com/artist/4WPcB3czUtzQ2QT1MAikKu) | [S.S.R.I.](https://open.spotify.com/album/3VJCA3crUdrG5qj1Oxe8fS) | 3:05 | 2025-10-23 | 2026-03-13 |
 | [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 | 2026-04-02 |  |
 | [Scorching Heat](https://open.spotify.com/track/0VNlrimGojC31fEX3c7T78) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Scorching Heat](https://open.spotify.com/album/0qhOi2eJxJ0yFthw12DVwT) | 3:14 | 2025-10-23 | 2026-03-20 |
-| [Screwdark](https://open.spotify.com/track/6jDEJCBicEVTQGK0N91iuU) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [Screwdark](https://open.spotify.com/album/42P3ZVoYKElog78pE5qFFS) | 2:39 | 2026-05-08 |  |
+| [Screwdark](https://open.spotify.com/track/6jDEJCBicEVTQGK0N91iuU) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [Screwdark](https://open.spotify.com/album/42P3ZVoYKElog78pE5qFFS) | 2:39 | 2026-05-08 | 2026-06-19 |
 | [SCREWDRIVA](https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [TREK](https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ) | 3:02 | 2025-10-23 | 2026-03-13 |
 | [Secrets](https://open.spotify.com/track/7LN2eS7gyXt1MenkXRlqAF) | [Itchy and the Nits](https://open.spotify.com/artist/2HaxruhERCGJpz57qqjk8h) | [Greetings from Itchy and the Nits](https://open.spotify.com/album/0zgz2F5kH668aSUvdI4rfY) | 1:35 | 2026-02-12 |  |
 | [She Doesn't Want Me to Exist](https://open.spotify.com/track/54donuwNKWydMCljWGvJK8) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [She Doesn't Want Me to Exist](https://open.spotify.com/album/2d1klica3y6jk7nRt413XI) | 2:41 | 2026-06-04 |  |
@@ -172,6 +173,7 @@
 | [SLUGLIFE](https://open.spotify.com/track/1NHC32sx6ZrSgoEid0U496) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [SLUGLIFE](https://open.spotify.com/album/3u7Yzw75rdt8wfPGISf8N9) | 4:43 | 2026-01-15 |  |
 | [Smart Enough](https://open.spotify.com/track/5VFyaFiyWTZZEGQU3iWaMu) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [All That We Know](https://open.spotify.com/album/2IEKZcBQyuVhHxiDfvUvfb) | 3:11 | 2025-11-13 | 2026-04-10 |
 | [Smoking](https://open.spotify.com/track/7gjFBjHdCeaWcguXSvYSsW) | [Full Flower Moon Band](https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4), [Drunk Mums](https://open.spotify.com/artist/1vd7OHxzKOJeFKjN1M7VTb) | [Megaflower \(Deluxe\)](https://open.spotify.com/album/4jom42cmqbh61M5KPtH1KO) | 2:31 | 2025-12-11 | 2026-06-12 |
+| [Something's Different](https://open.spotify.com/track/3yXLnMwKAxaXYzvJJ84VJs) | [Marbled Eye](https://open.spotify.com/artist/3V6GV39cSmmExOhjdcM60D) | [Something's Different](https://open.spotify.com/album/2KdVk09BhHK1OPJYCv1stq) | 2:39 | 2026-06-18 |  |
 | [Sony Ericsson](https://open.spotify.com/track/4mw4weFq7yJMmS40MtWf40) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Sony Ericsson](https://open.spotify.com/album/1HwEyt9fQ53aNtkxGM9XA9) | 3:37 | 2025-10-23 | 2026-05-15 |
 | [Sooner](https://open.spotify.com/track/38dPK19fxdAvEDOICBRdEq) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Life Advice](https://open.spotify.com/album/4rLGhG2wJkZQ1bAP4QhrCl) | 4:37 | 2025-10-23 | 2026-03-20 |
 | [Special Unit](https://open.spotify.com/track/0u6gGjxVPbZmGs2ABQKrCy) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Special Unit](https://open.spotify.com/album/3gYLrXlIRzJb3xnxqCdBto) | 2:39 | 2026-05-21 |  |
@@ -181,6 +183,7 @@
 | [Star 6 9](https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 3:11 | 2025-10-23 |  |
 | [Stay Right](https://open.spotify.com/track/4ijtVwvHowS1kJ3v8jQwrR) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Stay Right](https://open.spotify.com/album/42vDjhnZcnDihTeXfAyj2b) | 3:44 | 2025-12-04 | 2026-06-12 |
 | [Step On It](https://open.spotify.com/track/0DW31s848ybq7FMG8szgCq) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc), [Posseshot](https://open.spotify.com/artist/1iMp6xzgbWnO15izaVC7QU) | [Step On It](https://open.spotify.com/album/7uOg6W8mC5lB7LSRaMdEHV) | 4:28 | 2026-02-12 | 2026-06-05 |
+| [Sternum](https://open.spotify.com/track/6fFYWn3ZH9excLrMln4pbP) | [Bennetts Grove](https://open.spotify.com/artist/4LLUP13hqBwDZJqDse7UbA) | [Sternum](https://open.spotify.com/album/2qcZa3ihZt2Ck6nyCBrxBW) | 4:59 | 2026-06-18 |  |
 | [Stillness Blues](https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Magazine](https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3) | 1:18 | 2026-06-11 |  |
 | [Sucking on a Surly Pout](https://open.spotify.com/track/6Hs8BuojSpPQkF2wmU6RUh) | [Ringlets](https://open.spotify.com/artist/5CgTsJzu2AaHviFIlpoLwa) | [The Lord Is My German Shepherd \(Time for Walkies\)](https://open.spotify.com/album/4y9KRNv8lpiQHJjUMh8923) | 3:31 | 2025-10-23 | 2025-11-28 |
 | [Swamped](https://open.spotify.com/track/18m8UwkEJvXk7EQEv4q4sD) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Sky Is Falling](https://open.spotify.com/album/28uUvZtG0MaZILpUToigcn) | 3:17 | 2025-10-23 | 2025-11-21 |
@@ -193,7 +196,7 @@
 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 | 2025-10-23 | 2026-02-21 |
 | [The Sound It Made](https://open.spotify.com/track/0X8xSULeOMS3n3D0QxeYNZ) | [Robber Robber](https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM) | [The Sound It Made](https://open.spotify.com/album/3ejGatYed8blR2jFn3Vtbm) | 2:38 | 2026-04-02 | 2026-06-05 |
 | [The Standard Model](https://open.spotify.com/track/7BPVpfnypd2ivsSiyoZpzC) | [MORN](https://open.spotify.com/artist/0kyIsGsq7em6p0dOUwOAI3) | [The Standard Model / I Watched You as Your Mind Slipped Far \(Away from Me\)](https://open.spotify.com/album/15ZXKA3K33WXyYMU87DcxI) | 3:36 | 2026-05-08 |  |
-| [Therapy II](https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys \(Japanese Deluxe Edition\)](https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB) | 2:39 | 2026-01-15 |  |
+| [Therapy II](https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys \(Japanese Deluxe Edition\)](https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB) | 2:39 | 2026-01-15 | 2026-06-19 |
 | [Things I've Killed](https://open.spotify.com/track/4RJqm50m6kVJe5k3bup0uR) | [Telehealth](https://open.spotify.com/artist/3llBwQI73SJWVmKudqLghX) | [Things I've Killed](https://open.spotify.com/album/1xVxEwOcDyW3zIZ8x3eYej) | 2:50 | 2026-03-26 | 2026-05-30 |
 | [THROWIN SHAPES](https://open.spotify.com/track/3mhopbXYbHnBNTP4VpAvFy) | [teethin](https://open.spotify.com/artist/4Wj9pvOAHySewGeVeGBMDg) | [THROWIN SHAPES](https://open.spotify.com/album/0CC78rgNhzUddEbVeX6efS) | 2:43 | 2025-10-23 | 2026-04-03 |
 | [Tired](https://open.spotify.com/track/75Hb6zfkNVghWhkxaye8O2) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Tired](https://open.spotify.com/album/4h8WaLQ7LtzgiWsS40HGTz) | 2:11 | 2025-10-23 | 2026-05-22 |
@@ -210,6 +213,7 @@
 | [Waterboy](https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:58 | 2025-10-23 | 2026-02-27 |
 | [WHITE NOISE](https://open.spotify.com/track/74XCDJHLBDWNyKCVkoRktY) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [WHITE NOISE](https://open.spotify.com/album/4Ujzbe9tXwfIZabmtPFAEC) | 4:24 | 2026-02-26 |  |
 | [Why Are These Men Still Alive](https://open.spotify.com/track/4oUei1ZLojAfP7iLANoR4e) | [Institute](https://open.spotify.com/artist/4pLRqnM78ur7geXMT6q2NR) | [Institute](https://open.spotify.com/album/5JBV4NEGXpbw7b5I2RArlk) | 3:54 | 2026-03-12 |  |
+| [Wreckage](https://open.spotify.com/track/4aCbdFRL1BWBRNYHNmVtWD) | [Day Dreamers](https://open.spotify.com/artist/1jGia2OegGP0F1ZlEbgcwZ) | [Wreckage](https://open.spotify.com/album/0XZ2MRKbWR5snhasQV8k2t) | 2:33 | 2026-06-18 |  |
 | [デトロイト｜Detoroito](https://open.spotify.com/track/6DZbO6wJuGzUyy2lARqAmC) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [円相 ｜Enso](https://open.spotify.com/album/13JammOxbOwU9ft8PElfDT) | 4:19 | 2026-06-11 |  |
 | [円相 ｜Enso](https://open.spotify.com/track/38POEFYokzqLItJQpaBZx5) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [円相 ｜Enso](https://open.spotify.com/album/5YSZ50mLBYO7yUTPUesWno) | 3:11 | 2026-05-15 |  |
 

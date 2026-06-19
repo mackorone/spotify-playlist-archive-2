@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 
 > This is Jorja Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,228 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,243 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 17 | [The Way I Love You](https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/5LM2wQNoA6LlS5aTR4PKJj) | 3:23 |
 | 18 | [With You](https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY) | 3:21 |
 | 19 | [Lately](https://open.spotify.com/track/2DEUiGcDxB4QpImgydZmTi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:07 |
-| 20 | [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 |
-| 21 | [Burn](https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:34 |
+| 20 | [Burn](https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:34 |
+| 21 | [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 |
 | 22 | [Price Of It All](https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Price Of It All \(Music From the Original Series "Bait"\)](https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96) | 3:04 |
 | 23 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 |
 | 24 | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5) | 3:18 |
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 27 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:12 |
 | 28 | [Where Did I Go?](https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:11 |
 | 29 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
-| 30 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 |
-| 31 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 2:58 |
+| 30 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
+| 31 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 |
 | 32 | [Tomorrow](https://open.spotify.com/track/14qLa09blyCJdkRJRQ8lpV) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:52 |
-| 33 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
+| 33 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 2:58 |
 | 34 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/11bJ1ws3dathgY9uzADUhL) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:49 |
 | 35 | [Backwards](https://open.spotify.com/track/7uRIdAhzWjQPSIgkZaMn73) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:44 |
 | 36 | [Don't Watch Me Cry](https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 49 | [I Am](https://open.spotify.com/track/0DJBgBiYeSn6n1AXAkFVE8) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:28 |
 | 50 | [Killing Me](https://open.spotify.com/track/35KBVb0GWD9u0IGMRSNMEL) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Killing Me](https://open.spotify.com/album/7FTJjjKgVJhOHiGJ66tpbk) | 3:25 |
 
-Snapshot ID: `ajCSAAAAAAA8WvigXw2iUMTeVbPqOJDo`
+Snapshot ID: `ajHjgAAAAACnMISX8TtnySpvxvyALogY`

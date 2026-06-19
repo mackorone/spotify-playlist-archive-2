@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2415kOuJBQa.md) - [plain]
 
 > Real LGBTQ+ lives, honestly and powerfully told.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAJGEKoh+ItFU3B7I+EOMBAtFDxEt`
+Snapshot ID: `AAAAAHNfwayBflMt3sKCTm7aq9qXyU3P`

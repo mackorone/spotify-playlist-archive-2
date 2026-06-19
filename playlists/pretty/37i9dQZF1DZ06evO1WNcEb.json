@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66666,
+  "num_followers": 66667,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAC9y5xGA7tVoSR6VPp/XP5S",
+  "snapshot_id": "ajHjgAAAAAAC3Ox/R++VDrzVL1cP3mk9",
   "tracks": [
     {
       "added_at": null,
@@ -211,42 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vigor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
-        }
-      ],
-      "duration_ms": 266320,
-      "name": "Vigor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 375838,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/6TY5sU1MtoQ3ghGdIMkF1N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele Se Move",
         "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
       },
@@ -267,6 +231,42 @@
       "duration_ms": 341717,
       "name": "Ele Se Move",
       "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 375838,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/6TY5sU1MtoQ3ghGdIMkF1N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vigor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        }
+      ],
+      "duration_ms": 266320,
+      "name": "Vigor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP"
     },
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": " CGM - Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        }
-      ],
-      "duration_ms": 383490,
-      "name": "Simplesmente Te Adorar",
-      "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 373933,
       "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
       "url": "https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "duration_ms": 383490,
+      "name": "Simplesmente Te Adorar",
+      "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre",
-        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Quanto Amor (feat. Eyshila)",
-      "url": "https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terremoto + Cadeias Quebrar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4jebOXsJYZCzILZYFacDcB"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 299840,
       "name": "Terremoto + Cadeias Quebrar (Ao Vivo)",
       "url": "https://open.spotify.com/track/4OHNYjow2gCBNgNIuKtwHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Quanto Amor (feat. Eyshila)",
+      "url": "https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 393206,
+      "name": "\u00c9 Assim que Eu Quero Te Adorar",
+      "url": "https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Profetiza",
         "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 294475,
       "name": "Profetiza",
       "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 393206,
-      "name": "\u00c9 Assim que Eu Quero Te Adorar",
-      "url": "https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyshila 30 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        }
-      ],
-      "duration_ms": 307160,
-      "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Gl9MavvqrkOR1X4FjELp9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
         "url": "https://open.spotify.com/album/2zyADzeYjaUwdBh7ecCpSP"
       },
@@ -831,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eyshila 30 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "duration_ms": 307160,
+      "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Gl9MavvqrkOR1X4FjELp9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL"
       },
@@ -847,6 +847,26 @@
       "duration_ms": 269133,
       "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/6Yhm1rIVenrCzE9ELr0r8K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GMCW2o8zYxHIv5Dms2nu0"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 308053,
+      "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0B6CvjP0zkqEMe03vzEx91"
     },
     {
       "added_at": null,
@@ -887,46 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GMCW2o8zYxHIv5Dms2nu0"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 308053,
-      "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0B6CvjP0zkqEMe03vzEx91"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": " CGM - Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        }
-      ],
-      "duration_ms": 291646,
-      "name": "Deus no Controle",
-      "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
         "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 326550,
       "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
       "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "duration_ms": 291646,
+      "name": "Deus no Controle",
+      "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
     },
     {
       "added_at": null,

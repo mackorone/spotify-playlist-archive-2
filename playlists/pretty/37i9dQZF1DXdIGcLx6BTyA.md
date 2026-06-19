@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > take the road less traveled
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,637 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,645 likes - 80 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 45 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
 | 46 | [On The Red River](https://open.spotify.com/track/4Dux8krNnAru08XQTiiIYM) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:41 |
 | 47 | [Oneida](https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Oneida](https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF) | 4:38 |
-| 48 | [Same Old Song](https://open.spotify.com/track/1iNzOvQkAeXDeVIni76Yb2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 2:54 |
-| 49 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 |
+| 48 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 |
+| 49 | [Same Old Song](https://open.spotify.com/track/1iNzOvQkAeXDeVIni76Yb2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 2:54 |
 | 50 | [The Man from Waco](https://open.spotify.com/track/76AM6t1aDE12g7cjzEexER) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [The Man from Waco](https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV) | 3:45 |
 | 51 | [Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [The Recordings of the Middle East](https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ) | 5:26 |
 | 52 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 70 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
 | 71 | [Drivin](https://open.spotify.com/track/1pFonXiErvubBcA4VQtFUF) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:31 |
 | 72 | [Worry 'Bout My Wandering](https://open.spotify.com/track/1gKPM0k1iyhwSKnTvIoE1L) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Wandering \(Love Me Back\)](https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE) | 3:06 |
-| 73 | [White River](https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [White River](https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG) | 3:33 |
-| 74 | [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 |
+| 73 | [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 |
+| 74 | [White River](https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [White River](https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG) | 3:33 |
 | 75 | [Horses](https://open.spotify.com/track/2xvIz18sQhhNWsjnVTo8OS) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Middle](https://open.spotify.com/album/66esRfCq1pX9ofsg4wwp3Q) | 3:35 |
 | 76 | [August](https://open.spotify.com/track/3aEstsBRNAm3sJ7ZXtAlqr) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk) | 3:47 |
 | 77 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 |

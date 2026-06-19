@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Celebrating all the songs with over a Billion streams on Spotify. Cover: SZA",
+  "description": "Celebrating all the songs with over a Billion streams on Spotify. Cover: Camila Cabello",
   "name": "BILLIONS CLUB",
   "tracks": [
     {
@@ -20013,6 +20013,24 @@
     },
     {
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN"
+    },
+    {
+      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -24617,6 +24635,36 @@
     },
     {
       "album": {
+        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232253,
+      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+    },
+    {
+      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -25336,6 +25384,24 @@
       "duration_ms": 128198,
       "name": "Washing Machine Heart",
       "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
+    },
+    {
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM"
     },
     {
       "album": {

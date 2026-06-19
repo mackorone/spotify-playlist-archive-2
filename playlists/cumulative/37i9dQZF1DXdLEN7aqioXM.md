@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-494 songs - 1 day 11 hr 18 min
+495 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Flashing Sirens](https://open.spotify.com/track/2Qo0EdObfe4sCsiR7grstZ) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [Tima](https://open.spotify.com/artist/1rDy96MTvvmWDAbIg6B6o4), [YOUTH 83](https://open.spotify.com/artist/5Yn2L5pqTDEymWBHXfor7f) | [Flashing Sirens](https://open.spotify.com/album/4bNmE4x4vOL6oY32I33dvf) | 2:42 | 2021-10-15 |  |
 | [Flight](https://open.spotify.com/track/5I9K0eZ8dT8dzzK973XQkK) | [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [Flight](https://open.spotify.com/album/4lp6QsrXTu9GEBgEUQVHQY) | 3:20 | 2022-02-04 | 2022-05-02 |
 | [Floating Point](https://open.spotify.com/track/74to5kEhZdvStCc9bS9hSG) | [Massive Z](https://open.spotify.com/artist/0h2KwV1qVRmGgMwVJig5Gv), [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Floating Point](https://open.spotify.com/album/5wjAYZF4Qns8OBlycPcccu) | 4:28 | 2023-04-07 |  |
-| [Fluorescence](https://open.spotify.com/track/4K3onPe55qb2WsgrvOZmu7) | [Odyssette](https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Fluorescence](https://open.spotify.com/album/5TVBn9QpUdKzjGYtI3snGw) | 3:55 | 2023-11-27 |  |
+| [Fluorescence](https://open.spotify.com/track/4K3onPe55qb2WsgrvOZmu7) | [Odyssette](https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Fluorescence](https://open.spotify.com/album/5TVBn9QpUdKzjGYtI3snGw) | 3:55 | 2023-11-27 | 2026-06-19 |
 | [Flying Trains](https://open.spotify.com/track/4kmQYVEcnRdXq9rWJ2f3T4) | [8WS](https://open.spotify.com/artist/5HhDLqnHCHu66fXNxYGEoR) | [Flying Trains](https://open.spotify.com/album/4BCgUI70osfHqYMOkbDQ1h) | 4:17 | 2023-10-23 |  |
 | [Foggy Beach Memories](https://open.spotify.com/track/5VnDVoshMrB0hv6xDZ37bx) | [Cassetter](https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE), [Zane Alexander](https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7) | [Parallel Reality](https://open.spotify.com/album/0Az4ZauP73xbD8xGTgbRn0) | 6:46 | 2023-10-23 |  |
 | [Forever in a Dream](https://open.spotify.com/track/44WZP6f4DW2g4GxnTPF1IJ) | [John Noseda](https://open.spotify.com/artist/1GHQDN0HXk1MVl7zyhqlXA) | [Forever in a Dream](https://open.spotify.com/album/3zPZDwIYxL5a5KIgvoiZJv) | 5:23 | 2022-04-01 | 2022-04-21 |
@@ -472,6 +472,7 @@
 | [Turnover](https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B) | [Envotion](https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS) | [Turnover](https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd) | 3:05 | 2023-11-27 |  |
 | [Ultimo](https://open.spotify.com/track/0jtagVogty503eUAY7psju) | [Barretso](https://open.spotify.com/artist/0G0B56LpavF77LhE2IGtgB) | [Celeste](https://open.spotify.com/album/2AkabzuOF5cIiED2GcgCKp) | 5:24 | 2021-10-15 | 2023-10-24 |
 | [Unarchiver](https://open.spotify.com/track/0WJVieYte28pUxC9hNfs0D) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Skate Story: Vol\. I](https://open.spotify.com/album/3T3hC14iSrsNd3fd5UD3wH) | 4:55 | 2025-12-09 |  |
+| [Unbound](https://open.spotify.com/track/1Nxg47FghfUl6XB46WZwFc) | [Prince 85](https://open.spotify.com/artist/6ADNjKrreUUc181zsy4Cte), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Unbound](https://open.spotify.com/album/1FQXkOnK5XYBaOvBSY5TIW) | 4:53 | 2026-06-19 |  |
 | [Under Control](https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Music Made Paradise](https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU) | 5:39 | 2022-02-04 | 2022-04-09 |
 | [Uni\-Verse](https://open.spotify.com/track/2GNktRlF6uSSDBpecepGCe) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [The Florentian Cabaret](https://open.spotify.com/artist/3lCSDhZueO35GkIKaI3DRS) | [Uni\-Verse](https://open.spotify.com/album/3lgJunX75g6tt5X19HtOlW) | 5:50 | 2023-11-16 |  |
 | [Universalis](https://open.spotify.com/track/6atY0RDzRUDd4HFi7ttaDs) | [Peshay](https://open.spotify.com/artist/07ogfrunSUmnsEsPQdRQUB), [VSY](https://open.spotify.com/artist/7nUVCYVFeFP4gKdNEjhcoS) | [Universalis](https://open.spotify.com/album/1Jz4Pat434iCabuHTDRgba) | 8:52 | 2022-04-01 | 2022-04-20 |

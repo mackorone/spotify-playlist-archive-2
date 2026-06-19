@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 147537,
+  "num_followers": 151578,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAAyCX6X+t6pRQSZ2IgrZ89X",
+  "snapshot_id": "ajHjgAAAAAB7ai0I0ov5AtrTBgo1krnn",
   "tracks": [
     {
       "added_at": null,
@@ -99,26 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WORTH NOTHING (feat. Oliver Tree) [Fast & Furious: Drift Tape/Phonk Vol 1]",
-        "url": "https://open.spotify.com/album/1nyfZlIOe109tZTrpR3z8h"
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
       "artists": [
         {
-          "name": "TWISTED",
-          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
-        },
-        {
           "name": "Oliver Tree",
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         }
       ],
-      "duration_ms": 164629,
-      "name": "WORTH NOTHING (feat. Oliver Tree) - Fast & Furious: Drift Tape/Phonk Vol 1",
-      "url": "https://open.spotify.com/track/3PjbA0O5olhampPMdaB0V1"
+      "duration_ms": 137391,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/1CjD9etP1cSqhqhRWOGAJw"
     },
     {
       "added_at": null,
@@ -139,18 +131,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone In A Crowd",
-        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+        "name": "WORTH NOTHING (feat. Oliver Tree) [Fast & Furious: Drift Tape/Phonk Vol 1]",
+        "url": "https://open.spotify.com/album/1nyfZlIOe109tZTrpR3z8h"
       },
       "artists": [
         {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        },
+        {
           "name": "Oliver Tree",
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         }
       ],
-      "duration_ms": 137391,
-      "name": "One & Only",
-      "url": "https://open.spotify.com/track/1CjD9etP1cSqhqhRWOGAJw"
+      "duration_ms": 164629,
+      "name": "WORTH NOTHING (feat. Oliver Tree) - Fast & Furious: Drift Tape/Phonk Vol 1",
+      "url": "https://open.spotify.com/track/3PjbA0O5olhampPMdaB0V1"
     },
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miss You (Sped Up Version)",
-        "url": "https://open.spotify.com/album/7EM9FAc6VnTpn8enoucp5q"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        }
-      ],
-      "duration_ms": 171701,
-      "name": "Miss You - Sped Up Version",
-      "url": "https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 168359,
       "name": "Essence (feat. Super Computer)",
       "url": "https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miss You (Sped Up Version)",
+        "url": "https://open.spotify.com/album/7EM9FAc6VnTpn8enoucp5q"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "duration_ms": 171701,
+      "name": "Miss You - Sped Up Version",
+      "url": "https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 148673,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 166582,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/4Qqo5j7w4l717LM6oa9B3l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 148673,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq"
     },
     {
       "added_at": null,
@@ -599,6 +599,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "All in All",
+      "url": "https://open.spotify.com/track/2fAfLaxE6fswBIFKdh8L89"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 94857,
+      "name": "Fairweather Friends",
+      "url": "https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboy Tears",
+        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "Things We Used To Do",
+      "url": "https://open.spotify.com/track/55DDIEeRHXfVh1qnhNMJAN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 155498,
+      "name": "Freefall (feat. Oliver Tree)",
+      "url": "https://open.spotify.com/track/4OUKMfT24sce6hdAzfNTOX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn It Up (feat. Tommy Cash)",
         "url": "https://open.spotify.com/album/6QtloaQlP1TQEDBMJsTtG8"
       },
@@ -648,90 +716,6 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 157600,
-      "name": "Things We Used To Do",
-      "url": "https://open.spotify.com/track/55DDIEeRHXfVh1qnhNMJAN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "All in All",
-      "url": "https://open.spotify.com/track/2fAfLaxE6fswBIFKdh8L89"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alone In A Crowd",
-        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 94857,
-      "name": "Fairweather Friends",
-      "url": "https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 155498,
-      "name": "Freefall (feat. Oliver Tree)",
-      "url": "https://open.spotify.com/track/4OUKMfT24sce6hdAzfNTOX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/1TwEYzYp5T5lKcsR09D9EZ"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 150255,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboy Tears",
-        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
       "duration_ms": 148365,
       "name": "Playing With Fire",
       "url": "https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG"
@@ -751,6 +735,22 @@
       "duration_ms": 162877,
       "name": "I Hate You",
       "url": "https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/1TwEYzYp5T5lKcsR09D9EZ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 150255,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
       "duration_ms": 163195,
       "name": "Movement",
       "url": "https://open.spotify.com/track/4OLI1dUkU9GFHm3IUgChaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voices (feat. Oliver Tree)",
-        "url": "https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe"
-      },
-      "artists": [
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 188575,
-      "name": "Voices (feat. Oliver Tree)",
-      "url": "https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx"
     }
   ],
   "unique_name": "This Is Oliver Tree",

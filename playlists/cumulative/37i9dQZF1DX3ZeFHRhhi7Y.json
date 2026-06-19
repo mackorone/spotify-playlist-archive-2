@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Workout to K-Pop? Count me in! (Cover: MEOVV) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Workout to K-Pop? Count me in! (Cover: aespa) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "WOR K  OUT",
   "tracks": [
     {
@@ -2161,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "\ucda4 (CHOOM)",
+        "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "CHOOM",
+      "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
+    },
+    {
+      "album": {
         "name": "DRIP",
         "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
       },
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 169073,
       "name": "CLIK CLAK",
       "url": "https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr"
@@ -8680,7 +8698,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
@@ -11686,6 +11704,24 @@
       "duration_ms": 181973,
       "name": "Villain",
       "url": "https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY"
+    },
+    {
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198761,
+      "name": "VIRAL",
+      "url": "https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O"
     },
     {
       "album": {

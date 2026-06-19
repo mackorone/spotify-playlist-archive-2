@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,106 songs - 4 day 18 hr 8 min
+2,107 songs - 4 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 | 2023-09-09 | 2023-09-11 |
 | [Blue & Grey](https://open.spotify.com/track/0n2moJpAEWHwaPYYjkzMDl) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 4:14 | 2021-11-22 | 2021-11-23 |
 | [Blue & Grey](https://open.spotify.com/track/7Ki0hse0IfXEcXUlpyECbJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 4:14 | 2022-06-06 | 2022-06-08 |
-| [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2023-12-16 | 2026-05-24 |
+| [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2023-12-16 |  |
 | [Blue story \(feat\. Lil Baby\)](https://open.spotify.com/track/3t6CmLKKMFxclNBzvJd51t) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 4:18 | 2023-07-01 | 2023-07-03 |
 | [Boca](https://open.spotify.com/track/47VsJIFO9g5EVbGf7fpnkm) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 2:53 | 2021-09-15 | 2021-09-16 |
 | [BODIES \(feat\. Damso\)](https://open.spotify.com/track/3im90dPSC5z1PYJ305kgSy) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 2:46 | 2022-07-02 | 2022-07-11 |
@@ -1258,6 +1258,7 @@
 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 | 2025-11-15 | 2026-03-22 |
 | [MON LOVE OHO](https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9) | 2:19 | 2023-04-22 | 2023-05-24 |
 | [MON LOVE OHO](https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9) | 2:19 | 2023-04-09 | 2023-04-23 |
+| [MON PAYS](https://open.spotify.com/track/7lpIzkaN94dhq5fuNc7v59) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [MON PAYS](https://open.spotify.com/album/5JdwrDTz88fZcX9RYa6agm) | 3:31 | 2026-06-18 |  |
 | [Mon poto](https://open.spotify.com/track/2Mhn2jv81zNuuRvdlYOYlM) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Au clair de la rue \(Part.2\)](https://open.spotify.com/album/01yBge2y28BW4sCyh6QM71) | 3:19 | 2021-12-18 | 2022-01-04 |
 | [Mona Lisa](https://open.spotify.com/track/20yprTRbn3BtE3P3BRQ3xG) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:13 | 2021-05-08 | 2021-05-16 |
 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-03-22 | 2025-04-09 |
@@ -1603,7 +1604,7 @@
 | [RIRI&ROCKY](https://open.spotify.com/track/4KTnrjlSv9U0F0OMZpuPZV) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [U](https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs) | 2:43 | 2025-07-19 | 2025-07-21 |
 | [RITUEL](https://open.spotify.com/track/1ZedZC7UFCkUR8YmFwIqwE) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 2:34 | 2026-06-05 | 2026-06-11 |
 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 | 2023-07-05 | 2024-06-05 |
-| [ROCHE MAN \(feat\. GELLO 4031\)](https://open.spotify.com/track/52sf4ya8bqRTrPf44j1uEf) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [GELLO 4031](https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:25 | 2026-06-05 |  |
+| [ROCHE MAN \(feat\. GELLO 4031\)](https://open.spotify.com/track/52sf4ya8bqRTrPf44j1uEf) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [GELLO 4031](https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:25 | 2026-06-05 | 2026-06-19 |
 | [ROCKSTAR](https://open.spotify.com/track/3Jw3ROyy9VeKSPp3HkJ0nV) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:53 | 2026-05-23 | 2026-06-07 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-29 | 2024-07-08 |
 | [ROCKSTAR \(feat\. Rounhaa & Najm\)](https://open.spotify.com/track/2aUEoerwxKhDDMJe4Gjoij) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe), [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 2:53 | 2026-06-06 | 2026-06-15 |
@@ -1712,7 +1713,7 @@
 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2023-09-09 | 2024-05-26 |
 | [SLOWLY](https://open.spotify.com/track/65SmL7YPV13heKT147Fosp) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 2:49 | 2023-12-29 | 2024-01-04 |
 | [Slowmo](https://open.spotify.com/track/1CMO90rRzcZSUJ7U0oi1qX) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Slowmo](https://open.spotify.com/album/3m9DSWdlZOQmu4PBJ6qCah) | 3:00 | 2022-03-24 | 2022-03-28 |
-| [SLS DIARY Part 1](https://open.spotify.com/track/4vyYCckPRmsUVcQPTFm2dq) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 4:28 | 2026-05-23 |  |
+| [SLS DIARY Part 1](https://open.spotify.com/track/4vyYCckPRmsUVcQPTFm2dq) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 4:28 | 2026-05-23 | 2026-06-19 |
 | [SME3NI](https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SME3NI](https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb) | 3:02 | 2023-02-06 | 2023-12-15 |
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:02 | 2024-07-20 | 2024-07-22 |
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-29 | 2024-07-08 |

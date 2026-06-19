@@ -4117,6 +4117,24 @@
     },
     {
       "album": {
+        "name": "GO BRAZY",
+        "url": "https://open.spotify.com/album/1Xa15uYdiic5s2YVKD0aIF"
+      },
+      "artists": [
+        {
+          "name": "Trey Bands",
+          "url": "https://open.spotify.com/artist/1rf5bMBJol4wwmT0yiAooD"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/3di0UtVKULuReBrAbma5HO"
+    },
+    {
+      "album": {
         "name": "Bad Beans",
         "url": "https://open.spotify.com/album/4Wk5g9tPJVc119oHW7gvhT"
       },
@@ -6624,7 +6642,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 169936,
       "name": "Black Truck",
       "url": "https://open.spotify.com/track/1yaNCXYlyWvFyJBvt3fvd5"
@@ -8708,6 +8726,24 @@
       "duration_ms": 138098,
       "name": "BUSHWICK",
       "url": "https://open.spotify.com/track/6R05JVE3gN370icGwaAOUT"
+    },
+    {
+      "album": {
+        "name": "Bussin",
+        "url": "https://open.spotify.com/album/6bfQG5tTWNM3Qi90p5WH0A"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121239,
+      "name": "Bussin",
+      "url": "https://open.spotify.com/track/3z6sboPUNI2a01dB1EsepW"
     },
     {
       "album": {
@@ -15862,7 +15898,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 108504,
       "name": "Everglades",
       "url": "https://open.spotify.com/track/02FkZqM5go6FyrOS85qzAa"
@@ -16266,6 +16302,32 @@
       "duration_ms": 127264,
       "name": "Face Card",
       "url": "https://open.spotify.com/track/3AYogJlunAMC8GLazkueMa"
+    },
+    {
+      "album": {
+        "name": "Face Card (with Chris Brown & Bryson Tiller)",
+        "url": "https://open.spotify.com/album/1LAFF8OUoMseRuHJLyq5MH"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158976,
+      "name": "Face Card (with Chris Brown & Bryson Tiller)",
+      "url": "https://open.spotify.com/track/5N3p9YjU6WGfU0y4jrgEGc"
     },
     {
       "album": {
@@ -18538,7 +18600,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 171000,
       "name": "Friend Do Remix (feat. YKNIECE)",
       "url": "https://open.spotify.com/track/1HmpFowQR9dq4wzNdfzmnY"
@@ -18910,7 +18972,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 173742,
       "name": "Game Six",
       "url": "https://open.spotify.com/track/0bSlEreR3f5j8DlEc17QqI"
@@ -19905,6 +19967,24 @@
     },
     {
       "album": {
+        "name": "Rise Against My Broken Odds",
+        "url": "https://open.spotify.com/album/3AuLQEOciMYE6CXmwI9le6"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Ghetto Love Story",
+      "url": "https://open.spotify.com/track/0UsBcf7Gws6x4mQrjf3pYk"
+    },
+    {
+      "album": {
         "name": "GIA (with Peezy)",
         "url": "https://open.spotify.com/album/3W9FWPKFC2z7ZokHaYEt6H"
       },
@@ -19996,7 +20076,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 139967,
       "name": "Gimmie A Kiss",
       "url": "https://open.spotify.com/track/6yix8Ae4pF6CnycCv7Nr52"
@@ -21558,7 +21638,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 159271,
       "name": "GYSM",
       "url": "https://open.spotify.com/track/4yubdvC6YyC2KGXJEiQXia"
@@ -23407,6 +23487,28 @@
     },
     {
       "album": {
+        "name": "HOT OUT, Pt. 5",
+        "url": "https://open.spotify.com/album/5kHIbxnWxWEYBBi6bqArtt"
+      },
+      "artists": [
+        {
+          "name": "Iconic Savvy",
+          "url": "https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC"
+        },
+        {
+          "name": "MIA THA DIVA",
+          "url": "https://open.spotify.com/artist/5x6GjBgGHlh27B09MHxGIC"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111096,
+      "name": "HOT OUT, Pt. 5",
+      "url": "https://open.spotify.com/track/57EzOE6oFsb5VFbyrTeAWY"
+    },
+    {
+      "album": {
         "name": "Hotboiiz",
         "url": "https://open.spotify.com/album/3N2hhAq5aLo1X5QV1p2HGY"
       },
@@ -23720,7 +23822,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 110875,
       "name": "How I'm Livin",
       "url": "https://open.spotify.com/track/0sNkVVkBnJRQmIe40tntqg"
@@ -23898,7 +24000,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 106000,
       "name": "How We Coming",
       "url": "https://open.spotify.com/track/37uiKbJ0jz7OKRkv8CDlhW"
@@ -28944,7 +29046,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 154716,
       "name": "Like A Virgin",
       "url": "https://open.spotify.com/track/3zSLxRr6oagNkmKINPW3uu"
@@ -30596,6 +30698,24 @@
       "duration_ms": 156471,
       "name": "Make It Look Sexy",
       "url": "https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh"
+    },
+    {
+      "album": {
+        "name": "Making Promises",
+        "url": "https://open.spotify.com/album/7EFfR2LfIfXxSoIPQZ8b8T"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Making Promises",
+      "url": "https://open.spotify.com/track/4kVLd059k0S5WGNo8ULoZh"
     },
     {
       "album": {
@@ -38531,6 +38651,24 @@
     },
     {
       "album": {
+        "name": "Packed Up",
+        "url": "https://open.spotify.com/album/6gPUfZyvtafrlzEaeFiRum"
+      },
+      "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143105,
+      "name": "Packed Up",
+      "url": "https://open.spotify.com/track/0FUyZIiieOrOiiIAuGHVVS"
+    },
+    {
+      "album": {
         "name": "Paid N Full",
         "url": "https://open.spotify.com/album/0VCSuK23ItA0Z5zftN1JoX"
       },
@@ -38874,6 +39012,24 @@
       "duration_ms": 129688,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/2DhGDCZoUjyTyDh4SEXh8K"
+    },
+    {
+      "album": {
+        "name": "TRENCH TOWN",
+        "url": "https://open.spotify.com/album/1vuVAVc0QJbNJyNVVJWw4o"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92655,
+      "name": "PARLAY",
+      "url": "https://open.spotify.com/track/2CWP5h36QBRfDQPYl3K9uA"
     },
     {
       "album": {
@@ -40482,7 +40638,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 233718,
       "name": "Prada (feat. ffawty)",
       "url": "https://open.spotify.com/track/1CPa2zTOXKvJt03MIQ3uYD"
@@ -46719,6 +46875,32 @@
     },
     {
       "album": {
+        "name": "Slow It Down (feat. TopOppGen)",
+        "url": "https://open.spotify.com/album/6hG9XJgMDhLzUu9MsHb97b"
+      },
+      "artists": [
+        {
+          "name": "Jay Montana",
+          "url": "https://open.spotify.com/artist/0VZ8xEb6CWeTe3swY7qcxw"
+        },
+        {
+          "name": "FattMack",
+          "url": "https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7"
+        },
+        {
+          "name": "TopOppGen",
+          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Slow It Down (feat. TopOppGen)",
+      "url": "https://open.spotify.com/track/7LnlbONsnt0j1xhln4577r"
+    },
+    {
+      "album": {
         "name": "SLUT ME OUT 2",
         "url": "https://open.spotify.com/album/5BEgYBYUzfvGoU1uLHvGRA"
       },
@@ -46822,6 +47004,28 @@
     {
       "album": {
         "name": "Smaxk Or Die (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/0X1jRt7ic4faNgXBHPD7L7"
+      },
+      "artists": [
+        {
+          "name": "Fatt Smaxk",
+          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125360,
+      "name": "Smaxk Or Die (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/37PWu4Av27EVfKwx2UVJA1"
+    },
+    {
+      "album": {
+        "name": "Smaxk Or Die (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/0aREGajx4svsFLILvSrq5i"
       },
       "artists": [
@@ -46836,7 +47040,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 125360,
       "name": "Smaxk Or Die - feat. Playboi Carti",
       "url": "https://open.spotify.com/track/1FjpYJ1tVHG3r0xDhZ3tTc"
@@ -48686,6 +48890,28 @@
       "duration_ms": 172315,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/5ZT3hjMMoYkgF0fLCZid4l"
+    },
+    {
+      "album": {
+        "name": "Strings Attached (feat. TopOppGen)",
+        "url": "https://open.spotify.com/album/2DbbTP4zBmi1IdI0RkEbmd"
+      },
+      "artists": [
+        {
+          "name": "AZIEDOESNTEXIST",
+          "url": "https://open.spotify.com/artist/13BgU01okousPOFvmiwecU"
+        },
+        {
+          "name": "TopOppGen",
+          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107716,
+      "name": "Strings Attached (feat. TopOppGen)",
+      "url": "https://open.spotify.com/track/1alCfXLwNUcZcpDCmtJQ9x"
     },
     {
       "album": {
@@ -51610,6 +51836,24 @@
       "duration_ms": 158697,
       "name": "Tip Off (feat. Louie Ray & Mozzy)",
       "url": "https://open.spotify.com/track/1K6e3OgmzaawcZgU33qWfH"
+    },
+    {
+      "album": {
+        "name": "Tippy Toes",
+        "url": "https://open.spotify.com/album/2xQij1MYITWcWJ6WhtIRWH"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110063,
+      "name": "Tippy Toes",
+      "url": "https://open.spotify.com/track/5u1YiHnOYjrUTa9eYLDNbF"
     },
     {
       "album": {
@@ -55774,7 +56018,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 141538,
       "name": "WHIM WHAMIEE",
       "url": "https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP"
@@ -57177,6 +57421,28 @@
     },
     {
       "album": {
+        "name": "WTF GOIN (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb"
+      },
+      "artists": [
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184705,
+      "name": "WTF GOIN (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT"
+    },
+    {
+      "album": {
         "name": "WTHELLY",
         "url": "https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg"
       },
@@ -58066,7 +58332,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 142416,
       "name": "YOUNG HO",
       "url": "https://open.spotify.com/track/4ySylL5xmVrXPF5WJON0zx"

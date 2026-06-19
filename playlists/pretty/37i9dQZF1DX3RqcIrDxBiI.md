@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RqcIrDxBiI.md) - [plain]
 
 > Les plus belles chansons d'amour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,427 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,421 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

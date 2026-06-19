@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,401 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,424 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 4 | [On Me \(with Odeal\)](https://open.spotify.com/track/6JoEoLh7ZS7Yx2DTnaPA9A) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Love is the New Gangsta](https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq) | 3:02 |
 | 5 | [My Heart](https://open.spotify.com/track/1CqcGbXZrpJJygqUM8PW05) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:52 |
 | 6 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 |
-| 7 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
-| 8 | [Anxious \(feat\. Odeal & Wizkid\)](https://open.spotify.com/track/2kd3VObcq7PX64pCwNHQ8p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:47 |
+| 7 | [Anxious \(feat\. Odeal & Wizkid\)](https://open.spotify.com/track/2kd3VObcq7PX64pCwNHQ8p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:47 |
+| 8 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
 | 9 | [London Summers](https://open.spotify.com/track/43JEzpUepmETKeTwqLWauB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:37 |
 | 10 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 |
 | 11 | [Soh\-Soh](https://open.spotify.com/track/30nn36X7wfesAGAkvGero4) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Soh\-Soh \(DJ Maphorisa & Xduppy Mix\)](https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ) | 3:04 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 42 | [24/48](https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 2:41 |
 | 43 | [i'm ready \(feat\. Odeal\)](https://open.spotify.com/track/6E8TyGYNEu1Y5vns35uyHa) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [WONDERLOVE +](https://open.spotify.com/album/2T9YYatIZcgwuXx8BYpISd) | 3:26 |
 | 44 | [HBTS \(Haven't Been The Same\)](https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 3:03 |
-| 45 | [Too Fine](https://open.spotify.com/track/2gQWztCsjwrr4pQ7CtKsrh) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Too Fine](https://open.spotify.com/album/3ISGOValQWg3zaoMsTORFQ) | 2:40 |
-| 46 | [Sondela](https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK) | 1:47 |
+| 45 | [Sondela](https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK) | 1:47 |
+| 46 | [Too Fine](https://open.spotify.com/track/2gQWztCsjwrr4pQ7CtKsrh) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Too Fine](https://open.spotify.com/album/3ISGOValQWg3zaoMsTORFQ) | 2:40 |
 | 47 | [Take Me](https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Take Me](https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD) | 2:28 |
 | 48 | [Nothing On You](https://open.spotify.com/track/78D6dcrsTqWMzD1hfeunkc) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [A Good Life \(Deluxe\)](https://open.spotify.com/album/38pvSPxx9hkoOX2syGwHHy) | 3:45 |
 | 49 | [Last Thing](https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX) | 2:42 |
 
-Snapshot ID: `ajCSAAAAAADsG5WhnqfqbaVthWUBYeJD`
+Snapshot ID: `ajHjgAAAAAAt/voYfAgEBqFbSYheX3nQ`

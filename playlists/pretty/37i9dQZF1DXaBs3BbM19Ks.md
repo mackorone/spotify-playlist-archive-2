@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 
 > Una noche en el Patio con Daniela, Lupita, Dulce y Yuri 🍸
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,800 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,817 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 | 27 | [No Me Queda Más](https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:20 |
 | 28 | [¡Ay Amor!](https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 3:21 |
 | 29 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
-| 30 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
-| 31 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
+| 30 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
+| 31 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
 | 32 | [Quiero Dormir Cansado](https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:01 |
 | 33 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
 | 34 | [El Hombre Que Yo Amo](https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Myriam Hernandez](https://open.spotify.com/album/2ev6My86W8Ri5qXygB645A) | 3:36 |

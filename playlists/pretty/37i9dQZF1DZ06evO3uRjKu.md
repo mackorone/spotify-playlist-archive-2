@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,195 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,207 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 49 | [Pasará](https://open.spotify.com/track/2yLPiANWzNWbULcpbQfk6x) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/2tdA8vWfgt8YRHAcecbl3v) | 4:27 |
 | 50 | [Bumerang](https://open.spotify.com/track/2Vx2DZxRtEGAvmipf71Yaw) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 3:12 |
 
-Snapshot ID: `ajCSAAAAAAALLnBJOHM2rOWieGrX8h83`
+Snapshot ID: `ajHjgAAAAAABaJzIZ0wzxJPyRG8R7XLD`

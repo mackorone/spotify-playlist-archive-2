@@ -6111,6 +6111,28 @@
     },
     {
       "album": {
+        "name": "Sollisai Kalaingan",
+        "url": "https://open.spotify.com/album/0aLRix1NiInHuQ0jjYBI7H"
+      },
+      "artists": [
+        {
+          "name": "All Mixed Up",
+          "url": "https://open.spotify.com/artist/5C4NvJLN3b1nY5x9dK2LLc"
+        },
+        {
+          "name": "El.Jey",
+          "url": "https://open.spotify.com/artist/08oeHRO7tx6y8LHwZvaKlc"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Sollisai Kalaingan",
+      "url": "https://open.spotify.com/track/2kbLvEfEZyjfGMhRCpPcSB"
+    },
+    {
+      "album": {
         "name": "sollisai underground",
         "url": "https://open.spotify.com/album/05adUVk2tXZVsi9gvzidVC"
       },

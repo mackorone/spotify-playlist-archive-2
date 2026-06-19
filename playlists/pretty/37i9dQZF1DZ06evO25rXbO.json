@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1244583,
+  "num_followers": 1244705,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAC1W4SfLgEN/+XgMgGw3Z91",
+  "snapshot_id": "ajHjgAAAAAA9JxTzVt0oaROfKmAg26Hj",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "Tranz",
+      "url": "https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Demon Days",
         "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 225773,
       "name": "Kids with Guns",
       "url": "https://open.spotify.com/track/0eEgMbSzOHmkOeVuNC3E0k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 162626,
-      "name": "Tranz",
-      "url": "https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx"
     },
     {
       "added_at": null,
@@ -527,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Humility (feat. George Benson)",
+      "url": "https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 227213,
       "name": "Plastic Beach (feat. Mick Jones and Paul Simonon)",
       "url": "https://open.spotify.com/track/2nZ33CKRbgpJQJJQKHuGXb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Humility (feat. George Benson)",
-      "url": "https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sleeping Powder",
+        "url": "https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 166481,
+      "name": "Sleeping Powder",
+      "url": "https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleeping Powder",
-        "url": "https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 166481,
-      "name": "Sleeping Powder",
-      "url": "https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 181906,
       "name": "Saturnz Barz (feat. Popcaan)",
       "url": "https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 220105,
+      "name": "Baby Queen",
+      "url": "https://open.spotify.com/track/3FwCEB2BNFzWQ9rn4goCXZ"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 220105,
-      "name": "Baby Queen",
-      "url": "https://open.spotify.com/track/3FwCEB2BNFzWQ9rn4goCXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 162080,
-      "name": "5/4",
-      "url": "https://open.spotify.com/track/5Q10MhatY5DkgBfbWUkRpN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Machine, Season One: Strange Timez (Deluxe)",
         "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 180973,
       "name": "The Valley of The Pagans (feat. Beck)",
       "url": "https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 162080,
+      "name": "5/4",
+      "url": "https://open.spotify.com/track/5Q10MhatY5DkgBfbWUkRpN"
     },
     {
       "added_at": null,

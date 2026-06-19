@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-380 songs - 19 hr 21 min
+381 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 | 2023-02-06 | 2024-06-01 |
 | [COUNTRY RIDDIM VIP](https://open.spotify.com/track/12P4d5GXxU1dnXNoAQjBAf) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [COUNTRY RIDDIM VIP](https://open.spotify.com/album/6P8KsYy2DkCv6hhNaTYZqV) | 2:57 | 2023-12-01 | 2023-12-30 |
 | [Cpr](https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Queen Elizabitch](https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU) | 3:28 | 2021-12-03 | 2022-07-29 |
+| [Crave You](https://open.spotify.com/track/06Gw4zi1Gqg11XgRchemgJ) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down to Earth](https://open.spotify.com/album/6IFS5Kqh3GkDuApNUTNh3h) | 3:54 | 2026-06-18 |  |
 | [CRUSH](https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [CRUSH](https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0) | 2:46 | 2025-02-07 | 2025-09-06 |
 | [CUM](https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [CUM](https://open.spotify.com/album/1sCIGjznAsgu5kd7RpSrQx) | 2:56 | 2021-12-23 | 2022-07-29 |
 | [Curry Goat](https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Solesky](https://open.spotify.com/artist/68Qt3UOMYDriBgoq9NAATw) | [Curry Goat](https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV) | 2:19 | 2025-10-17 | 2026-01-17 |
@@ -147,7 +148,7 @@
 | [HIGHJACK \(right back\)](https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HIGHJACK \(right back\)](https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ) | 2:41 | 2025-05-16 |  |
 | [Hit the Ground](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa) | [Texture](https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e) | [Hit the Ground](https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV) | 2:25 | 2025-05-27 | 2026-03-21 |
 | [HMU](https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [HMU](https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT) | 1:58 | 2021-12-23 | 2022-07-29 |
-| [Home \- TWINSICK Remix](https://open.spotify.com/track/1OIlJ7coFBDaUdXXuiTeBc) | [TWINSICK](https://open.spotify.com/artist/4WfO14YgktUYkdLMrHgTeF), [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Home \(TWINSICK Remix\)](https://open.spotify.com/album/7IlHsFTMweuxERXdSt8ctt) | 2:36 | 2026-01-16 |  |
+| [Home \- TWINSICK Remix](https://open.spotify.com/track/1OIlJ7coFBDaUdXXuiTeBc) | [TWINSICK](https://open.spotify.com/artist/4WfO14YgktUYkdLMrHgTeF), [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Home \(TWINSICK Remix\)](https://open.spotify.com/album/7IlHsFTMweuxERXdSt8ctt) | 2:36 | 2026-01-16 | 2026-06-19 |
 | [Hundred Miles](https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ) | [Yall](https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Hundred Miles](https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde) | 2:52 | 2023-01-20 | 2023-04-26 |
 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-08-09 |  |
 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 | 2022-01-12 | 2022-07-29 |

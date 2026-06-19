@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,796 likes - 60 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,793 likes - 60 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 25 | [Tamarugal \(Para de Mirarme\)](https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A) | [Felipe Schuster](https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE) | [La Montaña](https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV) | 3:33 |
 | 26 | [Efecto Manglar](https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc) | [Black Mambo](https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Efecto Manglar](https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz) | 5:08 |
 | 27 | [Nene](https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Nene](https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG) | 3:21 |
-| 28 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 |
-| 29 | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ) | 4:41 |
+| 28 | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ) | 4:41 |
+| 29 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 |
 | 30 | [Levanta Muertos](https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Fuego Nuevo](https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh) | 5:00 |
 | 31 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
 | 32 | [Pájaro de Mar](https://open.spotify.com/track/2h6FAxXm6crebk5AEVsChg) | [Indus](https://open.spotify.com/artist/3NaTDSUj7DxcuG1oJPuQ63), [Las Alegres Ambulancias](https://open.spotify.com/artist/2I2AW3q2mvPfWpRmybkosr) | [Indus Meets Palenque Records, Vol\. 2](https://open.spotify.com/album/6ZhlLTZtTuVyH3W3O079p2) | 3:35 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 47 | [Purna Mantra](https://open.spotify.com/track/6ZyH5rtwg2PvQxSGyo1xGF) | [Manuela Mejia](https://open.spotify.com/artist/3lRxoMB4YMbbCOvvR5dekK) | [Purna Mantra](https://open.spotify.com/album/1lifFdcLgIs13FWXsjKHDp) | 6:46 |
 | 48 | [Las Mellas \- Cerrero Dub Mix](https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO), [Carmelo Torres](https://open.spotify.com/artist/5Ylr6KUaImTujMNIhxtCSi), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Las Mellas \(Cerrero Dub Mix\)](https://open.spotify.com/album/2TN8FrasxyrYtb2RPwMecC) | 4:31 |
 | 49 | [Antares](https://open.spotify.com/track/5AtSxyPK3zcij0QjqvcmbE) | [Alejandro Molinari](https://open.spotify.com/artist/6MVmGh11Jf6bh8FfwiLblE) | [Antares](https://open.spotify.com/album/4vgoQuq5sAPGOsHzlPCmaa) | 4:55 |
-| 50 | [¿Qué Jue?](https://open.spotify.com/track/1akEZAtudgbskIwOiKt4oD) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [¿Qué Jue?](https://open.spotify.com/album/25Zwhmx8aMwQy3zL2LJX4m) | 3:25 |
-| 51 | [La Corriente](https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 2:59 |
+| 50 | [La Corriente](https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 2:59 |
+| 51 | [¿Qué Jue?](https://open.spotify.com/track/1akEZAtudgbskIwOiKt4oD) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [¿Qué Jue?](https://open.spotify.com/album/25Zwhmx8aMwQy3zL2LJX4m) | 3:25 |
 | 52 | [Capulí](https://open.spotify.com/track/1H7EboPM7h87XxTmHDE6Ug) | [EVHA](https://open.spotify.com/artist/1HygCjIAH9P70iElFVdubm) | [Capulí](https://open.spotify.com/album/0UiSo3oYw78LcfmkvwPXoz) | 4:53 |
 | 53 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 |
 | 54 | [La Añoranza \- Original Version](https://open.spotify.com/track/1BPGUDaMurblePgyZddR1G) | [Daniel Haaksman](https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Coco Maria](https://open.spotify.com/artist/5aC4E0zUYjfN871T66NHge), [Ori Kaplan](https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu), [Will Love](https://open.spotify.com/artist/5TpDq3GBovae0G1IkXqLqu) | [La Añoranza](https://open.spotify.com/album/49DEsTEzSegrybm3Npzedj) | 3:43 |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,249 songs - 2 day 21 hr 26 min
+1,251 songs - 2 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [Fever](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Hight](https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI) | [Fever](https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr) | 2:26 | 2023-04-20 | 2023-07-15 |
 | [Fever](https://open.spotify.com/track/4aonFWNn1hriqeEtXmMIRy) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ) | [Fever](https://open.spotify.com/album/1czheboLJFCb4lgJL2q4KK) | 2:40 | 2023-11-02 | 2024-02-16 |
 | [Fight Me](https://open.spotify.com/track/2VMjr4nR9QptTiGOabyeFt) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Fight Me](https://open.spotify.com/album/2cCk1i1D2XQaclGYqaa5oY) | 3:51 | 2023-10-18 | 2024-02-02 |
+| [find cagescript](https://open.spotify.com/track/1zPfLq3eoKm2auisFPCIxS) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [End of the Universe](https://open.spotify.com/album/6sHp3WiM6GvWx1sTrl2bxb) | 4:12 | 2026-06-18 |  |
 | [Find Peace](https://open.spotify.com/track/7y51ESqrsj7cVC8jot2vBP) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Find Peace](https://open.spotify.com/album/4mEiJ27tKr9qzVqO8QaaPp) | 3:02 | 2025-01-28 | 2025-05-01 |
 | [find u.](https://open.spotify.com/track/2P6GOGbnrVkPBjbyFYyMIx) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [find u.](https://open.spotify.com/album/7oyVNWpF6kzHgmDrkoWZK8) | 3:21 | 2022-01-07 | 2022-03-17 |
 | [Find You](https://open.spotify.com/track/7bl50TyWM1apVF684jNU2e) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Find You](https://open.spotify.com/album/5haJvW7CtOB7823T9ByvCe) | 4:15 | 2021-11-24 | 2022-03-01 |
@@ -1026,6 +1027,7 @@
 | [Stop Drop Roll](https://open.spotify.com/track/6g7z70RaH57ZUbYz32ITKy) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [USB.1](https://open.spotify.com/album/1qGC1Yd4FSwUsLjSf1PjUy) | 3:17 | 2025-07-02 | 2025-09-24 |
 | [Stranger](https://open.spotify.com/track/390IAPX580IGV2Rx8dx8ot) | [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk), [Arnie Way](https://open.spotify.com/artist/5cHBng7fvXk2Ea8UcyR5ct) | [Stranger](https://open.spotify.com/album/5tU26oyOJsrG1TfSN4mCrM) | 2:33 | 2025-06-10 | 2025-09-06 |
 | [stranger](https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Ehiorobo](https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5) | [stranger](https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S) | 2:28 | 2026-02-19 | 2026-06-06 |
+| [stranger \- xander\. Remix](https://open.spotify.com/track/3CKGwPqbohJvtLp4L3nG7j) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Ehiorobo](https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5) | [stranger \(xander\. Remix\)](https://open.spotify.com/album/6qK04VkvlZe3qc0gExAVbc) | 2:06 | 2026-06-18 |  |
 | [Strangers](https://open.spotify.com/track/4bq2Aaq3jtNKFo92BR3yhC) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Strangers](https://open.spotify.com/album/5pqtjYOAyfkki8usZYPXAY) | 3:39 | 2023-05-25 | 2023-08-20 |
 | [Street Level](https://open.spotify.com/track/38A8wAKWmyndvOHxdYh8lE) | [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [Street Level / Listen Up](https://open.spotify.com/album/2nX6zYHBUXbfDYAdBoaRLy) | 2:59 | 2025-06-02 | 2025-08-28 |
 | [Street Talk](https://open.spotify.com/track/4l9hQWK345xfGixJQ3xvez) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19), [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [Street Talk](https://open.spotify.com/album/3aYg85BYxXNANnn6KLMNeF) | 2:40 | 2024-07-24 | 2024-10-16 |

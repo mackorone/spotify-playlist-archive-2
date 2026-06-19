@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local OPM and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,732 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,713 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 19 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 |
 | 20 | [Autumn \(Reimagined\)](https://open.spotify.com/track/2NP0WCHeIjBi3oC7MruePl) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Autumn \(Reimagined\)](https://open.spotify.com/album/4jKfiwrpklbqDOrwiUBsLv) | 3:56 |
 | 21 | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ) | 2:21 |
-| 22 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 |
-| 23 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 |
+| 22 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 |
+| 23 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 |
 | 24 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 |
 | 25 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
 | 26 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 |
-| 27 | [Desperado](https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Fictions You Produce](https://open.spotify.com/album/1XnZLallUu8u13vepIfW35) | 3:18 |
-| 28 | [baka bukas](https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [baka bukas](https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn) | 3:27 |
+| 27 | [baka bukas](https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [baka bukas](https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn) | 3:27 |
+| 28 | [Desperado](https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Fictions You Produce](https://open.spotify.com/album/1XnZLallUu8u13vepIfW35) | 3:18 |
 | 29 | [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 |
 | 30 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 |
 | 31 | [CHANGES](https://open.spotify.com/track/5qKnJc96mwaWTEz9L98Lv0) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [CHANGES](https://open.spotify.com/album/1eGZ7rDg2zkUvXDT1boMDH) | 2:44 |

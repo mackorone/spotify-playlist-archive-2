@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 180 songs - 10 hr 14 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 181 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,5 +188,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 178 | [Another Cold Night in Chile](https://open.spotify.com/track/4U9wAy7SZrFtLoddShRllT) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Another Cold Night in Chile](https://open.spotify.com/album/7CKnc19vPdvtaZg1x1WZZr) | 3:32 |
 | 179 | [End Of The Summer](https://open.spotify.com/track/3cIOmGrYqik3qicTEZ3wKC) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL) | [End Of The Summer](https://open.spotify.com/album/4xAZ0YAtbwiRG5HLptgEdW) | 4:44 |
 | 180 | [Red](https://open.spotify.com/track/1nHbcuZgDFlzl3nSzyKDP8) | [Traibal](https://open.spotify.com/artist/4i0IuCytfQc31TpUfEkHDH) | [Red](https://open.spotify.com/album/29Pgnwt520inhPBgYzKOy4) | 2:35 |
+| 181 | [Bukan Orang Timur \(Mimpi Jadi Bintang\)](https://open.spotify.com/track/4ye8HiMTGZh4M7RqBYO8ID) | [Nirvan Channel](https://open.spotify.com/artist/5CrcSowv9jp8dX1WCmoB5x) | [Bukan Orang Timur \(Mimpi Jadi Bintang\)](https://open.spotify.com/album/7sG1LmsVHtqqj8nLHMB9OE) | 4:17 |
 
-Snapshot ID: `AAAVNLd6hCdod+Mf/wbOvo3qyF3CZ6Uo`
+Snapshot ID: `AAAVNZOyL27fLatoGZn6BdiHNWb0ihO3`

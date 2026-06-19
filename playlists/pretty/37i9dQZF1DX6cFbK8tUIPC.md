@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,210 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,200 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 74 | [Ain't It Easy](https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:54 |
 | 75 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 |
 | 76 | [Tuna in a Can](https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [All is Love and Pain in the Mouse Parade](https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b) | 3:06 |
-| 77 | [Big Jet Plane](https://open.spotify.com/track/3HedB2EwVAj5MAx8xFE1ea) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/5W1E1tqlKUl7p6KuyCAhji) | 3:59 |
+| 77 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 |
 | 78 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 |
-| 79 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 |
+| 79 | [Big Jet Plane](https://open.spotify.com/track/3HedB2EwVAj5MAx8xFE1ea) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/5W1E1tqlKUl7p6KuyCAhji) | 3:59 |
 | 80 | [Older](https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Older](https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe) | 6:55 |
 | 81 | [Carry On](https://open.spotify.com/track/7LKCXjugK9m71mt7miWltA) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:43 |
 | 82 | [I hate goodbyes](https://open.spotify.com/track/3kbsuPKsw05zfL9Pk8htLV) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [I hate goodbyes](https://open.spotify.com/album/7hYJX6m92wDB9cnpNgswmb) | 3:49 |
 | 83 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 |
 | 84 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 |
-| 85 | [Heaven in the Right Light](https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Heaven in the Right Light](https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA) | 3:40 |
-| 86 | [Tomorrow is Perfect](https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 6:21 |
+| 85 | [Tomorrow is Perfect](https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 6:21 |
+| 86 | [Heaven in the Right Light](https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Heaven in the Right Light](https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA) | 3:40 |
 | 87 | [The First Train Home](https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [The First Train Home](https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx) | 3:32 |
 | 88 | [yeti](https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [yeti](https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy) | 4:12 |
 | 89 | [As Good As It Gets](https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [What A Relief](https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ) | 3:02 |

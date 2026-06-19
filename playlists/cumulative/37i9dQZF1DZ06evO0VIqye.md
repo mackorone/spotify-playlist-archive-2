@@ -4,7 +4,7 @@
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 51 min
+109 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Good Music](https://open.spotify.com/track/1uizH33y71PDnU3vjTwWjL) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 5:45 | 2025-03-08 | 2026-05-02 |
 | [Good Music](https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D) | 5:45 | 2026-05-02 |  |
 | [Hanky Panky](https://open.spotify.com/track/7As15eABcFjJ3WuH5OEq6t) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:31 | 2026-04-19 | 2026-04-25 |
-| [Have You Ever Seen the Rain?](https://open.spotify.com/track/5MHAPsmn3q5VMhVJLzuHz1) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 3:33 | 2025-03-08 |  |
+| [Have You Ever Seen the Rain?](https://open.spotify.com/track/3Z900JDFWm60pRruOQXf5H) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV) | 3:33 | 2026-06-19 |  |
+| [Have You Ever Seen the Rain?](https://open.spotify.com/track/5MHAPsmn3q5VMhVJLzuHz1) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 3:33 | 2025-03-08 | 2026-06-19 |
 | [I Hate Myself For Loving You](https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 4:07 | 2025-03-08 |  |
 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 | 2025-03-08 |  |
 | [I Love Playin' With Fire](https://open.spotify.com/track/2f145m0AvoZX5tF1Rac2QZ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Album \(Expanded Edition\)](https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G) | 3:02 | 2025-03-08 | 2026-04-20 |
@@ -108,7 +109,8 @@
 | [Wildside \- feat\. Joan Jett](https://open.spotify.com/track/1zaXFoTfjdNpZyMHnlWGSj) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Dream Into It](https://open.spotify.com/album/4Trti87I17wUxMIymbKcZG) | 3:36 | 2025-04-27 |  |
 | [Wooly Bully](https://open.spotify.com/track/0FDzI3JpnrDxYyaxJU6AwN) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB) | 2:20 | 2026-06-11 |  |
 | [Wooly Bully](https://open.spotify.com/track/4Hx70nlFBSkxkI8lwYRYxC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:20 | 2025-03-08 | 2026-05-03 |
-| [You Don't Know What You've Got](https://open.spotify.com/track/42SrdgnUq7wXgQdllzgm4X) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr) | 3:42 | 2026-04-20 |  |
+| [You Don't Know What You've Got](https://open.spotify.com/track/42SrdgnUq7wXgQdllzgm4X) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr) | 3:42 | 2026-04-20 | 2026-06-19 |
+| [You Don't Know What You've Got](https://open.spotify.com/track/2ikFuUAyiFxsnPxHI0o7mD) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB) | 3:43 | 2026-06-19 |  |
 | [You Don't Know What You've Got](https://open.spotify.com/track/3zGNujVVkUT07mGLgoT5an) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:43 | 2025-03-08 | 2026-04-19 |
 | [You Don't Own Me](https://open.spotify.com/track/05ok9A1VF7Nk2v0UW98QcN) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:27 | 2025-03-08 | 2026-05-19 |
 | [You Don't Own Me](https://open.spotify.com/track/0B1ZjLUvqgUW4wWM7AvkHA) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB) | 3:27 | 2026-05-28 |  |

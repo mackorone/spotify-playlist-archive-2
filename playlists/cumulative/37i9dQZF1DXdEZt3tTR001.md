@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-418 songs - 1 day 2 hr 20 min
+419 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Colorado, TX](https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Colorado, TX](https://open.spotify.com/album/5FXdudccssLwPECirvslKG) | 2:44 | 2025-07-17 | 2025-08-17 |
 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 | 2023-06-09 | 2024-05-03 |
 | [Colour On The Wall](https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:18 | 2025-11-28 | 2026-01-17 |
+| [Comets + Gold](https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Comets + Gold](https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W) | 3:08 | 2026-06-19 |  |
 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 | 2024-04-05 | 2026-03-26 |
 | [Communication](https://open.spotify.com/track/4qZvLsmG7skj2mk7YRH5WG) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [Communication](https://open.spotify.com/album/6ttLLA2T9nDaqDyTAaxudU) | 3:36 | 2022-02-01 | 2022-12-09 |
 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 | 2022-04-29 | 2023-06-10 |
@@ -111,7 +112,7 @@
 | [do u like it?](https://open.spotify.com/track/6Wn9pyJXJK2IJjbERQ7wSx) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [do u like it?](https://open.spotify.com/album/0BzL2XypJo7LTpA1cKMjGy) | 2:59 | 2025-10-24 | 2025-11-08 |
 | [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 | 2026-03-06 |  |
 | [DON'T PLAY WITH MY HEART](https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [DON'T PLAY WITH MY HEART](https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I) | 3:39 | 2021-08-18 | 2023-02-09 |
-| [Don't Record](https://open.spotify.com/track/1jyNswOFIyhIrYnR3a4GcH) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2), [gurasanpark](https://open.spotify.com/artist/4lmTynx3rDaCpwHXmidFSF) | [Don't Record](https://open.spotify.com/album/4Hq61eO0YTuZjhGHRerecJ) | 3:19 | 2026-06-12 |  |
+| [Don't Record](https://open.spotify.com/track/1jyNswOFIyhIrYnR3a4GcH) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2), [gurasanpark](https://open.spotify.com/artist/4lmTynx3rDaCpwHXmidFSF) | [Don't Record](https://open.spotify.com/album/4Hq61eO0YTuZjhGHRerecJ) | 3:19 | 2026-06-12 | 2026-06-19 |
 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 | 2025-07-25 | 2025-12-16 |
 | [Douwannabwitastar!?](https://open.spotify.com/track/3de4w5RMotY7NBXG7vtP4O) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [The Pleasure Is Yours](https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS) | 2:45 | 2026-02-27 | 2026-03-07 |
 | [Dream State](https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Dream State](https://open.spotify.com/album/6KYn1PrwI7cV9BLiv6rBBK) | 8:39 | 2024-04-05 | 2024-07-10 |

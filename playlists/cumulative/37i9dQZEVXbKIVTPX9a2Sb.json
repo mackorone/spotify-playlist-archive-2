@@ -352,7 +352,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 142417,
       "name": "22",
       "url": "https://open.spotify.com/track/0R3eeOQZuJG9661NAlMIrT"
@@ -2110,6 +2110,28 @@
       "duration_ms": 171722,
       "name": "AM4",
       "url": "https://open.spotify.com/track/18ilJfI0M9nkz2O3EnT9cS"
+    },
+    {
+      "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193288,
+      "name": "AMAMRAD",
+      "url": "https://open.spotify.com/track/23gaprHz5HF1T4ImWwTxpF"
     },
     {
       "album": {
@@ -9645,6 +9667,28 @@
     },
     {
       "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "COUP\u00c9",
+      "url": "https://open.spotify.com/track/5dKhmVbvctqme1rfkuGAJz"
+    },
+    {
+      "album": {
         "name": "All I Know So Far: Setlist",
         "url": "https://open.spotify.com/album/061vVdNVxwouz0INdQeOkn"
       },
@@ -15509,6 +15553,40 @@
     },
     {
       "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        },
+        {
+          "name": "NobodyListen",
+          "url": "https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "french tip nails",
+      "url": "https://open.spotify.com/track/0Y3KRjSVxpIDz77eRsWbGi"
+    },
+    {
+      "album": {
         "name": "Bieber Fever",
         "url": "https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB"
       },
@@ -18218,7 +18296,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -19914,7 +19992,7 @@
       ],
       "date_added": "2025-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -21810,7 +21888,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 124267,
       "name": "Italiano,Cigan,Arab",
       "url": "https://open.spotify.com/track/0ByJbHq3o1ssNSTSWZAZi9"
@@ -23256,6 +23334,24 @@
       "duration_ms": 204852,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
+    },
+    {
+      "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83720,
+      "name": "KARMA FOREVER",
+      "url": "https://open.spotify.com/track/1hb8vTX35kOFVH3qby0Ubb"
     },
     {
       "album": {
@@ -29097,6 +29193,24 @@
     },
     {
       "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185416,
+      "name": "milujou m\u011b nen\u00e1vid\u011bt",
+      "url": "https://open.spotify.com/track/51xFdN7HG3DgVFIZTJxJ1E"
+    },
+    {
+      "album": {
         "name": "milujou m\u011b nen\u00e1vid\u011bt",
         "url": "https://open.spotify.com/album/4OcYBZ9h21z4AwSCwPq9oF"
       },
@@ -30759,6 +30873,24 @@
     },
     {
       "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201774,
+      "name": "m\u00e1me toho moc",
+      "url": "https://open.spotify.com/track/09XLht6uNmTpa3vyqAMvAQ"
+    },
+    {
+      "album": {
         "name": "Impostor syndrom",
         "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
       },
@@ -32116,7 +32248,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 169811,
       "name": "NENI STRE$S",
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
@@ -40436,7 +40568,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -41184,7 +41316,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 243600,
       "name": "S&M",
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
@@ -44215,6 +44347,28 @@
     },
     {
       "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191877,
+      "name": "SPHYNX",
+      "url": "https://open.spotify.com/track/0LS2nBuG4NoBGf0NG5sahJ"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -44828,6 +44982,24 @@
       "duration_ms": 80000,
       "name": "Starcell - Acoustic Version",
       "url": "https://open.spotify.com/track/7tw1lwwC27UxZGqbeTMjFr"
+    },
+    {
+      "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120243,
+      "name": "starej logic better",
+      "url": "https://open.spotify.com/track/5JH1XcXimLvz4HzrPjDiWa"
     },
     {
       "album": {
@@ -47693,6 +47865,28 @@
     },
     {
       "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145270,
+      "name": "thank you based god",
+      "url": "https://open.spotify.com/track/6xBhTofgers7RYLwzyZM7e"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -48544,7 +48738,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 167705,
       "name": "Ticho",
       "url": "https://open.spotify.com/track/7IgBoTPqNi7CaX0djq9BEt"
@@ -49502,7 +49696,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 215013,
       "name": "Tras tou",
       "url": "https://open.spotify.com/track/37bzTXxhFeNN7K3fDFeGwU"
@@ -50670,7 +50864,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 135283,
       "name": "Ups and downs",
       "url": "https://open.spotify.com/track/2n9P4AL6xPVnoE1deBxHat"
@@ -54575,6 +54769,28 @@
     },
     {
       "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/69E0EPZES6ALHdDkBAVu6z"
+    },
+    {
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/0Sd9HZYd5ITYBUZEgPIePp"
       },
@@ -56838,6 +57054,32 @@
       "duration_ms": 180946,
       "name": "\u0160\u0165astn\u00e9 Vianoce",
       "url": "https://open.spotify.com/track/6XgeZZ2jzDcUyq1Y0BqPKF"
+    },
+    {
+      "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Hasan",
+          "url": "https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "\u017ee nechci t\u011b tady",
+      "url": "https://open.spotify.com/track/1RkIp8fMQX0nSBqloHW7pM"
     },
     {
       "album": {

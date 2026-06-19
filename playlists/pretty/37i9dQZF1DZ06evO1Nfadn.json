@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 40148,
+  "num_followers": 40157,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAADp9LFKuEoh2+PM5nTf4aoi",
+  "snapshot_id": "ajHjgAAAAADtbRmCN/vy/qrFUwnC+MYn",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 164213,
-      "name": "El Zancudito",
-      "url": "https://open.spotify.com/track/5fPtcVAyO515jP3wgloERw"
+      "duration_ms": 156706,
+      "name": "Baila Nena",
+      "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 156706,
-      "name": "Baila Nena",
-      "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
+      "duration_ms": 164213,
+      "name": "El Zancudito",
+      "url": "https://open.spotify.com/track/5fPtcVAyO515jP3wgloERw"
     },
     {
       "added_at": null,

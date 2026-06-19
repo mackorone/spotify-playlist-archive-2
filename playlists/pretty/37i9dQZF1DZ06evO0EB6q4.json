@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 265916,
+  "num_followers": 265939,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABBOdn3RHy2jd8g9PCYL1xg",
+  "snapshot_id": "ajHjgAAAAABpqqrK3TSgKBthUFidFG2W",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flaca",
+        "url": "https://open.spotify.com/album/5s9XYiGirdLhc10yXPBoMn"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/26JLezveasjmj1YypgUGsf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Tu Boca El Humo Me Sabe Mejor",
         "url": "https://open.spotify.com/album/13v0zqnBRZqZT69JGUNgVl"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 198957,
       "name": "En Tu Boca El Humo Me Sabe Mejor",
       "url": "https://open.spotify.com/track/53wSngFr6eC0yazPNJQmtg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flaca",
-        "url": "https://open.spotify.com/album/5s9XYiGirdLhc10yXPBoMn"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/26JLezveasjmj1YypgUGsf"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 155198,
-      "name": "Parece un sue\u00f1o",
-      "url": "https://open.spotify.com/track/3jP3gpR2Ni7FOJTTymz5v6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 246000,
       "name": "Los No Tan Tristes",
       "url": "https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 155198,
+      "name": "Parece un sue\u00f1o",
+      "url": "https://open.spotify.com/track/3jP3gpR2Ni7FOJTTymz5v6"
     },
     {
       "added_at": null,
@@ -803,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo Lo Haces T\u00fa",
-        "url": "https://open.spotify.com/album/43VUKcCmkvabI567ONaMyy"
+        "name": "No Pienses Que Me Fui",
+        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
       },
       "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 141269,
-      "name": "S\u00f3lo Lo Haces T\u00fa",
-      "url": "https://open.spotify.com/track/1kkzu6mq0HV9UjPB8Xo2lT"
+      "duration_ms": 150186,
+      "name": "No Pienses Que Me Fui",
+      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
     },
     {
       "added_at": null,
@@ -835,22 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pienses Que Me Fui",
-        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
+        "name": "S\u00f3lo Lo Haces T\u00fa",
+        "url": "https://open.spotify.com/album/43VUKcCmkvabI567ONaMyy"
       },
       "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 150186,
-      "name": "No Pienses Que Me Fui",
-      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
+      "duration_ms": 141269,
+      "name": "S\u00f3lo Lo Haces T\u00fa",
+      "url": "https://open.spotify.com/track/1kkzu6mq0HV9UjPB8Xo2lT"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Miky la Sensa",
-          "url": "https://open.spotify.com/artist/4JXX3NYMoXT5RqEGH1PAcc"
-        }
-      ],
-      "duration_ms": 174374,
-      "name": "No Salgas el Viernes",
-      "url": "https://open.spotify.com/track/4hxxF8Peip9usTT4U9xTmH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LQRA Session #7",
         "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 169642,
       "name": "LQRA Session #7",
       "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Miky la Sensa",
+          "url": "https://open.spotify.com/artist/4JXX3NYMoXT5RqEGH1PAcc"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "No Salgas el Viernes",
+      "url": "https://open.spotify.com/track/4hxxF8Peip9usTT4U9xTmH"
     },
     {
       "added_at": null,

@@ -796,7 +796,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 268915,
       "name": "central park west",
       "url": "https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3"
@@ -3274,6 +3274,36 @@
       "duration_ms": 265826,
       "name": "Peaceful Paranoia",
       "url": "https://open.spotify.com/track/1P9zMTrGMBPTDr0A4MU7cd"
+    },
+    {
+      "album": {
+        "name": "PEARL",
+        "url": "https://open.spotify.com/album/0gfmzQ2h5XslfUtAZKm4oj"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231066,
+      "name": "PEARL",
+      "url": "https://open.spotify.com/track/33E2bU4xRVvjuc6Y4dtk5k"
     },
     {
       "album": {

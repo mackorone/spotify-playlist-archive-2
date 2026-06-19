@@ -5470,7 +5470,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 166792,
       "name": "Dirty Rosie",
       "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
@@ -8134,6 +8134,28 @@
       "duration_ms": 195326,
       "name": "Guitar & A Suitcase",
       "url": "https://open.spotify.com/track/59Er5XFfEdfPQcsEdwdvrb"
+    },
+    {
+      "album": {
+        "name": "flow state",
+        "url": "https://open.spotify.com/album/2ap2eUHSoEZhUAj1ybgask"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309378,
+      "name": "Guitar Man (ft. John Mayer)",
+      "url": "https://open.spotify.com/track/75935bRXF7MDhygU4wmSpI"
     },
     {
       "album": {
@@ -11373,6 +11395,24 @@
     },
     {
       "album": {
+        "name": "Leave It Alone",
+        "url": "https://open.spotify.com/album/7a4zkThr05rr1kzn5uPl6s"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199507,
+      "name": "Leave It Alone",
+      "url": "https://open.spotify.com/track/6TX8mxag15va36jeDlg70s"
+    },
+    {
+      "album": {
         "name": "Leave Me Too",
         "url": "https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD"
       },
@@ -11564,7 +11604,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 182264,
       "name": "Letting You Go",
       "url": "https://open.spotify.com/track/4rzRrwNt2FlrFT1KqWxjAR"
@@ -18924,7 +18964,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 248205,
       "name": "Sunday Sober",
       "url": "https://open.spotify.com/track/0Q1kh2GrkkYN6EeoUo3Wtc"
@@ -19852,6 +19892,24 @@
       "duration_ms": 170560,
       "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
       "url": "https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB"
+    },
+    {
+      "album": {
+        "name": "Thinking What I'm Thinking",
+        "url": "https://open.spotify.com/album/23JijXiP8GcIuy44YnFMd3"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282200,
+      "name": "Thinking What I'm Thinking",
+      "url": "https://open.spotify.com/track/7ewkuUrCmy3FllHosZAwtN"
     },
     {
       "album": {

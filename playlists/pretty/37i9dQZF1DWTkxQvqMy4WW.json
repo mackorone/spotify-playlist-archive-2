@@ -1,6 +1,6 @@
 {
   "description": "Country music to get you back to the basics.",
-  "num_followers": 3416125,
+  "num_followers": 3416082,
   "original_name": "Chillin' on a Dirt Road",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-05-26 17:38:40",
       "album": {
-        "name": "Born To Die",
-        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 165597,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
+      "duration_ms": 253200,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
     },
     {
       "added_at": "2026-05-26 17:38:40",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-05-26 17:38:40",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
+      "duration_ms": 165597,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
     },
     {
       "added_at": "2026-05-26 17:38:40",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-05-26 17:38:40",
       "album": {
-        "name": "Live Like You Were Dying",
-        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "Live Like You Were Dying",
-      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
-    },
-    {
-      "added_at": "2026-05-26 17:38:40",
-      "album": {
         "name": "Think I\u2019m In Love With You",
         "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2026-05-26 17:38:40",
       "album": {
+        "name": "Live Like You Were Dying",
+        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 300333,
+      "name": "Live Like You Were Dying",
+      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
+    },
+    {
+      "added_at": "2026-05-26 17:38:40",
+      "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-05-26 17:38:40",
       "album": {
-        "name": "Mr. Misunderstood",
-        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Record Year",
-      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
-    },
-    {
-      "added_at": "2026-05-26 17:38:40",
-      "album": {
         "name": "Songs for the Saints",
         "url": "https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 199625,
       "name": "Get Along",
       "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
+    },
+    {
+      "added_at": "2026-05-26 17:38:40",
+      "album": {
+        "name": "Mr. Misunderstood",
+        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Record Year",
+      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
     },
     {
       "added_at": "2026-05-26 17:38:40",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-05-26 17:38:40",
       "album": {
-        "name": "Can't Sit Still",
-        "url": "https://open.spotify.com/album/4RseAUz5ufSX0SazOe9kfc"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "Can't Sit Still",
-      "url": "https://open.spotify.com/track/024avm1IHjbHmvpFQyl38J"
-    },
-    {
-      "added_at": "2026-05-26 17:38:40",
-      "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2026-05-26 17:38:40",
       "album": {
+        "name": "Can't Sit Still",
+        "url": "https://open.spotify.com/album/4RseAUz5ufSX0SazOe9kfc"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "Can't Sit Still",
+      "url": "https://open.spotify.com/track/024avm1IHjbHmvpFQyl38J"
+    },
+    {
+      "added_at": "2026-05-26 17:38:40",
+      "album": {
         "name": "Kane Brown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
       },
@@ -1395,22 +1395,6 @@
       "duration_ms": 177333,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
-    },
-    {
-      "added_at": "2026-05-26 17:38:40",
-      "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
       "added_at": "2026-05-26 17:38:40",
@@ -1443,6 +1427,22 @@
       "duration_ms": 259266,
       "name": "Humble And Kind",
       "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+    },
+    {
+      "added_at": "2026-05-26 17:38:40",
+      "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
       "added_at": "2026-05-26 17:38:40",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-05-26 17:38:40",
       "album": {
-        "name": "Red River Blue (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "Honey Bee",
-      "url": "https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4"
-    },
-    {
-      "added_at": "2026-05-26 17:38:40",
-      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 233869,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
+    },
+    {
+      "added_at": "2026-05-26 17:38:40",
+      "album": {
+        "name": "Red River Blue (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "Honey Bee",
+      "url": "https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4"
     },
     {
       "added_at": "2026-05-26 17:38:40",

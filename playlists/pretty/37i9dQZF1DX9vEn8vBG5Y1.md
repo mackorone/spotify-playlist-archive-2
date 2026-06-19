@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 
 > The essential pop rock songs from the 2000s\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,324 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,442 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 3 | [Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:08 |
 | 4 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
 | 5 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 |
-| 6 | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:57 |
-| 7 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
+| 6 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
+| 7 | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:57 |
 | 8 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 9 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
 | 10 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 33 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
 | 34 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 |
 | 35 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 |
-| 36 | [Someday](https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The Long Road](https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E) | 3:27 |
-| 37 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
+| 36 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
+| 37 | [Someday](https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The Long Road](https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E) | 3:27 |
 | 38 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 |
 | 39 | [Good Life](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:13 |
 | 40 | [In My Place](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:46 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 43 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 |
 | 44 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 |
 | 45 | [1985](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF) | 3:13 |
-| 46 | [The Man Who Can't Be Moved](https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:01 |
-| 47 | [Maybe Tomorrow](https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [You Gotta Go There To Come Back](https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8) | 4:32 |
+| 46 | [Maybe Tomorrow](https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [You Gotta Go There To Come Back](https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8) | 4:32 |
+| 47 | [The Man Who Can't Be Moved](https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:01 |
 | 48 | [Beverly Hills](https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:16 |
 | 49 | [Speed of Sound](https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:47 |
 | 50 | [Unwell](https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [More Than You Think You Are](https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8) | 3:48 |

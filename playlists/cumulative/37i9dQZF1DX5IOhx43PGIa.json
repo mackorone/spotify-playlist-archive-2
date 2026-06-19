@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "after all",
+        "url": "https://open.spotify.com/album/7lzGyOwEpw8hCGQge8SS2D"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193056,
+      "name": "after all",
+      "url": "https://open.spotify.com/track/4UCuyeaovBIUlyeecxU9Q4"
+    },
+    {
+      "album": {
         "name": "After You",
         "url": "https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL"
       },
@@ -2342,6 +2360,24 @@
       "duration_ms": 164174,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0Eo54xCp6agPUoddGv9Ta5"
+    },
+    {
+      "album": {
+        "name": "bike song",
+        "url": "https://open.spotify.com/album/0fbu9vTPsH04jlqaOXmVVj"
+      },
+      "artists": [
+        {
+          "name": "frank",
+          "url": "https://open.spotify.com/artist/0pCAo4FBQbbOARjAspt9uQ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163263,
+      "name": "bike song",
+      "url": "https://open.spotify.com/track/03uUSZQFMxWp1Q9lvSRTLo"
     },
     {
       "album": {
@@ -7960,7 +7996,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 200000,
       "name": "folding chairs on the moon",
       "url": "https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF"
@@ -21168,7 +21204,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 160000,
       "name": "substack girl",
       "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
@@ -23916,7 +23952,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 200240,
       "name": "Underworld",
       "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
@@ -24727,6 +24763,24 @@
     },
     {
       "album": {
+        "name": "LAB SONGS NG MGA TANGA",
+        "url": "https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs"
+      },
+      "artists": [
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186577,
+      "name": "What if I miss you for the rest of my life?",
+      "url": "https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN"
+    },
+    {
+      "album": {
         "name": "what never lived",
         "url": "https://open.spotify.com/album/1Gtl6W5pDIdlcsD2wscbC0"
       },
@@ -25528,7 +25582,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 199565,
       "name": "X",
       "url": "https://open.spotify.com/track/6BBlYYRR4W2iaDqKJxOB1h"

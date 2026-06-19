@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43420,
+  "num_followers": 43415,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaurQqhclWDdWe75nyUJB7E3IpltC2",
+  "snapshot_id": "AAAau3dp8b7p4HkfRiI6X4HvkjowW9C1",
   "tracks": [
+    {
+      "added_at": "2026-06-19 04:00:45",
+      "album": {
+        "name": "I\u2019m Not Going Anywhere",
+        "url": "https://open.spotify.com/album/1gM5TAOTjG6N7kDsbsgBZr"
+      },
+      "artists": [
+        {
+          "name": "Iaco",
+          "url": "https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg"
+        },
+        {
+          "name": "remy",
+          "url": "https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "I\u2019m Not Going Anywhere",
+      "url": "https://open.spotify.com/track/5NOV69OCTCG2lxAp9dFTLR"
+    },
     {
       "added_at": "2026-06-12 04:00:47",
       "album": {

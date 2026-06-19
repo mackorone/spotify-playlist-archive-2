@@ -1,6 +1,6 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 32009,
+  "num_followers": 32016,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
@@ -323,30 +323,6 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius: Lemmink\u00e4inen Suite - Pell\u00e9as & M\u00e9lisande",
-        "url": "https://open.spotify.com/album/1USC0LhGxODq3ozgZtfHrx"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Paavo J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
-        },
-        {
-          "name": "Royal Stockholm Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0"
-        }
-      ],
-      "duration_ms": 879960,
-      "name": "Sibelius: Night Ride and Sunrise, Op. 55",
-      "url": "https://open.spotify.com/track/4Dfc82tm87LrXao1kTryrc"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
         "name": "Sibelius: Songs",
         "url": "https://open.spotify.com/album/1t9yxMlQZM7nOYClXz7Aqs"
       },
@@ -367,6 +343,30 @@
       "duration_ms": 108133,
       "name": "Segelfahrt (Under Sail)",
       "url": "https://open.spotify.com/track/71AD2BFesI6fQcHzhuaaWs"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "Sibelius: Lemmink\u00e4inen Suite - Pell\u00e9as & M\u00e9lisande",
+        "url": "https://open.spotify.com/album/1USC0LhGxODq3ozgZtfHrx"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Paavo J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+        },
+        {
+          "name": "Royal Stockholm Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0"
+        }
+      ],
+      "duration_ms": 879960,
+      "name": "Sibelius: Night Ride and Sunrise, Op. 55",
+      "url": "https://open.spotify.com/track/4Dfc82tm87LrXao1kTryrc"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -575,30 +575,6 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius: Lemmink\u00e4inen Suite - Pell\u00e9as & M\u00e9lisande",
-        "url": "https://open.spotify.com/album/1USC0LhGxODq3ozgZtfHrx"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Paavo J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
-        },
-        {
-          "name": "Estonian National Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3wnm0pkc0sPfV7UI2xlZlW"
-        }
-      ],
-      "duration_ms": 194333,
-      "name": "Sibelius: The Maiden in the Tower: Overture",
-      "url": "https://open.spotify.com/track/2MeMoGXNYS7cEHKogyfGFN"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
         "name": "Sibelius: Symphony No. 4; Finlandia; Luonnotar",
         "url": "https://open.spotify.com/album/0zeqpsvDkcWy7VgvBeHCAH"
       },
@@ -619,6 +595,30 @@
       "duration_ms": 581066,
       "name": "Symphony No. 4 in A Minor, Op. 63: I. Tempo molto moderato, quasi adagio",
       "url": "https://open.spotify.com/track/0XhydK0yl8bGwCFiBJtqlU"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "Sibelius: Lemmink\u00e4inen Suite - Pell\u00e9as & M\u00e9lisande",
+        "url": "https://open.spotify.com/album/1USC0LhGxODq3ozgZtfHrx"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Paavo J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+        },
+        {
+          "name": "Estonian National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3wnm0pkc0sPfV7UI2xlZlW"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "Sibelius: The Maiden in the Tower: Overture",
+      "url": "https://open.spotify.com/track/2MeMoGXNYS7cEHKogyfGFN"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -663,26 +663,6 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
-        "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Emerson String Quartet",
-          "url": "https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7"
-        }
-      ],
-      "duration_ms": 516200,
-      "name": "String Quartet in D Minor, Op. 56 \"Voces intimae\": III. Adagio di molto",
-      "url": "https://open.spotify.com/track/1qgDeM1iMOEP2yoRJ6tMqo"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
         "name": "Colin Davis conducts Sibelius",
         "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 134093,
       "name": "Rakastava, Op. 14: The Path of his Beloved",
       "url": "https://open.spotify.com/track/4XjmOjgHta5EJ8gltegaav"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
+        "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Emerson String Quartet",
+          "url": "https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7"
+        }
+      ],
+      "duration_ms": 516200,
+      "name": "String Quartet in D Minor, Op. 56 \"Voces intimae\": III. Adagio di molto",
+      "url": "https://open.spotify.com/track/1qgDeM1iMOEP2yoRJ6tMqo"
     },
     {
       "added_at": "2025-12-15 12:16:59",

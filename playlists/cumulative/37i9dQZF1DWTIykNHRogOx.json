@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Benjamin Biolay",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Pomme.",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 243746,
       "name": "30 ans",
       "url": "https://open.spotify.com/track/3YuYQyd1oc8WEXYB0wfuv8"
+    },
+    {
+      "album": {
+        "name": "7 sur 7",
+        "url": "https://open.spotify.com/album/244iOWQ5gMbLuXLjAfpH73"
+      },
+      "artists": [
+        {
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170430,
+      "name": "7 sur 7",
+      "url": "https://open.spotify.com/track/0lS2qHq4HPzX0aLS363KTz"
     },
     {
       "album": {
@@ -252,7 +270,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 231133,
       "name": "Amn\u00e9sie - November Ultra Version",
       "url": "https://open.spotify.com/track/3qgaBkvgxkWscBdYQlkvQt"
@@ -288,7 +306,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 137013,
       "name": "AMOUR IMMENSE",
       "url": "https://open.spotify.com/track/1MlRa0GirgpGJbCx9R6wsO"
@@ -574,7 +592,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 160426,
       "name": "Bleu",
       "url": "https://open.spotify.com/track/5QgOSe0IWekbANgFkwqBz5"
@@ -1112,6 +1130,24 @@
       "duration_ms": 188716,
       "name": "Dans mon \u00eele",
       "url": "https://open.spotify.com/track/6jxRw02LHJfsnRIAfdrrwZ"
+    },
+    {
+      "album": {
+        "name": "Demain",
+        "url": "https://open.spotify.com/album/0v9IVyNsS3ZBPhQpLyRrMs"
+      },
+      "artists": [
+        {
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181080,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/2bIVLEhxZxDJNZfY6o12EY"
     },
     {
       "album": {
@@ -2798,7 +2834,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 180493,
       "name": "La Terre",
       "url": "https://open.spotify.com/track/4UMZbcLubBbdJsnRVuHQzZ"
@@ -3207,6 +3243,28 @@
     },
     {
       "album": {
+        "name": "Le prochain r\u00eave (feat. Styleto)",
+        "url": "https://open.spotify.com/album/1wsEpdvPcsITTV5wd0LAuv"
+      },
+      "artists": [
+        {
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        },
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196660,
+      "name": "Le prochain r\u00eave (feat. Styleto)",
+      "url": "https://open.spotify.com/track/477sMUpyAj8Am3a5VLfy8p"
+    },
+    {
+      "album": {
         "name": "Le retour des beaux jours",
         "url": "https://open.spotify.com/album/45IfEOM2tJVHxpNiC9uOmG"
       },
@@ -3374,6 +3432,24 @@
       "duration_ms": 153907,
       "name": "Le Train",
       "url": "https://open.spotify.com/track/0jlA2eeimEel4YhVm9FsUR"
+    },
+    {
+      "album": {
+        "name": "le village",
+        "url": "https://open.spotify.com/album/2PvCytDBc6cEY10ZFDBRAG"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217813,
+      "name": "le village",
+      "url": "https://open.spotify.com/track/4BUkHw3lvnY8fuOgu9kRAN"
     },
     {
       "album": {
@@ -4322,7 +4398,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 240133,
       "name": "Nel bene nel male",
       "url": "https://open.spotify.com/track/7FeYaHR2sWZaOToapEHolI"
@@ -4918,6 +4994,24 @@
       "duration_ms": 191160,
       "name": "Promis jur\u00e9",
       "url": "https://open.spotify.com/track/6ybZdo0nUd5fdsuVrOUW6r"
+    },
+    {
+      "album": {
+        "name": "Qu'est-ce qu'on se ressemble",
+        "url": "https://open.spotify.com/album/3zVcFG7y0ukgdHFn8S54Na"
+      },
+      "artists": [
+        {
+          "name": "Lisa Pariente",
+          "url": "https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199400,
+      "name": "Qu'est-ce qu'on se ressemble",
+      "url": "https://open.spotify.com/track/1tcH4X0nYk8K9HKxG2d9A8"
     },
     {
       "album": {

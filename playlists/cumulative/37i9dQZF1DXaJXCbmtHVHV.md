@@ -4,7 +4,7 @@
 
 > Top country hits you know and love! Cover: Morgan Wallen
 
-587 songs - 1 day 7 hr 46 min
+588 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2024-03-08 |  |
 | [I Sit In Parks](https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [I Sit In Parks](https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj) | 2:10 | 2026-01-16 | 2026-01-26 |
 | [I Tried A Ring On](https://open.spotify.com/track/6ouFl8UDdMc9zuzmzvmh7v) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [I Tried A Ring On](https://open.spotify.com/album/6R8KPrq6T7SpQFvJoEOlKI) | 3:31 | 2024-08-30 | 2024-09-26 |
+| [I Want You](https://open.spotify.com/track/12c5b7YmtMPxWnAgSql0sb) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [I Want You](https://open.spotify.com/album/4PcyS3Xjjq2G4zUuPcVhmI) | 3:10 | 2026-06-19 |  |
 | [I Will \(When You Do\)](https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Dylan Marlowe](https://open.spotify.com/artist/3DxC7FdAG5YxfkTpP9ZZlx) | [I Will \(When You Do\)](https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH) | 3:27 | 2024-04-19 | 2025-05-31 |
 | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7) | 2:53 | 2025-07-18 | 2025-11-08 |
 | [I Wonder](https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Wonder](https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy) | 3:26 | 2023-01-27 | 2023-02-18 |
@@ -514,7 +515,7 @@
 | [Thoughts of You](https://open.spotify.com/track/0Xw2qqQDAm2uDJZI02UDix) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Songs About You](https://open.spotify.com/album/5MTY6WqQu7prI2Y2dEu81n) | 2:52 | 2025-01-24 | 2026-04-13 |
 | [Tie Up](https://open.spotify.com/track/1ldVci33AH29zhSR4fTIOt) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Tie Up](https://open.spotify.com/album/1LtPTOxjuWJ2iPUy2ILU9e) | 3:08 | 2024-08-09 | 2024-11-09 |
 | [Till I Can't, I Will](https://open.spotify.com/track/3GLjg6Zmjw3gPrKUheQZfR) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Easy Does It](https://open.spotify.com/album/328tuPAI8AlyW6AC51ud4R) | 2:39 | 2025-10-24 | 2026-01-31 |
-| [Time Goes On](https://open.spotify.com/track/4iAvuDXVlF9eCzxQ3qNEpE) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Time Goes On](https://open.spotify.com/album/2NA1s4MQIteXh70JmP8VS4) | 2:55 | 2026-05-29 |  |
+| [Time Goes On](https://open.spotify.com/track/4iAvuDXVlF9eCzxQ3qNEpE) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Time Goes On](https://open.spotify.com/album/2NA1s4MQIteXh70JmP8VS4) | 2:55 | 2026-05-29 | 2026-06-19 |
 | [To Be Loved By You](https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [To Be Loved By You](https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu) | 3:18 | 2021-12-28 | 2023-01-06 |
 | [Tough People](https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Tough People](https://open.spotify.com/album/6lyQYMu3krcoLPaCJbQ35V) | 3:59 | 2025-06-27 | 2025-09-06 |
 | [Travelin' Soldier](https://open.spotify.com/track/4ThbwJaIWVxXZ1qJaHQBCz) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Travelin' Soldier](https://open.spotify.com/album/7Liu0RVrXQNZfnOAOlqQYv) | 4:15 | 2026-02-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,305 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,380 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

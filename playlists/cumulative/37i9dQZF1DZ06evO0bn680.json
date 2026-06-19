@@ -2539,6 +2539,36 @@
     },
     {
       "album": {
+        "name": "The Sacred Flame",
+        "url": "https://open.spotify.com/album/0Emp3q0R4m0SM6ePTgJq8h"
+      },
+      "artists": [
+        {
+          "name": "Heinrich Sch\u00fctz",
+          "url": "https://open.spotify.com/artist/4Fw8f0YbjBs9suGEwInPJe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Mark Williams",
+          "url": "https://open.spotify.com/artist/4U0UzHswio6o97a43Feadz"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251466,
+      "name": "No. 23, Selig sind die Toten, SWV 281",
+      "url": "https://open.spotify.com/track/79Rh9xcKuWgtcHuivqGa3u"
+    },
+    {
+      "album": {
         "name": "Classical Tranquillity",
         "url": "https://open.spotify.com/album/3sAUybSBp9LpmYL05RN5Vo"
       },
@@ -2610,7 +2640,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 216133,
       "name": "O vos omnes",
       "url": "https://open.spotify.com/track/4aTIhTWsdcmNyTDgGj7Y6E"

@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 597836,
+  "num_followers": 597905,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "Con La Cumbia En La Sangre",
+        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "No Me Vuelvo A Enamorar",
+      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "Sencillo",
         "url": "https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 230243,
       "name": "El Amor Se Fue",
       "url": "https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Con La Cumbia En La Sangre",
-        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "No Me Vuelvo A Enamorar",
-      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -787,34 +787,18 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Yendo No, Llegando",
-        "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k"
       },
       "artists": [
         {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        },
-        {
-          "name": "R Jota",
-          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
-        },
-        {
-          "name": "Dj Plaga",
-          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
         }
       ],
-      "duration_ms": 211875,
-      "name": "Yendo No, Llegando",
-      "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
+      "duration_ms": 250786,
+      "name": "Como te voy a olvidar",
+      "url": "https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -847,18 +831,34 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k"
+        "name": "Yendo No, Llegando",
+        "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
       "artists": [
         {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+        },
+        {
+          "name": "Dj Plaga",
+          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
         }
       ],
-      "duration_ms": 250786,
-      "name": "Como te voy a olvidar",
-      "url": "https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv"
+      "duration_ms": 211875,
+      "name": "Yendo No, Llegando",
+      "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 164651,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Close de Ort!",
         "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 275200,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 164651,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP"
-      },
-      "artists": [
-        {
-          "name": "Los Dragones",
-          "url": "https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt"
-        }
-      ],
-      "duration_ms": 211461,
-      "name": "El Mamado del Auto",
-      "url": "https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "KaKa Nene",
         "url": "https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 143213,
       "name": "Arriba, Arriba",
       "url": "https://open.spotify.com/track/1l37tXRzuBzbOlNCgGlEG1"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP"
+      },
+      "artists": [
+        {
+          "name": "Los Dragones",
+          "url": "https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt"
+        }
+      ],
+      "duration_ms": 211461,
+      "name": "El Mamado del Auto",
+      "url": "https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Me Vas a Hacer Llorar",
-        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
-      },
-      "artists": [
-        {
-          "name": "Debora",
-          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
-        }
-      ],
-      "duration_ms": 227680,
-      "name": "La Miel de Tus Labios",
-      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "DJ ALEX, EL NOBA - TEKA | E6",
         "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 137500,
       "name": "DJ ALEX, EL NOBA - TEKA | E6",
       "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Me Vas a Hacer Llorar",
+        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
+      },
+      "artists": [
+        {
+          "name": "Debora",
+          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "La Miel de Tus Labios",
+      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "FERNANDITO",
+        "url": "https://open.spotify.com/album/7LVRFI3cZTRI2nbY6vEanX"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "FERNANDITO",
+      "url": "https://open.spotify.com/track/4ZaFsXbTTSMyszBp70I6KW"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "6to Sentido (Una Vuelta)",
         "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 128265,
       "name": "6to Sentido (Una Vuelta)",
       "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "FERNANDITO",
-        "url": "https://open.spotify.com/album/7LVRFI3cZTRI2nbY6vEanX"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "FERNANDITO",
-      "url": "https://open.spotify.com/track/4ZaFsXbTTSMyszBp70I6KW"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 235368,
-      "name": "Vengo de la casa de ella",
-      "url": "https://open.spotify.com/track/3wyLQdYYslrohkFNitbtgD"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Ritmo Sustancia",
         "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 268720,
       "name": "Pocos Quedan",
       "url": "https://open.spotify.com/track/1u2IbfH3dDRURiowHVul46"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Conecta 2",
+        "url": "https://open.spotify.com/album/6jyhrM5X4yw1xfAh4lCr8s"
+      },
+      "artists": [
+        {
+          "name": "La Fase Buk",
+          "url": "https://open.spotify.com/artist/5b0t98sO8PmHcr3eAXcSMg"
+        }
+      ],
+      "duration_ms": 196186,
+      "name": "Se Me Va la Voz",
+      "url": "https://open.spotify.com/track/4i7j1PdXPJeftm9gj8J1DL"
     }
   ],
   "unique_name": "Cumbia villera",

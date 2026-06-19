@@ -1,6 +1,6 @@
 {
   "description": " \ud83e\udd40",
-  "num_followers": 122613,
+  "num_followers": 122626,
   "original_name": "piangere fortissimo",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-03-26 11:07:26",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2026-03-26 11:07:26",
-      "album": {
         "name": "FOUR (Deluxe)",
         "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
+    },
+    {
+      "added_at": "2026-03-26 11:07:26",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2026-03-26 11:07:26",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-03-26 11:07:26",
       "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
+    },
+    {
+      "added_at": "2026-03-26 11:07:26",
+      "album": {
         "name": "Can We Kiss Forever?",
         "url": "https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 187931,
       "name": "Can We Kiss Forever?",
       "url": "https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne"
-    },
-    {
-      "added_at": "2026-03-26 11:07:26",
-      "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
     },
     {
       "added_at": "2026-03-26 11:07:26",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-03-26 11:07:26",
       "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 300413,
-      "name": "CORALINE",
-      "url": "https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY"
-    },
-    {
-      "added_at": "2026-03-26 11:07:26",
-      "album": {
         "name": "Not About Angels",
         "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 189475,
       "name": "Not About Angels",
       "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
+    },
+    {
+      "added_at": "2026-03-26 11:07:26",
+      "album": {
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 300413,
+      "name": "CORALINE",
+      "url": "https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY"
     },
     {
       "added_at": "2026-03-26 11:07:26",

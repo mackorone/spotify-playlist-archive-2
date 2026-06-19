@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,840 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,837 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 48 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 |
 | 49 | [Pieces](https://open.spotify.com/track/2TWTMmb5uHVuXEpXniIIhB) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Pieces](https://open.spotify.com/album/20udlOmp16aNccOj3iGupw) | 3:04 |
 | 50 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 |
-| 51 | [indigo](https://open.spotify.com/track/34r4lkt0hO0sbLI17vb0Os) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [indigo](https://open.spotify.com/album/4yLxah6bVH2WO45nBfulgD) | 3:33 |
-| 52 | [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 |
+| 51 | [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 |
+| 52 | [indigo](https://open.spotify.com/track/34r4lkt0hO0sbLI17vb0Os) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [indigo](https://open.spotify.com/album/4yLxah6bVH2WO45nBfulgD) | 3:33 |
 | 53 | [Breathe In, Breathe Out](https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Breathe In, Breathe Out](https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU) | 2:24 |
 | 54 | [overthinking about you](https://open.spotify.com/track/3uxPJckvg3g5B686iNgqXU) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [overthinking about you](https://open.spotify.com/album/6HoiPGlbAGOrJRJ5ZRVnzn) | 3:16 |
 | 55 | [Sunsetter](https://open.spotify.com/track/34Gex6ugcOGNoHPZF2rofH) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [ORDER chaos ORDER](https://open.spotify.com/album/0O0OCwx5K3WRMrfqwVMR2f) | 3:59 |

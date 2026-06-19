@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 
 > Kick back and enjoy these classic summer songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,243 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,736 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 12 | [Summer of 69 \(Classic Version\)](https://open.spotify.com/track/45sqV0WhglbGJswa6SiC0v) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Classic](https://open.spotify.com/album/03XgnNQDve2dWqBG1ARjvR) | 4:08 |
 | 13 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
 | 14 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 |
-| 15 | [For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:33 |
-| 16 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 |
+| 15 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 |
+| 16 | [For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:33 |
 | 17 | [\(Sittin' On\) the Dock of the Bay \- Mono](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 | 18 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
 | 19 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 44 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
 | 45 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 |
 | 46 | [Saturday in the Park \- 2002 Remaster](https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago V \(Expanded & Remastered\)](https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8) | 3:55 |
-| 47 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 |
+| 47 | [I Got You Babe](https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [Look At Us](https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH) | 3:10 |
 | 48 | [Jump in the Line](https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Jump Up Calypso](https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI) | 3:41 |
-| 49 | [I Got You Babe](https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [Look At Us](https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH) | 3:10 |
+| 49 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 |
 | 50 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |
 | 51 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 |
 | 52 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 95 | [San Francisco \(Be Sure to Wear Flowers in Your Hair\)](https://open.spotify.com/track/66ujRcQB3xjilVohGyvTKM) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [The Graduate \- Music From The Broadway Comedy](https://open.spotify.com/album/28oPljw32I8H4LWfdQ2z7z) | 2:57 |
 | 96 | [Beggin' \- 2007 Remaster](https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Jersey Beat: The Music Of Frankie Valli and The Four Seasons](https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg) | 2:48 |
 | 97 | [Hot Hot Hot](https://open.spotify.com/track/2BeFYfKuc0AZGhbeVY78ep) | [Buster Poindexter And His Banshees Of Blue](https://open.spotify.com/artist/77GFTVwA0F6Ag1xtlYr0UA) | [Buster Poindexter](https://open.spotify.com/album/4lFx9yBIZmyiBXmw0nFUQf) | 4:10 |
-| 98 | [Hotel California \(Spanish Mix\)](https://open.spotify.com/track/4Rvhe8O90hFIExTJkdrRPM) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [!Volare! The Very Best of the Gipsy Kings](https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id) | 5:46 |
-| 99 | [Up, Up and Away](https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Up, Up And Away](https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp) | 2:43 |
+| 98 | [Up, Up and Away](https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Up, Up And Away](https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp) | 2:43 |
+| 99 | [Hotel California \(Spanish Mix\)](https://open.spotify.com/track/4Rvhe8O90hFIExTJkdrRPM) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [!Volare! The Very Best of the Gipsy Kings](https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id) | 5:46 |
 | 100 | [Pipeline](https://open.spotify.com/track/3Wwy5wlxd8CpKMZGc4Mgjf) | [The Chantays](https://open.spotify.com/artist/4x6kNCpQ9veqQ17vllEJUR) | [Pipeline](https://open.spotify.com/album/272xBcLuC3UmRttQnvUIdn) | 2:19 |
 
 Snapshot ID: `AAAAAI3d9/l75HioiUR8qxKnWgww6gVZ`

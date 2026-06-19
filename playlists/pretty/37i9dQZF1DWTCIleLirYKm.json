@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Colby Acuff",
-  "num_followers": 220688,
+  "num_followers": 220831,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-06-05 15:44:50",
       "album": {
-        "name": "Take This Job And Shove It",
-        "url": "https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI"
-      },
-      "artists": [
-        {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
-        }
-      ],
-      "duration_ms": 157773,
-      "name": "Take This Job and Shove It",
-      "url": "https://open.spotify.com/track/63CbvkHcX8VBn09CCcGDLQ"
-    },
-    {
-      "added_at": "2026-06-05 15:44:50",
-      "album": {
         "name": "That Lonesome Song",
         "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 251960,
       "name": "Between Jennings And Jones",
       "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
+    },
+    {
+      "added_at": "2026-06-05 15:44:50",
+      "album": {
+        "name": "Take This Job And Shove It",
+        "url": "https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI"
+      },
+      "artists": [
+        {
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+        }
+      ],
+      "duration_ms": 157773,
+      "name": "Take This Job and Shove It",
+      "url": "https://open.spotify.com/track/63CbvkHcX8VBn09CCcGDLQ"
     },
     {
       "added_at": "2026-06-05 15:44:50",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-06-05 15:44:50",
       "album": {
+        "name": "Love And Danger",
+        "url": "https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A"
+      },
+      "artists": [
+        {
+          "name": "Joe Ely",
+          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
+        }
+      ],
+      "duration_ms": 273533,
+      "name": "The Road Goes On Forever",
+      "url": "https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7"
+    },
+    {
+      "added_at": "2026-06-05 15:44:50",
+      "album": {
         "name": "Outlaw Shit (feat. Shooter Jennings)",
         "url": "https://open.spotify.com/album/0wL6TUhFe9DutCDj6oIjDq"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 245046,
       "name": "Outlaw Shit (feat. Shooter Jennings)",
       "url": "https://open.spotify.com/track/1KLNhIijEB83TXz78CIK72"
-    },
-    {
-      "added_at": "2026-06-05 15:44:50",
-      "album": {
-        "name": "Love And Danger",
-        "url": "https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A"
-      },
-      "artists": [
-        {
-          "name": "Joe Ely",
-          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
-        }
-      ],
-      "duration_ms": 273533,
-      "name": "The Road Goes On Forever",
-      "url": "https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7"
     },
     {
       "added_at": "2026-06-05 15:44:50",

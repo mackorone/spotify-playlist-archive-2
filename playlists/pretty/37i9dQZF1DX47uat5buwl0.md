@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > Banger na banger\. Cover: Antoon 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,161 likes - 78 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,150 likes - 78 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

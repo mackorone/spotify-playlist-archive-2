@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Creed
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,995 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,979 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 25 | [I Hate Everything About You](https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace \(Expanded Edition\)](https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5) | 3:51 |
 | 26 | [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 |
 | 27 | [Bound For The Floor](https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [As Good As Dead](https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl) | 3:42 |
-| 28 | [Cold](https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 3:14 |
-| 29 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
+| 28 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
+| 29 | [Cold](https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 3:14 |
 | 30 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
 | 31 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
 | 32 | [If You Could Only See](https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6) | [Tonic](https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU) | [Lemon Parade](https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V) | 4:21 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 55 | [So Cold](https://open.spotify.com/track/3xXKwkmkrpZmGpIof83xbE) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Shallow Bay: The Best Of Breaking Benjamin \(Explicit\)](https://open.spotify.com/album/68pVw4aHEP73HmIufK0gvP) | 4:33 |
 | 56 | [Open Your Eyes](https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 4:58 |
 | 57 | [Shelf In The Room](https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:43 |
-| 58 | [Breakdown](https://open.spotify.com/track/6tpGF2kYnrqO0S44jKxduZ) | [Tantric](https://open.spotify.com/artist/4tMZahYVKJdjbC1GHVtNnV) | [Tantric \(U.S\. Version\-Enh'd\)](https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ) | 3:10 |
-| 59 | [Down](https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 3:48 |
+| 58 | [Down](https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 3:48 |
+| 59 | [Breakdown](https://open.spotify.com/track/6tpGF2kYnrqO0S44jKxduZ) | [Tantric](https://open.spotify.com/artist/4tMZahYVKJdjbC1GHVtNnV) | [Tantric \(U.S\. Version\-Enh'd\)](https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ) | 3:10 |
 | 60 | [For You](https://open.spotify.com/track/3gAZuCwnlRkAjcnP1Q4yzu) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 3:26 |
 | 61 | [Israel's Son](https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:18 |
 | 62 | [In Loving Memory](https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 5:40 |

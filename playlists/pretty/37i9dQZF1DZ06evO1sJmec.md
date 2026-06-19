@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,117,493 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,117,637 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 8 | [One](https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | […And Justice for All \(Remastered\)](https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1) | 7:26 |
 | 9 | [Fuel](https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 4:29 |
 | 10 | [Sad But True \- Remastered 2021](https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7h5xn0Olvx2p0eQcSt1Osy) | 5:24 |
-| 11 | [Turn The Page](https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 6:06 |
-| 12 | [Seek & Destroy \- Remastered](https://open.spotify.com/track/28WmNsclKsrVmdv3tDmoYU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 6:54 |
+| 11 | [Seek & Destroy \- Remastered](https://open.spotify.com/track/28WmNsclKsrVmdv3tDmoYU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 6:54 |
+| 12 | [Turn The Page](https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 6:06 |
 | 13 | [The Unforgiven II](https://open.spotify.com/track/6nswV1Lz3OZkaiCJfmVUOa) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 6:36 |
 | 14 | [Fade To Black \- Remastered](https://open.spotify.com/track/7866E49sLyI938dEqxi8a4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 6:57 |
 | 15 | [Wherever I May Roam \- Remastered 2021](https://open.spotify.com/track/3quYoE7KgIIaqVXPd7MpX0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered 2021\)](https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb) | 6:44 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 27 | [Lux Æterna](https://open.spotify.com/track/6eXWc7irALyENtbAD2TTOT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 3:21 |
 | 28 | [Die, Die My Darling](https://open.spotify.com/track/0t7LcUic4qolMCysPrKeAd) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 2:26 |
 | 29 | [Don't Tread on Me \- Remastered 2021](https://open.spotify.com/track/3zbLtkeCoU5LutGs8728c6) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered 2021\)](https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb) | 4:00 |
-| 30 | [I Disappear](https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [I Disappear](https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM) | 4:26 |
-| 31 | [King Nothing \- Remastered](https://open.spotify.com/track/0Qc9Bd7qzA8Vx3aSIf1t8B) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV) | 5:28 |
+| 30 | [King Nothing \- Remastered](https://open.spotify.com/track/0Qc9Bd7qzA8Vx3aSIf1t8B) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV) | 5:28 |
+| 31 | [I Disappear](https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [I Disappear](https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM) | 4:26 |
 | 32 | [The Unforgiven III](https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:46 |
 | 33 | [Of Wolf and Man \- Remastered 2021](https://open.spotify.com/track/3bxHy4sUXEWjI9kXG1DH5K) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered 2021\)](https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb) | 4:16 |
 | 34 | [...And Justice for All](https://open.spotify.com/track/4a47TNOfJ9vbpbmU31wpgT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | […And Justice for All \(Remastered\)](https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1) | 9:45 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXiKcKm21cbI>Pearl Jam</a>, <a href=spotify:playlist:37i9dQZF1EIYnCz0KRbdlN>Fuerza Regida</a>, <a href=spotify:playlist:37i9dQZF1EIViYkelREWYq>Surf Curse</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXiKcKm21cbI>Pearl Jam</a>, <a href=spotify:playlist:37i9dQZF1EIZMGq5iNDWIK>Eminem</a>, <a href=spotify:playlist:37i9dQZF1EIViYkelREWYq>Surf Curse</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 316056,
       "name": "3la 3eny",
       "url": "https://open.spotify.com/track/5Aun0pJOQFBQozav1hPpM1"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 242640,
       "name": "Aku Yang Tersakiti",
       "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 90317,
       "name": "always by myself",
       "url": "https://open.spotify.com/track/2bq3GEGfXP7S8tSQDB4Ezz"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 267610,
       "name": "Ana Ghaltan",
       "url": "https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 189567,
       "name": "Ana Meen",
       "url": "https://open.spotify.com/track/541Q0u2sHv70TzcUzuUVmy"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 323448,
       "name": "Ana Mosammem",
       "url": "https://open.spotify.com/track/0yDB9QPreJjeDynwlwZ4m2"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 151836,
       "name": "ANSIEDAD",
       "url": "https://open.spotify.com/track/1a7onn7lPqqRWul5ogyMyX"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 231823,
       "name": "Bagaimana Kalau Aku Tidak Baik Baik Saja",
       "url": "https://open.spotify.com/track/2E5GSNzN4NRoS3SBtdMqUR"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 288256,
       "name": "Belum Siap Kehilangan",
       "url": "https://open.spotify.com/track/7oYoYAW4JrMGnq241xhQj4"
@@ -6393,6 +6393,24 @@
     },
     {
       "album": {
+        "name": "Hamara Jingi Me Aake",
+        "url": "https://open.spotify.com/album/3LLfzQXCUJCZGXuYE88T7R"
+      },
+      "artists": [
+        {
+          "name": "Pawan Singh",
+          "url": "https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240268,
+      "name": "Hamara Jingi Me Aake",
+      "url": "https://open.spotify.com/track/0K25mT8jCPzXdTR2stFkqX"
+    },
+    {
+      "album": {
         "name": "Hanju",
         "url": "https://open.spotify.com/album/5WOh8BWk78FhbsZZlIG6O9"
       },
@@ -7782,7 +7800,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 164678,
       "name": "If I Died Last Night",
       "url": "https://open.spotify.com/track/4NpFdj4CHgVSoQ32yHVmNL"
@@ -8928,7 +8946,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 169732,
       "name": "Konty 2olely",
       "url": "https://open.spotify.com/track/2BMlZ6PzoAU90qm8yIGWMK"
@@ -9018,7 +9036,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 208336,
       "name": "L'\u00e2me du phoenix",
       "url": "https://open.spotify.com/track/1rmu9NFsa2warBZtKgzvqn"
@@ -10750,7 +10768,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 268500,
       "name": "Meen Kan Sabab",
       "url": "https://open.spotify.com/track/5v9jwJsiS768F1YgNtUg1W"
@@ -10876,7 +10894,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 248066,
       "name": "Mengejar Mimpi",
       "url": "https://open.spotify.com/track/7DYQu1YIeFbQtBXBEOLfC5"
@@ -10966,7 +10984,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 175911,
       "name": "Mesh Nadman",
       "url": "https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J"
@@ -11212,7 +11230,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -12300,7 +12318,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 232893,
       "name": "Only Love Can Hurt Like This",
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
@@ -14604,7 +14622,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 243724,
       "name": "Sial",
       "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
@@ -14730,7 +14748,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 254863,
       "name": "Sisa Rasa",
       "url": "https://open.spotify.com/track/0R6KCq5TLJB3gi2ragMrXZ"
@@ -17402,7 +17420,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/4SwSpxsOYtnEaRxWtYrnvZ"
@@ -19156,7 +19174,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 225226,
       "name": "\u062a\u064a\u062c\u064a \u0646\u0633\u064a\u0628",
       "url": "https://open.spotify.com/track/0hZaYE3a53y2VbZq85MceM"

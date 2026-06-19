@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Вселенная бесконечна?](https://open.spotify.com/track/5bkfPKnHLi6AUP3fJA5Xf5) | [Noize MC](https://open.spotify.com/artist/69v4ZOOomf1TNp59YYB1j7) | [Новый альбом](https://open.spotify.com/album/5O0lvSqOB9IEmHyKsYppAn) | 4:20 |
 | 50 | [Время](https://open.spotify.com/track/7qTNNLNMIUEImA7bbRHVbE) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 3:38 |
 
-Snapshot ID: `McYZWAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `McdviAAAAAAAAAAAAAAAAAAAAAAAAGVu`

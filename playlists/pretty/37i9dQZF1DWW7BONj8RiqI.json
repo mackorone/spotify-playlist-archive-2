@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Voice",
-  "num_followers": 247842,
+  "num_followers": 247870,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 257921,
-      "name": "Encore",
-      "url": "https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Same 24 Riddim",
         "url": "https://open.spotify.com/album/67TEiUfvHYKELLyVKQGgjB"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 158250,
       "name": "Payroll",
       "url": "https://open.spotify.com/track/3XTjtCEfZ34xMua70IK01m"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 257921,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -739,26 +739,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Alien Head Riddim",
-        "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
-      },
-      "artists": [
-        {
-          "name": "V'ghn",
-          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
-        },
-        {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Explore",
-      "url": "https://open.spotify.com/track/177934bysEv1ssIn65AAJy"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "King Bubba Mashup, Vol. 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 159013,
       "name": "Monster Winer",
       "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Alien Head Riddim",
+        "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
+      },
+      "artists": [
+        {
+          "name": "V'ghn",
+          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Explore",
+      "url": "https://open.spotify.com/track/177934bysEv1ssIn65AAJy"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Lambadas Internacionais - As Melhores",
         "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 258666,
       "name": "Hot-Hot-Hot",
       "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1087,22 +1087,22 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "One Degree Hotter",
-        "url": "https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG"
+        "name": "Blockbuster Riddim",
+        "url": "https://open.spotify.com/album/4SJV6OFqadRJCroiyZJ2Rr"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+          "name": "Full Blown",
+          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
         }
       ],
-      "duration_ms": 158413,
-      "name": "Fling It Up",
-      "url": "https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b"
+      "duration_ms": 197607,
+      "name": "One For The Team",
+      "url": "https://open.spotify.com/track/1hEcR23cJ3K9GRlEPsvavJ"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Blockbuster Riddim",
-        "url": "https://open.spotify.com/album/4SJV6OFqadRJCroiyZJ2Rr"
+        "name": "One Degree Hotter",
+        "url": "https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG"
       },
       "artists": [
         {
-          "name": "Full Blown",
-          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         },
         {
-          "name": "Tano",
-          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 197607,
-      "name": "One For The Team",
-      "url": "https://open.spotify.com/track/1hEcR23cJ3K9GRlEPsvavJ"
+      "duration_ms": 158413,
+      "name": "Fling It Up",
+      "url": "https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Retro Fete Riddim",
-        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        }
-      ],
-      "duration_ms": 152624,
-      "name": "Party Nice",
-      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Long Live Soca",
         "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 225251,
       "name": "Long Live Soca",
       "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Retro Fete Riddim",
+        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 152624,
+      "name": "Party Nice",
+      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 167019,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
         "name": "Front Yard Wet",
         "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 233116,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 167019,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Soak It Good",
-        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
-      },
-      "artists": [
-        {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "Soak It Good",
-      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Search Party",
         "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 206609,
       "name": "Search Party",
       "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Soak It Good",
+        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "Soak It Good",
+      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1679,26 +1679,6 @@
       "duration_ms": 207034,
       "name": "Dingolay",
       "url": "https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
-        "name": "Lose Weight",
-        "url": "https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF"
-      },
-      "artists": [
-        {
-          "name": "Sackie",
-          "url": "https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh"
-        },
-        {
-          "name": "System32",
-          "url": "https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20"
-        }
-      ],
-      "duration_ms": 167999,
-      "name": "Lose Weight",
-      "url": "https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1735,6 +1715,26 @@
       "duration_ms": 188372,
       "name": "Who Drinking Rum?",
       "url": "https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Lose Weight",
+        "url": "https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF"
+      },
+      "artists": [
+        {
+          "name": "Sackie",
+          "url": "https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh"
+        },
+        {
+          "name": "System32",
+          "url": "https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20"
+        }
+      ],
+      "duration_ms": 167999,
+      "name": "Lose Weight",
+      "url": "https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46"
     },
     {
       "added_at": "2026-05-30 05:52:43",

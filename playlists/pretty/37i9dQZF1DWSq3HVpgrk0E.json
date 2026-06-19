@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: Latto",
-  "num_followers": 270768,
+  "num_followers": 270756,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,26 @@
     {
       "added_at": "2026-05-29 04:01:26",
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "GOOD CREDIT (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
+    },
+    {
+      "added_at": "2026-05-29 04:01:26",
+      "album": {
         "name": "One of Them",
         "url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 204377,
       "name": "One of Them (with Future & Lil Baby)",
       "url": "https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M"
-    },
-    {
-      "added_at": "2026-05-29 04:01:26",
-      "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "GOOD CREDIT (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
     },
     {
       "added_at": "2026-05-29 04:01:26",

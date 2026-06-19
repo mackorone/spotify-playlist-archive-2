@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 
 > De allerbeste songs van de 10's! Cover: Martin Garrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,421 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,419 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 | 53 | [Hold Back The River](https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 3:58 |
 | 54 | [I Won't Give Up](https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 4:00 |
 | 55 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 |
-| 56 | [The Ocean \(feat\. Shy Martin\)](https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [The Ocean \(feat\. Shy Martin\)](https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe) | 3:03 |
-| 57 | [Be the One](https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Be the One](https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP) | 3:22 |
+| 56 | [Be the One](https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Be the One](https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP) | 3:22 |
+| 57 | [The Ocean \(feat\. Shy Martin\)](https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [The Ocean \(feat\. Shy Martin\)](https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe) | 3:03 |
 | 58 | [Wherever I Go](https://open.spotify.com/track/46jLy47W8rkf8rEX04gMKB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My \(Deluxe\)](https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv) | 2:49 |
 | 59 | [Airplanes \(feat\. Hayley Williams of Paramore\)](https://open.spotify.com/track/1QnvpPFP4Q3FHbDchqWiWy) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/6f06neONZ0xqqftlgtVP74) | 3:00 |
 | 60 | [A Head Full of Dreams](https://open.spotify.com/track/6f49kbOuQSOsStBpyGvQfA) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 3:43 |

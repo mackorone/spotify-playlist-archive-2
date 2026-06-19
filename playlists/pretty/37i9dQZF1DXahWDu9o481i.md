@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Alvaro Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,036 likes - 63 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,082 likes - 63 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 34 | [usher in the spirit](https://open.spotify.com/track/7mbRGvaiD1NCDAIDqErCBT) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i) | [usher in the spirit](https://open.spotify.com/album/4SgKrliseSqVRxEFD6INPy) | 3:00 |
 | 35 | [Run away with me](https://open.spotify.com/track/6LT3c2tVapQRzHQSne8gYI) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Run away with me](https://open.spotify.com/album/2ZOVj0KkuAxyKh9Dxonjof) | 3:58 |
 | 36 | [Free Wheeling](https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Free Wheeling](https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3) | 3:49 |
-| 37 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
-| 38 | [War Over Land](https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [War Over Land](https://open.spotify.com/album/00hlYRC7F3voGuZqhf5fG2) | 2:54 |
-| 39 | [Daisies](https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daisies](https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv) | 3:43 |
-| 40 | [Destiny](https://open.spotify.com/track/3T61iS2oR14n5GY9WMoZaw) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK) | [Paradise](https://open.spotify.com/album/6hWrYqqI8mLlsRhS8alGYU) | 2:41 |
+| 37 | [Destiny](https://open.spotify.com/track/3T61iS2oR14n5GY9WMoZaw) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK) | [Paradise](https://open.spotify.com/album/6hWrYqqI8mLlsRhS8alGYU) | 2:41 |
+| 38 | [Daisies](https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daisies](https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv) | 3:43 |
+| 39 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
+| 40 | [War Over Land](https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [War Over Land](https://open.spotify.com/album/00hlYRC7F3voGuZqhf5fG2) | 2:54 |
 | 41 | [Together \(feat\. Nikki Nair, Jessy Lanza & Prentiss\)](https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [Together \(feat\. Nikki Nair, Jessy Lanza & Prentiss\)](https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l) | 3:18 |
 | 42 | [Antes De Ti](https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Antes De Ti](https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF) | 2:56 |
 | 43 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
 | 44 | [New Muscles](https://open.spotify.com/track/4i1PwZv3CJ4CV0vEZ69rzE) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [New Muscles](https://open.spotify.com/album/2N2LCCVDf8LDxolIYNAK3J) | 3:54 |
-| 45 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
-| 46 | [APPETITE](https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [APPETITE](https://open.spotify.com/album/01eQX7mtZbpWuEjsV9Hizf) | 3:29 |
+| 45 | [APPETITE](https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [APPETITE](https://open.spotify.com/album/01eQX7mtZbpWuEjsV9Hizf) | 3:29 |
+| 46 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
 | 47 | [tarmac](https://open.spotify.com/track/5j7FkMakactsB2IGYqaVd2) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [c r e a t u r e s](https://open.spotify.com/album/3iTHx4S0UyjWtpJmU40Jko) | 3:47 |
 | 48 | [Real Here Now](https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Real Here Now / Water](https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp) | 5:00 |
 | 49 | [Cowtown](https://open.spotify.com/track/7DUY3Wlp4poHYuzxRGVvXo) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Little Wide Open](https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U) | 3:26 |

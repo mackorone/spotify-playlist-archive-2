@@ -1,32 +1,28 @@
 {
   "description": "A warm glittering glow of ambient jazz.",
-  "num_followers": 7655,
+  "num_followers": 7705,
   "original_name": "Twinkly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADIq7xjSyZ/44IxDsJ/Eh6v2lJd5",
+  "snapshot_id": "AAAAAPdxyypMmm86Tcst9bxltb8sENE2",
   "tracks": [
     {
-      "added_at": "2026-05-29 04:01:26",
+      "added_at": "2026-06-19 04:00:23",
       "album": {
-        "name": "The Earth in All Conscience",
-        "url": "https://open.spotify.com/album/0JXPckfq0Ekam7IJSs7hLA"
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/7r8WcFH2Vgxb5cNNOgb6o3"
       },
       "artists": [
         {
-          "name": "Nomieye",
-          "url": "https://open.spotify.com/artist/73REFXumc5pTpOp6xYJ2Ta"
-        },
-        {
-          "name": "Rosie Turton",
-          "url": "https://open.spotify.com/artist/5XhOg4JXERUGJbf6DQTPdT"
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
         }
       ],
-      "duration_ms": 268000,
-      "name": "The Earth in All Conscience",
-      "url": "https://open.spotify.com/track/4KfGOzIoWxlInD9SC5shSZ"
+      "duration_ms": 315827,
+      "name": "Azimuth (John Taylor)",
+      "url": "https://open.spotify.com/track/6lxxvqCJT0Bbd7i919biu1"
     },
     {
       "added_at": "2026-03-27 13:30:14",
@@ -47,6 +43,34 @@
       "duration_ms": 214573,
       "name": "#96 Monday, June 22, 2020 in B (feat. Adam Schatz)",
       "url": "https://open.spotify.com/track/6uJhTbHVijWuirNiUxUCQQ"
+    },
+    {
+      "added_at": "2026-06-19 04:00:23",
+      "album": {
+        "name": "Kasper Bj\u00f8rke Quartet: Passages In Time",
+        "url": "https://open.spotify.com/album/2BoEjOWSgkpsQZrsCsukFQ"
+      },
+      "artists": [
+        {
+          "name": "Kasper Bj\u00f8rke",
+          "url": "https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp"
+        },
+        {
+          "name": "Langstrakt",
+          "url": "https://open.spotify.com/artist/5bxnRnhjdhinmUwndSYYW9"
+        },
+        {
+          "name": "Anna Roemer",
+          "url": "https://open.spotify.com/artist/4SLr8zwHAWYsXrVsTQsBCq"
+        },
+        {
+          "name": "Malthe Kaptain",
+          "url": "https://open.spotify.com/artist/1VWcCqTydUGrb2JfcAsWqL"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Passage IV (watching you quietly eat an apple in the shade)",
+      "url": "https://open.spotify.com/track/1T9kcwHWvD9Sv58RKusGm9"
     },
     {
       "added_at": "2026-02-27 18:01:11",
@@ -73,6 +97,22 @@
       "url": "https://open.spotify.com/track/2ZB1ms89d3xpy92gvTDQC5"
     },
     {
+      "added_at": "2026-05-29 04:01:26",
+      "album": {
+        "name": "Of The Earth",
+        "url": "https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        }
+      ],
+      "duration_ms": 202723,
+      "name": "A Future Untold",
+      "url": "https://open.spotify.com/track/63jNzoFz5BpQw5bnD5kKzf"
+    },
+    {
       "added_at": "2026-04-17 04:02:42",
       "album": {
         "name": "Notes",
@@ -93,20 +133,40 @@
       "url": "https://open.spotify.com/track/5pQKBVWIIr5gyWNcJkz1S0"
     },
     {
-      "added_at": "2026-05-29 04:01:26",
+      "added_at": "2026-06-19 04:00:23",
       "album": {
-        "name": "Of The Earth",
-        "url": "https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ"
+        "name": "Unusual Object",
+        "url": "https://open.spotify.com/album/4fRgDwDwRmTwK7s0PhI9DA"
       },
       "artists": [
         {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
         }
       ],
-      "duration_ms": 202723,
-      "name": "A Future Untold",
-      "url": "https://open.spotify.com/track/63jNzoFz5BpQw5bnD5kKzf"
+      "duration_ms": 121106,
+      "name": "Deep Dark",
+      "url": "https://open.spotify.com/track/7lNTOULiGKU2MwFrZac2iO"
+    },
+    {
+      "added_at": "2026-05-29 04:01:26",
+      "album": {
+        "name": "The Earth in All Conscience",
+        "url": "https://open.spotify.com/album/0JXPckfq0Ekam7IJSs7hLA"
+      },
+      "artists": [
+        {
+          "name": "Nomieye",
+          "url": "https://open.spotify.com/artist/73REFXumc5pTpOp6xYJ2Ta"
+        },
+        {
+          "name": "Rosie Turton",
+          "url": "https://open.spotify.com/artist/5XhOg4JXERUGJbf6DQTPdT"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Earth in All Conscience",
+      "url": "https://open.spotify.com/track/4KfGOzIoWxlInD9SC5shSZ"
     },
     {
       "added_at": "2026-02-27 18:01:11",
@@ -123,6 +183,74 @@
       "duration_ms": 214175,
       "name": "In This & Every Life",
       "url": "https://open.spotify.com/track/1Cie5gpYr6CrxHQ0avCSbz"
+    },
+    {
+      "added_at": "2026-06-19 04:00:23",
+      "album": {
+        "name": "Perpetual Care",
+        "url": "https://open.spotify.com/album/4dwbddU1EGBZHnBGa8ZVvY"
+      },
+      "artists": [
+        {
+          "name": "Early Fern",
+          "url": "https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE"
+        },
+        {
+          "name": "Joseph Shabason",
+          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
+        }
+      ],
+      "duration_ms": 194047,
+      "name": "Softly Brushed By Wind",
+      "url": "https://open.spotify.com/track/7iGPaBw2VktU1pZYZYdJ9A"
+    },
+    {
+      "added_at": "2026-02-27 18:01:11",
+      "album": {
+        "name": "Mode for Titan",
+        "url": "https://open.spotify.com/album/0z3CNJzO983wSHplpAzhqU"
+      },
+      "artists": [
+        {
+          "name": "Josh Werner",
+          "url": "https://open.spotify.com/artist/13qZX8hhRdi7XgzlpVwoqS"
+        }
+      ],
+      "duration_ms": 131413,
+      "name": "Quiet Star",
+      "url": "https://open.spotify.com/track/6HeJ0i9MqKOCOB0kZsJ0NM"
+    },
+    {
+      "added_at": "2026-05-29 04:01:26",
+      "album": {
+        "name": "What It's Like to Be a Bat",
+        "url": "https://open.spotify.com/album/1TXvMAz0oy5OOXpJeKO4Q3"
+      },
+      "artists": [
+        {
+          "name": "Finn Streuper",
+          "url": "https://open.spotify.com/artist/2jdZoyP2r6yqSLtzkezIos"
+        }
+      ],
+      "duration_ms": 121615,
+      "name": "What It's Like to Be a Bat 3",
+      "url": "https://open.spotify.com/track/65E2BaUjlGExI829X3OKro"
+    },
+    {
+      "added_at": "2026-02-27 18:01:11",
+      "album": {
+        "name": "Clear Path Ensemble",
+        "url": "https://open.spotify.com/album/1jVhxi3l37YhFbyOcgYnaa"
+      },
+      "artists": [
+        {
+          "name": "Clear Path Ensemble",
+          "url": "https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W"
+        }
+      ],
+      "duration_ms": 213276,
+      "name": "Inner Space",
+      "url": "https://open.spotify.com/track/3ITx6f9Vc0O1rsAXgZquHR"
     },
     {
       "added_at": "2026-05-08 04:05:13",
@@ -175,22 +303,6 @@
     {
       "added_at": "2026-02-27 18:01:11",
       "album": {
-        "name": "Mode for Titan",
-        "url": "https://open.spotify.com/album/0z3CNJzO983wSHplpAzhqU"
-      },
-      "artists": [
-        {
-          "name": "Josh Werner",
-          "url": "https://open.spotify.com/artist/13qZX8hhRdi7XgzlpVwoqS"
-        }
-      ],
-      "duration_ms": 131413,
-      "name": "Quiet Star",
-      "url": "https://open.spotify.com/track/6HeJ0i9MqKOCOB0kZsJ0NM"
-    },
-    {
-      "added_at": "2026-02-27 18:01:11",
-      "album": {
         "name": "Resavoir",
         "url": "https://open.spotify.com/album/2Uw4MweEcRO4UwKRNM5biI"
       },
@@ -223,22 +335,6 @@
     {
       "added_at": "2026-02-27 18:01:11",
       "album": {
-        "name": "Clear Path Ensemble",
-        "url": "https://open.spotify.com/album/1jVhxi3l37YhFbyOcgYnaa"
-      },
-      "artists": [
-        {
-          "name": "Clear Path Ensemble",
-          "url": "https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W"
-        }
-      ],
-      "duration_ms": 213276,
-      "name": "Inner Space",
-      "url": "https://open.spotify.com/track/3ITx6f9Vc0O1rsAXgZquHR"
-    },
-    {
-      "added_at": "2026-02-27 18:01:11",
-      "album": {
         "name": "Geisterfaust",
         "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
       },
@@ -251,22 +347,6 @@
       "duration_ms": 486506,
       "name": "Daumen",
       "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
-    },
-    {
-      "added_at": "2026-05-29 04:01:26",
-      "album": {
-        "name": "What It's Like to Be a Bat",
-        "url": "https://open.spotify.com/album/1TXvMAz0oy5OOXpJeKO4Q3"
-      },
-      "artists": [
-        {
-          "name": "Finn Streuper",
-          "url": "https://open.spotify.com/artist/2jdZoyP2r6yqSLtzkezIos"
-        }
-      ],
-      "duration_ms": 121615,
-      "name": "What It's Like to Be a Bat 3",
-      "url": "https://open.spotify.com/track/65E2BaUjlGExI829X3OKro"
     },
     {
       "added_at": "2026-05-08 04:05:13",
@@ -375,6 +455,22 @@
     {
       "added_at": "2026-02-27 18:01:11",
       "album": {
+        "name": "Twin Peaks (Limited Event Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4dN8VmiUt9WVPDSReLWBvJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jewel",
+          "url": "https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "Windswept - Reprise",
+      "url": "https://open.spotify.com/track/0wBYMy6HFpLG7V7063GIT3"
+    },
+    {
+      "added_at": "2026-02-27 18:01:11",
+      "album": {
         "name": "The Blue of Distance",
         "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
       },
@@ -387,30 +483,6 @@
       "duration_ms": 152216,
       "name": "Wave I",
       "url": "https://open.spotify.com/track/0XUveuz26OSQAnOvaAuAzz"
-    },
-    {
-      "added_at": "2026-02-27 18:01:11",
-      "album": {
-        "name": "Uhlmann Johnson Wilkes",
-        "url": "https://open.spotify.com/album/5BoARvlCqrzxSk3pURO57c"
-      },
-      "artists": [
-        {
-          "name": "Gregory Uhlmann",
-          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
-        },
-        {
-          "name": "Josh Johnson",
-          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
-        },
-        {
-          "name": "Sam Wilkes",
-          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
-        }
-      ],
-      "duration_ms": 125586,
-      "name": "Fields",
-      "url": "https://open.spotify.com/track/73jD86vayrwEMbbnO029U8"
     },
     {
       "added_at": "2026-03-13 02:00:01",
@@ -443,22 +515,6 @@
       "duration_ms": 409411,
       "name": "Loop Trail",
       "url": "https://open.spotify.com/track/13zGXOqR3fdwZwQWLNixqt"
-    },
-    {
-      "added_at": "2026-02-27 18:01:11",
-      "album": {
-        "name": "Twin Peaks (Limited Event Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4dN8VmiUt9WVPDSReLWBvJ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jewel",
-          "url": "https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR"
-        }
-      ],
-      "duration_ms": 233826,
-      "name": "Windswept - Reprise",
-      "url": "https://open.spotify.com/track/0wBYMy6HFpLG7V7063GIT3"
     },
     {
       "added_at": "2026-02-27 18:01:11",
@@ -607,26 +663,6 @@
       "duration_ms": 195999,
       "name": "Mouthfeel 5",
       "url": "https://open.spotify.com/track/74LYZXodoSeEWlEPH3iOfO"
-    },
-    {
-      "added_at": "2026-03-27 13:30:14",
-      "album": {
-        "name": "Dolphin",
-        "url": "https://open.spotify.com/album/42VA6bD2NLwgBKkFWjN4dw"
-      },
-      "artists": [
-        {
-          "name": "Greg Foat",
-          "url": "https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0"
-        },
-        {
-          "name": "Gigi Masin",
-          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
-        }
-      ],
-      "duration_ms": 119426,
-      "name": "Dolphin",
-      "url": "https://open.spotify.com/track/69zNrY3UliX4oLY6gIsY63"
     },
     {
       "added_at": "2026-04-17 04:02:42",
@@ -791,22 +827,6 @@
     {
       "added_at": "2026-02-27 18:01:11",
       "album": {
-        "name": "Aytche",
-        "url": "https://open.spotify.com/album/5dArEEtokoCG3ycxekhFuc"
-      },
-      "artists": [
-        {
-          "name": "Joseph Shabason",
-          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Looking Forward to Something, Dude",
-      "url": "https://open.spotify.com/track/5Zy5Ibs37sbDaVvxv6w2uA"
-    },
-    {
-      "added_at": "2026-02-27 18:01:11",
-      "album": {
         "name": "Smartwoods",
         "url": "https://open.spotify.com/album/6glgu7cwgVkrIpdcYUT0xF"
       },
@@ -871,22 +891,6 @@
       "duration_ms": 180000,
       "name": "Her Coming In",
       "url": "https://open.spotify.com/track/5y3IuJJpEYKJrLP4Wrfr6t"
-    },
-    {
-      "added_at": "2026-05-29 04:01:26",
-      "album": {
-        "name": "New Blue Sun",
-        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 402473,
-      "name": "Ants To You, Gods To Who ?",
-      "url": "https://open.spotify.com/track/1M4x0ug19s7nSFYzjhBKTI"
     },
     {
       "added_at": "2026-02-27 18:01:11",

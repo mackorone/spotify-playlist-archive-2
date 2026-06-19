@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 
 > Noi e il tuo specchio non ti giudicheremo mai, promesso 🤞🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,537 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,557 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 37 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 38 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
 | 39 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 |
-| 40 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 |
-| 41 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
+| 40 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
+| 41 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 |
 | 42 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 3:22 |
 | 43 | [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 |
 | 44 | [Nevermind](https://open.spotify.com/track/63SevszngYpZOwf63o61K4) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Nevermind](https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch) | 2:36 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 81 | [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:55 |
 | 82 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 |
 | 83 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
-| 84 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
-| 85 | [La Nuova Stella Di Broadway](https://open.spotify.com/track/3qtuOAI0YyfoBM1s7Tvm46) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [La Teoria Dei Colori](https://open.spotify.com/album/3OpmNTT7hIZMoO9NNcKnmz) | 4:27 |
+| 84 | [La Nuova Stella Di Broadway](https://open.spotify.com/track/3qtuOAI0YyfoBM1s7Tvm46) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [La Teoria Dei Colori](https://open.spotify.com/album/3OpmNTT7hIZMoO9NNcKnmz) | 4:27 |
+| 85 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
 | 86 | [Leave a Light On](https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Leave a Light On](https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8) | 3:05 |
 | 87 | [È sempre bello](https://open.spotify.com/track/4Wcrw9554hxM1Gk8Pl4Cyi) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T) | 3:23 |
 | 88 | [Born To Be Yours](https://open.spotify.com/track/0kHyKhJMukHEPfeh8s7rdM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Born To Be Yours](https://open.spotify.com/album/31J0UqxAkl9utyC0L59Mae) | 3:13 |

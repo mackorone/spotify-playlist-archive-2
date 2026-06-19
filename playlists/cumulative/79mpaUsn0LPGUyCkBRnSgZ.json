@@ -8176,7 +8176,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 246573,
       "name": "I Ate the Most",
       "url": "https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ"
@@ -8284,7 +8284,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 178933,
       "name": "I Got Heaven",
       "url": "https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG"
@@ -15208,7 +15208,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
@@ -16776,6 +16776,28 @@
       "duration_ms": 555402,
       "name": "Springtime Again",
       "url": "https://open.spotify.com/track/1IMbKfMzGyFK4WxsMy9xRF"
+    },
+    {
+      "album": {
+        "name": "Shut Up I Am Dreaming",
+        "url": "https://open.spotify.com/album/0gCDLm62qhfpyBicm0AFsh"
+      },
+      "artists": [
+        {
+          "name": "Sunset Rubdown",
+          "url": "https://open.spotify.com/artist/4kmq4NmMAD2EB24v6Il3qr"
+        },
+        {
+          "name": "Spencer Krug",
+          "url": "https://open.spotify.com/artist/57ebZKL4lpVlngdaBDuQYG"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "Stadiums and Shrines II",
+      "url": "https://open.spotify.com/track/1i0xJdgk6OZnBm63kMidof"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10433,
+  "num_followers": 10435,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAAAwneO98DF4BgQyvC3Fmk2",
+  "snapshot_id": "ajHjgAAAAAAipZJ7+PH68/jA22cxUmxF",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Mi Pueblo",
+        "url": "https://open.spotify.com/album/0Kq5vvguGWYRyftSzsr7eI"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 232150,
+      "name": "Me Ha Llegado el Amor",
+      "url": "https://open.spotify.com/track/31j4yUg8cOyaoSeM104lRf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tus Ojos",
         "url": "https://open.spotify.com/album/07rSAB08YbmKQguYLh2SZH"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 140936,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/74nRRMnv0pFJyOFFN2rkwB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Mi Pueblo",
-        "url": "https://open.spotify.com/album/0Kq5vvguGWYRyftSzsr7eI"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 232150,
-      "name": "Me Ha Llegado el Amor",
-      "url": "https://open.spotify.com/track/31j4yUg8cOyaoSeM104lRf"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De la Tierra al Cielo VII",
-        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 187036,
-      "name": "Nuestro Amor Es Grande",
-      "url": "https://open.spotify.com/track/4vLBtIwx14pBMasSo7DTNc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 195291,
       "name": "Cien Anos",
       "url": "https://open.spotify.com/track/0XmHMVZqUcIEGEFwNWcB2L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De la Tierra al Cielo VII",
+        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 187036,
+      "name": "Nuestro Amor Es Grande",
+      "url": "https://open.spotify.com/track/4vLBtIwx14pBMasSo7DTNc"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "Dulce Morena",
-      "url": "https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 206236,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/1ml853VvNJ960JkbfHSvyN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "Dulce Morena",
+      "url": "https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiranos del Norte",
-        "url": "https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 197825,
-      "name": "Matame a Besos",
-      "url": "https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 195004,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/0yaZWlPAoBm3iyQa8F3k4X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiranos del Norte",
+        "url": "https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 197825,
+      "name": "Matame a Besos",
+      "url": "https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 230034,
-      "name": "Echame a Mi la Culpa",
-      "url": "https://open.spotify.com/track/15Wl0VlBhm5BgjhSTTIfms"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 164728,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 230034,
+      "name": "Echame a Mi la Culpa",
+      "url": "https://open.spotify.com/track/15Wl0VlBhm5BgjhSTTIfms"
     },
     {
       "added_at": null,

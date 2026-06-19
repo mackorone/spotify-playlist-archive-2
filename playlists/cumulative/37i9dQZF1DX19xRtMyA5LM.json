@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tracks in WS\u2757\ufe0fCover: D-Double & Boef",
+  "description": "De beste tracks in WS\u2757\ufe0fCover: Henkie T & KM",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 154105,
       "name": "100 Bricks",
       "url": "https://open.spotify.com/track/5SRPUVySafCOS7RZC8TbHn"
+    },
+    {
+      "album": {
+        "name": "100 bricks",
+        "url": "https://open.spotify.com/album/3v8cVjf0mzfSvtybfGn0UI"
+      },
+      "artists": [
+        {
+          "name": "Bastosz",
+          "url": "https://open.spotify.com/artist/6CtxmUMNLxhOEPh1S1mY4g"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170793,
+      "name": "100 bricks",
+      "url": "https://open.spotify.com/track/79V0ak67W2S4Rqjh4QLxqn"
     },
     {
       "album": {
@@ -3266,7 +3284,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 240191,
       "name": "GLOCK 19",
       "url": "https://open.spotify.com/track/15DGsUrXFHNFDsXW3eWjqV"
@@ -3340,7 +3358,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 248582,
       "name": "GONE",
       "url": "https://open.spotify.com/track/3kUrWJ7aPrqccdLri2336G"
@@ -3850,7 +3868,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 145200,
       "name": "HERMES SLIDE",
       "url": "https://open.spotify.com/track/3sSvWm5dXOOf4ZdbMGAPQ6"
@@ -4290,6 +4308,28 @@
       "duration_ms": 208695,
       "name": "is Het VANDAAG?!",
       "url": "https://open.spotify.com/track/0XrL0frR5SXrBk9OnBXOBK"
+    },
+    {
+      "album": {
+        "name": "IT\u2019S US",
+        "url": "https://open.spotify.com/album/2Agk8fhkC1FZCHq6GZGJtq"
+      },
+      "artists": [
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194407,
+      "name": "IT\u2019S US",
+      "url": "https://open.spotify.com/track/0VK82DF3bZEh8tVQY71Nev"
     },
     {
       "album": {
@@ -7525,6 +7565,24 @@
     },
     {
       "album": {
+        "name": "Proost Op Het Leven",
+        "url": "https://open.spotify.com/album/0PISbtFRpYjdYhSBqQekIx"
+      },
+      "artists": [
+        {
+          "name": "Machario",
+          "url": "https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157998,
+      "name": "Proost Op Het Leven",
+      "url": "https://open.spotify.com/track/0hTV3lLhIz6vqCI6ld4ekO"
+    },
+    {
+      "album": {
         "name": "F*CK KLEINE",
         "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
       },
@@ -7602,6 +7660,28 @@
       "duration_ms": 128000,
       "name": "Queen Treatment",
       "url": "https://open.spotify.com/track/7Haxic1q7JdJEMPYQtRnGj"
+    },
+    {
+      "album": {
+        "name": "R&B SH*T",
+        "url": "https://open.spotify.com/album/7LNisNMZx8RErvkiqSaKac"
+      },
+      "artists": [
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169591,
+      "name": "R&B SH*T",
+      "url": "https://open.spotify.com/track/7m8PKvUkxutSYHsXOyY68Q"
     },
     {
       "album": {
@@ -9236,7 +9316,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 148453,
       "name": "Uit Het Niets",
       "url": "https://open.spotify.com/track/3ugJq8KYunDGQq3Ss9VoFC"
@@ -9955,6 +10035,60 @@
     },
     {
       "album": {
+        "name": "OM DE TAFEL",
+        "url": "https://open.spotify.com/album/7v2C0BOh9nhvgrtULvW5HR"
+      },
+      "artists": [
+        {
+          "name": "Hekje31",
+          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
+        },
+        {
+          "name": "JayKoppig",
+          "url": "https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp"
+        },
+        {
+          "name": "Drechter",
+          "url": "https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj"
+        },
+        {
+          "name": "Fearblow",
+          "url": "https://open.spotify.com/artist/35xHCzQHAXuCWut0PxO793"
+        },
+        {
+          "name": "RResstante",
+          "url": "https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC"
+        },
+        {
+          "name": "Jboy",
+          "url": "https://open.spotify.com/artist/4gnrUR8Vc4nUDD4uot0jx2"
+        },
+        {
+          "name": "K\u20ac\u20ac",
+          "url": "https://open.spotify.com/artist/6ZtnGpeyUm3xIDtFFPOfCa"
+        },
+        {
+          "name": "JohnDo",
+          "url": "https://open.spotify.com/artist/5wGY8QCD4Fp8s8jB9YYcdX"
+        },
+        {
+          "name": "Gettalot",
+          "url": "https://open.spotify.com/artist/3Ah2w3vVoguN5RdBDeyXPc"
+        },
+        {
+          "name": "Rseis",
+          "url": "https://open.spotify.com/artist/5xwEnl3D1t6Y03Mr1YsibX"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227571,
+      "name": "Welcome To The 6",
+      "url": "https://open.spotify.com/track/3yaI4tfo3pqMdHkQjaV0lt"
+    },
+    {
+      "album": {
         "name": "Wesh Cousin",
         "url": "https://open.spotify.com/album/4tnokmedox83g5ZqRmECDw"
       },
@@ -10062,7 +10196,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 163333,
       "name": "Wie Is De Man?!",
       "url": "https://open.spotify.com/track/0HWTnq9abLkyN9noktT4es"

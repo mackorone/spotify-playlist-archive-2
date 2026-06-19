@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 39186,
+  "num_followers": 39194,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAADp6Us807NjE3kpu1vZqPtE",
+  "snapshot_id": "ajHjgAAAAADZ2GXMncxBiBTNTEFDKPqd",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "The Whole Town's Laughing at Me",
-      "url": "https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TP (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 332866,
       "name": "Feel the Fire",
       "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "The Whole Town's Laughing at Me",
+      "url": "https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven Only Knows",
-        "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "I Want My Baby Back",
-      "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teddy Pendergrass",
         "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 311933,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven Only Knows",
+        "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "I Want My Baby Back",
+      "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "You Can't Hide from Yourself",
+      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 449426,
       "name": "Be for Real (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/2xxe3FVwBs4iBbPpcVJUlQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "You Can't Hide from Yourself",
-      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe In Love",
-        "url": "https://open.spotify.com/album/1XeZv5r6fvi3lT9vTKNGjN"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "Believe In Love - Phat Phili Mix",
-      "url": "https://open.spotify.com/track/2Rz1tf1gORr5LGGCP4sVyp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 210186,
       "name": "Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe In Love",
+        "url": "https://open.spotify.com/album/1XeZv5r6fvi3lT9vTKNGjN"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "Believe In Love - Phat Phili Mix",
+      "url": "https://open.spotify.com/track/2Rz1tf1gORr5LGGCP4sVyp"
     }
   ],
   "unique_name": "This Is Teddy Pendergrass",

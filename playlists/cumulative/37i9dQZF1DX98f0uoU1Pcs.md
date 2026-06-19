@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [16/25](https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [16/25](https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9) | 2:31 | 2025-09-12 | 2026-06-18 |
+| [16/25](https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [16/25](https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9) | 2:31 | 2025-09-12 |  |
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-02-25 | 2022-06-18 |
 | [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 | 2025-09-12 | 2026-06-07 |
 | [4737 Jefferson](https://open.spotify.com/track/3QtsttVVr6FHdeNulglh15) | [Alien Eyelid](https://open.spotify.com/artist/75GJnidAzq7t14Vv8Fv1Y9) | [4737 Jefferson](https://open.spotify.com/album/6jBQT8Y8Zbi4iI5yqll1CE) | 3:36 | 2023-04-07 | 2023-06-03 |
@@ -851,7 +851,7 @@
 | [Waiting](https://open.spotify.com/track/5G8DaMyIdri7FfETWuDUxz) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:10 | 2022-07-08 | 2022-08-17 |
 | [War](https://open.spotify.com/track/5yUrfeb9aXwcCRMSP8fW1g) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Ultra Mono](https://open.spotify.com/album/3gibkQ68214sLiYPR7chrS) | 3:07 | 2021-10-07 | 2022-01-08 |
 | [Warm Storm](https://open.spotify.com/track/0va5q7JGNX9nIR1gvm3wwX) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Warm Storm](https://open.spotify.com/album/4PvvuATtNefKM5qbTTOCPI) | 5:18 | 2024-04-12 | 2025-09-14 |
-| [Warmer Than Gold](https://open.spotify.com/track/77k6ZdVPouIPhxCOQyVNDQ) | [GUV](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [Warmer Than Gold](https://open.spotify.com/album/6jcG87zWQZGizrTR4QuJ6Y) | 3:50 | 2026-05-01 |  |
+| [Warmer Than Gold](https://open.spotify.com/track/77k6ZdVPouIPhxCOQyVNDQ) | [GUV](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [Warmer Than Gold](https://open.spotify.com/album/6jcG87zWQZGizrTR4QuJ6Y) | 3:50 | 2026-05-01 | 2026-06-19 |
 | [Wash Away](https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Wash Away](https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt) | 3:23 | 2025-01-31 |  |
 | [Watching Strangers Smile](https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Watching Strangers Smile](https://open.spotify.com/album/2FbdRiyp61bzj01wQmtiDA) | 3:34 | 2022-03-11 | 2023-05-23 |
 | [Wayfinding](https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wayfinding](https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl) | 3:09 | 2022-09-23 | 2023-04-15 |

@@ -39599,6 +39599,24 @@
     },
     {
       "album": {
+        "name": "Devils Night",
+        "url": "https://open.spotify.com/album/22CVoj4sxsAGO02OONbkQA"
+      },
+      "artists": [
+        {
+          "name": "D12",
+          "url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304506,
+      "name": "Purple Pills",
+      "url": "https://open.spotify.com/track/5IweeQZdY5XEzStLzUJG5t"
+    },
+    {
+      "album": {
         "name": "Return Of The Mack / Push It",
         "url": "https://open.spotify.com/album/1uaZVgPVhRbVrXDKbAnMZx"
       },

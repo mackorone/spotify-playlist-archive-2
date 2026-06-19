@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: YBRE",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Bad Bunny",
   "name": "me right now",
   "tracks": [
     {
@@ -631,6 +631,24 @@
     },
     {
       "album": {
+        "name": "17000 Meilen",
+        "url": "https://open.spotify.com/album/6Tldckcsir5Hn6EbK88UG1"
+      },
+      "artists": [
+        {
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "17000 Meilen",
+      "url": "https://open.spotify.com/track/5OIvnAOpwJbHrKzI5udm6w"
+    },
+    {
+      "album": {
         "name": "1994",
         "url": "https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH"
       },
@@ -1072,6 +1090,28 @@
       "duration_ms": 211446,
       "name": "24",
       "url": "https://open.spotify.com/track/2KQI8OvWiO3Dc4qI11ph0h"
+    },
+    {
+      "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197720,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
     },
     {
       "album": {
@@ -3325,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "Allein auf dieser Welt",
+        "url": "https://open.spotify.com/album/5G8kxNsQYHNha8VV4IAp6W"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173846,
+      "name": "Allein auf dieser Welt",
+      "url": "https://open.spotify.com/track/1cr2a6oX8Gw5f30xEym7rj"
+    },
+    {
+      "album": {
         "name": "Allein da (Radio Edit)",
         "url": "https://open.spotify.com/album/4dhujyi2cjuJ8ByR9Ot1Nk"
       },
@@ -3460,7 +3518,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 129142,
       "name": "Alles kostet Geld (i need a dollar)",
       "url": "https://open.spotify.com/track/1f8TK4Vau9VBROy6HN9H12"
@@ -6841,6 +6899,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+    },
+    {
+      "album": {
         "name": "Balancieren",
         "url": "https://open.spotify.com/album/64R5uhq54bMnKC5cEw45B8"
       },
@@ -7050,7 +7126,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 177995,
       "name": "Bangaranga",
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
@@ -8620,6 +8696,24 @@
       "duration_ms": 169046,
       "name": "bitchesohneherz",
       "url": "https://open.spotify.com/track/4OTO2rklyx2VG20bROKiN3"
+    },
+    {
+      "album": {
+        "name": "Keine Tr\u00e4nen",
+        "url": "https://open.spotify.com/album/3nW3pqtO7R2Nuad5mCLSSh"
+      },
+      "artists": [
+        {
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "Bitte bitte",
+      "url": "https://open.spotify.com/track/0KPa0UzIgH8VQZadXiLAJY"
     },
     {
       "album": {
@@ -15626,7 +15720,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
@@ -15698,7 +15792,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -22596,7 +22690,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 105035,
       "name": "Geld",
       "url": "https://open.spotify.com/track/0hpiVWAZbVxE0R92i7kucF"
@@ -25191,6 +25285,28 @@
     },
     {
       "album": {
+        "name": "Halbe Schachtel",
+        "url": "https://open.spotify.com/album/0T1irXefFwVu1hFGyJjFrS"
+      },
+      "artists": [
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160130,
+      "name": "Halbe Schachtel",
+      "url": "https://open.spotify.com/track/1NexEC05MHCDaeKOh00kre"
+    },
+    {
+      "album": {
         "name": "Nicht mehr traurig",
         "url": "https://open.spotify.com/album/6FtYUdzSfqNCsAVmR3BsmM"
       },
@@ -25202,7 +25318,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 118194,
       "name": "Halbe Wahrheit",
       "url": "https://open.spotify.com/track/09ro7ihMGccFtQDWATIF8f"
@@ -25842,6 +25958,24 @@
       "duration_ms": 141077,
       "name": "hausnummer_16_v7",
       "url": "https://open.spotify.com/track/4ZYojNQGIOdIzhuiKH2jCq"
+    },
+    {
+      "album": {
+        "name": "Haut an Haut",
+        "url": "https://open.spotify.com/album/3ecnrrefnLM9tbyamwfcgm"
+      },
+      "artists": [
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Haut an Haut",
+      "url": "https://open.spotify.com/track/16doawC48sKuuBRxkp6KLp"
     },
     {
       "album": {
@@ -27423,6 +27557,24 @@
     },
     {
       "album": {
+        "name": "FAG LIFE",
+        "url": "https://open.spotify.com/album/3ngAeljzM9FgIYl7K7cFgg"
+      },
+      "artists": [
+        {
+          "name": "Baran Kok",
+          "url": "https://open.spotify.com/artist/0h5l8UYxSk3xeGGlSXgpIZ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138644,
+      "name": "HOLA PAPI",
+      "url": "https://open.spotify.com/track/1rjLaNDKUzpMP8dvFvvIlo"
+    },
+    {
+      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -28098,7 +28250,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 136097,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/3AxH3qvkWy7aeuQiEOcmGV"
@@ -28264,7 +28416,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 141409,
       "name": "I Ain't Complaining",
       "url": "https://open.spotify.com/track/37yCH11Xn4jx0j3EDor6KM"
@@ -33166,7 +33318,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 146866,
       "name": "Keiner hat gesagt",
       "url": "https://open.spotify.com/track/1qqrD7OQGMFQysnco7ilWj"
@@ -34572,6 +34724,28 @@
       "duration_ms": 199923,
       "name": "L.O.V.E.U (feat. hannah bahng)",
       "url": "https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ"
+    },
+    {
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "LA CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
     },
     {
       "album": {
@@ -40620,7 +40794,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 146000,
       "name": "Moment",
       "url": "https://open.spotify.com/track/5dXYibifKJIQ4sAaHWByXk"
@@ -43557,6 +43731,32 @@
     },
     {
       "album": {
+        "name": "nie sch\u00f6n genug",
+        "url": "https://open.spotify.com/album/1CM9BgAsbMrUsFM4ZCBwnU"
+      },
+      "artists": [
+        {
+          "name": "Lina Maly",
+          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
+        },
+        {
+          "name": "OSWALD",
+          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
+        },
+        {
+          "name": "Bengio",
+          "url": "https://open.spotify.com/artist/0gfGtWOKV78OjwmQ0iGcE3"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155897,
+      "name": "nie sch\u00f6n genug (feat. Bengio)",
+      "url": "https://open.spotify.com/track/2QM3HgY6io2VnochaBytLh"
+    },
+    {
+      "album": {
         "name": "nie vorbei",
         "url": "https://open.spotify.com/album/4rbLFikPvtb3QhoAmjE6no"
       },
@@ -44617,6 +44817,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "album": {
         "name": "Spotify Wrapped 2025 Live",
         "url": "https://open.spotify.com/album/7F2IsC9qTegf5ZsWbybETk"
       },
@@ -45130,6 +45348,28 @@
       "duration_ms": 200042,
       "name": "Ode an den Bass",
       "url": "https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq"
+    },
+    {
+      "album": {
+        "name": "nostalgia is killing me",
+        "url": "https://open.spotify.com/album/5XTbH2tBeaNqTC4U9ABlW7"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Odyssee",
+      "url": "https://open.spotify.com/track/6N9keILCbcoWcstFBDrwND"
     },
     {
       "album": {
@@ -58284,7 +58524,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 167706,
       "name": "SUVs",
       "url": "https://open.spotify.com/track/6500MuuCkDhomcyqf7leYr"
@@ -60060,7 +60300,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 188571,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/5sLVdJnVH9QDEKtuVu4Okl"
@@ -60504,7 +60744,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 135559,
       "name": "TIPPS VON MIR",
       "url": "https://open.spotify.com/track/3RCcyUsV7Tqb6bJVFdlz55"
@@ -60628,6 +60868,24 @@
       "duration_ms": 135107,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/57umhCVkXit8sqLyiGYK3P"
+    },
+    {
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "album": {
@@ -61490,7 +61748,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 148392,
       "name": "troubadour",
       "url": "https://open.spotify.com/track/3xPBfYZmHIk00FSuVPLXTy"
@@ -63731,6 +63989,28 @@
     },
     {
       "album": {
+        "name": "Verliebt, verlobt",
+        "url": "https://open.spotify.com/album/4Xzu42KnpBYXJvmga6SlyA"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149830,
+      "name": "Verliebt, verlobt",
+      "url": "https://open.spotify.com/track/4rxIVcKytYM9F94QpJbg9D"
+    },
+    {
+      "album": {
         "name": "Verlieren",
         "url": "https://open.spotify.com/album/4e9D5CDM9O5pj9cwRsnBK2"
       },
@@ -65722,7 +66002,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 256440,
       "name": "We Don't Care",
       "url": "https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb"

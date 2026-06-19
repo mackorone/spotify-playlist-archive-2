@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 楽音
 
-592 songs - 1 day 9 hr 45 min
+593 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Pa Pi Pu Pe POP!](https://open.spotify.com/track/6sAaPOTjwisyye2fyavqKd) | [Appare!](https://open.spotify.com/artist/3avXpwvPXKpP2AoUvd9pEe) | [Appare!Future](https://open.spotify.com/album/0Uy7NcYLJnUp5uJmTMNxj4) | 4:13 | 2023-01-26 | 2023-06-09 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-10-12 | 2024-01-12 |
 | [PARALLEL](https://open.spotify.com/track/6t2hernNP059dFBRyBKLKT) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [PARALLEL](https://open.spotify.com/album/0YRmYvCo1yyHgmMdWC7I7c) | 1:44 | 2024-11-14 | 2025-08-01 |
+| [Partner](https://open.spotify.com/track/48lsRmp9AC6tU4rP9QJx4H) | [YUKA](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Partner](https://open.spotify.com/album/1wvgIolL7kiU2z52hVV8BK) | 2:54 | 2026-06-18 |  |
 | [POWER](https://open.spotify.com/track/1UCY4iy8umOjznu1F2upBA) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/5RMTQ1Qu7bGVyDmyhAXzdC) | 2:19 | 2026-02-02 | 2026-03-02 |
 | [Present](https://open.spotify.com/track/47FaTfuKJkgNsBnqFgHHJV) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Present](https://open.spotify.com/album/4j4BcZBse9IMbcWg4VQvAP) | 3:19 | 2023-11-09 | 2023-12-14 |
 | [Prince Shoutoku](https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Prince Shoutoku](https://open.spotify.com/album/0pF7LdM6RM99pJZXq9dOIN) | 3:29 | 2023-11-09 | 2024-02-09 |
@@ -382,7 +383,7 @@
 | [そんな人生を堪能したい](https://open.spotify.com/track/0dj1xrFO8n4Ln4iU1cnOlr) | [虎鷹](https://open.spotify.com/artist/3tYCVKXyZ05qXTvYNmt9ou) | [そんな人生を堪能したい](https://open.spotify.com/album/5vJmr7z9UoxG5p0UpuKSq5) | 3:54 | 2023-10-05 | 2024-04-26 |
 | [ただそれだけのことがさ](https://open.spotify.com/track/3B6vc2GvuGBmoNESYzpkze) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ただそれだけのことがさ](https://open.spotify.com/album/2xO7qPcley2aBcIy0Lf6mK) | 4:13 | 2023-04-27 | 2023-05-26 |
 | [ため息](https://open.spotify.com/track/68dzvMqn6qNTbLDIJ0levZ) | [東京、君がいない街](https://open.spotify.com/artist/2f6Qo8o3wF0ZEpHaMt6Cal) | [23春](https://open.spotify.com/album/1KGEUbiIrHnuN18SQ9LKOF) | 1:03 | 2024-04-18 | 2024-05-01 |
-| [だけど僕は](https://open.spotify.com/track/3kenAyozcSKh83nRsaGqru) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [猟奇的なキスを私にして](https://open.spotify.com/album/5Qy4KEySDLkh5xnRK325D5) | 3:07 | 2025-06-26 |  |
+| [だけど僕は](https://open.spotify.com/track/3kenAyozcSKh83nRsaGqru) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [猟奇的なキスを私にして](https://open.spotify.com/album/5Qy4KEySDLkh5xnRK325D5) | 3:07 | 2025-06-26 | 2026-06-19 |
 | [だよ](https://open.spotify.com/track/2P29b4IhpipUwq6OKMwda8) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [だよ](https://open.spotify.com/album/5HMF0jFGPGqtHka0GoIoge) | 3:19 | 2026-05-21 |  |
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2023-01-26 | 2023-06-23 |
 | [つよがるガール](https://open.spotify.com/track/3GxZpsOr0vFZfU30PYULgU) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo), [もっさ](https://open.spotify.com/artist/7a7uhcdZvYg4IGcD9tUB3g) | [つよがるガール](https://open.spotify.com/album/2udxqBTrnKaqPzRLzC5w9K) | 3:09 | 2024-08-01 | 2024-09-02 |

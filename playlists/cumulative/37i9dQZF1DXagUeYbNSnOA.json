@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring aLex vs aLex. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring MXKA. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -3606,7 +3606,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 193939,
       "name": "Amor.illo",
       "url": "https://open.spotify.com/track/66aahjHbtB5iAr5klNgNYV"
@@ -12050,6 +12050,24 @@
       "duration_ms": 216502,
       "name": "De un Solo Aliento",
       "url": "https://open.spotify.com/track/5rJ4jVrC8Tp5h48UTxCQ9h"
+    },
+    {
+      "album": {
+        "name": "De Una Vez",
+        "url": "https://open.spotify.com/album/1CVF4Aae9E5gTY3yORnVs9"
+      },
+      "artists": [
+        {
+          "name": "Vanita Leo",
+          "url": "https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "De Una Vez",
+      "url": "https://open.spotify.com/track/4gyV7NTXXFrX8hlNNasu9W"
     },
     {
       "album": {
@@ -37406,7 +37424,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 188075,
       "name": "Piel : Profec\u00edas",
       "url": "https://open.spotify.com/track/523lVm48Con8p9G34j6H84"
@@ -50182,6 +50200,24 @@
       "duration_ms": 161661,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/3qU8U9M2l7Q32WAy2eYAwm"
+    },
+    {
+      "album": {
+        "name": "Ven",
+        "url": "https://open.spotify.com/album/7bRtpKZUlPJtaa08YotEJJ"
+      },
+      "artists": [
+        {
+          "name": "Lua Lelia",
+          "url": "https://open.spotify.com/artist/5Gqhf0Jh17ECXFZB1zXWCn"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167952,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/7383nCC1plw6q0spGr4kAp"
     },
     {
       "album": {

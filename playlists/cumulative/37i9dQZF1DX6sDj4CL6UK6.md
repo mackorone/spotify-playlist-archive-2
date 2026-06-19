@@ -4,7 +4,7 @@
 
 > English songs from Indian artists.<br/>Cover: Tsumyoki
 
-402 songs - 22 hr 57 min
+403 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Cool Kids](https://open.spotify.com/track/02xEsJ0ynw9UuAHWluiaPd) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/5Fzma3FmQTk5gzE2S7ixv7) | 2:52 | 2023-09-07 | 2023-11-25 |
 | [Cool Kids](https://open.spotify.com/track/0pnEDzL1zut4qdMYikDix7) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/5YBeCgnlCf92RpY7ux9Xmu) | 2:52 | 2023-12-07 | 2024-04-19 |
 | [Cool Kids](https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/2nFDQjOYZqRB7THcM5eEqs) | 2:52 | 2022-03-25 | 2023-09-09 |
+| [Cop Shot A Man](https://open.spotify.com/track/6yv6SivWda8eKjpFovPRoG) | [Yelhomie](https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A) | [Cop Shot A Man](https://open.spotify.com/album/2NPQuhVJyYPGuoNJJWVtXN) | 2:40 | 2026-06-18 |  |
 | [Cortado](https://open.spotify.com/track/57d6mIQ1oZ6t0ftyT4wtcL) | [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u) | [Cortado](https://open.spotify.com/album/0xfjcySoQGecNzOjnzunzr) | 2:52 | 2025-11-14 |  |
 | [Could've Been](https://open.spotify.com/track/3htkrQoG9nyhf8foW2dzp0) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Dishaan](https://open.spotify.com/artist/7DQId5IjxE3bl0dABc9gvT) | [Could've Been](https://open.spotify.com/album/7BBHLb75DUrEFh9108117K) | 2:47 | 2025-08-23 |  |
 | [Count The Stars](https://open.spotify.com/track/0pdZPMxxAssCeHFthSRFTp) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Count The Stars](https://open.spotify.com/album/19DpRWlsFRFxEeqsi0OYLl) | 2:54 | 2023-02-24 | 2023-03-29 |

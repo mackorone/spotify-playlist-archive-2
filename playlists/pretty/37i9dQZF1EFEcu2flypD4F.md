@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,520 likes - 346 songs - 21 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,522 likes - 346 songs - 21 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,8 +208,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 198 | [Brightest Morning Star](https://open.spotify.com/track/7MXf5oS9bilbC70ii9YWbf) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 2:59 |
 | 199 | [Tears Fall](https://open.spotify.com/track/7AwywoYsLhJNxxAcEZzQML) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Tears Fall](https://open.spotify.com/album/0Vb2554uYYq0vMABjZPWY6) | 3:34 |
 | 200 | [Eye To Eye](https://open.spotify.com/track/6IEz7AX56qZ2PDH4cCEVpq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:19 |
-| 201 | [Big Girl Little Girl](https://open.spotify.com/track/4W2t7IWugHayILQdV3FLun) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 4:18 |
-| 202 | [Diamond Eyes \(feat\. Sia\)](https://open.spotify.com/track/2yJgLxRS3qzh8MwPogWG7d) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Diamond Eyes \(feat\. Sia\)](https://open.spotify.com/album/1Wz4TaOdgu0xzFcn4itx7M) | 3:43 |
+| 201 | [Diamond Eyes \(feat\. Sia\)](https://open.spotify.com/track/2yJgLxRS3qzh8MwPogWG7d) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Diamond Eyes \(feat\. Sia\)](https://open.spotify.com/album/1Wz4TaOdgu0xzFcn4itx7M) | 3:43 |
+| 202 | [Big Girl Little Girl](https://open.spotify.com/track/4W2t7IWugHayILQdV3FLun) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 4:18 |
 | 203 | [You're Mine](https://open.spotify.com/track/3wfiYtFeCtlijiqmTIlBFQ) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:38 |
 | 204 | [I Am Me](https://open.spotify.com/track/3DV7noSx1US7DCWIlF2OC6) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [I Am Me](https://open.spotify.com/album/7Bgtodjks7aKmZHI91xwUg) | 4:08 |
 | 205 | [I Am](https://open.spotify.com/track/3kCNhgO03URvgUqVtv2z8C) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 3:52 |
@@ -355,4 +355,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 345 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 346 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcUfsAAAAADWYErC5egXO27Ia2pD0BLg`
+Snapshot ID: `AcUlggAAAAAEodva0oorBdBDa2D4B4lV`

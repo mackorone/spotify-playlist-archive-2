@@ -4,7 +4,7 @@
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 49 min
+78 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Swingtime in Springtime](https://open.spotify.com/track/2agAxheoBhskd2Od2No85G) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Souvenirs de Django Reinhardt \(Jazz Connoisseur\)](https://open.spotify.com/album/3gG6ulFkKUeWw39WEazp4F) | 3:07 | 2026-04-07 |  |
 | [Tears](https://open.spotify.com/track/6RNtMMMt5NJOiuUA3BIVTh) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol.2 / 1936 \- 1937](https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2) | 2:38 | 2026-04-17 |  |
 | [The Sheik of Araby](https://open.spotify.com/track/4t30z7yPGvIyrybsuykDnA) | [Ted Snyder](https://open.spotify.com/artist/3EHU46gc1iN9wYecT3uFRs), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Hot Club de France Quintet](https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj) | [Reinhardt, Django: Swingin' With Django \(1937\)](https://open.spotify.com/album/5yLgvyZmjjKpGfwVoPS3Ty) | 3:08 | 2025-09-11 | 2026-06-09 |
-| [Topsy](https://open.spotify.com/track/0AFzoxnoTSJ0IvgefXuD1C) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 3:05 | 2025-08-19 |  |
+| [Topsy](https://open.spotify.com/track/0AFzoxnoTSJ0IvgefXuD1C) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 3:05 | 2025-08-19 | 2026-06-19 |
+| [Topsy](https://open.spotify.com/track/4vGPfSDRZwicewDUvaqBjK) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179) | 3:05 | 2026-06-19 |  |
 | [Topsy](https://open.spotify.com/track/7Gj5OjTc4riTgEL1C0dhws) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 3:05 | 2025-07-20 | 2025-08-19 |
 | [Tornerai \(J'attendrai\)](https://open.spotify.com/track/4Ka5krmfRuHNBYXJ6jV0C7) | [Dino Olivieri](https://open.spotify.com/artist/0SZKROPnqEzefRAqIKmhr5), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Reinhardt, Django: Django Reinhardt \(1938\-1939\)](https://open.spotify.com/album/2ifUISRaHb1iVcqD8ypjIJ) | 2:40 | 2025-07-20 | 2025-07-30 |
 | [Viper's Dream](https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Maurice Meunier](https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru), [Eddie Bernard](https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww), [Eugène Vées](https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX), [Emmanuel Soudieux](https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh), [Jacques Martinon](https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7) | [Electric Django: Radio Recordings 1947](https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY) | 3:01 | 2025-08-23 |  |

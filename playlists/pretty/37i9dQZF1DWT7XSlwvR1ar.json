@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2118389,
+  "num_followers": 2118323,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-06-05 20:39:28",
       "album": {
-        "name": "Catch A Fire",
-        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 193658,
-      "name": "Catch A Fire",
-      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
-    },
-    {
-      "added_at": "2026-06-05 20:39:28",
-      "album": {
         "name": "Spanish Villager No. 3",
         "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 259607,
       "name": "An Alien In Minneapolis - Edit",
       "url": "https://open.spotify.com/track/7lt8wWfuAFUnrzkNFJXBU7"
+    },
+    {
+      "added_at": "2026-06-05 20:39:28",
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 193658,
+      "name": "Catch A Fire",
+      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
     },
     {
       "added_at": "2026-06-05 20:39:28",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-06-05 20:39:28",
       "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195763,
+      "name": "Circles Around This Town",
+      "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
+    },
+    {
+      "added_at": "2026-06-05 20:39:28",
+      "album": {
         "name": "I Walked With You A Ways",
         "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 212760,
       "name": "Problem With It",
       "url": "https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO"
-    },
-    {
-      "added_at": "2026-06-05 20:39:28",
-      "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195763,
-      "name": "Circles Around This Town",
-      "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
     },
     {
       "added_at": "2026-06-05 20:39:28",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-06-05 20:39:28",
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 263976,
-      "name": "No One Knows Us",
-      "url": "https://open.spotify.com/track/6wBZkDA5FDcxC8DkukCsSR"
-    },
-    {
-      "added_at": "2026-06-05 20:39:28",
-      "album": {
         "name": "Virginia (Wind In The Night)",
         "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 205293,
       "name": "Virginia (Wind In The Night)",
       "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
+    },
+    {
+      "added_at": "2026-06-05 20:39:28",
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 263976,
+      "name": "No One Knows Us",
+      "url": "https://open.spotify.com/track/6wBZkDA5FDcxC8DkukCsSR"
     },
     {
       "added_at": "2026-06-05 20:39:28",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-06-05 20:39:28",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 233039,
-      "name": "I Found Out",
-      "url": "https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe"
-    },
-    {
-      "added_at": "2026-06-05 20:39:28",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 291826,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
+    },
+    {
+      "added_at": "2026-06-05 20:39:28",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 233039,
+      "name": "I Found Out",
+      "url": "https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe"
     },
     {
       "added_at": "2026-06-05 20:39:28",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-06-05 20:39:28",
       "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
+    },
+    {
+      "added_at": "2026-06-05 20:39:28",
+      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 151560,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
-    },
-    {
-      "added_at": "2026-06-05 20:39:28",
-      "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2026-06-05 20:39:28",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-06-05 20:39:28",
       "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 234677,
-      "name": "Into The Mystery",
-      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
-    },
-    {
-      "added_at": "2026-06-05 20:39:28",
-      "album": {
         "name": "Love Is Love",
         "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 186783,
       "name": "Love Is Love",
       "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
+    },
+    {
+      "added_at": "2026-06-05 20:39:28",
+      "album": {
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 234677,
+      "name": "Into The Mystery",
+      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
     },
     {
       "added_at": "2026-06-05 20:39:28",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-06-05 20:39:28",
       "album": {
-        "name": "Not Broken",
-        "url": "https://open.spotify.com/album/7rHHuPonz8CqGmCf9RHB1n"
-      },
-      "artists": [
-        {
-          "name": "T\u014dth",
-          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "duration_ms": 202632,
-      "name": "Not Broken",
-      "url": "https://open.spotify.com/track/1QJCkwatMNwqxqgWLY9XTV"
-    },
-    {
-      "added_at": "2026-06-05 20:39:28",
-      "album": {
         "name": "Making Do",
         "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+    },
+    {
+      "added_at": "2026-06-05 20:39:28",
+      "album": {
+        "name": "Not Broken",
+        "url": "https://open.spotify.com/album/7rHHuPonz8CqGmCf9RHB1n"
+      },
+      "artists": [
+        {
+          "name": "T\u014dth",
+          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "duration_ms": 202632,
+      "name": "Not Broken",
+      "url": "https://open.spotify.com/track/1QJCkwatMNwqxqgWLY9XTV"
     },
     {
       "added_at": "2026-06-05 20:39:28",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2026-06-05 20:39:28",
       "album": {
-        "name": "Talk is Cheap",
-        "url": "https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 270937,
-      "name": "Talk is Cheap",
-      "url": "https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ"
-    },
-    {
-      "added_at": "2026-06-05 20:39:28",
-      "album": {
         "name": "En Garde",
         "url": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 220175,
       "name": "Teenage Drug",
       "url": "https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU"
+    },
+    {
+      "added_at": "2026-06-05 20:39:28",
+      "album": {
+        "name": "Talk is Cheap",
+        "url": "https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 270937,
+      "name": "Talk is Cheap",
+      "url": "https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ"
     },
     {
       "added_at": "2026-06-05 20:39:28",

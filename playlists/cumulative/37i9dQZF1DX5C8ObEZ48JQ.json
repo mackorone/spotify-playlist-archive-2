@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI?si=xfh-oe3CT86n6tuTHiYS4A\">Mia Lord</a>. Artwork: Isu Kim. ",
+  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba?si=BgcN2l_iTJ21rQ3sRBr1iw\">Money Badoo</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -738,6 +738,24 @@
       "duration_ms": 223000,
       "name": "Afro G Western",
       "url": "https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23"
+    },
+    {
+      "album": {
+        "name": "4PLAY",
+        "url": "https://open.spotify.com/album/4VY9ZQyEMm6MB3FFBqw604"
+      },
+      "artists": [
+        {
+          "name": "Money Badoo",
+          "url": "https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171591,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/0gNFw7otPPEVSBb1tFNjdO"
     },
     {
       "album": {
@@ -2568,7 +2586,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 231562,
       "name": "better",
       "url": "https://open.spotify.com/track/3yNPijn8ek1rbsnqdNTS0K"
@@ -3650,7 +3668,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 148571,
       "name": "Bring You Home",
       "url": "https://open.spotify.com/track/7odIv0UuSvwHOAYJS0EK6S"
@@ -12134,6 +12152,32 @@
       "duration_ms": 150976,
       "name": "Ingine Ama",
       "url": "https://open.spotify.com/track/0cWC0krHwSeX53BNGF4vt1"
+    },
+    {
+      "album": {
+        "name": "iNjabulo",
+        "url": "https://open.spotify.com/album/29uNvt9uM4JpzjQ3JrQdtQ"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Stapes",
+          "url": "https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF"
+        },
+        {
+          "name": "Earldridge",
+          "url": "https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6"
+        },
+        {
+          "name": "Mimi Xama",
+          "url": "https://open.spotify.com/artist/2phlWsdMEbsyLe43L1IIX7"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189101,
+      "name": "iNjabulo",
+      "url": "https://open.spotify.com/track/6aBdeUzyI3cmVjNTvDQBBK"
     },
     {
       "album": {
@@ -20898,7 +20942,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170691,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/3oSOAmX3az2ekWnOZrWqRN"
@@ -23212,7 +23256,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 136679,
       "name": "Slow",
       "url": "https://open.spotify.com/track/51vTd5iLJvD6qdZuyKXcCN"
@@ -25322,7 +25366,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 183652,
       "name": "tears water my garden",
       "url": "https://open.spotify.com/track/37cnPtuVrmQiWzJWhXQ1t7"
@@ -26368,6 +26412,24 @@
       "duration_ms": 145983,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/3QN79VRcv15OEKVlDebSM8"
+    },
+    {
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0ReJlqwhC6GqCUZKJmNt5g"
+      },
+      "artists": [
+        {
+          "name": "Yandani",
+          "url": "https://open.spotify.com/artist/1SAZpe4YVDlNqXRyBGWglj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166338,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4SWIdIIsvUVXQ12twFZAV7"
     },
     {
       "album": {

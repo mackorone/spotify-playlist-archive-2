@@ -2005,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Evigheten n\u00e6rmer seg",
+        "url": "https://open.spotify.com/album/77RXk1VrQ9aDWIWcGfnipX"
+      },
+      "artists": [
+        {
+          "name": "Daniela Reyes",
+          "url": "https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171626,
+      "name": "Evigheten n\u00e6rmer seg",
+      "url": "https://open.spotify.com/track/5pYxllxzdm368L57cbzGIq"
+    },
+    {
+      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 215244,
       "name": "know me",
       "url": "https://open.spotify.com/track/1VClV5m249HOzIwkr8FX8C"
@@ -3900,6 +3918,28 @@
       "duration_ms": 225426,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3y30CMKgom7ymwPVnDuoQ4"
+    },
+    {
+      "album": {
+        "name": "Lost Forever Over The Moon",
+        "url": "https://open.spotify.com/album/2jJE6NcA3uvGaSLsf8FGZI"
+      },
+      "artists": [
+        {
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+        },
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Lost Forever Over The Moon",
+      "url": "https://open.spotify.com/track/5vRe5caFk0xaJ58whrsKwB"
     },
     {
       "album": {
@@ -5530,7 +5570,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 225939,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"

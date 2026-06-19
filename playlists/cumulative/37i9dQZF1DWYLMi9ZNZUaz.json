@@ -3031,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "G\u1eb7p L\u1ea1i",
+        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266379,
+      "name": "H\u1eefng H\u1edd",
+      "url": "https://open.spotify.com/track/6CygbhaDoDGTlRq8LiEwpt"
+    },
+    {
+      "album": {
         "name": "ANH TRAI \"SAY HI\", T\u1eadp 8",
         "url": "https://open.spotify.com/album/1VBXkt46HafTjxlj1mUB1A"
       },
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 266758,
       "name": "Love is",
       "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
@@ -4258,6 +4276,32 @@
       "duration_ms": 200154,
       "name": "M\u1ed9t Ng\u00e0y",
       "url": "https://open.spotify.com/track/623WsX6Nq0KRfcPnomypZT"
+    },
+    {
+      "album": {
+        "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
+        "url": "https://open.spotify.com/album/0UgMx9HBZHHmpxg0l5A13I"
+      },
+      "artists": [
+        {
+          "name": "24k.Right",
+          "url": "https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0"
+        },
+        {
+          "name": "Ng\u1eafn",
+          "url": "https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P"
+        },
+        {
+          "name": "Hipz",
+          "url": "https://open.spotify.com/artist/3g8l4a4JtYNpYKqSMZMnK0"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230036,
+      "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
+      "url": "https://open.spotify.com/track/0pavLg3wbL6PVXAgXoWv4S"
     },
     {
       "album": {
@@ -6264,7 +6308,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 173397,
       "name": "Th\u00f4i Em \u0110\u1eebng \u0110i",
       "url": "https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R"

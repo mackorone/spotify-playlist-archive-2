@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-369 songs - 21 hr 25 min
+370 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Baila para Mi](https://open.spotify.com/track/51Uw47jeFgvv622ma9PxWy) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred), [La Rejunta](https://open.spotify.com/artist/0N8yshYVjJL0UVHmGICvaX) | [Baila para Mi](https://open.spotify.com/album/2w5OAJGbMjgj9Rct0HBVPD) | 2:29 | 2025-06-10 | 2025-10-25 |
 | [Baila Sola](https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:32 | 2025-06-27 | 2025-10-25 |
 | [Barrio Prendido](https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Nestor En Bloque](https://open.spotify.com/artist/3RBwlm5DeZ9ywEknLEqIzr), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [MOMO](https://open.spotify.com/artist/6Oa7dtz85WbPv9pYDcRSDN), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Barrio Prendido](https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J) | 4:00 | 2023-05-05 |  |
-| [Bella](https://open.spotify.com/track/1r0MnlvB9W7GUgzADjqDPd) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq) | [El Fruto del Amor](https://open.spotify.com/album/4zCUpvEm7fsCC1DFVQkxDb) | 3:54 | 2025-06-10 |  |
+| [Bella](https://open.spotify.com/track/1r0MnlvB9W7GUgzADjqDPd) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq) | [El Fruto del Amor](https://open.spotify.com/album/4zCUpvEm7fsCC1DFVQkxDb) | 3:54 | 2025-06-10 | 2026-06-19 |
 | [Berretines de Verduga](https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [Con Síndrome de Abstinencia](https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ) | 2:56 | 2025-06-10 |  |
 | [Besame](https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:52 | 2024-10-11 |  |
 | [Boquita Perfumada](https://open.spotify.com/track/3MLq3n8fNlubRM2FmPREbF) | [Sexteto Imperial](https://open.spotify.com/artist/7Ij3qRinMFtEpzRghKIHtE) | [Boquita Perfumada](https://open.spotify.com/album/6DTMt3s7wVmf9KD2FwZoMG) | 4:12 | 2026-02-27 | 2026-05-16 |
@@ -195,6 +195,7 @@
 | [Me Muero por Besarte](https://open.spotify.com/track/4ySkQDs1dYGvSmbhX1fwvv) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Me Muero por Besarte](https://open.spotify.com/album/6pk9keWjLlXBjXumLetz8L) | 3:32 | 2025-06-27 | 2025-10-25 |
 | [Me Olvide de Ti](https://open.spotify.com/track/09yg5xVkRIxRFWCSfAgbjx) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Con Brillo Propio](https://open.spotify.com/album/6UvXGJGA6ynxSbNc7kif1K) | 2:54 | 2025-07-04 | 2025-09-15 |
 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 | 2025-06-27 | 2025-10-25 |
+| [Me Re Da](https://open.spotify.com/track/0IncZWMMwOvKoroHCwx2Sh) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL) | [Me Re Da](https://open.spotify.com/album/6smqbrF3vhgl4cS7ZE9uZF) | 2:59 | 2026-06-19 |  |
 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Me Vas a Extrañar \(En Vivo\)](https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53) | 3:58 | 2023-05-05 |  |
 | [Me Volvi a Enamorar](https://open.spotify.com/track/1le09gYoWpB2ZUQ28K9VaC) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Gracia Divina](https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz) | 2:59 | 2025-10-24 | 2025-11-21 |
 | [Me Voy Me Fui](https://open.spotify.com/track/2Sxd74ZqVc52T3WEl9jf3a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Revolución II](https://open.spotify.com/album/0kvnWxKguuf3UR7N8ljph2) | 4:24 | 2025-06-27 | 2025-10-25 |

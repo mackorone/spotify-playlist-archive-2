@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : EPIC \- First Semester
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,893 likes - 52 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,919 likes - 52 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

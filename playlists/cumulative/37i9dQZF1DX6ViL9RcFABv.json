@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Mariana Pereira, \u00c1TOA",
+  "description": "Uma playlist de pura alma pop! Foto: ZARKO",
   "name": "Pop PT",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 154177,
       "name": "1,2,3",
       "url": "https://open.spotify.com/track/1qgpFwDcdus9ahuhwJT5su"
@@ -519,6 +519,28 @@
     },
     {
       "album": {
+        "name": "Amo-Te",
+        "url": "https://open.spotify.com/album/78KgfSIwZ2ZGtoX8xYuLNc"
+      },
+      "artists": [
+        {
+          "name": "Mariiana",
+          "url": "https://open.spotify.com/artist/1MtSFZMcckoFQCyJu62pm7"
+        },
+        {
+          "name": "Mastiksoul",
+          "url": "https://open.spotify.com/artist/3pnuQEuaodUTHoX0AEsw1h"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Amo-Te",
+      "url": "https://open.spotify.com/track/5go4DvQuFhzBgczUKsnLjV"
+    },
+    {
+      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/3lZKqd1Z1r8vg3PqtNvaTm"
       },
@@ -588,7 +610,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 169230,
       "name": "Amor de Agosto",
       "url": "https://open.spotify.com/track/6wVVIGFQdgQkYYEaYcGC2M"
@@ -1658,7 +1680,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 177813,
       "name": "Casar \u00c9 pra Esquecer",
       "url": "https://open.spotify.com/track/5zA1oOmQh2v32sij1Whsms"
@@ -2522,6 +2544,32 @@
       "duration_ms": 156809,
       "name": "Deixa Arder",
       "url": "https://open.spotify.com/track/4FY8CQXo4r2Q57bW1iSfgg"
+    },
+    {
+      "album": {
+        "name": "Deixa Doer",
+        "url": "https://open.spotify.com/album/58EHe5gxvijrBVl1CsTcTi"
+      },
+      "artists": [
+        {
+          "name": "M1ke",
+          "url": "https://open.spotify.com/artist/3tQ4msrV9tC9rzrAUK3mdv"
+        },
+        {
+          "name": "Beatriz Fel\u00edcio",
+          "url": "https://open.spotify.com/artist/6nZmaIuTbjARpkPABXWu8T"
+        },
+        {
+          "name": "LilBoy Bruce",
+          "url": "https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194662,
+      "name": "Deixa Doer",
+      "url": "https://open.spotify.com/track/4ba1ODbItagL18R4D6Ozk6"
     },
     {
       "album": {
@@ -9157,6 +9205,24 @@
     },
     {
       "album": {
+        "name": "Sortudo",
+        "url": "https://open.spotify.com/album/2jUIPJfUraMtT3eKRmHNF5"
+      },
+      "artists": [
+        {
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198583,
+      "name": "Sortudo",
+      "url": "https://open.spotify.com/track/4OH6FyO1A6OIDdmMxTX39x"
+    },
+    {
+      "album": {
         "name": "SOU GRANDE NO AMOR",
         "url": "https://open.spotify.com/album/0dRvE0NxHzMS8DvEoV9StR"
       },
@@ -9488,7 +9554,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 160799,
       "name": "Tem l\u00e1 uma tristeza",
       "url": "https://open.spotify.com/track/3QjkUHKTlsbiKsROCPYZF2"
@@ -10074,6 +10140,24 @@
       "duration_ms": 187124,
       "name": "Verdade",
       "url": "https://open.spotify.com/track/5Tw56RjEhlz8BTDTiz65cB"
+    },
+    {
+      "album": {
+        "name": "VERTIGENS",
+        "url": "https://open.spotify.com/album/0MZ2BAcjKMUaImh5qKxCNR"
+      },
+      "artists": [
+        {
+          "name": "ZARKO",
+          "url": "https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221029,
+      "name": "VERTIGENS",
+      "url": "https://open.spotify.com/track/0bGZCIotXDkvo9F40VNc7s"
     },
     {
       "album": {

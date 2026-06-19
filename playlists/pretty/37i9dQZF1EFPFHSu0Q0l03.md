@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,752 likes - 289 songs - 19 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,756 likes - 289 songs - 19 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 66 | [Felt Good About You](https://open.spotify.com/track/23DXEXzuVjrPvqi2f1uMmX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 2:44 |
 | 67 | [The System Only Dreams in Total Darkness](https://open.spotify.com/track/612R6rJlv9N3wpljUpT8Ja) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 3:56 |
 | 68 | [This is the Last Time](https://open.spotify.com/track/70ZuQywnmOpqcIiEnUA5yV) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:43 |
-| 69 | [Difficult](https://open.spotify.com/track/7llBR7Fy7Fw9zgEQuZp6K7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:18 |
-| 70 | [End of August](https://open.spotify.com/track/4fEUmNN8KK5sNqvKjBstKg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:17 |
+| 69 | [End of August](https://open.spotify.com/track/4fEUmNN8KK5sNqvKjBstKg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:17 |
+| 70 | [Difficult](https://open.spotify.com/track/7llBR7Fy7Fw9zgEQuZp6K7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:18 |
 | 71 | [Packing It Up](https://open.spotify.com/track/11dixMCXtncnzhC4LQxdhR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU) | 2:44 |
 | 72 | [Camden](https://open.spotify.com/track/1NAWiOec7X7xTa24nXQFCG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 4:06 |
-| 73 | [I should hate you](https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:18 |
-| 74 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
+| 73 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
+| 74 | [I should hate you](https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:18 |
 | 75 | [Gave You I Gave You I](https://open.spotify.com/track/7DgGLlqlkCEBMbu7j0eXyc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 4:29 |
 | 76 | [Downfall](https://open.spotify.com/track/5tGnphp8D9Doa2ZULhJSMx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:15 |
 | 77 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/5GwJBXIQOJ6ARh3sFt9dBZ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 3:38 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 107 | [Lighthouse](https://open.spotify.com/track/5eAR1QuDO23Em4r8o5yLul) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 5:04 |
 | 108 | [The Banjo Song](https://open.spotify.com/track/6sqUnjIySqur2BocQgFQKP) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 3:49 |
 | 109 | [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 |
-| 110 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 |
-| 111 | [A Few Of Your Own](https://open.spotify.com/track/2O4dfLvOE0VBqDmGQiw7fR) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 4:30 |
+| 110 | [A Few Of Your Own](https://open.spotify.com/track/2O4dfLvOE0VBqDmGQiw7fR) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 4:30 |
+| 111 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 |
 | 112 | [Dark Side of the Gym](https://open.spotify.com/track/5nKH6bOVogJdgfH031s1P1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 4:50 |
 | 113 | [Tropic Morning News](https://open.spotify.com/track/6oYXnC1pi6S8GJF32jvdmx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 5:09 |
 | 114 | [Start a War](https://open.spotify.com/track/2Tk7IZ4XHXCGRFxSaP40qB) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:16 |
@@ -298,4 +298,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 288 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 289 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `AcUfsAAAAABPpLhEU7Q2AzBCiQsz9uAw`
+Snapshot ID: `AcUlggAAAAASOOKFylZS1Y94+wyw7uQF`

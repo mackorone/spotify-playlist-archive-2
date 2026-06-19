@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 
 > This is Kehlani\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,086 likes - 45 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,140 likes - 45 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 44 | [All Me \(feat\. Keyshia Cole\)](https://open.spotify.com/track/3ucRKbRlikYHyoI17gfR0c) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [All Me \(feat\. Keyshia Cole\)](https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX) | 2:58 |
 | 45 | [Faking It \(feat\. Kehlani & Lil Yachty\)](https://open.spotify.com/track/0pJPdSVti6cTM1Q6xYGmcf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 4:00 |
 
-Snapshot ID: `ajCSAAAAAADWcTzyaSHqbOy5A0Mf0Eo8`
+Snapshot ID: `ajHjgAAAAAB+0+jGqLqx8SB1P3/SA2V5`

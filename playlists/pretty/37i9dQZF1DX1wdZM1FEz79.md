@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장하은\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,672 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,663 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 45 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
 | 46 | [lemon](https://open.spotify.com/track/45K6rDTeTFcpQlVmWbqlyS) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [Ordinary Ever After](https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ) | 3:21 |
 | 47 | [What can I do](https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [What can I do](https://open.spotify.com/album/4eV349LplmfXn5COoDAriG) | 3:27 |
-| 48 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
-| 49 | [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 |
+| 48 | [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 |
+| 49 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
 | 50 | [La Danse De La Joie](https://open.spotify.com/track/1PesmnG3M2KOjYnaq3ppR5) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [LOVE in the BIG CITY \(Special pre\-release \- Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7KkI5zdnZdJufxzDW1aGWp) | 2:28 |
 
 Snapshot ID: `AAAAAI/HdD7Od8DKYoQ+PwDKWIrauf0p`

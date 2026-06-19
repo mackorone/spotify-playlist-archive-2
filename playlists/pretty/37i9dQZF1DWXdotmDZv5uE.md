@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Ay Jalisco no te rajes! Así suena la Perla de Occidente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,952 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,947 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 49 | [Mucho Corazón \- Versión Radio](https://open.spotify.com/track/51Xow1jLPXLvO6qIgagHIj) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Radiolatina](https://open.spotify.com/album/4kOoLLy7kKzoLnrO8Q8Vx1) | 4:06 |
 | 50 | [Decidir](https://open.spotify.com/track/7DT6NuQBHmsSvA1RWuxoeX) | [Disidente](https://open.spotify.com/artist/1grNAkAHEaQSOCifKwW53L) | [Y si tuviera disquera](https://open.spotify.com/album/5P10nyZ4SFfmBJHRss7I1U) | 4:37 |
 | 51 | [maniático](https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [maniático](https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG) | 2:54 |
-| 52 | [Te Deseo Lo Mejor](https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 2:35 |
-| 53 | [Zenit](https://open.spotify.com/track/0xPSN1e1sH9hALJBN7TnBi) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Electrodoméstico](https://open.spotify.com/album/05sgvH47IC8I8ok8ZQXUtp) | 4:34 |
+| 52 | [Zenit](https://open.spotify.com/track/0xPSN1e1sH9hALJBN7TnBi) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Electrodoméstico](https://open.spotify.com/album/05sgvH47IC8I8ok8ZQXUtp) | 4:34 |
+| 53 | [Te Deseo Lo Mejor](https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 2:35 |
 | 54 | [Can U Feel Me?](https://open.spotify.com/track/3tArBIGOkkeJWRGCV6uaYk) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb) | [Red Album](https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse) | 3:17 |
 | 55 | [París \(Junto a Ti\)](https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [París \(Junto a Ti\)](https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3) | 2:36 |
 | 56 | [Todo Con Exceso](https://open.spotify.com/track/7GoWrG8SMUgNQOK5P7gyFX) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [Rock En Español \- Lo Mejor De Cuca](https://open.spotify.com/album/08zGkegYfFHnM4trm489QN) | 3:45 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 62 | [Tecalitlán](https://open.spotify.com/track/1HNSDDyd03NzyopKAMjkU0) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 3:07 |
 | 63 | [Brillantina](https://open.spotify.com/track/3E0oe6DSQ7f4v9EJ8lZaiu) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Electrodoméstico](https://open.spotify.com/album/05sgvH47IC8I8ok8ZQXUtp) | 3:32 |
 | 64 | [Fijate Que Suave](https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Jazz Vinil](https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX) | 4:11 |
-| 65 | [Super 8](https://open.spotify.com/track/1ppE503LdYpkr1BMqBeMJV) | [La Dosis](https://open.spotify.com/artist/4sGkNo2iD0Mr963lqnTil7) | [La Dosis](https://open.spotify.com/album/1w7s38LGudL6tMQ5cJURlQ) | 3:24 |
-| 66 | [Cuando Salga la Luna](https://open.spotify.com/track/7tla7OE84fevuyEqNgOjwH) | [Radaid](https://open.spotify.com/artist/6L5ZxnA0J7H0pjubBZFDMz) | [Luz Escondida](https://open.spotify.com/album/7lvaNgNthi0xhNeUOHsma3) | 4:36 |
+| 65 | [Cuando Salga la Luna](https://open.spotify.com/track/7tla7OE84fevuyEqNgOjwH) | [Radaid](https://open.spotify.com/artist/6L5ZxnA0J7H0pjubBZFDMz) | [Luz Escondida](https://open.spotify.com/album/7lvaNgNthi0xhNeUOHsma3) | 4:36 |
+| 66 | [Super 8](https://open.spotify.com/track/1ppE503LdYpkr1BMqBeMJV) | [La Dosis](https://open.spotify.com/artist/4sGkNo2iD0Mr963lqnTil7) | [La Dosis](https://open.spotify.com/album/1w7s38LGudL6tMQ5cJURlQ) | 3:24 |
 | 67 | [Sin Ti](https://open.spotify.com/track/0BqcQNtGQyGEkTyT3f531Q) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7) | [Nos Creían Mudos](https://open.spotify.com/album/0oy28xG9Bsm4k75Q2qreih) | 3:36 |
 | 68 | [Vudú](https://open.spotify.com/track/3NOqbsgsUlgDIqSyUGy85R) | [Garigoles](https://open.spotify.com/artist/4wPyNRBXqP3IZLVJP3AsTX) | [No esperes por el caos..\. este llega cada fin de semana](https://open.spotify.com/album/46DXNSqal3i2c4gq9BLPDB) | 3:50 |
 | 69 | [Noir Mambo](https://open.spotify.com/track/6nv9bERk9Wobhs1je4El9a) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Noir Mambo](https://open.spotify.com/album/6emy3Dpmax22ePiukYrFgJ) | 4:59 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 71 | [Negra soledad \- STUDIO](https://open.spotify.com/track/5YEFZKi7cAxJkapqoj31g3) | [El Personal](https://open.spotify.com/artist/50lv7gkWdpupWhAB0iGOfe) | [La Última y Nos Vamos...](https://open.spotify.com/album/6cMi6Afus0crugjVaUHcuy) | 4:30 |
 | 72 | [Guadalajara](https://open.spotify.com/track/7IIpcHozdBuQtKYHq24XPF) | [Tragicomi\-K](https://open.spotify.com/artist/3EleX5Y0fbsEKlvBuXInB4) | [El club de los corazones rotos](https://open.spotify.com/album/5m82gfZ2Rr7vVh7lQ3reDd) | 3:36 |
 | 73 | [Chapala Surfin](https://open.spotify.com/track/5K927CEPQwhkY6eZ2TVkGH) | [The Blue Boys](https://open.spotify.com/artist/1HEeUuAhlG9jQ8zm6MEEic) | [Puro Amor](https://open.spotify.com/album/0hFZkw9XGwxPj95PB5So0Z) | 2:38 |
-| 74 | [Levitando](https://open.spotify.com/track/1456ciiC2PUVLqj7fhqTXi) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Presente](https://open.spotify.com/album/1MmBRu3POeoXYmp8eLezX5) | 3:04 |
-| 75 | [Me Puse Pedo](https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Me Puse Pedo](https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx) | 3:10 |
+| 74 | [Me Puse Pedo](https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Me Puse Pedo](https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx) | 3:10 |
+| 75 | [Levitando](https://open.spotify.com/track/1456ciiC2PUVLqj7fhqTXi) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Presente](https://open.spotify.com/album/1MmBRu3POeoXYmp8eLezX5) | 3:04 |
 | 76 | [Lamentos de un Mico](https://open.spotify.com/track/2zywdeCRuMSauBQyyiWLwG) | [La Quinta Visión](https://open.spotify.com/artist/0WPOl666SCqAvU83Tzqa4I) | [Super Onda Chicana](https://open.spotify.com/album/0ejOwpUztLTHRHqmOE9QXR) | 3:53 |
 | 77 | [Mi Dulce Dama Maria Juana](https://open.spotify.com/track/4ErfTCmYH3XZGbm8qfRwx3) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Segunda Vez](https://open.spotify.com/album/6C15fWSpPG0hcrV7p5ryed) | 3:20 |
 | 78 | [Feliz](https://open.spotify.com/track/7rnQf2IutLMDJcgj2cuQHE) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Maldito](https://open.spotify.com/album/69XMHIVOPZynmzphZsAeFD) | 3:10 |
 | 79 | [Roaming](https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:07 |
 | 80 | [Jalisco es México](https://open.spotify.com/track/0iaYJyhIQGnfPt3XvkN3xe) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [5ta\. Generación 2002](https://open.spotify.com/album/20ma35P21HiebE76OMe3P5) | 4:49 |
 
-Snapshot ID: `AAAAAIUV/QKO1rHBMmxalU/OT1ndivqb`
+Snapshot ID: `AAAAAL/LHqj9w2ecBDwPMwf3Wtnfh318`

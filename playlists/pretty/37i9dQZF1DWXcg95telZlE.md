@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,871 likes - 82 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,977 likes - 82 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 23 | [Mr\. Lonely](https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:41 |
 | 24 | [You Mean Everything to Me](https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:37 |
 | 25 | [Devoted to You](https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:21 |
-| 26 | [They Can't Take That Away From Me](https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:40 |
-| 27 | [Time After Time](https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Great Ladies Of Song / Spotlight On Margaret Whiting](https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO) | 2:56 |
+| 26 | [Time After Time](https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Great Ladies Of Song / Spotlight On Margaret Whiting](https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO) | 2:56 |
+| 27 | [They Can't Take That Away From Me](https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:40 |
 | 28 | [Don't](https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:48 |
 | 29 | [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 |
 | 30 | [Let It Be Me](https://open.spotify.com/track/0Tjdbd83LEAWrA0atsXMDJ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Best Of The Everly Brothers \- Rare Solo Classics](https://open.spotify.com/album/4rnq9VLTICIlomeKZ1N3mB) | 2:26 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 63 | [My Special Angel](https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 2:45 |
 | 64 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 3:36 |
 | 65 | [The Great Pretender](https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters Golden Hits](https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B) | 2:37 |
-| 66 | [La vie en rose](https://open.spotify.com/track/5IIybI1oiOCY3DRUrpQ7zA) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [C'est Si Bon](https://open.spotify.com/album/6yKeev1MnyUbFjhNHWsFFK) | 3:26 |
-| 67 | [Walkin' After Midnight](https://open.spotify.com/track/14t8pLQkLLskPriG8bs96b) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Golden Hits Collection](https://open.spotify.com/album/7L6wZe1QGwXnOFci9jnJs7) | 2:34 |
+| 66 | [Walkin' After Midnight](https://open.spotify.com/track/14t8pLQkLLskPriG8bs96b) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Golden Hits Collection](https://open.spotify.com/album/7L6wZe1QGwXnOFci9jnJs7) | 2:34 |
+| 67 | [La vie en rose](https://open.spotify.com/track/5IIybI1oiOCY3DRUrpQ7zA) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [C'est Si Bon](https://open.spotify.com/album/6yKeev1MnyUbFjhNHWsFFK) | 3:26 |
 | 68 | [When I Fall In Love](https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 3:11 |
 | 69 | [You Don't Know Me](https://open.spotify.com/track/6LahUh0U4umx6hDFfVWlGi) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 3:16 |
 | 70 | [Sixteen Tons](https://open.spotify.com/track/5K8vyssaOP8gltF0fGs8X1) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters Golden Hits](https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B) | 2:34 |

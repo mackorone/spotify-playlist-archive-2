@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Try a little tenderness\. Cover: Boy Soda
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,380 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,379 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 12 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
 | 13 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 |
 | 14 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 |
-| 15 | [Xxplosive](https://open.spotify.com/track/0Ed7MeXx64f6OcIuoTRCg1) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Hittman](https://open.spotify.com/artist/3np2OYRZAgI4e6lxeGmGr8), [Six\-Two](https://open.spotify.com/artist/4xko5t5site4jVwopoCF21), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 3:35 |
-| 16 | [FRE$H](https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [FRE$H](https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3) | 2:18 |
+| 15 | [FRE$H](https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [FRE$H](https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3) | 2:18 |
+| 16 | [Xxplosive](https://open.spotify.com/track/0Ed7MeXx64f6OcIuoTRCg1) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Hittman](https://open.spotify.com/artist/3np2OYRZAgI4e6lxeGmGr8), [Six\-Two](https://open.spotify.com/artist/4xko5t5site4jVwopoCF21), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 3:35 |
 | 17 | [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 |
 | 18 | [Nikes](https://open.spotify.com/track/19YKaevk2bce4odJkP5L22) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:14 |
 | 19 | [Pictures of You](https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/3tNWFiq09LavrJA0s108QE) | 3:09 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 64 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
 | 65 | [Let's Straighten It Out](https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc) | [O.V\. Wright](https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk) | [The Bottom Line](https://open.spotify.com/album/0bDFKtBkBTJxTVLwZ8H80N) | 3:52 |
 | 66 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 |
-| 67 | [Superbloom](https://open.spotify.com/track/56imCiO83oUJj6z9favCWt) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 4:11 |
-| 68 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 |
-| 69 | [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 |
-| 70 | [Any Old Fool](https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Any Old Fool](https://open.spotify.com/album/645BIIezXIuUl2UADCAJyS) | 3:04 |
+| 67 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 |
+| 68 | [Superbloom](https://open.spotify.com/track/56imCiO83oUJj6z9favCWt) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 4:11 |
+| 69 | [Any Old Fool](https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Any Old Fool](https://open.spotify.com/album/645BIIezXIuUl2UADCAJyS) | 3:04 |
+| 70 | [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 |
 
 Snapshot ID: `AAAAAK6C39cM+mqBkYz7ymUoh3N8H2wt`

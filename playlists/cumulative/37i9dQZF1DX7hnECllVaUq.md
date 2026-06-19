@@ -4,7 +4,7 @@
 
 > The biggest hits from country artists around the globe\. Cover: Mack Geiger
 
-232 songs - 12 hr 56 min
+233 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Didn't I](https://open.spotify.com/track/3pKrznV5COeDouofUDzq6F) | [BlackByrd](https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm) | [Didn't I](https://open.spotify.com/album/5owWR8QqLFMGRnNIK0pftp) | 3:25 | 2024-05-31 |  |
 | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 | 2025-07-18 | 2026-02-18 |
 | [Dream Baby](https://open.spotify.com/track/0yrG3eeWvuj9DJkVPsYWpJ) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Dream Baby](https://open.spotify.com/album/3IwClZfwpNZyHpbaS38D7V) | 3:37 | 2024-03-22 |  |
+| [Dublin Lights](https://open.spotify.com/track/1pJ4VltkJd9psAy8C6AuGM) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 2:09 | 2026-06-19 |  |
 | [F\-150](https://open.spotify.com/track/1k090Cp4kVflIXkQTcqIT9) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [F\-150](https://open.spotify.com/album/09m2n7rJs6daBxySqetJ9R) | 2:48 | 2023-03-31 | 2024-09-14 |
 | [Fall In Love](https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 | 2023-05-19 | 2024-04-19 |
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2023-03-31 | 2023-06-08 |
@@ -189,7 +190,7 @@
 | [Tennessee Orange](https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:43 | 2024-03-15 | 2025-07-19 |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2023-03-31 |  |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-03-15 |  |
-| [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2023-03-31 |  |
+| [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2023-03-31 | 2026-06-19 |
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2023-03-31 | 2025-07-19 |
 | [The Devil I've Seen](https://open.spotify.com/track/4MLomKQI0oeXO1DeJBiRp2) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Devil I've Seen](https://open.spotify.com/album/1KAXeCYFOrQwZzQlpf0dnI) | 3:23 | 2024-03-22 | 2025-03-01 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-07-18 |  |

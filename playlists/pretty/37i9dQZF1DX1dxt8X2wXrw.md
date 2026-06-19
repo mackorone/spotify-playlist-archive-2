@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,254 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,259 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 34 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
 | 35 | [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 |
 | 36 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 |
-| 37 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 |
-| 38 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
+| 37 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
+| 38 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 |
 | 39 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 |
 | 40 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 |
 | 41 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 61 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 |
 | 62 | [I'M SO IN LOVE WITH YOU](https://open.spotify.com/track/5mSjVVGPv8zUsjfMuSxPRP) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 3:42 |
 | 63 | [Be Mine](https://open.spotify.com/track/3dSZcr7SWwFdOmY0r3Ryih) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Midnight Request Line](https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD) | 3:42 |
-| 64 | [Drown](https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4) | 3:54 |
-| 65 | [Medicine](https://open.spotify.com/track/0D3dVIPNOlzZ2vjUeBX12Q) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Medicine](https://open.spotify.com/album/2kkEMXsGVuWC36UClM5A7B) | 3:47 |
-| 66 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
-| 67 | [Toroka](https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Toroka](https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC) | 3:22 |
+| 64 | [Medicine](https://open.spotify.com/track/0D3dVIPNOlzZ2vjUeBX12Q) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Medicine](https://open.spotify.com/album/2kkEMXsGVuWC36UClM5A7B) | 3:47 |
+| 65 | [Drown](https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4) | 3:54 |
+| 66 | [Toroka](https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Toroka](https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC) | 3:22 |
+| 67 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
 | 68 | [No Broke Boys](https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:12 |
 | 69 | [Rolling Stone](https://open.spotify.com/track/4fzlbYTl8CWMigIqsd5gI6) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Rolling Stone](https://open.spotify.com/album/4HqdElx5myiCasQwHkh82T) | 1:56 |
 | 70 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 |

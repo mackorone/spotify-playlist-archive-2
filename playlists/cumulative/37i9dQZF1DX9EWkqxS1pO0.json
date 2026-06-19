@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Sosyete '25",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Radikal",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -902,7 +902,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 206857,
       "name": "Belki De Yar\u0131n",
       "url": "https://open.spotify.com/track/76erwtid9tSgfgBL5ATeyX"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 306420,
       "name": "beni \u015fimdi tut",
       "url": "https://open.spotify.com/track/7aiYP5XhEoqgVEJkao1GRo"
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 152307,
       "name": "Davet",
       "url": "https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0"
@@ -2661,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Gel Yan\u0131ma",
+        "url": "https://open.spotify.com/album/6PTzJz6zhAyInGy4Aft0uC"
+      },
+      "artists": [
+        {
+          "name": "Gizem Kurtulmu\u015f",
+          "url": "https://open.spotify.com/artist/4hSFPzEefNBTUumGzWu3j2"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161134,
+      "name": "Gel Yan\u0131ma",
+      "url": "https://open.spotify.com/track/4Jjna45Y0hrWHmPPIYlle9"
+    },
+    {
+      "album": {
         "name": "Gelmi\u015fi Ge\u00e7mi\u015fi",
         "url": "https://open.spotify.com/album/4Khwxa4LofNZXiYU5J6rWp"
       },
@@ -3196,6 +3214,24 @@
       "duration_ms": 116129,
       "name": "Hayran",
       "url": "https://open.spotify.com/track/7w3J1DNzTMGQLcgps5iDGO"
+    },
+    {
+      "album": {
+        "name": "HAYRAN",
+        "url": "https://open.spotify.com/album/1yGkCrgghH7UJgMalYTSka"
+      },
+      "artists": [
+        {
+          "name": "Radikal",
+          "url": "https://open.spotify.com/artist/16CDaDlBd2bji8I4Ck1iuV"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163347,
+      "name": "HAYRAN",
+      "url": "https://open.spotify.com/track/6D4UduWC97tRdqQlaal2EI"
     },
     {
       "album": {
@@ -6380,7 +6416,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 179379,
       "name": "Yanl\u0131\u015f Yaln\u0131z",
       "url": "https://open.spotify.com/track/7vLJSDZTOsohSEn3F6lcBr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Bullet For My Valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399,984 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,168 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 62 | [Bleed It Out](https://open.spotify.com/track/78gsvivelCP8Kh0tSRTy8D) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND) | 2:44 |
 | 63 | [The art of dying](https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 9:54 |
 | 64 | [The Wicker Man \- 2015 Remaster](https://open.spotify.com/track/1diuZVsxD74xvtUSABRUoF) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Brave New World \(2015 Remaster\)](https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB) | 4:35 |
-| 65 | [Revolution Is My Name](https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:16 |
-| 66 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
+| 65 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
+| 66 | [Revolution Is My Name](https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:16 |
 | 67 | [Twilight Of The Thunder God](https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:08 |
 | 68 | [Jumpdafuckup](https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Primitive \(Special Edition\)](https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l) | 5:11 |
 | 69 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
@@ -84,17 +84,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 74 | [mOBSCENE](https://open.spotify.com/track/1YVuJrfHHmD4ilULhAVqPW) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Golden Age Of Grotesque](https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc) | 3:25 |
 | 75 | [Bloodline](https://open.spotify.com/track/27uDL5cAoMijxbDLfaz9Xv) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [God Hates Us All](https://open.spotify.com/album/3MuaoZgcAFuanhg04e75LK) | 3:36 |
 | 76 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 |
-| 77 | [The Pursuit of Vikings](https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Fate of Norns](https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N) | 4:30 |
-| 78 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
+| 77 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
+| 78 | [The Pursuit of Vikings](https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Fate of Norns](https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N) | 4:30 |
 | 79 | [Blood Brothers \- 2015 Remaster](https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Brave New World \(2015 Remaster\)](https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB) | 7:14 |
 | 80 | [As I Am](https://open.spotify.com/track/6hz6lrQtLcxOOjflnYjF9o) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Train of Thought](https://open.spotify.com/album/1yAbzShRcY4muLKsX8UWxj) | 7:47 |
 | 81 | [Nemesis](https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:12 |
-| 82 | [Guardians Of Asgaard](https://open.spotify.com/track/2DR9AzDhYeStkHupvU08FC) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:23 |
-| 83 | [Right Side Of The Bed](https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:42 |
+| 82 | [Right Side Of The Bed](https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:42 |
+| 83 | [Guardians Of Asgaard](https://open.spotify.com/track/2DR9AzDhYeStkHupvU08FC) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:23 |
 | 84 | [Oblivion](https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:46 |
 | 85 | [Nymphetamine Fix](https://open.spotify.com/track/6WuqJLVZcyJklg7lIozAO8) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Nymphetamine Special Edition](https://open.spotify.com/album/0e5cBxKWQYe52fyu23P01P) | 5:02 |
-| 86 | [Inis Mona](https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Slania](https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ) | 4:09 |
-| 87 | [Step Up](https://open.spotify.com/track/4Q1w4Ryyi8KNxxaFlOQClK) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Desensitized](https://open.spotify.com/album/2rLw6qyXE3fx4abX8acmhy) | 3:17 |
+| 86 | [Step Up](https://open.spotify.com/track/4Q1w4Ryyi8KNxxaFlOQClK) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Desensitized](https://open.spotify.com/album/2rLw6qyXE3fx4abX8acmhy) | 3:17 |
+| 87 | [Inis Mona](https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Slania](https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ) | 4:09 |
 | 88 | [Fall Into Sleep](https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:51 |
 | 89 | [Through Struggle](https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:58 |
 | 90 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |

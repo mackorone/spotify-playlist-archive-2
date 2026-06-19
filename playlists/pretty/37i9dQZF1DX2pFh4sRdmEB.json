@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de M\u00fasica Mexicana de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 587807,
+  "num_followers": 587853,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,18 @@
     {
       "added_at": "2026-05-15 07:45:22",
       "album": {
-        "name": "En Privado",
-        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
+        "name": "ONDEADO$",
+        "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 199399,
-      "name": "En Privado",
-      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
+      "duration_ms": 114913,
+      "name": "SUIZA",
+      "url": "https://open.spotify.com/track/7585wxMp2e3IhBq3tJAXgw"
     },
     {
       "added_at": "2026-05-15 07:45:22",
@@ -299,18 +295,22 @@
     {
       "added_at": "2026-05-15 07:45:22",
       "album": {
-        "name": "ONDEADO$",
-        "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
+        "name": "En Privado",
+        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
       },
       "artists": [
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 114913,
-      "name": "SUIZA",
-      "url": "https://open.spotify.com/track/7585wxMp2e3IhBq3tJAXgw"
+      "duration_ms": 199399,
+      "name": "En Privado",
+      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
     },
     {
       "added_at": "2026-05-15 07:45:22",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-05-15 07:45:22",
       "album": {
+        "name": "La Cita Fresita (En Vivo)",
+        "url": "https://open.spotify.com/album/6Oo34Jcr1pKCy8lIOFxQ1L"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        }
+      ],
+      "duration_ms": 180163,
+      "name": "La Cita Fresita - En Vivo",
+      "url": "https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT"
+    },
+    {
+      "added_at": "2026-05-15 07:45:22",
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 153031,
       "name": "LA PEOPLE",
       "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
-    },
-    {
-      "added_at": "2026-05-15 07:45:22",
-      "album": {
-        "name": "La Cita Fresita (En Vivo)",
-        "url": "https://open.spotify.com/album/6Oo34Jcr1pKCy8lIOFxQ1L"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aztteca",
-          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
-        }
-      ],
-      "duration_ms": 180163,
-      "name": "La Cita Fresita - En Vivo",
-      "url": "https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT"
     },
     {
       "added_at": "2026-05-15 07:45:22",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-05-15 07:45:22",
       "album": {
+        "name": "Cada Noche",
+        "url": "https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 221325,
+      "name": "Cada Noche",
+      "url": "https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5"
+    },
+    {
+      "added_at": "2026-05-15 07:45:22",
+      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 173586,
       "name": "Eres Ese Algo",
       "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
-    },
-    {
-      "added_at": "2026-05-15 07:45:22",
-      "album": {
-        "name": "Cada Noche",
-        "url": "https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 221325,
-      "name": "Cada Noche",
-      "url": "https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5"
     },
     {
       "added_at": "2026-05-15 07:45:22",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-05-15 07:45:22",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
-    },
-    {
-      "added_at": "2026-05-15 07:45:22",
-      "album": {
         "name": "RARI",
         "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2026-05-15 07:45:22",
       "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 156792,
-      "name": "Vida Ventajosa",
-      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
     },
     {
       "added_at": "2026-05-15 07:45:22",
@@ -1647,6 +1631,22 @@
       "duration_ms": 217600,
       "name": "La Casita",
       "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+    },
+    {
+      "added_at": "2026-05-15 07:45:22",
+      "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 156792,
+      "name": "Vida Ventajosa",
+      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
     },
     {
       "added_at": "2026-05-15 07:45:22",

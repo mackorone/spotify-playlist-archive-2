@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 514362,
+  "num_followers": 514436,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAA4kerHqTg7LCmvJuOqjHZT",
+  "snapshot_id": "ajHjgAAAAABwu6Ls0k2uGlSWWf9DJ3Qw",
   "tracks": [
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
         }
       ],
-      "duration_ms": 194987,
-      "name": "parasite.ev3",
-      "url": "https://open.spotify.com/track/7GPLneLBvgAURR2AblkAJy"
+      "duration_ms": 182764,
+      "name": "king_sl@yer.fmk",
+      "url": "https://open.spotify.com/track/27lDLTm1KL0YsEdtMFUxgY"
     },
     {
       "added_at": null,
@@ -744,13 +744,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
         }
       ],
-      "duration_ms": 182764,
-      "name": "king_sl@yer.fmk",
-      "url": "https://open.spotify.com/track/27lDLTm1KL0YsEdtMFUxgY"
+      "duration_ms": 207982,
+      "name": "losT_404.nll",
+      "url": "https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB"
     },
     {
       "added_at": null,
@@ -767,6 +767,42 @@
       "duration_ms": 269626,
       "name": "For Stevie Wonder's Eyes Only (Braille)",
       "url": "https://open.spotify.com/track/7EIVI3qWBiGDB6G2Wx5Bl3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "duration_ms": 198246,
+      "name": "koolaid.xxo",
+      "url": "https://open.spotify.com/track/5O1gAdLo5wb7TpYkGNLsCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Tell Slater Not to Wash His Dick",
+      "url": "https://open.spotify.com/track/2AxduArp543ijR4B2I9ZPF"
     },
     {
       "added_at": null,
@@ -800,29 +836,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 210426,
-      "name": "Tell Slater Not to Wash His Dick",
-      "url": "https://open.spotify.com/track/2AxduArp543ijR4B2I9ZPF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo-files",
-        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        }
-      ],
-      "duration_ms": 244355,
-      "name": "m0th3r.tng",
-      "url": "https://open.spotify.com/track/2NlfuU3CpiYsMn12jlcIxJ"
+      "duration_ms": 129866,
+      "name": "A Lot Like Vegas",
+      "url": "https://open.spotify.com/track/0n1HOrTBNb87Ozqqs5ZiZD"
     },
     {
       "added_at": null,
@@ -860,17 +876,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Casiio",
-          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
-        },
-        {
-          "name": "No Spirit",
-          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
         }
       ],
-      "duration_ms": 188456,
-      "name": "Darkside.verXx",
-      "url": "https://open.spotify.com/track/42UmHCU9anrkIcW4jIuiSr"
+      "duration_ms": 194987,
+      "name": "parasite.ev3",
+      "url": "https://open.spotify.com/track/7GPLneLBvgAURR2AblkAJy"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

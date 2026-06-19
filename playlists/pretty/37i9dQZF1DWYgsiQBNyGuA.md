@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Tone Stith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,362 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,318 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

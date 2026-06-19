@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 
 > La playlist idéale pour prendre la route.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,645 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,660 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 29 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
 | 30 | [Dani California](https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 4:42 |
 | 31 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 4:10 |
-| 32 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
-| 33 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 |
+| 32 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 |
+| 33 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
 | 34 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
 | 35 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
 | 36 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |

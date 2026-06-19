@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,627 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,650 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 12 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 |
 | 13 | [Más Fuerte](https://open.spotify.com/track/6PLihys6LLwbCI9GRByWZ0) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:04 |
 | 14 | [Los Besos](https://open.spotify.com/track/50SFVefoyzWnJy1oQWfRtr) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:22 |
-| 15 | [¿Que Te Pasó?](https://open.spotify.com/track/6TyzdTASQrRujdjPP93AJe) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [¿Que Te Pasó?](https://open.spotify.com/album/7aNA8T8Ycq3EG3tQJr1q9h) | 2:48 |
-| 16 | [Dónde, Cómo y Cuándo?](https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 3:03 |
+| 15 | [Dónde, Cómo y Cuándo?](https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 3:03 |
+| 16 | [¿Que Te Pasó?](https://open.spotify.com/track/6TyzdTASQrRujdjPP93AJe) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [¿Que Te Pasó?](https://open.spotify.com/album/7aNA8T8Ycq3EG3tQJr1q9h) | 2:48 |
 | 17 | [Limonar](https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Limonar](https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3) | 3:15 |
 | 18 | [Mantis](https://open.spotify.com/track/6ImCkOkytyhBDWDU3a26iL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Mantis](https://open.spotify.com/album/6YtFYvsLVJpOSLDJdQ5bdK) | 4:14 |
 | 19 | [22](https://open.spotify.com/track/0AsWM30PAtdxvAph5aYXAW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:39 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 29 | [KAI](https://open.spotify.com/track/2phpFeX1XK7nnrEyYouEoQ) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [KAI](https://open.spotify.com/album/5Z4gD8ds2JDSoUYadir9rO) | 2:56 |
 | 30 | [Espejo](https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Espejo](https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW) | 2:38 |
 | 31 | [Lejos Conmigo](https://open.spotify.com/track/4c1gXSj2oEYywSfN6iOwGu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 2:55 |
-| 32 | [cómo fue? \(feat\. Greeicy\)](https://open.spotify.com/track/0XLyEDUC3dvXcwye9HqdkG) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Curita Para El Corazón](https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj) | 3:45 |
-| 33 | [Guatapé](https://open.spotify.com/track/0lLo2KPtFaXcB82klIgMN6) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [En Las Nubes \- Con Mis Panas](https://open.spotify.com/album/58836hf4URoAA7GyUvFm2Q) | 2:59 |
+| 32 | [Guatapé](https://open.spotify.com/track/0lLo2KPtFaXcB82klIgMN6) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [En Las Nubes \- Con Mis Panas](https://open.spotify.com/album/58836hf4URoAA7GyUvFm2Q) | 2:59 |
+| 33 | [cómo fue? \(feat\. Greeicy\)](https://open.spotify.com/track/0XLyEDUC3dvXcwye9HqdkG) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Curita Para El Corazón](https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj) | 3:45 |
 | 34 | [Desesperado \(Voy A Tomar\)](https://open.spotify.com/track/4tvtsvgrIksr7iqzPeADXB) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Desesperado \(Voy A Tomar\)](https://open.spotify.com/album/3zIhxSQpieLvjXLpZSXdDa) | 4:13 |
 | 35 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/4yPrBID40hUMocphha5lr7) | 3:21 |
 | 36 | [YELIANA \- Cap\. 3 \- ZHA](https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [YELIANA\-Cap.3\-ZHA](https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 49 | [La Magia de Tus Ojos \- Versión Pop](https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Magia de Tus Ojos \(Versión Pop\)](https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph) | 2:48 |
 | 50 | [Perfecta](https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perfecta](https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur) | 3:02 |
 
-Snapshot ID: `ajCSAAAAAAC7LQQiV2xgmzGKIweQBdk/`
+Snapshot ID: `ajHjgAAAAAA2k3H8pnruubfHg2m8ZABi`

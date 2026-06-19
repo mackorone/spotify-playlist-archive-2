@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 81 | [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/track/4e1cXIQQPQoCFriDFRRowA) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [Moto Blanco](https://open.spotify.com/artist/2faLHCwToqDd4C53QiWIKj) | [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/album/7yD1DbXMwoMXFu9k0lnLCm) | 3:07 |
 | 82 | [You Should Be Alone](https://open.spotify.com/track/3a3TUhKJCOfmyjdaynC1t2) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [You Should Be Alone](https://open.spotify.com/album/3VyyCtbAOTppTYySZ9TvVD) | 3:38 |
 | 83 | [Concrete](https://open.spotify.com/track/2uYlI0bKR6m7kkjHLmEI76) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:19 |
-| 84 | [Fireproof](https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB) | [Forever Bound](https://open.spotify.com/artist/7tklGFmhSD9jlcE506ZcZO) | [Fireproof](https://open.spotify.com/album/20uXkEjYVIGDnhO3TLBh4L) | 2:36 |
-| 85 | [CALL ME](https://open.spotify.com/track/5UwOGv6gUgqxD1VCXMGwno) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [CALL ME](https://open.spotify.com/album/3rez7CfomkdRAjFzOPv3r9) | 2:10 |
+| 84 | [CALL ME](https://open.spotify.com/track/5UwOGv6gUgqxD1VCXMGwno) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [CALL ME](https://open.spotify.com/album/3rez7CfomkdRAjFzOPv3r9) | 2:10 |
+| 85 | [Fireproof](https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB) | [Forever Bound](https://open.spotify.com/artist/7tklGFmhSD9jlcE506ZcZO) | [Fireproof](https://open.spotify.com/album/20uXkEjYVIGDnhO3TLBh4L) | 2:36 |
 | 86 | [Split Lip](https://open.spotify.com/track/6aevwbUn1BgQY9iXXxmRcs) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:09 |
 | 87 | [Never Let You Go](https://open.spotify.com/track/195rIaxn3j8SysVOs2UaOJ) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Never Let You Go](https://open.spotify.com/album/7aGJUHI9MDCEabog2n4B3O) | 2:54 |
 | 88 | [Rothko](https://open.spotify.com/track/07gbs1Gb4Lu3swfgPzYLBk) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 2:58 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 143 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 | 144 | [PRE](https://open.spotify.com/track/211CggMXVH5VprHhj8iHvF) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 0:17 |
 
-Snapshot ID: `AcUfpgAAAACdXnPuCSPHOwccTt5J8F66`
+Snapshot ID: `AcUlggAAAACISUThWUekCtxWf5Ddc546`

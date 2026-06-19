@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 
 > This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,383 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,481 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 39 | [Márchate](https://open.spotify.com/track/7ywyOW3ugVzVBIU3TFO9af) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Márchate Y Olvídame](https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP) | 2:54 |
 | 40 | [Eso Si Me Dolió](https://open.spotify.com/track/3rfDkHCYGAwngKxArHz08k) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:14 |
 | 41 | [Algo Bien](https://open.spotify.com/track/2M79FMrWRz5AlqbMXyRGP6) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Incomparable](https://open.spotify.com/album/1FFEWzkpUGWt0aC6rzQC8D) | 3:06 |
-| 42 | [Perdón Porque?](https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:30 |
-| 43 | [Hay Amores](https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Ídolos, Hoy Mis Amigos!!!](https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc) | 3:15 |
+| 42 | [Hay Amores](https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Ídolos, Hoy Mis Amigos!!!](https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc) | 3:15 |
+| 43 | [Perdón Porque?](https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:30 |
 | 44 | [No Sé](https://open.spotify.com/track/76LNcs9r5RU3b6yB2UW10E) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:07 |
 | 45 | [Aquí Nada Va a Cambiar](https://open.spotify.com/track/1dvVUz14yaEXcQ1CJUnquH) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Incomparable](https://open.spotify.com/album/1FFEWzkpUGWt0aC6rzQC8D) | 2:48 |
 | 46 | [Buscándole A La Suerte](https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Buscándole A La Suerte](https://open.spotify.com/album/74bPnWHzQtUocCjMpK08au) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 49 | [Demente](https://open.spotify.com/track/642V8Exx3tLDW7yYrbKgCW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:34 |
 | 50 | [Te Dije](https://open.spotify.com/track/7nqb9Lio1yARXuEdlkNOJW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:23 |
 
-Snapshot ID: `ajCSAAAAAAC0UZr0QM2gkoQ3mn3GNUOM`
+Snapshot ID: `ajHjgAAAAABsqHHS3vTT8kh1WKvM4/d4`

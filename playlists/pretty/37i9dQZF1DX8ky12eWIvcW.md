@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 
 > Turn up with the biggest party tracks of yesteryear.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,816,125 likes - 93 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,816,182 likes - 93 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 | 52 | [Miami](https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:17 |
 | 53 | [Beautiful](https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Paid Tha Cost To Be Da Bo$$](https://open.spotify.com/album/7F9hfZKh6WLOKME4LwCPZI) | 4:58 |
 | 54 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 |
-| 55 | [Fancy](https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:19 |
-| 56 | [C.R.E.A.M\. \(Cash Rules Everything Around Me\)](https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:12 |
+| 55 | [C.R.E.A.M\. \(Cash Rules Everything Around Me\)](https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:12 |
+| 56 | [Fancy](https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:19 |
 | 57 | [Thong Song](https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm) | 4:13 |
 | 58 | [Freek\-A\-Leek](https://open.spotify.com/track/4MeDnO5yA2Zi6IMlVApRci) | [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Still Writing In My Diary: 2nd Entry](https://open.spotify.com/album/2R7G5Z0RWWZU1V731JZG68) | 3:55 |
 | 59 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,463 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,665 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pary](https://open.spotify.com/track/1vuv2tN0AWun2LYnJIkCe0) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Con dolor](https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke) | 2:52 |
 | 2 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 |
 | 3 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/34vXRJ2bCSFiZKQzVUYVOb) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY) | 2:45 |
-| 4 | [AY MAMÁ](https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:43 |
-| 5 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
+| 4 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
+| 5 | [AY MAMÁ](https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:43 |
 | 6 | [ME JALO](https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:32 |
 | 7 | [QUE VUELVAS](https://open.spotify.com/track/44vHtuBiZz2phwEwv1Rabu) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Comienzo](https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY) | 2:49 |
 | 8 | [Hecha Pa' Mí](https://open.spotify.com/track/3AIVCSqTfDX9NxStqhi80S) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Hecha Pa' Mi](https://open.spotify.com/album/0Nlac12HchvCla00JkCnls) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 49 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 |
 | 50 | [BESES ASI](https://open.spotify.com/track/3fKYOapkQ1pTmHqqFHByUG) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ETERNO](https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7) | 3:03 |
 
-Snapshot ID: `ajCSAAAAAAAatYG/SjYp7Zy/cUU1pnaV`
+Snapshot ID: `ajHjgAAAAAAEmIuDL20oh0p5SPdHEKuj`

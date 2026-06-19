@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Vicente Cifuentes y Joselo Osses en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,411 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,451 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 30 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
 | 31 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 |
 | 32 | [Mal Bicho](https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Originales \- 20 Exitos](https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc) | 4:03 |
-| 33 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
-| 34 | [Que Corran](https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:59 |
+| 33 | [Que Corran](https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:59 |
+| 34 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
 | 35 | [Señorita a Mi Me Gusta Su Style](https://open.spotify.com/track/2jvsbpAxcBkFp6VScarkzT) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh) | 3:25 |
 | 36 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 |
 | 37 | [Ciegos de Amor](https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Lágrimas y Risas](https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR) | 3:53 |
-| 38 | [Dormir Soñando](https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Serie Verde \- El Gran Silencio](https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG) | 3:09 |
-| 39 | [Entre Vos y Yo](https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailarín Apocalíptico](https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ) | 4:38 |
+| 38 | [Entre Vos y Yo](https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailarín Apocalíptico](https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ) | 4:38 |
+| 39 | [Dormir Soñando](https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Serie Verde \- El Gran Silencio](https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG) | 3:09 |
 | 40 | [No Me Sueltes \(Es Posible\) \- Vivo en Obras](https://open.spotify.com/track/7sfTqUdh0uhBHpvZYF4QcD) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [No Me Sueltes \(Es Posible\) \[Vivo en Obras\]](https://open.spotify.com/album/6Sp7E0J8ZZLj3YIGx87RGj) | 3:54 |
 | 41 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
 | 42 | [El Último Ska](https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [El Último Ska](https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0) | 4:34 |

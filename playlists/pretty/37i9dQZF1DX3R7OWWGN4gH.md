@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > entering my reputation era
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,426,102 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,426,275 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 56 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 |
 | 57 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
 | 58 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 |
-| 59 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 |
-| 60 | [Little Girl Gone](https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I) | 3:08 |
+| 59 | [Little Girl Gone](https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I) | 3:08 |
+| 60 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 |
 | 61 | [If I Killed Someone For You](https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:05 |
 | 62 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 |
 | 63 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 94 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
 | 95 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 |
 | 96 | [Careful What You Wish For \(the doctor said to\)](https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr) | [Jack Harris](https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr) | [Careful What You Wish For \(the doctor said to\)](https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8) | 3:13 |
-| 97 | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD) | 3:00 |
-| 98 | [To Ashes and Blood \(from the series Arcane League of Legends\)](https://open.spotify.com/track/1clsf1YjKNHVUonDva4fnk) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [To Ashes and Blood \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3tm2lX4PPpYX1aRAJrgl2R) | 4:05 |
-| 99 | [Prom Queen](https://open.spotify.com/track/2WEAKylXBPr9PJNANBSTDG) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Prom Queen](https://open.spotify.com/album/6sEMWS70V7jsFnEP76XDmc) | 3:46 |
+| 97 | [To Ashes and Blood \(from the series Arcane League of Legends\)](https://open.spotify.com/track/1clsf1YjKNHVUonDva4fnk) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [To Ashes and Blood \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3tm2lX4PPpYX1aRAJrgl2R) | 4:05 |
+| 98 | [Prom Queen](https://open.spotify.com/track/2WEAKylXBPr9PJNANBSTDG) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Prom Queen](https://open.spotify.com/album/6sEMWS70V7jsFnEP76XDmc) | 3:46 |
+| 99 | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD) | 3:00 |
 | 100 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 |
 
 Snapshot ID: `AAAAAI5RxXhvwK59ipugEfVGfJwHZAmi`

@@ -917,6 +917,28 @@
     },
     {
       "album": {
+        "name": "Come Back Tomorrow",
+        "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202017,
+      "name": "Come Back Tomorrow",
+      "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/06qQT1E5uhlINmwovogW4P"
       },
@@ -1495,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Here For Us",
+        "url": "https://open.spotify.com/album/6yveJpfZPnFvjLVNyMcOhL"
+      },
+      "artists": [
+        {
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Here For Us",
+      "url": "https://open.spotify.com/track/2I8ck8MtIpvUtvnaoZLY2C"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/44F0Y8cKhXQZ2RqE2ofeJh"
       },
@@ -1816,6 +1856,28 @@
       "duration_ms": 143478,
       "name": "I look sh!t (and i\u2018m fine with it)",
       "url": "https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb"
+    },
+    {
+      "album": {
+        "name": "I Love Life (feat. RANI)",
+        "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "I Love Life (feat. RANI)",
+      "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
     },
     {
       "album": {
@@ -2432,7 +2494,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 162214,
       "name": "Listen To Me",
       "url": "https://open.spotify.com/track/3fPXv60Pp9jLGYrjd1RoNd"
@@ -2856,7 +2918,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 147142,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/4paPZYcTcMQmY6hX9JFfiC"
@@ -3150,7 +3212,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 147042,
       "name": "Ode To The Bouncer",
       "url": "https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK"
@@ -3630,6 +3692,28 @@
       "duration_ms": 298838,
       "name": "Sacred Oath (Defqon.1 2026 Anthem)",
       "url": "https://open.spotify.com/track/0S9f4Q3EpMzK7oqJRgLER1"
+    },
+    {
+      "album": {
+        "name": "Sad Girls",
+        "url": "https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168771,
+      "name": "Sad Girls",
+      "url": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot"
     },
     {
       "album": {
@@ -4496,10 +4580,40 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 162717,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb"
+    },
+    {
+      "album": {
+        "name": "Turn The Lights Off (AFROJACK Remix)",
+        "url": "https://open.spotify.com/album/5V4cGa82yJyGTrZe4M9YXt"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195707,
+      "name": "Turn The Lights Off (AFROJACK Remix)",
+      "url": "https://open.spotify.com/track/2rA4VTb4d3ELgJYr4H7BeT"
     },
     {
       "album": {
@@ -4580,7 +4694,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 125625,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/47Ur1YLaC5ELAQ3R9q4zkW"

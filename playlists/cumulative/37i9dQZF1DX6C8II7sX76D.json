@@ -1471,6 +1471,28 @@
     },
     {
       "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6IFS5Kqh3GkDuApNUTNh3h"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234786,
+      "name": "Crave You",
+      "url": "https://open.spotify.com/track/06Gw4zi1Gqg11XgRchemgJ"
+    },
+    {
+      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0"
       },
@@ -2850,7 +2872,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 156347,
       "name": "Home - TWINSICK Remix",
       "url": "https://open.spotify.com/track/1OIlJ7coFBDaUdXXuiTeBc"

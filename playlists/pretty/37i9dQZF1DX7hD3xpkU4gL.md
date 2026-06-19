@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 
 > Para cantar muy bajito..\. o a voz en grito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,508 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,551 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,17 +75,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 65 | [Eternal Flame](https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:58 |
 | 66 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 |
 | 67 | [Cuando nadie me ve](https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [El alma al aire](https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ) | 5:08 |
-| 68 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
-| 69 | [El Gato Que Está Triste y Azul \- Un Gato Nel Blu](https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [El Arte De Roberto Carlos](https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC) | 3:52 |
-| 70 | [La soledad](https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 3:59 |
+| 68 | [La soledad](https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 3:59 |
+| 69 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
+| 70 | [El Gato Que Está Triste y Azul \- Un Gato Nel Blu](https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [El Arte De Roberto Carlos](https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC) | 3:52 |
 | 71 | [Vas A Quedarte](https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:46 |
 | 72 | [Me Enamoré de Ti](https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [No Hay Imposibles](https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07) | 4:23 |
 | 73 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
 | 74 | [Take My Breath Away](https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Take My Breath Away](https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ) | 4:24 |
 | 75 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
 | 76 | [El Amor de Mi Vida](https://open.spotify.com/track/2D2GISPz94aFg526x54sfH) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 5:30 |
-| 77 | [Te Amaré](https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:31 |
-| 78 | [Lo siento](https://open.spotify.com/track/5o2M4yHxo9kyNLdgihFeV1) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:50 |
+| 77 | [Lo siento](https://open.spotify.com/track/5o2M4yHxo9kyNLdgihFeV1) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:50 |
+| 78 | [Te Amaré](https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:31 |
 | 79 | [Un Año](https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Un Año](https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP) | 2:44 |
 | 80 | [Qué Bonito Es Querer](https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [La Cruz Del Mapa](https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa) | 4:30 |
 | 81 | [Entra en Mi Vida](https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:09 |

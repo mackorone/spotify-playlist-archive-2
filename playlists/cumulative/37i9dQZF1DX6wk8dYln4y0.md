@@ -4,7 +4,7 @@
 
 > when the new hockey show \*hits\*
 
-732 songs - 1 day 15 hr 22 min
+733 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,7 +581,7 @@
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-01-29 |  |
 | [Stay The Night](https://open.spotify.com/track/34cJ5hUImL1pYPa4ZPqprI) | [MIZUKI](https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD) | [Stay The Night](https://open.spotify.com/album/68uy26aWj3N1QcKJYUihLe) | 3:26 | 2025-05-22 | 2025-06-06 |
 | [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 | 2026-02-12 |  |
-| [Stem the Flow](https://open.spotify.com/track/2NEJSUekQg1nVvTI0ctJeA) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Stem the Flow](https://open.spotify.com/album/3veAU4R5iCyQrNKRHIvKrE) | 4:03 | 2026-05-14 |  |
+| [Stem the Flow](https://open.spotify.com/track/2NEJSUekQg1nVvTI0ctJeA) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Stem the Flow](https://open.spotify.com/album/3veAU4R5iCyQrNKRHIvKrE) | 4:03 | 2026-05-14 | 2026-06-19 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2024-08-27 | 2025-02-16 |
 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2025-01-09 | 2026-01-30 |
 | [Still Sincere](https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Still Sincere](https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d) | 3:08 | 2026-01-29 | 2026-03-24 |
@@ -712,6 +712,7 @@
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-27 | 2025-09-12 |
 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 | 2025-09-11 |  |
 | [When Did You Stop Loving Me?](https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft 2](https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte) | 3:50 | 2026-03-13 |  |
+| [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7) | 3:25 | 2026-06-11 |  |
 | [where do we go from here](https://open.spotify.com/track/0biM005Th79TJk8JLIC2ah) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [where do we go from here](https://open.spotify.com/album/7MespBHLF05tMB6zYdwpkU) | 2:33 | 2024-10-17 | 2024-11-15 |
 | [WHERE WE ARE](https://open.spotify.com/track/5aBenySHTQ4neQhkyMg9B4) | [byjaye](https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy) | [WHERE WE ARE](https://open.spotify.com/album/73INzXauKzzBYrWmsGyGI1) | 2:11 | 2025-09-18 | 2025-11-07 |
 | [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 | 2024-12-19 | 2025-03-28 |

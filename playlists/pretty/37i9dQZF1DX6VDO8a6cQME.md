@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > The most essential R&B songs from the '90s\. Cover: D'Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,872,231 likes - 75 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,872,366 likes - 75 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 11 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
 | 12 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 13 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 |
-| 14 | [No Ordinary Love](https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 7:20 |
-| 15 | [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 |
+| 14 | [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 |
+| 15 | [No Ordinary Love](https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 7:20 |
 | 16 | [Pony](https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:11 |
 | 17 | [Ex\-Factor](https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:26 |
 | 18 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 34 | [Breakin' My Heart \(Pretty Brown Eyes\)](https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [Meant To Be Mint](https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr) | 5:56 |
 | 35 | [Mary Jane \(All Night Long\)](https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:39 |
 | 36 | [Too Close](https://open.spotify.com/track/5IFCyWplye09HytIP80RCF) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:19 |
-| 37 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
-| 38 | [I Wanna Be Down](https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 4:51 |
+| 37 | [I Wanna Be Down](https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 4:51 |
+| 38 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
 | 39 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 |
 | 40 | [Kiss of Life](https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 5:50 |
 | 41 | [I Can Love You](https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 4:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 
 > celebre seu dia no maior astral!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,366,431 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,366,276 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 | 51 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 |
 | 52 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 |
 | 53 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:20 |
-| 54 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:03 |
+| 54 | [Pupila](https://open.spotify.com/track/7Gk5OrMYaMRtT2JmgJVAfk) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Pupila](https://open.spotify.com/album/2YJviUWVUlAlKku8Ghb3sj) | 3:22 |
 | 55 | [Piece Of Your Heart \- Alok Remix](https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart \(Alok Remix\)](https://open.spotify.com/album/6RlifxGX8F3IijsJXkTIlq) | 2:46 |
-| 56 | [Pupila](https://open.spotify.com/track/7Gk5OrMYaMRtT2JmgJVAfk) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Pupila](https://open.spotify.com/album/2YJviUWVUlAlKku8Ghb3sj) | 3:22 |
+| 56 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:03 |
 | 57 | [Love Love](https://open.spotify.com/track/7nSataGo54Le0IfcFQCFLN) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 3:25 |
 | 58 | [These Days \(feat\. Jess Glynne, Macklemore & Dan Caplen\)](https://open.spotify.com/track/5CLGzJsGqhCEECcpnFQA8x) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [These Days \(feat\. Jess Glynne, Macklemore & Dan Caplen\)](https://open.spotify.com/album/2sjjFDjZSCYD5eBCsi0fDW) | 3:30 |
 | 59 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,179 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,181 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 4 | [Crying On The Dancefloor \- Matrix & Futurebound Remix](https://open.spotify.com/track/5BGuQnjP0iZDQHk3AW1Hpc) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Matrix](https://open.spotify.com/artist/3Z5ml7uZK8sG3jCu9oL8jK), [Futurebound](https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5) | [Crying On The Dancefloor \(Matrix & Futurebound Remix\)](https://open.spotify.com/album/1p8NwUCRGnRQ5SPgZb9lNT) | 3:35 |
 | 5 | [Greenlights](https://open.spotify.com/track/0ZPfoFzZ4qmdyzYmG8whmn) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 2:42 |
 | 6 | [Live for the Night](https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:26 |
-| 7 | [Alibi \(Far Out Remix\)](https://open.spotify.com/track/144VylfhBHydi2xvqy9yw6) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2) | [Alibi & Runaway \(Remixes\)](https://open.spotify.com/album/79JRwwNINMbcuNeL7SZb3o) | 3:39 |
-| 8 | [No Regrets \(feat\. Krewella\)](https://open.spotify.com/track/58hjBuGWj43LQ6WjN3ZQAK) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [No Regrets \(feat\. Krewella\)](https://open.spotify.com/album/15JbJKXrnx0PinFy7e5e7D) | 3:04 |
+| 7 | [No Regrets \(feat\. Krewella\)](https://open.spotify.com/track/58hjBuGWj43LQ6WjN3ZQAK) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [No Regrets \(feat\. Krewella\)](https://open.spotify.com/album/15JbJKXrnx0PinFy7e5e7D) | 3:04 |
+| 8 | [Alibi \(Far Out Remix\)](https://open.spotify.com/track/144VylfhBHydi2xvqy9yw6) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2) | [Alibi & Runaway \(Remixes\)](https://open.spotify.com/album/79JRwwNINMbcuNeL7SZb3o) | 3:39 |
 | 9 | [Say Goodbye](https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Say Goodbye](https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ) | 3:53 |
 | 10 | [Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:31 |
 | 11 | [Eternal \- SATOSHI Remix](https://open.spotify.com/track/47vBxe76ulueekDAfPnMhF) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [SATOSHI](https://open.spotify.com/artist/0B2e9vm885JoBB8MoGRUj9) | [Eternal \(SATOSHI Remix\)](https://open.spotify.com/album/0198aXZconibXvFhUMXx3x) | 3:03 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 37 | [Somewhere to Run](https://open.spotify.com/track/7AeYomUuCNb965CWyfLTjK) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Somewhere to Run](https://open.spotify.com/album/0ncAjnBlT0NZERLH9m0VsR) | 3:42 |
 | 38 | [Drive Away](https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 4:00 |
 | 39 | [Ain't That Why \- Skytech Remix](https://open.spotify.com/track/2Zf4tyy5xNiHQkVl9NrBX5) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Ain't That Why \(Skytech Remix\)](https://open.spotify.com/album/4CXlzM5U8VUpkQUk6JazmV) | 2:42 |
-| 40 | [TH2C](https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:11 |
-| 41 | [Anxiety](https://open.spotify.com/track/3MIDI56fBQenFrMMz2cO7i) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:56 |
+| 40 | [Anxiety](https://open.spotify.com/track/3MIDI56fBQenFrMMz2cO7i) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:56 |
+| 41 | [TH2C](https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:11 |
 | 42 | [Runaway](https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Runaway](https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4) | 3:39 |
 | 43 | [Set Yourself Free](https://open.spotify.com/track/1wjnBlO0JevbBAUlOBlwxg) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:39 |
 | 44 | [No Control](https://open.spotify.com/track/296JDELU3ARzEcYzHgPoFP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [MADGRRL](https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 49 | [Party Monster](https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Krewella \(Hits Japan Special Edition\)](https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT) | 3:34 |
 | 50 | [Like We](https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:12 |
 
-Snapshot ID: `ajCSAAAAAACfvMDxB9yhf35ZBYokneLT`
+Snapshot ID: `ajHjgAAAAADzYweo1Ar14xMu2GxKmXXy`

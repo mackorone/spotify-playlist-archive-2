@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,979 likes - 100 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,981 likes - 100 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 57 | [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 |
 | 58 | [The Seeker](https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 5:00 |
 | 59 | [Smokin' Woman](https://open.spotify.com/track/3As9x85QW00A257ahhwKLr) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Dos E.P.'s](https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL) | 5:28 |
-| 60 | [Riding Shotgun](https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm) | [Lowrider](https://open.spotify.com/artist/2ofc2suzjVzbu2EVToSKHW) | [Ode To IO](https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj) | 6:06 |
-| 61 | [Parsonz Curse](https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az) | [Royal Thunder](https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q) | [CVI](https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp) | 6:57 |
+| 60 | [Parsonz Curse](https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az) | [Royal Thunder](https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q) | [CVI](https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp) | 6:57 |
+| 61 | [Riding Shotgun](https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm) | [Lowrider](https://open.spotify.com/artist/2ofc2suzjVzbu2EVToSKHW) | [Ode To IO](https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj) | 6:06 |
 | 62 | [Bright Dawn of the Soul](https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E) | [The Egocentrics](https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh) | [Love Fear Choices and Astronauts](https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d) | 10:51 |
 | 63 | [Staving off Truth](https://open.spotify.com/track/1NUWMbdZLYixwU5HIDVM7T) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Reflections of a Floating World](https://open.spotify.com/album/3KHAbIF4DHori5AW2nWdUA) | 10:18 |
 | 64 | [Desert Cold](https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE) | [Snowy Dunes](https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX) | [Desert Cold](https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY) | 6:13 |
@@ -85,17 +85,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 75 | [Sugar](https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sugar](https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2) | 4:53 |
 | 76 | [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 |
 | 77 | [Tested By Death](https://open.spotify.com/track/0m6wZIKsMjBfReiuCTkaYz) | [Wizard Master](https://open.spotify.com/artist/6X1zEmVicCUxyjqKVxOGNH) | [Tested By Death](https://open.spotify.com/album/0GZ3kOIZdziDYGg585OUBb) | 8:32 |
-| 78 | [Rockin' Course](https://open.spotify.com/track/6zpn0NmeEhm6n4qpmNtKFY) | [Thumlock](https://open.spotify.com/artist/5Ub4KBLHbznhFUc3b5t9Ha) | [Emerald Liquid Odyssey](https://open.spotify.com/album/0oHLdnN5Wcpo4bBC3WUb5O) | 3:09 |
-| 79 | [The Chosen One](https://open.spotify.com/track/2It4BlXp7uTl9xZPYLyqWy) | [Dopelord](https://open.spotify.com/artist/1B1b2jSXksHwmmorhmQ8AF) | [The Chosen One](https://open.spotify.com/album/47Tc6iYguZWmz4TcfNivUU) | 6:56 |
+| 78 | [The Chosen One](https://open.spotify.com/track/2It4BlXp7uTl9xZPYLyqWy) | [Dopelord](https://open.spotify.com/artist/1B1b2jSXksHwmmorhmQ8AF) | [The Chosen One](https://open.spotify.com/album/47Tc6iYguZWmz4TcfNivUU) | 6:56 |
+| 79 | [Rockin' Course](https://open.spotify.com/track/6zpn0NmeEhm6n4qpmNtKFY) | [Thumlock](https://open.spotify.com/artist/5Ub4KBLHbznhFUc3b5t9Ha) | [Emerald Liquid Odyssey](https://open.spotify.com/album/0oHLdnN5Wcpo4bBC3WUb5O) | 3:09 |
 | 80 | [Quick Quiet Raid](https://open.spotify.com/track/46ZfsbnFdI9FpeQKJRZUzS) | [Satan's Satyrs](https://open.spotify.com/artist/2XjAtuHYFRZRIATLrYfSVX) | [Quick Quiet Raid](https://open.spotify.com/album/6Ar4J8yW63XFVH9j3YiWf5) | 2:43 |
 | 81 | [Dopesmoker \- 2022 Remastered Version](https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 1:03:29 |
 | 82 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 |
-| 83 | [Space Lord](https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9) | 5:55 |
+| 83 | [Negasonic Teenage Warhead](https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 4:27 |
 | 84 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
 | 85 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
 | 86 | [Hot Lava Man](https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 8:25 |
 | 87 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 |
-| 88 | [Negasonic Teenage Warhead](https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 4:27 |
+| 88 | [Space Lord](https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9) | 5:55 |
 | 89 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 |
 | 90 | [Ugo](https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Ugo](https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB) | 5:58 |
 | 91 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:4NGoEpjwtJL5N6QhJhzEUV">Desmenucemos la Data </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,012 likes - 9 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,011 likes - 9 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

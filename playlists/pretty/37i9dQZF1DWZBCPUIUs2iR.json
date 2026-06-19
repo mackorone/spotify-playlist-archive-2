@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 790748,
+  "num_followers": 790849,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Live Like You Were Dying",
-        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "Live Like You Were Dying",
-      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
-    },
-    {
-      "added_at": "2026-02-11 22:49:04",
-      "album": {
         "name": "Haywire",
         "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 192800,
       "name": "Why Don't We Just Dance",
       "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
+    },
+    {
+      "added_at": "2026-02-11 22:49:04",
+      "album": {
+        "name": "Live Like You Were Dying",
+        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 300333,
+      "name": "Live Like You Were Dying",
+      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
     },
     {
       "added_at": "2026-02-11 22:49:04",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Damn Country Music",
-        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 259266,
-      "name": "Humble And Kind",
-      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+      "duration_ms": 291073,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
     },
     {
       "added_at": "2026-02-11 22:49:04",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 291073,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
       "added_at": "2026-02-11 22:49:04",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Just To See You Smile",
-      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
-    },
-    {
-      "added_at": "2026-02-11 22:49:04",
-      "album": {
         "name": "Body Like A Back Road",
         "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 165386,
       "name": "Body Like A Back Road",
       "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
+    },
+    {
+      "added_at": "2026-02-11 22:49:04",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Just To See You Smile",
+      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
     },
     {
       "added_at": "2026-02-11 22:49:04",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Every Which Way but Loose - 2009 Remaster",
-      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
-    },
-    {
-      "added_at": "2026-02-11 22:49:04",
-      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 247826,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
+    },
+    {
+      "added_at": "2026-02-11 22:49:04",
+      "album": {
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Every Which Way but Loose - 2009 Remaster",
+      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
     },
     {
       "added_at": "2026-02-11 22:49:04",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
-        "name": "Straight Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ"
-      },
-      "artists": [
-        {
-          "name": "Larry Gatlin & The Gatlin Brothers",
-          "url": "https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "All the Gold In California",
-      "url": "https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526"
-    },
-    {
-      "added_at": "2026-02-11 22:49:04",
-      "album": {
         "name": "The Very Best Of Conway Twitty",
         "url": "https://open.spotify.com/album/3Ap8lSwRTcUK4s3XxQiLKG"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 145866,
       "name": "Hello Darlin'",
       "url": "https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC"
+    },
+    {
+      "added_at": "2026-02-11 22:49:04",
+      "album": {
+        "name": "Straight Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ"
+      },
+      "artists": [
+        {
+          "name": "Larry Gatlin & The Gatlin Brothers",
+          "url": "https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "All the Gold In California",
+      "url": "https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526"
     },
     {
       "added_at": "2026-02-11 22:49:04",

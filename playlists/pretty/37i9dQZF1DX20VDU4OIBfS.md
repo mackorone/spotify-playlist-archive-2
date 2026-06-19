@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 
 > Temas inolvidables del baúl de los recuerdos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,027,435 likes - 150 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,027,278 likes - 150 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 48 | [De Niña a Mujer](https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [De Nina A Mujer](https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B) | 3:18 |
 | 49 | [Piel de Angel](https://open.spotify.com/track/20PRqcym0a7bvokISwu3d6) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Amor Libre](https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8) | 3:30 |
 | 50 | [Estar enamorado](https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [En carne viva](https://open.spotify.com/album/18duCh9suTyPY4xB85bFao) | 4:54 |
-| 51 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 |
-| 52 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 |
+| 51 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 |
+| 52 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 |
 | 53 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 |
 | 54 | [Dueño de Nada](https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 5:16 |
 | 55 | [1+1=2 Enamorados](https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [1 + 1 = 2 Enamorados](https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK) | 3:25 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 65 | [Tiempo De Vals](https://open.spotify.com/track/2d6m2u18196oYQS2mbaO6t) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Tiempo De Vals](https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR) | 4:07 |
 | 66 | [Amada Amante](https://open.spotify.com/track/1EjTQ72d5YuDI3yD3n5e4a) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Un Gato En La Oscuridad](https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm) | 4:20 |
 | 67 | [Noche De Copas](https://open.spotify.com/track/7wDiDAk8cBPACxGSY2Xv4D) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [La Más Completa Colección](https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a) | 3:31 |
-| 68 | [Como Han Pasado los Años \(with Julio Iglesias\)](https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:30 |
-| 69 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 |
-| 70 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/0TL0wshZGOrvNcUD66HGfq) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:26 |
+| 68 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 |
+| 69 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/0TL0wshZGOrvNcUD66HGfq) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:26 |
+| 70 | [Como Han Pasado los Años \(with Julio Iglesias\)](https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:30 |
 | 71 | [Yo soy aquél](https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Canta...Raphael](https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g) | 2:39 |
 | 72 | [Canción de Otoño](https://open.spotify.com/track/47MCxsBOrd49mWTdqmUxhm) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:31 |
 | 73 | [Lobo](https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Lobo](https://open.spotify.com/album/1dvU37IRV0mwL3uYn7CBgL) | 3:06 |

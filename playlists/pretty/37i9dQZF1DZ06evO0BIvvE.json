@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAACn+jjNmnW62btMAaZVTnGG",
+  "snapshot_id": "ajHjgAAAAABxPO6FX3Y9YIrTUwNvtfem",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 219426,
-      "name": "Don't Give Up On Us",
-      "url": "https://open.spotify.com/track/74JWzy85piHTRoMW9d3ucE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 257279,
       "name": "People Power",
       "url": "https://open.spotify.com/track/5WKZLDgbyEIgRql76MCc8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 219426,
+      "name": "Don't Give Up On Us",
+      "url": "https://open.spotify.com/track/74JWzy85piHTRoMW9d3ucE"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 255053,
-      "name": "This Is Your Life",
-      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 255053,
+      "name": "This Is Your Life",
+      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
         "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 481640,
       "name": "When Will I See You Again / Love Train - Live Medley",
       "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Love Buddies",
-      "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
       "duration_ms": 287160,
       "name": "The Whole Town's Talking",
       "url": "https://open.spotify.com/track/23mT3ScCi2K2XnRQdVqY2P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Love Buddies",
+      "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+        "name": "Let 'Em In",
+        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 191600,
-      "name": "My Head's On Straight",
-      "url": "https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY"
+      "duration_ms": 200973,
+      "name": "We All Got A Mission",
+      "url": "https://open.spotify.com/track/06w9kfTUA22jCVoiceN0gQ"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let 'Em In",
-        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 200973,
-      "name": "We All Got A Mission",
-      "url": "https://open.spotify.com/track/06w9kfTUA22jCVoiceN0gQ"
+      "duration_ms": 191600,
+      "name": "My Head's On Straight",
+      "url": "https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+        "name": "War of the Gods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 476440,
-      "name": "Black Wonders of the World",
-      "url": "https://open.spotify.com/track/4vfdPWGjFSA623VULHgQqN"
+      "duration_ms": 372533,
+      "name": "I See the Light",
+      "url": "https://open.spotify.com/track/3aq0mO4ZQN2VQuHDq5OUNj"
     }
   ],
   "unique_name": "This Is Billy Paul",

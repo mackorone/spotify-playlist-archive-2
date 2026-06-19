@@ -1,6 +1,6 @@
 {
   "description": "It's like supernatural... \ud83d\udcf7 Ariana Grande on the Eternal Sunshine Tour",
-  "num_followers": 1570831,
+  "num_followers": 1570909,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
+        "name": "Light Of Worlds",
+        "url": "https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 257866,
+      "name": "Summer Madness",
+      "url": "https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
         "name": "Cerulean",
         "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 232796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
-        "name": "Light Of Worlds",
-        "url": "https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 257866,
-      "name": "Summer Madness",
-      "url": "https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
+        "name": "YOU FEAR THE GOD THAT LOVES YOU",
+        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 147568,
+      "name": "more than friends",
+      "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
         "name": "Ambiguous Desire",
         "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 242541,
       "name": "Senses ft. Sampha",
       "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
-        "name": "YOU FEAR THE GOD THAT LOVES YOU",
-        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 147568,
-      "name": "more than friends",
-      "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
     }
   ],
   "unique_name": "Levitate",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > The women whose music and influence rock our world\. Cover: Violet Grohl
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,477 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,511 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 61 | [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 |
 | 62 | [HEARTLESS](https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [HEARTLESS](https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe) | 4:26 |
 | 63 | [Only Happy When It Rains](https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 3:56 |
-| 64 | [mettle](https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [mettle](https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw) | 2:56 |
-| 65 | [Can the Can](https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:34 |
+| 64 | [Can the Can](https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:34 |
+| 65 | [mettle](https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [mettle](https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw) | 2:56 |
 | 66 | [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 |
-| 67 | [This Is Love](https://open.spotify.com/track/04Glred2wGdSNH11Qh4EDe) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:46 |
-| 68 | [Take It Off](https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Spend The Night \(U.S\. Version\)](https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv) | 2:41 |
+| 67 | [Take It Off](https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Spend The Night \(U.S\. Version\)](https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv) | 2:41 |
+| 68 | [This Is Love](https://open.spotify.com/track/04Glred2wGdSNH11Qh4EDe) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:46 |
 | 69 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
 | 70 | [Take It From The Top](https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [A Million Knives](https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf) | 3:52 |
 | 71 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 89 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 |
 | 90 | [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 |
 | 91 | [You Look Like A Drunk Phoebe Bridgers](https://open.spotify.com/track/49z8uMXflgtt6eQ3x7NRTN) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [My Apologies To The Chef](https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0) | 2:54 |
-| 92 | [Take Your Aim](https://open.spotify.com/track/0rDq4W12BQzwKYYuYP0EIj) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [Take Your Aim](https://open.spotify.com/album/3ZYRmGFXWmTHDu08QRPuM0) | 3:20 |
+| 92 | [Not Hell, Not Heaven](https://open.spotify.com/track/3Dv3zgW4OHauERx9RIZUXL) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Are We All Angels](https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs) | 3:01 |
 | 93 | [TOMBSTONE TOWN \(feat\. Slash\)](https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [TOMBSTONE TOWN \(feat\. Slash\)](https://open.spotify.com/album/6ADtO6kde5TxMseMn2r7WO) | 3:14 |
-| 94 | [Not Hell, Not Heaven](https://open.spotify.com/track/3Dv3zgW4OHauERx9RIZUXL) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Are We All Angels](https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs) | 3:01 |
+| 94 | [Take Your Aim](https://open.spotify.com/track/0rDq4W12BQzwKYYuYP0EIj) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [Take Your Aim](https://open.spotify.com/album/3ZYRmGFXWmTHDu08QRPuM0) | 3:20 |
 | 95 | [Tiny Screens](https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Tiny Screens](https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p) | 2:58 |
 | 96 | [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 |
-| 97 | [One Million](https://open.spotify.com/track/5IIt7FDYJOn3sMDOmTcVuN) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [R is for Rocket](https://open.spotify.com/album/71B3Y4OdzrQNt6acfdKsIG) | 3:47 |
+| 97 | [Never Said \- 2018 Remaster](https://open.spotify.com/track/1iOJzlWm2p8NOFYVHGGgq1) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Exile In Guyville \(2018 Remaster\)](https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd) | 3:16 |
 | 98 | [Ceremony](https://open.spotify.com/track/67gqSywShfhuuYwDbcJ2hG) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Ceremony](https://open.spotify.com/album/7gcIgsU1vw9E2GwZDMaIcp) | 3:19 |
-| 99 | [Never Said \- 2018 Remaster](https://open.spotify.com/track/1iOJzlWm2p8NOFYVHGGgq1) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Exile In Guyville \(2018 Remaster\)](https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd) | 3:16 |
+| 99 | [One Million](https://open.spotify.com/track/5IIt7FDYJOn3sMDOmTcVuN) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [R is for Rocket](https://open.spotify.com/album/71B3Y4OdzrQNt6acfdKsIG) | 3:47 |
 | 100 | [Television Romance](https://open.spotify.com/track/2diAlJqrMMX7Sv9FlzcUMc) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [My Mind Makes Noises](https://open.spotify.com/album/6EuYfecmZrodq8sKWW00tZ) | 3:24 |
 
 Snapshot ID: `AAAAABvTBAbKJgMMTV/NyE0EInNymw7I`

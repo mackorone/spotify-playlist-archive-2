@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: HOSHI\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,327 songs - 38 day 18 hr 33 min
+16,331 songs - 38 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1005,6 +1005,7 @@
 | [Attention seeker](https://open.spotify.com/track/0spx4LEu1MPSZoRRcWxdmc) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu) | [Defend Myself](https://open.spotify.com/album/4SaP8maNp2kvlVQDE9R1Q4) | 2:48 | 2025-05-19 | 2025-05-28 |
 | [ATTITUDE](https://open.spotify.com/track/4G3kw5Y7pbwK9aE8mjfivE) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 始作](https://open.spotify.com/album/2rk5luKry7s1kCsklJmxKL) | 3:16 | 2022-10-26 | 2022-12-22 |
 | [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 | 2025-02-03 | 2025-03-09 |
+| [attitude](https://open.spotify.com/track/1vUe6mjbe0ojhOzLGP51lL) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [attitude](https://open.spotify.com/album/00CbmAscQKXWOVc2OV2Y3j) | 2:24 | 2026-06-18 |  |
 | [ATTITUDE + Get Away](https://open.spotify.com/track/3qDqn0bNPocxiRPFy9LESg) | [The CrewOne](https://open.spotify.com/artist/7fjxhS9XRbrduwclx0hqWj) | [ROAD TO KINGDOM : ACE OF ACE 〈IDENTITY〉, Pt\. 2](https://open.spotify.com/album/2M8DGsWIrVIUImf4nsUJsU) | 3:51 | 2024-10-17 | 2024-11-05 |
 | [AungDaung](https://open.spotify.com/track/5dSntpWaTE7OKSBQS61aWy) | [harleyday](https://open.spotify.com/artist/2jKuBXwyAXJR70FASMZILu), [SUL](https://open.spotify.com/artist/6dVSKlzE9rpuqeIfiGnVCN), [YELLA D](https://open.spotify.com/artist/4D139q2zdOGkNdWHeFmIog) | [4 From 3](https://open.spotify.com/album/3QX8gxbtOKvXcg6RbACLI4) | 3:15 | 2022-08-02 | 2022-08-15 |
 | [AURORA](https://open.spotify.com/track/0i8UevefbyU8BQFL0EfXk2) | [CHOI SUNG YUN\(Y\)](https://open.spotify.com/artist/15TTwJ99z8kILaEh6mHP7U) | [AURORA](https://open.spotify.com/album/6NycYzGMPAnruFjCagpd9k) | 3:25 | 2025-12-13 | 2025-12-26 |
@@ -3066,6 +3067,7 @@
 | [Deneb](https://open.spotify.com/track/7apKcB7zICUb87xSryhrQh) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Cheer Up \(Original Soundtrack Part.8\)](https://open.spotify.com/album/6gnHVF0GgZVXg14At7CPYW) | 5:03 | 2022-11-29 | 2022-12-22 |
 | [Denial \(With Neal\)](https://open.spotify.com/track/5OVLBzfTHAahOwvkRUTjqb) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc), [Neal](https://open.spotify.com/artist/6GCiiAQkLAFfrOqYeQa1vF) | [Denial](https://open.spotify.com/album/45VcI5CNQGLiBM56GSRJRx) | 2:26 | 2023-02-27 | 2023-03-28 |
 | [DENY](https://open.spotify.com/track/469KVmto2MTpWFoJ7MGEaN) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [I don't think it's THAT bad](https://open.spotify.com/album/3ioXJFtha5tHn3O0Y8MCDc) | 3:02 | 2026-05-29 | 2026-06-09 |
+| [DENY](https://open.spotify.com/track/4lutYp4PjTkVtLf6ipnWj0) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [I don't think it's THAT bad](https://open.spotify.com/album/6YsEJiiNrkqFYCvmw3yDMt) | 3:02 | 2026-06-18 |  |
 | [Deny](https://open.spotify.com/track/5BJVelGfhha2oVPlz970eh) | [lake tinn](https://open.spotify.com/artist/23bCMN0Dz2AFsOOK5GCQtT) | [Deny](https://open.spotify.com/album/3j6YMOIacMBlnWxolESZl2) | 3:58 | 2025-11-19 | 2025-11-25 |
 | [Departure from a Country](https://open.spotify.com/track/3FC6OK2Nvs35Y34fcRb1Ro) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/41rnXi6HnsKF5ueUEqr7uz) | 4:17 | 2022-05-22 | 2022-06-10 |
 | [Derre](https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 2:36 | 2024-11-14 | 2024-12-12 |
@@ -3498,6 +3500,7 @@
 | [Dress code \(feat\. kaogaii\)](https://open.spotify.com/track/7p2USVhAGQ5U168QuXNMFX) | [Yellon](https://open.spotify.com/artist/0yFJrcYT1PUX0gY7JWs4EG), [kaogaii](https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2) | [New Chapter 1.](https://open.spotify.com/album/3U2zQrfLxxt8HIjPTsigfI) | 2:37 | 2023-01-05 | 2023-02-01 |
 | [Dress code \(feat\. Yellon & kaogaii\)](https://open.spotify.com/track/4WbFmQ6i59D2d0Dbt7Ooex) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Yellon](https://open.spotify.com/artist/0yFJrcYT1PUX0gY7JWs4EG), [kaogaii](https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2) | [SEOULVIBES, NETFLEX](https://open.spotify.com/album/74Whl3z2bmvDC1ZRnLNTjH) | 2:37 | 2023-02-22 | 2023-03-28 |
 | [Dress Shirt](https://open.spotify.com/track/1Wq0QiKBsiIjmb1fBMoiyl) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [Dress Shirt](https://open.spotify.com/album/4TFQFq37HQ9LWa8KeqQ34g) | 2:30 | 2024-08-29 | 2024-09-20 |
+| [Dress Up](https://open.spotify.com/track/6XuKU63xHqFyNVfZ1BZWmQ) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Knight](https://open.spotify.com/album/3SrZkhjYp6FC0nGcLTYX24) | 2:14 | 2026-06-18 |  |
 | [Dried flowers](https://open.spotify.com/track/2snMOjdFLFn9NK1JUKDIhp) | [Sook Haeng](https://open.spotify.com/artist/5QTxqx4z0IjcFRGJFoXKQ3) | [Bravo&&My Life OST Part.17](https://open.spotify.com/album/3Ie830tkNbMzKsCEV6On5w) | 3:53 | 2022-06-13 | 2022-06-19 |
 | [DRIFT](https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw), [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ) | [NO DRUGS](https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M) | 2:26 | 2025-05-09 | 2025-05-28 |
 | [Drifting](https://open.spotify.com/track/1wJlYOetCIXkFaY4jKMnsz) | [GongGongGoo009](https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY) | [Drifting](https://open.spotify.com/album/4C16wTAYQtrGFKwRrc8hP2) | 3:57 | 2024-10-24 | 2024-11-08 |
@@ -6408,6 +6411,7 @@
 | [Ice americano](https://open.spotify.com/track/7w87aAN18atEqj9a0CMkeZ) | [Pre'Melo](https://open.spotify.com/artist/59jyRPrPkL8QIR0wfaJMWl) | [Funny](https://open.spotify.com/album/4JOsGIjy7emWurxab3ebvo) | 2:40 | 2022-10-12 | 2022-11-07 |
 | [Ice Bottle](https://open.spotify.com/track/11FJ2T0g6InzdJNMulDJVh) | [HAHA & U\-KWON \(RBZ\)](https://open.spotify.com/artist/1AFu8Q1tPjDtQrIcb4tzXc) | [Ice Bottle](https://open.spotify.com/album/4TBRbdvg6FWkoK4vDFDOks) | 3:03 | 2023-06-23 | 2023-08-10 |
 | [Ice Cream](https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Ice Cream](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) | 3:00 | 2024-08-02 | 2024-09-20 |
+| [ICE CREAM](https://open.spotify.com/track/6v3b017rbwYqRbAJPXfM7G) | [Secret](https://open.spotify.com/artist/503DjcVO5Ku1NgLPhVuNg7) | [Secret Flavor](https://open.spotify.com/album/6g3FgDbjnoVTKlYaPKI73t) | 2:39 | 2026-06-18 |  |
 | [Ice Cream](https://open.spotify.com/track/6aIHCKcJFU19cUc02RI7zL) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/18GSUtlVqx9QRVKBCXtSYd) | 2:51 | 2026-03-23 | 2026-04-22 |
 | [ICE LUV](https://open.spotify.com/track/6I4FZuxJxUbYzNK1P0e11V) | [NTX](https://open.spotify.com/artist/49DJRZw2T9mtMBpXkdQPCL) | [PROTO TYPE](https://open.spotify.com/album/4eFUStXAxaBsnGXazlyMSf) | 3:06 | 2025-11-06 | 2025-11-18 |
 | [Ice On My Teeth](https://open.spotify.com/track/1UoXctDvnI2KLshhi6SpE4) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ice On My Teeth \(Festa Remixes 1\)](https://open.spotify.com/album/6mFnLE7qgnoYeCRm2P98JV) | 3:03 | 2024-11-20 | 2024-12-12 |

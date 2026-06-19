@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women who open up the pit\. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,486 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,621 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 56 | [I Wish You Were Dead](https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 2:52 |
 | 57 | [I'll Know You're Not Around](https://open.spotify.com/track/2qcpeU7myeKa3dsz7Ext3R) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Flesh Stays Together](https://open.spotify.com/album/6cgf2mesmt2TVCBQqTxKtN) | 3:43 |
 | 58 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
-| 59 | [Bottom of a Bottle](https://open.spotify.com/track/5z7dtFHg2AxZmaowYc03FV) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Eye For An Eye...](https://open.spotify.com/album/4YALSsEWKPN1n1y5CqxEmD) | 3:19 |
+| 59 | [We Bring You the Stars](https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Bring You the Stars](https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so) | 3:00 |
 | 60 | [The Day Of...](https://open.spotify.com/track/5BaDnS9olEIZSXZNdgraMs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 4:33 |
-| 61 | [We Bring You the Stars](https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Bring You the Stars](https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so) | 3:00 |
+| 61 | [Bottom of a Bottle](https://open.spotify.com/track/5z7dtFHg2AxZmaowYc03FV) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Eye For An Eye...](https://open.spotify.com/album/4YALSsEWKPN1n1y5CqxEmD) | 3:19 |
 | 62 | [Battle Ready](https://open.spotify.com/track/7J9tkRgN26YmIHXl4fnVlp) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:21 |
 | 63 | [Reincarnation](https://open.spotify.com/track/40BsFOkZsT8WznGkJFUCuN) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Beyond The Black](https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy) | 4:13 |
 | 64 | [The Rabbit Of The Moon](https://open.spotify.com/track/2Zca3T3JmEk28lMu17h4jS) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Lunaris](https://open.spotify.com/album/0CN6BqPhX3iEUHewxIRHQe) | 3:51 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 93 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
 | 94 | [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 |
 | 95 | [Weeping Willow](https://open.spotify.com/track/3d0l1isydFqQz7TNWx9wtR) | [The Hellfreaks](https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr) | [Pitch Black Sunset](https://open.spotify.com/album/7gnr6a0QR9Cq8HQtENW1MB) | 4:28 |
-| 96 | [Fallen Angel](https://open.spotify.com/track/21uc6y1U0VojXe4MN1A5YO) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [Lucifer V](https://open.spotify.com/album/25AfzUCFletNF8W67nZdWu) | 3:09 |
-| 97 | [Ava of Death](https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ava of Death](https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG) | 4:06 |
+| 96 | [Ava of Death](https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ava of Death](https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG) | 4:06 |
+| 97 | [Fallen Angel](https://open.spotify.com/track/21uc6y1U0VojXe4MN1A5YO) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [Lucifer V](https://open.spotify.com/album/25AfzUCFletNF8W67nZdWu) | 3:09 |
 | 98 | [Wicked Woman](https://open.spotify.com/track/0s0ik3hbf0S1EgYfjX8TrF) | [Coven](https://open.spotify.com/artist/6eTKX1Kyy9gMamdDyj736Y) | [Witchcraft Destroys Minds And Reaps Souls](https://open.spotify.com/album/3aJozZhPbj8hKmJePJ2LtF) | 2:57 |
 | 99 | [Breathe You In](https://open.spotify.com/track/680R0ratdk9o2M6nko18GG) | [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Breathe You In](https://open.spotify.com/album/4tEKPkZKnt44d7hRQHLBfc) | 3:40 |
 | 100 | [Cloaked](https://open.spotify.com/track/05mgMVDS9j4Wtci4MVSJWU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO) | 3:54 |

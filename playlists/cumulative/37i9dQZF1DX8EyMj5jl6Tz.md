@@ -4,7 +4,7 @@
 
 > Dance remixes of popular songs!
 
-202 songs - 9 hr 0 min
+203 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Nice To Meet You](https://open.spotify.com/track/1LraqVGiK56sopYZp3sCsm) | [Initi8](https://open.spotify.com/artist/79UlGebGvCM7mB6VLTqR8M) | [Nice To Meet You](https://open.spotify.com/album/7s3RHJIy0DfXkcBVYUu0NF) | 2:49 | 2025-07-10 |  |
 | [Night Away \(Dance\) \(feat\. Mae Muller\) \- Jax Jones Remix](https://open.spotify.com/track/3dlH0jIRf0vsPoL5syA0pv) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Night Away \(Dance\) \(feat\. Mae Muller\) \[Jax Jones Remix\]](https://open.spotify.com/album/3Kam5gZFxKAdDqTnKbs8gs) | 2:55 | 2025-07-10 |  |
 | [Nothing Else Matters vs F\*CKING SOCIETY \- Hardwell Mashup](https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 3:09 | 2025-07-10 | 2025-09-05 |
-| [Now That We Found Love](https://open.spotify.com/track/4x69WSo9kpkp0okxcm5Yzh) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [CODE/RED](https://open.spotify.com/album/3Ui5ZMET9cIriFK29bh1xr) | 2:32 | 2025-12-11 |  |
+| [Now That We Found Love](https://open.spotify.com/track/4x69WSo9kpkp0okxcm5Yzh) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [CODE/RED](https://open.spotify.com/album/3Ui5ZMET9cIriFK29bh1xr) | 2:32 | 2025-12-11 | 2026-06-19 |
 | [P.I.M.P](https://open.spotify.com/track/4aIJ6bMEK91amdy07Ap21o) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a) | [P.I.M.P](https://open.spotify.com/album/2obXOASaM8BX9vlhWW24Ts) | 1:57 | 2025-07-10 |  |
 | [Paparazzi](https://open.spotify.com/track/6aisjMfoTpJoDa8jeXddkz) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Emilio](https://open.spotify.com/artist/5ejQjLfm6RcKIVWYxxupYj) | [Paparazzi](https://open.spotify.com/album/3QZ9sm89waa7Jo6H0heRZR) | 2:22 | 2026-02-12 |  |
 | [Pepas \- Tiësto Remix](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pepas \(Tiësto Remix\)](https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ) | 3:43 | 2025-07-10 |  |
@@ -143,6 +143,7 @@
 | [Rockstar](https://open.spotify.com/track/42POjsPo5E1ISxx6eLX2bw) | [Nils Van Zandt](https://open.spotify.com/artist/5Stz8LetjJ6OBHOZKuPrPj) | [Rockstar](https://open.spotify.com/album/4igdkPx0mi5tvelrDp7dK9) | 2:30 | 2025-07-10 | 2025-10-17 |
 | [Rude Boy](https://open.spotify.com/track/4BejhNw8vSXf7BwVy9Osmj) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Rude Boy](https://open.spotify.com/album/3qlpSfP5AHTpYGnCmBCf99) | 2:39 | 2025-07-10 |  |
 | [Safe And Sound](https://open.spotify.com/track/4Xno765v5rim1TyNlzbxyy) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Safe And Sound](https://open.spotify.com/album/2TwDCrPMCCjFyRj58GFCzM) | 3:02 | 2025-09-25 |  |
+| [San Francisco](https://open.spotify.com/track/3S8uW1FUeNqzaRzwJWRU8g) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [San Francisco](https://open.spotify.com/album/0sRdNyWdHU5LXX94svHqMZ) | 2:31 | 2026-06-18 |  |
 | [Sandstorm](https://open.spotify.com/track/7y4tJW2HkfMWNKf4HAECZT) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Flip Capella](https://open.spotify.com/artist/7ISVMXRseDXG6dgN78y6Dz) | [Sandstorm](https://open.spotify.com/album/2HU6E0dRXBfytbvDrUwWcx) | 2:26 | 2025-07-10 |  |
 | [Satisfaction](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/70dWN40gJXCrmc7CDMYqtT) | 2:35 | 2025-07-10 | 2026-03-13 |
 | [Say My Name](https://open.spotify.com/track/4tIMdH3mXwtdNheYrm6lah) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Say My Name](https://open.spotify.com/album/2CBDCccwib8dlgkcKfpuEF) | 2:36 | 2025-07-10 |  |

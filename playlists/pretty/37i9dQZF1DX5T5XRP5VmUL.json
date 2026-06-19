@@ -1,6 +1,6 @@
 {
   "description": "Get in the holiday spirit with these festive essentials \u2728\u2744\ufe0f",
-  "num_followers": 151141,
+  "num_followers": 151128,
   "original_name": "Christmastime",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-10-24 17:43:09",
       "album": {
+        "name": "Have A Holly Jolly Christmas",
+        "url": "https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR"
+      },
+      "artists": [
+        {
+          "name": "Burl Ives",
+          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
+        }
+      ],
+      "duration_ms": 135533,
+      "name": "A Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
+    },
+    {
+      "added_at": "2025-10-24 17:43:09",
+      "album": {
         "name": "Love to Keep Me Warm",
         "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 158133,
       "name": "Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
-    },
-    {
-      "added_at": "2025-10-24 17:43:09",
-      "album": {
-        "name": "Have A Holly Jolly Christmas",
-        "url": "https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR"
-      },
-      "artists": [
-        {
-          "name": "Burl Ives",
-          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
-        }
-      ],
-      "duration_ms": 135533,
-      "name": "A Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
     },
     {
       "added_at": "2025-10-24 17:43:09",

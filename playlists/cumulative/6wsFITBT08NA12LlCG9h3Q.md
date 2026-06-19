@@ -4,7 +4,7 @@
 
 > A classic playlist with the best hits of the 90s featuring No Doubt, Spice Girls, Smash Mouth, Nirvana, and all those 90s hits you can't resist!
 
-97 songs - 6 hr 37 min
+98 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Ode To My Family \- 2025 Remastered](https://open.spotify.com/track/3k8qSv5e8ALW6tA9cpY9mm) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 4:30 | 2026-03-27 |  |
 | [Pretty Fly \(For A White Guy\)](https://open.spotify.com/track/46sWNhwTkjgpnL7QWt7Fr2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Greatest Hits](https://open.spotify.com/album/3x507Iwk3UNquPkPrnHRrt) | 3:08 | 2022-05-18 | 2026-06-12 |
 | [Pretty Fly \(For A White Guy\)](https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:08 | 2026-06-12 |  |
+| [Sadeness \- Pt\. 1 / Radio Edit](https://open.spotify.com/track/3MVm36ouM56jbP5rORxbVy) | [Enigma](https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt) | [Sadeness \(Part I\)](https://open.spotify.com/album/2KRYBWzHyMdkhxcwkbuN9B) | 4:20 | 2026-06-18 |  |
 | [Santa Monica](https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 3:11 | 2026-01-09 |  |
 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 | 2026-06-12 |  |
 | [Santeria](https://open.spotify.com/track/2DexIlEkLb0hKRVtyoreXn) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime \(Deluxe Edition\)](https://open.spotify.com/album/243wqukvimLglvClDVsfHJ) | 3:03 | 2022-05-18 | 2026-06-12 |

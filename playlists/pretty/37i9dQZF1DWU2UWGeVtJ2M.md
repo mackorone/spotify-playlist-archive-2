@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 半清醒的時刻最迷人，讓最迷人的音樂和你一起隨興...
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,090 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,093 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 65 | [pity dirty](https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [pity dirty](https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ) | 3:13 |
 | 66 | [Different Ways](https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Different Ways](https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z) | 3:28 |
 | 67 | [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 |
-| 68 | [at least i look cool](https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [at least i look cool](https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB) | 2:51 |
-| 69 | [Wicked Dreams](https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:31 |
+| 68 | [Wicked Dreams](https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:31 |
+| 69 | [at least i look cool](https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [at least i look cool](https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB) | 2:51 |
 | 70 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 |
 | 71 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 |
 | 72 | [Secrets](https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Secrets](https://open.spotify.com/album/059780GUzrYPDmQF1tlsek) | 3:16 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 78 | [Lonely Road](https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt) | [Doctor Flake](https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK), [Malika](https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6) | [Acchordance](https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF) | 4:36 |
 | 79 | [Love Hope Change](https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [1995](https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l) | 4:41 |
 | 80 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 |
-| 81 | [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 |
-| 82 | [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 |
+| 81 | [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 |
+| 82 | [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 |
 | 83 | [Build](https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Build](https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh) | 4:07 |
 | 84 | [Old Fashion Love](https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Old Fashion Love](https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0) | 3:29 |
 | 85 | [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 88 | [About You](https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr) | [BV](https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION) | [About You](https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML) | 3:04 |
 | 89 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 |
 | 90 | [Don't Trust Myself](https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Trust Myself](https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65) | 2:49 |
-| 91 | [So Far Gone](https://open.spotify.com/track/59AsW4buRUplzfnJYSvopN) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Simonne Jones](https://open.spotify.com/artist/0dMXglEw2nK3tkOH2hakyx) | [Squaring The Circle](https://open.spotify.com/album/0npeEzm8BfqZ1YwnzlvfA7) | 5:21 |
-| 92 | [Spirals On My Tongue](https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:45 |
-| 93 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 |
+| 91 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 |
+| 92 | [So Far Gone](https://open.spotify.com/track/59AsW4buRUplzfnJYSvopN) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Simonne Jones](https://open.spotify.com/artist/0dMXglEw2nK3tkOH2hakyx) | [Squaring The Circle](https://open.spotify.com/album/0npeEzm8BfqZ1YwnzlvfA7) | 5:21 |
+| 93 | [Spirals On My Tongue](https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:45 |
 | 94 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 |
 | 95 | [Moonlight](https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [oze](https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL) | [Moonlight](https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw) | 2:49 |
 | 96 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 |

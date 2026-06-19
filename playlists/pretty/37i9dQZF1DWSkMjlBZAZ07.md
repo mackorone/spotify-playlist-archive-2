@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,876,131 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,876,010 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 57 | [I Just Love You](https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 3:15 |
 | 58 | [Down In The Dirt](https://open.spotify.com/track/7tOqak4EI2F6D1x6Qa1FnL) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Down In The Dirt](https://open.spotify.com/album/0q7qdiuMBPLB19eAJSDM25) | 3:35 |
 | 59 | [Plant A Forest](https://open.spotify.com/track/3PY4QVfv2hTd5hvikGd8vB) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [Plant A Forest](https://open.spotify.com/album/0oKKTJTn0TniaTXT3Dj79z) | 2:44 |
-| 60 | [honey!](https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo) | [Mike Duhaime](https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq) | [honey!](https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE) | 3:54 |
-| 61 | [People Need A Melody](https://open.spotify.com/track/7vVtCG0LmChEV6NaIwALOh) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [People Need a Melody](https://open.spotify.com/album/344VAXCsawRmlsrHtcc4pQ) | 4:12 |
-| 62 | [Five More Minutes](https://open.spotify.com/track/5I9K1oVuO22OehDQZnxdr2) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:43 |
+| 60 | [Five More Minutes](https://open.spotify.com/track/5I9K1oVuO22OehDQZnxdr2) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:43 |
+| 61 | [honey!](https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo) | [Mike Duhaime](https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq) | [honey!](https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE) | 3:54 |
+| 62 | [People Need A Melody](https://open.spotify.com/track/7vVtCG0LmChEV6NaIwALOh) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [People Need a Melody](https://open.spotify.com/album/344VAXCsawRmlsrHtcc4pQ) | 4:12 |
 | 63 | [This Life](https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Watch Out for the Wolf](https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY) | 3:51 |
 | 64 | [Hideaway](https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 4:10 |
 | 65 | [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 83 | [My Home Is You](https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [My Home Is You](https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb) | 3:23 |
 | 84 | [Good Times](https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [The Game](https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv) | 4:58 |
 | 85 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 |
-| 86 | [Better Angels](https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 3:25 |
-| 87 | [Love Love Love](https://open.spotify.com/track/3e5Ee5GrNzSnCt2laIDm3S) | [Avalanche City](https://open.spotify.com/artist/1PX8bguYn6ba8NaBOJuu8A) | [Love Love Love](https://open.spotify.com/album/09kk6sdd81BYJY5YFzV2uJ) | 3:12 |
+| 86 | [Love Love Love](https://open.spotify.com/track/3e5Ee5GrNzSnCt2laIDm3S) | [Avalanche City](https://open.spotify.com/artist/1PX8bguYn6ba8NaBOJuu8A) | [Love Love Love](https://open.spotify.com/album/09kk6sdd81BYJY5YFzV2uJ) | 3:12 |
+| 87 | [Better Angels](https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 3:25 |
 | 88 | [Celia](https://open.spotify.com/track/71vTcEAzho6KibO9OyG4GL) | [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [Celia](https://open.spotify.com/album/2Va2fcsc6K3k9q0YZv2K9M) | 3:20 |
 | 89 | [Like a Child](https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Like a Child](https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2) | 3:36 |
 | 90 | [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 |

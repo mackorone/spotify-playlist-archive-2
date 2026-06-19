@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31925,
+  "num_followers": 31926,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAADHi17HQ+fcof4aBUIl3bYm",
+  "snapshot_id": "ajHjgAAAAAAm2kaHKOHCByggoxGNbcv5",
   "tracks": [
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "unas ac\u00fasticas",
-        "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Somos Instantes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encima De Mil",
         "url": "https://open.spotify.com/album/3TrLRkrcbxYZ0AINiu399E"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 189000,
       "name": "Encima De Mil",
       "url": "https://open.spotify.com/track/0X4XlUuu07vrEjSnIqrqLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "unas ac\u00fasticas",
+        "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Lo Est\u00e1s Logrando",
-        "url": "https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "No Lo Est\u00e1s Logrando",
-      "url": "https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
         "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 173720,
       "name": "S\u00f3lo Muere Si Se Olvida",
       "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Lo Est\u00e1s Logrando",
+        "url": "https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "No Lo Est\u00e1s Logrando",
+      "url": "https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn"
     },
     {
       "added_at": null,

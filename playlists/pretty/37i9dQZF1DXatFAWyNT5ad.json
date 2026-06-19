@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153087,
+  "num_followers": 153084,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "FEAR OF HEIGHTS",
+        "url": "https://open.spotify.com/album/3BSzVdG2ge51LNFkzfhn3l"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 154189,
+      "name": "FEAR OF HEIGHTS",
+      "url": "https://open.spotify.com/track/61i6vMgMrE1sM60ScJesXl"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 152331,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "FEAR OF HEIGHTS",
-        "url": "https://open.spotify.com/album/3BSzVdG2ge51LNFkzfhn3l"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 154189,
-      "name": "FEAR OF HEIGHTS",
-      "url": "https://open.spotify.com/track/61i6vMgMrE1sM60ScJesXl"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 179916,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Yours (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 179916,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Poison Apple Baby",
-        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Poison Apple Baby",
-      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 133678,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Poison Apple Baby",
+        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Poison Apple Baby",
+      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "petals",
-        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
       "artists": [
         {
-          "name": "Jessica Baio",
-          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 157598,
-      "name": "he loves me, he loves me not",
-      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
+      "duration_ms": 217125,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
+        "name": "petals",
+        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
       },
       "artists": [
         {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
         }
       ],
-      "duration_ms": 217125,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+      "duration_ms": 157598,
+      "name": "he loves me, he loves me not",
+      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 183643,
-      "name": "dead inside",
-      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/2R5WaXG1YcFHhRdFNoS4U4"
       },
@@ -1667,34 +1651,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "WHERE DID ALL THE BUTTERFLIES GO?",
-        "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
       "artists": [
         {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
-      "duration_ms": 181866,
-      "name": "HEART AWAY",
-      "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 163391,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
+      "duration_ms": 183643,
+      "name": "dead inside",
+      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1711,6 +1679,22 @@
       "duration_ms": 175997,
       "name": "lonely bitch",
       "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 163391,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1747,6 +1731,22 @@
       "duration_ms": 136601,
       "name": "kinda smacks",
       "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "WHERE DID ALL THE BUTTERFLIES GO?",
+        "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "HEART AWAY",
+      "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Tracy",
-        "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
-      },
-      "artists": [
-        {
-          "name": "PASH",
-          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Tracy",
-      "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "WHAT THE HELL",
         "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 172604,
       "name": "WHAT THE HELL",
       "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Tracy",
+        "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
+      },
+      "artists": [
+        {
+          "name": "PASH",
+          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Tracy",
+      "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Emerald",
-        "url": "https://open.spotify.com/album/4FuhrBETVhAwoj0ilghy36"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Emerald",
-      "url": "https://open.spotify.com/track/3827xzieELFZ56ENCHL4jp"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Mugshot",
         "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 189101,
       "name": "Mugshot",
       "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/4FuhrBETVhAwoj0ilghy36"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/3827xzieELFZ56ENCHL4jp"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "My Heart's A Crowded Room",
-        "url": "https://open.spotify.com/album/1xUibDNIkBquUUX6Tou9S0"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "My Heart's A Crowded Room",
-      "url": "https://open.spotify.com/track/1upx2CHNbauM1Fa9EdPlze"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 200210,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "My Heart's A Crowded Room",
+        "url": "https://open.spotify.com/album/1xUibDNIkBquUUX6Tou9S0"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "My Heart's A Crowded Room",
+      "url": "https://open.spotify.com/track/1upx2CHNbauM1Fa9EdPlze"
     },
     {
       "added_at": "2026-01-16 05:00:41",

@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover:  Voxxes, Sheila Dara
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover:  Leonardo Ringo
 
-543 songs - 1 day 10 hr 32 min
+545 songs - 1 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [DI MASA DEPAN KITA TAK LAGI BERMIMPI](https://open.spotify.com/track/3kK1SGaRSXNIpeGTAL26KN) | [Sajama Cut](https://open.spotify.com/artist/33lCWREMjKEXJHUMbSkZle) | [DI MASA DEPAN KITA TAK LAGI BERMIMPI](https://open.spotify.com/album/7xuQNbeCFsnAuJin9o0KXc) | 4:00 | 2025-06-12 | 2025-10-17 |
 | [Dia Hilang](https://open.spotify.com/track/4W7BhHaY9VSCY2eG9MTDPE) | [Rigaskara](https://open.spotify.com/artist/2cfQKHwOPRF2UyEiKLexPW) | [Dia Hilang](https://open.spotify.com/album/2kU3Nm9GcM0fmBQpu7IP4E) | 2:50 | 2024-11-28 | 2025-03-21 |
 | [Diana?](https://open.spotify.com/track/1lliFwwcOTf9M3to9qNpXP) | [FILM.](https://open.spotify.com/artist/68nVbpdYAVfDDejsFw53k8) | [Diana?](https://open.spotify.com/album/2jLwaEchPHYtgfGuVQmzhf) | 3:17 | 2025-08-28 | 2026-02-13 |
-| [Dimabuk Cahaya](https://open.spotify.com/track/1AaKnKJTf4cyCai2yeXdca) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [Dimabuk Cahaya](https://open.spotify.com/album/39xJgYlW0Io6BwlBM86nLZ) | 3:45 | 2025-11-06 |  |
+| [Dimabuk Cahaya](https://open.spotify.com/track/1AaKnKJTf4cyCai2yeXdca) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [Dimabuk Cahaya](https://open.spotify.com/album/39xJgYlW0Io6BwlBM86nLZ) | 3:45 | 2025-11-06 | 2026-06-19 |
 | [Dimensi](https://open.spotify.com/track/4WZ19Kukp4dsE6MZdv9g6b) | [Kalih](https://open.spotify.com/artist/1EmsDjkyjyjv5whNNDWxUC) | [Dimensi](https://open.spotify.com/album/6USMmNIJ8gfIo0TblFXZqN) | 3:31 | 2025-02-13 | 2025-04-26 |
 | [Dinamika Ibukota](https://open.spotify.com/track/21rHgfejti4dwB7KZeoIqZ) | [Wacuwacu](https://open.spotify.com/artist/00sNv6O0WdBwf00jxIDkgc) | [Dinamika Ibukota](https://open.spotify.com/album/4135UcKGoGDg4IVzhzOCY8) | 3:59 | 2024-06-27 | 2024-08-30 |
 | [disarankan di bandung](https://open.spotify.com/track/1BZsLiymbw2UihokAVyTrR) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm), [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [I Don't Know and I Dongker](https://open.spotify.com/album/6tKbLS7Vy0R1fQ2zUUQM3J) | 2:32 | 2025-08-21 |  |
@@ -321,7 +321,7 @@
 | [Menggila](https://open.spotify.com/track/4ydaXOetyo0LnNrfLpvZnc) | [William Sihombing](https://open.spotify.com/artist/1HXxCMWL1jyKHQ2odKWR3j) | [Menggila](https://open.spotify.com/album/4r2uDt8qlzHfCsjSlEDeEl) | 3:33 | 2024-10-18 | 2025-03-15 |
 | [Menit Tambahan](https://open.spotify.com/track/2y5QvggKQs5iauTD9Bc8Oa) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Menit Tambahan](https://open.spotify.com/album/0V3gnXRk85cwiz9xvV7Nu6) | 4:05 | 2024-06-27 | 2025-05-17 |
 | [Menua Bersama](https://open.spotify.com/track/18aodtWZRR9Kddxf5vMiYp) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Menua Bersama](https://open.spotify.com/album/0bUlaofr3obJbEWSFl4Hgf) | 3:39 | 2024-11-28 | 2025-10-24 |
-| [Menuai Terurai](https://open.spotify.com/track/7MkGyRKVnEGqQLUVXdPL8p) | [Rangkai](https://open.spotify.com/artist/34tWvNR58jzZjh2ArZ4xxg) | [Menuai Terurai](https://open.spotify.com/album/5jfhEUc2qX1rz1sKMBB8yk) | 4:09 | 2026-02-19 |  |
+| [Menuai Terurai](https://open.spotify.com/track/7MkGyRKVnEGqQLUVXdPL8p) | [Rangkai](https://open.spotify.com/artist/34tWvNR58jzZjh2ArZ4xxg) | [Menuai Terurai](https://open.spotify.com/album/5jfhEUc2qX1rz1sKMBB8yk) | 4:09 | 2026-02-19 | 2026-06-19 |
 | [Menuju 25](https://open.spotify.com/track/2aaW5vhyrWaUF6Nh8cU32K) | [Answer Sheet](https://open.spotify.com/artist/7jKLXme8VbLEyv5u7o8vXm) | [Menuju 25](https://open.spotify.com/album/0utywWOYMYgUTy1sZCfkqE) | 4:06 | 2024-11-28 | 2025-03-15 |
 | [MENUJU 25](https://open.spotify.com/track/11dSMueUv8UwTKSlv5CDIJ) | [Jugo Djarot](https://open.spotify.com/artist/1rhx590gsjFYd8c2vhW6J3) | [MENUJU 25](https://open.spotify.com/album/5Z9YSUCs3uZ4siSUEWSDP3) | 2:17 | 2025-10-23 | 2026-02-20 |
 | [Merangkai Gundah Gulana](https://open.spotify.com/track/702KQGQOlABC5xua4IfyGT) | [Shadowplay](https://open.spotify.com/artist/2kvN7s4MbzDIYY0aqqHEwB) | [Merangkai Gundah Gulana](https://open.spotify.com/album/0esDD2wKp1IX3kSefJIvNz) | 3:58 | 2024-06-27 | 2024-09-06 |
@@ -409,6 +409,7 @@
 | [Ridin' in My Car](https://open.spotify.com/track/1Al0oRPSWznrW4EWyLsKRR) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Ridin' in My Car](https://open.spotify.com/album/7ufytMfxSiMDdQgZgB2ZgN) | 3:15 | 2026-03-26 |  |
 | [Rindu Lintas Ruang dan Waktu](https://open.spotify.com/track/4ooJqu9HGsltS46D2R1dvn) | [Gerap Gurita](https://open.spotify.com/artist/6WQC8XtUYxHrCSZlHzT2tz) | [Gelora Asa](https://open.spotify.com/album/3afU8y2wEbUKFQDYeYVI0p) | 2:49 | 2025-11-06 | 2026-02-13 |
 | [Riot Angels](https://open.spotify.com/track/2dyO7E1uadz2d5LRbfhW1P) | [The Hydrant](https://open.spotify.com/artist/7JbyDoxuSWVvH1IvrNj2Dd) | [Riot Angels](https://open.spotify.com/album/7M3flwCd0kAKZ7RT596Xwp) | 3:17 | 2025-01-02 | 2025-02-21 |
+| [Riuh Suara](https://open.spotify.com/track/5oQPQikJWsU0VlqZX2ym5m) | [Fostan](https://open.spotify.com/artist/0YmE9ep0aRPQtyj19FZdqj) | [Riuh Suara](https://open.spotify.com/album/1TSa48dGCMTZU399owez9V) | 5:19 | 2026-06-19 |  |
 | [Romansa Romansaan](https://open.spotify.com/track/1KNcfSeKP1PyhRot4ylMC0) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi), [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Romansa Romansaan](https://open.spotify.com/album/7MqEdqGfiVkNHjOT2avUiy) | 2:25 | 2024-07-25 | 2025-10-03 |
 | [Room 17A \(make up ur mind\)](https://open.spotify.com/track/2yXOKrUhgwXqW1hdarSEEt) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON), [deadlorians.](https://open.spotify.com/artist/3AHPaHS4KdmuYyAIk3i9qF) | [Room 17A \(make up ur mind\)](https://open.spotify.com/album/5gx1vLtw8bGVTPC7VIelrN) | 3:45 | 2025-09-18 | 2026-02-06 |
 | [Rufus](https://open.spotify.com/track/4K1ZDFZFRXEA0t97xTrPUC) | [The High Temples](https://open.spotify.com/artist/36ku8N2i3yWGUZlp1Zm3Wh) | [Rufus/Odyssey](https://open.spotify.com/album/3Ru1lWqR5bT9AhxZJRsgcb) | 4:44 | 2024-07-11 | 2024-09-06 |
@@ -516,6 +517,7 @@
 | [Tirai Pembuka](https://open.spotify.com/track/2zyjwR6Pd5lWc2qLAS6Apg) | [Christabel Annora](https://open.spotify.com/artist/47FWnVDKhmgk7ZCHKSewHq) | [Sudut Kamar](https://open.spotify.com/album/2ReacdDsznM8jSnnkjJiIk) | 1:54 | 2024-08-09 | 2024-10-04 |
 | [to fathom the throes \- ACT III : The End](https://open.spotify.com/track/0LKm3M0HzJt46A4Oe8Bk9o) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t) | [to fathom the throes \- ACT III : The End](https://open.spotify.com/album/5POF7qu3CsSs9XRpGfOfCy) | 3:32 | 2026-02-19 | 2026-05-23 |
 | [Tolong Bales Watsap Ku](https://open.spotify.com/track/4fLV287uHpZWX5KAEeTr5x) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Tolong Bales Watsap Ku](https://open.spotify.com/album/7IuoK8NTkw2c6uHbz1iCzO) | 2:29 | 2024-06-27 | 2024-09-06 |
+| [Trip To The Sun](https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw) | [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL) | [Trip To The Sun](https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF) | 7:23 | 2026-06-19 |  |
 | [Tuan Kelana](https://open.spotify.com/track/10EoDBgK6FesVtr2fMpvvi) | [Figura Renata](https://open.spotify.com/artist/4l7rQ4b0SprtkOMgfMRDN5) | [Tuan Kelana](https://open.spotify.com/album/3kKK912M3mHQsqfB6D1vhJ) | 5:35 | 2024-06-27 | 2024-08-09 |
 | [Tutup Buku](https://open.spotify.com/track/3LamHUltwy6Ata0rJKyVC5) | [Denny Indrajaya](https://open.spotify.com/artist/1FJsMaXbB2RrxmfBE7ExHD) | [Tutup Buku](https://open.spotify.com/album/4B0yd80yQnf9whZVO1STrS) | 2:47 | 2024-11-28 | 2025-03-28 |
 | [Twenties](https://open.spotify.com/track/0NzTdXtgZLKP6IcyFyGytS) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Twenties](https://open.spotify.com/album/376cAL4mCqmNTi7nRlz2v2) | 3:21 | 2025-06-12 | 2025-10-17 |

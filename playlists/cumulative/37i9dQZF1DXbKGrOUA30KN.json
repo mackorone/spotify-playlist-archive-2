@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: Philipp Poisel",
+  "description": "Deutschpop, der jetzt passiert. Cover: LUNA",
   "name": "POPLAND",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 130730,
       "name": "ALL THE WAY UP",
       "url": "https://open.spotify.com/track/4CS37GKUhKnYdYKoQkwIwT"
@@ -374,6 +374,24 @@
       "duration_ms": 140221,
       "name": "Alle wie eins (Wir sind alle wie eins) (aus \"Sing meinen Song, Vol. 13\")",
       "url": "https://open.spotify.com/track/5l2iKl2tPeGuF4uPFXj6vC"
+    },
+    {
+      "album": {
+        "name": "Allein auf dieser Welt",
+        "url": "https://open.spotify.com/album/5G8kxNsQYHNha8VV4IAp6W"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173846,
+      "name": "Allein auf dieser Welt",
+      "url": "https://open.spotify.com/track/1cr2a6oX8Gw5f30xEym7rj"
     },
     {
       "album": {
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 120676,
       "name": "dann wird alles immer gut",
       "url": "https://open.spotify.com/track/5f9vVxNPqFc6UMzPu0sDWo"
@@ -1962,7 +1980,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 134672,
       "name": "dein freund",
       "url": "https://open.spotify.com/track/1uHPAFiJmkXYT7URQ240TS"
@@ -2157,6 +2175,24 @@
     },
     {
       "album": {
+        "name": "Die sch\u00f6nsten Jahre",
+        "url": "https://open.spotify.com/album/4GLB0qpNIZEvGD6G7JT7Qu"
+      },
+      "artists": [
+        {
+          "name": "Christoph Sakwerda",
+          "url": "https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164410,
+      "name": "Die sch\u00f6nsten Jahre",
+      "url": "https://open.spotify.com/track/1wbCQS0ZwXZbq2SzLId9UW"
+    },
+    {
+      "album": {
         "name": "Die sch\u00f6nsten Tage (JazzDP)",
         "url": "https://open.spotify.com/album/35b0FWOIE4FfokILoxNx9K"
       },
@@ -2220,6 +2256,24 @@
       "duration_ms": 161329,
       "name": "Dienstag",
       "url": "https://open.spotify.com/track/4LNX3NCuCTudq0w36933CZ"
+    },
+    {
+      "album": {
+        "name": "Diese Lieder",
+        "url": "https://open.spotify.com/album/0DF0R2KMFlhDjopjHWwTjP"
+      },
+      "artists": [
+        {
+          "name": "skuth",
+          "url": "https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Diese Lieder",
+      "url": "https://open.spotify.com/track/2yAJfnayrJmR8ERU6VgU8j"
     },
     {
       "album": {
@@ -2777,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "es tut mir sooo leid",
+        "url": "https://open.spotify.com/album/2ZjHpvsOjDUtapQI9Wgzxq"
+      },
+      "artists": [
+        {
+          "name": "PAMO",
+          "url": "https://open.spotify.com/artist/7qf2XcdJFubvVknccluf2r"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153037,
+      "name": "es tut mir sooo leid",
+      "url": "https://open.spotify.com/track/1eE5yIZfsT6gpSDURe4WEC"
+    },
+    {
+      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/10P9sY4n3L1duh6qWByMN5"
       },
@@ -2792,6 +2864,24 @@
       "duration_ms": 149032,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/15IyELrdg32cT3N1NQksUV"
+    },
+    {
+      "album": {
+        "name": "Explaining Men",
+        "url": "https://open.spotify.com/album/1X8ehV7zFRKkN46jp4ZYdo"
+      },
+      "artists": [
+        {
+          "name": "GRETA",
+          "url": "https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147785,
+      "name": "Explaining Men",
+      "url": "https://open.spotify.com/track/5umPRKheAMtcTjdrYRHBd7"
     },
     {
       "album": {
@@ -2868,6 +2958,24 @@
       "duration_ms": 157551,
       "name": "Fast vergessen",
       "url": "https://open.spotify.com/track/0rnU64SEFpchNbDFlghgqu"
+    },
+    {
+      "album": {
+        "name": "Federleicht",
+        "url": "https://open.spotify.com/album/5EDa5xMsCklcpQcAvxOijk"
+      },
+      "artists": [
+        {
+          "name": "KIALA",
+          "url": "https://open.spotify.com/artist/4zABHPQ2hWIUwHPv7Zhqdq"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Federleicht",
+      "url": "https://open.spotify.com/track/6m2HLUFt7U9aweAPqJ92wQ"
     },
     {
       "album": {
@@ -3286,7 +3394,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 147000,
       "name": "f\u00fcr ne weile",
       "url": "https://open.spotify.com/track/4yTeSHTQJhrVpmfDwOGt9q"
@@ -3482,7 +3590,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 164985,
       "name": "Gl\u00fcck",
       "url": "https://open.spotify.com/track/7j1OD1NADcP0m05LpZvBrl"
@@ -3644,7 +3752,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 143488,
       "name": "Hagel",
       "url": "https://open.spotify.com/track/12H7CpNK4QdPCXllsHkK0t"
@@ -3669,6 +3777,46 @@
     },
     {
       "album": {
+        "name": "halb so wild",
+        "url": "https://open.spotify.com/album/1OKMHN1Mu2mVNLYX8vqzuB"
+      },
+      "artists": [
+        {
+          "name": "Laura Nahr",
+          "url": "https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140989,
+      "name": "halb so wild",
+      "url": "https://open.spotify.com/track/1ZcBtBanEcpfmN3DjpVcv0"
+    },
+    {
+      "album": {
+        "name": "Halbe Schachtel",
+        "url": "https://open.spotify.com/album/0T1irXefFwVu1hFGyJjFrS"
+      },
+      "artists": [
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160130,
+      "name": "Halbe Schachtel",
+      "url": "https://open.spotify.com/track/1NexEC05MHCDaeKOh00kre"
+    },
+    {
+      "album": {
         "name": "Nicht mehr traurig",
         "url": "https://open.spotify.com/album/6FtYUdzSfqNCsAVmR3BsmM"
       },
@@ -3680,7 +3828,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 118194,
       "name": "Halbe Wahrheit",
       "url": "https://open.spotify.com/track/09ro7ihMGccFtQDWATIF8f"
@@ -3958,6 +4106,24 @@
       "duration_ms": 133961,
       "name": "Herz ist dumm",
       "url": "https://open.spotify.com/track/15K7EFaiq1OWvpFmaM6npW"
+    },
+    {
+      "album": {
+        "name": "Herz mit Gebrauchsspuren",
+        "url": "https://open.spotify.com/album/55kDr9P3PtIiSl5Ixf0wFJ"
+      },
+      "artists": [
+        {
+          "name": "Annett Louisan",
+          "url": "https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178960,
+      "name": "Herz mit Gebrauchsspuren",
+      "url": "https://open.spotify.com/track/1ZuSCgwe9LGamalA6YAP6l"
     },
     {
       "album": {
@@ -5764,7 +5930,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 216027,
       "name": "Liebe hat nicht ewig Zeit (mit Tim Fischer)",
       "url": "https://open.spotify.com/track/6aba1fAPry3bVP86xmFSTD"
@@ -6078,7 +6244,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 151106,
       "name": "Mascara",
       "url": "https://open.spotify.com/track/23jeo9x3nDuXSBBp8A4RTo"
@@ -7122,7 +7288,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 131478,
       "name": "Ohne Dich",
       "url": "https://open.spotify.com/track/498PcOP9eNweJeRvvzuNgF"
@@ -7909,6 +8075,24 @@
     },
     {
       "album": {
+        "name": "klein sein",
+        "url": "https://open.spotify.com/album/25avQp1HWKPYlMAiBUgNxG"
+      },
+      "artists": [
+        {
+          "name": "MELLER",
+          "url": "https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156687,
+      "name": "sabotage",
+      "url": "https://open.spotify.com/track/6trZW0tMFDcxTcUuIngVNv"
+    },
+    {
+      "album": {
         "name": "sad baddie anthem EP",
         "url": "https://open.spotify.com/album/4xbhzAzIldP3XfdgSiBXXw"
       },
@@ -8556,7 +8740,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 176965,
       "name": "Sternenstaub",
       "url": "https://open.spotify.com/track/0dSyI2GkR9d5sEcT3v1jHx"
@@ -8664,7 +8848,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 130337,
       "name": "Tanz",
       "url": "https://open.spotify.com/track/6EVLYCoGWC6D7hn61pzO2A"
@@ -9560,7 +9744,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 158202,
       "name": "Wasser zu Wein",
       "url": "https://open.spotify.com/track/6NXVKXBPnT5hMpcFJSf69v"
@@ -10121,6 +10305,24 @@
     },
     {
       "album": {
+        "name": "Wie es ist",
+        "url": "https://open.spotify.com/album/35MfavtToqQwImSyqH9aUQ"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145861,
+      "name": "Wie es ist",
+      "url": "https://open.spotify.com/track/1POGbywvBWYSPLvHepsLj5"
+    },
+    {
+      "album": {
         "name": "TESTPHASE LIEBE",
         "url": "https://open.spotify.com/album/2nYaZhXmzgIGGV6plCUjD0"
       },
@@ -10158,6 +10360,24 @@
       "duration_ms": 146000,
       "name": "WIE LIEBE GEHT",
       "url": "https://open.spotify.com/track/7pk0TzbdVwQRrnrLenPme1"
+    },
+    {
+      "album": {
+        "name": "Wie man tanzt",
+        "url": "https://open.spotify.com/album/60QgySsUojKs6F7luRS14s"
+      },
+      "artists": [
+        {
+          "name": "Sarro",
+          "url": "https://open.spotify.com/artist/6cFU9LlvHa1exQs5MJg6vB"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132974,
+      "name": "Wie man tanzt",
+      "url": "https://open.spotify.com/track/24cEVAkUqDen6ZmYGfwf4T"
     },
     {
       "album": {

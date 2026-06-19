@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 80s
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,942 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,946 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 | 57 | [Seven Wonders \- 2017 Remaster](https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:42 |
 | 58 | [We Belong](https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Tropico](https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8) | 3:41 |
 | 59 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:57 |
-| 60 | [Just Like Heaven \- Remastered 2006](https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me Kiss Me Kiss Me \(Remastered 2006\)](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:32 |
+| 60 | [Close To Me](https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door \(Remastered\)](https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG) | 3:23 |
 
 Snapshot ID: `AAAAAJdJpGRM8ajUTFdEt1Ci3nVtn2ap`

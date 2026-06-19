@@ -1,6 +1,6 @@
 {
   "description": "All the of punk rock that you need in your life. ",
-  "num_followers": 914364,
+  "num_followers": 914357,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
@@ -799,18 +799,22 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "White Light White Heat White Trash",
-        "url": "https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv"
+        "name": "Collection 2",
+        "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
       "artists": [
         {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        },
+        {
+          "name": "Glenn Danzig",
+          "url": "https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d"
         }
       ],
-      "duration_ms": 238873,
-      "name": "I Was Wrong",
-      "url": "https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx"
+      "duration_ms": 119826,
+      "name": "Last Caress",
+      "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
     }
   ],
   "unique_name": "Punk Essentials",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,524 songs - 10 day 1 hr 57 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,525 songs - 10 day 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4532,5 +4532,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4522 | [Nightshade Serenity](https://open.spotify.com/track/1B327qlw8AmnDGqUd1jiEj) | [Screams of Tranquility](https://open.spotify.com/artist/0gin8Rgot6p6gKUBVEzw6s) | [Nightshade Serenity](https://open.spotify.com/album/4j2RC6qX1cWLWeA2epb9zu) | 3:52 |
 | 4523 | [She speaks in numbers](https://open.spotify.com/track/0ueey7xc28u36TcRpfoMWg) | [VicDigital](https://open.spotify.com/artist/5HbzK4iHOYfQxxBlHLPaOO), [Pr0fess0r](https://open.spotify.com/artist/2WssrSCJ4rSLFIQUqmRsxp) | [She speaks in numbers](https://open.spotify.com/album/7yoOw4R6VsdhlY4d2z0Z5G) | 3:30 |
 | 4524 | [Northwest Cold Front](https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Northwest Cold Front](https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c) | 3:07 |
+| 4525 | [Save Us](https://open.spotify.com/track/5CKVc9xlMamknLZwVDBBda) | [Sinsation](https://open.spotify.com/artist/7zkNESiCUt0wzQsSwKzTrS) | [Save Us](https://open.spotify.com/album/6rYTeQvcX9RF05gTGxy1uU) | 4:18 |
 
-Snapshot ID: `AAAI5Rry1e8g0zMmOnQj+MhC+rbNu0P6`
+Snapshot ID: `AAAI5r1Ht2UkTJGlXj7bA6uCm84yyVCS`

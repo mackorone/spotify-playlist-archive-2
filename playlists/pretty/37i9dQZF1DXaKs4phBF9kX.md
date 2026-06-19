@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,806 likes - 70 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,832 likes - 70 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 49 | [Yankee Rose](https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Eat 'Em and Smile](https://open.spotify.com/album/0Ali88C44gQdI065upsgKU) | 3:54 |
 | 50 | [Big Love](https://open.spotify.com/track/1cWilR7SC3qyfl6emCvYf0) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:38 |
 | 51 | [Don't Let Him Go](https://open.spotify.com/track/6UxGF7LGJ5qE0LJViSTsA2) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:45 |
-| 52 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
-| 53 | [Shakedown](https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Greatest Hits 2](https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j) | 4:01 |
+| 52 | [Shakedown](https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Greatest Hits 2](https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j) | 4:01 |
+| 53 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
 | 54 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
 | 55 | [Magic](https://open.spotify.com/track/7z8k6KAvjHX3RtkYNhIC9B) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City](https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO) | 3:57 |
 | 56 | [Since You've Been Gone](https://open.spotify.com/track/3BWOEIkW9H7tCr8wwjzOyf) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Bangin'](https://open.spotify.com/album/0WJGoINjEKdeRpN30M5R88) | 4:46 |

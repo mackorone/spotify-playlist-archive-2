@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\uddeb\ud83c\uddf7 featuring Jersey",
-  "num_followers": 844485,
+  "num_followers": 844489,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAATnCC8uoji+Ty/U6V0Ct9M4ROuU",
+  "snapshot_id": "AAAAAPcAsEemhgfO70Y38u/z9LJaL8LR",
   "tracks": [
     {
       "added_at": "2026-06-12 15:55:15",
@@ -61,24 +61,20 @@
       "url": "https://open.spotify.com/track/6Q7WM5xVcgXIy9qd41EqyZ"
     },
     {
-      "added_at": "2026-06-12 15:55:15",
+      "added_at": "2026-06-19 04:02:07",
       "album": {
-        "name": "thumbs",
-        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
+        "name": "uniti/separati",
+        "url": "https://open.spotify.com/album/3BerwqIItBI9kVMUlfgJo7"
       },
       "artists": [
         {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+          "name": "fenoaltea",
+          "url": "https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L"
         }
       ],
-      "duration_ms": 170800,
-      "name": "thumbs",
-      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
+      "duration_ms": 197624,
+      "name": "uniti/separati",
+      "url": "https://open.spotify.com/track/4MIOpYyJVYuG5JTqGjlBcC"
     },
     {
       "added_at": "2026-06-12 15:55:15",
@@ -101,6 +97,110 @@
       "url": "https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t"
     },
     {
+      "added_at": "2026-06-12 15:55:15",
+      "album": {
+        "name": "thumbs",
+        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "thumbs",
+      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
+    },
+    {
+      "added_at": "2026-06-19 04:02:07",
+      "album": {
+        "name": "breathe",
+        "url": "https://open.spotify.com/album/6I5AZZAixliwotjWRyrx4F"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 241256,
+      "name": "breathe",
+      "url": "https://open.spotify.com/track/6ifoDLGesgTpLfrWzCyEZF"
+    },
+    {
+      "added_at": "2026-05-22 04:01:03",
+      "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/0UcnyV3OzcjNMuApyO5kXQ"
+      },
+      "artists": [
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/0Rq1qly0j85jDxYTXkmNrI"
+    },
+    {
+      "added_at": "2026-06-16 14:48:28",
+      "album": {
+        "name": "\"Not Found\"",
+        "url": "https://open.spotify.com/album/5HZdd941dgGvKJNZjN4HCM"
+      },
+      "artists": [
+        {
+          "name": "eric404",
+          "url": "https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL"
+        }
+      ],
+      "duration_ms": 260625,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/2Ed8PLm1CGGcHqJYj8H8nl"
+    },
+    {
+      "added_at": "2026-06-19 04:02:07",
+      "album": {
+        "name": "prima",
+        "url": "https://open.spotify.com/album/4gi0k3TcLf0Altvmb2Fzm4"
+      },
+      "artists": [
+        {
+          "name": "dunne",
+          "url": "https://open.spotify.com/artist/5DhorexpOznbCPzHH1aGwb"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "prima",
+      "url": "https://open.spotify.com/track/4kmgDJjEUwjj6nlEQLve1Z"
+    },
+    {
+      "added_at": "2026-05-29 04:02:39",
+      "album": {
+        "name": "Close To Me",
+        "url": "https://open.spotify.com/album/5xy527apuowNDrT8YPGOiD"
+      },
+      "artists": [
+        {
+          "name": "Dennett",
+          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
+        }
+      ],
+      "duration_ms": 220444,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/1sR7wY8HpZYHTKafDLFpEL"
+    },
+    {
       "added_at": "2026-05-29 04:02:39",
       "album": {
         "name": "Everest",
@@ -121,54 +221,6 @@
       "url": "https://open.spotify.com/track/0L9hLpaILakNHtwvgNeMjA"
     },
     {
-      "added_at": "2026-05-22 04:01:03",
-      "album": {
-        "name": "Mind",
-        "url": "https://open.spotify.com/album/0UcnyV3OzcjNMuApyO5kXQ"
-      },
-      "artists": [
-        {
-          "name": "Darby",
-          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Mind",
-      "url": "https://open.spotify.com/track/0Rq1qly0j85jDxYTXkmNrI"
-    },
-    {
-      "added_at": "2026-05-29 04:02:39",
-      "album": {
-        "name": "Close To Me",
-        "url": "https://open.spotify.com/album/5xy527apuowNDrT8YPGOiD"
-      },
-      "artists": [
-        {
-          "name": "Dennett",
-          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
-        }
-      ],
-      "duration_ms": 220444,
-      "name": "Close To Me",
-      "url": "https://open.spotify.com/track/1sR7wY8HpZYHTKafDLFpEL"
-    },
-    {
-      "added_at": "2026-06-16 14:48:28",
-      "album": {
-        "name": "\"Not Found\"",
-        "url": "https://open.spotify.com/album/5HZdd941dgGvKJNZjN4HCM"
-      },
-      "artists": [
-        {
-          "name": "eric404",
-          "url": "https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL"
-        }
-      ],
-      "duration_ms": 260625,
-      "name": "Wasting Time",
-      "url": "https://open.spotify.com/track/2Ed8PLm1CGGcHqJYj8H8nl"
-    },
-    {
       "added_at": "2026-06-12 15:55:15",
       "album": {
         "name": "LIVE FAST",
@@ -187,6 +239,22 @@
       "duration_ms": 240000,
       "name": "Now That I'm Falling",
       "url": "https://open.spotify.com/track/6jXKPAGT30YT1E4ovVdHOH"
+    },
+    {
+      "added_at": "2026-06-19 04:02:07",
+      "album": {
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/1XuNbS1V7aYOWQ9F04SuiC"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        }
+      ],
+      "duration_ms": 173182,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/4TFarMbrFFqs5htuHVN843"
     },
     {
       "added_at": "2026-05-22 04:01:03",
@@ -239,6 +307,22 @@
       "duration_ms": 235826,
       "name": "RINGING IN MY HEAD",
       "url": "https://open.spotify.com/track/2rlcmaj7JHt6Oz9ewQGoSt"
+    },
+    {
+      "added_at": "2026-06-19 04:02:07",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/2nWDg8pqwj4KttDZTPROAk"
+      },
+      "artists": [
+        {
+          "name": "Creach",
+          "url": "https://open.spotify.com/artist/1rXzU8skEqngYPWZDWCRcH"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1CR39tEwJLqb5s0DifVObL"
     },
     {
       "added_at": "2026-06-12 16:18:52",
@@ -325,6 +409,22 @@
       "url": "https://open.spotify.com/track/1qbBwytmeuiZTxm1APaVcn"
     },
     {
+      "added_at": "2026-06-19 04:02:07",
+      "album": {
+        "name": "VENOM",
+        "url": "https://open.spotify.com/album/3oqp73sgDImFY4e4TpJXWw"
+      },
+      "artists": [
+        {
+          "name": "Khamsin",
+          "url": "https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "VENOM",
+      "url": "https://open.spotify.com/track/25pkSSY796QVLPHhS0GD89"
+    },
+    {
       "added_at": "2026-05-29 04:02:39",
       "album": {
         "name": "My Destiny",
@@ -407,6 +507,22 @@
       "duration_ms": 203230,
       "name": "don't you miss me",
       "url": "https://open.spotify.com/track/52zrmEuyescE1mlhBPtdkA"
+    },
+    {
+      "added_at": "2026-06-19 04:02:07",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/3L1qw1vC678qVksOV7E2l6"
+      },
+      "artists": [
+        {
+          "name": "Yellowtael",
+          "url": "https://open.spotify.com/artist/1ZWPMZCohbM9qkAopMRZGJ"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2S6Wk5R4wMNSl7FEo2aoTX"
     },
     {
       "added_at": "2026-05-15 19:29:36",
@@ -877,22 +993,6 @@
       "url": "https://open.spotify.com/track/3QOxwuNQHpLjJZLROh71yh"
     },
     {
-      "added_at": "2026-05-08 04:04:13",
-      "album": {
-        "name": "Best You've Had",
-        "url": "https://open.spotify.com/album/54VaM9smrOaAMvOSVN3Fzx"
-      },
-      "artists": [
-        {
-          "name": "Aliiias",
-          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Best You've Had",
-      "url": "https://open.spotify.com/track/1wP2hXRlB3KddjkzcAH6Xb"
-    },
-    {
       "added_at": "2026-05-15 04:02:26",
       "album": {
         "name": "Run Out",
@@ -923,30 +1023,6 @@
       "duration_ms": 218181,
       "name": "Shining",
       "url": "https://open.spotify.com/track/3Jfh9DydVhNpob2rYxbtOD"
-    },
-    {
-      "added_at": "2026-05-01 04:02:39",
-      "album": {
-        "name": "BEAUTIFUL COLORS",
-        "url": "https://open.spotify.com/album/7kr0ghVL1UPK98LX7hOnJw"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        },
-        {
-          "name": "Evalyn",
-          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "BEAUTIFUL COLORS",
-      "url": "https://open.spotify.com/track/7dcWYju9Kv7WpdNx3oTi8L"
     },
     {
       "added_at": "2026-04-10 04:03:08",
@@ -1153,46 +1229,6 @@
       "url": "https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz"
     },
     {
-      "added_at": "2026-04-24 04:02:20",
-      "album": {
-        "name": "Heart Racing",
-        "url": "https://open.spotify.com/album/1Ey9GiPFu91Tz5kvrhMKTl"
-      },
-      "artists": [
-        {
-          "name": "ALIGN",
-          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
-        },
-        {
-          "name": "Babsy.",
-          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
-        }
-      ],
-      "duration_ms": 158260,
-      "name": "Heart Racing",
-      "url": "https://open.spotify.com/track/6hAdTcjRW8RuPUDunYyOwI"
-    },
-    {
-      "added_at": "2026-04-24 04:02:20",
-      "album": {
-        "name": "Should've Known Better",
-        "url": "https://open.spotify.com/album/3VWWyCDqXWHxWwfyhEQBqy"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "KENNEDY",
-          "url": "https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R"
-        }
-      ],
-      "duration_ms": 142235,
-      "name": "Should've Known Better",
-      "url": "https://open.spotify.com/track/6xC8SOWsbewQ7c7NRMsrje"
-    },
-    {
       "added_at": "2026-03-20 15:46:35",
       "album": {
         "name": "3am - Nic Vans Remix",
@@ -1211,22 +1247,6 @@
       "duration_ms": 164142,
       "name": "3am - Nic Vans Remix",
       "url": "https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"
-    },
-    {
-      "added_at": "2026-04-24 04:02:20",
-      "album": {
-        "name": "alone (dancing on my own)",
-        "url": "https://open.spotify.com/album/5X1c1gB2cXQuhFEX0zUSS1"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "alone (dancing on my own)",
-      "url": "https://open.spotify.com/track/7ndRDZNZTOYMGZRH6wv0Rl"
     },
     {
       "added_at": "2026-04-10 04:03:08",
@@ -1657,30 +1677,6 @@
       "url": "https://open.spotify.com/track/4P5CWKmgT5kYZ3GRSm7Cb4"
     },
     {
-      "added_at": "2026-01-30 05:01:12",
-      "album": {
-        "name": "Close To Me",
-        "url": "https://open.spotify.com/album/2i3TlcXUjW45JNMDDuS9T6"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "Pocket",
-          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
-        },
-        {
-          "name": "Crybaby",
-          "url": "https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET"
-        }
-      ],
-      "duration_ms": 206598,
-      "name": "Close To Me",
-      "url": "https://open.spotify.com/track/0qEqzaHSaDrcnsbRvfWZRK"
-    },
-    {
       "added_at": "2026-02-13 05:00:47",
       "album": {
         "name": "DECISION",
@@ -1803,22 +1799,6 @@
       "duration_ms": 143038,
       "name": "HOLD ON",
       "url": "https://open.spotify.com/track/2zRHL8LMAENGLez8HoJzrU"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
-        "name": "Spaceman / Middle Finger",
-        "url": "https://open.spotify.com/album/7H8ZifMd1oYkr9LTOZ1nG0"
-      },
-      "artists": [
-        {
-          "name": "Kleptoe",
-          "url": "https://open.spotify.com/artist/2lFjfRjYEoAJfPblMqNo3R"
-        }
-      ],
-      "duration_ms": 254896,
-      "name": "Spaceman",
-      "url": "https://open.spotify.com/track/3Luvixa0tHPc35EYfziICm"
     },
     {
       "added_at": "2026-01-16 19:10:38",

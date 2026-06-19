@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Ibrahim Maalouf
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,775 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,796 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 29 | [La Habana Kréyol](https://open.spotify.com/track/1HUBXEWnN3TsHYJyHKdlnp) | [Jonathan Jurion](https://open.spotify.com/artist/4zFTMFADHb1YOkjYBAmgPJ), [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Damian Nueva](https://open.spotify.com/artist/2qgoWPBB9bkhdPwNeb9amJ) | [La Habana Kréyol](https://open.spotify.com/album/5EwZtm8QV1t1axK49o81zN) | 5:56 |
 | 30 | [Sun Showers](https://open.spotify.com/track/0ZhP7MAHSl4n3UBIjcbyqa) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Sun Showers](https://open.spotify.com/album/4B2Bga4grO8W0wnLxQbfY5) | 3:06 |
 | 31 | [A Plea](https://open.spotify.com/track/6l8bVvHC6p235oK1IIef03) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [Honora](https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM) | 7:38 |
-| 32 | [Eternal Child](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Itay Simhocih](https://open.spotify.com/artist/5Vi3MtvSHAOgsBLuWXuigF), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 5:07 |
+| 32 | [Eternal Child](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Itay Simhovich](https://open.spotify.com/artist/7aMuvoIBnkIiZFIPjSHRju) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 5:07 |
 | 33 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 |
 | 34 | [Bagages en Zoot](https://open.spotify.com/track/5mtHHTmsMADB4iQYgBvh1K) | [Noé Codjia](https://open.spotify.com/artist/5wVgCCd9Tjas35KQdNOHlG), [Zoot Big Band](https://open.spotify.com/artist/5Eupc2S2LWYueTTxNJBRIY), [Zoot Collectif](https://open.spotify.com/artist/42J8D311zCRXThjHHo1z90) | [Bagages en Zoot](https://open.spotify.com/album/3CFHHaBTLdfNKBkEu4BiDD) | 5:27 |
 | 35 | [Tour de Manège](https://open.spotify.com/track/7vi5WwJ8dtqhekZLpnhtue) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9), [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [Tour de Manège](https://open.spotify.com/album/4C4CAH43TXHQ5mSAPGhTXi) | 4:38 |

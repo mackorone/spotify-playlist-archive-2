@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-607 songs - 1 day 10 hr 29 min
+608 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Alaye](https://open.spotify.com/track/1juUeg0oAfCwO8xWj4rzZg) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:35 | 2026-01-22 |  |
 | [Alhamdulillah](https://open.spotify.com/track/0iQbrllM4TkC8BQrk155sx) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Alhamdulillah](https://open.spotify.com/album/1V2eHcLypl1r0RcNfhNfxJ) | 2:15 | 2025-10-16 | 2025-10-24 |
 | [ALL EYES ON ME](https://open.spotify.com/track/6Fz3JvR8SQxMyRGBSx7mUW) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [ALL EYES ON ME](https://open.spotify.com/album/5v96iS1dWnI0lZbIfQI4rF) | 2:40 | 2023-04-27 | 2023-05-12 |
+| [Allergies](https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Allergies](https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp) | 2:53 | 2026-06-19 |  |
 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 | 2025-10-12 | 2025-10-24 |
 | [ALREADY](https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:42 | 2020-01-14 | 2022-04-13 |
 | [Ama Gear](https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [031 Studio Camp](https://open.spotify.com/album/3tOHGWG9GWuB2KBw6YisEX) | 7:05 | 2024-11-29 | 2025-12-06 |
@@ -185,7 +186,7 @@
 | [Energy](https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Energy](https://open.spotify.com/album/4DkDQnkfCfgniEm33g3IEV) | 2:20 | 2026-05-29 |  |
 | [Enjoy](https://open.spotify.com/track/1qiHxdihSes6DA9hkAKFyg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/2r2GgPbTjjPB8OclFfiFGY) | 3:36 | 2024-04-03 | 2024-04-19 |
 | [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 | 2023-07-14 | 2024-03-21 |
-| [Enjoy and Party](https://open.spotify.com/track/1mJ5ry5cCt0MTWEj3RGDj3) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Enjoy and Party](https://open.spotify.com/album/4KVDH0KjAfMwRkRem1t7zX) | 2:57 | 2026-05-29 |  |
+| [Enjoy and Party](https://open.spotify.com/track/1mJ5ry5cCt0MTWEj3RGDj3) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Enjoy and Party](https://open.spotify.com/album/4KVDH0KjAfMwRkRem1t7zX) | 2:57 | 2026-05-29 | 2026-06-19 |
 | [ENJOYMENT](https://open.spotify.com/track/54ZS9DcCVy0jcsTqHSFLyi) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Diamond Boy](https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE) | [ENJOYMENT](https://open.spotify.com/album/6XeFNGknKUSeZh7Gboegur) | 2:55 | 2025-11-07 | 2026-05-28 |
 | [Eve Bounce \- Remix](https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v) | [Yung L](https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Eve Bounce](https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ) | 3:24 | 2020-05-29 | 2022-06-17 |
 | [Everytime](https://open.spotify.com/track/63MDlT75I1QKngHOVjvuTk) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Everytime](https://open.spotify.com/album/47QstGb0yUF5dG1xDPCOub) | 3:20 | 2020-08-18 | 2022-05-19 |

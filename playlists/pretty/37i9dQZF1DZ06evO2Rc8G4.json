@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 174173,
+  "num_followers": 174200,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAC7oHQd1beKv3F26N/w9Mmb",
+  "snapshot_id": "ajHjgAAAAAB7AumFYoLHtPpy3tPpQobi",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Light Up (From the Netflix Documentary 'Kylie')",
-        "url": "https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Light Up (From the Netflix Documentary 'Kylie')",
-      "url": "https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk"
     },
     {
       "added_at": null,
@@ -147,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light Years",
-        "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
+        "name": "Light Up (From the Netflix Documentary 'Kylie')",
+        "url": "https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO"
       },
       "artists": [
         {
@@ -156,9 +140,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 207866,
-      "name": "Spinning Around",
-      "url": "https://open.spotify.com/track/3eXI3pYpiY1nRwhvW0c8Qi"
+      "duration_ms": 197538,
+      "name": "Light Up (From the Netflix Documentary 'Kylie')",
+      "url": "https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk"
     },
     {
       "added_at": null,
@@ -195,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Light Years",
+        "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "Spinning Around",
+      "url": "https://open.spotify.com/track/3eXI3pYpiY1nRwhvW0c8Qi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
       },
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "Story",
-      "url": "https://open.spotify.com/track/0dV9JbXkCeuQWjuxG8BtIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 246866,
       "name": "Come into My World - Radio Edit",
       "url": "https://open.spotify.com/track/39DW02MW41A8bBIxH7nT1V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/0dV9JbXkCeuQWjuxG8BtIS"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enjoy Yourself",
-        "url": "https://open.spotify.com/album/4oz4KLPtQlhuN392NqQVxx"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 231082,
-      "name": "Hand on Your Heart",
-      "url": "https://open.spotify.com/track/3pS5eiuBPsQn5ID6RElg9G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO: Guest List Edition",
         "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 207986,
       "name": "A Second to Midnight",
       "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enjoy Yourself",
+        "url": "https://open.spotify.com/album/4oz4KLPtQlhuN392NqQVxx"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 231082,
+      "name": "Hand on Your Heart",
+      "url": "https://open.spotify.com/track/3pS5eiuBPsQn5ID6RElg9G"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Miss a Thing",
-      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO: Guest List Edition",
         "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 262893,
       "name": "Real Groove - Studio 2054 Remix",
       "url": "https://open.spotify.com/track/2AaMtxb9ipiZO6ItN1bJrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Miss a Thing",
+      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
     },
     {
       "added_at": null,

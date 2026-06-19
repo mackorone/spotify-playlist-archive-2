@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,417 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,363 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 64 | [Mykonos](https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:35 |
 | 65 | [Scared To Start \(feat\. Joy Oladokun\)](https://open.spotify.com/track/3ruJjAt0eybFoPw0g0h7ZT) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Scared To Start \(feat\. Joy Oladokun\)](https://open.spotify.com/album/0q98KV3tR3VAgP0W1wsO64) | 2:39 |
 | 66 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 |
-| 67 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 |
-| 68 | [Coast](https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq) | [Gone Gone Beyond](https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5), [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [2030](https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw) | 3:29 |
+| 67 | [Coast](https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq) | [Gone Gone Beyond](https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5), [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [2030](https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw) | 3:29 |
+| 68 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 |
 | 69 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
 | 70 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
 | 71 | [The Universe](https://open.spotify.com/track/5SOV1dyQQJx98X4yY17bCI) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 4:16 |
-| 72 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
-| 73 | [Hurricane](https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Hurricane](https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW) | 4:26 |
+| 72 | [Hurricane](https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Hurricane](https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW) | 4:26 |
+| 73 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
 | 74 | [Spectrum](https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Nightshade](https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL) | 4:25 |
 | 75 | [She Wants To Go Dancing](https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [She Wants To Go Dancing](https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO) | 3:08 |
 | 76 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 80 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
 | 81 | [oh, mexico](https://open.spotify.com/track/3dT28suh6dzuW7qF79Nf4F) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [love is not dying](https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF) | 3:04 |
 | 82 | [untitled](https://open.spotify.com/track/0slJ3lfslgd5qk2ev9b6ol) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [untitled](https://open.spotify.com/album/1lcAeYHgVLtY1vuIJ8zawx) | 1:41 |
-| 83 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
-| 84 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 |
+| 83 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 |
+| 84 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
 | 85 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 |
 | 86 | [Last Man On Earth](https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Last Man On Earth](https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY) | 3:08 |
 | 87 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 |

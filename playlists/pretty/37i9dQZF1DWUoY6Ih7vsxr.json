@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 355635,
+  "num_followers": 355759,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "MONOCHROME",
-        "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
-      },
-      "artists": [
-        {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
-        }
-      ],
-      "duration_ms": 235624,
-      "name": "Miss Korea",
-      "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "BLOCKBUSTER",
         "url": "https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 196705,
       "name": "Ma Boy",
       "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "MONOCHROME",
+        "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "duration_ms": 235624,
+      "name": "Miss Korea",
+      "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Electric Shock - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Electric Shock",
-      "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Welcome to the BLOCK",
         "url": "https://open.spotify.com/album/6keoJJWt7AOZ3jvznOc5om"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 204546,
       "name": "\ub09c\ub9ac\ub098",
       "url": "https://open.spotify.com/track/7dgO6H1BxXeXfxDkiDN8E9"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Electric Shock - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Electric Shock",
+      "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Gone not around any longer",
-        "url": "https://open.spotify.com/album/7Jxv3EPhYBh6zevT4eUZQo"
-      },
-      "artists": [
-        {
-          "name": "SISTAR19",
-          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
-        }
-      ],
-      "duration_ms": 211069,
-      "name": "Gone not around any longer",
-      "url": "https://open.spotify.com/track/4TAENzBN2lYuXBF9ZNauwJ"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "No.1 - The 2nd Album",
         "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 193226,
       "name": "No.1",
       "url": "https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Gone not around any longer",
+        "url": "https://open.spotify.com/album/7Jxv3EPhYBh6zevT4eUZQo"
+      },
+      "artists": [
+        {
+          "name": "SISTAR19",
+          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "Gone not around any longer",
+      "url": "https://open.spotify.com/track/4TAENzBN2lYuXBF9ZNauwJ"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "SS501 / Rebirth",
-        "url": "https://open.spotify.com/album/45b7ZY0JnkHSXOvIph0a0s"
-      },
-      "artists": [
-        {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
-        }
-      ],
-      "duration_ms": 168653,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/6ikuCPBHanUnebgfeGJ0id"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Atlantis Princess - The 3rd Album",
         "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 224373,
       "name": "Atlantis Princess",
       "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "SS501 / Rebirth",
+        "url": "https://open.spotify.com/album/45b7ZY0JnkHSXOvIph0a0s"
+      },
+      "artists": [
+        {
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+        }
+      ],
+      "duration_ms": 168653,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/6ikuCPBHanUnebgfeGJ0id"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "\uae30\ub300",
-        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
-      },
-      "artists": [
-        {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "\ubc18\uc9dd\ubc18\uc9dd",
-      "url": "https://open.spotify.com/track/3GYjMYmmvBIk0xwbQhAnQ8"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Hard to love, How to love",
         "url": "https://open.spotify.com/album/2x29rw7sHezje8lFwT1XCn"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 216868,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/0yiW0iUlPQg5htp6GyR7v7"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "\uae30\ub300",
+        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
+      },
+      "artists": [
+        {
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "\ubc18\uc9dd\ubc18\uc9dd",
+      "url": "https://open.spotify.com/track/3GYjMYmmvBIk0xwbQhAnQ8"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "LIPSTICK",
-        "url": "https://open.spotify.com/album/1r2yoS5HLPjmz5j1ii5a3r"
-      },
-      "artists": [
-        {
-          "name": "Orange Caramel",
-          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
-        }
-      ],
-      "duration_ms": 201221,
-      "name": "LIPSTICK",
-      "url": "https://open.spotify.com/track/1fSQVc8qsBj6mYTkEdfK8s"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/0ODnOMPVDNZki1DMnh6hwh"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 198243,
       "name": "DIVA",
       "url": "https://open.spotify.com/track/7AAyzxwoFaL55IJMJVn2Oh"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "LIPSTICK",
+        "url": "https://open.spotify.com/album/1r2yoS5HLPjmz5j1ii5a3r"
+      },
+      "artists": [
+        {
+          "name": "Orange Caramel",
+          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
+        }
+      ],
+      "duration_ms": 201221,
+      "name": "LIPSTICK",
+      "url": "https://open.spotify.com/track/1fSQVc8qsBj6mYTkEdfK8s"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "A's Doll House",
-        "url": "https://open.spotify.com/album/7LAxFe8bbiNDWWDtMTL0hC"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 194712,
-      "name": "U & I",
-      "url": "https://open.spotify.com/track/1wKOJ2fTflDiABy1EbFflM"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "VIRGIN",
         "url": "https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 274755,
       "name": "Shampoo",
       "url": "https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "A's Doll House",
+        "url": "https://open.spotify.com/album/7LAxFe8bbiNDWWDtMTL0hC"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 194712,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/1wKOJ2fTflDiABy1EbFflM"
     },
     {
       "added_at": "2024-03-27 14:24:46",

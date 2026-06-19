@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2981,
+  "num_followers": 2986,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAACqM5A7bNh3Jp744ClXLfc",
+  "snapshot_id": "ajHjgAAAAABHrEz6jdyRE49RFqQYXb/6",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirr & Nothing",
-        "url": "https://open.spotify.com/album/6pDNWot4SaDPtMLerJ3AFZ"
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 220245,
-      "name": "July the Fourth",
-      "url": "https://open.spotify.com/track/5jQMGmXgqIszqknvBA65fn"
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+        "name": "Whirr & Nothing",
+        "url": "https://open.spotify.com/album/6pDNWot4SaDPtMLerJ3AFZ"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 270853,
-      "name": "Blue Line Baby",
-      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
+      "duration_ms": 220245,
+      "name": "July the Fourth",
+      "url": "https://open.spotify.com/track/5jQMGmXgqIszqknvBA65fn"
     },
     {
       "added_at": null,

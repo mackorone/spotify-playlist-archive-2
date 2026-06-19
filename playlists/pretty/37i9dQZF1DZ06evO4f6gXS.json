@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3618,
+  "num_followers": 3621,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAARnZhy2yMRN7TeRPnAZv+C",
+  "snapshot_id": "ajHjgAAAAAAMxfxP5/zGyUTQv9ZUAaNo",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Need Some",
-        "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
       },
       "artists": [
-        {
-          "name": "WEISS",
-          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
-        },
         {
           "name": "The Jones Girls",
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 142200,
-      "name": "I Need Some",
-      "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
+      "duration_ms": 244560,
+      "name": "The World Will Sing Our Song",
+      "url": "https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz"
     },
     {
       "added_at": null,
@@ -195,18 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get as Much Love as You Can",
-        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+        "name": "I Need Some",
+        "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
       },
       "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
         {
           "name": "The Jones Girls",
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 244560,
-      "name": "The World Will Sing Our Song",
-      "url": "https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz"
+      "duration_ms": 142200,
+      "name": "I Need Some",
+      "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Won't Let You Take It Back",
-      "url": "https://open.spotify.com/track/7AfXda0tSyLrhlN3vkbkpo"
+      "duration_ms": 276973,
+      "name": "Ah, Ah, Ah, Ah",
+      "url": "https://open.spotify.com/track/2NVBR55sc6DUEBXJdPErFK"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 337026,
-      "name": "Getting on with My Own Life",
-      "url": "https://open.spotify.com/track/12c8DOnkjclmBMFSj1yMnS"
+      "duration_ms": 260773,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/0mDzUWzBdFU2qiALsa2JpM"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 276973,
-      "name": "Ah, Ah, Ah, Ah",
-      "url": "https://open.spotify.com/track/2NVBR55sc6DUEBXJdPErFK"
+      "duration_ms": 280000,
+      "name": "Won't Let You Take It Back",
+      "url": "https://open.spotify.com/track/7AfXda0tSyLrhlN3vkbkpo"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 260773,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/0mDzUWzBdFU2qiALsa2JpM"
+      "duration_ms": 337026,
+      "name": "Getting on with My Own Life",
+      "url": "https://open.spotify.com/track/12c8DOnkjclmBMFSj1yMnS"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
+        "name": "Luxury Soul 2018",
+        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 173520,
-      "name": "Taster of the Honey (Not Keeper of the Bee)",
-      "url": "https://open.spotify.com/track/6sjotJtpxuxZ3h2J9j65nI"
+      "duration_ms": 157133,
+      "name": "If You Don't Start Nothing",
+      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luxury Soul 2018",
-        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
+        "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 157133,
-      "name": "If You Don't Start Nothing",
-      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
+      "duration_ms": 173520,
+      "name": "Taster of the Honey (Not Keeper of the Bee)",
+      "url": "https://open.spotify.com/track/6sjotJtpxuxZ3h2J9j65nI"
     },
     {
       "added_at": null,

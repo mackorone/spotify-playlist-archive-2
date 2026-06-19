@@ -1,6 +1,6 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1444462,
+  "num_followers": 1444364,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,30 @@
     {
       "added_at": "2026-06-17 15:55:30",
       "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Confiss\u00f5es",
+      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
+    },
+    {
+      "added_at": "2026-06-17 15:55:30",
+      "album": {
         "name": "THE BOX MEDLEY FUNK 11",
         "url": "https://open.spotify.com/album/3YDJHfJBZEH0Cxj5eOqx11"
       },
@@ -871,30 +895,6 @@
       "duration_ms": 297692,
       "name": "THE BOX MEDLEY FUNK 11",
       "url": "https://open.spotify.com/track/0oulB5Nhs4Ur3zgvC6WqWz"
-    },
-    {
-      "added_at": "2026-06-17 15:55:30",
-      "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
-      },
-      "artists": [
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Confiss\u00f5es",
-      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
     },
     {
       "added_at": "2026-06-17 15:55:30",
@@ -1243,26 +1243,22 @@
     {
       "added_at": "2026-06-17 15:55:30",
       "album": {
-        "name": "NOVA: 2L's",
-        "url": "https://open.spotify.com/album/3NpuBxpNF0TBps3RmEBaZp"
+        "name": "Muito Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
       },
       "artists": [
         {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
         },
         {
-          "name": "Bia Soull",
-          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
-        },
-        {
-          "name": "DJ CARLOZS",
-          "url": "https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU"
+          "name": "Meio Feel",
+          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
         }
       ],
-      "duration_ms": 136650,
-      "name": "NOVA: 2L's",
-      "url": "https://open.spotify.com/track/1upJCA58emV5XezZ7yS1pU"
+      "duration_ms": 148965,
+      "name": "Perigos&Macetes",
+      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
     },
     {
       "added_at": "2026-06-17 15:55:30",
@@ -1299,6 +1295,54 @@
     {
       "added_at": "2026-06-17 15:55:30",
       "album": {
+        "name": "NOVA: 2L's",
+        "url": "https://open.spotify.com/album/3NpuBxpNF0TBps3RmEBaZp"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Bia Soull",
+          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
+        },
+        {
+          "name": "DJ CARLOZS",
+          "url": "https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU"
+        }
+      ],
+      "duration_ms": 136650,
+      "name": "NOVA: 2L's",
+      "url": "https://open.spotify.com/track/1upJCA58emV5XezZ7yS1pU"
+    },
+    {
+      "added_at": "2026-06-17 15:55:30",
+      "album": {
+        "name": "Sol Na Lata",
+        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
+      },
+      "artists": [
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Dj TC",
+          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
+        },
+        {
+          "name": "DJ PEPI",
+          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sol Na Lata",
+      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
+    },
+    {
+      "added_at": "2026-06-17 15:55:30",
+      "album": {
         "name": "Advinha o CEP",
         "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
       },
@@ -1323,50 +1367,6 @@
       "duration_ms": 131368,
       "name": "Advinha o CEP",
       "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
-    },
-    {
-      "added_at": "2026-06-17 15:55:30",
-      "album": {
-        "name": "Muito Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Meio Feel",
-          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Perigos&Macetes",
-      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
-    },
-    {
-      "added_at": "2026-06-17 15:55:30",
-      "album": {
-        "name": "\u00c1rea de Risco",
-        "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
-      },
-      "artists": [
-        {
-          "name": "Tchelo",
-          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
-        },
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "retroboy",
-          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
-        }
-      ],
-      "duration_ms": 158965,
-      "name": "\u00c1rea de Risco",
-      "url": "https://open.spotify.com/track/2sQALYsMKzAQkx1JWDkokz"
     },
     {
       "added_at": "2026-06-17 15:55:30",
@@ -1403,6 +1403,30 @@
     {
       "added_at": "2026-06-17 15:55:30",
       "album": {
+        "name": "\u00c1rea de Risco",
+        "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
+      },
+      "artists": [
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "duration_ms": 158965,
+      "name": "\u00c1rea de Risco",
+      "url": "https://open.spotify.com/track/2sQALYsMKzAQkx1JWDkokz"
+    },
+    {
+      "added_at": "2026-06-17 15:55:30",
+      "album": {
         "name": "Felina",
         "url": "https://open.spotify.com/album/6uM0C9M3hxJUsm1DuRc3Gj"
       },
@@ -1419,30 +1443,6 @@
       "duration_ms": 135272,
       "name": "Felina",
       "url": "https://open.spotify.com/track/0LrgfmbODV3jFMZujIMxDF"
-    },
-    {
-      "added_at": "2026-06-17 15:55:30",
-      "album": {
-        "name": "Sol Na Lata",
-        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
-      },
-      "artists": [
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        },
-        {
-          "name": "Dj TC",
-          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
-        },
-        {
-          "name": "DJ PEPI",
-          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sol Na Lata",
-      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
     },
     {
       "added_at": "2026-06-17 15:55:30",

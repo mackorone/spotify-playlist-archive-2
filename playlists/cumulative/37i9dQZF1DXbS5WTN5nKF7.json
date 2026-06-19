@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Christophe Ma\u00e9",
+  "description": "Le meilleur des hits avec Shakira & Burna Boy",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -550,7 +550,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 213440,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "C'est \u00e0 qui le tour",
+        "url": "https://open.spotify.com/album/4S4U6uyaN5a6t5WLt5Z3nN"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169004,
+      "name": "C'est \u00e0 qui le tour",
+      "url": "https://open.spotify.com/track/6DMW3BD1VPidFiWuXH3b4N"
+    },
+    {
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
       },
@@ -1518,7 +1536,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -3240,7 +3258,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 187963,
       "name": "Free",
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
@@ -3294,7 +3312,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -7033,6 +7051,24 @@
     },
     {
       "album": {
+        "name": "Peu importe",
+        "url": "https://open.spotify.com/album/3WmpDb4ONYEs5UPkHvNCZN"
+      },
+      "artists": [
+        {
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178306,
+      "name": "Peu importe",
+      "url": "https://open.spotify.com/track/3MoSqy7oUtQBSAcc4eQA3M"
+    },
+    {
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -7244,7 +7280,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 142323,
       "name": "Qu'est-ce qu'il me restera ?",
       "url": "https://open.spotify.com/track/2dDb0ZppFpTDdcqPLIgJ01"
@@ -7996,6 +8032,24 @@
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+    },
+    {
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
       "album": {
@@ -9804,7 +9858,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/7zTD7ELYa6WCbaza3VhViM"

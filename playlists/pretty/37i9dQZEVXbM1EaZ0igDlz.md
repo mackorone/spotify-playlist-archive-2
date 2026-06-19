@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,786 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,788 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 29 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 |
 | 30 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
 | 31 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
-| 32 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5cbTCQ14BC974Zsx6OlXF8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/01jrNa9Y7CLWnBMT3Fp5vR) | 4:20 |
+| 32 | [Boulevard of Broken Dreams](https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug) | 4:20 |
 | 33 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 | 34 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
 | 35 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [drop dead](https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead \(taken that eurostar to france video\)](https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD) | 3:44 |
 | 50 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 
-Snapshot ID: `McYZWAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `McdviAAAAAAAAAAAAAAAAAAAAAAAAGVu`

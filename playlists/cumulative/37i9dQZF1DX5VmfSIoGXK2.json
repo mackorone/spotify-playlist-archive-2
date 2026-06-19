@@ -99,6 +99,32 @@
     },
     {
       "album": {
+        "name": "All Over",
+        "url": "https://open.spotify.com/album/390p2gSBx7nYnneguRlwn9"
+      },
+      "artists": [
+        {
+          "name": "DAWSON",
+          "url": "https://open.spotify.com/artist/5cC8kBz37XOqvQ1uuptA02"
+        },
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Lewis McCallum",
+          "url": "https://open.spotify.com/artist/74XBgs2YjpaF1kYSYE5xQn"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300011,
+      "name": "All Over",
+      "url": "https://open.spotify.com/track/3J5cXnEVsVLcQCE5ImlXhg"
+    },
+    {
+      "album": {
         "name": "As If",
         "url": "https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k"
       },
@@ -634,7 +660,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 115636,
       "name": "calvera",
       "url": "https://open.spotify.com/track/5cpIlNlf4Jc8MhyqYiIzRP"
@@ -740,7 +766,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 200295,
       "name": "Chilly Winds Don't Blow - Bolden. Remix",
       "url": "https://open.spotify.com/track/3QaLeFkFcnBb9Klvf7jNIX"
@@ -3680,6 +3706,24 @@
       "duration_ms": 199379,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/72isHTzdTf3GcFkBcsT0i4"
+    },
+    {
+      "album": {
+        "name": "Sede",
+        "url": "https://open.spotify.com/album/6Xmfg1ZlubIuuWvZdZMNQw"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162439,
+      "name": "Sede",
+      "url": "https://open.spotify.com/track/3AyGuxllvNCPI3dtpH7u9U"
     },
     {
       "album": {

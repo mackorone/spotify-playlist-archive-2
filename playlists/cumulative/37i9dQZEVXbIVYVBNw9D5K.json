@@ -946,7 +946,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 212528,
       "name": "Ad\u0131 \u0130ntikamd\u0131 - Mustafa Sandal Sayg\u0131 1",
       "url": "https://open.spotify.com/track/4g2ixRBtPKBQA8TkKfB0JZ"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 133090,
       "name": "Ar\u0131yo",
       "url": "https://open.spotify.com/track/2tn5ROyAtMeBg4NCQMTTnD"
@@ -6776,7 +6776,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 85168,
       "name": "CALIENTE 2.0",
       "url": "https://open.spotify.com/track/6qwuUFRlfKT7iRgf4oLnsD"
@@ -8064,6 +8064,24 @@
       "duration_ms": 201107,
       "name": "Derinlerde",
       "url": "https://open.spotify.com/track/7eGi47ucrFzRVwMiNvPtsU"
+    },
+    {
+      "album": {
+        "name": "De\u011filim",
+        "url": "https://open.spotify.com/album/0E8ZOl1Vo7xpmrCaoideCe"
+      },
+      "artists": [
+        {
+          "name": "Mebrure",
+          "url": "https://open.spotify.com/artist/4jCnnQ6alF5PKST5XwSOz7"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224080,
+      "name": "De\u011filim",
+      "url": "https://open.spotify.com/track/14goS0HYX8X0cQWn2N3BaG"
     },
     {
       "album": {
@@ -11008,7 +11026,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 164869,
       "name": "Gel",
       "url": "https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu"
@@ -11670,6 +11688,24 @@
       "duration_ms": 132187,
       "name": "GNG Freestyle 1",
       "url": "https://open.spotify.com/track/1aJ2WHWbmCagZRRwKKviqB"
+    },
+    {
+      "album": {
+        "name": "GODFATHER",
+        "url": "https://open.spotify.com/album/0h1NFZruvDZLykRf6IDW9k"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126043,
+      "name": "GODFATHER",
+      "url": "https://open.spotify.com/track/3ZNdVXSkxTOWuOwokuMrlS"
     },
     {
       "album": {
@@ -12774,7 +12810,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 116727,
       "name": "Halef Selef",
       "url": "https://open.spotify.com/track/4uu0DhZGJpk5rRrTlrNMq7"
@@ -16965,6 +17001,24 @@
     },
     {
       "album": {
+        "name": "kestim",
+        "url": "https://open.spotify.com/album/0xxs3W9njttqBwxYv5emVN"
+      },
+      "artists": [
+        {
+          "name": "Lark2020",
+          "url": "https://open.spotify.com/artist/51FnfWbFaj7Ec4ZFcnGuCH"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "kestim",
+      "url": "https://open.spotify.com/track/5T05WQjiKwmivLtHPb4SjB"
+    },
+    {
+      "album": {
         "name": "ketojenik",
         "url": "https://open.spotify.com/album/0pDKtMxJJzNrvYFPtZWddu"
       },
@@ -18942,7 +18996,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 149823,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/6FGbxOWr2PhOHd6N06nafP"
@@ -20400,7 +20454,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 114174,
       "name": "NAF\u0130LE",
       "url": "https://open.spotify.com/track/6za5uNOnbaJ2nsW0HiMCCF"
@@ -23063,28 +23117,6 @@
     },
     {
       "album": {
-        "name": "VAKKO",
-        "url": "https://open.spotify.com/album/44YjUTmNcWVQwJWNU2XwaJ"
-      },
-      "artists": [
-        {
-          "name": "KAVAK",
-          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
-        },
-        {
-          "name": "BAKAN",
-          "url": "https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW"
-        }
-      ],
-      "date_added": "2026-06-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 121714,
-      "name": "RDM",
-      "url": "https://open.spotify.com/track/2jxd1D0PUKtzFjML3gcuRK"
-    },
-    {
-      "album": {
         "name": "RDM",
         "url": "https://open.spotify.com/album/5wrTc1B12K6DCxGk7EYHkn"
       },
@@ -23104,6 +23136,28 @@
       "duration_ms": 121714,
       "name": "RDM",
       "url": "https://open.spotify.com/track/1f2c5aRUD2yyU2jmjvDSzr"
+    },
+    {
+      "album": {
+        "name": "VAKKO",
+        "url": "https://open.spotify.com/album/44YjUTmNcWVQwJWNU2XwaJ"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "EGE!",
+          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121714,
+      "name": "RDM",
+      "url": "https://open.spotify.com/track/2jxd1D0PUKtzFjML3gcuRK"
     },
     {
       "album": {
@@ -23862,7 +23916,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 106105,
       "name": "Sakin Ol Champ",
       "url": "https://open.spotify.com/track/3USULTYXtx9vdFAgG6KfnY"
@@ -24730,7 +24784,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 196857,
       "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
       "url": "https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr"
@@ -25812,7 +25866,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 116250,
       "name": "Sorma",
       "url": "https://open.spotify.com/track/6CI1lK5mZBTlYKhfcuFwE1"
@@ -29502,7 +29556,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 258931,
       "name": "Y\u00fcz\u00fck",
       "url": "https://open.spotify.com/track/657FCK2qs1P6DV8caSlWWY"
@@ -29730,7 +29784,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 232215,
       "name": "Zehir - Motive Remix",
       "url": "https://open.spotify.com/track/2OCqhgRAssguuVopUMfGL8"
@@ -30898,7 +30952,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 163448,
       "name": "\u015eEHR\u0130ME BOMBALAR",
       "url": "https://open.spotify.com/track/52e9OPUMOE97on91NrpxnK"

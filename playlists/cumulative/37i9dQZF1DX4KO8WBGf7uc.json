@@ -448,7 +448,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 180214,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/68mJvII29H8wlKpyGyeP7x"
@@ -5026,6 +5026,24 @@
       "duration_ms": 254333,
       "name": "Trucho - Remix",
       "url": "https://open.spotify.com/track/6HbeSHW3K4NAC8OPwT50tD"
+    },
+    {
+      "album": {
+        "name": "tu cuerpo",
+        "url": "https://open.spotify.com/album/6hKcWb0dtqs1Bar3ddkVEw"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156990,
+      "name": "tu cuerpo",
+      "url": "https://open.spotify.com/track/1UWQT8LZZwGOmPIDwIJHyX"
     },
     {
       "album": {

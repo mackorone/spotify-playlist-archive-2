@@ -1,12 +1,12 @@
 {
   "description": "This is Tassia Reis. The essential tracks, all in one playlist.",
-  "num_followers": 2362,
+  "num_followers": 2361,
   "original_name": "This Is Tassia Reis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAAa7ymhgb3rrY8qxl6yabpG",
+  "snapshot_id": "ajHjgAAAAAB2LVome0crTBDnXvsNrjyM",
   "tracks": [
     {
       "added_at": null,
@@ -187,30 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/6CjxDtHwR2tTnYKw1x9xv1"
-      },
-      "artists": [
-        {
-          "name": "Pitty",
-          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Emmily Barreto",
-          "url": "https://open.spotify.com/artist/4682txRR20t1JBUHiHpMGz"
-        }
-      ],
-      "duration_ms": 294649,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/1V3FaAOYea3Hxw5SYvi8tl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aquele Tipo de Som",
         "url": "https://open.spotify.com/album/6jFBRhPwlU8UgXS53rHaqV"
       },
@@ -231,6 +207,30 @@
       "duration_ms": 155926,
       "name": "Aquele Tipo de Som",
       "url": "https://open.spotify.com/track/1HWfIMdhK7JYrZa6iW5mUd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/6CjxDtHwR2tTnYKw1x9xv1"
+      },
+      "artists": [
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Emmily Barreto",
+          "url": "https://open.spotify.com/artist/4682txRR20t1JBUHiHpMGz"
+        }
+      ],
+      "duration_ms": 294649,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/1V3FaAOYea3Hxw5SYvi8tl"
     },
     {
       "added_at": null,
@@ -346,35 +346,11 @@
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Theodoro Nag\u00f4",
-          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
         }
       ],
-      "duration_ms": 249728,
-      "name": "T\u00e3o Crazy",
-      "url": "https://open.spotify.com/track/4ESK6LYArhCpBczxcqqAsV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o \u00e9 S\u00f3 Isso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 221801,
-      "name": "Perfeito \u00c9 o Mar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3shUMU2J7zVI8Bsvr3Pxc3"
+      "duration_ms": 181760,
+      "name": "Brecha",
+      "url": "https://open.spotify.com/track/32gBZWk97ZnBANJwI7lWqR"
     },
     {
       "added_at": null,
@@ -395,6 +371,26 @@
       "duration_ms": 169111,
       "name": "SUBMERSA",
       "url": "https://open.spotify.com/track/3Tkuyl3Et3umkqpuTrNPQi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o \u00e9 S\u00f3 Isso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 221801,
+      "name": "Perfeito \u00c9 o Mar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3shUMU2J7zVI8Bsvr3Pxc3"
     },
     {
       "added_at": null,
@@ -422,11 +418,15 @@
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Theodoro Nag\u00f4",
+          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
         }
       ],
-      "duration_ms": 181760,
-      "name": "Brecha",
-      "url": "https://open.spotify.com/track/32gBZWk97ZnBANJwI7lWqR"
+      "duration_ms": 249728,
+      "name": "T\u00e3o Crazy",
+      "url": "https://open.spotify.com/track/4ESK6LYArhCpBczxcqqAsV"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imundo",
-        "url": "https://open.spotify.com/album/1J5tvGAHp4FLvx8biG8Hop"
-      },
-      "artists": [
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 165436,
-      "name": "Black Loro",
-      "url": "https://open.spotify.com/track/4varAkeoHYFdmFXxiz1VTs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bem Longe do Fim",
         "url": "https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 340423,
       "name": "Dentro Ali - Remix",
       "url": "https://open.spotify.com/track/3MrkTaAmIoSmdFN7OXGWY1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imundo",
+        "url": "https://open.spotify.com/album/1J5tvGAHp4FLvx8biG8Hop"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 165436,
+      "name": "Black Loro",
+      "url": "https://open.spotify.com/track/4varAkeoHYFdmFXxiz1VTs"
     },
     {
       "added_at": null,
@@ -634,11 +634,15 @@
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
         }
       ],
-      "duration_ms": 179842,
-      "name": "Ansiejazz",
-      "url": "https://open.spotify.com/track/5aOFdkn6hOVp4jZS0NXXAu"
+      "duration_ms": 292035,
+      "name": "Eu + Vc",
+      "url": "https://open.spotify.com/track/6q9WJgQ3Vy1DZ6PkKudBip"
     },
     {
       "added_at": null,
@@ -706,15 +710,11 @@
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
         }
       ],
-      "duration_ms": 292035,
-      "name": "Eu + Vc",
-      "url": "https://open.spotify.com/track/6q9WJgQ3Vy1DZ6PkKudBip"
+      "duration_ms": 179842,
+      "name": "Ansiejazz",
+      "url": "https://open.spotify.com/track/5aOFdkn6hOVp4jZS0NXXAu"
     },
     {
       "added_at": null,
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 217444,
-      "name": "Perigo",
-      "url": "https://open.spotify.com/track/5btFYoiyAJeuyaXCppYmri"
+      "duration_ms": 260119,
+      "name": "Semana Vem",
+      "url": "https://open.spotify.com/track/4uAdD1dcGAcCxDluTEvizW"
     },
     {
       "added_at": null,
@@ -878,11 +878,19 @@
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Preta Ary",
+          "url": "https://open.spotify.com/artist/3ybz6l89ingwOWKDAZEoRh"
         }
       ],
-      "duration_ms": 210182,
-      "name": "Me Diga",
-      "url": "https://open.spotify.com/track/70PYwbbOgWXjTCtzAUV53l"
+      "duration_ms": 263586,
+      "name": "Shonda - Remix",
+      "url": "https://open.spotify.com/track/2bVLOEyG9K8RuOSh6pM5hf"
     },
     {
       "added_at": null,
@@ -896,9 +904,9 @@
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 260119,
-      "name": "Semana Vem",
-      "url": "https://open.spotify.com/track/4uAdD1dcGAcCxDluTEvizW"
+      "duration_ms": 217444,
+      "name": "Perigo",
+      "url": "https://open.spotify.com/track/5btFYoiyAJeuyaXCppYmri"
     },
     {
       "added_at": null,
@@ -931,22 +939,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patr\u00e3o",
-        "url": "https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7"
+        "name": "T\u00e1ssia Reis",
+        "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
       },
       "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 218592,
-      "name": "Patr\u00e3o",
-      "url": "https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf"
+      "duration_ms": 189240,
+      "name": "Calma Preta",
+      "url": "https://open.spotify.com/track/32D34IsYWHiw2bAtqRTaos"
     },
     {
       "added_at": null,
@@ -958,19 +962,11 @@
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Preta Ary",
-          "url": "https://open.spotify.com/artist/3ybz6l89ingwOWKDAZEoRh"
         }
       ],
-      "duration_ms": 263586,
-      "name": "Shonda - Remix",
-      "url": "https://open.spotify.com/track/2bVLOEyG9K8RuOSh6pM5hf"
+      "duration_ms": 210182,
+      "name": "Me Diga",
+      "url": "https://open.spotify.com/track/70PYwbbOgWXjTCtzAUV53l"
     },
     {
       "added_at": null,
@@ -987,22 +983,6 @@
       "duration_ms": 234206,
       "name": "Ou\u00e7a-Me R M X",
       "url": "https://open.spotify.com/track/0YH8930FX7C87DUMZIIpii"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e1ssia Reis",
-        "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 189240,
-      "name": "Calma Preta",
-      "url": "https://open.spotify.com/track/32D34IsYWHiw2bAtqRTaos"
     },
     {
       "added_at": null,
@@ -1027,6 +1007,26 @@
       "duration_ms": 203520,
       "name": "Encontrar",
       "url": "https://open.spotify.com/track/3JhNkfCNxZGyAgywEtP6By"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patr\u00e3o",
+        "url": "https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 218592,
+      "name": "Patr\u00e3o",
+      "url": "https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 
 > Rock on repeat during the summers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,108 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,155 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,13 +88,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 78 | [Champagne](https://open.spotify.com/track/3C5cvFzAklAzMffGjirEVw) | [Cavo](https://open.spotify.com/artist/7a06JYLmZG3txQqr9uzvbg) | [Bright Nights \* Dark Days](https://open.spotify.com/album/6VxhmV2m5nlaVS0aF8VItG) | 3:07 |
 | 79 | [Steady, As She Goes](https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb) | 3:35 |
 | 80 | [Somewhere Else](https://open.spotify.com/track/1xDPUKoyQuIiea7Le9ZNgn) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Up All Night](https://open.spotify.com/album/4HKGobgiysyDLsWp86chaK) | 3:16 |
-| 81 | [Meant to Live](https://open.spotify.com/track/79cAPxneo5AvbNgR6ch3Cj) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Best Yet](https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc) | 3:19 |
-| 82 | [No Surprise](https://open.spotify.com/track/6q4XLE5WeOBWftoc9gTl2P) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [It's Not Over....The Hits So Far](https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE) | 4:30 |
+| 81 | [No Surprise](https://open.spotify.com/track/6q4XLE5WeOBWftoc9gTl2P) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [It's Not Over....The Hits So Far](https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE) | 4:30 |
+| 82 | [Meant to Live](https://open.spotify.com/track/79cAPxneo5AvbNgR6ch3Cj) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Best Yet](https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc) | 3:19 |
 | 83 | [In Love With a Girl](https://open.spotify.com/track/3zcmWxxUA7Em7X3IBqZGUo) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Gavin DeGraw](https://open.spotify.com/album/5FbUXif3rTa8DX7TTwxegZ) | 3:26 |
 | 84 | [One Last Breath \- Radio Version](https://open.spotify.com/track/0eFklulxFnNCypNSrywzSB) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [With Arms Wide Open: A Retrospective](https://open.spotify.com/album/6mOXPtswKccKSx5dYmCXAc) | 4:02 |
 | 85 | [Pork And Beans](https://open.spotify.com/track/5txH6topQylTHnb4lZMdQ1) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/58UmKPMguFuYtGMVNol95V) | 3:09 |
-| 86 | [Fire](https://open.spotify.com/track/5mVjSxIfzdQrH5K0w5NPAf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Fire](https://open.spotify.com/album/4h3HuXQqdbigPCnfq3kHRm) | 4:12 |
-| 87 | [Home](https://open.spotify.com/track/7KPTwEENcZ5r4KJ6FHmhLP) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [It's Not Over....The Hits So Far](https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE) | 4:15 |
+| 86 | [Home](https://open.spotify.com/track/7KPTwEENcZ5r4KJ6FHmhLP) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [It's Not Over....The Hits So Far](https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE) | 4:15 |
+| 87 | [Fire](https://open.spotify.com/track/5mVjSxIfzdQrH5K0w5NPAf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Fire](https://open.spotify.com/album/4h3HuXQqdbigPCnfq3kHRm) | 4:12 |
 | 88 | [Move Along](https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:58 |
 | 89 | [Panic Switch](https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Swoon](https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX) | 5:43 |
 | 90 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |

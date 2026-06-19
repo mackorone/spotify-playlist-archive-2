@@ -4,7 +4,7 @@
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-161 songs - 10 hr 30 min
+162 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 | 2021-07-08 |  |
 | [Ella No Me Conoce](https://open.spotify.com/track/3tRIvnqbgBuujWj5i3m2Lq) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [La Última Noche Del Mundo](https://open.spotify.com/album/3nWav7AajCknAgmTR3xnqP) | 4:48 | 2023-09-01 | 2024-04-19 |
 | [Ella No Me Conoce](https://open.spotify.com/track/5WyAHEuvc2mpHeOJTkzsbS) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [La Última Noche del Mundo](https://open.spotify.com/album/5XYaeuGHi7sVB0L2YKgqAm) | 4:48 | 2021-07-08 | 2024-04-28 |
-| [Eres](https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 3:50 | 2022-05-10 |  |
+| [Eres](https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 3:50 | 2022-05-10 | 2026-06-19 |
 | [Eres para Mí](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:12 | 2021-07-08 |  |
 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 | 2021-07-08 | 2024-04-19 |
 | [Es por Ti](https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Ya Lo Dijo Rufis Taylor](https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B) | 2:25 | 2021-07-08 |  |
@@ -123,6 +123,7 @@
 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 | 2021-07-08 |  |
 | [Palapa](https://open.spotify.com/track/2vofpKYoBvc2uiV2yHYrHW) | [Porter](https://open.spotify.com/artist/4mUAuFmWYLWUsE85XlXZUU) | [Moctezuma](https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW) | 5:45 | 2022-05-10 | 2025-04-16 |
 | [Palmar](https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fruta \(Vol\. II\)](https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP) | 3:13 | 2021-07-08 |  |
+| [Panadero](https://open.spotify.com/track/35GRNFIl3ANE1slInNSRKm) | [Los Super Elegantes](https://open.spotify.com/artist/6Aim4Lm9mDZd0W3F8XkF36) | [Los Super Elegantes Ep](https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di) | 4:37 | 2023-09-01 |  |
 | [Paso Fino](https://open.spotify.com/track/7wt8zQKmeiRadOqWci0q7p) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 6:09 | 2022-05-10 | 2025-04-02 |
 | [Pervert Pop Song \(Castigame\)](https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 4:04 | 2021-07-08 | 2024-04-19 |
 | [Pesadilla](https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:55 | 2022-05-10 |  |

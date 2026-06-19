@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Mikal Bridges
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Brunson
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,895,151 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,895,201 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 | 11 | [Ran To Atlanta \(feat\. Future & Molly Santana\)](https://open.spotify.com/track/3DK90400cDlV5WUJPraMph) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 4:07 |
 | 12 | [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 |
 | 13 | [Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Game Time \(FIFA World Cup 2026™\)](https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e) | 3:26 |
-| 14 | [RAMBO](https://open.spotify.com/track/66GGhX3SJmgrsaVKaNtIDN) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [RAMBO](https://open.spotify.com/album/7ijg5BRj15OUSEX1iLHzeV) | 2:44 |
-| 15 | [Down South \(feat\. Key Glock\)](https://open.spotify.com/track/70sjcC1GLyYfcHntiZ16cN) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Down South](https://open.spotify.com/album/23amY0Ns9L31zVNhG9BRZO) | 2:19 |
-| 16 | [Circus Circus Free$tyle](https://open.spotify.com/track/5waTXjl4V7YBw1Bo4CsjlM) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 4:52 |
-| 17 | [STOLE YA FLOW](https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:19 |
-| 18 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 |
-| 19 | [ICEMAN FREESTYLE](https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ICEMAN FREESTYLE](https://open.spotify.com/album/2WffTc00muxCNZhwopltsi) | 3:06 |
-| 20 | [HELICOPTER](https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:40 |
-| 21 | [Onnat](https://open.spotify.com/track/2QU9ZLNwjlFHvPQbHLiwij) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 2:11 |
+| 14 | [SEALS & TAGS](https://open.spotify.com/track/43ILM06ZEi4DoiNPnbppRM) | [Pz'](https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT) | [B4NTB](https://open.spotify.com/album/5PJr7pdqJFRANcJFcFsd2i) | 1:50 |
+| 15 | [RAMBO](https://open.spotify.com/track/66GGhX3SJmgrsaVKaNtIDN) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [RAMBO](https://open.spotify.com/album/7ijg5BRj15OUSEX1iLHzeV) | 2:44 |
+| 16 | [Down South \(feat\. Key Glock\)](https://open.spotify.com/track/70sjcC1GLyYfcHntiZ16cN) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Down South](https://open.spotify.com/album/23amY0Ns9L31zVNhG9BRZO) | 2:19 |
+| 17 | [Circus Circus Free$tyle](https://open.spotify.com/track/5waTXjl4V7YBw1Bo4CsjlM) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 4:52 |
+| 18 | [STOLE YA FLOW](https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:19 |
+| 19 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 |
+| 20 | [ICEMAN FREESTYLE](https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ICEMAN FREESTYLE](https://open.spotify.com/album/2WffTc00muxCNZhwopltsi) | 3:06 |
+| 21 | [HELICOPTER](https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:40 |
 | 22 | [Flodging](https://open.spotify.com/track/1kAnVRVpskZyu0TxHLyezz) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Flodging](https://open.spotify.com/album/5WQyzfJXTac3zBobtFe1ax) | 2:55 |
 | 23 | [Iceberg](https://open.spotify.com/track/72vRDmCaNTXKxihTjE6ODR) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Chicken Talkin Bastard](https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R) | 2:59 |
 | 24 | [WHAT'S HAPPENIN' \(feat\. Latto & Coupe\)](https://open.spotify.com/track/6q2djm8drU3EWpLBK0mllz) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Coupe](https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz) | [PARADISE](https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 | 99 | [Back in Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 |
 | 100 | [Runnin](https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:15 |
 
-Snapshot ID: `AAAAABK+/iLOdPm7jmX4gE6eEZdQnoSD`
+Snapshot ID: `AAAAAJqgSwJHLnLC5efx8H1uZnewwKK3`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-283 songs - 14 hr 36 min
+288 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-05-14 | 2024-09-30 |
 | [even forever](https://open.spotify.com/track/4ub3Sf9B9BWNBKAIVgywc6) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:32 | 2025-05-31 |  |
 | [Everyone Bleeds](https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:22 | 2024-11-24 |  |
+| [expectations](https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:41 | 2026-06-18 |  |
 | [Eyes Closed](https://open.spotify.com/track/5io1H6YxPsFS7wxwHMrVCr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions: An Unexpected Turn of Events](https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE) | 2:25 | 2026-03-11 |  |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2024-02-07 |  |
 | [Feel It Twice](https://open.spotify.com/track/39jcp8zJH7nHWbB7Hr3sFJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:08 | 2024-02-07 |  |
@@ -157,6 +158,7 @@
 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 | 2025-03-11 |  |
 | [King](https://open.spotify.com/track/46twNvj8BanPZ5wl7iLyGK) | [Official Bhagat](https://open.spotify.com/artist/0kja6sFd8iQGox9khkgnb6), [Amy](https://open.spotify.com/artist/0R7wD4XKFvISmoVvj2az8Q) | [King](https://open.spotify.com/album/27XYHCCh2pECOZe9WfZEb3) | 1:56 | 2025-01-09 | 2025-04-12 |
 | [Leigh](https://open.spotify.com/track/7vqomJv75Sp17yEm3puTlv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:22 | 2025-05-31 |  |
+| [less](https://open.spotify.com/track/16xRAbH0vI3iKvDEhWQ4ZO) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:13 | 2026-06-18 |  |
 | [Let Me Go \(Instrumental Mix\)](https://open.spotify.com/track/3ygdY5LcAPAPBCMZK35H0p) | [Scott Harris Regime](https://open.spotify.com/artist/2yro7dWGwua6hWns59sLTT) | [Let Me Go \(Instrumental\)](https://open.spotify.com/album/2wJbWLIwVT45D8wygrsqaa) | 4:45 | 2025-01-09 | 2025-04-12 |
 | [Liar \(feat\. Fireboy DML\)](https://open.spotify.com/track/5DIkmpzdunkmEo8yNukpJG) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:26 | 2025-05-31 |  |
 | [Lie To Girls](https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:22 | 2024-08-29 |  |
@@ -173,6 +175,7 @@
 | [Love Somebody](https://open.spotify.com/track/2IzUjVfO3UrAY73UjHHsGi) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Without You](https://open.spotify.com/album/6WtvmIQ1CPfH7vI2C0wn1E) | 2:22 | 2024-02-07 |  |
 | [Loved By You \(feat\. Burna Boy\)](https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:39 | 2024-02-07 |  |
 | [Lucky Charms](https://open.spotify.com/track/1Cwg5W2pW4aDvgUnb0PAvL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Feeling For My Life](https://open.spotify.com/album/5iABQiExFiKUfLj2LKH59m) | 3:10 | 2024-02-07 |  |
+| [maggots for brains](https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 4:00 | 2026-06-18 |  |
 | [Magic Wand](https://open.spotify.com/track/4cYbWscKFzq7x1zRiMgDr1) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:32 | 2024-04-27 |  |
 | [Manchild](https://open.spotify.com/track/7kvs5MWCGFj5zHiK6ETTpv) | [Good Girls Inc.](https://open.spotify.com/artist/7lShJZDCaM15sDfIE3DOjA) | [Manchild](https://open.spotify.com/album/3jIaTdeSM3mHStmmXw2s7h) | 3:19 | 2025-06-13 | 2025-06-26 |
 | [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 | 2025-08-31 |  |
@@ -214,6 +217,7 @@
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-19 | 2024-09-30 |
 | [pretty isn’t pretty](https://open.spotify.com/track/6W9l02gRsXVxzIuQC1oc1X) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:19 | 2024-02-07 |  |
 | [Proud](https://open.spotify.com/track/23VjNeSfCkgaN3ED7a5gD0) | [Aaron Carpenter](https://open.spotify.com/artist/2Wp9FcGlXcs7kG67oAxYZA) | [Proud](https://open.spotify.com/album/3JDZegIfe6YrhX9M81Ruqh) | 3:22 | 2024-02-07 |  |
+| [purple](https://open.spotify.com/track/5Ndn1irZG8l6xpcLMGeNvc) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 4:00 | 2026-06-18 |  |
 | [Purple lace bra](https://open.spotify.com/track/1TmqxQwvEDGYOTm1fPJJbT) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:11 | 2025-03-19 |  |
 | [Purple lace bra](https://open.spotify.com/track/2bqLj0NvdtGbPCl9PdBtP2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:11 | 2025-03-18 | 2025-03-20 |
 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 | 2024-02-07 |  |
@@ -267,6 +271,7 @@
 | [Thought Of You](https://open.spotify.com/track/7IJKLkx4k9M3AyAWkpqCZS) | [Oliver Jones](https://open.spotify.com/artist/4Aj7RJzc3SeMuF7XYdP8ei) | [Thought Of You](https://open.spotify.com/album/0RPJb6DiqXZF4VJWgVCrPx) | 2:34 | 2024-11-09 | 2024-11-14 |
 | [Thought of You](https://open.spotify.com/track/2ySKl9oGwZMZzXJraNiNgl) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 2:43 | 2024-11-13 |  |
 | [Thrill of the Chase \(feat\. R.I.Pablo\)](https://open.spotify.com/track/5iIGjnYdSOa1K0EcFTTxqk) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 3:18 | 2024-02-07 |  |
+| [Time Goes On](https://open.spotify.com/track/6tZ6fU4h937KsFoKWe7KJh) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 2:55 | 2026-06-18 |  |
 | [to love me](https://open.spotify.com/track/2ye434rL2bQ2qY4obJiZQe) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:27 | 2025-05-09 |  |
 | [Tom Brady](https://open.spotify.com/track/0QAX1RS572BeBITLfC0NBA) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:16 | 2024-02-07 |  |
 | [Too Bad](https://open.spotify.com/track/3bFUSbKteIXulMNkwywOQI) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 2:53 | 2024-02-07 |  |

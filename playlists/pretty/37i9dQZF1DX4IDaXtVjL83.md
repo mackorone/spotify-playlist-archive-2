@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: NMIXX, Anderson\. Paak\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,296 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,306 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 36 | [blue \- with MINNIE](https://open.spotify.com/track/6HIngEWX8ycnLjuUfSZyah) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [blue \(with MINNIE\)](https://open.spotify.com/album/2nikWz2AcwtWjdNMKCs6sG) | 3:33 |
 | 37 | [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SPILL THE FEELS](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 |
 | 38 | [5, 4, 3 \(Pretty woman\) \(feat\. Lay Bankz\)](https://open.spotify.com/track/4eTDkRxOmm4llv4Yr1bteq) | [CxM](https://open.spotify.com/artist/7kjuLdYbtTkWBToMu2ebZN), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [HYPE VIBES](https://open.spotify.com/album/4PxPsw7YFuzBaJZ3dHUV55) | 2:46 |
-| 39 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 |
-| 40 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 |
+| 39 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 |
+| 40 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 |
 | 41 | [Stars + Yves](https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:21 |
 | 42 | [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/5H6cLsP1Ju4zghznKsw1zu) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/15Gkr52k58zVQQSDsEVwOC) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/479QUz4xPJ8Tk8tV2KXDb9) | 3:02 |
 | 43 | [moonboy](https://open.spotify.com/track/4YoU6VbOH4KigttoGoPFjT) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [moonboy](https://open.spotify.com/album/7Ix2gCc8OGassm8RdqLCMa) | 2:53 |

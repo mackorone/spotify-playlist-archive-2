@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: The Paradox",
-  "num_followers": 604055,
+  "num_followers": 604074,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
+        "name": "RESTORATION",
+        "url": "https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "duration_ms": 177349,
+      "name": "WOLVES",
+      "url": "https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 154571,
       "name": "Before We Go",
       "url": "https://open.spotify.com/track/3UZ27Jo1YVIg40IjRcVTEY"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
-        "name": "RESTORATION",
-        "url": "https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8RY",
-          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
-        }
-      ],
-      "duration_ms": 177349,
-      "name": "WOLVES",
-      "url": "https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -983,38 +983,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/0GMTrpJfT9tGbL4sfeyptj"
-      },
-      "artists": [
-        {
-          "name": "Bike Routes",
-          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
-        }
-      ],
-      "duration_ms": 197627,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
-        "name": "Fast Forward, Rewind",
-        "url": "https://open.spotify.com/album/34wGqmggdRFxX9goi6Cx3q"
-      },
-      "artists": [
-        {
-          "name": "Sincere Engineer",
-          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "Fast Forward, Rewind",
-      "url": "https://open.spotify.com/track/5SM45bUFDAvjXenEQO569u"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "Oh No!",
         "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
       },
@@ -1031,6 +999,22 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/0GMTrpJfT9tGbL4sfeyptj"
+      },
+      "artists": [
+        {
+          "name": "Bike Routes",
+          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
+        }
+      ],
+      "duration_ms": 197627,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
         "name": "So Happy",
         "url": "https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 173783,
       "name": "So Happy",
       "url": "https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Fast Forward, Rewind",
+        "url": "https://open.spotify.com/album/34wGqmggdRFxX9goi6Cx3q"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "Fast Forward, Rewind",
+      "url": "https://open.spotify.com/track/5SM45bUFDAvjXenEQO569u"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "The Worst Thing I've Ever Done",
-        "url": "https://open.spotify.com/album/5DEDPreakXMEueOkLL3XbU"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 196608,
-      "name": "The Worst Thing I've Ever Done",
-      "url": "https://open.spotify.com/track/0VUkY6Uga7OmNWxcfyjAvj"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2plIofGd5etSiMkERrAeeI"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 155668,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "The Worst Thing I've Ever Done",
+        "url": "https://open.spotify.com/album/5DEDPreakXMEueOkLL3XbU"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 196608,
+      "name": "The Worst Thing I've Ever Done",
+      "url": "https://open.spotify.com/track/0VUkY6Uga7OmNWxcfyjAvj"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Sandbox",
-        "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
+        "name": "SORRY I'M LATE",
+        "url": "https://open.spotify.com/album/4ZxHPDJDDns4uIcYx9Q5us"
       },
       "artists": [
         {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
         }
       ],
-      "duration_ms": 145547,
-      "name": "Sandbox",
-      "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
+      "duration_ms": 195401,
+      "name": "SORRY I'M LATE",
+      "url": "https://open.spotify.com/track/2zjBoQPdXMjgnVfnS8V9zx"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

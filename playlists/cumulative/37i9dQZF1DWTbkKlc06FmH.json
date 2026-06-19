@@ -2073,6 +2073,32 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/30Ih6h18WnB3nr72Wi7iy7"
+      },
+      "artists": [
+        {
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0JlgLVccHLtzolsiwaqsJ0"
+    },
+    {
+      "album": {
         "name": "The Juicebox",
         "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
       },
@@ -5464,7 +5490,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 157920,
       "name": "EMO EMO",
       "url": "https://open.spotify.com/track/3vNKNIOLJyCh031B33YJh1"
@@ -7534,7 +7560,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "golden hour - Fujii Kaze Remix",
       "url": "https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"
@@ -7688,7 +7714,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 232697,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/3vi0jFVbY21SJNbidnZLam"
@@ -10728,7 +10754,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 253350,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F"
@@ -11630,7 +11656,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 234292,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/4ElRe4gQlyrwhItxgIdQhH"
@@ -11796,7 +11822,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 211147,
       "name": "Macram\u00e9 (ft. Mei Semones)",
       "url": "https://open.spotify.com/track/4AKMCbXYw5zXpHMAUeQ8uy"
@@ -13212,7 +13238,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 163173,
       "name": "nah",
       "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
@@ -14918,6 +14944,28 @@
       "duration_ms": 273818,
       "name": "ordinary people feat. BIM",
       "url": "https://open.spotify.com/track/0mKYojgtx7iemkvDaPyFhe"
+    },
+    {
+      "album": {
+        "name": "Deja-vu",
+        "url": "https://open.spotify.com/album/6HzO0CWcpbLr5xeHeIysYn"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        },
+        {
+          "name": "Swagcky",
+          "url": "https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193266,
+      "name": "Our Life",
+      "url": "https://open.spotify.com/track/4zQhfkYUzDcf3ysRuPfp5e"
     },
     {
       "album": {
@@ -17264,7 +17312,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 223872,
       "name": "Sell My Soul",
       "url": "https://open.spotify.com/track/5HoZIKWxMmV7N8GPBxc0k8"
@@ -18926,7 +18974,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 203700,
       "name": "Super Ball",
       "url": "https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo"
@@ -21276,7 +21324,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 206652,
       "name": "Vampire Bat",
       "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
@@ -21378,7 +21426,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 262335,
       "name": "Vivid Light",
       "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
@@ -23894,7 +23942,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 215327,
       "name": "\u30e6\u30fc\u30c8\u30d4\u30a2 feat. UA",
       "url": "https://open.spotify.com/track/5XspVlFqxMOrhEW5tNpq4S"

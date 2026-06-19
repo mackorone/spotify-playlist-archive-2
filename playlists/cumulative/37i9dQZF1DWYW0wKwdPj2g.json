@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 366770,
       "name": "EZE M - Live",
       "url": "https://open.spotify.com/track/3pnKfTzbzBjza3yZFyLs3u"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 470000,
       "name": "HOLY GHOST - LIVE)(1 John 14:16",
       "url": "https://open.spotify.com/track/7CtYyShdwOn0KLstwAkCpj"
@@ -3046,7 +3046,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 452712,
       "name": "Kosi - Live",
       "url": "https://open.spotify.com/track/7b4wNaxJi4hcEoR4A78f23"
@@ -3140,7 +3140,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 511000,
       "name": "Light Of The World - Live",
       "url": "https://open.spotify.com/track/3OHSXhBGjFzvvumpEvHLBf"
@@ -5109,6 +5109,24 @@
     },
     {
       "album": {
+        "name": "Stands Forever (Live)",
+        "url": "https://open.spotify.com/album/2addKEkdPFVh2wP1xhmXaJ"
+      },
+      "artists": [
+        {
+          "name": "Kemelord",
+          "url": "https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414041,
+      "name": "Stands Forever - Live",
+      "url": "https://open.spotify.com/track/4Xi2LclZmoo8RyKwy8f15Y"
+    },
+    {
+      "album": {
         "name": "Subscribed (Live)",
         "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
       },
@@ -5168,6 +5186,24 @@
       "duration_ms": 224860,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl"
+    },
+    {
+      "album": {
+        "name": "Thank You for Answering Me (Live)",
+        "url": "https://open.spotify.com/album/7hUyNuMIqJ3X7D8oOvjZl0"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442423,
+      "name": "Thank You for Answering Me - Live",
+      "url": "https://open.spotify.com/track/5ohAamICIisi460hJ8dN29"
     },
     {
       "album": {
@@ -5529,6 +5565,42 @@
     },
     {
       "album": {
+        "name": "After The Storm (Live Recording)",
+        "url": "https://open.spotify.com/album/6h78wycG4MrWX6X7SZ9Mdj"
+      },
+      "artists": [
+        {
+          "name": "Joyce Blessing",
+          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/0F6xKCRG1UFvhgJN9EUiZ4"
+    },
+    {
+      "album": {
+        "name": "Revival Hour (Live)",
+        "url": "https://open.spotify.com/album/5VTGZQbiGCXVsjJbLDlpVq"
+      },
+      "artists": [
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/6rDHIXUnc4pt9wl7kjw3Vk"
+    },
+    {
+      "album": {
         "name": "Heart Of Worship Vol. 2",
         "url": "https://open.spotify.com/album/78bKt7eOSzSbXlotysuYEw"
       },
@@ -5540,7 +5612,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 583508,
       "name": "Ubonakalise - Live at State Theatre Pretoria",
       "url": "https://open.spotify.com/track/49YNFxhVD9AcUSQbXSAPC6"

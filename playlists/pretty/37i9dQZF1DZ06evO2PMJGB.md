@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,756 likes - 41 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,755 likes - 41 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 40 | [ANACONDA \*o\* \~\~\~](https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:03 |
 | 41 | [Consolação](https://open.spotify.com/track/3aQlzls4W5SlVuEBsLUCZg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Bossa Sempre Nova](https://open.spotify.com/album/6aiBQlSTLJoZ0pPa9uko6t) | 2:51 |
 
-Snapshot ID: `ajCSAAAAAAAh+2bojaewQz4LP62NZ9e4`
+Snapshot ID: `ajHjgAAAAAAUq/bCJxMunSjwl3aOgNpi`

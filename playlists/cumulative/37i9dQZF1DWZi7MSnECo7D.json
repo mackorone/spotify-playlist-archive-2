@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: ursamenor",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Bruno Berle",
   "name": "alt BR",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 144000,
       "name": "1KG",
       "url": "https://open.spotify.com/track/1tvOQsOtB7d044F4SyDy05"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 179000,
       "name": "Abril",
       "url": "https://open.spotify.com/track/2bPS49N2cTGa5Eb0R0clP5"
@@ -2851,6 +2851,28 @@
     },
     {
       "album": {
+        "name": "Cara Estranho",
+        "url": "https://open.spotify.com/album/0XnW33ne09BNEfh2azXWBd"
+      },
+      "artists": [
+        {
+          "name": "sopa n\u00e3o \u00e9 janta",
+          "url": "https://open.spotify.com/artist/5ELYWYL0QcLqn3B11OU25B"
+        },
+        {
+          "name": "DOND\u00c1",
+          "url": "https://open.spotify.com/artist/6Cj3oSSADH8dyg5kd8c8Vz"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Cara Estranho",
+      "url": "https://open.spotify.com/track/1ukMk2i7sWmDtmO66h3KO7"
+    },
+    {
+      "album": {
         "name": "Volto Amanh\u00e3",
         "url": "https://open.spotify.com/album/7g9258jE0mO1lyxmIvDV55"
       },
@@ -4560,7 +4582,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 200080,
       "name": "Desconectou",
       "url": "https://open.spotify.com/track/2KRSOHWT1iRa7SFAtyKCjI"
@@ -4604,6 +4626,24 @@
       "duration_ms": 207102,
       "name": "Desculpa",
       "url": "https://open.spotify.com/track/0eYhsqk8WYzwjI5EEiKHL8"
+    },
+    {
+      "album": {
+        "name": "desculpa eu ser um trem desgovernado",
+        "url": "https://open.spotify.com/album/1Ybn4BCcUGKV0W05xoEnQ4"
+      },
+      "artists": [
+        {
+          "name": "saudade",
+          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228010,
+      "name": "desculpa eu ser um trem desgovernado",
+      "url": "https://open.spotify.com/track/1zeDwHNgcA5tE8eouovhmw"
     },
     {
       "album": {
@@ -6170,7 +6210,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 230869,
       "name": "Euforia",
       "url": "https://open.spotify.com/track/4iYoNJIRDj42S1pMJUxZce"
@@ -6338,7 +6378,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 204800,
       "name": "faroeste escroto",
       "url": "https://open.spotify.com/track/6fV2IXHvlIda4fHJuXEvXn"
@@ -10823,6 +10863,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Posso Viver Sem Voc\u00ea",
+        "url": "https://open.spotify.com/album/1FQQxM4RKDl4Ow9VjrKZkj"
+      },
+      "artists": [
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205081,
+      "name": "N\u00e3o Posso Viver Sem Voc\u00ea",
+      "url": "https://open.spotify.com/track/5fTAcOluWUSutQZZ3gu0fQ"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Saio",
         "url": "https://open.spotify.com/album/6DPb16RRvFWZiPR9e3xScw"
       },
@@ -10874,6 +10932,24 @@
       "duration_ms": 399318,
       "name": "N\u00e3o te falta nada",
       "url": "https://open.spotify.com/track/0idT6OLqNmKHeoEWXfLMng"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Tem Espa\u00e7o pra Mais Nada (Al\u00e9m do Seu Ego Aqui)",
+        "url": "https://open.spotify.com/album/5wZpDEdgTDf8nIYaDHBz7Q"
+      },
+      "artists": [
+        {
+          "name": "Turmallina",
+          "url": "https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "N\u00e3o Tem Espa\u00e7o pra Mais Nada (Al\u00e9m do Seu Ego Aqui)",
+      "url": "https://open.spotify.com/track/0Wxwy0hM31v475vv2NKBmc"
     },
     {
       "album": {
@@ -13354,6 +13430,28 @@
       "duration_ms": 260000,
       "name": "Quest\u00e3o de Fogo",
       "url": "https://open.spotify.com/track/4powTPisOZkWY8da8sBeWl"
+    },
+    {
+      "album": {
+        "name": "Y",
+        "url": "https://open.spotify.com/album/3qn8ps9vNqRIuTG2t5Xk5p"
+      },
+      "artists": [
+        {
+          "name": "Tijolo",
+          "url": "https://open.spotify.com/artist/1zN0vGRrOcE72HmyVlMBhZ"
+        },
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3Fnkto8hbStFZIdCaoayHz"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "quintais",
+      "url": "https://open.spotify.com/track/4hZFY1eyaSAKegAOZMc8r0"
     },
     {
       "album": {

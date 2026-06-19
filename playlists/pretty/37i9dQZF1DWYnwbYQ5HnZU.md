@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 > Spotify country fan favorites\. Cover: Jon Pardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,205,956 likes - 95 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,205,885 likes - 95 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 26 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 |
 | 27 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 |
 | 28 | [My Church](https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:17 |
-| 29 | [Rumor](https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
+| 29 | [One Of Them Girls](https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:08 |
 | 30 | [Gunpowder & Lead](https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:11 |
 | 31 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 | 32 | [What Was I Thinkin'](https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Dierks Bentley](https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ) | 4:20 |
 | 33 | [Something Like That](https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:03 |
 | 34 | [Every Little Thing](https://open.spotify.com/track/1Dm4iAvqwYrZjgSFJNW5TG) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing \(Big Machine Radio Release Special\)](https://open.spotify.com/album/39oSpHIfcM8sHBWh9340Aj) | 3:01 |
-| 35 | [One Of Them Girls](https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:08 |
+| 35 | [Rumor](https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
 | 36 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
 | 37 | [Drunk On A Plane](https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [RISER](https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU) | 4:14 |
 | 38 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 45 | [Picture \(feat\. Sheryl Crow\)](https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Cocky](https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r) | 4:58 |
 | 46 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
 | 47 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
-| 48 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
-| 49 | [Tequila Makes Her Clothes Fall Off](https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [III](https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl) | 3:07 |
+| 48 | [Tequila Makes Her Clothes Fall Off](https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [III](https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl) | 3:07 |
+| 49 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
 | 50 | [Mama's Broken Heart](https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 2:59 |
 | 51 | [Amazed](https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 4:00 |
 | 52 | [Girl Crush](https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 3:13 |
-| 53 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
-| 54 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
+| 53 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
+| 54 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
 | 55 | [Hell Of A View](https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Soul](https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz) | 2:55 |
 | 56 | [Drive \(For Daddy Gene\)](https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Drive](https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV) | 4:02 |
 | 57 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |

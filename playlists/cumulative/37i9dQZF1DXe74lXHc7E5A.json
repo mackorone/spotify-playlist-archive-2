@@ -181,6 +181,28 @@
     },
     {
       "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197720,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
+    },
+    {
+      "album": {
         "name": "Last Lap",
         "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
@@ -2150,7 +2172,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 149504,
       "name": "BRAG",
       "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
@@ -3962,7 +3984,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 148571,
       "name": "ESCAPE PLAN",
       "url": "https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm"
@@ -7302,7 +7324,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 148869,
       "name": "Leftie (Dlala Ngcobo)",
       "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
@@ -8465,6 +8487,24 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200830,
+      "name": "National Treasures",
+      "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
+    },
+    {
+      "album": {
         "name": "NDI IKE",
         "url": "https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4"
       },
@@ -8608,6 +8648,28 @@
       "duration_ms": 182684,
       "name": "No More",
       "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
+    },
+    {
+      "album": {
+        "name": "NO MORE SLEEP",
+        "url": "https://open.spotify.com/album/74DVUFn6cRnnvAICXqxm5Q"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169793,
+      "name": "NO MORE SLEEP",
+      "url": "https://open.spotify.com/track/4BQfgY7mcUPqilmkrdHiLZ"
     },
     {
       "album": {
@@ -9254,6 +9316,24 @@
       "duration_ms": 195267,
       "name": "Old Days",
       "url": "https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P"
+    },
+    {
+      "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135333,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7"
     },
     {
       "album": {
@@ -10584,7 +10664,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 161428,
       "name": "Rebel Music",
       "url": "https://open.spotify.com/track/6Yao9XJedGa6cFON02GIVV"

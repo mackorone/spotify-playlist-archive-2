@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gor\u0105ce nowo\u015bci i przeboje od \u015bwiatowych gwiazd muzyki pop. Cover: Olivia Rodrigo",
+  "description": "Gor\u0105ce nowo\u015bci i przeboje od \u015bwiatowych gwiazd muzyki pop. Cover: LE SSERAFIM, ILLIT, KATSEYE",
   "name": "TOP POP 2026",
   "tracks": [
     {
@@ -5447,6 +5447,24 @@
     },
     {
       "album": {
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
+    },
+    {
+      "album": {
         "name": "WITHERED",
         "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
       },
@@ -9792,7 +9810,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 167674,
       "name": "SS26",
       "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,019 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,023 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 27 | [Llorando en el avión](https://open.spotify.com/track/1io59pmyuTfVEnIsFjbL5I) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amorío](https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm) | 2:44 |
 | 28 | [Hasta Morir](https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 2:48 |
 | 29 | [Una Noche Más](https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:31 |
-| 30 | [Bailando](https://open.spotify.com/track/3h5c3ZEwvruxM1tBemCggZ) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Ruzzicovers](https://open.spotify.com/album/6lPwJVOofbiHP27GRbyOay) | 3:07 |
-| 31 | [Mística](https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Mística](https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub) | 3:52 |
+| 30 | [Mística](https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Mística](https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub) | 3:52 |
+| 31 | [Bailando](https://open.spotify.com/track/3h5c3ZEwvruxM1tBemCggZ) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Ruzzicovers](https://open.spotify.com/album/6lPwJVOofbiHP27GRbyOay) | 3:07 |
 | 32 | [Esa Parte de Mí](https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Esa Parte de Mí](https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd) | 3:35 |
 | 33 | [Juan Y Paul](https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:41 |
 | 34 | [Todos Quieren Ser Un Gato Jazz](https://open.spotify.com/track/7JFMaCszgik6Ay4WWeG1i3) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Todos Quieren Ser Un Gato Jazz](https://open.spotify.com/album/2p5JOVWwNGDUOFsf6WKDRT) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 49 | [Bailando Por Ti](https://open.spotify.com/track/40gWTnjJgkpYENBrPVKSgN) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando Por Ti](https://open.spotify.com/album/7ismWpgWee343IgwBx0oyI) | 2:45 |
 | 50 | [El Noa Noa \- Remix](https://open.spotify.com/track/6qLlx57PqwweZtEFtystTu) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [El Noa Noa \(Remix\)](https://open.spotify.com/album/6GKgeat1bQOZgkUok74F5Q) | 3:24 |
 
-Snapshot ID: `ajCSAAAAAACWq+JoOHBHd1kyx3yxGEpW`
+Snapshot ID: `ajHjgAAAAABFjLnrosgpi7sfyN4KfGxJ`

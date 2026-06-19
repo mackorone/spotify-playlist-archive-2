@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,354 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,381 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 49 | [Pills & Automobiles \(feat\. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black\)](https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:53 |
 | 50 | [Enemies](https://open.spotify.com/track/4KYf8TBVU4QHZlSnVOn7u8) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Enemies](https://open.spotify.com/album/0AnyKXm0HB8OhBXqkJNHeF) | 3:01 |
 
-Snapshot ID: `ajCSAAAAAABw/7EwSHGFioZWqWueN4Y/`
+Snapshot ID: `ajHjgAAAAABGQI24o0lij81wrTexwNzT`

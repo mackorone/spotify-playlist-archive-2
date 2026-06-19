@@ -4,7 +4,7 @@
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: HALO
 
-1,953 songs - 4 day 10 hr 11 min
+1,956 songs - 4 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [4ui12](https://open.spotify.com/track/7HHw7Lr6QHhq4wh3B1AJ13) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 2:43 | 2023-10-06 | 2024-01-13 |
 | [5 Gold Pieces](https://open.spotify.com/track/2Mr9ADEKRxDF5ccGGhqF4V) | [GHOSTWOMAN](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Welcome to the Civilized World](https://open.spotify.com/album/2Y8xJd39Y3w1iSnGzOdlGg) | 3:14 | 2025-09-05 | 2026-01-24 |
 | [5 to 8 Hours a Day \(WWwaG\)](https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 4:30 | 2023-10-13 | 2023-10-21 |
+| [50 BULLETS](https://open.spotify.com/track/1bgRbYzATyEGuH6ARiMCPK) | [Zora Jones](https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY) | [50 BULLETS](https://open.spotify.com/album/3JFAHttHqcdaHol35sJnya) | 3:34 | 2026-06-19 |  |
 | [555](https://open.spotify.com/track/5SSxXfqSqIyzWh7TYtOht1) | [Newby](https://open.spotify.com/artist/11aOO7s3E9Mmwhw9M4aWU4) | [555](https://open.spotify.com/album/75dTDxhBZa9X3MfMNo0hyc) | 2:44 | 2022-06-10 | 2022-07-09 |
 | [5a7](https://open.spotify.com/track/3Os7vQSGt2CeT2Q8SvGKSP) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [Business Core](https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD) | 2:09 | 2024-10-04 | 2025-03-01 |
 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-05-20 | 2022-07-23 |
@@ -1260,6 +1261,7 @@
 | [on my own](https://open.spotify.com/track/27uE9SLPTIcdqsA6iDqCtS) | [subin lee](https://open.spotify.com/artist/71yDJTh8ME6l4Wjx0xRiVp) | [on my own](https://open.spotify.com/album/2dFXJzRJK5UpWFJoNlEaMs) | 3:02 | 2022-07-08 | 2022-10-29 |
 | [On My Way](https://open.spotify.com/track/0nV76bXUJRqT9QaYTWxW5M) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [On My Way](https://open.spotify.com/album/62fWbXuvA9gXsfibRB1WCq) | 3:03 | 2022-11-25 | 2023-03-11 |
 | [On My Way](https://open.spotify.com/track/284dZP2uHiNlX2NitwREww) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [On My Way](https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT) | 2:41 | 2022-02-18 | 2022-04-29 |
+| [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3) | 3:37 | 2026-06-19 |  |
 | [ONANON](https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [ONANON](https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP) | 3:15 | 2025-01-10 | 2025-04-12 |
 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 | 2024-03-15 | 2024-04-13 |
 | [One Life](https://open.spotify.com/track/5Oh4Eh39rwLzHlkuysaty7) | [Boston Jack](https://open.spotify.com/artist/31igAAxYWBbCqghJpLGTIR) | [For Phonkz](https://open.spotify.com/album/4RzcQTQigd92HrwyfGnON2) | 1:10 | 2026-05-01 | 2026-06-13 |
@@ -1479,6 +1481,7 @@
 | [Seasons Change](https://open.spotify.com/track/36ZL5lijTM6ohAOr2i5lnv) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/7nIw5wLwAftZ93OMrADwJK) | 2:29 | 2022-08-26 | 2022-10-14 |
 | [Seasons Change](https://open.spotify.com/track/3XlKF7jaEQhVc3FcmN6ao1) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 2:29 | 2022-10-28 | 2023-02-18 |
 | [Seasons Change](https://open.spotify.com/track/50IEHYwAPhnGvoyD1gVZnS) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/6TNUuhA3pncZrkAtG5rh1u) | 2:29 | 2022-10-08 | 2022-11-07 |
+| [Second Brick](https://open.spotify.com/track/6w0qLAmNSMP4EGsrBCDAGK) | [Dix Enormous](https://open.spotify.com/artist/0wGl0INSLjTKL8tIY8P2Yq) | [Second Brick](https://open.spotify.com/album/1avphUmzthHqwCTjECMPf3) | 1:06 | 2026-06-19 |  |
 | [secondguess](https://open.spotify.com/track/29Imzv96MvmWE2iAxejskH) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [secondguess](https://open.spotify.com/album/7JOVnIjr140Zn7scMXAEAd) | 2:55 | 2022-04-29 | 2022-05-20 |
 | [see!igetit](https://open.spotify.com/track/2s7sos3ED9hbqUvGPVvVIK) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [A Weird Little Dog](https://open.spotify.com/album/12tCBGPy2ERJG66f86PiTh) | 3:03 | 2025-04-04 | 2025-07-19 |
 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-05-02 | 2025-09-05 |

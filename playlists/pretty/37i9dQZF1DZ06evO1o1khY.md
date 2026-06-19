@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,831 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,842 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [Out Loud Thinking](https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:50 |
 | 50 | [Hell Woods 2](https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hell Woods 2](https://open.spotify.com/album/1Z3vzcUeRkjeDIGuH3ocic) | 3:10 |
 
-Snapshot ID: `ajCSAAAAAAB/tn2RgG/SFLl9+N4wDy0H`
+Snapshot ID: `ajHjgAAAAACYFsnoSTPQxxotDA1PTP+V`

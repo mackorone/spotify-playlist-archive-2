@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-245 songs - 1 day 2 hr 43 min
+246 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Keep On Blessing Me](https://open.spotify.com/track/0L3u3AoYEr91lbZZBiVKOa) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Mr Shane SA](https://open.spotify.com/artist/59ktOxkRezipbkRhjsDCHZ) | [The Revival](https://open.spotify.com/album/0DrlDMHiJR1LVUGIVMQs8g) | 6:00 | 2025-08-01 | 2025-08-06 |
 | [Khona Manje \- Live](https://open.spotify.com/track/0cFHMKhfyX4z2ke0VebYgk) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Khona Manje \(Live\)](https://open.spotify.com/album/65da7LjChvizDlebOaZnvw) | 4:33 | 2024-11-22 | 2026-05-15 |
 | [Khulul'Ugcobo \- Live](https://open.spotify.com/track/4IhhLPlOJB57QSp3DRoke7) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Nothando Hlophe](https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9) | [Spirit of Praise, Vol\. 6 \(Live\)](https://open.spotify.com/album/1HcsuCBcgQOZs96LGKO9Ba) | 7:07 | 2024-10-11 |  |
-| [Khunama \(Live\)](https://open.spotify.com/track/2ahaEYBYQBsNjQIzo3gufd) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [All Hail \(Live\)](https://open.spotify.com/album/0SkHWz3ijU4x1Qmbpp4w1e) | 7:35 | 2026-05-01 |  |
+| [Khunama \(Live\)](https://open.spotify.com/track/2ahaEYBYQBsNjQIzo3gufd) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [All Hail \(Live\)](https://open.spotify.com/album/0SkHWz3ijU4x1Qmbpp4w1e) | 7:35 | 2026-05-01 | 2026-06-19 |
 | [Kubo Bonke](https://open.spotify.com/track/0IYhhvnxRCq7FBj38qnbJP) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Kubo Bonke](https://open.spotify.com/album/5bFvuAE3jqndFsNkkfvRyn) | 6:42 | 2026-01-23 | 2026-03-13 |
 | [Kubobonke Othixo \- Live](https://open.spotify.com/track/6y6MKYvUGbGB90eKz0UUlu) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Filled \(Live\)](https://open.spotify.com/album/4WNEixgWBG6heUWA0tPYsh) | 2:37 | 2024-10-04 | 2025-12-05 |
 | [Kukhona Amadlelo](https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H) | [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Kukhona Amadlelo](https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8) | 8:29 | 2024-10-04 |  |
@@ -203,6 +203,7 @@
 | [Uloyiko Lwami 2.0 \(Live\)](https://open.spotify.com/track/6xEXoF9hY3AZ7MF9xEw3rZ) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Mini Twins](https://open.spotify.com/artist/2KoVSeXgWTNpUm3LlcF2Rz), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [The Bonfire Experience \(Live\)](https://open.spotify.com/album/4J9lZoFJ8FH5UFNrjS8owz) | 8:02 | 2025-03-28 | 2025-07-25 |
 | [Ulwandle](https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Egameni LikaJesu](https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R) | 4:16 | 2024-10-04 |  |
 | [Umbhedesho \- Live](https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 17 \(Grateful\) \[Live\]](https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY) | 4:32 | 2024-10-04 |  |
+| [Umhlengi Wam \- Called To Freedom: Live From Tramways, Gqeberha](https://open.spotify.com/track/2IEDC9nRQd46jHe3mkOW8k) | [Love House Worship](https://open.spotify.com/artist/62qDPVtMdG7jUOmj5X8RCg) | [Unchained Purpose \(Called To Freedom: Live From Tramways, Gqeberha\)](https://open.spotify.com/album/0gYc8MHgO2nPhdpwMjcsHA) | 7:48 | 2026-06-19 |  |
 | [Umkhokheli](https://open.spotify.com/track/7xQLANRgLVasueYMsiXIQk) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [Ayanda Shange \(Live At Jaspa Studio\)](https://open.spotify.com/album/1oYjueEXQeFU3eH8oCgfYC) | 7:50 | 2026-05-22 |  |
 | [Umkhuleko We Bandla](https://open.spotify.com/track/2CFDmYlaldjUNC00kNmVRe) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Umkhuleko We Bandla](https://open.spotify.com/album/4hlNaELIOZhmQbjLq0Yxum) | 8:27 | 2025-01-03 | 2025-04-18 |
 | [Umsebenzi](https://open.spotify.com/track/5WvhqTI1PunZtoLu7sF4GA) | [Nozipho Phiri](https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo) | [Umsebenzi](https://open.spotify.com/album/4gq1imAFUvSMMPllTShhpT) | 9:40 | 2026-03-13 | 2026-05-15 |

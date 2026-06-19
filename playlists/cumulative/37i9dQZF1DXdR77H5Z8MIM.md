@@ -2,9 +2,9 @@
 
 ### [Nolja!](https://open.spotify.com/playlist/37i9dQZF1DXdR77H5Z8MIM)
 
-> Time to press play on these jaem jams from 2010 onwards! Cover: FIFTY FIFTY
+> Time to press play on these jaem jams from 2010 onwards! Cover: RIIZE
 
-490 songs - 1 day 2 hr 55 min
+493 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [DNA](https://open.spotify.com/track/2ngmiq1KoYn3x25VOmvd8F) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:43 | 2022-06-18 | 2022-07-27 |
 | [DO or NOT](https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:08 | 2021-11-17 | 2022-06-12 |
 | [Do Re Mi Fa Sol \(Feat\. CHANGMO\)](https://open.spotify.com/track/4kchBm5YZ6wTo4bXQamLjK) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Do Re Mi Fa Sol](https://open.spotify.com/album/5a5B1drwuHl728MeIWClZ0) | 3:04 | 2021-11-17 | 2021-12-31 |
+| [Do your dance](https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 2:57 | 2026-06-18 |  |
 | [Don't Call Me](https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:40 | 2021-11-17 | 2022-05-29 |
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-11-17 | 2022-07-27 |
 | [Don't Know What To Do](https://open.spotify.com/track/7ibZWzytUh41z5ycK2I5N8) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:21 | 2021-11-17 | 2022-07-29 |
@@ -165,7 +166,7 @@
 | [Fast Forward](https://open.spotify.com/track/50Q0BUdTTtaMumIELoyrm8) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/5Z7AW7f77nqvK7qbJZehlX) | 2:40 | 2024-01-17 | 2025-01-28 |
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2024-01-17 | 2024-04-19 |
 | [Fear](https://open.spotify.com/track/0fToFBFypPz5XMyAdAm7Ay) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 2:55 | 2021-11-17 | 2022-01-14 |
-| [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-06-18 |  |
+| [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-06-18 | 2026-06-19 |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-06-18 | 2024-11-09 |
 | [Feel Special](https://open.spotify.com/track/2HtcPHFdo7eu4Ilbvb0BVI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/5MmndGNrJgTLd5W7HNmVST) | 3:26 | 2021-11-17 | 2022-07-26 |
 | [Feel Special](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) | 3:26 | 2023-03-15 | 2025-01-28 |
@@ -226,7 +227,7 @@
 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 | 2021-11-17 | 2022-05-08 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2025-01-27 |  |
 | [I am YOU](https://open.spotify.com/track/59auNCL6Q3hx7eT7bwT55O) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [I am YOU](https://open.spotify.com/album/51qHHvrptoKt4XsDLacc4w) | 3:24 | 2021-11-17 | 2022-01-29 |
-| [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2021-11-17 |  |
+| [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2021-11-17 | 2026-06-19 |
 | [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 | 2024-01-17 | 2024-05-06 |
 | [I LOVE YOU](https://open.spotify.com/track/1SxqqC1aQ8JiLyfMrHYmnF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:01 | 2021-11-17 | 2022-07-28 |
 | [I Loved You](https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:54 | 2021-11-17 | 2022-06-10 |
@@ -234,6 +235,7 @@
 | [I Need U](https://open.spotify.com/track/3RlcLpMmRvSd84Uw6Yt4Iw) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.1](https://open.spotify.com/album/0Gv6nwfgk6Cy62j0GGITQc) | 3:30 | 2021-11-17 | 2022-05-27 |
 | [I Want U Around \(Feat\. DeVita\)](https://open.spotify.com/track/2JCUuaIDwYaoS0jWGxa7X9) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Point Of View: U](https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM) | 3:11 | 2021-11-17 | 2022-01-20 |
 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 | 2021-11-17 | 2022-06-27 |
+| [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-18 |  |
 | [If It Is You](https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Another Miss Oh \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr) | 4:32 | 2021-11-17 | 2022-07-15 |
 | [Igloo](https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lose Yourself](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) | 2:11 | 2025-04-23 |  |
 | [illa illa](https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:25 | 2021-11-17 | 2022-07-28 |
@@ -261,7 +263,7 @@
 | [LET’S NOT FALL IN LOVE](https://open.spotify.com/track/2TdhkLmxjvPy98HoWmo9i8) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/1q8h2HdED1cmgJVo8lEBME) | 3:31 | 2021-11-17 | 2022-07-21 |
 | [Life Goes On](https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:27 | 2021-11-17 | 2022-07-29 |
 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 | 2022-06-18 | 2024-04-19 |
-| [Like a Bubble](https://open.spotify.com/track/68TWWOecaIglvAtHOOFMwn) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Imperfect\-I'mperfect](https://open.spotify.com/album/5swL0neEWqHIorlT8qTk2p) | 3:08 | 2026-06-03 |  |
+| [Like a Bubble](https://open.spotify.com/track/68TWWOecaIglvAtHOOFMwn) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Imperfect\-I'mperfect](https://open.spotify.com/album/5swL0neEWqHIorlT8qTk2p) | 3:08 | 2026-06-03 | 2026-06-19 |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-24 |  |
 | [Like Ooh\-Ahh](https://open.spotify.com/track/1Jk8M1iFFoTcL0IMuDHdsJ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Story Begins](https://open.spotify.com/album/1kNjZtyacMvP8a4zyR3lzG) | 3:35 | 2021-11-17 | 2022-07-22 |
 | [Like Water](https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:21 | 2021-11-17 | 2022-07-26 |
@@ -412,6 +414,7 @@
 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2025-01-27 | 2025-09-24 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2024-01-17 | 2025-01-28 |
 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/3W2kGv8CcwRl2MWQN5vxKL) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:53 | 2025-01-27 | 2025-02-07 |
+| [SUGAR HONEY ICE TEA](https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [SUGAR HONEY ICE TEA](https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC) | 2:58 | 2026-06-18 |  |
 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2025-03-24 | 2025-05-22 |
 | [Sugarcoat \(NATTY Solo\)](https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 2:59 | 2024-01-17 | 2025-04-17 |
 | [SUMMERIDE](https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SUMMERIDE](https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo) | 3:38 | 2021-11-17 | 2022-03-07 |

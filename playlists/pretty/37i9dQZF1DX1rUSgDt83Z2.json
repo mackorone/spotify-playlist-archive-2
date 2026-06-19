@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 46633,
+  "num_followers": 46639,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-05-14 22:01:11",
       "album": {
-        "name": "Ik Zeg Niets",
-        "url": "https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM"
-      },
-      "artists": [
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Ik Zeg Niets",
-      "url": "https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw"
-    },
-    {
-      "added_at": "2026-05-14 22:01:11",
-      "album": {
         "name": "Echte Liefde",
         "url": "https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 155724,
       "name": "Echte Liefde",
       "url": "https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2"
+    },
+    {
+      "added_at": "2026-05-14 22:01:11",
+      "album": {
+        "name": "Ik Zeg Niets",
+        "url": "https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Ik Zeg Niets",
+      "url": "https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw"
     },
     {
       "added_at": "2026-05-14 22:01:11",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-05-14 22:01:11",
       "album": {
-        "name": "Dicht Bij Mij",
-        "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
-      },
-      "artists": [
-        {
-          "name": "Sabien",
-          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Hoe Wij Hier Samen Staan",
-      "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
-    },
-    {
-      "added_at": "2026-05-14 22:01:11",
-      "album": {
         "name": "Beste Zangers 2024 (Aflevering 4- SERA)",
         "url": "https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 177877,
       "name": "Mes In M'n Rug",
       "url": "https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1"
+    },
+    {
+      "added_at": "2026-05-14 22:01:11",
+      "album": {
+        "name": "Dicht Bij Mij",
+        "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
+      },
+      "artists": [
+        {
+          "name": "Sabien",
+          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Hoe Wij Hier Samen Staan",
+      "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
     },
     {
       "added_at": "2026-05-14 22:01:11",

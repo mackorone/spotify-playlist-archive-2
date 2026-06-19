@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 498573,
       "name": "Kanon Pokajanen: Ode VI",
       "url": "https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i"
@@ -1664,6 +1664,32 @@
       "duration_ms": 126090,
       "name": "O-Antiphonen - O Schl\u00fcssel Davids",
       "url": "https://open.spotify.com/track/1FDHW15yZPD8gQmLMima6g"
+    },
+    {
+      "album": {
+        "name": "55",
+        "url": "https://open.spotify.com/album/4KnznliHHsRg52UntDVSmW"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309893,
+      "name": "Pari Intervallo",
+      "url": "https://open.spotify.com/track/6ysNU4h2HQ4GBFtzceWsYk"
     },
     {
       "album": {

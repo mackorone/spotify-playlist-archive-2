@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E06AbSENEw.md) - [plain]
 
 > Le meilleur des années 2010 en 100 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,260 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,266 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E06AbSENEw.md) - [plain]
 | 28 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 |
 | 29 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 |
 | 30 | [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:22 |
-| 31 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 |
-| 32 | [Attention](https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:28 |
+| 31 | [Attention](https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:28 |
+| 32 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 |
 | 33 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 |
 | 34 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
 | 35 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I Tamango sono usciti con il loro primo album e sono in cover di Indie Italia \ud83e\udd45",
+  "description": "Anna Castiglia in cover di Indie Italia con il nuovo singolo Mir\u00f2 \ud83c\udf1e",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -440,6 +440,24 @@
       "duration_ms": 214217,
       "name": "Addiaccio",
       "url": "https://open.spotify.com/track/7uFeGyXsHE5yBmulyXptlh"
+    },
+    {
+      "album": {
+        "name": "Agitare coca cola",
+        "url": "https://open.spotify.com/album/09jpY5zhG5ax0VnkNrVBDo"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207978,
+      "name": "Agitare coca cola",
+      "url": "https://open.spotify.com/track/6peS5uSHBrAjVQZl5giFbF"
     },
     {
       "album": {
@@ -900,6 +918,32 @@
       "duration_ms": 193219,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6"
+    },
+    {
+      "album": {
+        "name": "BABY BANANA",
+        "url": "https://open.spotify.com/album/3ehegyncFwhNrQzMTXU23f"
+      },
+      "artists": [
+        {
+          "name": "Whitemary",
+          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
+        },
+        {
+          "name": "ELASI",
+          "url": "https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6"
+        },
+        {
+          "name": "PLASTICA",
+          "url": "https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197415,
+      "name": "BABY BANANA",
+      "url": "https://open.spotify.com/track/52et5l2RCMKC4wcRgtwLZv"
     },
     {
       "album": {
@@ -2125,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Nuovo Amore Passato parte II",
+        "url": "https://open.spotify.com/album/0QxA22QiAE2SZeYTwWDcXl"
+      },
+      "artists": [
+        {
+          "name": "Anna and Vulkan",
+          "url": "https://open.spotify.com/artist/338OK54trmorxC1704hKpD"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192346,
+      "name": "Costa orientale",
+      "url": "https://open.spotify.com/track/1CQNGSfmq7p9yS2AusE9ws"
+    },
+    {
+      "album": {
         "name": "Cu'mme",
         "url": "https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP"
       },
@@ -2762,6 +2824,28 @@
       "duration_ms": 166000,
       "name": "Far\u00f2 Pi\u00f9 Rumore Del Ratatata",
       "url": "https://open.spotify.com/track/6pqwsZdRorpeqoJQxcWeTL"
+    },
+    {
+      "album": {
+        "name": "Fascistissime (con Tutti Fenomeni)",
+        "url": "https://open.spotify.com/album/052LfiaiYvnnV8rBygQyOl"
+      },
+      "artists": [
+        {
+          "name": "SANO",
+          "url": "https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3"
+        },
+        {
+          "name": "Tutti Fenomeni",
+          "url": "https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148099,
+      "name": "Fascistissime (con Tutti Fenomeni)",
+      "url": "https://open.spotify.com/track/55mudLy5uajbzC2jfDnipo"
     },
     {
       "album": {
@@ -3890,7 +3974,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 193822,
       "name": "Il Senso",
       "url": "https://open.spotify.com/track/1u45G3wp94Ho4jhWUn9kon"
@@ -5810,7 +5894,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 209811,
       "name": "ME STAJE APPENNENN' AM\u00d2 \u2013 di Calcutta",
       "url": "https://open.spotify.com/track/4A7vpGCKxD5B1W3sMD6Gfp"
@@ -6100,7 +6184,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 163160,
       "name": "Migrazioni",
       "url": "https://open.spotify.com/track/4OUNz8KwjvCWJnuMCwAm5g"
@@ -6122,6 +6206,24 @@
       "duration_ms": 242760,
       "name": "Milano",
       "url": "https://open.spotify.com/track/5vdXw7h7IjPdg8aGWz4jjD"
+    },
+    {
+      "album": {
+        "name": "Mir\u00f3",
+        "url": "https://open.spotify.com/album/5l4cjsKwfdrtlW5RxnuPBv"
+      },
+      "artists": [
+        {
+          "name": "Anna Castiglia",
+          "url": "https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153839,
+      "name": "Mir\u00f3",
+      "url": "https://open.spotify.com/track/4tatip86yrxwJf7s7nEExR"
     },
     {
       "album": {
@@ -8982,7 +9084,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 152800,
       "name": "Siamo pari",
       "url": "https://open.spotify.com/track/1Gd49eOtePCutGcWkVrc86"
@@ -10557,6 +10659,24 @@
     },
     {
       "album": {
+        "name": "Uomini gentili",
+        "url": "https://open.spotify.com/album/4yq8SOQkuyRUmoKkdnSJLR"
+      },
+      "artists": [
+        {
+          "name": "Cigarilla Disonasty",
+          "url": "https://open.spotify.com/artist/3rTEGeGVcOA8fyji7HJTQS"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207433,
+      "name": "Uomini gentili",
+      "url": "https://open.spotify.com/track/2XGysxgEOpclU7vt6ey1qX"
+    },
+    {
+      "album": {
         "name": "t\u2019 amango",
         "url": "https://open.spotify.com/album/5cAT5HRLD002iI3fpffv2j"
       },
@@ -10838,7 +10958,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 204964,
       "name": "Vulcano",
       "url": "https://open.spotify.com/track/1OWAVqDhJ2w1gupu9HZE7b"

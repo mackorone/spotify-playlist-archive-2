@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-608 songs - 1 day 12 hr 14 min
+609 songs - 1 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [La forêt](https://open.spotify.com/track/307TfFnAVG0MN2pSFXz2AW) | [Jay Trepanier](https://open.spotify.com/artist/5GAcHj0ZkPL07NNkfgW7do) | [La forêt](https://open.spotify.com/album/1GMaKOEve0K68gFGPjjXbF) | 2:22 | 2024-09-13 | 2024-12-03 |
 | [La fumée des bougies](https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [La fumée des bougies](https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp) | 3:57 | 2022-12-16 | 2023-08-26 |
 | [La lettre](https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W) | [Juste Robert](https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi) | [Ta théorie sur la lumière](https://open.spotify.com/album/16smfu1rntYNsY9yYqvDDC) | 3:24 | 2022-02-11 | 2022-07-23 |
-| [La lumière](https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [La lumière](https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk) | 4:00 | 2025-06-20 |  |
+| [La lumière](https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [La lumière](https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk) | 4:00 | 2025-06-20 | 2026-06-19 |
 | [La maison jaune \(edit\)](https://open.spotify.com/track/3WtMKaUKG7thWKJstzcKNo) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [La maison jaune \(edit\)](https://open.spotify.com/album/3knYO0onnkgMwjU3VZCetN) | 4:06 | 2021-12-06 | 2022-04-19 |
 | [La mer rose](https://open.spotify.com/track/4DnUtxeDsHam1KdvdOgBVv) | [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Fantaisie](https://open.spotify.com/album/3VYyrIlSdin2xd7MQKxvtG) | 2:27 | 2025-02-07 | 2026-01-31 |
 | [La mort des étoiles](https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 4:19 | 2021-01-03\* | 2026-01-01 |
@@ -580,6 +580,7 @@
 | [Vallée embrumée](https://open.spotify.com/track/19ewBbCHh4wNEeLPEmHwJ8) | [Dans l'Shed](https://open.spotify.com/artist/0rUB643AKozBTQqO7T78Cb) | [Vallée embrumée](https://open.spotify.com/album/1JB8StNLzFhQJCviUIPd4b) | 2:56 | 2021-01-03\* | 2021-05-08 |
 | [Vas\-tu me comprendre?](https://open.spotify.com/track/2zL8O2xVwDaM9KnRByeLm8) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn), [Corail](https://open.spotify.com/artist/6gBH7tdzTkIiWtVw8JCwzr) | [Tu me vois comme je suis](https://open.spotify.com/album/0ENy8em7mPxpasIcTxnuSv) | 4:37 | 2024-06-07 | 2024-07-14 |
 | [Vendredi](https://open.spotify.com/track/1hN1IWffJhyz5zWY9SqEev) | [Gabriel Desjardins](https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Vendredi](https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa) | 3:06 | 2026-01-30 | 2026-03-30 |
+| [verres fumés](https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU) | [mirani coelho](https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE) | [les nuits sont blanches](https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi) | 3:22 | 2026-06-19 |  |
 | [Vers la mer](https://open.spotify.com/track/36rXAkb0k72JIjOil4SS6W) | [Victoria Lord](https://open.spotify.com/artist/1c1Eft7z1a5uQdJ2iwSct7), [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Vers la mer](https://open.spotify.com/album/3soUS8FlIpF1yRB3riT9xw) | 3:58 | 2023-04-14 | 2023-05-02 |
 | [Vie en rose](https://open.spotify.com/track/3LAzaKCNXAbzOME6c3QBW1) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Nicolas Gémus](https://open.spotify.com/album/1lYKiooDdSrR6j1W0HkIyf) | 4:04 | 2022-05-06 | 2022-06-13 |
 | [Vigiles](https://open.spotify.com/track/6ClNYY6az9pC4T0pZI3T44) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:20 | 2022-07-08 | 2022-08-31 |

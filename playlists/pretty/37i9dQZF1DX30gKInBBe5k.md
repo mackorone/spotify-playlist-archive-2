@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,139 likes - 84 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,133 likes - 84 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 28 | [talking to flowers](https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [talking to flowers](https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi) | 2:03 |
 | 29 | [Wop\-A\-Din\-Din](https://open.spotify.com/track/15XoeDfUqg2Q8rp2eOjAFe) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Old Ramon](https://open.spotify.com/album/4rL0RzmHMQyHiZqJVdt7A8) | 5:37 |
 | 30 | [The Loom](https://open.spotify.com/track/5GbOaR6pcywF3y60jnN36Z) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 5:15 |
-| 31 | [she loved dogs](https://open.spotify.com/track/7cDUACo0ZIHrUPjVRjmEVG) | [dog isle](https://open.spotify.com/artist/0OPB40Rma9zNV0q9E0HJZx) | [i'm not a violent dog, i don't know why i bite](https://open.spotify.com/album/0S2hBpEIxwy70VcRuqHa9P) | 1:55 |
-| 32 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 |
+| 31 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 |
+| 32 | [she loved dogs](https://open.spotify.com/track/7cDUACo0ZIHrUPjVRjmEVG) | [dog isle](https://open.spotify.com/artist/0OPB40Rma9zNV0q9E0HJZx) | [i'm not a violent dog, i don't know why i bite](https://open.spotify.com/album/0S2hBpEIxwy70VcRuqHa9P) | 1:55 |
 | 33 | [Flowers](https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 4:29 |
 | 34 | [Lighthouse](https://open.spotify.com/track/10dTTsgL5hPujRahg22tan) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 5:44 |
 | 35 | [Options](https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Control \(Remastered\)](https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr) | 3:56 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 40 | [No Sense](https://open.spotify.com/track/7hqgpJchv39sfIWLTXkMMe) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:50 |
 | 41 | [Dinosaur Act](https://open.spotify.com/track/2WIbRYwd9pu45IHaQuWVnN) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Things We Lost in the Fire](https://open.spotify.com/album/71I6DvVoUfYmszlwb6is18) | 4:13 |
 | 42 | [Black Fly](https://open.spotify.com/track/3AXcnekPeKzjol7iQlM0Xx) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Reaching For Indigo](https://open.spotify.com/album/1GBJUdudjxW6w96CkPd6Kg) | 7:26 |
-| 43 | [Consolation Prize](https://open.spotify.com/track/1rvsWurvB8VkqYT63XmJLD) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Because I Was In Love](https://open.spotify.com/album/3r8mKxg4RO934B6fksLCqN) | 4:03 |
-| 44 | [Sun Drawing](https://open.spotify.com/track/6AtRvRFkhSiP9518S48WBj) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Day And Night](https://open.spotify.com/album/64SmrtVEj2HwkQyz2Z9GXf) | 3:57 |
+| 43 | [Sun Drawing](https://open.spotify.com/track/6AtRvRFkhSiP9518S48WBj) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Day And Night](https://open.spotify.com/album/64SmrtVEj2HwkQyz2Z9GXf) | 3:57 |
+| 44 | [Consolation Prize](https://open.spotify.com/track/1rvsWurvB8VkqYT63XmJLD) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Because I Was In Love](https://open.spotify.com/album/3r8mKxg4RO934B6fksLCqN) | 4:03 |
 | 45 | [Two Wrongs Won't Make Things Right](https://open.spotify.com/track/0cE2SGmO5eaatzBsCpYPKI) | [Tarnation](https://open.spotify.com/artist/5cVphcm0FP2N0GXVl9csxh) | [Gentle Creatures](https://open.spotify.com/album/2HXMG5PMDO4stERgmNORdx) | 4:09 |
 | 46 | [Save Yourself](https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE) | [Rachel Goswell](https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se) | [Waves Are Universal](https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY) | 3:58 |
 | 47 | [I Never Did Get That Call](https://open.spotify.com/track/2u4YAeYmJPcFU9OlDyPKja) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [I Never Did Get That Call](https://open.spotify.com/album/3EP72o1hUz4jHUUjeZrMk3) | 1:39 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 51 | [Bold Marauder](https://open.spotify.com/track/4AkLsoLJoc3wXjsVN3zsdH) | [Kendra Smith](https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou) | [Five Ways of Disappearing](https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE) | 5:33 |
 | 52 | [Sweet Unknown](https://open.spotify.com/track/1LpI5TBhhS8VAOebXksrPy) | [The Hope Blister](https://open.spotify.com/artist/0xm0RDlfj87r1uPa7srs33) | [...Smile's OK](https://open.spotify.com/album/2jccmYwkig1OPAeZte5cGi) | 4:17 |
 | 53 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
-| 54 | [How To Disappear Completely](https://open.spotify.com/track/69pwmeyvQMuHMtkCmpEWhQ) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 5:56 |
+| 54 | [Exit Music \(For a Film\)](https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:27 |
 | 55 | [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 |
 | 56 | [Inside Out](https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH) | 2:21 |
 | 57 | [Katy Song](https://open.spotify.com/track/6Gmc3OUoP4JotwPb2CIXYD) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Red House Painters I](https://open.spotify.com/album/2zbrGDAGfwMhDVkeg1CGl5) | 8:22 |
 | 58 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 |
-| 59 | [Exit Music \(For a Film\)](https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:27 |
+| 59 | [How To Disappear Completely](https://open.spotify.com/track/69pwmeyvQMuHMtkCmpEWhQ) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 5:56 |
 | 60 | [nail i couldn't bite](https://open.spotify.com/track/0AgghN0YfYSZRilCXOb3do) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [Hypnic Jerks](https://open.spotify.com/album/3M1hjHgDdFdhZKQRAccl8n) | 5:15 |
 | 61 | [Memory](https://open.spotify.com/track/5krHe0jThPClniUNYLKNYn) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:52 |
 | 62 | [Return From The Ice](https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [1992 \- 2001](https://open.spotify.com/album/6vUZbXDPOX59fKA8hacgyW) | 5:19 |

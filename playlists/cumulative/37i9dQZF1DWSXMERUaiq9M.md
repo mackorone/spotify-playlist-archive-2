@@ -4,7 +4,7 @@
 
 > 🚀 when ur love language is bpm 🚀  Cover: southstar
 
-745 songs - 1 day 20 hr 32 min
+746 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [A Thousand Lies](https://open.spotify.com/track/1rinB6g47GjC1NlJj5NKHq) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4), [Saidah](https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU) | [A Thousand Lies](https://open.spotify.com/album/1Pr9UwNTdIvqhb4Q7kKfR3) | 4:44 | 2026-05-14 | 2026-05-29 |
 | [ACID](https://open.spotify.com/track/0iI3QPTdmMzXf7dMApinMG) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [ACID](https://open.spotify.com/album/4tcIJhEBpDUUuxVVyfmGtf) | 3:35 | 2025-12-19 |  |
 | [Acid Base Reaction](https://open.spotify.com/track/1pA4Zl7rTjekmEdaMTjErv) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Acid Base Reaction](https://open.spotify.com/album/3JTtFu9a2sN1GkCIBWts64) | 3:27 | 2025-07-03 | 2025-07-25 |
+| [Acid For Breakfast](https://open.spotify.com/track/5GWuNgdeHmy37dTDYOe9Ql) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Acid For Breakfast](https://open.spotify.com/album/4oXeqHeQ05U7Y2oouENg5F) | 2:34 | 2026-06-11 |  |
 | [Act Bad](https://open.spotify.com/track/0ZZNZF3dZOtomDZiZLaMA7) | [BASHKKA](https://open.spotify.com/artist/5ofWf87ImDZQO2KzwdlPSw) | [Maktub](https://open.spotify.com/album/0UOf5Q11t1MGQ0TA0yIbfh) | 4:47 | 2023-09-12 | 2023-09-30 |
 | [Addicted To Bass](https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Addicted To Bass](https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR) | 5:51 | 2023-04-18 | 2023-08-11 |
 | [Afterparty](https://open.spotify.com/track/40iBeybszqBVGAd1rBbmos) | [2HOT2PLAY](https://open.spotify.com/artist/3A1LIysZ96ZZSSMuAvvSEA) | [Afterparty](https://open.spotify.com/album/6CZ7o5laiU4tQ0YaasZ6yN) | 3:50 | 2026-05-07 | 2026-05-15 |
@@ -91,7 +92,7 @@
 | [Born To Love](https://open.spotify.com/track/7IB3u6v0wDwEYEVVQ2lKoD) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Born To Love](https://open.spotify.com/album/4jBr0mykHs1Yeqj6ojOxKj) | 2:53 | 2025-04-17 | 2025-04-23 |
 | [Bounce Otra Vez](https://open.spotify.com/track/6cQqbHE7XkhK890yIn4N9o) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Bounce Otra Vez](https://open.spotify.com/album/2fU34pWyCgzw9nMQ00mpHo) | 2:35 | 2026-05-28 | 2026-06-12 |
 | [Bounce To The Bassline](https://open.spotify.com/track/5Im0TQ7WSbraNUkPwqfrxN) | [Cara Elizabeth](https://open.spotify.com/artist/4Ol10UBcGz0YO0XpAKoGIU) | [Bounce To The Bassline](https://open.spotify.com/album/7CikLPDLq2DNaEOpxheAgF) | 4:00 | 2025-07-17 | 2025-07-25 |
-| [BR3ATH3](https://open.spotify.com/track/55mBen1aWkKJC9W3Mzjo5J) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC) | [BR3ATH3](https://open.spotify.com/album/4IjgjKh1QcQyx1K7xr2MKR) | 4:49 | 2025-10-16 |  |
+| [BR3ATH3](https://open.spotify.com/track/55mBen1aWkKJC9W3Mzjo5J) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC) | [BR3ATH3](https://open.spotify.com/album/4IjgjKh1QcQyx1K7xr2MKR) | 4:49 | 2025-10-16 | 2026-06-19 |
 | [Breakin' Dishes](https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS) | 2:13 | 2025-09-25 |  |
 | [Breaking My Heart](https://open.spotify.com/track/0v9rbji05qP6JYLSYGF782) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Breaking My Heart](https://open.spotify.com/album/31XRGkiiSYlugOelDvIAJv) | 4:31 | 2025-04-17 | 2025-05-23 |
 | [Breathe](https://open.spotify.com/track/1jeRYb59C4yjXEpqdu6p8Z) | [LUKA](https://open.spotify.com/artist/0mWphO3aY3NhULMXoX1s0d), [Morelia](https://open.spotify.com/artist/5IYl99kFybVzejVo5MyoRS) | [Breathe](https://open.spotify.com/album/1Ol9FXUtz2fC40JWKbWOeD) | 3:36 | 2026-05-14 | 2026-05-29 |

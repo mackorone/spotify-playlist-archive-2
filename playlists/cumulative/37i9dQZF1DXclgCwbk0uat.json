@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/25XDm5oXIisowUalHOGQXh"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115744,
+      "name": "222",
+      "url": "https://open.spotify.com/track/3bp6VjYqCgTQiOZSVWTl92"
+    },
+    {
+      "album": {
         "name": "EL AFTER DEL AFTER",
         "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
       },
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
@@ -2694,7 +2712,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 194839,
       "name": "Dando Vueltas",
       "url": "https://open.spotify.com/track/7CzjUysf1fRnpX6aseOlts"
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 135566,
       "name": "DESCONTROL",
       "url": "https://open.spotify.com/track/6wg4Cy4qOP12tmPYLtFnvI"
@@ -5977,6 +5995,24 @@
     },
     {
       "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161803,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
+    },
+    {
+      "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
       },
@@ -7677,6 +7713,28 @@
     },
     {
       "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Miss You - Bonus Track",
+      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
+    },
+    {
+      "album": {
         "name": "Missing",
         "url": "https://open.spotify.com/album/6UzGSfJroStQGBJq0tFV6b"
       },
@@ -8404,7 +8462,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 186461,
       "name": "No Va a Chocar",
       "url": "https://open.spotify.com/track/6mxnut3OxI5xxUnbYgDnXk"
@@ -11811,6 +11869,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+    },
+    {
+      "album": {
         "name": "Su Altura",
         "url": "https://open.spotify.com/album/01Q6s2xUyvHYC2SAW1spjs"
       },
@@ -12387,6 +12463,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
+    },
+    {
+      "album": {
         "name": "The Emptiness Machine",
         "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
       },
@@ -12534,7 +12628,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 158350,
       "name": "TODO KE VER",
       "url": "https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy"

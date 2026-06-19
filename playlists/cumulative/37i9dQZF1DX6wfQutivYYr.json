@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Tedua sulla cover della playlist pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Olivia Rodrigo sulla cover della playlist con tutte le hit pi\u00f9 \ud83d\udd25\ud83d\udd25\ud83d\udd25",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -1926,6 +1926,28 @@
       "duration_ms": 200590,
       "name": "Dai che fai",
       "url": "https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4"
+    },
+    {
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
       "album": {
@@ -4972,7 +4994,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 223698,
       "name": "PARLAR D\u2019AMORE (feat. Bresh)",
       "url": "https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe"
@@ -6249,6 +6271,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+    },
+    {
+      "album": {
         "name": "Stupida sfortuna",
         "url": "https://open.spotify.com/album/2op7wmZ9fVyLGLhjGmrLMG"
       },
@@ -6434,7 +6474,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/5gJMjRYDWy2vxUi9v1ZWd8"

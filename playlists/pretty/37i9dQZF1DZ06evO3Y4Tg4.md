@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,351 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,397 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 49 | [Money Talks \(feat\. Dave\)](https://open.spotify.com/track/6nvbfM5pVDXHNEHiZwpjkl) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Money Talks \(feat\. Dave\)](https://open.spotify.com/album/2RPxUxIORttdHmF32D4A4O) | 4:33 |
 | 50 | [Mercury](https://open.spotify.com/track/1kVdMi8bWDhjp6NCf7s712) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [Titanium & Mercury](https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr) | 5:23 |
 
-Snapshot ID: `ajCSAAAAAAA2YiZtZ11SvuReepnDp5R3`
+Snapshot ID: `ajHjgAAAAABEqxin3x9lRCAGeHY9r5De`

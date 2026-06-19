@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai/CYQAAAAAmwRd+M3xcCfxzNE0xUSDf",
+  "snapshot_id": "ajP04QAAAAC1SsGkxrmN2PhH3eduA3Wa",
   "tracks": [
     {
-      "added_at": "2026-06-15 09:14:09",
+      "added_at": "2026-06-18 13:38:41",
       "album": {
         "name": "REVAMPED",
         "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
@@ -29,255 +29,7 @@
       "url": "https://open.spotify.com/track/3L3IJAp60VshAFFDjdJ2FE"
     },
     {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "JALLA",
-        "url": "https://open.spotify.com/album/5ABeVo5OjIsxB83NedYhLx"
-      },
-      "artists": [
-        {
-          "name": "Antigoni",
-          "url": "https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "JALLA",
-      "url": "https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 171216,
-      "name": "I Like Ur Look",
-      "url": "https://open.spotify.com/track/3lYR2Jima3NVUu3wAtczj4"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "My System",
-        "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
-      },
-      "artists": [
-        {
-          "name": "FELICIA",
-          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "My System",
-      "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 212289,
-      "name": "Cool for the Summer - Rock Version",
-      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "The Maine",
-        "url": "https://open.spotify.com/album/07GEuImz0GyNXH61jKqZi2"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 224710,
-      "name": "how to exit a room",
-      "url": "https://open.spotify.com/track/7e61iFzE2MvK1gJ276XXmX"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "Feed The Beast",
-        "url": "https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Minute",
-      "url": "https://open.spotify.com/track/5T9oCNxslGlodgZd282juI"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "I Knew It, I Knew You",
-        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "I Knew It, I Knew You",
-      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 135703,
-      "name": "COPYCAT",
-      "url": "https://open.spotify.com/track/57aMyrC1ts3HlTSwBk2BIZ"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 251939,
-      "name": "liMOusIne (feat. AURORA)",
-      "url": "https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "Samurai Swords (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6SwPIxfYwDHpBjgumnPdip"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "Samurai Swords (Acoustic Version)",
-      "url": "https://open.spotify.com/track/6Lq3so9twcIAyF1vLMaDwb"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "Opalite (BUNT. Remix)",
-        "url": "https://open.spotify.com/album/5oO9uwBHZAawqYnmPpVUUi"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 212766,
-      "name": "Opalite - BUNT. Remix",
-      "url": "https://open.spotify.com/track/0E3Vtmgzk067KASoo0HwzV"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "Bitters\u00fc\u00df",
-        "url": "https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2"
-      },
-      "artists": [
-        {
-          "name": "Abor & Tynna",
-          "url": "https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Baller",
-      "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "Confident (Rock Version)",
-        "url": "https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 205675,
-      "name": "Confident - Rock Version",
-      "url": "https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "The Maine",
-        "url": "https://open.spotify.com/album/07GEuImz0GyNXH61jKqZi2"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "blame",
-      "url": "https://open.spotify.com/track/5usGOGw57VNPPsr6qyFFxn"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
+      "added_at": "2026-06-18 13:38:41",
       "album": {
         "name": "Physical (feat. Troye Sivan)",
         "url": "https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7"
@@ -297,7 +49,303 @@
       "url": "https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH"
     },
     {
-      "added_at": "2026-06-15 09:14:09",
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "JALLA",
+        "url": "https://open.spotify.com/album/5ABeVo5OjIsxB83NedYhLx"
+      },
+      "artists": [
+        {
+          "name": "Antigoni",
+          "url": "https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "JALLA",
+      "url": "https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "My System",
+        "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "My System",
+      "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 171216,
+      "name": "I Like Ur Look",
+      "url": "https://open.spotify.com/track/3lYR2Jima3NVUu3wAtczj4"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 221958,
+      "name": "expectations",
+      "url": "https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "REVAMPED",
+        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 212289,
+      "name": "Cool for the Summer - Rock Version",
+      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "The Maine",
+        "url": "https://open.spotify.com/album/07GEuImz0GyNXH61jKqZi2"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 224710,
+      "name": "how to exit a room",
+      "url": "https://open.spotify.com/track/7e61iFzE2MvK1gJ276XXmX"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "Feed The Beast",
+        "url": "https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Minute",
+      "url": "https://open.spotify.com/track/5T9oCNxslGlodgZd282juI"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "my way",
+      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "The Maine",
+        "url": "https://open.spotify.com/album/07GEuImz0GyNXH61jKqZi2"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/5usGOGw57VNPPsr6qyFFxn"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 135703,
+      "name": "COPYCAT",
+      "url": "https://open.spotify.com/track/57aMyrC1ts3HlTSwBk2BIZ"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "Samurai Swords (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6SwPIxfYwDHpBjgumnPdip"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "Samurai Swords (Acoustic Version)",
+      "url": "https://open.spotify.com/track/6Lq3so9twcIAyF1vLMaDwb"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "Opalite (BUNT. Remix)",
+        "url": "https://open.spotify.com/album/5oO9uwBHZAawqYnmPpVUUi"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 212766,
+      "name": "Opalite - BUNT. Remix",
+      "url": "https://open.spotify.com/track/0E3Vtmgzk067KASoo0HwzV"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "PINKY UP",
+        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 131437,
+      "name": "PINKY UP",
+      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "Confident (Rock Version)",
+        "url": "https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 205675,
+      "name": "Confident - Rock Version",
+      "url": "https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 251939,
+      "name": "liMOusIne (feat. AURORA)",
+      "url": "https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
       "album": {
         "name": "Short n' Sweet (Deluxe)",
         "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
@@ -313,7 +361,23 @@
       "url": "https://open.spotify.com/track/5JiTjhx7lhqYgsIGpo0VFy"
     },
     {
-      "added_at": "2026-06-15 09:14:09",
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "Bitters\u00fc\u00df",
+        "url": "https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2"
+      },
+      "artists": [
+        {
+          "name": "Abor & Tynna",
+          "url": "https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Baller",
+      "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
       "album": {
         "name": "REVAMPED",
         "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
@@ -333,175 +397,7 @@
       "url": "https://open.spotify.com/track/4ktgVQZCBvSMfHGzC8UVYz"
     },
     {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "...Ready For It?",
-      "url": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "SYML",
-        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 202009,
-      "name": "Where's My Love",
-      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "So Close To What",
-        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 162403,
-      "name": "bloodonmyhands (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/0DA8aZZvG73AijDYT00ki1"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": ". (...)",
-        "url": "https://open.spotify.com/album/6xp0NBjMoWgRHKqYPG5Dl3"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 214755,
-      "name": "RED FLAG.",
-      "url": "https://open.spotify.com/track/0M7hOuDqqbrkdJXelxoSW6"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 254365,
-      "name": "Guilty as Sin?",
-      "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 239011,
-      "name": "Heart Attack - Rock Version",
-      "url": "https://open.spotify.com/track/6Jt18cyNzFXYYUUBllm7rZ"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 169214,
-      "name": "House Tour",
-      "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "Liekinheitin",
-        "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
-      },
-      "artists": [
-        {
-          "name": "Linda Lampenius",
-          "url": "https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T"
-        },
-        {
-          "name": "Pete Parkkonen",
-          "url": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
-        }
-      ],
-      "duration_ms": 180479,
-      "name": "Liekinheitin",
-      "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "GUTS (spilled)",
-        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 170541,
-      "name": "obsessed",
-      "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
-      "album": {
-        "name": "I Love My Computer",
-        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 190577,
-      "name": "Fuck My Computer",
-      "url": "https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa"
-    },
-    {
-      "added_at": "2026-06-15 09:14:09",
+      "added_at": "2026-06-18 13:38:41",
       "album": {
         "name": "Almost There",
         "url": "https://open.spotify.com/album/6pZamSyMYxzfmSAUbnzKIf"
@@ -515,6 +411,106 @@
       "duration_ms": 122813,
       "name": "Prada Tune",
       "url": "https://open.spotify.com/track/23slkWAmlcxi3XcSwC9RLZ"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "Say Slatt Say Ski",
+        "url": "https://open.spotify.com/album/7uxSsGxk7VOxtzZOVRzE8O"
+      },
+      "artists": [
+        {
+          "name": "ProdWithFlavor",
+          "url": "https://open.spotify.com/artist/3ytCKOcdHyrgy3NGaPN4w4"
+        }
+      ],
+      "duration_ms": 188804,
+      "name": "Say Slatt Say Ski",
+      "url": "https://open.spotify.com/track/0NAVlKPo89JCAv1enbAd5R"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "Mafia Musik",
+        "url": "https://open.spotify.com/album/6lPdueChRz2BL6Tuz3fkMs"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "Private Jet",
+      "url": "https://open.spotify.com/track/448fc6aM6KF95yK0IdnIQQ"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "Erykah\u2019s Interlude",
+        "url": "https://open.spotify.com/album/2PrrWjjPud1xHRGxis1tVM"
+      },
+      "artists": [
+        {
+          "name": "Moon Allure",
+          "url": "https://open.spotify.com/artist/4RPxNhKx7KOJoOSZdKC3NM"
+        },
+        {
+          "name": "Dough Networkz",
+          "url": "https://open.spotify.com/artist/3gOCgzWPI6lpRDWYoEeAl0"
+        }
+      ],
+      "duration_ms": 192052,
+      "name": "Erykah\u2019s Interlude",
+      "url": "https://open.spotify.com/track/1CV4Ayo23tvxt8tfWMIwGC"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "FLAWLESS LIKE ME",
+        "url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "GEEKED N BLESSED",
+      "url": "https://open.spotify.com/track/1wzwnk9eqWWTOiKoJDDRDa"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "Forget Me Nots",
+        "url": "https://open.spotify.com/album/0nmo06KvlBGr2ypKt38IId"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 313986,
+      "name": "Settle for My Love - Remastered Version",
+      "url": "https://open.spotify.com/track/22R71ZKypKapgaFnsIE99Z"
+    },
+    {
+      "added_at": "2026-06-18 13:38:41",
+      "album": {
+        "name": "Yancey Boys",
+        "url": "https://open.spotify.com/album/6VlkhAo4FIgT7FKBFbhCHm"
+      },
+      "artists": [
+        {
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
+        }
+      ],
+      "duration_ms": 194661,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/0orx71B4ZvfNRrHmYiNjQt"
     }
   ],
   "unique_name": "On Repeat",

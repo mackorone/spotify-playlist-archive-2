@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-159 songs - 9 hr 15 min
+167 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,9 @@
 | [automatic shoes](https://open.spotify.com/track/5yDoiuvVI1YBNlS8mjjL4F) | [we are concrete](https://open.spotify.com/artist/1G8m3RgBJsjJNBMFiB4pWP) | [\(\)](https://open.spotify.com/album/5HcYtyZx6yPCqTIz6WaDwV) | 2:55 | 2025-10-26 | 2025-12-09 |
 | [Away](https://open.spotify.com/track/05YP4WXwNVoj9A0Viqwr3k) | [Orbis](https://open.spotify.com/artist/6mNA4j8NdL2AAV46EKMy1d) | [Slick Heart Machinery](https://open.spotify.com/album/5Ji55WmrvyDcClmIXboWIR) | 7:15 | 2025-11-03 | 2025-12-09 |
 | [Away Too Long](https://open.spotify.com/track/0tuvYh6wDvM45ivRimfyUB) | [Digital Bog](https://open.spotify.com/artist/34WuPzlCsRIbT5RuFGtTMw) | [Away Too Long](https://open.spotify.com/album/4iJhmu6czRwB1FUiKjIBsg) | 3:00 | 2025-11-26 | 2026-06-14 |
+| [Balla da solo](https://open.spotify.com/track/5i2OJvqlBWWuBNC3FTqOPM) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Balla da solo](https://open.spotify.com/album/6goetFqE7uwg4jYxk0THyA) | 3:20 | 2026-06-18 |  |
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-10-29 | 2025-12-09 |
+| [Bara](https://open.spotify.com/track/50hb6zxmJMxrfavhe0fyn7) | [Merah](https://open.spotify.com/artist/0SqG39qV2HtVNgtjKSKGXQ) | [Utara](https://open.spotify.com/album/2Ds4iV3LPSya4zyVBHqhcn) | 3:49 | 2026-06-18 |  |
 | [Be the Star That You Are](https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Be the Star That You Are](https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0) | 3:09 | 2026-05-29 |  |
 | [Best Year Yet](https://open.spotify.com/track/1n5JaW6gdAtdRgS2jnKSye) | [Bowes](https://open.spotify.com/artist/4ttD6HkDmlpH7D8SQqwtbT) | [Best Year Yet](https://open.spotify.com/album/2dwFoNDZQy25pn9iRmyPpq) | 4:18 | 2026-06-03 |  |
 | [Blue Money Bills](https://open.spotify.com/track/3cNEkCAFg82SSWqkyNdwRp) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [Blue Money Bills](https://open.spotify.com/album/36zqHa3fQZ0kROvyzvl33L) | 3:23 | 2025-10-29 | 2025-12-09 |
@@ -38,7 +40,9 @@
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-11-17 | 2026-03-15 |
 | [Coming Back](https://open.spotify.com/track/7uY20MCgghAw2HWWRNcbJ4) | [Jarju Binks](https://open.spotify.com/artist/0o0t0KdWN2YcpOB7tcvxqp) | [Coming Back](https://open.spotify.com/album/3JPaEVNlWEsFXyacsjkJxK) | 3:38 | 2025-10-31 | 2025-12-09 |
 | [Coming Stars](https://open.spotify.com/track/7EsFMWgc1EVf6NUepID6gd) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Coming Stars](https://open.spotify.com/album/5nRfA7DrRB7FEYswNXIUMy) | 3:10 | 2025-11-27 | 2026-06-14 |
+| [como la luna](https://open.spotify.com/track/50zdQV83gf1guuk6bBBUDJ) | [young llop.mp3](https://open.spotify.com/artist/1alG0IPqW3stdy2R7Sc7bK) | [como la luna](https://open.spotify.com/album/2vvmzqz0afaGSA1kSHons0) | 1:44 | 2026-06-18 |  |
 | [Connect](https://open.spotify.com/track/5Ejd0C0OhTz57clPS2di36) | [Reverliee](https://open.spotify.com/artist/6BXRuObx1vqtPtEobUTqQx) | [Connect](https://open.spotify.com/album/5eQ7ZAG3nBgxd319KEdSKs) | 3:32 | 2025-11-03 | 2025-12-09 |
+| [Cool Beans](https://open.spotify.com/track/0oiXqI9221znTkKHYpTL4d) | [Lovechild](https://open.spotify.com/artist/63joINATp7Ko83hV2D3UtU) | [Cool Beans](https://open.spotify.com/album/5ZGn1aZsdn2CwVNic1kXD6) | 3:53 | 2026-06-18 |  |
 | [Correr](https://open.spotify.com/track/39jAEMhAqeRWdw2rDI8EBK) | [Danilo Pira](https://open.spotify.com/artist/7A4czDJpi2rhwdubWHp4X2) | [Correr](https://open.spotify.com/album/7w3lPNSFILQgJR8SQirOrj) | 3:14 | 2025-11-19 | 2026-03-15 |
 | [Dagon](https://open.spotify.com/track/5qC4oCURIwpw7bqKct0mJF) | [You Filthy Dog](https://open.spotify.com/artist/5pf3ELlJohVJgYNsNtcjf6) | [Dagon](https://open.spotify.com/album/370JHxkbnxHhsBl9SlANGk) | 3:31 | 2025-11-03 | 2025-12-09 |
 | [Dale Hodges Park](https://open.spotify.com/track/3VzzN4kUiTfZvfemrHAADM) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Dale Hodges Park](https://open.spotify.com/album/0qqQff2wJfCNI9PdxhIdL1) | 3:27 | 2026-06-08 |  |
@@ -78,8 +82,10 @@
 | [If I Was A Ghost](https://open.spotify.com/track/5YfgZXyqNf9vOAI9iNRNFj) | [Dar1en](https://open.spotify.com/artist/4YQi46tcPcgpcABa2vVF6n) | [If I Was A Ghost](https://open.spotify.com/album/0PkjL6ESR2Fav9OToP3UVd) | 3:08 | 2025-11-13 | 2026-03-15 |
 | [Into the Fire](https://open.spotify.com/track/2pfZbypE18sp9V0D4ZSYOQ) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [To Love](https://open.spotify.com/album/75qeEXGYWh1F6pqolkQ7wt) | 4:19 | 2026-05-30 |  |
 | [It Is Time](https://open.spotify.com/track/1GoRkIfs0IFKnllVoMzRJm) | [Maurice Hirschhaut](https://open.spotify.com/artist/1o8IEDCXLoJxrzVjR655un) | [It Is Time](https://open.spotify.com/album/5Pg5ViuWgWOILr8u3fjD5T) | 2:55 | 2025-11-15 | 2026-03-15 |
+| [IYKYK](https://open.spotify.com/track/7wW7kNGVWUjFYTrBOpxl9F) | [LOOM!](https://open.spotify.com/artist/4m7b8YVJXc2RlWkuJ58BEY), [Zac George](https://open.spotify.com/artist/5kRb45Iu6aafhD6UbF2344) | [ilLOOM!nate](https://open.spotify.com/album/5J09AiwM6RnQHO3SYlkjjx) | 3:00 | 2026-06-18 |  |
 | [Just A Cliche'](https://open.spotify.com/track/2aX8kGMGSTVZPgaWpvSjSb) | [Brett L Walker](https://open.spotify.com/artist/5MOiEP0NEMkGUlQNoYzlvm) | [Just A Cliche'](https://open.spotify.com/album/6a2DTVcwi4aq7ajkExqy1d) | 2:56 | 2025-11-25 | 2026-05-09 |
 | [Keep Doin' What You're Doin'](https://open.spotify.com/track/59TXNX5hE3HXnGMmOhGvLu) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Spirals, Vol\. 2: Time & the Space in Between](https://open.spotify.com/album/09HpVKjfQZjSAlLYQiETFI) | 3:58 | 2025-10-30 | 2025-12-09 |
+| [Keep Rolling](https://open.spotify.com/track/22tLz4zLcrXq01kuytDFmF) | [Ben Inglis](https://open.spotify.com/artist/2r3FpNCAd37vbXzHwhMRJL) | [Hope](https://open.spotify.com/album/799k67euMDZHQy4pr15ytl) | 3:45 | 2026-06-18 |  |
 | [Les avenues](https://open.spotify.com/track/3FiLH9SLEXzQNsP7Z7l6mu) | [Arthur Mess](https://open.spotify.com/artist/6FxhLja9zhLwB65YcUnkwQ) | [Les avenues](https://open.spotify.com/album/0LPRGtdyC641NKCd6EVjuQ) | 3:34 | 2025-11-07 | 2025-12-09 |
 | [Light](https://open.spotify.com/track/2wDu6ZakZVNsgUzQoesm7O) | [SOMEMISTAKES](https://open.spotify.com/artist/36UniZ3ECMH2GwkF7WQxpK) | [Light](https://open.spotify.com/album/7t7c9ePxVas9Y9cZGjuXA1) | 3:57 | 2025-11-09 | 2026-03-15 |
 | [LOS BIOLOGOS](https://open.spotify.com/track/5nMIzJ0vCnt1efHf5k0IpU) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [LOS BIOLOGOS](https://open.spotify.com/album/4prHVEmsCxLHDTsV6zSsuM) | 4:11 | 2025-12-23 |  |
@@ -106,6 +112,7 @@
 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-07 | 2025-12-09 |
 | [Parted](https://open.spotify.com/track/20ZFPWqmQDEQB0zt48B92n) | [Angelic Bipolar](https://open.spotify.com/artist/2u0uX0s7XYniiI9VY3rTfe) | [Horrible Parallel](https://open.spotify.com/album/1zUgcsZrPvrjbgvg8zJPk7) | 3:43 | 2025-11-01 | 2025-12-09 |
 | [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 | 2025-11-27 | 2026-06-14 |
+| [Polaroid](https://open.spotify.com/track/3MiHgdxNBYMNAmna2i6Mvl) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Polaroid](https://open.spotify.com/album/0cAdWCQ0QQmj3dJy0jZH94) | 2:39 | 2026-06-18 |  |
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2026-01-06 |  |
 | [Punto Cero](https://open.spotify.com/track/1I21Ts3OdQHSF82lz1VyFv) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Punto Cero](https://open.spotify.com/album/6SxhGvhfo2FBsGjZgNgvrO) | 3:41 | 2026-01-10 |  |
 | [Rainy day date](https://open.spotify.com/track/66P6BcQvNxWady9qp6dvRo) | [Ks/Marys](https://open.spotify.com/artist/5sAakdhIYQPe1oUd4Yk70z) | [Rainy day date](https://open.spotify.com/album/5dd7Yqt9ctcheVlVtHUAgd) | 4:24 | 2025-11-16 | 2026-03-15 |
@@ -161,6 +168,7 @@
 | [World Of Thirds](https://open.spotify.com/track/1EEDzQBK1O5e1ueRWIMHDk) | [MIK's Reaction](https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg) | [MIK's Tape](https://open.spotify.com/album/2fhP1JdNOxSnAjjS739uQL) | 3:49 | 2025-11-25 | 2026-06-14 |
 | [You Got The Chops](https://open.spotify.com/track/4cV8r6HqCU5M237e2E62Gw) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [You Got The Chops](https://open.spotify.com/album/0ruXTwor3TO4B7Y8MZJt0I) | 4:00 | 2026-01-22 |  |
 | [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 | 2026-06-03 |  |
+| [You Were The One](https://open.spotify.com/track/0RxMAdHlXWQYK8iTPb0Z3C) | [Chain Avenue](https://open.spotify.com/artist/3wGXfF2V7Gole9ALgupdFO) | [You Were The One](https://open.spotify.com/album/3eFt5Sv8i1AqcGskcvK6sX) | 4:45 | 2026-06-18 |  |
 | [Your Way](https://open.spotify.com/track/4QSLf4BxEwJw9T2OyKzAZc) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Your Way](https://open.spotify.com/album/6M71haNo2UkinTsC27uRAn) | 2:56 | 2025-11-03 | 2025-12-09 |
 | [Zero Hour Lunar Phase](https://open.spotify.com/track/6Pwm9LxIHTazwlVz26WMgf) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour Lunar Phase](https://open.spotify.com/album/4DFIgHny809BiD7wZFy76g) | 3:32 | 2025-10-28 | 2025-12-09 |
 | [¿QUIÉN ES EL MALO AHORA?](https://open.spotify.com/track/6cZsVGpH1YkfGvZui0mn9H) | [ATLAS\-31](https://open.spotify.com/artist/55rn2WmgmOMzZHsSJZ6zgt) | [¿QUIÉN ES EL MALO AHORA?](https://open.spotify.com/album/31VLgqE0dx5tdkzjA9hyYF) | 3:54 | 2025-10-29 | 2025-12-09 |

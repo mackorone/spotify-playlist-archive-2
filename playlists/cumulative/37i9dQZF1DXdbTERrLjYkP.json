@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Lexi Jayde",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Diva Smith",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -1498,6 +1498,24 @@
       "duration_ms": 159750,
       "name": "AVERAGE AMERICAN WOMAN",
       "url": "https://open.spotify.com/track/4yKrWwUOOAt4U4Asxe3igO"
+    },
+    {
+      "album": {
+        "name": "Luck of the Draw",
+        "url": "https://open.spotify.com/album/4Pl5OaVAIUmHmY4ExUu3Hh"
+      },
+      "artists": [
+        {
+          "name": "Madhavi Devi",
+          "url": "https://open.spotify.com/artist/0htjgBT1mgEJG1hvSOnToR"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257386,
+      "name": "Baby Again",
+      "url": "https://open.spotify.com/track/3DRdm0cEIMTe8QbL63AN4b"
     },
     {
       "album": {
@@ -9382,7 +9400,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 169386,
       "name": "In Love With A Ghost",
       "url": "https://open.spotify.com/track/7xmK0BKKlAG6ifxZr99Qpc"
@@ -14345,6 +14363,24 @@
     },
     {
       "album": {
+        "name": "rom com",
+        "url": "https://open.spotify.com/album/3EwJ3FzBGDRElfF1aqLdLE"
+      },
+      "artists": [
+        {
+          "name": "Sara Baroni",
+          "url": "https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208920,
+      "name": "rom com",
+      "url": "https://open.spotify.com/track/621v7nXYzhMpRZwshVB0ZV"
+    },
+    {
+      "album": {
         "name": "Middle School Dropout",
         "url": "https://open.spotify.com/album/4tFRlMuaPBCKK9pqqIeZh9"
       },
@@ -14824,7 +14860,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 196403,
       "name": "Second Guesser",
       "url": "https://open.spotify.com/track/3BWpdemSWVw7MqWBoTgP61"

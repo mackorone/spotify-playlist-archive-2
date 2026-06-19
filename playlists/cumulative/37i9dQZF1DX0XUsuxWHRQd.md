@@ -4,7 +4,7 @@
 
 > Music from Mac Miller, Drake and Future.
 
-2,783 songs - 6 day 0 hr 32 min
+2,784 songs - 6 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1885,6 +1885,7 @@
 | [Purge Me](https://open.spotify.com/track/4HTkk2vceRNg08yGcRJtBS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Realer 2](https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J) | 2:16 | 2022-09-09 | 2022-09-17 |
 | [Purple](https://open.spotify.com/track/42qK1JWm8fDy3qHZbIZNuQ) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Lost Tapes](https://open.spotify.com/album/2mU2jRMwrsL1tG97xKoiav) | 3:39 | 2022-09-22 | 2022-09-24 |
 | [Purple Emoji \(feat\. J\. Cole\)](https://open.spotify.com/track/3OJ4LEE50iFELaHiZ09zif) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Purple Emoji \(feat\. J Cole\)](https://open.spotify.com/album/5tcLbrane4ipoQy0liSuNH) | 2:43 | 2019-06-07 | 2019-06-22 |
+| [Purple Pills](https://open.spotify.com/track/5IweeQZdY5XEzStLzUJG5t) | [D12](https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0) | [Devils Night](https://open.spotify.com/album/22CVoj4sxsAGO02OONbkQA) | 5:04 | 2026-06-18 |  |
 | [Push It](https://open.spotify.com/track/1wTpghlkEyQwCKSEb6688P) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Return Of The Mack / Push It](https://open.spotify.com/album/1uaZVgPVhRbVrXDKbAnMZx) | 3:00 | 2019-08-02 | 2019-08-09 |
 | [Push It \(feat\. Young Thug\)](https://open.spotify.com/track/1s3etXt5RKVEuC14ugwmHy) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Me vs\. Me](https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3) | 3:30 | 2022-01-28 | 2022-02-12 |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-19 | 2024-08-03 |

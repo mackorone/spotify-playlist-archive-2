@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 
 > This is Aimer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,462 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,457 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,23 +27,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 17 | [茜さす](https://open.spotify.com/track/1jJjnRT0Pq6FdOpzAjGOTE) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [BEST SELECTION "blanc"](https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq) | 5:29 |
 | 18 | [After Rain](https://open.spotify.com/track/0mpLgvlW0tztoBGKzfLRNr) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [After Dark](https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa) | 4:52 |
 | 19 | [StarRingChild](https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Midnight Sun](https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse) | 5:28 |
-| 20 | [SCOPE](https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp) | 2:55 |
-| 21 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 |
+| 20 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 |
+| 21 | [SCOPE](https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp) | 2:55 |
 | 22 | [プロローグ](https://open.spotify.com/track/7iH7uU8YCtkIgn8xyVNBEU) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [HOPE](https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR) | 5:15 |
 | 23 | [あなたに出会わなければ～夏雪冬花～](https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sleepless Nights](https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD) | 6:00 |
 | 24 | [Little Bouquet](https://open.spotify.com/track/29Sb3j5voU0UKCeSO4Vami) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Little Bouquet](https://open.spotify.com/album/46ReMNAksbtI2HIfe0SDPm) | 4:11 |
 | 25 | [Pastoral](https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Pastoral](https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8) | 4:05 |
-| 26 | [残響散歌 \-TV ver.\-](https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌 / 朝が来る](https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI) | 1:31 |
+| 26 | [遥か](https://open.spotify.com/track/6At8fG853JqHaZP72oONtA) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か](https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93) | 3:11 |
 | 27 | [六等星の夜](https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sleepless Nights](https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD) | 5:38 |
-| 28 | [遥か](https://open.spotify.com/track/6At8fG853JqHaZP72oONtA) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か](https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93) | 3:11 |
+| 28 | [残響散歌 \-TV ver.\-](https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌 / 朝が来る](https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI) | 1:31 |
 | 29 | [ONE](https://open.spotify.com/track/01jAlHee4psROggfWjk8hp) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 5:28 |
 | 30 | [糸](https://open.spotify.com/track/1Q3wFTqaH9rmVGdGj85Lsa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 3:44 |
 | 31 | [ポラリス](https://open.spotify.com/track/0m37tmxs9lX9LQjoNcvhKk) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [After Dark](https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa) | 6:05 |
 | 32 | [The Road Not Taken \- Genshin Impact Animated Short "The Road Not Taken" Original Soundtrack](https://open.spotify.com/track/13ZiVkjad58eXSASbOFqwB) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Genshin Impact \- The Road Not Taken \(Original Game Soundtrack\)](https://open.spotify.com/album/5PXwOJuiro3ilsW6Y86cZV) | 2:30 |
 | 33 | [Black Bird](https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 3:47 |
 | 34 | [STAND\-ALONE](https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 4:45 |
-| 35 | [Through My Blood <AM>](https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [ninelie EP](https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN) | 4:04 |
-| 36 | [ninelie <cry\-v>](https://open.spotify.com/track/5tXeB01NmKv1VpseCChrWZ) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 5:05 |
+| 35 | [ninelie <cry\-v>](https://open.spotify.com/track/5tXeB01NmKv1VpseCChrWZ) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 5:05 |
+| 36 | [Through My Blood <AM>](https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [ninelie EP](https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN) | 4:04 |
 | 37 | [Eclipse](https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Eclipse](https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt) | 3:55 |
 | 38 | [April Showers](https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 5:43 |
 | 39 | [escalate](https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate](https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 49 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 |
 | 50 | [7月の翼](https://open.spotify.com/track/27ZdLTsiRprjPvoSFVCHRp) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Midnight Sun](https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse) | 4:44 |
 
-Snapshot ID: `ajCSAAAAAABxt2X1EPBoPUn8Xb8Q18L8`
+Snapshot ID: `ajHjgAAAAAB/yjSsPD3zhHtfLIPfPNfE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608 likes - 352 songs - 20 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 609 likes - 352 songs - 20 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 149 | [Hummingbird](https://open.spotify.com/track/5RtZ4ebQFkCa6TGQjQshdd) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:19 |
 | 150 | [Pick Me Up](https://open.spotify.com/track/0XG2r1Hw1XDOrvp1IBbEof) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Pick Me Up](https://open.spotify.com/album/2AIjGgi7S3zWimTIekSxYj) | 3:22 |
 | 151 | [Low Country](https://open.spotify.com/track/641Lc1TXtZcYwGmggGlKS6) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Southern Style](https://open.spotify.com/album/6cYkNKykfCpIrai7LD2AVn) | 4:11 |
-| 152 | [When You Love Someone](https://open.spotify.com/track/5Gm4zs3FQE6X2RlZb0slwY) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [American Love](https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW) | 3:57 |
-| 153 | [It Was Me](https://open.spotify.com/track/0tOyuyJV1F3YVK86yb9msv) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 4:43 |
+| 152 | [It Was Me](https://open.spotify.com/track/0tOyuyJV1F3YVK86yb9msv) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 4:43 |
+| 153 | [When You Love Someone](https://open.spotify.com/track/5Gm4zs3FQE6X2RlZb0slwY) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [American Love](https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW) | 3:57 |
 | 154 | [Where I Am](https://open.spotify.com/track/2rsQn9erNfV1U6z8XyLk1h) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [American Love](https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW) | 3:44 |
 | 155 | [The Bed We Made](https://open.spotify.com/track/5VXtkqeVt9eH5GWVKGPhtf) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Rest of Our Life](https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx) | 3:43 |
 | 156 | [Three Whiskeys And The Truth](https://open.spotify.com/track/2PMtsOOk1JD7yGT7E1ZK6Q) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:53 |
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 181 | [Say Goodbye](https://open.spotify.com/track/1tGijUW6yXsHb5W7YEfMi2) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Unbroken](https://open.spotify.com/album/1hrK4uDbw0YkGgL8bshsoH) | 3:46 |
 | 182 | [Bar Back](https://open.spotify.com/track/0NztSqTIuRsgbztq8g0uCA) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Getting Over Him](https://open.spotify.com/album/2m4CrEo9yZx4g0Kgz5uv2A) | 3:20 |
 | 183 | [His Hands](https://open.spotify.com/track/7LdV3FGsMhxBOsbS4lf4ma) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [That Girl \(Deluxe\)](https://open.spotify.com/album/7jCbgAamUZSkL2SUchiGyF) | 4:15 |
-| 184 | [Very Last Moment In Time](https://open.spotify.com/track/7gTSY2oOJAXSACadaMX4aq) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:28 |
-| 185 | [the rest \(feat\. the love junkies\)](https://open.spotify.com/track/0mcQkf62pXm6yMeDHHAA9B) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [the love junkies](https://open.spotify.com/artist/0Zme1TVKaPO7cOWQgbzOCK) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 3:09 |
+| 184 | [the rest \(feat\. the love junkies\)](https://open.spotify.com/track/0mcQkf62pXm6yMeDHHAA9B) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [the love junkies](https://open.spotify.com/artist/0Zme1TVKaPO7cOWQgbzOCK) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 3:09 |
+| 185 | [Very Last Moment In Time](https://open.spotify.com/track/7gTSY2oOJAXSACadaMX4aq) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:28 |
 | 186 | [Throw Your Love Away](https://open.spotify.com/track/6TLBxHeVST12v07Ea9gUrK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:44 |
 | 187 | [Shut Me Up](https://open.spotify.com/track/0wX4YMWniDeyuZg65aVcV1) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Shut Me Up](https://open.spotify.com/album/4uTnjLNnItKKJfGX54hRxU) | 3:09 |
 | 188 | [Looking For A Lighter](https://open.spotify.com/track/4AzJiwev9fmVbw0X8mWb1P) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [If It Wasn't For You](https://open.spotify.com/album/7ge2IbF35OIlj7Yimy14H7) | 3:03 |
@@ -259,8 +259,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 249 | [That's Why God Made Guitars](https://open.spotify.com/track/0PLDRD7EXSVkFcR2Xy3eAo) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Pick Me Up](https://open.spotify.com/album/2AIjGgi7S3zWimTIekSxYj) | 3:19 |
 | 250 | [So Magical](https://open.spotify.com/track/7bWS811PjUHfEd25PKIPen) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/1OtyAbeM8Ex503oamdpmzQ) | 3:51 |
 | 251 | [Mine](https://open.spotify.com/track/1cCs7Wvv4EZ88lHjN1FbWz) | [SingLike](https://open.spotify.com/artist/0BBdrDvbZmjZykvWZwIuL6) | [Mine \- Single](https://open.spotify.com/album/6G35RpfTGXJMde1BRuoY82) | 3:52 |
-| 252 | [Map Dot Missing You](https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Map Dot Missing You](https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT) | 3:29 |
-| 253 | [I Would](https://open.spotify.com/track/2yvJR5cdjFes69jGQiKqhv) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3Fesk0ynWRBHEj7qk22r3B) | 3:28 |
+| 252 | [I Would](https://open.spotify.com/track/2yvJR5cdjFes69jGQiKqhv) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3Fesk0ynWRBHEj7qk22r3B) | 3:28 |
+| 253 | [Map Dot Missing You](https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Map Dot Missing You](https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT) | 3:29 |
 | 254 | [When You Love Me](https://open.spotify.com/track/67c475WKa7gaIykBVVW3J3) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/1OtyAbeM8Ex503oamdpmzQ) | 4:30 |
 | 255 | [Hell Of A Heartbreak](https://open.spotify.com/track/1YtSJkaTnzV2TNkGo2045F) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Hell Of A Heartbreak](https://open.spotify.com/album/3JFCNlunpvtxLZiGO3OQ5Z) | 3:02 |
 | 256 | [North Pole](https://open.spotify.com/track/0dQE4CFjAG204JLAML95Cm) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Christmas is Right Here](https://open.spotify.com/album/64nzajicSCtDOXYbedroJv) | 3:35 |
@@ -280,8 +280,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 270 | [Summer Of Love](https://open.spotify.com/track/6DD2q4wRpJwwiUajqQMeKx) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Eleven](https://open.spotify.com/album/2IjiBV6bprNXNHexpJ9WIC) | 4:19 |
 | 271 | [Being Myself](https://open.spotify.com/track/36EvBZRt8Oyx9rqt6L3mws) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Hits And More](https://open.spotify.com/album/6qP0ktcSi5AOcDIAMwCxXu) | 3:40 |
 | 272 | [Coppertone and Chlorine](https://open.spotify.com/track/7i73kavwwRDWv3Qt04CLfg) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [Summertime Six\-Pack](https://open.spotify.com/album/3QpdL2vmiTvHreU6KTqzTn) | 3:02 |
-| 273 | [Heartbreaker](https://open.spotify.com/track/0XAKcbVMoF5kW8Dqjdhbdx) | [Whitney Duncan](https://open.spotify.com/artist/7D3IiPrIsSWfMFHEqEOCUB) | [Heartbreaker](https://open.spotify.com/album/4w3sOYIFoyDInELmHxhHdT) | 3:29 |
-| 274 | [Still Got You on My Mind](https://open.spotify.com/track/1lRj0JwuDAZEpjFA5Gq4ei) | [Alaura Lynne](https://open.spotify.com/artist/3IxcwR6roop7eFUSCygNTA) | [Still Got You on My Mind](https://open.spotify.com/album/6IfYpWXAw22WCC1AhNjwHv) | 3:21 |
+| 273 | [Still Got You on My Mind](https://open.spotify.com/track/1lRj0JwuDAZEpjFA5Gq4ei) | [Alaura Lynne](https://open.spotify.com/artist/3IxcwR6roop7eFUSCygNTA) | [Still Got You on My Mind](https://open.spotify.com/album/6IfYpWXAw22WCC1AhNjwHv) | 3:21 |
+| 274 | [Heartbreaker](https://open.spotify.com/track/0XAKcbVMoF5kW8Dqjdhbdx) | [Whitney Duncan](https://open.spotify.com/artist/7D3IiPrIsSWfMFHEqEOCUB) | [Heartbreaker](https://open.spotify.com/album/4w3sOYIFoyDInELmHxhHdT) | 3:29 |
 | 275 | [You Were Just Here](https://open.spotify.com/track/2GLiyuv81cBc4srbQwksLX) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Delicious Surprise](https://open.spotify.com/album/0wKsvBrbplJvSaZ4EMvgzb) | 3:27 |
 | 276 | [Sunday Paper](https://open.spotify.com/track/6KgRxOcqfmspwIeNbdoHPA) | [Calaisa](https://open.spotify.com/artist/1LbgoQujblOd8uXOQeS977) | [Calaisa](https://open.spotify.com/album/0EM1ygtvyr5WkKbjgE8W54) | 2:58 |
 | 277 | [Country Radio Song](https://open.spotify.com/track/5vOgtkv7hxnaUdycDopV2O) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Double Wide Castle Sessions](https://open.spotify.com/album/4gRBDZIfzrmFhzV50TPojY) | 3:22 |
@@ -361,4 +361,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 351 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
 | 352 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcUfsAAAAAAN7PSz9uF+Fl0KYe7j6xl3`
+Snapshot ID: `AcUlggAAAAAk3Ooxu/J1Qh7SRP/muC9Q`

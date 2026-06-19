@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 70089,
+  "num_followers": 70086,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABvxDYtVk4Ez2t9mJnfprdv",
+  "snapshot_id": "ajHjgAAAAAAG3mMCh+m+gBoFIuavORpU",
   "tracks": [
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primer Dia de Clases",
-        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Cuando Sera",
-      "url": "https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
         "url": "https://open.spotify.com/album/28561uZztshyZSVG6ElL62"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 233112,
       "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
       "url": "https://open.spotify.com/track/684EjRHwNsZQ9hCQxL4NYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Primer Dia de Clases",
+        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Cuando Sera",
+      "url": "https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc"
     },
     {
       "added_at": null,

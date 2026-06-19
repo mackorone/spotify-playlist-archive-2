@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Iuna Falcão
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,813 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,816 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 7 | [Calma, Coração](https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [10/10](https://open.spotify.com/album/6Pc0LcsskzQ8CkTT6bpgrg) | 2:18 |
 | 8 | [Marfim](https://open.spotify.com/track/32xPKgpBUKsGhS6wkiCJxj) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Meraki Nina](https://open.spotify.com/album/1DQMlqpLfEN5cZ8R2HnF6V) | 3:36 |
 | 9 | [Cachaça Postal](https://open.spotify.com/track/7F8Ij4sTYYY1Yu3AYGbBLG) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Cachaça Postal](https://open.spotify.com/album/2EFZZ7KLN9nr7to7eOUbIV) | 2:52 |
-| 10 | [NÃO VOU ME INCLUIR](https://open.spotify.com/track/0WcjU6BbcUX2XaZyvmdKbr) | [Plumasdecera](https://open.spotify.com/artist/2ieNjZISvOxzjA4N5o3z4D) | [NÃO VOU ME INCLUIR](https://open.spotify.com/album/7fk66VdIdMSoOP41k2XeVj) | 2:18 |
+| 10 | [NÃO VOU ME INCLUIR](https://open.spotify.com/track/0WcjU6BbcUX2XaZyvmdKbr) | [Plumasdecera](https://open.spotify.com/artist/2ieNjZISvOxzjA4N5o3z4D), [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [NÃO VOU ME INCLUIR](https://open.spotify.com/album/7fk66VdIdMSoOP41k2XeVj) | 2:18 |
 | 11 | [Encanto \(Nossa Gente, Avisa lá\)](https://open.spotify.com/track/790OWdmOK2eLr9qBWEbuj4) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm), [Tonho Matéria](https://open.spotify.com/artist/3Gvd4jaWihN7nNBoffneNp), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [Encanto \(Nossa Gente, Avisa lá\)](https://open.spotify.com/album/7Hxypa00U94CCgFJLQKjfd) | 2:10 |
 | 12 | [INFÂNCIA](https://open.spotify.com/track/6Z8CqWrIpxg4xbWhl0u0Ez) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d) | [INFÂNCIA](https://open.spotify.com/album/6VB8XXEIeO4tsBCERwOWcq) | 3:27 |
 | 13 | [Imagina \(só\)](https://open.spotify.com/track/4CUcON3hrAu54f0VNV37pT) | [Quadra Azul](https://open.spotify.com/artist/5EO0oYLWR4rW4MfkKX5svf) | [Exclamações](https://open.spotify.com/album/6cbABabpmPvnIPdIQC7K7S) | 2:55 |

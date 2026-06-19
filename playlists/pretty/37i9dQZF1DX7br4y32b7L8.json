@@ -1,12 +1,12 @@
 {
   "description": "#fyp songs voor je playlist Cover: Aya Nakamura",
-  "num_followers": 49415,
+  "num_followers": 49419,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACtsmQeziSwudVG6lyTWqVj+uaCb",
+  "snapshot_id": "AAAAAKaeDWkQj09GtxibGTjawfwE5BbM",
   "tracks": [
     {
       "added_at": "2026-06-17 08:14:36",
@@ -23,6 +23,22 @@
       "duration_ms": 171720,
       "name": "Copines",
       "url": "https://open.spotify.com/track/1Bhm5HNO1cq8olDbBmokyL"
+    },
+    {
+      "added_at": "2026-06-17 08:14:36",
+      "album": {
+        "name": "Zwoele Zomernachten",
+        "url": "https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "duration_ms": 195454,
+      "name": "Zwoele Zomernachten",
+      "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"
     },
     {
       "added_at": "2026-06-17 08:14:36",
@@ -195,22 +211,6 @@
       "duration_ms": 159500,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
-    },
-    {
-      "added_at": "2026-06-17 08:14:36",
-      "album": {
-        "name": "Zwoele Zomernachten",
-        "url": "https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT"
-      },
-      "artists": [
-        {
-          "name": "Rutger van Barneveld",
-          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
-        }
-      ],
-      "duration_ms": 195454,
-      "name": "Zwoele Zomernachten",
-      "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"
     },
     {
       "added_at": "2026-06-17 08:14:36",

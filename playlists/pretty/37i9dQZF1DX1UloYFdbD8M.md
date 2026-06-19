@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,214 likes - 59 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,218 likes - 59 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

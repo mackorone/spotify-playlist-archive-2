@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Ha\u00efti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 37107,
+  "num_followers": 37113,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-05-14 04:00:06",
       "album": {
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "duration_ms": 372484,
+      "name": "Incroyable",
+      "url": "https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q"
+    },
+    {
+      "added_at": "2026-05-14 04:00:06",
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/7BJ2XJcYzTUoiw7EQtZw7Z"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 309907,
       "name": "Ralanti",
       "url": "https://open.spotify.com/track/6HIJ13H03bmXvezAonGZbu"
-    },
-    {
-      "added_at": "2026-05-14 04:00:06",
-      "album": {
-        "name": "Degaje",
-        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
-      },
-      "artists": [
-        {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
-        }
-      ],
-      "duration_ms": 372484,
-      "name": "Incroyable",
-      "url": "https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q"
     },
     {
       "added_at": "2026-05-14 04:00:06",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-05-14 04:00:06",
       "album": {
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "duration_ms": 271712,
+      "name": "Cheri Benyen M'",
+      "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
+    },
+    {
+      "added_at": "2026-05-14 04:00:06",
+      "album": {
         "name": "Time To Shine",
         "url": "https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 285346,
       "name": "Bif",
       "url": "https://open.spotify.com/track/3DzyChVBA7YeWkozAAZh2d"
-    },
-    {
-      "added_at": "2026-05-14 04:00:06",
-      "album": {
-        "name": "Degaje",
-        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
-      },
-      "artists": [
-        {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
-        }
-      ],
-      "duration_ms": 271712,
-      "name": "Cheri Benyen M'",
-      "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
     },
     {
       "added_at": "2026-05-14 04:00:06",

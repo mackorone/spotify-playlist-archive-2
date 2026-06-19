@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,606 likes - 41 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,609 likes - 41 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,6 +48,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 38 | [Coming Home, Pt\. 2](https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 2:48 |
 | 39 | [Dil Jalaney Ki Baat](https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Qais Essar](https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD) | [Revolution \(Remix\)](https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm) | 10:35 |
 | 40 | [Island No\. 3](https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ) | 17:44 |
-| 41 | [Starling](https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:05 |
+| 41 | [The Warmth of Parents' Hands](https://open.spotify.com/track/4vzzXwWj4z2CObySCtDV4h) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:41 |
 
-Snapshot ID: `ajCSAAAAAACEuLWwC67IoHu/skK6khN1`
+Snapshot ID: `ajHjgAAAAACe9BVryRB2281SjZZJaYum`

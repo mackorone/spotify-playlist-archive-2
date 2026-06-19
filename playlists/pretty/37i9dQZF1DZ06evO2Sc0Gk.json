@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21402,
+  "num_followers": 21404,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABoZjAuszj8CkUyPn5yx9yr",
+  "snapshot_id": "ajHjgAAAAAAGVUOdgvEcrvD1ZSQciUwm",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 117389,
-      "name": "No. 1 Fan",
-      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Vibe",
         "url": "https://open.spotify.com/album/0gLjyIohhJ5LxXPRJhIOtq"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 214253,
       "name": "Bad Vibe",
       "url": "https://open.spotify.com/track/70eehEqNug7oAhozjhG21t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 117389,
+      "name": "No. 1 Fan",
+      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
     },
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decline",
-        "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 188172,
-      "name": "Decline",
-      "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TEN",
         "url": "https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 206982,
       "name": "Ohema (feat. Mr Eazi)",
       "url": "https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decline",
+        "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 188172,
+      "name": "Decline",
+      "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Short Skirt",
-      "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 178106,
       "name": "Dabebi",
       "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Short Skirt",
+      "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
     },
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sample You (Remix)",
+        "url": "https://open.spotify.com/album/4NqSxpwqFC9RZU6wh9xgUE"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 213812,
+      "name": "Sample You - Remix",
+      "url": "https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
         "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 145174,
       "name": "Property",
       "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sample You (Remix)",
-        "url": "https://open.spotify.com/album/4NqSxpwqFC9RZU6wh9xgUE"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 213812,
-      "name": "Sample You - Remix",
-      "url": "https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb"
     },
     {
       "added_at": null,
@@ -963,22 +963,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sans toi",
-        "url": "https://open.spotify.com/album/2JfDgtNtA8C5cJxGmk3AWQ"
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
       "artists": [
         {
-          "name": "Hiro",
-          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 174522,
-      "name": "Sans toi",
-      "url": "https://open.spotify.com/track/6vwT9bo2J64io4l5wd1YFG"
+      "duration_ms": 195789,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ"
     },
     {
       "added_at": null,
@@ -1003,26 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/2JfDgtNtA8C5cJxGmk3AWQ"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
         },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 195789,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ"
+      "duration_ms": 174522,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/6vwT9bo2J64io4l5wd1YFG"
     },
     {
       "added_at": null,

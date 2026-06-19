@@ -757,6 +757,28 @@
     },
     {
       "album": {
+        "name": "Bisha Bisha",
+        "url": "https://open.spotify.com/album/3PjIm9nN679ENsMEkU9BmL"
+      },
+      "artists": [
+        {
+          "name": "Dr Sarah K",
+          "url": "https://open.spotify.com/artist/2hlY2NLf8yoTXrIhmxRUNm"
+        },
+        {
+          "name": "Shachah Team",
+          "url": "https://open.spotify.com/artist/6mx6zAmXuabDmkBY91jpXy"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650642,
+      "name": "Bisha Bisha",
+      "url": "https://open.spotify.com/track/3Ouvs2vyO7MevcNwdaFKj7"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0HYkPm2FuTCLiC7fCMf8JG"
       },
@@ -1112,7 +1134,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 168000,
       "name": "Fugazi",
       "url": "https://open.spotify.com/track/5B3P2y63tqqYkaTEmvhucg"
@@ -2650,7 +2672,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 179999,
       "name": "Moyo Wa Shukrani",
       "url": "https://open.spotify.com/track/2PT4W834PIHj9BMEKbzxuE"
@@ -2720,7 +2742,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 217659,
       "name": "Moyo Wangu Tulia",
       "url": "https://open.spotify.com/track/440P05rOe8Kcfqxctuzgo7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,428 likes - 82 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,476 likes - 82 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

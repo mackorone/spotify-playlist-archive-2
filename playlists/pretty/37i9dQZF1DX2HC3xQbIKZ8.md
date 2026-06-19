@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: SIX60
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,169 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,189 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 59 | [You To Me Are Everything](https://open.spotify.com/track/005t9swXJ8E2DUm6T2iXeG) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [You To Me Are Everything](https://open.spotify.com/album/3aBc1NsKCAWV3HSLdzMoEy) | 3:53 |
 | 60 | [Paradise 35](https://open.spotify.com/track/0ljIjlkoHRhuh3NtZFkq5q) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Classick J](https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq) | [Paradise 35](https://open.spotify.com/album/4dXtisZsrQGQ1HlihA9wVz) | 4:12 |
 | 61 | [Island King](https://open.spotify.com/track/6eDyCEs63asmKPLRIBL3wc) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [This Is X](https://open.spotify.com/album/1Ll3kmja01oIbbLKJkLv7t) | 3:49 |
-| 62 | [Take It Away](https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Take It Away](https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL) | 3:32 |
-| 63 | [If Tomorrow Never Comes](https://open.spotify.com/track/1ixqQJZ8vsFWuSvAJwjNDK) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Lucky Man](https://open.spotify.com/album/5IO8kfqsccFaycfAMe16ZG) | 3:50 |
+| 62 | [If Tomorrow Never Comes](https://open.spotify.com/track/1ixqQJZ8vsFWuSvAJwjNDK) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Lucky Man](https://open.spotify.com/album/5IO8kfqsccFaycfAMe16ZG) | 3:50 |
+| 63 | [Take It Away](https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Take It Away](https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL) | 3:32 |
 | 64 | [One Man Band](https://open.spotify.com/track/0FDQH6KTR00yu047uhHCfS) | [Sione Liti](https://open.spotify.com/artist/5c0jLNILQAaxBObwOUghei), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [One Man Band](https://open.spotify.com/album/3FCzAUUB9Ldz6kdrKx52OV) | 3:14 |
 | 65 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 |
-| 66 | [Higher Than the Clouds](https://open.spotify.com/track/10FYvZSZLste16zITxpQND) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:43 |
-| 67 | [That's The Way It Is](https://open.spotify.com/track/7KqpvPegNT530G3nAIfZ49) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Folau](https://open.spotify.com/artist/0jj9Os8Krjis4OFaps08Km) | [That's The Way It Is](https://open.spotify.com/album/6pbOzrWNjX71ImAKpJSlvu) | 3:51 |
-| 68 | [Roady](https://open.spotify.com/track/2qSQ3ecDCuhp3NiY6Jc8Mh) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 7:09 |
+| 66 | [That's The Way It Is](https://open.spotify.com/track/7KqpvPegNT530G3nAIfZ49) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Folau](https://open.spotify.com/artist/0jj9Os8Krjis4OFaps08Km) | [That's The Way It Is](https://open.spotify.com/album/6pbOzrWNjX71ImAKpJSlvu) | 3:51 |
+| 67 | [Roady](https://open.spotify.com/track/2qSQ3ecDCuhp3NiY6Jc8Mh) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 7:09 |
+| 68 | [Higher Than the Clouds](https://open.spotify.com/track/10FYvZSZLste16zITxpQND) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:43 |
 | 69 | [One Night Dance](https://open.spotify.com/track/4AxBpENBK3iT3uLiKTkm8D) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [One Night Dance](https://open.spotify.com/album/4ChcRmEy1d7Nq0OOEDM0hP) | 3:14 |
 | 70 | [Coming Home](https://open.spotify.com/track/1U5RZIFFdCSGC3M66Hfz7C) | [PAUA](https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD) | [Paua](https://open.spotify.com/album/53Fwh7HQpRAdnjjMFVVzj1) | 5:32 |
 | 71 | [Cutie Fasho](https://open.spotify.com/track/3PWJRzDnppOr70LF5zHbVt) | [Johnny Suite](https://open.spotify.com/artist/5CQBtjSVBWjq0y1jJrWGG9) | [Cutie Fasho](https://open.spotify.com/album/1lISBLsSGYa55AKoN5kzjk) | 3:43 |

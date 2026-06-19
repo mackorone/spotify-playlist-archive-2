@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 
 > A lazy Sunday vibe, whatever day of the week it is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,930 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,951 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 18 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:06 |
 | 19 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
 | 20 | [\(Sittin' On\) the Dock of the Bay \- Mono](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
-| 21 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
-| 22 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
+| 21 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
+| 22 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 23 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:17 |
 | 24 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 25 | [Something Inbetween](https://open.spotify.com/track/28HadeGsalBfbVfMEkCcF7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:32 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 74 | [I Choose \- From The Netflix Original Film "The Willoughbys"](https://open.spotify.com/track/13QIjo2iGBgl56mNDjJOet) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [I Choose \(From The Netflix Original Film The Willoughbys\)](https://open.spotify.com/album/6k4ugOvti66x6xvnQpYSj7) | 3:37 |
 | 75 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 |
 | 76 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 |
-| 77 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
-| 78 | [Try](https://open.spotify.com/track/1kS9d4x0ftbfq65eaBGSCT) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Folklore](https://open.spotify.com/album/0n5YYYnL8cjKL2E7fmu1lu) | 4:38 |
+| 77 | [Try](https://open.spotify.com/track/1kS9d4x0ftbfq65eaBGSCT) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Folklore](https://open.spotify.com/album/0n5YYYnL8cjKL2E7fmu1lu) | 4:38 |
+| 78 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
 | 79 | [Coming Around Again](https://open.spotify.com/track/58Ga5VQlZMnCUV6ZRqf76k) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Coming Around Again](https://open.spotify.com/album/53533bK65tCzXnCdM5itUX) | 3:39 |
 | 80 | [Midnight Train to Georgia](https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:40 |
 | 81 | [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 |

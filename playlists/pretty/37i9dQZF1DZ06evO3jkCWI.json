@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 201116,
+  "num_followers": 201158,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAADu6B4eKeHVVvwL42x1rti/",
+  "snapshot_id": "ajHjgAAAAAAjyXyB4IVvfHpG9vFM/vmO",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta El Final",
-        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 170440,
-      "name": "Puedes Irte",
-      "url": "https://open.spotify.com/track/7DXfMfBmAYQMewI2I68y8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9jate Llevar",
         "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 211706,
       "name": "En El \u00daltimo Rinc\u00f3n",
       "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta El Final",
+        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 170440,
+      "name": "Puedes Irte",
+      "url": "https://open.spotify.com/track/7DXfMfBmAYQMewI2I68y8P"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 186173,
-      "name": "Distancia Maldita",
-      "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
+      "duration_ms": 168160,
+      "name": "Vete Con El",
+      "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 168160,
-      "name": "Vete Con El",
-      "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
+      "duration_ms": 186173,
+      "name": "Distancia Maldita",
+      "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
     },
     {
       "added_at": null,

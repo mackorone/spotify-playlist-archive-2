@@ -198,7 +198,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 301403,
       "name": "A Healing Song",
       "url": "https://open.spotify.com/track/4nWzykTaCgZIOfEruzrCLv"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 182528,
       "name": "ambrosia",
       "url": "https://open.spotify.com/track/0XHWlJxP9q5AfYnSyUeiM9"
@@ -818,6 +818,24 @@
       "duration_ms": 265750,
       "name": "Balsamo",
       "url": "https://open.spotify.com/track/0nNFSkoWNaqYKTVx5V4AjE"
+    },
+    {
+      "album": {
+        "name": "Music To Watch Seeds Grow By 008: Salamanda (Basil)",
+        "url": "https://open.spotify.com/album/21Yh6bO2hOL7wqy5mZsaSs"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146791,
+      "name": "Basil's dream",
+      "url": "https://open.spotify.com/track/6jmirL4rbnzVmxdo9XITR3"
     },
     {
       "album": {
@@ -8742,7 +8760,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 234055,
       "name": "White Wall",
       "url": "https://open.spotify.com/track/1m54vFgkAORsMpRTy55QUN"

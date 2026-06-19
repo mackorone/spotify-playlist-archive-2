@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,664 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,729 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 45 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:51 |
 | 46 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 |
 | 47 | [Too Soon For Goodbye](https://open.spotify.com/track/6qRsqsnh3HrkUq0SLWvdie) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Too Soon For Goodbye](https://open.spotify.com/album/2ulEJ1F3LiQZlQ6mQFmdwv) | 3:35 |
-| 48 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
-| 49 | [She Won't Be Lonely Long](https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [She Won't Be Lonely Long](https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1) | 3:29 |
+| 48 | [She Won't Be Lonely Long](https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [She Won't Be Lonely Long](https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1) | 3:29 |
+| 49 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
 | 50 | [The Night The Lights Went Out In Georgia](https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 4:17 |
 | 51 | [Ol' Red](https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton](https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8) | 3:41 |
 | 52 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 |

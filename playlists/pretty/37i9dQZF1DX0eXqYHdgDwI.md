@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 
 > 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,613 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,626 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 45 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
 | 46 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
 | 47 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 |
-| 48 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
-| 49 | [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 |
-| 50 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 |
+| 48 | [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 |
+| 49 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 |
+| 50 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 51 | [When We Were Young](https://open.spotify.com/track/6O5TrlFWTYvznd9fMC0VvU) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:50 |
 | 52 | [Talking to the Moon](https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:37 |
 | 53 | [Be Alright](https://open.spotify.com/track/5qrSlOut2rNAWv3ubArkNy) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 3:16 |
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 72 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 |
 | 73 | [Dusk Till Dawn \(feat\. Sia\) \- Radio Edit](https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dusk Till Dawn \(feat\. Sia\) \[Radio Edit\]](https://open.spotify.com/album/5l5gR4rh26QI3fijGFTDrp) | 3:59 |
 | 74 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 |
-| 75 | [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Adriana Proenza](https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP) | [Can We Kiss Forever?](https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb) | 3:07 |
-| 76 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
+| 75 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
+| 76 | [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Adriana Proenza](https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP) | [Can We Kiss Forever?](https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb) | 3:07 |
 | 77 | [Funeral](https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:52 |
 | 78 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 |
 | 79 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:38 |
-| 80 | [CORALINE](https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 5:00 |
-| 81 | [Not About Angels](https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Not About Angels](https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER) | 3:09 |
+| 80 | [Not About Angels](https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Not About Angels](https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER) | 3:09 |
+| 81 | [CORALINE](https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 5:00 |
 | 82 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 |
 | 83 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
 | 84 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |

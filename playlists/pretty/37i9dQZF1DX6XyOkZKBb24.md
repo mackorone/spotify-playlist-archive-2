@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 
 > Snuggling in for the evening with a nice soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,142 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,143 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 21 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
 | 22 | [this is me trying](https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:15 |
 | 23 | [The Dress \(Dijon Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Olivia Dean \- Spotify Live Room](https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX) | 3:03 |
-| 24 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
-| 25 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
+| 24 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
+| 25 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
 | 26 | [Easy Does It](https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Easy Does It](https://open.spotify.com/album/2EZsexfZ6Rys7I7ZB3sxIz) | 4:07 |
 | 27 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 28 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 45 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 |
 | 46 | [The One](https://open.spotify.com/track/1Ahp4PZ1vzdbzBCedUrsqI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:17 |
 | 47 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 |
-| 48 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
-| 49 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
+| 48 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
+| 49 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
 | 50 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 |
 | 51 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
 | 52 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 66 | [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 |
 | 67 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 |
 | 68 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 |
-| 69 | [Dinner with Friends](https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 |
-| 70 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
+| 69 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
+| 70 | [Dinner with Friends](https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 |
 | 71 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 |
 | 72 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 |
 | 73 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |

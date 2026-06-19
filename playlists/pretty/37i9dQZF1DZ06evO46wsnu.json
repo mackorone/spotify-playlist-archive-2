@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 177872,
+  "num_followers": 177885,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABHVDGbRVmBwp9shqcxuBot",
+  "snapshot_id": "ajHjgAAAAAAntCy7y3NM2eiV18TNJntP",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 165173,
-      "name": "Under The Knife",
-      "url": "https://open.spotify.com/track/7ycK2uijskzxp4cGpGNoCi"
+      "duration_ms": 195120,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 195120,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe"
+      "duration_ms": 165173,
+      "name": "Under The Knife",
+      "url": "https://open.spotify.com/track/7ycK2uijskzxp4cGpGNoCi"
     },
     {
       "added_at": null,

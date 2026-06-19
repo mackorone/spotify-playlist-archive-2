@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con Maisak, Feid y Maluma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,594,028 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,593,961 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 99 | [CONTRABANDO](https://open.spotify.com/track/6Wr4xBLqAAXHrtiUghxEwL) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Cosa Nuestra: Capítulo 0](https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR) | 2:55 |
 | 100 | [NUEVA YORK](https://open.spotify.com/track/5U3sC7aA5NxoMSeI1kmO2n) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [TRINIDAD BENDITA](https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT) | 3:34 |
 
-Snapshot ID: `AAAAAPNeHDT1npht5DO9FB+h2Lt3PAYm`
+Snapshot ID: `AAAAAA0mvcvzuN+iSERq0RNL6go2saWP`

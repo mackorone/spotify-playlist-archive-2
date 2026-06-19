@@ -1,15 +1,123 @@
 {
   "description": "Catching flights and going global. Cover: Tyla and Future",
-  "num_followers": 69105,
+  "num_followers": 69122,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOYQF7P3U2autQCXhf5rlP32JEuO",
+  "snapshot_id": "AAAAAFG6JlZO8gcKmsvj//uT5aEtmtEC",
   "tracks": [
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "added_at": "2026-06-19 00:01:53",
+      "album": {
+        "name": "Jetski (FRIKI)",
+        "url": "https://open.spotify.com/album/1dXZwVsaw9SAYBrCs3QAax"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 170915,
+      "name": "Jetski (FRIKI)",
+      "url": "https://open.spotify.com/track/1bz58ig0f6mpl7S79KhvvM"
+    },
+    {
+      "added_at": "2026-06-19 00:01:53",
+      "album": {
+        "name": "BROWN (The Chocolate Edition)",
+        "url": "https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 232736,
+      "name": "Man On A Mission (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep"
+    },
+    {
+      "added_at": "2026-06-19 00:01:53",
+      "album": {
+        "name": "Game Time (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "duration_ms": 206166,
+      "name": "Game Time",
+      "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
+    },
+    {
+      "added_at": "2026-06-19 00:01:53",
+      "album": {
+        "name": "Piece of My Heart (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 259354,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
+    },
+    {
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Champion (feat. Ronaldinho Ga\u00facho & Tu Musica)",
         "url": "https://open.spotify.com/album/2WSgLz7JWbOApkctPaXOHW"
@@ -45,7 +153,7 @@
       "url": "https://open.spotify.com/track/6jXEcOaoKY3fofq7P1rtCc"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Small Chops",
         "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
@@ -65,31 +173,7 @@
       "url": "https://open.spotify.com/track/2rbD2qwsli5VKwoQq14sMX"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
-      "album": {
-        "name": "Game Time (FIFA World Cup 2026\u2122)",
-        "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "Game Time",
-      "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
-    },
-    {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
@@ -113,7 +197,31 @@
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
+      "album": {
+        "name": "TATTUU",
+        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 194734,
+      "name": "TATTUU",
+      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
+    },
+    {
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Wrong Places",
         "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
@@ -133,27 +241,7 @@
       "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
-      "album": {
-        "name": "Piece of My Heart (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 259354,
-      "name": "Piece of My Heart (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
-    },
-    {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
@@ -173,7 +261,31 @@
       "url": "https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
+      "album": {
+        "name": "Rhythm",
+        "url": "https://open.spotify.com/album/1VClpB03Mt37rl0ShE07Zf"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Kohsea",
+          "url": "https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Rhythm",
+      "url": "https://open.spotify.com/track/33a1uLQRtgOGJDU7DqNsFt"
+    },
+    {
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Goals (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/32V31xJ7RTgNQB3qyMevei"
@@ -201,7 +313,7 @@
       "url": "https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Dive In",
         "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
@@ -221,7 +333,7 @@
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "HIM",
         "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
@@ -241,7 +353,7 @@
       "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
@@ -261,7 +373,7 @@
       "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
@@ -281,7 +393,7 @@
       "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
@@ -301,7 +413,7 @@
       "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K"
@@ -325,7 +437,155 @@
       "url": "https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
+      "album": {
+        "name": "Titled Man",
+        "url": "https://open.spotify.com/album/3KKp6GcA79KnWNSCRq4lmo"
+      },
+      "artists": [
+        {
+          "name": "Crown Ape",
+          "url": "https://open.spotify.com/artist/6nnAwOJLUlSt8Jjl484R7r"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        },
+        {
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+        }
+      ],
+      "duration_ms": 218136,
+      "name": "Titled Man",
+      "url": "https://open.spotify.com/track/7bwcPyehJbv09za87ij9ox"
+    },
+    {
+      "added_at": "2026-06-19 00:01:53",
+      "album": {
+        "name": "Sensational (feat. Davido & Lojay)",
+        "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 231109,
+      "name": "Sensational (feat. Davido & Lojay)",
+      "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
+    },
+    {
+      "added_at": "2026-06-19 00:01:53",
+      "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
+    },
+    {
+      "added_at": "2026-06-19 00:01:53",
+      "album": {
+        "name": "What I Like (with Moliy, Ayetian, & Tyga)",
+        "url": "https://open.spotify.com/album/2SFaRmuiD59d9evBFmET8W"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Ayetian",
+          "url": "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 156140,
+      "name": "What I Like (with Moliy, Ayetian, & Tyga)",
+      "url": "https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB"
+    },
+    {
+      "added_at": "2026-06-19 00:01:53",
+      "album": {
+        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+    },
+    {
+      "added_at": "2026-06-19 00:01:53",
+      "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 149677,
+      "name": "Last Heartbreak Song (feat. Giveon)",
+      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
+    },
+    {
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Ballerina (with Rema, Skillibeng, & Disco Neil)",
         "url": "https://open.spotify.com/album/7Me0lVWxSy5AGNBCgcFEAZ"
@@ -357,7 +617,7 @@
       "url": "https://open.spotify.com/track/7wI4jzM1fIGoysnGJSpHZY"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "My Luv",
         "url": "https://open.spotify.com/album/35IwA8Uh2CP2TfM1siNeIe"
@@ -377,7 +637,7 @@
       "url": "https://open.spotify.com/track/35czuOzJsLpewFuH4ASuFG"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/7rybIiBcDPQ2Y4nOp8w13G"
@@ -397,7 +657,7 @@
       "url": "https://open.spotify.com/track/4me9zDEParfetwhlguxvHp"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
@@ -425,7 +685,7 @@
       "url": "https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "LIKE 2 DANCE",
         "url": "https://open.spotify.com/album/2GTXMPk9Pj6JetessgR4od"
@@ -453,7 +713,7 @@
       "url": "https://open.spotify.com/track/3cA3z4Peiv6xqkW6wrZEoR"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
@@ -473,7 +733,7 @@
       "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "What's Poppin",
         "url": "https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam"
@@ -493,7 +753,7 @@
       "url": "https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -513,7 +773,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "AM I THE DRAMA?",
         "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
@@ -533,7 +793,7 @@
       "url": "https://open.spotify.com/track/3rZpsB07jU84a0LvMTGJ8L"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Ruin",
         "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
@@ -553,7 +813,7 @@
       "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
@@ -577,7 +837,7 @@
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
@@ -597,7 +857,7 @@
       "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
@@ -617,7 +877,7 @@
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
@@ -641,31 +901,7 @@
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
-      "album": {
-        "name": "Sensational (feat. Davido & Lojay)",
-        "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 231109,
-      "name": "Sensational (feat. Davido & Lojay)",
-      "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
-    },
-    {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "BADMAN GANGSTA",
         "url": "https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01"
@@ -685,7 +921,7 @@
       "url": "https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Laho III",
         "url": "https://open.spotify.com/album/5cNmhhxoAbTfeAp541gD6i"
@@ -705,7 +941,7 @@
       "url": "https://open.spotify.com/track/6Ax7HFmxQTWfJB5Wj8o1ET"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Shake It To The Max (FLY) (Remix)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
@@ -733,7 +969,7 @@
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
@@ -757,27 +993,7 @@
       "url": "https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
-      "album": {
-        "name": "Favourite Girl",
-        "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Dess Dior",
-          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Favourite Girl",
-      "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
-    },
-    {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Muhammad Ali (Can't Relate) (Remix)",
         "url": "https://open.spotify.com/album/6KifmamRzJn1Y5OBKjTI53"
@@ -797,7 +1013,7 @@
       "url": "https://open.spotify.com/track/7aaFH6C5BKupGMB9TMOw5b"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Never Gets Late Here",
         "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
@@ -817,35 +1033,7 @@
       "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
-      "album": {
-        "name": "What I Like (with Moliy, Ayetian, & Tyga)",
-        "url": "https://open.spotify.com/album/2SFaRmuiD59d9evBFmET8W"
-      },
-      "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "Ayetian",
-          "url": "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 156140,
-      "name": "What I Like (with Moliy, Ayetian, & Tyga)",
-      "url": "https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB"
-    },
-    {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
@@ -865,7 +1053,7 @@
       "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
         "url": "https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7"
@@ -893,7 +1081,7 @@
       "url": "https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
@@ -913,7 +1101,7 @@
       "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Speed",
         "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
@@ -933,7 +1121,7 @@
       "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR"
@@ -953,7 +1141,7 @@
       "url": "https://open.spotify.com/track/4kmGiR8yUvjlf94arvTFLy"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
@@ -973,35 +1161,7 @@
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
-      "album": {
-        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
-    },
-    {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Smooth Kriminal (with Oxlade)",
         "url": "https://open.spotify.com/album/02kUmkf49XAPOWhwFF3lmt"
@@ -1021,7 +1181,7 @@
       "url": "https://open.spotify.com/track/39C3UVMIaU6XOm9iN6fhgg"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Arike (Remix)",
         "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
@@ -1045,7 +1205,7 @@
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "On The Low",
         "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
@@ -1065,7 +1225,7 @@
       "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Show Me Love (with Tyla)",
         "url": "https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti"
@@ -1089,7 +1249,7 @@
       "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Happiness (feat. Asake & Gunna)",
         "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
@@ -1113,7 +1273,7 @@
       "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Jeune prince (Part. II)",
         "url": "https://open.spotify.com/album/1zqtM2XR3DssG9U96oWckW"
@@ -1133,7 +1293,7 @@
       "url": "https://open.spotify.com/track/2QatYIewQEyyT6yvIaDv2s"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Bulletproof Disc",
         "url": "https://open.spotify.com/album/0X9zXdN9mAkszdZjsWWhKx"
@@ -1153,7 +1313,7 @@
       "url": "https://open.spotify.com/track/4foa1MtTVcTboTIigCbjJv"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Para",
         "url": "https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf"
@@ -1177,7 +1337,7 @@
       "url": "https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Fuji",
         "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
@@ -1197,7 +1357,7 @@
       "url": "https://open.spotify.com/track/4p5vOaWbhfLMdXmfHkPvEW"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Glory II (with Fridayy)",
         "url": "https://open.spotify.com/album/5KNIe8ATKowEk9Xvzo753f"
@@ -1217,7 +1377,7 @@
       "url": "https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d"
@@ -1241,7 +1401,7 @@
       "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "SWAG II",
         "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
@@ -1261,7 +1421,7 @@
       "url": "https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "More To Life",
         "url": "https://open.spotify.com/album/3DGJEL6Ccw8dDBnoRm9VHB"
@@ -1281,7 +1441,7 @@
       "url": "https://open.spotify.com/track/20KcCDUnEFSHpOADjFFxdD"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "OFA (Oxlade From Africa)",
         "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
@@ -1301,7 +1461,7 @@
       "url": "https://open.spotify.com/track/0yHnMci6HNtbL85kv2zuL1"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "So Much Sense",
         "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
@@ -1321,7 +1481,7 @@
       "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Forever (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
@@ -1341,7 +1501,7 @@
       "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
@@ -1361,7 +1521,7 @@
       "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
@@ -1381,27 +1541,7 @@
       "url": "https://open.spotify.com/track/7i4m8FybgjufzfvhO7gAKf"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
-      "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 149677,
-      "name": "Last Heartbreak Song (feat. Giveon)",
-      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
-    },
-    {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Super Woman",
         "url": "https://open.spotify.com/album/0Nqwx5p51hPWe2zQ3YGbKQ"
@@ -1421,7 +1561,7 @@
       "url": "https://open.spotify.com/track/0Vf5YS7dS9xABKnfvzGf1T"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Mwah!",
         "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
@@ -1441,7 +1581,7 @@
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "POPULAIR",
         "url": "https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj"
@@ -1465,7 +1605,7 @@
       "url": "https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "barry wonder",
         "url": "https://open.spotify.com/album/6TNtDvgFGVACXM3JUWtzRt"
@@ -1493,7 +1633,7 @@
       "url": "https://open.spotify.com/track/0v2GtheA1dmGb6ngshBkAD"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB"
@@ -1513,7 +1653,7 @@
       "url": "https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "An African",
         "url": "https://open.spotify.com/album/3Z7hDe1tt7ThkDD1ssyjH2"
@@ -1533,7 +1673,7 @@
       "url": "https://open.spotify.com/track/1jxVp3UVwaRwB4EgSAFnIf"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
@@ -1553,7 +1693,7 @@
       "url": "https://open.spotify.com/track/03gFKrwfhi6SsO66tQKULE"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "RARRI",
         "url": "https://open.spotify.com/album/6rv3Dz8xETv0F9exOfIv6C"
@@ -1577,7 +1717,7 @@
       "url": "https://open.spotify.com/track/6D2lZx4sPzNy3wPYnIgz2o"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/1MjMIfHU7Kd4qb8A77o1OB"
@@ -1597,7 +1737,7 @@
       "url": "https://open.spotify.com/track/5CZDmBKUsRgXqGxKY8zVHr"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "Sounds of the Diaspora 2",
         "url": "https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW"
@@ -1617,7 +1757,7 @@
       "url": "https://open.spotify.com/track/1bEptGcMhhn1TluieCZegQ"
     },
     {
-      "added_at": "2026-06-12 00:01:43",
+      "added_at": "2026-06-19 00:01:53",
       "album": {
         "name": "JO\u0178A",
         "url": "https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O"

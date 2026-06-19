@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1146689,
+  "num_followers": 1146855,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABW4GL0Xl+3/2J9AH28MMTy",
+  "snapshot_id": "ajHjgAAAAAD89VtN/Z2vHPsed5V7XmzL",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Palabra De To's (Seca)",
+        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 189512,
+      "name": "Si T\u00fa Me Vieras",
+      "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Est\u00e1 Doliendo",
         "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
       },
@@ -499,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabra De To's (Seca)",
-        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/5dOKgKogOiUYcDvlZxAqGl"
       },
       "artists": [
         {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 189512,
-      "name": "Si T\u00fa Me Vieras",
-      "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
+      "duration_ms": 155802,
+      "name": "Me la Avente",
+      "url": "https://open.spotify.com/track/7veuGPNny9rQDQCXWOnVwM"
     },
     {
       "added_at": null,
@@ -551,22 +567,6 @@
       "duration_ms": 177888,
       "name": "Mutuo",
       "url": "https://open.spotify.com/track/1t5mXc2275dAEBiX6gLyfv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/5dOKgKogOiUYcDvlZxAqGl"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 155802,
-      "name": "Me la Avente",
-      "url": "https://open.spotify.com/track/7veuGPNny9rQDQCXWOnVwM"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Llorar y Llorar (con Carin Leon)",
-        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 169705,
-      "name": "Llorar y Llorar - con Carin Leon",
-      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios (En Vivo)",
       "url": "https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Llorar y Llorar (con Carin Leon)",
+        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 169705,
+      "name": "Llorar y Llorar - con Carin Leon",
+      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
     },
     {
       "added_at": null,

@@ -21855,6 +21855,24 @@
     },
     {
       "album": {
+        "name": "Tu Es Tout",
+        "url": "https://open.spotify.com/album/4sM2As0l2xCulpfdU1n0xo"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181260,
+      "name": "Tu Es Tout",
+      "url": "https://open.spotify.com/track/34OVYem9gbZQwKFdOC6Hxs"
+    },
+    {
+      "album": {
         "name": "Tu Tu",
         "url": "https://open.spotify.com/album/3dw0eHvyRnuIdIp7LrkOmw"
       },

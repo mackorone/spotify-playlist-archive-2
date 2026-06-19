@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5v2J2noHVxPWgSrOw6lZsp.md) - [plain]
 
 > Salt in the air..\. Sand in my hair..\. Rooftop sunsets..\. Celebrate a perfect summer day with hours of coastal acoustic, live versions, and chill hits\. \| Image: <a href="spotify:artist:24Bq9F6DJfzTaqgmoxT5vm">Corey Harper</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,329 likes - 157 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,330 likes - 157 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/5v2J2noHVxPWgSrOw6lZsp.md) - [plain]
 | 12 | [Stolen Dance](https://open.spotify.com/track/6tXrb9kJTmgGOZqpq1powO) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/0Qt0bpaJqOxRqDy3eiGXAO) | 3:55 |
 | 13 | [Lemonade \(feat\. Mike Posner\)](https://open.spotify.com/track/6MjyB01eNCjBAXbXWDSvju) | [Adam Friedman](https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Lemonade \(feat\. Mike Posner\)](https://open.spotify.com/album/6a8Q4EzInWMxhHrpWxbuAH) | 2:52 |
 | 14 | [Rude \(Acoustic\)](https://open.spotify.com/track/7IQ7Tk8D6fFAgl6aL7u5ia) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Rude \(Acoustic\)](https://open.spotify.com/album/6mSh4sedBU4vvHLYPd2Seb) | 3:43 |
-| 15 | [Summertime Sadness \(Acoustic Cover\)](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/2jHS5LQ2tVDFJTEBnUseAX) | [Summertime Sadness \(Acoustic Cover\)](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 |
+| 15 | [Summertime Sadness \(Acoustic Cover\)](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\)](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 |
 | 16 | [Better Together](https://open.spotify.com/track/6KzL8s8GdRbd5Mal8yLz6R) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/3j7z8hX2MtfUcv6Ebfgs45) | 3:20 |
 | 17 | [Anywhere](https://open.spotify.com/track/1zxZ8lz2mJspMvRrEd9sWT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Anywhere](https://open.spotify.com/album/7sQOtKcwp36OEtA14XhoRS) | 3:36 |
 | 18 | [Little Talks](https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb) | [Julia Sheer](https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF), [Jon D](https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN) | [Little Talks](https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM) | 3:39 |

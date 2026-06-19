@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,292 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,288 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 51 | [Weightless](https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Weightless](https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8) | 3:42 |
 | 52 | [Believe Me](https://open.spotify.com/track/4K4k0W1iJmIhyuHIcHSnQH) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U) | [Believe Me](https://open.spotify.com/album/6i1Dtvr2JMEj0j2LWStl97) | 2:31 |
 | 53 | [State Of Mind](https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [State Of Mind](https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg) | 4:39 |
-| 54 | [Wanderlust](https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Wanderer](https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO) | 3:15 |
-| 55 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 |
-| 56 | [Sunrise](https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Sunrise](https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P) | 5:28 |
-| 57 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
-| 58 | [sicklysweet \- Tobiahs Remix](https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [sicklysweet \(Tobiahs Remix\)](https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh) | 2:17 |
+| 54 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 |
+| 55 | [Sunrise](https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Sunrise](https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P) | 5:28 |
+| 56 | [Wanderlust](https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Wanderer](https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO) | 3:15 |
+| 57 | [sicklysweet \- Tobiahs Remix](https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [sicklysweet \(Tobiahs Remix\)](https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh) | 2:17 |
+| 58 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
 | 59 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 |
 | 60 | [Waterfall](https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV) | [Waterfall](https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx) | 4:24 |
 | 61 | [Into Dust \(Still Falling\)](https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Into Dust \(Still Falling\)](https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0) | 5:33 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 65 | [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 |
 | 66 | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu) | 2:54 |
 | 67 | [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 |
-| 68 | [Love Language](https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Love Language](https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6) | 4:38 |
-| 69 | [A Different Path](https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Trippynova](https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx) | [A Different Path](https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL) | 2:15 |
+| 68 | [A Different Path](https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Trippynova](https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx) | [A Different Path](https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL) | 2:15 |
+| 69 | [Love Language](https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Love Language](https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6) | 4:38 |
 | 70 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 |
 
 Snapshot ID: `AAAAAE5jOq6SOWzIMx5vOvNoK2yyQq/v`

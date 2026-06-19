@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Ruel
 
-1,619 songs - 3 day 8 hr 55 min
+1,622 songs - 3 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-04-14 | 2023-04-20 |
 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-14 | 2023-05-15 |
 | [2 Tickets](https://open.spotify.com/track/6YjaHh4wHcODkm1dcwlCj7) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [2 Tickets](https://open.spotify.com/album/3WbCUUnQCxiWDCkAKpMIpF) | 2:28 | 2022-07-15 | 2022-08-27 |
-| [2000s Pop Punk Rnb](https://open.spotify.com/track/4pCaGHshtacSSPRqXSLK75) | [WHATMORE](https://open.spotify.com/artist/2y4kS2ljmS41pNDNA01P2Q) | [Still Loiteringgg / 2000s Pop Punk Rnb](https://open.spotify.com/album/1PsPAevrYEFFoOwjezQ4LF) | 2:56 | 2026-03-27 |  |
+| [2000s Pop Punk Rnb](https://open.spotify.com/track/4pCaGHshtacSSPRqXSLK75) | [WHATMORE](https://open.spotify.com/artist/2y4kS2ljmS41pNDNA01P2Q) | [Still Loiteringgg / 2000s Pop Punk Rnb](https://open.spotify.com/album/1PsPAevrYEFFoOwjezQ4LF) | 2:56 | 2026-03-27 | 2026-06-19 |
 | [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:21 | 2023-05-19 | 2023-07-29 |
 | [26](https://open.spotify.com/track/0du67LyuJeUjQChxl8rTa8) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [26](https://open.spotify.com/album/2pPSHoIampOxsEPMsah6RG) | 2:38 | 2022-01-28 | 2022-03-18 |
 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 | 2024-11-08 | 2025-01-25 |
@@ -631,6 +631,7 @@
 | [Help \(feat\. Pheelz\)](https://open.spotify.com/track/288aAe5WOx05x67lDxvuTE) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Help \(feat\. Pheelz\)](https://open.spotify.com/album/5xKdduUE9fNJW743rjCJib) | 2:43 | 2022-11-18 | 2023-02-11 |
 | [Here We Go Again](https://open.spotify.com/track/4JU8kIrU6RAOVMuZ9Nxae4) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Heaven is a place, 2024](https://open.spotify.com/album/2jFNYnS6VA7IdzQv8kiQt7) | 2:43 | 2024-08-16 | 2024-11-09 |
 | [Here’s To Us](https://open.spotify.com/track/2zpYiHY3ecQFn8V7jEd5u1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:14 | 2024-01-26 | 2024-03-09 |
+| [hesitate](https://open.spotify.com/track/6URapQSnLkHvMVs8GK4YjW) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [hesitate](https://open.spotify.com/album/7k3EZexAVg7LCkEHXVt0s2) | 2:50 | 2026-06-19 |  |
 | [Hey You!](https://open.spotify.com/track/6bTtcLpvruUeLSzH4ygsfN) | [Zerbin](https://open.spotify.com/artist/0dlr1FsAcalNnpq1q2RIoT) | [Hey You!](https://open.spotify.com/album/4z6BoHLWaY5JlmouwVlJk9) | 3:18 | 2022-04-29 | 2022-05-20 |
 | [Hi My Love](https://open.spotify.com/track/5ZHRKtrosRwOzUHv7WmyGK) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Hi My Love](https://open.spotify.com/album/5IUwyON6SEB85IblIjowCP) | 2:56 | 2026-01-16 | 2026-04-11 |
 | [Hide And Seek](https://open.spotify.com/track/6oRcj35Qy5531TgH3ZHwbT) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Hide And Seek](https://open.spotify.com/album/5aI0fru90lUJrf4RFXOYMo) | 2:51 | 2022-08-19 | 2022-10-15 |
@@ -918,6 +919,7 @@
 | [Make Me Forget](https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:05 | 2025-03-14 | 2025-05-24 |
 | [make you sick](https://open.spotify.com/track/7Ec2TmAp6LQhPP21ioIEh1) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [make you sick](https://open.spotify.com/album/59wTseGXxX8DibgCwwMzDP) | 2:01 | 2023-03-03 | 2023-06-24 |
 | [Making Diamonds](https://open.spotify.com/track/6gxb1PNLlRWs2F8QFw4lbX) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg) | [Making Diamonds](https://open.spotify.com/album/4vTpspvnRsiGe66saR77sG) | 3:20 | 2023-08-18 | 2023-09-09 |
+| [Malcolm In The Middle](https://open.spotify.com/track/6fLWI86qpzbxvAQO90tiwR) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Do That Again](https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD) | 2:38 | 2026-06-19 |  |
 | [Malibu](https://open.spotify.com/track/3b3mKCoZCKZjzO2n6M5fmy) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Malibu](https://open.spotify.com/album/2W2HMbkDditbqRjfFkUuhk) | 3:12 | 2023-05-12 | 2023-07-29 |
 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 | 2023-09-15 | 2024-02-17 |
 | [Marianne](https://open.spotify.com/track/0SE3l5jJOpGxqXqvT3fkhS) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Marianne](https://open.spotify.com/album/0ucvu4XHxscTNmujLfQTQs) | 3:10 | 2025-05-30 | 2025-07-19 |
@@ -1120,6 +1122,7 @@
 | [plz don't waste my youth](https://open.spotify.com/track/3acJw53672cWOK1kZSLM7X) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [plz don't waste my youth](https://open.spotify.com/album/3VpkorL453Wksq34OWy5Rp) | 3:03 | 2022-01-21 | 2022-03-18 |
 | [POINT](https://open.spotify.com/track/4PV5tDS3UzQMsCzkoL9r0G) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [POINT](https://open.spotify.com/album/5WE9RMc0mVpSoycGLg8cOW) | 3:26 | 2022-03-25 | 2022-05-28 |
 | [pollen](https://open.spotify.com/track/1R1wfqCACadR1Z2UWtT0Sp) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [kids](https://open.spotify.com/album/3WKJ25ELBFdV796o45ger6) | 3:18 | 2025-10-10 | 2026-02-14 |
+| [Pool Water Confessions](https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Pool Water Confessions](https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88) | 3:26 | 2026-06-19 |  |
 | [popstar](https://open.spotify.com/track/6C2xaC4vv2eRwLqcy564vw) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [popstar](https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE) | 3:08 | 2022-03-11 | 2022-06-18 |
 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 | 2026-04-17 |  |
 | [Potion](https://open.spotify.com/track/5MRvyJZtnXXTuWfEUIkSAS) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Potion](https://open.spotify.com/album/124qyryekaVBZATC3KjQHv) | 2:31 | 2022-04-29 | 2022-06-25 |

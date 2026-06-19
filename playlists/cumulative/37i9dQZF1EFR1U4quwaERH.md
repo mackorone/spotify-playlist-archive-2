@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-103 songs - 5 hr 32 min
+106 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Alien](https://open.spotify.com/track/213RLfZyGBO20wzgpgngLG) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Alien](https://open.spotify.com/album/4AV03OU3XeljPET3HW6ai5) | 3:41 | 2026-06-08 |  |
 | [Another Problem](https://open.spotify.com/track/4LtDlUC0G9gDANZX9hLWFD) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [i swear i'm fine](https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs) | 2:12 | 2025-11-07 |  |
 | [Bad Dream](https://open.spotify.com/track/22jgvbdXMcVdvu5Lc4V4yL) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON’T MESS UP MY TEMPO – The 5th Album](https://open.spotify.com/album/0aMI0Kctp6xwSnRFakNF3D) | 3:56 | 2025-11-07 |  |
+| [Better Days](https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Better Days](https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1) | 3:22 | 2026-06-18 |  |
 | [Bittersweet](https://open.spotify.com/track/2XVx3CrFPfBft2UOeNrphk) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Bittersweet](https://open.spotify.com/album/1k6BwqyMHqnUAwbpsL27G4) | 3:21 | 2025-11-07 |  |
 | [Blackberry Sap \(with Ari Lennox\)](https://open.spotify.com/track/5xpU73nutoJizKpX3TZRhS) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:29 | 2025-11-07 |  |
 | [Body Like](https://open.spotify.com/track/2KjiUXQ6LyvIEyHBeic0Pl) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 4:08 | 2025-11-07 |  |
@@ -88,6 +89,8 @@
 | [Taste](https://open.spotify.com/track/4uUih1tl2qNtucRds8RZgu) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 2:44 | 2026-02-06 |  |
 | [Tell Em](https://open.spotify.com/track/1CXLy7cfmAuxoIYcVM3wtK) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 4:40 | 2025-11-07 |  |
 | [That Ain't Gonna Work](https://open.spotify.com/track/5GMBBeXAaPginxJD3Xr6sV) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [That Ain't Gonna Work](https://open.spotify.com/album/3eMtCjoy2mC30MRLrwbMMg) | 3:08 | 2025-11-07 |  |
+| [Time](https://open.spotify.com/track/60dpMYZvPWD9tqbMthIZcV) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 2:47 | 2026-06-18 |  |
+| [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 | 2026-06-18 |  |
 | [Unconditional](https://open.spotify.com/track/7BDWXrr18XcTLAdRVNwyxK) | [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW) | [Unconditional Love \(Deluxe Edition\)](https://open.spotify.com/album/5FsbjrUkylThwjFohmcjzZ) | 3:48 | 2025-11-07 |  |
 | [Undefeated](https://open.spotify.com/track/0HY3TAkkSFpPie38DG8wiB) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Undefeated](https://open.spotify.com/album/342jT3kHiTgpV7CWV4ja9k) | 2:54 | 2025-11-07 |  |
 | [Until The End Of Summer \(feat\. Blush & Mutungi\)](https://open.spotify.com/track/56NHfqWbnWX60iQYybskqO) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Blush](https://open.spotify.com/artist/0kM8578RqYDhRJMOHVMt06), [Mutungi](https://open.spotify.com/artist/1yOaXpYr3A6jMRhHrj3MZS) | [Until The End Of Summer \(feat\. Blush & Mutungi\)](https://open.spotify.com/album/48AsdNKzSJqOGNSRICdUWP) | 2:39 | 2025-11-07 |  |

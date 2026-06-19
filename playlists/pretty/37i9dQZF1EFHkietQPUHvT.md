@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306 likes - 88 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 305 likes - 88 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 87 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 | 88 | [She's Like Me](https://open.spotify.com/track/4wJeuAI2Ed632BdC4rBN1t) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [She's Like Me](https://open.spotify.com/album/3o0l4GY2j7Jq1ZquMvmUSC) | 2:45 |
 
-Snapshot ID: `AcUfpgAAAADIxesz3/4ojLoMa7oZfqHN`
+Snapshot ID: `AcUlggAAAABbH56u7Rd9O8osoDSwzziA`

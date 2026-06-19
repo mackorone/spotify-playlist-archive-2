@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,824 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,822 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 16 | [¿Como?](https://open.spotify.com/track/2ZXgyCqFZy0zwhj8LNWIP5) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:07 |
 | 17 | [Señora](https://open.spotify.com/track/01Dd6pzfGbWcfsEM6QwZfC) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Mis 30 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL) | 4:08 |
 | 18 | [Para Describirte](https://open.spotify.com/track/7hAW6EO4Lze015qyAuFraa) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 3:20 |
-| 19 | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb) | 4:12 |
+| 19 | [Después No Hay Después](https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:18 |
 | 20 | [Tu Llegada](https://open.spotify.com/track/04oP2g6fvCpIS5jUGg4vhj) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 2:48 |
-| 21 | [Después No Hay Después](https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:18 |
+| 21 | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb) | 4:12 |
 | 22 | [El Muchacho de La Esquina](https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Muchacho de La Esquina](https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf) | 2:34 |
 | 23 | [Te Robaré Una Noche](https://open.spotify.com/track/0mFqbVgfpiDN4K56YCPuAz) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:58 |
 | 24 | [Okay](https://open.spotify.com/track/4M4vaKqUsgZ9gIDSmWWava) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 2:50 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 43 | [Voy a Echarme Otra](https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 3:38 |
 | 44 | [Contigo](https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 2:46 |
 | 45 | [Por Ti](https://open.spotify.com/track/6EoJjlaHxHGuDGYQd2xMJB) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:42 |
-| 46 | [Cinderella de Mis Noches](https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Exotic Corridos](https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY) | 2:53 |
-| 47 | [Como los Vaqueros](https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:28 |
+| 46 | [Como los Vaqueros](https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:28 |
+| 47 | [Cinderella de Mis Noches](https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Exotic Corridos](https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY) | 2:53 |
 | 48 | [Tenía Que Ser Así](https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:11 |
 | 49 | [Vivo Por Vivir](https://open.spotify.com/track/21Aj47SopRYp01kVhMtYz9) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Vivo Por Vivir](https://open.spotify.com/album/4ePyH9eyT5Bt23sIxFkNUX) | 2:48 |
 | 50 | [Si Algún Día Te Encuentro](https://open.spotify.com/track/3cXE7s1awKcJiNHp2UokBu) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:36 |
 
-Snapshot ID: `ajCSAAAAAADDR4zIdPxUXIuceRFoJmSd`
+Snapshot ID: `ajHjgAAAAADThc5Pfw7RxP40mU/xKq1Q`

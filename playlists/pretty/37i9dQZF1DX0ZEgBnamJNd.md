@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 
 > Allerbeste songs uit de 60's\. Cover: Shocking Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,862 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,875 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 26 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
 | 27 | [Venus](https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [At Home](https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ) | 3:07 |
 | 28 | [Daydream Believer](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Birds, The Bees, & The Monkees](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) | 2:59 |
-| 29 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
+| 29 | [Son Of A Preacher Man](https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis](https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2) | 2:28 |
 | 30 | [Eleanor Rigby \- Remastered 2009](https://open.spotify.com/track/5GjPQ0eI7AgmOnADn1EO6Q) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:06 |
-| 31 | [Son Of A Preacher Man](https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis](https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2) | 2:28 |
+| 31 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
 | 32 | [Put Your Head On My Shoulder](https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:34 |
 | 33 | [Hey Joe](https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:30 |
 | 34 | [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:17 |

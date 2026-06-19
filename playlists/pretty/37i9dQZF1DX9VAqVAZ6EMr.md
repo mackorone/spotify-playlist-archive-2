@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 
 > Os maiores hits do pop dos últimos tempos estão reunidos nesta playlist! Foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,113 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,220 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 | 34 | [Just Dance](https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 4:01 |
 | 35 | [Chantaje \(feat\. Maluma\)](https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 |
 | 36 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 |
-| 37 | [Somebody That I Used To Know](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye) | 4:04 |
-| 38 | [Dark Horse](https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:35 |
+| 37 | [Dark Horse](https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:35 |
+| 38 | [Somebody That I Used To Know](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye) | 4:04 |
 | 39 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
 | 40 | [Despacito](https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:49 |
 | 41 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VAqVAZ6EMr.md) - [plain]
 | 47 | [Crazy In Love \(feat\. JAY\-Z\)](https://open.spotify.com/track/0TwBtDAWpkpM3srywFVOV5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y) | 3:55 |
 | 48 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 |
 | 49 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
-| 50 | [Obsessed](https://open.spotify.com/track/5EGPf0nqO7vEIwsOX6Er98) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel \(International Version\)](https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0) | 4:02 |
-| 51 | [Judas](https://open.spotify.com/track/7F25roCtYi55JouckaayPC) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 4:09 |
+| 50 | [Judas](https://open.spotify.com/track/7F25roCtYi55JouckaayPC) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 4:09 |
+| 51 | [Obsessed](https://open.spotify.com/track/5EGPf0nqO7vEIwsOX6Er98) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel \(International Version\)](https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0) | 4:02 |
 | 52 | [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 |
 | 53 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 |
 | 54 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 |

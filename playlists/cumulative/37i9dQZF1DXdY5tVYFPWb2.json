@@ -6494,7 +6494,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 192115,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
@@ -11846,6 +11846,28 @@
       "duration_ms": 248842,
       "name": "What the Hell",
       "url": "https://open.spotify.com/track/3Sio6hsXRUhhd6Hk4W1c7Y"
+    },
+    {
+      "album": {
+        "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
+        "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "Emi Okamoto",
+          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248842,
+      "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
+      "url": "https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm"
     },
     {
       "album": {

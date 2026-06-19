@@ -2,9 +2,9 @@
 
 ### [hits de l'été 2026](https://open.spotify.com/playlist/37i9dQZF1DWYAaAF4glatK)
 
-> La BO officielle de l'été 2026 🌞 Photo : HUGEL
+> La BO officielle de l'été 2026 🌞 Photo : Ofenbach
 
-450 songs - 22 hr 38 min
+451 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2024-03-29 | 2024-07-20 |
 | [Magic In The Air](https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Magic In The Air](https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu) | 2:47 | 2025-07-10 | 2026-04-04 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-29 | 2024-03-30 |
+| [Maladie](https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI) | 3:12 | 2026-06-18 |  |
 | [Mambella](https://open.spotify.com/track/48xHszgl5GSK5nefCOiFov) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Olupellar](https://open.spotify.com/artist/09wnzgFWuf8oZHJ4BDoeMS) | [Mambella](https://open.spotify.com/album/0qZsbYAhTYHpu5y5sjF46B) | 2:51 | 2023-02-10 | 2023-05-20 |
 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 | 2024-06-27 | 2025-03-22 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-08-14 | 2025-09-12 |
@@ -405,7 +406,7 @@
 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 | 2025-07-10 | 2026-04-04 |
 | [Toko Toko](https://open.spotify.com/track/2cHQh4eyfAasH8AzkiFtJO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Cullinan](https://open.spotify.com/album/1veIu7aYgSIg5PXEEUdh8U) | 2:54 | 2022-09-07 | 2023-03-07 |
 | [Tonight \(D.I.Y.A\)](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tonight \(D.I.Y.A\)](https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF) | 3:01 | 2024-07-03 | 2024-07-30 |
-| [Tonto](https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Tonto](https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v) | 2:20 | 2026-04-03 |  |
+| [Tonto](https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Tonto](https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v) | 2:20 | 2026-04-03 | 2026-06-19 |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-08-20 | 2025-03-22 |
 | [TOUCHÉ](https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [TOUCHÉ](https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif) | 2:53 | 2025-04-17 | 2025-08-01 |
 | [Tour du monde](https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tour du monde](https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO) | 2:51 | 2025-08-07 | 2026-05-08 |

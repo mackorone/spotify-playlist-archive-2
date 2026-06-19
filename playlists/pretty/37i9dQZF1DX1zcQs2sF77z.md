@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 
 > La playlist des plus grands hits Electro & Dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,623 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,706 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 14 | [Mr\. Saxobeat \- Radio Edit](https://open.spotify.com/track/3LWDPEXEaLBRGNLbdcbwBR) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Saxobeats](https://open.spotify.com/album/5K3ZT6CPpaPXanq1lKyRuL) | 3:15 |
 | 15 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 |
 | 16 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 |
-| 17 | [Around the World \(La La La La La\)](https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB) | [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo), [Pete Konemann](https://open.spotify.com/artist/0PEfbjTw85CAN5G0lz9n3p) | [Planet Pop](https://open.spotify.com/album/2kBFECL9a71fNRXbRW5xO3) | 3:34 |
-| 18 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
+| 17 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
+| 18 | [Around the World \(La La La La La\)](https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB) | [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo), [Pete Konemann](https://open.spotify.com/artist/0PEfbjTw85CAN5G0lz9n3p) | [Planet Pop](https://open.spotify.com/album/2kBFECL9a71fNRXbRW5xO3) | 3:34 |
 | 19 | [Party Rock Anthem](https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/0D49RvtlLCKyxeDKDnBU2R) | 4:22 |
 | 20 | [Vogue](https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:17 |
 | 21 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 |

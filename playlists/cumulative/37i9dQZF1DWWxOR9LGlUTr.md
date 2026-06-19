@@ -36,7 +36,7 @@
 | [The Black Angel's Death Song](https://open.spotify.com/track/2g4LWy7YxrbWYA2RJP8nFk) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 3:12 | 2025-04-15 |  |
 | [The Electrician](https://open.spotify.com/track/1xD44zf2m2Ww06kZFRmeEc) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [Nite Flights](https://open.spotify.com/album/4lGpTlVO3AntE6meVeRDt8) | 6:04 | 2025-04-15 |  |
 | [The Orchids](https://open.spotify.com/track/00c2vsoZuubtGkLFQCdT1p) | [Psychic TV](https://open.spotify.com/artist/3oi0s3WIuxBU5oh87n7za2) | [Dreams Less Sweet](https://open.spotify.com/album/1XqqvDgFYxFu0bX9CjuW6S) | 2:57 | 2025-04-15 |  |
-| [Winter Kills](https://open.spotify.com/track/3JySPH4q2kIney2XFqTWxG) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 4:04 | 2025-04-15 |  |
+| [Winter Kills](https://open.spotify.com/track/3JySPH4q2kIney2XFqTWxG) | [Yaz](https://open.spotify.com/artist/3xZ88swJsZ6RR5eKZ83jfH) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 4:04 | 2025-04-15 |  |
 | [xanny](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:03 | 2025-04-15 |  |
 
 \*This playlist was first scraped on 2025-04-16. Prior content cannot be recovered.

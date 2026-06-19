@@ -2,9 +2,9 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> Celebrating all the songs with over a Billion streams on Spotify\. Cover: SZA
+> Celebrating all the songs with over a Billion streams on Spotify\. Cover: Camila Cabello
 
-1,398 songs - 3 day 13 hr 8 min
+1,401 songs - 3 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1030,6 +1030,7 @@
 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 | 2023-04-14 |  |
 | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2024-10-25 |  |
 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 | 2021-07-21 |  |
+| [Shameless](https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:39 | 2026-06-18 |  |
 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 | 2021-07-21 |  |
 | [She Will Be Loved](https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 4:17 | 2022-05-19 |  |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2022-11-07 |  |
@@ -1264,6 +1265,7 @@
 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 | 2021-07-21 |  |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2025-12-08 |  |
 | [Umbrella](https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:35 | 2022-11-27 |  |
+| [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 | 2026-06-18 |  |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2024-06-06 |  |
 | [Una Noche en Medellín](https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw) | 2:33 | 2025-05-13 |  |
 | [Under Pressure](https://open.spotify.com/track/1mSClObliRtgPVT399COQH) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space](https://open.spotify.com/album/0fZCqpTHYq2k89uG6pPTYE) | 4:05 | 2021-11-04 |  |
@@ -1301,6 +1303,7 @@
 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 | 2024-01-22 |  |
 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 | 2022-03-14 |  |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2025-06-11 |  |
+| [Wasted On You](https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T) | 2:58 | 2026-06-18 |  |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2025-02-19 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:53 | 2021-07-21 |  |
 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 | 2024-06-17 |  |

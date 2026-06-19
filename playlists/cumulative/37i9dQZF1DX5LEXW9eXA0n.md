@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Sung Si Kyung\(성시경\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,760 songs - 4 day 18 hr 19 min
+1,761 songs - 4 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1032,7 +1032,7 @@
 | [Not Fine](https://open.spotify.com/track/0jN5uSFOVZ3x4TKnNNsybi) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Not Fine](https://open.spotify.com/album/3QXZxmPaI5GaiLn1rfOSiW) | 4:04 | 2021-12-20 | 2022-06-30 |
 | [Not Lonely](https://open.spotify.com/track/6qxNNoaaKKshw34ZdTrVV2) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Not Lonely](https://open.spotify.com/album/1c8fuugcDBjVstYX9RcI8q) | 4:11 | 2023-11-15 | 2024-05-18 |
 | [not ours](https://open.spotify.com/track/4Mg8g6yUQSCykJKgosr2U5) | [adore](https://open.spotify.com/artist/599aVifFb724ktGNGaYRRA) | [closed eyes, daytime dreams](https://open.spotify.com/album/25iVJ5J32T4whC2NrE4VSl) | 4:25 | 2023-04-26 | 2023-09-12 |
-| [Nothing](https://open.spotify.com/track/3PQHBOfmPSGHyB1xLp3lhq) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Nothing](https://open.spotify.com/album/6j7DAfIynmWgv96E1DeTDC) | 4:22 | 2026-02-23 |  |
+| [Nothing](https://open.spotify.com/track/3PQHBOfmPSGHyB1xLp3lhq) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Nothing](https://open.spotify.com/album/6j7DAfIynmWgv96E1DeTDC) | 4:22 | 2026-02-23 | 2026-06-19 |
 | [Nothing Between Us](https://open.spotify.com/track/4ChffXjuDTe82Gau2xzgiN) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Nothing Between Us](https://open.spotify.com/album/4HUe5YyRU0HUGV4ZY2w2Ib) | 3:27 | 2026-04-20 |  |
 | [Nothing Between Us](https://open.spotify.com/track/7KbMO2Hk5u34XkLJzenQ0P) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Nothing Between Us](https://open.spotify.com/album/3hbUZ75XswpL7LjJ5iyUWX) | 3:17 | 2022-02-17 | 2022-06-24 |
 | [Nothing Ever](https://open.spotify.com/track/3e33rlL7TVHv1FuEYOqF2l) | [Kim Yuna](https://open.spotify.com/artist/74UiZwRnkEE56JLvKhNGCB) | [Nothing Ever](https://open.spotify.com/album/19Y5qOTPrSCgQodWk6pReq) | 3:30 | 2024-03-27 | 2024-08-01 |
@@ -1459,6 +1459,7 @@
 | [Timeless Love](https://open.spotify.com/track/4sNSygvDQZ6DBiEylNd1tI) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:21 | 2023-09-13 | 2023-11-03 |
 | [Timing](https://open.spotify.com/track/6XqsQdaD86eKPnk6ZrAg8n) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Timing \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 2\)](https://open.spotify.com/album/51AO2oaMFDOuZ4jRlQXGzn) | 2:53 | 2023-11-15 | 2024-05-01 |
 | [To Heaven](https://open.spotify.com/track/0vM5yk8jnpixgoBMwe20We) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [To Heaven](https://open.spotify.com/album/3kxrviY2jiSE5phAfudAvJ) | 3:47 | 2024-10-16 | 2025-03-05 |
+| [To Love Again](https://open.spotify.com/track/5sTOcu58iOIXvklF960Zwp) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [To Love Again](https://open.spotify.com/album/6VqT2uAjrXm4NO2xI17P7K) | 3:13 | 2026-06-18 |  |
 | [To Me](https://open.spotify.com/track/6eLNBIUwf81FxFHekvd8Gu) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [To Me](https://open.spotify.com/album/4W5GjsG10XacO0WE6ckZaH) | 3:51 | 2022-08-01 | 2022-12-27 |
 | [To my distant friend](https://open.spotify.com/track/0YLE9JIvYDeM2Rkg6Mt5dy) | [Kang Jin Ah](https://open.spotify.com/artist/0ZWE1SWTPqm0AlsIm1jm4f) | [To my distant friend](https://open.spotify.com/album/5oHwfhmnT1lYYltG18qEJ0) | 4:35 | 2024-09-17 | 2024-12-12 |
 | [To My Friends](https://open.spotify.com/track/0AXqXz5kX5HzWsydXnbFsx) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [To My Friends](https://open.spotify.com/album/0Bc4VvFhNY6lxWJyeeCFCE) | 3:46 | 2022-02-23 | 2022-04-20 |

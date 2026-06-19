@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,999 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,034 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 35 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 36 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 |
 | 37 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 |
-| 38 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
-| 39 | [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 |
+| 38 | [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 |
+| 39 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
 | 40 | [Sweet Disposition](https://open.spotify.com/track/16mWm9eOeEeUQku9OLp29t) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/4LTW34gTQI9N3f5zq6uMV2) | 3:56 |
 | 41 | [Islands](https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:40 |
 | 42 | [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 76 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 |
 | 77 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
 | 78 | [Plans](https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Birds Of Tokyo](https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI) | 3:38 |
-| 79 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
-| 80 | [Forever Young](https://open.spotify.com/track/0rdEIRgDyH03nwzk7cbbh2) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/0t4OvGh2M7gJ8asnTwughI) | 3:58 |
+| 79 | [Forever Young](https://open.spotify.com/track/0rdEIRgDyH03nwzk7cbbh2) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/0t4OvGh2M7gJ8asnTwughI) | 3:58 |
+| 80 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
 
 Snapshot ID: `AAAAANnS7n5+QpfuC2GlC62JAi9dbTgk`

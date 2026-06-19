@@ -2,9 +2,9 @@
 
 ### [Afropop](https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l)
 
-> The hottest Afropop records on the planet\.  Cover: Ayra Starr
+> The hottest Afropop records on the planet\.  Cover: Yemi Alade & Bien
 
-803 songs - 1 day 16 hr 37 min
+805 songs - 1 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2021-09-27 | 2022-03-25 |
 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 | 2023-05-26 | 2024-01-26 |
 | [DOINGZ](https://open.spotify.com/track/6RNP84XyE9eemCgWPVRni8) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA: Deluxe Edition](https://open.spotify.com/album/5aV20I9N3dU2XvgBt6YaVB) | 2:41 | 2025-04-04 | 2025-06-20 |
+| [Don't Be Shy](https://open.spotify.com/track/3b58L7SFWVkp0fvmMJSbZa) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Don't Be Shy](https://open.spotify.com/album/1OWIwMVfsWicPlB58jooSc) | 2:50 | 2026-06-19 |  |
 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 | 2023-10-27 | 2024-04-19 |
 | [Don't Leave](https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 3:05 | 2024-04-12 | 2024-06-28 |
 | [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 | 2026-02-06 | 2026-04-24 |
@@ -356,6 +357,7 @@
 | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Urban Chords](https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK) | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW) | 2:29 | 2025-11-28 |  |
 | [Intentions \- A COLORS SHOW](https://open.spotify.com/track/2WjrHkkWin6RphSIQEGKLn) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Intentions \- A COLORS SHOW](https://open.spotify.com/album/66ruPBwsVjlLrWwmiOS5o9) | 1:48 | 2025-07-04 | 2025-07-18 |
 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-13 | 2023-12-15 |
+| [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 | 2026-06-19 |  |
 | [Iskolodo](https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:36 | 2026-01-23 | 2026-05-19 |
 | [Isn't It Beautiful](https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Isn't It Beautiful](https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK) | 2:36 | 2026-04-17 | 2026-06-12 |
 | [It Is What It Is](https://open.spotify.com/track/1Gm3jwEy0cx0souTcRGEby) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [It Is What It Is](https://open.spotify.com/album/0iQ6qfTr8QTT2w05C7CmuV) | 2:54 | 2021-09-27 | 2022-03-04 |
@@ -802,7 +804,7 @@
 | [YAHWEH](https://open.spotify.com/track/4KfFubXepl2rdjPXH2oNNi) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:45 | 2023-03-02 | 2023-04-09 |
 | [YAWA](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [YAWA](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 | 2023-06-22 | 2024-04-20 |
 | [Yazoee](https://open.spotify.com/track/7go3M2likVy1B21NC0XJA1) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Yazoee](https://open.spotify.com/album/6Lc9nilYGt0nnZKRPhXwsa) | 3:09 | 2026-05-08 | 2026-05-29 |
-| [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 | 2024-07-05 |  |
+| [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 | 2024-07-05 | 2026-06-19 |
 | [Yimmy Yimmy](https://open.spotify.com/track/4dvfxZKehPxpz3UZ7A5Fni) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Jacqueline Fernandez](https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6) | [Yimmy Yimmy](https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC) | 3:31 | 2024-03-08 | 2025-06-06 |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-09-30 |
 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 | 2025-08-08 |  |

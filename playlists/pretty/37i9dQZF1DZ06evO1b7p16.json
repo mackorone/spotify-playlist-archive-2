@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 41117,
+  "num_followers": 41119,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAD5ChnHj+niFo70DhABisko",
+  "snapshot_id": "ajHjgAAAAAA3iySDDcgWOowmmMyAv82i",
   "tracks": [
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+        "name": "Victory Style, Vol. 5",
+        "url": "https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 213533,
-      "name": "New Again",
-      "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
+      "duration_ms": 232066,
+      "name": "The Ballad Of Sal Villanueva",
+      "url": "https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Style, Vol. 5",
-        "url": "https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "The Ballad Of Sal Villanueva",
-      "url": "https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
@@ -588,9 +572,25 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 231173,
-      "name": "Summer, Man",
-      "url": "https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2"
+      "duration_ms": 213533,
+      "name": "New Again",
+      "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 191583,
+      "name": "Beat Up Car",
+      "url": "https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happiness Is",
-        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 191583,
-      "name": "Beat Up Car",
-      "url": "https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn"
+      "duration_ms": 231173,
+      "name": "Summer, Man",
+      "url": "https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2"
     },
     {
       "added_at": null,

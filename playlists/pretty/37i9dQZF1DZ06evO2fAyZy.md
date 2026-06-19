@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,619 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,618 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 26 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
 | 27 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 |
 | 28 | [the other girl \(with Halsey\)](https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:21 |
-| 29 | [The Revisionist](https://open.spotify.com/track/39AXVnlYE1a5n4ktDDf1kM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC) | 2:52 |
-| 30 | [Interlude \(Full Length\)](https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:19 |
+| 29 | [Interlude \(Full Length\)](https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:19 |
+| 30 | [The Revisionist](https://open.spotify.com/track/39AXVnlYE1a5n4ktDDf1kM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC) | 2:52 |
 | 31 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 |
 | 32 | [I Hate Love Songs](https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:11 |
 | 33 | [This Time Last Year](https://open.spotify.com/track/4spDTrYXQbHgjwi3Wcxbzk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:41 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 42 | [Put It To Bed](https://open.spotify.com/track/4IF2gmlUAAyapNnNfCl4Dt) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:47 |
 | 43 | [WAIT!](https://open.spotify.com/track/3kIgoto0T2mhZXOcRNNo7F) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:02 |
 | 44 | [First Time Again](https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [They Don't Know](https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L) | 3:24 |
-| 45 | [needy](https://open.spotify.com/track/1pF52VPPTgPeBzOjg3PyjH) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:11 |
-| 46 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 |
+| 45 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 |
+| 46 | [needy](https://open.spotify.com/track/1pF52VPPTgPeBzOjg3PyjH) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:11 |
 | 47 | [I Would, Would You](https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS](https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0) | 2:52 |
 | 48 | [Cut Me Up](https://open.spotify.com/track/2gtvnLKo4m3fLAFyHPl7eU) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:35 |
 | 49 | [Just Married](https://open.spotify.com/track/0rSwks1AwRZG3OhnUZ4g0E) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 3:18 |
 | 50 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 |
 
-Snapshot ID: `ajCSAAAAAABzc6J2gYHXsmrcWFwd8wE2`
+Snapshot ID: `ajHjgAAAAABwWrgxJoTMi2vDS5UzVweu`

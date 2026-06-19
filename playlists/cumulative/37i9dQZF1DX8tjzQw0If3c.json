@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Introducing RADAR Singapore & Malaysia Class of 2026. Cover: quiet morning",
+  "description": "Introducing RADAR Singapore & Malaysia Class of 2026. Cover: Alpha",
   "name": "RADAR SG & MY",
   "tracks": [
     {
@@ -2135,6 +2135,28 @@
     },
     {
       "album": {
+        "name": "The First Wave",
+        "url": "https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU"
+      },
+      "artists": [
+        {
+          "name": "Alpha",
+          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
+        },
+        {
+          "name": "Daiyan Trisha",
+          "url": "https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185753,
+      "name": "Haru Biru",
+      "url": "https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy"
+    },
+    {
+      "album": {
         "name": "HASTE",
         "url": "https://open.spotify.com/album/3dpBjcmALy8faXQ28ikOPK"
       },
@@ -2840,10 +2862,28 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 212000,
       "name": "Lagu Healing Kita",
       "url": "https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd"
+    },
+    {
+      "album": {
+        "name": "Lagu Healing Kita (Live At Padang B Dataran Shah Alam, 2026)",
+        "url": "https://open.spotify.com/album/6yZ9s6ceabGracinevOJxi"
+      },
+      "artists": [
+        {
+          "name": "Intan Maya",
+          "url": "https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218509,
+      "name": "Lagu Healing Kita (Live At Padang B Dataran Shah Alam, 2026)",
+      "url": "https://open.spotify.com/track/04LdgbXouZb5MIkgnhwNTI"
     },
     {
       "album": {
@@ -3354,6 +3394,24 @@
       "duration_ms": 179541,
       "name": "MADELINE",
       "url": "https://open.spotify.com/track/3D824LVyFynyKdvMBgEYHe"
+    },
+    {
+      "album": {
+        "name": "The First Wave",
+        "url": "https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU"
+      },
+      "artists": [
+        {
+          "name": "Alpha",
+          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256990,
+      "name": "Mahkota Cinta",
+      "url": "https://open.spotify.com/track/7bIJHmQrQxTrmuCwB3PL5U"
     },
     {
       "album": {

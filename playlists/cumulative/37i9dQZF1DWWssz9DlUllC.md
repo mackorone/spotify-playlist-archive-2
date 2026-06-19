@@ -2,7 +2,7 @@
 
 ### [afro\-piano](https://open.spotify.com/playlist/37i9dQZF1DWWssz9DlUllC)
 
-> Where afrobeats meets amapiano.<br/>Cover:  Tiwa Savage
+> Where afrobeats meets amapiano.<br/>Cover:  Balloranking
 
 187 songs - 9 hr 9 min
 

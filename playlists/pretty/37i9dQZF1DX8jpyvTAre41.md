@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Slow Pulp
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,293 likes - 126 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,282 likes - 126 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

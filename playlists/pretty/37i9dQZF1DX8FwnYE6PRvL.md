@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 
 > The ultimate rock party playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,770,768 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,770,846 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 | 8 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:16 |
 | 9 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
 | 10 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 |
-| 11 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 |
-| 12 | [Rollin' \(Air Raid Vehicle\)](https://open.spotify.com/track/3IV4swNduIRunHREK80owz) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 3:33 |
+| 11 | [Rollin' \(Air Raid Vehicle\)](https://open.spotify.com/track/3IV4swNduIRunHREK80owz) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 3:33 |
+| 12 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 |
 | 13 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
 | 14 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 |
 | 15 | [Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:35 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 | 46 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
 | 47 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 |
 | 48 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 |
-| 49 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
-| 50 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 |
+| 49 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 |
+| 50 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
 | 51 | [Jerk It Out](https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Love For The Streets](https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal) | 3:15 |
 | 52 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
 | 53 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |

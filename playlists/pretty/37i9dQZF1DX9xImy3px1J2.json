@@ -1,6 +1,6 @@
 {
   "description": "L'unica party playlist di cui hai bisogno, sempre aggiornata \ud83c\udf7e Top hit italiane e internazionali! ",
-  "num_followers": 342578,
+  "num_followers": 342596,
   "original_name": "Party 2026",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,26 @@
     {
       "added_at": "2026-04-06 10:29:12",
       "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2026-04-06 10:29:12",
+      "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
-    },
-    {
-      "added_at": "2026-04-06 10:29:12",
-      "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
       "added_at": "2026-04-06 10:29:12",
@@ -299,6 +299,30 @@
     {
       "added_at": "2026-04-06 10:29:12",
       "album": {
+        "name": "Come Into My Life (The Album)",
+        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        },
+        {
+          "name": "Molella",
+          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
+        },
+        {
+          "name": "Phil Jay",
+          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
+        }
+      ],
+      "duration_ms": 213394,
+      "name": "Freed From Desire",
+      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
+    },
+    {
+      "added_at": "2026-04-06 10:29:12",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -327,30 +351,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2026-04-06 10:29:12",
-      "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        },
-        {
-          "name": "Molella",
-          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
-        },
-        {
-          "name": "Phil Jay",
-          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
-        }
-      ],
-      "duration_ms": 213394,
-      "name": "Freed From Desire",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2026-04-06 10:29:12",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2026-04-06 10:29:12",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF"
-      },
-      "artists": [
-        {
-          "name": "Samurai Jay",
-          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
-        },
-        {
-          "name": "Vito Salamanca",
-          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
-        }
-      ],
-      "duration_ms": 137952,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e"
-    },
-    {
-      "added_at": "2026-04-06 10:29:12",
-      "album": {
         "name": "Iko Iko (My Bestie)",
         "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 182857,
       "name": "Iko Iko (My Bestie)",
       "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
+    },
+    {
+      "added_at": "2026-04-06 10:29:12",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "Vito Salamanca",
+          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
+        }
+      ],
+      "duration_ms": 137952,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e"
     },
     {
       "added_at": "2026-04-06 10:29:12",
@@ -1643,22 +1643,18 @@
     {
       "added_at": "2026-04-06 10:29:12",
       "album": {
-        "name": "Giant (with Rag'n'Bone Man)",
-        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
         }
       ],
-      "duration_ms": 229184,
-      "name": "Giant (with Rag'n'Bone Man)",
-      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
+      "duration_ms": 190487,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
     },
     {
       "added_at": "2026-04-06 10:29:12",
@@ -1691,18 +1687,22 @@
     {
       "added_at": "2026-04-06 10:29:12",
       "album": {
-        "name": "Lovefool",
-        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
+        "name": "Giant (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
       },
       "artists": [
         {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
         }
       ],
-      "duration_ms": 190487,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
+      "duration_ms": 229184,
+      "name": "Giant (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
     },
     {
       "added_at": "2026-04-06 10:29:12",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-04-06 10:29:12",
       "album": {
-        "name": "D\u00c9SOL\u00c9E",
-        "url": "https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "D\u00c9SOL\u00c9E",
-      "url": "https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS"
-    },
-    {
-      "added_at": "2026-04-06 10:29:12",
-      "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "added_at": "2026-04-06 10:29:12",
+      "album": {
+        "name": "D\u00c9SOL\u00c9E",
+        "url": "https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "D\u00c9SOL\u00c9E",
+      "url": "https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS"
     },
     {
       "added_at": "2026-04-06 10:29:12",

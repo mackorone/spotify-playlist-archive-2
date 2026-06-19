@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,513 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,523 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 12 | [Terrenal](https://open.spotify.com/track/64o66yfYs63e64sNqMKNJO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 3:13 |
 | 13 | [Embrujado](https://open.spotify.com/track/1E3xwQsPnBdDe2XBn6hQha) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Embrujado \- Single](https://open.spotify.com/album/18ncEHNMcIJd4tBScFZrYo) | 2:53 |
 | 14 | [Tú, Yo Y La Luna](https://open.spotify.com/track/37Pq9KiFf4jMkIXXra7Jbt) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 2:32 |
-| 15 | [Al Diablo Con Tu Amistad](https://open.spotify.com/track/59TFy9HsGcmkqnaHnEiTYl) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 2:40 |
+| 15 | [Nadie Es De Nadie](https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:00 |
 | 16 | [Cuando Era Niño](https://open.spotify.com/track/60W9QkfdZKM7bCRg41K0q2) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 3:23 |
-| 17 | [Nadie Es De Nadie](https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:00 |
+| 17 | [Al Diablo Con Tu Amistad](https://open.spotify.com/track/59TFy9HsGcmkqnaHnEiTYl) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 2:40 |
 | 18 | [Amarla Es Un Placer](https://open.spotify.com/track/1ScJFneDCKEgFFcq4rsMt1) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 2:46 |
-| 19 | [Sí Te Llamé](https://open.spotify.com/track/0jSpFvnSfDN76zDtxXg4mW) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 3:38 |
+| 19 | [El Paletero](https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Rancheras Consentidas](https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH) | 3:15 |
 | 20 | [Apártame Esta Noche](https://open.spotify.com/track/3NE4YdED8j6h0x5HNzqYsQ) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 3:23 |
-| 21 | [El Paletero](https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Rancheras Consentidas](https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH) | 3:15 |
+| 21 | [Sí Te Llamé](https://open.spotify.com/track/0jSpFvnSfDN76zDtxXg4mW) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 3:38 |
 | 22 | [Ladrona](https://open.spotify.com/track/5owfn8hOqJpbMkQxTJTYWw) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 2:54 |
 | 23 | [Esa Muchacha Me Gusta](https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 2:56 |
 | 24 | [Quisiera Ser Un Mago](https://open.spotify.com/track/0u4zq0V8sImdJD3vfX1KUs) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Quisiera Ser Un Mago](https://open.spotify.com/album/4A5Nj0jfBvn0U69gbSizWC) | 2:57 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 40 | [Le Dire Que Me Gusta](https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [Frank Velasquez](https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:11 |
 | 41 | [Te Extraño](https://open.spotify.com/track/4NJtRhRFKjodwYKFBa2NRc) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:18 |
 | 42 | [Esa Fue Mi Novia](https://open.spotify.com/track/7F8UOpgxbJKTMvh3RbjKDZ) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [20 Grandes Éxitos](https://open.spotify.com/album/4tD1SR6Fo2x3YAymzTFBCF) | 2:27 |
-| 43 | [Bendito Amor](https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:26 |
+| 43 | [Sea Lo Que Sea](https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:18 |
 | 44 | [Mayor de Edad \(Banda\)](https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:25 |
 | 45 | [De Cristal O De Papel](https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:10 |
 | 46 | [Contigo Me Gusta](https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 3:06 |
-| 47 | [Sea Lo Que Sea](https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:18 |
-| 48 | [Besos Tatuados](https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Besos Tatuados](https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I) | 3:08 |
-| 49 | [SALVAJE \- Version Banda](https://open.spotify.com/track/0xbu0O1zk8PQtwGcn8uaUn) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [SALVAJE \(Version Banda\)](https://open.spotify.com/album/3AopnzNECmuubbTV1cNMEa) | 2:58 |
+| 47 | [Bendito Amor](https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:26 |
+| 48 | [SALVAJE \- Version Banda](https://open.spotify.com/track/0xbu0O1zk8PQtwGcn8uaUn) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [SALVAJE \(Version Banda\)](https://open.spotify.com/album/3AopnzNECmuubbTV1cNMEa) | 2:58 |
+| 49 | [Besos Tatuados](https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Besos Tatuados](https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I) | 3:08 |
 | 50 | [Cristaleros Michoacanos \- Banda](https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corridos Ke Mandan](https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8) | 2:42 |
 
-Snapshot ID: `ajCSAAAAAABCB1Vs34vkUuF9bbtJOGDK`
+Snapshot ID: `ajHjgAAAAAAc5gZbK5dvX+nl3oIedSRe`

@@ -1,6 +1,6 @@
 {
   "description": "Parque Sim\u00f3n Bol\u00edvar, Marzo 20, 21 y 22.",
-  "num_followers": 45666,
+  "num_followers": 45663,
   "original_name": "Festival Est\u00e9reo Picnic 2026",
   "owner": {
     "name": "Spotify",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-02-05 20:53:46",
       "album": {
-        "name": "Dios y La Mata de Lulo o \u00bfQu\u00e9 hacer en caso de que haya perdido la luz?",
-        "url": "https://open.spotify.com/album/568P4ZZ4SiNTFiigsiTI2A"
-      },
-      "artists": [
-        {
-          "name": "Nicol\u00e1s y los Fumadores",
-          "url": "https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh"
-        }
-      ],
-      "duration_ms": 237939,
-      "name": "El T\u00fanel",
-      "url": "https://open.spotify.com/track/5Th66m2GLWVgsVb8pvcR3W"
-    },
-    {
-      "added_at": "2026-02-05 20:53:46",
-      "album": {
         "name": "Sosiego enla voz",
         "url": "https://open.spotify.com/album/6Rg95q6m55BBgYL8ULrIf8"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 123237,
       "name": "Sosiego enla voz",
       "url": "https://open.spotify.com/track/30uKVQ8hm5lPKqn2hou9sJ"
+    },
+    {
+      "added_at": "2026-02-05 20:53:46",
+      "album": {
+        "name": "Dios y La Mata de Lulo o \u00bfQu\u00e9 hacer en caso de que haya perdido la luz?",
+        "url": "https://open.spotify.com/album/568P4ZZ4SiNTFiigsiTI2A"
+      },
+      "artists": [
+        {
+          "name": "Nicol\u00e1s y los Fumadores",
+          "url": "https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh"
+        }
+      ],
+      "duration_ms": 237939,
+      "name": "El T\u00fanel",
+      "url": "https://open.spotify.com/track/5Th66m2GLWVgsVb8pvcR3W"
     },
     {
       "added_at": "2026-02-05 20:53:46",

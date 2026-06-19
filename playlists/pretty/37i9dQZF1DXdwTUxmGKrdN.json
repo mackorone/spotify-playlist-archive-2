@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 459368,
+  "num_followers": 459387,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Still Lovin' You",
-      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 246237,
       "name": "Let It Shine",
       "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
+      },
+      "artists": [
+        {
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Still Lovin' You",
+      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "G-Stream",
+        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 260265,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Soulmate",
         "url": "https://open.spotify.com/album/3gPvkf0kcggPPcxqXKYmvd"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 245000,
       "name": "Swing City",
       "url": "https://open.spotify.com/track/5MsQwkEceGOA8v9nrc5BnK"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "G-Stream",
-        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 260265,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 257933,
-      "name": "Say What's on Your Mind",
-      "url": "https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "The Gift Psychobass2",
         "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
       },
@@ -911,6 +895,38 @@
       "duration_ms": 299626,
       "name": "The B Spot",
       "url": "https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "Say What's on Your Mind",
+      "url": "https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bradley",
+          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
+        }
+      ],
+      "duration_ms": 272342,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -963,18 +979,18 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
       },
       "artists": [
         {
-          "name": "Patrick Bradley",
-          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
         }
       ],
-      "duration_ms": 272342,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
+      "duration_ms": 294500,
+      "name": "Sweet Kisses",
+      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -995,22 +1011,6 @@
       "duration_ms": 280280,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/2vBjecyzspx6GsoL3FU6mF"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "Sweet Kisses",
-      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/5qAM5T1dtZgsbjRJeknBiB"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 269981,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1rhgEbGtMVOARoVGssCQDr"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Lip Service",
-      "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Out Of The Shadows",
+        "url": "https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf"
+      },
+      "artists": [
+        {
+          "name": "Spur Of The Moment",
+          "url": "https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe"
+        }
+      ],
+      "duration_ms": 281413,
+      "name": "In Key",
+      "url": "https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Velvet Groove",
         "url": "https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 237029,
       "name": "Velvet Groove",
       "url": "https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Out Of The Shadows",
-        "url": "https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf"
-      },
-      "artists": [
-        {
-          "name": "Spur Of The Moment",
-          "url": "https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe"
-        }
-      ],
-      "duration_ms": 281413,
-      "name": "In Key",
-      "url": "https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Shine!",
-        "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
-      },
-      "artists": [
-        {
-          "name": "Ben Tankard",
-          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Soulfood Sunday",
-      "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "A Day In The Life",
         "url": "https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 264600,
       "name": "Only 4 One Moment",
       "url": "https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Shine!",
+        "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
+      },
+      "artists": [
+        {
+          "name": "Ben Tankard",
+          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Soulfood Sunday",
+      "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
     },
     {
       "added_at": "2026-01-14 10:46:11",

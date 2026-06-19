@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Q\u00b4Lokura, Lauta & Amigo de Artistas",
-  "num_followers": 821051,
+  "num_followers": 821103,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -94,6 +94,10 @@
         {
           "name": "Q' Lokura",
           "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Renzo Luca",
+          "url": "https://open.spotify.com/artist/3qJn7VaFAHdWmm9IpZaHEc"
         }
       ],
       "duration_ms": 158684,
@@ -727,42 +731,6 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Quisiera que esta noche (En Vivo)",
-        "url": "https://open.spotify.com/album/5l3EyOH5X3F51PwvJQEMB3"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 175745,
-      "name": "Quisiera que esta noche - En Vivo",
-      "url": "https://open.spotify.com/track/0hGGy0Lw6EABqURYlgZRlx"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
-        "name": "Cuarteto Caracter\u00edstico (A2000)",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Fuego y Pasion",
-      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/1RM6dC0PwIo5rI06yfMZ5b"
       },
@@ -787,6 +755,42 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
+        "name": "Cuarteto Caracter\u00edstico (A2000)",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Fuego y Pasion",
+      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
+        "name": "Quisiera que esta noche (En Vivo)",
+        "url": "https://open.spotify.com/album/5l3EyOH5X3F51PwvJQEMB3"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 175745,
+      "name": "Quisiera que esta noche - En Vivo",
+      "url": "https://open.spotify.com/track/0hGGy0Lw6EABqURYlgZRlx"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
         "name": "Si No Es Muy Tarde - Versi\u00f3n Cuarteto (En Vivo)",
         "url": "https://open.spotify.com/album/57h1QBTv4UCjBz6uhf7BYE"
       },
@@ -803,6 +807,26 @@
       "duration_ms": 223225,
       "name": "Si No Es Muy Tarde - Versi\u00f3n Cuarteto - En Vivo",
       "url": "https://open.spotify.com/track/2CA90OaChbXSogYGJJsfcr"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/15FN3Y2aTgjTnsTxsNWwWj"
+      },
+      "artists": [
+        {
+          "name": "Fede Mestre",
+          "url": "https://open.spotify.com/artist/4kQCav3BRXxbuyGjxQDIy9"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "duration_ms": 150092,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/1jG6XJkyLl0TlmD0xoyheI"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -827,22 +851,6 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Imag\u00ednate (En Vivo)",
-        "url": "https://open.spotify.com/album/0d2hnjRggNyqLk4Y7l8Fsb"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 153809,
-      "name": "Imag\u00ednate - En Vivo",
-      "url": "https://open.spotify.com/track/4MpquRs20zncElQWfdMXpw"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
         "name": "Cuarteto Caracter\u00edstico (A2000)",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -859,22 +867,18 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Quiero Decirte",
-        "url": "https://open.spotify.com/album/15FN3Y2aTgjTnsTxsNWwWj"
+        "name": "Imag\u00ednate (En Vivo)",
+        "url": "https://open.spotify.com/album/0d2hnjRggNyqLk4Y7l8Fsb"
       },
       "artists": [
         {
-          "name": "Fede Mestre",
-          "url": "https://open.spotify.com/artist/4kQCav3BRXxbuyGjxQDIy9"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
         }
       ],
-      "duration_ms": 150092,
-      "name": "Quiero Decirte",
-      "url": "https://open.spotify.com/track/1jG6XJkyLl0TlmD0xoyheI"
+      "duration_ms": 153809,
+      "name": "Imag\u00ednate - En Vivo",
+      "url": "https://open.spotify.com/track/4MpquRs20zncElQWfdMXpw"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -1471,22 +1475,18 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Que vamos a hacer",
-        "url": "https://open.spotify.com/album/0l96oWIf9OqaJI7EhsEoRR"
+        "name": "Hasta Que Me Olvides",
+        "url": "https://open.spotify.com/album/42Krexxg6tMxOepX9Dnoej"
       },
       "artists": [
         {
-          "name": "Luz Paisio",
-          "url": "https://open.spotify.com/artist/3RBOf9VqNrYHqaUbUuLG6C"
-        },
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+          "name": "El Vecino",
+          "url": "https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt"
         }
       ],
-      "duration_ms": 176554,
-      "name": "Que vamos a hacer",
-      "url": "https://open.spotify.com/track/0RoDskw52POnJ1fobpMCXU"
+      "duration_ms": 218722,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/4MtuoIRFMZeKOeVGxDUR8O"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -1515,18 +1515,22 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Hasta Que Me Olvides",
-        "url": "https://open.spotify.com/album/42Krexxg6tMxOepX9Dnoej"
+        "name": "Que vamos a hacer",
+        "url": "https://open.spotify.com/album/0l96oWIf9OqaJI7EhsEoRR"
       },
       "artists": [
         {
-          "name": "El Vecino",
-          "url": "https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt"
+          "name": "Luz Paisio",
+          "url": "https://open.spotify.com/artist/3RBOf9VqNrYHqaUbUuLG6C"
+        },
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
         }
       ],
-      "duration_ms": 218722,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/4MtuoIRFMZeKOeVGxDUR8O"
+      "duration_ms": 176554,
+      "name": "Que vamos a hacer",
+      "url": "https://open.spotify.com/track/0RoDskw52POnJ1fobpMCXU"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -1691,26 +1695,22 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "No Cambi\u00e9",
-        "url": "https://open.spotify.com/album/5WSf0tR685VljhMi3uJGux"
+        "name": "Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW"
       },
       "artists": [
         {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
         },
         {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 184782,
-      "name": "No Cambi\u00e9",
-      "url": "https://open.spotify.com/track/7aXdVp1XeibjbKj679y9pX"
+      "duration_ms": 159215,
+      "name": "Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -1731,22 +1731,26 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW"
+        "name": "No Cambi\u00e9",
+        "url": "https://open.spotify.com/album/5WSf0tR685VljhMi3uJGux"
       },
       "artists": [
         {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         },
         {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
         }
       ],
-      "duration_ms": 159215,
-      "name": "Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C"
+      "duration_ms": 184782,
+      "name": "No Cambi\u00e9",
+      "url": "https://open.spotify.com/track/7aXdVp1XeibjbKj679y9pX"
     },
     {
       "added_at": "2026-05-29 20:56:30",

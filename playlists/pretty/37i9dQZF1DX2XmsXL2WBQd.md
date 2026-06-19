@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,378 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,448 likes - 70 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 57 | [The Gas Face](https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc), [Zev Love](https://open.spotify.com/artist/6ZsabzDRDqFRj6DCRvYRDx) | [Best Of 3rd Bass](https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc) | 3:49 |
 | 58 | [Strong Island](https://open.spotify.com/track/4gL6J18mb93kNay5kuAUFR) | [JVC Force](https://open.spotify.com/artist/2HtbGWgFbeFudyoFwc2wHw) | [Doin' Damage](https://open.spotify.com/album/2A8MPW996QbdYK3CNDmcwK) | 5:59 |
 | 59 | [Cold Gettin' Dumb](https://open.spotify.com/track/5hGsUZIjiBZq4QRtjdulKB) | [Just\-Ice](https://open.spotify.com/artist/4o2YVQGcx3e2L4c95B3ZcU) | [Back to the Old School](https://open.spotify.com/album/2Ld5FTT4I7MtnvhzbAR8Yc) | 4:32 |
-| 60 | [Get into It](https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp) | [Tony Scott](https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO) | [The Chief](https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa) | 3:17 |
-| 61 | [I'll Take Your Man](https://open.spotify.com/track/1o19erG7MurnvFf76zsX41) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 5:08 |
-| 62 | [Subway Theme](https://open.spotify.com/track/2vBOLn9BBERbEPIeXwn4HQ) | [Grand Wizard Theodore](https://open.spotify.com/artist/2zrfhl1NJWRE8SbDu4ekfI) | [Wild Style \(Original Motion Picture Soundtrack \- 25th Anniversary Edition\)](https://open.spotify.com/album/2e1cehaMUqiMtNp5S4fSUJ) | 2:53 |
+| 60 | [I'll Take Your Man](https://open.spotify.com/track/1o19erG7MurnvFf76zsX41) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 5:08 |
+| 61 | [Subway Theme](https://open.spotify.com/track/2vBOLn9BBERbEPIeXwn4HQ) | [Grand Wizard Theodore](https://open.spotify.com/artist/2zrfhl1NJWRE8SbDu4ekfI) | [Wild Style \(Original Motion Picture Soundtrack \- 25th Anniversary Edition\)](https://open.spotify.com/album/2e1cehaMUqiMtNp5S4fSUJ) | 2:53 |
+| 62 | [Get into It](https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp) | [Tony Scott](https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO) | [The Chief](https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa) | 3:17 |
 | 63 | [I Can't Live Without My Radio](https://open.spotify.com/track/1Yit1yv3n5f44TTevE4xxl) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 5:27 |
 | 64 | [Beat Bop \- Edit](https://open.spotify.com/track/7vvuBvw121GTG6JH9IMDaS) | [Rammellzee](https://open.spotify.com/artist/2XH1sDAtO4ZqslKGfQynr3), [K\-Rob](https://open.spotify.com/artist/7eya8MYxqJhn7kB4EQet5o) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 6:10 |
 | 65 | [Going Way Back](https://open.spotify.com/track/0BXKyFXlqi7s2qC7Jvr1Um) | [Just\-Ice](https://open.spotify.com/artist/4o2YVQGcx3e2L4c95B3ZcU), [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Sir Vicious: The Best of Just\-Ice](https://open.spotify.com/album/400dfNwNSiUjJoNlxVIEeS) | 5:03 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 67 | [Boyz\-N\-The\-Hood](https://open.spotify.com/track/4SZ3B3y1TbwTK4OIXMOVEy) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [The Best Of N.W.A: The Strength Of Street Knowledge](https://open.spotify.com/album/1RcZMUVcZrMxf1shgPN4o0) | 5:36 |
 | 68 | [Planet Rock](https://open.spotify.com/track/3uy0jtkM8QYVTsBazkli1x) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Planet Rock](https://open.spotify.com/album/1uN3SzldnRO8CrsVN0lh2O) | 5:19 |
 | 69 | [Straight Outta Compton](https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd) | 4:18 |
-| 70 | [Brass Monkey](https://open.spotify.com/track/6MzdzJ4hkHJWROmUzED9yP) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/5izHWBylmEjk1yTVPAYJWj) | 2:37 |
+| 70 | [The Message \- Extended Version](https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [The Message \(Expanded Edition\)](https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC) | 7:10 |
 
 Snapshot ID: `AAAAAGa68wvcaNwxyujliDFb+IzUeXSU`

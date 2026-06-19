@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 17 | [Marcel and the Prince](https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Marcel and the Prince](https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl) | 3:27 |
 | 18 | [Sequoia](https://open.spotify.com/track/6VPhuhPsapwZIU2EP6QceW) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 4:36 |
 | 19 | [ShaqFu](https://open.spotify.com/track/5jJ2Lsh5vBNASoKtzE9Rtp) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:25 |
-| 20 | [Violet](https://open.spotify.com/track/2vf8GGzKCRtvjyz0MVL5S1) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:12 |
+| 20 | [Albert Suffers](https://open.spotify.com/track/7JesfTaIawT1Uib0zuvwta) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:06 |
 | 21 | [The Luck You Had](https://open.spotify.com/track/2j4oiDGeldw98B8kf8VWKY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 4:24 |
 | 22 | [Then People Forget](https://open.spotify.com/track/3brIRujiNsAw7xXNJt9V9I) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:31 |
-| 23 | [Albert Suffers](https://open.spotify.com/track/7JesfTaIawT1Uib0zuvwta) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:06 |
+| 23 | [Violet](https://open.spotify.com/track/2vf8GGzKCRtvjyz0MVL5S1) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:12 |
 
-Snapshot ID: `ajCSAAAAAADhtLV1fbZM9XgSpq0HGZkp`
+Snapshot ID: `ajHjgAAAAAB/KxhRIAECTts/jj8ux8Ao`

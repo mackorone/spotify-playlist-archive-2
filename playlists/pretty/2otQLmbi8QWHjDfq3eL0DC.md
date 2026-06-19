@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > Dance Hits that define the future! Get ready for fresh House, Tech House &amp; Disco House grooves\. Featuring new tracks from David Guetta, Fred again.., Dom Dolla, and LF System\. High\-energy party anthems &amp; uplifting vibes\. Updated Weekly! Like &amp; Save for your ultimate 2026 House playlist!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,312,728 likes - 100 songs - 5 hr 5 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,312,733 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,317 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270,283 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 8 | [POP DAT THANG](https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [POP DAT THANG](https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d) | 2:18 |
 | 9 | [Ya Dig](https://open.spotify.com/track/2A94GZ5pVHLPcZuhx8cMbm) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Ya Dig](https://open.spotify.com/album/5Yr7duqfOQ7PFqTYqb119j) | 2:53 |
 | 10 | [Everywhere I Go](https://open.spotify.com/track/34m26K64fX2OtUVov3z1Ej) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB) | [Everywhere I Go](https://open.spotify.com/album/3qyi9MmblYr0QrX6gi6TVv) | 1:27 |
-| 11 | [I Like… \(feat\. BunnaB\)](https://open.spotify.com/track/22xawiL0Rn6KeWI7jZ1h1H) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Destined For Greatness](https://open.spotify.com/album/6qaLQcxVwjY0S7daZ3Qm1B) | 2:24 |
+| 11 | [I Like… \(feat\. BunnaB\)](https://open.spotify.com/track/22xawiL0Rn6KeWI7jZ1h1H) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Destined For Greatness](https://open.spotify.com/album/6qaLQcxVwjY0S7daZ3Qm1B) | 2:22 |
 | 12 | [Move \(feat\. G Thugg\)](https://open.spotify.com/track/3p5s3c8vx7TY8mIUfDIaDh) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [G Thugg](https://open.spotify.com/artist/07gfosp4umnedbY4PmP8KG) | [Kodak The Blessing](https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M) | 4:25 |
 | 13 | [Smaxk Or Die \(feat\. Playboi Carti\)](https://open.spotify.com/track/37PWu4Av27EVfKwx2UVJA1) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Smaxk Or Die \(feat\. Playboi Carti\)](https://open.spotify.com/album/0X1jRt7ic4faNgXBHPD7L7) | 2:05 |
 | 14 | [Water](https://open.spotify.com/track/0NRjs5XncJ8oAosU85EdG8) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Water](https://open.spotify.com/album/2zM4efpzYYCpldnfbt69o3) | 2:23 |

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-807 songs - 2 day 21 hr 32 min
+808 songs - 2 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [church](https://open.spotify.com/track/37g9awMmmDKm9g1Ri7nNEQ) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [church](https://open.spotify.com/album/7HkSrxNTM8YG3g5eCubsDV) | 2:52 | 2025-09-12 | 2025-10-03 |
 | [Classic Jesus](https://open.spotify.com/track/523Bo9a3mFwUTxMAhuGeit) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Classic Jesus](https://open.spotify.com/album/25DWj5hOuaAXjPWO5VTXC8) | 2:43 | 2025-06-27 | 2025-08-03 |
 | [Closer](https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Closer](https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3) | 2:13 | 2026-03-20 | 2026-05-12 |
-| [Come See a Man](https://open.spotify.com/track/02rmA1PgtjLvj28lEbkcK5) | [Jordan Praise](https://open.spotify.com/artist/7fG249hsXVMxhDYXtCfPzr) | [Come See a Man](https://open.spotify.com/album/6xtNEEeVRgDwkEbUnXNsZH) | 4:12 | 2026-05-22 |  |
+| [Come See a Man](https://open.spotify.com/track/02rmA1PgtjLvj28lEbkcK5) | [Jordan Praise](https://open.spotify.com/artist/7fG249hsXVMxhDYXtCfPzr) | [Come See a Man](https://open.spotify.com/album/6xtNEEeVRgDwkEbUnXNsZH) | 4:12 | 2026-05-22 | 2026-06-19 |
 | [Comforter](https://open.spotify.com/track/3EX5x2fUpczvsg2U65E8Fe) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Comforter](https://open.spotify.com/album/7gHCoqTQze2noRt7RUt4wx) | 3:00 | 2025-05-30 | 2025-06-27 |
 | [Comma](https://open.spotify.com/track/3R2NzmOCiMWyKM4v2KSyXz) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Comma](https://open.spotify.com/album/16YlnmkAdcfpt3NQPhr1J3) | 3:10 | 2025-05-30 | 2025-06-20 |
 | [Commando](https://open.spotify.com/track/72cRQRzXJLUM3Rbf1vyxtz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Commando](https://open.spotify.com/album/20pJmzUPNbycWcja0hdpmr) | 3:31 | 2023-12-01 | 2024-03-16 |
@@ -412,6 +412,7 @@
 | [Jugular Jugular](https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Jugular Jugular](https://open.spotify.com/album/4fRHMcvU4cAsebcPGqOPxn) | 4:35 | 2025-08-29 |  |
 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 | 2024-03-29 | 2025-06-06 |
 | [Karamin Haske](https://open.spotify.com/track/5VeXbNPYuhvoWQYMFZtix7) | [Moses Eze](https://open.spotify.com/artist/4S4H6Q2AjmqM9tEIeFRbMm) | [Karamin Haske](https://open.spotify.com/album/3qbjUn1047WuW54oehNbBM) | 3:33 | 2025-07-11 | 2025-07-22 |
+| [Kaunar Allah](https://open.spotify.com/track/6Yu4gwqfUEIwHhK5JRIG5P) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Kaunar Allah](https://open.spotify.com/album/7cRvo8ih8ElRx3psSHbk2Y) | 3:18 | 2026-06-12 |  |
 | [Ke Nale Modisa \- Remix](https://open.spotify.com/track/1sTIGlXxkxnnIAwpoWktEK) | [Duduza Serenade](https://open.spotify.com/artist/4TgyqHirthyfGBduIaUXwI), [Hamilton Motloung](https://open.spotify.com/artist/0dmAn6BG8K1a7EI5bvPTZs), [Black Gee](https://open.spotify.com/artist/7mdB1RJv9PBUBzRSud0iUL), [Thabiso Mkhwanazi](https://open.spotify.com/artist/3NvxLxwAXqhHp0bsbXMU6U) | [Ke Nale Modisa \(Remix\)](https://open.spotify.com/album/15M8iluF41uCswp7efYdYj) | 5:24 | 2025-10-24 | 2025-12-06 |
 | [Kele Jehovah](https://open.spotify.com/track/05NQGVJqDquur7S2UsrxG5) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [BETHEL](https://open.spotify.com/album/50MpjTelBNmWQ1UDB40RIv) | 2:11 | 2025-03-07 | 2025-05-09 |
 | [Kelee Chineke](https://open.spotify.com/track/6ptnzaxcyKNHb33Uk6DYX8) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Kelee Chineke](https://open.spotify.com/album/7LigltsueKJziItb4AwZwx) | 5:32 | 2025-11-14 |  |

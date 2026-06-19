@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > The country that made country cool\. Cover: George Strait
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,220,596 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,221,108 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 125 | [Drink, Swear, Steal & Lie](https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA) | [Michael Peterson](https://open.spotify.com/artist/5SOL8Hz0JUmgBWHggBQ5Kz) | [Michael Peterson](https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC) | 3:02 |
 | 126 | [My Maria](https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Borderline](https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL) | 3:30 |
 | 127 | [No One Else On Earth](https://open.spotify.com/track/6Ek2xNsKHwkuYBqvzj20rl) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Wynonna](https://open.spotify.com/album/1Z3psPyYFp0pUA1MupFbLi) | 4:00 |
-| 128 | [How Your Love Makes Me Feel](https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Greatest Hits](https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX) | 4:05 |
-| 129 | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Garth Brooks](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7) | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz) | 2:35 |
+| 128 | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Garth Brooks](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7) | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz) | 2:35 |
+| 129 | [How Your Love Makes Me Feel](https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Greatest Hits](https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX) | 4:05 |
 | 130 | [Except for Monday](https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Something In Red](https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq) | 2:56 |
 | 131 | [Whenever You Come Around](https://open.spotify.com/track/3PHLZ5wmtyZha1pp2405OT) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When Love Finds You](https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB) | 4:19 |
 | 132 | [That's My Story](https://open.spotify.com/track/2dKRyO4cUumqbIXxLkdkoq) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [Extremes](https://open.spotify.com/album/49YkFIWw93Fow8H394Ilfo) | 3:02 |

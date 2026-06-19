@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 
 > fully accepting melting alive 🫠
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,959 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,938 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 52 | [Sorry](https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:41 |
 | 53 | [Just The Way You Are \- David Guetta Remix](https://open.spotify.com/track/5980rUQH7tLVv78lk4EIDU) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Just The Way You Are \(David Guetta Remix\)](https://open.spotify.com/album/1ds3s1EQxP4MPLvX5CxXSw) | 3:01 |
 | 54 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
-| 55 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 |
-| 56 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
+| 55 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
+| 56 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 |
 | 57 | [Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 58 | [Girl's Girl \- Girls Trip](https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:15 |
 | 59 | [Need For Speed](https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Need For Speed](https://open.spotify.com/album/6SBOaYOprgqWNIMA5vN22n) | 3:15 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 70 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 |
 | 71 | [What's Done Is Done](https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk) | 2:53 |
 | 72 | [Kill V\. Maim](https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:06 |
-| 73 | [Trinkets](https://open.spotify.com/track/2tXATCm2ukxtkaWvKAhE91) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 1:56 |
-| 74 | [Sports car](https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:45 |
+| 73 | [Sports car](https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:45 |
+| 74 | [Trinkets](https://open.spotify.com/track/2tXATCm2ukxtkaWvKAhE91) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 1:56 |
 | 75 | [Puss Puss \- Girls Trip](https://open.spotify.com/track/2nYpEIZbqk9Pj3UCXbwtpM) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:05 |
 | 76 | [It Gets So Hot](https://open.spotify.com/track/7gaAXsjeXLtaRJPm1QvdKA) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 2:41 |
 | 77 | [Low Rise Jeans](https://open.spotify.com/track/7ajWF4MJHmswvijYEsFGZs) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Low Rise Jeans](https://open.spotify.com/album/6aS09iHBjpTatkojX4xdPY) | 3:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUK9FmHZruQ.md) - [plain]
 
 > Sit back, relax, and let these chill tunes calm you down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,242,423 likes - 55 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,242,253 likes - 55 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUK9FmHZruQ.md) - [plain]
 | 22 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 |
 | 23 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 24 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
-| 25 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
-| 26 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
+| 25 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
+| 26 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 27 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
 | 28 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 29 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUK9FmHZruQ.md) - [plain]
 | 44 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
 | 45 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 46 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 |
-| 47 | [Dance With Me](https://open.spotify.com/track/1myZ6GQewhAzMH2dKtKSWK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:39 |
-| 48 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 |
+| 47 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 |
+| 48 | [Dance With Me](https://open.spotify.com/track/1myZ6GQewhAzMH2dKtKSWK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:39 |
 | 49 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 | 50 | [Staying](https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 2:31 |
-| 51 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
-| 52 | [We Hug Now](https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh) | 4:08 |
+| 51 | [We Hug Now](https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh) | 4:08 |
+| 52 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 53 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 |
 | 54 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 |
 | 55 | [Beautiful \(feat\. Camila Cabello\)](https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Beautiful \(feat\. Camila Cabello\)](https://open.spotify.com/album/6hCR3zQtRH0IgookOYt771) | 3:00 |

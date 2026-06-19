@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Ambre\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec marguerite\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 143919,
       "name": "5 SUR NOUS",
       "url": "https://open.spotify.com/track/3UXwpgatg0RkOD4uAZUrGW"
+    },
+    {
+      "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/70VAZhpIzSSxBbUvd4rBS5"
+      },
+      "artists": [
+        {
+          "name": "melissa",
+          "url": "https://open.spotify.com/artist/77pC16FFzTR8m9sK49Miba"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171832,
+      "name": "555",
+      "url": "https://open.spotify.com/track/0gZNCtf9iAER7s6Dg61CLS"
     },
     {
       "album": {
@@ -676,7 +694,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 205337,
       "name": "Bonjour docteur",
       "url": "https://open.spotify.com/track/5DCa18LuNfuTRwW78k4ocS"
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170221,
       "name": "Conduire",
       "url": "https://open.spotify.com/track/1jhvR9vk43uqt5n4XTCTfN"
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 164911,
       "name": "Crash",
       "url": "https://open.spotify.com/track/02IIarJdHe8u4n0XcOEzHN"
@@ -1926,6 +1944,24 @@
       "duration_ms": 193826,
       "name": "Dix",
       "url": "https://open.spotify.com/track/73R9ZxRE69JEMiYGHMHFPz"
+    },
+    {
+      "album": {
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/5TvxAsfOCZqJwcbeZ5HnOu"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189419,
+      "name": "DJ",
+      "url": "https://open.spotify.com/track/0ZFNx84bKLoCb2jx8FN2Az"
     },
     {
       "album": {
@@ -2933,6 +2969,28 @@
     },
     {
       "album": {
+        "name": "Il n'y a que toi (There's Only You)",
+        "url": "https://open.spotify.com/album/0SDoAXpB2gvyvLLLQvRzZP"
+      },
+      "artists": [
+        {
+          "name": "Charlie Boisseau",
+          "url": "https://open.spotify.com/artist/3LXVL2L6r29aSz9s3MK5aP"
+        },
+        {
+          "name": "Tisha Tolentino",
+          "url": "https://open.spotify.com/artist/44ZVyuDGvL2ZfC0zYTWvdq"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173586,
+      "name": "Il n'y a que toi (There's Only You)",
+      "url": "https://open.spotify.com/track/52Td6TZ1X4nYNWepqYA8Fi"
+    },
+    {
+      "album": {
         "name": "Il suffit d'une chanson",
         "url": "https://open.spotify.com/album/1wb0xY0W1qJjl4wOqgtztH"
       },
@@ -3552,7 +3610,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 165000,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/7fRTjRTHXx2NeDsU6V0585"
@@ -3592,6 +3650,28 @@
       "duration_ms": 165435,
       "name": "Jusqu'\u00e0 l'Os",
       "url": "https://open.spotify.com/track/6pfEffhUGyMoeFbw2ETRbV"
+    },
+    {
+      "album": {
+        "name": "Juste un peu",
+        "url": "https://open.spotify.com/album/7A3ec7fkFbwyH6jyjPatCJ"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "EMMA",
+          "url": "https://open.spotify.com/artist/0p6woNDdqjwgcl4uLuCX4V"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154805,
+      "name": "Juste un peu",
+      "url": "https://open.spotify.com/track/7vNKvKNraI2IAooZMMiBzZ"
     },
     {
       "album": {
@@ -3758,7 +3838,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 166127,
       "name": "L'amour \u00e7a se donne",
       "url": "https://open.spotify.com/track/1PvhUPOjMlmbcRKFmHastU"
@@ -5471,6 +5551,24 @@
     },
     {
       "album": {
+        "name": "Mes r\u00eaves",
+        "url": "https://open.spotify.com/album/47nVVOontKxtMO4019hbrm"
+      },
+      "artists": [
+        {
+          "name": "Ulysse",
+          "url": "https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175105,
+      "name": "Mes r\u00eaves",
+      "url": "https://open.spotify.com/track/1N3lcqkZFTcVPSz0hs1lNe"
+    },
+    {
+      "album": {
         "name": "Mieux que moi",
         "url": "https://open.spotify.com/album/0wmbdzWNDa5OCDoZySEhO8"
       },
@@ -6713,6 +6811,24 @@
     },
     {
       "album": {
+        "name": "Pleurer en dansant",
+        "url": "https://open.spotify.com/album/0WYQgUq0o57dPJIgPYtkuS"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210013,
+      "name": "Pleurer en dansant",
+      "url": "https://open.spotify.com/track/1TXTfBITlGjV3iObZitZs2"
+    },
+    {
+      "album": {
         "name": "Plus L'Time (Stereo Love)",
         "url": "https://open.spotify.com/album/09DH6CFGrS9EPoxv4Vi3ea"
       },
@@ -7014,7 +7130,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 210461,
       "name": "Princesse de la nuit",
       "url": "https://open.spotify.com/track/75qwPX1KWjKBA6oMN4msvO"
@@ -7848,7 +7964,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 173538,
       "name": "Si demain",
       "url": "https://open.spotify.com/track/31WGWqkDwSns46RDfvBJ0C"
@@ -8695,6 +8811,28 @@
     },
     {
       "album": {
+        "name": "Tout pour toi",
+        "url": "https://open.spotify.com/album/1CqSrchd9eXoY4gHHMOYdP"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        },
+        {
+          "name": "Elisa Palmire",
+          "url": "https://open.spotify.com/artist/3lq3wPMNtvu25QrtFqhluu"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176711,
+      "name": "Tout pour toi",
+      "url": "https://open.spotify.com/track/0HLGxzEdvtskPHP0H9PPvv"
+    },
+    {
+      "album": {
         "name": "Hyper Lorie (Vol. 2)",
         "url": "https://open.spotify.com/album/3DekfUe0VqOZvdjinQLPLL"
       },
@@ -8764,7 +8902,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 201240,
       "name": "Trop Tard",
       "url": "https://open.spotify.com/track/0OJpglHVxyokxVB7VBmVIk"
@@ -8934,6 +9072,28 @@
       "duration_ms": 135612,
       "name": "Un jour de plus",
       "url": "https://open.spotify.com/track/37703MsdzYjoG8SqnbVKDg"
+    },
+    {
+      "album": {
+        "name": "Un peu plus pr\u00e8s du bonheur",
+        "url": "https://open.spotify.com/album/3lg0s1zaCmvIfeOpNkOiok"
+      },
+      "artists": [
+        {
+          "name": "Alien",
+          "url": "https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS"
+        },
+        {
+          "name": "Carla De Coignac",
+          "url": "https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143124,
+      "name": "Un peu plus pr\u00e8s du bonheur",
+      "url": "https://open.spotify.com/track/7FFpNzZiT1GtrsAWXoesGX"
     },
     {
       "album": {

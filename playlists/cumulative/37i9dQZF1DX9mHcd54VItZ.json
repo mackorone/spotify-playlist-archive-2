@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Tree63",
+  "description": "The best new and classic South African Rock. Cover: Aiden Kade",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 224626,
       "name": "Afrikaners Is Plesierig",
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Before You Disappear",
+        "url": "https://open.spotify.com/album/0gPgCrgYK8KeTPogzoccHA"
+      },
+      "artists": [
+        {
+          "name": "Ruben Gerritz",
+          "url": "https://open.spotify.com/artist/4IXnbn0VJQ42ybbNRa4MB0"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Before You Disappear",
+      "url": "https://open.spotify.com/track/495cjydvmEw3WdH4K8LJJz"
+    },
+    {
+      "album": {
         "name": "Begin Van Die Einde",
         "url": "https://open.spotify.com/album/2BYTNrN2Ct1XkjTtriuqSa"
       },
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 255722,
       "name": "Berge",
       "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
@@ -1392,6 +1410,24 @@
       "duration_ms": 175058,
       "name": "BICTH",
       "url": "https://open.spotify.com/track/1ivBvkDuFbWdHZ62c5Bayy"
+    },
+    {
+      "album": {
+        "name": "Bid",
+        "url": "https://open.spotify.com/album/2SDovA2Eia8alPxEf2KmaD"
+      },
+      "artists": [
+        {
+          "name": "Tasch\u00e9",
+          "url": "https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179646,
+      "name": "Bid",
+      "url": "https://open.spotify.com/track/3ukaWRNUa3ABSHLgDvUD5d"
     },
     {
       "album": {
@@ -1984,7 +2020,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 253457,
       "name": "Boy in the Frame",
       "url": "https://open.spotify.com/track/4LYMXloxM3stOTtnmd2ju0"
@@ -3180,6 +3216,24 @@
       "duration_ms": 172760,
       "name": "CUPID",
       "url": "https://open.spotify.com/track/5JOQ7Gasb2n4pGPBskx2xl"
+    },
+    {
+      "album": {
+        "name": "Dad Bod",
+        "url": "https://open.spotify.com/album/7wdzfSmcenLrF7RfwosQVA"
+      },
+      "artists": [
+        {
+          "name": "Erin Elliot",
+          "url": "https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "Dad Bod",
+      "url": "https://open.spotify.com/track/00YyqyBVyILKFBp1abjNpo"
     },
     {
       "album": {
@@ -6007,6 +6061,24 @@
     },
     {
       "album": {
+        "name": "Gly Mamma Gly",
+        "url": "https://open.spotify.com/album/18kY4ZnCCsjjF4PCVGkaGj"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Gly Mamma Gly",
+      "url": "https://open.spotify.com/track/6zxQcCztB1zyMvdWedQEZL"
+    },
+    {
+      "album": {
         "name": "Gods Gift",
         "url": "https://open.spotify.com/album/2gQmIomnl7SgDVZyvqxMBi"
       },
@@ -7087,6 +7159,24 @@
     },
     {
       "album": {
+        "name": "Hoor Jy My",
+        "url": "https://open.spotify.com/album/4WdILOXbYWNnkgSmPAXH5K"
+      },
+      "artists": [
+        {
+          "name": "Aidan Kade",
+          "url": "https://open.spotify.com/artist/5qkCpTcIZDqRxqoJCI0Lgr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Hoor Jy My",
+      "url": "https://open.spotify.com/track/2Z1HkHOEYU9Z8wlpcmWrK4"
+    },
+    {
+      "album": {
         "name": "Horison",
         "url": "https://open.spotify.com/album/4F6VkaQ8rveCiC7evrzhV7"
       },
@@ -7611,6 +7701,24 @@
     },
     {
       "album": {
+        "name": "In 'n Oogwink",
+        "url": "https://open.spotify.com/album/5Lr36zGdJ3Rvmm4flWHVtC"
+      },
+      "artists": [
+        {
+          "name": "Heyns",
+          "url": "https://open.spotify.com/artist/0qpZTMaJzegwAYpevBcGuD"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180014,
+      "name": "In 'n Oogwink",
+      "url": "https://open.spotify.com/track/2H3AZxoQuD3F1F49SlSVsU"
+    },
+    {
+      "album": {
         "name": "Braambos Radio",
         "url": "https://open.spotify.com/album/7DUqi6xcyUDNkdCS4gvKal"
       },
@@ -7903,6 +8011,24 @@
     },
     {
       "album": {
+        "name": "Nagskof In Die Kerkhof",
+        "url": "https://open.spotify.com/album/11Q5LZNajZWVtehViyPSY0"
+      },
+      "artists": [
+        {
+          "name": "Frans Karoo",
+          "url": "https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Jongman",
+      "url": "https://open.spotify.com/track/1HOSTMEAxEOUX4kp1AOBVd"
+    },
+    {
+      "album": {
         "name": "Jonk",
         "url": "https://open.spotify.com/album/5RgkJKG63Na296u6IVvVjP"
       },
@@ -7968,7 +8094,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 194142,
       "name": "Jou Tyd Is Nou",
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
@@ -8220,7 +8346,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 225483,
       "name": "Kenia",
       "url": "https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK"
@@ -9184,7 +9310,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 243720,
       "name": "Lonely-lonely",
       "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
@@ -11763,6 +11889,24 @@
     },
     {
       "album": {
+        "name": "Polaritieit",
+        "url": "https://open.spotify.com/album/0OLJtStD7x9bHh9EhaJlM8"
+      },
+      "artists": [
+        {
+          "name": "Rudi Kleingeld",
+          "url": "https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190435,
+      "name": "Polaritieit",
+      "url": "https://open.spotify.com/track/6EsdoFyfcf3OLZBnQgmvoA"
+    },
+    {
+      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/6GzNoRUMrHXaYJkmKZVKLG"
       },
@@ -12520,7 +12664,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 163000,
       "name": "Ry",
       "url": "https://open.spotify.com/track/7Anno9ubrX11HdYN3n6VMC"
@@ -14584,7 +14728,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 162500,
       "name": "Tan Halen",
       "url": "https://open.spotify.com/track/1BdhJNgQrr1JiHGgUJcl8d"
@@ -15619,6 +15763,24 @@
     },
     {
       "album": {
+        "name": "Starring",
+        "url": "https://open.spotify.com/album/4aOweR9nOEUCI30g6xYKQI"
+      },
+      "artists": [
+        {
+          "name": "Keanan Eksteen",
+          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/75oTJxEoLGIfMrJN6tsrg0"
+    },
+    {
+      "album": {
         "name": "Travelers",
         "url": "https://open.spotify.com/album/2CsxtFbCzVIYDxeBqHLnaO"
       },
@@ -15724,7 +15886,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 179999,
       "name": "Tyd & Gees",
       "url": "https://open.spotify.com/track/2SqU2NNOv9NP9tXDZUjRzS"
@@ -15746,6 +15908,28 @@
       "duration_ms": 228804,
       "name": "U Wanna?",
       "url": "https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY"
+    },
+    {
+      "album": {
+        "name": "Uitgesonderde Uitsig",
+        "url": "https://open.spotify.com/album/3NcfdCj0cUlWfBBcmL0TFG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Na Die Re\u00ebn",
+          "url": "https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW"
+        },
+        {
+          "name": "Seuns van Vlug",
+          "url": "https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212904,
+      "name": "Uitgesonderde Uitsig",
+      "url": "https://open.spotify.com/track/5D0ihUX0oyFvzIHb37QM3b"
     },
     {
       "album": {
@@ -15832,7 +16016,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 147374,
       "name": "Unhinged Hall of Fame",
       "url": "https://open.spotify.com/track/2BOBwaOWAnk3XimrxrUczl"

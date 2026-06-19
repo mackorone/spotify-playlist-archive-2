@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Imani Imani
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,125 likes - 165 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,122 likes - 165 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

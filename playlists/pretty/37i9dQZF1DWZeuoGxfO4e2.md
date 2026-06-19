@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 
 > Celebramos a las figuras legendarias del rock en nuestro idioma\. Foto: Soda Stereo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,112 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,195 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 32 | [Sabor a Chocolate](https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Lo Que Andábamos Buscando \(Special Para CEV\)](https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h) | 3:51 |
 | 33 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 |
 | 34 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
-| 35 | [Aquí No Es Así](https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:54 |
-| 36 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 |
+| 35 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 |
+| 36 | [Aquí No Es Así](https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:54 |
 | 37 | [Así Es la Vida](https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [El Que Busca Encuentra](https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm) | 5:10 |
 | 38 | [Fiesta Pagana](https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [Finisterra](https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT) | 4:56 |
 | 39 | [Love](https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:23 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 54 | [Vendedora de Caricias](https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:45 |
 | 55 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
 | 56 | [Putita](https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 3:45 |
-| 57 | [Y Que](https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:45 |
-| 58 | [Mariposa tecknicolor](https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Circo Beat](https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa) | 3:42 |
+| 57 | [Mariposa tecknicolor](https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Circo Beat](https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa) | 3:42 |
+| 58 | [Y Que](https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:45 |
 | 59 | [Las piedras rodantes](https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Una rola para los minusválidos](https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg) | 3:18 |
 | 60 | [Gimme Tha Power](https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [¿Dónde Jugarán Las Niñas?](https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0) | 4:10 |
 | 61 | [Razón](https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailarín Apocalíptico](https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ) | 3:15 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 95 | [Beber de Tu Sangre](https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 4:36 |
 | 96 | [Vivo](https://open.spotify.com/track/5IfhLKhOBkHazqaoqFzH8G) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:43 |
 | 97 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 |
-| 98 | [Samba Pa Ti](https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:49 |
-| 99 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 |
+| 98 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 |
+| 99 | [Samba Pa Ti](https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:49 |
 | 100 | [No Me Destruyas](https://open.spotify.com/track/2DeK0E3KxFzuDbwKQo1A49) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG) | 3:47 |
 
 Snapshot ID: `AAAAABwUhYJZtUZKRS0Zq+NNuF5xTfTD`

@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> Det senaste och bästa från världen av indie\. Cover: Augustine
+> Det senaste och bästa från världen av indie\. Cover: Valter Nilsson
 
-1,290 songs - 3 day 2 hr 13 min
+1,297 songs - 3 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2025-01-02 | 2025-02-28 |
 | [Dream Woman](https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Dream Woman](https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig) | 4:08 | 2025-02-20 | 2025-04-04 |
 | [Dreams](https://open.spotify.com/track/4cgha4ghzfm6lLanSfdtHp) | [lene 3000](https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G) | [Dreams](https://open.spotify.com/album/4I4IpTNnfFUyh7HCpRt7FS) | 2:55 | 2026-05-28 |  |
+| [Dreams \- guitar version](https://open.spotify.com/track/73Rnzcr9nE2Hfmy3vsRAUv) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Dreams \(guitar version\)](https://open.spotify.com/album/1DeJFLR3WAxwxMQzNZEpNJ) | 4:13 | 2026-06-18 |  |
 | [Dreamweavers](https://open.spotify.com/track/7ax4HwtfP1KbxF9Q4OUdn8) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [DíSA](https://open.spotify.com/artist/4cAOGeZj3uwNHB1QR5HURM) | [Dreamweavers](https://open.spotify.com/album/4hdos8eRNVnURJOB5a7nbO) | 5:23 | 2024-06-27 | 2024-08-16 |
 | [Du borde säga förlåt](https://open.spotify.com/track/49ad6wcUMGCD9h5xFrhXoY) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Du borde säga förlåt](https://open.spotify.com/album/4YosBhLppAzSyv2JmWGmyh) | 2:09 | 2024-09-26 | 2024-11-22 |
 | [Du tappa dä](https://open.spotify.com/track/3xBZH1auLQJOA40qmew7Wv) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Du tappa dä](https://open.spotify.com/album/1ss3TtK9plwjIBeEUkZkzo) | 3:11 | 2026-01-22 | 2026-05-29 |
@@ -604,6 +605,7 @@
 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 | 2024-09-26 | 2024-11-15 |
 | [Ja visst gör det ont](https://open.spotify.com/track/4Iz9mYKm1If0cX5WdKGlCz) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Ja visst gör det ont](https://open.spotify.com/album/1vPi8ZtpnKZyoyv2qDZuOK) | 3:17 | 2025-05-01 | 2025-07-25 |
 | [Jackrabbit](https://open.spotify.com/track/4YJwViRMJjbnCmBCtBAaZM) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Jackrabbit](https://open.spotify.com/album/6hyRcNW7sC85JHhDE0krBe) | 2:39 | 2024-06-27 | 2024-08-09 |
+| [Jag fick andas den tunna luften](https://open.spotify.com/track/52KmKPexchX9q9wD3fd1hw) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Jag fick andas den tunna luften](https://open.spotify.com/album/2i8RBUG1MJ7TP02SKWDAoC) | 3:29 | 2026-06-18 |  |
 | [Jag hör också rösterna](https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Jag hör också rösterna](https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi) | 4:05 | 2025-01-23 | 2025-04-25 |
 | [Jag kommer sakna dig](https://open.spotify.com/track/6bX37NkWOwqizzaCZX00HL) | [Nära Döden](https://open.spotify.com/artist/3ebm7hTnEAxZ85CK7rNKGN) | [Jag kommer sakna dig](https://open.spotify.com/album/4YdV6HO9j4XVnwYOGz4k2m) | 3:02 | 2025-01-30 | 2025-03-08 |
 | [Jag Vill Inte Va Med](https://open.spotify.com/track/4XcVFMu1a1DMVxriUSSqps) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Noof Belfast – Nybro City](https://open.spotify.com/album/5WstAcClR0wOb8M18QSEKz) | 4:04 | 2024-10-24 | 2024-12-06 |
@@ -686,6 +688,7 @@
 | [Louder And Louder](https://open.spotify.com/track/42gVb0cRlF0wJznxo6zenb) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Louder And Louder](https://open.spotify.com/album/7pRYwZfB3zfO1on6VM44JS) | 3:29 | 2026-05-21 |  |
 | [Lova & Skriv](https://open.spotify.com/track/5QYWte5cz4G3YZWuKYcGWH) | [Isak Friberg](https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx), [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Lova & Skriv](https://open.spotify.com/album/70xlDLyBwwyMtKJoRe8I7T) | 2:59 | 2025-08-21 | 2026-01-16 |
 | [Love How It Feels](https://open.spotify.com/track/6Fx3P9danCmSW1d8sZ9aAF) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Love How It Feels](https://open.spotify.com/album/6I4cQwheAaAfnlYylLoJeL) | 3:04 | 2025-10-09 | 2026-05-01 |
+| [Love Is a Lonely Feeling](https://open.spotify.com/track/1lDpoGbcDnY3mTT5VDhRwt) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Love Is a Lonely Feeling](https://open.spotify.com/album/2dswm6tZXBkTdk0zKJZ2g0) | 3:05 | 2026-06-18 |  |
 | [love isn't everything](https://open.spotify.com/track/75kGiT9k4Gor7JOBbl4QWi) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [love isn't everything](https://open.spotify.com/album/2GHPtoxe8P9I9fbbq8eG77) | 3:27 | 2026-03-12 |  |
 | [Love Poem](https://open.spotify.com/track/3POG2RdnoM61jM5MHT3DAO) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Miss Flower](https://open.spotify.com/album/1zgB6iiAermLEAx99Twnkt) | 5:57 | 2024-06-27 | 2024-08-16 |
 | [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 | 2024-10-10 | 2024-11-22 |
@@ -725,6 +728,7 @@
 | [Mascara](https://open.spotify.com/track/6cpNXgi5hDLvH2U3sQErnf) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [En popprinsessas dagbok](https://open.spotify.com/album/21lahm7AKPNx4uxiJh7kq0) | 2:37 | 2024-10-24 | 2025-01-17 |
 | [Maybe Not Tonight](https://open.spotify.com/track/1NeYdwfqPVmmItoaBNq7KJ) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Maybe Not Tonight](https://open.spotify.com/album/2mRhyVJ7pkYWN4cXq1e8QG) | 2:45 | 2025-11-13 | 2026-05-01 |
 | [Medicin](https://open.spotify.com/track/67GvcYcFauHiTEsLRxGtgl) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Medicin](https://open.spotify.com/album/5cka2ltHcvjCM5loz8snRl) | 3:38 | 2025-05-15 | 2025-10-10 |
+| [Meet Me In Love](https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Meet Me In Love](https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM) | 4:02 | 2026-06-18 |  |
 | [Melody Rules](https://open.spotify.com/track/1p6LSddhiya9yb8JUijvTd) | [Nicolai Dunger](https://open.spotify.com/artist/1XUJ4bS7sEaPb29R4LzY18) | [Melody Rules](https://open.spotify.com/album/1yhxNGgEcDnwMERY4hDfNz) | 4:49 | 2024-06-27 | 2024-08-09 |
 | [member](https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [member](https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE) | 3:07 | 2026-02-26 |  |
 | [Memory](https://open.spotify.com/track/4XFcSXp7zSppR9VXmjlwhO) | [Innocent](https://open.spotify.com/artist/597DNXGUXfrxjYbCzYkndW) | [Memory](https://open.spotify.com/album/3Vdt2qXTXG8S66bRe7oSx8) | 3:02 | 2025-02-20 | 2025-04-04 |
@@ -900,6 +904,7 @@
 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 | 2025-03-13 | 2025-06-20 |
 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 | 2024-08-08 | 2024-09-19 |
 | [Red](https://open.spotify.com/track/0AoZZWaJZnuCHoSS7qn5zP) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Red](https://open.spotify.com/album/1sgjxEl0WbYxAkJEkgk54x) | 3:28 | 2025-01-09 | 2025-02-14 |
+| [red sky at night](https://open.spotify.com/track/5PLGmfrSqRq7Q1dKvJ7S7M) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [red sky at night](https://open.spotify.com/album/6nTaOFO6qZb0YbOciCEPZu) | 2:56 | 2026-06-18 |  |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-06-19 | 2026-01-16 |
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-13 | 2025-05-16 |
 | [Remember My Name](https://open.spotify.com/track/4XLImmACHztCOIWzrpEq06) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Remember My Name](https://open.spotify.com/album/1xpCAr42SS6UH4aI6dOOGE) | 3:02 | 2025-02-13 | 2025-04-04 |
@@ -1075,6 +1080,7 @@
 | [Swan](https://open.spotify.com/track/2n4hJBLbxY8rCmehI43Hzg) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Swan](https://open.spotify.com/album/4HMdVZpaqW7aaM984jGBe2) | 2:38 | 2025-02-13 | 2025-03-28 |
 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 | 2025-05-29 | 2025-10-17 |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-30 | 2025-04-25 |
+| [swim](https://open.spotify.com/track/3TRP1MEDDkUw0YDsi8iQ3F) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [swim](https://open.spotify.com/album/4h4L56LbVAXREBss215iRB) | 6:11 | 2026-06-18 |  |
 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 | 2025-10-30 | 2026-05-01 |
 | [Tailored by Design](https://open.spotify.com/track/671jBUKxQUrRSQcbjAN4Sm) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Tailored by Design](https://open.spotify.com/album/7gmYvVntAFEqRsBr8OVgnE) | 3:31 | 2024-10-10 | 2025-01-17 |
 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 | 2025-09-11 | 2026-01-16 |
@@ -1229,6 +1235,7 @@
 | [WHAT IS WRONG](https://open.spotify.com/track/2uaRmQ4Htjm8XNABmYQHe5) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [WHAT IS WRONG // forward, backward and nothing is lost](https://open.spotify.com/album/4nh8Q2JbcN69z1TCDspiaW) | 2:46 | 2025-07-24 | 2026-01-16 |
 | [What Men Do](https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [What Men Do](https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc) | 3:00 | 2025-12-11 |  |
 | [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 | 2025-04-10 | 2025-10-10 |
+| [Whatever You Wanna](https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Whatever You Wanna](https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs) | 3:31 | 2026-06-18 |  |
 | [when my eyes lose you, you occupy my thoughts](https://open.spotify.com/track/14J9XLdZtxyzJrmwfjPaw0) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [when my eyes lose you, you occupy my thoughts](https://open.spotify.com/album/6SCbG0gZUM6jkNxkEQD6qe) | 3:27 | 2025-11-06 | 2026-05-01 |
 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 | 2024-06-27 | 2024-08-09 |
 | [When the Lavender Blooms](https://open.spotify.com/track/6o5q8AfVvepf91QadXRsXu) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [When the Lavender Blooms](https://open.spotify.com/album/3N5fQyXfKJPpQvHm3mG4pw) | 3:36 | 2025-07-24 | 2026-01-16 |

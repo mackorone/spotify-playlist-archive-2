@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 
 > The best soft rock from the 1970s\. Cover: Jimmy Buffett
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,915 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,968 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 46 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 |
 | 47 | [Shower the People \- 2019 Remaster](https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [In the Pocket \(2019 Remaster\)](https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP) | 4:33 |
 | 48 | [Till It Shines](https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:54 |
-| 49 | [Sexy Eyes](https://open.spotify.com/track/4V2cR7mSEDaRa7DXiZMN7o) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Sometimes You Win](https://open.spotify.com/album/7DxsMT1vegybVpiiSLTZ22) | 3:31 |
+| 49 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 |
 | 50 | [Just Remember I Love You](https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Luna Sea](https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75) | 3:16 |
-| 51 | [Sentimental Lady](https://open.spotify.com/track/478thMMvYGris8eJPcDRoq) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [French Kiss](https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ) | 2:58 |
-| 52 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 |
+| 51 | [Sexy Eyes](https://open.spotify.com/track/4V2cR7mSEDaRa7DXiZMN7o) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Sometimes You Win](https://open.spotify.com/album/7DxsMT1vegybVpiiSLTZ22) | 3:31 |
+| 52 | [Sentimental Lady](https://open.spotify.com/track/478thMMvYGris8eJPcDRoq) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [French Kiss](https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ) | 2:58 |
 | 53 | [Another Park, Another Sunday](https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [What Were Once Vices Are Now Habits](https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB) | 4:27 |
 | 54 | [Loves Me Like a Rock](https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:40 |
 | 55 | [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 2:56 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 64 | [My Love \- 2018 Remaster](https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Red Rose Speedway](https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD) | 4:07 |
 | 65 | [This Time I'm In It For Love](https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:25 |
 | 66 | [Don't Let Me Be Lonely Tonight \- 2019 Remaster](https://open.spotify.com/track/0SHFf1goWCyv8UKZdpHIcS) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [One Man Dog \(2019 Remaster\)](https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE) | 2:35 |
-| 67 | [We Just Disagree](https://open.spotify.com/track/54vjpmKIdLbvxj3EcXx8M5) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775) | [Let It Flow](https://open.spotify.com/album/6Cs3GnzIMVOKXWBbGXQY9f) | 3:00 |
-| 68 | [Save It For A Rainy Day](https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:12 |
+| 67 | [Save It For A Rainy Day](https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:12 |
+| 68 | [We Just Disagree](https://open.spotify.com/track/54vjpmKIdLbvxj3EcXx8M5) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775) | [Let It Flow](https://open.spotify.com/album/6Cs3GnzIMVOKXWBbGXQY9f) | 3:00 |
 | 69 | [Dreamboat Annie](https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 2:01 |
 | 70 | [Song Sung Blue \- Single Version](https://open.spotify.com/track/4FZ8wtTaOAbYvyChBt4GEQ) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Moods](https://open.spotify.com/album/3m4xJJDmVNzsWaJ6OlLTru) | 3:15 |
 | 71 | [Walking Man \- 2019 Remaster](https://open.spotify.com/track/5CHX5fuINGV2Y7T4sDKdUJ) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Walking Man \(2019 Remaster\)](https://open.spotify.com/album/1pa0QvYjLsiYWQlkMvqPZL) | 3:34 |

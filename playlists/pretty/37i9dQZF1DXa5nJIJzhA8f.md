@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 
 > Meticulously selected by Spotify music experts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,250 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,246 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 12 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 | 13 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 |
 | 14 | [Isaka II \(6am\) \[with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats\]](https://open.spotify.com/track/4lz4aKs60vUoyZP4pNy3aD) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [Isaka II \(6am\) \[with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats\]](https://open.spotify.com/album/1Ba4tVkFViKy6KmRyd9adZ) | 4:45 |
-| 15 | [Headphones On](https://open.spotify.com/track/3H6xZgwRZx8McVUJzmMxWe) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 4:00 |
-| 16 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
+| 15 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
+| 16 | [Headphones On](https://open.spotify.com/track/3H6xZgwRZx8McVUJzmMxWe) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 4:00 |
 | 17 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
 | 18 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
 | 19 | [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 34 | [IMPOSTOR](https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:37 |
 | 35 | [The Sofa](https://open.spotify.com/track/1gqxVK8URuPT86iFbv2vVL) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/3QGtV6BMgF31PYEy3I4Epn) | 4:26 |
 | 36 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
-| 37 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
-| 38 | [Elderberry Wine](https://open.spotify.com/track/00lSB9CSyOcsxKVtbPbniL) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:35 |
+| 37 | [Elderberry Wine](https://open.spotify.com/track/00lSB9CSyOcsxKVtbPbniL) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:35 |
+| 38 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
 | 39 | [Los Angeles](https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:57 |
 | 40 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
 | 41 | [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 |

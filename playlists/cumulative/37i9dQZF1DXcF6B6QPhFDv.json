@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "ROCK NEVER DIES | Cover: Slow Pulp",
+  "description": "ROCK NEVER DIES | Cover: The Paradox",
   "name": "MARROW",
   "tracks": [
     {
@@ -532,6 +532,24 @@
       "duration_ms": 204198,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/3QSVzVODWkWzGeDOGHZW0F"
+    },
+    {
+      "album": {
+        "name": "AFRAID TO DIE",
+        "url": "https://open.spotify.com/album/6FMYxT1o4zfHEsas7nb1t9"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240163,
+      "name": "AFRAID TO DIE",
+      "url": "https://open.spotify.com/track/6GiHYoRbplk9wYZ4TL3uw5"
     },
     {
       "album": {
@@ -3917,6 +3935,24 @@
     },
     {
       "album": {
+        "name": "Maybe Not Tonight",
+        "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160917,
+      "name": "Cross My Heart",
+      "url": "https://open.spotify.com/track/2uEWM5lSQsl0ubzbxFd6U7"
+    },
+    {
+      "album": {
         "name": "Cross Your Heart",
         "url": "https://open.spotify.com/album/5t4oHdZQYOc3ASJurLiJgM"
       },
@@ -5268,7 +5304,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 224000,
       "name": "Drag Path",
       "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
@@ -5504,7 +5540,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 256965,
       "name": "Dying To Love",
       "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
@@ -5634,6 +5670,24 @@
       "duration_ms": 205086,
       "name": "Eighteen Crows",
       "url": "https://open.spotify.com/track/6NFU9CdbiesVSuApjQf5NT"
+    },
+    {
+      "album": {
+        "name": "CASI",
+        "url": "https://open.spotify.com/album/1itTUvcQvI3gQGyzfQZUTR"
+      },
+      "artists": [
+        {
+          "name": "casi",
+          "url": "https://open.spotify.com/artist/08KCycW58Ksyv5y5QaTyXH"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267222,
+      "name": "ELEVEN87",
+      "url": "https://open.spotify.com/track/6GIzqPQn0a2L6AHt1ToSIb"
     },
     {
       "album": {
@@ -6286,7 +6340,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 126806,
       "name": "Fake ID",
       "url": "https://open.spotify.com/track/5gynEmNec4YKPE1FqFsaWT"
@@ -7468,6 +7522,24 @@
       "duration_ms": 222373,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4cwjsl7zxbj8sCz6rSly3V"
+    },
+    {
+      "album": {
+        "name": "Still There\u2019s a Glow",
+        "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281518,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/31LNSR2opEaEMCtWbT5X7F"
     },
     {
       "album": {
@@ -8674,7 +8746,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 223416,
       "name": "Highs and Lows",
       "url": "https://open.spotify.com/track/2jqYwfkkbi9c4nTsRap9RL"
@@ -8692,7 +8764,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 223416,
       "name": "Highs and Lows",
       "url": "https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O"
@@ -9238,7 +9310,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 231578,
       "name": "I Can Take the Sun Out of the Sky",
       "url": "https://open.spotify.com/track/5sBAzJNV0E3rMGnCUgFnEw"
@@ -10674,7 +10746,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 143241,
       "name": "Kind of Girl I Am",
       "url": "https://open.spotify.com/track/2vmbWXnyrmCLI1usekZIEX"
@@ -13469,6 +13541,24 @@
     },
     {
       "album": {
+        "name": "NEW AMERICA//",
+        "url": "https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169155,
+      "name": "NEW AMERICA//",
+      "url": "https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0"
+    },
+    {
+      "album": {
         "name": "New Case",
         "url": "https://open.spotify.com/album/5szt6cyBnFYsksLYpu4jw1"
       },
@@ -15242,7 +15332,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 220101,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/5iALdwbhnUHa8zGStA3h1J"
@@ -15260,7 +15350,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 220101,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV"
@@ -16240,7 +16330,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 191568,
       "name": "Punching the Flowers",
       "url": "https://open.spotify.com/track/2CrCSUqCi4m4iDexkklvmN"
@@ -16258,7 +16348,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 191568,
       "name": "Punching the Flowers",
       "url": "https://open.spotify.com/track/56es3ImztwXSwpYmtS6c4A"
@@ -19122,7 +19212,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 204123,
       "name": "Still Around",
       "url": "https://open.spotify.com/track/0SnkdXrItQac8cBIkCYCd1"
@@ -19140,7 +19230,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 204123,
       "name": "Still Around",
       "url": "https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn"
@@ -22686,7 +22776,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 176455,
       "name": "Waiting To Know",
       "url": "https://open.spotify.com/track/3COerH8qeZERHv69TypVPT"
@@ -22708,7 +22798,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 176455,
       "name": "Waiting To Know",
       "url": "https://open.spotify.com/track/7zZSpzhovJFLtjrX7KSz7P"
@@ -22814,6 +22904,24 @@
       "duration_ms": 203531,
       "name": "Walk Through Fire",
       "url": "https://open.spotify.com/track/1Mdmg7rBIqT1FxAge95Xmx"
+    },
+    {
+      "album": {
+        "name": "Restless in Bloom",
+        "url": "https://open.spotify.com/album/7l49pdK2f75zovPPc2XiGE"
+      },
+      "artists": [
+        {
+          "name": "Tooth",
+          "url": "https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201333,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/2rDDv4XPcSEr5yGOq02TqI"
     },
     {
       "album": {

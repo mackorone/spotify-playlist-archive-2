@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Braxton Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,170 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,142 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 30 | [Baby You Do](https://open.spotify.com/track/6SVKmktKVg5daArMbig0T3) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Baby You Do](https://open.spotify.com/album/7rTdxhNOzNI1C1rbLL5tvC) | 3:19 |
 | 31 | [It Won't Be Long](https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [It Won't Be Long](https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv) | 3:17 |
 | 32 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 |
-| 33 | [High Country](https://open.spotify.com/track/2SMxvm2rJzbPbTjwEyuFnJ) | [Jason Scott & The High Heat](https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm) | [American Grin](https://open.spotify.com/album/5zPQGBpZHiUAgwVxOHH0eM) | 3:06 |
-| 34 | [Nothin But Texas](https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Flyin](https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU) | 4:34 |
+| 33 | [Nothin But Texas](https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Flyin](https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU) | 4:34 |
+| 34 | [High Country](https://open.spotify.com/track/2SMxvm2rJzbPbTjwEyuFnJ) | [Jason Scott & The High Heat](https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm) | [American Grin](https://open.spotify.com/album/5zPQGBpZHiUAgwVxOHH0eM) | 3:06 |
 | 35 | [Junior Stayed Home](https://open.spotify.com/track/0LSmvfAYa3kJoVaNX6aC0a) | [Graham St\. Clair Band](https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv) | [Junior Stayed Home](https://open.spotify.com/album/3wLJrVlhhX9HJRDsntBGHz) | 4:48 |
-| 36 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
-| 37 | [Missin' Tonight](https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Missin' Tonight](https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP) | 2:50 |
+| 36 | [Missin' Tonight](https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Missin' Tonight](https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP) | 2:50 |
+| 37 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
 | 38 | [Long Live Cowgirls \(with Cody Johnson\)](https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Long Live Cowgirls \(with Cody Johnson\)](https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN) | 3:04 |
 | 39 | [Another Man](https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g) | [Caiden Wallace](https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua) | [Another Man](https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv) | 3:16 |
 | 40 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |

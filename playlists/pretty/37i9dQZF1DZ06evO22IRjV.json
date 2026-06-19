@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 31101,
+  "num_followers": 31109,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAAceHpX1iHYZjoVVRBMDAfm",
+  "snapshot_id": "ajHjgAAAAAC305i9qMk4qOqutagJocUO",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GET BACK",
-        "url": "https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "GET BACK",
-      "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alright!!!",
         "url": "https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 279733,
       "name": "Answer",
       "url": "https://open.spotify.com/track/0lDEkAEv0QuxJGZ1nn4JIx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GET BACK",
+        "url": "https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRIBALYTHM",
-        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "PENDULUM",
-      "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MICROCOSM",
         "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 214773,
       "name": "CALLING",
       "url": "https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRIBALYTHM",
+        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 252120,
+      "name": "PENDULUM",
+      "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
     },
     {
       "added_at": null,
@@ -748,25 +748,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 234293,
-      "name": "Hero's Come Back!!",
-      "url": "https://open.spotify.com/track/2HHrHcz3gbWOwaSogkbyxh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden Coast",
-        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
+      "duration_ms": 207706,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/7LXqkSIXTDs1D4GLA0GTHE"
     },
     {
       "added_at": null,
@@ -803,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
-        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/7LXqkSIXTDs1D4GLA0GTHE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Howling",
         "url": "https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL"
       },
@@ -835,6 +803,38 @@
       "duration_ms": 91906,
       "name": "Howling -TV Size-",
       "url": "https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 234293,
+      "name": "Hero's Come Back!!",
+      "url": "https://open.spotify.com/track/2HHrHcz3gbWOwaSogkbyxh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Coast",
+        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
     },
     {
       "added_at": null,

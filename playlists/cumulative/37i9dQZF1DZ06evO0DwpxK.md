@@ -4,7 +4,7 @@
 
 > This is HUMBE\. The essential tracks, all in one playlist.
 
-97 songs - 6 hr 6 min
+98 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [LOOP](https://open.spotify.com/track/7LF6VVNbG0jB6TiP1KVOzS) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:49 | 2024-12-01 | 2024-12-16 |
 | [LUZ DE LUNA](https://open.spotify.com/track/15TFkQufCx3EFoLJec4XVD) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 5:38 | 2025-12-08 | 2025-12-09 |
 | [Malbec](https://open.spotify.com/track/3T3PXtfMI5oHdzOViRsJ3g) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Malbec](https://open.spotify.com/album/6tE7zlSvK0QmTK1cxw5g7m) | 4:24 | 2024-06-23 | 2025-04-01 |
-| [Malbec](https://open.spotify.com/track/5q4p4WNMECv9F6G97o4a42) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Malbec](https://open.spotify.com/album/7lNurKQoVKo2ZIz3uVW2tG) | 4:24 | 2025-04-01 |  |
+| [Malbec](https://open.spotify.com/track/5q4p4WNMECv9F6G97o4a42) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Malbec](https://open.spotify.com/album/7lNurKQoVKo2ZIz3uVW2tG) | 4:24 | 2025-04-01 | 2026-06-19 |
+| [Malbec](https://open.spotify.com/track/7AonNAWzRDcSwMrUyX9mOz) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Malbec](https://open.spotify.com/album/4hzIwO5SMhBYbTfl46wfOz) | 4:24 | 2026-06-19 |  |
 | [mamá](https://open.spotify.com/track/2JW4s3HaqPerHX3R644sIG) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:29 | 2023-11-10 |  |
 | [MANIFIESTO](https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:05 | 2023-11-10 | 2025-12-18 |
 | [MI 100](https://open.spotify.com/track/2RHOPfMWLM2iqf6rPo1Ymw) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:36 | 2026-04-16 |  |

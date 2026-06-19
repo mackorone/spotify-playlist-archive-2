@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: YZERR
 
-1,580 songs - 3 day 6 hr 44 min
+1,581 songs - 3 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -755,6 +755,7 @@
 | [Last Time I Saw You](https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Last Time I Saw You](https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1) | 3:36 | 2023-08-31 | 2023-10-23 |
 | [Late Checkout \(feat\. Hunxho\)](https://open.spotify.com/track/6peNzc5BT61OxAzsFaTH2v) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Late Checkout \(feat\. Hunxho\)](https://open.spotify.com/album/6OAWVN9cVOsf2iTM9bt9Mp) | 3:45 | 2024-10-11 | 2024-12-13 |
 | [Lay It Down](https://open.spotify.com/track/22HQqPzsM2kl79Ck1mJIAP) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Lay It Down](https://open.spotify.com/album/4THqnp5AGT1ZtA94wtcrYb) | 2:38 | 2026-06-12 |  |
+| [Layderr](https://open.spotify.com/track/6ozLyXlZLt4trWme02M1ro) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Layderr](https://open.spotify.com/album/6cVMRyxRpR9urenwXrCk5m) | 3:17 | 2026-06-12 |  |
 | [Leadbelly \- feat\. MIKE](https://open.spotify.com/track/3VzXDNlINnvGTYWXtQlQr1) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [Leadbelly \(feat\. MIKE\)](https://open.spotify.com/album/3y6xpGcglPjbrpUZAMymiI) | 2:32 | 2026-03-27 |  |
 | [LEAN ON MY BODY](https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:25 | 2025-03-27 | 2025-06-13 |
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-04-28 | 2023-05-19 |

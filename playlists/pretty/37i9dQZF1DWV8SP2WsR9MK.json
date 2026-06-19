@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 129298,
+  "num_followers": 129350,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Djangology 49",
-        "url": "https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Beyond The Sea (La Mer)",
-      "url": "https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Travel Guide",
         "url": "https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 277560,
       "name": "Father Time",
       "url": "https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Djangology 49",
+        "url": "https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Beyond The Sea (La Mer)",
+      "url": "https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -659,18 +659,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Arclight",
-        "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
+        "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
+        "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
       },
       "artists": [
         {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 199015,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI"
+      "duration_ms": 386133,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -691,18 +691,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
-        "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
+        "name": "Arclight",
+        "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
       },
       "artists": [
         {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
         }
       ],
-      "duration_ms": 386133,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS"
+      "duration_ms": 199015,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -919,26 +919,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Kenny Burrell & John Coltrane",
-        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 422680,
-      "name": "I Never Knew",
-      "url": "https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Hand-Crafted Swing",
         "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 370866,
       "name": "The Nearness Of You - Instrumental",
       "url": "https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Kenny Burrell & John Coltrane",
+        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 422680,
+      "name": "I Never Knew",
+      "url": "https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "These Times",
+        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 397106,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Free Flying",
         "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 384413,
       "name": "Monk's Dream",
       "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "These Times",
-        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 397106,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
     },
     {
       "added_at": "2025-09-10 12:20:14",

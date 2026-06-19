@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4osfY3zybD2.md) - [plain]
 
 > Up for a nostalgic running session?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,458 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,663 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4osfY3zybD2.md) - [plain]
 | 36 | [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 |
 | 37 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
 | 38 | [Danger Zone \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:35 |
-| 39 | [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 |
-| 40 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
+| 39 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
+| 40 | [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 |
 | 41 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
 | 42 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 43 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 |

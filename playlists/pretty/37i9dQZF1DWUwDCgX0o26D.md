@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 正宗 Spotify 原創全台最紅西洋歌單！熱門就此一張！Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,761 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,772 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 | 49 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 | 50 | [Stateside + Zara Larsson](https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Stateside + Zara Larsson](https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM) | 3:04 |
 
-Snapshot ID: `AAAAAJiBuSyohEI3FttwRK58BEGTwRuz`
+Snapshot ID: `AAAAAEON5RnBkNADaFRIMl0a+WWrGZjn`

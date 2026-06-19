@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,204 songs - 2 day 22 hr 9 min
+1,205 songs - 2 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Bright Lights of Gaza](https://open.spotify.com/track/0fr2XR7BwfggHtpCX685sl) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT), [Gianluca Urbano](https://open.spotify.com/artist/7bqtO6GVyE8cx9hWVsjnZG), [Alfredo Posillipo](https://open.spotify.com/artist/7t7CJWtF302EBxxrIefxC0) | [Bright Lights of Gaza](https://open.spotify.com/album/330q4uPmolaxV7TIAlpmmh) | 4:15 | 2024-06-13 | 2025-12-28 |
 | [Broken Conversations](https://open.spotify.com/track/6MwAfAJrR9SQfXU4eqERuH) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Broken Conversations](https://open.spotify.com/album/6i0l2X4NgBrSr2iowHKwjQ) | 3:43 | 2026-05-05 | 2026-06-05 |
 | [Broken Trust](https://open.spotify.com/track/2KhIeTdnN8IebU3nXdiXqK) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Broken Trust](https://open.spotify.com/album/33PUel7sBH1AQsxQmFciKH) | 2:52 | 2025-11-11 | 2026-01-15 |
+| [Bukan Orang Timur \(Mimpi Jadi Bintang\)](https://open.spotify.com/track/4ye8HiMTGZh4M7RqBYO8ID) | [Nirvan Channel](https://open.spotify.com/artist/5CrcSowv9jp8dX1WCmoB5x) | [Bukan Orang Timur \(Mimpi Jadi Bintang\)](https://open.spotify.com/album/7sG1LmsVHtqqj8nLHMB9OE) | 4:17 | 2026-06-18 |  |
 | [Buried Alive](https://open.spotify.com/track/3tMP4zyg8MXPQC87LAUtgD) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Buried Alive](https://open.spotify.com/album/5gBdubgu17KL5Km01m37xx) | 3:48 | 2026-02-15 | 2026-03-15 |
 | [BUSY](https://open.spotify.com/track/5bjd9IPzs7avJgswVKZtQC) | [Nancy Dunkle](https://open.spotify.com/artist/0SE0lZgXJ2XCdvO77Zv2Kl) | [BUSY](https://open.spotify.com/album/5s8s7OnvvEm4u5d6mHug1W) | 3:19 | 2026-03-02 | 2026-03-25 |
 | [Buttana di to ma \(Remix\)](https://open.spotify.com/track/2MEm5sbIhzWmLfhpoHvbvP) | [Rosa Balistreri](https://open.spotify.com/artist/6PMYU9RDf4z5H45KdeMyeF), [Marwan Samer](https://open.spotify.com/artist/3epY0zg2YiO3c3g2T7NtvO), [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa) | [Greetings from South Italy](https://open.spotify.com/album/6Yup2nahWkqQlE3Iji4tNm) | 4:55 | 2023-04-27 | 2025-11-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Spotify music editors' choice for the best Christian & Gospel songs of 2010s. Cover: MercyMe",
-  "num_followers": 153266,
+  "num_followers": 153287,
   "original_name": "2010s Christian & Gospel",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,18 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Never Lose Sight (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
+        "name": "Neon Steeple",
+        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
         }
       ],
-      "duration_ms": 292200,
-      "name": "Good Good Father",
-      "url": "https://open.spotify.com/track/5go3zDh6wyW7DPwO2lWtmL"
+      "duration_ms": 289746,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -259,34 +259,18 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Neon Steeple",
-        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
+        "name": "Never Lose Sight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
       },
       "artists": [
         {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 289746,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "Bright Faith Bold Future",
-        "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "Yes I Will",
-      "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
+      "duration_ms": 292200,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/5go3zDh6wyW7DPwO2lWtmL"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -307,6 +291,22 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
+        "name": "Bright Faith Bold Future",
+        "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 234731,
+      "name": "Yes I Will",
+      "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
         "name": "This Is Not A Test",
         "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 237146,
       "name": "Love Broke Thru",
       "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 267906,
-      "name": "Whom Shall I Fear (God Of Angel Armies)",
-      "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -355,6 +339,22 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
+        "name": "Burning Lights",
+        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 267906,
+      "name": "Whom Shall I Fear (God Of Angel Armies)",
+      "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
         "name": "Glory & Wonder",
         "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
       },
@@ -367,42 +367,6 @@
       "duration_ms": 309093,
       "name": "Tremble - Live",
       "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "One Thing Remains",
-        "url": "https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "One Thing Remains",
-      "url": "https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "The Elements",
-        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "I just need U.",
-      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -423,6 +387,42 @@
       "duration_ms": 480546,
       "name": "You Know My Name",
       "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "The Elements",
+        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "I just need U.",
+      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "One Thing Remains",
+        "url": "https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "One Thing Remains",
+      "url": "https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        }
-      ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "Restart",
         "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 261693,
       "name": "We Believe",
       "url": "https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        }
+      ],
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Leaving Eden",
-        "url": "https://open.spotify.com/album/6LVll9TMx884kBnA9AcMtZ"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 215720,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/56ZNyOHknU78LEwq4IWMJ7"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 240266,
       "name": "Till I Found You",
       "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "Leaving Eden",
+        "url": "https://open.spotify.com/album/6LVll9TMx884kBnA9AcMtZ"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 215720,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/56ZNyOHknU78LEwq4IWMJ7"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1159,8 +1159,8 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
       },
       "artists": [
         {
@@ -1168,13 +1168,13 @@
           "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
         },
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 411000,
-      "name": "So Will I (100 Billion X)",
-      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1247,8 +1247,8 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
       "artists": [
         {
@@ -1256,13 +1256,13 @@
           "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
         },
         {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 262120,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1287,8 +1287,8 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Starlight (Live)",
-        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
+        "name": "Raise a Hallelujah (Studio Version)",
+        "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
       },
       "artists": [
         {
@@ -1296,13 +1296,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
         }
       ],
-      "duration_ms": 299365,
-      "name": "King of My Heart - Live",
-      "url": "https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6"
+      "duration_ms": 244040,
+      "name": "Raise a Hallelujah - Studio Version",
+      "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1379,8 +1383,8 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Raise a Hallelujah (Studio Version)",
-        "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
       },
       "artists": [
         {
@@ -1388,17 +1392,29 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 244040,
-      "name": "Raise a Hallelujah - Studio Version",
-      "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
+      "duration_ms": 299365,
+      "name": "King of My Heart - Live",
+      "url": "https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Start A Fire",
+      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1439,22 +1455,6 @@
       "duration_ms": 231053,
       "name": "Blessings (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/56vMywhKow2JM8lW6iLn7x"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Start A Fire",
-      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/4bVH31Z9J7wPG2q8skaeII"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 503240,
+      "name": "Way Maker - Live",
+      "url": "https://open.spotify.com/track/3BcPAGy6P7gWiL7DAPH85t"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7uJRbzmSGkzrDW7sT5SSWA"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 218213,
       "name": "I'll Find You (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/4bVH31Z9J7wPG2q8skaeII"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 503240,
-      "name": "Way Maker - Live",
-      "url": "https://open.spotify.com/track/3BcPAGy6P7gWiL7DAPH85t"
     },
     {
       "added_at": "2025-12-12 06:15:47",

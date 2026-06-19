@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Playboi Carti
 
-216 songs - 9 hr 11 min
+218 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 | 2023-12-01 | 2025-11-15 |
 | [Figure It Out](https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/09heES0I3XMjwyxm1stQig) | 1:34 | 2024-03-15 | 2025-06-07 |
 | [Flawlëss \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:56 | 2023-12-01 | 2024-03-16 |
-| [Flex N Finesse](https://open.spotify.com/track/6UfFd3NzPIsJrCVPjZb3pj) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Grit & Grace](https://open.spotify.com/album/2V3mfZot5KgRs2lZoEzkPO) | 1:33 | 2025-10-10 |  |
+| [Flex N Finesse](https://open.spotify.com/track/6UfFd3NzPIsJrCVPjZb3pj) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Grit & Grace](https://open.spotify.com/album/2V3mfZot5KgRs2lZoEzkPO) | 1:33 | 2025-10-10 | 2026-06-19 |
 | [FMJ \(feat\. Che\)](https://open.spotify.com/track/4iLsg1kZif1DGcdywxEP3M) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1), [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [psykotic](https://open.spotify.com/album/1jlNLn16ksXKSVGSFGCeDQ) | 3:09 | 2025-10-17 | 2026-01-17 |
 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 | 2025-03-25 |  |
 | [FROM YO HANDS](https://open.spotify.com/track/5xjtqhWynyBiOgEEGAFCtO) | [CantStopPat](https://open.spotify.com/artist/2r1ggfwCYWOhNGERNev4yK) | [FROM YO HANDS](https://open.spotify.com/album/1LXoE2zVe2gVLmShMBoto1) | 2:02 | 2025-10-17 | 2025-11-22 |
@@ -162,6 +162,7 @@
 | [overseas](https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:21 | 2024-08-20 | 2024-09-11 |
 | [overseas](https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [overseas](https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U) | 2:21 | 2024-04-12 | 2024-08-21 |
 | [Paperbag Boy](https://open.spotify.com/track/7mQcxAgdMV1Qt71tekR0DP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Paperbag Boy](https://open.spotify.com/album/7CqMuaqi2wrUNsful2OWHb) | 3:11 | 2026-04-03 |  |
+| [PARLAY](https://open.spotify.com/track/2CWP5h36QBRfDQPYl3K9uA) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [TRENCH TOWN](https://open.spotify.com/album/1vuVAVc0QJbNJyNVVJWw4o) | 1:32 | 2026-06-19 |  |
 | [PB&J \(with Ken Carson\)](https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV) | [HXG](https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:29 | 2025-08-08 |  |
 | [Penthouse Shordy](https://open.spotify.com/track/0p761VSAObNRJF855bIHRF) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [On My Own](https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo) | 2:06 | 2023-12-01 | 2024-12-07 |
 | [Pop](https://open.spotify.com/track/26Fx8UbsC0BV4J1CdtuLAy) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Flex Musix](https://open.spotify.com/album/075lV4wdtLwFvIvCUdSYhL) | 1:49 | 2024-03-15 | 2024-04-27 |
@@ -172,8 +173,9 @@
 | [PYRAMIDZ](https://open.spotify.com/track/1IvBafVU2yEd7tXz4Mmh3j) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [PYRAMIDZ](https://open.spotify.com/album/32t9wZwwEinXJhHtZmKAab) | 3:02 | 2025-05-23 | 2026-03-28 |
 | [Quagoo](https://open.spotify.com/track/7vfbtV6IJVB0nthc6mNzls) | [Sk8star](https://open.spotify.com/artist/2PAnRRa7mwTO0WArmY1vCc) | [Quagoo](https://open.spotify.com/album/66y6wCUqk3bwMEKhHqRWrz) | 2:11 | 2026-04-10 | 2026-06-06 |
 | [R50](https://open.spotify.com/track/0eoNYtkwyNxAtBMoTtjB6H) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [i5u5we5](https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d) | 1:45 | 2024-08-20 | 2025-08-09 |
+| [RedRum](https://open.spotify.com/track/279cJxRBqU4IwLj6ppg0Li) | [HXG](https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb) | [RedRum](https://open.spotify.com/album/7fR5TB4x9uXQTABvFAgw8J) | 3:18 | 2026-06-19 |  |
 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 | 2024-01-05 | 2025-07-12 |
-| [screwed up](https://open.spotify.com/track/493FWDdicMcysufpqhuFxJ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [</3³](https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq) | 2:33 | 2025-09-19 |  |
+| [screwed up](https://open.spotify.com/track/493FWDdicMcysufpqhuFxJ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [</3³](https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq) | 2:33 | 2025-09-19 | 2026-06-19 |
 | [Shibuya](https://open.spotify.com/track/0Nem7CDbuhQnxmN6BcsXJ0) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 2:36 | 2024-08-20 | 2026-02-21 |
 | [Shibuya](https://open.spotify.com/track/3Nv0VdYEBn1B2wxCJK2VV2) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Shibuya](https://open.spotify.com/album/6N0JK7T9CcsvDOXsIFF9cB) | 2:36 | 2024-03-18 | 2024-09-05 |
 | [SIDE EFFExT \(feat\. Lil Yachty\)](https://open.spotify.com/track/0zin6HNAYX04mXsWjpUkIk) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [i5u5we5](https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d) | 3:42 | 2024-05-31 | 2026-01-17 |

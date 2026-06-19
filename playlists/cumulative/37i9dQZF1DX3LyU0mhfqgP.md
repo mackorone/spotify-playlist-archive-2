@@ -4,7 +4,7 @@
 
 > Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Honey Dijon
 
-1,855 songs - 4 day 4 hr 45 min
+1,856 songs - 4 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1493,7 +1493,8 @@
 | [Something To Say](https://open.spotify.com/track/5CznIqYyWcPBQ9YaIJtLLF) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [Something To Say](https://open.spotify.com/album/6CBY5J52PrxflhCEelKeBR) | 4:04 | 2021-12-17 | 2022-01-27 |
 | [Somewhere Only We Know](https://open.spotify.com/track/3O4HxUk3JbhY0nut3RFjaF) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Somewhere Only We Know](https://open.spotify.com/album/3SSjCIMccH0zOtznuS3hyU) | 2:29 | 2024-06-05 | 2024-06-13 |
 | [Sommarland](https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo) | 2:43 | 2025-07-08 | 2025-10-15 |
-| [Song and Dance Man](https://open.spotify.com/track/1oflMqWYnceFzbIDdOM1fr) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/0K3erRyIjMqza5oWHTv86c) | 2:17 | 2026-06-09 |  |
+| [Song and Dance Man](https://open.spotify.com/track/1oflMqWYnceFzbIDdOM1fr) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/0K3erRyIjMqza5oWHTv86c) | 2:17 | 2026-06-09 | 2026-06-19 |
+| [Song and Dance Man](https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:17 | 2026-06-09 |  |
 | [Songs About It](https://open.spotify.com/track/26QgeLPqt5k8wtDyPkQjNZ) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Songs About It](https://open.spotify.com/album/3rYf5r2ZZzOuHzRlIXvuaW) | 3:40 | 2023-03-07 | 2023-04-01 |
 | [Sooner Or Later](https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sooner Or Later](https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt) | 3:20 | 2022-01-14 | 2022-10-08 |
 | [SOPHIEA](https://open.spotify.com/track/0E9S8XxSLVgkal2nWtueFU) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [SOPHIEA](https://open.spotify.com/album/5mjtx0vINeJ0LjXvzxgemi) | 3:36 | 2024-02-13 | 2024-04-10 |

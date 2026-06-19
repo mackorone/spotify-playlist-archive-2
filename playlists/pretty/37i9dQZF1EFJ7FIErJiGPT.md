@@ -109,12 +109,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 99 | [Boys will be Boys](https://open.spotify.com/track/0kqLJ1b7GlMjBEXb8yAQXK) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Boys will be Boys](https://open.spotify.com/album/5HJuTYYesC7B2ewqFf8zBV) | 2:49 |
 | 100 | [Let It Kill You](https://open.spotify.com/track/0vWbG3nQ9soEj2dZ1xonTi) | [ISA](https://open.spotify.com/artist/25TgcWHKIx5DuoHjECQC2s) | [Let It Kill You](https://open.spotify.com/album/3Jq0GDWkyZnpY7mzsqc25Z) | 3:08 |
 | 101 | [All of Them](https://open.spotify.com/track/0uNcBFBisLrtcON9kiw2Oe) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [HARD FEELINGS](https://open.spotify.com/album/3VThjt3DkBA6MCIduJnp9Q) | 2:38 |
-| 102 | [Body Conversation](https://open.spotify.com/track/2cE5yqvFZHhX6ZLEzjXgUP) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [West Coast](https://open.spotify.com/album/5Z5EqPY4Nxfi2CPDNs3EnO) | 3:36 |
-| 103 | [Firetrucks on Fire](https://open.spotify.com/track/2O6rHKrpbWtcUZGuqBxDNt) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Roses N Guns](https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx) | 3:42 |
+| 102 | [Firetrucks on Fire](https://open.spotify.com/track/2O6rHKrpbWtcUZGuqBxDNt) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Roses N Guns](https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx) | 3:42 |
+| 103 | [Body Conversation](https://open.spotify.com/track/2cE5yqvFZHhX6ZLEzjXgUP) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [West Coast](https://open.spotify.com/album/5Z5EqPY4Nxfi2CPDNs3EnO) | 3:36 |
 | 104 | [Tigern](https://open.spotify.com/track/10wWAWuHhRihDOhn5VU93i) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM) | [Tigern](https://open.spotify.com/album/6AlPgHwm1fO8nreSrdyRHz) | 3:42 |
 | 105 | [Pretty Please](https://open.spotify.com/track/0WTkHRwtsJPMHzucqaaZH4) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 2:22 |
 | 106 | [Chosen Family](https://open.spotify.com/track/205i9kJtHKLX2zvrdrFSrp) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:29 |
 | 107 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 108 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcUfsAAAAACgMEWBZcC1zrWsbwc5iQA6`
+Snapshot ID: `AcUljAAAAADJL3ua5EeZf+/hxynw+itS`

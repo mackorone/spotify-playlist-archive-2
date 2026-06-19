@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 50434,
+  "num_followers": 50482,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABH/UlYdx/U03YTmyUv6v4+",
+  "snapshot_id": "ajHjgAAAAACKgn2MeWZCYMEDikV4w+5t",
   "tracks": [
     {
       "added_at": null,
@@ -179,42 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timileyin 2.0",
-        "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Where I\u2019m from",
-      "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/6iHVLqSeDVj70pcVULZzGj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sincerely, Benson",
         "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
@@ -239,6 +203,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/6iHVLqSeDVj70pcVULZzGj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timileyin 2.0",
+        "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Where I\u2019m from",
+      "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUJI MOTO",
         "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
       },
@@ -251,38 +251,6 @@
       "duration_ms": 159994,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/0yLPupVmWzIthRHesuR5Wt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vibe Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 160982,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/14uK4220kmfZKrKSeFTTlF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 123219,
-      "name": "Different Pattern",
-      "url": "https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K"
     },
     {
       "added_at": null,
@@ -303,6 +271,38 @@
       "duration_ms": 140606,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 123219,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vibe Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 160982,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/14uK4220kmfZKrKSeFTTlF"
     },
     {
       "added_at": null,

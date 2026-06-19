@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 121846,
+  "num_followers": 121867,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAARl0EvsCF5kDWoatf157sS",
+  "snapshot_id": "ajHjgAAAAACnsuPycBmMFqHvhwuMokO8",
   "tracks": [
     {
       "added_at": null,
@@ -179,18 +179,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+        "name": "What Is Wrong & What Is Right",
+        "url": "https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me"
       },
       "artists": [
         {
+          "name": "T.I.M.",
+          "url": "https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC"
+        },
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/0pBj903ovIkiNZpaWuW6QY"
+        },
+        {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        },
+        {
+          "name": "Mother's Finest",
+          "url": "https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H"
         }
       ],
-      "duration_ms": 202293,
-      "name": "Trapped In A Box",
-      "url": "https://open.spotify.com/track/0aqmgKRH04ItzeBUxlujCD"
+      "duration_ms": 179840,
+      "name": "What Is Wrong & What Is Right (feat. Adrian Young of No Doubt)",
+      "url": "https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD"
     },
     {
       "added_at": null,
@@ -243,30 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Is Wrong & What Is Right",
-        "url": "https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me"
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
       },
       "artists": [
         {
-          "name": "T.I.M.",
-          "url": "https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC"
-        },
-        {
-          "name": "John Hayes",
-          "url": "https://open.spotify.com/artist/0pBj903ovIkiNZpaWuW6QY"
-        },
-        {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        },
-        {
-          "name": "Mother's Finest",
-          "url": "https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H"
         }
       ],
-      "duration_ms": 179840,
-      "name": "What Is Wrong & What Is Right (feat. Adrian Young of No Doubt)",
-      "url": "https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD"
+      "duration_ms": 202293,
+      "name": "Trapped In A Box",
+      "url": "https://open.spotify.com/track/0aqmgKRH04ItzeBUxlujCD"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/43N0WNTGfOruD0377oEeMo"
+      "duration_ms": 232346,
+      "name": "Big Distraction",
+      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 232346,
-      "name": "Big Distraction",
-      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
+      "duration_ms": 269000,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/43N0WNTGfOruD0377oEeMo"
     },
     {
       "added_at": null,

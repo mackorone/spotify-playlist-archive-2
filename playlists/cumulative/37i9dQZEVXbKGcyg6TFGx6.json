@@ -11332,7 +11332,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -23079,6 +23079,28 @@
     },
     {
       "album": {
+        "name": "Freya Be Rockin",
+        "url": "https://open.spotify.com/album/3jltE8ueXqapYzI2TExxw7"
+      },
+      "artists": [
+        {
+          "name": "Hierarchy of the Cave Mutants Records",
+          "url": "https://open.spotify.com/artist/6cXrVplk7cBistHqipFe3a"
+        },
+        {
+          "name": "Glenn Welman (Drums",
+          "url": "https://open.spotify.com/artist/54J8UX3ug3kAPjQRhUXpSN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277565,
+      "name": "Freya Be Rockin",
+      "url": "https://open.spotify.com/track/0D0cAqUjqHLC3hSEM2xJET"
+    },
+    {
+      "album": {
         "name": "FRI(END)S",
         "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
       },
@@ -27326,7 +27348,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 223013,
       "name": "honeybee",
       "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
@@ -27888,7 +27910,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -31114,7 +31136,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -36340,7 +36362,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -36358,7 +36380,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/4Bd7WFT93cRqlfyGi6eK93"
@@ -40980,7 +41002,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -41722,7 +41744,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 153779,
       "name": "m\u00e9li-m\u00e9lo",
       "url": "https://open.spotify.com/track/1kEVqYA0JMm0qKQqykm7gE"
@@ -50878,7 +50900,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -59100,7 +59122,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
@@ -60798,7 +60820,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -61974,7 +61996,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -64448,6 +64470,24 @@
       "duration_ms": 170900,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
+    },
+    {
+      "album": {
+        "name": "Unikat",
+        "url": "https://open.spotify.com/album/2jtcUELvJ5c14bdxANkRDb"
+      },
+      "artists": [
+        {
+          "name": "Fred Denote",
+          "url": "https://open.spotify.com/artist/5Ri58RIMrWqHwwYJ8odeEm"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Unikat",
+      "url": "https://open.spotify.com/track/24sh9m08Z5rV8zpdBJ2WWk"
     },
     {
       "album": {

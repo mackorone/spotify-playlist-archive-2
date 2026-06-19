@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 38126,
+  "num_followers": 38125,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABucjAMTjfAMZN7zBzUtagT",
+  "snapshot_id": "ajHjgAAAAAD/zhinXQlzGcnHtIAgHXcZ",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 215063,
+      "name": "Basta Uma Palavra",
+      "url": "https://open.spotify.com/track/2ayGHwGSw6y3Nvcmvy5MG5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tome Posse da Vit\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/4FqY2NSYlpamvnQosMuwVJ"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 271586,
       "name": "Tome Posse da Vit\u00f3ria (Ao Vivo)",
       "url": "https://open.spotify.com/track/0dPhAYC73cQPAfCDg9yj5T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Com Muito Louvor",
-        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Basta Uma Palavra",
-      "url": "https://open.spotify.com/track/2ayGHwGSw6y3Nvcmvy5MG5"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 289970,
-      "name": "Todo Poderoso",
-      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Com Muito Louvor",
         "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 248314,
       "name": "Deus Tem Poder",
       "url": "https://open.spotify.com/track/39QAy80uCoPxx7ed7wdLDd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 289970,
+      "name": "Todo Poderoso",
+      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 325218,
-      "name": "Tremendo e Santo",
-      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Segredo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 306694,
       "name": "O Segredo (Ao Vivo)",
       "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 325218,
+      "name": "Tremendo e Santo",
+      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 411364,
-      "name": "A Cura",
-      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harpa Vol.2",
         "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 337803,
       "name": "A Face Adorada de Jesus",
       "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 411364,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 321549,
-      "name": "N\u00e3o Negue a Jesus",
-      "url": "https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For\u00e7a Imensa",
         "url": "https://open.spotify.com/album/0qLMGkSjgjqzCb0BZzvXXQ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 302927,
       "name": "Igreja Pequena",
       "url": "https://open.spotify.com/track/3inLgXi9DzkUMtj5CPPi6p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 321549,
+      "name": "N\u00e3o Negue a Jesus",
+      "url": "https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX"
     },
     {
       "added_at": null,
@@ -903,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 222958,
-      "name": "Para Sempre",
-      "url": "https://open.spotify.com/track/4JMEYQr7JAhVPu5LP2eeB7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harpa Vol.2",
         "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 198762,
       "name": "H\u00e1 Poder no Sangue de Jesus",
       "url": "https://open.spotify.com/track/4NSTdRyk65cJJLKQL75Zqz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 222958,
+      "name": "Para Sempre",
+      "url": "https://open.spotify.com/track/4JMEYQr7JAhVPu5LP2eeB7"
     },
     {
       "added_at": null,

@@ -8522,7 +8522,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 136853,
       "name": "NO FUIMOS",
       "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
@@ -9336,6 +9336,24 @@
       "duration_ms": 156097,
       "name": "Olvidate de Mi",
       "url": "https://open.spotify.com/track/7IiFMffmFIZQxqy6WuABkm"
+    },
+    {
+      "album": {
+        "name": "Omitir Intro",
+        "url": "https://open.spotify.com/album/56A8YlZiaUm2HqAjhSNjoZ"
+      },
+      "artists": [
+        {
+          "name": "Fede Mestre",
+          "url": "https://open.spotify.com/artist/4kQCav3BRXxbuyGjxQDIy9"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Omitir Intro",
+      "url": "https://open.spotify.com/track/6PEpeC3XDOPsbp695ami1m"
     },
     {
       "album": {

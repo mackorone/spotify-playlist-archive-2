@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The Ultimate EA SPORTS FC USA Playlist: bringing together the sounds of the USA in celebration of The World's Game\. Curated specially for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,013 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,001 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 35 | [Holding On](https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 5:50 |
 | 36 | [Mountain Top](https://open.spotify.com/track/0AqWEuMIS9ZF26VwlfXW0j) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Unicorn](https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0) | 4:03 |
 | 37 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 |
-| 38 | [Beat Keep Rockin'](https://open.spotify.com/track/11RXJgrGmyPJEtbOJ9ZFYQ) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Beat Keep Rockin'](https://open.spotify.com/album/6qIpC1zUZJ1DqFbyMcQT6q) | 3:03 |
-| 39 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 |
-| 40 | [Upset & Aggressive](https://open.spotify.com/track/2IaME6ZbdnNc2CvDeRFhhj) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:31 |
-| 41 | [Dreaming](https://open.spotify.com/track/3c7vquF4xacCmFrxztLUVH) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Smallpools](https://open.spotify.com/album/6DadUIElI6GgDh8XCscyxn) | 3:36 |
-| 42 | [Let It Roll](https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:14 |
-| 43 | [Princess Cuts \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 3:05 |
-| 44 | [Wrong Time](https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Wrong Time](https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ) | 2:50 |
-| 45 | [Bury Me Alive](https://open.spotify.com/track/3sm9P6PgKzatTgyiyj0IzQ) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:44 |
+| 38 | [Bury Me Alive](https://open.spotify.com/track/3sm9P6PgKzatTgyiyj0IzQ) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:44 |
+| 39 | [Beat Keep Rockin'](https://open.spotify.com/track/11RXJgrGmyPJEtbOJ9ZFYQ) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Beat Keep Rockin'](https://open.spotify.com/album/6qIpC1zUZJ1DqFbyMcQT6q) | 3:03 |
+| 40 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 |
+| 41 | [Upset & Aggressive](https://open.spotify.com/track/2IaME6ZbdnNc2CvDeRFhhj) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:31 |
+| 42 | [Dreaming](https://open.spotify.com/track/3c7vquF4xacCmFrxztLUVH) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Smallpools](https://open.spotify.com/album/6DadUIElI6GgDh8XCscyxn) | 3:36 |
+| 43 | [Let It Roll](https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:14 |
+| 44 | [Princess Cuts \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 3:05 |
+| 45 | [Wrong Time](https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Wrong Time](https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ) | 2:50 |
 | 46 | [6am](https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [6am](https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm) | 3:41 |
 | 47 | [Aquamarine \(feat\. Michael Kiwanuka\)](https://open.spotify.com/track/4so0c8plnJDYDCZtZCfsHr) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cheat Codes](https://open.spotify.com/album/4TPi1tGDVXCdQOjn4NSRaB) | 3:58 |
 | 48 | [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 |

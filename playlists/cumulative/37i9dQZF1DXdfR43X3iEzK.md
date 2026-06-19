@@ -2,9 +2,9 @@
 
 ### [alt/pop](https://open.spotify.com/playlist/37i9dQZF1DXdfR43X3iEzK)
 
-> my alt/pop could mean anything ⚔️ cover: Tove Styrke
+> my alt/pop could mean anything ⚔️ cover: Charli xcx
 
-685 songs - 1 day 12 hr 49 min
+691 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Dirty Habit](https://open.spotify.com/track/6VkVVNFxYOySv4s4n6lTy3) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Dirty Habit](https://open.spotify.com/album/4Rf2Md17s9jsDvQUJZmYxD) | 3:35 | 2026-03-27 | 2026-05-08 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-12 | 2025-03-14 |
 | [DISNEY PRINCESS](https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DISNEY PRINCESS](https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H) | 4:05 | 2026-02-27 | 2026-03-20 |
-| [Distance](https://open.spotify.com/track/41gGYveHrgZoUIHmxRcif8) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Distance](https://open.spotify.com/album/0Vo4QBLiC7wdCuG58pgRwa) | 3:14 | 2026-03-20 |  |
+| [Distance](https://open.spotify.com/track/41gGYveHrgZoUIHmxRcif8) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Distance](https://open.spotify.com/album/0Vo4QBLiC7wdCuG58pgRwa) | 3:14 | 2026-03-20 | 2026-06-19 |
 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 | 2024-06-07 | 2025-03-08 |
 | [DNA](https://open.spotify.com/track/1IuAF9VgDcQpjD39NH3UQl) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [DNA](https://open.spotify.com/album/39mNWhSKd2QwX1yYsIEQtb) | 2:45 | 2026-05-21 |  |
 | [Do Not Go Gentle into Goodbyes](https://open.spotify.com/track/4J5MVJGewv7MjA2uuruxGV) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Anti\-People Pleaser, Pt\. 1](https://open.spotify.com/album/5Qf3rfAwHvdye91p3ebaiu) | 4:13 | 2025-03-14 | 2025-04-04 |
@@ -273,6 +273,7 @@
 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 | 2024-10-10 | 2025-03-14 |
 | [hairgrow](https://open.spotify.com/track/4nTEc1faMmppqH4VTKp99i) | [Clyde Crooks](https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm) | [hairgrow](https://open.spotify.com/album/7xANhiEuS5U9exd4f56uQk) | 4:43 | 2025-07-10 | 2026-03-13 |
 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 | 2025-06-19 | 2025-07-11 |
+| [Hanging Out To Dry](https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Spring Forward](https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS) | 3:32 | 2026-06-18 |  |
 | [Hanging Out To Dry](https://open.spotify.com/track/6fDEL7s2jZ8jbNqxATbmOX) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Hanging Out To Dry](https://open.spotify.com/album/1JE6lLEIEkdpzBkWeY0Qrz) | 3:32 | 2026-06-11 |  |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-06-07 | 2025-03-08 |
 | [Hard to Have One](https://open.spotify.com/track/338jOm5Iwf4sTkTdsR4jl2) | [racecar](https://open.spotify.com/artist/757pFasiaA3uFkIepkSXll) | [Pink Car](https://open.spotify.com/album/2K8TQLg5eE4qOWzA3CCQS5) | 3:23 | 2025-03-28 | 2025-06-07 |
@@ -288,6 +289,7 @@
 | [Heavy Metal](https://open.spotify.com/track/0QdrzSZig9wjp7uvPcbgve) | [Starchild & The New Romantic](https://open.spotify.com/artist/3JZZpDHgo1WxBrxuleA3Ab) | [Heavy Metal](https://open.spotify.com/album/1xp5rZLFDAqEvEwCpSj2HK) | 2:04 | 2025-05-22 | 2025-07-11 |
 | [Hello Lonely](https://open.spotify.com/track/0eFTxYwpRTxyefxYlBJq6L) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Radiosoul](https://open.spotify.com/album/0GpklLqjWNrhropGa4XRRD) | 3:31 | 2024-06-07 | 2024-07-25 |
 | [HERicane](https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [HERicane](https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1) | 3:47 | 2024-06-07 | 2025-03-08 |
+| [hey there \[i have a compulsive complex\]](https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [hey there \[i have a compulsive complex\]](https://open.spotify.com/album/4hJczqZb7VUIigRIp8utjA) | 2:53 | 2026-06-18 |  |
 | [HIGHER POWER](https://open.spotify.com/track/5ez3JJpecUQ1a6buXZkv5h) | [Scar](https://open.spotify.com/artist/3DyUi3wp8COAWvHHd1Qq7H) | [SCAR](https://open.spotify.com/album/62m3wnRYVBHHhAyPDufnnu) | 2:25 | 2025-05-15 | 2025-05-31 |
 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 | 2025-05-30 | 2025-09-12 |
 | [Homesick](https://open.spotify.com/track/3XRqYhWxKdArkEunQwzBfK) | [Babyteeth](https://open.spotify.com/artist/5G4r8ljlfEd8oFcI2Fneax) | [Homesick](https://open.spotify.com/album/6KnywI6lBE2r7a4MsPPXCn) | 2:28 | 2026-04-02 |  |
@@ -467,9 +469,11 @@
 | [OLD TECHNOLOGY](https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [OLD TECHNOLOGY](https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw) | 2:39 | 2026-02-27 |  |
 | [omw2u](https://open.spotify.com/track/5rckGAJIVOXMYwkjl0LREw) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [willow tree \(more! there's more!\)](https://open.spotify.com/album/5C6ZbCBOEK4iAotPDFAXct) | 3:28 | 2025-03-28 | 2025-05-02 |
 | [On Fire](https://open.spotify.com/track/7uJgoGxsNfVqoMbjqfUBOG) | [Good Hugg](https://open.spotify.com/artist/2Hsyzkw6WlQxtJuuR0ZMct) | [Six Two](https://open.spotify.com/album/6c0V2xsysKghGWIu1TRH4r) | 3:11 | 2025-06-06 | 2025-08-22 |
+| [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3) | 3:37 | 2026-06-18 |  |
 | [One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Ste The Beautiful Martyr 1st Attempt](https://open.spotify.com/album/55QB0uS2Bp83KLN1qW5UGB) | 2:56 | 2025-05-01 | 2025-07-25 |
 | [othello](https://open.spotify.com/track/06ss61sRVXC2DuYh2GcoVt) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [othello](https://open.spotify.com/album/7C4tEL9g4Vb2Dsn9Q1H52h) | 3:12 | 2025-04-10 | 2025-07-25 |
 | [out your mind](https://open.spotify.com/track/1B7hgHRjXhtdBYGrWQo2jr) | [lilheartbreak](https://open.spotify.com/artist/6LMdMAYI8JDAT0KASyl97P) | [out your mind](https://open.spotify.com/album/4kctUgWc1jjW0ZqjvINrKz) | 1:53 | 2025-04-03 | 2025-04-18 |
+| [outta time](https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [outta time](https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB) | 4:11 | 2026-06-18 |  |
 | [Overglow](https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow](https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE) | 2:38 | 2024-07-18 | 2025-03-14 |
 | [Overspill](https://open.spotify.com/track/4PVPEQIAnSxcjqezB64JSl) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Overspill](https://open.spotify.com/album/2QpWTctPOArceSSiccWRGG) | 3:02 | 2025-08-07 | 2025-11-28 |
 | [Own Me](https://open.spotify.com/track/3t7lmi5cCWlqkDCHPLxs1N) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Own Me](https://open.spotify.com/album/5gYK8rsyQvHAHplAmFpplG) | 2:47 | 2025-09-11 | 2025-11-07 |
@@ -499,6 +503,7 @@
 | [Pop Out](https://open.spotify.com/track/4tJP37H4IBwmajRzyzLiNc) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Pop Out](https://open.spotify.com/album/30MkCiLrhvOpfSMaVuZIqn) | 2:29 | 2025-03-14 | 2025-03-28 |
 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 | 2026-01-30 | 2026-04-03 |
 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 | 2025-09-19 | 2026-04-17 |
+| [PQC](https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [PQC](https://open.spotify.com/album/35hsDC9B2utVC66cjrJ1GY) | 3:32 | 2026-06-18 |  |
 | [Prada Boo](https://open.spotify.com/track/493StZUc3moeLSbY60CLZl) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Prada Boo](https://open.spotify.com/album/4P68ccoHnsZNH1paDPjIcp) | 2:33 | 2025-08-15 | 2025-09-20 |
 | [Princess](https://open.spotify.com/track/0lGcZ4ETaHaCutgJDPFgep) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Princess](https://open.spotify.com/album/2A2jl1IvGujKfSMkAbfqjY) | 3:00 | 2026-04-23 |  |
 | [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 | 2025-11-14 |  |
@@ -600,6 +605,7 @@
 | [summer of love](https://open.spotify.com/track/5ttv8rhr5AxHSqAN5xg7zT) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [SOPHOMORE](https://open.spotify.com/album/1eN6QlgyGlf1hHkr04rLS8) | 2:46 | 2024-06-07 | 2024-07-19 |
 | [Sunshine Song](https://open.spotify.com/track/4UuCVPaGrR2sbCOdeJiNie) | [Prima Queen](https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2) | [Sunshine Song](https://open.spotify.com/album/39Pk90tueJmkZEnf67TUak) | 2:25 | 2025-04-17 | 2025-08-08 |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-02-14 | 2025-03-28 |
+| [swim](https://open.spotify.com/track/3TRP1MEDDkUw0YDsi8iQ3F) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [swim](https://open.spotify.com/album/4h4L56LbVAXREBss215iRB) | 6:11 | 2026-06-18 |  |
 | [swimming in pity](https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [swimming in pity](https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6) | 2:56 | 2025-03-28 | 2025-08-01 |
 | [Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-06-07 | 2025-03-14 |
 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 | 2024-10-10 | 2025-03-14 |

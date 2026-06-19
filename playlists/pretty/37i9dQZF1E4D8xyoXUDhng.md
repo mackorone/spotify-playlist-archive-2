@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Vanessa Bell Armstrong, Rev\. Milton Brunson, Daryl Coley and more
+> With Vickie Winans, Daryl Coley, Vanessa Bell Armstrong and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 398 likes - 50 songs - 4 hr 59 min
 

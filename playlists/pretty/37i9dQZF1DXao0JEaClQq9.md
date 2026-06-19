@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > Modern heavenly sounds\. Cover: Not For Radio
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,616,449 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,616,312 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 23 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
 | 24 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 |
 | 25 | [Divinize](https://open.spotify.com/track/2JH26hQtnqWUNnQET8o2N1) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:03 |
-| 26 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 |
+| 26 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
 | 27 | [How to Disappear Completely](https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:56 |
 | 28 | [Heavy Heads](https://open.spotify.com/track/5dNDBm3dVxo2Zemw9SC1TR) | [Orca](https://open.spotify.com/artist/3c2nSvBJwDuvmxFBKlc854) | [Heavy Heads](https://open.spotify.com/album/53oI2Smb1pZKWACrwf7ixf) | 3:31 |
-| 29 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
+| 29 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 |
 | 30 | [may you never forget me](https://open.spotify.com/track/2sV11xuq4U8KlGWKCtGNpx) | [Temachii](https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ) | [flora maniia](https://open.spotify.com/album/2VJWNCadN7DfQ3XThbvlUk) | 3:35 |
 | 31 | [Paradise Circus](https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Hope Sandoval](https://open.spotify.com/artist/7zS53Xa6sVgfoh00kckgyV) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 4:57 |
 | 32 | [Dove \- Doll Ver](https://open.spotify.com/track/2NHHKv9F4mYLSMfMl0jayB) | [antihoney](https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3) | [Dove \(Doll Ver\)](https://open.spotify.com/album/3iNri5JDR2qHc5XqXdu6T7) | 2:15 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 35 | [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 |
 | 36 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
 | 37 | [QKThr](https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 1:27 |
-| 38 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
-| 39 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 |
+| 38 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 |
+| 39 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 40 | [Not the Only One](https://open.spotify.com/track/17AnW24hC6ZU6P8VQwElH9) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:46 |
 | 41 | [Aquamarine / Arcamarine](https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Aquamarine / Arcamarine](https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN) | 3:14 |
 | 42 | [HALCYON + ON + ON](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 54 | [Labrinth \- Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 |
 | 55 | [Clearblue](https://open.spotify.com/track/5IOucMoMeoBw64mEQ68MjE) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 1:57 |
 | 56 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 |
-| 57 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
-| 58 | [Movies](https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:53 |
+| 57 | [Movies](https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:53 |
+| 58 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
 | 59 | [The Path Less Travelled](https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [The Path Less Travelled](https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq) | 3:44 |
 | 60 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/7jOM0KIKgIppqIEvEjixaj) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 4:28 |
 | 61 | [Losing Focus](https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [In Russia\. A is a 9](https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU) | 3:29 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 72 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW) | 3:34 |
 | 73 | [choke enough](https://open.spotify.com/track/3KVRU1oh4M4VtMRCNWBDVC) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 4:00 |
 | 74 | [MAGIC MAN](https://open.spotify.com/track/0QIjmMTKNYs0XYYUSkORGb) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:13 |
-| 75 | [Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 3:18 |
+| 75 | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB) | 3:22 |
 
 Snapshot ID: `AAAAADVCvtfVoLFDDiEUNr5Zn4KEl7L/`

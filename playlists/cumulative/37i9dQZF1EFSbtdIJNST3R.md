@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oEa7f0DcvJhreGq1I3Zwe">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-82 songs - 3 hr 42 min
+83 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Piet Pyama Party](https://open.spotify.com/track/53ufLC1lzbZwvpUs4Sl6YA) | [De Club van Sinterklaas](https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1), [KADO](https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ) | [De Leukste Liedjes 2021](https://open.spotify.com/album/1czwYtZdav91HjwNmppicN) | 2:05 | 2022-05-25 |  |
 | [Regular Girls](https://open.spotify.com/track/0OYJ43sBm7ZmSBAj4QIKJi) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Regular Girls](https://open.spotify.com/album/7N3zxoDY07EwOSopX5xs8A) | 2:23 | 2025-09-26 |  |
 | [Rückwärtsgang](https://open.spotify.com/track/0PeqjPMkg5az7s5PNiymXV) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [Rückwärtsgang](https://open.spotify.com/album/3FQ7WItUVApunygLj4btX7) | 2:27 | 2022-06-30 |  |
+| [Samen Blijven](https://open.spotify.com/track/05frc7EsEIMBrF7uK6CCxT) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Samen Blijven](https://open.spotify.com/album/0n3idTgAnCgj84Szvmjc4o) | 2:38 | 2026-06-18 |  |
 | [Sauvignon](https://open.spotify.com/track/0VHXix8h9flwMdJajrKhnT) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Sauvignon](https://open.spotify.com/album/6UlrKixl15syjZiSsfI0qE) | 2:39 | 2025-09-26 |  |
 | [Side Eyes](https://open.spotify.com/track/16UK0ysbJRGRmIsyjvI3yV) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49) | 2:07 | 2022-05-25 | 2024-12-12 |
 | [Side Eyes](https://open.spotify.com/track/2KPqVgO8BBmUimV94WSaht) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/2XuHEzuL9HlYVLLQhGrfhA) | 2:07 | 2026-05-03 |  |

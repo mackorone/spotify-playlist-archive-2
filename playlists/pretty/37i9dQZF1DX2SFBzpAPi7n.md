@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YongYong\(용용\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,776 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,757 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 7 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |
 | 8 | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 |
 | 9 | [Born Savage](https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P) | 2:52 |
-| 10 | [Panic](https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ) | [BEOMGYU](https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH) | [Panic](https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H) | 3:08 |
-| 11 | [Love Language](https://open.spotify.com/track/6w9SgpKIzB54R2xHml1UPP) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Can This Love Be Translated? \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd) | 3:05 |
+| 10 | [Love Language](https://open.spotify.com/track/6w9SgpKIzB54R2xHml1UPP) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Can This Love Be Translated? \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd) | 3:05 |
+| 11 | [Panic](https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ) | [BEOMGYU](https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH) | [Panic](https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H) | 3:08 |
 | 12 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 |
 | 13 | [The Show](https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 2:47 |
 | 14 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 41 | [AMNESIA](https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [AMNESIA](https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs) | 3:19 |
 | 42 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 |
 | 43 | [GAME OVER ?](https://open.spotify.com/track/3Ce7m66BjXf97IDrvUVGbP) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [LOVE&HATE](https://open.spotify.com/album/5lOdOxNDjxelMZ7PJSZB6G) | 3:17 |
-| 44 | [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 |
-| 45 | [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 |
+| 44 | [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 |
+| 45 | [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 |
 | 46 | [Human Extinction](https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [Archive\. 1](https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs) | 3:26 |
 | 47 | [Ruin My Life](https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [EXchange4, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T) | 3:05 |
 | 48 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
-| 49 | [Being a Good Girl Hurts](https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Blooming Wings](https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP) | 2:47 |
-| 50 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 |
+| 49 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 |
+| 50 | [Being a Good Girl Hurts](https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Blooming Wings](https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP) | 2:47 |
 
 Snapshot ID: `AAAAAOCxbtjF+PAfO8GuWL+DURVRvdXh`

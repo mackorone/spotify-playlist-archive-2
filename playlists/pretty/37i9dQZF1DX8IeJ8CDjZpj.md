@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > Celebremos que nuestro equipo salió vencedor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,807 likes - 53 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,775 likes - 53 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 16 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
 | 17 | [Báilame](https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Báilame](https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1) | 2:59 |
 | 18 | [Juana la Cubana](https://open.spotify.com/track/6J34YqqzuSpq1rnTRf7oZH) | [Fito Olivares Y La Pura Sabrosura](https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o) | [Grandes Exitos "Reinas y Brujas"](https://open.spotify.com/album/6Fso0qeCobSZtELllifwmI) | 3:10 |
-| 19 | [Los Chismes](https://open.spotify.com/track/7e19QPeRUqvRrdoBjEHkU3) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Mi Mexico Querido](https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz) | 2:59 |
-| 20 | [Agüita De Coco](https://open.spotify.com/track/6yd503DovrZyEN4qZGaZcq) | [J.L.B\. Y Cía](https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R) | [45 Éxitos \(Versiones Originales\)](https://open.spotify.com/album/3j5xMGA9BmUE77O512excf) | 3:01 |
+| 19 | [Agüita De Coco](https://open.spotify.com/track/6yd503DovrZyEN4qZGaZcq) | [J.L.B\. Y Cía](https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R) | [45 Éxitos \(Versiones Originales\)](https://open.spotify.com/album/3j5xMGA9BmUE77O512excf) | 3:01 |
+| 20 | [Los Chismes](https://open.spotify.com/track/7e19QPeRUqvRrdoBjEHkU3) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Mi Mexico Querido](https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz) | 2:59 |
 | 21 | [El Coco No](https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:56 |
 | 22 | [Mira oye](https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Que lo baile bien](https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE) | 3:22 |
 | 23 | [El Colesterol](https://open.spotify.com/track/6hmHJJd4h81u40rCi45Wjv) | [Fito Olivares Y La Pura Sabrosura](https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o) | [30 Exitos Inolvidables](https://open.spotify.com/album/6qIZrfwZxb4bMB9rcNGbV6) | 2:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,024 likes - 39 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,038 likes - 39 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 8 | [Peacock Tail](https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 5:24 |
 | 9 | [Music Is Math](https://open.spotify.com/track/3MF9cjIlg3R9osw3SgRmEb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 5:21 |
 | 10 | [Father And Son](https://open.spotify.com/track/2jS1VIUPJnepG7sIU5nJUR) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 3:24 |
-| 11 | [Wildlife Analysis](https://open.spotify.com/track/1XZdwzd8DTDvkjVc0eJ9BI) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:15 |
+| 11 | [Bocuma](https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:35 |
 | 12 | [Into The Rainbow Vein](https://open.spotify.com/track/2Wo9U9sM6oi6hl5ZSBSA0B) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 0:44 |
 | 13 | [Reach For The Dead](https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:47 |
 | 14 | [Memory Death](https://open.spotify.com/track/5YFWLq8Y6LElf9r8hMYgFa) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 2:37 |
-| 15 | [Bocuma](https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:35 |
+| 15 | [Wildlife Analysis](https://open.spotify.com/track/1XZdwzd8DTDvkjVc0eJ9BI) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:15 |
 | 16 | [A Moment Of Clarity](https://open.spotify.com/track/1MMsn8AfguMOJMvSDxy6wo) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 0:51 |
 | 17 | [Cold Earth](https://open.spotify.com/track/3D37FsVAqvQFAddR3JcJ3e) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:42 |
 | 18 | [Naraka](https://open.spotify.com/track/6IuquJdJVxdSEgsJv5YU6Z) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 5:01 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 38 | [Amo Bishop Roden \[Chosen by Warp co\-founder Steve Beckett\]](https://open.spotify.com/track/7rthWzg7LMuXANxC0gaVKL) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:13 |
 | 39 | [Mr Mistake \- Boards of Canada Remix / Instrumental](https://open.spotify.com/track/2sCLqyzqJ1pXY7uE78pIIu) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Mr Mistake \(Boards of Canada Remix\)](https://open.spotify.com/album/0FZ3XnFYhGVjepxzYsbnQX) | 4:51 |
 
-Snapshot ID: `ajCSAAAAAADkuoTA53H/bthKc2TUHiqu`
+Snapshot ID: `ajHjgAAAAABV+6XW/7C77Y0R/omgMvnl`

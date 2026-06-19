@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,741 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,755 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 15 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 | 16 | [Something About Your Love](https://open.spotify.com/track/1ZVaf194CeE7eBItAVEUCj) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [In The Ever](https://open.spotify.com/album/1yb3U8bjeyWWhpZBP3eka2) | 4:30 |
 | 17 | [Wait for Me](https://open.spotify.com/track/5SHOb5hvMDzmIRfDhwBoq5) | [Motopony](https://open.spotify.com/artist/5urVI6ZUTzPlsqQoHVwc9s) | [Motopony](https://open.spotify.com/album/43mF1taGdqWTV6MG0R9IsW) | 4:49 |
-| 18 | [Middle Names](https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 3:28 |
-| 19 | [Wise Up](https://open.spotify.com/track/5hUWvHrxArc3IbbF2UIpjg) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Live at St\. Ann's Warehouse](https://open.spotify.com/album/5bNYT2lytZ65zLGHUkB8Hu) | 3:21 |
+| 18 | [Wise Up](https://open.spotify.com/track/5hUWvHrxArc3IbbF2UIpjg) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Live at St\. Ann's Warehouse](https://open.spotify.com/album/5bNYT2lytZ65zLGHUkB8Hu) | 3:21 |
+| 19 | [Middle Names](https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 3:28 |
 | 20 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 |
 | 21 | [Northern Sky](https://open.spotify.com/track/185WVQvIuyv2FF0mAFbRvI) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [A Treasury](https://open.spotify.com/album/1D5FYlYISuZXWBeVut4879) | 3:45 |
 | 22 | [On the Attack](https://open.spotify.com/track/1wOR1yWj7PlnQRbL5QneuJ) | [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB), [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 4:21 |
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 32 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Special Edition\)](https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H) | 3:49 |
 | 33 | [I Hope That I Don't Fall In Love With You](https://open.spotify.com/track/0oYo06FRCBtrE3kWrDcsDF) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time](https://open.spotify.com/album/4ENah6iWByAVrxQS7uiF87) | 3:54 |
 | 34 | [Your Song](https://open.spotify.com/track/55uHgEQV1BVtTbI72uEpOq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 4:03 |
-| 35 | [The Healing Day](https://open.spotify.com/track/6L8XgwcRqIZGWvvyEEPtui) | [Bill Fay](https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1) | [Life Is People \[Spotify Exclusive\]](https://open.spotify.com/album/1W9WpSBCm665dwflnP7dSt) | 5:14 |
-| 36 | [There Can Be Only One](https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 4:17 |
-| 37 | [Perfect Day](https://open.spotify.com/track/3egOYMcML1gY2yM9GOvuXU) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Perfect Day](https://open.spotify.com/album/64SYukAhDXMKhtFJRoFqUg) | 3:44 |
-| 38 | [Mad Sounds](https://open.spotify.com/track/3msQ1AerRdSbjrBk3F4W0q) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 3:35 |
-| 39 | [Our Love](https://open.spotify.com/track/4ouHnqx22lzTZHr2hEt5aH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 3:52 |
+| 35 | [Perfect Day](https://open.spotify.com/track/3egOYMcML1gY2yM9GOvuXU) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Perfect Day](https://open.spotify.com/album/64SYukAhDXMKhtFJRoFqUg) | 3:44 |
+| 36 | [Our Love](https://open.spotify.com/track/4ouHnqx22lzTZHr2hEt5aH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 3:52 |
+| 37 | [The Healing Day](https://open.spotify.com/track/6L8XgwcRqIZGWvvyEEPtui) | [Bill Fay](https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1) | [Life Is People \[Spotify Exclusive\]](https://open.spotify.com/album/1W9WpSBCm665dwflnP7dSt) | 5:14 |
+| 38 | [There Can Be Only One](https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 4:17 |
+| 39 | [Mad Sounds](https://open.spotify.com/track/3msQ1AerRdSbjrBk3F4W0q) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 3:35 |
 | 40 | [Too Many Birds](https://open.spotify.com/track/3tH2AWcU1XTpV4BwirC819) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/2jalkvKIskN3GecqZAuqam) | 5:27 |
 | 41 | [Pink Moon](https://open.spotify.com/track/1CbPLR6Xjo2nc0Pf13N0RS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg) | 2:03 |
 | 42 | [I Think of You](https://open.spotify.com/track/5Y27DvOTSUWqZNKNGUzM3o) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/4Aa53iJ3EuGEkrna4nhAHn) | 3:25 |
-| 43 | [Baby I'm Yours](https://open.spotify.com/track/6Dhk2ZvhPG8HCY3qFU5A2l) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/36gyE5ONEx9pKCMoQdcUI6) | 2:32 |
-| 44 | [Orange Sky](https://open.spotify.com/track/5Szn0p3DlnawyuhX8ULCg4) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/3Wk7Z5ZUufzA163eaf8qZG) | 6:19 |
+| 43 | [Orange Sky](https://open.spotify.com/track/5Szn0p3DlnawyuhX8ULCg4) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/3Wk7Z5ZUufzA163eaf8qZG) | 6:19 |
+| 44 | [Baby I'm Yours](https://open.spotify.com/track/6Dhk2ZvhPG8HCY3qFU5A2l) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/36gyE5ONEx9pKCMoQdcUI6) | 2:32 |
 | 45 | [Sunday Morning](https://open.spotify.com/track/3lX49Bqy21Y5HneUJ7p55G) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Super Deluxe Edition\)](https://open.spotify.com/album/1gGjSTfser1MPfowGiuy9l) | 2:55 |
 | 46 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 |
 | 47 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 |

@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 251884,
+  "num_followers": 251951,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,26 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
+        "name": "Delivery",
+        "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 209367,
+      "name": "Delivery",
+      "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
         "name": "TOMORROWLAND",
         "url": "https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD"
       },
@@ -647,26 +667,6 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "Delivery",
-        "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 209367,
-      "name": "Delivery",
-      "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
         "name": "Kalashnikov",
         "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
       },
@@ -679,26 +679,6 @@
       "duration_ms": 129500,
       "name": "Kalashnikov",
       "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
-        "name": "MONEY EDITION",
-        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 158841,
-      "name": "MONEY EDITION",
-      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -727,6 +707,26 @@
       "duration_ms": 288000,
       "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
       "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "MONEY EDITION",
+        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 158841,
+      "name": "MONEY EDITION",
+      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "RZR",
-        "url": "https://open.spotify.com/album/7lWOTbEaKWftGJPYLjAgzg"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "RZR",
-      "url": "https://open.spotify.com/track/4qzgdMbUnkXaPTfstaGWcA"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
         "name": "Contando",
         "url": "https://open.spotify.com/album/0sYFaXcYzBjHaIMINygdx2"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 191515,
       "name": "Contando",
       "url": "https://open.spotify.com/track/4ZpMTXHBxhpycSHQmI4gOY"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "RZR",
+        "url": "https://open.spotify.com/album/7lWOTbEaKWftGJPYLjAgzg"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "RZR",
+      "url": "https://open.spotify.com/track/4qzgdMbUnkXaPTfstaGWcA"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -2115,18 +2115,22 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "Un Antes y un Despu\u00e9s",
-        "url": "https://open.spotify.com/album/4f86mPhD4aW8wsymxEGzAn"
+        "name": "Andamos",
+        "url": "https://open.spotify.com/album/1xAxVtARgZS7UkIuLUBl1v"
       },
       "artists": [
         {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
         }
       ],
-      "duration_ms": 148522,
-      "name": "Un Antes y Un Despu\u00e9s",
-      "url": "https://open.spotify.com/track/6B6qzSyFwkF1xV8t2zHpOP"
+      "duration_ms": 195692,
+      "name": "Andamos",
+      "url": "https://open.spotify.com/track/1zz2ffaRZmI99OjHBjPVH8"
     }
   ],
   "unique_name": "Gaming Belic\u00f3n",

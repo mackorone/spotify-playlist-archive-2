@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Maria Leit\u00e3o",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Tain\u00e1",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -1879,6 +1879,28 @@
     },
     {
       "album": {
+        "name": "Cor l\u00e1 Fora",
+        "url": "https://open.spotify.com/album/5SxomFEgRYwXGuyjNBlB99"
+      },
+      "artists": [
+        {
+          "name": "Janeiro",
+          "url": "https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0"
+        },
+        {
+          "name": "Valter Lobo",
+          "url": "https://open.spotify.com/artist/69KGUs8AVPGEyE5ZR9PCc7"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251250,
+      "name": "Cor l\u00e1 Fora",
+      "url": "https://open.spotify.com/track/5dypIZR23O78on3av5uw2z"
+    },
+    {
+      "album": {
         "name": "From The Pyre",
         "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
       },
@@ -2902,7 +2924,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 151816,
       "name": "estrela (volta pra mim)",
       "url": "https://open.spotify.com/track/30pOe89CnuZDkFMGwuVVSm"
@@ -6308,7 +6330,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 190944,
       "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
@@ -6626,7 +6648,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 229077,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/4QE6hQUEpnH4fPuOlUPK42"
@@ -7174,6 +7196,24 @@
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+    },
+    {
+      "album": {
+        "name": "Sabi\u00e1",
+        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169595,
+      "name": "Sabi\u00e1",
+      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
     },
     {
       "album": {
@@ -9558,7 +9598,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 166015,
       "name": "Wishful Thinker",
       "url": "https://open.spotify.com/track/4ixOrGaJGSvx1D2RecrjnG"

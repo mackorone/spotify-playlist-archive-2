@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 3110,
+  "num_followers": 3111,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABDz39DvzqrdZO/vY/VHrow",
+  "snapshot_id": "ajHjgAAAAAAH8zY5CcL49c2MgJaHkraw",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 233877,
-      "name": "Shoulders",
-      "url": "https://open.spotify.com/track/12wEty8taSbdZoyDCIYtDi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 201978,
       "name": "You Had Me at Aloha",
       "url": "https://open.spotify.com/track/0IAx8D7mpLhIvI2tm4D2UE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 233877,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/12wEty8taSbdZoyDCIYtDi"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 234004,
-      "name": "I Won't Settle",
-      "url": "https://open.spotify.com/track/35MbvYgnKMyRmRLeaIARbi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A10: Best of Anuhea",
         "url": "https://open.spotify.com/album/687WlNECcAuUrkAUnu2sOA"
       },
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spam Musubi Song",
-        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2"
       },
       "artists": [
         {
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 140010,
-      "name": "Spam Musubi Song",
-      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
+      "duration_ms": 188368,
+      "name": "We Make It Look Easy",
+      "url": "https://open.spotify.com/track/3Fq59TNyANNaRzAKnAwcdQ"
     },
     {
       "added_at": null,
@@ -623,6 +607,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spam Musubi Song",
+        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 140010,
+      "name": "Spam Musubi Song",
+      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moku Soul",
+        "url": "https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4"
+      },
+      "artists": [
+        {
+          "name": "Tripp Wilson",
+          "url": "https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz"
+        },
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 190463,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2"
       },
@@ -632,9 +652,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 188368,
-      "name": "We Make It Look Easy",
-      "url": "https://open.spotify.com/track/3Fq59TNyANNaRzAKnAwcdQ"
+      "duration_ms": 234004,
+      "name": "I Won't Settle",
+      "url": "https://open.spotify.com/track/35MbvYgnKMyRmRLeaIARbi"
     },
     {
       "added_at": null,
@@ -675,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moku Soul",
-        "url": "https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4"
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ"
       },
       "artists": [
-        {
-          "name": "Tripp Wilson",
-          "url": "https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz"
-        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 190463,
-      "name": "Underrated",
-      "url": "https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR"
+      "duration_ms": 226185,
+      "name": "Walk on Water",
+      "url": "https://open.spotify.com/track/05FJsUh3xeLPhSSKJO0Aut"
     },
     {
       "added_at": null,
@@ -711,18 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ"
+        "name": "Red, Gold & Green",
+        "url": "https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ"
       },
       "artists": [
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Kimi\u00e9 Miner",
+          "url": "https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61"
         }
       ],
-      "duration_ms": 226185,
-      "name": "Walk on Water",
-      "url": "https://open.spotify.com/track/05FJsUh3xeLPhSSKJO0Aut"
+      "duration_ms": 229900,
+      "name": "Red, Gold & Green",
+      "url": "https://open.spotify.com/track/4hOxeXbeTDjm5T4DoyEUGs"
     },
     {
       "added_at": null,
@@ -759,26 +779,6 @@
       "duration_ms": 208200,
       "name": "Mr. Mellow",
       "url": "https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red, Gold & Green",
-        "url": "https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
-        {
-          "name": "Kimi\u00e9 Miner",
-          "url": "https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61"
-        }
-      ],
-      "duration_ms": 229900,
-      "name": "Red, Gold & Green",
-      "url": "https://open.spotify.com/track/4hOxeXbeTDjm5T4DoyEUGs"
     },
     {
       "added_at": null,

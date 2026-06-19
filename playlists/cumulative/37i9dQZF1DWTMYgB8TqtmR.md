@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-1,084 songs - 2 day 6 hr 30 min
+1,085 songs - 2 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -937,6 +937,7 @@
 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 | 2022-10-26 | 2022-12-02 |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-05-13 | 2024-06-01 |
 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-06-05 |  |
+| [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 | 2026-06-18 |  |
 | [The Days](https://open.spotify.com/track/6PEk3WWhhxbQQwQVVbGB0f) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [The Days](https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu) | 2:36 | 2022-03-03 | 2022-06-10 |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-24 | 2025-03-07 |
 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-04 | 2026-02-04 |

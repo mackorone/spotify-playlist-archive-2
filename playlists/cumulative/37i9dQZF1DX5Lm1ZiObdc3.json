@@ -545,6 +545,36 @@
     },
     {
       "album": {
+        "name": "Mozart: Piano Concertos Nos. 1, KV 37 & 27, KV 595, Clarinet Concerto, KV 622",
+        "url": "https://open.spotify.com/album/4Xt1YH5TZO5X1R4taFMNPO"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Blaz Sparovec",
+          "url": "https://open.spotify.com/artist/0gQ3ABRS7zsDe3ck0RGgdw"
+        },
+        {
+          "name": "ORF Radio-Symphonieorchester Wien",
+          "url": "https://open.spotify.com/artist/76MQAIy2SmztmEBSfbl6xp"
+        },
+        {
+          "name": "Howard Griffiths",
+          "url": "https://open.spotify.com/artist/6htlEU4z5WGJCDAkOFGGDq"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379461,
+      "name": "Clarinet Concerto in A Major, KV 622: II. Adagio",
+      "url": "https://open.spotify.com/track/6TZYtxpKUnzKwkp9H8QnOt"
+    },
+    {
+      "album": {
         "name": "Landscapes: Albinoni",
         "url": "https://open.spotify.com/album/6IVZVkzuGz2xC9L1bdWMEV"
       },
@@ -1318,6 +1348,32 @@
       "duration_ms": 167209,
       "name": "Lucio Silla, K. 135: Overture, Pt. 1. Andante",
       "url": "https://open.spotify.com/track/1WZ4Uto2DmKn2t9oZy2LiF"
+    },
+    {
+      "album": {
+        "name": "Uematsu: Merregnon: Heart of Ice",
+        "url": "https://open.spotify.com/album/7sCRhX2oPicbPJD86rMpkr"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Eckehard Stier",
+          "url": "https://open.spotify.com/artist/6TKr9lhopxSd6jE1aOwHx5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184853,
+      "name": "Merregnon: Heart of Ice: Kjugo, the Curious Wooden Robot",
+      "url": "https://open.spotify.com/track/4A1rxKO7IhbJv1vTszxXhF"
     },
     {
       "album": {

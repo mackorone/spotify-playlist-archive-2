@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حالة حب 🫶❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,352 likes - 99 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,371 likes - 99 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 54 | [Mawahashtkesh !!? \- From Hormone El Saada Album](https://open.spotify.com/track/1V5nOyehl22kvbNtfR53Qd) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Mawahashtkesh !!?](https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk) | 5:27 |
 | 55 | [برتاح معاك](https://open.spotify.com/track/13fRYCIjPIr5fi9Z3a9lGW) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:35 |
 | 56 | [Khaleke Fe Hodny el Leila](https://open.spotify.com/track/5U7cXLPY3RyLxKF5bVGClf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Khaleke Fe Hodny el Leila](https://open.spotify.com/album/7hmxZMPPjo5hZhJyFWrnI4) | 3:20 |
-| 57 | [جيت متأخر](https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [جيت متأخر](https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L) | 3:18 |
-| 58 | [توأمي](https://open.spotify.com/track/1JOrFJ6Oju9oh33HJeT1Is) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [توأمي](https://open.spotify.com/album/0oYPkB5l1SjJUJVFwsWDNu) | 3:34 |
+| 57 | [توأمي](https://open.spotify.com/track/1JOrFJ6Oju9oh33HJeT1Is) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [توأمي](https://open.spotify.com/album/0oYPkB5l1SjJUJVFwsWDNu) | 3:34 |
+| 58 | [جيت متأخر](https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [جيت متأخر](https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L) | 3:18 |
 | 59 | [قلبى و روحى و عمرى](https://open.spotify.com/track/5R0OJb3fdLxz4lOEJ3RAOj) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [قلبي وروحي وعمري](https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H) | 4:48 |
 | 60 | [أمانة عليك](https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [أمانة عليك](https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB) | 2:54 |
 | 61 | [3Einy Shayfa Feky](https://open.spotify.com/track/4rw8BWRPe0wlHnJA0T8MkD) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [3Einy Shayfa Feky](https://open.spotify.com/album/6z3aFsAQZuErSIJYqnn0HW) | 3:19 |

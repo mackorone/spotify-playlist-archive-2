@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: BLOND:ISH",
+  "description": "Canada's best dance hits, featuring TyriqueOrDie",
   "name": "mint Canada",
   "tracks": [
     {
@@ -502,6 +502,24 @@
       "duration_ms": 221748,
       "name": "6am",
       "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
+    },
+    {
+      "album": {
+        "name": "6IXSIDE",
+        "url": "https://open.spotify.com/album/6URB0TDgSZfAiJTzAYnRGw"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "6IXSIDE",
+      "url": "https://open.spotify.com/track/7mTqte91ND3ETnfLdUPfkD"
     },
     {
       "album": {
@@ -4277,6 +4295,24 @@
     },
     {
       "album": {
+        "name": "Black Techno Guy",
+        "url": "https://open.spotify.com/album/3OO4Kb2Iw1qljp75qXh3hF"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180586,
+      "name": "Black Techno Guy",
+      "url": "https://open.spotify.com/track/0GQ7Xh6mfh71Q0Az8sg3LT"
+    },
+    {
+      "album": {
         "name": "Blackberries",
         "url": "https://open.spotify.com/album/0F0JTnpQ50g9dVcX2CiNOn"
       },
@@ -6886,7 +6922,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170243,
       "name": "COOK",
       "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
@@ -11348,7 +11384,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 192000,
       "name": "Eyes Cut Deeper (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"
@@ -19159,6 +19195,32 @@
     },
     {
       "album": {
+        "name": "DUALITY",
+        "url": "https://open.spotify.com/album/4Dw28zBHujmDojEbZeViEk"
+      },
+      "artists": [
+        {
+          "name": "Lizdek",
+          "url": "https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG"
+        },
+        {
+          "name": "Malixe",
+          "url": "https://open.spotify.com/artist/0Aj37VEcCEFEZtoSFFvZzh"
+        },
+        {
+          "name": "Oddly Godly",
+          "url": "https://open.spotify.com/artist/35C4dxG2eg13VhzF1FaN7U"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "INSANE",
+      "url": "https://open.spotify.com/track/45JQqMg08DsvcDvpiJP7rE"
+    },
+    {
+      "album": {
         "name": "Inside Our Hearts",
         "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
       },
@@ -19332,6 +19394,28 @@
       "duration_ms": 196190,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/31rfmss1bYtH3MxPGw6FwE"
+    },
+    {
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196622,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY"
     },
     {
       "album": {
@@ -20140,7 +20224,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 159500,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
@@ -22484,7 +22568,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 136666,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
@@ -25644,6 +25728,32 @@
       "duration_ms": 187561,
       "name": "Movement",
       "url": "https://open.spotify.com/track/629lfbX9FnjfRDHoIOgNao"
+    },
+    {
+      "album": {
+        "name": "Movin' To The Sun",
+        "url": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Imael Angel",
+          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Movin' To The Sun",
+      "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
     },
     {
       "album": {
@@ -36789,6 +36899,28 @@
     },
     {
       "album": {
+        "name": "Sunset In Pretoria",
+        "url": "https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238032,
+      "name": "Sunset In Pretoria",
+      "url": "https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/5spUK0bAHyshCeLig1DnK7"
       },
@@ -37747,6 +37879,24 @@
     },
     {
       "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
+    },
+    {
+      "album": {
         "name": "Talk To You (ft. 54 Ultra)",
         "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
       },
@@ -37762,7 +37912,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
@@ -44020,7 +44170,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 286080,
       "name": "World Is Mine",
       "url": "https://open.spotify.com/track/0IOtFlCwTsHdekpZsaK0Ua"
@@ -45036,7 +45186,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 176274,
       "name": "Zone (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr"

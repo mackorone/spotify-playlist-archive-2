@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 196360,
       "name": "Eres",
       "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
@@ -2696,7 +2696,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 194177,
       "name": "Es Tan Grande Este Amor",
       "url": "https://open.spotify.com/track/2jV2BWkFNLbqOb8wqVR9iC"
@@ -2970,6 +2970,24 @@
       "duration_ms": 432000,
       "name": "Fugitivo / Aca Llega la Banda / Asi Fue - En Vivo",
       "url": "https://open.spotify.com/track/1FmxDLgWWPGN3gWTD45648"
+    },
+    {
+      "album": {
+        "name": "Gato",
+        "url": "https://open.spotify.com/album/413BLQ4l5raJnILLe7QBfm"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178863,
+      "name": "Gato",
+      "url": "https://open.spotify.com/track/33b2F8s13zZuNEM5x7sE7y"
     },
     {
       "album": {
@@ -8206,6 +8224,28 @@
       "duration_ms": 193083,
       "name": "Tu Sacaganas",
       "url": "https://open.spotify.com/track/2E7VxFwGSmvqLfsFoGDSi9"
+    },
+    {
+      "album": {
+        "name": "Tu Voz",
+        "url": "https://open.spotify.com/album/6r3AuhSyHJhy8eQ6r6E11y"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "Raul Camacho",
+          "url": "https://open.spotify.com/artist/10eONQKnUPe6K1pLnCUpqT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184675,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/4RLfStfAzb78wnSEhvIvlo"
     },
     {
       "album": {

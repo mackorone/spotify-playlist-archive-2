@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Ati242",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Motive",
   "name": "NKVT",
   "tracks": [
     {
@@ -280,6 +280,24 @@
       "duration_ms": 210044,
       "name": "25",
       "url": "https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8"
+    },
+    {
+      "album": {
+        "name": "PASAJ",
+        "url": "https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146170,
+      "name": "3 PARMAK",
+      "url": "https://open.spotify.com/track/0xcGXOEEqflhk0tNs14G1w"
     },
     {
       "album": {
@@ -1180,6 +1198,24 @@
       "duration_ms": 146400,
       "name": "Amazon",
       "url": "https://open.spotify.com/track/6p3vBJtgjSLvZ43slVNbh4"
+    },
+    {
+      "album": {
+        "name": "Anahtar",
+        "url": "https://open.spotify.com/album/0s5rMCGMGEdqjvHL9bL3HR"
+      },
+      "artists": [
+        {
+          "name": "Burry Soprano",
+          "url": "https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140637,
+      "name": "Anahtar",
+      "url": "https://open.spotify.com/track/4w6NCibR0jw5qRRnkmyP9y"
     },
     {
       "album": {
@@ -4280,7 +4316,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 155726,
       "name": "Cennet",
       "url": "https://open.spotify.com/track/1nRhCshF9nYpTZr0yM4mKS"
@@ -4426,6 +4462,28 @@
       "duration_ms": 136000,
       "name": "CISTAK",
       "url": "https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx"
+    },
+    {
+      "album": {
+        "name": "CNM",
+        "url": "https://open.spotify.com/album/7meLQbV7lHQABJf6fspJLR"
+      },
+      "artists": [
+        {
+          "name": "Eza",
+          "url": "https://open.spotify.com/artist/2gxy3wuy69FehyTu3iuRl2"
+        },
+        {
+          "name": "Haloday\u0131",
+          "url": "https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126240,
+      "name": "CNM",
+      "url": "https://open.spotify.com/track/7xIYLsVeOWzOcHOaIbggFO"
     },
     {
       "album": {
@@ -5650,7 +5708,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 153906,
       "name": "DVD",
       "url": "https://open.spotify.com/track/0GabRJwqSIxLv3A139Lu6b"
@@ -6860,7 +6918,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 211917,
       "name": "Geceleri Yak",
       "url": "https://open.spotify.com/track/0hZsxXnrkDzPQjGvxsyN39"
@@ -9141,6 +9199,28 @@
     },
     {
       "album": {
+        "name": "IT\u2019S US",
+        "url": "https://open.spotify.com/album/2Agk8fhkC1FZCHq6GZGJtq"
+      },
+      "artists": [
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194407,
+      "name": "IT\u2019S US",
+      "url": "https://open.spotify.com/track/0VK82DF3bZEh8tVQY71Nev"
+    },
+    {
+      "album": {
         "name": "IZOLE LIFE",
         "url": "https://open.spotify.com/album/5JTOxclRe8i4rZaftOnkhT"
       },
@@ -9784,6 +9864,10 @@
         {
           "name": "Cairo",
           "url": "https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId"
+        },
+        {
+          "name": "AsyA",
+          "url": "https://open.spotify.com/artist/0GqpS2c6NoGY29lJ7FcvJY"
         }
       ],
       "date_added": "2026-06-11",
@@ -10116,6 +10200,24 @@
       "duration_ms": 125162,
       "name": "Kalk Hele - Official \u2018Polis\u2019 Soundtrack",
       "url": "https://open.spotify.com/track/73JK018WaI7X11XqIWZ6BV"
+    },
+    {
+      "album": {
+        "name": "KALP YOK",
+        "url": "https://open.spotify.com/album/3NDS1GtGIJYF9lA6vDcvw9"
+      },
+      "artists": [
+        {
+          "name": "Modd",
+          "url": "https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181637,
+      "name": "kalp yok",
+      "url": "https://open.spotify.com/track/1wrptgj7ZrWn4KKeUrMnkU"
     },
     {
       "album": {
@@ -12200,6 +12302,28 @@
       "duration_ms": 223939,
       "name": "Lise Y\u0131llar\u0131mdan",
       "url": "https://open.spotify.com/track/34PX91yCyntzsXHfgQPeKK"
+    },
+    {
+      "album": {
+        "name": "LISPO",
+        "url": "https://open.spotify.com/album/1RE8XsrzV1bgjwQWKrZsQT"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011frul Bekta\u015f",
+          "url": "https://open.spotify.com/artist/3QQWKCc48eBmxfw5wOrmgN"
+        },
+        {
+          "name": "vayti",
+          "url": "https://open.spotify.com/artist/1lhhI6S7bSAi8nnhUj5a0Z"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118041,
+      "name": "LISPO",
+      "url": "https://open.spotify.com/track/6qGm658nHttsc5lrCbjEC3"
     },
     {
       "album": {
@@ -14502,7 +14626,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 180021,
       "name": "OUTTA SYY",
       "url": "https://open.spotify.com/track/1Y7jpJ4KulvMcMQU3qzt2J"
@@ -17273,6 +17397,28 @@
     },
     {
       "album": {
+        "name": "S\u0130NEMATOGRAF",
+        "url": "https://open.spotify.com/album/02U1wZI0SnyLgD2mzuwWho"
+      },
+      "artists": [
+        {
+          "name": "Khontkar",
+          "url": "https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr"
+        },
+        {
+          "name": "Tuby",
+          "url": "https://open.spotify.com/artist/3VuBOZYMdaEEp1uxtf9s2J"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102937,
+      "name": "S\u0130NEMATOGRAF",
+      "url": "https://open.spotify.com/track/2UIkjmKJATC4ssvONBlcB7"
+    },
+    {
+      "album": {
         "name": "MANHATTAN PROJECT",
         "url": "https://open.spotify.com/album/0GTfvJS2PD2tVRB21n9S3T"
       },
@@ -17318,7 +17464,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 153610,
       "name": "skici",
       "url": "https://open.spotify.com/track/1Oxysfnv85iKglnjGdoVID"
@@ -18431,6 +18577,28 @@
     },
     {
       "album": {
+        "name": "Timsahlar",
+        "url": "https://open.spotify.com/album/3ehDnWigd5HOYWLccjQ34G"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164241,
+      "name": "Timsahlar",
+      "url": "https://open.spotify.com/track/6wOuvnMDcWOTI9TTk8Jzem"
+    },
+    {
+      "album": {
         "name": "TIRMANDIM",
         "url": "https://open.spotify.com/album/7fI8MrZfCWgds0YnnRVdPg"
       },
@@ -18512,7 +18680,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 186710,
       "name": "Trap House",
       "url": "https://open.spotify.com/track/24jJv0eMKXT4MvGKRP70QS"
@@ -18694,7 +18862,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 138600,
       "name": "T\u00fcrkiye'm",
       "url": "https://open.spotify.com/track/0XsqXgOOn0M3Qd4ttGPiPe"
@@ -18836,7 +19004,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 131091,
       "name": "Unutamam",
       "url": "https://open.spotify.com/track/6zc0p2YMTImhouXf5jdxCF"
@@ -20196,7 +20364,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 180923,
       "name": "YIN YANG",
       "url": "https://open.spotify.com/track/3e0XM5ARlFVbWLfdR7zZvp"
@@ -21150,6 +21318,24 @@
       "duration_ms": 169340,
       "name": "\u00d6lmedim Ben",
       "url": "https://open.spotify.com/track/5XGsUaTVnP4SAwBmWTJ6Fz"
+    },
+    {
+      "album": {
+        "name": "PASAJ",
+        "url": "https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "\u00d6L\u00dc SESLER",
+      "url": "https://open.spotify.com/track/0xvD7ihRvRhFDXjY8lI1QO"
     },
     {
       "album": {

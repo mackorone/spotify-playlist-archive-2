@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 15211,
+  "num_followers": 15214,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAADVIzXtJVnIcI3KTNo/Txhd",
+  "snapshot_id": "ajHjgAAAAADdvwWdqO6a8YqfRpT+QGVe",
   "tracks": [
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Equal Strain On All Parts",
-        "url": "https://open.spotify.com/album/237Fbt0QgkCxkRDmBRvmiR"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 236918,
-      "name": "Ti Punch Caf\u00e9",
-      "url": "https://open.spotify.com/track/0GHiqo3CxI9pZvFHEzdvU5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 196356,
       "name": "Different (feat. Damian Marley & Angelique Kidjo)",
       "url": "https://open.spotify.com/track/6F5bERiTAIAVAP8ZUh0tqE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Equal Strain On All Parts",
+        "url": "https://open.spotify.com/album/237Fbt0QgkCxkRDmBRvmiR"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 236918,
+      "name": "Ti Punch Caf\u00e9",
+      "url": "https://open.spotify.com/track/0GHiqo3CxI9pZvFHEzdvU5"
     },
     {
       "added_at": null,
@@ -764,21 +764,17 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         },
         {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
         },
         {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        },
-        {
-          "name": "Sheila Maurice-Grey",
-          "url": "https://open.spotify.com/artist/6213qnwAKa0wEJBVXxfOdC"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 196594,
-      "name": "Nadi Balance (feat. Sheila Maurice-Grey)",
-      "url": "https://open.spotify.com/track/5Z7HHsnGoG99HMM8KXuxda"
+      "duration_ms": 202466,
+      "name": "For Me (feat. Charlie Wilson)",
+      "url": "https://open.spotify.com/track/2L3HhDof9fD0EFI1KCMWef"
     },
     {
       "added_at": null,
@@ -920,17 +916,13 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         },
         {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
         }
       ],
-      "duration_ms": 202466,
-      "name": "For Me (feat. Charlie Wilson)",
-      "url": "https://open.spotify.com/track/2L3HhDof9fD0EFI1KCMWef"
+      "duration_ms": 187680,
+      "name": "Fall On Me (feat. PJ Morton)",
+      "url": "https://open.spotify.com/track/4gzev8rPHeOydUdpubBCEm"
     },
     {
       "added_at": null,
@@ -1103,6 +1095,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djin Djin",
         "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
       },
@@ -1167,26 +1175,6 @@
       "duration_ms": 224071,
       "name": "The World Will Know",
       "url": "https://open.spotify.com/track/2cTSxcvyIXDwyorRLGpHFE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "An African",
-        "url": "https://open.spotify.com/album/3Z7hDe1tt7ThkDD1ssyjH2"
-      },
-      "artists": [
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 155800,
-      "name": "An African",
-      "url": "https://open.spotify.com/track/1jxVp3UVwaRwB4EgSAFnIf"
     }
   ],
   "unique_name": "This Is Angelique Kidjo",

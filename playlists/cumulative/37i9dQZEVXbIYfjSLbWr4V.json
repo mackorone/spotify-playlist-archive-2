@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
@@ -2442,6 +2442,24 @@
       "duration_ms": 109817,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/4C5BDHPQuJ5K49XsAK8uq2"
+    },
+    {
+      "album": {
+        "name": "Bad (Remastered)",
+        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280753,
+      "name": "Dirty Diana - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK"
     },
     {
       "album": {
@@ -7978,7 +7996,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 144624,
       "name": "Rebirth (Intro)",
       "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
@@ -10768,7 +10786,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 135000,
       "name": "\u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u043d\u0430\u0441\u0438\u043b\u0438\u044f\u2122",
       "url": "https://open.spotify.com/track/6W3Psuj5yAWF2EQ4xRv6Ut"
@@ -11998,7 +12016,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 260560,
       "name": "\u0412\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u0430?",
       "url": "https://open.spotify.com/track/5bkfPKnHLi6AUP3fJA5Xf5"
@@ -12310,7 +12328,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 239910,
       "name": "\u0413\u043e\u0440\u044b \u043f\u043e \u043a\u043e\u043b\u0435\u043d\u043e",
       "url": "https://open.spotify.com/track/7f6ALwMTMLAhXCfoHYLCsx"
@@ -14330,7 +14348,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 255796,
       "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/5DeaUQWxyUxRC9dRFWV1g1"
@@ -15436,7 +15454,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 213954,
       "name": "\u041d\u043e\u043d \u0441\u0442\u043e\u043f",
       "url": "https://open.spotify.com/track/2nmRH8nkluAFr3qI1ryavs"
@@ -15454,7 +15472,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 213954,
       "name": "\u041d\u043e\u043d \u0441\u0442\u043e\u043f",
       "url": "https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC"
@@ -16766,7 +16784,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 195532,
       "name": "\u041f\u044c\u044f\u043d\u044b\u0439 \u0434\u043e\u0436\u0434\u044c",
       "url": "https://open.spotify.com/track/5BFADKJgtL2eZ4XZJq8zEc"
@@ -18170,7 +18188,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 214418,
       "name": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442",
       "url": "https://open.spotify.com/track/0e7fQFxNi91TGwf0ezB8qj"
@@ -18188,7 +18206,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 214418,
       "name": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442",
       "url": "https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK"
@@ -18428,7 +18446,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 116152,
       "name": "\u0442\u0435\u0431\u0435 \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f",
       "url": "https://open.spotify.com/track/7oqmLWTlbagPlSomBGh7mo"
@@ -18516,6 +18534,24 @@
       "duration_ms": 160478,
       "name": "\u0422\u043c\u0441\u0442\u0441",
       "url": "https://open.spotify.com/track/1jqbg6vgOkK6yyrALTgCfZ"
+    },
+    {
+      "album": {
+        "name": "\u043d\u043e\u0432\u044b\u0439 \u0430\u043b\u044c\u0431\u043e\u043c \u043f\u0440\u043e \u043b\u044e\u0431\u043e\u0432\u044c",
+        "url": "https://open.spotify.com/album/0x7xXGfXiAEpbOwzRFNBuo"
+      },
+      "artists": [
+        {
+          "name": "zhanulka",
+          "url": "https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173272,
+      "name": "\u0442\u043e\u043a",
+      "url": "https://open.spotify.com/track/7hcbP4H4irpWZzIm5IYr9w"
     },
     {
       "album": {

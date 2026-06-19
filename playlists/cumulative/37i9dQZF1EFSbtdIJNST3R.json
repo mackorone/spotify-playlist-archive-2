@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Samen Blijven",
+        "url": "https://open.spotify.com/album/0n3idTgAnCgj84Szvmjc4o"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158193,
+      "name": "Samen Blijven",
+      "url": "https://open.spotify.com/track/05frc7EsEIMBrF7uK6CCxT"
+    },
+    {
+      "album": {
         "name": "Sauvignon",
         "url": "https://open.spotify.com/album/6UlrKixl15syjZiSsfI0qE"
       },

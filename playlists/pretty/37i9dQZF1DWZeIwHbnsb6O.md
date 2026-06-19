@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,653 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,742 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 44 | [Hasta Que Vuelvas](https://open.spotify.com/track/0f8AMcclUWij6oCjYiyLQg) | [Gualberto Castro](https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC) | [25 Exitos](https://open.spotify.com/album/5JMgIEiwX8WsKZf9CYz4We) | 3:57 |
 | 45 | [Ella Fue](https://open.spotify.com/track/5tTZCXy4lOapYDw7kMPRaX) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Si Tú Te Acuerdas de Mi](https://open.spotify.com/album/0Lg4pYC31TmqCggVLFk5ZG) | 4:24 |
 | 46 | [El Amar y el Querer](https://open.spotify.com/track/3O0VgO1XOxiJSQnThWWPv3) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Brillantes \- Jose Jose](https://open.spotify.com/album/3olQZ2Bjes0ujqc3aVvWYI) | 3:56 |
-| 47 | [Si Supieras](https://open.spotify.com/track/1qIlPTAcSHD6MJTr4qIJJr) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [Las Número 1 de Manoella Torres](https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM) | 3:17 |
+| 47 | [Volveré](https://open.spotify.com/track/0ccJhHqaQM1SzA7xVA4Mqi) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego Verdaguer En Los 70's](https://open.spotify.com/album/4v8s9F4HZ0fPMLa5sHj0yp) | 4:02 |
 | 48 | [Lost In My World \(Perdido en Mi Mundo\)](https://open.spotify.com/track/7CsV5sRCCpayqPhmtJoNTU) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 4:07 |
-| 49 | [Llamarada](https://open.spotify.com/track/2uXz8MxMjYd04aDVh7xCKg) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1YTbsdm4trFRqGpRlcXkDA) | 3:19 |
-| 50 | [Volveré](https://open.spotify.com/track/0ccJhHqaQM1SzA7xVA4Mqi) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego Verdaguer En Los 70's](https://open.spotify.com/album/4v8s9F4HZ0fPMLa5sHj0yp) | 4:02 |
+| 49 | [Si Supieras](https://open.spotify.com/track/1qIlPTAcSHD6MJTr4qIJJr) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [Las Número 1 de Manoella Torres](https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM) | 3:17 |
+| 50 | [Llamarada](https://open.spotify.com/track/2uXz8MxMjYd04aDVh7xCKg) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1YTbsdm4trFRqGpRlcXkDA) | 3:19 |
 | 51 | [Una Lágrima \- Una Lacrima](https://open.spotify.com/track/6P4mD0UiVmjcuURvsbVtc5) | [Estela Nuñez](https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0) | [Las Numero 1 De Estela Nuñez](https://open.spotify.com/album/6hTXiPN5rX7Beamc05glhq) | 3:56 |
 | 52 | [No Tengo Dinero](https://open.spotify.com/track/6QNpYs7Rklq0NU8PCyrwxM) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Personalidad](https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7) | 3:09 |
 | 53 | [La de la Mochila Azul](https://open.spotify.com/track/4eDbJ81SQHYN1oV2qUmr2j) | [Pedrito Fernández](https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk) | [Personalidad](https://open.spotify.com/album/37hzzmje0NL0lKmAbcHZop) | 2:46 |

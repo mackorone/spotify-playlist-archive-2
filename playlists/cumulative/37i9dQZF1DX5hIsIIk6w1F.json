@@ -710,7 +710,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 115200,
       "name": "A MI MANERA",
       "url": "https://open.spotify.com/track/4Pq7zKeDXPHt6WTPMlFMmc"
@@ -6768,6 +6768,28 @@
       "duration_ms": 127122,
       "name": "El Almac\u00e9n #04",
       "url": "https://open.spotify.com/track/6E9M1v8P1APKABt6qBbdDo"
+    },
+    {
+      "album": {
+        "name": "El almac\u00e9n #10+1",
+        "url": "https://open.spotify.com/album/4MCV9EJoM04tNO6TxNbX9i"
+      },
+      "artists": [
+        {
+          "name": "Pablito Pesadilla",
+          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127714,
+      "name": "El almac\u00e9n #10+1",
+      "url": "https://open.spotify.com/track/2Rr82bkDaQ2WntDhrWlsAi"
     },
     {
       "album": {
@@ -20511,6 +20533,28 @@
     },
     {
       "album": {
+        "name": "Sashimi",
+        "url": "https://open.spotify.com/album/0yP4bhZ9FDynHQ6ijyjcYx"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166374,
+      "name": "Sashimi",
+      "url": "https://open.spotify.com/track/6FGJxoZtc56axz96T8IB60"
+    },
+    {
+      "album": {
         "name": "Sateo",
         "url": "https://open.spotify.com/album/6hhd8TU09TEugzsyZjiJIm"
       },
@@ -22874,7 +22918,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 160230,
       "name": "TE PUSISTE RIKA",
       "url": "https://open.spotify.com/track/0ohbpEBIsL2e9qTGqCeIhF"

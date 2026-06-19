@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 172269,
+  "num_followers": 172331,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Se Quitan El Sombrero",
-        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Compr\u00e9ndala",
-      "url": "https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Con La Fuerza Del Destino",
         "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 177106,
       "name": "C\u00f3mo Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Se Quitan El Sombrero",
+        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Compr\u00e9ndala",
+      "url": "https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 248666,
       "name": "Hay Algo en ti",
       "url": "https://open.spotify.com/track/5xNqXLwdG5m5RrJfFkigVW"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Con Ganas De T\u00ed",
-        "url": "https://open.spotify.com/album/5A7OXdZt9pNJbhjdelWlpr"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "De Qu\u00e9 Sirvi\u00f3",
-      "url": "https://open.spotify.com/track/2pDoCPfvoR5CE8AUH6JT2l"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Ser Como T\u00fa",
         "url": "https://open.spotify.com/album/6wDGjaHs0dLNcF31n25LZo"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 183400,
       "name": "En Tu Basura",
       "url": "https://open.spotify.com/track/0hA8FSVXGdkCcT6T1OtA3f"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Con Ganas De T\u00ed",
+        "url": "https://open.spotify.com/album/5A7OXdZt9pNJbhjdelWlpr"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "De Qu\u00e9 Sirvi\u00f3",
+      "url": "https://open.spotify.com/track/2pDoCPfvoR5CE8AUH6JT2l"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Cari\u00f1o Santo",
-        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "A Pesar De Todo (15 Super Temas)",
         "url": "https://open.spotify.com/album/3XapO9H88P5D5TevLszVIp"
       },
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Cari\u00f1o Santo",
+        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Cumbia Del Lazo",
         "url": "https://open.spotify.com/album/1UqSxzsjl9uZg1xVoBLwLR"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 158720,
       "name": "La Cumbia Del Lazo",
       "url": "https://open.spotify.com/track/3gRpzfNEhcDuL2UXgTbkVu"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 186769,
+      "name": "El Tiempo Que Necesites",
+      "url": "https://open.spotify.com/track/3BqIGyhQL2wMCm7ySVc633"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1455,22 +1471,6 @@
       "duration_ms": 186573,
       "name": "Arrastrando La Cobija",
       "url": "https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 186769,
-      "name": "El Tiempo Que Necesites",
-      "url": "https://open.spotify.com/track/3BqIGyhQL2wMCm7ySVc633"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Hola Chicuelos",
         "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 229133,
       "name": "Pinche Stereo Band",
       "url": "https://open.spotify.com/track/2ZatwN31dBpci9aSLNZkKC"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/6gz2pSp3FRPv6yWUnQ0VdC"
-      },
-      "artists": [
-        {
-          "name": "Los Humildes",
-          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
-        }
-      ],
-      "duration_ms": 192809,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/6kk5NriWRn5my0USWHifUS"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Te Sorprender\u00e1s",
         "url": "https://open.spotify.com/album/6KK83cdEilYMgI8uHPR4Rk"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 208266,
       "name": "Por Que Te Tengo Que Olvidar",
       "url": "https://open.spotify.com/track/4yV699yWj5OnboFsF2eHtR"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/6gz2pSp3FRPv6yWUnQ0VdC"
+      },
+      "artists": [
+        {
+          "name": "Los Humildes",
+          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
+        }
+      ],
+      "duration_ms": 192809,
+      "name": "Amor Limosnero",
+      "url": "https://open.spotify.com/track/6kk5NriWRn5my0USWHifUS"
     },
     {
       "added_at": "2026-06-08 18:17:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 
 > Celebrating 10 years of <a href="https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg">independent artist discovery</a>\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,722 likes - 150 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,750 likes - 150 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 85 | [Fuckthepopulation](https://open.spotify.com/track/0XfsT6rbC7myipngFhWa9T) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [My Liver Will Handle What My Heart Can't](https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme) | 2:30 |
 | 86 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 |
 | 87 | [Blue Tequila](https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh) | [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Blue Tequila](https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU) | 3:22 |
-| 88 | [zarcillos de plata](https://open.spotify.com/track/2Wvs8qJJKrKGB6uZGMTDZB) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 3:18 |
-| 89 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/6azvhyagGek75gi0pLyl30) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/67zICJlL1ZcLe7aCWXLsSF) | 4:38 |
+| 88 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/6azvhyagGek75gi0pLyl30) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/67zICJlL1ZcLe7aCWXLsSF) | 4:38 |
+| 89 | [zarcillos de plata](https://open.spotify.com/track/2Wvs8qJJKrKGB6uZGMTDZB) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 3:18 |
 | 90 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 |
 | 91 | [Blue](https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6) | 3:18 |
 | 92 | [Tangled dreams](https://open.spotify.com/track/5PCoCu7jl8FJTm6rKAmFDZ) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tangled dreams](https://open.spotify.com/album/0KqPbrTMjCC8Hu4BKUM2LG) | 4:22 |
@@ -122,9 +122,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 112 | [high school boy](https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:54 |
 | 113 | [One and Only](https://open.spotify.com/track/4ePFBlfwXfrRmUzeCQzWKy) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Songs4u](https://open.spotify.com/album/2bLdzrKZaJTEZvoeJPzMxx) | 3:26 |
 | 114 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
-| 115 | [Big Dreams](https://open.spotify.com/track/6q1nZrQOBplr60zI4Kku4a) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Badkid](https://open.spotify.com/album/2QaQGxQuEV9hZYMhpS6Zax) | 2:33 |
-| 116 | [GASLIGHT](https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GASLIGHT](https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh) | 3:17 |
-| 117 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
+| 115 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
+| 116 | [Big Dreams](https://open.spotify.com/track/6q1nZrQOBplr60zI4Kku4a) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Badkid](https://open.spotify.com/album/2QaQGxQuEV9hZYMhpS6Zax) | 2:33 |
+| 117 | [GASLIGHT](https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GASLIGHT](https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh) | 3:17 |
 | 118 | [Closer](https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Closer](https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL) | 3:27 |
 | 119 | [False Direction](https://open.spotify.com/track/110PnrQX9AJIt3HNJtjPgt) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:37 |
 | 120 | [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 132 | [Shawty](https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Shawty](https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes) | 3:17 |
 | 133 | [Can't Hide](https://open.spotify.com/track/7CotyU8EcChJlqOFnxPPmI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Can't Hide](https://open.spotify.com/album/7mtjKxnZh0ISlfYa149pTW) | 3:04 |
 | 134 | [Second hand embarrassment](https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:17 |
-| 135 | [Tired Boy](https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\) \[Deluxe\]](https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ) | 4:30 |
-| 136 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 |
+| 135 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 |
+| 136 | [Tired Boy](https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\) \[Deluxe\]](https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ) | 4:30 |
 | 137 | [FEVER](https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:10 |
 | 138 | [Midnight Snack](https://open.spotify.com/track/3e6ysBefdwwkpdA7ciaN5i) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Midnight Snack](https://open.spotify.com/album/2DMG0zobpx4Yv0eOux8mUc) | 3:47 |
 | 139 | [Khayaal](https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khayaal](https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN) | 2:42 |

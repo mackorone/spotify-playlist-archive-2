@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 724171,
+  "num_followers": 724329,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALwpl6HuNnj6Rt7WotJQmvPdBBUv",
+  "snapshot_id": "AAAAACnrq577LINHzyFIJTsGmnQTmgsD",
   "tracks": [
     {
       "added_at": "2026-06-08 07:25:41",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 251920,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 225093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 251920,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/66kSq3nyISTG4FcTeeOpe2"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Jazz Love",
         "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
       },
       "artists": [
         {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
         }
       ],
-      "duration_ms": 221832,
-      "name": "I've Drawn Your Face",
-      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
+      "duration_ms": 210520,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/66kSq3nyISTG4FcTeeOpe2"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -475,6 +459,22 @@
       "duration_ms": 212426,
       "name": "Some Kind Of Wonderful",
       "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 221832,
+      "name": "I've Drawn Your Face",
+      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -751,38 +751,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "I'm Confessin'",
-      "url": "https://open.spotify.com/track/5mgx7i86Ei9kDDrbm9LrRn"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Remembering You",
         "url": "https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 240080,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "I'm Confessin'",
+      "url": "https://open.spotify.com/track/5mgx7i86Ei9kDDrbm9LrRn"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Castles in the Air",
-        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 233848,
-      "name": "Castles in the Air",
-      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Lips Can Lie",
         "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 229596,
       "name": "Lips Can Lie",
       "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "Castles in the Air",
+        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
+      },
+      "artists": [
+        {
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "Castles in the Air",
+      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Passion World",
-        "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 492520,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "At First Light",
         "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 299213,
       "name": "Be Still My Heart",
       "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "Passion World",
+        "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 492520,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Over the Rainbow",
-        "url": "https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 251103,
-      "name": "Over the Rainbow",
-      "url": "https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 160626,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "Over the Rainbow",
+        "url": "https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 251103,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
-      },
-      "artists": [
-        {
-          "name": "mystery tea.",
-          "url": "https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo"
-        }
-      ],
-      "duration_ms": 236367,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Edelweiss",
         "url": "https://open.spotify.com/album/0iMw5aKpZC7Ifv7oQZ8FzF"
       },
@@ -1851,18 +1835,18 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "I Only Have Eyes For You",
-        "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
       },
       "artists": [
         {
-          "name": "Chris Weeks",
-          "url": "https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO"
+          "name": "mystery tea.",
+          "url": "https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo"
         }
       ],
-      "duration_ms": 250745,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
+      "duration_ms": 236367,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1879,6 +1863,22 @@
       "duration_ms": 253386,
       "name": "Do You Know What It Means to Miss New Orleans",
       "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "I Only Have Eyes For You",
+        "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
+      },
+      "artists": [
+        {
+          "name": "Chris Weeks",
+          "url": "https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO"
+        }
+      ],
+      "duration_ms": 250745,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "A Reckoning Bell",
-        "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
-      },
-      "artists": [
-        {
-          "name": "The Magic Lantern",
-          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Dreamers Ball",
         "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 283960,
       "name": "Dreamers Ball",
       "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "A Reckoning Bell",
+        "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
+      },
+      "artists": [
+        {
+          "name": "The Magic Lantern",
+          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
+        "name": "Tell Him I Said Hello",
+        "url": "https://open.spotify.com/album/2YCGhSo9rks5UBzmI0stmy"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 304813,
+      "name": "Tell Him I Said Hello",
+      "url": "https://open.spotify.com/track/62xrkSU9yyiDXFoxjbAbSZ"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
         "name": "Taxes",
         "url": "https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 205040,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
-        "name": "Tell Him I Said Hello",
-        "url": "https://open.spotify.com/album/2YCGhSo9rks5UBzmI0stmy"
-      },
-      "artists": [
-        {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
-        }
-      ],
-      "duration_ms": 304813,
-      "name": "Tell Him I Said Hello",
-      "url": "https://open.spotify.com/track/62xrkSU9yyiDXFoxjbAbSZ"
     },
     {
       "added_at": "2026-06-08 07:25:41",

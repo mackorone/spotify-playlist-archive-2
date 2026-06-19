@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVMeW0SUm35.md) - [plain]
 
 > The official soundtrack and score of Euphoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,303 likes - 322 songs - 18 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,328 likes - 322 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In Dreams](https://open.spotify.com/track/5YsyqcewwE0c1ukzHVciS3) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [In Dreams](https://open.spotify.com/album/1Mur3hTEWtYHqGku4d9ySm) | 2:50 |
 | 2 | [The Ballad of Paladin](https://open.spotify.com/track/5vjo1ndBGsRw0sP5SdhqxL) | [Johnny Western](https://open.spotify.com/artist/1pzbcKgYA9HtiKRFeodTNV) | [Columbia Country Classics Volume 3: Americana](https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA) | 1:50 |
-| 3 | [Ebony And Ivory](https://open.spotify.com/track/1h3bcnnIm72UnemGIfm0iZ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [All The Best](https://open.spotify.com/album/1i7RwnOguDqvZ7myr8VDrh) | 3:40 |
+| 3 | [Ebony And Ivory](https://open.spotify.com/track/1h3bcnnIm72UnemGIfm0iZ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [All The Best](https://open.spotify.com/album/1i7RwnOguDqvZ7myr8VDrh) | 3:40 |
 | 4 | [Golden Shades](https://open.spotify.com/track/2nhcnxudcaCXXZAUqTGKXm) | [The Magnificent Tape Band](https://open.spotify.com/artist/7sqACo1iSpw5nd9XAhR08j) | [Patterns in My Mind](https://open.spotify.com/album/08maOB5PYQDYIUkAQEe8EQ) | 3:31 |
 | 5 | [Leave the Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/track/0zP8VSgyYSVqrSXTYTn9Su) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:42 |
 | 6 | [Digits](https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 2:56 |

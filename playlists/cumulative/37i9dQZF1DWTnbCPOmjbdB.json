@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Kasia Sienkiewicz",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Roxie",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "bez s\u0142\u00f3w",
+        "url": "https://open.spotify.com/album/3Kqba8YFZCbkTJA77QtDzB"
+      },
+      "artists": [
+        {
+          "name": "Manya",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117120,
+      "name": "bez s\u0142\u00f3w",
+      "url": "https://open.spotify.com/track/3Mf0raiHbeCis8RpJG1Aiq"
+    },
+    {
+      "album": {
         "name": "Bez S\u0142\u00f3w",
         "url": "https://open.spotify.com/album/4iuys9iZWD57kBoSeNMObm"
       },
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170474,
       "name": "Burza",
       "url": "https://open.spotify.com/track/5S9ajRyJf3gW7Ep8EeKVmy"
@@ -3489,6 +3507,24 @@
     },
     {
       "album": {
+        "name": "B\u0142\u0119kit",
+        "url": "https://open.spotify.com/album/1OrS5Jer8uVMVOFWUy9pJJ"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/7GI44CEvgkTfS0lDPxnVQW"
+    },
+    {
+      "album": {
         "name": "Dom Nad Wod\u0105",
         "url": "https://open.spotify.com/album/7vq9UO4zeOLafqzhwdOx5h"
       },
@@ -3570,7 +3606,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 154736,
       "name": "Dotknij",
       "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
@@ -9316,7 +9352,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 212000,
       "name": "narcyz",
       "url": "https://open.spotify.com/track/44y8Xzr5pLcdaQDAN9R7LB"
@@ -10866,7 +10902,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 173400,
       "name": "OdFiltruj Rzeczywisto\u015b\u0107",
       "url": "https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM"
@@ -12979,6 +13015,28 @@
     },
     {
       "album": {
+        "name": "P\u00f3\u017aniej Ci opowiem",
+        "url": "https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh"
+      },
+      "artists": [
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        },
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "P\u00f3\u017aniej Ci opowiem",
+      "url": "https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon"
+    },
+    {
+      "album": {
         "name": "P\u0119tliczek",
         "url": "https://open.spotify.com/album/4mmDfkmlOKI0oYvCCW2KPY"
       },
@@ -14726,7 +14784,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 285164,
       "name": "Tak ma by\u0107",
       "url": "https://open.spotify.com/track/2dMyKIP1j1IFt84XFt0Cno"
@@ -14766,6 +14824,24 @@
       "duration_ms": 210912,
       "name": "Tak musia\u0142o by\u0107",
       "url": "https://open.spotify.com/track/6pCP3lsx0VlSWM8GrymUy3"
+    },
+    {
+      "album": {
+        "name": "TAK TAK",
+        "url": "https://open.spotify.com/album/67Es1oaMCYOJ5sxffNmGlV"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204884,
+      "name": "TAK TAK",
+      "url": "https://open.spotify.com/track/1z6OWmVrMRx32kwDOgtGA9"
     },
     {
       "album": {
@@ -15704,6 +15780,24 @@
       "duration_ms": 188023,
       "name": "Tylko gest",
       "url": "https://open.spotify.com/track/2cHOEJcqGGNv3GVDxgF579"
+    },
+    {
+      "album": {
+        "name": "tylko kochaj mnie",
+        "url": "https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161342,
+      "name": "tylko kochaj mnie",
+      "url": "https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ"
     },
     {
       "album": {

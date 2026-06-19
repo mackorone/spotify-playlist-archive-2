@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,396 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,436 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 38 | [Aló](https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Hola Chicuelos](https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf) | 4:04 |
 | 39 | [I Count the Ways](https://open.spotify.com/track/37AXEkCvxD0rAUSkmjbem8) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Bulevar 2000 \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/1CAHCaHt10RshLU6sgDeAH) | 3:49 |
 | 40 | [Azul Oscuro](https://open.spotify.com/track/0QN72F39qCxtXJnyBGoUvy) | [Zurdok](https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF) | [Gran Salto 1997\-2014](https://open.spotify.com/album/3Wag0awiCvOgN4Sj6BXSuy) | 4:20 |
-| 41 | [Sastre Del Diablo](https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo) | [Nortec Collective](https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK) | [Border Revolver](https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN) | 2:50 |
-| 42 | [Kiosko](https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Kiosko](https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY) | 4:13 |
+| 41 | [Kiosko](https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Kiosko](https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY) | 4:13 |
+| 42 | [Sastre Del Diablo](https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo) | [Nortec Collective](https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK) | [Border Revolver](https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN) | 2:50 |
 | 43 | [Muchacha](https://open.spotify.com/track/2AAyhPcURpf7LqoqsiKZ1N) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Muchacha](https://open.spotify.com/album/47RB07x4FAdJZhkyNTEbPH) | 3:00 |
 | 44 | [Me Has Olvidado](https://open.spotify.com/track/4KgnL2H3Phfc3SvJn3Ph7G) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Lejos\. No Tan Lejos](https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ) | 4:08 |
 | 45 | [Berlín](https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:45 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 82 | [Mi Chica](https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [La Fiesta de la Forma](https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey) | 6:51 |
 | 83 | [A la Distancia](https://open.spotify.com/track/6lyOVxJw4WwJRmbSwzr2tQ) | [La Banderville](https://open.spotify.com/artist/5bHvEzZCBiHrBWMiwXFLgD) | [El Seminuevo de Manzana](https://open.spotify.com/album/4c8flSsuzU1QEYBMIoCQWd) | 3:15 |
 | 84 | [Copycat](https://open.spotify.com/track/1PK1LcF9pKYurDjOA17WmR) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Out of Place](https://open.spotify.com/album/4FW4QtvN7lDWxiKAjWIe7k) | 3:05 |
-| 85 | [No Coke](https://open.spotify.com/track/2WuSTAv5e782MlJvNkzSXU) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 3](https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es) | 2:53 |
-| 86 | [Alexander](https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [The Future Sugar](https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt) | 3:30 |
+| 85 | [Alexander](https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [The Future Sugar](https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt) | 3:30 |
+| 86 | [No Coke](https://open.spotify.com/track/2WuSTAv5e782MlJvNkzSXU) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 3](https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es) | 2:53 |
 | 87 | [Robot](https://open.spotify.com/track/0meIJ6nBSVW3UqX1O96EN3) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Cassette](https://open.spotify.com/album/5BS5LJXuEvSkOhznZ6gqhS) | 3:43 |
-| 88 | [Natural](https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c) | [Sol Flamingo](https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr) | [Natural](https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X) | 3:38 |
-| 89 | [Muchacho Satanico \- 2002 version](https://open.spotify.com/track/2W6y3hTo9bC2ptXAr5yjCl) | [Mario\*](https://open.spotify.com/artist/6LuoxHz3XHf2nh6UHM2tZB) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 3:03 |
+| 88 | [Muchacho Satanico \- 2002 version](https://open.spotify.com/track/2W6y3hTo9bC2ptXAr5yjCl) | [Mario\*](https://open.spotify.com/artist/6LuoxHz3XHf2nh6UHM2tZB) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 3:03 |
+| 89 | [Natural](https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c) | [Sol Flamingo](https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr) | [Natural](https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X) | 3:38 |
 | 90 | [Psicomagia](https://open.spotify.com/track/7Bxd7yC2SktQp6YeWff0Vx) | [Timothy The Master](https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ) | [Buffalo Beat EP](https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56) | 5:15 |
 | 91 | [Mexa](https://open.spotify.com/track/5jnpABLU8hh8yQ06deN7ff) | [Colores Santos](https://open.spotify.com/artist/5c9epmcDnbf7CBNBdYYdSA) | [Tortugas](https://open.spotify.com/album/0YUKJtumdS4Py8UzUMM4pD) | 3:59 |
 | 92 | [Agua De Coco](https://open.spotify.com/track/6Tpl9zu09N2EB7zzLLJKw2) | [Salvador y el Unicornio](https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm) | [Madre Mía](https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9) | 3:46 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 97 | [Por Eso](https://open.spotify.com/track/4rk4v9tpdPWb1U4mJbNSfs) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [Sombras De Oro](https://open.spotify.com/album/4RaT9wHZ3BtLSQaRRVTcmR) | 4:51 |
 | 98 | [Soy Aquel](https://open.spotify.com/track/5wHK6JuDl0vQtM44WYMfLq) | [La Banderville](https://open.spotify.com/artist/5bHvEzZCBiHrBWMiwXFLgD) | [4 Décadas de Rock en Tu Idioma](https://open.spotify.com/album/1EGgFPVygTlqdd5LqD3kiL) | 4:38 |
 | 99 | [The Peter Pan Syndrome](https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [Il Visore Lunatique](https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ) | 3:06 |
-| 100 | [Eres](https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 3:50 |
+| 100 | [Panadero](https://open.spotify.com/track/35GRNFIl3ANE1slInNSRKm) | [Los Super Elegantes](https://open.spotify.com/artist/6Aim4Lm9mDZd0W3F8XkF36) | [Los Super Elegantes Ep](https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di) | 4:37 |
 
 Snapshot ID: `AAAAAAtfZpeS+//5KiVrjwqjkkDsnJA/`

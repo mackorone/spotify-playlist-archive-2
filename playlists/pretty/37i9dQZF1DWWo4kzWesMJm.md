@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,216 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,240 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 35 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
 | 36 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
 | 37 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
-| 38 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
-| 39 | [On était beau](https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 3:25 |
+| 38 | [On était beau](https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 3:25 |
+| 39 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
 | 40 | [Le Premier jour \(Du reste de ta vie\)](https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Le Premier Jour](https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w) | 4:10 |
 | 41 | [L'horloge tourne](https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV) | [Mickael Miro](https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl) | [Juste Comme Ça](https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03) | 3:25 |
 | 42 | [Cette année\-là](https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le vagabond](https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT) | 3:12 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 52 | [Sur la route de Memphis](https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Sur La Route De Memphis](https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ) | 2:53 |
 | 53 | [Les voisines](https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:35 |
 | 54 | [Sur la route](https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr) | [De Palmas](https://open.spotify.com/artist/2tE58Zyy0x7jy0sn8l661c) | [la derniere annee](https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4) | 3:41 |
-| 55 | [Nue](https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire \(Réédition\)](https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd) | 3:04 |
-| 56 | [Femme de couleur](https://open.spotify.com/track/3rT3xXQcIXHvmRnTfX17WF) | [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Mes Fantaisies](https://open.spotify.com/album/5rkiNd9tXiodpgqaOCXDuu) | 3:36 |
+| 55 | [Femme de couleur](https://open.spotify.com/track/3rT3xXQcIXHvmRnTfX17WF) | [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Mes Fantaisies](https://open.spotify.com/album/5rkiNd9tXiodpgqaOCXDuu) | 3:36 |
+| 56 | [Nue](https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire \(Réédition\)](https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd) | 3:04 |
 | 57 | [Le Dernier Jour du Disco](https://open.spotify.com/track/3NwQsPQbVS3VfXJfYtoloj) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Le Dernier Jour du Disco](https://open.spotify.com/album/2S5DGtu0gRTjJDQWpGnJJA) | 3:26 |
 | 58 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
 | 59 | [Comment on fait](https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:00 |

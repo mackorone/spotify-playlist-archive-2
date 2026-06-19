@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,830 likes - 150 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,111 likes - 150 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 72 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 |
 | 73 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
 | 74 | [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:55 |
-| 75 | [Ma Baker](https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Love For Sale](https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM) | 4:36 |
-| 76 | [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
+| 75 | [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
+| 76 | [Ma Baker](https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Love For Sale](https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM) | 4:36 |
 | 77 | [Some Kind Of Wonderful \- Remastered 1999](https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [30 Years Of Funk: 1969\-1999 The Anthology](https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm) | 3:22 |
 | 78 | [Isn't She Lovely](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:34 |
 | 79 | [Bad Girls](https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 4:55 |
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 140 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
 | 141 | [Rock Steady](https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:13 |
 | 142 | [For the Love of Money](https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 7:19 |
-| 143 | [Let's All Chant](https://open.spotify.com/track/2xGMzDlPnmPHD8HUYOy4Lw) | [The Michael Zager Band](https://open.spotify.com/artist/1oX1l8zC13ovzEoGm2CAsd) | [Let's All Chant](https://open.spotify.com/album/2xpV9DXIMjXsVPs5Mz0Nez) | 3:04 |
-| 144 | [Rock Me Gently](https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w) | [Andy Kim](https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli) | [Greatest Hits](https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C) | 3:28 |
+| 143 | [Rock Me Gently](https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w) | [Andy Kim](https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli) | [Greatest Hits](https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C) | 3:28 |
+| 144 | [Let's All Chant](https://open.spotify.com/track/2xGMzDlPnmPHD8HUYOy4Lw) | [The Michael Zager Band](https://open.spotify.com/artist/1oX1l8zC13ovzEoGm2CAsd) | [Let's All Chant](https://open.spotify.com/album/2xpV9DXIMjXsVPs5Mz0Nez) | 3:04 |
 | 145 | [Everybody Dance](https://open.spotify.com/track/2tSzHVPE05bV6mFwm2Tndd) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Good Times: The Very Best Of Chic & Sister Sledge](https://open.spotify.com/album/5kPejohrlhJVzEBxMObjDU) | 4:07 |
 | 146 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 |
 | 147 | [Listen To What The Man Said \- 2014 Remaster](https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Venus And Mars \(Archive Collection\)](https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9) | 4:00 |

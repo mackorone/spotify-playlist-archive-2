@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3166,
+  "num_followers": 3168,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAAIOw6qXBfuh8IreWxod2FE",
+  "snapshot_id": "ajHjgAAAAACqQCmANzOkNJU2MGq8yHCC",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sappho",
-        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 216971,
-      "name": "Come Home With Me",
-      "url": "https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evil Angel",
         "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 169871,
       "name": "Bedspell",
       "url": "https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sappho",
+        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 216971,
+      "name": "Come Home With Me",
+      "url": "https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Drunk with Your Exes",
-      "url": "https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk"
+      "duration_ms": 193466,
+      "name": "For the Both of Us",
+      "url": "https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 193466,
-      "name": "For the Both of Us",
-      "url": "https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw"
+      "duration_ms": 200453,
+      "name": "Drunk with Your Exes",
+      "url": "https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk"
     },
     {
       "added_at": null,

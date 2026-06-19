@@ -2,9 +2,9 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> The hottest hits right now\. Cover: Stormy
+> The hottest hits right now\. Cover: Aya Nakamura
 
-561 songs - 1 day 5 hr 42 min
+562 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Sarini](https://open.spotify.com/track/60fjrgy5EwyWmN8PhQVBKY) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Sarini](https://open.spotify.com/album/2IwrMNUgldFJy5kcqY43xA) | 2:50 | 2025-08-29 | 2025-09-24 |
 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-08-14 | 2024-07-19 |
 | [Sensa](https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Sensa](https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW) | 2:02 | 2026-05-29 |  |
+| [Sexy Nana](https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Sexy Nana](https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30) | 2:36 | 2026-06-18 |  |
 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 | 2023-10-17 | 2024-07-19 |
 | [SHADOW BOXING](https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:47 | 2023-03-25 | 2024-02-04 |
 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-06-10 | 2025-10-18 |
@@ -561,7 +562,7 @@
 | [Échec \- Spotify Singles](https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Sipo](https://open.spotify.com/artist/3oMj4UHfEpUEtClL0pcT8o) | [Échec \(Spotify Singles\)](https://open.spotify.com/album/1wnHxsDjULbyppLwnAYsPt) | 3:23 | 2023-12-25 | 2024-01-23 |
 | [أفشتني](https://open.spotify.com/track/0TLJPWdBF6S1dLrPixXWMV) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [أفشتني](https://open.spotify.com/album/4sVSTpSXH7u7MCsXEkTlHy) | 3:25 | 2025-06-13 | 2025-06-27 |
 | [بالهدى](https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [بالهدى](https://open.spotify.com/album/5k3Z3I40E3EXZSoVJgRZpc) | 3:57 | 2023-03-04 | 2023-05-30 |
-| [تباعاً تباعاً](https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [تباعاً تباعاً](https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu) | 4:06 | 2026-05-16 |  |
+| [تباعاً تباعاً](https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [تباعاً تباعاً](https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu) | 4:06 | 2026-05-16 | 2026-06-19 |
 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 | 2024-02-05 | 2025-01-08 |
 | [عارفاني](https://open.spotify.com/track/4HdUysKR3qCRORipsRULV3) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [عارفاني](https://open.spotify.com/album/5XSi6c2oE6f4HsD1fHmC75) | 4:04 | 2025-03-27 | 2025-04-02 |
 | [غبرتي عليا \- Cover libianca people \- 2023 \- nouveauté](https://open.spotify.com/track/1F4AZDDP7VW3DTDOBtaO39) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [غبرتي عليا \(Cover libianca people \- 2023 \- nouveauté\)](https://open.spotify.com/album/13ZU2TP06EzaUov71aLn5w) | 3:21 | 2023-03-25 | 2024-06-19 |

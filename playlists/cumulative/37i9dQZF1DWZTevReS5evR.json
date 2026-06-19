@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 184218,
       "name": "DIAM!",
       "url": "https://open.spotify.com/track/12Up29VqU3Eym1pDUGPu1l"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 238440,
       "name": "Dive",
       "url": "https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls"
@@ -2097,6 +2097,28 @@
     },
     {
       "album": {
+        "name": "The First Wave",
+        "url": "https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU"
+      },
+      "artists": [
+        {
+          "name": "Alpha",
+          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
+        },
+        {
+          "name": "Daiyan Trisha",
+          "url": "https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185753,
+      "name": "Haru Biru",
+      "url": "https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy"
+    },
+    {
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -2566,7 +2588,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
@@ -2682,6 +2704,28 @@
       "duration_ms": 290939,
       "name": "Jalan Tengah",
       "url": "https://open.spotify.com/track/4QgumLhe9bOEiyKwazYNer"
+    },
+    {
+      "album": {
+        "name": "Janji Setia",
+        "url": "https://open.spotify.com/album/0KuBeerNz7JtLRsvWDEbgg"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "MELONii",
+          "url": "https://open.spotify.com/artist/5IVgCOmq1RxhSQ9lcf3ZMi"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Janji Setia",
+      "url": "https://open.spotify.com/track/6cfod5D7hS31TbRtH16kQx"
     },
     {
       "album": {
@@ -2991,6 +3035,24 @@
     },
     {
       "album": {
+        "name": "iqro'",
+        "url": "https://open.spotify.com/album/4FiZgqcHTC0jmfnnG2pDp0"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225153,
+      "name": "Lesung Pipi",
+      "url": "https://open.spotify.com/track/4GSwtvjwdbUmb4blyUyCnD"
+    },
+    {
+      "album": {
         "name": "Let You Break My Heart Again",
         "url": "https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf"
       },
@@ -3104,7 +3166,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv"
@@ -3480,7 +3542,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 216000,
       "name": "Ms. I Thrift Everything",
       "url": "https://open.spotify.com/track/1x61J9jICZFEoB3FFu1jH6"
@@ -3642,7 +3704,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 182576,
       "name": "Nobody\u2019s Son",
       "url": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
@@ -4545,6 +4607,24 @@
     },
     {
       "album": {
+        "name": "Semesta",
+        "url": "https://open.spotify.com/album/7DIuyyWBJwaqFwVUJGxTfL"
+      },
+      "artists": [
+        {
+          "name": "Kenriz",
+          "url": "https://open.spotify.com/artist/0KNqyNkuttIabEfX3lSUuT"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Semesta",
+      "url": "https://open.spotify.com/track/7BMJc5ZALrkYLjI5XmjVfk"
+    },
+    {
+      "album": {
         "name": "Sempat Tak Sempat",
         "url": "https://open.spotify.com/album/00ZGpAUWegdAvVa35Bkj6V"
       },
@@ -4943,6 +5023,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+    },
+    {
+      "album": {
         "name": "Suara Dalam Kepala (Feat. Ramengvrl)",
         "url": "https://open.spotify.com/album/2p1ODeT3tNEeqkupAElZZW"
       },
@@ -5168,6 +5266,24 @@
       "duration_ms": 191823,
       "name": "Tek It",
       "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
+    },
+    {
+      "album": {
+        "name": "Telepati",
+        "url": "https://open.spotify.com/album/6L7TQes2IZBlcQzjYpPJEk"
+      },
+      "artists": [
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246903,
+      "name": "Telepati",
+      "url": "https://open.spotify.com/track/2VM0RoNs889vw5c1sFunfB"
     },
     {
       "album": {

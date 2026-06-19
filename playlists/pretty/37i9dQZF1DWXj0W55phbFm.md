@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,812 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,838 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 29 | [Younger Than Springtime](https://open.spotify.com/track/77iHjhK7iJct2ehEfCDh7Y) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 5:43 |
 | 30 | [Blue room](https://open.spotify.com/track/7tIOwGFRTM08JdAeKOELGp) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Touch Of Your Lips](https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm) | 8:40 |
 | 31 | [I Should Care](https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9) | [Nat Adderley](https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D) | [Introducing Nat Adderley](https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT) | 4:27 |
-| 32 | [Tune\-Up](https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Blue Haze](https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM) | 3:53 |
-| 33 | [Kakonita](https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Solid Ether](https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R) | 4:59 |
+| 32 | [Kakonita](https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Solid Ether](https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R) | 4:59 |
+| 33 | [Tune\-Up](https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Blue Haze](https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM) | 3:53 |
 | 34 | [Relaxin' with Nick](https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Relaxin' with Nick](https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6) | 7:39 |
 | 35 | [Blues For Brenda \- 1997 Remastered](https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 6:59 |
 | 36 | [Work Song](https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD) | [Nat Adderley](https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D), [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb), [Sam Jones](https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV) | [Work Song](https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa) | 4:15 |

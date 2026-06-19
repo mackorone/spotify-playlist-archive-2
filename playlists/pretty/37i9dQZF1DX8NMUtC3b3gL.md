@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,093 likes - 144 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,130 likes - 144 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > My enemy na sapa
 
-884 songs - 1 day 17 hr 55 min
+886 songs - 1 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [10 Bottles](https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [10 Bottles](https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh) | 2:58 | 2023-11-27 | 2025-03-08 |
 | [10 MINUTES](https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [10 MINUTES](https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT) | 2:35 | 2026-03-06 |  |
 | [17](https://open.spotify.com/track/0mZQm5lqtstAg4xboNWPVq) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [17](https://open.spotify.com/album/6Rv9UuisveUCITNyuntHw3) | 1:57 | 2026-02-20 |  |
+| [1942](https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [1942](https://open.spotify.com/album/4vqElV5yYZYLkh2T6ssMHw) | 2:30 | 2026-06-19 |  |
 | [1999](https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [R2 Sept 12](https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB) | 2:42 | 2024-04-26 | 2025-11-14 |
 | [20](https://open.spotify.com/track/2QgOpD1FsePyvDhx1THvjS) | [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [20](https://open.spotify.com/album/7z8auekqDeO9piarUOX3Ky) | 3:00 | 2025-04-04 | 2025-05-24 |
 | [20 Degrees](https://open.spotify.com/track/14pxWg0APGTl9mk3dKFNAx) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [20 Degrees](https://open.spotify.com/album/12Vyfh3oSpTNPgdMNNQs1x) | 2:33 | 2025-03-21 | 2025-08-09 |
@@ -202,6 +203,7 @@
 | [Dance Like Nobody](https://open.spotify.com/track/3LiShFhwCoEu89nVKJOCFN) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Dance Like Nobody](https://open.spotify.com/album/7woECnEtFlAvFNNEt3aeNO) | 3:16 | 2024-04-05 | 2024-04-19 |
 | [Dangerously](https://open.spotify.com/track/38ZaJPYM6E9F2zsSEVXeAY) | [Lord Marley](https://open.spotify.com/artist/5fK2D67YdNYOeK3jPfjf46) | [Dangerously](https://open.spotify.com/album/1izFn2sxV5eb77gJx4pRVM) | 2:50 | 2024-06-28 | 2024-08-26 |
 | [Danjuma](https://open.spotify.com/track/64X4sdsIErlSmK7PtbqA9u) | [Kwesi Taadi](https://open.spotify.com/artist/5cwOSWuUV5wpdx7FmxRuVw) | [Musah Abonko Ne Nana](https://open.spotify.com/album/1XqsjZN6wEsM9WjSqB7LMt) | 2:34 | 2023-09-09 | 2023-09-22 |
+| [Dantata](https://open.spotify.com/track/0BZIcREt4wKs79qsYTEurB) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Dantata](https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR) | 2:55 | 2026-06-19 |  |
 | [Dawn](https://open.spotify.com/track/5VfOaSfpHD1jbS98dxr7cr) | [John Networq](https://open.spotify.com/artist/5SyIdSMJiUxOaA9HXlHH4E) | [Dawn](https://open.spotify.com/album/2yptlRK8B8OmAe9AnfuBa1) | 2:13 | 2022-09-01 | 2022-09-10 |
 | [Debe \(feat\. Bloody Civilian\)](https://open.spotify.com/track/09tOHZM5ubsQRXrMKQ89Lf) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Better Days](https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf) | 2:37 | 2024-03-22 | 2024-06-15 |
 | [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 | 2023-10-13 | 2023-10-20 |

@@ -2,9 +2,9 @@
 
 ### [Big In Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX0vJksQf4im1)
 
-> Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: BTS
+> Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: Karencici
 
-452 songs - 1 day 0 hr 40 min
+457 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-06-21 | 2025-03-07 |
 | [Heart of Gold](https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL) | 2:51 | 2024-10-31 | 2025-03-07 |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2024-08-01 | 2025-03-07 |
+| [Heaven](https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Heaven](https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp) | 3:10 | 2026-06-18 |  |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-06-21 | 2024-09-13 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2025-04-18 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 | 2025-08-15 |
@@ -203,6 +204,7 @@
 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-06-21 | 2024-09-13 |
 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 | 2024-06-21 | 2024-09-13 |
 | [Identity](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Identity](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) | 2:20 | 2024-10-31 | 2025-03-07 |
+| [Ignore](https://open.spotify.com/track/3lIxpq24g8IJpisCDs9dOH) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Loser.](https://open.spotify.com/album/4F1qUMDO9CsA5XtrQ3KyN6) | 2:22 | 2026-06-18 |  |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-06-21 | 2024-09-13 |
 | [Imaginary](https://open.spotify.com/track/2Unll1tWmHLx3lInMJaFLo) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Songs In My Head](https://open.spotify.com/album/0OGl87xDor4AOGKCnmg37n) | 3:20 | 2024-06-21 | 2025-03-07 |
 | [Immortal Queen \(feat\. Chaka Khan\)](https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:19 | 2024-06-21 | 2024-09-13 |
@@ -213,6 +215,7 @@
 | [Inside Out](https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 3:57 | 2025-02-07 | 2025-06-20 |
 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-09 | 2026-05-30 |
 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 | 2025-08-07 | 2026-01-15 |
+| [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 | 2026-06-18 |  |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-24 | 2025-08-15 |
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-12 | 2025-03-14 |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-11 | 2025-05-09 |
@@ -254,6 +257,7 @@
 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 | 2026-04-16 |  |
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-14 | 2026-01-15 |
 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-29 | 2025-10-03 |
+| [Man On A Mission \(feat\. Wizkid\)](https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [BROWN \(The Chocolate Edition\)](https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb) | 3:52 | 2026-06-18 |  |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-06 | 2025-12-12 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-11 | 2025-05-09 |
 | [mariah](https://open.spotify.com/track/6hNqL8ihYM8NuJNBWPPu9M) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [songs i couldn't forget](https://open.spotify.com/album/7fMoS9P6G3ULbORP52stef) | 2:48 | 2026-02-26 |  |
@@ -297,6 +301,7 @@
 | [oh to be loved](https://open.spotify.com/track/7wR4drNkIHfT3JkDbL5jIg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be loved](https://open.spotify.com/album/5cF4Ayv8e7RDvHQXZVUmhj) | 3:45 | 2025-08-21 | 2026-01-15 |
 | [Oh Well](https://open.spotify.com/track/1ZPCP9A99sslhQoGbYE4Mm) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Oh Well](https://open.spotify.com/album/14xNv08MTYuYXp0fzrdeco) | 3:24 | 2025-06-26 | 2026-01-15 |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 | 2025-10-03 |
+| [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3) | 3:37 | 2026-06-18 |  |
 | [One Day](https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 3:08 | 2026-06-12 |  |
 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-07 | 2025-06-20 |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-15 | 2025-10-03 |

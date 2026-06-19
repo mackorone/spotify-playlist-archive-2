@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "A Long Way",
+        "url": "https://open.spotify.com/album/3Z3sEUoHPdl5BUsiccgFuO"
+      },
+      "artists": [
+        {
+          "name": "Friends With Boats",
+          "url": "https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196086,
+      "name": "A Long Way",
+      "url": "https://open.spotify.com/track/3iLdRoMegIcfZNR2YyURno"
+    },
+    {
+      "album": {
         "name": "A Message From Your CEO",
         "url": "https://open.spotify.com/album/0fmz9MTlaq5jnQOaDrDP7N"
       },
@@ -4588,7 +4606,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 234000,
       "name": "Choose to believe",
       "url": "https://open.spotify.com/track/05IgEHqvWYnz2kMgUfiZkp"
@@ -5194,6 +5212,24 @@
       "duration_ms": 197950,
       "name": "Corriendo (think about you)",
       "url": "https://open.spotify.com/track/3G12ziypGl3GL9PL2uQ0ME"
+    },
+    {
+      "album": {
+        "name": "Cosmic Joke",
+        "url": "https://open.spotify.com/album/5STHgTWvnsyRwhswjBfI98"
+      },
+      "artists": [
+        {
+          "name": "Chopsaw",
+          "url": "https://open.spotify.com/artist/7jPL5mP2uyyjQ3WGsx95wW"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67874,
+      "name": "Cosmic Joke",
+      "url": "https://open.spotify.com/track/3BiWFVUXaQ8umDscUOWvdB"
     },
     {
       "album": {
@@ -8212,7 +8248,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 232421,
       "name": "Error 666 Humanity Not Found",
       "url": "https://open.spotify.com/track/3aP3gr38xQabpM11Lz1M49"
@@ -9492,7 +9528,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 175059,
       "name": "Free the Noise",
       "url": "https://open.spotify.com/track/0sjHKzox0O91e8q7eqPQ59"
@@ -10129,6 +10165,42 @@
     },
     {
       "album": {
+        "name": "GiftsFromNewGods",
+        "url": "https://open.spotify.com/album/1AKD5GnO3BJykF051dZvG9"
+      },
+      "artists": [
+        {
+          "name": "Sundrast",
+          "url": "https://open.spotify.com/artist/7xXdDxmTim2I1wkMn8QAuZ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238551,
+      "name": "GiftsFromNewGods",
+      "url": "https://open.spotify.com/track/2dA8USYU0VETtCIyOaTE7N"
+    },
+    {
+      "album": {
+        "name": "girl is crazy in the head [prod.LEZV!E]",
+        "url": "https://open.spotify.com/album/3HFPHBgfk23ZcE7wF3Drhl"
+      },
+      "artists": [
+        {
+          "name": "hxtedbyforce!",
+          "url": "https://open.spotify.com/artist/6LurtON7FdurBR7OGsgtJb"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96924,
+      "name": "girl is crazy in the head [prod.LEZV!E]",
+      "url": "https://open.spotify.com/track/1sbv2AyJ9smUhBCa75FCUF"
+    },
+    {
+      "album": {
         "name": "Raw And Older",
         "url": "https://open.spotify.com/album/0FStAceqeIATLvl6egELud"
       },
@@ -10446,7 +10518,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 156673,
       "name": "GOING SO FAST",
       "url": "https://open.spotify.com/track/72PnF0Xzqw6UpTAfLYkWg6"
@@ -10896,7 +10968,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 168888,
       "name": "Gutter",
       "url": "https://open.spotify.com/track/7yGdZWJrPzP4OUB1iA30cV"
@@ -11574,6 +11646,24 @@
       "duration_ms": 196124,
       "name": "Heroin",
       "url": "https://open.spotify.com/track/7I4YKnh2WR4PrTAdEaXUkG"
+    },
+    {
+      "album": {
+        "name": "Hey Doctor!",
+        "url": "https://open.spotify.com/album/5lnylob4DdlcV6louuO7zL"
+      },
+      "artists": [
+        {
+          "name": "\u30b3\u30af\u30c8\u30a6\u30ab\u30ea\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/1m2sBR8gmsfsFSi2zM5MW2"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194719,
+      "name": "Hey Doctor!",
+      "url": "https://open.spotify.com/track/5g5GzkYXhcdMwxXl0jSDf5"
     },
     {
       "album": {
@@ -15027,6 +15117,24 @@
     },
     {
       "album": {
+        "name": "Cyber Trippin'",
+        "url": "https://open.spotify.com/album/7hoRYdWMRZtZ4mTUhQVcdS"
+      },
+      "artists": [
+        {
+          "name": "Disco Dreams",
+          "url": "https://open.spotify.com/artist/5KRlBkGzQFsekajKbhN7WX"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Lizard Space Lounge",
+      "url": "https://open.spotify.com/track/4AMx5QgsoyOGKdUw38rPyu"
+    },
+    {
+      "album": {
         "name": "Reibregal",
         "url": "https://open.spotify.com/album/4dBKiXCD2Bj8Ap2KFLasK5"
       },
@@ -15418,6 +15526,24 @@
       "duration_ms": 170602,
       "name": "Low-Poly Demake",
       "url": "https://open.spotify.com/track/59abIdqujbaNscfsMEnAoy"
+    },
+    {
+      "album": {
+        "name": "Lucid Machines",
+        "url": "https://open.spotify.com/album/3BKJiTYuFo4lrURSx8ig42"
+      },
+      "artists": [
+        {
+          "name": "Gnarwhal",
+          "url": "https://open.spotify.com/artist/2AxX3x7VTOFZaUpQ46seKa"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270238,
+      "name": "Lucid Machines",
+      "url": "https://open.spotify.com/track/5Rw575EtFpnISsdfpOt87w"
     },
     {
       "album": {
@@ -16063,6 +16189,24 @@
     },
     {
       "album": {
+        "name": "Mend",
+        "url": "https://open.spotify.com/album/6jaynVsSOfbjLstKOCqxP9"
+      },
+      "artists": [
+        {
+          "name": "Great Escapes",
+          "url": "https://open.spotify.com/artist/5U9BpGbYvHLcS6ED35PGeG"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162899,
+      "name": "Mend",
+      "url": "https://open.spotify.com/track/041405dXJvK89ymfLPwd3M"
+    },
+    {
+      "album": {
         "name": "Verwelken, Vergehen, Verwesen",
         "url": "https://open.spotify.com/album/3Jqdjm1QDP3gtLp38Qk1Qm"
       },
@@ -16290,7 +16434,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 215164,
       "name": "Millennial Freakshow",
       "url": "https://open.spotify.com/track/5hFlT3NlRPvNE2QWNP3w2z"
@@ -18013,6 +18157,24 @@
     },
     {
       "album": {
+        "name": "Nothing Ever Changes",
+        "url": "https://open.spotify.com/album/4j67iWoiV4uzsRsiaNApBI"
+      },
+      "artists": [
+        {
+          "name": "Headstrong",
+          "url": "https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204889,
+      "name": "Nothing Ever Changes",
+      "url": "https://open.spotify.com/track/7nsqbGkeTfXU2GqofZ5gMP"
+    },
+    {
+      "album": {
         "name": "Nothing To Say",
         "url": "https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF"
       },
@@ -18266,6 +18428,24 @@
       "duration_ms": 200930,
       "name": "Ode to Cold Beer",
       "url": "https://open.spotify.com/track/4pcBKBM4tgclpBcQIsTRdV"
+    },
+    {
+      "album": {
+        "name": "Off-Balance",
+        "url": "https://open.spotify.com/album/0lw6nc5UyTRXBk32Ypb2Rg"
+      },
+      "artists": [
+        {
+          "name": "midwest ten",
+          "url": "https://open.spotify.com/artist/7uitz62Nf1CjLB2mLg8P6S"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "Off-Balance",
+      "url": "https://open.spotify.com/track/7aGnonNso2XkqqtLHoUskP"
     },
     {
       "album": {
@@ -21969,6 +22149,24 @@
     },
     {
       "album": {
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/1AmOt7n0Z7TYrCJyJDL2PO"
+      },
+      "artists": [
+        {
+          "name": "Color Of Noise",
+          "url": "https://open.spotify.com/artist/4EmMp4Clcpv3acsPlfA5FL"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Set Sail",
+      "url": "https://open.spotify.com/track/2RYctPfxOm4d37pxt82deZ"
+    },
+    {
+      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/1Iq7eGMZyypXkVQg2vjX4S"
       },
@@ -23166,7 +23364,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 160911,
       "name": "Sneeze",
       "url": "https://open.spotify.com/track/294fGoa4R1HQXzHwHMl2LB"
@@ -24377,6 +24575,24 @@
     },
     {
       "album": {
+        "name": "stretch",
+        "url": "https://open.spotify.com/album/4aQbrcXF8GC6NbwtIMvwDd"
+      },
+      "artists": [
+        {
+          "name": "charleyhorse",
+          "url": "https://open.spotify.com/artist/0PtDOKI7rMvpdClgh9IVTS"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191860,
+      "name": "stretch",
+      "url": "https://open.spotify.com/track/5Jvikcc438wuIrK16emra6"
+    },
+    {
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/5cjxDenutIFsdXTJ10m61f"
       },
@@ -24774,6 +24990,24 @@
       "duration_ms": 216000,
       "name": "Surrounding Thoughts",
       "url": "https://open.spotify.com/track/1LjiwQaa5Vh7kkzjcfxmtK"
+    },
+    {
+      "album": {
+        "name": "Joe's Pot",
+        "url": "https://open.spotify.com/album/7AuSWrhD0kdejO6Lpt5cPi"
+      },
+      "artists": [
+        {
+          "name": "Smo",
+          "url": "https://open.spotify.com/artist/2RNAhGuQgKkdaoKtzDvbq5"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160851,
+      "name": "Suspicious for summer",
+      "url": "https://open.spotify.com/track/1IdpJb6XL7Ff7jvaVMccGE"
     },
     {
       "album": {
@@ -27222,7 +27456,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 168533,
       "name": "TIME:BOMB",
       "url": "https://open.spotify.com/track/3tNXdOJj1qXxj7ORar4kwq"
@@ -28862,7 +29096,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 171761,
       "name": "we got this",
       "url": "https://open.spotify.com/track/4b4vcOoAWTqCr2ASUOVuZK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,765 likes - 44 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,767 likes - 44 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 32 | [Nightage](https://open.spotify.com/track/0gNDfOiFi2HLe2uZerMAB7) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 2:22 |
 | 33 | [Can't Go Back](https://open.spotify.com/track/3vCE0zXuuwLkhBFCZdtsbR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:44 |
 | 34 | [Victim Of Me](https://open.spotify.com/track/40ifWLszUQT675PpXGFH4T) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:36 |
-| 35 | [Cheer](https://open.spotify.com/track/60PehYqowykS4BzqhE8UEi) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:03 |
-| 36 | [Like the Way I Know](https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
-| 37 | [Cameage](https://open.spotify.com/track/6B9Tw4MFMLCDXEkRY3fcnb) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR) | 3:05 |
+| 35 | [Cameage](https://open.spotify.com/track/6B9Tw4MFMLCDXEkRY3fcnb) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR) | 3:05 |
+| 36 | [Cheer](https://open.spotify.com/track/60PehYqowykS4BzqhE8UEi) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:03 |
+| 37 | [Like the Way I Know](https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
 | 38 | [Shameless Halo](https://open.spotify.com/track/5tDHV0T0jLjO5qW5qXb3Pt) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 2:05 |
-| 39 | [Get the Time](https://open.spotify.com/track/2ufvmEujQKJmsewWvuvmFn) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:16 |
-| 40 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
-| 41 | [Catalina](https://open.spotify.com/track/5XOFzbdObS7ASc0MFrCHcY) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4), [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Dead Tracks, Vol\. 2](https://open.spotify.com/album/4ErXAsdor9LnNuLW4xyzRI) | 1:51 |
+| 39 | [Catalina](https://open.spotify.com/track/5XOFzbdObS7ASc0MFrCHcY) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4), [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Dead Tracks, Vol\. 2](https://open.spotify.com/album/4ErXAsdor9LnNuLW4xyzRI) | 1:51 |
+| 40 | [Get the Time](https://open.spotify.com/track/2ufvmEujQKJmsewWvuvmFn) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:16 |
+| 41 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
 | 42 | [Pep Talk](https://open.spotify.com/track/7CGRxDsYJS5vBIfDSdKTiF) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR) | 3:05 |
 | 43 | [Wendy](https://open.spotify.com/track/3a7eYPmtZYPKAmo6fX4n5X) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 2:19 |
 | 44 | [Baby Doncha Know](https://open.spotify.com/track/1JlWpNVAhJ3bh6ofyW5gjU) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
 
-Snapshot ID: `ajCSAAAAAABNDM9p9DY4rKP1AFPx7W8C`
+Snapshot ID: `ajHjgAAAAAAi1hnJH9DIpnnkPISYCJ7r`

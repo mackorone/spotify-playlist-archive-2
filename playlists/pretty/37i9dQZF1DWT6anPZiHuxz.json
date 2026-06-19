@@ -1,6 +1,6 @@
 {
   "description": "Chasing that runner's high!",
-  "num_followers": 645405,
+  "num_followers": 645451,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-06-12 21:59:30",
       "album": {
-        "name": "Comes and Goes",
-        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 262170,
-      "name": "Comes and Goes",
-      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
-    },
-    {
-      "added_at": "2026-06-12 21:59:30",
-      "album": {
         "name": "She\u2019s Gone, Dance On",
         "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 226773,
       "name": "She\u2019s Gone, Dance On",
       "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "added_at": "2026-06-12 21:59:30",
+      "album": {
+        "name": "Comes and Goes",
+        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 262170,
+      "name": "Comes and Goes",
+      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
     },
     {
       "added_at": "2026-06-12 21:59:30",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-06-12 21:59:30",
       "album": {
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
+    },
+    {
+      "added_at": "2026-06-12 21:59:30",
+      "album": {
         "name": "ALL THE TIME",
         "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 180340,
       "name": "ALL THE TIME",
       "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
-    },
-    {
-      "added_at": "2026-06-12 21:59:30",
-      "album": {
-        "name": "Saving Up",
-        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Saving Up",
-      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
       "added_at": "2026-06-12 21:59:30",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2026-06-12 21:59:30",
       "album": {
+        "name": "Up Down",
+        "url": "https://open.spotify.com/album/3rClZY3iOdiE4bwY6P25hY"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Up Down",
+      "url": "https://open.spotify.com/track/5jqEybi7fIl2BpT0njbfhO"
+    },
+    {
+      "added_at": "2026-06-12 21:59:30",
+      "album": {
         "name": "CTRL ESCAPE",
         "url": "https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 203076,
       "name": "SHADES OF BLUE",
       "url": "https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf"
-    },
-    {
-      "added_at": "2026-06-12 21:59:30",
-      "album": {
-        "name": "Up Down",
-        "url": "https://open.spotify.com/album/3rClZY3iOdiE4bwY6P25hY"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "Up Down",
-      "url": "https://open.spotify.com/track/5jqEybi7fIl2BpT0njbfhO"
     },
     {
       "added_at": "2026-06-12 21:59:30",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2026-06-12 21:59:30",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 173549,
+      "name": "You",
+      "url": "https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK"
+    },
+    {
+      "added_at": "2026-06-12 21:59:30",
+      "album": {
         "name": "My Loving",
         "url": "https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 150653,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp"
-    },
-    {
-      "added_at": "2026-06-12 21:59:30",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 173549,
-      "name": "You",
-      "url": "https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK"
     },
     {
       "added_at": "2026-06-12 21:59:30",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-06-12 21:59:30",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
-    },
-    {
-      "added_at": "2026-06-12 21:59:30",
-      "album": {
         "name": "Pick Up The Phone",
         "url": "https://open.spotify.com/album/1vaUC7CZtnJjaMWUbdzIN5"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 211510,
       "name": "Pick Up The Phone",
       "url": "https://open.spotify.com/track/1bcZHf64xOalMif12Fy7jc"
+    },
+    {
+      "added_at": "2026-06-12 21:59:30",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM"
     },
     {
       "added_at": "2026-06-12 21:59:30",
@@ -1659,22 +1659,18 @@
     {
       "added_at": "2026-06-12 21:59:30",
       "album": {
-        "name": "White Wine & Adderall",
-        "url": "https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK"
+        "name": "Club To Your Arms",
+        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Beau Nox",
-          "url": "https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq"
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
         }
       ],
-      "duration_ms": 178400,
-      "name": "White Wine & Adderall",
-      "url": "https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF"
+      "duration_ms": 191596,
+      "name": "Club To Your Arms",
+      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
     },
     {
       "added_at": "2026-06-12 21:59:30",
@@ -1699,6 +1695,26 @@
       "duration_ms": 216979,
       "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
+    },
+    {
+      "added_at": "2026-06-12 21:59:30",
+      "album": {
+        "name": "White Wine & Adderall",
+        "url": "https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Beau Nox",
+          "url": "https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "White Wine & Adderall",
+      "url": "https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF"
     },
     {
       "added_at": "2026-06-12 21:59:30",
@@ -1755,22 +1771,6 @@
       "duration_ms": 166429,
       "name": "DON'T KILL THE PARTY (feat. Shoreline Mafia, Quavo & Juicy J)",
       "url": "https://open.spotify.com/track/7xe8BiG8HHl1EetMA6ygey"
-    },
-    {
-      "added_at": "2026-06-12 21:59:30",
-      "album": {
-        "name": "Club To Your Arms",
-        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 191596,
-      "name": "Club To Your Arms",
-      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
     },
     {
       "added_at": "2026-06-12 21:59:30",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2026-06-12 21:59:30",
       "album": {
-        "name": "Turn Up The Dose",
-        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "Turn Up The Dose",
-      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
-    },
-    {
-      "added_at": "2026-06-12 21:59:30",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
       },
@@ -2007,22 +1987,22 @@
     {
       "added_at": "2026-06-12 21:59:30",
       "album": {
-        "name": "Deeper",
-        "url": "https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP"
+        "name": "Turn Up The Dose",
+        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
         },
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
         }
       ],
-      "duration_ms": 288159,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
+      "duration_ms": 172615,
+      "name": "Turn Up The Dose",
+      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
     },
     {
       "added_at": "2026-06-12 21:59:30",
@@ -2047,22 +2027,22 @@
     {
       "added_at": "2026-06-12 21:59:30",
       "album": {
-        "name": "Flex It",
-        "url": "https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O"
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP"
       },
       "artists": [
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "y3kfae",
-          "url": "https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Flex It",
-      "url": "https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm"
+      "duration_ms": 288159,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
     },
     {
       "added_at": "2026-06-12 21:59:30",
@@ -2083,6 +2063,26 @@
       "duration_ms": 158620,
       "name": "All The Things She Said (Culture Shock Version)",
       "url": "https://open.spotify.com/track/4hp4cs1fKConq0Cmr4luW9"
+    },
+    {
+      "added_at": "2026-06-12 21:59:30",
+      "album": {
+        "name": "Flex It",
+        "url": "https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "y3kfae",
+          "url": "https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Flex It",
+      "url": "https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm"
     },
     {
       "added_at": "2026-06-12 21:59:30",
@@ -2147,22 +2147,18 @@
     {
       "added_at": "2026-06-12 21:59:30",
       "album": {
-        "name": "Take Your Places",
-        "url": "https://open.spotify.com/album/4xRNv1atMIvOZL7dGGwBVk"
+        "name": "R U DOWN?",
+        "url": "https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd"
       },
       "artists": [
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
         }
       ],
-      "duration_ms": 237341,
-      "name": "Take Your Places",
-      "url": "https://open.spotify.com/track/2adebVLvCyhgIM4eGNfS6n"
+      "duration_ms": 139911,
+      "name": "R U DOWN?",
+      "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
     },
     {
       "added_at": "2026-06-12 21:59:30",
@@ -2191,18 +2187,22 @@
     {
       "added_at": "2026-06-12 21:59:30",
       "album": {
-        "name": "R U DOWN?",
-        "url": "https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd"
+        "name": "Take Your Places",
+        "url": "https://open.spotify.com/album/4xRNv1atMIvOZL7dGGwBVk"
       },
       "artists": [
         {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
         }
       ],
-      "duration_ms": 139911,
-      "name": "R U DOWN?",
-      "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
+      "duration_ms": 237341,
+      "name": "Take Your Places",
+      "url": "https://open.spotify.com/track/2adebVLvCyhgIM4eGNfS6n"
     },
     {
       "added_at": "2026-06-12 21:59:30",
@@ -2263,26 +2263,6 @@
     {
       "added_at": "2026-06-12 21:59:30",
       "album": {
-        "name": "Work That Body",
-        "url": "https://open.spotify.com/album/5b3wj0ilO8qUrd7FVF2Z1E"
-      },
-      "artists": [
-        {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "name": "Tasty Lopez",
-          "url": "https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Work That Body",
-      "url": "https://open.spotify.com/track/7EUf9vKfrwh5NuG7djof4S"
-    },
-    {
-      "added_at": "2026-06-12 21:59:30",
-      "album": {
         "name": "Entwined",
         "url": "https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B"
       },
@@ -2299,6 +2279,26 @@
       "duration_ms": 220689,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1"
+    },
+    {
+      "added_at": "2026-06-12 21:59:30",
+      "album": {
+        "name": "Work That Body",
+        "url": "https://open.spotify.com/album/5b3wj0ilO8qUrd7FVF2Z1E"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Tasty Lopez",
+          "url": "https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Work That Body",
+      "url": "https://open.spotify.com/track/7EUf9vKfrwh5NuG7djof4S"
     },
     {
       "added_at": "2026-06-12 21:59:30",

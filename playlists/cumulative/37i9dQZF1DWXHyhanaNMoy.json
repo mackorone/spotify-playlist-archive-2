@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: OYSTER (<a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">RADAR</a>-artiest)",
+  "description": "Motion & good vibes! Cover: Veertien",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Amazing",
+        "url": "https://open.spotify.com/album/70QV1v0l6vk6vE7WvxnAEZ"
+      },
+      "artists": [
+        {
+          "name": "Bollebof",
+          "url": "https://open.spotify.com/artist/6efCQuDQBuyuv2Mx3OExdV"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131653,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/6ORqkf2oGjX0pz4dmozhX4"
+    },
+    {
+      "album": {
         "name": "AMBIANCE",
         "url": "https://open.spotify.com/album/0O24lyA2ujee85xnSXWHMk"
       },
@@ -2218,6 +2236,28 @@
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
+    },
+    {
+      "album": {
+        "name": "BAAGAA",
+        "url": "https://open.spotify.com/album/2XiK6G6jeZcu43efFr1XUb"
+      },
+      "artists": [
+        {
+          "name": "Topperig",
+          "url": "https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu"
+        },
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124651,
+      "name": "BAAGAA",
+      "url": "https://open.spotify.com/track/20zYKHqQhQLVGMA5I1Zg01"
     },
     {
       "album": {
@@ -7264,7 +7304,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 133876,
       "name": "Checkmate",
       "url": "https://open.spotify.com/track/2aw9xIVtpo4vNIhEwEdSh7"
@@ -7290,6 +7330,36 @@
       "duration_ms": 118153,
       "name": "Cheesecake",
       "url": "https://open.spotify.com/track/72vN2cQnnbpTIsreWWfPtX"
+    },
+    {
+      "album": {
+        "name": "OM DE TAFEL",
+        "url": "https://open.spotify.com/album/7v2C0BOh9nhvgrtULvW5HR"
+      },
+      "artists": [
+        {
+          "name": "JayKoppig",
+          "url": "https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "Hekje31",
+          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
+        },
+        {
+          "name": "Drechter",
+          "url": "https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127854,
+      "name": "Cheetah",
+      "url": "https://open.spotify.com/track/4urYOUZrC2jSv8h14sVVj2"
     },
     {
       "album": {
@@ -13894,7 +13964,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 167536,
       "name": "GOSA",
       "url": "https://open.spotify.com/track/66AUpBOhALM8VvifvVhiOk"
@@ -14705,6 +14775,32 @@
     },
     {
       "album": {
+        "name": "OM DE TAFEL",
+        "url": "https://open.spotify.com/album/7v2C0BOh9nhvgrtULvW5HR"
+      },
+      "artists": [
+        {
+          "name": "Hekje31",
+          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
+        },
+        {
+          "name": "JayKoppig",
+          "url": "https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp"
+        },
+        {
+          "name": "Drechter",
+          "url": "https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164324,
+      "name": "Hay Baya",
+      "url": "https://open.spotify.com/track/2mysP7k0C31asMj7vzWd1f"
+    },
+    {
+      "album": {
         "name": "HEAD SHOULDERS KNEES TOES",
         "url": "https://open.spotify.com/album/5Xne1oR2xUY6Jt1y15DUp8"
       },
@@ -14926,6 +15022,40 @@
       "duration_ms": 173465,
       "name": "Henny & Dat",
       "url": "https://open.spotify.com/track/3gn0OF6favRw4Jo1vtcxzs"
+    },
+    {
+      "album": {
+        "name": "HERMES SLIDE",
+        "url": "https://open.spotify.com/album/73Q50MGqz21R9EisNWw31Z"
+      },
+      "artists": [
+        {
+          "name": "GEM-Z",
+          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
+        },
+        {
+          "name": "Burleson",
+          "url": "https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8"
+        },
+        {
+          "name": "Highguest",
+          "url": "https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj"
+        },
+        {
+          "name": "Quina01",
+          "url": "https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw"
+        },
+        {
+          "name": "FJ",
+          "url": "https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "HERMES SLIDE",
+      "url": "https://open.spotify.com/track/3sSvWm5dXOOf4ZdbMGAPQ6"
     },
     {
       "album": {
@@ -19776,7 +19906,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 171692,
       "name": "Lijntje",
       "url": "https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt"
@@ -26330,7 +26460,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 177346,
       "name": "Op Een Go",
       "url": "https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ"
@@ -29195,6 +29325,28 @@
     },
     {
       "album": {
+        "name": "R&B SH*T",
+        "url": "https://open.spotify.com/album/7LNisNMZx8RErvkiqSaKac"
+      },
+      "artists": [
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169591,
+      "name": "R&B SH*T",
+      "url": "https://open.spotify.com/track/7m8PKvUkxutSYHsXOyY68Q"
+    },
+    {
+      "album": {
         "name": "Rapido",
         "url": "https://open.spotify.com/album/38VNtMuOH3GT7ohjqgmUHJ"
       },
@@ -30452,7 +30604,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 122818,
       "name": "Sensa",
       "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
@@ -30772,7 +30924,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 156387,
       "name": "Shatta Mad",
       "url": "https://open.spotify.com/track/08bOtraHk8waBUt6sQOZce"
@@ -33156,7 +33308,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 126042,
       "name": "Talk To Me Nuh",
       "url": "https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI"
@@ -34592,6 +34744,32 @@
       "duration_ms": 151282,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ"
+    },
+    {
+      "album": {
+        "name": "Toxic Girls On Me",
+        "url": "https://open.spotify.com/album/2Airrw4j7lndpnrNzwfcyL"
+      },
+      "artists": [
+        {
+          "name": "Shikss",
+          "url": "https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7"
+        },
+        {
+          "name": "JFT",
+          "url": "https://open.spotify.com/artist/0RiLlPi3La2ar2ybA3Z1po"
+        },
+        {
+          "name": "T4L",
+          "url": "https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129412,
+      "name": "Toxic Girls On Me",
+      "url": "https://open.spotify.com/track/3gpr1TYZFGzIxHCgF29zEC"
     },
     {
       "album": {

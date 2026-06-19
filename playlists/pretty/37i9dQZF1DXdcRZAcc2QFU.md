@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 
 > Get jiggy with 90s 'dhinchak' beats\. Cover \- Khal Nayak
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,826 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,165 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Choli Ke Peeche](https://open.spotify.com/track/6oUqIyDXN04IgkeKHl7yL5) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Ila Arun](https://open.spotify.com/artist/5zWKMBKw7KqulFxyz2ULvp) | [Khal Nayak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6A1URXGXtRFL0SwbE5uWHe) | 8:39 |
 | 2 | [Too Cheez Badi Hain](https://open.spotify.com/track/6wYKL1vzI0Vwkkz4fS7ana) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Mohra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PqGBYRvfSWEh3eoHPNEnA) | 6:25 |
-| 3 | [Channe Ke Khet Mein](https://open.spotify.com/track/1wbUMMWBRQAxrSrFUhMnVR) | [Poornima](https://open.spotify.com/artist/6lpXKoHUzxZc5PwyS6cu4C) | [Anjaam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5T4tGh2d4lCLa57fzYgTQe) | 5:58 |
+| 3 | [Channe Ke Khet Mein](https://open.spotify.com/track/1wbUMMWBRQAxrSrFUhMnVR) | [Anand\-Milind](https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk), [Poornima](https://open.spotify.com/artist/6lpXKoHUzxZc5PwyS6cu4C) | [Anjaam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5T4tGh2d4lCLa57fzYgTQe) | 5:58 |
 | 4 | [Ye Kaali Kaali Aankhen](https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:17 |
 | 5 | [Dilbar Dilbar](https://open.spotify.com/track/5pvXcMiqTDzUimGj2Vi8uG) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Sirf Tum](https://open.spotify.com/album/2GUgjv6LmNExLkU8SBsxvd) | 5:43 |
 | 6 | [Akhiyaan Milaoon Kabhi](https://open.spotify.com/track/735WeIIQYRfmtEdMmOgDY1) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Raja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Dj8WYLlv47T0W03zDdFJI) | 6:15 |

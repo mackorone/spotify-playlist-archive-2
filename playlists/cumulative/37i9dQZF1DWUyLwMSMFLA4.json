@@ -752,7 +752,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 234093,
       "name": "Bella",
       "url": "https://open.spotify.com/track/1r0MnlvB9W7GUgzADjqDPd"
@@ -3724,6 +3724,28 @@
       "duration_ms": 128072,
       "name": "Me Olvide de Ti - En Vivo",
       "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
+    },
+    {
+      "album": {
+        "name": "Me Re Da",
+        "url": "https://open.spotify.com/album/6smqbrF3vhgl4cS7ZE9uZF"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179285,
+      "name": "Me Re Da",
+      "url": "https://open.spotify.com/track/0IncZWMMwOvKoroHCwx2Sh"
     },
     {
       "album": {

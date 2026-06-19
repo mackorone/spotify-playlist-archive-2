@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 
 > The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,215 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,301 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 | 59 | [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 |
 | 60 | [I Will Survive \- Single Version](https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor](https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx) | 3:18 |
 
-Snapshot ID: `AAAAADrBf1kQrepuj9Yg2A/BW4UfyrOK`
+Snapshot ID: `AAAAAEY6ZF43yOczp9SZ/DJstGu9ASKQ`

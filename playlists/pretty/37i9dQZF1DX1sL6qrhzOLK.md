@@ -1,32 +1,39 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain](/playlists/plain/37i9dQZF1DX1sL6qrhzOLK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX1sL6qrhzOLK)
 
-### [Sync Next 25](https://open.spotify.com/playlist/37i9dQZF1DX1sL6qrhzOLK)
+### [Sync Next 26](https://open.spotify.com/playlist/37i9dQZF1DX1sL6qrhzOLK)
 
-> Sync Next 25에서 이어지는 감각적 몰입, 새로운 레이브를 경험해보세요\. \(Step into a new kind of rave \- born from the sensory immersion of Sync Next 25.\)
+> Sync Next 26에서 이어지는 감각적 몰입, 새로운 레이브를 경험해보세요\. \(Step into a new kind of rave \- born from the sensory immersion of Sync Next 26.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,155 likes - 20 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,161 likes - 27 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mindmirror](https://open.spotify.com/track/6hWdk9FvBmr4fdcGBNKSjO) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Being\-with](https://open.spotify.com/album/55bBR5JA5jwRSqpAnaJeeY) | 5:40 |
-| 2 | [Aviiir](https://open.spotify.com/track/7fNAWVcF704qtWXusFpOh6) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Being\-with](https://open.spotify.com/album/55bBR5JA5jwRSqpAnaJeeY) | 10:26 |
-| 3 | [Microcosmo](https://open.spotify.com/track/6ZeE5hfV7HmnrtGLETDUBy) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Being\-with](https://open.spotify.com/album/55bBR5JA5jwRSqpAnaJeeY) | 7:35 |
-| 4 | [Mater Dolorosa](https://open.spotify.com/track/7B1TEC91B8fVvL7Ax1tmGJ) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Being\-with](https://open.spotify.com/album/55bBR5JA5jwRSqpAnaJeeY) | 9:30 |
-| 5 | [Transcendence](https://open.spotify.com/track/51DtjqXvSBhQabUu8l3rZS) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Being\-with](https://open.spotify.com/album/55bBR5JA5jwRSqpAnaJeeY) | 1:00:00 |
-| 6 | [Saudade \(When We Are Born\)](https://open.spotify.com/track/1ijwLR1iybtxaUbasUj7kJ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Saudade \(When We Are Born\)](https://open.spotify.com/album/3s5UDbcu9PBKBJ4xIz0zcW) | 2:30 |
-| 7 | [In The Sound Of Breathing](https://open.spotify.com/track/7yNYzyUExexEqXvN0F4E9A) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [In The Sound Of Breathing / Opening](https://open.spotify.com/album/5jdLTKpUZFbtreAaGuZ3vt) | 3:55 |
-| 8 | [re:member](https://open.spotify.com/track/6wUU6ff7O1jlE4NOrv01gI) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 6:04 |
-| 9 | [Make\-Believe Birdsong](https://open.spotify.com/track/6NCTMjiBgY3EOGgLBVxvXc) | [Lullatone](https://open.spotify.com/artist/3h100hRlLZ7QDz8GRt5QsD) | [Shapes & Time](https://open.spotify.com/album/5ITq44qb6V0HyyxPaIPde5) | 2:34 |
-| 10 | [Spines](https://open.spotify.com/track/4QblO5F5RpITC9pya3Vwyj) | [Rrose](https://open.spotify.com/artist/5naKaYAyzzuPDsh4H2dwyT) | [Please Touch](https://open.spotify.com/album/0VW6p4XHXCmF6A4IGmgrqU) | 9:21 |
-| 11 | [Dissolve](https://open.spotify.com/track/1o4o5opRPiE3aR4bx0wWBV) | [Rrose](https://open.spotify.com/artist/5naKaYAyzzuPDsh4H2dwyT) | [Hymn to Moisture](https://open.spotify.com/album/5r2XnC9GffhrQZH6o21EYl) | 9:52 |
-| 12 | [The Backrooms](https://open.spotify.com/track/7edZzUCkTQ4WPgGhaCMwi3) | [Xanexx](https://open.spotify.com/artist/5QuvwA2CO72jlQXDaYeVTW) | [Alpha Range](https://open.spotify.com/album/1SDsguoslLcMNBkLNDVKLY) | 5:55 |
-| 13 | [Crossing the Borderline](https://open.spotify.com/track/7kD2fB8KJli8tCpTZ519g4) | [Xanexx](https://open.spotify.com/artist/5QuvwA2CO72jlQXDaYeVTW) | [Crossing the Borderline](https://open.spotify.com/album/2d7tAcvUpvA6ba8yvgTQ4F) | 7:13 |
-| 14 | [False Prophecies](https://open.spotify.com/track/3u2xMK9KM0Nrh41VqKPBsg) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Advanced Transcendent Evolution](https://open.spotify.com/album/0NFadRyZ9j6IwE5jwLjSYe) | 5:10 |
-| 15 | [Is This Real Life?](https://open.spotify.com/track/7CVo5ut20NcYU0WAmaezt2) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Outlines \(Repurposed\) 2013\-2019](https://open.spotify.com/album/7a8sOJlt87lNL8EjGXJg3P) | 5:58 |
-| 16 | [Interfusion](https://open.spotify.com/track/7xSs11x4XUF5JtViqVdFpe) | [Scøpe](https://open.spotify.com/artist/6rItuTyiiev4hjUax65Jj4) | [Neon Mirage](https://open.spotify.com/album/4imHih8DwITR2kikneKbqx) | 5:56 |
-| 17 | [Metawave](https://open.spotify.com/track/3sR2qhGVI3MdY4HVRCsCV3) | [Scøpe](https://open.spotify.com/artist/6rItuTyiiev4hjUax65Jj4) | [Metawave](https://open.spotify.com/album/79n2VGzXE1J35tynn5RTFH) | 5:55 |
-| 18 | [La\-ga\-da\-di\-do](https://open.spotify.com/track/7KUN2b2cP1bTreB0dIKfIi) | [HWI](https://open.spotify.com/artist/36ufm9GkQyfL4ngCk47olG) | [Bat Apt.](https://open.spotify.com/album/57zVSnxGWShvSW0Q8pc1lV) | 3:54 |
-| 19 | [p.5](https://open.spotify.com/track/3q5PUiWIpRfgBRonYwQn3m) | [HOSOO](https://open.spotify.com/artist/3kMFfdFyf5MJCjr2ATgmKz) | [mist](https://open.spotify.com/album/0nmEthpB9Ym4XsOBBGOztX) | 9:34 |
-| 20 | [Heavy Peace](https://open.spotify.com/track/763S65Ooys16ozi2di7Wea) | [HOSOO](https://open.spotify.com/artist/3kMFfdFyf5MJCjr2ATgmKz) | [Odyssey](https://open.spotify.com/album/2c2OdwOA7piFSvZhxha0Sd) | 5:54 |
+| 1 | [A Página do Relâmpago Elétrico](https://open.spotify.com/track/75Mocbaz2cln7aCWauy0tA) | [Beto Guedes](https://open.spotify.com/artist/4ijgnqYvE1INXb1NSVT11m) | [Outros Clássicos](https://open.spotify.com/album/3dgHecR2lAtVlnGE1Wy2cg) | 5:10 |
+| 2 | [Do We Write to Write Right?](https://open.spotify.com/track/5J67CF4DTQWyRgGoDgkzZZ) | [Jeromes Dream](https://open.spotify.com/artist/7HUaFFb7vHJVzGAqwEBLJo) | [Completed](https://open.spotify.com/album/38Xw8CIFcpsP0adKqtF5k8) | 1:03 |
+| 3 | [When the Sun Drank the Weight of Water](https://open.spotify.com/track/0kvl8EQ3b7f9Sen2pzAOq2) | [Demilich](https://open.spotify.com/artist/7CP2HTwRjia5wGNmYfzaT0) | [Nespithe](https://open.spotify.com/album/2nR2lu5rgd9Htl6C0DSNsv) | 3:43 |
+| 4 | [Conjure Life](https://open.spotify.com/track/4tbaxQQ5F9hc7LZiYLl1hl) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Jesus Piece \- EP](https://open.spotify.com/album/4fUFuvHKKaQzW9fo8L71IV) | 2:50 |
+| 5 | [Early Bird Dies Fast](https://open.spotify.com/track/69GZS9RANxmatOSbGSXGTT) | [baan](https://open.spotify.com/artist/4fag8ybgb4H3sIzmrVf4xZ) | [neumann](https://open.spotify.com/album/3qTGa8dVNDxjjWvmc3ohz5) | 7:22 |
+| 6 | [Reversal of a Man](https://open.spotify.com/track/5rdxwRGvEmlM6GVODYFkgi) | [baan](https://open.spotify.com/artist/4fag8ybgb4H3sIzmrVf4xZ) | [neumann](https://open.spotify.com/album/3qTGa8dVNDxjjWvmc3ohz5) | 6:27 |
+| 7 | [The Chase \- Smooth Mix](https://open.spotify.com/track/20in5yzly6u3AxrIWUOFiA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [Classics](https://open.spotify.com/album/2LFSdOptnLt2lslUi5M68n) | 5:44 |
+| 8 | [A Flexible Plan](https://open.spotify.com/track/0ja2yIdhRvavZRlyDsvlA6) | [John Tejada](https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq) | [Parabolas](https://open.spotify.com/album/1ysY4ZKWker8yinW7hg5Jx) | 4:17 |
+| 9 | [Satellite](https://open.spotify.com/track/71gb4QqvE56wMBblC64Sym) | [Sandoz](https://open.spotify.com/artist/38YNhCAXDbLEPmMpC5eMl5) | [Dark Continent](https://open.spotify.com/album/40i8MPMXqAMMrY0ic6m8rL) | 7:36 |
+| 10 | [Featuring Omar S](https://open.spotify.com/track/3hxSPA03ZzpXj6PhDwEkDA) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [Omar S Featuring Omar S](https://open.spotify.com/album/0OtEy01ZdLU1cy5u2mTu8m) | 10:39 |
+| 11 | [Boy \- VIP Mix](https://open.spotify.com/track/4Xo3MwHazsnCwiWcmjz1I2) | [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy) | [Boy](https://open.spotify.com/album/1CVKYbQHvZpOOnsmHezXP2) | 7:52 |
+| 12 | [Lobster Telephone \- Mogwaa Remix](https://open.spotify.com/track/59kAcwBsqK9SUl4nkPC5Qv) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy) | [I Hear You – Bonus Tracks Edition](https://open.spotify.com/album/5EGfRfeXfcrx6la5ZYNmjx) | 5:56 |
+| 13 | [Plastic Star](https://open.spotify.com/track/0Pb8Lm5tu20xX8x9dUaUdv) | [Byetone](https://open.spotify.com/artist/6ysohaI3qDxQ5qDVAq7Vbd) | [Plastic Star](https://open.spotify.com/album/7y4mPQVSEp40tbrPk1mwBJ) | 4:51 |
+| 14 | [Prototype 4](https://open.spotify.com/track/11rsL1lUvDqmiI0489BcHo) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Prototypes](https://open.spotify.com/album/1u89kyOzEtQHOFSxPj9zsN) | 5:22 |
+| 15 | [DON\`T STOP](https://open.spotify.com/track/1V9neLfeVtRtxZmayxThF1) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [RAW SURVIVAL](https://open.spotify.com/album/5O3tQ4qUFHFu7JQexui7uY) | 4:05 |
+| 16 | [JONGNO](https://open.spotify.com/track/2On0valXDGvnN9pbTEzu8g) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [PSILOCYBIN](https://open.spotify.com/album/2oMSJiq1zLTaIGkpte4HwW) | 3:05 |
+| 17 | [+82](https://open.spotify.com/track/7amxuIEN4t82u2XTvuJzz4) | [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR), [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [HYPNOSIS THERAPY](https://open.spotify.com/album/7iHbidfgSyFUACwHgzMqoN) | 2:37 |
+| 18 | [NO!](https://open.spotify.com/track/1QJR29aNU81edqsgna0S16) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP), [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [NO](https://open.spotify.com/album/6rusvy0iLi8EG5lrMWfyq8) | 3:48 |
+| 19 | [FROG \(Feat\. 1tbsp\)](https://open.spotify.com/track/1kZtxlk3m3Bc8ssR6mw2RO) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [FROG \(Feat\. 1tbsp\)](https://open.spotify.com/album/1WeXuEY2C5ovaPxuTNvhlF) | 3:35 |
+| 20 | [subsonic₩](https://open.spotify.com/track/2LfAyjRZZdW3ZZ0AVTLMyP) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [latency](https://open.spotify.com/album/2rjA4rO2TtcWuyj3Wuk30N) | 3:19 |
+| 21 | [axis\_0\_ㅇ](https://open.spotify.com/track/1kWBxXv0NpSyqCVFBJYDxA) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [latency](https://open.spotify.com/album/2rjA4rO2TtcWuyj3Wuk30N) | 5:35 |
+| 22 | [Funking Funk](https://open.spotify.com/track/4eY1nNCSbyyesHsJw9qK2d) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Identity Crisis](https://open.spotify.com/album/2a6RvOVThMGEzb0ik1ptl6) | 7:30 |
+| 23 | [NOS](https://open.spotify.com/track/5z46Jo6PQMz2kDmJuKknhV) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [SickElixir](https://open.spotify.com/album/59aRCCtOb1yMhdN9TM53zR) | 3:02 |
+| 24 | [SUMMER DREAM](https://open.spotify.com/track/0CYT6jChJDqrSGFmjXZuNu) | [Yang Jin Seok](https://open.spotify.com/artist/1LrbNIN02PnSuWJqnbQJLx) | [Summer Dream](https://open.spotify.com/album/1jTdfD8eiIcqvmdfdrNu47) | 4:10 |
+| 25 | [Iguana](https://open.spotify.com/track/0XBBZIeXCqV2lssJSPnlEV) | [Kang San\-Eh](https://open.spotify.com/artist/7pzL12Pd5NdHCjHzp5bh5h) | [Wet Towel](https://open.spotify.com/album/7t0Q8kjVI5lKYLDS9z8OO8) | 3:47 |
+| 26 | [Spitshine](https://open.spotify.com/track/3OQdQYHxBUN5YZDmbjc08z) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 2:10 |
+| 27 | [Versos de Placer](https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Versos de Placer](https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0) | 2:48 |
 
-Snapshot ID: `AAAAAOPqPbuGyqCGmZdRt5XqWqQkh32c`
+Snapshot ID: `AAAAABhc1tkPX9KVw7SUg4sqpCba640R`

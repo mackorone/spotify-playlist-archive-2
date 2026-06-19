@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lPnCj14MCY.md) - [plain]
 
 > Embrace all colours with your favourite anthems\. "Let's have a kiki!"
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,835 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,836 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lPnCj14MCY.md) - [plain]
 | 3 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
 | 4 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 |
 | 5 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 |
-| 6 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
-| 7 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
+| 6 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
+| 7 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |
 | 8 | [We Found Love](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 3:35 |
 | 9 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
 | 10 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lPnCj14MCY.md) - [plain]
 | 15 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 |
 | 16 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
 | 17 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 4:11 |
-| 18 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 |
-| 19 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 |
+| 18 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 |
+| 19 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 |
 | 20 | [Lay All Your Love On Me](https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:34 |
 | 21 | [Bang Bang](https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sweet Talker \(Deluxe Version\)](https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb) | 3:19 |
 | 22 | [Starships](https://open.spotify.com/track/2EBCVPNAG46nbgs6jXPGvv) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday: Roman Reloaded The Re\-Up \(Explicit Version\)](https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1) | 3:30 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lPnCj14MCY.md) - [plain]
 | 46 | [Work Bitch](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 4:07 |
 | 47 | [Talk \(feat\. Disclosure\)](https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:17 |
 | 48 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
-| 49 | [Strong Enough](https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:44 |
-| 50 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 |
+| 49 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 |
+| 50 | [Strong Enough](https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:44 |
 | 51 | [Venus](https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [True Confessions \(Collector's Edition\)](https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h) | 3:49 |
 | 52 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes](https://open.spotify.com/album/2eEnzl61veDi3zQylslIap) | 4:39 |
 | 53 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |

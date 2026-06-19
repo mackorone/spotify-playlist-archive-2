@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 > Timeless Salsa from your favorite legends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,532,147 likes - 100 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,532,401 likes - 100 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 17 | [Amores Como el Nuestro](https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 5:01 |
 | 18 | [Y Hubo Alguien](https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 6:28 |
 | 19 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 |
-| 20 | [Que Alguien Me Diga](https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Expresion](https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3) | 4:50 |
+| 20 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
 | 21 | [Gitana](https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tiempo pa' Matar](https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5) | 6:54 |
-| 22 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
+| 22 | [Que Alguien Me Diga](https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Expresion](https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3) | 4:50 |
 | 23 | [Ahora Quien \- Salsa Version](https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:09 |
 | 24 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
 | 25 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 42 | [Decisiones](https://open.spotify.com/track/2BOcua9pjhKuVtgN40AAHX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Buscando America](https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu) | 5:03 |
 | 43 | [Triste Y Vacía](https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 6:11 |
 | 44 | [He Tratado](https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:03 |
-| 45 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 |
+| 45 | [Mi Mayor Venganza](https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Pura Salsa](https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm) | 5:13 |
 | 46 | [Como Te Hago Entender](https://open.spotify.com/track/3uzIBpBL6f6hvaTi3X0E7P) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Los Rostros de la Salsa](https://open.spotify.com/album/0i86M5tnB7ikXChtz10Kli) | 5:44 |
-| 47 | [Mi Mayor Venganza](https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Pura Salsa](https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm) | 5:13 |
+| 47 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 |
 | 48 | [Trampolín](https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestro Aniversario](https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2) | 4:21 |
 | 49 | [Qué Hay de Malo](https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 4:58 |
 | 50 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |

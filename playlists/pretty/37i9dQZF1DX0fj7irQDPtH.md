@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 
 > The biggest songs in Latin America in 2014\. Cover: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,804 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,824 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 44 | [Diez Mil Maneras](https://open.spotify.com/track/0bozYJjedwJwsvg7WWrWnX) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Tú Y Yo](https://open.spotify.com/album/2R7m2KEpz551kzsoayID3S) | 3:33 |
 | 45 | [Traicionero](https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:59 |
 | 46 | [Loco](https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [El Vuelo del Pez](https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD) | 3:31 |
-| 47 | [Quiereme](https://open.spotify.com/track/3zLZzw2t5mbsLaNQURufkB) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 4:00 |
-| 48 | [El Mar de Sus Ojos \(feat\. ChocQuibTown\)](https://open.spotify.com/track/0HRMIu0FgBAkY0r8XGzExe) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 3:53 |
+| 47 | [El Mar de Sus Ojos \(feat\. ChocQuibTown\)](https://open.spotify.com/track/0HRMIu0FgBAkY0r8XGzExe) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 3:53 |
+| 48 | [Quiereme](https://open.spotify.com/track/3zLZzw2t5mbsLaNQURufkB) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 4:00 |
 | 49 | [Adentro](https://open.spotify.com/track/5NOtC9vnvCuEy6IaNflffX) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 4:52 |
 | 50 | [No Me Olvides](https://open.spotify.com/track/7LDUiraavMZ6mb8hK3mXkj) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 3:25 |
 

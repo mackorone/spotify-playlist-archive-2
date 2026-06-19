@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 235 songs - 12 hr 17 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 239 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,5 +243,9 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 233 | [The Devil's Dance](https://open.spotify.com/track/3jcf6pjhEb0BQOxHvpw3yN) | [exane](https://open.spotify.com/artist/3xiDuqFFBBd87BgYeLFGcl) | [The Devil's Dance](https://open.spotify.com/album/5DoCb8eHtyz2JOvmQV6NrK) | 1:25 |
 | 234 | [Deadly Bargain](https://open.spotify.com/track/2GcKDv6tEGW1It3WTTxbxQ) | [The Thick Uns'](https://open.spotify.com/artist/6ccHRbcIouqzsSExLYiRCq) | [Deadly Bargain](https://open.spotify.com/album/5vphnozEZ5bBylR35UxvG2) | 3:35 |
 | 235 | [I Have Myself](https://open.spotify.com/track/3OVsKTZCyeQOWMsa5rvxMN) | [Brave The Storm](https://open.spotify.com/artist/6DPd6AkhKbj2qYKHULOU77), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Taste Oblivion](https://open.spotify.com/album/4KCvc2u5cOguYmwFFdxfP5) | 3:07 |
+| 236 | [Attention\(Tiri tese\)](https://open.spotify.com/track/34Xd43zwRtMXwNokRZPPME) | [Mr Gee TupaZ](https://open.spotify.com/artist/5Ra20bv5OyKWbI28XLHph0) | [Attention\(Tiri tese\)](https://open.spotify.com/album/7LP1vJO1wvp8ggjnfgG6tn) | 2:01 |
+| 237 | [Badali Badala](https://open.spotify.com/track/3TyG9VWhzwh9ETEQ0JOsgU) | [Sebastian McQueen](https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP) | [Between Us](https://open.spotify.com/album/1FckvjpUd1bin7xkXQzyuF) | 5:03 |
+| 238 | [Me Confundes](https://open.spotify.com/track/3p4zlX5oex6W0FhAWgl9gr) | [Draxess](https://open.spotify.com/artist/31eiTFPa3SmEug6EbLH3d3) | [Me Confundes](https://open.spotify.com/album/512JlbUPseSvuO0ZiKj9GR) | 2:04 |
+| 239 | [Diablax](https://open.spotify.com/track/6CVeBLFZw98ek6Eh7zE3pd) | [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Diablax](https://open.spotify.com/album/7rybHGQt51fJxGm8lVoVxL) | 2:40 |
 
-Snapshot ID: `AAAV8StrJfP/dscftSP3nRGsz4ZAurX8`
+Snapshot ID: `AAAV9QtnEssZS+COWEFC3o1KYC8kkTEB`

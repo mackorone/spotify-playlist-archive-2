@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H1gQEaz8An.md) - [plain]
 
 > Lo que diga el corazón ❤️💔 Cover: Adrian L Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,974 likes - 67 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,048 likes - 67 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

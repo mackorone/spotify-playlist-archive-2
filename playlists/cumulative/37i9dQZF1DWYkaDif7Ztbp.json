@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: Young Jonn",
+  "description": "The tracks heating up the continent right now!  Cover: Tyla",
   "name": "African Heat",
   "tracks": [
     {
@@ -844,7 +844,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 122711,
       "name": "Allonsy",
       "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
@@ -3844,7 +3844,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 181942,
       "name": "DON'T LOVE ME",
       "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
@@ -5029,6 +5029,24 @@
     },
     {
       "album": {
+        "name": "FRE$H",
+        "url": "https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "FRE$H",
+      "url": "https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR"
+    },
+    {
+      "album": {
         "name": "A Lifetime Is Not Enough",
         "url": "https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH"
       },
@@ -6006,7 +6024,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 160000,
       "name": "Hot Body",
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
@@ -6430,6 +6448,24 @@
       "duration_ms": 410847,
       "name": "iPlan",
       "url": "https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg"
+    },
+    {
+      "album": {
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
     },
     {
       "album": {
@@ -14144,6 +14180,24 @@
       "duration_ms": 217718,
       "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
       "url": "https://open.spotify.com/track/2HU9rJ9WAiyJf7y3o6GRrS"
+    },
+    {
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143644,
+      "name": "Wa",
+      "url": "https://open.spotify.com/track/5KX0YeCNKaOc3XhhDHi3mI"
     },
     {
       "album": {

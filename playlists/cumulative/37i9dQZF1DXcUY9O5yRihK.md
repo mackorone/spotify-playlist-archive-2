@@ -2,9 +2,9 @@
 
 ### [bossa pop](https://open.spotify.com/playlist/37i9dQZF1DXcUY9O5yRihK)
 
-> Bossa nova vibes for the hopeless romantic daydreamers\. Cover: aron!
+> Bossa nova vibes for the hopeless romantic daydreamers\. Cover: grentperez
 
-181 songs - 9 hr 9 min
+182 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-20 |  |
 | [about time](https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D) | [about time](https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u) | 3:13 | 2023-01-06 | 2023-08-05 |
 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 | 2025-01-10 |  |
+| [after all](https://open.spotify.com/track/4UCuyeaovBIUlyeecxU9Q4) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [after all](https://open.spotify.com/album/7lzGyOwEpw8hCGQge8SS2D) | 3:13 | 2026-06-19 |  |
 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 | 2024-10-18 |  |
 | [After You](https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [After You](https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL) | 3:23 | 2023-12-08 | 2024-09-14 |
 | [aime](https://open.spotify.com/track/6fW0lH7uRHh0kDXBHuYLkL) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID), [Chevy](https://open.spotify.com/artist/4WfJogOUKB3HihGTS6Fsxm) | [Sleepy Boy](https://open.spotify.com/album/0A7zAV59eGlFNQXFYAOsUo) | 1:50 | 2023-01-06 | 2023-09-16 |
@@ -137,7 +138,7 @@
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2023-01-06 |  |
 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-27 |  |
 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-05 | 2023-07-29 |
-| [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 | 2024-07-26 |  |
+| [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 | 2024-07-26 | 2026-06-19 |
 | [ROT](https://open.spotify.com/track/70zTbQd3yYeNwA75CF2fcd) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [WE GOOD](https://open.spotify.com/album/3I9SoNg5YQAPIE1VVSXdat) | 2:49 | 2024-09-13 |  |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-07-28 | 2026-02-28 |
 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-10 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: O\u011fuzhan Ko\u00e7",
+  "description": "Pop'un sevilen isimleri. Kapak: Demet Akal\u0131n x G\u00f6khan \u00d6zen",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -788,7 +788,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 181448,
       "name": "Aslanlar Do\u011fuyor",
       "url": "https://open.spotify.com/track/0rPoprDkgdgkvAZUh3TuXD"
@@ -2720,7 +2720,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 182253,
       "name": "Bu Yaz",
       "url": "https://open.spotify.com/track/5R4IMqppkpo0rBBHja7j7J"
@@ -3606,7 +3606,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 153906,
       "name": "DVD",
       "url": "https://open.spotify.com/track/0GabRJwqSIxLv3A139Lu6b"
@@ -4980,7 +4980,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 175000,
       "name": "Hava Civa",
       "url": "https://open.spotify.com/track/6hTTal21gATxfG2pbKr0vr"
@@ -5070,7 +5070,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 159500,
       "name": "hayran",
       "url": "https://open.spotify.com/track/6OeYAmYvqsE7zK1SsmaWDB"
@@ -5398,6 +5398,32 @@
       "duration_ms": 135588,
       "name": "H\u00fcrrem",
       "url": "https://open.spotify.com/track/0mQxlAQVm5jVuExsofCiPM"
+    },
+    {
+      "album": {
+        "name": "IDI DIDI",
+        "url": "https://open.spotify.com/album/0h0bPPHluMCcwXmAvxwhrD"
+      },
+      "artists": [
+        {
+          "name": "Aydilge",
+          "url": "https://open.spotify.com/artist/0cjA9XY1jx3RlniZbMkCWy"
+        },
+        {
+          "name": "Yaren \u00d6zayd\u0131n",
+          "url": "https://open.spotify.com/artist/3uPE296pAZPNAko0tAliut"
+        },
+        {
+          "name": "Heybensena",
+          "url": "https://open.spotify.com/artist/146UWYVJXG95QSDpOqjawp"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133593,
+      "name": "IDI DIDI",
+      "url": "https://open.spotify.com/track/4lXSghkK5EMqRa8nkG3Jgh"
     },
     {
       "album": {
@@ -7359,6 +7385,28 @@
     },
     {
       "album": {
+        "name": "NAZAR",
+        "url": "https://open.spotify.com/album/1ltvCwbMqAkRNm5qUYyquF"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6khan \u00d6zen",
+          "url": "https://open.spotify.com/artist/3QLMLmISoZnFxUdzSoT6JB"
+        },
+        {
+          "name": "Demet Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170661,
+      "name": "NAZAR",
+      "url": "https://open.spotify.com/track/6uvUXO63MVDzfMV7DMsYlZ"
+    },
+    {
+      "album": {
         "name": "Nazar",
         "url": "https://open.spotify.com/album/67EfUSy8Lo2Q53J4aBPtaS"
       },
@@ -9062,7 +9110,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 248181,
       "name": "Sokak K\u0131z\u0131 - 30. Y\u0131l D\u00f6n\u00fcm\u00fc",
       "url": "https://open.spotify.com/track/4ITDqs1I58xCoPTGKZIUfL"
@@ -9538,7 +9586,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 172474,
       "name": "T\u00dcRKLER GEL\u0130YOR",
       "url": "https://open.spotify.com/track/6rvuKL1E0PieqFPqL9dz8j"
@@ -9560,6 +9608,24 @@
       "duration_ms": 158960,
       "name": "Umar\u0131m Unutmu\u015ftur",
       "url": "https://open.spotify.com/track/4uHd54kBsk8srZVTqaV37F"
+    },
+    {
+      "album": {
+        "name": "Unutaca\u011f\u0131m",
+        "url": "https://open.spotify.com/album/4IJjWvJufVG6aFLmks1eMB"
+      },
+      "artists": [
+        {
+          "name": "Serkan Ni\u015fanc\u0131",
+          "url": "https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159753,
+      "name": "Unutaca\u011f\u0131m",
+      "url": "https://open.spotify.com/track/6ZB2MjZFsNukr71joHmwQd"
     },
     {
       "album": {
@@ -11090,7 +11156,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 173124,
       "name": "Zor",
       "url": "https://open.spotify.com/track/0tuOP51T4wijydu8Bq8aKb"
@@ -11720,6 +11786,24 @@
       "duration_ms": 201927,
       "name": "\u015euh Nefes - Ceceli",
       "url": "https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8"
+    },
+    {
+      "album": {
+        "name": "\u015e\u0131mar\u0131k",
+        "url": "https://open.spotify.com/album/2hi0BeIUFh2cqQjxYP4R1j"
+      },
+      "artists": [
+        {
+          "name": "Derya Ulu\u011f",
+          "url": "https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153339,
+      "name": "\u015e\u0131mar\u0131k",
+      "url": "https://open.spotify.com/track/1YLHRVAsWnNFCeLMfqz2dh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9G2MXp8YYmm"

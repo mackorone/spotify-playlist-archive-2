@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,541 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,560 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 36 | [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 |
 | 37 | [Be Your Girl](https://open.spotify.com/track/6kXqI6x2TR8lpHNmflsN9F) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [LADY KIM](https://open.spotify.com/artist/7hRNnqrDLe8mtGVfHHkdch) | [Be Your Girl](https://open.spotify.com/album/65E5O3o7unNpPrLaw1h5Gm) | 3:40 |
 | 38 | [Was It Enough](https://open.spotify.com/track/7ftbGeJEZCJTuLEpoeZl9m) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Was It Enough](https://open.spotify.com/album/7gghxoaleNauVod7MSNq1P) | 2:20 |
-| 39 | [Open Road](https://open.spotify.com/track/44n5iu9DumPH2J63zPDl8z) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Jony Beats](https://open.spotify.com/artist/6zcclxl1u4kjY6nMOIpy9z), [TomInTheChamber](https://open.spotify.com/artist/66a7ASj4mXl12zjpT96cr3) | [Open Road](https://open.spotify.com/album/5u5QYucmlBwD2CG5Xcd892) | 3:18 |
-| 40 | [Eyes Turn Blue](https://open.spotify.com/track/304qtBTwDOwkiwGIcsl15T) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Eyes Turn Blue](https://open.spotify.com/album/56eDVWsy2AeahPXVZbRtDC) | 3:34 |
-| 41 | [Lawyer](https://open.spotify.com/track/56a2UyKtYKnHdKMPPPiAUR) | [Nixxy Rain](https://open.spotify.com/artist/4ZA9DE9Ka4DztcpHkiRaTf) | [Lawyer](https://open.spotify.com/album/5uy7TxhgdEPQFWAJs9eARR) | 4:17 |
-| 42 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
-| 43 | [Velour](https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Velour](https://open.spotify.com/album/07PcjZSnBUrQeaabtOhRDM) | 4:25 |
+| 39 | [Eyes Turn Blue](https://open.spotify.com/track/304qtBTwDOwkiwGIcsl15T) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Eyes Turn Blue](https://open.spotify.com/album/56eDVWsy2AeahPXVZbRtDC) | 3:34 |
+| 40 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
+| 41 | [Open Road](https://open.spotify.com/track/44n5iu9DumPH2J63zPDl8z) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Jony Beats](https://open.spotify.com/artist/6zcclxl1u4kjY6nMOIpy9z), [TomInTheChamber](https://open.spotify.com/artist/66a7ASj4mXl12zjpT96cr3) | [Open Road](https://open.spotify.com/album/5u5QYucmlBwD2CG5Xcd892) | 3:18 |
+| 42 | [Velour](https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar) | [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Velour](https://open.spotify.com/album/07PcjZSnBUrQeaabtOhRDM) | 4:25 |
+| 43 | [Lawyer](https://open.spotify.com/track/56a2UyKtYKnHdKMPPPiAUR) | [Nixxy Rain](https://open.spotify.com/artist/4ZA9DE9Ka4DztcpHkiRaTf) | [Lawyer](https://open.spotify.com/album/5uy7TxhgdEPQFWAJs9eARR) | 4:17 |
 | 44 | [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 |
 | 45 | [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 |
 | 46 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
 | 47 | [Nobody Knows](https://open.spotify.com/track/2Npm9RJ2U8hhKCQonDJESq) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [In My Head](https://open.spotify.com/album/0U2QxOH1RSNhTSFPeOd8yH) | 2:52 |
-| 48 | [Uncovered](https://open.spotify.com/track/75jOmycCtNUZYgBfoKPh83) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Uncovered](https://open.spotify.com/album/1C26uUcYX1wtzHcaIlBLOP) | 3:18 |
-| 49 | [Broken Hearts](https://open.spotify.com/track/36BEINszOa1KYgXcnBtzsK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Broken Hearts](https://open.spotify.com/album/68APyVqYotExPXndQ6VFRU) | 2:16 |
+| 48 | [Broken Hearts](https://open.spotify.com/track/36BEINszOa1KYgXcnBtzsK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Broken Hearts](https://open.spotify.com/album/68APyVqYotExPXndQ6VFRU) | 2:16 |
+| 49 | [Uncovered](https://open.spotify.com/track/75jOmycCtNUZYgBfoKPh83) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Uncovered](https://open.spotify.com/album/1C26uUcYX1wtzHcaIlBLOP) | 3:18 |
 | 50 | [\(I Don't Want To\) Fly Away](https://open.spotify.com/track/62VKv8GzbonnW5AYayL9GA) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Liane Carroll](https://open.spotify.com/artist/7Dj9pPFhAO5JZb1gVPdmAk) | [\(I Don't Want To\) Fly Away](https://open.spotify.com/album/0wdPjxKxTv3lHGVUZ602vE) | 4:24 |
 
 Snapshot ID: `AAAAAL4dhm/xe4Z2t5nzXomP7k6hCFT8`

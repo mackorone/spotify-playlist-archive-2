@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhNh5DYTmwV.md) - [plain]
 
 > Champeta, afrobeats, dancehall y vallenato pa' celebrar a Lucho\. 🇨🇴
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,246 likes - 30 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,253 likes - 30 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhNh5DYTmwV.md) - [plain]
 | 29 | [Checumbias](https://open.spotify.com/track/2MYzwDMA9hGysdrT1Gd2Rq) | [Checo Acosta](https://open.spotify.com/artist/3idErFl9hCXFLxlXKhim3Q) | [Colombia de Exportacion Tropical Vol 2](https://open.spotify.com/album/4D8PaWoY3vt8Ws5nMxLQmv) | 5:21 |
 | 30 | [Fiesta Colombiana: Colombia Caribe; Colombia Tierra Querida; Soy Colombiano; Yo Me Llamo Cumbia](https://open.spotify.com/track/6APT7F8dKzYcL5qK6dUUmN) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Nadie Nos Quita Lo Bailao](https://open.spotify.com/album/5g0jQWWOboPVRgGn2apcMd) | 5:04 |
 
-Snapshot ID: `AAAAAOUo3NGXnTt6JK0DPfxQguenuwXo`
+Snapshot ID: `AAAAACVLy5R8TowOxOoq3tTQajbeUn7s`

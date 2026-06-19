@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 
 > Tesoros musicales del ayer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,084 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,197 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 76 | [Tu Cabeza en Mi Hombro](https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Serie De Coleccion 15 Autenticos Exitos \- Enrique Guzman](https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT) | 2:31 |
 | 77 | [Rumores](https://open.spotify.com/track/1CGZr3OWD5QG1KCW7LMC1D) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Disco De Oro: Baladas, Vol\. 1](https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc) | 3:42 |
 | 78 | [Ahora y siempre](https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:53 |
-| 79 | [Soy Yo](https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Éxitos De Oro](https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9) | 3:33 |
-| 80 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 |
+| 79 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 |
+| 80 | [Soy Yo](https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Éxitos De Oro](https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9) | 3:33 |
 | 81 | [Rosa..\. Rosa](https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Sandro de América](https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9) | 2:33 |
 | 82 | [Hipocresía](https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:19 |
 | 83 | [Heridas](https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 3:33 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 87 | [A Que No Le Cuentas](https://open.spotify.com/track/3WDNKy17AbatmDeMwSjzbj) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Lo Mejor De...](https://open.spotify.com/album/6HtnxyCP7gbCbrxVLY93Yj) | 4:12 |
 | 88 | [Cómo Quisiera Decirte](https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 2:49 |
 | 89 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/3lzkOHkG5yH3xj40sY4nVI) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:38 |
-| 90 | [Adoro](https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:21 |
-| 91 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 |
+| 90 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 |
+| 91 | [Adoro](https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:21 |
 | 92 | [Oiga](https://open.spotify.com/track/1vJOhtqk2fjKHi7vVToylw) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Prisma](https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3) | [Disco De Oro: Baladas, Vol\. 1](https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc) | 3:29 |
 | 93 | [Cien años](https://open.spotify.com/track/1Ag6NwYwfBxZuNixLMT5a8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 3:32 |
 | 94 | [Si Quieres Verme Llorar](https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7) | [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Si Quieres Verme Llorar](https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD) | 3:10 |

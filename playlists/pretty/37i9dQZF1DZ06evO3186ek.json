@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 165733,
+  "num_followers": 165738,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABHsuBWSoxq/XBslsCM/z7L",
+  "snapshot_id": "ajHjgAAAAAABB7HQVk2tFHJfQaOuchVf",
   "tracks": [
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 732553,
-      "name": "Refiner (feat. Steffany Gretzinger, Chandler Moore)",
-      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Name of Jesus (feat. Chandler Moore)",
         "url": "https://open.spotify.com/album/489O9Hpa91OGXlYOoodr8o"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 298878,
       "name": "In The Name of Jesus (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/4O2mQtteYmGU173GcZjn6C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 732553,
+      "name": "Refiner (feat. Steffany Gretzinger, Chandler Moore)",
+      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
     },
     {
       "added_at": null,
@@ -763,30 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAVHOUSE",
-        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Song House",
-          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
-        },
-        {
-          "name": "Mara Justine",
-          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/0Wa2ws6YA9IWWLPbyF1jRF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Worship Collection",
         "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 226773,
       "name": "Worthy Of It All - Instrumental Worship",
       "url": "https://open.spotify.com/track/01inNw5R0q2qDZrktc0qUG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAVHOUSE",
+        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/0Wa2ws6YA9IWWLPbyF1jRF"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 272348,
-      "name": "Bless Me",
-      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Worship Collection",
         "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 249152,
       "name": "What A Beautiful Name - Instrumental Worship",
       "url": "https://open.spotify.com/track/2C9IZBwpqLlexhvBx2HG7d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
     },
     {
       "added_at": null,

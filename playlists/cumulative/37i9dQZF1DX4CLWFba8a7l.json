@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Noise In My Head",
+        "url": "https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211331,
+      "name": "Beautiful Noise In My Head",
+      "url": "https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6"
+    },
+    {
+      "album": {
         "name": "Dream Ride",
         "url": "https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0"
       },
@@ -1836,7 +1854,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 229800,
       "name": "Change Of Heart",
       "url": "https://open.spotify.com/track/1Nv9SIJR749xhMm08m44bU"
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 178571,
       "name": "Daylight Robbery",
       "url": "https://open.spotify.com/track/58DHNoxvttW7CLsfDQ7M9S"
@@ -3831,6 +3849,24 @@
     },
     {
       "album": {
+        "name": "Get Away From Me (I Think I'll Love You Soon)",
+        "url": "https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168523,
+      "name": "Get Away From Me (I Think I'll Love You Soon)",
+      "url": "https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo"
+    },
+    {
+      "album": {
         "name": "Get It Done",
         "url": "https://open.spotify.com/album/1Pn6IYJQWyRRPFEMKTEw5w"
       },
@@ -4274,6 +4310,28 @@
       "duration_ms": 158453,
       "name": "half moon bay",
       "url": "https://open.spotify.com/track/0eqhYYMADCZiLj5Xr2tQML"
+    },
+    {
+      "album": {
+        "name": "HANDOUT",
+        "url": "https://open.spotify.com/album/2TBTrjzQYJGtFCH12Gc6Pe"
+      },
+      "artists": [
+        {
+          "name": "Miss Kaninna",
+          "url": "https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz"
+        },
+        {
+          "name": "Jamahl Yami",
+          "url": "https://open.spotify.com/artist/3Itv2bIVJFOjkW4UtMfclN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256444,
+      "name": "HANDOUT",
+      "url": "https://open.spotify.com/track/3v4GDXibV0EcyViPek8I1d"
     },
     {
       "album": {
@@ -7374,7 +7432,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 223266,
       "name": "NEW WORLD",
       "url": "https://open.spotify.com/track/2z4h97jzhrbUuDmGuVGTpn"
@@ -9766,7 +9824,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 157879,
       "name": "Stay With Me Through The Night",
       "url": "https://open.spotify.com/track/0pLMj9wDZPXjxJ3qEKM0rZ"
@@ -11886,7 +11944,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 197544,
       "name": "Where Our Streets Met",
       "url": "https://open.spotify.com/track/1pdY6AbGcmbev2bBj7ScdA"

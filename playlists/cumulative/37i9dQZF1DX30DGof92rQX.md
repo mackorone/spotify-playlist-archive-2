@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Asim Azhar
 
-546 songs - 1 day 5 hr 26 min
+547 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aao Toh Zara](https://open.spotify.com/track/6GfV8hDW1zx9QgCpxRza8Q) | [Shahrukh Sarfraz](https://open.spotify.com/artist/5hKq3AUOAwEIBCic2Jqfsm), [Neha Karim Ullah](https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA) | [Aao Toh Zara](https://open.spotify.com/album/7a2r0WPerGJxnJNnzFvI9t) | 2:42 | 2025-11-21 | 2026-04-25 |
 | [Aap Ki Yaad, 2.0](https://open.spotify.com/track/4HbnrDaNkW6CDwdHfYEGr8) | [Ahmed Jahanzeb](https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR) | [Aap Ki Yaad, 2.0](https://open.spotify.com/album/3UWhmzPxb02fJl65JxoEFB) | 5:21 | 2025-09-24 | 2025-12-13 |
 | [Aarzu](https://open.spotify.com/track/33ONVCBllYQpXYNiDgMDJy) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Aarzu](https://open.spotify.com/album/0124fFelSx0ce8IQqgao9o) | 4:11 | 2026-05-01 | 2026-05-08 |
+| [Aatish](https://open.spotify.com/track/6bJJMam29IyvathYLst3uY) | [Ahsan Javed](https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE), [Usamasutra](https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L) | [Aatish](https://open.spotify.com/album/1UiQTSF62IFdoOoGcW04xc) | 2:38 | 2026-06-19 |  |
 | [Aazma Le](https://open.spotify.com/track/38lni6W28qtzIL6Y78l6Uu) | [Fakhar Abbas](https://open.spotify.com/artist/7L8VPgAXW4fcZBFgtkAAEb) | [Aazma Le](https://open.spotify.com/album/1q87hIrvBT7hbI1mTJdcXE) | 4:07 | 2025-11-14 | 2026-04-25 |
 | [About You](https://open.spotify.com/track/1xz6X3PwE36t89m1vFZLnT) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx) | [The Basement](https://open.spotify.com/album/63mhHbgjR55MFjevivOcvQ) | 3:33 | 2026-05-29 |  |
 | [Abyss](https://open.spotify.com/track/3rRxqckcitFr3e4VVmjIZr) | [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4), [Hamza Ali](https://open.spotify.com/artist/5kHbX0Ne0niNDN6QItgCKL) | [Abyss](https://open.spotify.com/album/6UnTHGmHupRjjfMAFWp38N) | 4:19 | 2024-11-07 | 2025-01-17 |
@@ -256,7 +257,7 @@
 | [Khasara](https://open.spotify.com/track/1TWkdQ2k7ysSYwla66Ys6I) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Khasara](https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA) | 2:40 | 2026-03-27 | 2026-06-05 |
 | [KHAT](https://open.spotify.com/track/57wCsgKjm7TNHgvLmyy7ny) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Hassan Rai](https://open.spotify.com/artist/7mdBGoLdvF4OqvedvcgiuE), [Qasim Dahir](https://open.spotify.com/artist/1yk4ylocCYUE7BP6mwRNar) | [KHAT](https://open.spotify.com/album/0Yc93fOJGWuvjKIoEmsEhV) | 3:20 | 2025-11-14 | 2026-04-25 |
 | [KHAYAL](https://open.spotify.com/track/6iLARAw87ATUTrqYx04p1I) | [rizvye](https://open.spotify.com/artist/0MTMRFf0JEdHdVEwrWnrIU) | [KHAYAL](https://open.spotify.com/album/2NxyzyqZL97qnvSIUyEWfr) | 2:50 | 2026-06-05 | 2026-06-12 |
-| [Kheriyaan De Naal](https://open.spotify.com/track/248lOHW0TAjKsPzHncT8pX) | [Kashan Admani](https://open.spotify.com/artist/2MNgnCdZlDyxEfoTRQNEGE), [Muhammad Zubair](https://open.spotify.com/artist/5u2TTS9GwB0AYKDxTctuW5), [Kami Paul](https://open.spotify.com/artist/1ZkJJWLCbtjVxnXPmxqUMI), [Kamran Zafar Mannu](https://open.spotify.com/artist/4uBXiQCHR058umPOZSIr30) | [Kheriyaan De Naal](https://open.spotify.com/album/16Xe1cugCBQKk7sSWn2va0) | 3:17 | 2026-06-12 |  |
+| [Kheriyaan De Naal](https://open.spotify.com/track/248lOHW0TAjKsPzHncT8pX) | [Kashan Admani](https://open.spotify.com/artist/2MNgnCdZlDyxEfoTRQNEGE), [Muhammad Zubair](https://open.spotify.com/artist/5u2TTS9GwB0AYKDxTctuW5), [Kami Paul](https://open.spotify.com/artist/1PS9uKvAvyrgFMVZhZ20BO), [Kamran Zafar Mannu](https://open.spotify.com/artist/4uBXiQCHR058umPOZSIr30) | [Kheriyaan De Naal](https://open.spotify.com/album/16Xe1cugCBQKk7sSWn2va0) | 3:17 | 2026-06-12 |  |
 | [Khilnay Ko](https://open.spotify.com/track/3afvJxGQgUDWUG3mEAdPQr) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 4:29 | 2025-04-18 | 2025-05-02 |
 | [Khizaan](https://open.spotify.com/track/3WDxldpZLZkjVCwE892DVp) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Khizaan](https://open.spotify.com/album/2PJV2dGwrn0OROSL1sNYUo) | 2:44 | 2024-06-28 | 2024-11-08 |
 | [Khoya](https://open.spotify.com/track/0rFvqsz0TII4elXOlyweNe) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Khoya](https://open.spotify.com/album/1GHCk7MgEtpsw9m7zpdMd3) | 2:46 | 2025-11-07 | 2026-04-25 |

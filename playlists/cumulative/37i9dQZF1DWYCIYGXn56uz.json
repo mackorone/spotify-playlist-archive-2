@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f cover: Samurai Jay",
+  "description": "\ud83d\udc85\ud83c\udffb \ud83d\udd0a ALZARE - IL - VOLUME \ud83d\udc85\ud83c\udffb \ud83d\udd0a cover: ANNA",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 192000,
       "name": "Arrivederci mai pi\u00f9",
       "url": "https://open.spotify.com/track/1WXpLBUD2JZJ2OSMA3sa5r"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 127809,
       "name": "CAPELLO DEL SUD",
       "url": "https://open.spotify.com/track/7JRdApFcZWZwm9Ll5lzodG"
@@ -4866,7 +4866,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 180000,
       "name": "crush crush crush",
       "url": "https://open.spotify.com/track/2jAwAFDyL9kwvfWhvhNri4"
@@ -6702,7 +6702,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 191750,
       "name": "FARSI MALE",
       "url": "https://open.spotify.com/track/1PkAzcX3aCixzMB2JoOFid"
@@ -8936,7 +8936,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 186511,
       "name": "Il sesso",
       "url": "https://open.spotify.com/track/2fp7g2vZsq3OprQu8Pibwi"
@@ -9374,6 +9374,28 @@
       "duration_ms": 134880,
       "name": "IO X LEI",
       "url": "https://open.spotify.com/track/36f2RAAEUU6mfZkiY0je48"
+    },
+    {
+      "album": {
+        "name": "Irrecuperabile (feat. Ermal Meta)",
+        "url": "https://open.spotify.com/album/7IuYVPDOBdMc385R8kERVZ"
+      },
+      "artists": [
+        {
+          "name": "Trigno",
+          "url": "https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R"
+        },
+        {
+          "name": "Ermal Meta",
+          "url": "https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156226,
+      "name": "Irrecuperabile (feat. Ermal Meta)",
+      "url": "https://open.spotify.com/track/3lIPaUNQjz4wS8jW8j2Jsf"
     },
     {
       "album": {
@@ -10793,6 +10815,24 @@
     },
     {
       "album": {
+        "name": "M'AMA NON M'AMA",
+        "url": "https://open.spotify.com/album/3AtmmwCyWNlimeMrEC8rq7"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152598,
+      "name": "M'AMA NON M'AMA",
+      "url": "https://open.spotify.com/track/62Fhtd4RS4ZJFeuIflGKyg"
+    },
+    {
+      "album": {
         "name": "MA CHE IDEA (feat. Pino D'Angi\u00f2)",
         "url": "https://open.spotify.com/album/0j4VujrvdWsDMO4b1jQFzI"
       },
@@ -10838,6 +10878,24 @@
       "duration_ms": 177035,
       "name": "MA CHE IDEA RMX",
       "url": "https://open.spotify.com/track/3NX8uz8ollJtkfa5IQczm1"
+    },
+    {
+      "album": {
+        "name": "Ma Jolie",
+        "url": "https://open.spotify.com/album/0iWpzxLSxVBWPSCyoSJyLr"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145505,
+      "name": "Ma Jolie",
+      "url": "https://open.spotify.com/track/0Jh4W108dqBnbxqpORmi6v"
     },
     {
       "album": {
@@ -14179,6 +14237,28 @@
     },
     {
       "album": {
+        "name": "OMBRA AL SOLE",
+        "url": "https://open.spotify.com/album/4DhZX7IbvjxAQspYmRbA22"
+      },
+      "artists": [
+        {
+          "name": "Dea Culpa",
+          "url": "https://open.spotify.com/artist/6X4wWxYIAoGnnNN6jh5jPI"
+        },
+        {
+          "name": "Ciao sono Vale",
+          "url": "https://open.spotify.com/artist/4F9QCOBWpH7P6zZwF6kKOc"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159624,
+      "name": "OMBRA AL SOLE",
+      "url": "https://open.spotify.com/track/4Ca2HsMObWWXr64bi8oc91"
+    },
+    {
+      "album": {
         "name": "ora",
         "url": "https://open.spotify.com/album/3zmBhmKDyzmaWvPqW0pL2e"
       },
@@ -14772,7 +14852,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 184670,
       "name": "Passaporti e Caramelle",
       "url": "https://open.spotify.com/track/7vy8zrm4dUdnpO0CCtwPI6"
@@ -16098,7 +16178,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 173225,
       "name": "PUNTURE",
       "url": "https://open.spotify.com/track/7AkeqRnu3i8qoCsOXpkjAm"
@@ -17408,6 +17488,24 @@
       "duration_ms": 165034,
       "name": "Schiava della Vita",
       "url": "https://open.spotify.com/track/3uXafV40eOIYmrGaSg7af3"
+    },
+    {
+      "album": {
+        "name": "Scintille",
+        "url": "https://open.spotify.com/album/4ZIa78n4qGSHudQnp4SMes"
+      },
+      "artists": [
+        {
+          "name": "PRINCIPE",
+          "url": "https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169186,
+      "name": "Scintille",
+      "url": "https://open.spotify.com/track/0bFh6PzFx4myg4fegZ447C"
     },
     {
       "album": {
@@ -19623,6 +19721,24 @@
     },
     {
       "album": {
+        "name": "TI HO VISTO ENTRARE NELLA MIA VITA",
+        "url": "https://open.spotify.com/album/12l8jpz0HIffBdQZjHJNRN"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "TI HO VISTO ENTRARE NELLA MIA VITA",
+      "url": "https://open.spotify.com/track/01zwb3TqJG9A6rZlxBsoiF"
+    },
+    {
+      "album": {
         "name": "Ti ricorderai di noi",
         "url": "https://open.spotify.com/album/0b2D5zLJ3bwDxsNs01pJ6C"
       },
@@ -19750,7 +19866,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 184615,
       "name": "Tipo strano",
       "url": "https://open.spotify.com/track/69A6bIBWsOhSNkR3STnZgS"
@@ -20931,6 +21047,24 @@
     },
     {
       "album": {
+        "name": "Una vita fa",
+        "url": "https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143487,
+      "name": "Una vita fa",
+      "url": "https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2"
+    },
+    {
+      "album": {
         "name": "La bella confusione",
         "url": "https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO"
       },
@@ -21871,6 +22005,24 @@
     },
     {
       "album": {
+        "name": "Socialmente utile",
+        "url": "https://open.spotify.com/album/6AtReUtaO3UBzLcfeZsOgQ"
+      },
+      "artists": [
+        {
+          "name": "Vybes",
+          "url": "https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215748,
+      "name": "Vorrei solo innamorarmi",
+      "url": "https://open.spotify.com/track/4kipH4lEbjTNNRWYsCIPyx"
+    },
+    {
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/2jEKKZyMdQalQoNG0cI4eX"
       },
@@ -21984,6 +22136,24 @@
       "duration_ms": 132571,
       "name": "Wemmino",
       "url": "https://open.spotify.com/track/0S2cH6G7ZMu2Ru5y7HWRHR"
+    },
+    {
+      "album": {
+        "name": "WHITE GIRL WASTED",
+        "url": "https://open.spotify.com/album/1MdbSkPqc1AeqWJQBk3Weq"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "WHITE GIRL WASTED",
+      "url": "https://open.spotify.com/track/3d56FH7ZlHf9tjojZSwv8U"
     },
     {
       "album": {

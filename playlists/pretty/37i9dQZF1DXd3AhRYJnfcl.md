@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: رحمة محسن
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,654 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,908 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [اتنسينا](https://open.spotify.com/track/0kZtRxxBDbMO4vZApAiNOZ) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [اخر ما تبقي من احزاني](https://open.spotify.com/album/5TkHU9o2cEXhuC9yG1uDlh) | 2:31 |
 | 50 | [Emshy](https://open.spotify.com/track/1VQx8TpKEv8uWQ1awwPX5f) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 3:11 |
 
-Snapshot ID: `AAAAAGKvG401+wR99jOHW66COvyMnjoJ`
+Snapshot ID: `AAAAABLIV2fLhO79Ic7FSPXJsigbOnBB`

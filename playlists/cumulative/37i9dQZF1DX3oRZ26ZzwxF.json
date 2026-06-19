@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : TRK.",
+  "description": "Le meilleur du rap africain francophone. Photo : Black K",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 166250,
       "name": "ALL\u00d4-ALL\u00d4",
       "url": "https://open.spotify.com/track/4ZWUV50lCAVznwmKcnNFJQ"
@@ -726,6 +726,32 @@
       "duration_ms": 203076,
       "name": "BATON NON NON",
       "url": "https://open.spotify.com/track/2SdSUeEaMraip31hhJ0fY5"
+    },
+    {
+      "album": {
+        "name": "KIN",
+        "url": "https://open.spotify.com/album/2QR90IbHvWeON5AOdIG503"
+      },
+      "artists": [
+        {
+          "name": "Zayi",
+          "url": "https://open.spotify.com/artist/5lOHZ0aMfvWdJrFJNhgYzo"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "63OG",
+          "url": "https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183807,
+      "name": "Bina",
+      "url": "https://open.spotify.com/track/645MT1vGCbzkqC4QJiAxlr"
     },
     {
       "album": {
@@ -1243,6 +1269,28 @@
     },
     {
       "album": {
+        "name": "Sang 9",
+        "url": "https://open.spotify.com/album/5wggH2okfXO7c09yVKhPsx"
+      },
+      "artists": [
+        {
+          "name": "Black K",
+          "url": "https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq"
+        },
+        {
+          "name": "TRK.",
+          "url": "https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177365,
+      "name": "CALE EN L'AIR",
+      "url": "https://open.spotify.com/track/2KF8wQnjwhnbt8hnaaCzIB"
+    },
+    {
+      "album": {
         "name": "29 : Bouteilles \u00e0 la Mer",
         "url": "https://open.spotify.com/album/6yL3g3AHaN7eeZDM01zsc3"
       },
@@ -1306,6 +1354,44 @@
       "duration_ms": 144657,
       "name": "CARDIO",
       "url": "https://open.spotify.com/track/61GLuMu70Cn6RwTLSRWOTn"
+    },
+    {
+      "album": {
+        "name": "Burkina All Star",
+        "url": "https://open.spotify.com/album/2qN0ZLjG4oqJqRe10dyU51"
+      },
+      "artists": [
+        {
+          "name": "BLACKY LAMELO",
+          "url": "https://open.spotify.com/artist/7E97Mg8YMYEctprZJLP6IM"
+        },
+        {
+          "name": "Black Dany",
+          "url": "https://open.spotify.com/artist/5c2E6WNxRlOmvMbS8SnvyI"
+        },
+        {
+          "name": "Kevin Mik",
+          "url": "https://open.spotify.com/artist/5OLA3UBb9J1lCTQVbfl2Vm"
+        },
+        {
+          "name": "VINS",
+          "url": "https://open.spotify.com/artist/0tCGML4jr1kRFpgU5qM0J4"
+        },
+        {
+          "name": "Alrich",
+          "url": "https://open.spotify.com/artist/6XMiXeYl4K4tQ2kHFhJBsc"
+        },
+        {
+          "name": "Mr B",
+          "url": "https://open.spotify.com/artist/07GEIJFJlpkqQYV55oAFag"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262383,
+      "name": "Carolina (feat. Black Dany, Kevin Mik, VINS, Alrich & Mr B)",
+      "url": "https://open.spotify.com/track/0u3P6z1Y0kgQ9OIZVhjY2D"
     },
     {
       "album": {
@@ -2471,6 +2557,24 @@
     },
     {
       "album": {
+        "name": "ENJOY",
+        "url": "https://open.spotify.com/album/6XOhOdkFm4EaT5CPYoumnd"
+      },
+      "artists": [
+        {
+          "name": "DEMENTOS",
+          "url": "https://open.spotify.com/artist/55EHiUBT43mSyM6uHpjA3D"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162750,
+      "name": "ENJOY",
+      "url": "https://open.spotify.com/track/4hnjX99kAbXK5M7xf6ZHeT"
+    },
+    {
+      "album": {
         "name": "DIYILEM & BAZARHOFF : GENIUS",
         "url": "https://open.spotify.com/album/0XRYwM7Fb1oAhjCaKSoSfp"
       },
@@ -2664,7 +2768,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 172800,
       "name": "Fiesta98",
       "url": "https://open.spotify.com/track/2Xj8XXSC0Vo4GmC6BsTmQ3"
@@ -2700,7 +2804,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 142140,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/1icjvmGAFl865h1w5LV4Ji"
@@ -3224,7 +3328,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 190178,
       "name": "ICI BAS",
       "url": "https://open.spotify.com/track/0hUN28dCmieC5vupzznOxT"
@@ -3286,7 +3390,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 201142,
       "name": "Inshallah - II",
       "url": "https://open.spotify.com/track/2N9cBop08hp3wGXvidxThG"
@@ -3391,6 +3495,24 @@
     },
     {
       "album": {
+        "name": "JENSHIMIDJEKA",
+        "url": "https://open.spotify.com/album/1B2tQYuUbj903YnByCK8gu"
+      },
+      "artists": [
+        {
+          "name": "Jenshina",
+          "url": "https://open.spotify.com/artist/1hEaFveQYMR8pX5mZpxbus"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154971,
+      "name": "JENSHIMIDJEKA",
+      "url": "https://open.spotify.com/track/3t69WkD5eIjRP1x32CmgvK"
+    },
+    {
+      "album": {
         "name": "JET SET",
         "url": "https://open.spotify.com/album/3hlJr1ryAyQ9mavdIqLneV"
       },
@@ -3410,7 +3532,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 184347,
       "name": "JET SET",
       "url": "https://open.spotify.com/track/6FZZQalH51XLffDBwkh1JO"
@@ -3504,7 +3626,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 176644,
       "name": "Kandia Camara",
       "url": "https://open.spotify.com/track/47hLXntnfGRAp2vp0yQXF1"
@@ -3942,6 +4064,24 @@
       "duration_ms": 166000,
       "name": "LOCCO",
       "url": "https://open.spotify.com/track/4giO7frwrQyr9V1UjR2Mi7"
+    },
+    {
+      "album": {
+        "name": "LOVER BOY",
+        "url": "https://open.spotify.com/album/0n0zYmcSxrg3SRpEIaObP4"
+      },
+      "artists": [
+        {
+          "name": "ODK.",
+          "url": "https://open.spotify.com/artist/6M7fV1KXrCJmZI36Ooiu2D"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166579,
+      "name": "LOVER BOY",
+      "url": "https://open.spotify.com/track/0G0iXdd9YHETAchcu0RqmC"
     },
     {
       "album": {
@@ -4800,7 +4940,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 198645,
       "name": "NOSTALGIE",
       "url": "https://open.spotify.com/track/7fSqwkXgMVo7Z5ZSct2kmt"
@@ -4910,7 +5050,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 142160,
       "name": "NUMBER ONE",
       "url": "https://open.spotify.com/track/0pzVy9m27gZ9vZ99PmYQXN"
@@ -5496,10 +5636,28 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 142941,
       "name": "Praise the Lord",
       "url": "https://open.spotify.com/track/3IvprOUbcFgjfFFeh37doB"
+    },
+    {
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/0M0RrByvLi3DjRiZajidds"
+      },
+      "artists": [
+        {
+          "name": "Yvn's",
+          "url": "https://open.spotify.com/artist/21qBlczZvbjf57YMOVIGTk"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190876,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/46UEgYoZ5FEFtqDPLpIEGN"
     },
     {
       "album": {
@@ -5558,6 +5716,32 @@
       "duration_ms": 159019,
       "name": "Probl\u00e8me",
       "url": "https://open.spotify.com/track/35fwoytFWGUsz2lERcjhl9"
+    },
+    {
+      "album": {
+        "name": "PTC (Pas Ton Camarade)",
+        "url": "https://open.spotify.com/album/0ihS9Lg0LsZyxsTwdElHd4"
+      },
+      "artists": [
+        {
+          "name": "N\u00d4J",
+          "url": "https://open.spotify.com/artist/2rCPBjAnHwMR274CLbtl5O"
+        },
+        {
+          "name": "LE JLO",
+          "url": "https://open.spotify.com/artist/4tLeb86ETPXHOWXBlzzOi6"
+        },
+        {
+          "name": "Dom K.",
+          "url": "https://open.spotify.com/artist/46mNhCef2j3q8zmzQXUDuT"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124178,
+      "name": "PTC - Pas Ton Camarade",
+      "url": "https://open.spotify.com/track/0chCdnKhMHGNfzsqK8yQkZ"
     },
     {
       "album": {
@@ -5788,6 +5972,50 @@
       "duration_ms": 222580,
       "name": "R\u00eaves, peines et r\u00e9alit\u00e9s",
       "url": "https://open.spotify.com/track/6Nzlbp1Ef3AxLtuBVcE0M4"
+    },
+    {
+      "album": {
+        "name": "S/O",
+        "url": "https://open.spotify.com/album/4StKmRicUEfm7Us9GiWIvt"
+      },
+      "artists": [
+        {
+          "name": "OG Mahilet",
+          "url": "https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT"
+        },
+        {
+          "name": "Toumalewe",
+          "url": "https://open.spotify.com/artist/2Eyd49ijFdqRwQF7DBYyyZ"
+        },
+        {
+          "name": "Luchh",
+          "url": "https://open.spotify.com/artist/4LCWgewKr4zn23Ujdbd0lp"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "S/O",
+      "url": "https://open.spotify.com/track/1gZDkMvITtBeGhMCz07M9D"
+    },
+    {
+      "album": {
+        "name": "CONCR\u00c9TISATION : L'ASCENSION",
+        "url": "https://open.spotify.com/album/62jEvfBe59Lh5LQ6DLcDpG"
+      },
+      "artists": [
+        {
+          "name": "Lamine l\u00f8ssa",
+          "url": "https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177815,
+      "name": "SAGACIT\u00c9",
+      "url": "https://open.spotify.com/track/7iLMhRjmsufvisk3lW4ctc"
     },
     {
       "album": {
@@ -6044,7 +6272,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 166153,
       "name": "SOUS LES TROPIQUES",
       "url": "https://open.spotify.com/track/52APcM6MVQCcBwyx0QMiKG"
@@ -6936,6 +7164,28 @@
       "duration_ms": 169854,
       "name": "Waka waka",
       "url": "https://open.spotify.com/track/5i8uwUbiAKBJ7kfhgXpVzf"
+    },
+    {
+      "album": {
+        "name": "WAWA",
+        "url": "https://open.spotify.com/album/2HS79kHfpCK7PG1scD5agg"
+      },
+      "artists": [
+        {
+          "name": "Kodes",
+          "url": "https://open.spotify.com/artist/3fnfvu19t4JYyEkRldXsO5"
+        },
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "WAWA",
+      "url": "https://open.spotify.com/track/462ovsCRTaqwyt2o35h8aM"
     },
     {
       "album": {

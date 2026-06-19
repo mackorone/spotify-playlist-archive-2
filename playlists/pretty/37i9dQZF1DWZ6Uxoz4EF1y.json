@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 245295,
+  "num_followers": 245283,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Glorioso Rey",
+        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 310231,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Somos Iglesia",
         "url": "https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Piedras Vivas",
-        "url": "https://open.spotify.com/album/2KjcElLTluwudvzcVTTkAU"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 315651,
-      "name": "Gracia Sublime Es",
-      "url": "https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "25 Concierto Conmemorativo",
         "url": "https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Mi Casa Y Yo",
-        "url": "https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 223735,
-      "name": "Mi Casa Y Yo",
-      "url": "https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Cuan Gran Amor",
         "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
       },
@@ -1311,6 +1295,38 @@
       "duration_ms": 528800,
       "name": "Digno Y Santo",
       "url": "https://open.spotify.com/track/1vsA02g4fNXwTAy9BooYbX"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Piedras Vivas",
+        "url": "https://open.spotify.com/album/2KjcElLTluwudvzcVTTkAU"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 315651,
+      "name": "Gracia Sublime Es",
+      "url": "https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Mi Casa Y Yo",
+        "url": "https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 223735,
+      "name": "Mi Casa Y Yo",
+      "url": "https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Glorioso Rey",
-        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 310231,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
       },
@@ -1375,6 +1375,70 @@
       "duration_ms": 447491,
       "name": "Lo Unico Que Quiero",
       "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Me Dice Que Me Ama",
+      "url": "https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 424534,
+      "name": "Hay Poder",
+      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1399,38 +1463,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Me Dice Que Me Ama",
-      "url": "https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 424534,
-      "name": "Hay Poder",
-      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "El Eco De Su Voz",
         "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
       },
@@ -1443,22 +1475,6 @@
       "duration_ms": 299013,
       "name": "Amor Sin Comparaci\u00f3n",
       "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 423173,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1483,22 +1499,6 @@
       "duration_ms": 444330,
       "name": "Digno",
       "url": "https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Santo R\u00edo de Dios",
-        "url": "https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 301958,
-      "name": "Santo R\u00edo de Dios",
-      "url": "https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B"
     },
     {
       "added_at": "2026-04-04 05:56:44",

@@ -1,6 +1,6 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: J'Something",
-  "num_followers": 3639,
+  "num_followers": 3669,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Family Values",
-        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
-      },
-      "artists": [
-        {
-          "name": "Riky Rick",
-          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
-        }
-      ],
-      "duration_ms": 240061,
-      "name": "Boss Zonke",
-      "url": "https://open.spotify.com/track/40k035nx9YwLSpfDhEyKwM"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Nkalakatha",
         "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 285933,
       "name": "Nkalakatha",
       "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Family Values",
+        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
+      },
+      "artists": [
+        {
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        }
+      ],
+      "duration_ms": 240061,
+      "name": "Boss Zonke",
+      "url": "https://open.spotify.com/track/40k035nx9YwLSpfDhEyKwM"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Work of Heart",
-        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
-      },
-      "artists": [
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Reach It",
-      "url": "https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 296080,
       "name": "Umqombothi",
       "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Work of Heart",
+        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
+      },
+      "artists": [
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Reach It",
+      "url": "https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Ibokwe",
-        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Ingoma",
-      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Another Universe",
         "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "Ibokwe",
+        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Ingoma",
+      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Family Values",
         "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
-      },
-      "artists": [
-        {
-          "name": "Lebo Mathosa",
-          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
-        }
-      ],
-      "duration_ms": 314772,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Nomvula",
         "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 382186,
       "name": "I'd Like",
       "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
+      },
+      "artists": [
+        {
+          "name": "Lebo Mathosa",
+          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
+        }
+      ],
+      "duration_ms": 314772,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Bhambatha (Remastered 2024)",
-        "url": "https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        },
-        {
-          "name": "Thembisile",
-          "url": "https://open.spotify.com/artist/3yjaPmf61NL5y3U3hAoZML"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Don't Cry - Remastered 2024",
-      "url": "https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Heads and Tales",
         "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 250880,
       "name": "Wozobona",
       "url": "https://open.spotify.com/track/5dIOKpPN20BHKd56jOVsoN"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Bhambatha (Remastered 2024)",
+        "url": "https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        },
+        {
+          "name": "Thembisile",
+          "url": "https://open.spotify.com/artist/3yjaPmf61NL5y3U3hAoZML"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "Don't Cry - Remastered 2024",
+      "url": "https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Work of Heart",
-        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
-      },
-      "artists": [
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 59640,
-      "name": "Grateful - Interlude",
-      "url": "https://open.spotify.com/track/0x1zokrw2rQm2XcmQ5dZN5"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Rain Man: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Wie's Bang",
-        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
+        "name": "Work of Heart",
+        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
       },
       "artists": [
         {
-          "name": "Van Coke Kartel",
-          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
         }
       ],
-      "duration_ms": 296680,
-      "name": "Tot Die Son Uitkom",
-      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
+      "duration_ms": 59640,
+      "name": "Grateful - Interlude",
+      "url": "https://open.spotify.com/track/0x1zokrw2rQm2XcmQ5dZN5"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -983,6 +967,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "Wie's Bang",
+        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
+      },
+      "artists": [
+        {
+          "name": "Van Coke Kartel",
+          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
+        }
+      ],
+      "duration_ms": 296680,
+      "name": "Tot Die Son Uitkom",
+      "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Tsholofelo (Platinum Edition)",
         "url": "https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 402093,
-      "name": "Zabalaza",
-      "url": "https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Ultimate Zoid",
         "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 224626,
       "name": "Afrikaners Is Plesierig",
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 402093,
+      "name": "Zabalaza",
+      "url": "https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S"
     }
   ],
   "unique_name": "SA Gold",

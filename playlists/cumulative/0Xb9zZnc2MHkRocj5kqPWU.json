@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Alcova",
+        "url": "https://open.spotify.com/album/674W6H3kK6ttGMIxY6BaZ9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226253,
+      "name": "Alcova",
+      "url": "https://open.spotify.com/track/1rrcZgdbmO10QMRo2LkQfu"
+    },
+    {
+      "album": {
         "name": "Helium",
         "url": "https://open.spotify.com/album/1eYMCl7tP9dwFIS8ZKy1l3"
       },
@@ -2756,6 +2774,24 @@
       "duration_ms": 195520,
       "name": "e.Dreamer - Solo Piano Version",
       "url": "https://open.spotify.com/track/6UpF7w7vngNkhUHQ7650VB"
+    },
+    {
+      "album": {
+        "name": "Echoes of Colors",
+        "url": "https://open.spotify.com/album/0RsZUNP73u5mPVm3sABojG"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Echoes of Colors",
+      "url": "https://open.spotify.com/track/2iK2iWYwUGp19nevOXCzdk"
     },
     {
       "album": {
@@ -6261,6 +6297,32 @@
     },
     {
       "album": {
+        "name": "Path\u00e9tique Variation (After Piano Sonata No. 8, Op.13: II. Adagio cantabile)",
+        "url": "https://open.spotify.com/album/4KLnXjq0u5CwUNJNahbbWH"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jan-Peter Kl\u00f6pfel",
+          "url": "https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149234,
+      "name": "Path\u00e9tique Variation (After Piano Sonata No. 8, Op.13: II. Adagio cantabile)",
+      "url": "https://open.spotify.com/track/092N8Wbq86yTgSnh9Xmt0Q"
+    },
+    {
+      "album": {
         "name": "Pavane Floue",
         "url": "https://open.spotify.com/album/4UQWJkNFyhumm5vouylxGu"
       },
@@ -7586,6 +7648,28 @@
       "duration_ms": 181920,
       "name": "Schumann: Kinderszenen, Op. 15: VII. Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/09TW4n0avALTSmPsnmFoxc"
+    },
+    {
+      "album": {
+        "name": "Seal Lullaby",
+        "url": "https://open.spotify.com/album/07LsRX47nlG7MKz7DLNSWY"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257697,
+      "name": "Seal Lullaby",
+      "url": "https://open.spotify.com/track/27ON1ewRutcn4K1GDNRr3J"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 894 likes - 140 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 897 likes - 140 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 106 | [Love Like That](https://open.spotify.com/track/2KeU7IKPz5OVDTBrWDIVnh) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Boombox Eternal](https://open.spotify.com/album/3vv5r0qQ7HUOq2bhBHAOos) | 4:32 |
 | 107 | [Horror Movie](https://open.spotify.com/track/2N5AAoeXTv2j2b6uRo04cO) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [PRINCE$$ ROSIE](https://open.spotify.com/artist/5xmmPJI0GyVKVFRL82Ei2L) | [HELLRAISERS, Part 2](https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb) | 1:57 |
 | 108 | [The Way I'm Wired](https://open.spotify.com/track/1EU1P8r2tF089QQjM5dUIA) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:39 |
-| 109 | [Runnin'](https://open.spotify.com/track/1ea2dRo2tSRhxMagoX7EWj) | [Nadine Coyle](https://open.spotify.com/artist/3fWTpVNnrGmdo0jMbsRsRf) | [Insatiable](https://open.spotify.com/album/0T3zANiTRRlO1J5rmGp3na) | 4:05 |
-| 110 | [Complete Me](https://open.spotify.com/track/7IkYCTXuAvQZXDFtspmR3V) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:41 |
+| 109 | [Complete Me](https://open.spotify.com/track/7IkYCTXuAvQZXDFtspmR3V) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:41 |
+| 110 | [Runnin'](https://open.spotify.com/track/1ea2dRo2tSRhxMagoX7EWj) | [Nadine Coyle](https://open.spotify.com/artist/3fWTpVNnrGmdo0jMbsRsRf) | [Insatiable](https://open.spotify.com/album/0T3zANiTRRlO1J5rmGp3na) | 4:05 |
 | 111 | [Love Me Like I Do](https://open.spotify.com/track/4QNgPUoNFCvDhLhZa6oYA3) | [Erica\-Cody](https://open.spotify.com/artist/6h9boYU490q7cRC64QsEBI) | [Love Me Like I Do](https://open.spotify.com/album/7BfFYi1geUe3L0HEGlLs6S) | 3:01 |
 | 112 | [The Best Is Yet To Come](https://open.spotify.com/track/28kMV2V5n3ETtyATjsYFrJ) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA), [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:18 |
 | 113 | [Nothing Without You](https://open.spotify.com/track/1KAvlqjLQJOnyk3lLQ51jd) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Nothing Without You](https://open.spotify.com/album/7BpHdk6Qvop3mio148WJrC) | 3:41 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 124 | [My Mind \(Interlude\)](https://open.spotify.com/track/1QSIe9IQAv6wbZ1JdG2fyq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:34 |
 | 125 | [Words](https://open.spotify.com/track/2CvVLHZ5BLbfB8tSFPzlQx) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:21 |
 | 126 | [Queen of LA](https://open.spotify.com/track/4GOw20XeuZZp5fxmobRRCY) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:51 |
-| 127 | [Enough \(feat\. RuthAnne\)](https://open.spotify.com/track/40ZpSsFtEKkFcTxWhkhA8N) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Everybody Wants You](https://open.spotify.com/album/5uxehNuBMZCrVNDl57aqq2) | 3:25 |
-| 128 | [Perfection](https://open.spotify.com/track/2xjjnaHGzETkvZhXnEcqcV) | [Tata Young](https://open.spotify.com/artist/7dJ3pPuDcHLEwhtlZNJKcr) | [Ready For Love](https://open.spotify.com/album/7jFWCaN4SZbNS1XJNeeFe3) | 3:14 |
+| 127 | [Perfection](https://open.spotify.com/track/2xjjnaHGzETkvZhXnEcqcV) | [Tata Young](https://open.spotify.com/artist/7dJ3pPuDcHLEwhtlZNJKcr) | [Ready For Love](https://open.spotify.com/album/7jFWCaN4SZbNS1XJNeeFe3) | 3:14 |
+| 128 | [Enough \(feat\. RuthAnne\)](https://open.spotify.com/track/40ZpSsFtEKkFcTxWhkhA8N) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Everybody Wants You](https://open.spotify.com/album/5uxehNuBMZCrVNDl57aqq2) | 3:25 |
 | 129 | [Sliding Doors](https://open.spotify.com/track/2tgyMQjcwVp2CjFT6gAZwh) | [Baptiste Giabiconi](https://open.spotify.com/artist/4DD9H38CXQBbIME7AGNOr9) | [Oxygen](https://open.spotify.com/album/3wJqURLm1qe9DucNTntWS3) | 3:41 |
 | 130 | [Flaws](https://open.spotify.com/track/11h7cjswldN3GFpd961XAw) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/4edayUkEhvvjFQF2DRmlse) | 2:53 |
 | 131 | [Gratitude](https://open.spotify.com/track/2cI7IM2jlIC7wKdfpQvctA) | [Erica\-Cody](https://open.spotify.com/artist/6h9boYU490q7cRC64QsEBI) | [Love & Light](https://open.spotify.com/album/2XrzEmUgAStgYTQT8lDzHG) | 3:25 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 139 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 140 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AcUfsAAAAACSx/7olVdc9MKyAbFDipoe`
+Snapshot ID: `AcUlggAAAABOjqPCUkGNKZMnucuyVd4P`

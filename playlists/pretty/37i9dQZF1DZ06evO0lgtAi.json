@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 35447,
+  "num_followers": 35448,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABnYhflRhu4PDJSysEuNrBh",
+  "snapshot_id": "ajHjgAAAAADyO7t2e3GefxF3GdhT6ZeL",
   "tracks": [
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 232146,
-      "name": "UN DIA (ONE DAY)",
-      "url": "https://open.spotify.com/track/66x45Yh9x397PWpxMX0ZDT"
+      "duration_ms": 232253,
+      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DYNASTY",
-        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 143257,
-      "name": "H\u00c1BLAME CLARO",
-      "url": "https://open.spotify.com/track/6ftgxRFnXKiyuKtpdYDQSz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIZAO",
         "url": "https://open.spotify.com/album/6QrInZintbiWaOGfxE5RtK"
       },
@@ -771,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 143257,
+      "name": "H\u00c1BLAME CLARO",
+      "url": "https://open.spotify.com/track/6ftgxRFnXKiyuKtpdYDQSz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sunbathe",
         "url": "https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 170666,
       "name": "Sunbathe",
       "url": "https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/7wQzePffBw59BtLjJULfel"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 173548,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/5JoV39MFYbvWZwJlxq2722"
     },
     {
       "added_at": null,
@@ -831,26 +851,6 @@
       "duration_ms": 259534,
       "name": "VA Y VEN",
       "url": "https://open.spotify.com/track/1Jo3PXI2jQY3kI2nZH3lyW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/7wQzePffBw59BtLjJULfel"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 173548,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/5JoV39MFYbvWZwJlxq2722"
     },
     {
       "added_at": null,

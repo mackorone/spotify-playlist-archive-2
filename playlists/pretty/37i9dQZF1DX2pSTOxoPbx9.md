@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,762 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,774 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 18 | [Salt In The Wound](https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 4:11 |
 | 19 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |
 | 20 | [Arsonist's Lullabye](https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 4:26 |
-| 21 | [Jenny of Oldstones \(Game of Thrones\)](https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Jenny of Oldstones \(Game of Thrones\)](https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB) | 3:08 |
-| 22 | [9 Crimes](https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF) | 3:39 |
+| 21 | [9 Crimes](https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF) | 3:39 |
+| 22 | [Jenny of Oldstones \(Game of Thrones\)](https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Jenny of Oldstones \(Game of Thrones\)](https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB) | 3:08 |
 | 23 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 |
 | 24 | [Small Things](https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:43 |
 | 25 | [John Came Home](https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [John Came Home](https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p) | 3:11 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 92 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
 | 93 | [Sleep](https://open.spotify.com/track/6oLxKBr1xrrDAWoVYxVxx6) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:12 |
 | 94 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
-| 95 | [Riverside](https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1) | 3:50 |
-| 96 | [Marked for Death](https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Marked for Death](https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4) | 3:39 |
-| 97 | [Recite Remorse](https://open.spotify.com/track/1lcHu7OTXCRQrlBV4XJiOW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Out in the Storm](https://open.spotify.com/album/66XOr2J6gjRe5vtAxrPPli) | 4:38 |
-| 98 | [Stars](https://open.spotify.com/track/7sqMo5ZnWfr1IdGoiwzm9Y) | [Sam Airey](https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw) | [Station Approach](https://open.spotify.com/album/2b6Y3r5sNPS5nNHrMF5KHL) | 5:21 |
-| 99 | [Nocturne](https://open.spotify.com/track/1rAoMvrhI0Ozalbow7Lu6F) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne](https://open.spotify.com/album/4Vp0P2uTyyuzZvEyWE2m5e) | 4:28 |
-| 100 | [When You Break](https://open.spotify.com/track/1oWSkX6hHx8ea2Wr0SE39g) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Agape](https://open.spotify.com/album/3q6hvgult6JS9gnDcKzAWS) | 4:45 |
+| 95 | [Beautiful Hell](https://open.spotify.com/track/1DlbCKscf5uSlVpbKYVxOS) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Beautiful Hell](https://open.spotify.com/album/6xTzNBU5ayQKPQeIrhNKV8) | 2:56 |
+| 96 | [Riverside](https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1) | 3:50 |
+| 97 | [Marked for Death](https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Marked for Death](https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4) | 3:39 |
+| 98 | [Recite Remorse](https://open.spotify.com/track/1lcHu7OTXCRQrlBV4XJiOW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Out in the Storm](https://open.spotify.com/album/66XOr2J6gjRe5vtAxrPPli) | 4:38 |
+| 99 | [Stars](https://open.spotify.com/track/7sqMo5ZnWfr1IdGoiwzm9Y) | [Sam Airey](https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw) | [Station Approach](https://open.spotify.com/album/2b6Y3r5sNPS5nNHrMF5KHL) | 5:21 |
+| 100 | [Nocturne](https://open.spotify.com/track/1rAoMvrhI0Ozalbow7Lu6F) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne](https://open.spotify.com/album/4Vp0P2uTyyuzZvEyWE2m5e) | 4:28 |
 
 Snapshot ID: `AAAAAFrIUVkg9VCgTCvBxExtVpI3D064`

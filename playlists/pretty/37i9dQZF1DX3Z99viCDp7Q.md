@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 
 > Special songs for your special day\. Cover: Alex Warren and Kouvr Annon 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,768 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,905 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 43 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
 | 44 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 |
 | 45 | [Bless The Broken Road](https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Feels Like Today](https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy) | 3:46 |
-| 46 | [Everything](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:32 |
-| 47 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 |
+| 46 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 |
+| 47 | [Everything](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:32 |
 | 48 | [Better Together](https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:37 |
 | 49 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 |
 | 50 | [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 |
-| 51 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
-| 52 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
+| 51 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
+| 52 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
 | 53 | [A Million Dreams](https://open.spotify.com/track/0oagwWkGlBoACUuKvTmqZV) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [A Million Dreams](https://open.spotify.com/album/6MtlLy42YdFaJNOgDA0NZW) | 4:33 |
 | 54 | [The Thing I Love](https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Thing I Love](https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG) | 2:52 |
 | 55 | [I Will \- Remastered 2009](https://open.spotify.com/track/09x9v1o51dbqi5H0u7UGfp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 1:45 |

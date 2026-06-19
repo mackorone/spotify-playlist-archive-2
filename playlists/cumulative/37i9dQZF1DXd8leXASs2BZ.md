@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Litty, NORIKIYO
 
-1,592 songs - 3 day 1 hr 10 min
+1,593 songs - 3 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,6 +643,7 @@
 | [In Da Discoteca \- クラブの中](https://open.spotify.com/track/3HHS6bGz2pYGE6R5GgLRAx) | [thepini](https://open.spotify.com/artist/2SX09mehDolXzvV3Sr3FfN) | [THEPINI IN THE HOUSE 2](https://open.spotify.com/album/66UUYmUnUCPcW7iSdcKUWL) | 2:25 | 2024-11-06 | 2024-12-18 |
 | [In My Mind](https://open.spotify.com/track/6iRK132kCqyUTyFgnNbGMg) | [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [RNB ERA](https://open.spotify.com/album/2DqBNpTXiMKwLuIjNzEq8B) | 2:49 | 2023-12-07 | 2024-02-09 |
 | [In My Stress](https://open.spotify.com/track/1DDKb721dwZdN8XWgUvKzx) | [FTL SHINKI](https://open.spotify.com/artist/6AU9u7PHcTl8eTUAiFQ7YI), [Thlive](https://open.spotify.com/artist/6DaGmFvPW9EEpyLA3uBtzg), [Plain Jay](https://open.spotify.com/artist/6pERZIyDUwOZG4SIzIu33V) | [Family Thlive Loyalty](https://open.spotify.com/album/1bPXiyhWJ0xuSTi6Dku7nT) | 3:10 | 2024-03-05 | 2024-04-10 |
+| [In The Game](https://open.spotify.com/track/4FVdp0vqp10V5gkSrOzrei) | [SWEE](https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx) | [In The Game](https://open.spotify.com/album/76JvKk4sChy1usdqRenmrn) | 2:55 | 2026-06-16 |  |
 | [In The Sky](https://open.spotify.com/track/0txmA3JAGwVexETZav673g) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [In The Sky](https://open.spotify.com/album/6ovKmvWBa2VZBSDZHkJNwj) | 2:59 | 2025-09-23 | 2026-01-15 |
 | [In2Deep](https://open.spotify.com/track/2QUZ7694rNKC9KLO0IYbaa) | [G\-SPARROW](https://open.spotify.com/artist/2AucnU5hZ6ilZassx6v75W) | [In2Deep](https://open.spotify.com/album/5QB940f1fzyuHo6Uxgm1i3) | 2:48 | 2024-01-18 | 2024-02-14 |
 | [Inside](https://open.spotify.com/track/4Nz0IIS6mMhsIbcQQZc7Ft) | [Kaede](https://open.spotify.com/artist/7ucQZoZtVmqJpOWXdGoViN) | [Inside](https://open.spotify.com/album/24kTjUSOHHgBPwgLBTIdG0) | 4:55 | 2025-09-02 | 2025-11-19 |
@@ -1240,7 +1241,7 @@
 | [Step To Step \(feat\. KID PENSEUR\)](https://open.spotify.com/track/0Dy75HAaOZoA7yrtdXpR8G) | [STICKY BUDS](https://open.spotify.com/artist/606E8dfYTpa1QY1MLJxN8J), [KID PENSEUR](https://open.spotify.com/artist/68ea2WqkkypaKoakuoNbbl) | [Grind n Hustle](https://open.spotify.com/album/41ZY5Hkm0QC8HyLsjB4qcx) | 3:04 | 2025-11-05 | 2026-01-28 |
 | [Still Fly](https://open.spotify.com/track/19r9afNN7X9t5UbZHDnuQ1) | [Donatello](https://open.spotify.com/artist/3KDD4QJCRWBrOhGcUIc96y) | [Still Fly](https://open.spotify.com/album/55nDfsFusGk7UgRH7Un9zx) | 3:32 | 2024-04-24 | 2024-06-19 |
 | [Still Move](https://open.spotify.com/track/6npl5S7rnfH4zOG4RFre1Z) | [Cherry](https://open.spotify.com/artist/3MR0GVD0ax5sjkVemMJn3l), [DJ RIND](https://open.spotify.com/artist/269MCyoL8TFb1CU1w8oGRd) | [Still Move](https://open.spotify.com/album/2tGHSjBVBpOg3V2xrdwO0F) | 3:33 | 2025-07-29 | 2025-10-08 |
-| [Still On My Mind](https://open.spotify.com/track/1wFDvJXqMECW28WTotV14u) | [Sumi](https://open.spotify.com/artist/0NYUdAYLVG5kcaImjwPPGq), [DJ YEN](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60) | [Still On My Mind](https://open.spotify.com/album/47Qrw5IR9JHpXzLoW3fMT9) | 2:57 | 2026-06-16 |  |
+| [Still On My Mind](https://open.spotify.com/track/1wFDvJXqMECW28WTotV14u) | [SUMI](https://open.spotify.com/artist/5LgDLLJkzx7RsEOQrmyYRt), [DJ YEN](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60) | [Still On My Mind](https://open.spotify.com/album/47Qrw5IR9JHpXzLoW3fMT9) | 2:57 | 2026-06-16 |  |
 | [Still Tippin' Freestyle](https://open.spotify.com/track/4TxrDVJY9ucVw0cbtvoRxG) | [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM), [Montiago](https://open.spotify.com/artist/3oxrNkqeblaZHXBD2wG8pA), [San Quintin](https://open.spotify.com/artist/7MdYVhXrjFPMoDcsB7cKfz), [Huncho Bandz](https://open.spotify.com/artist/2LKdjCrOECn9Y7NTZLaHjB), [DaeDae3K](https://open.spotify.com/artist/7JzqdyzJay1cjXGP9A5xu6) | [Still Tippin' Freestyle](https://open.spotify.com/album/0WPd3eXS3isXu6krsVn0Vg) | 3:23 | 2024-01-11 | 2024-02-28 |
 | [Still wit u \(feat\. Yvng Xan, utumiyqcom & BHS Svve\)](https://open.spotify.com/track/6lJhrhfRIHKmzgiIiU5Z27) | [BLOOD BOY](https://open.spotify.com/artist/0B4Ip4gJuVpsC0K23CWfxt), [Yvng Xan](https://open.spotify.com/artist/5k02UkoofeSR1BFh8fkwJq), [utumiyqcom](https://open.spotify.com/artist/0z2nVl8o9RsgqHxktTIlJ8), [BHS Svve](https://open.spotify.com/artist/6uFfH7ZHSnHMXjNCgpIWb2) | [STAR BOY TRIP](https://open.spotify.com/album/166B5ajs7qMCzZxlo6CGZv) | 2:52 | 2025-07-29 | 2025-10-15 |
 | [STREET PAIN](https://open.spotify.com/track/1wUiccguJBdBWQOsf98ZK1) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [STREET PAIN](https://open.spotify.com/album/6ohL3LKXPvrSxZbFrlyFOc) | 2:38 | 2023-12-07 | 2023-12-14 |

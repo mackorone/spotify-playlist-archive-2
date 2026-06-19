@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: MUNA
 
-2,445 songs - 5 day 10 hr 17 min
+2,446 songs - 5 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,7 +637,7 @@
 | [down under](https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [down under](https://open.spotify.com/album/6u1MWDlyJlzW28ithVAYp3) | 3:24 | 2026-03-20 |  |
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-09-26 |  |
 | [Drain Me!](https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Drain Me!](https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW) | 2:01 | 2023-11-06 | 2024-07-17 |
-| [Drama King](https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Drama King](https://open.spotify.com/album/02iICHeNdgziyDRE70DCse) | 3:10 | 2026-01-16 |  |
+| [Drama King](https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Drama King](https://open.spotify.com/album/02iICHeNdgziyDRE70DCse) | 3:10 | 2026-01-16 | 2026-06-19 |
 | [Dramatic Girl \(feat\. Che Ecru\)](https://open.spotify.com/track/05gychGDaYtqT3sWQhZydb) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:19 | 2026-02-20 |  |
 | [Dream Drop](https://open.spotify.com/track/4UR2N5fuU37KA0gu6SjJr3) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Dream Drop](https://open.spotify.com/album/5xeJjEHTAmh2W59hqFRRVk) | 2:54 | 2021-06-03 | 2021-10-16 |
 | [Dream Girl](https://open.spotify.com/track/568ZnkQDsn09lX1FXn7a4Q) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 2:31 | 2021-02-24 | 2021-05-21 |
@@ -763,6 +763,7 @@
 | [Femininomenon](https://open.spotify.com/track/6kGoO1dbhARH8x60VlXg2B) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Femininomenon](https://open.spotify.com/album/6oBWAavlOmmymAZvQ8PzDX) | 3:39 | 2023-03-24 | 2023-07-01 |
 | [Ferris Wheel](https://open.spotify.com/track/0zX1fnVFXWE0zBSwoppHeg) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Alva Ravn](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y), [FENGSEL](https://open.spotify.com/artist/4KxviFeU2wjUOeMOICqJAq) | [Ferris Wheel](https://open.spotify.com/album/1voUvjiiXNLPjCB7XGzgri) | 3:05 | 2021-10-13 | 2021-10-14 |
 | [Ferris Wheel](https://open.spotify.com/track/3Hs0xJpEOcJsWeayaLbeXR) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Ferris Wheel](https://open.spotify.com/album/5jv2tzybXeTbZJ61jvYvqg) | 2:57 | 2021-02-28 | 2021-05-28 |
+| [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 | 2026-06-12 |  |
 | [Fill The Spaces](https://open.spotify.com/track/2ddgzUXidxSXERP4LaLwtF) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Fill The Spaces](https://open.spotify.com/album/1mkuFIINl4DRvMaqsI1bGN) | 2:50 | 2022-02-25 | 2022-04-18 |
 | [Fine](https://open.spotify.com/track/4dwoGWHlmtSHT42PCnLcMa) | [After Louise](https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W) | [Fine](https://open.spotify.com/album/0CQbOuXYpIQd5Ko7Ivkegh) | 3:21 | 2026-03-06 | 2026-05-16 |
 | [Fire & Fury](https://open.spotify.com/track/24KWPOD5dHhOfyAfgZTJMr) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Fire & Fury](https://open.spotify.com/album/44HCNNxPv7q5KVYvPTNFix) | 3:45 | 2020-10-20 | 2021-06-03 |

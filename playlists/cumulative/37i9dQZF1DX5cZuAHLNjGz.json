@@ -338,7 +338,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 199578,
       "name": "3am In Gillco",
       "url": "https://open.spotify.com/track/1oMW4IqpV4ulyFYk16YzSl"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 212035,
       "name": "Ambarsaria",
       "url": "https://open.spotify.com/track/6eCA1w1FBvYeMcFTD6BWzl"
@@ -1602,6 +1602,28 @@
       "duration_ms": 136325,
       "name": "Ballin",
       "url": "https://open.spotify.com/track/50DTcDWX1U6AEKvPZkXhwS"
+    },
+    {
+      "album": {
+        "name": "Ban Ja Tu",
+        "url": "https://open.spotify.com/album/6ZuTjqP8moTUaVFpX60neO"
+      },
+      "artists": [
+        {
+          "name": "Charan Preet",
+          "url": "https://open.spotify.com/artist/3XpPxH0e3jodx0QyLbHVfD"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Ban Ja Tu",
+      "url": "https://open.spotify.com/track/1USl5qs5IzNfrUS3sCicNo"
     },
     {
       "album": {
@@ -2972,7 +2994,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 187869,
       "name": "Dapper Dan",
       "url": "https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ"
@@ -5085,6 +5107,28 @@
     },
     {
       "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "JayB Singh",
+          "url": "https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Hood Ambience",
+      "url": "https://open.spotify.com/track/2EyifgxOMcfb0MqFsdlekD"
+    },
+    {
+      "album": {
         "name": "Relentless",
         "url": "https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ"
       },
@@ -6192,6 +6236,36 @@
       "duration_ms": 209032,
       "name": "Kamlee",
       "url": "https://open.spotify.com/track/7xpZ1artTVaHabv93yK77N"
+    },
+    {
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        },
+        {
+          "name": "Sanya Dandona",
+          "url": "https://open.spotify.com/artist/5Y88j1QhlpI0iUp0uMrXip"
+        },
+        {
+          "name": "RXTRO",
+          "url": "https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Kath Lagda",
+      "url": "https://open.spotify.com/track/3zoM4v1qTX94ZqfPYRReJh"
     },
     {
       "album": {

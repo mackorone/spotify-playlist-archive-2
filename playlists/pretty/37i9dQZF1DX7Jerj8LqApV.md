@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,822,009 likes - 40 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,821,917 likes - 40 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 33 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 |
 | 34 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 |
 | 35 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 |
-| 36 | [Para Sa Sarili](https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e) | [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB) | [Mood Swing](https://open.spotify.com/album/6QAw4b5KeyFCCLOaATGkGU) | 4:22 |
-| 37 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 |
+| 36 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 |
+| 37 | [Para Sa Sarili](https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e) | [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB) | [Mood Swing](https://open.spotify.com/album/6QAw4b5KeyFCCLOaATGkGU) | 4:22 |
 | 38 | [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 |
 | 39 | [habangbuhay pansamantala](https://open.spotify.com/track/2IEHmtpKz5NtKJpVG9lvn2) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [habangbuhay pansamantala](https://open.spotify.com/album/1x2upE4s9Yf7eYK1EYccx9) | 4:09 |
-| 40 | [Desperado](https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Fictions You Produce](https://open.spotify.com/album/1XnZLallUu8u13vepIfW35) | 3:18 |
+| 40 | [baka bukas](https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [baka bukas](https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn) | 3:27 |
 
 Snapshot ID: `AAAAANchFGsxFxnR+YLA6efbX+sL0hXi`

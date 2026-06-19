@@ -1,13 +1,81 @@
 {
   "description": "Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on Peacock. ",
-  "num_followers": 154394,
+  "num_followers": 155034,
   "original_name": "Love Island USA Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACEXO0HCTT3NZsXS9+c5vYDXh+51",
+  "snapshot_id": "AAAAACCSzDT6eaKQW7I3/NrJwA5g6TU6",
   "tracks": [
+    {
+      "added_at": "2026-06-19 02:00:29",
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 129817,
+      "name": "Hot In It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
+    },
+    {
+      "added_at": "2026-06-19 02:00:29",
+      "album": {
+        "name": "QUIET, IN YOUR SERVICE",
+        "url": "https://open.spotify.com/album/1ovu08APRVm7LsynELr0ON"
+      },
+      "artists": [
+        {
+          "name": "Echos",
+          "url": "https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR"
+        }
+      ],
+      "duration_ms": 213394,
+      "name": "CAROUSEL",
+      "url": "https://open.spotify.com/track/67Pk171oVMmMdSxQxATLXW"
+    },
+    {
+      "added_at": "2026-06-19 02:00:29",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
+    },
+    {
+      "added_at": "2026-06-19 02:00:29",
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
+    },
     {
       "added_at": "2026-06-17 02:00:14",
       "album": {

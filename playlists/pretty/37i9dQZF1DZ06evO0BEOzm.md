@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,826 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,860 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 46 | [Hot Girl Summer \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Hot Girl Summer \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK) | 3:19 |
 | 47 | [Hot Girl](https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:16 |
 | 48 | [Budget \(feat\. Latto\)](https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 |
-| 49 | [What’s New](https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:35 |
-| 50 | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 |
+| 49 | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 |
+| 50 | [What’s New](https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:35 |
 
-Snapshot ID: `ajCSAAAAAADZsisHsofrvxiADD8avKNA`
+Snapshot ID: `ajHjgAAAAABFsgw1TosZKQp3ZqNJnbBC`

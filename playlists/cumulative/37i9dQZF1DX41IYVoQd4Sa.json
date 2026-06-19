@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 236221,
       "name": "The Call Of The Flow",
       "url": "https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA"
@@ -5650,6 +5650,28 @@
       "duration_ms": 211437,
       "name": "\u05db\u05e9\u05ea\u05d4\u05d9\u05d4 \u05d2\u05d3\u05d5\u05dc",
       "url": "https://open.spotify.com/track/0Q9Ov43PNEpJETS22zCkO3"
+    },
+    {
+      "album": {
+        "name": "\u05db\u05ea\u05dd",
+        "url": "https://open.spotify.com/album/35RiUVgIeaoV3sMqnMKD4L"
+      },
+      "artists": [
+        {
+          "name": "\u05e7\u05d9\u05e7\u05d9 \u05de\u05dc\u05d9\u05e0\u05e7\u05d9",
+          "url": "https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo"
+        },
+        {
+          "name": "Uri Brauner Kinrot",
+          "url": "https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255265,
+      "name": "\u05db\u05ea\u05dd",
+      "url": "https://open.spotify.com/track/6tLMlJhu09t09P4QnDV005"
     },
     {
       "album": {

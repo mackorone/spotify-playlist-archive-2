@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Toldos Verdes, MaiteQuiero.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ultraligera.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "ALGUNA PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/4MGEYqtdNzINdek4d2fo0W"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202450,
+      "name": "ALGUNA PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/4nKiTOHUGMUvLuuhroCTS7"
+    },
+    {
+      "album": {
         "name": "Aliado",
         "url": "https://open.spotify.com/album/6sk1Kfv9JcQg7Y4XccDcMi"
       },
@@ -710,7 +728,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 251560,
       "name": "amiamiga",
       "url": "https://open.spotify.com/track/6cbO6iQT5WH6ZMjPmSnwjx"
@@ -1125,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "A\u00f1o Sovi\u00e9tico",
+        "url": "https://open.spotify.com/album/4m7S6DFhYiA0g4adtHV6KB"
+      },
+      "artists": [
+        {
+          "name": "Mu\u00f1eca Rusa",
+          "url": "https://open.spotify.com/artist/2pLRzZ3IsWLpJ22YqcvImq"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144251,
+      "name": "A\u00f1o sovi\u00e9tico",
+      "url": "https://open.spotify.com/track/3eCHyjsjYtM41QDBXq6lLD"
+    },
+    {
+      "album": {
         "name": "A\u00f1os 70",
         "url": "https://open.spotify.com/album/2Ex9uQQMChXU0WqqmNyUQQ"
       },
@@ -1372,6 +1408,24 @@
       "duration_ms": 185174,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/3vfxWUBtICQbiSlemtDSmL"
+    },
+    {
+      "album": {
+        "name": "Barro",
+        "url": "https://open.spotify.com/album/5Ej715h0WyeMNleYBPM99u"
+      },
+      "artists": [
+        {
+          "name": "Chicle",
+          "url": "https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121882,
+      "name": "Barro",
+      "url": "https://open.spotify.com/track/6HUvZJPij7HhU2nyBMoBdI"
     },
     {
       "album": {
@@ -2390,7 +2444,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 245394,
       "name": "Cuando Nos Hacemos Da\u00f1o",
       "url": "https://open.spotify.com/track/3IzEL6fWE9S3BmE7wiZ8N0"
@@ -4792,7 +4846,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 270000,
       "name": "F\u00fatbol (con amigos)",
       "url": "https://open.spotify.com/track/2GDDRFOkKbCStNfHNdA3VL"
@@ -4908,7 +4962,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 246144,
       "name": "Gigantes",
       "url": "https://open.spotify.com/track/59O4rfsHvXTG5c0lB1xNbo"
@@ -5014,6 +5068,24 @@
       "duration_ms": 227000,
       "name": "Grises - Directo",
       "url": "https://open.spotify.com/track/5u49GMwqhKyBtyWh80fl9o"
+    },
+    {
+      "album": {
+        "name": "Gu\u00e1rdame un sitio",
+        "url": "https://open.spotify.com/album/4GG11A4X1LjfQDdZt4xYFw"
+      },
+      "artists": [
+        {
+          "name": "Amor L\u00edquido",
+          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159026,
+      "name": "Gu\u00e1rdame un sitio",
+      "url": "https://open.spotify.com/track/6BvLC6nkFc5NMxarhEo5cy"
     },
     {
       "album": {
@@ -6321,6 +6393,24 @@
     },
     {
       "album": {
+        "name": "Lamine Yamal",
+        "url": "https://open.spotify.com/album/02nmVvMMHW9BANuTzBpUDe"
+      },
+      "artists": [
+        {
+          "name": "piti y me voy",
+          "url": "https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "Lamine Yamal",
+      "url": "https://open.spotify.com/track/20y4yD5ytJN0pRfVWJUruc"
+    },
+    {
+      "album": {
         "name": "LAPSUS",
         "url": "https://open.spotify.com/album/50MmSo6jaCpsBd585e4oOP"
       },
@@ -6614,6 +6704,28 @@
       "duration_ms": 178358,
       "name": "Llevo d\u00edas",
       "url": "https://open.spotify.com/track/5CHr43xl7swpRuniVGt8ZN"
+    },
+    {
+      "album": {
+        "name": "Llorar y bailar",
+        "url": "https://open.spotify.com/album/6tVZ8pZHYwtiHTCUdUxCQm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Colman",
+          "url": "https://open.spotify.com/artist/5fRFBYxLHk3yKoLS59obIq"
+        },
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205635,
+      "name": "Llorar y bailar",
+      "url": "https://open.spotify.com/track/16ILDUny5QSrCoRmuZ3vaq"
     },
     {
       "album": {
@@ -8334,7 +8446,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 162976,
       "name": "no est\u00e1s en tu prime",
       "url": "https://open.spotify.com/track/1GV0C3BFIBKrDJ1u9krFZM"
@@ -8928,6 +9040,24 @@
       "duration_ms": 213045,
       "name": "OCHO HORAS",
       "url": "https://open.spotify.com/track/49fBnii2GHxzJNdtx51EbP"
+    },
+    {
+      "album": {
+        "name": "Oda a la muerte de nuestro amor",
+        "url": "https://open.spotify.com/album/5vc84YJH8eZ8SLdHUeoCuS"
+      },
+      "artists": [
+        {
+          "name": "Aiko el grupo",
+          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222681,
+      "name": "Oda a la muerte de nuestro amor",
+      "url": "https://open.spotify.com/track/06v6tem7xaRmgCPJRtDDth"
     },
     {
       "album": {
@@ -10006,7 +10136,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 177393,
       "name": "Quiero guardarte",
       "url": "https://open.spotify.com/track/2xxBMXjDRATS2asxOK8m4i"
@@ -10046,6 +10176,24 @@
       "duration_ms": 203569,
       "name": "Quiero t\u00fa coraz\u00f3n y nada m\u00e1s",
       "url": "https://open.spotify.com/track/3RQf0uPtwGJ6HJB6dmGnvH"
+    },
+    {
+      "album": {
+        "name": "QUIETO TODO EL MUNDO",
+        "url": "https://open.spotify.com/album/36I76YOfAgAqZFeQlz1lpb"
+      },
+      "artists": [
+        {
+          "name": "8 y Medio",
+          "url": "https://open.spotify.com/artist/29xJWp07Ld04lmvT0tizaR"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200750,
+      "name": "QUIETO TODO EL MUNDO",
+      "url": "https://open.spotify.com/track/7lnwpPqvRSZIalhPhS9ggZ"
     },
     {
       "album": {
@@ -11828,7 +11976,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 184338,
       "name": "Todos piensan que ya te olvid\u00e9",
       "url": "https://open.spotify.com/track/3Yep9HySEW2mDnfUbEclDo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,001,688 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,001,661 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 75 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
 | 76 | [But It's Better If You Do](https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:25 |
 | 77 | [I Just Wanna Live](https://open.spotify.com/track/5TjwiYZVMHVrGvRzbeCaV7) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Chronicles of Life and Death \("LIFE" version\)](https://open.spotify.com/album/6Qbaq8mJBFOV30nBMmqLxc) | 2:46 |
-| 78 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |
-| 79 | [Pain](https://open.spotify.com/track/2WhDg8UWljoAl8oNh8uZbJ) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u) | 3:01 |
+| 78 | [Pain](https://open.spotify.com/track/2WhDg8UWljoAl8oNh8uZbJ) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u) | 3:01 |
+| 79 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |
 | 80 | [Breathing](https://open.spotify.com/track/0DxN6Ywom8nnndyQXdSBPy) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:38 |
 | 81 | [Minority](https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 2:48 |
 | 82 | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:11 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 96 | [weapon](https://open.spotify.com/track/5z0QlOV93W6Yo7DG2SYOJP) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT) | 3:17 |
 | 97 | [Like We Used To](https://open.spotify.com/track/1fkYmLPG2Oi2AkUmcspWKl) | [A Rocket To The Moon](https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t) | [On Your Side](https://open.spotify.com/album/6VH5MF1nAVOTGbRyHdYDtV) | 3:23 |
 | 98 | [Came Out Swinging](https://open.spotify.com/track/4mVzCmTZeBOkvSQsuvFQWh) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Suburbia I've Given You All and Now I'm Nothing](https://open.spotify.com/album/1btRG8xZArmr42owTFNkuJ) | 4:04 |
-| 99 | [December \(again\) \[feat\. Mark Hoppus\]](https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [December](https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw) | 3:33 |
-| 100 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
+| 99 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
+| 100 | [December \(again\) \[feat\. Mark Hoppus\]](https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [December](https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw) | 3:33 |
 
 Snapshot ID: `AAAAAK7CMjEEbhEma/JRPa81SVpOciS+`

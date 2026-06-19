@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Asal",
-  "num_followers": 1151680,
+  "num_followers": 1151663,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,30 @@
     {
       "added_at": "2026-06-12 04:03:10",
       "album": {
+        "name": "Years Roll By",
+        "url": "https://open.spotify.com/album/6mJGloUq4jFTEoEaThnh6i"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        },
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        },
+        {
+          "name": "JORDANN",
+          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
+        }
+      ],
+      "duration_ms": 189475,
+      "name": "Years Roll By",
+      "url": "https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT"
+    },
+    {
+      "added_at": "2026-06-12 04:03:10",
+      "album": {
         "name": "Art House",
         "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
       },
@@ -803,30 +827,6 @@
     {
       "added_at": "2026-06-12 04:03:10",
       "album": {
-        "name": "Years Roll By",
-        "url": "https://open.spotify.com/album/6mJGloUq4jFTEoEaThnh6i"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        },
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        },
-        {
-          "name": "JORDANN",
-          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
-        }
-      ],
-      "duration_ms": 189475,
-      "name": "Years Roll By",
-      "url": "https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT"
-    },
-    {
-      "added_at": "2026-06-12 04:03:10",
-      "album": {
         "name": "Taking Over The Sun",
         "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-06-12 04:03:10",
       "album": {
-        "name": "Husk",
-        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 204651,
-      "name": "Husk",
-      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
-    },
-    {
-      "added_at": "2026-06-12 04:03:10",
-      "album": {
         "name": "Shy",
         "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 201697,
       "name": "Shy",
       "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
+    },
+    {
+      "added_at": "2026-06-12 04:03:10",
+      "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
     },
     {
       "added_at": "2026-06-12 04:03:10",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-06-12 04:03:10",
       "album": {
-        "name": "gum",
-        "url": "https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "gum v6.4",
-      "url": "https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a"
-    },
-    {
-      "added_at": "2026-06-12 04:03:10",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 190346,
       "name": "Woman",
       "url": "https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7"
+    },
+    {
+      "added_at": "2026-06-12 04:03:10",
+      "album": {
+        "name": "gum",
+        "url": "https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "gum v6.4",
+      "url": "https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a"
     },
     {
       "added_at": "2026-06-12 04:03:10",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-06-12 04:03:10",
       "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 166179,
-      "name": "Are You Looking Up",
-      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
-    },
-    {
-      "added_at": "2026-06-12 04:03:10",
-      "album": {
         "name": "Off and On",
         "url": "https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 250909,
       "name": "Off and On",
       "url": "https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s"
+    },
+    {
+      "added_at": "2026-06-12 04:03:10",
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 166179,
+      "name": "Are You Looking Up",
+      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
     },
     {
       "added_at": "2026-06-12 04:03:10",
@@ -1631,18 +1631,22 @@
     {
       "added_at": "2026-06-12 04:03:10",
       "album": {
-        "name": "It Takes Time",
-        "url": "https://open.spotify.com/album/1QCLiW1A6Z8jHd9T6g8gB1"
+        "name": "my forever",
+        "url": "https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U"
       },
       "artists": [
         {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         }
       ],
-      "duration_ms": 160000,
-      "name": "It Takes Time",
-      "url": "https://open.spotify.com/track/348NBVotOdMaDhMMpJl8To"
+      "duration_ms": 202500,
+      "name": "my forever",
+      "url": "https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv"
     }
   ],
   "unique_name": "Bedroom Pop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156 likes - 199 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158 likes - 199 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 24 | [Lying \(feat\. Lil Tjay\)](https://open.spotify.com/track/6x8V3kUNlhVbwRbVP0QeSS) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Lying \(feat\. Lil Tjay\)](https://open.spotify.com/album/7whrfVw1VGwlQB1z9pHEbq) | 3:23 |
 | 25 | [All The Way](https://open.spotify.com/track/0SB9oIIBgZaYdV2GrwkxbX) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD) | 2:59 |
 | 26 | [How Bad Do You Want It \(Oh Yeah\)](https://open.spotify.com/track/7EcMaRZ5PeKgsF1PhpXUZf) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [How Bad Do You Want It \(Oh Yeah\)](https://open.spotify.com/album/5Anvuuz9x1tgrMIxurIvw3) | 3:44 |
-| 27 | [Know Better](https://open.spotify.com/track/27NUaTccqswtSOoYJB1FY8) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Suicide Squad: The Album \(Collector's Edition\)](https://open.spotify.com/album/2t9pr5VGDNuKcf5PGpeNjV) | 3:27 |
-| 28 | [Bad Omens](https://open.spotify.com/track/6QcOEPC0bX799hITIgj3vU) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 3:35 |
+| 27 | [Bad Omens](https://open.spotify.com/track/6QcOEPC0bX799hITIgj3vU) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 3:35 |
+| 28 | [Know Better](https://open.spotify.com/track/27NUaTccqswtSOoYJB1FY8) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Suicide Squad: The Album \(Collector's Edition\)](https://open.spotify.com/album/2t9pr5VGDNuKcf5PGpeNjV) | 3:27 |
 | 29 | [Dive Into You](https://open.spotify.com/track/0z3ZZ2JKusRpapstADTxVf) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:12 |
 | 30 | [Love Back](https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Love Back](https://open.spotify.com/album/4WVPdkba5QybMBD8szrRwB) | 3:05 |
 | 31 | [Out Of My League](https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 130 | [The Other Side](https://open.spotify.com/track/1fWTLLBR90ZdAgklPTTPRr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:45 |
 | 131 | [After Ours](https://open.spotify.com/track/2coTyOHfAxmAjYF2BiVlud) | [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [After Ours](https://open.spotify.com/album/0hnE7os3g2jVB6bk7R2jKi) | 2:40 |
 | 132 | [Wir werden eins](https://open.spotify.com/track/3OFX3q0dbE9VnfoZ6Yll7W) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Rausch \(Deluxe\)](https://open.spotify.com/album/0TvURtXBkEyIElRHFcgJS3) | 3:17 |
-| 133 | [Summer](https://open.spotify.com/track/6s5i9piq629tK2Sfb9duiL) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Summer](https://open.spotify.com/album/04MBUojWMVW7DIYsgNcxzk) | 2:54 |
-| 134 | [Kill My Heart \(feat\. Parson James & Qveen Herby\)](https://open.spotify.com/track/5yHb2LWlU9XeoUxRhKYKvM) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [There Will Be Tears](https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w) | 3:13 |
+| 133 | [Kill My Heart \(feat\. Parson James & Qveen Herby\)](https://open.spotify.com/track/5yHb2LWlU9XeoUxRhKYKvM) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [There Will Be Tears](https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w) | 3:13 |
+| 134 | [Summer](https://open.spotify.com/track/6s5i9piq629tK2Sfb9duiL) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Summer](https://open.spotify.com/album/04MBUojWMVW7DIYsgNcxzk) | 2:54 |
 | 135 | [Whisper](https://open.spotify.com/track/5AH5usocKPmrUFmZkdPvcH) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/57YwDLyNeobBmbVfcOhLx4) | 3:06 |
 | 136 | [Soul, Body & Mind](https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Soul, Body & Mind](https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto) | 2:55 |
 | 137 | [Is It Mine \(feat\. Lady London\)](https://open.spotify.com/track/7g6A9wW2iQQ1Kyuc3uEvNY) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Why Not More? \(Extended\)](https://open.spotify.com/album/2wnTULzFN2hm32986KHwm6) | 2:52 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 198 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 199 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AcUfpgAAAAAQRyw+uLbcyecPyJ22aYQj`
+Snapshot ID: `AcUlggAAAACajMyrVbHNCqEJUJxrhpKT`

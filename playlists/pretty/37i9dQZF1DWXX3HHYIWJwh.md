@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,590 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,588 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 | 19 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 |
 | 20 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 |
 | 21 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 |
-| 22 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
+| 22 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
 | 23 | [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 |
-| 24 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
+| 24 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
 | 25 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 26 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 27 | [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 | 37 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
 | 38 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
 | 39 | [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Rock Music](https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w) | 1:55 |
-| 40 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
-| 41 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
+| 40 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
+| 41 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
 | 42 | [Smart](https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Smart \(Remixes\)](https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh) | 2:46 |
 | 43 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:57 |
 | 44 | [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 | 49 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 |
 | 50 | [Way Back Home \(feat\. Conor Maynard\) \- Sam Feldt Edit](https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Way Back Home \(feat\. Conor Maynard\) \[Sam Feldt Edit\]](https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068) | 3:12 |
 
-Snapshot ID: `AAAAAFVzH5j2rcsQ+cqEVWfdhDqwDbuo`
+Snapshot ID: `AAAAACvIR+1yWl2+1MBscjaM948lOhT8`

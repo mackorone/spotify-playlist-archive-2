@@ -2,9 +2,9 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> 50 найгарячіших пісень в Україні\. Обкладинка: Jerry Heil
+> 50 найгарячіших пісень в Україні\. Обкладинка: MONATIK
 
-208 songs - 10 hr 28 min
+211 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 | 2025-08-12 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-03-23 |  |
 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 | 2025-09-04 |  |
-| [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 | 2026-05-19 |  |
+| [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 | 2026-05-19 | 2026-06-19 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-06-27 | 2025-08-01 |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-08 | 2024-10-18 |
 | [Bird of Pray](https://open.spotify.com/track/0YM3CotMLnoTBVwMCJzYeV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray](https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM) | 2:59 | 2025-01-27 | 2025-03-21 |
@@ -28,6 +28,7 @@
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-27 | 2024-12-31 |
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-07-25 | 2024-09-20 |
 | [Choke Me](https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [Choke Me](https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW) | 3:00 | 2026-05-19 |  |
+| [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 | 2026-06-18 |  |
 | [CRUSH \(with Travis Scott\)](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-03-20 | 2025-03-28 |
 | [Cry For Me](https://open.spotify.com/track/7a0RHaJoqL2Sjf0gra68Pc) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 3:44 | 2025-02-03 | 2025-03-07 |
 | [Dark Disco](https://open.spotify.com/track/3fsxkZeWu1EVSr9XcPtHkQ) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Dark Disco](https://open.spotify.com/album/7Hq8LBMrhMHlhmNe9Z0Azd) | 3:33 | 2026-06-11 |  |
@@ -44,7 +45,7 @@
 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-20 | 2025-04-25 |
 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 | 2026-02-12 | 2026-05-20 |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-06-27 | 2024-07-16 |
-| [FEEL THE HEAT](https://open.spotify.com/track/4HkPA8phzU3UKJ0QOgVILO) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FEEL THE HEAT](https://open.spotify.com/album/5HnlN0yz05hxOFUgbtnOAT) | 2:27 | 2026-05-07 |  |
+| [FEEL THE HEAT](https://open.spotify.com/track/4HkPA8phzU3UKJ0QOgVILO) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FEEL THE HEAT](https://open.spotify.com/album/5HnlN0yz05hxOFUgbtnOAT) | 2:27 | 2026-05-07 | 2026-06-19 |
 | [FENOMENAL'](https://open.spotify.com/track/1b977NIX97rPhUrvt57udY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FENOMENAL'](https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS) | 2:57 | 2025-04-28 | 2025-10-17 |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-05 | 2025-01-10 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-10-03 | 2024-10-22 |
@@ -72,6 +73,7 @@
 | [Salut papa](https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Salut papa](https://open.spotify.com/album/0FHDJmFpabnyZypQhDyPZ6) | 2:34 | 2024-06-27 | 2024-10-11 |
 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-05-07 |  |
 | [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 | 2025-03-27 | 2025-04-11 |
+| [stupid song](https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:29 | 2026-06-18 |  |
 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 | 2025-09-04 | 2026-02-13 |
 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-23 |  |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-04 | 2025-03-14 |
@@ -143,7 +145,7 @@
 | [Мужчина](https://open.spotify.com/track/2oMasfMjnLEF6JpRDtD1rF) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Мужчина](https://open.spotify.com/album/7foKLOtJJYeTYcO8Jrt8zF) | 2:43 | 2025-04-03 |  |
 | [Між Сірими Днями](https://open.spotify.com/track/29sPfvUPLHZsHcOnCny9ay) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Між Сірими Днями](https://open.spotify.com/album/61LWCWd6PZVQdhqIfS7uAv) | 3:25 | 2025-03-27 | 2025-05-20 |
 | [На глибині](https://open.spotify.com/track/6ocGHyVybEbqo3zeJkn1H3) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [На глибині](https://open.spotify.com/album/0QxmTGDTrhlF7CfDbiT7da) | 5:00 | 2024-12-19 | 2025-04-29 |
-| [На двох](https://open.spotify.com/track/4IXOijyod4KkXplH3ItNWC) | [OTOY](https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C), [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [На двох](https://open.spotify.com/album/1PjmDKQrBu5iTE2wufbrdU) | 2:30 | 2026-04-27 |  |
+| [На двох](https://open.spotify.com/track/4IXOijyod4KkXplH3ItNWC) | [OTOY](https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C), [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [На двох](https://open.spotify.com/album/1PjmDKQrBu5iTE2wufbrdU) | 2:30 | 2026-04-27 | 2026-06-19 |
 | [На порозі](https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [На порозі](https://open.spotify.com/album/1gHncrqN84hbOyna6VnGWR) | 2:39 | 2025-03-06 |  |
 | [Нагадай](https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [Нагадай](https://open.spotify.com/album/3oGtx27ntFDx4Z5lxEkIMt) | 2:32 | 2024-06-27 | 2026-03-24 |
 | [Не втратимо зв'язок](https://open.spotify.com/track/4QbAOvKJMIx22HvGqkFBmM) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Не втратимо зв'язок](https://open.spotify.com/album/67H8Ds24jGQTAfqzdc3xpX) | 2:28 | 2024-06-27 | 2025-01-31 |
@@ -192,6 +194,7 @@
 | [Театр](https://open.spotify.com/track/4cwnOIjFKrnSEBwwuLdThM) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Театр](https://open.spotify.com/album/6EirQNLrSsspYFKTiRt5eo) | 2:28 | 2024-06-27 | 2024-12-20 |
 | [Температура](https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Температура](https://open.spotify.com/album/2lCyQUHZvCZeL1kfGOoqTT) | 2:56 | 2024-07-22 | 2025-02-04 |
 | [Токсік](https://open.spotify.com/track/3O6R6CXo0660qvmdeG6EOD) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Токсік](https://open.spotify.com/album/4hTZxscVG2XHSG12vA5Opq) | 2:59 | 2025-04-10 | 2026-02-13 |
+| [Тому що…](https://open.spotify.com/track/6wgsJzTs1dFIcmsrQyQJAe) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [Тому що…](https://open.spotify.com/album/5XxRZuufy3Ego2CS0E7F23) | 2:57 | 2026-06-18 |  |
 | [Тьотя](https://open.spotify.com/track/69Agz1StFDBAQwJ2xgvGbF) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Тьотя](https://open.spotify.com/album/3O2ugjYKav0TjqxL8od8wn) | 3:05 | 2025-04-14 |  |
 | [Фанат](https://open.spotify.com/track/6WWFDQv2Fv4sVkvchrQPDu) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Фанат](https://open.spotify.com/album/3NFBIvdRRvEUr3TxfOmBNa) | 3:18 | 2026-04-09 |  |
 | [Хай пишуть](https://open.spotify.com/track/4CrtgDoRlrafpZxowRGwyN) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хай пишуть](https://open.spotify.com/album/5T3DYiV80d2Z21sNOdncwV) | 2:42 | 2024-06-27 | 2025-03-21 |

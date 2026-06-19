@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,575 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,585 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 6 | [Moonlight](https://open.spotify.com/track/2iG5gbGLprxMcZyQ9Donws) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:44 |
 | 7 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 |
 | 8 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 |
-| 9 | [7ali Ya 7ali](https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 2:45 |
-| 10 | [FACE TO FACE](https://open.spotify.com/track/67nsE7s6yfIg7o9HAdkq7H) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD](https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq) | 3:24 |
+| 9 | [FACE TO FACE](https://open.spotify.com/track/67nsE7s6yfIg7o9HAdkq7H) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD](https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq) | 3:24 |
+| 10 | [7ali Ya 7ali](https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 2:45 |
 | 11 | [DENYA](https://open.spotify.com/track/2cc3HFMPsVGZ7y1Cm5cP0g) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MC\-101](https://open.spotify.com/album/42okkFu4lgilYfjHOUOtXV) | 3:19 |
 | 12 | [Doberwoman](https://open.spotify.com/track/55euixOw1IYjWcL6L3ZCzl) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Doberwoman](https://open.spotify.com/album/46qNNnHFwhmzuKpRlUOcqS) | 2:58 |
 | 13 | [Bent Nass](https://open.spotify.com/track/6tT4CGnggGURBUMkDrE52k) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/52d5PZbkISEQMhrDZRqoAy) | 4:10 |
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 33 | [Overdoze](https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:22 |
 | 34 | [MAGHRIBI](https://open.spotify.com/track/1Z420TiuEXtSn9SEUIC3ks) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 4:14 |
 | 35 | [Gospel](https://open.spotify.com/track/1aDxG3kCAjBXBKz7IdrIKN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Molno Jorjo](https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc) | 2:36 |
-| 36 | [Sabab 3lach](https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Sabab 3lach](https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS) | 3:40 |
-| 37 | [PSYCHO](https://open.spotify.com/track/7xd3yfmMFrbgNWCcazYOeG) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [A9RASS x PSYCHO](https://open.spotify.com/album/1SzqinDG9Pfvg59qYnwJHs) | 3:40 |
+| 36 | [PSYCHO](https://open.spotify.com/track/7xd3yfmMFrbgNWCcazYOeG) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [A9RASS x PSYCHO](https://open.spotify.com/album/1SzqinDG9Pfvg59qYnwJHs) | 3:40 |
+| 37 | [Sabab 3lach](https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Sabab 3lach](https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS) | 3:40 |
 | 38 | [Valluminati](https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Valluminati](https://open.spotify.com/album/6elabSMRw648ju19QYg55P) | 2:20 |
 | 39 | [Kelma](https://open.spotify.com/track/4vtD50wmruYW80fnTOWplJ) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kelma](https://open.spotify.com/album/05C5ZLaQkfgFDWKFwRRNtH) | 3:05 |
 | 40 | [Porsche](https://open.spotify.com/track/5ROnVXz0rGkPlDmJ8oltUX) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf), [Dracofeuu](https://open.spotify.com/artist/1DS4sBigDOqhq0lbsa9PiB) | [Chapter 2 : Band Of Msaww](https://open.spotify.com/album/0dfytM4hEkDPs0bU8xGu0O) | 2:57 |
-| 41 | [Tab3ini 1](https://open.spotify.com/track/3ieQkUz7YJVTIqee3RIh8s) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Tab3ini 1](https://open.spotify.com/album/3vuRRX6z5ws5S4F45fyrIn) | 4:40 |
-| 42 | [Bjouj](https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Bjouj](https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT) | 3:27 |
+| 41 | [Bjouj](https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Bjouj](https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT) | 3:27 |
+| 42 | [Tab3ini 1](https://open.spotify.com/track/3ieQkUz7YJVTIqee3RIh8s) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Tab3ini 1](https://open.spotify.com/album/3vuRRX6z5ws5S4F45fyrIn) | 4:40 |
 | 43 | [Sfina](https://open.spotify.com/track/3LpN2cysYRb35wZmGmCyjR) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Sfina](https://open.spotify.com/album/23dQw5Xou7F6y3GGWAgZPS) | 3:30 |
 | 44 | [End Of Time](https://open.spotify.com/track/3Dvhpf8dhIJQheE2nEtc50) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 3:31 |
 | 45 | [Luna](https://open.spotify.com/track/6GIWJrb6waDyG2VBbqwz2X) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [Luna](https://open.spotify.com/album/3zHPs7oUe2fxD0zWxiHrv2) | 2:02 |

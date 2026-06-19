@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-965 songs - 2 day 15 hr 39 min
+966 songs - 2 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [Moonlight](https://open.spotify.com/track/2APtffxTwkZAde3re7lPwT) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Moonlight](https://open.spotify.com/album/672QCcQwdw98EnUQ57E4yJ) | 3:17 | 2022-11-24 | 2023-02-08 |
 | [Moonlight Cruising \(feat\. KIRINJI\)](https://open.spotify.com/track/0nNm926REE3qYr5DJ6vZV4) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [Moonlight Cruising \(feat\. KIRINJI\)](https://open.spotify.com/album/2uecghGOcoxkqCySA4kPH8) | 3:18 | 2025-04-15 | 2025-08-16 |
 | [Moonset](https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Moonset with KozyPop](https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19) | 3:46 | 2022-08-02 | 2023-04-04 |
-| [Moonshine](https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moonshine](https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv) | 3:12 | 2022-06-07 |  |
+| [Moonshine](https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moonshine](https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv) | 3:12 | 2022-06-07 | 2026-06-19 |
 | [muse](https://open.spotify.com/track/6XWpWjw67Zi5edXcbUnqQV) | [YOLK](https://open.spotify.com/artist/2xYLcZf0kXruMDlEeiGaIn) | [muse](https://open.spotify.com/album/2TyNsyTZjsX4Zv0VurnFvk) | 4:00 | 2023-03-21 | 2023-03-29 |
 | [Music, Dance & Love](https://open.spotify.com/track/2DAJbIQTf3xv8l12NJMwey) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [MUSIC, DANCE & LOVE](https://open.spotify.com/album/4KAOXSADegSXNIkGkHoQJq) | 4:33 | 2022-11-15 | 2022-11-23 |
 | [Music, Dance & Love](https://open.spotify.com/track/3QN1ptGLRym2YgBXOy8esa) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/1fvF659Q8PetSR3R8HaQDE) | 4:33 | 2022-11-01 | 2022-11-03 |
@@ -622,6 +622,7 @@
 | [waver](https://open.spotify.com/track/6mRb7nMsWrekmnXP0PrbL9) | [AKIRA](https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [waver](https://open.spotify.com/album/46ybrTqtnh7GOQ5tGVdvII) | 3:44 | 2023-10-10 | 2023-11-11 |
 | [what a night](https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [what a night](https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD) | 3:47 | 2025-12-02 | 2026-03-04 |
 | [What the Hell](https://open.spotify.com/track/3Sio6hsXRUhhd6Hk4W1c7Y) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [What the Hell](https://open.spotify.com/album/1qfBbSPj9GQjS8xNGyJqoN) | 4:08 | 2023-12-12 | 2023-12-20 |
+| [What the Hell \(feat\. おかもとえみ\)](https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [What the Hell \(feat\. おかもとえみ\)](https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb) | 4:08 | 2026-06-09 |  |
 | [white](https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [white](https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG) | 4:10 | 2022-09-20 | 2022-12-07 |
 | [White Out feat\. Maika Loubté & 柴田聡子](https://open.spotify.com/track/5REJe8ajCYcYfs5hZO35wT) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [White Out feat\. Maika Loubté & 柴田聡子](https://open.spotify.com/album/0fNPkfGMSDNfM52ClhBvYY) | 3:23 | 2026-01-20 |  |
 | [Who Are You](https://open.spotify.com/track/6l50VsBz2P3MaWBOiUUxac) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [Who Are You](https://open.spotify.com/album/0YNMv9mhlMRlC1haWTbYbH) | 4:03 | 2022-06-16 | 2023-07-12 |

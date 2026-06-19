@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1038105,
+  "num_followers": 1038049,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-05-12 14:59:58",
       "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
+    },
+    {
+      "added_at": "2026-05-12 14:59:58",
+      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
-    },
-    {
-      "added_at": "2026-05-12 14:59:58",
-      "album": {
-        "name": "Babylon Club",
-        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
     },
     {
       "added_at": "2026-05-12 14:59:58",
@@ -927,22 +927,22 @@
     {
       "added_at": "2026-05-12 14:59:58",
       "album": {
-        "name": "ESTA ES TU CASA NENA",
-        "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
+        "name": "KESI (Remix)",
+        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
           "name": "Camilo",
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 209616,
-      "name": "ESTA ES TU CASA NENA",
-      "url": "https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge"
+      "duration_ms": 176575,
+      "name": "KESI - Remix",
+      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
     },
     {
       "added_at": "2026-05-12 14:59:58",
@@ -983,22 +983,22 @@
     {
       "added_at": "2026-05-12 14:59:58",
       "album": {
-        "name": "KESI (Remix)",
-        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
+        "name": "ESTA ES TU CASA NENA",
+        "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         },
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 176575,
-      "name": "KESI - Remix",
-      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
+      "duration_ms": 209616,
+      "name": "ESTA ES TU CASA NENA",
+      "url": "https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge"
     },
     {
       "added_at": "2026-05-12 14:59:58",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-05-12 14:59:58",
       "album": {
-        "name": "M\u00edrame Ahora",
-        "url": "https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 154536,
-      "name": "M\u00edrame Ahora",
-      "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
-    },
-    {
-      "added_at": "2026-05-12 14:59:58",
-      "album": {
         "name": "Carteras Chinas",
         "url": "https://open.spotify.com/album/0ZCjHDJjqhUctbgH7HXzqe"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2026-05-12 14:59:58",
       "album": {
+        "name": "M\u00edrame Ahora",
+        "url": "https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 154536,
+      "name": "M\u00edrame Ahora",
+      "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
+    },
+    {
+      "added_at": "2026-05-12 14:59:58",
+      "album": {
         "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
         "url": "https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4"
       },
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-05-12 14:59:58",
       "album": {
-        "name": "KAWASAKI (&TEAM Remix)",
-        "url": "https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8"
-      },
-      "artists": [
-        {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
-        },
-        {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
-        }
-      ],
-      "duration_ms": 161695,
-      "name": "KAWASAKI (&TEAM Remix)",
-      "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
-    },
-    {
-      "added_at": "2026-05-12 14:59:58",
-      "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 228186,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
+    },
+    {
+      "added_at": "2026-05-12 14:59:58",
+      "album": {
+        "name": "KAWASAKI (&TEAM Remix)",
+        "url": "https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        },
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "duration_ms": 161695,
+      "name": "KAWASAKI (&TEAM Remix)",
+      "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
     },
     {
       "added_at": "2026-05-12 14:59:58",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-05-12 14:59:58",
       "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
+    },
+    {
+      "added_at": "2026-05-12 14:59:58",
+      "album": {
         "name": "Encubiertos",
         "url": "https://open.spotify.com/album/4Ykjfr35jOU2EQnFwYz9ui"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 155226,
       "name": "Encubiertos",
       "url": "https://open.spotify.com/track/3AShwV9UQ0K0xXB83zAwZi"
-    },
-    {
-      "added_at": "2026-05-12 14:59:58",
-      "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Mejor Que Ayer",
-      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
     },
     {
       "added_at": "2026-05-12 14:59:58",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-05-12 14:59:58",
       "album": {
-        "name": "Feriado",
-        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 166399,
-      "name": "Feriado",
-      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
-    },
-    {
-      "added_at": "2026-05-12 14:59:58",
-      "album": {
         "name": "PREGUNTAS A LAS 11:11",
         "url": "https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 180949,
       "name": "\u00bfTrato Hecho?",
       "url": "https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx"
+    },
+    {
+      "added_at": "2026-05-12 14:59:58",
+      "album": {
+        "name": "Feriado",
+        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 166399,
+      "name": "Feriado",
+      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
     },
     {
       "added_at": "2026-05-12 14:59:58",

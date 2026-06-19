@@ -4,7 +4,7 @@
 
 > Uplifting classical melodies to help you rise and shine.
 
-112 songs - 7 hr 11 min
+113 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [View from a Tower](https://open.spotify.com/track/55ekB9KazIBWIYjCretbBS) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [View from a Tower](https://open.spotify.com/album/184w3WMckgmkKMkZXxgfw3) | 2:17 | 2026-05-29 |  |
 | [Violin Concerto in D Major, Op\. 35: II\. Romance\. Andante](https://open.spotify.com/track/11ylJoqbOnMJNXRBRxQXm7) | [Erich Wolfgang Korngold](https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb), [Paul Huang](https://open.spotify.com/artist/2yQvgqt7qJjKrHVIx7Kzll), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Jun Märkl](https://open.spotify.com/artist/6TmtR0aZY7PSPdpW3qz7Ku) | [Korngold: Violin Concerto in D Major, Op\. 35: II\. Romance\. Andante](https://open.spotify.com/album/4Vhq1XXnn2cUtXitbvd5ih) | 8:55 | 2026-05-29 |  |
 | [Violin Concerto in D Major: II\. Adagio](https://open.spotify.com/track/40EnGSgqCBuIe3zoHBUWMr) | [Joseph Boulogne Chevalier de Saint\-Georges](https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU), [Zefira Valova](https://open.spotify.com/artist/56hpaB3bb4ydN9TTTlcWX4), [Il Pomo D'oro](https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z) | [Saint\-Georges: Violin Concerto in D Major](https://open.spotify.com/album/5Ec2ImbUEUaBlqxIKGD8vN) | 4:28 | 2022-05-25 |  |
+| [Violin Concerto, Op\. 14: I\. Allegro](https://open.spotify.com/track/39R3F1Wqf6jL39zPWQTtS5) | [Samuel Barber](https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x), [Paul Huang](https://open.spotify.com/artist/2yQvgqt7qJjKrHVIx7Kzll), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Jun Märkl](https://open.spotify.com/artist/6TmtR0aZY7PSPdpW3qz7Ku) | [Korngold & Barber](https://open.spotify.com/album/4xg6newHZjB6Wl5kMHHSsV) | 10:55 | 2026-06-19 |  |
 | [Waltz No\. 19 in A Minor, KK IVb \(Version for Harp in A Flat Minor\)](https://open.spotify.com/track/7i9cdG6l1lg0xAraTublsw) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Magdalena Hoffmann](https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT) | [Chopin: Waltz No\. 19 in A Minor, KK IVb \(Version for Harp in A Flat Minor\)](https://open.spotify.com/album/0abwlgcTkteYoqF5MdJqvO) | 2:22 | 2022-02-04 |  |
 | [Waltz of the Flowers \(From "The Nutcracker", Op\. 71\)](https://open.spotify.com/track/5Kxzg9iFSKRNy5FOV5Xzz2) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Waltz of the Flowers \(From "The Nutcracker", Op\. 71\)](https://open.spotify.com/album/0qyrCLqRuSqbgn9oo5PLpy) | 2:19 | 2025-11-19 |  |
 | [Zdes' khorosho \('How Fair This Spot'\), Op\. 21, No\. 7](https://open.spotify.com/track/0wZMPhztIsuwSjCo6OalWe) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Denis Kozhukhin](https://open.spotify.com/artist/5iRBqpTEOgggnri1awdnNZ) | [Reflections](https://open.spotify.com/album/2y9DN1TNj4qMf1H5epuupR) | 1:59 | 2022-05-27 | 2024-04-19 |

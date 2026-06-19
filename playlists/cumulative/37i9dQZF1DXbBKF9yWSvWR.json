@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met de beste Indie releases. Cover: Isolde Lasoen",
+  "description": "Wekelijkse update met de beste Indie releases. Cover: Thomas Azier",
   "name": "Indie Update",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 223788,
       "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 204444,
       "name": "Bring Me Back To Life",
       "url": "https://open.spotify.com/track/08S4kt4ZCBSjASw7rRaD1j"
@@ -2890,6 +2890,24 @@
       "duration_ms": 232866,
       "name": "Clean Heart",
       "url": "https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS"
+    },
+    {
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/70q6JczgrEpipUdkcbkd9i"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170976,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/5xdC35mf072S94yav2vRt6"
     },
     {
       "album": {
@@ -4405,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "Collection of Goodbyes: Escapades III",
+        "url": "https://open.spotify.com/album/2FrgOYhsgbEHOqMFnn3mEz"
+      },
+      "artists": [
+        {
+          "name": "Brennt Vanneste",
+          "url": "https://open.spotify.com/artist/1riFgdQrsBc8CjBvNCoOd1"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173766,
+      "name": "Everything Bends Towards You",
+      "url": "https://open.spotify.com/track/7Cn5tCpEL650g5AReewFke"
+    },
+    {
+      "album": {
         "name": "everything, everything",
         "url": "https://open.spotify.com/album/66BqyUv8JAh1rOMddnnCJv"
       },
@@ -4701,6 +4737,24 @@
     },
     {
       "album": {
+        "name": "Puberty 2 (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109431,
+      "name": "Fireproof",
+      "url": "https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon"
+    },
+    {
+      "album": {
         "name": "First Light",
         "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
       },
@@ -4730,7 +4784,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 262226,
       "name": "Fish",
       "url": "https://open.spotify.com/track/4MlwSlKj2XQXHwcOGVc3Ke"
@@ -6336,7 +6390,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 283306,
       "name": "I Am June",
       "url": "https://open.spotify.com/track/6XVXt2XiXZY0ngdQy7wBTW"
@@ -8219,6 +8273,28 @@
     },
     {
       "album": {
+        "name": "Love & Tears",
+        "url": "https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yannis",
+          "url": "https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218946,
+      "name": "Love & Tears",
+      "url": "https://open.spotify.com/track/0USF54f34DPnAn9nEmqNIN"
+    },
+    {
+      "album": {
         "name": "Pale Song / Love Is",
         "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
       },
@@ -8558,7 +8634,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 259751,
       "name": "Mary",
       "url": "https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3"
@@ -8886,7 +8962,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 253567,
       "name": "Million Things",
       "url": "https://open.spotify.com/track/7GPoBSDnyWWLhoj9HwoKba"
@@ -9899,6 +9975,28 @@
     },
     {
       "album": {
+        "name": "Old Lovers (feat. The Lumineers)",
+        "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213188,
+      "name": "Old Lovers (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
+    },
+    {
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/0py4LtIXiSj2JV2RUqGsgM"
       },
@@ -10080,7 +10178,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 168078,
       "name": "Opscheer",
       "url": "https://open.spotify.com/track/0UHJ1EeeObYXPkO1Dscxtz"
@@ -11541,6 +11639,24 @@
     },
     {
       "album": {
+        "name": "Room Of Love",
+        "url": "https://open.spotify.com/album/1s2dk5WxnGWHDvyUpjAWRD"
+      },
+      "artists": [
+        {
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299559,
+      "name": "Room Of Love",
+      "url": "https://open.spotify.com/track/0z7GpjiF54m9GIGYQKr88G"
+    },
+    {
+      "album": {
         "name": "Son Of Spergy",
         "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
       },
@@ -12318,7 +12434,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 194946,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4pARZ3HOdh6HkLSdWorqpG"
@@ -13034,7 +13150,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 242469,
       "name": "Sunday Light",
       "url": "https://open.spotify.com/track/3aysr8fLK4g3qR6aaNITKM"
@@ -14947,6 +15063,24 @@
     },
     {
       "album": {
+        "name": "Page Of Cups (Reversed)",
+        "url": "https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr"
+      },
+      "artists": [
+        {
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234440,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/1XNUmD035Ft6LLXDuXCcJh"
+    },
+    {
+      "album": {
         "name": "Arrow, Four",
         "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
       },
@@ -15477,6 +15611,24 @@
     },
     {
       "album": {
+        "name": "When I Get Drunk (I Want You Boy)",
+        "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "When I Get Drunk (I Want You Boy)",
+      "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
+    },
+    {
+      "album": {
         "name": "When the World Dissolves",
         "url": "https://open.spotify.com/album/739yEaTuANCpAavgpUQoSs"
       },
@@ -15806,6 +15958,24 @@
       "duration_ms": 222453,
       "name": "Wristwatch",
       "url": "https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug"
+    },
+    {
+      "album": {
+        "name": "Written",
+        "url": "https://open.spotify.com/album/03kzwN1RhkMW6icnlqnA32"
+      },
+      "artists": [
+        {
+          "name": "Veya",
+          "url": "https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197626,
+      "name": "Written",
+      "url": "https://open.spotify.com/track/43ySPwc23wYI4tNjGP85fY"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Ovy On The Drums, Blessd & Jere Klein",
-  "num_followers": 1998797,
+  "num_followers": 1998551,
   "original_name": "\u00c9xitos Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACvyBrTv10QeLhQawjnKUFhjsB3d",
+  "snapshot_id": "AAAAAPVmzHrqvRWSIT0Iaa2dTzg8x0pp",
   "tracks": [
     {
       "added_at": "2026-06-11 17:34:41",
@@ -31,6 +31,26 @@
       "duration_ms": 172072,
       "name": "Q Hubo Amor (Medell\u00edn)",
       "url": "https://open.spotify.com/track/0HHRmqcKYBUAsMXgXdvxx8"
+    },
+    {
+      "added_at": "2026-06-11 17:34:41",
+      "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "De Lejitos - Remix",
+      "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
     },
     {
       "added_at": "2026-06-11 17:34:41",
@@ -71,26 +91,6 @@
       "duration_ms": 256911,
       "name": "Incondicional",
       "url": "https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA"
-    },
-    {
-      "added_at": "2026-06-11 17:34:41",
-      "album": {
-        "name": "La Voz Favorita",
-        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "De Lejitos - Remix",
-      "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
     },
     {
       "added_at": "2026-06-11 17:34:41",
@@ -151,26 +151,6 @@
     {
       "added_at": "2026-06-11 17:34:41",
       "album": {
-        "name": "Dando Vueltas",
-        "url": "https://open.spotify.com/album/7wYT2QR0HAARGKAbZR0xTk"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 194839,
-      "name": "Dando Vueltas",
-      "url": "https://open.spotify.com/track/7CzjUysf1fRnpX6aseOlts"
-    },
-    {
-      "added_at": "2026-06-11 17:34:41",
-      "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
         "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
       },
@@ -213,32 +193,20 @@
       "url": "https://open.spotify.com/track/1Up09hsQEhawoWWP3s010H"
     },
     {
-      "added_at": "2026-06-11 17:34:41",
+      "added_at": "2026-06-18 14:13:42",
       "album": {
-        "name": "Cuando No Era Cantante (Remix)",
-        "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 327488,
-      "name": "Cuando No Era Cantante - Remix",
-      "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
+      "duration_ms": 161803,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
     },
     {
       "added_at": "2026-06-11 17:34:41",
@@ -279,26 +247,6 @@
       "duration_ms": 127058,
       "name": "PATEK PHILIPPE",
       "url": "https://open.spotify.com/track/2KTELz5yDBJXUpTe8skjes"
-    },
-    {
-      "added_at": "2026-06-11 17:34:41",
-      "album": {
-        "name": "No Va a Chocar",
-        "url": "https://open.spotify.com/album/2DdJM0pjxafqdA9ntYZRdV"
-      },
-      "artists": [
-        {
-          "name": "Norambuena",
-          "url": "https://open.spotify.com/artist/6hd56U70nE8HfWvaRXoRrP"
-        },
-        {
-          "name": "RealViviendo",
-          "url": "https://open.spotify.com/artist/4vYA4xih59fWdkvmGBgTcH"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "No Va a Chocar",
-      "url": "https://open.spotify.com/track/6mxnut3OxI5xxUnbYgDnXk"
     },
     {
       "added_at": "2026-06-11 17:34:41",
@@ -377,6 +325,22 @@
       "url": "https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN"
     },
     {
+      "added_at": "2026-06-18 14:13:42",
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/25XDm5oXIisowUalHOGQXh"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "duration_ms": 115744,
+      "name": "222",
+      "url": "https://open.spotify.com/track/3bp6VjYqCgTQiOZSVWTl92"
+    },
+    {
       "added_at": "2026-06-11 17:34:41",
       "album": {
         "name": "EL NUEVO SONIDO",
@@ -429,6 +393,26 @@
       "url": "https://open.spotify.com/track/5AchK5XMO4AwN99yYcDPQc"
     },
     {
+      "added_at": "2026-06-18 14:13:42",
+      "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You - Bonus Track",
+      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
+    },
+    {
       "added_at": "2026-06-11 17:34:41",
       "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
@@ -447,26 +431,6 @@
       "duration_ms": 226533,
       "name": "FOREVER TU GANTEL",
       "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
-    },
-    {
-      "added_at": "2026-06-11 17:34:41",
-      "album": {
-        "name": "EL NUEVO SONIDO",
-        "url": "https://open.spotify.com/album/51BDztgpHNIIwixCGx3wku"
-      },
-      "artists": [
-        {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
-        },
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        }
-      ],
-      "duration_ms": 135566,
-      "name": "DESCONTROL",
-      "url": "https://open.spotify.com/track/6wg4Cy4qOP12tmPYLtFnvI"
     },
     {
       "added_at": "2026-06-11 17:34:41",
@@ -563,30 +527,6 @@
       "duration_ms": 246732,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/7piIoom78DuFKQARwLrWoe"
-    },
-    {
-      "added_at": "2026-06-11 17:34:41",
-      "album": {
-        "name": "TODO KE VER",
-        "url": "https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "Mateo on the Beatz",
-          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "TODO KE VER",
-      "url": "https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy"
     },
     {
       "added_at": "2026-06-11 17:34:41",
@@ -793,6 +733,22 @@
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
     },
     {
+      "added_at": "2026-06-18 14:13:42",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+    },
+    {
       "added_at": "2026-06-11 17:34:41",
       "album": {
         "name": "Chica Gal\u00e1ctica (W Sound 07)",
@@ -903,6 +859,22 @@
       "duration_ms": 225000,
       "name": "Tiene",
       "url": "https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl"
+    },
+    {
+      "added_at": "2026-06-18 14:13:42",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
     },
     {
       "added_at": "2026-06-11 17:34:41",

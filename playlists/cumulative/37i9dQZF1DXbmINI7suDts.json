@@ -207,6 +207,28 @@
     },
     {
       "album": {
+        "name": "Bakuntwalako",
+        "url": "https://open.spotify.com/album/0OfatsbW3DbrdAeNqF6aV4"
+      },
+      "artists": [
+        {
+          "name": "Cyza Musiq",
+          "url": "https://open.spotify.com/artist/2L5pSIRxuuNhgmOdXoVRWF"
+        },
+        {
+          "name": "Blick Entertainment Tv",
+          "url": "https://open.spotify.com/artist/2Ac5jobbXvVlgxiuJj1Yrk"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Bakuntwalako",
+      "url": "https://open.spotify.com/track/66wf7IFBo1ITOYNrivaV59"
+    },
+    {
+      "album": {
         "name": "AFRICAN MUSIC",
         "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
       },
@@ -1350,7 +1372,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 182857,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/4GWR0LR2akpQlE8HnxvSIO"
@@ -1704,7 +1726,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 161893,
       "name": "Magician",
       "url": "https://open.spotify.com/track/5jNt4Zok4HVAPRtq8eFtRC"
@@ -2424,7 +2446,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 253913,
       "name": "OUTGROWN",
       "url": "https://open.spotify.com/track/4Y5QYv3npGSmC3mPcaxDVx"

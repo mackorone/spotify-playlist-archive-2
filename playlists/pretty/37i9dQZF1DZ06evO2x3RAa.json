@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAC1sWWOxrJZ901kwYczudM5",
+  "snapshot_id": "ajHjgAAAAACJ6ICjJ+qMNDnbJEB19+wi",
   "tracks": [
     {
       "added_at": null,
@@ -136,25 +136,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 255293,
-      "name": "Who's Like Unto Thee O'Lord",
-      "url": "https://open.spotify.com/track/1Jkc0CWvuyAGf8C4yg057R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ozziddi For Sale",
-        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 370013,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/7CN44w01pcU7rqWMqmvKgR"
+      "duration_ms": 229226,
+      "name": "The Day Jesus Was Crucufied",
+      "url": "https://open.spotify.com/track/4oRGgB1hGbVMLWFqH3C0OH"
     },
     {
       "added_at": null,
@@ -171,6 +155,22 @@
       "duration_ms": 268626,
       "name": "Amen Amen",
       "url": "https://open.spotify.com/track/38mVByC9CdaVvw2DXg4aWR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ozziddi For Sale",
+        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 370013,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/7CN44w01pcU7rqWMqmvKgR"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 229226,
-      "name": "The Day Jesus Was Crucufied",
-      "url": "https://open.spotify.com/track/4oRGgB1hGbVMLWFqH3C0OH"
+      "duration_ms": 255293,
+      "name": "Who's Like Unto Thee O'Lord",
+      "url": "https://open.spotify.com/track/1Jkc0CWvuyAGf8C4yg057R"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 172226,
-      "name": "Mt. Zion",
-      "url": "https://open.spotify.com/track/2atwTASX2uaKcnGUmTO0B9"
+      "duration_ms": 373320,
+      "name": "Bonus Track",
+      "url": "https://open.spotify.com/track/3T3TRQqkipdriFOOh3OTDg"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 373320,
-      "name": "Bonus Track",
-      "url": "https://open.spotify.com/track/3T3TRQqkipdriFOOh3OTDg"
+      "duration_ms": 172226,
+      "name": "Mt. Zion",
+      "url": "https://open.spotify.com/track/2atwTASX2uaKcnGUmTO0B9"
     },
     {
       "added_at": null,
@@ -447,38 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
-        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 377960,
-      "name": "Oba Erediauwa",
-      "url": "https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sound of Love International",
-        "url": "https://open.spotify.com/album/5vBP6gUQ5xAVpITOHlpcFU"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 345734,
-      "name": "Highlife - Goren Anderssen Dub Version",
-      "url": "https://open.spotify.com/track/4keKZ1aq6pYF5mXuq7cRPY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Papa's Land",
         "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
       },
@@ -520,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 448026,
-      "name": "Dance Of The Elephants",
-      "url": "https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6"
+      "duration_ms": 377960,
+      "name": "Oba Erediauwa",
+      "url": "https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI"
     },
     {
       "added_at": null,
@@ -543,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "51 Lex Presents: O'Nambia",
-        "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
+        "name": "The Sound of Love International",
+        "url": "https://open.spotify.com/album/5vBP6gUQ5xAVpITOHlpcFU"
       },
       "artists": [
         {
@@ -552,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 556386,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/1ECNL67v28kSomKEsK37C5"
+      "duration_ms": 345734,
+      "name": "Highlife - Goren Anderssen Dub Version",
+      "url": "https://open.spotify.com/track/4keKZ1aq6pYF5mXuq7cRPY"
     },
     {
       "added_at": null,
@@ -571,6 +539,22 @@
       "duration_ms": 513039,
       "name": "The light Of Jah",
       "url": "https://open.spotify.com/track/7cN4N2QhqMl9v5f3DgO4cR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
+        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 448026,
+      "name": "Dance Of The Elephants",
+      "url": "https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
       "duration_ms": 417493,
       "name": "Mohammed",
       "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "51 Lex Presents: O'Nambia",
+        "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 556386,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/1ECNL67v28kSomKEsK37C5"
     },
     {
       "added_at": null,
@@ -651,6 +651,38 @@
       "duration_ms": 289573,
       "name": "Jesus King Of Kings",
       "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire In Soweto",
+        "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 400026,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/0MaN8WY843OfeLUTH0L8lV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Papa's Land",
+        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 419626,
+      "name": "Jungle Beat",
+      "url": "https://open.spotify.com/track/2VUnGWTBarTkRomYEHbEic"
     }
   ],
   "unique_name": "This Is Sonny Okosun",

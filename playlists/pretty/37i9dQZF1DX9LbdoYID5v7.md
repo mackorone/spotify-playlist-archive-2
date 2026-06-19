@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 
 > The iconic indie songs that defined an era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,962 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,991 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 42 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
 | 43 | [Dashboard](https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:06 |
 | 44 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
-| 45 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
-| 46 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
+| 45 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
+| 46 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
 | 47 | [Everlasting Light](https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:23 |
 | 48 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
 | 49 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |

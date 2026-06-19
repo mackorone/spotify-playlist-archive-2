@@ -1,6 +1,6 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 830664,
+  "num_followers": 830729,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-02-20 05:00:36",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
-    },
-    {
-      "added_at": "2026-02-20 05:00:36",
-      "album": {
         "name": "She Won't Be Lonely Long",
         "url": "https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 209253,
       "name": "She Won't Be Lonely Long",
       "url": "https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX"
+    },
+    {
+      "added_at": "2026-02-20 05:00:36",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2026-02-20 05:00:36",

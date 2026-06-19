@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 863218,
+  "num_followers": 863204,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -247,18 +247,18 @@
     {
       "added_at": "2026-06-12 19:17:35",
       "album": {
-        "name": "100% Grupo Revela\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/20PI0BGshx4A5gz0Onl91a"
+        "name": "Por Mais Beijos Ao Vivo",
+        "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
       },
       "artists": [
         {
-          "name": "Grupo Revela\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 246226,
-      "name": "Deixa Acontecer",
-      "url": "https://open.spotify.com/track/50mawjudhEofTcUIpRmGXr"
+      "duration_ms": 169593,
+      "name": "Al\u00f4 Ambev (Segue Sua Vida) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs"
     },
     {
       "added_at": "2026-06-12 19:17:35",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-06-12 19:17:35",
       "album": {
-        "name": "Por Mais Beijos Ao Vivo",
-        "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
+        "name": "100% Grupo Revela\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/20PI0BGshx4A5gz0Onl91a"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
         }
       ],
-      "duration_ms": 169593,
-      "name": "Al\u00f4 Ambev (Segue Sua Vida) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs"
+      "duration_ms": 246226,
+      "name": "Deixa Acontecer",
+      "url": "https://open.spotify.com/track/50mawjudhEofTcUIpRmGXr"
     },
     {
       "added_at": "2026-06-12 19:17:35",
@@ -795,26 +795,6 @@
     {
       "added_at": "2026-06-12 19:17:35",
       "album": {
-        "name": "Acabei de Terminar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo"
-      },
-      "artists": [
-        {
-          "name": "Paulo e Nathan",
-          "url": "https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv"
-        },
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        }
-      ],
-      "duration_ms": 223489,
-      "name": "Acabei de Terminar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM"
-    },
-    {
-      "added_at": "2026-06-12 19:17:35",
-      "album": {
         "name": "Made In Studio",
         "url": "https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg"
+    },
+    {
+      "added_at": "2026-06-12 19:17:35",
+      "album": {
+        "name": "Acabei de Terminar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo"
+      },
+      "artists": [
+        {
+          "name": "Paulo e Nathan",
+          "url": "https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "duration_ms": 223489,
+      "name": "Acabei de Terminar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM"
     },
     {
       "added_at": "2026-06-12 19:17:35",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-06-12 19:17:35",
       "album": {
-        "name": "O Baile do Nego V\u00e9io Ao Vivo Em Jurer\u00ea Internacional",
-        "url": "https://open.spotify.com/album/2k6l4PXSBKKxQJkGtYswBi"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Pires",
-          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
-        }
-      ],
-      "duration_ms": 176123,
-      "name": "Domingo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5LBMUgKmkheyVJa1Zn6Qoz"
-    },
-    {
-      "added_at": "2026-06-12 19:17:35",
-      "album": {
         "name": "Bebe e Vem Me Procurar",
         "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 154291,
       "name": "Bebe e Vem Me Procurar",
       "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
+    },
+    {
+      "added_at": "2026-06-12 19:17:35",
+      "album": {
+        "name": "O Baile do Nego V\u00e9io Ao Vivo Em Jurer\u00ea Internacional",
+        "url": "https://open.spotify.com/album/2k6l4PXSBKKxQJkGtYswBi"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+        }
+      ],
+      "duration_ms": 176123,
+      "name": "Domingo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5LBMUgKmkheyVJa1Zn6Qoz"
     },
     {
       "added_at": "2026-06-12 19:17:35",
@@ -1263,18 +1263,22 @@
     {
       "added_at": "2026-06-12 19:17:35",
       "album": {
-        "name": "Adorei",
-        "url": "https://open.spotify.com/album/2jNeKASJ5d7cZ2NNIVLqwb"
+        "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
       },
       "artists": [
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Matheuzinho",
+          "url": "https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o"
         }
       ],
-      "duration_ms": 179452,
-      "name": "Adorei",
-      "url": "https://open.spotify.com/track/6rfNbeEGCh8M5AAj879g0r"
+      "duration_ms": 183695,
+      "name": "S\u00f3 de Sacanagem - Ao Vivo",
+      "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
     },
     {
       "added_at": "2026-06-12 19:17:35",
@@ -1295,22 +1299,18 @@
     {
       "added_at": "2026-06-12 19:17:35",
       "album": {
-        "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
+        "name": "Adorei",
+        "url": "https://open.spotify.com/album/2jNeKASJ5d7cZ2NNIVLqwb"
       },
       "artists": [
         {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        },
-        {
-          "name": "Matheuzinho",
-          "url": "https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o"
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
         }
       ],
-      "duration_ms": 183695,
-      "name": "S\u00f3 de Sacanagem - Ao Vivo",
-      "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
+      "duration_ms": 179452,
+      "name": "Adorei",
+      "url": "https://open.spotify.com/track/6rfNbeEGCh8M5AAj879g0r"
     },
     {
       "added_at": "2026-06-12 19:17:35",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-06-12 19:17:35",
       "album": {
+        "name": "Jogou Aonde",
+        "url": "https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo"
+      },
+      "artists": [
+        {
+          "name": "Gica",
+          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
+        }
+      ],
+      "duration_ms": 158378,
+      "name": "Jogou Aonde",
+      "url": "https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe"
+    },
+    {
+      "added_at": "2026-06-12 19:17:35",
+      "album": {
         "name": "Equil\u00edbrio (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 158074,
       "name": "ME USA - Ao Vivo",
       "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
-    },
-    {
-      "added_at": "2026-06-12 19:17:35",
-      "album": {
-        "name": "Jogou Aonde",
-        "url": "https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo"
-      },
-      "artists": [
-        {
-          "name": "Gica",
-          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
-        }
-      ],
-      "duration_ms": 158378,
-      "name": "Jogou Aonde",
-      "url": "https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe"
     },
     {
       "added_at": "2026-06-12 19:17:35",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-06-12 19:17:35",
       "album": {
-        "name": "Arranh\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 153409,
-      "name": "Arranh\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw"
-    },
-    {
-      "added_at": "2026-06-12 19:17:35",
-      "album": {
         "name": "Show Fechou",
         "url": "https://open.spotify.com/album/14CSj0bmnQt4HjFHoRZBB4"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 165102,
       "name": "Show Fechou",
       "url": "https://open.spotify.com/track/5TNhSOkUrdJ0TkIa2GqjeH"
+    },
+    {
+      "added_at": "2026-06-12 19:17:35",
+      "album": {
+        "name": "Arranh\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 153409,
+      "name": "Arranh\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw"
     },
     {
       "added_at": "2026-06-12 19:17:35",

@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Dua Saleh",
-  "num_followers": 1317956,
+  "num_followers": 1317897,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -905,20 +905,20 @@
       "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
+      "added_at": "2024-12-06 07:13:57",
       "album": {
-        "name": "hopeless romantic",
-        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
+        "name": "Still In Love",
+        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         }
       ],
-      "duration_ms": 183692,
-      "name": "hopeless romantic",
-      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
+      "duration_ms": 161164,
+      "name": "Still In Love",
+      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
     },
     {
       "added_at": "2025-08-22 10:33:51",
@@ -937,20 +937,20 @@
       "url": "https://open.spotify.com/track/7cdLicfXPQMLV9XTYCKm0C"
     },
     {
-      "added_at": "2024-12-06 07:13:57",
+      "added_at": "2026-03-06 06:14:13",
       "album": {
-        "name": "Still In Love",
-        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
+        "name": "hopeless romantic",
+        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 161164,
-      "name": "Still In Love",
-      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
+      "duration_ms": 183692,
+      "name": "hopeless romantic",
+      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -985,42 +985,6 @@
       "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
     },
     {
-      "added_at": "2026-04-03 07:16:37",
-      "album": {
-        "name": "Ambiguous Desire",
-        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 242541,
-      "name": "Senses ft. Sampha",
-      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
-    },
-    {
-      "added_at": "2025-05-02 04:00:39",
-      "album": {
-        "name": "Head in a Jar",
-        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Head in a Jar",
-      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
-    },
-    {
       "added_at": "2026-03-06 06:14:13",
       "album": {
         "name": "Another Life (Feat. Bryant Barnes)",
@@ -1039,6 +1003,42 @@
       "duration_ms": 169933,
       "name": "Another Life (Feat. Bryant Barnes)",
       "url": "https://open.spotify.com/track/76vnbFYXLxoaJq6ee2Q5VM"
+    },
+    {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "Head in a Jar",
+        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "Head in a Jar",
+      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
+    },
+    {
+      "added_at": "2026-04-03 07:16:37",
+      "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 242541,
+      "name": "Senses ft. Sampha",
+      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
     },
     {
       "added_at": "2024-08-23 05:28:40",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v"
     },
     {
-      "added_at": "2025-08-22 10:33:51",
-      "album": {
-        "name": "To Dry a Tear",
-        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 209589,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
-    },
-    {
       "added_at": "2025-05-09 04:12:41",
       "album": {
         "name": "FROM FLORIDA'S FINEST",
@@ -1163,6 +1147,22 @@
       "duration_ms": 152786,
       "name": "SOFT GIRL SUMMER",
       "url": "https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG"
+    },
+    {
+      "added_at": "2025-08-22 10:33:51",
+      "album": {
+        "name": "To Dry a Tear",
+        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 209589,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
     },
     {
       "added_at": "2025-06-13 04:00:56",
@@ -1497,6 +1497,38 @@
       "url": "https://open.spotify.com/track/0s2C8FeHf0OBmphIk8jXsE"
     },
     {
+      "added_at": "2025-02-14 07:50:47",
+      "album": {
+        "name": "CUT UP",
+        "url": "https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 176785,
+      "name": "CUT UP",
+      "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
+    },
+    {
+      "added_at": "2025-06-27 04:16:56",
+      "album": {
+        "name": "PROMISE",
+        "url": "https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 223738,
+      "name": "PROMISE",
+      "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
+    },
+    {
       "added_at": "2026-04-17 06:06:32",
       "album": {
         "name": "July",
@@ -1517,22 +1549,6 @@
       "url": "https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9"
     },
     {
-      "added_at": "2025-02-14 07:50:47",
-      "album": {
-        "name": "CUT UP",
-        "url": "https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 176785,
-      "name": "CUT UP",
-      "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
-    },
-    {
       "added_at": "2025-09-19 06:19:16",
       "album": {
         "name": "I Wish I Didn\u2019t Waste Your Time",
@@ -1547,22 +1563,6 @@
       "duration_ms": 169320,
       "name": "I Wish I Didn\u2019t Waste Your Time",
       "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
-    },
-    {
-      "added_at": "2025-06-27 04:16:56",
-      "album": {
-        "name": "PROMISE",
-        "url": "https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 223738,
-      "name": "PROMISE",
-      "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
     },
     {
       "added_at": "2024-09-27 23:55:30",
@@ -1595,6 +1595,22 @@
       "duration_ms": 223095,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/2aqq3bVljZMbwGuzYaf4om"
+    },
+    {
+      "added_at": "2024-12-06 07:13:57",
+      "album": {
+        "name": "brother and sister",
+        "url": "https://open.spotify.com/album/0iBv5FEHsExXe7L47h3MEf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 175963,
+      "name": "brother and sister",
+      "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
     },
     {
       "added_at": "2026-05-08 06:11:38",
@@ -1631,22 +1647,6 @@
       "duration_ms": 194040,
       "name": "ThunderWave",
       "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
-    },
-    {
-      "added_at": "2024-12-06 07:13:57",
-      "album": {
-        "name": "brother and sister",
-        "url": "https://open.spotify.com/album/0iBv5FEHsExXe7L47h3MEf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 175963,
-      "name": "brother and sister",
-      "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
     },
     {
       "added_at": "2025-10-25 02:54:19",
@@ -1745,22 +1745,6 @@
       "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Y PREE",
-        "url": "https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv"
-      },
-      "artists": [
-        {
-          "name": "H.LLS",
-          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
-        }
-      ],
-      "duration_ms": 140870,
-      "name": "Y PREE",
-      "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
-    },
-    {
       "added_at": "2025-05-09 04:12:41",
       "album": {
         "name": "I Like It I Like It",
@@ -1783,18 +1767,18 @@
     {
       "added_at": "2026-03-06 06:14:13",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+        "name": "Y PREE",
+        "url": "https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv"
       },
       "artists": [
         {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "H.LLS",
+          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
         }
       ],
-      "duration_ms": 214120,
-      "name": "Srs Ice",
-      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
+      "duration_ms": 140870,
+      "name": "Y PREE",
+      "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
     },
     {
       "added_at": "2024-06-14 07:30:32",
@@ -1811,6 +1795,22 @@
       "duration_ms": 229310,
       "name": "Dream About You All Through The Night.",
       "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Srs Ice",
+      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
     },
     {
       "added_at": "2024-06-21 07:44:39",
@@ -1917,22 +1917,6 @@
       "url": "https://open.spotify.com/track/5CAsuNKpa7tcaJOrIiaqi6"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "bits + pieces",
-        "url": "https://open.spotify.com/album/4FWleazNVFcPfQukyqW4Le"
-      },
-      "artists": [
-        {
-          "name": "Casper Sage",
-          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
-        }
-      ],
-      "duration_ms": 233824,
-      "name": "bits + pieces",
-      "url": "https://open.spotify.com/track/5el2DZSkpldGfM8y2sTeXv"
-    },
-    {
       "added_at": "2025-04-11 05:53:52",
       "album": {
         "name": "All American F\u2b50\ufe0fckBoy",
@@ -1951,6 +1935,22 @@
       "duration_ms": 220562,
       "name": "Ken Doll",
       "url": "https://open.spotify.com/track/5cecqx5yqGOrtBADz9YNza"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "bits + pieces",
+        "url": "https://open.spotify.com/album/4FWleazNVFcPfQukyqW4Le"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "duration_ms": 233824,
+      "name": "bits + pieces",
+      "url": "https://open.spotify.com/track/5el2DZSkpldGfM8y2sTeXv"
     },
     {
       "added_at": "2025-09-07 01:24:20",
@@ -2021,22 +2021,6 @@
       "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
     },
     {
-      "added_at": "2026-04-17 06:06:32",
-      "album": {
-        "name": "Fidelity",
-        "url": "https://open.spotify.com/album/4gT5itNBVYzC9jcgMvvOUa"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 206907,
-      "name": "Forty Days",
-      "url": "https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617"
-    },
-    {
       "added_at": "2026-03-06 06:14:13",
       "album": {
         "name": "Asleep At The Wheel",
@@ -2071,22 +2055,18 @@
     {
       "added_at": "2026-04-17 06:06:32",
       "album": {
-        "name": "Lights Down Low",
-        "url": "https://open.spotify.com/album/62ll2WSXHtStg7E25bVsqN"
+        "name": "Fidelity",
+        "url": "https://open.spotify.com/album/4gT5itNBVYzC9jcgMvvOUa"
       },
       "artists": [
         {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        },
-        {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
         }
       ],
-      "duration_ms": 220222,
-      "name": "Lights Down Low",
-      "url": "https://open.spotify.com/track/2KvrTPdVKFP9UWz3aOHMv0"
+      "duration_ms": 206907,
+      "name": "Forty Days",
+      "url": "https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617"
     },
     {
       "added_at": "2025-04-11 05:53:52",
@@ -2103,6 +2083,26 @@
       "duration_ms": 102068,
       "name": "a million faces",
       "url": "https://open.spotify.com/track/7F2nEClWeQ3x5ycA5qtKOI"
+    },
+    {
+      "added_at": "2026-04-17 06:06:32",
+      "album": {
+        "name": "Lights Down Low",
+        "url": "https://open.spotify.com/album/62ll2WSXHtStg7E25bVsqN"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        },
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        }
+      ],
+      "duration_ms": 220222,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/2KvrTPdVKFP9UWz3aOHMv0"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -2409,38 +2409,6 @@
       "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1oWY347VLS0mYJzGSKaVxt"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 176246,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/2Qwp0YeGOipTgVok5mLtqv"
-    },
-    {
-      "added_at": "2026-04-17 06:06:32",
-      "album": {
-        "name": "C\u00e1llate",
-        "url": "https://open.spotify.com/album/4OA7KpQ0fiZ0eiYHRe6MmK"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 119960,
-      "name": "C\u00e1llate",
-      "url": "https://open.spotify.com/track/4uZ5cSWcTLgvwqDZHduY67"
-    },
-    {
       "added_at": "2024-06-14 07:30:32",
       "album": {
         "name": "Cruzafied",
@@ -2455,6 +2423,22 @@
       "duration_ms": 217600,
       "name": "First Time",
       "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1oWY347VLS0mYJzGSKaVxt"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 176246,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/2Qwp0YeGOipTgVok5mLtqv"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -2477,6 +2461,22 @@
       "url": "https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO"
     },
     {
+      "added_at": "2026-04-17 06:06:32",
+      "album": {
+        "name": "C\u00e1llate",
+        "url": "https://open.spotify.com/album/4OA7KpQ0fiZ0eiYHRe6MmK"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 119960,
+      "name": "C\u00e1llate",
+      "url": "https://open.spotify.com/track/4uZ5cSWcTLgvwqDZHduY67"
+    },
+    {
       "added_at": "2024-12-06 07:13:57",
       "album": {
         "name": "Rolling Stone",
@@ -2491,26 +2491,6 @@
       "duration_ms": 118813,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL"
-    },
-    {
-      "added_at": "2026-03-27 06:30:33",
-      "album": {
-        "name": "Days of You.",
-        "url": "https://open.spotify.com/album/26C7KeNY8gIES4397QKK58"
-      },
-      "artists": [
-        {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
-        },
-        {
-          "name": "Avara",
-          "url": "https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd"
-        }
-      ],
-      "duration_ms": 209140,
-      "name": "SUPERSTORE.",
-      "url": "https://open.spotify.com/track/7aFn4899a2RYIX9dXgkp6g"
     },
     {
       "added_at": "2024-06-14 07:30:32",
@@ -2533,6 +2513,42 @@
       "url": "https://open.spotify.com/track/13emOZj9lqqVJg4JJ7ABBi"
     },
     {
+      "added_at": "2026-03-27 06:30:33",
+      "album": {
+        "name": "Days of You.",
+        "url": "https://open.spotify.com/album/26C7KeNY8gIES4397QKK58"
+      },
+      "artists": [
+        {
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+        },
+        {
+          "name": "Avara",
+          "url": "https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd"
+        }
+      ],
+      "duration_ms": 209140,
+      "name": "SUPERSTORE.",
+      "url": "https://open.spotify.com/track/7aFn4899a2RYIX9dXgkp6g"
+    },
+    {
+      "added_at": "2024-09-13 09:09:19",
+      "album": {
+        "name": "Pointy Heights",
+        "url": "https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "birds, bees",
+      "url": "https://open.spotify.com/track/7fIHFXaxaFZ9TLxdZeYIRD"
+    },
+    {
       "added_at": "2026-03-13 08:17:11",
       "album": {
         "name": "I Do, I Do",
@@ -2547,22 +2563,6 @@
       "duration_ms": 135893,
       "name": "I Do, I Do",
       "url": "https://open.spotify.com/track/48GMhj7HceWsedpDjUTtiE"
-    },
-    {
-      "added_at": "2024-07-19 15:05:24",
-      "album": {
-        "name": "all night",
-        "url": "https://open.spotify.com/album/4YaN9SFs3xzpHSZc4tv41J"
-      },
-      "artists": [
-        {
-          "name": "Marco Luka",
-          "url": "https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "all night",
-      "url": "https://open.spotify.com/track/2qGqtuUr4eUqxIuMt8TbEZ"
     }
   ],
   "unique_name": "Vanguard",

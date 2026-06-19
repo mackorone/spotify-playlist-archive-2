@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,466 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,482 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 177 | [I Want More](https://open.spotify.com/track/5wPmZFvLp9z1lw0tQlXWtt) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Flow Motion \(Remastered\)](https://open.spotify.com/album/1RuUc1iKJoczQJY0S0CJjE) | 3:34 |
 | 178 | [Jump Into The Fire](https://open.spotify.com/track/3hgHrfMdtnLtH54HYTdNHF) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB) | 7:00 |
 | 179 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
-| 180 | [Don't Go](https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:11 |
+| 180 | [Don't Go](https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY) | [Yaz](https://open.spotify.com/artist/3xZ88swJsZ6RR5eKZ83jfH) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:11 |
 | 181 | [Good Love 6\-9\-9\-6\-9](https://open.spotify.com/track/0XoWFQSIvFZ0lhzYE7HWLx) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Black Moses](https://open.spotify.com/album/0zYfUaLDEeWVYkohFTVLmd) | 5:17 |
 | 182 | [Having A Party](https://open.spotify.com/track/2UZcw0k1foWTQUDqyFVKOE) | [The Osmonds](https://open.spotify.com/artist/5fU6lODhpw3GEGGJuaDprR) | [Very Best Of The Osmonds](https://open.spotify.com/album/29wHd2bW5SC6uDNXvk6dYQ) | 3:20 |
 | 183 | [Thank You for the Offer](https://open.spotify.com/track/6hjGmqo3Z0PnjOxapWJQW8) | [Chip Taylor](https://open.spotify.com/artist/4J9k7L7BrJ7NMWAcvgox1B) | [In Sympathy of a Heartbreak](https://open.spotify.com/album/1kE1Wqk8VaSmmvQgMw4K6W) | 1:56 |

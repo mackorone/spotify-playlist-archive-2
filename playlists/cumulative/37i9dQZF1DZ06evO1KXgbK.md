@@ -4,7 +4,7 @@
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-98 songs - 5 hr 30 min
+99 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Jolene \(feat\. Dolly Parton\)](https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [PTX Vol\. IV \- Classics](https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX) | 2:11 | 2024-03-09 |  |
 | [Just Because I'm a Woman](https://open.spotify.com/track/60XKXfrjh0qhAHw4QfNO6j) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Just Because I'm A Woman](https://open.spotify.com/album/1GisbvCqXtNW2ntajcMNdB) | 3:03 | 2025-11-20 | 2025-11-25 |
 | [Just When I Needed You Most](https://open.spotify.com/track/0UKSP1rPdm2DybI4vHk6Iw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG), [John Sebastian](https://open.spotify.com/artist/3FPF6tyBTP79pCCAJDcPft) | [Treasures](https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb) | 4:36 | 2024-03-09 |  |
-| [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 | 2024-03-09 |  |
+| [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 | 2024-03-09 | 2026-06-19 |
 | [Light of a Clear Blue Morning](https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Light of a Clear Blue Morning](https://open.spotify.com/album/6YExDnUZUEXINyiPGk3FMz) | 3:47 | 2026-01-18 |  |
 | [Lookin' for You \(feat\. Dolly Parton\)](https://open.spotify.com/track/6tTCpZ6peX8JLSHNMn5RwB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Hundred Highways \(Extended Edition\)](https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf) | 3:46 | 2024-03-10 | 2026-05-23 |
 | [Love Is Like a Butterfly](https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Love Is Like a Butterfly](https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT) | 2:23 | 2024-03-09 |  |
@@ -106,5 +106,6 @@
 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 | 2024-03-09 | 2026-05-06 |
 | [You Are](https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [New Harvest...First Gathering](https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H) | 5:18 | 2024-03-09 |  |
 | [You Can't Make Old Friends \- Duet with Dolly Parton](https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [You Can't Make Old Friends](https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr) | 4:02 | 2024-03-09 |  |
+| [You're the Only One](https://open.spotify.com/track/3DU1u3h9OJevZ8HLLneRhi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Great Balls Of Fire](https://open.spotify.com/album/4pLrDt2coR74cVQQxPtSQX) | 3:22 | 2026-06-19 |  |
 
 \*This playlist was first scraped on 2024-03-10. Prior content cannot be recovered.

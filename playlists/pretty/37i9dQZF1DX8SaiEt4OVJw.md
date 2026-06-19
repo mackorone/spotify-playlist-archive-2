@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > French Rap vs Mbalax!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,845 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,849 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

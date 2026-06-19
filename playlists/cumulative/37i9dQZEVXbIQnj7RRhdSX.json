@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 127499,
       "name": "7ELEVEN",
       "url": "https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq"
@@ -6762,7 +6762,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -9394,6 +9394,24 @@
       "duration_ms": 212920,
       "name": "c!ao (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6"
+    },
+    {
+      "album": {
+        "name": "Antologia Della Vita e Della Morte",
+        "url": "https://open.spotify.com/album/1L13dQGAEJaPiz67pc9i4v"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "Cabana",
+      "url": "https://open.spotify.com/track/53GaYNLUejzouMIDRaukD1"
     },
     {
       "album": {
@@ -21566,7 +21584,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 164262,
       "name": "FLAMENCO PARANOIA",
       "url": "https://open.spotify.com/track/549DrPfwUQuZB3q53WQh1z"

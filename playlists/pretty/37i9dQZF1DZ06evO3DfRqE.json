@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8659,
+  "num_followers": 8665,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAACtf2kx0nQFLo1IclemQ3qT",
+  "snapshot_id": "ajHjgAAAAAARNdW9uWXbA6DcmXUCQyPp",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brightside",
-        "url": "https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6"
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },
       "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 213621,
-      "name": "Make It Paradise",
-      "url": "https://open.spotify.com/track/4K3O1bewDOnVxAJ5EaOrT5"
+      "duration_ms": 239226,
+      "name": "Oama",
+      "url": "https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2"
     },
     {
       "added_at": null,
@@ -343,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6"
       },
       "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 239226,
-      "name": "Oama",
-      "url": "https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2"
+      "duration_ms": 213621,
+      "name": "Make It Paradise",
+      "url": "https://open.spotify.com/track/4K3O1bewDOnVxAJ5EaOrT5"
     },
     {
       "added_at": null,
@@ -383,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
-        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },
       "artists": [
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Miho Teruya",
-          "url": "https://open.spotify.com/artist/5rbx6VW8D4lpHU4J1wY0FB"
         }
       ],
-      "duration_ms": 218933,
-      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb -\u8679\u3092-",
-      "url": "https://open.spotify.com/track/3gT4ZSs2oMp8aDFYlZaZy6"
+      "duration_ms": 150760,
+      "name": "Hi'ilawe",
+      "url": "https://open.spotify.com/track/19wjOn6TbyIbW00NN7bLM6"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
+        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
       },
       "artists": [
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Miho Teruya",
+          "url": "https://open.spotify.com/artist/5rbx6VW8D4lpHU4J1wY0FB"
         }
       ],
-      "duration_ms": 150760,
-      "name": "Hi'ilawe",
-      "url": "https://open.spotify.com/track/19wjOn6TbyIbW00NN7bLM6"
+      "duration_ms": 218933,
+      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb -\u8679\u3092-",
+      "url": "https://open.spotify.com/track/3gT4ZSs2oMp8aDFYlZaZy6"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30c9\u30e9\u30b4\u30f3",
+        "url": "https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "\u30bf\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jake & Friends",
         "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 429346,
       "name": "Smokin' Strings",
       "url": "https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30c9\u30e9\u30b4\u30f3",
-        "url": "https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "\u30bf\u30c3\u30c1",
-      "url": "https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doogie Kamealoha, M.D. (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5IIbiXNkg43JLSswf7L18p"
-      },
-      "artists": [
-        {
-          "name": "Wendy Wang",
-          "url": "https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 148295,
-      "name": "Campfire",
-      "url": "https://open.spotify.com/track/3vas0K5wl8kr7IiphLlWR0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30af\u30ed\u30b9\u30fb\u30b6\u30fb\u30e6\u30cb\u30d0\u30fc\u30b9",
         "url": "https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 485586,
       "name": "Hotel California (Duet with Jake Shimabukuro)",
       "url": "https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doogie Kamealoha, M.D. (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5IIbiXNkg43JLSswf7L18p"
+      },
+      "artists": [
+        {
+          "name": "Wendy Wang",
+          "url": "https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 148295,
+      "name": "Campfire",
+      "url": "https://open.spotify.com/track/3vas0K5wl8kr7IiphLlWR0"
     },
     {
       "added_at": null,

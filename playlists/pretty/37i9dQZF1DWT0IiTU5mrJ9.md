@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0IiTU5mrJ9.md) - [plain]
 
 > Power through your chores with these upbeat tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,547 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,659 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0IiTU5mrJ9.md) - [plain]
 | 29 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
 | 30 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 |
 | 31 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 4:08 |
-| 32 | [Listen to the Music](https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Toulouse Street](https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm) | 3:47 |
-| 33 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 |
+| 32 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 |
+| 33 | [Listen to the Music](https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Toulouse Street](https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm) | 3:47 |
 | 34 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 |
 | 35 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
 | 36 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0IiTU5mrJ9.md) - [plain]
 | 67 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:29 |
 | 68 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
 | 69 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
-| 70 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
-| 71 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
-| 72 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 |
-| 73 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
-| 74 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 |
+| 70 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
+| 71 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
+| 72 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 |
+| 73 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 |
+| 74 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
 | 75 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
 | 76 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 |
 | 77 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |

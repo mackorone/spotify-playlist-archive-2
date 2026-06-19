@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,001,325 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,000,961 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 62 | [Saint Monica \- Undone](https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Saint Monica \(Undone\)](https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6) | 2:26 |
 | 63 | [The Future is Dead \- Tiny Habits Version](https://open.spotify.com/track/0vdtDUOHPHvFUOYZty292C) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [The Future Is Dead \(Tiny Habits Version\)](https://open.spotify.com/album/27iYmldP2sbRwR5RG5PQls) | 3:02 |
 | 64 | [Not a Number](https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Not a Number](https://open.spotify.com/album/0WGIz8CnFlGnFRgQU5c0xT) | 3:32 |
-| 65 | [Song For Luke](https://open.spotify.com/track/2eSrKcAM6NwbEfJxwY5NfO) | [KJ Apa](https://open.spotify.com/artist/28SYkto7A2ToO29KnMaUcr) | [Clocks](https://open.spotify.com/album/1AcCa9sbuK1rxiZzXptOMZ) | 2:44 |
-| 66 | [Leave Me Now](https://open.spotify.com/track/4kRuNETlGmxcA7uZNbppcz) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [What Will We Do](https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X) | 4:30 |
+| 65 | [Leave Me Now](https://open.spotify.com/track/4kRuNETlGmxcA7uZNbppcz) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [What Will We Do](https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X) | 4:30 |
+| 66 | [Song For Luke](https://open.spotify.com/track/2eSrKcAM6NwbEfJxwY5NfO) | [KJ Apa](https://open.spotify.com/artist/28SYkto7A2ToO29KnMaUcr) | [Clocks](https://open.spotify.com/album/1AcCa9sbuK1rxiZzXptOMZ) | 2:44 |
 | 67 | [Friction](https://open.spotify.com/track/4qSyzCP52K8Sjbhrt4VmxZ) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Friction](https://open.spotify.com/album/1ZMSPI2WpZ8szQTnIupd76) | 3:29 |
 | 68 | [St\. Augustine](https://open.spotify.com/track/6dG4m4wqyU4jeeb1JYWQj6) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [St\. Augustine](https://open.spotify.com/album/1wW1IczQXfuL58LT1pQfdA) | 3:30 |
 | 69 | [I Tried](https://open.spotify.com/track/2K90utpi9AUlGUrYDapNGB) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [I Tried](https://open.spotify.com/album/0m6Rqk4Dgy7D8XEvTbrVuZ) | 4:26 |
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 77 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 |
 | 78 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
 | 79 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
-| 80 | [Tiger Striped Sky](https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3) | 4:01 |
-| 81 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 |
-| 82 | [Resilient](https://open.spotify.com/track/6A90L2keyWNwlH21dqM8bA) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Resilient](https://open.spotify.com/album/3EaJWoy52v2Rxu79L2GAin) | 4:10 |
-| 83 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 |
+| 80 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 |
+| 81 | [Tiger Striped Sky](https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3) | 4:01 |
+| 82 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 |
+| 83 | [Resilient](https://open.spotify.com/track/6A90L2keyWNwlH21dqM8bA) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Resilient](https://open.spotify.com/album/3EaJWoy52v2Rxu79L2GAin) | 4:10 |
 | 84 | [Wildfire](https://open.spotify.com/track/7eMuquGvl8dWNWwISPOmQd) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Wildfire](https://open.spotify.com/album/44RLjAu4kIxqlOxE5ZvN6A) | 5:29 |
 | 85 | [Love Anyway](https://open.spotify.com/track/0swFW9sHhCVS892gh8ec2L) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Love Anyway](https://open.spotify.com/album/1rwvzuvmzRe7OFynMY7jDe) | 3:03 |
 | 86 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |

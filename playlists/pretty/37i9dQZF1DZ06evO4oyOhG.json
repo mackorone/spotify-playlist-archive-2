@@ -1,12 +1,12 @@
 {
   "description": "This is CHiCO with HoneyWorks. The essential tracks, all in one playlist.",
-  "num_followers": 18458,
+  "num_followers": 18456,
   "original_name": "This Is CHiCO with HoneyWorks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAADrmLirlkVRUCHzbDLruk4X",
+  "snapshot_id": "ajHjgAAAAACfZKxmDTWAzVSwJcp/o+0K",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u541b\u306e\u305b\u3044\u3067\u611b\u3057\u3066\u308b",
-        "url": "https://open.spotify.com/album/4eUCmpDRq2bu9O62BTKoPk"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "\u541b\u306e\u305b\u3044\u3067\u611b\u3057\u3066\u308b",
-      "url": "https://open.spotify.com/track/07uIelDCQyg8Pmzbwjwloc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
         "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 270306,
       "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
       "url": "https://open.spotify.com/track/1HHOkD7fuNCBnImFrlDRVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u541b\u306e\u305b\u3044\u3067\u611b\u3057\u3066\u308b",
+        "url": "https://open.spotify.com/album/4eUCmpDRq2bu9O62BTKoPk"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "\u541b\u306e\u305b\u3044\u3067\u611b\u3057\u3066\u308b",
+      "url": "https://open.spotify.com/track/07uIelDCQyg8Pmzbwjwloc"
     },
     {
       "added_at": null,

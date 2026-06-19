@@ -194,7 +194,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 300259,
       "name": "A Way Out",
       "url": "https://open.spotify.com/track/1rXcKHXwIpGPGVqZ162dDY"
@@ -242,7 +242,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 425447,
       "name": "Access - Extended Mix",
       "url": "https://open.spotify.com/track/5MSvXDX2bhpxMf31WGoQIL"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 214943,
       "name": "Amants Ennemis",
       "url": "https://open.spotify.com/track/62ihAEgqfEy2FExl6ZfC6X"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 371535,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/2h9VpP1xs9crF39qT6vga5"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 346533,
       "name": "Babystar",
       "url": "https://open.spotify.com/track/2jMmnnPkn9Jt3qTozuG2ok"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 416893,
       "name": "Back in the Day",
       "url": "https://open.spotify.com/track/1UgQp5TpSBaRqs0Mfngv9D"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 282660,
       "name": "Basic Maneuvers",
       "url": "https://open.spotify.com/track/7woL8TwGlZLp3bzZfnOVYV"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 400786,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/1O9wM3lgCR50cqM53nL66O"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 259000,
       "name": "Bis uns das Licht vertreibt - Marcel Dettmann Version 2 Remix - Mixed",
       "url": "https://open.spotify.com/track/5WsRwqPkxPw1nMobU9EAbR"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 623452,
       "name": "Bug In A Bassbin",
       "url": "https://open.spotify.com/track/56pcRayzD5RmPJvfBcmlBG"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 199913,
       "name": "Call Coco",
       "url": "https://open.spotify.com/track/4A6K9m89CCo5ypCdj3HzHI"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 310686,
       "name": "Call It - Turbotito Remix",
       "url": "https://open.spotify.com/track/03CC1U9ugT5di4XVaVHVV2"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 330146,
       "name": "Cawuso",
       "url": "https://open.spotify.com/track/5SufPjNEkl797EaQg6WI0y"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 465345,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/2DFz3dWTtMylZz3RtiZOop"
@@ -1606,6 +1606,24 @@
       "duration_ms": 281956,
       "name": "Chuva",
       "url": "https://open.spotify.com/track/3qzYHMvSyLcDYdwtrlrezm"
+    },
+    {
+      "album": {
+        "name": "Mantis 1920",
+        "url": "https://open.spotify.com/album/44Ug19hzdZscpswUfqHzo9"
+      },
+      "artists": [
+        {
+          "name": "Forest Drive West",
+          "url": "https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381032,
+      "name": "Circuit",
+      "url": "https://open.spotify.com/track/2dQIUmQKcpDIah5HC4OYml"
     },
     {
       "album": {
@@ -2222,7 +2240,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 390400,
       "name": "Distance Voices",
       "url": "https://open.spotify.com/track/5nWe4mVEoYioso9Kyakdzi"
@@ -2294,7 +2312,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 152346,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/0krjZwYqRhVdV35EaBCQL8"
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 327149,
       "name": "Escape From The Evil Planet",
       "url": "https://open.spotify.com/track/6dX0WD37GJzL2ZxCyuHOyP"
@@ -3370,7 +3388,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 400002,
       "name": "Frohes Noise",
       "url": "https://open.spotify.com/track/5rZvo8zy35fiX2aAlm6mMR"
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 356747,
       "name": "Glimpse",
       "url": "https://open.spotify.com/track/6MSMEYnP6OPJU4OQargcs7"
@@ -3798,7 +3816,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 361453,
       "name": "Groovy Baby",
       "url": "https://open.spotify.com/track/569eyJXP9UW4uVmkpAENoc"
@@ -3886,7 +3904,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 206369,
       "name": "Hack the System",
       "url": "https://open.spotify.com/track/3rZSkV7CQ17RthHY3b9x3G"
@@ -3998,7 +4016,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 375204,
       "name": "Hedonist Lizards",
       "url": "https://open.spotify.com/track/2GVyMTCLeBbOMYFwPgr0Y7"
@@ -4059,6 +4077,24 @@
     },
     {
       "album": {
+        "name": "Wunderbar",
+        "url": "https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X"
+      },
+      "artists": [
+        {
+          "name": "Riechmann",
+          "url": "https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520850,
+      "name": "Himmelblau",
+      "url": "https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK"
+    },
+    {
+      "album": {
         "name": "Breaks The Shell",
         "url": "https://open.spotify.com/album/5WDrU5TNJtapS2133gyvqq"
       },
@@ -4092,7 +4128,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 311600,
       "name": "Ho Renomo",
       "url": "https://open.spotify.com/track/3TtCTtFJDwUmJ491QfZsrQ"
@@ -4276,7 +4312,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 354645,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4LCImuntfrgyAsUxMWeNtU"
@@ -5256,7 +5292,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 309673,
       "name": "Middle Of The Floor",
       "url": "https://open.spotify.com/track/0GVzwaYFIo8NV34LJUwzM4"
@@ -5300,6 +5336,24 @@
       "duration_ms": 472614,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1EjKqth9UBbY9FtgCxgVdT"
+    },
+    {
+      "album": {
+        "name": "Mind Lock EP",
+        "url": "https://open.spotify.com/album/2ylhcAqK5AkJnpAE0Xm9ij"
+      },
+      "artists": [
+        {
+          "name": "Andy Toth",
+          "url": "https://open.spotify.com/artist/0xHPs74Vj4dNwYlpc2Xggs"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468200,
+      "name": "Mind Lock",
+      "url": "https://open.spotify.com/track/1fW8TDYeaow6BqSh7NCJwZ"
     },
     {
       "album": {
@@ -5424,7 +5478,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 411532,
       "name": "Mordisco - Silky Mix",
       "url": "https://open.spotify.com/track/0zoQeZJqOd3XKJkT4nSThS"
@@ -5694,7 +5748,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 428197,
       "name": "New Wave Bang - Original Mix",
       "url": "https://open.spotify.com/track/02ESEPC2zBRleLmN7HL2hj"
@@ -6166,7 +6220,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 227368,
       "name": "Pancake",
       "url": "https://open.spotify.com/track/17LDWpBi3zbsQPYkbvfFYx"
@@ -6206,7 +6260,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 325198,
       "name": "Panorama X-Press",
       "url": "https://open.spotify.com/track/01JhRTReJZFt2qPsp7nUJP"
@@ -6312,7 +6366,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 216355,
       "name": "Pastoral Blend",
       "url": "https://open.spotify.com/track/63oPptuC03xg5oTNXemb9r"
@@ -6406,7 +6460,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 438493,
       "name": "People",
       "url": "https://open.spotify.com/track/2qzxzsOxAIAnyNME0XWapy"
@@ -6640,7 +6694,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 283125,
       "name": "Porcupine Tattoo - DJ Koze Remix",
       "url": "https://open.spotify.com/track/7HkpSCzqJHmAEgYvoUlfgW"
@@ -6984,7 +7038,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 363392,
       "name": "ReportDeluxe",
       "url": "https://open.spotify.com/track/6GMDeoBB850G2Vy9d4A0v4"
@@ -7155,6 +7209,28 @@
     },
     {
       "album": {
+        "name": "Spatial, No Problem.",
+        "url": "https://open.spotify.com/album/0SX7gjlXxpX1sTFXZYN12P"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        },
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209056,
+      "name": "Rockcurry",
+      "url": "https://open.spotify.com/track/0rjToMdgPnJK7NoR4cVs3c"
+    },
+    {
+      "album": {
         "name": "Romantic Schizophremic (Henrik Schwarz Remix)",
         "url": "https://open.spotify.com/album/4jI0Jf8p2qAN2AS7q645rZ"
       },
@@ -7308,7 +7384,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 287074,
       "name": "Scorpio Rising (Funk D'Void Remix)",
       "url": "https://open.spotify.com/track/6JlbwfHDm2kibv3BnrtlIm"
@@ -7348,7 +7424,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 299270,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/0cTGBktDEddqng7yqcH9lI"
@@ -7492,7 +7568,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 428747,
       "name": "Silver Lines",
       "url": "https://open.spotify.com/track/6a5FfH2xzvdvibpGirhBZy"
@@ -7586,7 +7662,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 256456,
       "name": "Smokebelch II (Beatless Mix) - Remastered",
       "url": "https://open.spotify.com/track/5qf159O7JaYtnRDSK8DKqR"
@@ -7622,7 +7698,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 252500,
       "name": "Solo Sunny - Edit",
       "url": "https://open.spotify.com/track/6YNJeE8FggHY7qYWDlaOfm"
@@ -7756,10 +7832,28 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 371293,
       "name": "Space Invaders Are Smoking Grass",
       "url": "https://open.spotify.com/track/3XbxZh2xs3FG4sY1xzHcQQ"
+    },
+    {
+      "album": {
+        "name": "Spiralen & Wo\u00b4s Patric?!?",
+        "url": "https://open.spotify.com/album/1S9fmm3qMb9BzJA9AjZewm"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437809,
+      "name": "Spiralen",
+      "url": "https://open.spotify.com/track/5sNVgEew0CU2H4Sep8OJlQ"
     },
     {
       "album": {
@@ -7956,7 +8050,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 342857,
       "name": "Strike - Hardspace Mix",
       "url": "https://open.spotify.com/track/5v6eGFwqZ3dyGQJ9jP8iZ8"
@@ -8072,7 +8166,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 223506,
       "name": "Sunglasses at Night",
       "url": "https://open.spotify.com/track/6nOYKhskIZXcfdFe8eVmOi"
@@ -8213,6 +8307,24 @@
     },
     {
       "album": {
+        "name": "Anenoa",
+        "url": "https://open.spotify.com/album/5AAUBxhjnkc6ezrx6QziHY"
+      },
+      "artists": [
+        {
+          "name": "Matias Aguayo",
+          "url": "https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257626,
+      "name": "The Beat",
+      "url": "https://open.spotify.com/track/7x8qpsAz6vfAGdMiQSxgpM"
+    },
+    {
+      "album": {
         "name": "The Love Pretender",
         "url": "https://open.spotify.com/album/02f8SRW7h97Xjn5vcTF4yr"
       },
@@ -8268,7 +8380,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 248000,
       "name": "The End Of Back To Back",
       "url": "https://open.spotify.com/track/5WUbIs5yLjehUmGN13Mh3o"
@@ -8370,7 +8482,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 309699,
       "name": "The Palace",
       "url": "https://open.spotify.com/track/51SJAeAhdNkPk5hSHYeDGV"
@@ -8526,7 +8638,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 225168,
       "name": "The Tyranny Of Choice",
       "url": "https://open.spotify.com/track/6zpNieObkU3lIMENxage88"
@@ -8544,7 +8656,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 262498,
       "name": "The Warning - Remastered",
       "url": "https://open.spotify.com/track/0EzqsB1wXhPdE9xfFAl6fT"
@@ -8667,6 +8779,24 @@
     },
     {
       "album": {
+        "name": "To the Disco \u201877 & Hybrid Minds Remixes",
+        "url": "https://open.spotify.com/album/3H2mfAIeVYFzq8nw2PiRif"
+      },
+      "artists": [
+        {
+          "name": "Move D",
+          "url": "https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419097,
+      "name": "To the Disco \u201877",
+      "url": "https://open.spotify.com/track/0OvwOCehqyC5xe6VOir4V5"
+    },
+    {
+      "album": {
         "name": "Tokyo Love Affair",
         "url": "https://open.spotify.com/album/32Zu6hIPbZJZyR8ToTNpUN"
       },
@@ -8776,7 +8906,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 300845,
       "name": "Tregua",
       "url": "https://open.spotify.com/track/1egKD08pHb5GcfYdVjZDuT"
@@ -9168,7 +9298,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 358680,
       "name": "Waterfalls (3 A.M. Mix)",
       "url": "https://open.spotify.com/track/5G0YQmoqgJQaffES8hkeIO"
@@ -9204,7 +9334,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 391905,
       "name": "Ways Of Mine",
       "url": "https://open.spotify.com/track/4603BryGDn9qLBZ7CVHXAQ"
@@ -9672,6 +9802,32 @@
       "duration_ms": 169350,
       "name": "Yucon",
       "url": "https://open.spotify.com/track/58QASUiIYdw8JzCduRhhEF"
+    },
+    {
+      "album": {
+        "name": "REMAKE",
+        "url": "https://open.spotify.com/album/66Yfa9rJupIclP2yFzjmQL"
+      },
+      "artists": [
+        {
+          "name": "Mondo Sangue",
+          "url": "https://open.spotify.com/artist/2L1UsVh7mAEfWdG6dV8rAF"
+        },
+        {
+          "name": "Andreas Dorau",
+          "url": "https://open.spotify.com/artist/7sbhauFwWAowzbg8yrm6wK"
+        },
+        {
+          "name": "Zwanie Jonson",
+          "url": "https://open.spotify.com/artist/3sXdZe8u3CaMBYvkA7VWPC"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248396,
+      "name": "Zero Gravity Love - Andreas Dorau & Zwanie Jonson Remix",
+      "url": "https://open.spotify.com/track/28Y7GXtjqfougHnYrA1T1i"
     },
     {
       "album": {

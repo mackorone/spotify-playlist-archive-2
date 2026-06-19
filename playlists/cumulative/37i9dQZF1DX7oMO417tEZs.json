@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "50 BULLETS",
+        "url": "https://open.spotify.com/album/3JFAHttHqcdaHol35sJnya"
+      },
+      "artists": [
+        {
+          "name": "Zora Jones",
+          "url": "https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "50 BULLETS",
+      "url": "https://open.spotify.com/track/1bgRbYzATyEGuH6ARiMCPK"
+    },
+    {
+      "album": {
         "name": "555",
         "url": "https://open.spotify.com/album/75dTDxhBZa9X3MfMNo0hyc"
       },
@@ -24545,6 +24563,28 @@
     },
     {
       "album": {
+        "name": "On Your Mind (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "On Your Mind (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7"
+    },
+    {
+      "album": {
         "name": "ONANON",
         "url": "https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP"
       },
@@ -28916,6 +28956,24 @@
       "duration_ms": 149524,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/50IEHYwAPhnGvoyD1gVZnS"
+    },
+    {
+      "album": {
+        "name": "Second Brick",
+        "url": "https://open.spotify.com/album/1avphUmzthHqwCTjECMPf3"
+      },
+      "artists": [
+        {
+          "name": "Dix Enormous",
+          "url": "https://open.spotify.com/artist/0wGl0INSLjTKL8tIY8P2Yq"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66779,
+      "name": "Second Brick",
+      "url": "https://open.spotify.com/track/6w0qLAmNSMP4EGsrBCDAGK"
     },
     {
       "album": {

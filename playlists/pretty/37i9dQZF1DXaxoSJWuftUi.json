@@ -1,13 +1,65 @@
 {
   "description": "Your favorite kids songs and nursery rhymes, now with videos. Music videos available only on Premium.",
-  "num_followers": 909,
+  "num_followers": 949,
   "original_name": "Kids Music Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANCF+pr6yUBXIy5YEGlo1nTfsvbs",
+  "snapshot_id": "AAAAADJq9F1Jd3WgrmyxMywuhGko0PQr",
   "tracks": [
+    {
+      "added_at": "2026-06-19 04:00:37",
+      "album": {
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/0Hx7DbcJrotDRRDAMvkOnZ"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Sports",
+      "url": "https://open.spotify.com/track/7nZMHop22wTDbaoDkaP9x9"
+    },
+    {
+      "added_at": "2026-06-19 04:00:37",
+      "album": {
+        "name": "Wally & the Bears Monster Hunt",
+        "url": "https://open.spotify.com/album/2ERwh7qFBGY9ZaksJo8ljH"
+      },
+      "artists": [
+        {
+          "name": "Mister Kipley",
+          "url": "https://open.spotify.com/artist/3xV0Tc4SeREEWHNrxd9M9Y"
+        }
+      ],
+      "duration_ms": 247974,
+      "name": "Wally & the Bears Monster Hunt",
+      "url": "https://open.spotify.com/track/6OOQaZZafEfS3VF0Yt30VG"
+    },
+    {
+      "added_at": "2026-06-19 04:00:37",
+      "album": {
+        "name": "One Little Finger",
+        "url": "https://open.spotify.com/album/2REw2stjpsOdQXWO2kH8hL"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 142225,
+      "name": "One Little Finger",
+      "url": "https://open.spotify.com/track/5ra1ik4njIVmFnIHXGRFFx"
+    },
     {
       "added_at": "2026-06-05 04:00:34",
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Kenia Os\. The essential tracks, all in one playlist.
 
-96 songs - 4 hr 30 min
+97 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Diamantes](https://open.spotify.com/track/5tsaIE9YwWkgnSzKbAkcr5) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Diamantes](https://open.spotify.com/album/3hECK15kYfJL0rrUVNxLOA) | 2:58 | 2023-12-18 | 2025-10-12 |
 | [Dinero](https://open.spotify.com/track/3Hndu68hdTMaL6HNpYdMrr) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Dinero](https://open.spotify.com/album/1FttuzibZVhfGTkK4ecYq6) | 2:38 | 2023-12-18 | 2024-04-27 |
 | [Días Tristes](https://open.spotify.com/track/0BSG1hM4RR2ZtY50Fvkcdx) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [K de Karma](https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc) | 3:18 | 2026-03-22 |  |
+| [Días Tristes \| Live From Vevo Studios](https://open.spotify.com/track/3ehsmwSi4oO9fW4XpAwj2a) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Días Tristes \| Live From Vevo Studios](https://open.spotify.com/album/19i3iS7SZLO5MybFh9Hb5M) | 2:48 | 2026-06-19 |  |
 | [Ella \- Remix De Ellas](https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Ella \(Remix De Ellas\)](https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe) | 3:10 | 2023-12-18 | 2025-05-18 |
 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 | 2025-04-20 |  |
 | [Escríbeme](https://open.spotify.com/track/0gLPbKWrfFTifO5m90P8DE) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Escríbeme](https://open.spotify.com/album/0nwzf3YejDCtModbfBr9sL) | 2:24 | 2023-12-18 | 2025-06-01 |

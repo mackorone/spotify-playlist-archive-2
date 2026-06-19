@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 631063,
+  "num_followers": 631222,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "David Allan Coe - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 314226,
-      "name": "You Never Even Called Me By My Name",
-      "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
         "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 185239,
       "name": "Guitars, Cadillacs",
       "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "David Allan Coe - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 314226,
+      "name": "You Never Even Called Me By My Name",
+      "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
+        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
+        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Galveston",
+      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
         "name": "The Essential Johnny Duncan",
         "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 189786,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
-        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
-        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Galveston",
-      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Best Of The Bellamy Brothers",
-        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
-      "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "The Essential Marty Robbins 1951-1982",
         "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 145640,
       "name": "Singing the Blues",
       "url": "https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Abilene",
-        "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
-      },
-      "artists": [
-        {
-          "name": "George Hamilton IV",
-          "url": "https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "Connie Smith",
         "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 140120,
       "name": "Once a Day",
       "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Abilene",
+        "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
+      },
+      "artists": [
+        {
+          "name": "George Hamilton IV",
+          "url": "https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
     },
     {
       "added_at": "2026-02-11 22:45:47",

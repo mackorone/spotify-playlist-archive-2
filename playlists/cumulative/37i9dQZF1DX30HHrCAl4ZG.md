@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from feeble little horse
 
-2,180 songs - 5 day 3 hr 32 min
+2,181 songs - 5 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -779,6 +779,7 @@
 | [Gates of Heaven](https://open.spotify.com/track/21S8jPbABB05vCFFwuyXGS) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 2:22 | 2024-03-15 | 2024-06-15 |
 | [Gelato](https://open.spotify.com/track/58n2RzBcdATtC4dHuX21G1) | [Moxie](https://open.spotify.com/artist/4K2IUtmY2APWh6mdxzBOZF) | [Gelato](https://open.spotify.com/album/4bSFWzSi1Nsdcs0kvL6lz2) | 2:29 | 2022-06-10 | 2022-08-06 |
 | [Get A Good Look](https://open.spotify.com/track/0n74qdRV4WcfN2q0Z6HQrq) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Get A Good Look](https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD) | 4:12 | 2022-02-11 | 2022-04-10 |
+| [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W) | 2:48 | 2026-06-19 |  |
 | [Get back to me](https://open.spotify.com/track/3YxMOcoa7ogJlG4e6zyJwm) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Get back to me](https://open.spotify.com/album/6U8hWwjGntHu3thhtm0jGB) | 3:10 | 2025-04-18 | 2025-06-07 |
 | [Get By](https://open.spotify.com/track/0OGEM4oCMi280gucrdiNlH) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Werewolf](https://open.spotify.com/album/4LeD15SToHkoWTYGiVgFRQ) | 3:38 | 2026-03-06 |  |
 | [Get Down](https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Get Down](https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL) | 2:51 | 2021-07-19 | 2022-06-10 |

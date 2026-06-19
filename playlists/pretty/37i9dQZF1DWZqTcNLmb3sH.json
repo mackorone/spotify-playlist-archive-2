@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 69831,
+  "num_followers": 69840,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH8Zjx8KcflFHNVZG9c4b4y1QjlV",
+  "snapshot_id": "AAAAAPtIkA+e3qHVpZGW6YmwLEv4ZzZv",
   "tracks": [
     {
       "added_at": "2026-03-02 07:46:32",
@@ -123,6 +123,22 @@
       "duration_ms": 266590,
       "name": "Neenobbale (From \"Life Today (Kannada)\")",
       "url": "https://open.spotify.com/track/4k6yhERNSWuyBiqkCg4kQK"
+    },
+    {
+      "added_at": "2026-06-18 03:48:04",
+      "album": {
+        "name": "Maaye",
+        "url": "https://open.spotify.com/album/2gPHStaeEs6sWjh45UeafW"
+      },
+      "artists": [
+        {
+          "name": "Mysore Xpress",
+          "url": "https://open.spotify.com/artist/3z6Qc4vYphJb18Rr0jGHuC"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Maaye",
+      "url": "https://open.spotify.com/track/5Peit3m6hkYPSOohtGk0Wu"
     },
     {
       "added_at": "2026-06-10 09:20:06",
@@ -1681,58 +1697,6 @@
       "url": "https://open.spotify.com/track/112WN5qH3DjSgJflDj029X"
     },
     {
-      "added_at": "2026-02-16 11:43:55",
-      "album": {
-        "name": "Majako Mallika (From \"Kattalan\") [Kannada]",
-        "url": "https://open.spotify.com/album/2r34VSBnu9XiMH3bHmVUfL"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
-        },
-        {
-          "name": "Indu Nagaraj",
-          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
-        },
-        {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
-        }
-      ],
-      "duration_ms": 218059,
-      "name": "Majako Mallika (From \"Kattalan\") [Kannada]",
-      "url": "https://open.spotify.com/track/2VhWtXmqhtKHbVpVsf609z"
-    },
-    {
-      "added_at": "2026-02-16 11:47:18",
-      "album": {
-        "name": "Kaala Kelo (From \"Gatha Vaibhava\")",
-        "url": "https://open.spotify.com/album/233n0AtP0c08zO8qcr87uH"
-      },
-      "artists": [
-        {
-          "name": "Judah Sandhy",
-          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Simple Suni",
-          "url": "https://open.spotify.com/artist/2FOfBMh8JQNVyKGc3lJKrJ"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Kaala Kelo (From \"Gatha Vaibhava\")",
-      "url": "https://open.spotify.com/track/6fcyl9dRHSaAC5E6PbNvPd"
-    },
-    {
       "added_at": "2026-02-23 07:31:43",
       "album": {
         "name": "Chatha Pacha: The Ring Of Rowdies [KANNADA]",
@@ -1851,30 +1815,6 @@
       "duration_ms": 256181,
       "name": "Urulo Kalave (From \"Second Case Of Seetharam\")",
       "url": "https://open.spotify.com/track/6nrkV2WdFU1ndaGyVpD5x8"
-    },
-    {
-      "added_at": "2026-02-12 10:57:57",
-      "album": {
-        "name": "Higondu Manavi (From \"Maayavi\")",
-        "url": "https://open.spotify.com/album/11xq9eMgZpyI2aWWYHuHjs"
-      },
-      "artists": [
-        {
-          "name": "Agsthya Santhosh",
-          "url": "https://open.spotify.com/artist/01llkKtpYeJvgiKlsIRKA6"
-        },
-        {
-          "name": "Anand Kmsaagara",
-          "url": "https://open.spotify.com/artist/5IrEnqLSW76SqmnH3n2GKL"
-        },
-        {
-          "name": "Meghana Haliyal",
-          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
-        }
-      ],
-      "duration_ms": 245756,
-      "name": "Higondu Manavi (From \"Maayavi\")",
-      "url": "https://open.spotify.com/track/0Tg9xoPReNwwx60pxMrEjp"
     }
   ],
   "unique_name": "Latest Kannada",

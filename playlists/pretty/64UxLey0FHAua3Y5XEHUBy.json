@@ -1,12 +1,12 @@
 {
   "description": "Chilled songs to keep the mood nice and relaxed.",
-  "num_followers": 37835,
+  "num_followers": 37832,
   "original_name": "Bath Songs to Relax \ud83d\udec0",
   "owner": {
     "name": "Filtr Ireland",
     "url": "https://open.spotify.com/user/filtr.ie"
   },
-  "snapshot_id": "AAAMu3z5OjfXVKYajGyhndvy0oCsvWJC",
+  "snapshot_id": "AAAMvrffMKP8B9XAIJ4/jlnE9oBgWzAm",
   "tracks": [
     {
       "added_at": "2026-06-17 14:43:03",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-06-17 14:43:03",
       "album": {
+        "name": "Mystery of Love",
+        "url": "https://open.spotify.com/album/4wB3cRpb4YfnNyJORQe3Om"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 248960,
+      "name": "Mystery of Love",
+      "url": "https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy"
+    },
+    {
+      "added_at": "2026-06-17 14:43:03",
+      "album": {
         "name": "I GUESS I'M IN LOVE",
         "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2026-06-17 14:43:03",
       "album": {
-        "name": "Mystery of Love",
-        "url": "https://open.spotify.com/album/4wB3cRpb4YfnNyJORQe3Om"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248960,
-      "name": "Mystery of Love",
-      "url": "https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy"
-    },
-    {
-      "added_at": "2026-06-17 14:43:03",
-      "album": {
         "name": "Just The Beginning",
         "url": "https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex"
       },
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-06-17 14:43:03",
       "album": {
-        "name": "Girl on Fire (Remixes) - EP",
-        "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
+        "name": "In A Perfect World (Deluxe)",
+        "url": "https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
         }
       ],
-      "duration_ms": 224920,
-      "name": "Girl on Fire",
-      "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
+      "duration_ms": 230266,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS"
     },
     {
       "added_at": "2026-06-17 14:43:03",
@@ -1643,22 +1643,6 @@
       "duration_ms": 222294,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
-    },
-    {
-      "added_at": "2026-06-17 14:43:03",
-      "album": {
-        "name": "In A Perfect World (Deluxe)",
-        "url": "https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS"
     },
     {
       "added_at": "2026-06-17 14:43:03",

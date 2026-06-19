@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano,  Fito Páez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,841 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,751 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 49 | [El Son del Dolor](https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 4:00 |
 | 50 | [Tu Volverás](https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Monarca](https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw) | 4:43 |
 | 51 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 |
-| 52 | [Veneno Vil](https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:57 |
-| 53 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
+| 52 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
+| 53 | [Veneno Vil](https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:57 |
 | 54 | [Envenéname](https://open.spotify.com/track/5zixUJB0UpnKpYND6LFXzQ) | [Los Concorde](https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA) | [Envenéname](https://open.spotify.com/album/6aIFbmb0fLDE2nHQWnjPxH) | 3:45 |
 | 55 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 |
 | 56 | [Vida En El Espectro](https://open.spotify.com/track/1lLuaTXombvzIx89FMLBwN) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daños Luz](https://open.spotify.com/album/3J0M1SWFaen1h5Uiq9zdAy) | 3:51 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 89 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 |
 | 90 | [No sé](https://open.spotify.com/track/3f82CTFrfRUQcFnPcOBhU4) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:09 |
 | 91 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Vivir Así Es Morir de Amor](https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g) | 3:40 |
-| 92 | [¿Cuál Es La Razón?](https://open.spotify.com/track/5O25ttuejNIpjm2iUseOe5) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [¿Cuál Es La Razón?](https://open.spotify.com/album/4oiPAuBHtVJsjA8b2NEQlN) | 4:02 |
-| 93 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
+| 92 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
+| 93 | [¿Cuál Es La Razón?](https://open.spotify.com/track/5O25ttuejNIpjm2iUseOe5) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [¿Cuál Es La Razón?](https://open.spotify.com/album/4oiPAuBHtVJsjA8b2NEQlN) | 4:02 |
 | 94 | [No Olvidamos](https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [No Olvidamos](https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76) | 4:34 |
 | 95 | [Mala Junta](https://open.spotify.com/track/2RSsPZhvRHDYE3EHdrG3gh) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Mala Junta](https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP) | 2:54 |
 | 96 | [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 |

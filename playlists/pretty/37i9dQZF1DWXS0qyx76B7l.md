@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 
 > The greatest city on earth!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,475 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,569 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 16 | [No Sleep Till Brooklyn](https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 4:06 |
 | 17 | [Naked In Manhattan](https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:31 |
 | 18 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 |
-| 19 | [Human Nature](https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:05 |
-| 20 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
+| 19 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
+| 20 | [Human Nature](https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:05 |
 | 21 | [Ever Since New York](https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 4:13 |
 | 22 | [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 |
 | 23 | [New York](https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:32 |

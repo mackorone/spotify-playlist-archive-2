@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > El Malo del Bronx y su legado siempre estarán presentes\. DEP, Willie Colón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,238 likes - 125 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,236 likes - 125 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 45 | [Conciencia](https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [20th Anniversary](https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs) | 5:33 |
 | 46 | [Quiero Morir En Tu Piel](https://open.spotify.com/track/3t3jGDeU3t1ro51C3x2pPR) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 6:17 |
 | 47 | [Ese](https://open.spotify.com/track/23gGTtWSjeTx4HEnAfdCgW) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:31 |
-| 48 | [Y Nos Amamos](https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 3:49 |
+| 48 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
 | 49 | [Nuestro Sueño](https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:59 |
 | 50 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
 | 51 | [No Podras Escapar De Mi](https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:31 |
 | 52 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
-| 53 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
+| 53 | [Y Nos Amamos](https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 3:49 |
 | 54 | [Lobo Domesticado](https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Rodven Clasico: Tommy Olivencia Y Su Orquesta "30 Aniversario"](https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd) | 4:50 |
 | 55 | [Así Fue](https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Nelson Díaz y la Constelación](https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi) | 4:27 |
 | 56 | [Aquel Lugar](https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Búscame](https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj) | 3:51 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 70 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
 | 71 | [Vete Ya](https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:53 |
 | 72 | [Cara de Niño](https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP) | 4:55 |
-| 73 | [Se Parecio Tanto a Ti](https://open.spotify.com/track/1FjpX1UgBlhGJioQEe3vgT) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [La Danza de la Chancaca](https://open.spotify.com/album/4LLCCwFbIYh4nZ5JOxRntj) | 5:28 |
+| 73 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:02 |
 | 74 | [Quien Entiende Este Amor](https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Serie Platino](https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt) | 5:03 |
 | 75 | [Ese Hombre](https://open.spotify.com/track/0aT7slkUrMMGqe4ZVogNdy) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [40 Artistas Y Sus Super Exitos](https://open.spotify.com/album/40NLX6PJuMX9BU7WZkImIF) | 4:41 |
 | 76 | [Nadie Igual Que tu](https://open.spotify.com/track/1E04xyii2FtGyCiAWgbm9k) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Solo](https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP) | 5:44 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 112 | [Mentiras](https://open.spotify.com/track/728CsDZd1rsm5eRdrZJ8m9) | [Octava Dimensión](https://open.spotify.com/artist/4JUDKDD17O3mcDHAGuMgOr) | [Éxitos](https://open.spotify.com/album/01MeEGzKeOo4r7VgzCRF2L) | 5:31 |
 | 113 | [¿Cómo Fue?](https://open.spotify.com/track/7dbSNvhDTNugY9x44kzVwi) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Serie Platino](https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL) | 2:55 |
 | 114 | [Esa Mujer](https://open.spotify.com/track/3BFivPjhgVT1UQcqHMzv3Y) | [Alex León](https://open.spotify.com/artist/5u37PLxDgRiMbVE9Aq3LBG) | [Éxitos de Alex León](https://open.spotify.com/album/1IGREUlvpcv8dKVpcLYEBt) | 4:45 |
-| 115 | [Amor De Motel](https://open.spotify.com/track/3Y9xSA5xHyZWijtyWaVILT) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Amor de Motel](https://open.spotify.com/album/3x5qI3YV9ZwatyKtRtlpMO) | 3:38 |
-| 116 | [La Noche](https://open.spotify.com/track/4719W4pIdmaH0tawsJBeNf) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [La Noche](https://open.spotify.com/album/4BfxN7T83kFNWVzgxDaXJb) | 3:20 |
+| 115 | [La Noche](https://open.spotify.com/track/4719W4pIdmaH0tawsJBeNf) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [La Noche](https://open.spotify.com/album/4BfxN7T83kFNWVzgxDaXJb) | 3:20 |
+| 116 | [Amor De Motel](https://open.spotify.com/track/3Y9xSA5xHyZWijtyWaVILT) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Amor de Motel](https://open.spotify.com/album/3x5qI3YV9ZwatyKtRtlpMO) | 3:38 |
 | 117 | [No Vale La Pena](https://open.spotify.com/track/0Oz05r3yCJhTuxLVYGZyKT) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [Salsa Simply The Best](https://open.spotify.com/album/3v5dnePnBWVvNjDWjmRahA) | 5:52 |
 | 118 | [Yo Me Quedo](https://open.spotify.com/track/3EcMFQTZcP8kFMktRGil6z) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Serie Top Ten](https://open.spotify.com/album/4eSHFNnfeRtrKG4BCJOLGn) | 4:59 |
 | 119 | [Descarado](https://open.spotify.com/track/2JSpWYWDhAJBseyQ53jY3X) | [Mimi Ibarra](https://open.spotify.com/artist/4Kmpzdbr9avagzSHJy4hXG) | [A Una Mujer Como Yo](https://open.spotify.com/album/3GupURyIqXCYTSJyqYBicg) | 4:01 |

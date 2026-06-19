@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 46025,
+  "num_followers": 46028,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABbke+Fl5X1TWGTDaDtynrR",
+  "snapshot_id": "ajHjgAAAAAB/vlxTIwQxRqC1Ihi88UJ8",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/3gPYyyxIn2JBcnCVyz1NVP"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/5BuebQJbyQOAS4VFQ10KFn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 9",
         "url": "https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 207483,
       "name": "Alzypher Vol. 9",
       "url": "https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/3gPYyyxIn2JBcnCVyz1NVP"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/5BuebQJbyQOAS4VFQ10KFn"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Oportunidad",
-        "url": "https://open.spotify.com/album/73fsMmzD84KtQeKzL497C3"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 231111,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rosas y Serpientes",
         "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 270769,
       "name": "Rosas y Serpientes",
       "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Oportunidad",
+        "url": "https://open.spotify.com/album/73fsMmzD84KtQeKzL497C3"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG"
     },
     {
       "added_at": null,

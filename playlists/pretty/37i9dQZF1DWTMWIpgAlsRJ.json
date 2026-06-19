@@ -1,6 +1,6 @@
 {
   "description": "The Ultimate EA SPORTS FC USA Playlist: bringing together the sounds of the USA in celebration of The World's Game. Curated specially for you.",
-  "num_followers": 395013,
+  "num_followers": 395001,
   "original_name": "EA SPORTS FC Ultimate Mix: USA",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-06-12 10:00:24",
       "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 164188,
+      "name": "Bury Me Alive",
+      "url": "https://open.spotify.com/track/3sm9P6PgKzatTgyiyj0IzQ"
+    },
+    {
+      "added_at": "2026-06-12 10:00:24",
+      "album": {
         "name": "Beat Keep Rockin'",
         "url": "https://open.spotify.com/album/6qIpC1zUZJ1DqFbyMcQT6q"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 170387,
       "name": "Wrong Time",
       "url": "https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM"
-    },
-    {
-      "added_at": "2026-06-12 10:00:24",
-      "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 164188,
-      "name": "Bury Me Alive",
-      "url": "https://open.spotify.com/track/3sm9P6PgKzatTgyiyj0IzQ"
     },
     {
       "added_at": "2026-06-12 10:00:24",

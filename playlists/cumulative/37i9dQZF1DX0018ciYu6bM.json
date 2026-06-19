@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: LE SSERAFIM)",
+  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: aespa)",
   "name": "KimBops!",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 202203,
       "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
       "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
@@ -132,6 +132,24 @@
       "duration_ms": 152320,
       "name": "2 O' CLOCK",
       "url": "https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169929,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
     },
     {
       "album": {
@@ -2077,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "'PUREFLOW', Pt. 1",
+        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176546,
+      "name": "BOOMPALA",
+      "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
+    },
+    {
+      "album": {
         "name": "The 1st Mini Album 'Beam Of Prism'",
         "url": "https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2"
       },
@@ -2132,7 +2168,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
@@ -3266,7 +3302,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
@@ -3673,6 +3709,24 @@
     },
     {
       "album": {
+        "name": "BITE NOW",
+        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195935,
+      "name": "DDI RO RI",
+      "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
+    },
+    {
+      "album": {
         "name": "ddok ddok ddok",
         "url": "https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2"
       },
@@ -3756,7 +3810,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 144106,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/3BWXNAPGGWhCJwsOFolnBB"
@@ -4354,7 +4408,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
@@ -6417,6 +6471,24 @@
     },
     {
       "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182046,
+      "name": "Hooligan",
+      "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
+    },
+    {
+      "album": {
         "name": "HOP ON THE TRUCK",
         "url": "https://open.spotify.com/album/2J08TOk3wMgXL5mKeRrjLE"
       },
@@ -7126,6 +7198,32 @@
       "duration_ms": 179240,
       "name": "ICKY",
       "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
+    },
+    {
+      "album": {
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177982,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
     },
     {
       "album": {
@@ -8095,6 +8193,24 @@
     },
     {
       "album": {
+        "name": "LEMONADE - The 2nd Album",
+        "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
+    },
+    {
+      "album": {
         "name": "LEMONADE",
         "url": "https://open.spotify.com/album/1hoTXn3AIaMB4SWG4wL0mn"
       },
@@ -8214,7 +8330,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 168358,
       "name": "LIKE THAT",
       "url": "https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc"
@@ -8840,7 +8956,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 194765,
       "name": "Lovesick Girls",
       "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
@@ -9194,7 +9310,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 199026,
       "name": "Maria",
       "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
@@ -9660,6 +9776,28 @@
       "duration_ms": 212403,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/5QzjOeD7eXFZpVVyVC7ls2"
+    },
+    {
+      "album": {
+        "name": "4SHOBOIZ Vol. 2: 4SHOVILLE",
+        "url": "https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251669,
+      "name": "MOYA",
+      "url": "https://open.spotify.com/track/1ACzcLe7HPprJQng3lu6qQ"
     },
     {
       "album": {
@@ -10934,7 +11072,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 152400,
       "name": "plot twist",
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
@@ -11552,7 +11690,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 197578,
       "name": "Rich Man",
       "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw"
@@ -13742,6 +13880,42 @@
       "duration_ms": 233031,
       "name": "Sudden Shower",
       "url": "https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq"
+    },
+    {
+      "album": {
+        "name": "I.O.I 3rd MINI ALBUM [I.O.I : LOOP]",
+        "url": "https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp"
+      },
+      "artists": [
+        {
+          "name": "I.O.I",
+          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
+    },
+    {
+      "album": {
+        "name": "SUGAR HONEY ICE TEA",
+        "url": "https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178032,
+      "name": "SUGAR HONEY ICE TEA",
+      "url": "https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD"
     },
     {
       "album": {
@@ -16958,6 +17132,28 @@
       "duration_ms": 154852,
       "name": "Y.O.Universe",
       "url": "https://open.spotify.com/track/0es6ZsB0mFqnCAAMCHjVUO"
+    },
+    {
+      "album": {
+        "name": "4SHOBOIZ Vol. 2: 4SHOVILLE",
+        "url": "https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184202,
+      "name": "YEAH! YEAH!",
+      "url": "https://open.spotify.com/track/7vmq3Ukd8csLDpCvoOM9Do"
     },
     {
       "album": {

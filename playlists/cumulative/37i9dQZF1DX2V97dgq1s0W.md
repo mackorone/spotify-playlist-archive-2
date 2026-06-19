@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The voices shaping R&B\. Cover: DAMEDAME\*
+> The voices shaping R&B\. Cover: Ama
 
-632 songs - 1 day 9 hr 38 min
+634 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [ASMR](https://open.spotify.com/track/3j1Vy6c6Ii9WZMbToQLLPX) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:05 | 2023-07-21 | 2024-02-28 |
 | [Attendance](https://open.spotify.com/track/2pYjR9TqU2gCma5jk3S2wD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Hue](https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh) | 2:29 | 2025-08-07 | 2026-01-15 |
 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 | 2024-07-24 | 2025-02-21 |
+| [Aura \(feat\. Bryson Tiller\)](https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [AMA](https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB) | 4:00 | 2026-06-18 |  |
 | [Automatic](https://open.spotify.com/track/1rQeZ0Tpmm78r2zfjunoiV) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Automatic](https://open.spotify.com/album/4WbNR7vcKMrVIfKCu1u9ao) | 3:23 | 2025-04-25 | 2025-10-10 |
 | [Avant l'hiver](https://open.spotify.com/track/3hR5jexZmKeAFwtNfzlTzt) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/0Tbzb4NTozmXoJ0nJLFpxj) | 4:29 | 2024-05-31 | 2024-10-04 |
 | [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 | 2023-10-27 | 2024-01-26 |
@@ -113,6 +114,7 @@
 | [Closure](https://open.spotify.com/track/487C5rvchmcP1p2YzzRw5Z) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Closure](https://open.spotify.com/album/6InOh4KLVmqBTYMJx8vtRp) | 3:36 | 2024-06-14 | 2024-09-13 |
 | [Come Find Me](https://open.spotify.com/track/2JXhIOii8XvolNWAZuQtuH) | [Liét](https://open.spotify.com/artist/1ES79pFtKmov7q67DnoxXI) | [Come Find Me](https://open.spotify.com/album/0GEimT8iHZ2si6ZoEx5M4M) | 2:26 | 2024-07-24 | 2024-10-11 |
 | [Come Home](https://open.spotify.com/track/51YSHFD4wFUjUkafKlPuuV) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF) | [Come Home](https://open.spotify.com/album/7Gz1S0Pnz6FrH80PZNWpoI) | 3:48 | 2025-09-11 | 2026-01-15 |
+| [Comets + Gold](https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Comets + Gold](https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W) | 3:08 | 2026-06-18 |  |
 | [Conversation](https://open.spotify.com/track/20L7PliDhO2c0mvoeDXu04) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Conversation](https://open.spotify.com/album/2fcA8uAebc2l0T4xNt8qof) | 3:43 | 2026-04-24 |  |
 | [couture](https://open.spotify.com/track/391NOaXhF0TrlCgwDu3T5V) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [couture](https://open.spotify.com/album/4b1pJ5a1P2JnpstHQLDQ3c) | 2:33 | 2026-01-16 | 2026-04-17 |
 | [Crack The Code](https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Crack The Code](https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q) | 3:00 | 2026-04-30 |  |
@@ -125,7 +127,7 @@
 | [CUFF IT \- WETTER REMIX](https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [CUFF IT](https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs) | 4:09 | 2023-02-23 | 2024-01-26 |
 | [Cumulus / Memory](https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Cumulus / Memory](https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN) | 6:47 | 2025-10-23 | 2026-01-23 |
 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 4:04 | 2023-02-23 | 2023-05-15 |
-| [D'ANGELO'S JOINT](https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [D'ANGELO'S JOINT](https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN) | 2:43 | 2026-02-13 |  |
+| [D'ANGELO'S JOINT](https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [D'ANGELO'S JOINT](https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN) | 2:43 | 2026-02-13 | 2026-06-19 |
 | [Damage Control](https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:30 | 2025-09-04 | 2026-03-27 |
 | [Dance Again](https://open.spotify.com/track/1Da22brPeT2yJYp8nWCduw) | [Hunnah](https://open.spotify.com/artist/5ALJQTH4K9eghzib4UhiqV) | [Dance Again](https://open.spotify.com/album/5KGdvqy1ARUVQ1lFW3Dw9N) | 1:24 | 2023-02-23 | 2023-08-19 |
 | [Dangerous](https://open.spotify.com/track/1YC84NEeg2zJgt3HqPdadI) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [Aura](https://open.spotify.com/album/30zwrucTjzd3gRt5AoFLqM) | 2:55 | 2025-06-19 | 2025-10-10 |
@@ -335,7 +337,7 @@
 | [Losing Game](https://open.spotify.com/track/2jCdu3IUpkc7k7G0e7EdJI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 2:52 | 2026-04-09 |  |
 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 | 2023-03-02 | 2023-07-22 |
 | [lost a friend](https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:45 | 2023-05-14 | 2023-07-22 |
-| [Lost in Time](https://open.spotify.com/track/6ZSiSHgQAZN1lb8EmXq6GC) | [KADEEM.](https://open.spotify.com/artist/2KOtFfPdagAn97jW4iuHYj), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Highs + Lows](https://open.spotify.com/album/5npoDB704U42Vvepcogk7c) | 3:41 | 2026-02-20 |  |
+| [Lost in Time](https://open.spotify.com/track/6ZSiSHgQAZN1lb8EmXq6GC) | [KADEEM.](https://open.spotify.com/artist/2KOtFfPdagAn97jW4iuHYj), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Highs + Lows](https://open.spotify.com/album/5npoDB704U42Vvepcogk7c) | 3:41 | 2026-02-20 | 2026-06-19 |
 | [Lost In You](https://open.spotify.com/track/6mjAfjlIvfn21hYhwP4Inl) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [DB](https://open.spotify.com/album/1qDR2PRt1HHWWHDrLW4r1j) | 4:00 | 2025-08-28 | 2026-03-20 |
 | [Lost The Meaning](https://open.spotify.com/track/0AJJW4gxuxDki9ld3UtA1x) | [Cairo](https://open.spotify.com/artist/5LWNwtr2tqdczvrqd68kzF) | [Double Love](https://open.spotify.com/album/3VdixbSw3C1N3iX3YKTWxO) | 3:29 | 2024-09-26 | 2025-05-02 |
 | [Love Again](https://open.spotify.com/track/6ZwNOYjJ06J77YF1ggXtaT) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 2:34 | 2023-02-23 | 2023-05-15 |

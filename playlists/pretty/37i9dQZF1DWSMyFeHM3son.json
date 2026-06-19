@@ -1,6 +1,6 @@
 {
   "description": "you look so cool. Cover: The 1975",
-  "num_followers": 171764,
+  "num_followers": 171772,
   "original_name": "reblog",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-06-23 15:40:57",
       "album": {
-        "name": "deadroses",
-        "url": "https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 245172,
-      "name": "idfc",
-      "url": "https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr"
-    },
-    {
-      "added_at": "2025-06-23 15:40:57",
-      "album": {
         "name": "The Heart Wants What It Wants",
         "url": "https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 227373,
       "name": "The Heart Wants What It Wants",
       "url": "https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA"
+    },
+    {
+      "added_at": "2025-06-23 15:40:57",
+      "album": {
+        "name": "deadroses",
+        "url": "https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 245172,
+      "name": "idfc",
+      "url": "https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr"
     },
     {
       "added_at": "2025-06-23 15:40:57",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-06-23 15:40:57",
       "album": {
-        "name": "Greatest Hits: God's Favorite Band",
-        "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Boulevard of Broken Dreams",
-      "url": "https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd"
-    },
-    {
-      "added_at": "2025-06-23 15:40:57",
-      "album": {
         "name": "Blurryface",
         "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 234813,
       "name": "Heavydirtysoul",
       "url": "https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy"
+    },
+    {
+      "added_at": "2025-06-23 15:40:57",
+      "album": {
+        "name": "Greatest Hits: God's Favorite Band",
+        "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd"
     },
     {
       "added_at": "2025-06-23 15:40:57",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-06-23 15:40:57",
       "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 204811,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
-    },
-    {
-      "added_at": "2025-06-23 15:40:57",
-      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 235546,
       "name": "Under Cover of Darkness",
       "url": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c"
+    },
+    {
+      "added_at": "2025-06-23 15:40:57",
+      "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 204811,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
     },
     {
       "added_at": "2025-06-23 15:40:57",

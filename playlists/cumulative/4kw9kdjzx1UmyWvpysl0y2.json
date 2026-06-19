@@ -8149,6 +8149,24 @@
     },
     {
       "album": {
+        "name": "End of the Universe",
+        "url": "https://open.spotify.com/album/6sHp3WiM6GvWx1sTrl2bxb"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252659,
+      "name": "find cagescript",
+      "url": "https://open.spotify.com/track/1zPfLq3eoKm2auisFPCIxS"
+    },
+    {
+      "album": {
         "name": "Find Peace",
         "url": "https://open.spotify.com/album/4mEiJ27tKr9qzVqO8QaaPp"
       },
@@ -21246,6 +21264,32 @@
       "duration_ms": 148943,
       "name": "stranger",
       "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
+    },
+    {
+      "album": {
+        "name": "stranger (xander. Remix)",
+        "url": "https://open.spotify.com/album/6qK04VkvlZe3qc0gExAVbc"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Ehiorobo",
+          "url": "https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126750,
+      "name": "stranger - xander. Remix",
+      "url": "https://open.spotify.com/track/3CKGwPqbohJvtLp4L3nG7j"
     },
     {
       "album": {

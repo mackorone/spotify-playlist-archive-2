@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-232 songs - 20 hr 38 min
+233 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Gum si meri Parchhayi](https://open.spotify.com/track/2onUkx3QJFXINeiBSGSGQR) | [Srinath Nair](https://open.spotify.com/artist/3vkDnAk0pP3gPUuHTpIqBy) | [Gum Si Meri Parchhayi](https://open.spotify.com/album/2AeIh4w4O0pUMy7ksBjzUR) | 4:58 | 2023-09-15 | 2024-03-06 |
 | [Gumshuda](https://open.spotify.com/track/29Av2mRoqWqApghX2BmhdA) | [Anindito Paul](https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6) | [Gumshuda](https://open.spotify.com/album/4lEWszwJldkVUZigfwccng) | 3:48 | 2023-07-19 | 2025-01-01 |
 | [Gumshuda](https://open.spotify.com/track/43sashI4VkUAwNRNxY7r4Y) | [Anindito Paul](https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6) | [Gumshuda](https://open.spotify.com/album/0WZW8fuex9rJLsHILJVii7) | 3:48 | 2024-02-15 | 2024-04-19 |
-| [Guzra Hua Ye Waqt](https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Guzra Hua Ye Waqt](https://open.spotify.com/album/5Nuh0UAq2yKV2rpQMvGmWt) | 4:46 | 2025-02-11 |  |
+| [Guzra Hua Ye Waqt](https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Guzra Hua Ye Waqt](https://open.spotify.com/album/5Nuh0UAq2yKV2rpQMvGmWt) | 4:46 | 2025-02-11 | 2026-06-19 |
 | [Haathon Ki Lakeeron](https://open.spotify.com/track/0TTtI4F67M8Sw82uKtdGia) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/2d3k3BF0zEDZxdRTs64fze) | 7:24 | 2023-05-19 | 2025-01-01 |
 | [Haathon Ki Lakeeron](https://open.spotify.com/track/0n9MV72hcWle7aWcNBZhDA) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/6rXD5EMeUVlTAFviAa6GOy) | 7:24 | 2024-02-15 | 2024-04-19 |
 | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/50BxNNhj65O32shF7cpKEn) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Hai Isi Mein Pyar Ki Aabru \- Arpita Chakraborty](https://open.spotify.com/album/0HPrmIfIqqYpz3sumFDtGW) | 3:43 | 2024-04-18 | 2026-06-13 |
@@ -171,6 +171,7 @@
 | [Nazar Se Nazar](https://open.spotify.com/track/18qRYNyocCEiPgLQYJi2hO) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Nazar Se Nazar](https://open.spotify.com/album/4CIgjHLyDcZwK24lxDpqrM) | 4:55 | 2024-02-09 | 2024-04-19 |
 | [Nazron Se Chhua Tujhko](https://open.spotify.com/track/1kSkRX3oCgLhKSECJt7xD8) | [Arnab Chatterjee](https://open.spotify.com/artist/09JP2V8f4eiUj3glbfFJSC) | [Nazron Se Chhua Tujhko](https://open.spotify.com/album/2N4hSIfFxjPI6yZ6WNgv4v) | 5:19 | 2026-01-22 | 2026-06-14 |
 | [Pahle Dil Ko \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/3h6BgkcUhYK28dBs6Ta7iw) | [Meenal Jain](https://open.spotify.com/artist/0DoAmjaArtujfigIshqsj6) | [Pahle Dil Ko \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/3xTZsfjAsnNnELuRQYYFFZ) | 4:52 | 2024-02-09 | 2026-04-16 |
+| [Pahli Niha](https://open.spotify.com/track/5jF3y8tm4rQ47k8KVRtqm5) | [Prithvi Gandharv](https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Ankit Gautam](https://open.spotify.com/artist/2RU2O5VsZLgL7ORMNQkh9u) | [Pahli Niha](https://open.spotify.com/album/28KOgnAwUAQ2iZk4zvLMpR) | 5:28 | 2026-06-16 |  |
 | [Para Para Hua](https://open.spotify.com/track/6cSrBzC2LM0KjsxRI83mik) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali the Ghazal Maestro](https://open.spotify.com/album/6WtcRp4M2WaSBX3hza6efS) | 3:48 | 2021-12-01 | 2022-07-29 |
 | [Para Para Hua](https://open.spotify.com/track/4oCvl7Jdbm7yNVoLohUHOV) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghazal \- For The First Time Together \- Vol \- 1](https://open.spotify.com/album/5Hdhdp7Ouuz4c6lROJCofW) | 3:53 | 2022-11-09 | 2022-11-13 |
 | [Para Para Hua](https://open.spotify.com/track/6sjMz9ZnmYzn6bRBHiMQG7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 3:53 | 2022-07-26 | 2023-05-20 |

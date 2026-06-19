@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,089 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,086 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 8 | [La Boca \- Remix](https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [La Boca \(Remix\)](https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ) | 3:08 |
 | 9 | [Aventura](https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:37 |
 | 10 | [Ella \- Remix](https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Ella \(Remix\)](https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH) | 5:30 |
-| 11 | [Cuando Sera](https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 2:56 |
-| 12 | [El Favor \(with Nicky Jam & Sech, feat\. Farruko, Zion & Lunay\)](https://open.spotify.com/track/684EjRHwNsZQ9hCQxL4NYL) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Favor \(with Nicky Jam & Sech, feat\. Farruko, Zion & Lunay\)](https://open.spotify.com/album/28561uZztshyZSVG6ElL62) | 3:53 |
+| 11 | [El Favor \(with Nicky Jam & Sech, feat\. Farruko, Zion & Lunay\)](https://open.spotify.com/track/684EjRHwNsZQ9hCQxL4NYL) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Favor \(with Nicky Jam & Sech, feat\. Farruko, Zion & Lunay\)](https://open.spotify.com/album/28561uZztshyZSVG6ElL62) | 3:53 |
+| 12 | [Cuando Sera](https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 2:56 |
 | 13 | [Ojalá](https://open.spotify.com/track/6Crk5GPplILAw0vUiEILuD) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Ojalá](https://open.spotify.com/album/7BDD1ypAILYMZMYPPEqDaG) | 4:11 |
 | 14 | [VUDÚ](https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:51 |
 | 15 | [Victoria](https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Victoria](https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 49 | [360](https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 2:56 |
 | 50 | [Si Te Vas Conmigo](https://open.spotify.com/track/3KxiuTv3b3HqmmqsKrGNVI) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Si Te Vas Conmigo](https://open.spotify.com/album/6AAlu0DqcjBVH2bkJZoInM) | 2:40 |
 
-Snapshot ID: `ajCSAAAAAABvxDYtVk4Ez2t9mJnfprdv`
+Snapshot ID: `ajHjgAAAAAAG3mMCh+m+gBoFIuavORpU`

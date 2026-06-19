@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 
 > Instant classics from over the years loaded into one sweet mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,872,408 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,872,203 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 2 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
 | 3 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
-| 4 | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:57 |
-| 5 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
+| 4 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
+| 5 | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:57 |
 | 6 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 | 7 | [Use Somebody](https://open.spotify.com/track/3XXaCFZD3dcik18uJYs9fA) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Use Somebody](https://open.spotify.com/album/1uWEXc1yoSNuS3jfUbNWyC) | 3:08 |
 | 8 | [Snow \(Hey Oh\)](https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 5:34 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 | 29 | [Breakeven](https://open.spotify.com/track/38xWaVFKaxZlMFvzNff2aW) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) | 4:21 |
 | 30 | [Shiver](https://open.spotify.com/track/0qksx8mV28lztYIZ1om8ml) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 5:04 |
 | 31 | [Thinking out Loud](https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:41 |
-| 32 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 |
-| 33 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 |
+| 32 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 |
+| 33 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 |
 | 34 | [100 Years](https://open.spotify.com/track/2lFlveK1y13WWp3vnQtrr3) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [The Battle for Everything](https://open.spotify.com/album/6RWEJvVwr8aCQfRchRhjMq) | 4:04 |
 | 35 | [Sympathy](https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Gutterflower](https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M) | 2:58 |
 | 36 | [The A Team](https://open.spotify.com/track/1XpYodsD36XN7ygcdF7mJJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 4:18 |

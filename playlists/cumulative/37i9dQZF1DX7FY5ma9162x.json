@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The tracks you can put on repeat all day. Cover: GIV\u0112ON",
+  "description": "The tracks you can put on repeat all day. Cover: Bryson Tiller",
   "name": "R&B Favourites",
   "tracks": [
     {
@@ -5965,6 +5965,24 @@
     },
     {
       "album": {
+        "name": "Solace & The Vices",
+        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157992,
+      "name": "I Need Her",
+      "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
+    },
+    {
+      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/6s7HRm64PADLQNw2mUYUm5"
       },
@@ -8544,7 +8562,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 186009,
       "name": "Obvious",
       "url": "https://open.spotify.com/track/7xSS8JxxHbQRjH5TNBw36H"
@@ -8934,7 +8952,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 188579,
       "name": "Outside",
       "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
@@ -10128,7 +10146,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 215178,
       "name": "Residuals",
       "url": "https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7"

@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-266 songs - 22 hr 46 min
+267 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bye Bye Blackbird \- Live](https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Bye Bye Blackbird \(Live\)](https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE) | 7:02 | 2022-02-10 | 2025-11-22 |
 | [Came and Went](https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR) | [Geoffrey Dean](https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE) | [Came and Went](https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j) | 5:35 | 2025-01-31 | 2025-11-08 |
 | [Casual – Lee](https://open.spotify.com/track/1eAdHNRLWded0ioKpyIbgi) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Casual \- Lee](https://open.spotify.com/album/3pyn1EAOOmVzAQbn4ckGbh) | 6:37 | 2026-02-06 | 2026-03-10 |
-| [central park west](https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [central park west](https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG) | 4:28 | 2024-01-26 |  |
+| [central park west](https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [central park west](https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG) | 4:28 | 2024-01-26 | 2026-06-19 |
 | [central park west](https://open.spotify.com/track/5jPy6437F28samqS2tJu7n) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [nublues](https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q) | 4:28 | 2024-02-20 | 2024-04-19 |
 | [Chalcedon](https://open.spotify.com/track/4SRS9WPIKQ2utUk5ojd4XY) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Alternate Summer](https://open.spotify.com/album/1zebikSXM9BKeiO56EL71C) | 6:16 | 2024-08-23 | 2024-09-13 |
 | [Cherry Coffee](https://open.spotify.com/track/0Y9UzlQjWC5a10L9Gmo4KB) | [James Butler](https://open.spotify.com/artist/5BVCx8PM4yCayPORiTmmgA) | [Coffee & Jazz](https://open.spotify.com/album/3L7Nkvi8EWJqDNaczof0u9) | 2:21 | 2024-05-31 | 2024-06-12 |
@@ -168,6 +168,7 @@
 | [Parks Lope](https://open.spotify.com/track/0SPP6x0Ss25Ulwfsj4cFrg) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Parks Lope](https://open.spotify.com/album/2nhIT2pL2ksz0enUCRYudn) | 5:08 | 2025-09-12 | 2026-01-17 |
 | [Peaceful Paranoia](https://open.spotify.com/track/2oTKvPW7xQCJArXNDDfJd6) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Peaceful Paranoia](https://open.spotify.com/album/3kNuLBmAPGG41sQtAj29Ph) | 4:25 | 2021-12-21 |  |
 | [Peaceful Paranoia](https://open.spotify.com/track/1P9zMTrGMBPTDr0A4MU7cd) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Times Revisited](https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM) | 4:25 | 2022-06-30 | 2024-04-19 |
+| [PEARL](https://open.spotify.com/track/33E2bU4xRVvjuc6Y4dtk5k) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [PEARL](https://open.spotify.com/album/0gfmzQ2h5XslfUtAZKm4oj) | 3:51 | 2026-06-19 |  |
 | [Play The 4th Prime](https://open.spotify.com/track/3HpW5YWatfVXULfzQAEXms) | [Barrett Martin Group](https://open.spotify.com/artist/0m2tJDhw7jrEj9qjVxIWRK) | [Transcendence](https://open.spotify.com/album/6gAtbVMWzbdLKhDR0Kblm2) | 4:24 | 2021-12-21 | 2022-09-28 |
 | [PRAYER](https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [PRAYER](https://open.spotify.com/album/1pR1odHigDWvudMQgYMrhs) | 7:45 | 2022-04-14 | 2023-02-16 |
 | [Prelude to a Kiss](https://open.spotify.com/track/5Z9BMdHdZVOX5GXUtzaxr3) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 7:14 | 2022-02-10 | 2023-02-08 |

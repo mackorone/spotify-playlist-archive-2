@@ -464,6 +464,32 @@
     {
       "album": {
         "name": "Freedom",
+        "url": "https://open.spotify.com/album/7u2n5mIicMVuI9g1Pg7jMt"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        },
+        {
+          "name": "Oneskript",
+          "url": "https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2xxh6dcKTUvMdC5LyvHD5d"
+    },
+    {
+      "album": {
+        "name": "Freedom",
         "url": "https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9"
       },
       "artists": [
@@ -482,7 +508,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 160500,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532"
@@ -1028,7 +1054,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 237669,
       "name": "Melody",
       "url": "https://open.spotify.com/track/0QDzvCDTphXN4P0waDbWRS"
@@ -1656,7 +1682,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 192844,
       "name": "WAY",
       "url": "https://open.spotify.com/track/0lRn3p4Vo8j6tzJ6m49sRA"

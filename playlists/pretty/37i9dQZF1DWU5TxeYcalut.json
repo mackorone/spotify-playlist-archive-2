@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Azymuth",
-  "num_followers": 163510,
+  "num_followers": 163504,
   "original_name": "Jazz BR",
   "owner": {
     "name": "Spotify",
@@ -471,34 +471,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Tutu",
-        "url": "https://open.spotify.com/album/5tkAxQfIAESg769YqmhD9E"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Pinheiro",
-          "url": "https://open.spotify.com/artist/3OXQ3e6cnm6HYisXCRpPRV"
-        },
-        {
-          "name": "Nicolas Correa",
-          "url": "https://open.spotify.com/artist/02nidPTL0cY85yB3Ojlcer"
-        },
-        {
-          "name": "Pablo Gim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0yFBbk3AXlFjyooa8aBb3b"
-        },
-        {
-          "name": "Rodrigo Balduino",
-          "url": "https://open.spotify.com/artist/4b4AdGBWHhVXtIIaRKY0eh"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/4DeBe2DKjYutgq1upkkRlL"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Doralice",
         "url": "https://open.spotify.com/album/0xXz4ehuh3vm7NDqPucrjY"
       },
@@ -523,6 +495,34 @@
       "duration_ms": 148506,
       "name": "Doralice - Live at Copenhagen Jazzhouse, 2001.",
       "url": "https://open.spotify.com/track/65YeHWDxAqeK1KcanRj2hH"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Tutu",
+        "url": "https://open.spotify.com/album/5tkAxQfIAESg769YqmhD9E"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Pinheiro",
+          "url": "https://open.spotify.com/artist/3OXQ3e6cnm6HYisXCRpPRV"
+        },
+        {
+          "name": "Nicolas Correa",
+          "url": "https://open.spotify.com/artist/02nidPTL0cY85yB3Ojlcer"
+        },
+        {
+          "name": "Pablo Gim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0yFBbk3AXlFjyooa8aBb3b"
+        },
+        {
+          "name": "Rodrigo Balduino",
+          "url": "https://open.spotify.com/artist/4b4AdGBWHhVXtIIaRKY0eh"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/4DeBe2DKjYutgq1upkkRlL"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -739,34 +739,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "K\u00e2ndra",
-        "url": "https://open.spotify.com/album/6B8497B5HQZv2Shd7AOn0w"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Rodrigo Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
-        },
-        {
-          "name": "Sergio Reze",
-          "url": "https://open.spotify.com/artist/2lhvaGqyRI693ex3hNNW6E"
-        },
-        {
-          "name": "Z\u00e9 Godoy",
-          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
-        }
-      ],
-      "duration_ms": 460190,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/7eNAye3KKT13agV313oImc"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Sincronia",
         "url": "https://open.spotify.com/album/6CTxoODL8KCHRg4HLuLmo0"
       },
@@ -791,6 +763,34 @@
       "duration_ms": 395219,
       "name": "Feira de Mangaio",
       "url": "https://open.spotify.com/track/0GZ5ZjDvAK0axUAFVDnHNK"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "K\u00e2ndra",
+        "url": "https://open.spotify.com/album/6B8497B5HQZv2Shd7AOn0w"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Rodrigo Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
+        },
+        {
+          "name": "Sergio Reze",
+          "url": "https://open.spotify.com/artist/2lhvaGqyRI693ex3hNNW6E"
+        },
+        {
+          "name": "Z\u00e9 Godoy",
+          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
+        }
+      ],
+      "duration_ms": 460190,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/7eNAye3KKT13agV313oImc"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "From Rio",
+        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
+      },
+      "artists": [
+        {
+          "name": "Marcio Riscado",
+          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
+        }
+      ],
+      "duration_ms": 126647,
+      "name": "From Rio",
+      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/7HjEJgEOH5yFNPLERzLOMg"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 266538,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/53wgkplpSRXUvtW3YQscTc"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "From Rio",
-        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
-      },
-      "artists": [
-        {
-          "name": "Marcio Riscado",
-          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
-        }
-      ],
-      "duration_ms": 126647,
-      "name": "From Rio",
-      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Gunnarssons",
+        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 251417,
+      "name": "Gunnarssons",
+      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "EIN 002 \u2013 Debora Gurgel, Vanessa Ferreira, Vera Figueiredo",
         "url": "https://open.spotify.com/album/2DmxRJXJkrxeX5Mon0hcJO"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 364822,
       "name": "NUNCA SAI DE MODA",
       "url": "https://open.spotify.com/track/2mMNQeblz797f79e1qe8Th"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Gunnarssons",
-        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 251417,
-      "name": "Gunnarssons",
-      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Plural",
-        "url": "https://open.spotify.com/album/7yhJD2xhtcfAterNjKzUI5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Grossi",
-          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
-        },
-        {
-          "name": "Anat Cohen",
-          "url": "https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH"
-        }
-      ],
-      "duration_ms": 492946,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/2Q7LRFy26mBMhpMNjV3u31"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "When the Answer Is a Question",
         "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
       },
@@ -1235,18 +1215,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Can\u00e7\u00e3o da Odalisca",
-        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
+        "name": "Plural",
+        "url": "https://open.spotify.com/album/7yhJD2xhtcfAterNjKzUI5"
       },
       "artists": [
         {
-          "name": "Caetano Brasil",
-          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
+          "name": "Gabriel Grossi",
+          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
+        },
+        {
+          "name": "Anat Cohen",
+          "url": "https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH"
         }
       ],
-      "duration_ms": 365120,
-      "name": "Can\u00e7\u00e3o da Odalisca",
-      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
+      "duration_ms": 492946,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/2Q7LRFy26mBMhpMNjV3u31"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1291,6 +1275,22 @@
       "duration_ms": 334890,
       "name": "Serena",
       "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Can\u00e7\u00e3o da Odalisca",
+        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
+      },
+      "artists": [
+        {
+          "name": "Caetano Brasil",
+          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
+        }
+      ],
+      "duration_ms": 365120,
+      "name": "Can\u00e7\u00e3o da Odalisca",
+      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1399,6 +1399,30 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Experimento 1",
+        "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
+      },
+      "artists": [
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        },
+        {
+          "name": "Kab\u00e9 Pinheiro",
+          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
+        },
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        }
+      ],
+      "duration_ms": 576170,
+      "name": "Experimento 1",
+      "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Boa Not\u00edcia",
         "url": "https://open.spotify.com/album/23rv5VhO6TwM24YCe74SYj"
       },
@@ -1431,30 +1455,6 @@
       "duration_ms": 261073,
       "name": "L\u00e2mina",
       "url": "https://open.spotify.com/track/78lwAylCLHLfhC21j96FGt"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Experimento 1",
-        "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
-      },
-      "artists": [
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        },
-        {
-          "name": "Kab\u00e9 Pinheiro",
-          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
-        },
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        }
-      ],
-      "duration_ms": 576170,
-      "name": "Experimento 1",
-      "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1507,26 +1507,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Posl\u00fadio",
-        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
+        "name": "Domingo 27/09",
+        "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
       },
       "artists": [
         {
-          "name": "Henrique Mota",
-          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
         },
         {
-          "name": "Neto de Souza",
-          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
-        },
-        {
-          "name": "Ivan Lopes",
-          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
+          "name": "Edu Ribeiro Trio",
+          "url": "https://open.spotify.com/artist/6QNvvDRH7pvXLT6P9BbrYp"
         }
       ],
-      "duration_ms": 451777,
-      "name": "Posl\u00fadio",
-      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
+      "duration_ms": 502746,
+      "name": "Domingo 27/09",
+      "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1551,22 +1547,26 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Domingo 27/09",
-        "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
+        "name": "Posl\u00fadio",
+        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
       },
       "artists": [
         {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+          "name": "Henrique Mota",
+          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
         },
         {
-          "name": "Edu Ribeiro Trio",
-          "url": "https://open.spotify.com/artist/6QNvvDRH7pvXLT6P9BbrYp"
+          "name": "Neto de Souza",
+          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
+        },
+        {
+          "name": "Ivan Lopes",
+          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
         }
       ],
-      "duration_ms": 502746,
-      "name": "Domingo 27/09",
-      "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
+      "duration_ms": 451777,
+      "name": "Posl\u00fadio",
+      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1607,6 +1607,42 @@
       "duration_ms": 300659,
       "name": "Fugindo do Sete",
       "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Hubert",
+        "url": "https://open.spotify.com/album/0i3T8nQCsb0ZzDDHhDcYe7"
+      },
+      "artists": [
+        {
+          "name": "Deusnir Souza",
+          "url": "https://open.spotify.com/artist/59jGIR233F2cJnH0upbg0I"
+        },
+        {
+          "name": "Bruninho Nunes",
+          "url": "https://open.spotify.com/artist/7AJ1joFeNqympvdsW4Wbcn"
+        },
+        {
+          "name": "Cleverson Silva",
+          "url": "https://open.spotify.com/artist/7I3feFPmFfXc1CizAxRJZ5"
+        },
+        {
+          "name": "Felipe Pizzutiello",
+          "url": "https://open.spotify.com/artist/5SMZhM9utd5OSNF3d9GP7e"
+        },
+        {
+          "name": "Guto Boc\u00e3o",
+          "url": "https://open.spotify.com/artist/76aaHmGR0qLFMOdpmo1Hg1"
+        },
+        {
+          "name": "Jorginho Neto",
+          "url": "https://open.spotify.com/artist/7GuU9MWqXNdmV3DUKTm4D0"
+        }
+      ],
+      "duration_ms": 263694,
+      "name": "Hubert",
+      "url": "https://open.spotify.com/track/0EvvrHPNA2a63PRLX4le1p"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1659,42 +1695,6 @@
       "duration_ms": 259320,
       "name": "Sete Coisas",
       "url": "https://open.spotify.com/track/0lOxv2511HsJZZZZgnkUye"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Hubert",
-        "url": "https://open.spotify.com/album/0i3T8nQCsb0ZzDDHhDcYe7"
-      },
-      "artists": [
-        {
-          "name": "Deusnir Souza",
-          "url": "https://open.spotify.com/artist/59jGIR233F2cJnH0upbg0I"
-        },
-        {
-          "name": "Bruninho Nunes",
-          "url": "https://open.spotify.com/artist/7AJ1joFeNqympvdsW4Wbcn"
-        },
-        {
-          "name": "Cleverson Silva",
-          "url": "https://open.spotify.com/artist/7I3feFPmFfXc1CizAxRJZ5"
-        },
-        {
-          "name": "Felipe Pizzutiello",
-          "url": "https://open.spotify.com/artist/5SMZhM9utd5OSNF3d9GP7e"
-        },
-        {
-          "name": "Guto Boc\u00e3o",
-          "url": "https://open.spotify.com/artist/76aaHmGR0qLFMOdpmo1Hg1"
-        },
-        {
-          "name": "Jorginho Neto",
-          "url": "https://open.spotify.com/artist/7GuU9MWqXNdmV3DUKTm4D0"
-        }
-      ],
-      "duration_ms": 263694,
-      "name": "Hubert",
-      "url": "https://open.spotify.com/track/0EvvrHPNA2a63PRLX4le1p"
     },
     {
       "added_at": "2025-09-19 14:12:16",

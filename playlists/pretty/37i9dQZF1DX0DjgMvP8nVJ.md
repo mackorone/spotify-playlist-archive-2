@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,133 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,147 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 33 | [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 |
 | 34 | [Savior](https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1) | 4:02 |
 | 35 | [Too Shy](https://open.spotify.com/track/6WEBIVqiEsevfgJefTyuQQ) | [Kajagoogoo](https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl) | [White Feathers](https://open.spotify.com/album/52koatNHePHRWEmmkP0z2Z) | 3:41 |
-| 36 | [Everything She Ain’t](https://open.spotify.com/track/1Pvp4xtQXVWVmRCP3StxrK) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/2fbpiahbZmJqg2KDK9JEVJ) | 2:31 |
-| 37 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 |
+| 36 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 |
+| 37 | [Everything She Ain’t](https://open.spotify.com/track/1Pvp4xtQXVWVmRCP3StxrK) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/2fbpiahbZmJqg2KDK9JEVJ) | 2:31 |
 | 38 | [Stand Tall](https://open.spotify.com/track/02ypv5cnkwTGBCMfhpRT86) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Any Port in a Storm \(Special Edition\)](https://open.spotify.com/album/7scLSyggM3EvytUY325PKC) | 3:11 |
 | 39 | [The Big Bang](https://open.spotify.com/track/0SGojwNP2zUrgDyeoBQxYO) | [Rock Mafia](https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47) | [The Big Bang](https://open.spotify.com/album/4KiFoNGSzCB5vxGrobuUcv) | 2:40 |
 | 40 | [Memory Lane](https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw) | 2:52 |
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 50 | [4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT) | 1:50 |
 | 51 | [Tonight](https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Holding Onto Strings Better Left To Fray](https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh) | 3:44 |
 | 52 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
-| 53 | [Perfect Stranger](https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 3:17 |
-| 54 | [Manos Al Aire](https://open.spotify.com/track/6x3QIoNigqF82XJAFxTsya) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Mi Plan](https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV) | 3:29 |
+| 53 | [Manos Al Aire](https://open.spotify.com/track/6x3QIoNigqF82XJAFxTsya) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Mi Plan](https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV) | 3:29 |
+| 54 | [Perfect Stranger](https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 3:17 |
 | 55 | [Moonlight](https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Just The Beginning](https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex) | 2:52 |
 | 56 | [Bom Bom \- Radio Edit](https://open.spotify.com/track/0d5f6gzzW1Pgx9uJsLrSDP) | [Sam And The Womp](https://open.spotify.com/artist/3tgiOZXeC1DIimfprvfL64) | [Bom Bom](https://open.spotify.com/album/69onf0drqjCpyjgJsIb8BJ) | 2:54 |
 | 57 | [Fancy Footwork](https://open.spotify.com/track/2kBt8AO9HZn8VvtyPhWX1o) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF) | 3:18 |
 | 58 | [Our Time Now](https://open.spotify.com/track/3CE3PYF64qJBjq54Uf9ZiW) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 2:50 |
 | 59 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
 | 60 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
-| 61 | [The Way I Do](https://open.spotify.com/track/4HXmYG1IR5xduvxTnr7fAp) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Bishop Briggs](https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi) | 4:03 |
-| 62 | [Cassie](https://open.spotify.com/track/6RPDAf8p0lGL3jxpnuNotC) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:58 |
+| 61 | [Cassie](https://open.spotify.com/track/6RPDAf8p0lGL3jxpnuNotC) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:58 |
+| 62 | [The Way I Do](https://open.spotify.com/track/4HXmYG1IR5xduvxTnr7fAp) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Bishop Briggs](https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi) | 4:03 |
 | 63 | [Shy Girl](https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Shy Girl](https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5) | 3:07 |
 | 64 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
 | 65 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 4:08 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 90 | [We Don't Know](https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i) | 4:33 |
 | 91 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 |
 | 92 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
-| 93 | [Chemicals React \- Remix](https://open.spotify.com/track/7vOjTY220BqIttYDbwshED) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 2:55 |
-| 94 | [Halloweenie VI: Possess Me](https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie I\-VI](https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc) | 2:57 |
-| 95 | [About Work The Dancefloor](https://open.spotify.com/track/16vkuChBKoNYS33qMcmbDM) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills](https://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM) | 3:28 |
+| 93 | [About Work The Dancefloor](https://open.spotify.com/track/16vkuChBKoNYS33qMcmbDM) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills](https://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM) | 3:28 |
+| 94 | [Chemicals React \- Remix](https://open.spotify.com/track/7vOjTY220BqIttYDbwshED) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 2:55 |
+| 95 | [Halloweenie VI: Possess Me](https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie I\-VI](https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc) | 2:57 |
 | 96 | [Sleep Talking](https://open.spotify.com/track/0ojtOskzapucZWX767nQrc) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Sleep Talking](https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ) | 3:44 |
 | 97 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:39 |
 | 98 | [Perfect Someone](https://open.spotify.com/track/4xmAEAbMldER7mz8DnFk1b) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 4:39 |

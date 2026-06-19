@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto:  Melly ",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto:  LAGUM",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -2211,6 +2211,36 @@
     },
     {
       "album": {
+        "name": "Cobra Criada/Bicho Solto (Refix)",
+        "url": "https://open.spotify.com/album/6AmlsEaSfzTZ9CYTe0cURx"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        },
+        {
+          "name": "VANDAL",
+          "url": "https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150684,
+      "name": "Cobra Criada/Bicho Solto - Refix",
+      "url": "https://open.spotify.com/track/5Y60BnKGNfUSaP2VHWbKCo"
+    },
+    {
+      "album": {
         "name": "Combinadinho",
         "url": "https://open.spotify.com/album/2TqritjMLjbcYejnZvZElm"
       },
@@ -3794,7 +3824,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 244809,
       "name": "Fruto do Tempo",
       "url": "https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO"
@@ -5770,7 +5800,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 205409,
       "name": "MULHER (By BERSHKA Music)",
       "url": "https://open.spotify.com/track/0boJTpbJMlKJWzyEEWuQdO"
@@ -8803,6 +8833,24 @@
     },
     {
       "album": {
+        "name": "LAGUM - Ao Vivo no Bondinho (RJ)",
+        "url": "https://open.spotify.com/album/4xwP0KpzNiMkQKxA4YZJo5"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151256,
+      "name": "SEU E S\u00d3 - Ao Vivo no Bondinho, RJ",
+      "url": "https://open.spotify.com/track/7aVQMeubLjqfIuLXRbptyl"
+    },
+    {
+      "album": {
         "name": "Seu Olhar",
         "url": "https://open.spotify.com/album/0vadfXdQ2JGrYBqfitXMHf"
       },
@@ -9424,7 +9472,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 230044,
       "name": "te olhando daqui",
       "url": "https://open.spotify.com/track/50PTHXohpcUMjxNzpb3rR0"

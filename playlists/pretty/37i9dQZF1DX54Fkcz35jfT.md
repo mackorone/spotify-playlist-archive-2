@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: CRYXIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,544 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,552 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 37 | [KiLLiNG ME](https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [SEEDS OF HOPE](https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5) | 2:55 |
 | 38 | [You're already dead](https://open.spotify.com/track/1Y4PaFa4vxujKdXnXfWVtj) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [You're already dead](https://open.spotify.com/album/3VepurP4D6ovZqyvIebBsG) | 3:19 |
 | 39 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 |
-| 40 | [Kill the Noise](https://open.spotify.com/track/43hn4s6ik2tccvWF5ltrEb) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Kill the Noise](https://open.spotify.com/album/0QLdJL8eYUGXTFmJbt79Ud) | 3:33 |
-| 41 | [Salamander](https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELEVEN FIRE CRACKERS](https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB) | 3:46 |
+| 40 | [Salamander](https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELEVEN FIRE CRACKERS](https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB) | 3:46 |
+| 41 | [Kill the Noise](https://open.spotify.com/track/43hn4s6ik2tccvWF5ltrEb) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Kill the Noise](https://open.spotify.com/album/0QLdJL8eYUGXTFmJbt79Ud) | 3:33 |
 | 42 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 |
 | 43 | [スパートシンドローマー](https://open.spotify.com/track/0DKaod4U8DOyesrlwvQzVH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [スパートシンドローマー](https://open.spotify.com/album/7ivYLdm0eoIJ2Ew34JHRaK) | 3:44 |
 | 44 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:42 |
@@ -68,14 +68,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 58 | [トキメキAbout you](https://open.spotify.com/track/4yb0wezBC22G5R4ZELcvX5) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [HOT TOPIC](https://open.spotify.com/album/0na2ZiUhanhv3TE0JfHInv) | 3:19 |
 | 59 | [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Lost God of SASORI](https://open.spotify.com/album/5S1kW1jHBlg22tckMUY5Z1) | 4:08 |
 | 60 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
-| 61 | [I'll be there](https://open.spotify.com/track/0lfcOko3BkbcOOQvIJVUG0) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [I'll be there](https://open.spotify.com/album/2XV1p7LViusogXzUiB338X) | 4:38 |
-| 62 | [DUA･RHYTHM](https://open.spotify.com/track/4gTa2HNlJEfGr9q1s2PsFD) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [DUA･RHYTHM](https://open.spotify.com/album/4Cfgh8X6COsvtyirAF5iBF) | 3:33 |
+| 61 | [DUA･RHYTHM](https://open.spotify.com/track/4gTa2HNlJEfGr9q1s2PsFD) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [DUA･RHYTHM](https://open.spotify.com/album/4Cfgh8X6COsvtyirAF5iBF) | 3:33 |
+| 62 | [I'll be there](https://open.spotify.com/track/0lfcOko3BkbcOOQvIJVUG0) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [I'll be there](https://open.spotify.com/album/2XV1p7LViusogXzUiB338X) | 4:38 |
 | 63 | [東京ミッドナイト \- Tokyo Midnight](https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [The Crown](https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca) | 3:48 |
 | 64 | [SUPER NATURAL HIGH \- feat\. 唾奇](https://open.spotify.com/track/7H2G4gNAop4IEmLSJJP6L7) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [PALEDUSK](https://open.spotify.com/album/60WzIOT8v9ww4FeKfndWwI) | 3:18 |
 | 65 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
 | 66 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 |
-| 67 | [Song About Fat Mike](https://open.spotify.com/track/1UPe0076tHq77WAd7NMOtD) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [Screaming Newborn Baby](https://open.spotify.com/album/09nuQw1Ef5RiQ7fK2oSjrE) | 2:56 |
-| 68 | [Matatabi](https://open.spotify.com/track/5ESsDYmXOxYf2kgTJ4ANW4) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Matatabi](https://open.spotify.com/album/0J6JjcNYWHJ3mPrMAodZGG) | 2:48 |
+| 67 | [Matatabi](https://open.spotify.com/track/5ESsDYmXOxYf2kgTJ4ANW4) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Matatabi](https://open.spotify.com/album/0J6JjcNYWHJ3mPrMAodZGG) | 2:48 |
+| 68 | [Song About Fat Mike](https://open.spotify.com/track/1UPe0076tHq77WAd7NMOtD) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [Screaming Newborn Baby](https://open.spotify.com/album/09nuQw1Ef5RiQ7fK2oSjrE) | 2:56 |
 | 69 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 |
 | 70 | [おいしいサバイバー](https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [おいしいサバイバー](https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX) | 2:58 |
 | 71 | [Straight Up \(feat\. Kj\)](https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [Straight Up \(feat\. Kj\)](https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5) | 4:12 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 78 | [PALEHELL](https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:41 |
 | 79 | [Against the Kings and Gods](https://open.spotify.com/track/4FsOAgejIlmrA7qvQsJn0B) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Against the Kings and Gods](https://open.spotify.com/album/76VR0jyf0FtIRFf6RxF41f) | 4:16 |
 | 80 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 4:31 |
-| 81 | [ピカレスクヒーロー](https://open.spotify.com/track/5smt4XQPsHdCrK5rb6czcP) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ピカレスクヒーロー](https://open.spotify.com/album/3wSDoUtAawcfDrDhjipyVU) | 3:26 |
-| 82 | [Schmerz](https://open.spotify.com/track/5xeD8ZfRdinMDzUfaw1T4B) | [\-真天地開闢集団\-ジグザグ](https://open.spotify.com/artist/6X80cxJKMsSqzFmwHX7QCu) | [Gran ∞ Grace](https://open.spotify.com/album/4T8vKqEfLe7aS914pjg7A3) | 3:01 |
-| 83 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
-| 84 | [Liberator](https://open.spotify.com/track/2dXc1QR4mD7jahydVs2CBc) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [Liberator](https://open.spotify.com/album/1EkdBVchn0CsCleE7ARh7h) | 3:40 |
+| 81 | [Schmerz](https://open.spotify.com/track/5xeD8ZfRdinMDzUfaw1T4B) | [\-真天地開闢集団\-ジグザグ](https://open.spotify.com/artist/6X80cxJKMsSqzFmwHX7QCu) | [Gran ∞ Grace](https://open.spotify.com/album/4T8vKqEfLe7aS914pjg7A3) | 3:01 |
+| 82 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
+| 83 | [Liberator](https://open.spotify.com/track/2dXc1QR4mD7jahydVs2CBc) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [Liberator](https://open.spotify.com/album/1EkdBVchn0CsCleE7ARh7h) | 3:40 |
+| 84 | [ピカレスクヒーロー](https://open.spotify.com/track/5smt4XQPsHdCrK5rb6czcP) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ピカレスクヒーロー](https://open.spotify.com/album/3wSDoUtAawcfDrDhjipyVU) | 3:26 |
 | 85 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 |
 | 86 | [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 |
 | 87 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 99 | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k) | [The Last Rockstars](https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz), [YOSHIKI](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm) | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor) | 4:45 |
 | 100 | [Everblack \(feat\. David Simonich\)](https://open.spotify.com/track/4zngVa4uioPfsuDonRuXHv) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX), [David Simonich](https://open.spotify.com/artist/4VfRlW2jlturNdkawu7dmI) | [The Weight of Sound](https://open.spotify.com/album/5NXDBIwFFXf0ty5mN8KBkP) | 3:16 |
 
-Snapshot ID: `AAAAAN9Zqg6zOLbri8lM7BDmQW+YfQ03`
+Snapshot ID: `AAAAAKUTtkSeOPlEWroBDBVCFAO7mZhc`

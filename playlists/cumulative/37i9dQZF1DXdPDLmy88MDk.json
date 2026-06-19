@@ -587,6 +587,28 @@
     },
     {
       "album": {
+        "name": "Cinema Paradiso (Symphonic)",
+        "url": "https://open.spotify.com/album/5CgnI2Bh9ZzqAUV7CNKDPM"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 del Mundo",
+          "url": "https://open.spotify.com/artist/6Vaar3GSj3czeE9EtOrKUJ"
+        },
+        {
+          "name": "Deutsches Filmorchester Babelsberg",
+          "url": "https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261786,
+      "name": "Cinema Paradiso - Symphonic",
+      "url": "https://open.spotify.com/track/10oscnPKtlQcFOdDousYKG"
+    },
+    {
+      "album": {
         "name": "Clair de Lune (Arr. for String Quartet by Hao Zhou)",
         "url": "https://open.spotify.com/album/6aJUXpIG150LXvr6Gy8Q4O"
       },

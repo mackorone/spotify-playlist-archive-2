@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Because we all deserve great pop love songs in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,358,893 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,358,645 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 11 | [Rewrite The Stars \(with James Arthur & Anne\-Marie\)](https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Rewrite The Stars \(with James Arthur & Anne\-Marie\)](https://open.spotify.com/album/4i7GEsKuuCtECD5l0VUctL) | 3:38 |
 | 12 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
 | 13 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 |
-| 14 | [Ghost](https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:33 |
-| 15 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
+| 14 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
+| 15 | [Ghost](https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:33 |
 | 16 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL) | 2:51 |
 | 17 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 |
 | 18 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 36 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
 | 37 | [This I Promise You](https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:44 |
 | 38 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
-| 39 | [Before You Go](https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go](https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY) | 3:35 |
-| 40 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
+| 39 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
+| 40 | [Before You Go](https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go](https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY) | 3:35 |
 | 41 | [How Do You Sleep?](https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep?](https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo) | 3:22 |
 | 42 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:31 |
 | 43 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 |

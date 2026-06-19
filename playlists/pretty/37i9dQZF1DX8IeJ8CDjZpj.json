@@ -1,6 +1,6 @@
 {
   "description": "Celebremos que nuestro equipo sali\u00f3 vencedor. ",
-  "num_followers": 91807,
+  "num_followers": 91775,
   "original_name": "Nos Vamos al \u00c1ngel",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-06-11 20:48:54",
       "album": {
+        "name": "45 \u00c9xitos (Versiones Originales)",
+        "url": "https://open.spotify.com/album/3j5xMGA9BmUE77O512excf"
+      },
+      "artists": [
+        {
+          "name": "J.L.B. Y C\u00eda",
+          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Ag\u00fcita De Coco",
+      "url": "https://open.spotify.com/track/6yd503DovrZyEN4qZGaZcq"
+    },
+    {
+      "added_at": "2026-06-11 20:48:54",
+      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 179211,
       "name": "Los Chismes",
       "url": "https://open.spotify.com/track/7e19QPeRUqvRrdoBjEHkU3"
-    },
-    {
-      "added_at": "2026-06-11 20:48:54",
-      "album": {
-        "name": "45 \u00c9xitos (Versiones Originales)",
-        "url": "https://open.spotify.com/album/3j5xMGA9BmUE77O512excf"
-      },
-      "artists": [
-        {
-          "name": "J.L.B. Y C\u00eda",
-          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Ag\u00fcita De Coco",
-      "url": "https://open.spotify.com/track/6yd503DovrZyEN4qZGaZcq"
     },
     {
       "added_at": "2026-06-11 20:48:54",

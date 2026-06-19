@@ -5479,6 +5479,28 @@
     },
     {
       "album": {
+        "name": "Come My Way",
+        "url": "https://open.spotify.com/album/4JgI1wHCPWVGiGpYl7IJnf"
+      },
+      "artists": [
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        },
+        {
+          "name": "Max Cardona",
+          "url": "https://open.spotify.com/artist/6SDKrEjimkViHAkdp5mrLg"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Come My Way",
+      "url": "https://open.spotify.com/track/7IGw4kBrRsDYudNmY8c7nm"
+    },
+    {
+      "album": {
         "name": "Come Over",
         "url": "https://open.spotify.com/album/2jzHwNoy3czD29KqeAvXLl"
       },
@@ -9850,6 +9872,28 @@
       "duration_ms": 210400,
       "name": "Full Speed (feat. Aviella)",
       "url": "https://open.spotify.com/track/5pIJ99J4vVntZgDPFZYBtw"
+    },
+    {
+      "album": {
+        "name": "Function",
+        "url": "https://open.spotify.com/album/1I625NZEBR1qKeWGNAHgl1"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/1TzkhmV7nWq3gquoiDf4QH"
     },
     {
       "album": {
@@ -14767,6 +14811,24 @@
     },
     {
       "album": {
+        "name": "LIGHTS FLASH IN MY EYES",
+        "url": "https://open.spotify.com/album/53eFxmMXTKdbOMCunnnrWk"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "LIGHTS FLASH IN MY EYES",
+      "url": "https://open.spotify.com/track/0Wzbg3Ak8N6Yrg1cgUe30q"
+    },
+    {
+      "album": {
         "name": "Lights On",
         "url": "https://open.spotify.com/album/3FjIckpnCLd0sfOb6GQ4fD"
       },
@@ -16032,6 +16094,28 @@
       "duration_ms": 173333,
       "name": "Mindfuck",
       "url": "https://open.spotify.com/track/3Ab83RolErGgia4RzGbczc"
+    },
+    {
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/2yNQqnLlFhN1hIltm6tDAC"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Simona Shao",
+          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201081,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/64L1sPpYqPRz5hrV0tw4DJ"
     },
     {
       "album": {
@@ -17718,7 +17802,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 225346,
       "name": "NO ID",
       "url": "https://open.spotify.com/track/0BlU2gwg8AhtqYFweasXss"
@@ -23954,7 +24038,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 207425,
       "name": "Sweating",
       "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
@@ -25086,7 +25170,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 138750,
       "name": "The Bass",
       "url": "https://open.spotify.com/track/3aHZa3pQXIX4WTTSOx5ibK"
@@ -26620,7 +26704,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 214545,
       "name": "U & ME",
       "url": "https://open.spotify.com/track/5L6xTg47yECFHbri9otF85"

@@ -4088,7 +4088,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 164482,
       "name": "CHAVALITAS",
       "url": "https://open.spotify.com/track/3qdeRGn9erK9sjs1kUtBys"
@@ -4800,6 +4800,28 @@
     {
       "album": {
         "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211084,
+      "name": "Cuando No Era Cantante",
+      "url": "https://open.spotify.com/track/1WkYhJMWhofw1XgVWfdMWE"
+    },
+    {
+      "album": {
+        "name": "No Hay Loco Que No Corone",
         "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
       },
       "artists": [
@@ -4840,28 +4862,6 @@
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/6N2iccqxRInhTLHc2Fu3W0"
-    },
-    {
-      "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        }
-      ],
-      "date_added": "2026-05-07",
-      "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
-      "duration_ms": 212592,
-      "name": "Cuando No Era Cantante",
-      "url": "https://open.spotify.com/track/1WkYhJMWhofw1XgVWfdMWE"
     },
     {
       "album": {
@@ -6002,7 +6002,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
@@ -8264,7 +8264,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -8318,7 +8318,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -14652,7 +14652,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 187640,
       "name": "Mi Segunda Vida",
       "url": "https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD"
@@ -17710,7 +17710,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 183846,
       "name": "PERO NO TE ENAMORES",
       "url": "https://open.spotify.com/track/3w1h7uNU1Dfk2tOaHiIGat"
@@ -22680,7 +22680,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"

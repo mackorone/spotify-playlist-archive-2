@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-268 songs - 14 hr 6 min
+270 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [carole king](https://open.spotify.com/track/4VdYhyqZCi3BbeFiGdzTo1) | [PISSKISS](https://open.spotify.com/artist/0SeXCXXWOD0Fld3oHvdyyL) | [carole king](https://open.spotify.com/album/4QcMtvtV3lNSXEpirqXjHa) | 3:51 | 2023-05-12 | 2026-03-14 |
 | [Catharsis](https://open.spotify.com/track/6wnhSopdkyLrhGsRjGZYMP) | [Blood Estate](https://open.spotify.com/artist/74ILynpls56WeC7FcBq0fF) | [Catharsis](https://open.spotify.com/album/3UQfF38JAnid5DG2maFfZ1) | 2:38 | 2023-07-07 | 2023-12-06 |
 | [Chamber of Reflection \(Live Cover\)](https://open.spotify.com/track/2wCbsLmmjendUDzsMGubP0) | [Your Anxiety Buddy](https://open.spotify.com/artist/6krQn0Lyb7Wj0Yz03Z2Ts0) | [Chamber of Reflection \(Remixes\)](https://open.spotify.com/album/4SmPOUhbSUydP4jg0KZNfT) | 2:30 | 2023-02-09 | 2023-06-14 |
-| [Chamomile](https://open.spotify.com/track/6GAPaGVVGgczGdMslknSMc) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Chamomile](https://open.spotify.com/album/5QLep18EqyzRJ50cz1BzWb) | 3:37 | 2023-04-21 |  |
+| [Chamomile](https://open.spotify.com/track/6GAPaGVVGgczGdMslknSMc) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Chamomile](https://open.spotify.com/album/5QLep18EqyzRJ50cz1BzWb) | 3:37 | 2023-04-21 | 2026-06-19 |
 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2023-03-07 |  |
 | [comeonback](https://open.spotify.com/track/1rOSQ490O5zO3LzlgWHemr) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [comeonback](https://open.spotify.com/album/5eecDPoRArTxgGgKBQ7MuV) | 2:51 | 2023-04-11 | 2023-07-01 |
 | [Constellations](https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 3:43 | 2023-02-09 | 2023-08-12 |
@@ -107,6 +107,7 @@
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2023-02-09 | 2026-03-14 |
 | [i heard you were looking like the moon](https://open.spotify.com/track/4Yw8XKDrmJSMNFqvd8JZJ6) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [special](https://open.spotify.com/album/0MCWANJq0mI70BGA7FibFx) | 3:43 | 2024-01-03 |  |
 | [i miss your warm hands](https://open.spotify.com/track/5Mu5BFHb4vFS5cw0hbDICV) | [i don't like mirrors](https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld) | [Not How it's Supposed to be](https://open.spotify.com/album/36tFrKEi71NmEQP8QCnZ4q) | 2:11 | 2024-01-02 |  |
+| [i never should have left this place,](https://open.spotify.com/track/393RcUOsW2tqHYADZO3FMY) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy), [Miranda Rain](https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c) | [i never should have left this place,](https://open.spotify.com/album/4PBGFTgAT0UgrMkHoZ0cy9) | 2:34 | 2026-06-19 |  |
 | [i saw a flying saucer](https://open.spotify.com/track/52KK3h1WDHJyTtpxWonWuY) | [Bluey](https://open.spotify.com/artist/37cCRAGhoSGepKjv5j7MmI), [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [i saw a flying saucer](https://open.spotify.com/album/2TwPIqLxI5twxyswNNjTxp) | 2:49 | 2024-04-16 |  |
 | [i saw the light in you](https://open.spotify.com/track/6TlW6jA0vV2PgDVesXqdrd) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r) | [i saw the light in you](https://open.spotify.com/album/49guzay3mMBMJt9fZSks2p) | 2:41 | 2025-07-11 |  |
 | [i still think about you](https://open.spotify.com/track/1gn36xiTbvh5ZdLQblagfP) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r) | [i still think about you](https://open.spotify.com/album/4hZmFxYP6Av5sAHrSuEwF3) | 2:45 | 2024-01-29 |  |
@@ -192,6 +193,7 @@
 | [Purple Candy Glow](https://open.spotify.com/track/5c2XZ5gPOVCDc6VIDmC0lQ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Purple Candy Glow](https://open.spotify.com/album/7BwPqSXaEQq6wYIzfY3u4Y) | 2:34 | 2023-07-14 |  |
 | [rainwater on the windowsill](https://open.spotify.com/track/6wufmQ6faZ2AV5Q33JQfdh) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [there is one place we're all going](https://open.spotify.com/album/6cKsq444tN3btAELMAXHAq) | 3:08 | 2023-08-11 |  |
 | [rainwater on the windowsill](https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [rainwater on the windowsill](https://open.spotify.com/album/2w4pzTqX8lAeVLnJ0NGEsw) | 3:08 | 2023-07-07 | 2023-11-10 |
+| [relapsing](https://open.spotify.com/track/28f8QHpqGfuqv7QzhCw1oo) | [ceiling light](https://open.spotify.com/artist/6wsGEqvxS3QM0F6mpEqxDS) | [endless cycle](https://open.spotify.com/album/1gcsjfsoXVqJcYSgrpeAG6) | 2:54 | 2026-06-19 |  |
 | [rest](https://open.spotify.com/track/4wyaumfJq6SNuV5wUJw2p4) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rainbow music](https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J) | 2:26 | 2023-04-11 | 2026-03-14 |
 | [Revolution 0](https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:17 | 2023-03-31 | 2026-03-14 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-02-09 | 2023-04-12 |

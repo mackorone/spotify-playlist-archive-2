@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > The Indie highlights of 2011\. Cover: AWOLNATION
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,497 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,517 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,14 +85,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 75 | [Don't Move](https://open.spotify.com/track/3p0rvHL2zfHAlXAgnHC4GI) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/4XvCeI5IFiB569sJwbZxB9) | 4:18 |
 | 76 | [Holocene](https://open.spotify.com/track/6DESft0qm6RhoYf5wzeoGH) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 5:36 |
 | 77 | [Medicine](https://open.spotify.com/track/5Zz8mrmVVhOq3iuv8Gh0MX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [The Wild Youth EP](https://open.spotify.com/album/4oi6YYTdruWtLATvNiVE46) | 4:18 |
-| 78 | [Santa Fe](https://open.spotify.com/track/3gQZdiGlObKaY274Q3lnoH) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz) | 4:14 |
-| 79 | [Will Do](https://open.spotify.com/track/4d12AjSPP8IQZK1CamEwqp) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/2FW2M39UC029T2tJWbNPef) | 3:44 |
-| 80 | [BTSTU \- Edit](https://open.spotify.com/track/2NRRrr8ylDK38KD3Ffbw4K) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/7srgNVx6TtKJrgNKMJusxb) | 3:30 |
-| 81 | [Bizness](https://open.spotify.com/track/78AaMLOriBZuohWdUV3IzE) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [W H O K I L L](https://open.spotify.com/album/7rBLvpL7ZWi1YCSXSLUZKF) | 4:23 |
-| 82 | [New Beat](https://open.spotify.com/track/7jWIolCo1nHYaAmOvFH0Lo) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Underneath The Pine](https://open.spotify.com/album/00wmVs9BwWaSjLXBAzwUPq) | 4:04 |
-| 83 | [Limit To Your Love](https://open.spotify.com/track/3GjLiydribpGA0Qs6WmXXV) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/5InSs4GSvxTAsLIIzZ3otl) | 4:36 |
-| 84 | [Featherstone](https://open.spotify.com/track/45p0MAVey0dnjZXo8kMUzh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:49 |
-| 85 | [Amor Fati](https://open.spotify.com/track/60KqmTYKZzSElJidL2U2o1) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/6GUrNxKQG0pUt9umzAPdLv) | 4:26 |
+| 78 | [Bizness](https://open.spotify.com/track/78AaMLOriBZuohWdUV3IzE) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [W H O K I L L](https://open.spotify.com/album/7rBLvpL7ZWi1YCSXSLUZKF) | 4:23 |
+| 79 | [Santa Fe](https://open.spotify.com/track/3gQZdiGlObKaY274Q3lnoH) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz) | 4:14 |
+| 80 | [Will Do](https://open.spotify.com/track/4d12AjSPP8IQZK1CamEwqp) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/2FW2M39UC029T2tJWbNPef) | 3:44 |
+| 81 | [BTSTU \- Edit](https://open.spotify.com/track/2NRRrr8ylDK38KD3Ffbw4K) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/7srgNVx6TtKJrgNKMJusxb) | 3:30 |
+| 82 | [Amor Fati](https://open.spotify.com/track/60KqmTYKZzSElJidL2U2o1) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/6GUrNxKQG0pUt9umzAPdLv) | 4:26 |
+| 83 | [New Beat](https://open.spotify.com/track/7jWIolCo1nHYaAmOvFH0Lo) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Underneath The Pine](https://open.spotify.com/album/00wmVs9BwWaSjLXBAzwUPq) | 4:04 |
+| 84 | [Limit To Your Love](https://open.spotify.com/track/3GjLiydribpGA0Qs6WmXXV) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/5InSs4GSvxTAsLIIzZ3otl) | 4:36 |
+| 85 | [Featherstone](https://open.spotify.com/track/45p0MAVey0dnjZXo8kMUzh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:49 |
 | 86 | [Shake, Shake, Shake](https://open.spotify.com/track/197IjFuW5x1q3VazxmWQJQ) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/4T56NnPsWvFAcpJWyPAJa1) | 2:43 |
 | 87 | [Landfill](https://open.spotify.com/track/0v51xNSZkeHzRDBirv6KPv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:23 |
 | 88 | [Perth](https://open.spotify.com/track/7km8eBZqlTKiqlgdl2Zk5u) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 4:22 |

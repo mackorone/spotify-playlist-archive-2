@@ -4,7 +4,7 @@
 
 > 
 
-228 songs - 11 hr 54 min
+232 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,9 @@
 | [alone](https://open.spotify.com/track/7iuvjLWfCeuXUjCL5ux3Yd) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO), [Foreign](https://open.spotify.com/artist/3D3yyi7c5AiQulhArfwbib) | [Melodic Desire](https://open.spotify.com/album/301s5ttpCmABTQMpqaf292) | 4:37 | 2025-04-10 |  |
 | [Ame](https://open.spotify.com/track/56vX2UYUGNMEIq3i4l66OL) | [Luizie](https://open.spotify.com/artist/2cQQa7eaJy9pO5QgEhxVXR) | [Ame](https://open.spotify.com/album/2KSyYrS7na1qwhUPGOS4vt) | 3:55 | 2025-09-11 |  |
 | [Any Day](https://open.spotify.com/track/3zNgZ7T9ZrN6mtBsRVhtJJ) | [Ocartiz James](https://open.spotify.com/artist/23MBrNLP0Eee8OZbRMcH7z), [Bec](https://open.spotify.com/artist/5KlC6dFBcvWlovMoCTOgQN) | [Away for too Long \- The Studio Sessions](https://open.spotify.com/album/2Q0i2bSiCG17BBpw4GAkIG) | 1:28 | 2025-03-12 |  |
+| [Attention\(Tiri tese\)](https://open.spotify.com/track/34Xd43zwRtMXwNokRZPPME) | [Mr Gee TupaZ](https://open.spotify.com/artist/5Ra20bv5OyKWbI28XLHph0) | [Attention\(Tiri tese\)](https://open.spotify.com/album/7LP1vJO1wvp8ggjnfgG6tn) | 2:01 | 2026-06-18 |  |
 | [AZOTARTE](https://open.spotify.com/track/4eG6YirA72uHlDKmzYmlud) | [El HA](https://open.spotify.com/artist/4aOhbiEACFgXO6CzfZiPGL), [Adal Palacios](https://open.spotify.com/artist/19x873JrC5NE60vCN4KPZp), [Dj Sixten](https://open.spotify.com/artist/6gMq2c8MQmHgDTeOSxDUKw), [Dj Full Mx](https://open.spotify.com/artist/3gBDVCX4mV5qVxbR0eyT06), [Brayan Vr](https://open.spotify.com/artist/6VbJpJjFWYLbCKKxbIeQlE) | [AZOTARTE](https://open.spotify.com/album/4f85e5tYKqheOGA1p7t0E7) | 2:11 | 2025-09-09 |  |
+| [Badali Badala](https://open.spotify.com/track/3TyG9VWhzwh9ETEQ0JOsgU) | [Sebastian McQueen](https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP) | [Between Us](https://open.spotify.com/album/1FckvjpUd1bin7xkXQzyuF) | 5:03 | 2026-06-19 |  |
 | [Baila](https://open.spotify.com/track/1lLoW8BPXr9EK4s2L1Qwid) | [MG'](https://open.spotify.com/artist/24NUzfEiDv7O3XmfUWy8DH) | [Baila](https://open.spotify.com/album/0iWdERMMhVmphw8ioaIdtR) | 3:01 | 2025-08-26 |  |
 | [Balorda nostalgia](https://open.spotify.com/track/2K5ijyYylUoDEYMYxz5E95) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Balorda nostalgia](https://open.spotify.com/album/4disZdaEkZIGag3qTJfiWV) | 3:15 | 2026-06-03 |  |
 | [BDE](https://open.spotify.com/track/6fdVOh7MmC69eCrX0XxO5M) | [Galaxy Sweat](https://open.spotify.com/artist/0PCn3ztGLidBzzK3FT4ezo) | [Galaxy Sweat](https://open.spotify.com/album/1JLWiiHlNzBpyAHeBv7Ugz) | 2:53 | 2025-09-22 |  |
@@ -54,6 +56,7 @@
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2025-12-10 |  |
 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 | 2026-04-02 |  |
 | [Desnudita](https://open.spotify.com/track/1aVp36oGu1xj8bJavKxQEK) | [OGzuz](https://open.spotify.com/artist/6OJT0CHj1pRZBhiTlZuzay), [∆ndrik](https://open.spotify.com/artist/0kwYTmo0MgvxDkf35lilIz) | [Desnudita](https://open.spotify.com/album/6ztoOedgELjC9bg6FYctK2) | 3:10 | 2026-06-03 |  |
+| [Diablax](https://open.spotify.com/track/6CVeBLFZw98ek6Eh7zE3pd) | [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Diablax](https://open.spotify.com/album/7rybHGQt51fJxGm8lVoVxL) | 2:40 | 2026-06-19 |  |
 | [DIDN'T WARN YA](https://open.spotify.com/track/7qrzCjrqPljxxMRQCIEwTt) | [Emmett Xander](https://open.spotify.com/artist/5dGDu2lnsyIOXr0WlOTvFI) | [DIDN'T WARN YA](https://open.spotify.com/album/3CQhmDzGEbPDNu7ShVyeVE) | 1:48 | 2025-04-03 |  |
 | [Dog Daze Haze](https://open.spotify.com/track/5UfjfOt3mwzpaGeO1Hwgdw) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [yukigloom](https://open.spotify.com/artist/6JGwAjF1SceQb8y5mMVuha) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:14 | 2025-09-01 |  |
 | [Donnie Darko](https://open.spotify.com/track/5E0zKLNtUaa6Wr8bEI35w4) | [Diamond Delicious](https://open.spotify.com/artist/3sMiF49UAtjkzvpyUnmnbe) | [Suburbia](https://open.spotify.com/album/40VrWnfYBeiT61kdFR0Lav) | 4:14 | 2025-04-14 |  |
@@ -125,6 +128,7 @@
 | [Lisa](https://open.spotify.com/track/04iAtfM5oQS6wvrido4xDY) | [BEVIxPlanett](https://open.spotify.com/artist/0QgxDZ9yAoGgSRfxipFOtM) | [Lisa](https://open.spotify.com/album/0p6GGF380E8EIMoBEeNcBs) | 2:37 | 2026-01-18 |  |
 | [Looking For Someone Else](https://open.spotify.com/track/1utWfzvkT6PKtaX2Bgtr3t) | [Yudiee](https://open.spotify.com/artist/0dNbGpKbJIlqywH7WOeBZi) | [Looking For Someone Else](https://open.spotify.com/album/1ZrVlTdpWzSJtUFSr78Smy) | 2:42 | 2025-03-12 |  |
 | [Love Aside](https://open.spotify.com/track/04P00jBNn198CWuLm0TSgb) | [Porcelain People](https://open.spotify.com/artist/6v9XtT9VXOY2003I5f8amB) | [Love Aside](https://open.spotify.com/album/3WQJCq2gk6DoRdwaWGJmQU) | 3:35 | 2025-04-07 |  |
+| [Me Confundes](https://open.spotify.com/track/3p4zlX5oex6W0FhAWgl9gr) | [Draxess](https://open.spotify.com/artist/31eiTFPa3SmEug6EbLH3d3) | [Me Confundes](https://open.spotify.com/album/512JlbUPseSvuO0ZiKj9GR) | 2:04 | 2026-06-19 |  |
 | [Me Piden Reggaeton](https://open.spotify.com/track/3n6TRgeHQXEgx0PCL5GVWH) | [Big Puffah](https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw) | [Me Piden Reggaeton](https://open.spotify.com/album/1GHvESbUF8VDfXEB71q8kH) | 2:37 | 2026-03-12 |  |
 | [MEET U AT THE TOP](https://open.spotify.com/track/1Fb3OYey2JClP5kKei8B7m) | [Whimzi](https://open.spotify.com/artist/7reGlLkLSVxJe3OUjyjqPh) | [THE CODE](https://open.spotify.com/album/1tPBYF7xveQtDPE9DJBqTe) | 2:28 | 2025-09-15 |  |
 | [Millaje \- Remix](https://open.spotify.com/track/0l6aneTXm37DhQQLzoYyEl) | [Morales](https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7), [ELUVE](https://open.spotify.com/artist/5vgkWhP4HQTncMrL5OhJd8), [Rensu](https://open.spotify.com/artist/3eQvPkkqBOguBhFsUqenHs) | [Millaje \(Remix\)](https://open.spotify.com/album/3i04HHpwa7fH6jtsu8Ysvc) | 3:00 | 2026-03-12 |  |

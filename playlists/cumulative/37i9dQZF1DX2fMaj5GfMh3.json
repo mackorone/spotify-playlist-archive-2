@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste pop songs. Cover: Olivia Rodrigo",
+  "description": "De nieuwste pop songs. Cover: Sven Cilliers",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -818,6 +818,24 @@
       "duration_ms": 220779,
       "name": "Almost",
       "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
+    },
+    {
+      "album": {
+        "name": "Almost Me, Almost You",
+        "url": "https://open.spotify.com/album/67dwW7CahdAhDnPINsCPB6"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168164,
+      "name": "Almost Me, Almost You",
+      "url": "https://open.spotify.com/track/2ZDmomo3jbfpCqJLj7XYFF"
     },
     {
       "album": {
@@ -4038,10 +4056,28 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
+    },
+    {
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/70q6JczgrEpipUdkcbkd9i"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170976,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/5xdC35mf072S94yav2vRt6"
     },
     {
       "album": {
@@ -4496,7 +4532,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 185082,
       "name": "cracks beneath my skin",
       "url": "https://open.spotify.com/track/3Dk0k6j6npirNZkHGELjJY"
@@ -10002,6 +10038,24 @@
     {
       "album": {
         "name": "Heaven",
+        "url": "https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453"
+    },
+    {
+      "album": {
+        "name": "Heaven",
         "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
       },
       "artists": [
@@ -12926,6 +12980,24 @@
       "duration_ms": 143669,
       "name": "Is It Love",
       "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
+    },
+    {
+      "album": {
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
     },
     {
       "album": {
@@ -18670,7 +18742,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 262726,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
@@ -19926,7 +19998,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 211926,
       "name": "SAME TIME",
       "url": "https://open.spotify.com/track/76xS3SRc9Zv5ntHoabMN8R"
@@ -22024,7 +22096,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 184645,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3EpQUpVAaQWZX9oLCoJEfo"
@@ -25334,6 +25406,24 @@
       "duration_ms": 164998,
       "name": "Wasted Love",
       "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
+    },
+    {
+      "album": {
+        "name": "Watermarks",
+        "url": "https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc"
+      },
+      "artists": [
+        {
+          "name": "Sven Cilliers",
+          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Watermarks",
+      "url": "https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL"
     },
     {
       "album": {

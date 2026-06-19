@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Cop Shot A Man",
+        "url": "https://open.spotify.com/album/2NPQuhVJyYPGuoNJJWVtXN"
+      },
+      "artists": [
+        {
+          "name": "Yelhomie",
+          "url": "https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Cop Shot A Man",
+      "url": "https://open.spotify.com/track/6yv6SivWda8eKjpFovPRoG"
+    },
+    {
+      "album": {
         "name": "Cortado",
         "url": "https://open.spotify.com/album/0xfjcySoQGecNzOjnzunzr"
       },

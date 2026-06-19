@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 112152,
+  "num_followers": 112145,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 256443,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
+    },
+    {
+      "added_at": "2025-12-15 09:00:30",
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 187200,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ"
-    },
-    {
-      "added_at": "2025-12-15 09:00:30",
-      "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 256443,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
     },
     {
       "added_at": "2025-12-15 09:00:30",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
-      },
-      "artists": [
-        {
-          "name": "Chantal Chamberland",
-          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
-        }
-      ],
-      "duration_ms": 236354,
-      "name": "Maybe Next Christmas",
-      "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
-    },
-    {
-      "added_at": "2025-12-15 09:00:30",
-      "album": {
         "name": "Let's Share Christmas",
         "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 192800,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
+    },
+    {
+      "added_at": "2025-12-15 09:00:30",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
+      },
+      "artists": [
+        {
+          "name": "Chantal Chamberland",
+          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
+        }
+      ],
+      "duration_ms": 236354,
+      "name": "Maybe Next Christmas",
+      "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
     },
     {
       "added_at": "2025-12-15 09:00:30",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "Winter Wonderland - 1959 Version",
-      "url": "https://open.spotify.com/track/73I5rgoTrAOnRLIOMnAcSM"
-    },
-    {
-      "added_at": "2025-12-15 09:00:30",
-      "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 262600,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK"
+    },
+    {
+      "added_at": "2025-12-15 09:00:30",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "Winter Wonderland - 1959 Version",
+      "url": "https://open.spotify.com/track/73I5rgoTrAOnRLIOMnAcSM"
     },
     {
       "added_at": "2025-12-15 09:00:30",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 121573,
-      "name": "Love Is a Christmas Rose",
-      "url": "https://open.spotify.com/track/47yDmrLymZOj8W8zIgWqxw"
-    },
-    {
-      "added_at": "2025-12-15 09:00:30",
-      "album": {
         "name": "Merry Christmas from Jos\u00e9 James",
         "url": "https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 177160,
       "name": "Christmas in New York",
       "url": "https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE"
+    },
+    {
+      "added_at": "2025-12-15 09:00:30",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 121573,
+      "name": "Love Is a Christmas Rose",
+      "url": "https://open.spotify.com/track/47yDmrLymZOj8W8zIgWqxw"
     },
     {
       "added_at": "2025-12-15 09:00:30",

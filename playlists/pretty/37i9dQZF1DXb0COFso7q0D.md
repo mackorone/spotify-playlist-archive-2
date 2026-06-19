@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > La playlist sin fronteras\. Powered by <a href="https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2">Belicofest</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,230,065 likes - 71 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,229,590 likes - 71 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

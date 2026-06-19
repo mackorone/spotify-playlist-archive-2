@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Tiakola",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: R2",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -7608,7 +7608,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 141389,
       "name": "G\u00e9n\u00e9ration impolie",
       "url": "https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53"
@@ -8570,6 +8570,28 @@
       "duration_ms": 146292,
       "name": "J'en ai pas",
       "url": "https://open.spotify.com/track/621ayeY7Bg1TDPJKeyZyj7"
+    },
+    {
+      "album": {
+        "name": "J'encaisse",
+        "url": "https://open.spotify.com/album/3lKCGFnWewuB9rwxWxDKV3"
+      },
+      "artists": [
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "J'encaisse",
+      "url": "https://open.spotify.com/track/5B04NDsZbXaABoY1dzCmCJ"
     },
     {
       "album": {
@@ -11911,6 +11933,36 @@
     },
     {
       "album": {
+        "name": "404",
+        "url": "https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD"
+      },
+      "artists": [
+        {
+          "name": "TRIANGLE DES BERMUDES",
+          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
+        },
+        {
+          "name": "MC YOSHI",
+          "url": "https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Kokosvoice",
+          "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198520,
+      "name": "Mopao aye",
+      "url": "https://open.spotify.com/track/0YjcIRiArrvDYyZz3YUegi"
+    },
+    {
+      "album": {
         "name": "MORE PRETTY GIRLS",
         "url": "https://open.spotify.com/album/4WwnvAPqTcwcBBd4kuMkx0"
       },
@@ -12500,7 +12552,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 198040,
       "name": "NEED",
       "url": "https://open.spotify.com/track/0ooCjo4X3Fp8xBp0tmRISL"
@@ -12610,7 +12662,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 196700,
       "name": "No limit",
       "url": "https://open.spotify.com/track/30WZF01eBBVO29qTK4NBQ5"
@@ -16255,6 +16307,28 @@
     },
     {
       "album": {
+        "name": "JEUNE&INNOCENT",
+        "url": "https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "SO MAWA (feat. Mauvais djo)",
+      "url": "https://open.spotify.com/track/64KtizdhpvWuiJJho1VSQ2"
+    },
+    {
+      "album": {
         "name": "Drama (Partie II)",
         "url": "https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW"
       },
@@ -18117,6 +18191,24 @@
     },
     {
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0"
+    },
+    {
+      "album": {
         "name": "Trop intense",
         "url": "https://open.spotify.com/album/5pK1UjbKezgFzawUAFACEI"
       },
@@ -19602,7 +19694,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 131578,
       "name": "\u00c0 la base",
       "url": "https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU"

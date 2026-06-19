@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The voices shaping R&B. Cover: DAMEDAME*",
+  "description": "The voices shaping R&B. Cover: Ama",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -938,6 +938,28 @@
       "duration_ms": 200500,
       "name": "AUCTION",
       "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
+    },
+    {
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Aura (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI"
     },
     {
       "album": {
@@ -2047,6 +2069,28 @@
     },
     {
       "album": {
+        "name": "Comets + Gold",
+        "url": "https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188432,
+      "name": "Comets + Gold",
+      "url": "https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f"
+    },
+    {
+      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/2fcA8uAebc2l0T4xNt8qof"
       },
@@ -2286,7 +2330,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 163516,
       "name": "D'ANGELO'S JOINT",
       "url": "https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ"
@@ -6306,7 +6350,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 221626,
       "name": "Lost in Time",
       "url": "https://open.spotify.com/track/6ZSiSHgQAZN1lb8EmXq6GC"

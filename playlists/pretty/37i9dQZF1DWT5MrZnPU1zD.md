@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,683,999 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,684,008 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 41 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
 | 42 | [peekaboo \(feat\. azchike\)](https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:35 |
 | 43 | [Gang Baby](https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 2:18 |
-| 44 | [NISSAN ALTIMA](https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:06 |
-| 45 | [Stuff \(feat\. Travis Scott\)](https://open.spotify.com/track/6JvIjI8H3yxpigROd3Cv9N) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 3:00 |
+| 44 | [Stuff \(feat\. Travis Scott\)](https://open.spotify.com/track/6JvIjI8H3yxpigROd3Cv9N) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 3:00 |
+| 45 | [NISSAN ALTIMA](https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:06 |
 | 46 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 |
 | 47 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 |
 | 48 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 |

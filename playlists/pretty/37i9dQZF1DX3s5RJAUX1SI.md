@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,637 likes - 125 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,683 likes - 125 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 57 | [Fantasia](https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu) | [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N) | [Fantasia](https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm) | 2:35 |
 | 58 | [Al Estilo Rancheron](https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:18 |
 | 59 | [La basurita](https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:10 |
-| 60 | [No Importa Tu Madre](https://open.spotify.com/track/2aCrEvIR8thExGbWJiwcrE) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Forjando una Historia](https://open.spotify.com/album/4cuJk8bQyqPBuTom3C16uo) | 3:06 |
-| 61 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Me Rindo](https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj) | 3:09 |
+| 60 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Me Rindo](https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj) | 3:09 |
+| 61 | [No Importa Tu Madre](https://open.spotify.com/track/2aCrEvIR8thExGbWJiwcrE) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Forjando una Historia](https://open.spotify.com/album/4cuJk8bQyqPBuTom3C16uo) | 3:06 |
 | 62 | [Dos Botellas De Mezcal](https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Millas Y Millas](https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM) | 3:16 |
-| 63 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
-| 64 | [Basta Ya](https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor Que Nunca Fue](https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT) | 3:24 |
+| 63 | [Basta Ya](https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor Que Nunca Fue](https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT) | 3:24 |
+| 64 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
 | 65 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 |
 | 66 | [Prefiero Partir](https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Yo Vendo Unos Ojos Verdes](https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ) | 3:17 |
 | 67 | [Delante De Mi](https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:02 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 100 | [Seremos](https://open.spotify.com/track/7b1WTbklioT0ScQUHGjS2f) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 3:28 |
 | 101 | [Cobijas Ajenas](https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Cobijas Ajenas](https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M) | 2:40 |
 | 102 | [Te He Prometido](https://open.spotify.com/track/0EEch8uGilw3eU2Dzoy32U) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Mejor de Leo Dan Ahora con Mariachi](https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b) | 2:42 |
-| 103 | [Culpable Tú](https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 3:51 |
-| 104 | [Me Gusta Estar Contigo](https://open.spotify.com/track/3gTeuKp97kY5JAtERKfaIp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Te Llegará Mi Olvido](https://open.spotify.com/album/1wPQmJqHHgHe8dTuP1yTAQ) | 2:17 |
+| 103 | [Me Gusta Estar Contigo](https://open.spotify.com/track/3gTeuKp97kY5JAtERKfaIp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Te Llegará Mi Olvido](https://open.spotify.com/album/1wPQmJqHHgHe8dTuP1yTAQ) | 2:17 |
+| 104 | [Culpable Tú](https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 3:51 |
 | 105 | [Gato de Madrugada](https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Gato de Madrugada](https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0) | 4:04 |
 | 106 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 |
 | 107 | [Préstamela a Mi](https://open.spotify.com/track/05ZVJRpH2rS1tsoB4gNYof) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 3:39 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 122 | [La Canelera](https://open.spotify.com/track/4mHff3K0s1s8An8waTlHL1) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [Como Duele Saber](https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo) | 3:18 |
 | 123 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 |
 | 124 | [Pienso En Ella](https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pienso En Ella](https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC) | 2:39 |
-| 125 | [Y Si Se Quiere Ir](https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Y Si Se Quiere Ir](https://open.spotify.com/album/6o7M6eInloIKefh7YsXEJR) | 3:19 |
+| 125 | [Partido En Dos](https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Partido En Dos](https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw) | 3:46 |
 
 Snapshot ID: `AAAAACLvvP5XtfGxaBMNtV5j8sKHfau8`

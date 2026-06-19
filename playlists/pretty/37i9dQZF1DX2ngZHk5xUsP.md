@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,789 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,791 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 24 | [Bertaruh Pada Api](https://open.spotify.com/track/0TblrOwGd4j8YK0cdTRo5v) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Bertaruh Pada Api](https://open.spotify.com/album/2VOfBP9LA5KsNMFyM35iR1) | 4:30 |
 | 25 | [Tiga Titik Hitam](https://open.spotify.com/track/7Fi3EyFExj8iIumylN29ne) | [Burgerkill](https://open.spotify.com/artist/77X41f0zoHXGhC3a3UvdJk) | [Berkarat](https://open.spotify.com/album/20Lby8PRGQSqfo7kJCz81W) | 5:32 |
 | 26 | [Kosong](https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 3:28 |
-| 27 | [Romantic Purple](https://open.spotify.com/track/1jcAWxx7IYrKXvECW4MwXt) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Let Me Begin](https://open.spotify.com/album/0tqaPIvkArC3EZ8sYmkLAy) | 6:14 |
+| 27 | [Membisu](https://open.spotify.com/track/0MCcd7qtxzOXncK5eFaBeW) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:57 |
 | 28 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 |
-| 29 | [Membisu](https://open.spotify.com/track/0MCcd7qtxzOXncK5eFaBeW) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:57 |
+| 29 | [Romantic Purple](https://open.spotify.com/track/1jcAWxx7IYrKXvECW4MwXt) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Let Me Begin](https://open.spotify.com/album/0tqaPIvkArC3EZ8sYmkLAy) | 6:14 |
 | 30 | [Disappear](https://open.spotify.com/track/4PDQYHp5YzHFcfoxDMIDPY) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:15 |
 | 31 | [Kalam](https://open.spotify.com/track/0m0ZGGpcLSR074LZHmwygB) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Kalam](https://open.spotify.com/album/2LqkY37FJu6Vs0Tjeju2NR) | 1:58 |
 | 32 | [pizza pepperoni](https://open.spotify.com/track/57S5BHScJunq9w9Z5Aa0Df) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [pizza pepperoni](https://open.spotify.com/album/5UfIQx3mYTyOslGlsPotyL) | 2:20 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 39 | [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 |
 | 40 | [False Alarm](https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [SPECTRUM](https://open.spotify.com/album/40BU39M6MTjelshDop9fHm) | 5:59 |
 | 41 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 |
-| 42 | [Memadu Rindu](https://open.spotify.com/track/5xbGCLl2WxSPmAQ0AeTLmy) | [Soenji](https://open.spotify.com/artist/5LFvlAVJttO2Jf0TNaDdHd) | [Memadu Rindu](https://open.spotify.com/album/4ERITkLvbx6nmiBFRSqMPo) | 4:11 |
-| 43 | [HEATWAVE](https://open.spotify.com/track/5Z4THUUkogX97uuTAaTbj9) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:55 |
+| 42 | [HEATWAVE](https://open.spotify.com/track/5Z4THUUkogX97uuTAaTbj9) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:55 |
+| 43 | [Memadu Rindu](https://open.spotify.com/track/5xbGCLl2WxSPmAQ0AeTLmy) | [Soenji](https://open.spotify.com/artist/5LFvlAVJttO2Jf0TNaDdHd) | [Memadu Rindu](https://open.spotify.com/album/4ERITkLvbx6nmiBFRSqMPo) | 4:11 |
 | 44 | [Spoken](https://open.spotify.com/track/0H5DgLDteF1kBLqQVTKCQ6) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:41 |
 | 45 | [Violet](https://open.spotify.com/track/6PjgY0Sfp9RWCtlNXoUoKf) | [Rrag](https://open.spotify.com/artist/6tTVXxmZWe3xiWFNl2l1eV) | [Violet](https://open.spotify.com/album/5aRbnZd7V7Z7cJQ3tijjrF) | 2:48 |
 | 46 | [Surfin' Java](https://open.spotify.com/track/1gZilfYqLdnpOtc33O2OyM) | [The Mentawais](https://open.spotify.com/artist/0hj0i2IkfZpSCUPPFqVMhR) | [Surfin' Java](https://open.spotify.com/album/3uT9x3fRiGdHWWsH59yOvG) | 3:25 |

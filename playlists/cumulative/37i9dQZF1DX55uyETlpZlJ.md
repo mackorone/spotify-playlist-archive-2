@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK \- Alok
 
-677 songs - 1 day 14 hr 27 min
+678 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Love U Dia](https://open.spotify.com/track/1OJ9OGqVw2IShCyaTrxXR2) | [Shameer Mudipu](https://open.spotify.com/artist/7ey1yG4zjWT6QvVl6PiMHN) | [Love U Dia](https://open.spotify.com/album/5CIGmqNeoeBygTISjLUwHw) | 4:51 | 2024-02-09 | 2024-06-18 |
 | [Love You Appa](https://open.spotify.com/track/5mr3rb3qVTLtJNPjizsqNI) | [Manu Sangolli](https://open.spotify.com/artist/12ZR4TMf5V2fOVymcCUeJY), [Deepu Gowda S](https://open.spotify.com/artist/3w7IOfIkKmpVMpL5XYJvKX), [Yashwanth Bhupathi](https://open.spotify.com/artist/2pO1ahdhpA7V2l0JItxTFp) | [Love You Appa](https://open.spotify.com/album/0FZd4X3RtrndvGTKd8JQ0H) | 3:27 | 2024-11-08 | 2025-04-02 |
 | [Maatigi Tappidenga Maduvigi Oppidenga](https://open.spotify.com/track/28iYbUjfYzQNkcduFEbp4m) | [Shivu Hugar](https://open.spotify.com/artist/6OXe2rlWVfCTjR5L56M0Nd) | [Maatigi Tappidenga Maduvigi Oppidenga](https://open.spotify.com/album/7je2Gv73NRMvkrJCEtsMgk) | 5:56 | 2025-04-28 | 2025-11-08 |
+| [Maaye](https://open.spotify.com/track/5Peit3m6hkYPSOohtGk0Wu) | [Mysore Xpress](https://open.spotify.com/artist/3z6Qc4vYphJb18Rr0jGHuC) | [Maaye](https://open.spotify.com/album/2gPHStaeEs6sWjh45UeafW) | 4:44 | 2026-06-18 |  |
 | [Maaye](https://open.spotify.com/track/0Ulwf4CxhoKaaqDgNAgja9) | [RaiSon](https://open.spotify.com/artist/7BeOC4noWoC7o7zTeHkVJc) | [Maaye](https://open.spotify.com/album/22VakWdcdmjkEeWmXDKz3Y) | 3:22 | 2026-01-14 |  |
 | [Maaye](https://open.spotify.com/track/35ZHQmmw1gdZZRebhOZoQV) | [Vishak Nagalapura](https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S), [Sumveditha Subhash](https://open.spotify.com/artist/387lWEfFDmxDhckWU9n5kn), [MAD\-D](https://open.spotify.com/artist/3UsL1DCgQGOJdiUfn80wCb), [Padani Tales](https://open.spotify.com/artist/60jAGG92GWc2lCjX2SYIw3) | [Maaye](https://open.spotify.com/album/4Q1AMpdHAQhapMHws822Ry) | 3:25 | 2026-05-22 |  |
 | [Madanaari](https://open.spotify.com/track/4xzx4jWCxPwXQNyVcQz3Sq) | [Chethan Shrinivas](https://open.spotify.com/artist/4xCYkVYorLsSPfALQ9FLem), [Kiran Manjunath](https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz) | [Madanaari](https://open.spotify.com/album/6r93mUXmJovD9aAJODJHCF) | 4:07 | 2024-06-21 | 2024-12-20 |

@@ -1,6 +1,6 @@
 {
   "description": "El Malo del Bronx y su legado siempre estar\u00e1n presentes. DEP, Willie Col\u00f3n. ",
-  "num_followers": 429238,
+  "num_followers": 429236,
   "original_name": "Willie Col\u00f3n Por Siempre",
   "owner": {
     "name": "Spotify",
@@ -815,8 +815,8 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
         }
       ],
-      "duration_ms": 229613,
-      "name": "Y Nos Amamos",
-      "url": "https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo"
+      "duration_ms": 308893,
+      "name": "Aqu\u00e9l Viejo Motel",
+      "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -895,8 +895,8 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
         }
       ],
-      "duration_ms": 308893,
-      "name": "Aqu\u00e9l Viejo Motel",
-      "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
+      "duration_ms": 229613,
+      "name": "Y Nos Amamos",
+      "url": "https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -1219,8 +1219,8 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "La Danza de la Chancaca",
-        "url": "https://open.spotify.com/album/4LLCCwFbIYh4nZ5JOxRntj"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
       "artists": [
         {
@@ -1228,9 +1228,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 328085,
-      "name": "Se Parecio Tanto a Ti",
-      "url": "https://open.spotify.com/track/1FjpX1UgBlhGJioQEe3vgT"
+      "duration_ms": 302866,
+      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "Amor de Motel",
-        "url": "https://open.spotify.com/album/3x5qI3YV9ZwatyKtRtlpMO"
-      },
-      "artists": [
-        {
-          "name": "Servando & Florentino",
-          "url": "https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 218617,
-      "name": "Amor De Motel",
-      "url": "https://open.spotify.com/track/3Y9xSA5xHyZWijtyWaVILT"
-    },
-    {
-      "added_at": "2026-02-23 19:56:34",
-      "album": {
         "name": "La Noche",
         "url": "https://open.spotify.com/album/4BfxN7T83kFNWVzgxDaXJb"
       },
@@ -1943,6 +1923,26 @@
       "duration_ms": 200599,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/4719W4pIdmaH0tawsJBeNf"
+    },
+    {
+      "added_at": "2026-02-23 19:56:34",
+      "album": {
+        "name": "Amor de Motel",
+        "url": "https://open.spotify.com/album/3x5qI3YV9ZwatyKtRtlpMO"
+      },
+      "artists": [
+        {
+          "name": "Servando & Florentino",
+          "url": "https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 218617,
+      "name": "Amor De Motel",
+      "url": "https://open.spotify.com/track/3Y9xSA5xHyZWijtyWaVILT"
     },
     {
       "added_at": "2026-02-23 19:56:34",

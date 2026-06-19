@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202421,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0"
+    },
+    {
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/1k6BwqyMHqnUAwbpsL27G4"
       },
@@ -1510,6 +1528,42 @@
       "duration_ms": 188100,
       "name": "That Ain't Gonna Work",
       "url": "https://open.spotify.com/track/5GMBBeXAaPginxJD3Xr6sV"
+    },
+    {
+      "album": {
+        "name": "DIRTY BLONDE",
+        "url": "https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167670,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/60dpMYZvPWD9tqbMthIZcV"
+    },
+    {
+      "album": {
+        "name": "Too Easy",
+        "url": "https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114867,
+      "name": "Too Easy",
+      "url": "https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS"
     },
     {
       "album": {

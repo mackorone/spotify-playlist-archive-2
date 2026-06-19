@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 
 > 
 
-[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 27 songs - 1 hr 27 min
+[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 29 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,5 +35,7 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 | 25 | [what’s wrong with me](https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:44 |
 | 26 | [less](https://open.spotify.com/track/1LmRAxdZUEM9xc2wNivy1y) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:13 |
 | 27 | [expectations](https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:41 |
+| 28 | [Monochromatic](https://open.spotify.com/track/5Y2Eh5Bmj3lwlWoY7mqAIL) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z) | 2:44 |
+| 29 | [She Gets It from Her Mother](https://open.spotify.com/track/2WFuYRB8SURvNMBtsonZog) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 3:24 |
 
-Snapshot ID: `AAABzPCKVDZIJqJd5S/UakQeNbttc2wE`
+Snapshot ID: `AAABzlRS2XVzx+iWsoIySAGLxtmeUjTg`

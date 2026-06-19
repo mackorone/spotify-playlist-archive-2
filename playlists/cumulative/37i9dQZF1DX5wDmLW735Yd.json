@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Hybrid Minds",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Born On Road",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -670,6 +670,24 @@
       "duration_ms": 168457,
       "name": "All 4 U",
       "url": "https://open.spotify.com/track/2mPeYGo1y7vwkz6vU5dVbI"
+    },
+    {
+      "album": {
+        "name": "All Gas No Brakes",
+        "url": "https://open.spotify.com/album/4FFgyJ9CwPSjImwRnTkHyX"
+      },
+      "artists": [
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224738,
+      "name": "All Gas No Brakes",
+      "url": "https://open.spotify.com/track/2vUxFrEwyl98CsSGqh4qRy"
     },
     {
       "album": {
@@ -1498,6 +1516,40 @@
       "duration_ms": 273146,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/5yFrMVWcw6xSKjxgLvxWJD"
+    },
+    {
+      "album": {
+        "name": "BACK 2 LIFE",
+        "url": "https://open.spotify.com/album/4dHTupEEMHVuuGQQA69ksz"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        },
+        {
+          "name": "Zimma",
+          "url": "https://open.spotify.com/artist/2X8qMxgCpHQqlVSjXu7z6w"
+        },
+        {
+          "name": "Liv Campbell",
+          "url": "https://open.spotify.com/artist/0tnzJk2sh7IKujnXHz2oKV"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170057,
+      "name": "BACK 2 LIFE",
+      "url": "https://open.spotify.com/track/0GMeW8uDI1ZJsCPFvdk1T1"
     },
     {
       "album": {
@@ -4346,7 +4398,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 227441,
       "name": "Chase The Lights",
       "url": "https://open.spotify.com/track/3OGjFeCcmJSR0GFNOWjoLG"
@@ -5198,7 +5250,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 187575,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/5GI2QctsuiQejkyfxtg6Xi"
@@ -5686,7 +5738,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 219000,
       "name": "DECISION",
       "url": "https://open.spotify.com/track/0xcVvOOLPgx7kbrLdGOZuL"
@@ -7416,7 +7468,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 173448,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/0EZApStXhKzC0LrHbmcLJO"
@@ -7844,6 +7896,24 @@
       "duration_ms": 220711,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/2PkJD0EZfKpODl8A2GXf4W"
+    },
+    {
+      "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/6XX7EARcY3yVWrIhm5l8L9"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180689,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/3HiRpvyo4sjYumFPRUqA4v"
     },
     {
       "album": {
@@ -11045,6 +11115,24 @@
     },
     {
       "album": {
+        "name": "Hold On Me",
+        "url": "https://open.spotify.com/album/083Amhd1Pwa9y3G2B8QvrP"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Hold On Me",
+      "url": "https://open.spotify.com/track/5dBZB6rvac4JOywPJn6VWG"
+    },
+    {
+      "album": {
         "name": "Hold up your Hands",
         "url": "https://open.spotify.com/album/78G5Ob58zI8nAGPzczyAWk"
       },
@@ -11086,7 +11174,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 183000,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/1yIGvFZxmJ2nJmCzSensSH"
@@ -11416,7 +11504,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 171771,
       "name": "I Just Can't Get Enough",
       "url": "https://open.spotify.com/track/3sRmxZrIYnLB5bQ9h0l1cd"
@@ -11698,7 +11786,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 201379,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/3KWchIluByUzdoJfkwe0Kx"
@@ -12574,6 +12662,24 @@
       "duration_ms": 244531,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/0ijaYwZ2AuH0F9ZNJ5EHFC"
+    },
+    {
+      "album": {
+        "name": "Keep The Fire Burning",
+        "url": "https://open.spotify.com/album/0XqEDolFOzogcQ1NGloaMn"
+      },
+      "artists": [
+        {
+          "name": "Eskei83",
+          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "Keep The Fire Burning",
+      "url": "https://open.spotify.com/track/3lwM2nmvPa6Pomwk8O7pIC"
     },
     {
       "album": {
@@ -15884,7 +15990,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 226206,
       "name": "Naughty",
       "url": "https://open.spotify.com/track/0vhGiH9uWiXR8dVe4Mkk16"
@@ -17514,6 +17620,28 @@
       "duration_ms": 180000,
       "name": "Out of Body",
       "url": "https://open.spotify.com/track/5IIAVsQXrrXzAzSgMHdDJV"
+    },
+    {
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/4MGvTyl9Yj46RtMg5woZf5"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/56bocXIDqq8rOXL3aZcOIG"
     },
     {
       "album": {
@@ -22429,6 +22557,24 @@
     },
     {
       "album": {
+        "name": "Step",
+        "url": "https://open.spotify.com/album/4u801F3mpy8OPQocaXjlm3"
+      },
+      "artists": [
+        {
+          "name": "Tantrum Desire",
+          "url": "https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205517,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/32XslnrEDWn6fVFnY879aA"
+    },
+    {
+      "album": {
         "name": "Step Into The Rave (feat. shadxwgirl)",
         "url": "https://open.spotify.com/album/4ubmhjBFf0VaYpbTIrl64b"
       },
@@ -24117,6 +24263,32 @@
     },
     {
       "album": {
+        "name": "Thread The Needle",
+        "url": "https://open.spotify.com/album/0fm6VUJSwtRw7gLUegaY21"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        },
+        {
+          "name": "So What",
+          "url": "https://open.spotify.com/artist/1ehc36NvSnu1eLd9UHaQYv"
+        },
+        {
+          "name": "Dynamite MC",
+          "url": "https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283618,
+      "name": "Thread The Needle",
+      "url": "https://open.spotify.com/track/64GeDOGstypWAsuvnztMnL"
+    },
+    {
+      "album": {
         "name": "Thunderstorm (feat. Deyaz)",
         "url": "https://open.spotify.com/album/1XhCYaSTL2RoT0cNvpJcsV"
       },
@@ -24494,7 +24666,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 225000,
       "name": "TRAP",
       "url": "https://open.spotify.com/track/1CvskjThJcfXmxbLbW7Lzc"
@@ -25938,6 +26110,24 @@
       "duration_ms": 255690,
       "name": "Whales",
       "url": "https://open.spotify.com/track/6J17cbhyuW7wdo20vcDn2x"
+    },
+    {
+      "album": {
+        "name": "What Can I Do",
+        "url": "https://open.spotify.com/album/1B2434Cr2Q9G09VJbkc8k0"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198667,
+      "name": "What Can I Do",
+      "url": "https://open.spotify.com/track/5FP1dR0ttFHQOCvrSiMsCo"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35554,
+  "num_followers": 35555,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAACgfzZdEDKvb6BWB5vEP7Th",
+  "snapshot_id": "ajHjgAAAAAB4KLvWlvPeeBs9yhv5DJCt",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Let The Future Begin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        }
-      ],
-      "duration_ms": 508800,
-      "name": "Revelation Song - Live",
-      "url": "https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roar (Live From Passion 2020)",
         "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 303653,
       "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live",
       "url": "https://open.spotify.com/track/0KigSoVvXDoiuCr1NcEU1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Let The Future Begin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        }
+      ],
+      "duration_ms": 508800,
+      "name": "Revelation Song - Live",
+      "url": "https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call on Heaven (Live)",
-        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 1209226,
-      "name": "Agnus Dei - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/6u2N3zMvMTe2nLiG8xwkQw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just That Good",
         "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
       },
@@ -835,28 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From Camp",
-        "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chidima",
-          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
-        }
-      ],
-      "duration_ms": 423166,
-      "name": "I Speak Jesus - Live From Camp",
-      "url": "https://open.spotify.com/track/5ShHzqdFyGi7e8Kxp9WXHU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Even So Come (Live)",
-        "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
       },
       "artists": [
         {
@@ -868,9 +828,9 @@
           "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 242840,
-      "name": "Shout Hosanna - Live",
-      "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
+      "duration_ms": 1209226,
+      "name": "Agnus Dei - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6u2N3zMvMTe2nLiG8xwkQw"
     },
     {
       "added_at": null,
@@ -895,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live From Camp",
+        "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        }
+      ],
+      "duration_ms": 423166,
+      "name": "I Speak Jesus - Live From Camp",
+      "url": "https://open.spotify.com/track/5ShHzqdFyGi7e8Kxp9WXHU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just That Good",
         "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 352275,
       "name": "Greatness",
       "url": "https://open.spotify.com/track/3sxXIAW6bK1xZghweIwrFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Even So Come (Live)",
+        "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Shout Hosanna - Live",
+      "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
     },
     {
       "added_at": null,
@@ -975,46 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call on Heaven (Live)",
-        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        },
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        }
-      ],
-      "duration_ms": 629368,
-      "name": "Holy Forever - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/6uRlceBRlqaxgqlt1DUcIV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Our Love Is Loud (Live)",
-        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "God Of Wonders - Live",
-      "url": "https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bless God",
         "url": "https://open.spotify.com/album/074Y58Kfks4iXnPCGWlo0O"
       },
@@ -1039,6 +999,46 @@
       "duration_ms": 314535,
       "name": "Bless God - Live From Passion 2024",
       "url": "https://open.spotify.com/track/55891kIDHcEGReUrpD461w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Our Love Is Loud (Live)",
+        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "God Of Wonders - Live",
+      "url": "https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "duration_ms": 629368,
+      "name": "Holy Forever - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6uRlceBRlqaxgqlt1DUcIV"
     },
     {
       "added_at": null,

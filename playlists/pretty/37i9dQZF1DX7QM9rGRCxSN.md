@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Tristeza latina
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,853 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,852 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 38 | [Harakiri Shogun Pt.2](https://open.spotify.com/track/0Gv2BKKQDks4D0OWCptU53) | [Entrelobos](https://open.spotify.com/artist/48DFXshrt8ll6PfYaOcoCJ) | [Golden Boy](https://open.spotify.com/album/4eqQmv2QmIfFjqG7c3mAts) | 3:11 |
 | 39 | [No Vi Mas Allá](https://open.spotify.com/track/5GZwj712P5AjwwsBGNdoa4) | [no somos lo que fuimos](https://open.spotify.com/artist/0DGmPI6KNfMZHJFf6ePM8A) | [Para Bien / Para Mal, Vol\. 1](https://open.spotify.com/album/0ph7JhSEApz6gCwbeT0eXS) | 4:21 |
 | 40 | [3k](https://open.spotify.com/track/1B9QARNqTkzIUosalq7d7g) | [Kumatora](https://open.spotify.com/artist/22c7RZg1HnmhTs96YEJLYs) | [lo único incómodo \(es\) que nos vamos a encontrar](https://open.spotify.com/album/5QKRBZ05aG8NOQIqsz0oPx) | 1:44 |
-| 41 | [Kabuki](https://open.spotify.com/track/4Sf7foZWDZXcsiFCFKIsTC) | [Fiesta Bizarra](https://open.spotify.com/artist/4LJsadS7NTK4pjcXkNu5Zu) | [LaFlor Records Vol\. 1](https://open.spotify.com/album/6BV2gv6qZ37d4gD4eWRygX) | 1:05 |
-| 42 | [¿Dónde Estás?](https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p) | [Local Champion](https://open.spotify.com/artist/1GSe3n9GErzHAaPcn7fXMT) | [Todo Lo Que Siempre Quise Decirte](https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro) | 2:33 |
+| 41 | [¿Dónde Estás?](https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p) | [Local Champion](https://open.spotify.com/artist/1GSe3n9GErzHAaPcn7fXMT) | [Todo Lo Que Siempre Quise Decirte](https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro) | 2:33 |
+| 42 | [Kabuki](https://open.spotify.com/track/4Sf7foZWDZXcsiFCFKIsTC) | [Fiesta Bizarra](https://open.spotify.com/artist/4LJsadS7NTK4pjcXkNu5Zu) | [LaFlor Records Vol\. 1](https://open.spotify.com/album/6BV2gv6qZ37d4gD4eWRygX) | 1:05 |
 | 43 | [Todo es igual](https://open.spotify.com/track/6nzCwtaxALVq9ttc2hHwYT) | [Dan Taylor MX](https://open.spotify.com/artist/3XMLtLBrACQZcPO846w2Ri) | [IV](https://open.spotify.com/album/5vEJgoBOUoxPGyIFQN71k6) | 2:12 |
 | 44 | [Riviera](https://open.spotify.com/track/08vKDopMoW4BHOrGbdWPez) | [AMBR](https://open.spotify.com/artist/46A52Keqzf0gPAfXqWLAVu) | [De Entropía](https://open.spotify.com/album/0ZSPDZ8pneDzOdzn1Zbnhg) | 1:56 |
 | 45 | [Sabado en Alemán](https://open.spotify.com/track/1Ly47nLecje8VHxml8eB9X) | [Teniente](https://open.spotify.com/artist/2gi6IsKTijDybvh79yqx5a) | [Fuseimyaku](https://open.spotify.com/album/7KNyE8ipPRD7FStCbJbzRL) | 4:13 |

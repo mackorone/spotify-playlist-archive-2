@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,246 likes - 94 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,247 likes - 94 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 25 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/6ntFBx30fCwVO2WEF8sJz1) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/0QFW85XzFgWQJcZzOhKQf0) | 2:22 |
 | 26 | [Self Control](https://open.spotify.com/track/14FmT2vkYihAs64ixAbk6t) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 2:54 |
 | 27 | [Crowded Room \(feat\. 6LACK\)](https://open.spotify.com/track/2C0hTkdEoikhKzDCJl32QZ) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:06 |
-| 28 | [New Religion](https://open.spotify.com/track/78BBuc8L0Li1nnCsLaI0vL) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 2:54 |
+| 28 | [New Religion](https://open.spotify.com/track/78BBuc8L0Li1nnCsLaI0vL) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 2:54 |
 | 29 | [All Hands on Deck](https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Aquarius](https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) | 3:41 |
 | 30 | [I Can't Stop Drinking About You \- Chainsmokers Remix](https://open.spotify.com/track/56T1QA7202iW7fZes2PTUe) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [I Can't Stop Drinking About You Remix EP](https://open.spotify.com/album/5AI90HAchDmkZ7A1pDOXlX) | 4:23 |
 | 31 | [Break My Heart Myself \(feat\. Travis Barker\)](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Better Mistakes](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) | 2:31 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 49 | [Gateway Drug](https://open.spotify.com/track/51BroelKJaagm8GOIVFv3f) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [All Your Fault: Pt\. 1](https://open.spotify.com/album/2rBHhp9tNShxTb529Hi5AS) | 3:32 |
 | 50 | [I Don't Wanna Grow Up](https://open.spotify.com/track/7hqeN3XfHv8RMXiVgkjxzj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 4:08 |
 | 51 | [Steady \(feat\. Tory Lanez\)](https://open.spotify.com/track/0XbAySkD2xUPUudQ1a0kGc) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:14 |
-| 52 | [Grace](https://open.spotify.com/track/0xtu9tJlzxiPfHF82g6Xrp) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:16 |
-| 53 | [Beautiful Life \(From the Motion Picture Abominable\)](https://open.spotify.com/track/4jIzlyTApHb6EhDDeGQ7Ee) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Abominable \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5y0JT2ZzdKeUPMhJgGOEe0) | 3:23 |
+| 52 | [Beautiful Life \(From the Motion Picture Abominable\)](https://open.spotify.com/track/4jIzlyTApHb6EhDDeGQ7Ee) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Abominable \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5y0JT2ZzdKeUPMhJgGOEe0) | 3:23 |
+| 53 | [Grace](https://open.spotify.com/track/0xtu9tJlzxiPfHF82g6Xrp) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:16 |
 | 54 | [That's It \(feat\. Gucci Mane & 2 Chainz\)](https://open.spotify.com/track/2AQHxIuLPdPGrvTtgHFASi) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [That's It \(feat\. Gucci Mane & 2 Chainz\)](https://open.spotify.com/album/1TZIM1JxgnT70zR84YmM57) | 3:27 |
 | 55 | [Satellite](https://open.spotify.com/track/72zJrb5M7iv65yms7x6J7b) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bebe](https://open.spotify.com/album/0FWLTTcCKsd3b1PiW9GTEN) | 3:28 |
 | 56 | [Call on Me](https://open.spotify.com/track/6YCsuAqZpHOXadKOj68StH) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 2:50 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 93 | [Party, Fun, Love & Radio \(feat\. J\. Trill\)](https://open.spotify.com/track/02bcP3PjAT5y0o2eCxAJbv) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [J Trill](https://open.spotify.com/artist/6KA6yMLQymzZyrPReCy1A5) | [Party, Fun, Love & Radio](https://open.spotify.com/album/0F6q9ypqrKlsiaRviyoZwG) | 3:25 |
 | 94 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 
-Snapshot ID: `AcUfpgAAAAAkTXfkJkX6J9+elRmPGVZS`
+Snapshot ID: `AcUlggAAAADgQ4qj8G/N/K9SGo+K60Dv`

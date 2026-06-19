@@ -7894,7 +7894,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 217869,
       "name": "begged",
       "url": "https://open.spotify.com/track/2duvkmcQAezPigFEGlERuA"
@@ -10732,7 +10732,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 260936,
       "name": "Boulevard of Broken Dreams",
       "url": "https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO"
@@ -17428,7 +17428,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
@@ -26294,7 +26294,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 138285,
       "name": "H&K x Habits",
       "url": "https://open.spotify.com/track/007tCma4anG4nzhE1jzzSd"
@@ -27416,7 +27416,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
@@ -28872,6 +28872,24 @@
       "duration_ms": 226760,
       "name": "I am from Austria",
       "url": "https://open.spotify.com/track/1JIaXY2yUMPHs0eAzPUjsP"
+    },
+    {
+      "album": {
+        "name": "Von Zeit zu Zeit",
+        "url": "https://open.spotify.com/album/3Yf2qgQJkTdXcKxupk4Gu9"
+      },
+      "artists": [
+        {
+          "name": "Rainhard Fendrich",
+          "url": "https://open.spotify.com/artist/4vWQjpI68kWBNkXOEbi1D6"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226760,
+      "name": "I Am From Austria",
+      "url": "https://open.spotify.com/track/4k6YVbT54FVcFI5dKqKWPZ"
     },
     {
       "album": {
@@ -31212,7 +31230,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -60586,7 +60604,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -60604,7 +60622,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -63164,7 +63182,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 247586,
       "name": "u + me = <3",
       "url": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW"

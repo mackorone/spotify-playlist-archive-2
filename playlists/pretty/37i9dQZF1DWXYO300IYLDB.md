@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,850 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,848 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 91 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
 | 92 | [Heaven \(Butterflies\)](https://open.spotify.com/track/5JYiABJyzqRedaTMLCr0kP) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Heaven \(Butterflies\)](https://open.spotify.com/album/1DiKwaSbeG0G4FXP3GQGb4) | 4:57 |
 | 93 | [このオンガクと共に](https://open.spotify.com/track/62d3DM93Vu7STtVQ9vPRxA) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [このオンガクと共に](https://open.spotify.com/album/3AH87XpZUKF8zknAiZAYe6) | 2:45 |
-| 94 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
-| 95 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
+| 94 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
+| 95 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
 | 96 | [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 |
 | 97 | [たのしいひとり](https://open.spotify.com/track/6jtS7UUrQNrzz8rvycH70P) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [たのしいひとり](https://open.spotify.com/album/76mqPlKogdLjSxmPC7Wopt) | 2:31 |
 | 98 | [Ding\-dong](https://open.spotify.com/track/7w0okOAHEpB4kJjUFIZbu0) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Ding\-dong](https://open.spotify.com/album/2eBnNZdjmBNfER5SuuKQGl) | 2:33 |

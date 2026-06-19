@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Amy Grant",
-  "num_followers": 237481,
+  "num_followers": 237482,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "The Medicine Man",
         "url": "https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 218360,
       "name": "The Medicine Man [Feat. Old Crow Medicine Show]",
       "url": "https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
     },
     {
       "added_at": "2026-05-08 04:02:51",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "Django and Jimmie",
-        "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "Django and Jimmie",
-      "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
       },
@@ -1223,6 +1203,26 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
+        "name": "Django and Jimmie",
+        "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Django and Jimmie",
+      "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
         "name": "Too Blessed to Be Stressed",
         "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 170480,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
     },
     {
       "added_at": "2026-05-08 04:02:51",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 260333,
-      "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
-      "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "Band of Brothers",
         "url": "https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 248240,
       "name": "The Git Go (with Jamey Johnson)",
       "url": "https://open.spotify.com/track/3UtWQppzqaArTONICZWdTR"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 260333,
+      "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
+      "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
     },
     {
       "added_at": "2026-05-08 04:02:51",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
+        "name": "My Favorite Picture Of You",
+        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "My Favorite Picture Of You",
+      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
         "name": "Traveling Alone (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw"
       },
@@ -2039,22 +2055,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "My Favorite Picture Of You",
-        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "My Favorite Picture Of You",
-      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "Copperhead Road (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
       },
@@ -2083,6 +2083,22 @@
       "duration_ms": 288000,
       "name": "Everything Is Free",
       "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "House of the White Rose Bouquet",
+        "url": "https://open.spotify.com/album/7tGQLHItk2nXOE6fOgSIHb"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 203845,
+      "name": "House of the White Rose Bouquet",
+      "url": "https://open.spotify.com/track/2vfmwwTDwEDCaZuss6TzXn"
     },
     {
       "added_at": "2026-05-08 04:02:51",
@@ -2671,22 +2687,6 @@
       "duration_ms": 341293,
       "name": "All The Trouble",
       "url": "https://open.spotify.com/track/0cAINnIaczIxISDFHK3ZSI"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/3ui6POyBTPABrI3dWF4Ntq"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 165877,
-      "name": "Sweet Lucinda",
-      "url": "https://open.spotify.com/track/6HohWRMwZri2QuHUTsIQrM"
     }
   ],
   "unique_name": "Americana Icons",

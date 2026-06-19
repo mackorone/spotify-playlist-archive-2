@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 180815,
       "name": "Een Nacht Als Deze",
       "url": "https://open.spotify.com/track/6NETlrbxNer7Yj9NXhgTiA"
@@ -3330,7 +3330,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 161160,
       "name": "Het midden",
       "url": "https://open.spotify.com/track/5650jkmPhrqy7sdXQ9O9mL"
@@ -4048,7 +4048,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 148319,
       "name": "Ik Bouw Een Huis",
       "url": "https://open.spotify.com/track/5A1Upu21oc90sZLWqDQMnO"
@@ -5006,7 +5006,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 156270,
       "name": "Laat Me - Live",
       "url": "https://open.spotify.com/track/0Li2DcD86qAHxpY4BLQzLV"
@@ -5436,7 +5436,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 165689,
       "name": "Liefde Maakt Blind",
       "url": "https://open.spotify.com/track/2O7T7IQ7mwNIIyp4zdSMb7"
@@ -8181,6 +8181,24 @@
     },
     {
       "album": {
+        "name": "Tranen In De Giftshop",
+        "url": "https://open.spotify.com/album/1OQVA5LvlqTTebTLRHub9f"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186437,
+      "name": "Tranen In De Giftshop",
+      "url": "https://open.spotify.com/track/6TOOdDpUpkx30Om2AGAbiF"
+    },
+    {
+      "album": {
         "name": "Tranen Van Goud",
         "url": "https://open.spotify.com/album/2gJFnppCudFvs1OQprImqB"
       },
@@ -9298,7 +9316,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 213991,
       "name": "What a Woman",
       "url": "https://open.spotify.com/track/4ee5TfmRuMfAD1nMuDuEOU"
@@ -9828,10 +9846,28 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 152542,
       "name": "Zullen We Nog \u00c9\u00e9n Keer",
       "url": "https://open.spotify.com/track/49G3wD1wQh7xbHO84VYFvW"
+    },
+    {
+      "album": {
+        "name": "Zwoele Zomernachten",
+        "url": "https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195454,
+      "name": "Zwoele Zomernachten",
+      "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"
     },
     {
       "album": {

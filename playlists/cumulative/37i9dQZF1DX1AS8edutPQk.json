@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 157147,
       "name": "How Far I'll Go",
       "url": "https://open.spotify.com/track/5ukFZPFDJtUCAZOp7JCBB6"
@@ -1982,6 +1982,24 @@
       "duration_ms": 195281,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/2NyNNi0AOVKb2ER9TdzbRK"
+    },
+    {
+      "album": {
+        "name": "Reflection (Arr. Hough for Piano) [From \"Mulan\"]",
+        "url": "https://open.spotify.com/album/6v2uCx9zVpGxPv5H7DYENJ"
+      },
+      "artists": [
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Reflection (Arr. Hough for Piano) - From \"Mulan\"",
+      "url": "https://open.spotify.com/track/5SBUp8syebN6SgKcbFTCOw"
     },
     {
       "album": {

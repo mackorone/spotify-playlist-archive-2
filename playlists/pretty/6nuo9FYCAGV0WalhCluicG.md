@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. Featuring the biggest names and rising stars shaping the UK scene, including Nemzzz, EsDeeKid, KidWild and more\.  Newest Hit: GEEKIN \- Nemzzz, Lil Yachty Cover: Nemzzz.
 
-[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 70,858 likes - 70 songs - 3 hr 0 min
+[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 70,852 likes - 70 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 | 69 | [TRIPLE THREAT](https://open.spotify.com/track/2URQXBVDvENWHvUodr5ScN) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [TRIPLE THREAT](https://open.spotify.com/album/4ClTS36W38BNdWMFNvvFam) | 3:17 |
 | 70 | [Money And Power](https://open.spotify.com/track/3pH4Si4NME7K5zTQl7boxa) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Money And Power](https://open.spotify.com/album/1Q8Q8RGVNJXcef65DQYS1N) | 2:06 |
 
-Snapshot ID: `AAAMQHAWEeGLtBalKK28zQx8SFv+USLD`
+Snapshot ID: `AAAMQY9NtU3kPONSZW9h2zfmeeOUK3dJ`

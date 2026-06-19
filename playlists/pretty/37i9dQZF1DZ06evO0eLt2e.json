@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31998,
+  "num_followers": 32000,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABbWXV3fQ7OgquZVxN2e89B",
+  "snapshot_id": "ajHjgAAAAADnytPWcPt+crKhXYhqmfNN",
   "tracks": [
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country State Of Mind",
-        "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 180472,
-      "name": "Why Me",
-      "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 157733,
       "name": "Please Don't Tell Me How the Story Ends",
       "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country State Of Mind",
+        "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 180472,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
     },
     {
       "added_at": null,
@@ -1123,22 +1123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "Good Morning John",
-      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Star Is Born",
         "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 174560,
       "name": "Lost Inside of You",
       "url": "https://open.spotify.com/track/1eZfMt7r4l33HkFHJ6ffJo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "Good Morning John",
+      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
     },
     {
       "added_at": null,
@@ -1247,22 +1247,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extras",
-        "url": "https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y"
+        "name": "Joyful Noise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9"
       },
       "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         },
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/1eAsLHhN9eQnxU446lhCkR"
         }
       ],
-      "duration_ms": 198193,
-      "name": "Eye of the Storm (with Willie Nelson)",
-      "url": "https://open.spotify.com/track/7zntn2S272qOfguB7JVlvN"
+      "duration_ms": 264266,
+      "name": "From Here To The Moon and Back",
+      "url": "https://open.spotify.com/track/3dH70eSrjCoWNl9VGX5Giq"
     },
     {
       "added_at": null,
@@ -1291,26 +1295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyful Noise (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9"
+        "name": "Extras",
+        "url": "https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y"
       },
       "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         },
         {
-          "name": "Jeremy Jordan",
-          "url": "https://open.spotify.com/artist/1eAsLHhN9eQnxU446lhCkR"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 264266,
-      "name": "From Here To The Moon and Back",
-      "url": "https://open.spotify.com/track/3dH70eSrjCoWNl9VGX5Giq"
+      "duration_ms": 198193,
+      "name": "Eye of the Storm (with Willie Nelson)",
+      "url": "https://open.spotify.com/track/7zntn2S272qOfguB7JVlvN"
     },
     {
       "added_at": null,

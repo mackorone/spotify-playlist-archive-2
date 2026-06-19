@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,325 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,344 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 29 | [Sylvia's Mother](https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Doctor Hook](https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm) | 3:48 |
 | 30 | [We've Only Just Begun](https://open.spotify.com/track/7nXZCcFAy1oCKQG2SqLszv) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 3:04 |
 | 31 | [Fooled Around And Fell In Love](https://open.spotify.com/track/6BJTagJUFeUxHpVWxTmatw) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Boogie Nights \#2 \(More Music From The Original Motion Picture\)](https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb) | 4:34 |
-| 32 | [Make It with You](https://open.spotify.com/track/11gfsr13S8qsfN48IILcHU) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [The Best of Bread](https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx) | 3:12 |
-| 33 | [Kiss You All Over](https://open.spotify.com/track/3FGcQkWQlkeB82RdZwlw8V) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Greatest Hits](https://open.spotify.com/album/7orQwVEEjByRj9hT98frwo) | 3:34 |
+| 32 | [Kiss You All Over](https://open.spotify.com/track/3FGcQkWQlkeB82RdZwlw8V) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Greatest Hits](https://open.spotify.com/album/7orQwVEEjByRj9hT98frwo) | 3:34 |
+| 33 | [Make It with You](https://open.spotify.com/track/11gfsr13S8qsfN48IILcHU) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [The Best of Bread](https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx) | 3:12 |
 | 34 | [Dancing In The Moonlight](https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing In The Moonlight](https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s) | 2:58 |
 | 35 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
 | 36 | [Fire](https://open.spotify.com/track/65lHwG8JFJs67PnOUhCYPq) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Energy \(Expanded Edition\)](https://open.spotify.com/album/1aKaiiPUuycMQa4ugZXArH) | 3:30 |
-| 37 | [Listen to the Music](https://open.spotify.com/track/2fja4gHzPsIXiK4bMeU0hN) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Best of The Doobies](https://open.spotify.com/album/32xyhzHlGGsDvs1E7qihRA) | 3:47 |
-| 38 | [Rock Me Gently](https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w) | [Andy Kim](https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli) | [Greatest Hits](https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C) | 3:28 |
+| 37 | [Rock Me Gently](https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w) | [Andy Kim](https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli) | [Greatest Hits](https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C) | 3:28 |
+| 38 | [Listen to the Music](https://open.spotify.com/track/2fja4gHzPsIXiK4bMeU0hN) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Best of The Doobies](https://open.spotify.com/album/32xyhzHlGGsDvs1E7qihRA) | 3:47 |
 | 39 | [Midnight Train to Georgia](https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:40 |
 | 40 | [Bye Bye Baby](https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Once Upon A Star](https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl) | 2:50 |
 | 41 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 |

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 24877,
+  "num_followers": 24886,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Freaky As Me",
-        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 129662,
-      "name": "Freaky As Me (feat. latto)",
-      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 189813,
       "name": "I Like (feat. Karlae & Coi Leray)",
       "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
     },
     {
       "added_at": "2022-10-01 20:31:11",

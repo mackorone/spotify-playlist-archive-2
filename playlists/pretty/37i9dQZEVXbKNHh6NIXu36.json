@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Austria.",
-  "num_followers": 113687,
+  "num_followers": 113697,
   "original_name": "Top 50 - Austria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "McYZWAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "McdviAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "KITSCHKRIEG ZWEI",
         "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
@@ -33,43 +33,7 @@
       "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "KILLY MANJARO",
-        "url": "https://open.spotify.com/album/2iYCjwIYCULB69wNmigHlg"
-      },
-      "artists": [
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        },
-        {
-          "name": "BILLA JOE",
-          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "KILLY MANJARO",
-      "url": "https://open.spotify.com/track/4rcQuHo8PhGshmvEVJZ4T5"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "stupid song",
-      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
@@ -89,7 +53,59 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "KILLY MANJARO",
+        "url": "https://open.spotify.com/album/2iYCjwIYCULB69wNmigHlg"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "KILLY MANJARO",
+      "url": "https://open.spotify.com/track/4rcQuHo8PhGshmvEVJZ4T5"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "Stripes And Stars",
+        "url": "https://open.spotify.com/album/7LFeCxlA4qzn1Wg3UjW28V"
+      },
+      "artists": [
+        {
+          "name": "Das Nationalteam",
+          "url": "https://open.spotify.com/artist/7K1j63MhMZudcSM7tfi8TX"
+        }
+      ],
+      "duration_ms": 214205,
+      "name": "Stripes And Stars",
+      "url": "https://open.spotify.com/track/27z0coyrwBdRJPM1RiankB"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -109,23 +125,7 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 297090,
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -157,7 +157,23 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -189,10 +205,10 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
       "artists": [
         {
@@ -202,42 +218,10 @@
       ],
       "duration_ms": 227333,
       "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
+      "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 258296,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 224998,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "hate that i made you love me",
         "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
@@ -253,23 +237,23 @@
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
-        "name": "Stripes And Stars",
-        "url": "https://open.spotify.com/album/7LFeCxlA4qzn1Wg3UjW28V"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "Das Nationalteam",
-          "url": "https://open.spotify.com/artist/7K1j63MhMZudcSM7tfi8TX"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 214205,
-      "name": "Stripes And Stars",
-      "url": "https://open.spotify.com/track/27z0coyrwBdRJPM1RiankB"
+      "duration_ms": 258296,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
@@ -289,7 +273,23 @@
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -305,107 +305,7 @@
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "honeybee",
-      "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "TRIPPIN",
-        "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Mapei",
-          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
-        }
-      ],
-      "duration_ms": 202881,
-      "name": "TRIPPIN",
-      "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "BALOTELLI",
-        "url": "https://open.spotify.com/album/0pTThI32LGOQCk2NynT10A"
-      },
-      "artists": [
-        {
-          "name": "THIZZY52",
-          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "BALOTELLI",
-      "url": "https://open.spotify.com/track/0KBV8ASFRhAioNS7SvEtqa"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "Dream Your Life Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "Bangaranga",
-        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
-      },
-      "artists": [
-        {
-          "name": "DARA",
-          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
-        }
-      ],
-      "duration_ms": 177995,
-      "name": "Bangaranga",
-      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
@@ -425,7 +325,23 @@
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
@@ -434,34 +350,66 @@
         {
           "name": "Olivia Rodrigo",
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "name": "Robert Smith",
-          "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
         }
       ],
-      "duration_ms": 224906,
-      "name": "what\u2019s wrong with me",
-      "url": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv"
+      "duration_ms": 223013,
+      "name": "honeybee",
+      "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+        "name": "TRIPPIN",
+        "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
         }
       ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+      "duration_ms": 202881,
+      "name": "TRIPPIN",
+      "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "BALOTELLI",
+        "url": "https://open.spotify.com/album/0pTThI32LGOQCk2NynT10A"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "BALOTELLI",
+      "url": "https://open.spotify.com/track/0KBV8ASFRhAioNS7SvEtqa"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "Hybrid Theory (Bonus Edition)",
         "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
@@ -477,39 +425,7 @@
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "my way",
-      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 240100,
-      "name": "maggots for brains",
-      "url": "https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "Run Run River (Angels Above Me)",
         "url": "https://open.spotify.com/album/78vBqtV0zN5JKWPTBVbGid"
@@ -533,151 +449,23 @@
       "url": "https://open.spotify.com/track/0Xe2FjyQndr2LsRD820iR3"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 221958,
-      "name": "expectations",
-      "url": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT"
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 267373,
-      "name": "We Are The People",
-      "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "All That We Needed",
-        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
-      },
-      "artists": [
-        {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Hey There Delilah",
-      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 193848,
-      "name": "less",
-      "url": "https://open.spotify.com/track/16xRAbH0vI3iKvDEhWQ4ZO"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "Caribou (Remastered 1995)",
-        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "The Bitch Is Back - Remastered 1995",
-      "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
@@ -693,119 +481,55 @@
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv"
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
       },
       "artists": [
         {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 151741,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+        "name": "Von Zeit zu Zeit",
+        "url": "https://open.spotify.com/album/3Yf2qgQJkTdXcKxupk4Gu9"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Rainhard Fendrich",
+          "url": "https://open.spotify.com/artist/4vWQjpI68kWBNkXOEbi1D6"
         }
       ],
-      "duration_ms": 247586,
-      "name": "u + me = <3",
-      "url": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW"
+      "duration_ms": 226760,
+      "name": "I Am From Austria",
+      "url": "https://open.spotify.com/track/4k6YVbT54FVcFI5dKqKWPZ"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Earrings",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+      "duration_ms": 197142,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Sex on Fire",
-      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "H&K x Habits",
-        "url": "https://open.spotify.com/album/1vOlHi5JeYW53B2jmatHbr"
-      },
-      "artists": [
-        {
-          "name": "Mog\u00e9line",
-          "url": "https://open.spotify.com/artist/0mjIX0ELB8t0zFrwvb4Ik6"
-        }
-      ],
-      "duration_ms": 138285,
-      "name": "H&K x Habits",
-      "url": "https://open.spotify.com/track/007tCma4anG4nzhE1jzzSd"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 217869,
-      "name": "begged",
-      "url": "https://open.spotify.com/track/2duvkmcQAezPigFEGlERuA"
-    },
-    {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "Illuminate",
         "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
@@ -821,7 +545,135 @@
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "my way",
+      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 240100,
+      "name": "maggots for brains",
+      "url": "https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 221958,
+      "name": "expectations",
+      "url": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "Sex on Fire",
+      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "Caribou (Remastered 1995)",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "The Bitch Is Back - Remastered 1995",
+      "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "THE FIRST TIME (DELUXE VERSION)",
         "url": "https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f"
@@ -837,7 +689,75 @@
       "url": "https://open.spotify.com/track/6WhwHYd38f4ZB2CefpDgLo"
     },
     {
-      "added_at": "2026-06-17 15:09:14",
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Robert Smith",
+          "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "what\u2019s wrong with me",
+      "url": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 267373,
+      "name": "We Are The People",
+      "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -851,6 +771,86 @@
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 260936,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 193848,
+      "name": "less",
+      "url": "https://open.spotify.com/track/16xRAbH0vI3iKvDEhWQ4ZO"
+    },
+    {
+      "added_at": "2026-06-18 16:25:18",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 151741,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
     }
   ],
   "unique_name": "Top 50 - Austria",

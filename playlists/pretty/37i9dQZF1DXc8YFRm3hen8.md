@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > Tu dosis diaria de rock 📸 El Kuelgue
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,918 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,928 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 39 | [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 |
 | 40 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 |
 | 41 | [Un Pacto \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 4:55 |
-| 42 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 |
-| 43 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
+| 42 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
+| 43 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 |
 | 44 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
 | 45 | [Un Dia Perfecto](https://open.spotify.com/track/5w3GTe4W2fHBC3tLnqCr1B) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Sistema Nervioso Central](https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4) | 4:02 |
 | 46 | [Madrugada](https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:41 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 69 | [Los chicos](https://open.spotify.com/track/6UdCeS92BsXBNoITIxVqdi) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [La lengua popular](https://open.spotify.com/album/5MQ7xWpg5tP0uebwdcdyYk) | 3:11 |
 | 70 | [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 |
 | 71 | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Andy Summers](https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr) | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH) | 4:43 |
-| 72 | [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 |
-| 73 | [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 |
+| 72 | [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 |
+| 73 | [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 |
 | 74 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 |
 | 75 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 |
 | 76 | [Se Me Hizo Tarde](https://open.spotify.com/track/5iCQLeTVLauWAM3N0shr4P) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Dirección](https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD) | 3:57 |

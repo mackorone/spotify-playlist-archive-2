@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 
 > hop in and take the long way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,791 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,742 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 46 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
 | 47 | [Wild](https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
 | 48 | [Dreamsicle](https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:44 |
-| 49 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
+| 49 | [Don't](https://open.spotify.com/track/2q9YHakYN697yPpEitqybk) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Don't](https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS) | 3:02 |
 | 50 | [Rolling](https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 2:51 |
-| 51 | [Don't](https://open.spotify.com/track/2q9YHakYN697yPpEitqybk) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Don't](https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS) | 3:02 |
-| 52 | [Untitled \#4](https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Third Gleam](https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2) | 4:04 |
+| 51 | [Untitled \#4](https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Third Gleam](https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2) | 4:04 |
+| 52 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
 | 53 | [Northern Attitude](https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR) | 4:27 |
 | 54 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 |
 | 55 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 64 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 |
 | 65 | [Rococo Zephyr](https://open.spotify.com/track/4pptcDdsgxN4qsjOOzotI6) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB) | 5:42 |
 | 66 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 |
-| 67 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 |
+| 67 | [Going On A Feeling](https://open.spotify.com/track/7yq3HE1RNBTRAw8YG8xtdT) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Thrilled To Be Here](https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ) | 4:24 |
 | 68 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 |
-| 69 | [Going On A Feeling](https://open.spotify.com/track/7yq3HE1RNBTRAw8YG8xtdT) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Thrilled To Be Here](https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ) | 4:24 |
+| 69 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 |
 | 70 | [The Love Still Held Me Near](https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 5:23 |
 | 71 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
-| 72 | [I'm Ready](https://open.spotify.com/track/7oO94Tv1jcfpn1NZXolLJU) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 3:59 |
-| 73 | [Sunset Canyon](https://open.spotify.com/track/3kXrgO7Sl0jgURAv7boX5q) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV) | [Foxwarren](https://open.spotify.com/album/7AQ1f6J9I55bW2qYPJbWgp) | 4:20 |
+| 72 | [Sunset Canyon](https://open.spotify.com/track/3kXrgO7Sl0jgURAv7boX5q) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV) | [Foxwarren](https://open.spotify.com/album/7AQ1f6J9I55bW2qYPJbWgp) | 4:20 |
+| 73 | [I'm Ready](https://open.spotify.com/track/7oO94Tv1jcfpn1NZXolLJU) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 3:59 |
 | 74 | [Miles Away](https://open.spotify.com/track/1HNVN5FDyLkwPyC7RJKPnV) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [See Here, I Have Built You a Mansion \(Rare and Unreleased\)](https://open.spotify.com/album/252NtCT6AXklf3RywgcDTB) | 3:53 |
 | 75 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 |
 | 76 | [Ride Out In The Country](https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:15 |

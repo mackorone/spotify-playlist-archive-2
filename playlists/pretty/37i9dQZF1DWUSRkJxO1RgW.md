@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 
 > Canciones que marcaron la década de los 80s en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,377 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,378 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 57 | [Corazones Muertos](https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 3:46 |
 | 58 | [Hu Na Na](https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69) | [Cosméticos](https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon) | [Cosméticos](https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm) | 4:13 |
 | 59 | [Jugando Hulla Hulla](https://open.spotify.com/track/2cJ3haVTlqsA94NUD9Zmo2) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [La Dicha En Movimiento](https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo) | 2:42 |
-| 60 | [La Rubia Tarada](https://open.spotify.com/track/3lO1h0KPfhlXl2fSjaTcnh) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Sí o Sí \- Diario del Rock Argentino \- Sumo](https://open.spotify.com/album/0abeUjNSrovGBaaEavSfRm) | 3:42 |
+| 60 | [Enciende Mi Fuego](https://open.spotify.com/track/1fE3XzV4QvyqP67lejrNSM) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [40 Dibujos Ahí En El Piso](https://open.spotify.com/album/0ZNRl9pxbglsYLKRdSEmz0) | 3:44 |
 
 Snapshot ID: `AAAAAOKkC/R6cUAMby12KpDuaXjyHZql`

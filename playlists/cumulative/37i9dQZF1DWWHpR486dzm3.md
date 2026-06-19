@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä.
 
-1,184 songs - 2 day 22 hr 54 min
+1,187 songs - 2 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [Rakastut muihin tyttöihin](https://open.spotify.com/track/73I8G01m1fv2RWx6sR9GZW) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Rakastut muihin tyttöihin](https://open.spotify.com/album/1OfUXX1PZtEi3AbT22bTXc) | 2:15 | 2024-10-24 | 2024-12-06 |
 | [Rakkaalleni](https://open.spotify.com/track/5SFIDXsPJhYgcYyuDosskP) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Rakkaalleni](https://open.spotify.com/album/0t7gZ4oj9VhtHF1BMDv5BC) | 4:29 | 2025-06-19 | 2025-09-05 |
 | [Rakkauden hologrammi](https://open.spotify.com/track/2f6rzQ94y5YYpiCNisiXRS) | [Musta hanhi](https://open.spotify.com/artist/7hqTWrzRtJbctP8T7R6slG), [Taui](https://open.spotify.com/artist/7Ke7RS6m5ywJ2S3fIYIbYS) | [Rakkauden hologrammi](https://open.spotify.com/album/1a7P69w9vCGD6aloioG2F2) | 2:41 | 2025-11-03 | 2025-11-14 |
+| [Rakkauden kesä](https://open.spotify.com/track/4RlQieXGRH234YRgldxoiP) | [Vet Pillows](https://open.spotify.com/artist/3suATO6V6YnR4k27Diek4w) | [Rakkauden kesä](https://open.spotify.com/album/7cxRcXTrS6bAJBAXGGSxZ7) | 2:56 | 2026-06-18 |  |
 | [Rakkauden kesä '25](https://open.spotify.com/track/6voVmRAlJUGCZguqxLHG1g) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Rakkauden kesä '25](https://open.spotify.com/album/4gUaEueG35zVbHBleS7FGw) | 3:32 | 2025-07-10 | 2025-09-19 |
 | [Rakkauden konsultti](https://open.spotify.com/track/5mA1zPMMc96OVkuaxtpjF1) | [Ne on Ne](https://open.spotify.com/artist/2gXyVSrSJ1FDWEzJE69r7m) | [Rakkauden konsultti](https://open.spotify.com/album/6KcduvYQihz83kNakNMaQ1) | 3:07 | 2024-10-10 | 2024-11-01 |
 | [Rakkaudesta tai linnuista \- Studiolive](https://open.spotify.com/track/2HhN0ROkg3CSAa4mJPTkbO) | [V\. Härkönen](https://open.spotify.com/artist/4ZehtHHcgp2sF3REcUcA82) | [Kaikki samaa lauluu](https://open.spotify.com/album/7hzesUnfCxv3l9Nv6T50cP) | 3:36 | 2024-08-01 | 2024-09-13 |
@@ -860,6 +861,7 @@
 | [Runotyttö](https://open.spotify.com/track/2tVgjshGU7cNNPvsKYDCJU) | [Pegasos](https://open.spotify.com/artist/6ENrU97gz7eCdHdM77WHdI) | [Hyvä noita](https://open.spotify.com/album/3XVlNJ3oXQylsTOdllp0bQ) | 3:46 | 2026-03-05 |  |
 | [Ruusuja seinillä](https://open.spotify.com/track/26J7Pr3XripisF8pYCTI5y) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Ruusuja seinillä](https://open.spotify.com/album/3bgpQQvgWEAxNTay62wtcS) | 3:14 | 2024-11-21 | 2025-01-31 |
 | [Sadan vuoden päästä se on tätä samaa paskaa](https://open.spotify.com/track/5oEdsobU4rzVHI59KFJFgB) | [\(proto\)Torvinen](https://open.spotify.com/artist/3UxBCoeW5rh7kmxB5TPyWd) | [Sadan vuoden päästä se on tätä samaa paskaa](https://open.spotify.com/album/4SrvMNuWHYLBIJzY6NieTM) | 4:37 | 2024-10-31 | 2024-11-29 |
+| [Sade saapuu Bretagneen](https://open.spotify.com/track/3nM9dV9iL0RjTxwf0si7Jv) | [Musiikki\-yhtye](https://open.spotify.com/artist/6gEYoI2U47tSqPyMqhheIK) | [Sade saapuu Bretagneen](https://open.spotify.com/album/4rFaGLkKsx7hnRnmGaM6VD) | 4:00 | 2026-06-18 |  |
 | [Sade tulee \(feat\. Jaakko Kulta\)](https://open.spotify.com/track/1EriZcKZaXYskF6NRJ3YnI) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV), [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Sade tulee \(feat\. Jaakko Kulta\)](https://open.spotify.com/album/05aQBMQ5M5pTo0y4nldDzz) | 2:58 | 2025-04-17 | 2025-06-13 |
 | [Safe And Sound](https://open.spotify.com/track/5s3fkAztueisIAeQe6Wx7R) | [Folks](https://open.spotify.com/artist/3CvmHRkZZFXMZEiC1QvoXb) | [Lost At 22](https://open.spotify.com/album/26zvqgTYGsuUpZSCo95Nx9) | 3:13 | 2024-08-15 | 2024-09-20 |
 | [Safiiri ja Teräs](https://open.spotify.com/track/0OCtfEdANpfKA79OKKdM0m) | [Rättö & Lehtisalo](https://open.spotify.com/artist/6psG7Ko0utfH26xwSszqxS) | [Herttakolmonen](https://open.spotify.com/album/1WkjpyjnUGyGMpy4JMVuKX) | 4:14 | 2025-11-06 | 2026-05-29 |
@@ -1004,6 +1006,7 @@
 | [Tavallinen sinä](https://open.spotify.com/track/51dptKP2IpfOIMzch1kIyT) | [Jasmin Ola](https://open.spotify.com/artist/0LCGuilrFDaNk4WgLSZzxH) | [Tavallinen sinä](https://open.spotify.com/album/5goJO5E6UOwrkfgItMBgK8) | 3:48 | 2026-05-21 |  |
 | [teenagestylez](https://open.spotify.com/track/1OlZdNudtDZdkRCZykhZVK) | [ROSLUV](https://open.spotify.com/artist/1sbXkDP4cbaek1FKJhAHRN) | [teenagestylez](https://open.spotify.com/album/61jqDAJzmyqG4mFGDTT4U8) | 2:35 | 2025-01-02 | 2025-02-07 |
 | [Teknologia](https://open.spotify.com/track/7coOG4HNKUPvqh0ok6K6Ms) | [HELKA](https://open.spotify.com/artist/37M2Vpf9z3CeBBhxfSTZ2r) | [Teknologia](https://open.spotify.com/album/6Bwq30Thzn3GE0pgG0TmRm) | 3:10 | 2024-07-18 | 2024-09-06 |
+| [Telepatiaa](https://open.spotify.com/track/489LpP8pWQzzbKLB7QFkjr) | [Alexa](https://open.spotify.com/artist/6AEptfRdJvmjttBVYhdsGn) | [Telepatiaa](https://open.spotify.com/album/5HppnIgubCxSrLgscEAlNG) | 3:26 | 2026-06-18 |  |
 | [Tennis Roll](https://open.spotify.com/track/3DcvgZwdx6HwSaA5Uh66aM) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv), [Jiri\-serkku](https://open.spotify.com/artist/4071MXoALZwLZM1v2c3JFM) | [Tennis Roll](https://open.spotify.com/album/701mnbpeT8QOEAomJgcAM2) | 2:20 | 2025-08-21 | 2025-09-12 |
 | [Terveisii kotii](https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Papin tytär](https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X) | 3:17 | 2026-02-19 | 2026-05-29 |
 | [Terveisin, Gösta](https://open.spotify.com/track/7qcFVfMBrmpytP5awe2MWD) | [SETIS I](https://open.spotify.com/artist/2EFY8hqyxJ7iU30dG1vmxq) | [Terveisin, Gösta](https://open.spotify.com/album/0EjFesemwrRBcTVD8b8OMj) | 4:35 | 2024-07-02 | 2024-08-02 |

@@ -5424,7 +5424,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 163399,
       "name": "Eden",
       "url": "https://open.spotify.com/track/5SQh95sFBi36dAhTGUV5m6"
@@ -7988,7 +7988,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 119347,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU"
@@ -9170,6 +9170,24 @@
       "duration_ms": 149786,
       "name": "Intentions (feat. Urban Chords)",
       "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
+    },
+    {
+      "album": {
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
     },
     {
       "album": {
@@ -14265,6 +14283,28 @@
     },
     {
       "album": {
+        "name": "Para Para",
+        "url": "https://open.spotify.com/album/4GfU2WhBitkhYa0MaDG93q"
+      },
+      "artists": [
+        {
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147744,
+      "name": "Para Para",
+      "url": "https://open.spotify.com/track/2hsEI2Au5dxV6xIi2fDZbu"
+    },
+    {
+      "album": {
         "name": "Paralysed",
         "url": "https://open.spotify.com/album/0dL3l4iXTpt1eQA6mFFAMG"
       },
@@ -14924,7 +14964,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 223384,
       "name": "READY",
       "url": "https://open.spotify.com/track/4AZqPbtTnSgFNzm9EsSpPp"
@@ -17662,6 +17702,32 @@
       "duration_ms": 195505,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6BZ2DNapAPgzNDMz3tozhU"
+    },
+    {
+      "album": {
+        "name": "TATTUU",
+        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194734,
+      "name": "TATTUU",
+      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
     },
     {
       "album": {

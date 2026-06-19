@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 
 > sunny days, happy people
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,986 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,990 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 61 | [Stole the Show](https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:43 |
 | 62 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 |
 | 63 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
-| 64 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 |
-| 65 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
+| 64 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
+| 65 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 |
 | 66 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 67 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 |
-| 68 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
-| 69 | [Dancin \- Krono Remix](https://open.spotify.com/track/4IlqQhaxrGPxmg35YcXXuS) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB) | [Ibiza 2019](https://open.spotify.com/album/1EFQdXVbYzfSP1KQQoIOzj) | 4:16 |
-| 70 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
+| 68 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
+| 69 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
+| 70 | [Dancin \- Krono Remix](https://open.spotify.com/track/4IlqQhaxrGPxmg35YcXXuS) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB) | [Ibiza 2019](https://open.spotify.com/album/1EFQdXVbYzfSP1KQQoIOzj) | 4:16 |
 | 71 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 |
 | 72 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 |
 | 73 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 |

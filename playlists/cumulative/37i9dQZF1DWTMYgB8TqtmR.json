@@ -18207,6 +18207,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
+    },
+    {
+      "album": {
         "name": "The Days",
         "url": "https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu"
       },

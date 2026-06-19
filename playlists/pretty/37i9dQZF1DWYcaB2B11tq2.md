@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcela Gandara
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,536 likes - 100 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,620 likes - 100 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,13 +88,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 78 | [Inima Mea Va Canta](https://open.spotify.com/track/4RWLO76SLaRgXmFpKcLPyN) | [PAS](https://open.spotify.com/artist/6FAriCKEIsbXXlLdXebgXu) | [Aproape de Tine](https://open.spotify.com/album/7dIcBnTIrOLKcodyuYv7hQ) | 3:33 |
 | 79 | [Quiero Conocer a Jesús \(Yeshua\) / Nuestro Dios](https://open.spotify.com/track/2txTXCdetbJcy8REtnZdRq) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 11:55 |
 | 80 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 |
-| 81 | [Alaba A Dios](https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Dios Cuida De Mí](https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4) | 5:10 |
-| 82 | [Vine a Adorarte \(feat\. Marcela Gândara\)](https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR) | [Visión Juvenil](https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [ResplanDC](https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx) | 6:48 |
-| 83 | [Perfume a Tus Pies](https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa) | 5:10 |
+| 81 | [Perfume a Tus Pies](https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa) | 5:10 |
+| 82 | [Alaba A Dios](https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Dios Cuida De Mí](https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4) | 5:10 |
+| 83 | [Vine a Adorarte \(feat\. Marcela Gândara\)](https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR) | [Visión Juvenil](https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [ResplanDC](https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx) | 6:48 |
 | 84 | [Dios Incomparable \(Invitado: Marco Barrientos\)](https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610) | 10:45 |
-| 85 | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq) | 4:48 |
-| 86 | [Himno De Victoria](https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Dios Cuida De Mí](https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4) | 4:00 |
-| 87 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |
+| 85 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |
+| 86 | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq) | 4:48 |
+| 87 | [Himno De Victoria](https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Dios Cuida De Mí](https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4) | 4:00 |
 | 88 | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ) | 5:38 |
 | 89 | [Ganas de Vivir](https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas de Vivir](https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk) | 3:57 |
 | 90 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |

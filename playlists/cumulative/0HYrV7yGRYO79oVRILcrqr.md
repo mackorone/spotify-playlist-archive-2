@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-578 songs - 1 day 11 hr 55 min
+581 songs - 1 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Finding You](https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:16 | 2025-11-25 | 2025-12-17 |
 | [Fine](https://open.spotify.com/track/1acTG3McucI4PvWXxjGwoV) | [Brian Wolff](https://open.spotify.com/artist/5tW2IMfCtMzMHLij0PlQht) | [Fine](https://open.spotify.com/album/0wxCT2YorPsh4VKkei1jfP) | 4:10 | 2025-10-02 | 2025-12-17 |
 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2026-04-27 | 2026-05-26 |
+| [Fire on the Loose](https://open.spotify.com/track/1PAoqXpSbjeagxXwWi0tnV) | [Peder Pan](https://open.spotify.com/artist/2YOBFNivm8nZxtcXuSKQFV) | [Fire on the Loose](https://open.spotify.com/album/0aXK8rfirbKzeH9MoXniX5) | 4:04 | 2026-06-18 |  |
 | [FLICK MY HAIR](https://open.spotify.com/track/6kUmbD1EfBxaa95s05UhTU) | [ABELA](https://open.spotify.com/artist/3t19go2ralbBNKL0LggZW0) | [FLICK MY HAIR](https://open.spotify.com/album/0cNFUNwrBZw5WCSocHkpGI) | 2:47 | 2026-04-11 | 2026-04-21 |
 | [For So Long](https://open.spotify.com/track/2cQ5CeTRxGA2prgkS9mN3C) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [For So Long](https://open.spotify.com/album/1HV2Wz9Ntwy0DXopB9gnnm) | 2:46 | 2026-05-05 | 2026-05-26 |
 | [Forgive](https://open.spotify.com/track/5ytMfGDejFHiRfVmdjF78L) | [Death is a Bastard](https://open.spotify.com/artist/2sQoCJHOl4SChaJkymcsPY) | [Forgive](https://open.spotify.com/album/0zGmjvzjzdqKpdVa5iHVBB) | 5:46 | 2026-04-12 |  |
@@ -261,6 +262,7 @@
 | [Janet](https://open.spotify.com/track/1JNOovQfkhp3fnB5oodVQv) | [Dan Ashley](https://open.spotify.com/artist/4cVwoNjVVoOzFWX4wBlk4p) | [Janet](https://open.spotify.com/album/0NrLESS4kSbJR6jcmzgG0Z) | 3:09 | 2026-04-01 | 2026-04-21 |
 | [Jeda](https://open.spotify.com/track/42Z4r7nU0ybiUUrU129gc3) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Hanya Harapan](https://open.spotify.com/album/1NMwn4G89U9mh2wBBz3paS) | 5:06 | 2026-05-18 | 2026-05-26 |
 | [Jim Beam Interlude](https://open.spotify.com/track/63ep6PgJWhx1D5kPrgGvC6) | [Kennon](https://open.spotify.com/artist/47zcpuymv5pP6Mdcf1OKA9) | [Jim Beam Interlude](https://open.spotify.com/album/4Fwi2mky3CowxhhGx2g3F3) | 2:40 | 2025-12-16 | 2026-04-21 |
+| [Joy](https://open.spotify.com/track/5ud498A0z25t615wY15rBb) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [Joy](https://open.spotify.com/album/1p1BPkpelCCzk7gD9aLZtT) | 2:32 | 2026-06-18 |  |
 | [Juge Intérieur](https://open.spotify.com/track/0kaCY1PCDFVZ6X34ShqiM9) | [Slave To Sin](https://open.spotify.com/artist/7wj1eU7FmWZiBJqPziYtHl) | [Juge Intérieur](https://open.spotify.com/album/1vsDPffM48kqA5sUw9bOJm) | 3:18 | 2026-04-30 | 2026-05-26 |
 | [Just Before Sunrise](https://open.spotify.com/track/3S3EBrid1z5Dsgj0NjHj77) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 2:38 | 2025-09-21 | 2025-11-28 |
 | [Just Give Me A Call](https://open.spotify.com/track/2aWedzFK5OhL3crTShtzg6) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Just Give Me A Call](https://open.spotify.com/album/2XOfRnvKfMxNV9lHiA1XCy) | 5:20 | 2025-09-28 | 2025-12-17 |
@@ -405,6 +407,7 @@
 | [Quem Sou](https://open.spotify.com/track/05fXrnIC22Iz0lpg09jv0r) | [Rafael Zeferino](https://open.spotify.com/artist/31BZHZqE0MHlmHUSSxKQ9V) | [Quem Sou](https://open.spotify.com/album/2TeFatHS72Xv2zd1caUT0S) | 3:06 | 2026-05-01 | 2026-05-26 |
 | [QUIERO DECIRTE](https://open.spotify.com/track/36PDGZXQCtWfnCUpzVSTOP) | [ESTEBAN](https://open.spotify.com/artist/2Jmxf1QvEltShBfsb02gNr) | [QUIERO DECIRTE](https://open.spotify.com/album/76v6Ky3t1sLnnBmCQ7msUt) | 2:34 | 2026-06-06 | 2026-06-18 |
 | [Qué Pereza De Tío](https://open.spotify.com/track/0Kg4qmqoCOUYsLAO7mf0JJ) | [Sombras Olvidadas](https://open.spotify.com/artist/6rhnGBSM5IaE1uIRSwOD0Z) | [Qué Pereza De Tío](https://open.spotify.com/album/3RyKBLt6jofPpjSLkrzHNG) | 3:10 | 2026-03-20 | 2026-04-21 |
+| [Red Sea](https://open.spotify.com/track/65CBVvFFb0FxAGTrtIcpbB) | [Thesis](https://open.spotify.com/artist/2f2Lm3RVxYFYG2oqvbNxct) | [Red Sea](https://open.spotify.com/album/5Yw6aE5sMft2MrkeV3osUg) | 5:21 | 2026-06-18 |  |
 | [Refugees in the ghetto](https://open.spotify.com/track/29mupryc4x4a8bRJDYg9J0) | [Smiling Crybabies](https://open.spotify.com/artist/1tbsh8mDWvLldgsLKErW9U) | [Refugees in the ghetto](https://open.spotify.com/album/2xV9IM4Y8Jrxbx2eJ2Vidl) | 5:30 | 2026-01-16 | 2026-03-18 |
 | [Remuerden Los Dias](https://open.spotify.com/track/1nQWp15sWzMCmYTMBCGtWA) | [KORSARIO](https://open.spotify.com/artist/2WNjYhitKntys9iLAlikUe) | [De Las Cenizas Del Pasado](https://open.spotify.com/album/0xIqpsa7US69KDtrajpVKe) | 3:39 | 2025-12-25 |  |
 | [Repressão](https://open.spotify.com/track/5BI5z9B2w5Ypg4tY113WeN) | [Banda Revo](https://open.spotify.com/artist/64qE20fQAZ86e6ZHgQtZ6w) | [Repressão](https://open.spotify.com/album/6dvtMreChRtPlh2DvXTTZV) | 3:01 | 2025-12-06 | 2026-04-21 |

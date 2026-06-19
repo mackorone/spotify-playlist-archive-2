@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,150 songs - 3 day 2 hr 11 min
+1,151 songs - 3 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,13 +446,13 @@
 | [I](https://open.spotify.com/track/67eZrCOBvnQtURCkICXySb) | [Rocks and Waves Song Circle](https://open.spotify.com/artist/3IGl0j2I9KKjiOgtiBFmv7) | [Songs I\-V](https://open.spotify.com/album/6hHKEiQIKkcelLnUPjpy71) | 5:40 | 2024-01-18 |  |
 | [I Am One \- Remastered 2011](https://open.spotify.com/track/4iChoIsP14WSZ575hCqcGK) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Remastered\)](https://open.spotify.com/album/7wJTn94PWzZ3zE0lg3qhld) | 4:06 | 2025-09-06 |  |
 | [I am the pipe I hit myself with](https://open.spotify.com/track/6NWGkPcDDhKFIvCeutoaWt) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [hexed!](https://open.spotify.com/album/1hNGdfhOWtdbUoFOZ1Sc6J) | 2:25 | 2026-01-02 |  |
-| [I Ate the Most](https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:06 | 2026-06-11 |  |
+| [I Ate the Most](https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:06 | 2026-06-11 | 2026-06-19 |
 | [I Believe \(When I Fall In Love It Will Be Forever\)](https://open.spotify.com/track/1fdQg2yrTYCMOviVCw1Xdh) | [Art Garfunkel](https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS) | [Breakaway](https://open.spotify.com/album/1XrVWVKKfRlD0waskKj5uy) | 3:51 | 2022-07-27 |  |
 | [I bled on stage at first ave](https://open.spotify.com/track/5HSOM17OTzUpD9PYXWupXj) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [another triumph of ghetto engineering](https://open.spotify.com/album/6el9i3xYmiw1OjTMS3Fynx) | 2:45 | 2023-08-25 | 2023-12-14 |
 | [I Don’t Know How I Survive](https://open.spotify.com/track/0b2vqB7QNT4z8nnaYqbuel) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:40 | 2024-02-14 | 2024-02-16 |
 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 | 2023-02-22 | 2024-01-10 |
 | [I Feel Ya' Strutter](https://open.spotify.com/track/1bpEObO6vZfCrmyvhTCaVv) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [False Priest \(Deluxe Edition\)](https://open.spotify.com/album/1XRBHUGuKtiXXOHg7N9NBx) | 3:40 | 2023-08-04 |  |
-| [I Got Heaven](https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:58 | 2024-03-03 |  |
+| [I Got Heaven](https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:58 | 2024-03-03 | 2026-06-19 |
 | [i hate this tune](https://open.spotify.com/track/4ui8xOiXNA4CCfQ1z4VcZG) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 3:31 | 2025-09-08 |  |
 | [I Heard That Noise](https://open.spotify.com/track/7kWg7OPDf0HXdc8I6EcmVk) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:20 | 2026-02-18 |  |
 | [I Look for You](https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 3:11 | 2024-12-27 |  |
@@ -822,7 +822,7 @@
 | [ride the dragon](https://open.spotify.com/track/15TXFTdwGEEL4jH9erTRnK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:08 | 2024-01-17 |  |
 | [Right People, Wrong Place](https://open.spotify.com/track/2ftb45L7iXYwp0WoTEuslG) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 1:57 | 2024-05-27 |  |
 | [Rise](https://open.spotify.com/track/688iitLNSV6Iik1QESqvth) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 1:41 | 2022-06-24 |  |
-| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-03-02 |  |
+| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-03-02 | 2026-06-19 |
 | [Robert](https://open.spotify.com/track/2e8lfpyLA5OBzZqdcMEuIN) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Wicked City](https://open.spotify.com/album/6E2VHYLPTtFOtdRcpt6YwP) | 3:29 | 2023-12-15 | 2023-12-26 |
 | [Rock 'n' Roll Star](https://open.spotify.com/track/17z8eLCkciVamEqXJS6Ri8) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe](https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC) | 5:23 | 2024-01-01 |  |
 | [Rock And Sing](https://open.spotify.com/track/5kfH55pli3gCkprV3OJerd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 2:03 | 2022-02-19 | 2023-12-14 |
@@ -907,6 +907,7 @@
 | [Speed of Life \- 2017 Remaster](https://open.spotify.com/track/7B265QWYkUeqG2ihVEUZ5D) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 2:47 | 2022-07-30 |  |
 | [Spot Dog](https://open.spotify.com/track/2Xtqagt5CH9SSUCinJ9kdy) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:28 | 2023-12-31 | 2025-04-25 |
 | [Springtime Again](https://open.spotify.com/track/1IMbKfMzGyFK4WxsMy9xRF) | [Sun Ra & His Arkestra](https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw) | [Sleeping Beauty \(Expanded Edition\)](https://open.spotify.com/album/2u9bxiMQ6aVC3cBQLVIFg4) | 9:15 | 2025-02-13 |  |
+| [Stadiums and Shrines II](https://open.spotify.com/track/1i0xJdgk6OZnBm63kMidof) | [Sunset Rubdown](https://open.spotify.com/artist/4kmq4NmMAD2EB24v6Il3qr), [Spencer Krug](https://open.spotify.com/artist/57ebZKL4lpVlngdaBDuQYG) | [Shut Up I Am Dreaming](https://open.spotify.com/album/0gCDLm62qhfpyBicm0AFsh) | 3:57 | 2026-06-19 |  |
 | [STANKA POOH](https://open.spotify.com/track/1mMVC8AsuUUelwopm51Jht) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:01 | 2024-10-28 | 2024-12-19 |
 | [Stanley Kubrick](https://open.spotify.com/track/7rzhQEtfMy3Xinzs0aLnaQ) | [Angry Blackmen](https://open.spotify.com/artist/5wgdXBYakv0C8v0b6hxnpC) | [The Legend of ABM](https://open.spotify.com/album/5KwBvabWfSo1rHbFldITCS) | 2:32 | 2024-03-28 |  |
 | [Star Side Intro](https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 3:43 | 2025-08-15 | 2025-08-20 |

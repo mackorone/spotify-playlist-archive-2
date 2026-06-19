@@ -1,6 +1,6 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 123168,
+  "num_followers": 123190,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "You Go To My Head",
-        "url": "https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a"
-      },
-      "artists": [
-        {
-          "name": "Tim Franks Trio",
-          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
-        }
-      ],
-      "duration_ms": 299029,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Something about him",
         "url": "https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 160111,
       "name": "Something about him",
       "url": "https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "You Go To My Head",
+        "url": "https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "duration_ms": 299029,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Beautiful Sunrise",
-        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
-      },
-      "artists": [
-        {
-          "name": "Arta Porting",
-          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
-        }
-      ],
-      "duration_ms": 291319,
-      "name": "Beautiful Sunrise",
-      "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Prelude",
         "url": "https://open.spotify.com/album/5wa0g0eCwlUbSWclZtTp4E"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 171458,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/39g0c8gVtrjk88LkwTvaek"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Beautiful Sunrise",
+        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "duration_ms": 291319,
+      "name": "Beautiful Sunrise",
+      "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Rue Cr\u00e9mieux",
-        "url": "https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO"
-      },
-      "artists": [
-        {
-          "name": "The Groove Trio",
-          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
-        }
-      ],
-      "duration_ms": 183872,
-      "name": "Moon Side",
-      "url": "https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Journeying",
         "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 231130,
       "name": "Journeying",
       "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Rue Cr\u00e9mieux",
+        "url": "https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "duration_ms": 183872,
+      "name": "Moon Side",
+      "url": "https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Love To Be Happy",
-        "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
+        "name": "At Least I Know",
+        "url": "https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN"
       },
       "artists": [
         {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
         }
       ],
-      "duration_ms": 195276,
-      "name": "Love To Be Happy",
-      "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
+      "duration_ms": 368388,
+      "name": "Lonely Streets",
+      "url": "https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "At Least I Know",
-        "url": "https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN"
+        "name": "Love To Be Happy",
+        "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
       },
       "artists": [
         {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
         }
       ],
-      "duration_ms": 368388,
-      "name": "Lonely Streets",
-      "url": "https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6"
+      "duration_ms": 195276,
+      "name": "Love To Be Happy",
+      "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Forever Promises",
-        "url": "https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 193237,
-      "name": "Forever Promises",
-      "url": "https://open.spotify.com/track/4a1J9yup472zZW604BHbha"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Can't Help Loving That Man",
         "url": "https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 234000,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/623jWCHHgkHJ09bAPqvx8Y"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Forever Promises",
+        "url": "https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "duration_ms": 193237,
+      "name": "Forever Promises",
+      "url": "https://open.spotify.com/track/4a1J9yup472zZW604BHbha"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Romeo's Mood",
-        "url": "https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI"
-      },
-      "artists": [
-        {
-          "name": "6th Street Jazz",
-          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
-        }
-      ],
-      "duration_ms": 164194,
-      "name": "Romeo's Mood",
-      "url": "https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "The Meadows",
         "url": "https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 195587,
       "name": "The Meadows",
       "url": "https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Romeo's Mood",
+        "url": "https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI"
+      },
+      "artists": [
+        {
+          "name": "6th Street Jazz",
+          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
+        }
+      ],
+      "duration_ms": 164194,
+      "name": "Romeo's Mood",
+      "url": "https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Vine Street",
-        "url": "https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1"
+        "name": "Things To Look Forward To",
+        "url": "https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo"
       },
       "artists": [
         {
-          "name": "Soft Brush Touches",
-          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
         }
       ],
-      "duration_ms": 146020,
-      "name": "Vine Street",
-      "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
+      "duration_ms": 245681,
+      "name": "Things To Look Forward To",
+      "url": "https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Things To Look Forward To",
-        "url": "https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 245681,
-      "name": "Things To Look Forward To",
-      "url": "https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "New York City Dreamin'",
         "url": "https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 220960,
       "name": "A Window to Your Soul",
       "url": "https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Vine Street",
+        "url": "https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "duration_ms": 146020,
+      "name": "Vine Street",
+      "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Fools Rush In",
-        "url": "https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7"
-      },
-      "artists": [
-        {
-          "name": "The Southern Belle",
-          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
-        }
-      ],
-      "duration_ms": 273123,
-      "name": "Fools Rush In",
-      "url": "https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Storvindeln",
         "url": "https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 162569,
       "name": "Now that we are here",
       "url": "https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Fools Rush In",
+        "url": "https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7"
+      },
+      "artists": [
+        {
+          "name": "The Southern Belle",
+          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
+        }
+      ],
+      "duration_ms": 273123,
+      "name": "Fools Rush In",
+      "url": "https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Clowns And Crowns",
-        "url": "https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p"
-      },
-      "artists": [
-        {
-          "name": "Mike Coen",
-          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
-        }
-      ],
-      "duration_ms": 241516,
-      "name": "Clowns And Crowns",
-      "url": "https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "My Midnight Velvet",
         "url": "https://open.spotify.com/album/6tAp0HAVpCH5nCi632oXNH"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 218336,
       "name": "My Midnight Velvet",
       "url": "https://open.spotify.com/track/54OUOajrkd8RLQoRqmmYD1"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Clowns And Crowns",
+        "url": "https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p"
+      },
+      "artists": [
+        {
+          "name": "Mike Coen",
+          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
+        }
+      ],
+      "duration_ms": 241516,
+      "name": "Clowns And Crowns",
+      "url": "https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/01rtNCqJHkyaggjCKe5T8V"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Davies",
-          "url": "https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Tranquility",
-      "url": "https://open.spotify.com/track/6CgnEtKYDu8HIva6erHcjp"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Blue Midnight",
         "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 189134,
       "name": "Blue Midnight",
       "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/01rtNCqJHkyaggjCKe5T8V"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Davies",
+          "url": "https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Tranquility",
+      "url": "https://open.spotify.com/track/6CgnEtKYDu8HIva6erHcjp"
     },
     {
       "added_at": "2026-06-09 09:45:00",

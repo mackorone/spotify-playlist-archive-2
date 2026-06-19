@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 ### [lofi garden](https://open.spotify.com/playlist/37i9dQZF1DX4t95PAs1EpY)
 
-> beats + birds = &lt;3
+> beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,969 likes - 69 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,039 likes - 69 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 68 | [Brookside](https://open.spotify.com/track/63GQrIWOaKE71ksIGPCjJt) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [Brookside](https://open.spotify.com/album/742Q0p2d8ElX0pjv3IIrIN) | 2:05 |
 | 69 | [Jester](https://open.spotify.com/track/5sCIj9Z9MJGKOjLPPJNKFi) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Jester](https://open.spotify.com/album/6pRz1A75UPpjwIrD5fE7iX) | 2:50 |
 
-Snapshot ID: `AAAAALdx3kacwN6MtUPaiPKYqGGVbh1J`
+Snapshot ID: `AAAAAM9ftsbb4GKCyO4wYq1sjtAyqfn8`

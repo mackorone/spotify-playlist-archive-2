@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132684,
+  "num_followers": 132678,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABP4nVNKUA+WCGnDeLRY4v+",
+  "snapshot_id": "ajHjgAAAAAC31xSwOWARjiKsruVJqBL/",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo \u00e9 Poss\u00edvel",
-        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 395435,
-      "name": "Tudo \u00e9 Poss\u00edvel",
-      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Com os Olhos da F\u00e9",
         "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 278593,
       "name": "Eu Sei que N\u00e3o Estou S\u00f3",
       "url": "https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tudo \u00e9 Poss\u00edvel",
+        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 395435,
+      "name": "Tudo \u00e9 Poss\u00edvel",
+      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Com Muito Louvor",
-        "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 321039,
-      "name": "Com Muito Louvor",
-      "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jerusal\u00e9m e Eu",
         "url": "https://open.spotify.com/album/4lpegfZbd6uJKDqA0FOThC"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 313306,
       "name": "Jerusal\u00e9m e Eu",
       "url": "https://open.spotify.com/track/3F21le2cG4FwJFS0UVBBvM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 321039,
+      "name": "Com Muito Louvor",
+      "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Karla Falando de Amor",
-        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 291363,
-      "name": "Jamais Deixarei Voc\u00ea",
-      "url": "https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vento do Esp\u00edrito",
         "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 244831,
       "name": "Uma Mulher, Um Milagre",
       "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bruna Karla Falando de Amor",
+        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 291363,
+      "name": "Jamais Deixarei Voc\u00ea",
+      "url": "https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Karla Falando de Amor",
-        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 248407,
-      "name": "Apaixonado Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quatro por Um Forever (Ao Vivo)",
         "url": "https://open.spotify.com/album/20INxhFFGnvx75lNaxGxXs"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 300672,
       "name": "Porque Creio em Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bruna Karla Falando de Amor",
+        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 248407,
+      "name": "Apaixonado Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
     },
     {
       "added_at": null,

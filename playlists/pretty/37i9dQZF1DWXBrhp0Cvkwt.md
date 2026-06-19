@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,330 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,374 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 22 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 |
 | 23 | [THE GREATEST](https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:53 |
 | 24 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 |
-| 25 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
-| 26 | [Been Like This](https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:57 |
+| 25 | [Been Like This](https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:57 |
+| 26 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
 | 27 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 28 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 |
-| 29 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
+| 29 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 30 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
 | 31 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
 | 32 | [Afraid](https://open.spotify.com/track/7brQHA2CgQpcMBiOlfiXYb) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:11 |

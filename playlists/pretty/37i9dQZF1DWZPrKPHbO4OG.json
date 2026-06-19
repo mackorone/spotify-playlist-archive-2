@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 37952,
+  "num_followers": 37975,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGYMwhS9i2LudK1d+Ab1cozQ17NX",
+  "snapshot_id": "AAAAAKOrAIxKk9bPGPHTSf5TKDGvNdyW",
   "tracks": [
     {
       "added_at": "2026-06-10 09:54:00",
@@ -423,6 +423,30 @@
     {
       "added_at": "2026-06-10 09:54:00",
       "album": {
+        "name": "Jaal Jaal (From \"Chowk\")",
+        "url": "https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf"
+      },
+      "artists": [
+        {
+          "name": "Nagesh Morwekar",
+          "url": "https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz"
+        },
+        {
+          "name": "Dr. Vinayak Pawar",
+          "url": "https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt"
+        },
+        {
+          "name": "Onkarswaroop",
+          "url": "https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs"
+        }
+      ],
+      "duration_ms": 289680,
+      "name": "Jaal Jaal - From \"Chowk\"",
+      "url": "https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ"
+    },
+    {
+      "added_at": "2026-06-10 09:54:00",
+      "album": {
         "name": "Majhi Navri",
         "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
       },
@@ -447,30 +471,6 @@
       "duration_ms": 240000,
       "name": "Majhi Navri",
       "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Jaal Jaal (From \"Chowk\")",
-        "url": "https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf"
-      },
-      "artists": [
-        {
-          "name": "Nagesh Morwekar",
-          "url": "https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz"
-        },
-        {
-          "name": "Dr. Vinayak Pawar",
-          "url": "https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt"
-        },
-        {
-          "name": "Onkarswaroop",
-          "url": "https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs"
-        }
-      ],
-      "duration_ms": 289680,
-      "name": "Jaal Jaal - From \"Chowk\"",
-      "url": "https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ"
     },
     {
       "added_at": "2026-06-10 09:54:00",

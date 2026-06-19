@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 
 > Get the party going with these classics from across the decades.
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,904 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,915 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 | 31 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 |
 | 32 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
 | 33 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 |
-| 34 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
-| 35 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
+| 34 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
+| 35 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 36 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 |
 | 37 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
 | 38 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 | 59 | [You Shook Me All Night Long](https://open.spotify.com/track/6yl8Es1tCYD9WdSkeVLFw4) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Who Made Who](https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A) | 3:31 |
 | 60 | [Walk Like an Egyptian](https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:24 |
 | 61 | [Ice Ice Baby](https://open.spotify.com/track/11d9oUiwHuYt216EFA2tiz) | [Vanilla Ice](https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd) | [To The Extreme](https://open.spotify.com/album/1LHacvoBTd7o2d7wwQ9EZD) | 4:31 |
-| 62 | [Soul Man](https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:39 |
-| 63 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
+| 62 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
+| 63 | [Soul Man](https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:39 |
 | 64 | [Brass Monkey](https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 2:37 |
 | 65 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
 | 66 | [Hold My Hand](https://open.spotify.com/track/58jx3tTuDuzHysC77c0AQd) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/7BEPVoBcHuTLWpcdj8FhM8) | 3:47 |

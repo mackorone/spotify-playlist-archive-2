@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 
 > La colonna sonora perfetta per le giornate di lavoro da casa, alla scrivania o sul divano! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 585 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 590 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 | 11 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 |
 | 12 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:41 |
 | 13 | [Belong Together](https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI) | 2:28 |
-| 14 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
+| 14 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 |
 | 15 | [New Rules](https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [New Rules](https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA) | 3:14 |
-| 16 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 |
+| 16 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
 | 17 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
 | 18 | [Sunday Best \- Acoustic Version](https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best \(Acoustic Version\)](https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu) | 2:30 |
 | 19 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 | 40 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
 | 41 | [ILYSB](https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:31 |
 | 42 | [Like I Can](https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:47 |
-| 43 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:15 |
-| 44 | [Only Human](https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:03 |
+| 43 | [Only Human](https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:03 |
+| 44 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:15 |
 | 45 | [Mercy](https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:39 |
 | 46 | [Haven't Met You Yet](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 4:04 |
 | 47 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |

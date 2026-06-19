@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Muse au top des meilleurs morceaux rock du moment.",
+  "description": "Paul McCartney au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -4485,6 +4485,24 @@
     },
     {
       "album": {
+        "name": "Made Up",
+        "url": "https://open.spotify.com/album/4MGr1KapA6OnLaXdJNdIl4"
+      },
+      "artists": [
+        {
+          "name": "Tahiti 80",
+          "url": "https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181583,
+      "name": "Made Up",
+      "url": "https://open.spotify.com/track/2INcQxE95SmBgBbQI4UH1B"
+    },
+    {
+      "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
@@ -4918,6 +4936,24 @@
       "duration_ms": 255818,
       "name": "My Only Angel",
       "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "my way",
+      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
     },
     {
       "album": {
@@ -6098,7 +6134,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 220266,
       "name": "Rubber Band Man (with Hozier)",
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
@@ -6700,6 +6736,24 @@
       "duration_ms": 232300,
       "name": "So Much (For) Stardust - Edit",
       "url": "https://open.spotify.com/track/6jdAeEV54SoWW9eqejGQlC"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/5qY1RmIVHUIzinH8OlPWbq"
+      },
+      "artists": [
+        {
+          "name": "Caesaria",
+          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195121,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/46u2GhBUVuFZO3oFcF3hji"
     },
     {
       "album": {
@@ -8416,7 +8470,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 136080,
       "name": "WE ARE GOOD",
       "url": "https://open.spotify.com/track/4tCJiYWzupzmbDqBcpsk3j"
@@ -8658,7 +8712,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 215200,
       "name": "Wild Woman",
       "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"

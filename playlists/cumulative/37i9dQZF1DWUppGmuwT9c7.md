@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-184 songs - 8 hr 47 min
+185 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,9 +64,10 @@
 | [Een bom](https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Een bom](https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C) | 3:24 | 2025-07-14 | 2026-04-25 |
 | [Eigen Schuld](https://open.spotify.com/track/1AHGfEp4zcjYK9cjj6W1vT) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Eigen Schuld](https://open.spotify.com/album/61Qr7dTzKj6UJkDcgv1vG7) | 2:47 | 2026-02-03 |  |
 | [Engelbewaarder](https://open.spotify.com/track/3bqza6yXHT7b6JqbeyWpFD) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder](https://open.spotify.com/album/7zGrwd5rwbfQiLfuFtkTh4) | 3:16 | 2025-07-14 |  |
+| [Feessie](https://open.spotify.com/track/3ZfJ4YkM03y1KLK5pfqz8o) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Feessie](https://open.spotify.com/album/4dtiKzti1SpG8AIrkNa2KZ) | 3:08 | 2026-06-18 |  |
 | [Feest In De Tent](https://open.spotify.com/track/6rvwaPKrw99V8G7DoGSMvz) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Feest In De Tent](https://open.spotify.com/album/63A6NjvBZNYGbS2XcQ1fQh) | 3:20 | 2025-07-14 |  |
 | [Ferry de Roze Flamingo](https://open.spotify.com/track/5CQoqXdZsczvoX7anShh1l) | [Barry Fest](https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY), [Tim Schalkx](https://open.spotify.com/artist/1QW14VwiXvCTlCqqbnOSpG) | [Ferry de Roze Flamingo](https://open.spotify.com/album/4Kc5we1zceYF8XYHB9TESc) | 2:51 | 2025-07-14 |  |
-| [Fiesta Escalada](https://open.spotify.com/track/3qeU6sDU1cjZ0oCEh8YyFe) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Fiesta Escalada](https://open.spotify.com/album/3qEgGuGaHSRlGJhYO8oJu2) | 2:15 | 2026-04-08 |  |
+| [Fiesta Escalada](https://open.spotify.com/track/3qeU6sDU1cjZ0oCEh8YyFe) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Fiesta Escalada](https://open.spotify.com/album/3qEgGuGaHSRlGJhYO8oJu2) | 2:15 | 2026-04-08 | 2026-06-19 |
 | [Frans Duits](https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Frans Duits](https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh) | 2:52 | 2025-07-14 |  |
 | [GAP](https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [GAP](https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz) | 2:11 | 2025-07-14 | 2026-04-10 |
 | [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 | 2026-04-09 |  |

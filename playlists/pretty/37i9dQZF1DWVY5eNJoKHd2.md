@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 
 > It's like supernatural..\. 📷 Ariana Grande on the Eternal Sunshine Tour
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,570,831 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,570,909 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 67 | [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 |
 | 68 | [Video Games](https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:41 |
 | 69 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
-| 70 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
-| 71 | [Summer Madness](https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Light Of Worlds](https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo) | 4:17 |
+| 70 | [Summer Madness](https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Light Of Worlds](https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo) | 4:17 |
+| 71 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
 | 72 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 |
 | 73 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
 | 74 | [PIMMIE'S DILEMMA](https://open.spotify.com/track/3CY3zAjrxKVInh2Lq1QiRb) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 1:58 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 96 | [Dancing2](https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Dancing2](https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50) | 4:32 |
 | 97 | [The Mannequin Song](https://open.spotify.com/track/64hwDkKZZHaxCpFOGC3AkW) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Ugly Duck](https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P) | 2:44 |
 | 98 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 |
-| 99 | [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 |
-| 100 | [more than friends](https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:27 |
+| 99 | [more than friends](https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:27 |
+| 100 | [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 |
 
 Snapshot ID: `AAAAACSPHS45iZpVBiQyOL3o4C/cyNce`

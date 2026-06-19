@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 
 > ¡A levantar polvadera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,540 likes - 150 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,574 likes - 150 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 59 | [Limonadas Verdes](https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu) | [Tropical Del Bravo](https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1) | [Limonadas Verdes](https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c) | 3:01 |
 | 60 | [La Vecinita](https://open.spotify.com/track/2zc9alxx3d15ZjdaFkWSU0) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Los Súper Éxitos](https://open.spotify.com/album/1zew7ZgJGk5PElzwUAsTgG) | 2:36 |
 | 61 | [Tan Bonita](https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Tan Bonita](https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj) | 3:13 |
-| 62 | [La Guitarra de Lolo \(Huapango\)](https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:18 |
-| 63 | [Cumbia Loca](https://open.spotify.com/track/1YPeIFymfD66aAPY1OaJv9) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [Los Reyes Del Baile](https://open.spotify.com/album/7DL853qsnorJL4jKap209q) | 3:17 |
+| 62 | [Cumbia Loca](https://open.spotify.com/track/1YPeIFymfD66aAPY1OaJv9) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [Los Reyes Del Baile](https://open.spotify.com/album/7DL853qsnorJL4jKap209q) | 3:17 |
+| 63 | [La Guitarra de Lolo \(Huapango\)](https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:18 |
 | 64 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 |
 | 65 | [Que La Dejen Ir Al Baile](https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Amor A La Ligera](https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm) | 2:27 |
 | 66 | [El Vaquero](https://open.spotify.com/track/7HEISozQwYYU9JGUnQuxA7) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Comenzando Nuestra Historia](https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E) | 2:33 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 89 | [El Comet](https://open.spotify.com/track/5Xhj8ErKSsIwwA50HtzBmC) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [La Trayectoria](https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj) | 3:42 |
 | 90 | [Ojala y te animes](https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:28 |
 | 91 | [El Mariachi](https://open.spotify.com/track/3WQC9J9dG9gljMpKXacCLL) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Comenzando Nuestra Historia](https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E) | 3:28 |
-| 92 | [Pequeña Y Frágil](https://open.spotify.com/track/2cHrDsiIllNZSiyW1UpId3) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [30 Del Recuerdo](https://open.spotify.com/album/2FCWjC0B8cNanuciJ7ZtBY) | 2:38 |
-| 93 | [Zapateado Encabronado \#3](https://open.spotify.com/track/35COOJVYzJ7fVz7EXaMKSv) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [De Corazon Ranchero](https://open.spotify.com/album/43uickJMbErAxX7qLrqHwV) | 4:27 |
+| 92 | [Zapateado Encabronado \#3](https://open.spotify.com/track/35COOJVYzJ7fVz7EXaMKSv) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [De Corazon Ranchero](https://open.spotify.com/album/43uickJMbErAxX7qLrqHwV) | 4:27 |
+| 93 | [Pequeña Y Frágil](https://open.spotify.com/track/2cHrDsiIllNZSiyW1UpId3) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [30 Del Recuerdo](https://open.spotify.com/album/2FCWjC0B8cNanuciJ7ZtBY) | 2:38 |
 | 94 | [El Ahualulco](https://open.spotify.com/track/0goMlu6mNQcj77VQHuLSGr) | [Banda Los Huejoteños](https://open.spotify.com/artist/0Vea7Atmt6I5taZ7MSfE3I) | ["15 Melodias Del Recuerdo"](https://open.spotify.com/album/2BfKRacdLOFMlEQnXUlLtq) | 2:46 |
 | 95 | [CARALUNA](https://open.spotify.com/track/4autJuIj4IxNeP2B6lvNRZ) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU), [Oscar Calin](https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1) | [CARALUNA](https://open.spotify.com/album/5TY4XLG0oRzjliAbQ8V4cH) | 3:24 |
 | 96 | [La Bailadora](https://open.spotify.com/track/2l52pr1dzM4fHEhQUMqOAU) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Aclarando la Mente](https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L) | 3:25 |

@@ -4,7 +4,7 @@
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Kaleb J
 
-265 songs - 15 hr 35 min
+267 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [GODSENT](https://open.spotify.com/track/5yB61NwWlnkl4bhkSt9U58) | [Ave](https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A), [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [GODSENT](https://open.spotify.com/album/0dCT0a09AvxePqgaenF3l1) | 3:04 | 2026-05-21 |  |
 | [Good Fellas](https://open.spotify.com/track/2FmT90UyNwTNSWMHFzWBYq) | [Zhizaa](https://open.spotify.com/artist/1kjUmnL4PHjLmfVg9G4PyZ) | [Good Fellas](https://open.spotify.com/album/3x0oNPgMi1nHkpKhJozTzr) | 4:38 | 2025-11-13 | 2026-02-13 |
 | [GREEN](https://open.spotify.com/track/7f7anP2UCwgiJqvnBXcVFq) | [yuan](https://open.spotify.com/artist/5ijgD6jZ7Xn1ofH75kQtsQ), [GAZM](https://open.spotify.com/artist/3wnEMTyjnqE2ay6ObaZVes) | [S 90 3](https://open.spotify.com/album/2XbedfHomAGEkFcbeeP6CL) | 2:48 | 2026-04-23 |  |
+| [Guna Guna](https://open.spotify.com/track/4MH2IMPImhyzzPEIqpMqSr) | [Buzar](https://open.spotify.com/artist/6OWl6OpSaGDoQBooOlChJI) | [Guna Guna](https://open.spotify.com/album/4Lce2g6iWMtomgg46M0Dxc) | 3:44 | 2026-06-19 |  |
 | [Handle It \(feat\. Fangtatis\)](https://open.spotify.com/track/3m2ABv3l7QRwccPgN8XIb0) | [Wizzy](https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls), [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY) | [Handle It \(feat\. Fangtatis\)](https://open.spotify.com/album/77YYFOxDJa6IYxQzS2B5q7) | 2:54 | 2025-11-06 | 2026-05-01 |
 | [Hanya Harapku](https://open.spotify.com/track/4CXS1Bnuk0xzPd3zP7Jmsb) | [Fourtune](https://open.spotify.com/artist/0MLJ6wDKP8xAPYeXjisC7k) | [Hanya Harapku](https://open.spotify.com/album/6pLzF6GCDzqmFIpi4GZuGw) | 3:30 | 2024-11-15 | 2025-07-18 |
 | [Hanya Ingin](https://open.spotify.com/track/1UykQjY4mcTp66AqJ2kLvt) | [R2 Rhythm](https://open.spotify.com/artist/1NMndAY1nq64GSsGuccTrM) | [Hanya Ingin](https://open.spotify.com/album/2cEMBuXaGurxFImXVwOFWC) | 3:09 | 2024-11-21 | 2025-05-09 |
@@ -235,6 +236,7 @@
 | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/track/4y5HTa0xfMGORsMhy26n3X) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/album/2XgJC0WVIe0cyDvdIQO19u) | 4:41 | 2024-12-13 |  |
 | [Someday Somewhere Someplace Somehow](https://open.spotify.com/track/5iW3qqHG5YUOA2cM2Aw23h) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [Someday Somewhere Someplace Somehow](https://open.spotify.com/album/5RkP7eRvPKleO6u6GHbrAP) | 4:22 | 2024-10-03 | 2025-10-17 |
 | [Something New \(feat\. Afgan\)](https://open.spotify.com/track/3lZXsYZgaXodwSALy5cR6B) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Something New](https://open.spotify.com/album/5Lu8ASQ4x4b4u9yQCDreAb) | 2:38 | 2025-05-29 | 2025-11-28 |
+| [Something On Your Mind](https://open.spotify.com/track/4d8mYo1J66ro1l0vk7YPJo) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI), [The Soul & Rollers](https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu) | [Something on Your Mind](https://open.spotify.com/album/5DnLaYwlXBwFQfQaey3jZV) | 4:43 | 2026-06-19 |  |
 | [Soulless Blues](https://open.spotify.com/track/1p5SEMVpbUdQtvFMEqjTTt) | [Arya Novanda](https://open.spotify.com/artist/7bQ37VC8fmdF36yIIOVIlc), [Gugun Blues Shelter](https://open.spotify.com/artist/5sIvntdXv3HcJucbkLNePp) | [Soulless Blues](https://open.spotify.com/album/6Cmj3kEEH6TXtFt3lcCVy5) | 4:40 | 2025-06-26 | 2025-10-24 |
 | [Sour Candy](https://open.spotify.com/track/4EnQxvppOihfeLqRQGgnDQ) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Sour Candy](https://open.spotify.com/album/6AST0741qWPUcJAr2HfsCp) | 3:24 | 2025-07-10 | 2026-04-10 |
 | [Space & Time](https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [Space & Time](https://open.spotify.com/album/6QLBLw5ACRI0tII9hDr9Ir) | 2:53 | 2025-01-23 | 2025-05-30 |

@@ -1,13 +1,29 @@
 {
-  "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: aron!",
-  "num_followers": 187039,
+  "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: grentperez",
+  "num_followers": 187031,
   "original_name": "bossa pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACtZoJHTedMFnlwP7tdH3doFaQ3d",
+  "snapshot_id": "AAAAAMpRZLKOyRHFETO6GJYouYARwAL/",
   "tracks": [
+    {
+      "added_at": "2026-06-19 04:01:12",
+      "album": {
+        "name": "after all",
+        "url": "https://open.spotify.com/album/7lzGyOwEpw8hCGQge8SS2D"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 193056,
+      "name": "after all",
+      "url": "https://open.spotify.com/track/4UCuyeaovBIUlyeecxU9Q4"
+    },
     {
       "added_at": "2026-03-06 05:00:08",
       "album": {
@@ -727,26 +743,6 @@
       "duration_ms": 322223,
       "name": "Butterflies (feat. Tim Bernardes)",
       "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
-    },
-    {
-      "added_at": "2024-08-26 15:15:02",
-      "album": {
-        "name": "Room For You",
-        "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Room For You",
-      "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
     },
     {
       "added_at": "2024-08-26 15:15:02",

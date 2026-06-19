@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 
 > This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,477 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,476 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 22 | [Mi Rey, Mi Santo](https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mi Rey, Mi Santo](https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe) | 2:44 |
 | 23 | [El Consejo](https://open.spotify.com/track/2KwhQzFa2ZqvexBdALeAJo) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:59 |
 | 24 | [Capullo Y Sorullo](https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:41 |
-| 25 | [Te Metiste](https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Metiste](https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37) | 3:44 |
-| 26 | [Mentiras Bonitas](https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mentiras Bonitas](https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj) | 3:08 |
+| 25 | [Mentiras Bonitas](https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mentiras Bonitas](https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj) | 3:08 |
+| 26 | [Te Metiste](https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Metiste](https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37) | 3:44 |
 | 27 | [Reza y Reza](https://open.spotify.com/track/6Z6FqnImFvNvxg9aHW2HKz) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 2:52 |
 | 28 | [Eso No Es De Hombres](https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Regalo La Lluvia](https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg) | 3:11 |
 | 29 | [Nadie Me Vera Llorar \- \(Versión Acústica\)](https://open.spotify.com/track/3RSLqRsPNCKNDoDufAPzDL) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Nadie Me Vera Llorar \(Versión Acústica\)](https://open.spotify.com/album/6OuUjx0eUvLzxHSOQCnPLn) | 3:03 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 32 | [Quiero Verte](https://open.spotify.com/track/18Qh0YfnFo5wMb8P9756yK) | [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Quiero Verte](https://open.spotify.com/album/0THRwX1TyZekzsCWn3wXxK) | 3:33 |
 | 33 | [Besos Robados](https://open.spotify.com/track/4NuxmtOILyAJARALn4jkY7) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Besos Robados](https://open.spotify.com/album/2JeR32SGEMdyK2G7q8hCXn) | 2:37 |
 | 34 | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS) | 3:44 |
-| 35 | [No Sé Qué Voy A Hacer](https://open.spotify.com/track/4cskZ7EXgVW4Pwbd6vAr7L) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [La Trampa](https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN) | 3:31 |
-| 36 | [No Me Amenaces](https://open.spotify.com/track/0zAwfJMWqYNiqpnBjaKPJz) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 2:31 |
+| 35 | [No Me Amenaces](https://open.spotify.com/track/0zAwfJMWqYNiqpnBjaKPJz) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 2:31 |
+| 36 | [No Sé Qué Voy A Hacer](https://open.spotify.com/track/4cskZ7EXgVW4Pwbd6vAr7L) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [La Trampa](https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN) | 3:31 |
 | 37 | [Para No Extrañarte Tanto](https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Para No Extrañarte Tanto](https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6) | 3:53 |
 | 38 | [De Vez en Cuando](https://open.spotify.com/track/24E22r5cuAwfBgJBWm9gEz) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:33 |
 | 39 | [Mala](https://open.spotify.com/track/4qqYfXGXSpXuKaYAa5qXt6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 49 | [Ahora Te Llamas Ex](https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF) | [Estibaliz Badiola](https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ahora Te Llamas Ex](https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO) | 2:29 |
 | 50 | [Llorar Quedito](https://open.spotify.com/track/3jVkNoGqvj4kQIJKeQWB2r) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [No Es Brujeria](https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4) | 3:45 |
 
-Snapshot ID: `ajCSAAAAAACWa/bBbRJQ6cCVcubFKvQF`
+Snapshot ID: `ajHjgAAAAAAUXKblHMWTUWaqWGhIKU5B`

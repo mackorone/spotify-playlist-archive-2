@@ -358,7 +358,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 259233,
       "name": "An Unfinished Love Song",
       "url": "https://open.spotify.com/track/0kdKWz0b2yv71QIjJnAqP7"
@@ -5612,6 +5612,24 @@
       "duration_ms": 198971,
       "name": "Love Is A Game",
       "url": "https://open.spotify.com/track/3SlQR2O64JKUr15Kc69QJ2"
+    },
+    {
+      "album": {
+        "name": "Love Is for Suckers",
+        "url": "https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66"
+      },
+      "artists": [
+        {
+          "name": "RAYNE",
+          "url": "https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181028,
+      "name": "Love Is for Suckers",
+      "url": "https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: LANA
 
-3,805 songs - 10 day 2 hr 16 min
+3,806 songs - 10 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,7 +734,7 @@
 | [happy ending](https://open.spotify.com/track/6Ej417VdDyV4NJ9CMyd7pt) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [happy ending](https://open.spotify.com/album/57mtjHY4I31nFLDqiAmrnP) | 3:49 | 2023-06-13 | 2024-10-26 |
 | [Happy Ending Show](https://open.spotify.com/track/7IgtInfdL98RaUo7Cd3lZq) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Happy Ending Show](https://open.spotify.com/album/6bDf4iFszh8ZTUTdTYC3RN) | 4:01 | 2025-03-11 | 2025-03-19 |
 | [happy ever after](https://open.spotify.com/track/4bi2VYzw1Q4SWOWdte0BQr) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [happy ever after](https://open.spotify.com/album/4sdCOEFUUmOg5K2egwc4W9) | 3:46 | 2024-09-03 | 2024-12-11 |
-| [Happy Ever After](https://open.spotify.com/track/6ht5QWPzQSQInoRN2v87Ac) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Happy Ever After](https://open.spotify.com/album/6gvgtKoAbqP46vLw46Hrlg) | 3:45 | 2026-01-21 |  |
+| [Happy Ever After](https://open.spotify.com/track/6ht5QWPzQSQInoRN2v87Ac) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Happy Ever After](https://open.spotify.com/album/6gvgtKoAbqP46vLw46Hrlg) | 3:45 | 2026-01-21 | 2026-06-19 |
 | [happy turn](https://open.spotify.com/track/12wNZGEDEizUymd8yoqduG) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [happy turn](https://open.spotify.com/album/5GVA9pNplD9PoKuHWKQZGA) | 4:01 | 2025-07-08 | 2025-08-12 |
 | [Harajuku Boy](https://open.spotify.com/track/1542ftkCri5kDj7xKUC4OL) | [City Cyndrome](https://open.spotify.com/artist/3rW1Y4T5r97bJBG7b2HqjY) | [Harajuku Boy](https://open.spotify.com/album/2UaG3U6D0jXC898hXNUbow) | 5:11 | 2023-09-08 | 2023-09-13 |
 | [HARD MODE](https://open.spotify.com/track/1zgudvNqBtxLBnBNbRuuuG) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [HARD MODE](https://open.spotify.com/album/0P9dHTIuTUDWE6QlSJJT8d) | 3:51 | 2026-02-03 | 2026-02-25 |
@@ -1973,6 +1973,7 @@
 | [Travelers](https://open.spotify.com/track/174Nite6TiCK2GgiGlCXz9) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [Travelers](https://open.spotify.com/album/4skbYCCX3tI970lb4nbsVc) | 5:22 | 2023-03-23 | 2023-03-29 |
 | [TREE CLIMBERS \-2025 ver.\-](https://open.spotify.com/track/6jLPPPgSxbhmIkq7Z8lzrs) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [20years](https://open.spotify.com/album/1A8nnoDDITBLSVAoVYNCxi) | 3:15 | 2025-04-15 | 2025-04-23 |
 | [Trip](https://open.spotify.com/track/3z3FInUn8TSfGKjPxOZ0VY) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [Trip](https://open.spotify.com/album/5AAb2Ggk8How7c0Ye83dGp) | 4:35 | 2022-06-07 | 2022-06-15 |
+| [Tropical Paradise \(3am girls\) feat.f5ve, 詩羽](https://open.spotify.com/track/07XtYE9j1lA8KwOnb1OeWy) | [BACARDI RECORDS](https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA), [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp) | [Tropical Paradise \(3am girls\) feat.f5ve, 詩羽](https://open.spotify.com/album/51rrGc0RLI8rD8ctSTAoRc) | 2:20 | 2026-06-16 |  |
 | [TRUE ROMANCE](https://open.spotify.com/track/2Z5YReCk1v75kXOOJnz6Dw) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [TRUE ROMANCE](https://open.spotify.com/album/28fndfGuME4dOzZ4UH4zOB) | 3:26 | 2022-11-15 | 2023-01-04 |
 | [true to true](https://open.spotify.com/track/1mbk4FTeAZ5OfEM2ISWf3n) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [true to true](https://open.spotify.com/album/2pQASrevvjkllTgYeAVSG2) | 3:02 | 2022-06-14 | 2022-07-07 |
 | [TRUMAN](https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [WHOOPEE](https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK) | 3:36 | 2023-01-17 | 2023-08-27 |

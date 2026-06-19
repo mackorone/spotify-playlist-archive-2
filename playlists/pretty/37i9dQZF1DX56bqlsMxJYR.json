@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1425798,
+  "num_followers": 1426015,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 116626,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 161906,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 116626,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Supremes A' Go-Go (Expanded Edition)",
         "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 167933,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 201387,
-      "name": "Lay, Lady, Lay",
-      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
         "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 201733,
       "name": "Try a Little Tenderness",
       "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 201387,
+      "name": "Lay, Lady, Lay",
+      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 144226,
-      "name": "Tutti Frutti",
-      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Gettin' Ready (Expanded Edition)",
         "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 156173,
       "name": "Ain't Too Proud To Beg",
       "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 144226,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Buddy Holly",
+        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        },
+        {
+          "name": "The Crickets",
+          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
+        }
+      ],
+      "duration_ms": 129120,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "That's All",
         "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 160306,
       "name": "Summer in the City - Remastered",
       "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "Buddy Holly",
-        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        },
-        {
-          "name": "The Crickets",
-          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
-        }
-      ],
-      "duration_ms": 129120,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
     },
     {
       "added_at": "2024-07-12 06:11:58",

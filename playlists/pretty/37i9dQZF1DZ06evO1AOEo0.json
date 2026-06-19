@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 38705,
+  "num_followers": 38712,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAAuyTCcfs/ev7S0+9zebOuD",
+  "snapshot_id": "ajHjgAAAAAAWbB7TYdTUqwwa1qMq5kpy",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 244639,
-      "name": "Psalm 91 (On Eagles' Wings)",
-      "url": "https://open.spotify.com/track/572afBiucwePeZgB1BBRfC"
+      "duration_ms": 326652,
+      "name": "Psalm 34 (Taste and See)",
+      "url": "https://open.spotify.com/track/4JDmqxJrJS9FoMPzWmILkQ"
     },
     {
       "added_at": null,
@@ -340,45 +340,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 326652,
-      "name": "Psalm 34 (Taste and See)",
-      "url": "https://open.spotify.com/track/4JDmqxJrJS9FoMPzWmILkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Worship Initiative, Vol. 11",
-        "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 348534,
-      "name": "Sovereign Over Us",
-      "url": "https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymns Live",
-        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 293802,
-      "name": "Is He Worthy (Live)",
-      "url": "https://open.spotify.com/track/2biU8EO9TFZ6lMz8q6A92W"
+      "duration_ms": 244639,
+      "name": "Psalm 91 (On Eagles' Wings)",
+      "url": "https://open.spotify.com/track/572afBiucwePeZgB1BBRfC"
     },
     {
       "added_at": null,
@@ -399,6 +363,42 @@
       "duration_ms": 271267,
       "name": "Christ Our Hope In Life And Death",
       "url": "https://open.spotify.com/track/1zk44kfCF3DBdyrdtQg7wf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymns Live",
+        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 293802,
+      "name": "Is He Worthy (Live)",
+      "url": "https://open.spotify.com/track/2biU8EO9TFZ6lMz8q6A92W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Worship Initiative, Vol. 11",
+        "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 348534,
+      "name": "Sovereign Over Us",
+      "url": "https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymns in the Round",
+        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 253406,
+      "name": "Be Thou My Vision (Lord You Are) [Acoustic]",
+      "url": "https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Worship Initiative, Vol. 11",
         "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 340129,
       "name": "O Come to the Altar",
       "url": "https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymns in the Round",
-        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 253406,
-      "name": "Be Thou My Vision (Lord You Are) [Acoustic]",
-      "url": "https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK"
     },
     {
       "added_at": null,

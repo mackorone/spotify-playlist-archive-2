@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover: Andy Mineo & Wordsplayed",
+  "description": "The best of Christian Hip Hop today.  Cover: Canon",
   "name": "The Flow",
   "tracks": [
     {
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 128000,
       "name": "AUTOMATIC",
       "url": "https://open.spotify.com/track/1iHAGNjy0Nj9f92AXHxIeC"
@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 231897,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/18eGU3W9JZcbANd3ZBmPGm"
@@ -3122,7 +3122,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 204784,
       "name": "Bigger Than Me",
       "url": "https://open.spotify.com/track/55RwtAhtpaQCEqqi7gCo8P"
@@ -7422,6 +7422,24 @@
       "duration_ms": 184271,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc"
+    },
+    {
+      "album": {
+        "name": "LA COPA",
+        "url": "https://open.spotify.com/album/32FwSl9P9Tq7CR4VAkMk4e"
+      },
+      "artists": [
+        {
+          "name": "Don Ryvcko",
+          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123200,
+      "name": "EVERYDAY (TO' LOS DIAS)",
+      "url": "https://open.spotify.com/track/5QVnyY5EC25UGFEfHupI4n"
     },
     {
       "album": {
@@ -12873,6 +12891,28 @@
     },
     {
       "album": {
+        "name": "Investment",
+        "url": "https://open.spotify.com/album/5EX4mVzKVaV9tt5Ymdcw7G"
+      },
+      "artists": [
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166357,
+      "name": "Investment",
+      "url": "https://open.spotify.com/track/3ZwXgHBbdEgpgg1R3n8DSs"
+    },
+    {
+      "album": {
         "name": "Irresponsible",
         "url": "https://open.spotify.com/album/0L4s7cWKEUFvAthWfWtDtT"
       },
@@ -16905,6 +16945,28 @@
     },
     {
       "album": {
+        "name": "NEED YOU (feat. Lecrae)",
+        "url": "https://open.spotify.com/album/0Tbu8F2IMjm6QRtns8ONqp"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151968,
+      "name": "NEED YOU (feat. Lecrae)",
+      "url": "https://open.spotify.com/track/0rsHiyVj4Jo919pZ4nYaYy"
+    },
+    {
+      "album": {
         "name": "Never Be the Same",
         "url": "https://open.spotify.com/album/2pi1Q19Ktl2hoyBJH6QkRH"
       },
@@ -17166,6 +17228,24 @@
       "duration_ms": 165194,
       "name": "NEVER QUIT",
       "url": "https://open.spotify.com/track/0goNoN3HwZEpsElESSMwMW"
+    },
+    {
+      "album": {
+        "name": "Never Scared",
+        "url": "https://open.spotify.com/album/4hTuJr93JUjuX0hGvRBnLk"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131925,
+      "name": "Never Scared",
+      "url": "https://open.spotify.com/track/0VeXWs5RjJf6WvOU9BEK0m"
     },
     {
       "album": {
@@ -21204,7 +21284,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 112807,
       "name": "REPENTANCE FREESTYLE",
       "url": "https://open.spotify.com/track/2pHJAD3oMcZHcilsTN7g4L"
@@ -22610,7 +22690,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 202168,
       "name": "Silla Abandonada",
       "url": "https://open.spotify.com/track/44anHcbWo3gYE3vyioUG9V"
@@ -25324,7 +25404,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 135840,
       "name": "The Way",
       "url": "https://open.spotify.com/track/1NVz0LF4aZArLFNqeZuo7E"
@@ -26083,6 +26163,24 @@
     },
     {
       "album": {
+        "name": "Trumpets",
+        "url": "https://open.spotify.com/album/7zDIuEg6nkLPhVlT4U5D97"
+      },
+      "artists": [
+        {
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109530,
+      "name": "Trumpets",
+      "url": "https://open.spotify.com/track/2bloBVmNIdyC7D0nh7raN3"
+    },
+    {
+      "album": {
         "name": "Truth Is",
         "url": "https://open.spotify.com/album/1CPKTm68pKVIhAEL7ho4uG"
       },
@@ -26138,6 +26236,32 @@
       "duration_ms": 169874,
       "name": "TUNNEL VISION",
       "url": "https://open.spotify.com/track/6C6s0bb9k6KfmRms8l6WE1"
+    },
+    {
+      "album": {
+        "name": "FIRE FROM ABOVE",
+        "url": "https://open.spotify.com/album/5vqU7tBQoDCtFOCEOUD56A"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Wordsplayed",
+          "url": "https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO"
+        },
+        {
+          "name": "Magic & Bird",
+          "url": "https://open.spotify.com/artist/3Sv0RnybkUFxZfPJJlSV2x"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203882,
+      "name": "TURBO",
+      "url": "https://open.spotify.com/track/759jpO9sLLodCdELn4VPkJ"
     },
     {
       "album": {
@@ -27052,7 +27176,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 234196,
       "name": "Warrior Babies",
       "url": "https://open.spotify.com/track/2EfLfKBBXFBKzPCTn91TUl"

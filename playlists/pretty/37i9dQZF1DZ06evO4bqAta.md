@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,245 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,275 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 49 | [Sara](https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 5:31 |
 | 50 | [In My Time of Dyin'](https://open.spotify.com/track/0udZHhCi7p1YzMlvI4fXoK) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 2:41 |
 
-Snapshot ID: `ajCSAAAAAABPSgm/XptI4RrIEfjPrid6`
+Snapshot ID: `ajHjgAAAAACbq38sFdBK92uQGQrTMdo8`

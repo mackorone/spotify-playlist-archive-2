@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71ryr0WHggU.md) - [plain]
 
 > Let's go out out 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,890 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,894 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71ryr0WHggU.md) - [plain]
 | 32 | [Applause](https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:32 |
 | 33 | [Give It To Me](https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 3:54 |
 | 34 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
-| 35 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
-| 36 | [1, 2 Step \(feat\. Missy Elliott\)](https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:23 |
+| 35 | [1, 2 Step \(feat\. Missy Elliott\)](https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:23 |
+| 36 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 37 | [Domino](https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:51 |
 | 38 | [You've Got The Love](https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:48 |
 | 39 | [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71ryr0WHggU.md) - [plain]
 | 46 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:36 |
 | 47 | [Lady Marmalade \- Single Edit](https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Lady Marmalade](https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ) | 4:27 |
 | 48 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
-| 49 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
-| 50 | [Smile](https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:16 |
+| 49 | [Smile](https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:16 |
+| 50 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
 | 51 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
 | 52 | [Praise You](https://open.spotify.com/track/1FS21kclHQ2vVi3U1ZxETc) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come a Long Way Baby](https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN) | 5:24 |
 | 53 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 |

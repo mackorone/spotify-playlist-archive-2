@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Fcukers
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,941 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,912 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 49 | [veil](https://open.spotify.com/track/1T6rsPlJocRIU4OibA7YY8) | [svn4vr](https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B) | [herts on fire](https://open.spotify.com/album/04G4D5LWqd7hmTIiAUHxEs) | 2:26 |
 | 50 | [Stupid Bitches](https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Stupid Bitches](https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP) | 3:31 |
 
-Snapshot ID: `AAAAADugMc+lnrZ0+Cjs6aHgLG/+uLJi`
+Snapshot ID: `AAAAAH27JtM1o7WMxh3Y9+Uzv1N1UdU2`

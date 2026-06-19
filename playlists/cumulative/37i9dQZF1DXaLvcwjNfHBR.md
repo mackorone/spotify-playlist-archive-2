@@ -2,9 +2,9 @@
 
 ### [Breaking Hits](https://open.spotify.com/playlist/37i9dQZF1DXaLvcwjNfHBR)
 
-> Your new favourite songs! Cover: Ruel
+> Your new favourite songs! Cover: STELLA LEFTY
 
-1,165 songs - 2 day 14 hr 16 min
+1,167 songs - 2 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Antidote \(feat\. Sam Fischer\)](https://open.spotify.com/track/2xjWiL4bvoU8HuQKCPc74M) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Antidote \(feat\. Sam Fischer\)](https://open.spotify.com/album/5RNKvbH8ofonEcdkXcReyA) | 4:40 | 2024-02-29 | 2024-04-12 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-06 | 2025-06-27 |
 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 | 2024-01-11 | 2024-01-19 |
+| [Anytime, Anywhere, Antoinette](https://open.spotify.com/track/5clq7hPIaE3VUB0mqnKIjn) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Anytime, Anywhere, Antoinette](https://open.spotify.com/album/3hQ0qTkMTio82I4gIJkm4r) | 4:18 | 2026-06-18 |  |
 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-23 | 2026-03-13 |
 | [Apple](https://open.spotify.com/track/1juBRo49adrKPIJDdOf6zt) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:31 | 2024-07-18 | 2024-11-15 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-22 | 2024-12-06 |
@@ -145,6 +146,7 @@
 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-05-27 | 2025-10-14 |
 | [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 | 2025-04-22 | 2025-09-19 |
 | [Bloodline](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-27 | 2025-10-21 |
+| [bloodstream](https://open.spotify.com/track/2iAZ1p8ojtvhMxNXogE47k) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [bloodstream](https://open.spotify.com/album/77dC1zk0c6l1KDtOnO8XNC) | 2:57 | 2026-06-18 |  |
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-02-15 | 2024-03-15 |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2025-01-09 | 2025-05-09 |
 | [Blue Eyed Māori](https://open.spotify.com/track/2G8vllTUQQHBjZORXRsMVP) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Road From 26](https://open.spotify.com/album/0hhJLGpa6DkMzy4P8EBw2L) | 3:16 | 2023-10-12 | 2023-11-11 |
@@ -708,7 +710,7 @@
 | [Movie \(feat\. Abra Cadabra\)](https://open.spotify.com/track/6Lo7ml7DFnDw2XNlv5c84p) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [MOVIE](https://open.spotify.com/album/26hzxv39hvWTG6t5zO8oQJ) | 3:32 | 2025-01-30 | 2025-04-11 |
 | [MR LUCKY](https://open.spotify.com/track/3QyF6ighoWEbCubJ4E0TuM) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [MR LUCKY](https://open.spotify.com/album/7M51f0iWJMOsBYWShOVYkb) | 2:38 | 2023-06-15 | 2023-07-06 |
 | [Mr\. Fantasy](https://open.spotify.com/track/4zT0nZK95FOuPWt4WC5vXe) | [MR\. FANTASY](https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH) | [Mr\. Fantasy](https://open.spotify.com/album/2HE6aJS5aYpobitS6dXTz0) | 3:04 | 2025-09-11 | 2026-01-28 |
-| [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 | 2026-04-10 |  |
+| [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 | 2026-04-10 | 2026-06-19 |
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2023-06-15 | 2023-09-07 |
 | [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 | 2025-03-06 | 2025-04-18 |
 | [Murder on My Mind](https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [I AM YOU](https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW) | 4:28 | 2023-06-21 | 2023-09-02 |
@@ -974,7 +976,7 @@
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-15 | 2023-07-21 |
 | [Stuff \(feat\. Travis Scott\)](https://open.spotify.com/track/6JvIjI8H3yxpigROd3Cv9N) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 3:00 | 2025-01-16 | 2025-05-14 |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-01-19 | 2024-03-15 |
-| [Stuntn](https://open.spotify.com/track/7FpBSmSsI3AHNTVptxEv1K) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Stuntn](https://open.spotify.com/album/2A8KqE7vvH5f8lIjWfvYny) | 2:31 | 2026-04-23 |  |
+| [Stuntn](https://open.spotify.com/track/7FpBSmSsI3AHNTVptxEv1K) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Stuntn](https://open.spotify.com/album/2A8KqE7vvH5f8lIjWfvYny) | 2:31 | 2026-04-23 | 2026-06-19 |
 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ) | 2:53 | 2024-02-29 | 2024-03-15 |
 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 | 2026-06-12 |  |
 | [Sucker For Love](https://open.spotify.com/track/5O8GYy3zDYonQno0UWYc9n) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential](https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL) | 3:34 | 2026-03-27 | 2026-05-13 |

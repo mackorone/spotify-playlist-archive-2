@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 
 > This is The XCERTS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 677 likes - 42 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 678 likes - 42 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 | 6 | [Shaking In The Water](https://open.spotify.com/track/4EAEzurHVgxsXmJ263P6fV) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:10 |
 | 7 | [Ache](https://open.spotify.com/track/7CXTYpBFOD8ZD99At4G6jR) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Sam Carter](https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o) | [Afterthoughts On Letting Go](https://open.spotify.com/album/5K3J7hIZ5aHfV4tUAnbv7b) | 1:40 |
 | 8 | [Hold on to Your Heart](https://open.spotify.com/track/6AZ94VHiLMNmtJGuIaKVyU) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:19 |
-| 9 | [pretty ugly](https://open.spotify.com/track/6DcwcXgTaxY4lHeHJVT14c) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [pretty ugly](https://open.spotify.com/album/4in7sttZpgJwqxNXhVdKVb) | 3:03 |
+| 9 | [in your eyes](https://open.spotify.com/track/1Lex0gvGPc1895VBluRjv5) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [in your eyes](https://open.spotify.com/album/4jtdFDvahvr1hhEOsV2BWr) | 5:17 |
 | 10 | [Kids On Drugs](https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:22 |
-| 11 | [in your eyes](https://open.spotify.com/track/1Lex0gvGPc1895VBluRjv5) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [in your eyes](https://open.spotify.com/album/4jtdFDvahvr1hhEOsV2BWr) | 5:17 |
+| 11 | [pretty ugly](https://open.spotify.com/track/6DcwcXgTaxY4lHeHJVT14c) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [pretty ugly](https://open.spotify.com/album/4in7sttZpgJwqxNXhVdKVb) | 3:03 |
 | 12 | [Blame](https://open.spotify.com/track/4wRqt53Z6CQamU6cXrnVvT) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2) | 2:54 |
 | 13 | [We Are Gonna Live](https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:34 |
 | 14 | [Live Like This](https://open.spotify.com/track/4Vt9jIvA2OSFZ7V1UKYDyy) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:36 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 | 36 | [Cool Ethan](https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 5:16 |
 | 37 | [Complicated](https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Complicated \(feat\. Heights\)](https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01) | 3:32 |
 | 38 | [Fight or Run](https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Wildheart Dreaming](https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc) | 3:12 |
-| 39 | [Gum](https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:19 |
-| 40 | [Weather Warning](https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Weather Warning](https://open.spotify.com/album/7BmVhPGyq2fG5Cg0Y1v4VF) | 4:10 |
+| 39 | [Weather Warning](https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Weather Warning](https://open.spotify.com/album/7BmVhPGyq2fG5Cg0Y1v4VF) | 4:10 |
+| 40 | [Gum](https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:19 |
 | 41 | [Hurt with Me](https://open.spotify.com/track/1jyz1bZTmvO1bfBK3f8sWk) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 5:17 |
 | 42 | [Distant Memory](https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 4:30 |
 
-Snapshot ID: `ajCSAAAAAACEzrJsJ7xB6qFG/MVRmVpO`
+Snapshot ID: `ajHjgAAAAACPkVv5bwjz1mLin9Z/2eOK`

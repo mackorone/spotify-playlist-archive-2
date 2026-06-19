@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 
 > Classic tunes served over easy for the perfect brunch soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,224 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,252 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 37 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely \(Expanded Edtion\)](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 |
 | 38 | [Higher Love](https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Back In The High Life](https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d) | 5:51 |
 | 39 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:51 |
-| 40 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
-| 41 | [It Never Rains in Southern California](https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [It Never Rains In Southern California](https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM) | 3:53 |
+| 40 | [It Never Rains in Southern California](https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [It Never Rains In Southern California](https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM) | 3:53 |
+| 41 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
 | 42 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
 | 43 | [I Got You Babe](https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [Look At Us](https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH) | 3:10 |
 | 44 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 58 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
 | 59 | [Stuck In The Middle With You](https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Reservoir Dogs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF) | 3:23 |
 | 60 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 |
-| 61 | [Chain of Fools](https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:47 |
-| 62 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
+| 61 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
+| 62 | [Chain of Fools](https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:47 |
 | 63 | [Year of the Cat](https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Year of the Cat](https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5) | 6:40 |
 | 64 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 |
 | 65 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
-| 66 | [Day Dreaming](https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:59 |
-| 67 | [Tempted](https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [East Side Story](https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy) | 4:00 |
+| 66 | [Tempted](https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [East Side Story](https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy) | 4:00 |
+| 67 | [Day Dreaming](https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:59 |
 | 68 | [Too Late To Turn Back Now](https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE) | [Cornelius Brothers & Sister Rose](https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT) | [The Story Of Cornelius Brothers & Sister Rose](https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW) | 3:18 |
 | 69 | [Wouldn't It Be Nice](https://open.spotify.com/track/6VojZJpMyuKClbwyilWlQj) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:33 |
 | 70 | [Angel Of The Morning](https://open.spotify.com/track/6NVB6W7G3svCKe5zB7kY8q) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice Newton's Greatest Hits](https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw) | 4:14 |

@@ -1,6 +1,6 @@
 {
   "description": "Find hope in Him in every note of these songs full of faith!",
-  "num_followers": 213650,
+  "num_followers": 213658,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
-      },
-      "artists": [
-        {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/6UPzYldiFNx9jssIxwuyYv"
-    },
-    {
-      "added_at": "2026-05-19 08:18:48",
-      "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 161787,
       "name": "Oh Child",
       "url": "https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk"
+    },
+    {
+      "added_at": "2026-05-19 08:18:48",
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/6UPzYldiFNx9jssIxwuyYv"
     },
     {
       "added_at": "2026-05-19 08:18:48",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "He Knows",
+      "url": "https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw"
+    },
+    {
+      "added_at": "2026-05-19 08:18:48",
+      "album": {
         "name": "I'll Fly Away (feat. Benjamin William Hastings)",
         "url": "https://open.spotify.com/album/1G1dXoBVTVsHi8ckSxwl0z"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 180936,
       "name": "I'll Fly Away (feat. Benjamin William Hastings)",
       "url": "https://open.spotify.com/track/2wyDAbsLjAysWOWr6q5NGB"
-    },
-    {
-      "added_at": "2026-05-19 08:18:48",
-      "album": {
-        "name": "I Will Follow",
-        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "He Knows",
-      "url": "https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw"
     },
     {
       "added_at": "2026-05-19 08:18:48",
@@ -575,8 +575,8 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
-        "name": "We Must Respond (Deluxe) [Live]",
-        "url": "https://open.spotify.com/album/1ntjRgamsV6LiEStmovy3Y"
+        "name": "Marvelous (Live)",
+        "url": "https://open.spotify.com/album/7MC0d2DF0kSt5stF1ce58g"
       },
       "artists": [
         {
@@ -584,17 +584,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+          "name": "Hannah Waters",
+          "url": "https://open.spotify.com/artist/4ikD0yzW2w4xoY6xBla98L"
         }
       ],
-      "duration_ms": 419549,
-      "name": "Even Though I Walk - Live At Church",
-      "url": "https://open.spotify.com/track/4gcWgDaQTIbFt1jvI7z1qR"
+      "duration_ms": 525690,
+      "name": "Marvelous - Live",
+      "url": "https://open.spotify.com/track/7yGFqQLgDpHmSetmzyWX94"
     },
     {
       "added_at": "2026-05-19 08:18:48",
@@ -671,8 +667,8 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
-        "name": "Marvelous (Live)",
-        "url": "https://open.spotify.com/album/7MC0d2DF0kSt5stF1ce58g"
+        "name": "We Must Respond (Deluxe) [Live]",
+        "url": "https://open.spotify.com/album/1ntjRgamsV6LiEStmovy3Y"
       },
       "artists": [
         {
@@ -680,13 +676,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Hannah Waters",
-          "url": "https://open.spotify.com/artist/4ikD0yzW2w4xoY6xBla98L"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
         }
       ],
-      "duration_ms": 525690,
-      "name": "Marvelous - Live",
-      "url": "https://open.spotify.com/track/7yGFqQLgDpHmSetmzyWX94"
+      "duration_ms": 419549,
+      "name": "Even Though I Walk - Live At Church",
+      "url": "https://open.spotify.com/track/4gcWgDaQTIbFt1jvI7z1qR"
     },
     {
       "added_at": "2026-05-19 08:18:48",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
-        "name": "The Fire (Acoustic)",
-        "url": "https://open.spotify.com/album/0Mz3X84PuEf7NuxC8cPesp"
-      },
-      "artists": [
-        {
-          "name": "Ginny Owens",
-          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
-        }
-      ],
-      "duration_ms": 259010,
-      "name": "The Fire - Acoustic",
-      "url": "https://open.spotify.com/track/0KAUm5iYpLe29zFfjlXQOn"
-    },
-    {
-      "added_at": "2026-05-19 08:18:48",
-      "album": {
         "name": "Still Standing",
         "url": "https://open.spotify.com/album/0XEt0POBZWwuxceDlBAOSg"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
-        "name": "Hold Your Light High",
-        "url": "https://open.spotify.com/album/2ifiuogRnLndEpyV8WT5HW"
+        "name": "The Fire (Acoustic)",
+        "url": "https://open.spotify.com/album/0Mz3X84PuEf7NuxC8cPesp"
       },
       "artists": [
         {
-          "name": "Terrible Sons",
-          "url": "https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g"
+          "name": "Ginny Owens",
+          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
         }
       ],
-      "duration_ms": 192903,
-      "name": "Hold Your Light High",
-      "url": "https://open.spotify.com/track/3q95zAsgnhbbb9JOsFY5R2"
+      "duration_ms": 259010,
+      "name": "The Fire - Acoustic",
+      "url": "https://open.spotify.com/track/0KAUm5iYpLe29zFfjlXQOn"
     },
     {
       "added_at": "2026-05-19 08:18:48",
@@ -1743,18 +1727,18 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
-        "name": "Have Hope",
-        "url": "https://open.spotify.com/album/5YPAPMNa3p1EAov5Jb8ywN"
+        "name": "Hold Your Light High",
+        "url": "https://open.spotify.com/album/2ifiuogRnLndEpyV8WT5HW"
       },
       "artists": [
         {
-          "name": "Ginny Owens",
-          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+          "name": "Terrible Sons",
+          "url": "https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g"
         }
       ],
-      "duration_ms": 201095,
-      "name": "Have Hope",
-      "url": "https://open.spotify.com/track/49pWooNGZz9BXHgLkNRebD"
+      "duration_ms": 192903,
+      "name": "Hold Your Light High",
+      "url": "https://open.spotify.com/track/3q95zAsgnhbbb9JOsFY5R2"
     },
     {
       "added_at": "2026-05-19 08:18:48",
@@ -1787,6 +1771,22 @@
       "duration_ms": 288986,
       "name": "Hope Has a Name",
       "url": "https://open.spotify.com/track/6qzEwrOf3GGrqH7ijrxLli"
+    },
+    {
+      "added_at": "2026-05-19 08:18:48",
+      "album": {
+        "name": "Have Hope",
+        "url": "https://open.spotify.com/album/5YPAPMNa3p1EAov5Jb8ywN"
+      },
+      "artists": [
+        {
+          "name": "Ginny Owens",
+          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+        }
+      ],
+      "duration_ms": 201095,
+      "name": "Have Hope",
+      "url": "https://open.spotify.com/track/49pWooNGZz9BXHgLkNRebD"
     },
     {
       "added_at": "2026-05-19 08:18:48",

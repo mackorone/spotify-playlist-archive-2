@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Cuo Zay, Autumn! and more",
+  "description": "With Yeat, Cuo Zay, Ken Carson and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -1209,6 +1209,28 @@
     },
     {
       "album": {
+        "name": "Double Trouble",
+        "url": "https://open.spotify.com/album/5Mqq72DjK0WOPaa9mTheuJ"
+      },
+      "artists": [
+        {
+          "name": "Bloxkz",
+          "url": "https://open.spotify.com/artist/2EwoGXPSiIj22fOW34RJsw"
+        },
+        {
+          "name": "Kyi Torch",
+          "url": "https://open.spotify.com/artist/0tB0LU32h2aTsXJH0Y8mMS"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138250,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/5U4gWtfgt9uddsz73UeDFj"
+    },
+    {
+      "album": {
         "name": "heartpacing",
         "url": "https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z"
       },
@@ -2276,7 +2298,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 189231,
       "name": "king of the pumpkin patch",
       "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
@@ -2896,7 +2918,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "No Blickout",
       "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
@@ -3098,7 +3120,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 122070,
       "name": "Opp's Hood",
       "url": "https://open.spotify.com/track/2oe0X2oRea7TG5B77sDGO4"
@@ -3156,7 +3178,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -3294,7 +3316,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 161075,
       "name": "Price I Pay",
       "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
@@ -3916,7 +3938,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 156815,
       "name": "Straight Forward",
       "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
@@ -4910,7 +4932,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 123211,
       "name": "YOUTUBE",
       "url": "https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53"

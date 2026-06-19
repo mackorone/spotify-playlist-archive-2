@@ -1,13 +1,45 @@
 {
   "description": "A classic playlist with the best hits of the 90s featuring No Doubt, Spice Girls, Smash Mouth, Nirvana, and all those 90s hits you can't resist!",
-  "num_followers": 143692,
+  "num_followers": 143680,
   "original_name": "90s",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAFVCITT8qQlRDsp/htpVPtR/hKZkuk",
+  "snapshot_id": "AAAFV8CZMGLPrrswbe1IyGWn3/sodtRW",
   "tracks": [
+    {
+      "added_at": "2026-06-18 23:11:18",
+      "album": {
+        "name": "Sadeness (Part I)",
+        "url": "https://open.spotify.com/album/2KRYBWzHyMdkhxcwkbuN9B"
+      },
+      "artists": [
+        {
+          "name": "Enigma",
+          "url": "https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Sadeness - Pt. 1 / Radio Edit",
+      "url": "https://open.spotify.com/track/3MVm36ouM56jbP5rORxbVy"
+    },
+    {
+      "added_at": "2026-06-12 02:37:53",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+      },
+      "artists": [
+        {
+          "name": "Deep Blue Something",
+          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
+    },
     {
       "added_at": "2026-06-12 02:37:53",
       "album": {
@@ -175,22 +207,6 @@
       "duration_ms": 351626,
       "name": "Common People - Full Length Version",
       "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
-    },
-    {
-      "added_at": "2026-06-12 02:37:53",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
-      },
-      "artists": [
-        {
-          "name": "Deep Blue Something",
-          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
     },
     {
       "added_at": "2026-06-12 02:37:53",

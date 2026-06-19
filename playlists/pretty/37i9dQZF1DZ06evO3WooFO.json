@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 625859,
+  "num_followers": 625933,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAACeC9/DgrZtAa5Cg2+hZ8OZ",
+  "snapshot_id": "ajHjgAAAAAAgIdJZ2EsOboCA4mJQKK1N",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "California (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
+        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
+        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 30213,
-      "name": "Brohemian Rhapsody",
-      "url": "https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq"
+      "duration_ms": 166733,
+      "name": "Man Overboard",
+      "url": "https://open.spotify.com/track/1PRknVhZ6BsVX61MPrrVsV"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
-        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 166733,
-      "name": "Man Overboard",
-      "url": "https://open.spotify.com/track/1PRknVhZ6BsVX61MPrrVsV"
+      "duration_ms": 30213,
+      "name": "Brohemian Rhapsody",
+      "url": "https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighborhoods (Deluxe)",
-        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
+        "name": "Take Off Your Pants And Jacket (25 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 257519,
-      "name": "Ghost On The Dance Floor",
-      "url": "https://open.spotify.com/track/2qg7jm9wp4HM6CMcZxVYOC"
+      "duration_ms": 86045,
+      "name": "Fuck A Dog",
+      "url": "https://open.spotify.com/track/3P58efLF7neLj7U1SZeA9x"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,620 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,617 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 49 | [See You Tonight \- Live](https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:29 |
 | 50 | [Parasite \- Remastered 1997](https://open.spotify.com/track/5RaXQF86U71nenpwo2yjdz) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hotter Than Hell \(Remastered 1997\)](https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE) | 3:02 |
 
-Snapshot ID: `ajCSAAAAAABEDzHztcRtLiVfv/Shkhe9`
+Snapshot ID: `ajHjgAAAAACXtLDr0va1I7Ou1JWGqYgW`

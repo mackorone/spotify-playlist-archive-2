@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Cheema Y & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,280 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,344 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 7 | [Janta](https://open.spotify.com/track/6RcpBJloyZgm2PJHPal4xm) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [JATTCODE](https://open.spotify.com/album/0Wj0tVlY9UxfnL7XeEBPPG) | 2:40 |
 | 8 | [Ace](https://open.spotify.com/track/33H3JkG5kAlqwgtI5rYbpP) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Chapter IV](https://open.spotify.com/album/3RRSy7ypBCuUbPorgw6bO7) | 2:45 |
 | 9 | [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 |
-| 10 | [Nai Dabde](https://open.spotify.com/track/7ySn85NswBQJlMMRDVfsVs) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Preet Sukh](https://open.spotify.com/artist/17gMznd5zN6OhjvnnX0CLa), [Kulshan Sandhu](https://open.spotify.com/artist/0SZK7xzvvaFBWfLvp90nKN) | [Nai Dabde](https://open.spotify.com/album/4yLWTDhlzI09R1b9II9Hoo) | 2:19 |
+| 10 | [Nai Dabde](https://open.spotify.com/track/7ySn85NswBQJlMMRDVfsVs) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Preet Sukh](https://open.spotify.com/artist/17gMznd5zN6OhjvnnX0CLa), [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Nai Dabde](https://open.spotify.com/album/4yLWTDhlzI09R1b9II9Hoo) | 2:19 |
 | 11 | [Dealer](https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Da Future](https://open.spotify.com/artist/0JoJujh7AH388xjwLHe0IR), [Virk Andaaz](https://open.spotify.com/artist/4jIIs4ktqKx3OJMbn7Xo7l) | [Dealer](https://open.spotify.com/album/500ZX1Af0B65dJHBwRWJ8N) | 1:50 |
 | 12 | [Asla](https://open.spotify.com/track/2evIekFZQjJZJSetzjUBgA) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [Asla](https://open.spotify.com/album/48ksAgJxBlNxQhjAb5Im8Z) | 2:06 |
 | 13 | [Dapper Dan](https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:07 |

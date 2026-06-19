@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 
 > This is Los Tigres Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,262 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,316 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 10 | [La Camioneta Gris](https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 3:15 |
 | 11 | [La Puerta Negra](https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Gracias America Sin Fronteras](https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd) | 3:23 |
 | 12 | [Cuestión Olvidada](https://open.spotify.com/track/4U7N4o4EHZnsJSkH0qrmat) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 3:28 |
-| 13 | [Carta Abierta](https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Internacionalmente Norteños](https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42) | 2:52 |
-| 14 | [Mi Fantasía](https://open.spotify.com/track/7AXTS96xScRsYLzEQMaTNK) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Uniendo Fronteras](https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C) | 3:25 |
+| 13 | [Mi Fantasía](https://open.spotify.com/track/7AXTS96xScRsYLzEQMaTNK) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Uniendo Fronteras](https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C) | 3:25 |
+| 14 | [Carta Abierta](https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Internacionalmente Norteños](https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42) | 2:52 |
 | 15 | [Contrabando Y Traición](https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Contrabando Y Traicion](https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3) | 3:26 |
 | 16 | [No Pude Enamorarme Mas](https://open.spotify.com/track/6EAKWJ5K0SY0gsJF3u0yy4) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 3:34 |
 | 17 | [El Avión De La Muerte](https://open.spotify.com/track/088gbyPjGW9bF5Gf8hWKMA) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 49 | [Fallaste Corazón](https://open.spotify.com/track/4p3nrgcepfwyOJwg2shRcE) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 3:44 |
 | 50 | [Cariño Donde Andaras](https://open.spotify.com/track/5yAD0PU10aCA2ZNH14HvV4) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Garra De...](https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y) | 2:52 |
 
-Snapshot ID: `ajCSAAAAAAAXunQ2h8iGP00PvPEzmHOA`
+Snapshot ID: `ajHjgAAAAAAhjkCvMN1eB+29x0nYGMp0`

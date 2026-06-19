@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 
 > gusto ko lang naman ng kayakap
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,235 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,112 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 30 | [You'll Be Safe Here](https://open.spotify.com/track/0IuKNTVgn9vapnGU44natX) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [You'll Be Safe Here](https://open.spotify.com/album/5JqdmuqnCCp3ENI3IgdqDG) | 5:04 |
 | 31 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
 | 32 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
-| 33 | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ) | 2:21 |
-| 34 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 |
+| 33 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 |
+| 34 | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ) | 2:21 |
 | 35 | [Boyfriend](https://open.spotify.com/track/4067uAzJZUHJInwOo7X701) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Boyfriend](https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf) | 4:53 |
 | 36 | [Close To You](https://open.spotify.com/track/2bl81llf715VEEbAx03yvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 3:45 |
 | 37 | [Paradise](https://open.spotify.com/track/6xRiL9BVkWfZryQJmdHTmv) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Paradise \- EP](https://open.spotify.com/album/7p7vt3VZb5ORhePGbHAf8S) | 4:16 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 43 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 |
 | 44 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 |
 | 45 | [LAST GOODBYE](https://open.spotify.com/track/4sTjUYjIC02RkNa1A8rWjE) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [LAST GOODBYE](https://open.spotify.com/album/60J04ZdOL6STeI0S9OLDZq) | 2:28 |
-| 46 | [A Piece of You](https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [A Piece of You](https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt) | 3:57 |
-| 47 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 |
+| 46 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 |
+| 47 | [A Piece of You](https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [A Piece of You](https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt) | 3:57 |
 | 48 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 |
 | 49 | [Palagi](https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Palagi](https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH) | 3:38 |
 | 50 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 |

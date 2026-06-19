@@ -1911,6 +1911,28 @@
     },
     {
       "album": {
+        "name": "Adolecer",
+        "url": "https://open.spotify.com/album/1sv4JASlpDmFDTisD2vjGa"
+      },
+      "artists": [
+        {
+          "name": "143leti",
+          "url": "https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr"
+        },
+        {
+          "name": "Roxxee",
+          "url": "https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113846,
+      "name": "Eu Te Amo",
+      "url": "https://open.spotify.com/track/603G1XgpLnYPpEbyxpc9Rt"
+    },
+    {
+      "album": {
         "name": "Ex de Verdad",
         "url": "https://open.spotify.com/album/5gB9hUdW7cWHepVvovAh2v"
       },
@@ -2599,6 +2621,24 @@
     },
     {
       "album": {
+        "name": "AYER DIJISTE MA\u00d1ANA",
+        "url": "https://open.spotify.com/album/70YgRmVdUC5cJNrjYwSH4H"
+      },
+      "artists": [
+        {
+          "name": "BALTA",
+          "url": "https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182963,
+      "name": "KIERO TO!",
+      "url": "https://open.spotify.com/track/2hcqe238XhzYvMllBUlHy1"
+    },
+    {
+      "album": {
         "name": "La Casualidad",
         "url": "https://open.spotify.com/album/0uj09wSpaUp58kWvYnZ7tw"
       },
@@ -2956,6 +2996,24 @@
       "duration_ms": 177814,
       "name": "LLAMALO",
       "url": "https://open.spotify.com/track/7jt4CMYzHjlwYV6AiSqFBX"
+    },
+    {
+      "album": {
+        "name": "Llena de Amor",
+        "url": "https://open.spotify.com/album/34D62mE18sh7n2X0Q4HQdN"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150387,
+      "name": "Llena de Amor",
+      "url": "https://open.spotify.com/track/1tkWlwMi9Qm7xXRZHelofX"
     },
     {
       "album": {
@@ -3426,7 +3484,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 127200,
       "name": "MI CHINA",
       "url": "https://open.spotify.com/track/357YDywBW0HNOLsA7ymDIM"
@@ -3684,6 +3742,28 @@
       "duration_ms": 155408,
       "name": "M\u00edrame a la Cara",
       "url": "https://open.spotify.com/track/0g0iuKNmWk63IYELr60zZg"
+    },
+    {
+      "album": {
+        "name": "Nada M\u00e1s en M\u00ed",
+        "url": "https://open.spotify.com/album/6TxtP5KQ8y7hiLa4kW36P2"
+      },
+      "artists": [
+        {
+          "name": "Jero Jones",
+          "url": "https://open.spotify.com/artist/4Tk06wQxbCfPYcxqxGE8yJ"
+        },
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251650,
+      "name": "Nada M\u00e1s en M\u00ed",
+      "url": "https://open.spotify.com/track/6scGrtyUxNjAK1FCoYPhbG"
     },
     {
       "album": {
@@ -4303,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "OTRA NOCHE M\u00c1S",
+        "url": "https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3"
+      },
+      "artists": [
+        {
+          "name": "TOBIKA",
+          "url": "https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "OTRA NOCHE M\u00c1S",
+      "url": "https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT"
+    },
+    {
+      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/1hyY1fIpcWvJ28eCyufK6r"
       },
@@ -4779,6 +4877,24 @@
     },
     {
       "album": {
+        "name": "FRO! 2",
+        "url": "https://open.spotify.com/album/370xkuwfRmcqz1FAx81oJu"
+      },
+      "artists": [
+        {
+          "name": "FRO!",
+          "url": "https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103718,
+      "name": "quitate los Jeans",
+      "url": "https://open.spotify.com/track/3x6gtoIxAcKd8HNYxxN85n"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9n Pudiera?",
         "url": "https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph"
       },
@@ -4970,7 +5086,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 144346,
       "name": "RNA",
       "url": "https://open.spotify.com/track/0tXTtaJi3FBvm3AvP64jRB"

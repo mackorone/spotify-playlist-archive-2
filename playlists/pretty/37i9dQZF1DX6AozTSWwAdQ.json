@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60614,
+  "num_followers": 60612,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
         "name": "Young & Dumb (feat. Simple Plan)",
         "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
+        "name": "Dead Club City",
+        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 238442,
+      "name": "Tomorrow Is Closed",
+      "url": "https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "Dead Club City",
-        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
+        "name": "Nice To Meet Ya",
+        "url": "https://open.spotify.com/album/3KrYBAbfxlssMirZLs6HzZ"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 238442,
-      "name": "Tomorrow Is Closed",
-      "url": "https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS"
+      "duration_ms": 158805,
+      "name": "Nice To Meet Ya",
+      "url": "https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -735,22 +751,6 @@
       "duration_ms": 206040,
       "name": "NOT OK",
       "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "Nice To Meet Ya",
-        "url": "https://open.spotify.com/album/3KrYBAbfxlssMirZLs6HzZ"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 158805,
-      "name": "Nice To Meet Ya",
-      "url": "https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -1187,6 +1187,42 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
+        "name": "Starting Line",
+        "url": "https://open.spotify.com/album/29dl63pyzkkAPZSY8vSqlD"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 270380,
+      "name": "Starting Line",
+      "url": "https://open.spotify.com/track/3tIQg7bErGUNgE6nZ2TXZ2"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
         "name": "Bedroom Posters (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
       },
@@ -1223,42 +1259,6 @@
       "duration_ms": 205813,
       "name": "Bones (feat. OneRepublic)",
       "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
-      },
-      "artists": [
-        {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
-        },
-        {
-          "name": "Kailee Morgue",
-          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "Starting Line",
-        "url": "https://open.spotify.com/album/29dl63pyzkkAPZSY8vSqlD"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 270380,
-      "name": "Starting Line",
-      "url": "https://open.spotify.com/track/3tIQg7bErGUNgE6nZ2TXZ2"
     },
     {
       "added_at": "2026-02-15 16:00:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 
 > The BBMAs returns with performances from your favorite chart\-topping artists! Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,823 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,822 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 9 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 10 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
 | 11 | [Y LLORO](https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:59 |
-| 12 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
-| 13 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
+| 12 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
+| 13 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
 | 14 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 |
 | 15 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
 | 16 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 2:58 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 40 | [In Between](https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:40 |
 | 41 | [CLASSY 101](https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:15 |
 | 42 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
-| 43 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
-| 44 | [Best Time](https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:22 |
+| 43 | [Best Time](https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:22 |
+| 44 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
 | 45 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 |
 | 46 | [XO \(Only If You Say Yes\)](https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:08 |
 | 47 | [DArkSide](https://open.spotify.com/track/7mczLeiFeYKRb7vtiPjuMb) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 2:45 |

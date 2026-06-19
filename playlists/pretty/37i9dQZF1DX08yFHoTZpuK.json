@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 29036,
+  "num_followers": 29083,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,26 @@
     {
       "added_at": "2026-06-12 13:41:54",
       "album": {
+        "name": "Iramante (feat. towa ainutoronica)",
+        "url": "https://open.spotify.com/album/4zVuJhOxMVnkKNvItySD7Y"
+      },
+      "artists": [
+        {
+          "name": "Snowk",
+          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
+        },
+        {
+          "name": "towa ainutoronica",
+          "url": "https://open.spotify.com/artist/7yFnJKqApbDa5j8YQbUkvK"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "Iramante (feat. towa ainutoronica)",
+      "url": "https://open.spotify.com/track/35Enz9josqTO3TAssK9i5k"
+    },
+    {
+      "added_at": "2026-06-12 13:41:54",
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 366421,
       "name": "Quiet Town of Tokyo",
       "url": "https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu"
-    },
-    {
-      "added_at": "2026-06-12 13:41:54",
-      "album": {
-        "name": "Iramante (feat. towa ainutoronica)",
-        "url": "https://open.spotify.com/album/4zVuJhOxMVnkKNvItySD7Y"
-      },
-      "artists": [
-        {
-          "name": "Snowk",
-          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
-        },
-        {
-          "name": "towa ainutoronica",
-          "url": "https://open.spotify.com/artist/7yFnJKqApbDa5j8YQbUkvK"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "Iramante (feat. towa ainutoronica)",
-      "url": "https://open.spotify.com/track/35Enz9josqTO3TAssK9i5k"
     },
     {
       "added_at": "2026-06-12 13:41:54",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-06-12 13:41:54",
       "album": {
+        "name": "sign",
+        "url": "https://open.spotify.com/album/4HrkFgGt6ijBscyOrFrcjE"
+      },
+      "artists": [
+        {
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "sign",
+      "url": "https://open.spotify.com/track/0mWPg9Zdp9lw6dNxb6F4Nf"
+    },
+    {
+      "added_at": "2026-06-12 13:41:54",
+      "album": {
         "name": "Life, Dream, Love",
         "url": "https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": "2026-06-12 13:41:54",
       "album": {
-        "name": "sign",
-        "url": "https://open.spotify.com/album/4HrkFgGt6ijBscyOrFrcjE"
-      },
-      "artists": [
-        {
-          "name": "LAUSBUB",
-          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "sign",
-      "url": "https://open.spotify.com/track/0mWPg9Zdp9lw6dNxb6F4Nf"
-    },
-    {
-      "added_at": "2026-06-12 13:41:54",
-      "album": {
         "name": "KURU KURU HARAJUKU",
         "url": "https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP"
       },
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-06-12 13:41:54",
       "album": {
+        "name": "Nulife",
+        "url": "https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        }
+      ],
+      "duration_ms": 236675,
+      "name": "Nulife",
+      "url": "https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN"
+    },
+    {
+      "added_at": "2026-06-12 13:41:54",
+      "album": {
         "name": "OB PKWY",
         "url": "https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 235312,
       "name": "OB PKWY",
       "url": "https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo"
-    },
-    {
-      "added_at": "2026-06-12 13:41:54",
-      "album": {
-        "name": "Love Flutter",
-        "url": "https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z"
-      },
-      "artists": [
-        {
-          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
-          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
-        }
-      ],
-      "duration_ms": 243626,
-      "name": "Fabric",
-      "url": "https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp"
     }
   ],
   "unique_name": "Tokyo Club Beat",

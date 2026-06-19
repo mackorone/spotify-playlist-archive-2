@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nPhr34bpboP46HkOvWUyP.md) - [plain]
 
 > ⭐ALL OF MY MUSIC: SOLO &amp; FEATURE WORK⭐
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 25 likes - 68 songs - 3 hr 35 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 26 likes - 68 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Nemazapop](https://open.spotify.com/playlist/37i9dQZF1DWT0HmsQ8GzI0)
 
-> Zenék, amik félreugranak a műfaji határok elől\. Cover: Kolibri
+> Zenék, amik félreugranak a műfaji határok elől\. Cover: Fran Palermo
 
-432 songs - 1 day 0 hr 22 min
+435 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Blicc](https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6) | [Duckshell](https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9) | [Blicc](https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS) | 3:48 | 2025-11-27 |  |
 | [BOCS](https://open.spotify.com/track/2FQJjGenDT2XajHMOHvFCs) | [Elefánt](https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3) | [SEMMI](https://open.spotify.com/album/1Rchnvg8ARhvC8IX4Rq0Dn) | 4:19 | 2024-06-28 | 2026-01-16 |
 | [Bohém Himnusz](https://open.spotify.com/track/1efQhXRuD8NvlWjGrBl1X7) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE) | [Bohém Himnusz](https://open.spotify.com/album/1XOL9ld2JEiXfuMp9oKtn6) | 3:17 | 2025-11-13 | 2026-02-28 |
+| [Bokáig](https://open.spotify.com/track/5NiWmrfffV9kj0KqsPFMas) | [Artūr Rambo](https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe) | [Bokáig](https://open.spotify.com/album/6FIb3r1bHYnFB08zwP6rZF) | 3:48 | 2026-06-18 |  |
 | [Boldog dalok, morbid viccek](https://open.spotify.com/track/4bIQoFVMAF8tuDYsgw7Skm) | [Fiúk](https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7) | [Boldog dalok, morbid viccek](https://open.spotify.com/album/3FAwO96EjgVHpOmSy7VSIB) | 4:22 | 2025-06-16 | 2026-05-08 |
 | [Boldogok vagyunk\-e](https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [BOLDOGOK VAGYUNK\-E](https://open.spotify.com/album/0Rr5JPQ3lYDLRXMszZGmmp) | 3:01 | 2024-06-28 | 2025-03-08 |
 | [Break\-Up Core](https://open.spotify.com/track/7ezCVOyqqBY8zLLq5T1rXs) | [cicciolina.jpeg](https://open.spotify.com/artist/2vDuajdi5P30wQCsALxFef) | [Dolce Vita...](https://open.spotify.com/album/2vF6Ix2UYG9qR05zP8hetH) | 2:56 | 2025-12-04 | 2025-12-23 |
@@ -135,6 +136,7 @@
 | [Füst](https://open.spotify.com/track/25z2MFgOAF0WU5loPIQfbx) | [TELEHOLD](https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1), [Szabikeyz](https://open.spotify.com/artist/7cyFxt9SpkC7aQb8yULboZ), [Juhász Zoli](https://open.spotify.com/artist/07aNeZApbFflKJYHiRZLGS) | [Füst](https://open.spotify.com/album/423aVUmXOSBGgcbMKxJkcq) | 2:39 | 2025-12-04 | 2025-12-23 |
 | [Galambok Olajágon](https://open.spotify.com/track/6YYchKVIv3YNUs4d6DhMZO) | [OHNODY](https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS), [Whoel](https://open.spotify.com/artist/4NcZKW8grTkJ74rdEdaJwy) | [Galambok Olajágon](https://open.spotify.com/album/1Iwy434RAVIblBDiMdoC03) | 4:03 | 2024-12-05 | 2025-01-17 |
 | [GARABONCIÁS](https://open.spotify.com/track/1YlpMrbPxmgJ9URKVabR0q) | [HIPERKARMA](https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs) | [GARABONCIÁS](https://open.spotify.com/album/66RwvU22PP0bq7PR51UHdJ) | 3:04 | 2025-04-18 | 2025-06-17 |
+| [GASOLINE RAINBOW](https://open.spotify.com/track/4ABFmbmuiuzxylf16jBUZB) | [Fran Palermo](https://open.spotify.com/artist/5pey8GDHGCU8pzAFrjKslD), [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ) | [GASOLINE RAINBOW](https://open.spotify.com/album/5nCzO3pTfgQdMArALIJwDx) | 4:28 | 2026-06-18 |  |
 | [Gimme Snow](https://open.spotify.com/track/1k2sTwJazSSZWonYyC3lOV) | [Needle Jim](https://open.spotify.com/artist/50HWa0nOeVXCgJJXrYyLKB) | [Good Times All The Time](https://open.spotify.com/album/530GPqKsMNb1gCceu79GiG) | 3:16 | 2024-07-19 | 2024-08-03 |
 | [go](https://open.spotify.com/track/0oXom8caRAqPb9roHJ9nYk) | [fllozz](https://open.spotify.com/artist/1YMdcly0IoDPLGUsCI2ho9), [Janet Gruber](https://open.spotify.com/artist/1w1Vul16gCdAB5NQADBrWG) | [may I?](https://open.spotify.com/album/5PjfU1yBKnxIsmy2SiAoot) | 2:37 | 2024-12-05 | 2024-12-21 |
 | [Golyóálló](https://open.spotify.com/track/7vF69V0FuxVa0TLslxdc8i) | [Szlimmy](https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY), [DOÓR](https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o) | [Golyóálló](https://open.spotify.com/album/3fnEMhFvAE1jWzJZyGhkm9) | 3:05 | 2025-10-16 | 2026-02-16 |
@@ -195,6 +197,7 @@
 | [Kontakthiba](https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET) | [Kontakthiba](https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV) | 3:01 | 2025-04-18 |  |
 | [kurvanagy ???](https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [kurvanagy ???](https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W) | 2:31 | 2024-06-28 |  |
 | [Kutatom Az Éjben](https://open.spotify.com/track/0rIaHA1ha2fniPPAr90LgE) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [ADHOC](https://open.spotify.com/album/3mlkatFGua2oerf8izStLv) | 3:35 | 2024-06-28 | 2025-11-28 |
+| [káosz](https://open.spotify.com/track/6Xr1706cN98IonpssEDZP6) | [imago mundi](https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO) | [káosz](https://open.spotify.com/album/7t8Ri7TyMFBbuQVl0EW83z) | 2:45 | 2026-06-18 |  |
 | [kék](https://open.spotify.com/track/70m0XDH55DdFSGfWcUa3Wz) | [fllozz](https://open.spotify.com/artist/1YMdcly0IoDPLGUsCI2ho9) | [kék](https://open.spotify.com/album/1Hs5kKl6TkFC4VMfGlUIDq) | 3:01 | 2026-03-12 | 2026-04-04 |
 | [Késő Van](https://open.spotify.com/track/5Tshn50cxPx4Zxw43yJ4PI) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [Késő Van](https://open.spotify.com/album/3dB5Hd0zSS1uQGjLxD24PP) | 2:36 | 2024-06-28 | 2025-03-08 |
 | [Két Szeme Közt](https://open.spotify.com/track/1gXsS2DQE5FoApHGyTz2I9) | [OHNODY](https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS) | [Két Szeme Közt](https://open.spotify.com/album/2TaLWA4u9iq9oa2SCT8Miz) | 5:36 | 2026-02-27 | 2026-04-04 |
@@ -272,7 +275,7 @@
 | [Neked is jobb, ha húz](https://open.spotify.com/track/03vZitd4ojc6poxN255vwG) | [The Qualitons](https://open.spotify.com/artist/2dBVJ1yiXq49MiaC7uUP9D) | [Club Eco Vol\. I \(The Trail\)](https://open.spotify.com/album/0jGmVEItBSsoB5gAN0ZuxK) | 3:24 | 2024-09-20 | 2024-10-18 |
 | [Nekedvalóság](https://open.spotify.com/track/7Imx5CtDuBNwGsE0Hdxuyi) | [New Level Empire](https://open.spotify.com/artist/36qy5nRn7h7rrHuphonJ6y), [Dér Heni](https://open.spotify.com/artist/295TDfZZwfEJHEjtKQpOhP) | [Nekedvalóság](https://open.spotify.com/album/6LnlDFhGowcmBR0t2xaPjS) | 3:33 | 2024-10-04 | 2026-01-16 |
 | [nem alszom](https://open.spotify.com/track/0eDn9HWi5sDwqluGz6ScbM) | [fannisza](https://open.spotify.com/artist/6tO7A1RuaqhmuVHgQIUcFD), [Fehér Holló](https://open.spotify.com/artist/33cCO3dLvdBacUrXaEckU1) | [nem alszom](https://open.spotify.com/album/258GaKa4V1RRx0R5FHPU3G) | 2:25 | 2026-01-23 | 2026-01-30 |
-| [Nem hagyod](https://open.spotify.com/track/4DsQwKwCfe0hsEiKBywE2l) | [BRUMIKO](https://open.spotify.com/artist/5SVttRH8PTal59RNTpPGpE) | [Lerángatom](https://open.spotify.com/album/0wkW9LugeTcpFKqpSgXr4l) | 3:47 | 2026-06-11 |  |
+| [Nem hagyod](https://open.spotify.com/track/4DsQwKwCfe0hsEiKBywE2l) | [BRUMIKO](https://open.spotify.com/artist/5SVttRH8PTal59RNTpPGpE) | [Lerángatom](https://open.spotify.com/album/0wkW9LugeTcpFKqpSgXr4l) | 3:47 | 2026-06-11 | 2026-06-19 |
 | [Nem is te lennél](https://open.spotify.com/track/7IQOdHtbP4mI9B3oCFHDAg) | [Szlimmy](https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY) | [Nem is te lennél](https://open.spotify.com/album/1qpvzozX4lqGZ7eFHqKrCy) | 2:56 | 2026-01-29 | 2026-05-08 |
 | [Nem Ismerlek](https://open.spotify.com/track/4ImLn4Eg8tUHdNBhnmRmhF) | [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72) | [Nem Ismerlek](https://open.spotify.com/album/4t5PgPflmxqNpv0F4OcW4O) | 2:17 | 2025-10-16 |  |
 | [nem lehet](https://open.spotify.com/track/0ceLlvlmbnIjzgp5QLmGHI) | [Pandóra Projekt](https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8) | [nem lehet](https://open.spotify.com/album/3jyfQDwQEb3UgvrK52VnDp) | 3:26 | 2025-03-07 | 2025-03-29 |
@@ -346,7 +349,7 @@
 | [Sweet Life](https://open.spotify.com/track/5mQhHbj3eYwKm81jePbh39) | [Maluridé](https://open.spotify.com/artist/0ElrXGkEGD92iBme0YAoW6) | [Sweet Life](https://open.spotify.com/album/2769YqGMNaXRvNeeTYScPd) | 3:33 | 2025-04-18 | 2025-07-09 |
 | [SWING DNB \(feat\. Rimóczi Dóri\)](https://open.spotify.com/track/60V32KHDvS7wz8pTXrtbwp) | [toldyuuso](https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA), [Rimóczi Dóri](https://open.spotify.com/artist/73Gk6HXJP0u2ffrJ6K2m2S) | [SWING DNB \(feat\. Rimóczi Dóri\)](https://open.spotify.com/album/67X1dv6bbEIQCG9W9EtxzY) | 2:52 | 2024-06-28 | 2024-07-27 |
 | [Szabotázs](https://open.spotify.com/track/30q8LaCKNCjs9mcTW7hj9c) | [Az Krézi!](https://open.spotify.com/artist/2F8qw00F9vIUTGJnSiVBlC) | [Töréspont](https://open.spotify.com/album/1nUaiqIQQIw6xLhGz7oqTA) | 2:47 | 2024-12-05 | 2024-12-21 |
-| [Szegénykém](https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X) | [Csaknekedkislány](https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ) | [Szegénykém](https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ) | 4:42 | 2025-11-13 |  |
+| [Szegénykém](https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X) | [Csaknekedkislány](https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ) | [Szegénykém](https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ) | 4:42 | 2025-11-13 | 2026-06-19 |
 | [Szemben a Holddal](https://open.spotify.com/track/4ILdBZm7oF9gckyHf4OMsM) | [BéRCZeSi RóBeRT](https://open.spotify.com/artist/116yLVakpeArwclw9dSkJ1) | [Szemben a Holddal](https://open.spotify.com/album/1rGdo9bWS0jKIWk3XXPuFu) | 2:37 | 2025-01-24 | 2025-03-08 |
 | [Szemüveg](https://open.spotify.com/track/3vJy9Cv6Jjy9wlcgocJ1RB) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Szemüveg](https://open.spotify.com/album/6DERNfzTVl7gTuMGYQcjvk) | 2:55 | 2025-11-27 |  |
 | [Szeptember Végén](https://open.spotify.com/track/6o1xgKQw1RMIJ64MdQ3yDC) | [Beretka Ádám](https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6) | [Szeptember Végén](https://open.spotify.com/album/3FTqXcCmloEXBywwx1YLC8) | 2:33 | 2024-06-28 | 2025-11-28 |
@@ -370,7 +373,7 @@
 | [Sétáló](https://open.spotify.com/track/5FKecXHiTbEjulc09VAMCc) | [Barkóczi Noémi](https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc) | [Sétáló](https://open.spotify.com/album/3LMPhLjannPEFqgh8KRYFf) | 2:40 | 2025-03-07 | 2025-03-29 |
 | [SÖRSEGGŰ LÁNY](https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Hirtelen mélyül](https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R) | 3:26 | 2024-11-08 |  |
 | [Sűrű Végtelen](https://open.spotify.com/track/2qs3bIFrzK1EgBCM4Q8uCO) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Sűrű Végtelen](https://open.spotify.com/album/3wlOuACIG4NJP4Sve8yVIF) | 3:39 | 2026-05-14 |  |
-| [Takarj el](https://open.spotify.com/track/0OoymARR20n2uqmDLDWkbK) | [Esti Kornél](https://open.spotify.com/artist/6CKGpi9bhf2T7bapMfXl5m) | [Takarj el](https://open.spotify.com/album/1hwaiR1jJDFJ2WeH2cVr01) | 4:33 | 2025-03-28 |  |
+| [Takarj el](https://open.spotify.com/track/0OoymARR20n2uqmDLDWkbK) | [Esti Kornél](https://open.spotify.com/artist/6CKGpi9bhf2T7bapMfXl5m) | [Takarj el](https://open.spotify.com/album/1hwaiR1jJDFJ2WeH2cVr01) | 4:33 | 2025-03-28 | 2026-06-19 |
 | [Takarítós](https://open.spotify.com/track/6zH0YjvZokTH086fSlIA2C) | [Waiting Room](https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc) | [Kikeltető 2025 shortlist](https://open.spotify.com/album/1oA2VAq74WNkSlb8QKIpvX) | 3:31 | 2025-12-04 | 2025-12-23 |
 | [Take me there](https://open.spotify.com/track/4l2unL4Uf5TtuzleCkVMBH) | [Planet](https://open.spotify.com/artist/2w5FhuuC9ivptMO0ip66xf) | [Take me there](https://open.spotify.com/album/0bs0tx6HZgBkx99zd55ykw) | 3:34 | 2026-02-27 | 2026-03-13 |
 | [Talán](https://open.spotify.com/track/0wjC043aJvsNJ4irylqZht) | [Labek & Chrobak](https://open.spotify.com/artist/4T8Wfe5msKm69gj4mJUefK), [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ) | [Talán](https://open.spotify.com/album/0lkJsDRKUKNj7SbhwxIaMQ) | 4:43 | 2024-12-05 | 2025-03-25 |

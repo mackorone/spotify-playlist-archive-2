@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-03-19",
-  "description": "time to strike a couple of poses. cover: Chole Qisha",
+  "description": "time to strike a couple of poses. cover: Karencici",
   "name": "poses",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 152275,
       "name": "100 Degrees",
       "url": "https://open.spotify.com/track/01bjgHUeiU87H8SOvoLB73"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 178487,
       "name": "Back 2 Malaysia",
       "url": "https://open.spotify.com/track/79lBRarV9QFxSmCFcP3wJa"
@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Crow",
+        "url": "https://open.spotify.com/album/2JxQJmcB75IjJo4Sd4Z1F5"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191755,
+      "name": "Crow",
+      "url": "https://open.spotify.com/track/65pQCf5tMSFEZO9JSfRUe1"
+    },
+    {
+      "album": {
         "name": "Crying in the Sun",
         "url": "https://open.spotify.com/album/4wfg7aH3b4v6tsj4qO5OWr"
       },
@@ -434,10 +452,28 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 147746,
       "name": "Day One",
       "url": "https://open.spotify.com/track/6wldZLtGqvQ8vUiy11FtTt"
+    },
+    {
+      "album": {
+        "name": "Tumbleweed from nowhere",
+        "url": "https://open.spotify.com/album/7FeB53a2BQpqhcEJdsZX1e"
+      },
+      "artists": [
+        {
+          "name": "YenTing Lo",
+          "url": "https://open.spotify.com/artist/6W7lSbguF67nqkK6djqd8z"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263148,
+      "name": "Don't just yet resolve",
+      "url": "https://open.spotify.com/track/4pOWzV51JJHBShJYeqSrVB"
     },
     {
       "album": {
@@ -659,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Ready For Rapture",
+        "url": "https://open.spotify.com/album/4LNnJ0DltJFSv7Wd7kMitx"
+      },
+      "artists": [
+        {
+          "name": "RENE",
+          "url": "https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "However Long It Takes (Go!)",
+      "url": "https://open.spotify.com/track/5Im0t3P370wcX6ntTSvEAi"
+    },
+    {
+      "album": {
         "name": "I Always Knew",
         "url": "https://open.spotify.com/album/7zFrN4PbAIWP85Atr17wvi"
       },
@@ -688,7 +742,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 169000,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
@@ -710,6 +764,24 @@
       "duration_ms": 197996,
       "name": "I could be your indie darling",
       "url": "https://open.spotify.com/track/4h5s5FyhUoN0VKqIsUOq2R"
+    },
+    {
+      "album": {
+        "name": "Loser.",
+        "url": "https://open.spotify.com/album/4F1qUMDO9CsA5XtrQ3KyN6"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142407,
+      "name": "Ignore",
+      "url": "https://open.spotify.com/track/3lIxpq24g8IJpisCDs9dOH"
     },
     {
       "album": {
@@ -887,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Make U Blush",
+        "url": "https://open.spotify.com/album/2E1EA0B96Lc76J71FHmGsZ"
+      },
+      "artists": [
+        {
+          "name": "Ivoris",
+          "url": "https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199534,
+      "name": "Make U Blush",
+      "url": "https://open.spotify.com/track/037MAvYyO35gv4vODbE3nC"
+    },
+    {
+      "album": {
         "name": "marigold magic",
         "url": "https://open.spotify.com/album/1mRhP3pG9UTnitNAHAuRqs"
       },
@@ -902,6 +992,24 @@
       "duration_ms": 239426,
       "name": "marigold magic",
       "url": "https://open.spotify.com/track/1N6ICgWxsghCNR51cQWlKX"
+    },
+    {
+      "album": {
+        "name": "maybe not tonight",
+        "url": "https://open.spotify.com/album/6fZPBWGC7T0r0PwDyOuh7p"
+      },
+      "artists": [
+        {
+          "name": "Arabelle",
+          "url": "https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225160,
+      "name": "maybe not tonight",
+      "url": "https://open.spotify.com/track/0uqOCp3cDPVlAI7WvlM6iB"
     },
     {
       "album": {
@@ -938,7 +1046,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 146204,
       "name": "MEXE",
       "url": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685"
@@ -1028,7 +1136,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 117176,
       "name": "my crush and i will crush the system baby",
       "url": "https://open.spotify.com/track/3X97K3qe31iHwbZTiib3tQ"
@@ -1179,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "PRIDE",
+        "url": "https://open.spotify.com/album/0EZ0LJtrp86OQC1CDYmP8B"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232572,
+      "name": "PRIDE",
+      "url": "https://open.spotify.com/track/52z8YyNZYlL7ZBDRjUvgX6"
+    },
+    {
+      "album": {
         "name": "PS118 (feat. Rapsody)",
         "url": "https://open.spotify.com/album/3m7AhzkJtlEFJy3F5ekhqG"
       },
@@ -1288,7 +1414,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 192000,
       "name": "Shake!",
       "url": "https://open.spotify.com/track/6wdKMBPEUhdIE7Xhxb8ynP"
@@ -1328,7 +1454,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 147566,
       "name": "Soap (feat. PinkPantheress)",
       "url": "https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a"
@@ -1368,10 +1494,28 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 177587,
       "name": "STARSTRUCK",
       "url": "https://open.spotify.com/track/25bsd4PQd6kFL0bE7xqY9M"
+    },
+    {
+      "album": {
+        "name": "stepbystep",
+        "url": "https://open.spotify.com/album/2OPm1Mxoon4x4gWbofZkfT"
+      },
+      "artists": [
+        {
+          "name": "gels",
+          "url": "https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "stepbystep",
+      "url": "https://open.spotify.com/track/4csnapkNSfjVvUSdfunHbM"
     },
     {
       "album": {
@@ -1408,6 +1552,24 @@
       "duration_ms": 160000,
       "name": "substack girl",
       "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
+    },
+    {
+      "album": {
+        "name": "GOOD GOOD JUJU",
+        "url": "https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "substack girl",
+      "url": "https://open.spotify.com/track/6sUzkLo4dRJGbNKlxQu9xb"
     },
     {
       "album": {
@@ -1510,7 +1672,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 143959,
       "name": "TEA",
       "url": "https://open.spotify.com/track/7bPdIsdwV5u3LWexYRnl1X"
@@ -1622,6 +1784,24 @@
       "duration_ms": 185000,
       "name": "TUNNEL VISION",
       "url": "https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1"
+    },
+    {
+      "album": {
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/7tPygg8Jr9igPfGsY8gnzD"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222587,
+      "name": "Under Construction",
+      "url": "https://open.spotify.com/track/4Y3253lAyzFqLhcUgYEY62"
     },
     {
       "album": {

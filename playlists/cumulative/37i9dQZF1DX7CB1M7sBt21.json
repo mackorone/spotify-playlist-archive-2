@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258296,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
+    },
+    {
+      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3"
       },
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 189671,
       "name": "By Your Side (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 215905,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 145946,
       "name": "Couldn't Care Less (feat. Gia Koka)",
       "url": "https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO"
@@ -1280,6 +1298,28 @@
       "duration_ms": 157086,
       "name": "Cry Baby",
       "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
+    },
+    {
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
       "album": {
@@ -3375,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m your girl right?",
+        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169059,
+      "name": "I\u2019m your girl right?",
+      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
+    },
+    {
+      "album": {
         "name": "Jag m\u00e5r bra nu (feat. Newkid)",
         "url": "https://open.spotify.com/album/46NgeK47Px9EjXI1ZdsWkY"
       },
@@ -4605,6 +4663,32 @@
     },
     {
       "album": {
+        "name": "Movin' To The Sun",
+        "url": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Imael Angel",
+          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Movin' To The Sun",
+      "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
+    },
+    {
+      "album": {
         "name": "The Best Of M People",
         "url": "https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D"
       },
@@ -4798,7 +4882,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 134570,
       "name": "Never Be Lonely",
       "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
@@ -5968,6 +6052,28 @@
       "duration_ms": 230000,
       "name": "Samurai Swords",
       "url": "https://open.spotify.com/track/02Ixue9YkjgvPD3TAQFvP1"
+    },
+    {
+      "album": {
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE"
     },
     {
       "album": {
@@ -7646,7 +7752,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 136946,
       "name": "Wake Me Up In Paris",
       "url": "https://open.spotify.com/track/4dq7XLDmFHNwc1yqL339qT"

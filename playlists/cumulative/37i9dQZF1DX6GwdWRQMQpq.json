@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Yung Miami",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Trim",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 131592,
       "name": "From The Back",
       "url": "https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG"
@@ -6973,6 +6973,28 @@
     },
     {
       "album": {
+        "name": "HOT OUT, Pt. 5",
+        "url": "https://open.spotify.com/album/5kHIbxnWxWEYBBi6bqArtt"
+      },
+      "artists": [
+        {
+          "name": "Iconic Savvy",
+          "url": "https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC"
+        },
+        {
+          "name": "MIA THA DIVA",
+          "url": "https://open.spotify.com/artist/5x6GjBgGHlh27B09MHxGIC"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111096,
+      "name": "HOT OUT, Pt. 5",
+      "url": "https://open.spotify.com/track/57EzOE6oFsb5VFbyrTeAWY"
+    },
+    {
+      "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
         "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
@@ -7950,6 +7972,24 @@
       "duration_ms": 171428,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
+    },
+    {
+      "album": {
+        "name": "Jet Up",
+        "url": "https://open.spotify.com/album/6Q7nLZzALXUFwI3GeShNtG"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113548,
+      "name": "Jet Up",
+      "url": "https://open.spotify.com/track/7H2B9JA3QVET2f7QApQ7TA"
     },
     {
       "album": {
@@ -9176,7 +9216,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170666,
       "name": "MARCH",
       "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
@@ -12752,7 +12792,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 130358,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/3bewwYBhlM3VNe3trzGIs3"
@@ -14720,6 +14760,24 @@
       "duration_ms": 125760,
       "name": "Throw a Lil Mo (Do It)",
       "url": "https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD"
+    },
+    {
+      "album": {
+        "name": "Tippy Toes",
+        "url": "https://open.spotify.com/album/2xQij1MYITWcWJ6WhtIRWH"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110063,
+      "name": "Tippy Toes",
+      "url": "https://open.spotify.com/track/5u1YiHnOYjrUTa9eYLDNbF"
     },
     {
       "album": {

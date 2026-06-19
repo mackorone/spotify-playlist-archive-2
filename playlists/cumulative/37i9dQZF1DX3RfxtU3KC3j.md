@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: TNK
 
-816 songs - 1 day 23 hr 0 min
+817 songs - 1 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Hata](https://open.spotify.com/track/3KGS5EBB5E0gPZLqleWH8o) | [Makbet](https://open.spotify.com/artist/5qwmcwRkE9KTZHYJfReVVC), [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Hata](https://open.spotify.com/album/3TFhZNWpYg6f0piOrhPepN) | 3:49 | 2026-06-08 |  |
 | [Hatalardayım](https://open.spotify.com/track/3V8Q5gLXJwPaSTBxZTaxvE) | [Bağzıları](https://open.spotify.com/artist/2WEI5FlFf3Zc5rOKTTLOJe) | [Hatalardayım](https://open.spotify.com/album/6W7TNIyo1PefgDoDm0WbXI) | 2:45 | 2026-03-05 | 2026-03-28 |
 | [Hatalarımdan](https://open.spotify.com/track/673DrYfCgjlBxDUO30wNBU) | [Emre Berkay Kaya](https://open.spotify.com/artist/6ZmkcKoh3AH66RVVFeouRq) | [Hatalarımdan](https://open.spotify.com/album/5UH2Mz5oi9mrZQSZ57j6YO) | 2:54 | 2026-03-05 | 2026-06-09 |
+| [Hatun \- Pür Cunda Live Sessions](https://open.spotify.com/track/7K9QWOEqKt1Mei6yriMuI1) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Hatun \(Pür Cunda Live Sessions\)](https://open.spotify.com/album/03EPY5qKsaGu0k7r8h8s1v) | 4:24 | 2026-06-11 |  |
 | [Hatıran Yeter \- Canlı / Bostancı Gösteri Merkezi](https://open.spotify.com/track/08yPIXGR8irO2LmWNF7CRo) | [Zakkum](https://open.spotify.com/artist/70Ya7DKJEo20SAkxjirYnu) | [Hatıran Yeter \(Canlı / Bostancı Gösteri Merkezi\)](https://open.spotify.com/album/5igyQIUXydf7YXSLrYGGEM) | 3:58 | 2025-01-23 | 2025-08-15 |
 | [Hatırı Yok Mu?](https://open.spotify.com/track/65jS1McXvIixyiCKrpDsZR) | [Ufuk Beydemir](https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v) | [Hatırı Yok Mu?](https://open.spotify.com/album/0jnuzFnHmRqio0sRrtpieH) | 3:07 | 2025-05-09 | 2025-08-08 |
 | [Hayalperest](https://open.spotify.com/track/7BeJ3886AOFp3jfSE9433H) | [Maderzat](https://open.spotify.com/artist/6DfPywExouYJJYIY2vxzpH), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Hayalperest](https://open.spotify.com/album/7Dbjc4OZzTN3iMJLyTdYvP) | 3:23 | 2026-03-27 | 2026-04-18 |

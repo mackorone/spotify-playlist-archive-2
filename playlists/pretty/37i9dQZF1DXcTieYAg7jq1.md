@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Naomi Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,700 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,754 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gracie](https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [F.I.G](https://open.spotify.com/album/1zz0xielltztZ2Uvh7xzdX) | 2:54 |
 | 2 | [Mrs\. Kisses](https://open.spotify.com/track/559GqhUeuXY8tKdVXMSMpT) | [tig3r lewis](https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN) | [Mrs\. Kisses](https://open.spotify.com/album/1qbnghY7L0MQhGSxBxm2Mb) | 3:12 |
-| 3 | [Songs About You](https://open.spotify.com/track/2Q2r9GPlQF6d9WdrPDKUtV) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [Songs About You](https://open.spotify.com/album/4fjThpTcrlhAbO8o50vMFc) | 3:37 |
-| 4 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
+| 3 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
+| 4 | [Songs About You](https://open.spotify.com/track/2Q2r9GPlQF6d9WdrPDKUtV) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [Songs About You](https://open.spotify.com/album/4fjThpTcrlhAbO8o50vMFc) | 3:37 |
 | 5 | [Whisper](https://open.spotify.com/track/57GzncV0DFLenSIt5yERwY) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Whisper](https://open.spotify.com/album/2EDUEYGICz8XYZaH18yZOb) | 2:47 |
 | 6 | [Naturally](https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Naturally](https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ) | 2:31 |
 | 7 | [I Was Wrong](https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6) | [Haylie Davis](https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3) | [Wandering Star](https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4) | 3:30 |
-| 8 | [An Unfinished Love Song](https://open.spotify.com/track/0kdKWz0b2yv71QIjJnAqP7) | [Hannah Hu](https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl) | [The Veil Has Spoken](https://open.spotify.com/album/6a7FVJG6wFnYINUP2uxt6f) | 4:19 |
+| 8 | [Love Is for Suckers](https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3) | [RAYNE](https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN) | [Love Is for Suckers](https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66) | 3:01 |
 | 9 | [Hate to Be the One](https://open.spotify.com/track/6JiUEyUcZ1C9FnNAfO4UIZ) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Hate to Be the One](https://open.spotify.com/album/3D1D6EStEZHBBxevQ9epWK) | 3:29 |
 | 10 | [Rain Check \(feat\. Quinn XCII\)](https://open.spotify.com/track/4cvLkmpPOopL1RCpdHIho1) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Rain Check \(feat\. Quinn XCII\)](https://open.spotify.com/album/2C7DC3mMFQelrT6GeMCs80) | 2:48 |
 | 11 | [Man of the House](https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9](https://open.spotify.com/album/3TWvfSehKDLRaHJS7z8cNk) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Girl of the Hour](https://open.spotify.com/track/5DToj6deasn1CaLqldIWCJ) | [Tabitha Meeks](https://open.spotify.com/artist/5XLLTtjICh1Hsk7NSJW5vv) | [Girl of the Hour](https://open.spotify.com/album/0d9BIuBugjnp2DDW2LlYES) | 3:03 |
 | 100 | [Hush](https://open.spotify.com/track/4Qc6g3CcyLwebubsViTw06) | [Jules Halpern](https://open.spotify.com/artist/7K5b86z7l451wp57waF0Py) | [Hush](https://open.spotify.com/album/71uMtQ6dsqaaaDfgs94xvt) | 3:04 |
 
-Snapshot ID: `AAAAANAbhcWona7ywwwf4/fdRIVsHLKY`
+Snapshot ID: `AAAAAFEIQRqChsaYO+ie7KSZovGajQHA`

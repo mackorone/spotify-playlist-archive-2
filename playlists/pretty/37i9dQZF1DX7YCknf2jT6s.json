@@ -1,13 +1,41 @@
 {
-  "description": "New jazz for open minds. Cover: Ibrahim Maalouf",
-  "num_followers": 1049687,
+  "description": "New jazz for open minds. Cover: CARRTOONS",
+  "num_followers": 1049681,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMcEq+zMRKEQiKfvbpHhcEw/gB13",
+  "snapshot_id": "AAAAAAghyrTCAaP6D2vk48oefOwPIaFn",
   "tracks": [
+    {
+      "added_at": "2026-06-19 04:01:28",
+      "album": {
+        "name": "PEARL",
+        "url": "https://open.spotify.com/album/0gfmzQ2h5XslfUtAZKm4oj"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "PEARL",
+      "url": "https://open.spotify.com/track/33E2bU4xRVvjuc6Y4dtk5k"
+    },
     {
       "added_at": "2026-06-12 19:02:12",
       "album": {
@@ -47,6 +75,86 @@
       "duration_ms": 283000,
       "name": "BRING THE LIGHT",
       "url": "https://open.spotify.com/track/6ugeNh75lWjctHoK42oAF0"
+    },
+    {
+      "added_at": "2026-06-19 04:01:28",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/56Vm4sUP1hRYDqBA7K0hGv"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Parlato",
+          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/528pHUtcTjp4D3UxouB4CE"
+    },
+    {
+      "added_at": "2026-06-19 04:01:28",
+      "album": {
+        "name": "royal sun",
+        "url": "https://open.spotify.com/album/6yOF6McJwNb33KsPq4SlXJ"
+      },
+      "artists": [
+        {
+          "name": "Ferdi",
+          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "duration_ms": 163531,
+      "name": "royal sun",
+      "url": "https://open.spotify.com/track/56YZ4McOSFa1HrgxlBOfVq"
+    },
+    {
+      "added_at": "2026-06-19 04:01:28",
+      "album": {
+        "name": "Let's try",
+        "url": "https://open.spotify.com/album/1vYicUmPViVYQGszdjGSYk"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Robert \"Sput\" Searight",
+          "url": "https://open.spotify.com/artist/0o5bweAbSBmSkksYXrgKS8"
+        },
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        }
+      ],
+      "duration_ms": 377292,
+      "name": "Let's try",
+      "url": "https://open.spotify.com/track/6Y6ncZAtBwI16AP5541aDr"
+    },
+    {
+      "added_at": "2026-06-19 04:01:28",
+      "album": {
+        "name": "Gospel Andante",
+        "url": "https://open.spotify.com/album/6Tthu3vwUNiZisIQnNq0hX"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 235224,
+      "name": "Gospel Andante",
+      "url": "https://open.spotify.com/track/3Z72TmFgNcyvTL83UFEkSn"
     },
     {
       "added_at": "2026-06-12 04:01:23",
@@ -91,30 +199,6 @@
       "duration_ms": 308733,
       "name": "Jai Ganga",
       "url": "https://open.spotify.com/track/4UkTSN3gcExV90koLrwKd6"
-    },
-    {
-      "added_at": "2026-06-12 04:01:23",
-      "album": {
-        "name": "it's hard to hear you",
-        "url": "https://open.spotify.com/album/5udEHFVoU0l3i4cpzrfuwJ"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        },
-        {
-          "name": "Robert \"Sput\" Searight",
-          "url": "https://open.spotify.com/artist/0o5bweAbSBmSkksYXrgKS8"
-        },
-        {
-          "name": "MonoNeon",
-          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "it's hard to hear you",
-      "url": "https://open.spotify.com/track/4w5eVrPEcUeuo88mEmLeWa"
     },
     {
       "added_at": "2026-06-12 04:01:23",
@@ -324,12 +408,8 @@
           "url": "https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I"
         },
         {
-          "name": "Itay Simhocih",
-          "url": "https://open.spotify.com/artist/5Vi3MtvSHAOgsBLuWXuigF"
-        },
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Itay Simhovich",
+          "url": "https://open.spotify.com/artist/7aMuvoIBnkIiZFIPjSHRju"
         }
       ],
       "duration_ms": 307161,
@@ -483,26 +563,6 @@
       "duration_ms": 180978,
       "name": "CHASING LIGHT",
       "url": "https://open.spotify.com/track/4wtek4oeUWTz0Rmsg2eeAr"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Song of Storms (from The Legend of Zelda: Ocarina of Time)",
-        "url": "https://open.spotify.com/album/1JB7EwRhYsQC6H2njNB3Ph"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        },
-        {
-          "name": "Josh Harmon",
-          "url": "https://open.spotify.com/artist/5z44q3rMwinmehpx3oSp3s"
-        }
-      ],
-      "duration_ms": 91690,
-      "name": "Song of Storms - from The Legend of Zelda: Ocarina of Time",
-      "url": "https://open.spotify.com/track/5jPXynESV7qHOu6QyeXeoi"
     },
     {
       "added_at": "2026-05-01 04:11:09",
@@ -699,30 +759,6 @@
       "duration_ms": 195119,
       "name": "Perspective of Purpose (feat. Keyon Harrold)",
       "url": "https://open.spotify.com/track/4fC4pkTrE2HwVdcM69JvXL"
-    },
-    {
-      "added_at": "2026-02-02 17:32:25",
-      "album": {
-        "name": "LIVE-ACTION",
-        "url": "https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
-        },
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        },
-        {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
-        }
-      ],
-      "duration_ms": 262832,
-      "name": "COUGH DROP",
-      "url": "https://open.spotify.com/track/5sacf57OnsUGuIdVO8WrT2"
     },
     {
       "added_at": "2026-05-01 04:11:09",
@@ -1369,22 +1405,6 @@
       "url": "https://open.spotify.com/track/4djRjoWKtRg33y7xJYKaWo"
     },
     {
-      "added_at": "2025-10-03 04:00:47",
-      "album": {
-        "name": "HOURS:AFTER",
-        "url": "https://open.spotify.com/album/01k267Jci58J6dSWrpKJwI"
-      },
-      "artists": [
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        }
-      ],
-      "duration_ms": 230044,
-      "name": "HOURS:AFTER",
-      "url": "https://open.spotify.com/track/2efKpdGah3AVLf8qjtJ7NE"
-    },
-    {
       "added_at": "2025-10-17 04:01:00",
       "album": {
         "name": "Suess Pants",
@@ -1647,26 +1667,6 @@
       "duration_ms": 292360,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/29AFgr0uT5aIHGO1RzuAoF"
-    },
-    {
-      "added_at": "2025-10-03 04:00:47",
-      "album": {
-        "name": "Roulette",
-        "url": "https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Kaya Thomas-Dyke",
-          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Always Be (feat. Kaya Thomas-Dyke)",
-      "url": "https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM"
     },
     {
       "added_at": "2025-11-07 16:37:26",

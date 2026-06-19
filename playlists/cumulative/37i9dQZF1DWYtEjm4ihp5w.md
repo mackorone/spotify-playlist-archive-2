@@ -2,9 +2,9 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Dollypran
+> Cover: Stormy
 
-532 songs - 1 day 3 hr 37 min
+534 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Action](https://open.spotify.com/track/4TY8DyDlVgN0Bl2AZO5afl) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Action](https://open.spotify.com/album/6YfQZWv94Zrt4EO7FkpsPM) | 3:48 | 2026-03-21 |  |
 | [AFRAID OF LOVIN' U](https://open.spotify.com/track/0Y3tOqjb0k4vAXUZQpWkdv) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [U](https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs) | 3:35 | 2025-07-24 | 2025-09-11 |
 | [Again \- Prototype2020](https://open.spotify.com/track/3AC9GHZudMPxEFbhks2qqP) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Again \(Prototype2020\)](https://open.spotify.com/album/3kMyU0f3ZcOnO4SuwG9mUz) | 2:45 | 2025-04-12 | 2025-05-15 |
+| [AGOGO](https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [AGOGO](https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl) | 3:07 | 2026-06-18 |  |
 | [AIN'T NO MERCY](https://open.spotify.com/track/1UyoLF9J88jvOimhEy6jnm) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [AIN'T NO MERCY](https://open.spotify.com/album/1oorWXeTEMNlDYJWcHYkNZ) | 2:30 | 2025-01-01 | 2025-02-04 |
 | [AJI TCHOUF](https://open.spotify.com/track/75DWIaOCmyEP7licOYs9pl) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [AJI TCHOUF](https://open.spotify.com/album/3QcLNHlCktUOE2d2QknP8K) | 3:56 | 2023-09-21 | 2023-12-30 |
 | [Akhennouch](https://open.spotify.com/track/0jhnXwnkKVB4FpI3Y7nJjW) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Euphorie \(DELUXE\)](https://open.spotify.com/album/5KH7VsdG6AuFxZygl3osgS) | 2:43 | 2024-09-01 | 2025-02-13 |
@@ -122,6 +123,7 @@
 | [COUNT ON ME](https://open.spotify.com/track/1kHEexeZFetNsQ2fIJbFKL) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [COUNT ON ME](https://open.spotify.com/album/5hhvWbwoZc4k3S4V8K54ig) | 2:47 | 2024-01-13 | 2024-02-14 |
 | [Courir](https://open.spotify.com/track/5ayUHqkpxxyBOWelJjnaTD) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:28 | 2022-11-14 | 2022-11-26 |
 | [Crocodile](https://open.spotify.com/track/7qNjrURi3blSkQT5e8G76d) | [Lee Browz](https://open.spotify.com/artist/2sfOdRW5RsJPXuko7qJcjS) | [Crocodile](https://open.spotify.com/album/6rVdRe3s9TEmut5H04wstl) | 2:27 | 2024-11-21 | 2024-12-22 |
+| [CVP](https://open.spotify.com/track/3ZHISEni91oxZLbjDmtsAy) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 2:47 | 2026-06-18 |  |
 | [Dama](https://open.spotify.com/track/43cOEd6sTJpYlKs5gdiFJx) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Traitement 2](https://open.spotify.com/album/4IK4fAqrL0kHKX0jDdgzi0) | 2:55 | 2026-06-06 |  |
 | [DARBEDA](https://open.spotify.com/track/0ZjqXH9bjK0N9lnmDz0c6d) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:54 | 2026-05-21 |  |
 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 | 2022-11-14 | 2024-01-05 |
@@ -130,7 +132,7 @@
 | [Dem3a](https://open.spotify.com/track/0QQdqPh1zxZbuWByiQJnRQ) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [L8.CALL](https://open.spotify.com/album/1eTqaGYfqQNEYufuLc2IUg) | 3:12 | 2025-06-18 | 2025-09-11 |
 | [Denbi](https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Denbi](https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr) | 2:56 | 2022-11-14 | 2024-01-07 |
 | [Denbi Ana](https://open.spotify.com/track/7nPSqRB6nc9sf5cqSTJKzx) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Denbi Ana](https://open.spotify.com/album/6aQ0rQWbW94FLbCui79SfB) | 2:09 | 2023-08-19 | 2024-07-23 |
-| [DENYA](https://open.spotify.com/track/2cc3HFMPsVGZ7y1Cm5cP0g) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MC\-101](https://open.spotify.com/album/42okkFu4lgilYfjHOUOtXV) | 3:19 | 2026-04-10 |  |
+| [DENYA](https://open.spotify.com/track/2cc3HFMPsVGZ7y1Cm5cP0g) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MC\-101](https://open.spotify.com/album/42okkFu4lgilYfjHOUOtXV) | 3:19 | 2026-04-10 | 2026-06-19 |
 | [DEPART](https://open.spotify.com/track/2Jzn2clALwnSCrHdXPBXfB) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [DEPART](https://open.spotify.com/album/2wVXCvBj607fhsujknCH3y) | 2:41 | 2026-02-28 |  |
 | [Dexter](https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Dexter](https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI) | 2:48 | 2022-11-28 | 2023-10-27 |
 | [DFN](https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 3:03 | 2026-03-30 |  |
@@ -143,7 +145,7 @@
 | [Doberwoman](https://open.spotify.com/track/0DX90o91i4hKpfBp7JNNOg) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Doberwoman](https://open.spotify.com/album/4AsflFTM4l2rAdiIBii1TP) | 2:58 | 2025-02-12 | 2026-03-28 |
 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 | 2023-12-07 | 2025-07-17 |
 | [Dokhana](https://open.spotify.com/track/5Yd23nlQjtvyceg2u2BnxQ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 2:52 | 2024-06-27 | 2024-07-19 |
-| [DOLORES](https://open.spotify.com/track/203HDScSrKR9GJ2yOwTD07) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:15 | 2026-06-04 |  |
+| [DOLORES](https://open.spotify.com/track/203HDScSrKR9GJ2yOwTD07) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:15 | 2026-06-04 | 2026-06-19 |
 | [Dorororo](https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [Dorororo](https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br) | 2:44 | 2025-12-19 |  |
 | [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2023-01-10 | 2023-06-09 |
 | [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 | 2024-06-03 | 2025-07-18 |

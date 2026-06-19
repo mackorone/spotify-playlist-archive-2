@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "Six Sex en portada. ",
+  "description": "Sara Hebe en portada. ",
   "name": "alt.ar",
   "tracks": [
     {
@@ -970,7 +970,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 163682,
       "name": "Antiguo y moderno",
       "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
@@ -2904,6 +2904,24 @@
       "duration_ms": 190000,
       "name": "De Abajo Para Arriba",
       "url": "https://open.spotify.com/track/2zLycxJA8i97eqADJtQoqz"
+    },
+    {
+      "album": {
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/4hJg9U3I9aMKz6dxDDJyZN"
+      },
+      "artists": [
+        {
+          "name": "Tango Astral",
+          "url": "https://open.spotify.com/artist/3omZQ6YjfgYdViKE9mvm7j"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228618,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/10bnt4vdoF4B4swj1kJZHt"
     },
     {
       "album": {
@@ -4938,7 +4956,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 126000,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/4bReU9TJ826COOz6LPXJJe"
@@ -5106,6 +5124,32 @@
       "duration_ms": 163640,
       "name": "JUST LIKE THAT (with Ari Lennox)",
       "url": "https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt"
+    },
+    {
+      "album": {
+        "name": "NEGOCIONISMO",
+        "url": "https://open.spotify.com/album/0jiXpTFm3HWNpgi6Sbhd6s"
+      },
+      "artists": [
+        {
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
+        },
+        {
+          "name": "Manu Calmet",
+          "url": "https://open.spotify.com/artist/0B9JhFd1gL8bpf6FnaggJU"
+        },
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176982,
+      "name": "KE NADIE ME CORRIJA",
+      "url": "https://open.spotify.com/track/2iH6noHeu22NXSQF0k3QwE"
     },
     {
       "album": {
@@ -7798,7 +7842,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 146139,
       "name": "no me mires as\u00ed",
       "url": "https://open.spotify.com/track/6CjDOZBy0rR88f8poJUAgV"
@@ -9599,6 +9643,28 @@
     },
     {
       "album": {
+        "name": "QUE ME LUZCA",
+        "url": "https://open.spotify.com/album/17jYxGNEzvseYguymw7Ufq"
+      },
+      "artists": [
+        {
+          "name": "Turde",
+          "url": "https://open.spotify.com/artist/4QvojSqsHuURFc49UBjugU"
+        },
+        {
+          "name": "Fede Guelmos",
+          "url": "https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167313,
+      "name": "QUE ME LUZCA",
+      "url": "https://open.spotify.com/track/0YHuMSBYE7BL7W2R20aYEG"
+    },
+    {
+      "album": {
         "name": "FIESTA FR\u00c1GIL",
         "url": "https://open.spotify.com/album/4uMffWd9nv2y9u7COhB7v3"
       },
@@ -10406,7 +10472,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 144155,
       "name": "Se\u00fal",
       "url": "https://open.spotify.com/track/3yoI47UbxuCojhxspj2lo0"

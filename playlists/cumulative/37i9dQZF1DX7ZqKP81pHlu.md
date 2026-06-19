@@ -2,9 +2,9 @@
 
 ### [Hot Hit Algeria](https://open.spotify.com/playlist/37i9dQZF1DX7ZqKP81pHlu)
 
-> Les hits du moment en Algérie\. Cover: Abdou Gambetta
+> Les hits du moment en Algérie\. Cover: Soolking
 
-277 songs - 16 hr 34 min
+279 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Chwiya Wa9t W Nensak](https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A) | [Chwiya Wa9t W Nensak](https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR) | 5:37 | 2024-07-18 |  |
 | [Classico](https://open.spotify.com/track/2J4q5rfEpzy8bHPzlEOkQx) | [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [Classico](https://open.spotify.com/album/4zMmjcQdRXH9Bd13d5Mm2V) | 3:49 | 2023-08-14 | 2023-11-11 |
 | [Courage](https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Courage](https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV) | 4:00 | 2021-12-09 | 2022-08-23 |
+| [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-06-18 |  |
 | [Dawama](https://open.spotify.com/track/0DW1FQLgauly0anz5SO4bp) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Dawama](https://open.spotify.com/album/1meUVcj9RkoWV0gFcQDeJW) | 3:06 | 2021-12-09 | 2022-05-27 |
 | [Dayra El Hafla \- ملخر](https://open.spotify.com/track/7EMtuKgFWGBcytMzUXxnrg) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [Dayra El Hafla \(ملخر\)](https://open.spotify.com/album/3hOqXm7yxVhGtgX7G5nFoK) | 4:20 | 2024-08-24 |  |
 | [Dbayli Ana \- Fransa Daretha Biya](https://open.spotify.com/track/311Jnoa5h8dGNb1MphFeBu) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [Dbayli Ana \(Fransa Daretha Biya\)](https://open.spotify.com/album/3V1yNsmV6eDPsCH6QyNhRH) | 2:42 | 2023-03-30 | 2023-07-30 |
@@ -209,7 +210,7 @@
 | [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 | 2024-05-08 | 2024-07-19 |
 | [Oublie\-moi](https://open.spotify.com/track/19EZ9PFgJM0xh2Ruld9z2F) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Oublie\-moi](https://open.spotify.com/album/4hS1lDUpq5UXLapDgD9MFY) | 3:01 | 2022-09-28 | 2023-08-15 |
 | [PARISIENNE](https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5) | 2:38 | 2025-11-04 |  |
-| [Passe ton chemin](https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Passe ton chemin](https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0) | 2:49 | 2024-08-16 |  |
+| [Passe ton chemin](https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Passe ton chemin](https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0) | 2:49 | 2024-08-16 | 2026-06-19 |
 | [Peace N Love](https://open.spotify.com/track/7ohwke3nvqtXepKH6ujm5J) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI), [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 3:09 | 2021-12-09 | 2022-03-11 |
 | [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 | 2024-12-23 | 2025-07-05 |
 | [Pichichi](https://open.spotify.com/track/6eyghhEYVokzeUZnYmCxjI) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/4yqsxc2ITcS7kG8dFhe58E) | 2:58 | 2025-05-22 |  |
@@ -228,6 +229,7 @@
 | [Saroukh Style Manini](https://open.spotify.com/track/1f2AKogp0N5Yy5iA41xNIm) | [Smaug](https://open.spotify.com/artist/1fIraGNUIufBhLMYTiXs6n), [Dj Mourad](https://open.spotify.com/artist/5pYsi7UuQoyP3HdXYjpAPz) | [Saroukh Style Manini](https://open.spotify.com/album/4njF2Gxylwy7QZsb9Mo57s) | 3:03 | 2024-07-18 |  |
 | [SAYGA](https://open.spotify.com/track/0sph6B02DsRCAkKpMhOT3P) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [SAYGA](https://open.spotify.com/album/67OggBaHeH1P5kflZop6w6) | 3:05 | 2025-11-03 |  |
 | [Se9si Liyam](https://open.spotify.com/track/1yhawOwQm1XumUtkVHhtVP) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Se9si Liyam](https://open.spotify.com/album/0Yl6SijIxAklDcxRxz7GRK) | 3:44 | 2025-12-18 |  |
+| [Seknet Marseille](https://open.spotify.com/track/1Wtr4zQhkjOJ8KZWNtPDwj) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Seknet Marseille](https://open.spotify.com/album/0DufvOgmtG1Vxcvft7AJSy) | 2:33 | 2026-06-18 |  |
 | [SEYA](https://open.spotify.com/track/0Fyqe4e5VjCaFjNSNYWa25) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Les dernières volontés de Mozart \(Symphony\)](https://open.spotify.com/album/4ljqGoLmGs8AxkyS2S1fvQ) | 3:08 | 2024-07-18 |  |
 | [SHADOW BOXING](https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:47 | 2023-03-20 | 2024-06-05 |
 | [Smaht ou Mchit](https://open.spotify.com/track/4szzelql5n4wwot52p0rsm) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Smaht ou Mchit](https://open.spotify.com/album/0crzSITMp0X19AwZwAz6q6) | 3:39 | 2025-07-17 |  |
@@ -247,7 +249,7 @@
 | [Tir Ellil](https://open.spotify.com/track/3le36Vlse8nzqBy2Wfylql) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Larbi Maestro](https://open.spotify.com/artist/67jF59wuJe0V1ByZ2eiUqT) | [Tir Ellil](https://open.spotify.com/album/4Nrh8I9mYMikyioVf5Gwrq) | 4:06 | 2021-12-09 | 2022-11-08 |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-03-15 | 2023-10-18 |
 | [Toi & moi \(feat\. Mok Saib\) \- version acoustique](https://open.spotify.com/track/0W4h9LlrLvqE6B9u7KWdBz) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:19 | 2023-03-16 | 2024-06-05 |
-| [Tour du monde](https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tour du monde](https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO) | 2:51 | 2025-11-21 |  |
+| [Tour du monde](https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tour du monde](https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO) | 2:51 | 2025-11-21 | 2026-06-19 |
 | [Trigue Lycee \- Remix](https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Trigue Lycee \(Remix\)](https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd) | 3:05 | 2022-08-05 | 2022-11-25 |
 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 | 2025-11-21 |  |
 | [Wahran](https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran](https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl) | 3:51 | 2021-12-09 | 2022-02-08 |

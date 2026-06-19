@@ -1,6 +1,6 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1720037,
+  "num_followers": 1719933,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,26 @@
     {
       "added_at": "2026-05-24 07:07:16",
       "album": {
+        "name": "KESI (Remix)",
+        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 176575,
+      "name": "KESI - Remix",
+      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
+    },
+    {
+      "added_at": "2026-05-24 07:07:16",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 180040,
       "name": "OJOS FERRARI",
       "url": "https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o"
-    },
-    {
-      "added_at": "2026-05-24 07:07:16",
-      "album": {
-        "name": "KESI (Remix)",
-        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 176575,
-      "name": "KESI - Remix",
-      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
     },
     {
       "added_at": "2026-05-24 07:07:16",

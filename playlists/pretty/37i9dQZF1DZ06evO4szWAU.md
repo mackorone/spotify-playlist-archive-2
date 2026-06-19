@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 
 > This is Willie Colón\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,437 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,458 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 | 20 | [Ah\-Ah / O\-No](https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Juicio](https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW) | 3:47 |
 | 21 | [Tiempo Pa’ Matar](https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tiempo pa' Matar](https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5) | 4:59 |
 | 22 | [Usted Abusó](https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The 'Brillante' Best](https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25) | 4:19 |
-| 23 | [Demasiado Corazon](https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Demasiado Corazon](https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE) | 3:50 |
+| 23 | [Juanito Alimaña](https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 5:45 |
 | 24 | [Aguanile](https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Juicio](https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW) | 6:09 |
-| 25 | [Juanito Alimaña](https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 5:45 |
+| 25 | [Demasiado Corazon](https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Demasiado Corazon](https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE) | 3:50 |
 | 26 | [Te Están Buscando](https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs) | 6:28 |
 | 27 | [Quiero Saber](https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:29 |
 | 28 | [Plantación Adentro](https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Metiendo Mano](https://open.spotify.com/album/3oOEQ4KB3ZegkjEvfHjiYn) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 | 49 | [No Me Llores Más](https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 5:37 |
 | 50 | [Tiburón](https://open.spotify.com/track/7nbzvThgq44C1X56D4RZuL) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs) | 7:00 |
 
-Snapshot ID: `ajCSAAAAAADMgoK3BIcqV2900soMy4N1`
+Snapshot ID: `ajHjgAAAAABLROeBuWMfJpGHqWGkIDfA`

@@ -1431,6 +1431,28 @@
     },
     {
       "album": {
+        "name": "Comets + Gold",
+        "url": "https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188432,
+      "name": "Comets + Gold",
+      "url": "https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f"
+    },
+    {
+      "album": {
         "name": "Comin\u2019 Around Again",
         "url": "https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv"
       },
@@ -2030,7 +2052,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 199762,
       "name": "Don't Record",
       "url": "https://open.spotify.com/track/1jyNswOFIyhIrYnR3a4GcH"

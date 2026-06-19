@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 127712,
+  "num_followers": 127728,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -239,26 +239,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Baiana",
-      "url": "https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 188210,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Baiana",
+      "url": "https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Pode Acreditar",
-        "url": "https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        }
-      ],
-      "duration_ms": 219103,
-      "name": "Pode Acreditar",
-      "url": "https://open.spotify.com/track/03oe8zQqvokacoYMOlI4Ah"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "PREAMAR",
         "url": "https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 261901,
       "name": "PREAMAR",
       "url": "https://open.spotify.com/track/5vXucjlEods0fafmWCudxU"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "Pode Acreditar",
+        "url": "https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        }
+      ],
+      "duration_ms": 219103,
+      "name": "Pode Acreditar",
+      "url": "https://open.spotify.com/track/03oe8zQqvokacoYMOlI4Ah"
     },
     {
       "added_at": "2026-06-17 15:55:41",

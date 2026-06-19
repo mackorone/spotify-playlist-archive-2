@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-321 songs - 19 hr 52 min
+322 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Dorothy](https://open.spotify.com/track/2GuIRSthEpYN5MO6PGD7Vx) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Dorothy](https://open.spotify.com/album/7lJXrA1jzqGVpLUyLIYXLK) | 5:16 | 2022-03-29 | 2023-12-07 |
 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 | 2022-07-26 | 2023-03-15 |
 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 | 2025-02-28 |  |
+| [Dreams](https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Free Your Mind](https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ) | 3:56 | 2026-06-19 |  |
 | [Drive \- Edit](https://open.spotify.com/track/3XsNRi2cypsksscysYbyaF) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:11 | 2022-10-12 | 2023-12-07 |
 | [Drum Death](https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [Drum Death](https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t) | 2:50 | 2025-03-21 | 2025-05-04 |
 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 | 2025-02-28 |  |
@@ -156,7 +157,7 @@
 | [La bohemia](https://open.spotify.com/track/5E8eu7Jfj7dkZgnbMOPtwK) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [La bohemia](https://open.spotify.com/album/6xQ8fWvwPReZSU4uRkUI8p) | 3:48 | 2026-03-20 | 2026-03-27 |
 | [La Luz](https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [WAYU Various Artists, Vol\. 2](https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL) | 5:28 | 2022-04-24 | 2022-07-29 |
 | [La Mentira](https://open.spotify.com/track/6oso9qoKGgH8PmuLJ0jaV8) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Los Hermanos Del Alma EP](https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB) | 5:52 | 2022-04-24 | 2022-07-29 |
-| [La Musa \(with Miluhska\)](https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [La Musa \(with Miluhska\)](https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt) | 3:03 | 2026-03-20 |  |
+| [La Musa \(with Miluhska\)](https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [La Musa \(with Miluhska\)](https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt) | 3:03 | 2026-03-20 | 2026-06-19 |
 | [La Papaye](https://open.spotify.com/track/2gHA5uelC4cmT0Rn91rTm1) | [Rob!n](https://open.spotify.com/artist/1YJp6laoD5gLNFt4iksPMu), [Lumoon](https://open.spotify.com/artist/0yef6VSNvf1atgoH0Vv5aR) | [La Papaye](https://open.spotify.com/album/4rqE0hYsSByirJPP5h1cp2) | 6:12 | 2022-03-29 | 2022-06-16 |
 | [La Samba](https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr) | [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [La Samba](https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq) | 2:30 | 2026-03-20 |  |
 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/5GIG7Ktm9gZnV5yNqb0XZl) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/57SwKjLUnRzLs7jXcDsQCY) | 2:33 | 2025-11-21 |  |

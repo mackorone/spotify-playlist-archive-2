@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,645 likes - 122 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,706 likes - 122 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,15 +102,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 92 | [Wake Me Up \- Acoustic](https://open.spotify.com/track/2QfNZWOVYeycSM2bmrpm9W) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Wake Me Up](https://open.spotify.com/album/0SjMEy7ulz2ygRziPJl7v0) | 3:45 |
 | 93 | [You Don't Know Me \- Acoustic Version](https://open.spotify.com/track/3LUBsjAuvdCcPVHvwQhVOJ) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me \(Acoustic Version\)](https://open.spotify.com/album/74DlSwELqP1vuk3ynNVvMk) | 3:44 |
 | 94 | [Mercy \- Acoustic Version](https://open.spotify.com/track/1uZ9Sb4JJRiG4gvINBfZMM) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Spotify Session](https://open.spotify.com/album/5feWfhvdBhDbolLTe4myfu) | 3:33 |
-| 95 | [Set Fire To The Rain](https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU) | 3:53 |
-| 96 | [Hand In My Pocket \- Live/Acoustic Cover](https://open.spotify.com/track/3P2I45r2nyahA9vZS6SQGT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Live At AllSaints Studios](https://open.spotify.com/album/0kFojclwKS2epbuzKVKx6s) | 3:05 |
-| 97 | [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 |
-| 98 | [Rely On Me](https://open.spotify.com/track/2amrY1Qly3pMNfqVPsAbBo) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Rely On Me](https://open.spotify.com/album/1AD4aREnRdDu0hhUqzVRUu) | 3:39 |
+| 95 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 |
+| 96 | [Set Fire To The Rain](https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU) | 3:53 |
+| 97 | [Hand In My Pocket \- Live/Acoustic Cover](https://open.spotify.com/track/3P2I45r2nyahA9vZS6SQGT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Live At AllSaints Studios](https://open.spotify.com/album/0kFojclwKS2epbuzKVKx6s) | 3:05 |
+| 98 | [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 |
 | 99 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7hmcaSpHioj7SGfOU565WI) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song \(Guitar Acoustic\)](https://open.spotify.com/album/5jnRfyqVu1M8ATrJ0hOrVD) | 3:32 |
-| 100 | [Behind the Light](https://open.spotify.com/track/3crPGxHwf3PZSxOqaXO3Q5) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Behind the Light](https://open.spotify.com/album/36JPaaHtgvqijZAMHmwXhN) | 2:51 |
-| 101 | [Umbrella](https://open.spotify.com/track/0mPrdIq5BxRqwAa16Ya1c1) | [Marié Digby](https://open.spotify.com/artist/2XMxHczWkSzDDFhiC3zt8k) | [Your Love](https://open.spotify.com/album/63iUaS749MYijLWJi2c7uz) | 3:45 |
-| 102 | [Slow Hands \- Acoustic](https://open.spotify.com/track/7tAPTpA6VmKAeu3S5w9RVW) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands \(Acoustic\)](https://open.spotify.com/album/3Uab8u2BzV3lvjD6LsUBVo) | 2:40 |
-| 103 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 |
+| 100 | [Rely On Me](https://open.spotify.com/track/2amrY1Qly3pMNfqVPsAbBo) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Rely On Me](https://open.spotify.com/album/1AD4aREnRdDu0hhUqzVRUu) | 3:39 |
+| 101 | [Behind the Light](https://open.spotify.com/track/3crPGxHwf3PZSxOqaXO3Q5) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Behind the Light](https://open.spotify.com/album/36JPaaHtgvqijZAMHmwXhN) | 2:51 |
+| 102 | [Umbrella](https://open.spotify.com/track/0mPrdIq5BxRqwAa16Ya1c1) | [Marié Digby](https://open.spotify.com/artist/2XMxHczWkSzDDFhiC3zt8k) | [Your Love](https://open.spotify.com/album/63iUaS749MYijLWJi2c7uz) | 3:45 |
+| 103 | [Slow Hands \- Acoustic](https://open.spotify.com/track/7tAPTpA6VmKAeu3S5w9RVW) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands \(Acoustic\)](https://open.spotify.com/album/3Uab8u2BzV3lvjD6LsUBVo) | 2:40 |
 | 104 | [Stolen Dance](https://open.spotify.com/track/2ZQ87gUxLwKZS2ar0uXFmf) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/0Gl21cv3eR8SLk2AVR1sMr) | 3:55 |
 | 105 | [Bruises](https://open.spotify.com/track/3BxzQaXrfoWo1lYLZjJqyD) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises](https://open.spotify.com/album/6eOlXFqR2q3WYQpKu6xSRm) | 3:38 |
 | 106 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 |

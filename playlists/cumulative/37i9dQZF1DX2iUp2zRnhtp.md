@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-669 songs - 1 day 9 hr 16 min
+674 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p) | 2:48 | 2026-01-22 |  |
 | [Lojal](https://open.spotify.com/track/3QC5f4nKvmJkA9kQ2P9dyX) | [Tonje](https://open.spotify.com/artist/6WA5TJtCL1yhXTouYM59k7) | [Lojal](https://open.spotify.com/album/65bM3ytzxEz75NFsJo5MvI) | 2:58 | 2025-02-13 | 2025-02-21 |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-27 | 2025-05-01 |
+| [Lose Myself](https://open.spotify.com/track/0e5K24g47Xze7bR6eftsHT) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Lose Myself / I Wanna](https://open.spotify.com/album/5pLDXKmvchaKPLdI93TAjH) | 2:46 | 2026-06-18 |  |
 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 | 2025-03-27 | 2025-05-23 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-30 | 2025-03-28 |
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-03-07 | 2025-03-11 |
@@ -552,6 +553,7 @@
 | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/track/19luLEZUisg9MQtfLz489o) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/album/38giCJV9UkDE9U3059Ev4e) | 2:49 | 2025-06-05 | 2025-09-19 |
 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 | 2026-05-21 |  |
 | [St\. Tropez](https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [St\. Tropez](https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe) | 2:22 | 2025-05-08 |  |
+| [STAMINA](https://open.spotify.com/track/1yTH5lpSIfzo3slg1zv4tV) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [STAMINA](https://open.spotify.com/album/5IrdueOJu73JrStSvgLKzU) | 1:54 | 2026-06-18 |  |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2024-06-27 | 2024-09-20 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-06-27 | 2025-05-01 |
 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-28 |  |
@@ -564,6 +566,7 @@
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-06-27 | 2025-03-08 |
 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 | 2025-03-20 | 2025-03-28 |
 | [Stjerner](https://open.spotify.com/track/3scsHT4fjhOIg23FeiN4Y0) | [Jay Sorrow](https://open.spotify.com/artist/0EaL2KcqElU2R12PDvAiuZ) | [Stjerner](https://open.spotify.com/album/2RVYm1NWCTSjbY6BPVkafL) | 2:18 | 2025-04-30 | 2025-07-04 |
+| [Stockholm](https://open.spotify.com/track/7vzQ6xakWuKWs7I1IqhO7U) | [FERDY](https://open.spotify.com/artist/208RE1Kcvc7w4N1dqnhJPw), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Stockholm](https://open.spotify.com/album/6Co0E7pAJG12oqjf3Uq0Sn) | 2:25 | 2026-06-18 |  |
 | [Stokk dum](https://open.spotify.com/track/0VyUeM8cib1uTP9Cpl4teq) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Heimakjær](https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD) | 2:55 | 2026-06-11 |  |
 | [STOP](https://open.spotify.com/track/2487dSsY2qY7OZxbhSdqDp) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [are you mad at me?](https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL) | 2:56 | 2026-05-28 |  |
 | [Store gutter gråter ikke](https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Store gutter gråter ikke](https://open.spotify.com/album/4uNU8y4zM8haEuPoOo6Nyb) | 3:28 | 2025-10-30 |  |
@@ -642,6 +645,7 @@
 | [Update](https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B) | 3:27 | 2025-02-20 | 2025-02-28 |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-06-27 | 2025-05-01 |
 | [UTÅLMODIG](https://open.spotify.com/track/1CadkxW6SMrJYJtrB8NJgW) | [Rakkere](https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25) | [SOLA LAGER SKYGGER](https://open.spotify.com/album/6wtfavcOifrnr2R5HSGvwO) | 2:24 | 2026-03-12 |  |
+| [VAKRESTE PÅ BYN](https://open.spotify.com/track/0kWH8g9YGjtWv86xQa6ZOc) | [Malik](https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL) | [VAKRESTE PÅ BYN](https://open.spotify.com/album/4GA9ODi2YN3FIdNSQQjrjg) | 3:12 | 2026-06-18 |  |
 | [Valentines](https://open.spotify.com/track/1ane1ChBkbMgPL6mFkAFK5) | [Cezinando](https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z) | [Sinekyre 3](https://open.spotify.com/album/6Ths4hYYkTUDcnVCBf78pc) | 4:06 | 2025-04-03 |  |
 | [Vant til det](https://open.spotify.com/track/6HQXqcM17N4d2KcP9kyjMH) | [Nossan](https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT) | [Vant til det](https://open.spotify.com/album/7ptjOgIv2FidOtmcAu7TNI) | 2:08 | 2025-05-22 |  |
 | [VARM](https://open.spotify.com/track/3sKx3eSzs6ylXLVRbR6hiw) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [VARM](https://open.spotify.com/album/4jVPKClvVmxifS19fC8IYp) | 3:01 | 2026-06-04 |  |
@@ -676,6 +680,7 @@
 | [YIPPEE\-KI\-YAY\. \(feat\. T\-Pain\)](https://open.spotify.com/track/1WxODiG0B1x5eunqiP6AoS) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [YIPPEE\-KI\-YAY\. \(feat\. T\-Pain\)](https://open.spotify.com/album/2Tq48FIwmhfjyfSI436PLr) | 3:32 | 2025-03-28 | 2025-09-19 |
 | [You You You](https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [You You You](https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV) | 2:42 | 2025-04-30 |  |
 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2024-06-27 | 2024-11-01 |
+| [Ække Alltid Din Feil](https://open.spotify.com/track/7GQStxGa4OsLH204MWM3gs) | [Dinho](https://open.spotify.com/artist/463x0OI3W1zDhJvMLcjaCa) | [Ække Alltid Din Feil](https://open.spotify.com/album/4aEV4E0bNCGvzeJtbFBNG9) | 2:51 | 2026-06-18 |  |
 | [Ærlig](https://open.spotify.com/track/0kowyESrGiikWh9I1JltTj) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Ærlig](https://open.spotify.com/album/5tc11Is1Dlh1o4JDQbJqh3) | 2:43 | 2026-03-05 | 2026-03-13 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

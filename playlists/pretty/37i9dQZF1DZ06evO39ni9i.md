@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 
 > This is Sly & The Family Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,506 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,505 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 33 | [Can't Strain My Brain](https://open.spotify.com/track/0T94lawCOoZ99cXGApnp2O) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 4:08 |
 | 34 | [Fun](https://open.spotify.com/track/70AM9U6VMFtSyjCYc34srx) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:24 |
 | 35 | [I Cannot Make It](https://open.spotify.com/track/12guwaqWe3xZUPdnfSw0n4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:18 |
-| 36 | [It Takes All Kinds](https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:57 |
+| 36 | [I Ain't Got Nobody \(For Real\)](https://open.spotify.com/track/62yuJ7e3ULb6NFvRs13E9u) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 4:25 |
 | 37 | [Time For Livin'](https://open.spotify.com/track/1oQjAXbu9xARHLpKH73N1p) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:17 |
-| 38 | [I Ain't Got Nobody \(For Real\)](https://open.spotify.com/track/62yuJ7e3ULb6NFvRs13E9u) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 4:25 |
+| 38 | [It Takes All Kinds](https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:57 |
 | 39 | [Trip to Your Heart](https://open.spotify.com/track/3ku8Qt9J0Y29yC4jdzJ8PO) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:41 |
-| 40 | [Into My Own Thing](https://open.spotify.com/track/1jKFBuegXD4DPc7Gd8HhJm) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:13 |
-| 41 | [Skate Now \- Live At Winchester Cathedral 1967](https://open.spotify.com/track/5kVhCcyzMDfDK186S4ZUAM) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [The First Family: Live At Winchester Cathedral 1967](https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7) | 4:27 |
-| 42 | [Color Me True](https://open.spotify.com/track/7e3gIQQIuGnVUUcGUOJNgM) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 3:08 |
-| 43 | [Advice](https://open.spotify.com/track/5bwmCTaOgGZ24HSlBksFWc) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 2:20 |
-| 44 | [Love City](https://open.spotify.com/track/0RfvI47szEhLTEnD7WTIco) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:43 |
-| 45 | [That's Pretty Clean \- Instrumental](https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's A Riot Goin' On \(Expanded Edition\)](https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO) | 4:12 |
-| 46 | [Are You Ready](https://open.spotify.com/track/2vG9xnkx7v0780lL9zWRZa) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:49 |
-| 47 | [If This Room Could Talk](https://open.spotify.com/track/6tLOKNQHVDFZgbjLxFoze4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:10 |
+| 40 | [Color Me True](https://open.spotify.com/track/7e3gIQQIuGnVUUcGUOJNgM) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 3:08 |
+| 41 | [Into My Own Thing](https://open.spotify.com/track/1jKFBuegXD4DPc7Gd8HhJm) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:13 |
+| 42 | [Skate Now \- Live At Winchester Cathedral 1967](https://open.spotify.com/track/5kVhCcyzMDfDK186S4ZUAM) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [The First Family: Live At Winchester Cathedral 1967](https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7) | 4:27 |
+| 43 | [If This Room Could Talk](https://open.spotify.com/track/6tLOKNQHVDFZgbjLxFoze4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:10 |
+| 44 | [Are You Ready](https://open.spotify.com/track/2vG9xnkx7v0780lL9zWRZa) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:49 |
+| 45 | [Love City](https://open.spotify.com/track/0RfvI47szEhLTEnD7WTIco) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:43 |
+| 46 | [That's Pretty Clean \- Instrumental](https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's A Riot Goin' On \(Expanded Edition\)](https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO) | 4:12 |
+| 47 | [Advice](https://open.spotify.com/track/5bwmCTaOgGZ24HSlBksFWc) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 2:20 |
 | 48 | [Say You Will](https://open.spotify.com/track/1l9EHaWsZ2LSiULI97ymRB) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:18 |
-| 49 | [Show Me \- Live At Winchester Cathedral 1967](https://open.spotify.com/track/4A2rQDVPQGswdDxN9U2PjK) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [The First Family: Live At Winchester Cathedral 1967](https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7) | 4:58 |
-| 50 | [If It's Not Addin' Up](https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:43 |
+| 49 | [If It's Not Addin' Up](https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:43 |
+| 50 | [Show Me \- Live At Winchester Cathedral 1967](https://open.spotify.com/track/4A2rQDVPQGswdDxN9U2PjK) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [The First Family: Live At Winchester Cathedral 1967](https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7) | 4:58 |
 
-Snapshot ID: `ajCSAAAAAABPb/zI5yJAB63KYbU5DYLg`
+Snapshot ID: `ajHjgAAAAABAZsiQmcTGn3ZTn5c6U4m1`

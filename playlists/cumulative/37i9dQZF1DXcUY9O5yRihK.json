@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: aron!",
+  "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: grentperez",
   "name": "bossa pop",
   "tracks": [
     {
@@ -100,6 +100,24 @@
       "duration_ms": 176026,
       "name": "Adagio",
       "url": "https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8"
+    },
+    {
+      "album": {
+        "name": "after all",
+        "url": "https://open.spotify.com/album/7lzGyOwEpw8hCGQge8SS2D"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193056,
+      "name": "after all",
+      "url": "https://open.spotify.com/track/4UCuyeaovBIUlyeecxU9Q4"
     },
     {
       "album": {
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 183373,
       "name": "Room For You",
       "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"

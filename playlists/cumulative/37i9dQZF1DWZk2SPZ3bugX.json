@@ -282,7 +282,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 219506,
       "name": "All The Feels",
       "url": "https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 164962,
       "name": "BETTERTIMES",
       "url": "https://open.spotify.com/track/7uVEmyPVdlN3A0QhKp8j7t"
@@ -3289,6 +3289,24 @@
     },
     {
       "album": {
+        "name": "MISTRAL EN HIVER",
+        "url": "https://open.spotify.com/album/6CwGh54TpRCawYWGa5GsYY"
+      },
+      "artists": [
+        {
+          "name": "Ajar",
+          "url": "https://open.spotify.com/artist/46OlTXwi8hanoxXHTE7E5z"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150880,
+      "name": "MISTRAL EN HIVER",
+      "url": "https://open.spotify.com/track/18K1Ho4UzlXHAsgCl9QQ05"
+    },
+    {
+      "album": {
         "name": "Moda",
         "url": "https://open.spotify.com/album/1n5T79xCj5x5WUYeYHh5MT"
       },
@@ -4698,7 +4716,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 251200,
       "name": "Superbloom",
       "url": "https://open.spotify.com/track/56imCiO83oUJj6z9favCWt"
@@ -5695,6 +5713,24 @@
     },
     {
       "album": {
+        "name": "Workin' All Night",
+        "url": "https://open.spotify.com/album/5OcwMTy2xQiRSPHTp7Vx5i"
+      },
+      "artists": [
+        {
+          "name": "Astels",
+          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200477,
+      "name": "Workin' All Night",
+      "url": "https://open.spotify.com/track/4wzNlaLf0e1IJA4l1DWckJ"
+    },
+    {
+      "album": {
         "name": "Write",
         "url": "https://open.spotify.com/album/4fIur2CSRogNWs8gmxlzdr"
       },
@@ -5808,6 +5844,32 @@
       "duration_ms": 209040,
       "name": "Young Hearts (Polo & Pan Remix)",
       "url": "https://open.spotify.com/track/6zeDZ7S5TJ8kIn3V0OGVvV"
+    },
+    {
+      "album": {
+        "name": "Your Lovin'",
+        "url": "https://open.spotify.com/album/2IBfTB4yaFwniF9lzIm1be"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "Your Lovin'",
+      "url": "https://open.spotify.com/track/1CzwbuxixZXvQjfvNqsK8d"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZk2SPZ3bugX"

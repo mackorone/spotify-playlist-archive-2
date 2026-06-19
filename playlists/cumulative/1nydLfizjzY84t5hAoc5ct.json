@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "For His Better Three Quarters",
+        "url": "https://open.spotify.com/album/4x4GfPNzJELJlogra2nLGY"
+      },
+      "artists": [
+        {
+          "name": "Peplo",
+          "url": "https://open.spotify.com/artist/69Befn5bTbE1KSQOQ2yVu5"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202508,
+      "name": "For His Better Three Quarters",
+      "url": "https://open.spotify.com/track/5D4gO0zn1nuXAdvFHnaaG4"
+    },
+    {
+      "album": {
         "name": "For Jim, I Loved You",
         "url": "https://open.spotify.com/album/2IsN3SH50zAM8v810FWpQq"
       },

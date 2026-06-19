@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,433 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,486 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 38 | [Run For Cover](https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:42 |
 | 39 | [Feel Good Drag](https://open.spotify.com/track/3EuiMoY8lTjAvIqNf8Uyr3) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [New Surrender](https://open.spotify.com/album/4q76zB2vUHF6Pf2AlxnXQ0) | 3:07 |
 | 40 | [Is Everybody Going Crazy?](https://open.spotify.com/track/75yY1Ghs6E32WC4kSikXRJ) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic](https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI) | 3:57 |
-| 41 | [Little Monster](https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:32 |
+| 41 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
 | 42 | [Blame It on the Boom Boom](https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:09 |
 | 43 | [Real Thing](https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 |
 | 44 | [Milquetoast](https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:53 |
 | 45 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
-| 46 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
+| 46 | [Little Monster](https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:32 |
 | 47 | [Gumshield](https://open.spotify.com/track/7dC1ODfFU31b77PQWgQ21M) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:37 |
 | 48 | [Why Worry](https://open.spotify.com/track/3apcJZpzCcIy6FNJVM1bYF) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/4mPWTksMsByAvomErPtJwK) | 3:19 |
 | 49 | [From Out of Nowhere](https://open.spotify.com/track/1UBqvQDlcfRL0BaknLvn1J) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 3:21 |
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 51 | [Courage](https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:30 |
 | 52 | [Victorious](https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Victorious](https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA) | 4:24 |
 | 53 | [Together Right](https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Together Right](https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9) | 3:01 |
-| 54 | [Screamager](https://open.spotify.com/track/6AXZm9PDOhrG99M1dDBAbp) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Troublegum](https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR) | 2:36 |
-| 55 | [Never Gonna Learn](https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:18 |
+| 54 | [Never Gonna Learn](https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:18 |
+| 55 | [Screamager](https://open.spotify.com/track/6AXZm9PDOhrG99M1dDBAbp) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Troublegum](https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR) | 2:36 |
 | 56 | [Bad Girlfriend](https://open.spotify.com/track/5ynWvN3bQymHVThxutO4hG) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs](https://open.spotify.com/album/1AB8tdwS9hY4iyulXexNab) | 3:25 |
 | 57 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 |
 | 58 | [Young Cardinals](https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:37 |
 | 59 | [The Door](https://open.spotify.com/track/58nHFSWj5N5JxNtWgS85TL) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:33 |
 | 60 | [The Best Things](https://open.spotify.com/track/6QJfk4mQc9YYBX7DGmqbuZ) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 4:26 |
-| 61 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 |
-| 62 | [waste](https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [waste](https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy) | 3:51 |
+| 61 | [waste](https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [waste](https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy) | 3:51 |
+| 62 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 |
 | 63 | [Superhero](https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:58 |
 | 64 | [Sighommi](https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aghori Mhori Mei](https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1) | 2:54 |
 | 65 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |

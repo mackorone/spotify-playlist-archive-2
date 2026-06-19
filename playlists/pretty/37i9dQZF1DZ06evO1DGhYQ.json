@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9651,
+  "num_followers": 9650,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAACUOWJX7bLDSAFHtlKSS/F/",
+  "snapshot_id": "ajHjgAAAAAA+gN/Fp7TwXqsP+1oKky4p",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vim",
-        "url": "https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 314282,
-      "name": "Vim",
-      "url": "https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Side",
         "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 189466,
       "name": "Jungle Love",
       "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Tomorrow (Give It Up)",
+        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 266406,
+      "name": "No Tomorrow (Give It Up)",
+      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tomorrow (Give It Up)",
-        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
+        "name": "Vim",
+        "url": "https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 266406,
-      "name": "No Tomorrow (Give It Up)",
-      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
+      "duration_ms": 314282,
+      "name": "Vim",
+      "url": "https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu"
     },
     {
       "added_at": null,
@@ -683,18 +683,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Kazuo",
+          "url": "https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY"
+        },
+        {
+          "name": "Imani J",
+          "url": "https://open.spotify.com/artist/14pucqDOzazKI7ZrxSk9xj"
         }
       ],
-      "duration_ms": 277700,
-      "name": "LONELY LONELY",
-      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
+      "duration_ms": 330400,
+      "name": "NO HOME NO COUNTRY",
+      "url": "https://open.spotify.com/track/711S16U7t5IfpIUaIzvcp8"
     },
     {
       "added_at": null,
@@ -739,26 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+        "name": "LONELY LONELY",
+        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "Kazuo",
-          "url": "https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY"
-        },
-        {
-          "name": "Imani J",
-          "url": "https://open.spotify.com/artist/14pucqDOzazKI7ZrxSk9xj"
         }
       ],
-      "duration_ms": 330400,
-      "name": "NO HOME NO COUNTRY",
-      "url": "https://open.spotify.com/track/711S16U7t5IfpIUaIzvcp8"
+      "duration_ms": 277700,
+      "name": "LONELY LONELY",
+      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokyo Pharaoh",
-        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 213406,
-      "name": "Tokyo Pharaoh",
-      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 266900,
       "name": "THE SWEETEST TABOO",
       "url": "https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tokyo Pharaoh",
+        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 213406,
+      "name": "Tokyo Pharaoh",
+      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
       "duration_ms": 239600,
       "name": "MY LIFE. MY DESTINY",
       "url": "https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALI",
-        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 284433,
-      "name": "BONNIE",
-      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
     },
     {
       "added_at": null,
@@ -879,6 +863,22 @@
       "duration_ms": 180766,
       "name": "I Want A Chance For Romance",
       "url": "https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALI",
+        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 284433,
+      "name": "BONNIE",
+      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
     },
     {
       "added_at": null,
@@ -923,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Side",
-        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Jungle Love\uff08Instrumental\uff09",
-      "url": "https://open.spotify.com/track/3qhDpKJUvfcUAGGZL35p0A"
+      "duration_ms": 194733,
+      "name": "GABBA GABBA HEY HEY",
+      "url": "https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw"
     }
   ],
   "unique_name": "This Is ALI",

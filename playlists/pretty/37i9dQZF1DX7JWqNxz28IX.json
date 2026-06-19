@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47201,
+  "num_followers": 47202,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Nontiscordardim\u00e8",
-        "url": "https://open.spotify.com/album/2UTmRQTtUtQPr4LzIUvFsq"
-      },
-      "artists": [
-        {
-          "name": "Quentin40",
-          "url": "https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma"
-        }
-      ],
-      "duration_ms": 178700,
-      "name": "Nontiscordardim\u00e8",
-      "url": "https://open.spotify.com/track/1UDvp1Dlxa31Lu2hzpX4aV"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
         "name": "Dark Magic",
         "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 144000,
       "name": "Pity Party",
       "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
+        "name": "Nontiscordardim\u00e8",
+        "url": "https://open.spotify.com/album/2UTmRQTtUtQPr4LzIUvFsq"
+      },
+      "artists": [
+        {
+          "name": "Quentin40",
+          "url": "https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma"
+        }
+      ],
+      "duration_ms": 178700,
+      "name": "Nontiscordardim\u00e8",
+      "url": "https://open.spotify.com/track/1UDvp1Dlxa31Lu2hzpX4aV"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "SPECCHIO",
-        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 91006,
-      "name": "SPECCHIO (interludio)",
-      "url": "https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
         "name": "L'unica",
         "url": "https://open.spotify.com/album/7GztH92sea7XhAY894aycj"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "ERA L\u2019INIZIO",
-        "url": "https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga"
+        "name": "SPECCHIO",
+        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
       },
       "artists": [
         {
-          "name": "EMMA",
-          "url": "https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq"
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
         }
       ],
-      "duration_ms": 257156,
-      "name": "IL MONDO FUORi : .. ?",
-      "url": "https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf"
+      "duration_ms": 91006,
+      "name": "SPECCHIO (interludio)",
+      "url": "https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -955,6 +939,22 @@
       "duration_ms": 143157,
       "name": "Tutto o niente 2",
       "url": "https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
+        "name": "ERA L\u2019INIZIO",
+        "url": "https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga"
+      },
+      "artists": [
+        {
+          "name": "EMMA",
+          "url": "https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq"
+        }
+      ],
+      "duration_ms": 257156,
+      "name": "IL MONDO FUORi : .. ?",
+      "url": "https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "bambino perfetto",
-        "url": "https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG"
-      },
-      "artists": [
-        {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "SKI",
-          "url": "https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3"
-        },
-        {
-          "name": "Gheb",
-          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "bambino perfetto",
-      "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
         "name": "PERCH\u00c9 NON TI CAPIVO",
         "url": "https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 160247,
       "name": "Due anni fa",
       "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
+        "name": "bambino perfetto",
+        "url": "https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "SKI",
+          "url": "https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3"
+        },
+        {
+          "name": "Gheb",
+          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "bambino perfetto",
+      "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Hai fatto tardi",
-        "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 172923,
-      "name": "Hai fatto tardi",
-      "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
         "name": "Letto grande",
         "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 208504,
       "name": "Autopsia",
       "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
+        "name": "OSIRIDE",
+        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "OSIRIDE",
-        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
+        "name": "Hai fatto tardi",
+        "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
       },
       "artists": [
         {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
         }
       ],
-      "duration_ms": 200571,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
+      "duration_ms": 172923,
+      "name": "Hai fatto tardi",
+      "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+      },
+      "artists": [
+        {
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+        }
+      ],
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
         "name": "Foglio rosa",
         "url": "https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 139540,
       "name": "Primavera",
       "url": "https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
-        "name": "Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
-      },
-      "artists": [
-        {
-          "name": "\u00cbgo",
-          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Hasta la Muerte",
-      "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
+        "name": "Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Hasta la Muerte",
+      "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
         "name": "nostalgia liquida",
         "url": "https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0"
       },
@@ -1559,26 +1575,6 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "Piano e Forte",
-        "url": "https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2"
-      },
-      "artists": [
-        {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Gheb",
-          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Piano e Forte",
-      "url": "https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
         "name": "Ceramica",
         "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
       },
@@ -1595,6 +1591,26 @@
       "duration_ms": 193000,
       "name": "Ceramica",
       "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
+    },
+    {
+      "added_at": "2026-05-21 22:02:55",
+      "album": {
+        "name": "Piano e Forte",
+        "url": "https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Gheb",
+          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Piano e Forte",
+      "url": "https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ"
     },
     {
       "added_at": "2026-05-21 22:02:55",
@@ -1647,26 +1663,6 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "CONFESSIONE",
-        "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
-      },
-      "artists": [
-        {
-          "name": "Sally Cruz",
-          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
-        }
-      ],
-      "duration_ms": 144187,
-      "name": "ALESSIA",
-      "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
-    },
-    {
-      "added_at": "2026-05-21 22:02:55",
-      "album": {
         "name": "Cose stupide",
         "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
@@ -1683,18 +1679,22 @@
     {
       "added_at": "2026-05-21 22:02:55",
       "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+        "name": "CONFESSIONE",
+        "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
       },
       "artists": [
         {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
         }
       ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+      "duration_ms": 144187,
+      "name": "ALESSIA",
+      "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
     },
     {
       "added_at": "2026-05-21 22:02:55",

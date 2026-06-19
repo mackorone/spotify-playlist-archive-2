@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,726 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,737 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 29 | [Słucham Cię w radiu co tydzień](https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [Ania Karwan](https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA) | 3:17 |
 | 30 | [Cześć, jak się masz?](https://open.spotify.com/track/6sKg6jzvmiNAVsJRl8MaDE) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [PUŁAPKA NA MOTYLE \(DELUXE EDITION\)](https://open.spotify.com/album/6dJDSE3TIoXf8Xwaisq4Nj) | 3:21 |
 | 31 | [Trójkąty i Kwadraty](https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Comfort and Happiness](https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM) | 4:03 |
-| 32 | [Dzień dobry, kocham Cię](https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR) | [Strachy Na Lachy](https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk) | [Piła tango](https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx) | 3:21 |
-| 33 | [Melodia](https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Królowa dram](https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya) | 3:03 |
-| 34 | [Lubię wracać tam gdzie byłem](https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU) | [Zbigniew Wodecki](https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn) | [Zacznij od Bacha \(The Best\)](https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo) | 4:22 |
-| 35 | [Peron](https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d) | [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [Milosc](https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB) | 3:15 |
+| 32 | [Melodia](https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Królowa dram](https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya) | 3:03 |
+| 33 | [Dzień dobry, kocham Cię](https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR) | [Strachy Na Lachy](https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk) | [Piła tango](https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx) | 3:21 |
+| 34 | [Peron](https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d) | [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [Milosc](https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB) | 3:15 |
+| 35 | [Lubię wracać tam gdzie byłem](https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU) | [Zbigniew Wodecki](https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn) | [Zacznij od Bacha \(The Best\)](https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo) | 4:22 |
 | 36 | [Motyle](https://open.spotify.com/track/1Eaiv6OMMwO3v4iWl4eHHY) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Motyle](https://open.spotify.com/album/00FcCZBbHD1FmOfn3FdDHj) | 2:55 |
-| 37 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
-| 38 | [Pocałunki \(M\. Pawlikowska\- Jasnorzewska\)](https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Pocałunki \(M\. Pawlikowska\- Jasnorzewska\)](https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6) | 3:10 |
+| 37 | [Pocałunki \(M\. Pawlikowska\- Jasnorzewska\)](https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Pocałunki \(M\. Pawlikowska\- Jasnorzewska\)](https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6) | 3:10 |
+| 38 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
 | 39 | [Tęskno Mi](https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zakryj \(Deluxe\)](https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T) | 3:35 |
 | 40 | [Trudno tak \(razem byc nam ze soba\)](https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15) | [Krzysztof Krawczyk](https://open.spotify.com/artist/1SKeSGQ3LMHYCEgqFGvJbE), [Edyta Bartosiewicz](https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g) | [Duety](https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t) | 4:23 |
 | 41 | [Księżniczka](https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Komponując siebie](https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh) | 3:04 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 50 | [Na Chwile](https://open.spotify.com/track/4alKgSl6ySuhyNnstJyUmt) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Z calych sil](https://open.spotify.com/album/1Z5Ny1o2bml9NXWuJTXafj) | 3:49 |
 | 51 | [Będziesz moją panią](https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS) | [Marek Grechuta](https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD), [Anawa](https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8) | [Marek Grechuta \- 40 piosenek](https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR) | 1:44 |
 | 52 | [Miłość miłość](https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Złoto](https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW) | 3:45 |
-| 53 | [O nich, o Tobie](https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [O nich, o Tobie](https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r) | 2:27 |
-| 54 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róże Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 |
-| 55 | [Dmuchawce, Latawce, Wiatr](https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3) | [Urszula](https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX) | [Wielki Odlot 2 \- Najlepsze 80\-te](https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI) | 5:26 |
+| 53 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róże Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 |
+| 54 | [Dmuchawce, Latawce, Wiatr](https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3) | [Urszula](https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX) | [Wielki Odlot 2 \- Najlepsze 80\-te](https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI) | 5:26 |
+| 55 | [O nich, o Tobie](https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [O nich, o Tobie](https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r) | 2:27 |
 | 56 | [Smak słów](https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU) | [Goya](https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB) | [Smak Slów](https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez) | 3:59 |
 | 57 | [My](https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 3:26 |
 | 58 | [Niewiele Ci Mogę Dać](https://open.spotify.com/track/2h37uUs82DHQglGauJkMRD) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/4ZKi2ftayn5Qv9SmXTIGAb) | 3:43 |

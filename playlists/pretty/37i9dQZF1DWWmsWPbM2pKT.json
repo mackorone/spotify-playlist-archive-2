@@ -1,6 +1,6 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. ",
-  "num_followers": 476753,
+  "num_followers": 476837,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAPThSE+QdXC/hOCcSvUO/N04+LSv",
   "tracks": [
-    {
-      "added_at": "2026-03-13 13:08:59",
-      "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
-    },
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2026-03-13 13:08:59",
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
     },
     {
       "added_at": "2026-05-01 12:13:37",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
-        "name": "I Saw Nothing Good so I Left",
-        "url": "https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8"
-      },
-      "artists": [
-        {
-          "name": "Bragolin",
-          "url": "https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD"
-        }
-      ],
-      "duration_ms": 203413,
-      "name": "Into Those Woods",
-      "url": "https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf"
-    },
-    {
-      "added_at": "2026-03-13 13:08:59",
-      "album": {
         "name": "Butcher's Coin",
         "url": "https://open.spotify.com/album/5zif8VwNMkLGO0lUvnBHFf"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 218750,
       "name": "Thin Flesh",
       "url": "https://open.spotify.com/track/1P1u2H8BTKaKTRhsQAwFH4"
+    },
+    {
+      "added_at": "2026-03-13 13:08:59",
+      "album": {
+        "name": "I Saw Nothing Good so I Left",
+        "url": "https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8"
+      },
+      "artists": [
+        {
+          "name": "Bragolin",
+          "url": "https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD"
+        }
+      ],
+      "duration_ms": 203413,
+      "name": "Into Those Woods",
+      "url": "https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf"
     },
     {
       "added_at": "2026-03-13 13:08:59",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
-        "name": "Left Aside",
-        "url": "https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ"
-      },
-      "artists": [
-        {
-          "name": "Lllyric?",
-          "url": "https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj"
-        }
-      ],
-      "duration_ms": 143011,
-      "name": "Left Aside",
-      "url": "https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy"
-    },
-    {
-      "added_at": "2026-03-13 13:08:59",
-      "album": {
         "name": "BLEU",
         "url": "https://open.spotify.com/album/6woJYYYScksahP4fTIMhus"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 143225,
       "name": "HUNNY",
       "url": "https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb"
+    },
+    {
+      "added_at": "2026-03-13 13:08:59",
+      "album": {
+        "name": "Left Aside",
+        "url": "https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ"
+      },
+      "artists": [
+        {
+          "name": "Lllyric?",
+          "url": "https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj"
+        }
+      ],
+      "duration_ms": 143011,
+      "name": "Left Aside",
+      "url": "https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy"
     },
     {
       "added_at": "2026-03-13 13:08:59",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
-        "name": "Always Then",
-        "url": "https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC"
+        "name": "Please Stay",
+        "url": "https://open.spotify.com/album/2vh1IK3UdV1EpQpwj8I0Lz"
       },
       "artists": [
         {
-          "name": "The KVB",
-          "url": "https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40"
+          "name": "Haunt Me",
+          "url": "https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6"
         }
       ],
-      "duration_ms": 251376,
-      "name": "Always Then",
-      "url": "https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW"
+      "duration_ms": 230232,
+      "name": "Please Stay",
+      "url": "https://open.spotify.com/track/7vIFHpoofIaZuh3CsdTuTT"
     }
   ],
   "unique_name": "Darkwave",

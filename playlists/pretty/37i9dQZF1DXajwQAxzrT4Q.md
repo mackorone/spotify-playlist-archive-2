@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,331 likes - 75 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,339 likes - 75 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 71 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
 | 72 | [say im ur luv \- Jumbo Sounds Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo Sounds](https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq) | [say im ur luv \(Jumbo Sounds Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 |
 | 73 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
-| 74 | [cómo t va?](https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [cómo t va?](https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd) | 2:06 |
+| 74 | [goingoutsad](https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [goingoutsad](https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN) | 1:59 |
 | 75 | [Doin It Wrong \- DJ iMarkkeyz Remix](https://open.spotify.com/track/46FO1P5uDWs4DNoZTJ412F) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [iMarkkeyz](https://open.spotify.com/artist/2B7xPcMn6lsriV26tb0K3R) | [Doin It Wrong \(DJ iMarkkeyz Remix\)](https://open.spotify.com/album/1jzYhFvRhhtq62WoTnIfgb) | 2:57 |
 
 Snapshot ID: `AAAAAIJxBHmufj0JgtMr6qGyLiLGkEdp`

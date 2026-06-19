@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 17759,
+  "num_followers": 17769,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Guide Me",
-        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 227258,
-      "name": "Guide Me",
-      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/7tour33WTvp9sK9CZ1Fh5F"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 422954,
       "name": "Amen",
       "url": "https://open.spotify.com/track/75sGkbnu0fhIX5r5Setmd5"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
+        "name": "Guide Me",
+        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 227258,
+      "name": "Guide Me",
+      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Deeper Touch",
-        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
-      },
-      "artists": [
-        {
-          "name": "Denzel Prempeh",
-          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
-        }
-      ],
-      "duration_ms": 781930,
-      "name": "Deeper Medley",
-      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
         "name": "Golden Oil",
         "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 274599,
       "name": "Se Mekume Ho",
       "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
+        "name": "Deeper Touch",
+        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
+      },
+      "artists": [
+        {
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
+        }
+      ],
+      "duration_ms": 781930,
+      "name": "Deeper Medley",
+      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
     },
     {
       "added_at": "2026-03-12 23:38:53",

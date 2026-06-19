@@ -2,9 +2,9 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> Shakira & Burna Boy au sommet de la première playlist de France.
+> Mauvais djo au sommet de la première playlist de France.
 
-472 songs - 23 hr 52 min
+473 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Petit génie](https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD) | 3:37 | 2023-08-31 | 2023-11-10 |
 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 | 2023-11-09 | 2024-08-09 |
 | [Piano](https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Piano](https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ) | 2:53 | 2025-05-29 | 2025-09-26 |
+| [Picasso](https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Karma](https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha) | 2:43 | 2026-06-18 |  |
 | [Pichichi](https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7) | 2:58 | 2025-04-24 | 2025-05-23 |
 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 | 2026-06-04 |  |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-05-15 | 2025-08-23 |
@@ -400,7 +401,7 @@
 | [Summer Body](https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Pas de seum pour le summer](https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA) | 2:59 | 2024-08-01 | 2024-11-29 |
 | [Summer Jam](https://open.spotify.com/track/7wLTLminmuEDTdLbCapAMV) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Craig Smart](https://open.spotify.com/artist/1rIUs5FD6pwDvRkti98lNr) | [Summer Jam](https://open.spotify.com/album/4Vfe7sbn59NOVxYffwW3De) | 3:01 | 2025-05-22 | 2025-08-15 |
 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-09-18 | 2026-01-15 |
-| [T'avais raison](https://open.spotify.com/track/39zpVyhyhefIUTW8XXxv01) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [T'avais raison](https://open.spotify.com/album/6TZKnoVw8CXksbmw4tjkFZ) | 3:01 | 2026-03-05 |  |
+| [T'avais raison](https://open.spotify.com/track/39zpVyhyhefIUTW8XXxv01) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [T'avais raison](https://open.spotify.com/album/6TZKnoVw8CXksbmw4tjkFZ) | 3:01 | 2026-03-05 | 2026-06-19 |
 | [Take Me to the Beach \(feat\. Jungeli\)](https://open.spotify.com/track/299bs3nx4r3zcmLD8tRPi3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Take Me to the Beach \(feat\. Jungeli\)](https://open.spotify.com/album/1eFuf3Xkm3XiiPRVX9ambn) | 2:47 | 2024-11-14 | 2025-01-10 |
 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-05-28 |  |
 | [Tamo Bien](https://open.spotify.com/track/72RjC359lcwhf1cON9ppls) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [Tamo Bien](https://open.spotify.com/album/2K3vXTZjcuWR8H8LgvJ8Yk) | 3:06 | 2025-05-08 | 2025-11-07 |

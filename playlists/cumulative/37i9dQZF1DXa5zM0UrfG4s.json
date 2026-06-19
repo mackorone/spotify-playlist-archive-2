@@ -3996,7 +3996,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 206022,
       "name": "Her og no",
       "url": "https://open.spotify.com/track/5MnPKJKEnNpwf3gzBitObq"
@@ -4102,6 +4102,28 @@
       "duration_ms": 151332,
       "name": "HJEM",
       "url": "https://open.spotify.com/track/04iXrACbPfc111pClbzXRk"
+    },
+    {
+      "album": {
+        "name": "Hjem med dej",
+        "url": "https://open.spotify.com/album/7m4knSX565G8mI0WzeJGfN"
+      },
+      "artists": [
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+        },
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187832,
+      "name": "Hjem med dej",
+      "url": "https://open.spotify.com/track/2QBwdcaP4e7kx2HKlVqlNp"
     },
     {
       "album": {
@@ -5164,6 +5186,24 @@
       "duration_ms": 237773,
       "name": "Kj\u00e6re Kristine",
       "url": "https://open.spotify.com/track/6CYfuolGiwqQqrcQzP62iP"
+    },
+    {
+      "album": {
+        "name": "Kj\u00e6rlighet P\u00e5 Pinne",
+        "url": "https://open.spotify.com/album/7LyhWfksfww5Zo4EaArFGT"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168357,
+      "name": "Kj\u00e6rlighet P\u00e5 Pinne",
+      "url": "https://open.spotify.com/track/3GmiNk1Ma0DlrSAfTuIQ81"
     },
     {
       "album": {
@@ -8044,7 +8084,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 138947,
       "name": "Sv\u00e6re Pupper",
       "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"

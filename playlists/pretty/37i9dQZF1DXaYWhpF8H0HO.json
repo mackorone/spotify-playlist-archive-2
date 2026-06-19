@@ -1,15 +1,87 @@
 {
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Ridh",
-  "num_followers": 21501,
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: The Midnight Darlings",
+  "num_followers": 21516,
   "original_name": "Ke Seberang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFx11QV6Nhu7rFxJbF+6l747X7jU",
+  "snapshot_id": "AAAAAJDUEVhjO1LSwvcntOShgMbFiI8i",
   "tracks": [
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
+      "album": {
+        "name": "Momentary Pleasure",
+        "url": "https://open.spotify.com/album/0Dy9YBdzfrChQrULfPvjqj"
+      },
+      "artists": [
+        {
+          "name": "The Midnight Darlings",
+          "url": "https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI"
+        }
+      ],
+      "duration_ms": 213461,
+      "name": "Momentary Pleasure",
+      "url": "https://open.spotify.com/track/3uOBIFr4hnyxXdyaHmEwDO"
+    },
+    {
+      "added_at": "2026-06-18 17:30:07",
+      "album": {
+        "name": "Trip To The Sun",
+        "url": "https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Ringo",
+          "url": "https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL"
+        }
+      ],
+      "duration_ms": 443000,
+      "name": "Trip To The Sun",
+      "url": "https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw"
+    },
+    {
+      "added_at": "2026-06-18 17:30:07",
+      "album": {
+        "name": "Something on Your Mind",
+        "url": "https://open.spotify.com/album/5DnLaYwlXBwFQfQaey3jZV"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        },
+        {
+          "name": "The Soul & Rollers",
+          "url": "https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu"
+        }
+      ],
+      "duration_ms": 283453,
+      "name": "Something On Your Mind",
+      "url": "https://open.spotify.com/track/4d8mYo1J66ro1l0vk7YPJo"
+    },
+    {
+      "added_at": "2026-06-18 17:30:07",
+      "album": {
+        "name": "Lit in Shanghai",
+        "url": "https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "PSY.P",
+          "url": "https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR"
+        }
+      ],
+      "duration_ms": 179277,
+      "name": "Lit in Shanghai",
+      "url": "https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG"
+    },
+    {
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "lose",
         "url": "https://open.spotify.com/album/0gOdeAwXicLZ9BgHkyLYDy"
@@ -25,7 +97,23 @@
       "url": "https://open.spotify.com/track/6muxq0hXyW4m6rPR102PFc"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-19 00:18:44",
+      "album": {
+        "name": "I SHOULD'VE LOVED YOU MORE",
+        "url": "https://open.spotify.com/album/12BLNxPEBmPIy8dT1yPCbJ"
+      },
+      "artists": [
+        {
+          "name": "Irzhal Efadh",
+          "url": "https://open.spotify.com/artist/4cok0Kl5xGtjJxTLuRtFsv"
+        }
+      ],
+      "duration_ms": 228421,
+      "name": "I SHOULD'VE LOVED YOU MORE",
+      "url": "https://open.spotify.com/track/4egaOQ3EwLtWe50dz46iBI"
+    },
+    {
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Everywhere I Go",
         "url": "https://open.spotify.com/album/1nYijA8RVjYS58U1P0mSkU"
@@ -41,7 +129,7 @@
       "url": "https://open.spotify.com/track/54pOjg9ZcVQ9P3kpfTROcX"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "FEEL ALIVE",
         "url": "https://open.spotify.com/album/0OrLF1qhA5RPtmGZOJATFj"
@@ -57,7 +145,7 @@
       "url": "https://open.spotify.com/track/0a1q1T30ziPZNCA35D5OIQ"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Hompimpa",
         "url": "https://open.spotify.com/album/05IfOdDr0KqGCW80njvArX"
@@ -73,7 +161,7 @@
       "url": "https://open.spotify.com/track/5Nk61wJGbPJNBIbnQG9vNl"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Spice Girl",
         "url": "https://open.spotify.com/album/4pCvmdF7ja8quomnhDkQ4b"
@@ -89,7 +177,7 @@
       "url": "https://open.spotify.com/track/0JMBgkp5eCTPk5q7V667dw"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Bae Bong Bong",
         "url": "https://open.spotify.com/album/1aF8NhjH7kkjfiDFYkGMWR"
@@ -105,7 +193,7 @@
       "url": "https://open.spotify.com/track/62O3o65tOMEiMk7yDOIrDt"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Bouncing",
         "url": "https://open.spotify.com/album/1V6Ta3rCF2GOh4ejr5qDTs"
@@ -121,7 +209,7 @@
       "url": "https://open.spotify.com/track/0TiThVWYZQVnwCi7iczqcu"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "On Our Own",
         "url": "https://open.spotify.com/album/2ltL4jZcEGWPe0Dk0LU5kl"
@@ -137,7 +225,7 @@
       "url": "https://open.spotify.com/track/7t8u3NnkMUcOTvhtuUEGRh"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Warm Weather (Live from Classic Love Songs)",
         "url": "https://open.spotify.com/album/04E6qJ3dAOWutgEka5TQFf"
@@ -157,7 +245,7 @@
       "url": "https://open.spotify.com/track/30uDQUslGz3nEMoeIpxLsz"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Am I Loving You Alone?",
         "url": "https://open.spotify.com/album/4JiJysyBHufvbmgeiDwfZR"
@@ -173,7 +261,7 @@
       "url": "https://open.spotify.com/track/6eEbetfobV9JUj4Sgt7gIJ"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Shoulda Coulda",
         "url": "https://open.spotify.com/album/0xVvyqYWs7SAvEVLNc4sr9"
@@ -193,7 +281,7 @@
       "url": "https://open.spotify.com/track/1sUqquIVswqNQa1F5rAo7B"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "NAKAMA",
         "url": "https://open.spotify.com/album/4kjwcUsFY5XvwAogdWDtnC"
@@ -225,7 +313,7 @@
       "url": "https://open.spotify.com/track/0gztDs2SYvVYyb6hDBlqRj"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "People On The Side",
         "url": "https://open.spotify.com/album/08XrFYLgW7W8gwD7I8ipq4"
@@ -241,7 +329,7 @@
       "url": "https://open.spotify.com/track/1f3g7q172vaZWeMUq2xMN0"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "EKLEKTIKO",
         "url": "https://open.spotify.com/album/4ZuFIzhOThgSnHJeKZyfQ7"
@@ -261,7 +349,7 @@
       "url": "https://open.spotify.com/track/05I8BGJrpzo3vrM07nungG"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "U (renia Remix)",
         "url": "https://open.spotify.com/album/4X2Y0Q4gG6Om7Zbjo0PUqs"
@@ -285,7 +373,7 @@
       "url": "https://open.spotify.com/track/7hajnFEvw7HWOFiQF7ZVIk"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Near or Far",
         "url": "https://open.spotify.com/album/4NrqoD6KHbLKBW0YcU3Ndv"
@@ -301,7 +389,7 @@
       "url": "https://open.spotify.com/track/4v2LoqdTn1p2iYbAiaG5rq"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "underwear",
         "url": "https://open.spotify.com/album/6wnACZvhlmCR7wAnibUKOZ"
@@ -325,7 +413,7 @@
       "url": "https://open.spotify.com/track/6XBoqpPkQnSTG1tt6lfW50"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Somebody's Pleasure (Extended Version)",
         "url": "https://open.spotify.com/album/2XgJC0WVIe0cyDvdIQO19u"
@@ -341,7 +429,7 @@
       "url": "https://open.spotify.com/track/4y5HTa0xfMGORsMhy26n3X"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Slanted",
         "url": "https://open.spotify.com/album/64yUpGdB7XsGFk9RUckfBp"
@@ -361,7 +449,7 @@
       "url": "https://open.spotify.com/track/3eM7N4SBHQ9uv7s4DIKYQg"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "one more try",
         "url": "https://open.spotify.com/album/0943D0uKgdc3xzXKKBJ9ru"
@@ -377,7 +465,7 @@
       "url": "https://open.spotify.com/track/5otnYGwEKjXmX0GMSyL0KF"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "A Day In My Life",
         "url": "https://open.spotify.com/album/2vDT72Leu4JjvT1TqdpJTS"
@@ -393,7 +481,7 @@
       "url": "https://open.spotify.com/track/3rq6YYPpSFsiGHajy7IXt6"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Just Friends?",
         "url": "https://open.spotify.com/album/0V5ierR3FGMZg560PsDuGA"
@@ -409,7 +497,7 @@
       "url": "https://open.spotify.com/track/0ko51nFGINr3CjjOmahAIz"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "ADDICTION",
         "url": "https://open.spotify.com/album/7c1IM0Lwuv0NzcFAt6FVSp"
@@ -425,7 +513,7 @@
       "url": "https://open.spotify.com/track/62yN59Z49wkOnPByz4VzWI"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "YOU+ME",
         "url": "https://open.spotify.com/album/7ixj9po1vGQmN6twnww4en"
@@ -441,7 +529,7 @@
       "url": "https://open.spotify.com/track/7c1ObmHu6H3WCOqx5xJVaS"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "if only...",
         "url": "https://open.spotify.com/album/6GOpBfDK3f8H0gSi3eeGq1"
@@ -457,7 +545,7 @@
       "url": "https://open.spotify.com/track/3bP8ZYJTjTdy1o9bUt0js3"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Looking for Love in Wrong Places",
         "url": "https://open.spotify.com/album/1KN2KKeuWwdkimahJ0lmFp"
@@ -473,7 +561,7 @@
       "url": "https://open.spotify.com/track/4gngdFoZ9jGJcHAlbjWmIZ"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Believe it",
         "url": "https://open.spotify.com/album/5to9qOocIatxWQSK40CJqQ"
@@ -493,7 +581,7 @@
       "url": "https://open.spotify.com/track/5SPuz6cC7Qcn1j1htEVaij"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Nanti Kita Seperti Ini (Cinematic Version)",
         "url": "https://open.spotify.com/album/0Pi1n9XHDkjxAGELekQy7p"
@@ -513,7 +601,7 @@
       "url": "https://open.spotify.com/track/6qXk3QKnbSufkqUqz0A0Rm"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/3qVSMZPjxiNT3FG94aRTdo"
@@ -529,7 +617,7 @@
       "url": "https://open.spotify.com/track/3Wn5gTQpt5bVdYvCt0gjz9"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Chasing Sparks",
         "url": "https://open.spotify.com/album/2XbVD6m3IDzSyEQyRJNMQm"
@@ -549,7 +637,7 @@
       "url": "https://open.spotify.com/track/4c6JeHWJI3v28XNTpwRPEd"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Never Ours",
         "url": "https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu"
@@ -565,7 +653,7 @@
       "url": "https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Sweetest Scar",
         "url": "https://open.spotify.com/album/73nks0JsbmgVeNjrvAyX5D"
@@ -581,7 +669,7 @@
       "url": "https://open.spotify.com/track/1IPXlF7JrpbsiaSpTirHDq"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "love lesson no. 1",
         "url": "https://open.spotify.com/album/7HLPKx2SE03kwYbRbMxiSE"
@@ -597,7 +685,7 @@
       "url": "https://open.spotify.com/track/4g9lDcyGk7dw3y0QtaM6ao"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "april",
         "url": "https://open.spotify.com/album/22f6AxI0IyIyqd4qiMOKiB"
@@ -613,7 +701,7 @@
       "url": "https://open.spotify.com/track/2zoT19GQEv6XsZsINsMlc9"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Blanket & Moon (feat. Alyssa Ananta)",
         "url": "https://open.spotify.com/album/0R9j04LZakNAXhTnikccPk"
@@ -633,7 +721,7 @@
       "url": "https://open.spotify.com/track/5MZoz9PYUkWamXG5As139u"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "The Liar",
         "url": "https://open.spotify.com/album/1wBu6C2xgJI6DaQ4pO4v5q"
@@ -649,7 +737,7 @@
       "url": "https://open.spotify.com/track/0atEkXRq62mZybi556xuPI"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Second Choice",
         "url": "https://open.spotify.com/album/1l5AgRNhDoswxPhjIEZztj"
@@ -669,7 +757,7 @@
       "url": "https://open.spotify.com/track/4qSiGVSgsnnEeR1NBVyJNK"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Love, Kris Dayanti",
         "url": "https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi"
@@ -685,7 +773,7 @@
       "url": "https://open.spotify.com/track/5MtIyMaISoaeFAoLzd4OhG"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "real love",
         "url": "https://open.spotify.com/album/3TZyFrXEWXtyrNPGprdBMB"
@@ -701,7 +789,7 @@
       "url": "https://open.spotify.com/track/0WuMGn0d7SRWBJi7CQ6HIO"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "You'll Find Lovers Like You and Me",
         "url": "https://open.spotify.com/album/7Fqm1j72ZIaBOazURTNRAj"
@@ -717,7 +805,7 @@
       "url": "https://open.spotify.com/track/6BQiGGlPp294KMLYQMmS0C"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "tangled",
         "url": "https://open.spotify.com/album/0UIHSmA4B2ykgZ9hSGqegw"
@@ -733,7 +821,7 @@
       "url": "https://open.spotify.com/track/4ZBaoNXFFIyR2Ce9LdHEYO"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/40wo9PzK8BjPJTUx07ghRo"
@@ -757,7 +845,7 @@
       "url": "https://open.spotify.com/track/2M65s0uniqJIqHcL90yszx"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "shoot",
         "url": "https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM"
@@ -773,7 +861,7 @@
       "url": "https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "I Don't Know Anymore (Live Session)",
         "url": "https://open.spotify.com/album/7LC8lDS175rIUcWD83IAzo"
@@ -789,7 +877,7 @@
       "url": "https://open.spotify.com/track/2sxP2jSVMq59dDj5nVpoTn"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "something about you",
         "url": "https://open.spotify.com/album/1BAfEPPiyIrzglzOqdtPra"
@@ -809,7 +897,7 @@
       "url": "https://open.spotify.com/track/15YMi1fS4AFTME9bKD9MzZ"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "rollerblade",
         "url": "https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV"
@@ -825,7 +913,7 @@
       "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Spotless Dove",
         "url": "https://open.spotify.com/album/5MgP6rG2BYp0QXg8tEYDrW"
@@ -841,7 +929,7 @@
       "url": "https://open.spotify.com/track/5qOjoHn1nUjx6iyDhLwRft"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "MANTRA (English Version)",
         "url": "https://open.spotify.com/album/1d6hyXGs01JfHrP4rnxfDW"
@@ -857,7 +945,7 @@
       "url": "https://open.spotify.com/track/2r2KDhFf8vcEAgo9zVWMxK"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Almost Home Again",
         "url": "https://open.spotify.com/album/5tvyyjREnZSKpT7JrVc8QU"
@@ -873,7 +961,7 @@
       "url": "https://open.spotify.com/track/6L0KxnMl27Nb4MY2UumMRb"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/3ThSbVY6TuSGjbkJGOVFPp"
@@ -889,7 +977,7 @@
       "url": "https://open.spotify.com/track/3aie1YivGTXPvouvVAMl9h"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "waiting (come home)",
         "url": "https://open.spotify.com/album/0A0Sbrium6R309Ojvg6kSm"
@@ -905,7 +993,7 @@
       "url": "https://open.spotify.com/track/2LXksa3hvj46aQxe8ZabBY"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "WHAT U WANT",
         "url": "https://open.spotify.com/album/10KM8rJzZR3CdlbNzNNEUD"
@@ -921,7 +1009,7 @@
       "url": "https://open.spotify.com/track/3eSwtFQuAz2PcfHVZCIIyL"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "I Am Rich",
         "url": "https://open.spotify.com/album/5Q3eNfsSft0MuVzzztsLGO"
@@ -937,7 +1025,7 @@
       "url": "https://open.spotify.com/track/7bLONeoEMtaxkv11pCyb3Q"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "It's Okay To Not Be Okay",
         "url": "https://open.spotify.com/album/3drslecLxKxhkqFX3JRQbe"
@@ -953,7 +1041,7 @@
       "url": "https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "another eve",
         "url": "https://open.spotify.com/album/1inidCLPoiPPwa3SmSR8xF"
@@ -969,7 +1057,7 @@
       "url": "https://open.spotify.com/track/4S2Jni29AVhvtpRxCa7QMB"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "BACK 2 YOU",
         "url": "https://open.spotify.com/album/2c7Osih348dWoitmLUvVAh"
@@ -985,7 +1073,7 @@
       "url": "https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "404: HOME NOT FOUND",
         "url": "https://open.spotify.com/album/2hy7jf0iW1BKpNJDLTic0r"
@@ -1001,7 +1089,7 @@
       "url": "https://open.spotify.com/track/4hcfM7tc2BdXSmBHEYgf8q"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1oA3WqpcTfAGsYzMixuToO"
@@ -1017,7 +1105,7 @@
       "url": "https://open.spotify.com/track/1Mk7OXg1AxopGOWsPL5GQf"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Indeed",
         "url": "https://open.spotify.com/album/7fdZs6Wwj6B9X7qE5bTl9V"
@@ -1041,7 +1129,7 @@
       "url": "https://open.spotify.com/track/0BetfSxlvRagBVLNoQ4SEi"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "I Don\u2019t Wanna Hate the World",
         "url": "https://open.spotify.com/album/6Dqo1Hw8LpEhH7KtSIL9Kg"
@@ -1061,7 +1149,7 @@
       "url": "https://open.spotify.com/track/3l3djcnaZrqsfQTWXcofY7"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Here's To Us",
         "url": "https://open.spotify.com/album/6bvCBgA7dbYDOFTtD2Fa3H"
@@ -1077,7 +1165,7 @@
       "url": "https://open.spotify.com/track/2JBoIxetyXcCtfG1Cd3Rnz"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Who Knows Where Life Will Take You?",
         "url": "https://open.spotify.com/album/5pGHtIQt7DH1e4FXywAvgt"
@@ -1093,7 +1181,7 @@
       "url": "https://open.spotify.com/track/56kY65WwSloQlO3WJGfVRK"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "END GREAT WARS",
         "url": "https://open.spotify.com/album/5q6CFKP94gunMormuC1ADy"
@@ -1109,7 +1197,7 @@
       "url": "https://open.spotify.com/track/2OvgEODTlx5Lo5MV3t1DLz"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "RUMOR",
         "url": "https://open.spotify.com/album/762aZWdhdBxczYskaSHAV9"
@@ -1125,7 +1213,7 @@
       "url": "https://open.spotify.com/track/3auH5BoyW8cA2xQoX0QCAb"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/2d7DX8CHBMjkyjpq502DTJ"
@@ -1141,7 +1229,7 @@
       "url": "https://open.spotify.com/track/6jAUDZNyKTbMCLMflUzRXA"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "17 To 70",
         "url": "https://open.spotify.com/album/0IkQeHJmQ9XiH2maQlAneu"
@@ -1157,7 +1245,7 @@
       "url": "https://open.spotify.com/track/7zqEJIcaQoOjnH7aO7N86w"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Satellites",
         "url": "https://open.spotify.com/album/0hZQAfI8flXYmK4PgonzzI"
@@ -1173,7 +1261,7 @@
       "url": "https://open.spotify.com/track/0Zrz6L9L4tPxsxLvOU22iZ"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0Ug96Tk15B2vfNbcaMoigs"
@@ -1189,7 +1277,7 @@
       "url": "https://open.spotify.com/track/5DBkIrEshZAqDd2Kg9mPOK"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Death of Me",
         "url": "https://open.spotify.com/album/5URwlUwJpNla4zc3iqQGdj"
@@ -1209,7 +1297,7 @@
       "url": "https://open.spotify.com/track/6iRRIqjMhHQOYdocnA995r"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Nocturne to Sunrise",
         "url": "https://open.spotify.com/album/6WKvMlOkR05XLpMGPVXf7K"
@@ -1225,7 +1313,7 @@
       "url": "https://open.spotify.com/track/2ZUcV0Lh31FJGFc0ud8f9u"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "work",
         "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
@@ -1241,7 +1329,7 @@
       "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "PISSED ME OFF / BORED ME TO DEATH",
         "url": "https://open.spotify.com/album/1ZVS7kg3oUYwmdnETa3ujT"
@@ -1257,7 +1345,7 @@
       "url": "https://open.spotify.com/track/0lVgwDVMGiCUa9tSWo56Oq"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT"
@@ -1273,7 +1361,7 @@
       "url": "https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/2nfxdK7RFbfeoPHpf78mdD"
@@ -1289,7 +1377,7 @@
       "url": "https://open.spotify.com/track/567bsnN1XBNwSsDanWlN3l"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Aphrodite Blues",
         "url": "https://open.spotify.com/album/5eOhKfzXhT0LdWmcJIlG4Y"
@@ -1305,7 +1393,7 @@
       "url": "https://open.spotify.com/track/0Kq1LwAKrwEH85mKxGapsn"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Monopolar (Tom Furse Remix)",
         "url": "https://open.spotify.com/album/4OfKdPcOGCrn3MxBvr1WkM"
@@ -1325,7 +1413,7 @@
       "url": "https://open.spotify.com/track/5TR2FSjKZeNN3VQsSA6iVy"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "FALL AGAIN",
         "url": "https://open.spotify.com/album/5DLrerqf7OKlJskTZOAlYn"
@@ -1341,7 +1429,7 @@
       "url": "https://open.spotify.com/track/303TW5JcL5wE8nPhyb0XRV"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/4YwP3HV6ZhSRhTkLBV9lv0"
@@ -1357,7 +1445,7 @@
       "url": "https://open.spotify.com/track/0KvqkQRa7bPYDKjAv8jVwD"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/5aXu6qbQmwLFk1f8tlEfUS"
@@ -1373,7 +1461,7 @@
       "url": "https://open.spotify.com/track/1gbZdQdvmptiBWchWrMsv0"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Babel",
         "url": "https://open.spotify.com/album/7CQlDmBxDZeDW0RSP9dTP7"
@@ -1389,7 +1477,7 @@
       "url": "https://open.spotify.com/track/109FXcs1LybWMUI8BLujgx"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/00r3Et7b8ZlX05BVQY8Ckq"
@@ -1409,7 +1497,7 @@
       "url": "https://open.spotify.com/track/4LYWl6AYZYagSRVx9gLwrc"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "In This Burnin' World",
         "url": "https://open.spotify.com/album/3Ws1eaRlUZRinh7TnrnJ9t"
@@ -1425,7 +1513,7 @@
       "url": "https://open.spotify.com/track/3CKIwwfOLHo0rmKlyjMqfS"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Rosie Got Away!",
         "url": "https://open.spotify.com/album/0Zr0sfjQdz3EpYUCS5nS0q"
@@ -1441,7 +1529,7 @@
       "url": "https://open.spotify.com/track/4FSVu6h0wjrWtmGK1uNKfq"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Kinder World",
         "url": "https://open.spotify.com/album/3q7SedCqngB7tvHhw8ct9t"
@@ -1457,7 +1545,7 @@
       "url": "https://open.spotify.com/track/7bFC8LVpuLnGcdTXXeyQXJ"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Mangoes",
         "url": "https://open.spotify.com/album/28fXB4mhhQPVH3SGmAiLks"
@@ -1473,7 +1561,7 @@
       "url": "https://open.spotify.com/track/5vgYp3XPGGXk37i6qymmoR"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/2o4CnjRswEp6ZD8CbbZid7"
@@ -1489,7 +1577,7 @@
       "url": "https://open.spotify.com/track/1PlIoVo7NhFgZljTA4Vhvm"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Pressing The Wound",
         "url": "https://open.spotify.com/album/6nObXUraZEnxqSxw6HRiMg"
@@ -1505,7 +1593,7 @@
       "url": "https://open.spotify.com/track/7zILT5vPVUSiFhv6tc1Af8"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "20 Weeks",
         "url": "https://open.spotify.com/album/6q3foGDuNxly38t01i8KoD"
@@ -1521,7 +1609,7 @@
       "url": "https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/1QMFMjgJdqti57vWNZzdbk"
@@ -1537,7 +1625,7 @@
       "url": "https://open.spotify.com/track/05CnnJTrWyZppUnZum1wtW"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "I Am Something",
         "url": "https://open.spotify.com/album/1rSn1tEOVHR3Pyk1c7nPKF"
@@ -1561,7 +1649,7 @@
       "url": "https://open.spotify.com/track/3VK1QXQqy3igTHA3TptuoD"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "what if we both loved each other still?",
         "url": "https://open.spotify.com/album/1h5jJC1l85dOW2UTXULsZ4"
@@ -1585,7 +1673,7 @@
       "url": "https://open.spotify.com/track/7bTrKXKGFsfzBbFyEw1z5g"
     },
     {
-      "added_at": "2026-06-11 18:42:28",
+      "added_at": "2026-06-18 17:30:07",
       "album": {
         "name": "Fling Thing",
         "url": "https://open.spotify.com/album/1bqZeIiqDIkQReZvV5FDKv"

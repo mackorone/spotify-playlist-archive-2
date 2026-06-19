@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3471,
+  "num_followers": 3473,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -209,26 +209,6 @@
       "url": "https://open.spotify.com/track/1u9wr82dUyErwH9DJ1xc7d"
     },
     {
-      "added_at": "2025-07-03 22:00:44",
-      "album": {
-        "name": "Hoeveel",
-        "url": "https://open.spotify.com/album/6TGu2sBpURyrECiHLLnWpD"
-      },
-      "artists": [
-        {
-          "name": "Priddy Prince",
-          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
-        },
-        {
-          "name": "Luda G",
-          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
-        }
-      ],
-      "duration_ms": 123025,
-      "name": "Hoeveel",
-      "url": "https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC"
-    },
-    {
       "added_at": "2025-06-27 09:27:23",
       "album": {
         "name": "Sticks & Stones",
@@ -251,6 +231,26 @@
       "duration_ms": 166285,
       "name": "Sticks & Stones",
       "url": "https://open.spotify.com/track/5mRHAvmfuSyHznrY42X1Au"
+    },
+    {
+      "added_at": "2025-07-03 22:00:44",
+      "album": {
+        "name": "Hoeveel",
+        "url": "https://open.spotify.com/album/6TGu2sBpURyrECiHLLnWpD"
+      },
+      "artists": [
+        {
+          "name": "Priddy Prince",
+          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
+        },
+        {
+          "name": "Luda G",
+          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
+        }
+      ],
+      "duration_ms": 123025,
+      "name": "Hoeveel",
+      "url": "https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -323,18 +323,26 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "My testimony",
-        "url": "https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s"
+        "name": "Slat Los",
+        "url": "https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg"
       },
       "artists": [
         {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
         }
       ],
-      "duration_ms": 245764,
-      "name": "My testimony",
-      "url": "https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez"
+      "duration_ms": 176000,
+      "name": "Slat Los",
+      "url": "https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -363,26 +371,54 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Slat Los",
-        "url": "https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg"
+        "name": "My testimony",
+        "url": "https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s"
       },
       "artists": [
         {
-          "name": "Ziggy4x",
-          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
-        },
-        {
-          "name": "25K",
-          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
-        },
-        {
-          "name": "Loatinover Pounds",
-          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Slat Los",
-      "url": "https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ"
+      "duration_ms": 245764,
+      "name": "My testimony",
+      "url": "https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "Janneman",
+        "url": "https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk"
+      },
+      "artists": [
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        }
+      ],
+      "duration_ms": 195361,
+      "name": "Janneman",
+      "url": "https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA"
+    },
+    {
+      "added_at": "2025-09-25 22:00:28",
+      "album": {
+        "name": "Three 4 Her",
+        "url": "https://open.spotify.com/album/77IDmb9bBucFZ0WPwSyKk5"
+      },
+      "artists": [
+        {
+          "name": "Interlecc Za",
+          "url": "https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv"
+        },
+        {
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+        }
+      ],
+      "duration_ms": 163787,
+      "name": "Bel My",
+      "url": "https://open.spotify.com/track/2n8DJ5j3uQtDKUOibCaXSZ"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -409,56 +445,24 @@
       "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
     },
     {
-      "added_at": "2025-09-25 22:00:28",
+      "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Three 4 Her",
-        "url": "https://open.spotify.com/album/77IDmb9bBucFZ0WPwSyKk5"
+        "name": "Spanga",
+        "url": "https://open.spotify.com/album/1Mr5n8Hk7lONm377cK3mrk"
       },
       "artists": [
         {
-          "name": "Interlecc Za",
-          "url": "https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv"
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
         },
         {
-          "name": "Benjamen",
-          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
         }
       ],
-      "duration_ms": 163787,
-      "name": "Bel My",
-      "url": "https://open.spotify.com/track/2n8DJ5j3uQtDKUOibCaXSZ"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "When days are dark",
-        "url": "https://open.spotify.com/album/761h656NyhlwFRUJpir3mx"
-      },
-      "artists": [
-        {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
-        }
-      ],
-      "duration_ms": 170657,
-      "name": "When days are dark",
-      "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Janneman",
-        "url": "https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk"
-      },
-      "artists": [
-        {
-          "name": "Biggy",
-          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
-        }
-      ],
-      "duration_ms": 195361,
-      "name": "Janneman",
-      "url": "https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA"
+      "duration_ms": 180165,
+      "name": "Spanga",
+      "url": "https://open.spotify.com/track/56SvCpQDzyoDCgkwjjE1Rc"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -483,22 +487,18 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Spanga",
-        "url": "https://open.spotify.com/album/1Mr5n8Hk7lONm377cK3mrk"
+        "name": "When days are dark",
+        "url": "https://open.spotify.com/album/761h656NyhlwFRUJpir3mx"
       },
       "artists": [
         {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
-        },
-        {
-          "name": "Maglera Doe Boy",
-          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
         }
       ],
-      "duration_ms": 180165,
-      "name": "Spanga",
-      "url": "https://open.spotify.com/track/56SvCpQDzyoDCgkwjjE1Rc"
+      "duration_ms": 170657,
+      "name": "When days are dark",
+      "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -567,26 +567,6 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Die Way Sy",
-        "url": "https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc"
-      },
-      "artists": [
-        {
-          "name": "Biggy",
-          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
-        },
-        {
-          "name": "Angie oeh",
-          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Die Way Sy",
-      "url": "https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
         "name": "Spitbraai",
         "url": "https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 198813,
       "name": "Spitbraai",
       "url": "https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "Die Way Sy",
+        "url": "https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc"
+      },
+      "artists": [
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        },
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Die Way Sy",
+      "url": "https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Exs Die Ou",
+        "url": "https://open.spotify.com/album/6QJR1nAn1kQzI0s8uc85J4"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        }
+      ],
+      "duration_ms": 186723,
+      "name": "Exs Die Ou",
+      "url": "https://open.spotify.com/track/3ka1g6KZDn50XNLVDatqcP"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Sundphazamisa",
         "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
       },
@@ -935,38 +951,18 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Private",
-        "url": "https://open.spotify.com/album/5xII4hT5elWFNk8JJ6nsGT"
+        "name": "SYS N BADDIE",
+        "url": "https://open.spotify.com/album/7AimRndL52aehc62FKMAft"
       },
       "artists": [
         {
-          "name": "KerwieG",
-          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
-        },
-        {
-          "name": "Kulture Gang",
-          "url": "https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO"
+          "name": "BARZX",
+          "url": "https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK"
         }
       ],
-      "duration_ms": 180976,
-      "name": "Private",
-      "url": "https://open.spotify.com/track/2ch0sBikWq1WN9QAZQEHy1"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Exs Die Ou",
-        "url": "https://open.spotify.com/album/6QJR1nAn1kQzI0s8uc85J4"
-      },
-      "artists": [
-        {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
-        }
-      ],
-      "duration_ms": 186723,
-      "name": "Exs Die Ou",
-      "url": "https://open.spotify.com/track/3ka1g6KZDn50XNLVDatqcP"
+      "duration_ms": 127777,
+      "name": "SYS N BADDIE",
+      "url": "https://open.spotify.com/track/2YN1BTHUYk7c21PkZ63Mba"
     },
     {
       "added_at": "2025-06-27 09:27:23",

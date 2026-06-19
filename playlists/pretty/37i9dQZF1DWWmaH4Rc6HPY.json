@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! ANASOF en portada.",
-  "num_followers": 38773,
+  "num_followers": 38787,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Tormentas Inesperadas",
-        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
+        "name": "Ca\u00edda Libre (feat. Robe)",
+        "url": "https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs"
       },
       "artists": [
         {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
         }
       ],
-      "duration_ms": 264749,
-      "name": "Amanecidos",
-      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
+      "duration_ms": 211590,
+      "name": "Ca\u00edda Libre (feat. Robe)",
+      "url": "https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -483,22 +487,18 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Ca\u00edda Libre (feat. Robe)",
-        "url": "https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs"
+        "name": "Tormentas Inesperadas",
+        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
       },
       "artists": [
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
         }
       ],
-      "duration_ms": 211590,
-      "name": "Ca\u00edda Libre (feat. Robe)",
-      "url": "https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2"
+      "duration_ms": 264749,
+      "name": "Amanecidos",
+      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
+        "name": "Narvarte",
+        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "Prometimos",
+      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 215250,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
-        "name": "Narvarte",
-        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 193906,
-      "name": "Prometimos",
-      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
     },
     {
       "added_at": "2026-05-22 06:00:30",

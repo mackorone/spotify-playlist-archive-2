@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind\. Cover: Colby Acuff
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,688 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,831 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 49 | [$10 Cowboy](https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:35 |
 | 50 | [The Conversation](https://open.spotify.com/track/7GIBwtwVahJvvpot8g4Z4V) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Whiskey Bent And Hell Bound](https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb) | 3:52 |
 | 51 | [The Road Goes On Forever](https://open.spotify.com/track/5QvUIQYaDBvssqnxrw1X49) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa) | [The Road Goes On Forever](https://open.spotify.com/album/0MsVHNUVzAoSbDuoK2y93l) | 4:41 |
-| 52 | [Take This Job and Shove It](https://open.spotify.com/track/63CbvkHcX8VBn09CCcGDLQ) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Take This Job And Shove It](https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI) | 2:37 |
-| 53 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
+| 52 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
+| 53 | [Take This Job and Shove It](https://open.spotify.com/track/63CbvkHcX8VBn09CCcGDLQ) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Take This Job And Shove It](https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI) | 2:37 |
 | 54 | [Poncho & Lefty](https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [The Late Great Townes Van Zandt](https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6) | 3:40 |
 | 55 | [Morning Bail](https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Morning Bail](https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ) | 2:54 |
 | 56 | [Can't Let Go](https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:28 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 75 | [Nothing On Me](https://open.spotify.com/track/3FHzMLL7hgeGdzLf6J6ajS) | [Chris Knight](https://open.spotify.com/artist/2XJzOLYV2mF5K2JfUhJEK0) | [Little Victories](https://open.spotify.com/album/2AQojGjLHM5zPgq9O5RpAQ) | 3:34 |
 | 76 | [Jingle and Go](https://open.spotify.com/track/42Wvzdf5yRnjE3C6XjYYVV) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:52 |
 | 77 | [I'm Just an Old Chunk of Coal \(But I'm Gonna Be a Diamond Someday\)](https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday](https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq) | 2:01 |
-| 78 | [Outlaw Shit \(feat\. Shooter Jennings\)](https://open.spotify.com/track/1KLNhIijEB83TXz78CIK72) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Outlaw Shit \(feat\. Shooter Jennings\)](https://open.spotify.com/album/0wL6TUhFe9DutCDj6oIjDq) | 4:05 |
-| 79 | [The Road Goes On Forever](https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Love And Danger](https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A) | 4:33 |
+| 78 | [The Road Goes On Forever](https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Love And Danger](https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A) | 4:33 |
+| 79 | [Outlaw Shit \(feat\. Shooter Jennings\)](https://open.spotify.com/track/1KLNhIijEB83TXz78CIK72) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Outlaw Shit \(feat\. Shooter Jennings\)](https://open.spotify.com/album/0wL6TUhFe9DutCDj6oIjDq) | 4:05 |
 | 80 | [Why You Been Gone so Long](https://open.spotify.com/track/33HkPcuNKgnPT81H9pO9SL) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [A Country Star Is Born](https://open.spotify.com/album/1u2ETFYboqz0DjqFZrZyae) | 3:08 |
 
 Snapshot ID: `AAAAAMAqfz4MaG1x0gp2z7DruvGLtnxT`

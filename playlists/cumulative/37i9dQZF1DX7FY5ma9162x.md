@@ -2,9 +2,9 @@
 
 ### [R&B Favourites](https://open.spotify.com/playlist/37i9dQZF1DX7FY5ma9162x)
 
-> The tracks you can put on repeat all day\. Cover: GIVĒON
+> The tracks you can put on repeat all day\. Cover: Bryson Tiller
 
-685 songs - 1 day 14 hr 13 min
+686 songs - 1 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-06-10 | 2024-01-05 |
 | [I Heard You’re Married \(feat\. Lil Wayne\)](https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 4:23 | 2022-07-15 | 2022-12-30 |
 | [I Jusswon](https://open.spotify.com/track/3vprvsbioCDkd2KKIwcbC7) | [Anthony Russo](https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki) | [I Jusswon](https://open.spotify.com/album/50fP3fWz9fX5Jvl8riPHJN) | 2:54 | 2022-04-01 | 2022-04-19 |
+| [I Need Her](https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:37 | 2026-06-19 |  |
 | [I Wish](https://open.spotify.com/track/7i8QdVs5sQbjaMedAEttjj) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [I Wish](https://open.spotify.com/album/6s7HRm64PADLQNw2mUYUm5) | 3:23 | 2022-04-01 | 2022-04-21 |
 | [I.F.L.Y.](https://open.spotify.com/track/4a6q8CR2hzLk2plDkSxkfD) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Soul Searching](https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW) | 2:45 | 2022-04-01 | 2022-12-30 |
 | [If I Get Caught \- Spotify Singles](https://open.spotify.com/track/2B7ttNw5LpZxTcXAQ1u817) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Spotify Singles](https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc) | 3:31 | 2022-09-02 | 2022-09-17 |
@@ -422,7 +423,7 @@
 | [Nothing Feels Better](https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Nothing Feels Better](https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw) | 2:37 | 2022-03-11 | 2023-01-12 |
 | [Nova](https://open.spotify.com/track/0n1JxQTqtzezc6y6sDLzuT) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Nova](https://open.spotify.com/album/1fTBfblP2agHA345cRJmX6) | 3:25 | 2022-03-11 | 2022-07-29 |
 | [Nowhere To Run](https://open.spotify.com/track/72XxzjvIBR0TKljL0ETcGQ) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Nowhere To Run](https://open.spotify.com/album/0FblLlqUsJImmPkaKqEkz5) | 3:41 | 2022-04-01 | 2022-04-19 |
-| [Obvious](https://open.spotify.com/track/7xSS8JxxHbQRjH5TNBw36H) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Obvious](https://open.spotify.com/album/7xW3wSUjBg7PaeQOVpgvVv) | 3:06 | 2026-05-08 |  |
+| [Obvious](https://open.spotify.com/track/7xSS8JxxHbQRjH5TNBw36H) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Obvious](https://open.spotify.com/album/7xW3wSUjBg7PaeQOVpgvVv) | 3:06 | 2026-05-08 | 2026-06-19 |
 | [Off The Drugs](https://open.spotify.com/track/3mal4dMlkVy42F7bEjU3Jy) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Off The Drugs](https://open.spotify.com/album/1NjXy9akXwlUfk74r2owE1) | 2:57 | 2022-04-01 | 2022-04-20 |
 | [Off the Grid \(feat\. Khalid\)](https://open.spotify.com/track/3U62bHMhP7bKAFYMkn3fNx) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:20 | 2022-04-01 | 2022-07-29 |
 | [off the table \(with The Weeknd\)](https://open.spotify.com/track/7E1jVNoWuemqUryI4FxsVD) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:59 | 2022-04-01 | 2022-11-16 |
@@ -441,7 +442,7 @@
 | [OPEN UP](https://open.spotify.com/track/4QTwWQDW89udp0JDO2lmPI) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 4:26 | 2022-04-01 | 2022-04-20 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-11-16 |  |
 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 | 2026-04-07 |  |
-| [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 | 2023-09-15 |  |
+| [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 | 2023-09-15 | 2026-06-19 |
 | [Outta Time \(feat\. Drake\)](https://open.spotify.com/track/0LGtMvQJ37SsEYbkP6TcVJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [A N N I V E R S A R Y](https://open.spotify.com/album/4tLP29vbVVV4JaahjSmKjp) | 3:18 | 2022-03-11 | 2022-07-29 |
 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 | 2022-03-11 |  |
 | [Overdose \(feat\. Chris Brown\)](https://open.spotify.com/track/2jzFNGqC0Q1TeThJTzPL0T) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Overdose \(feat\. Chris Brown\)](https://open.spotify.com/album/6lnRrb4JudhDwzNiqLQGge) | 2:54 | 2022-04-01 | 2022-04-11 |
@@ -500,7 +501,7 @@
 | [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 | 2022-10-07 | 2022-12-30 |
 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2022-09-02 | 2022-10-13 |
 | [Regrets](https://open.spotify.com/track/2RuOxSKuPvJmIgBEWUUTio) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Regrets](https://open.spotify.com/album/48sL5JqeLIfdHLKtogMGWx) | 3:45 | 2022-04-01 | 2022-05-06 |
-| [Residuals](https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:35 | 2025-04-16 | 2026-05-09 |
+| [Residuals](https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:35 | 2025-04-16 |  |
 | [Ride](https://open.spotify.com/track/5hJb8AP76Z82b8ThCDJeOq) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [The Golden Child](https://open.spotify.com/album/52iN0AN48yBH5pF6C65ZmI) | 3:25 | 2022-04-01 | 2022-05-25 |
 | [Right Now](https://open.spotify.com/track/04huldANUuFNnM9tI3TDHP) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [PMD \(Deluxe\)](https://open.spotify.com/album/6r4KnS4j4YEFExL1KiOabB) | 2:37 | 2022-03-11 | 2022-07-27 |
 | [Ring \(feat\. Kehlani\)](https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 2:57 | 2022-04-01 | 2022-04-18 |

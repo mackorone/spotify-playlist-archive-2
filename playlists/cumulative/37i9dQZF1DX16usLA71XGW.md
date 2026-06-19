@@ -2,9 +2,9 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa queens in their music bag\. Cover: Teslah
+> East Africa queens in their music bag\. Cover: Mimi Mars
 
-195 songs - 10 hr 21 min
+196 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Desire](https://open.spotify.com/track/654SYg2HiYmZI3chN6erFl) | [Melissa Mulungi](https://open.spotify.com/artist/77ZzFS6WajdNwqHdOMScJl) | [Desire](https://open.spotify.com/album/70yKNubVpLpVipULl9k5Pr) | 3:35 | 2025-08-21 |  |
 | [EN3RGY](https://open.spotify.com/track/7s1cUqddTHFRmL66cuyAlh) | [Polaris Pauline](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA), [Mayonde](https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr), [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB), [HSKE](https://open.spotify.com/artist/0GHHtw39P3sS8MqYuuR4j8) | [EN3RGY](https://open.spotify.com/album/5RFMuaMkPzV7kpfvGAgjF6) | 3:10 | 2023-09-07 | 2024-03-29 |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2022-07-18 | 2024-07-05 |
-| [Exam](https://open.spotify.com/track/6gu8mDTOSf3EjHNU16PRg9) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6) | [Forever](https://open.spotify.com/album/3pIQp2YhO2kDax3nzCJo6F) | 2:48 | 2024-07-04 |  |
+| [Exam](https://open.spotify.com/track/6gu8mDTOSf3EjHNU16PRg9) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6) | [Forever](https://open.spotify.com/album/3pIQp2YhO2kDax3nzCJo6F) | 2:48 | 2024-07-04 | 2026-06-19 |
 | [Falling](https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7) | [Narah Elba](https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4) | [Falling](https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon) | 2:39 | 2024-03-07 |  |
 | [Feel Alive](https://open.spotify.com/track/07xjo4p0md0cPMTUXPhrwF) | [TheOnlyRosa](https://open.spotify.com/artist/3RL8Hb8tQ9aFuCWGikXNwx), [Fena Gitu](https://open.spotify.com/artist/3zJd3CVxAQx3gB7fPH9P2V) | [Feel Alive](https://open.spotify.com/album/0OjBP78TRit3ZBviOQj8qb) | 3:30 | 2024-03-07 | 2025-08-22 |
 | [Fire](https://open.spotify.com/track/3ZCtiMBm8r1L4V5lwMOa2l) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Fire](https://open.spotify.com/album/7lAxGA7kdSK6cl3XcVVLpZ) | 3:22 | 2023-06-30 | 2025-12-19 |
@@ -81,7 +81,7 @@
 | [Love](https://open.spotify.com/track/0wj0rGLu2CnpGEZBiXcZZi) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8) | 1:55 | 2022-07-18 | 2023-03-11 |
 | [Love](https://open.spotify.com/track/2QW4o0BaprzMjgqO4xsTBX) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/3fME5IHzfkHsZEqy5L7IlA) | 1:55 | 2022-07-18 | 2023-06-02 |
 | [Love Ballad No\. 3](https://open.spotify.com/track/3GjD1VmMDQRBI85fRZyrvC) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 4:18 | 2022-07-18 | 2024-06-01 |
-| [Love Commissioner](https://open.spotify.com/track/1TKPuXEo6va9g9GtY6YuOo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr), [David Lutalo](https://open.spotify.com/artist/6oSfZEWn2BRxv81M5JwKXl) | [Love Commissioner](https://open.spotify.com/album/3GwTRy50XVuhcsKiUh2Wad) | 3:55 | 2024-07-12 |  |
+| [Love Commissioner](https://open.spotify.com/track/1TKPuXEo6va9g9GtY6YuOo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr), [David Lutalo](https://open.spotify.com/artist/6oSfZEWn2BRxv81M5JwKXl) | [Love Commissioner](https://open.spotify.com/album/3GwTRy50XVuhcsKiUh2Wad) | 3:55 | 2024-07-12 | 2026-06-19 |
 | [Love So Hard](https://open.spotify.com/track/0wziWY68BtP0cCoysabecJ) | [Neliah](https://open.spotify.com/artist/3q7yaZhoTuqkL9Ku1aPcx5) | [Love So Hard](https://open.spotify.com/album/6ZeXSuv1si3Mobh4Z446Wz) | 3:40 | 2024-05-17 | 2024-06-01 |
 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 | 2022-07-18 | 2023-10-27 |
 | [Maajab](https://open.spotify.com/track/6UhQxlDPo4OqzwNyvH6xIQ) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Maajab](https://open.spotify.com/album/5d1qznmP03spOwDdS60r57) | 3:18 | 2023-06-23 | 2024-08-30 |
@@ -111,6 +111,7 @@
 | [NEMANYI](https://open.spotify.com/track/078II2LP3ll9bCGHAeHMJc) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [NEMANYI](https://open.spotify.com/album/6MLCSfgN9nR1KdegiFY1HN) | 3:21 | 2025-01-09 |  |
 | [Never Ever](https://open.spotify.com/track/19aCgeY2NVaGsZLEd6aTWh) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Cinema](https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK) | 2:54 | 2022-07-18 | 2024-09-28 |
 | [Nfollowinga](https://open.spotify.com/track/0VNAMIE10wDY5zy6jqmQQY) | [Miriam Namaganda](https://open.spotify.com/artist/4WPIAHlYewpWNZnWOlEhiF), [Angella Katatumba](https://open.spotify.com/artist/1vpGA9WdQqdZHY36FcYoqw) | [Nfollowinga](https://open.spotify.com/album/4gA8KJQVSNlhjy74KRDnLP) | 2:47 | 2022-12-16 | 2023-11-24 |
+| [Niahidi](https://open.spotify.com/track/34NEbs787Ie5TTHfCR7cxh) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi) | [17](https://open.spotify.com/album/2iOiqeid0nPYyTHfLuwHYM) | 2:02 | 2026-06-18 |  |
 | [Ningwetele](https://open.spotify.com/track/674UoSgYQzmUza8uxOzRjP) | [Dhahabu](https://open.spotify.com/artist/0C5XE5om2CtR9MwB7F2VlU) | [Ningwetele](https://open.spotify.com/album/1eBVVYNEjwA6kfBl9M8P4w) | 3:16 | 2022-07-18 | 2023-08-18 |
 | [Nipende](https://open.spotify.com/track/1E7zvR5rjAQ8iXUzusdjZl) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 5:15 | 2026-05-12 |  |
 | [Nishazoea](https://open.spotify.com/track/2aZEeQqaEcQzwOXKSrDw7s) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Nishazoea](https://open.spotify.com/album/0WsAaPPks6bFE1KXWgEigu) | 3:01 | 2022-09-08 | 2024-03-08 |

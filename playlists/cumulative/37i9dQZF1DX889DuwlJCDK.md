@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: ハク。
 
-1,825 songs - 4 day 14 hr 16 min
+1,826 songs - 4 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1616,6 +1616,7 @@
 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 | 2024-04-16 | 2024-12-18 |
 | [本物](https://open.spotify.com/track/3Rc5LLJiblRRwHbRUW5yAr) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [若者日記](https://open.spotify.com/album/63YrtaSILAbg11a9527ZSI) | 5:05 | 2026-01-13 | 2026-04-08 |
 | [本音](https://open.spotify.com/track/4vWgiPZlnrd4KKaDjou88T) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [本音](https://open.spotify.com/album/6j5jS4wiNHZwGWk8yL4GfI) | 4:11 | 2025-03-04 | 2025-04-02 |
+| [本音](https://open.spotify.com/track/16RllZjIp2O54EaSQB5HF4) | [やさしいひとたち](https://open.spotify.com/artist/571Uxxr1Na432rkduBN0eE) | [本音](https://open.spotify.com/album/7FgkneQzUFbr1vNcyfh2QF) | 4:43 | 2026-06-16 |  |
 | [札幌](https://open.spotify.com/track/39txp7hjG8rbNF5ObQS7EJ) | [札幌某所](https://open.spotify.com/artist/367JBVnPCzSwWT9hXKgZYo) | [札幌/最前線 \(2026 Ver.\)](https://open.spotify.com/album/3MUvxYU4FPFp0p72ZGGKJX) | 4:56 | 2026-02-24 | 2026-03-11 |
 | [東京](https://open.spotify.com/track/4c9DOWDaboQ7x3qyHU8q0G) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [From](https://open.spotify.com/album/6YPPPTvyZxrSq0MKId4PVt) | 5:48 | 2023-09-12 | 2023-09-14 |
 | [東京エレキテル](https://open.spotify.com/track/4lOkhMm3c4QfXsHTVjJljr) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [東京エレキテル](https://open.spotify.com/album/447bOiGQKFDtJSf9Q7rlpA) | 3:13 | 2023-10-31 | 2023-11-16 |
@@ -1814,7 +1815,7 @@
 | [青春みたいだ](https://open.spotify.com/track/5vXE55Ruduk3vkaXtLu4P7) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [青春みたいだ](https://open.spotify.com/album/5ezEYFQV4ZKeRghKw1jNfz) | 3:38 | 2023-07-27 | 2023-07-31 |
 | [青春バイブレーション](https://open.spotify.com/track/4oMONXO9F7VBU1HWnT3WSI) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [青春バイブレーション](https://open.spotify.com/album/4h5vaOShmmy2GxDczYpUrU) | 3:23 | 2026-04-07 |  |
 | [青春マグナムピンポンパール](https://open.spotify.com/track/6TxsDECyy1f9HyEcROQCpY) | [すてぃぎもろく](https://open.spotify.com/artist/3maOtCevILAXRauVeWhJ2D) | [突・すてぃぎもろく](https://open.spotify.com/album/2hCMF91M6ygukgJXtmnQkG) | 3:19 | 2025-07-22 | 2025-07-30 |
-| [青春ロックを歌って](https://open.spotify.com/track/4juk9NccL5xc90oDF5kBr3) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [青春ロックを歌って](https://open.spotify.com/album/5IaqpvPwUUuuHyEu9ERKq9) | 4:34 | 2024-03-12 |  |
+| [青春ロックを歌って](https://open.spotify.com/track/4juk9NccL5xc90oDF5kBr3) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [青春ロックを歌って](https://open.spotify.com/album/5IaqpvPwUUuuHyEu9ERKq9) | 4:34 | 2024-03-12 | 2026-06-19 |
 | [青春病](https://open.spotify.com/track/4EwKtJQT2ZHKzECGH3EjLx) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [青春病](https://open.spotify.com/album/4L6znWirdFX9BDIsaSi9Fb) | 5:21 | 2024-04-23 | 2024-05-08 |
 | [青空](https://open.spotify.com/track/1iBGMFMIZ3JerD7tAFPxPJ) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [青空](https://open.spotify.com/album/2lzkVnmmTJeAfRgijw9SER) | 3:58 | 2025-06-11 | 2026-02-12 |
 | [非・家族](https://open.spotify.com/track/0RZNsCiGBqmer8pBNPFALM) | [物品販売](https://open.spotify.com/artist/3jS76RqAY0x19NmWbGhXV6) | [まごころ](https://open.spotify.com/album/1bQmP4qBUa6cS8JWj21Fuf) | 4:14 | 2025-10-14 | 2025-11-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring rusowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,231 likes - 58 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,235 likes - 58 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 13 | [Persona Favorita](https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [HENRY](https://open.spotify.com/album/1a4AGDulVYa69FsMX6mLrb) | 3:27 |
 | 14 | [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 |
 | 15 | [tiempo pasa](https://open.spotify.com/track/4q0E9LdUvQdNR2bSm3kkIV) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [VERANO SAUDADE](https://open.spotify.com/album/4NiMrAqxTakrdJi0DNGwFd) | 3:34 |
-| 16 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
+| 16 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 | 17 | [BBY ROMEO](https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [BBY ROMEO](https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz) | 3:18 |
-| 18 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
+| 18 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
 | 19 | [Los Paracaídas](https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Los Paracaídas](https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF) | 3:09 |
 | 20 | [No Me Sirve Más](https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [No Me Sirve Más](https://open.spotify.com/album/79TfVmx8S2A6aDGRUYDjRk) | 3:04 |
 | 21 | [1960](https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 6:10 |
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 27 | [BRUJERIA!](https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:44 |
 | 28 | [Star](https://open.spotify.com/track/6ZzycZmHaFzfbIBl24BV3N) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [El Niño Bola](https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv) | 3:31 |
 | 29 | [Hora Dorada](https://open.spotify.com/track/7bLISKzLksUNXPDdauDT9i) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/50cYslOkS29OQ2HMCdeVv5) | 3:14 |
-| 30 | [Mine](https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Música Para Abrir El Cielo: Act 2](https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh) | 2:27 |
-| 31 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 |
+| 30 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 |
+| 31 | [Mine](https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Música Para Abrir El Cielo: Act 2](https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh) | 2:27 |
 | 32 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
 | 33 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 |
 | 34 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
-| 35 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 |
-| 36 | [Choque](https://open.spotify.com/track/1ulnhZ9EhkiyokthZbGbXA) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Choque](https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2) | 4:03 |
-| 37 | [después del PARi](https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [después del PARi](https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva) | 3:52 |
-| 38 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 |
+| 35 | [Choque](https://open.spotify.com/track/1ulnhZ9EhkiyokthZbGbXA) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Choque](https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2) | 4:03 |
+| 36 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 |
+| 37 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 |
+| 38 | [después del PARi](https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [después del PARi](https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva) | 3:52 |
 | 39 | [SOPHIA](https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [SOPHIA](https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu) | 3:04 |
 | 40 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 41 | [Encuéntrame en Tokio](https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [ETHEREA](https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY) | 3:44 |

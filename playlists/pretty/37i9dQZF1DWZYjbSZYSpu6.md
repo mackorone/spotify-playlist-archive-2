@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: GUMMY & SEUNGKWAN \(거미 & 승관\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,788 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,799 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 38 | [A Night Full of You](https://open.spotify.com/track/2KvLK4xXYmkubREnYbCX27) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [다 이루어질지니 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU) | 3:48 |
 | 39 | [What Is This Feeling? \(with BANG YEDAM\)](https://open.spotify.com/track/5i1JrZ25HK3J4ePjrGp8OZ) | [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [In my room.](https://open.spotify.com/album/0PKO6PT9dVPmv0E7aEPYlV) | 2:20 |
 | 40 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 |
-| 41 | [Love Virus](https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS), [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Whats wrong with secretary kim OST Part.1](https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR) | 3:27 |
-| 42 | [This Night \(feat\. Blue.D, Jhnovr\)](https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [THIS NIGHT](https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi) | 3:35 |
+| 41 | [This Night \(feat\. Blue.D, Jhnovr\)](https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [THIS NIGHT](https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi) | 3:35 |
+| 42 | [Love Virus](https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS), [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Whats wrong with secretary kim OST Part.1](https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR) | 3:27 |
 | 43 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 |
 | 44 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 |
 | 45 | [I Wanna Be](https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:13 |

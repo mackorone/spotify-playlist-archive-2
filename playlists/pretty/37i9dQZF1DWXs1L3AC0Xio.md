@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,719 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,767 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 29 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
 | 30 | [Lifetime](https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:56 |
 | 31 | [Watch Over You](https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG) | 4:19 |
-| 32 | [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 |
-| 33 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 4:31 |
+| 32 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 4:31 |
+| 33 | [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 |
 | 34 | [Times Like These](https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:29 |
 | 35 | [Don't Wanna Go Home Tonight](https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Alienation](https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk) | 3:31 |
 | 36 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
-| 37 | [All The Same](https://open.spotify.com/track/3vIw7vxgUTPtppVwMfhcwo) | [SICK PUPPIES](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Dressed Up As Life](https://open.spotify.com/album/7zEvxcdeNWrFZCnWUnpDOC) | 4:18 |
-| 38 | [Hold on to Memories](https://open.spotify.com/track/7tDwiOA86rkQWR1E1TPpgD) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 5:03 |
+| 37 | [Hold on to Memories](https://open.spotify.com/track/7tDwiOA86rkQWR1E1TPpgD) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 5:03 |
+| 38 | [All The Same](https://open.spotify.com/track/3vIw7vxgUTPtppVwMfhcwo) | [SICK PUPPIES](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Dressed Up As Life](https://open.spotify.com/album/7zEvxcdeNWrFZCnWUnpDOC) | 4:18 |
 | 39 | [Drowning \(Face Down\)](https://open.spotify.com/track/0P0rnpupoEnxJojWHGtn0a) | [Saving Abel](https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF) | [Saving Abel](https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O) | 3:55 |
 | 40 | [Present Tense](https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:45 |
 | 41 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |

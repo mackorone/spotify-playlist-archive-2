@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 10261,
+  "num_followers": 10264,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Sophie",
-        "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
-      },
-      "artists": [
-        {
-          "name": "UCHE YARA",
-          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
-        }
-      ],
-      "duration_ms": 194430,
-      "name": "Sophie",
-      "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Crashland",
         "url": "https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 171500,
       "name": "Best Case Girl",
       "url": "https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Sophie",
+        "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "duration_ms": 194430,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Funny Black Lines",
-        "url": "https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N"
-      },
-      "artists": [
-        {
-          "name": "Kieran Campbell",
-          "url": "https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "Funny Black Lines",
-      "url": "https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "what u like",
         "url": "https://open.spotify.com/album/1j0dMjslAqM7ThtxAlcZpo"
       },
@@ -1327,22 +1311,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "blue dream",
-        "url": "https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK"
+        "name": "Funny Black Lines",
+        "url": "https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N"
       },
       "artists": [
         {
-          "name": "Justend",
-          "url": "https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp"
-        },
-        {
-          "name": "loe4t",
-          "url": "https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe"
+          "name": "Kieran Campbell",
+          "url": "https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK"
         }
       ],
-      "duration_ms": 188963,
-      "name": "blue dream",
-      "url": "https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ"
+      "duration_ms": 178826,
+      "name": "Funny Black Lines",
+      "url": "https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1363,6 +1343,26 @@
       "duration_ms": 199454,
       "name": "Lose You - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "blue dream",
+        "url": "https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK"
+      },
+      "artists": [
+        {
+          "name": "Justend",
+          "url": "https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp"
+        },
+        {
+          "name": "loe4t",
+          "url": "https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe"
+        }
+      ],
+      "duration_ms": 188963,
+      "name": "blue dream",
+      "url": "https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Criteria",
         "url": "https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "A Bowl of Unripe Fruit",
-        "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
       },
       "artists": [
         {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
         }
       ],
-      "duration_ms": 202686,
-      "name": "A Bowl of Unripe Fruit",
-      "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1615,6 +1599,22 @@
       "duration_ms": 194638,
       "name": "Is It Me",
       "url": "https://open.spotify.com/track/3HoWMvZthFR2Ymbm1YaSgh"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "A Bowl of Unripe Fruit",
+        "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 202686,
+      "name": "A Bowl of Unripe Fruit",
+      "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Conditions",
-        "url": "https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ"
+        "name": "autotunelove",
+        "url": "https://open.spotify.com/album/3XbSvhirzKFwx39P5f2B5e"
       },
       "artists": [
         {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+          "name": "Azuleja",
+          "url": "https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX"
         }
       ],
-      "duration_ms": 131541,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr"
+      "duration_ms": 159349,
+      "name": "autotunelove",
+      "url": "https://open.spotify.com/track/1vfvPClqGUQ5JNlBeykslo"
     }
   ],
   "unique_name": "Fresh Finds: Class of 2023",

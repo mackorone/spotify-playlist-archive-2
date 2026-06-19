@@ -2590,7 +2590,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 151666,
       "name": "Buckle Up",
       "url": "https://open.spotify.com/track/2LPcjCZ1u3PTw1DbdicVQQ"
@@ -13558,7 +13558,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 90283,
       "name": "Oh Susanna",
       "url": "https://open.spotify.com/track/3B4MnKHd5uWAkKMx9IvVse"
@@ -13780,6 +13780,28 @@
       "duration_ms": 57712,
       "name": "One Big Happy Family",
       "url": "https://open.spotify.com/track/772LfKGhSgcDHt2Cx7sSsD"
+    },
+    {
+      "album": {
+        "name": "One Little Finger",
+        "url": "https://open.spotify.com/album/2REw2stjpsOdQXWO2kH8hL"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142225,
+      "name": "One Little Finger",
+      "url": "https://open.spotify.com/track/5ra1ik4njIVmFnIHXGRFFx"
     },
     {
       "album": {
@@ -14098,7 +14120,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 43454,
       "name": "Our Floyd",
       "url": "https://open.spotify.com/track/0sQrQWStlJ4LQdP4cWLa7u"
@@ -15217,6 +15239,28 @@
     },
     {
       "album": {
+        "name": "Thomas & Percy: Sing Alongs",
+        "url": "https://open.spotify.com/album/6CUocNhwCpb2aCPkpXF0As"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Ride Along with Thomas",
+      "url": "https://open.spotify.com/track/2zyeI1Q6iba6bxZczCe9di"
+    },
+    {
+      "album": {
         "name": "Road Trip",
         "url": "https://open.spotify.com/album/2dFAaWdlF6poeSm14FESRP"
       },
@@ -16174,7 +16218,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 113266,
       "name": "Show Me Your Sparkle",
       "url": "https://open.spotify.com/track/6zMwGSltB57fQ1UmlNQZrm"
@@ -16780,6 +16824,24 @@
       "duration_ms": 117056,
       "name": "Spooky!",
       "url": "https://open.spotify.com/track/5KqyQPkeqg82RVF4IJouH6"
+    },
+    {
+      "album": {
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/0Hx7DbcJrotDRRDAMvkOnZ"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Sports",
+      "url": "https://open.spotify.com/track/7nZMHop22wTDbaoDkaP9x9"
     },
     {
       "album": {
@@ -17698,7 +17760,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 63974,
       "name": "Team Up to Cleanup!",
       "url": "https://open.spotify.com/track/7epkXmNM2c9gJxAU0npxnv"
@@ -17742,6 +17804,24 @@
       "duration_ms": 180066,
       "name": "Ten in a Bed",
       "url": "https://open.spotify.com/track/3KNAuymmvlnpImEZqDYlNx"
+    },
+    {
+      "album": {
+        "name": "Ten In The Bed",
+        "url": "https://open.spotify.com/album/24OZW0GFNy5cPWqZkB2kCI"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ten In The Bed",
+      "url": "https://open.spotify.com/track/3Q0JQlJb2j5sdEY7xwdohI"
     },
     {
       "album": {
@@ -19408,7 +19488,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 112080,
       "name": "This Is The Way We Wash The Bus",
       "url": "https://open.spotify.com/track/6CIyi1uYjBtBm6sFluxEWa"
@@ -20063,6 +20143,28 @@
     },
     {
       "album": {
+        "name": "Welcome to Dreamhouse Adventures",
+        "url": "https://open.spotify.com/album/0xwOHqBvzyDkmT9ZXzoUnG"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88490,
+      "name": "Treasure Hunt",
+      "url": "https://open.spotify.com/track/5euJiGFOJ5VKD9HOBE6i2l"
+    },
+    {
+      "album": {
         "name": "Tree Dada",
         "url": "https://open.spotify.com/album/25QXpiOQPEcBVvRaTa0eUH"
       },
@@ -20560,6 +20662,24 @@
       "duration_ms": 146520,
       "name": "Walking With The Penguins",
       "url": "https://open.spotify.com/track/3ujmAdUSlSDYnMRvmeuXak"
+    },
+    {
+      "album": {
+        "name": "Wally & the Bears Monster Hunt",
+        "url": "https://open.spotify.com/album/2ERwh7qFBGY9ZaksJo8ljH"
+      },
+      "artists": [
+        {
+          "name": "Mister Kipley",
+          "url": "https://open.spotify.com/artist/3xV0Tc4SeREEWHNrxd9M9Y"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247974,
+      "name": "Wally & the Bears Monster Hunt",
+      "url": "https://open.spotify.com/track/6OOQaZZafEfS3VF0Yt30VG"
     },
     {
       "album": {

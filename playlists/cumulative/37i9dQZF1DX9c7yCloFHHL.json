@@ -7017,6 +7017,24 @@
     },
     {
       "album": {
+        "name": "The Exit Diaries",
+        "url": "https://open.spotify.com/album/6tQSUzMXJDzpGVkxOfLSrE"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261822,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5VfIp3IeMAiIo2ggzd2bNl"
+    },
+    {
+      "album": {
         "name": "Closer Now",
         "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
       },
@@ -10446,7 +10464,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 188000,
       "name": "Enough Grace",
       "url": "https://open.spotify.com/track/1j1IknlvyqlWymlU0utvxz"
@@ -13311,6 +13329,24 @@
     },
     {
       "album": {
+        "name": "Gestus",
+        "url": "https://open.spotify.com/album/4nmqMoHsHzqneMSgTn36L0"
+      },
+      "artists": [
+        {
+          "name": "Luca Longobardi",
+          "url": "https://open.spotify.com/artist/3u2Sq4N5nNzSumzKsbZwDW"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315571,
+      "name": "Gestus",
+      "url": "https://open.spotify.com/track/4POjg0FmKXq3ezrS9kZmA4"
+    },
+    {
+      "album": {
         "name": "Rediscovered Works",
         "url": "https://open.spotify.com/album/6hkFBHpsump1QSxT5wicb0"
       },
@@ -13914,7 +13950,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 254000,
       "name": "Goth",
       "url": "https://open.spotify.com/track/7hgep3eewQdxXPNslsmIK7"
@@ -14040,7 +14076,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 222000,
       "name": "Greek Owls",
       "url": "https://open.spotify.com/track/7BJMKnBtPDXtxML3qsKZMS"
@@ -20617,6 +20653,32 @@
     },
     {
       "album": {
+        "name": "Mist awaiting the light",
+        "url": "https://open.spotify.com/album/1z5aR8r2hCX4BwNSiy9Zmn"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        },
+        {
+          "name": "Josefina Tai",
+          "url": "https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0"
+        },
+        {
+          "name": "Daniel H Pereira",
+          "url": "https://open.spotify.com/artist/3dvwZUIWhEpWyqP9hk1StN"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "Mist awaiting the light",
+      "url": "https://open.spotify.com/track/0mmGwGuWrmSY85frP2kuHh"
+    },
+    {
+      "album": {
         "name": "mistakes",
         "url": "https://open.spotify.com/album/0EJxo7jMaJ7wrKYFKibEfG"
       },
@@ -20908,6 +20970,24 @@
       "duration_ms": 118133,
       "name": "Morning Tides",
       "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
+    },
+    {
+      "album": {
+        "name": "If We're Apart, I\u2019m Somewhere Missing You",
+        "url": "https://open.spotify.com/album/48R1rKuzDjPYMsI8VxCfAL"
+      },
+      "artists": [
+        {
+          "name": "CMF",
+          "url": "https://open.spotify.com/artist/4chgaW0MxXKKwtYvrkPCfn"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227012,
+      "name": "Morningness",
+      "url": "https://open.spotify.com/track/76erH7evofLPnvCRN4Psra"
     },
     {
       "album": {
@@ -25547,6 +25627,24 @@
     },
     {
       "album": {
+        "name": "pour toi (ralenti v)",
+        "url": "https://open.spotify.com/album/1XJI5Lvrjsxj6Hqn41CcjC"
+      },
+      "artists": [
+        {
+          "name": "Passa Tempo",
+          "url": "https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "pour toi (ralenti v)",
+      "url": "https://open.spotify.com/track/5p9I3U27WVhKPPG8Se78RA"
+    },
+    {
+      "album": {
         "name": "Power Down the Heart",
         "url": "https://open.spotify.com/album/1tvoBGiMufBZK8Ky33Ljab"
       },
@@ -28144,7 +28242,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 137771,
       "name": "Second Bloom",
       "url": "https://open.spotify.com/track/0ixuiRpBn1pTiMeUVTkv5V"
@@ -28580,7 +28678,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 204236,
       "name": "Setja",
       "url": "https://open.spotify.com/track/0RDAuCCXOM5Cjk6QkCb85M"
@@ -29440,6 +29538,24 @@
       "duration_ms": 120000,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/3Hw82o76Fx70n0tyheezBN"
+    },
+    {
+      "album": {
+        "name": "Sleep Walk",
+        "url": "https://open.spotify.com/album/11uxrbubXbNEeZwIODo3ci"
+      },
+      "artists": [
+        {
+          "name": "Koji Ishikura",
+          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133640,
+      "name": "Sleep Walk",
+      "url": "https://open.spotify.com/track/4NnBjiqjcjdqfbkbl9l3J8"
     },
     {
       "album": {
@@ -31600,7 +31716,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 266110,
       "name": "Swallow - Dumama To Be A Voice Rework",
       "url": "https://open.spotify.com/track/4qyJqm3Z85h4cyxxsjQfXJ"
@@ -33562,7 +33678,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 120882,
       "name": "this far",
       "url": "https://open.spotify.com/track/4YYUBxForZ26DuOXCfiqHd"
@@ -35731,6 +35847,24 @@
     },
     {
       "album": {
+        "name": "L'Illusion de Yakushima (Bande originale du film)",
+        "url": "https://open.spotify.com/album/4uhNTXX3L0efc0awLE42WH"
+      },
+      "artists": [
+        {
+          "name": "Koki Nakano",
+          "url": "https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228666,
+      "name": "Vernix",
+      "url": "https://open.spotify.com/track/2Z45KqmpE5ZKZ6ubqfEAwK"
+    },
+    {
+      "album": {
         "name": "Psychic Geography",
         "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
       },
@@ -37289,6 +37423,24 @@
     },
     {
       "album": {
+        "name": "Whiteout",
+        "url": "https://open.spotify.com/album/45gmKc2JDqYgmFqvv7YP4a"
+      },
+      "artists": [
+        {
+          "name": "Thomas James White",
+          "url": "https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Whiteout",
+      "url": "https://open.spotify.com/track/4cQvzga59mWYmgvPkbBDek"
+    },
+    {
+      "album": {
         "name": "The Kid",
         "url": "https://open.spotify.com/album/0SuhqqsHYeXuAQyA6Jcruy"
       },
@@ -37652,7 +37804,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 233333,
       "name": "Wondering Widely",
       "url": "https://open.spotify.com/track/10RleJaaTcSs8mYnckMwV1"
@@ -38449,6 +38601,24 @@
     },
     {
       "album": {
+        "name": "\u25b6\ufe0e \u2022\u104a\u104a\u104a|\u104b| 3:03",
+        "url": "https://open.spotify.com/album/4PmYwMwGnFwqxUctyyovf3"
+      },
+      "artists": [
+        {
+          "name": "Iwakura",
+          "url": "https://open.spotify.com/artist/1D9SrXAj9dz5sbqB12W1uv"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87804,
+      "name": "\u25b6\ufe0e \u2022\u104a\u104a\u104a|\u104b| 1:27",
+      "url": "https://open.spotify.com/track/60hEnZ2f1vlTD5Gaq0D4Ib"
+    },
+    {
+      "album": {
         "name": "Grow! (Re-sync)",
         "url": "https://open.spotify.com/album/1VzZwAZzmehSqYk2aDsDmP"
       },
@@ -38576,7 +38746,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 261193,
       "name": "\uff65\uff65\uff65 \uff65\uff0d \uff65\uff65 \uff65\uff0d\uff65\uff65 \uff65 \uff0d\uff65\uff65",
       "url": "https://open.spotify.com/track/2puMGofzX4oeRpZRNPL6Ms"

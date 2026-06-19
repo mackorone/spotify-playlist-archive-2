@@ -1,6 +1,6 @@
 {
   "description": "Muy a mi nivel \ud83d\udc8b\u2728 ",
-  "num_followers": 131515,
+  "num_followers": 131548,
   "original_name": "Playlist de chava ",
   "owner": {
     "name": "Spotify",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2026-04-24 06:00:21",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 152923,
-      "name": "Qu\u00e9 Agon\u00eda",
-      "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
-    },
-    {
-      "added_at": "2026-04-24 06:00:21",
-      "album": {
         "name": "Secunena",
         "url": "https://open.spotify.com/album/7LSWqWZtU9bQ4SZAxWhkXa"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 159183,
       "name": "Secunena",
       "url": "https://open.spotify.com/track/04vz25NeqrGvqqL219tlhM"
+    },
+    {
+      "added_at": "2026-04-24 06:00:21",
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
     },
     {
       "added_at": "2026-04-24 06:00:21",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2026-04-24 06:00:21",
       "album": {
-        "name": "Hermanas de leche",
-        "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        },
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 165318,
-      "name": "Hermanas de leche",
-      "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
-    },
-    {
-      "added_at": "2026-04-24 06:00:21",
-      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 144018,
       "name": "Linda",
       "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
+    },
+    {
+      "added_at": "2026-04-24 06:00:21",
+      "album": {
+        "name": "Hermanas de leche",
+        "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 165318,
+      "name": "Hermanas de leche",
+      "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
     },
     {
       "added_at": "2026-04-24 06:00:21",

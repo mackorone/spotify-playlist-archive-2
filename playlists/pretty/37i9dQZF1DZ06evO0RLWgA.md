@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,462 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,464 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 21 | [Annie Mae \- 2007 \- Remaster](https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 5:19 |
 | 22 | [Think Twice Before You Go](https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:03 |
 | 23 | [The Motor City Is Burning](https://open.spotify.com/track/4UBTrrSotbB1DaRbapsR0R) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Best Of John Lee Hooker 1965 To 1974](https://open.spotify.com/album/1cEQBXubvMi6htzSm1GKzI) | 2:49 |
-| 24 | [I Need Some Money](https://open.spotify.com/track/4SjUzT00ytvjmhpd2LaWDo) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Whiskey & Wimmen: John Lee Hooker's Finest](https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7) | 2:28 |
-| 25 | [Bottle Up & Go \- 2025 Remaster](https://open.spotify.com/track/1KDNObuiENmdHWdvynZIbu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer \(2025 Remaster\)](https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS) | 2:28 |
+| 24 | [Bottle Up & Go \- 2025 Remaster](https://open.spotify.com/track/1KDNObuiENmdHWdvynZIbu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serve You Right To Suffer \(2025 Remaster\)](https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS) | 2:28 |
+| 25 | [I Need Some Money](https://open.spotify.com/track/4SjUzT00ytvjmhpd2LaWDo) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Whiskey & Wimmen: John Lee Hooker's Finest](https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7) | 2:28 |
 | 26 | [Peace Lovin' Man](https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:53 |
 | 27 | [This Is Hip \- feat\. Ry Cooder](https://open.spotify.com/track/4bkX2wt2MwGwskVM3kkU0Q) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Mr\. Lucky](https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ) | 3:27 |
 | 28 | [I Can't Quit You Baby](https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [More Real Folk Blues: The Missing Album](https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [Coming To Town \- The Hot Spot/Soundtrack Version](https://open.spotify.com/track/7tH9PzY1d4aWrceT0OZhzb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Hot Spot \(Soundtrack\)](https://open.spotify.com/album/3Td8XNwieYqSWDGNoki3CX) | 3:08 |
 | 50 | [That's Alright \- feat\. Charlie Musselwhite](https://open.spotify.com/track/2COsS6PVvMjYwqGXYc4mrE) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 4:24 |
 
-Snapshot ID: `ajCSAAAAAACW1Hm+lWS6hZasBY9oXWP4`
+Snapshot ID: `ajHjgAAAAADmm4R9fJ4kwZrXUs36Kpu/`

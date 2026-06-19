@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring Jessie Reyez.",
+  "description": "What's happening in r&b, right now \u2013 featuring Glenn Lewis.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -1889,6 +1889,28 @@
     },
     {
       "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Aura (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI"
+    },
+    {
+      "album": {
         "name": "Aye Girl",
         "url": "https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL"
       },
@@ -2272,6 +2294,24 @@
       "duration_ms": 115803,
       "name": "BAD LUCK",
       "url": "https://open.spotify.com/track/4i65bTARuZ9aDV9E0eQstM"
+    },
+    {
+      "album": {
+        "name": "SOULSTAR DELUXE",
+        "url": "https://open.spotify.com/album/0CN5V9O6Ldnu5OIDfMndUB"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203458,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/5l0FelDpLcRGzvpYhT9eCH"
     },
     {
       "album": {
@@ -9389,6 +9429,24 @@
     },
     {
       "album": {
+        "name": "GIA",
+        "url": "https://open.spotify.com/album/6Dr6gIJO5nSDOxEfxgDpf4"
+      },
+      "artists": [
+        {
+          "name": "Kuzi Cee",
+          "url": "https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132266,
+      "name": "GIA",
+      "url": "https://open.spotify.com/track/1ptcGWDgUZk1UHVG8NlJG1"
+    },
+    {
+      "album": {
         "name": "Gimme a Chance",
         "url": "https://open.spotify.com/album/2l78QTp8WaqdPyJ09pH8ol"
       },
@@ -10664,7 +10722,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 132931,
       "name": "High Key",
       "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
@@ -21159,6 +21217,28 @@
     },
     {
       "album": {
+        "name": "Make You Feel",
+        "url": "https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164488,
+      "name": "Rich Luv (with Chase Shakur)",
+      "url": "https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7"
+    },
+    {
+      "album": {
         "name": "people stories",
         "url": "https://open.spotify.com/album/0XfiOPqfpikqCUmvSs2kRS"
       },
@@ -21836,6 +21916,24 @@
       "duration_ms": 230453,
       "name": "See Through Love (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH"
+    },
+    {
+      "album": {
+        "name": "See You Again",
+        "url": "https://open.spotify.com/album/1C22AuImu7TeIpFZMlIqEv"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/3xy4wL1GcLWZ8VNYGfnTYf"
     },
     {
       "album": {
@@ -22774,7 +22872,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 233513,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG"
@@ -24916,6 +25014,28 @@
       "duration_ms": 184200,
       "name": "Talkback",
       "url": "https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe"
+    },
+    {
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132048,
+      "name": "Talking Dirty",
+      "url": "https://open.spotify.com/track/0TvgV79xVI0t2022ABkxS4"
     },
     {
       "album": {
@@ -27360,6 +27480,24 @@
       "duration_ms": 186234,
       "name": "Wait Too Long (feat. Blxst)",
       "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
+    },
+    {
+      "album": {
+        "name": "Overture",
+        "url": "https://open.spotify.com/album/173YEGDpbqDZ6FFd5N9oiy"
+      },
+      "artists": [
+        {
+          "name": "Glenn Lewis",
+          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166653,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/4ZuWgH2xw0T3vbkHDGchXv"
     },
     {
       "album": {

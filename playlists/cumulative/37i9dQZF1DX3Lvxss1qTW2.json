@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. Up Next: Zaylevelten",
+  "description": "The future hits of today. Up Next: Khaid",
   "name": "NXT",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 117777,
       "name": "17",
       "url": "https://open.spotify.com/track/0mZQm5lqtstAg4xboNWPVq"
+    },
+    {
+      "album": {
+        "name": "1942",
+        "url": "https://open.spotify.com/album/4vqElV5yYZYLkh2T6ssMHw"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B"
     },
     {
       "album": {
@@ -1922,7 +1940,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 207058,
       "name": "Big Bricks II",
       "url": "https://open.spotify.com/track/6HFMRiaZhoAnOolrwYp9Yu"
@@ -4792,7 +4810,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 148871,
       "name": "Fine Shiii",
       "url": "https://open.spotify.com/track/5SwcI97gcKSlQtmwKtI855"
@@ -5951,6 +5969,24 @@
     },
     {
       "album": {
+        "name": "B4R&W",
+        "url": "https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124878,
+      "name": "GO GO!",
+      "url": "https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd"
+    },
+    {
+      "album": {
         "name": "Go Harder",
         "url": "https://open.spotify.com/album/3s7mMPvH9b5JPEIWw4esUj"
       },
@@ -7048,7 +7084,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 116585,
       "name": "Ikeja (No Go Thief)",
       "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
@@ -9432,7 +9468,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 168791,
       "name": "Mon B\u00e9b\u00e9 (with King Promise)",
       "url": "https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC"
@@ -10562,6 +10598,28 @@
       "duration_ms": 209142,
       "name": "Oku",
       "url": "https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT"
+    },
+    {
+      "album": {
+        "name": "Okunkun",
+        "url": "https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        },
+        {
+          "name": "Killertunes",
+          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Okunkun",
+      "url": "https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9"
     },
     {
       "album": {
@@ -12484,7 +12542,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 181714,
       "name": "Serial Kisser",
       "url": "https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F"
@@ -13980,7 +14038,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 165333,
       "name": "TNGHT",
       "url": "https://open.spotify.com/track/5oWZFpX95oaCZ69WWZNZzc"
@@ -14064,6 +14122,28 @@
       "duration_ms": 150429,
       "name": "Tomorrow - Refix",
       "url": "https://open.spotify.com/track/4MDGYNmyl71mIFdJOQThmz"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/2Vkj23aOMyO49z15o4H6Kw"
+      },
+      "artists": [
+        {
+          "name": "Emski",
+          "url": "https://open.spotify.com/artist/5g0rOUJ6xuf0hspRISVfv3"
+        },
+        {
+          "name": "VERBB",
+          "url": "https://open.spotify.com/artist/7btDUoOpCkFj1zrIEZKL1b"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144020,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/1yjQwZznEOdV0A2MxcWLgw"
     },
     {
       "album": {
@@ -15240,6 +15320,32 @@
       "duration_ms": 168663,
       "name": "Wish I Had a Girlfriend",
       "url": "https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L"
+    },
+    {
+      "album": {
+        "name": "GBED$$$",
+        "url": "https://open.spotify.com/album/4EglvXBZ5ofjhhRAv0qygO"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157794,
+      "name": "WOE$KII",
+      "url": "https://open.spotify.com/track/0n9bLhbejFfR54AehIevMU"
     },
     {
       "album": {

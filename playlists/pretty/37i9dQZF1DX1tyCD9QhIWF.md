@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,285,134 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,285,065 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 20 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 |
 | 21 | [Wild Stare](https://open.spotify.com/track/2SClPoLfPJmwrr3EyfgRTS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Wild Stare](https://open.spotify.com/album/1dNicYsMG4Beogrx8blBYZ) | 3:14 |
 | 22 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 |
-| 23 | [Longshot](https://open.spotify.com/track/1Yi8XPnCPoimWwqxwm3uz9) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Longshot](https://open.spotify.com/album/6RsjG9ykQSkY3YMDSAwYs8) | 3:52 |
+| 23 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
 | 24 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 |
-| 25 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
+| 25 | [Longshot](https://open.spotify.com/track/1Yi8XPnCPoimWwqxwm3uz9) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Longshot](https://open.spotify.com/album/6RsjG9ykQSkY3YMDSAwYs8) | 3:52 |
 | 26 | [BURN THE WITCH](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [BURN THE WITCH](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 |
 | 27 | [Pop The Balloon](https://open.spotify.com/track/18xSK8GSgnarxkkoGxDAob) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 4:31 |
 | 28 | [Babylon](https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dark & Beautiful Secrets](https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30) | 4:05 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 40 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
 | 41 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
 | 42 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 |
-| 43 | [I Like The Way You Die](https://open.spotify.com/track/13HPn0OyGLPtJ6iUNiwLYg) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [I Like The Way You Die](https://open.spotify.com/album/4jGP8NOGoSlrHKfVcU1IVn) | 3:08 |
-| 44 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 |
+| 43 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 |
+| 44 | [I Like The Way You Die](https://open.spotify.com/track/13HPn0OyGLPtJ6iUNiwLYg) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [I Like The Way You Die](https://open.spotify.com/album/4jGP8NOGoSlrHKfVcU1IVn) | 3:08 |
 | 45 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 |
 | 46 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 |
 | 47 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 53 | [I KNOW BETTER](https://open.spotify.com/track/4rGq5yELBmIZBryQjFIakM) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [I KNOW BETTER](https://open.spotify.com/album/4yfzXgctHlcunH186PCB2S) | 4:09 |
 | 54 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 |
 | 55 | [God Complex \(Mojo\)](https://open.spotify.com/track/1B3ouXA9iRkqY1ywvZbzZ5) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [God Complex \(Mojo\)](https://open.spotify.com/album/6muDFrXDsitHPkwyZXS6Xu) | 1:46 |
-| 56 | [The Delicate Nature](https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Laurie Vincent](https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV) | [The Delicate Nature](https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY) | 3:02 |
-| 57 | [Slow](https://open.spotify.com/track/7llRb02z7gNG2cWKmtuKaq) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Slow](https://open.spotify.com/album/5lQGSDgLordQGd0Mq0LF4D) | 3:07 |
+| 56 | [Slow](https://open.spotify.com/track/7llRb02z7gNG2cWKmtuKaq) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Slow](https://open.spotify.com/album/5lQGSDgLordQGd0Mq0LF4D) | 3:07 |
+| 57 | [The Delicate Nature](https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Laurie Vincent](https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV) | [The Delicate Nature](https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY) | 3:02 |
 | 58 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4XtIwasPM2qnU8FMg4E9Ak) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/02q0ISnitj4Q7flAbRppvo) | 2:57 |
 | 59 | [What Went Down](https://open.spotify.com/track/0LJDalpISq604gw21RVwIV) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/3WCvpOcMme3VoJqeKYk9BY) | 5:00 |
 | 60 | [So Sweet I Could Die](https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [So Sweet I Could Die](https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1) | 2:22 |

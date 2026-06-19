@@ -1,12 +1,12 @@
 {
   "description": "This is Young Scooter. The essential tracks, all in one playlist.",
-  "num_followers": 4586,
+  "num_followers": 4587,
   "original_name": "This Is Young Scooter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAA89xMxdJH2I5FnwmRNOr1E",
+  "snapshot_id": "ajHjgAAAAADr5jH+fhRJT+pRDmcAPfzj",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Recipe",
-        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 176007,
-      "name": "Never Broke Again - feat. YoungBoy Never Broken Again",
-      "url": "https://open.spotify.com/track/2hnEuuck5qMvTOCNgqlwiu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Class Street Music 3: Trappin' out a Mansion",
         "url": "https://open.spotify.com/album/11qFqK39bAL6MRegFESHPB"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 261546,
       "name": "Grew Up",
       "url": "https://open.spotify.com/track/0GE9xF6B72abnhLBrp60ri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Recipe",
+        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 176007,
+      "name": "Never Broke Again - feat. YoungBoy Never Broken Again",
+      "url": "https://open.spotify.com/track/2hnEuuck5qMvTOCNgqlwiu"
     },
     {
       "added_at": null,
@@ -675,30 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Astronaut Status",
-        "url": "https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 264946,
-      "name": "Birds Take a Bath",
-      "url": "https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap House 3",
         "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 255493,
       "name": "Muddy (feat. Young Dolph & Young Scooter)",
       "url": "https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Astronaut Status",
+        "url": "https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 264946,
+      "name": "Birds Take a Bath",
+      "url": "https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ"
     },
     {
       "added_at": null,

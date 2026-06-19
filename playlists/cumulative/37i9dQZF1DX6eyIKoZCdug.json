@@ -3069,6 +3069,28 @@
     },
     {
       "album": {
+        "name": "Le Royal",
+        "url": "https://open.spotify.com/album/64qjm8LJ6lMBF5Sm0vILrS"
+      },
+      "artists": [
+        {
+          "name": "Hyenah",
+          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
+        },
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349180,
+      "name": "Le Royal",
+      "url": "https://open.spotify.com/track/1h0uxbGd0vEwFzu80A3ufy"
+    },
+    {
+      "album": {
         "name": "Lighthouse (feat. Da Capo & Sun-El Musician)",
         "url": "https://open.spotify.com/album/0SJLsjE3ZDpYkwSXZ4IDLL"
       },
@@ -6144,7 +6166,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 168813,
       "name": "Wachanare",
       "url": "https://open.spotify.com/track/3unesh2n8SaQlF9MxeNVpR"

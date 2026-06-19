@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Grandes hits do BR e do \ud83c\udf0e / Foto: Taylor Swift",
+  "description": "Grandes hits do BR e do \ud83c\udf0e / Foto: Olivia Rodrigo",
   "name": "Hot Hits Brasil",
   "tracks": [
     {
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 198937,
       "name": "BEAT UP CHANEL$",
       "url": "https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt"
@@ -6442,7 +6442,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 224223,
       "name": "Neon - Spotify Sessions",
       "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
@@ -8655,6 +8655,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+    },
+    {
+      "album": {
         "name": "Sua Preferida",
         "url": "https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O"
       },
@@ -8852,7 +8870,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 165540,
       "name": "TaTaTa - Spotify Sessions",
       "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"

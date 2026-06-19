@@ -827,6 +827,28 @@
     },
     {
       "album": {
+        "name": "2MG",
+        "url": "https://open.spotify.com/album/48Sm6WxReDi8RLB6LCQVgI"
+      },
+      "artists": [
+        {
+          "name": "LADD1",
+          "url": "https://open.spotify.com/artist/3KPh7cTZYlB2KvfhKNauik"
+        },
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194602,
+      "name": "2MG",
+      "url": "https://open.spotify.com/track/72ZjtDHr1vVXW5A3ApOu2y"
+    },
+    {
+      "album": {
         "name": "3 AM",
         "url": "https://open.spotify.com/album/0cvtb2KhrrZ1RYLLRrf6aT"
       },
@@ -2288,6 +2310,32 @@
       "duration_ms": 136346,
       "name": "ALEINN",
       "url": "https://open.spotify.com/track/2EBBCNkrmPM4IagcLa5ysg"
+    },
+    {
+      "album": {
+        "name": "Aleinn",
+        "url": "https://open.spotify.com/album/2dyG2MvqF9ItwQ9Wl1SGs4"
+      },
+      "artists": [
+        {
+          "name": "Luigi",
+          "url": "https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN"
+        },
+        {
+          "name": "Ey\u00fe\u00f3r W\u00f6hler",
+          "url": "https://open.spotify.com/artist/3p4wDJw74esi6V7GsAk27b"
+        },
+        {
+          "name": "DJ Drogba",
+          "url": "https://open.spotify.com/artist/1GQ16JsDawLVefYQs7QLbk"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "Aleinn",
+      "url": "https://open.spotify.com/track/6Ykd5YhetzKMPgo0tpVoab"
     },
     {
       "album": {
@@ -14910,7 +14958,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -20098,7 +20146,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 226023,
       "name": "Frelsi\u00f0",
       "url": "https://open.spotify.com/track/17eVe466nbOmrqyaBHh8BI"
@@ -20862,7 +20910,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 149052,
       "name": "F\u00cdLA\u00d0A",
       "url": "https://open.spotify.com/track/4Ye1rAbzwDmaycmkKN1GCz"
@@ -25152,7 +25200,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 207911,
       "name": "Hj\u00e1 \u00fe\u00e9r",
       "url": "https://open.spotify.com/track/6bMexmPJgSkZyNDV0QZGsI"
@@ -32192,7 +32240,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 206812,
       "name": "LAS \u00c1 MILLI L\u00cdNANNA",
       "url": "https://open.spotify.com/track/4bVRfUL52xfL8Yh9W5mgSp"
@@ -34814,7 +34862,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -36858,7 +36906,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 144775,
       "name": "Miklu betri einn",
       "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
@@ -41062,7 +41110,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 251054,
       "name": "Ofbo\u00f0slega fr\u00e6gur",
       "url": "https://open.spotify.com/track/203uQ5u5ZLiNC4g5zSG0vR"
@@ -52502,7 +52550,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 169640,
       "name": "Stoppa t\u00edmann",
       "url": "https://open.spotify.com/track/6sjvA7JuGIGDNRWDAeZhsK"
@@ -56022,7 +56070,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -57162,7 +57210,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 234166,
       "name": "Til \u00ed allt, Pt. III",
       "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"
@@ -59452,6 +59500,24 @@
       "duration_ms": 165051,
       "name": "Undir Vatni",
       "url": "https://open.spotify.com/track/6mrrmkod5csgyybYzjcy7j"
+    },
+    {
+      "album": {
+        "name": "Undir \u00fe\u00ednum \u00e1hrifum",
+        "url": "https://open.spotify.com/album/1TWL7ZnhL91BGWLkj3k2Pe"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1lin hans J\u00f3ns m\u00edns",
+          "url": "https://open.spotify.com/artist/2l19aqbqP2H5aKEUYCVM9h"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215945,
+      "name": "Undir \u00fe\u00ednum \u00e1hrifum",
+      "url": "https://open.spotify.com/track/39hxADdgW2sGdUn0xBqWDb"
     },
     {
       "album": {

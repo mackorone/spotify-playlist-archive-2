@@ -1,6 +1,6 @@
 {
   "description": "Francis Mercier's favorite tracks. Updated regularly. Curated by Francis Mercier. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 23391,
+  "num_followers": 23411,
   "original_name": "Francis Mercier's Track IDs",
   "owner": {
     "name": "Spotify",
@@ -932,12 +932,12 @@
           "url": "https://open.spotify.com/artist/6YCQsbx5oArnRI5FeySKDA"
         },
         {
-          "name": "Bukeka",
-          "url": "https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV"
-        },
-        {
           "name": "Dan Bay",
           "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
+        },
+        {
+          "name": "Bukeka",
+          "url": "https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV"
         }
       ],
       "duration_ms": 226356,

@@ -212,7 +212,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 203380,
       "name": "1000 days of moments",
       "url": "https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa"
@@ -2730,6 +2730,32 @@
       "duration_ms": 213536,
       "name": "BLOW",
       "url": "https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/30Ih6h18WnB3nr72Wi7iy7"
+      },
+      "artists": [
+        {
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0JlgLVccHLtzolsiwaqsJ0"
     },
     {
       "album": {
@@ -8514,7 +8540,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 254291,
       "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
       "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
@@ -24461,6 +24487,32 @@
     },
     {
       "album": {
+        "name": "Tropical Paradise (3am girls) feat.f5ve, \u8a69\u7fbd",
+        "url": "https://open.spotify.com/album/51rrGc0RLI8rD8ctSTAoRc"
+      },
+      "artists": [
+        {
+          "name": "BACARDI RECORDS",
+          "url": "https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA"
+        },
+        {
+          "name": "f5ve",
+          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
+        },
+        {
+          "name": "\u8a69\u7fbd",
+          "url": "https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140732,
+      "name": "Tropical Paradise (3am girls) feat.f5ve, \u8a69\u7fbd",
+      "url": "https://open.spotify.com/track/07XtYE9j1lA8KwOnb1OeWy"
+    },
+    {
+      "album": {
         "name": "Tru Banger",
         "url": "https://open.spotify.com/album/2rF7cIppgRvScOwDdJalL1"
       },
@@ -31089,6 +31141,24 @@
     },
     {
       "album": {
+        "name": "\u53cb\u9054\u304c\u3044\u307e\u3057\u305f",
+        "url": "https://open.spotify.com/album/7MxIjhS7vO37Tf8NAfxBWq"
+      },
+      "artists": [
+        {
+          "name": "Trooper Salute",
+          "url": "https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486190,
+      "name": "\u53cb\u9054\u304c\u3044\u307e\u3057\u305f",
+      "url": "https://open.spotify.com/track/6mnkyC0iA2j5E0d1xBNo06"
+    },
+    {
+      "album": {
         "name": "\u53f0\u8a5e",
         "url": "https://open.spotify.com/album/0zAMh6XVhD76qzMUqE04jH"
       },
@@ -31360,7 +31430,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 273437,
       "name": "\u5730\u7403\u5100 - Spinning Globe",
       "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
@@ -32772,7 +32842,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 230232,
       "name": "\u6771\u4eac\u30b4\u30c3\u30c9\u30b9\u30c8\u30ea\u30fc\u30c8\u30dc\u30fc\u30a4\u30ba",
       "url": "https://open.spotify.com/track/2nXJEs0KZQeNbPBNq9LFuJ"
@@ -33282,6 +33352,24 @@
       "duration_ms": 261295,
       "name": "\u70b9\u3068\u7dda (feat. \u3055\u3068\u3046\u3082\u304b)",
       "url": "https://open.spotify.com/track/48JIfccdKcd1swFuFc7s64"
+    },
+    {
+      "album": {
+        "name": "\u70cf - Raven",
+        "url": "https://open.spotify.com/album/77lHr1rXYAkLjOVkcSXLGH"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248494,
+      "name": "\u70cf - Raven",
+      "url": "https://open.spotify.com/track/5Ij88F5dK7yib1RoNA8wGV"
     },
     {
       "album": {

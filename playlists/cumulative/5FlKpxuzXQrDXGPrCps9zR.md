@@ -4,7 +4,7 @@
 
 > 
 
-179 songs - 9 hr 28 min
+181 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Medicine](https://open.spotify.com/track/4v9DYYPIivOlv2G3uMQ7mA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:11 | 2026-02-21 | 2026-04-27 |
 | [Midnight Sun](https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 | 2025-11-12 |  |
 | [Million Dollar Baby](https://open.spotify.com/track/3wFM8TWbbkwPuB6TyqpVDv) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:04 | 2025-05-11 | 2025-09-28 |
+| [Monochromatic](https://open.spotify.com/track/5Y2Eh5Bmj3lwlWoY7mqAIL) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z) | 2:44 | 2026-06-18 |  |
 | [My Man on Willpower](https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:17 | 2025-08-29 | 2025-12-15 |
 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 | 2025-11-10 | 2026-01-15 |
 | [My Reminder](https://open.spotify.com/track/1b3GqFU0UlFPnnM0Psv0kM) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 | 2026-02-13 | 2026-03-03 |
@@ -132,6 +133,7 @@
 | [Ruin The Friendship](https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:40 | 2025-10-04 | 2025-12-15 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2026-01-28 | 2026-02-17 |
 | [Shadow Of A Man](https://open.spotify.com/track/6OC87jHRiovNPEUrgaqFSu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:19 | 2025-07-13 | 2025-11-13 |
+| [She Gets It from Her Mother](https://open.spotify.com/track/2WFuYRB8SURvNMBtsonZog) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 3:24 | 2026-06-18 |  |
 | [Shimmer](https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:47 | 2026-04-25 |  |
 | [shut up](https://open.spotify.com/track/12sliObzVzbLbAlDb8eChf) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:37 | 2025-11-10 | 2026-01-15 |
 | [shut up](https://open.spotify.com/track/3ko9jEHNt4O5fjKN65ULJp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:37 | 2026-01-13 | 2026-01-28 |

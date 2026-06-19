@@ -1,6 +1,6 @@
 {
   "description": "Viral, trending and taking off.",
-  "num_followers": 8330940,
+  "num_followers": 8330514,
   "original_name": "Viral Hits",
   "owner": {
     "name": "Spotify",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
+      "added_at": "2026-06-19 04:01:37",
+      "album": {
+        "name": "Champions (WC 26)",
+        "url": "https://open.spotify.com/album/6esjGviBmNEzgoakCIZQYy"
+      },
+      "artists": [
+        {
+          "name": "IShowSpeed",
+          "url": "https://open.spotify.com/artist/0V5bkwV2Bd90bMLMc8JFeS"
+        }
+      ],
+      "duration_ms": 255741,
+      "name": "Champions (WC 26)",
+      "url": "https://open.spotify.com/track/6V6QUm9LvLoAGTQ2uJemdc"
+    },
+    {
       "added_at": "2026-04-24 04:03:04",
       "album": {
         "name": "Jane!",
@@ -223,6 +239,30 @@
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/65okMHrX31lksWRLOykgoe"
+    },
+    {
+      "added_at": "2026-06-19 04:01:37",
+      "album": {
+        "name": "Gut Genug (mit Blumengarten & Shirin David)",
+        "url": "https://open.spotify.com/album/2j3dLULErYg2IgQeBqEX1w"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        },
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Gut Genug (mit Blumengarten & Shirin David)",
+      "url": "https://open.spotify.com/track/7iNLydOMjLLb7BiwkdoPDU"
     },
     {
       "added_at": "2026-02-20 05:00:54",
@@ -649,26 +689,6 @@
       "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
     },
     {
-      "added_at": "2025-09-26 04:00:15",
-      "album": {
-        "name": "I'M PART",
-        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
-      },
-      "artists": [
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        },
-        {
-          "name": "Dysbit",
-          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
-    },
-    {
       "added_at": "2026-02-13 05:00:22",
       "album": {
         "name": "Feeling On My Body",
@@ -687,22 +707,6 @@
       "duration_ms": 157977,
       "name": "Feeling On My Body",
       "url": "https://open.spotify.com/track/5AIKM6zNiPi00rbWPnEq80"
-    },
-    {
-      "added_at": "2025-09-26 04:00:15",
-      "album": {
-        "name": "War & Leisure",
-        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 233707,
-      "name": "Anointed",
-      "url": "https://open.spotify.com/track/4hv7GT5g9qNnrxlocsOSYt"
     },
     {
       "added_at": "2025-09-26 04:00:15",

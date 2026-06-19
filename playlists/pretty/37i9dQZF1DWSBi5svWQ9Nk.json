@@ -1,31 +1,35 @@
 {
-  "description": "De 50 grootste hits in NL. Cover: Robert van Hemert",
-  "num_followers": 937175,
+  "description": "De 50 grootste hits in NL. Cover: Shakira & Burna Boys",
+  "num_followers": 937162,
   "original_name": "Hot Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANXRiQx4uExwh8R6ROsu2XCv4g73",
+  "snapshot_id": "AAAAAKkoyQlbM/w20h+K/WPviLey/dcF",
   "tracks": [
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
-        "name": "Zandloopster",
-        "url": "https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw"
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
       "artists": [
         {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 142965,
-      "name": "Zandloopster",
-      "url": "https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl"
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "POPULAIR",
         "url": "https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj"
@@ -49,7 +53,23 @@
       "url": "https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
+      "album": {
+        "name": "Zandloopster",
+        "url": "https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "duration_ms": 142965,
+      "name": "Zandloopster",
+      "url": "https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl"
+    },
+    {
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Jamaican (Bam Bam)",
         "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
@@ -69,7 +89,7 @@
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Cheerio",
         "url": "https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh"
@@ -85,27 +105,23 @@
       "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
         }
       ],
-      "duration_ms": 223448,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Ewa Safi",
         "url": "https://open.spotify.com/album/1hTb4919oA7x9I0JZCDJuE"
@@ -125,43 +141,7 @@
       "url": "https://open.spotify.com/track/3PZ5mxb19denUmoHHpMipx"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
-      "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
-      },
-      "artists": [
-        {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
-    },
-    {
-      "added_at": "2026-06-11 14:00:44",
-      "album": {
-        "name": "Jij Hebt Mij",
-        "url": "https://open.spotify.com/album/4FxPsDCcI7HZFW4GPoDypr"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        },
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 125586,
-      "name": "Jij Hebt Mij",
-      "url": "https://open.spotify.com/track/5AIvCO5v2mYxM3EtkxKz4T"
-    },
-    {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
@@ -181,7 +161,63 @@
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+    },
+    {
+      "added_at": "2026-06-18 14:00:43",
+      "album": {
+        "name": "Jij Hebt Mij",
+        "url": "https://open.spotify.com/album/4FxPsDCcI7HZFW4GPoDypr"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 125586,
+      "name": "Jij Hebt Mij",
+      "url": "https://open.spotify.com/track/5AIvCO5v2mYxM3EtkxKz4T"
+    },
+    {
+      "added_at": "2026-06-18 14:00:43",
+      "album": {
+        "name": "Talk To You (ft. 54 Ultra)",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
+    },
+    {
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Punta cana (feat. ADF Antje, Trapmoneybiggie & Carel)",
         "url": "https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf"
@@ -217,43 +253,7 @@
       "url": "https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
-      "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
-    },
-    {
-      "added_at": "2026-06-11 14:00:44",
-      "album": {
-        "name": "Talk To You (ft. 54 Ultra)",
-        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 191076,
-      "name": "Talk To You (ft. 54 Ultra)",
-      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
-    },
-    {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Maak Me Nou Niet Gek",
         "url": "https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Edge of Desire",
         "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
@@ -297,7 +297,23 @@
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Mo\u00ebt Dat Nou",
         "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Bare Minimum (Starboy)",
         "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
@@ -341,23 +357,7 @@
       "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
-      "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Turn The Lights Off",
         "url": "https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw"
@@ -381,7 +381,55 @@
       "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
+      "album": {
+        "name": "De Enige",
+        "url": "https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "De Enige",
+      "url": "https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk"
+    },
+    {
+      "added_at": "2026-06-18 14:00:43",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "added_at": "2026-06-18 14:00:43",
+      "album": {
+        "name": "De Leeuw Komt Eraan",
+        "url": "https://open.spotify.com/album/2cYpryI2g6eu20whof2VI8"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "duration_ms": 134692,
+      "name": "De Leeuw Komt Eraan",
+      "url": "https://open.spotify.com/track/28GAHI5g37JbdtdwcTyfI7"
+    },
+    {
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/7liVvdipZeK6caApJkWSqd"
@@ -401,23 +449,7 @@
       "url": "https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
-      "album": {
-        "name": "De Enige",
-        "url": "https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "De Enige",
-      "url": "https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk"
-    },
-    {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "I Just Might",
         "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
@@ -469,7 +501,7 @@
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Zij Hoort Bij Mij",
         "url": "https://open.spotify.com/album/5DIbGZCUppQpa7eZ3RWN8o"
@@ -493,7 +525,7 @@
       "url": "https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
@@ -509,7 +541,7 @@
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Makina Time",
         "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
@@ -541,7 +573,55 @@
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "added_at": "2026-06-18 14:00:43",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2026-06-18 14:00:43",
+      "album": {
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
+    },
+    {
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
@@ -561,55 +641,7 @@
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
-      "album": {
-        "name": "the cure",
-        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 297090,
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
-    },
-    {
-      "added_at": "2026-06-11 14:00:44",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2026-06-11 14:00:44",
-      "album": {
-        "name": "Mr. Know It All",
-        "url": "https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Mr. Know It All",
-      "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
-    },
-    {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Zootropolis 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0oqta6TAko2en33OkGkMTT"
@@ -629,7 +661,7 @@
       "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Uitslover",
         "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Homewrecker",
         "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
@@ -665,7 +697,7 @@
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Kameleon",
         "url": "https://open.spotify.com/album/0gA7TgT0bz0hBgsUOevoKz"
@@ -689,7 +721,7 @@
       "url": "https://open.spotify.com/track/60p06WUwnHKy4vB1QzVIog"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
         "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
@@ -705,7 +737,7 @@
       "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Halverwege",
         "url": "https://open.spotify.com/album/6yDTfOWKUkEpLNGXI3Dsbt"
@@ -721,7 +753,7 @@
       "url": "https://open.spotify.com/track/6wBrm0ObemKtg0nGjnQiNN"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
@@ -741,7 +773,23 @@
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
+      "album": {
+        "name": "L'undertaker Part.1",
+        "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
+    },
+    {
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0"
@@ -757,7 +805,7 @@
       "url": "https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "F*CK KLEINE",
         "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
@@ -777,7 +825,7 @@
       "url": "https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -793,7 +841,7 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Waar Blijf Je Nou",
         "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
@@ -813,7 +861,23 @@
       "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Drive Safe",
         "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
@@ -833,43 +897,7 @@
       "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
-      "album": {
-        "name": "CD van mij",
-        "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "CD van mij",
-      "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
-    },
-    {
-      "added_at": "2026-06-11 14:00:44",
-      "album": {
-        "name": "Sluit Me In Je Armen",
-        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 163976,
-      "name": "Sluit Me In Je Armen",
-      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
-    },
-    {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
@@ -885,7 +913,7 @@
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "White Keys",
         "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
@@ -901,7 +929,7 @@
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -917,23 +945,7 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2026-06-11 14:00:44",
-      "album": {
-        "name": "\u2060Tot Het Eind Van Mij",
-        "url": "https://open.spotify.com/album/2juwxLM6gQlTe5bPlMn70n"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        }
-      ],
-      "duration_ms": 164275,
-      "name": "\u2060Tot Het Eind Van Mij",
-      "url": "https://open.spotify.com/track/5MSrJGjtJy0eu2Z0oRXYlP"
-    },
-    {
-      "added_at": "2026-06-11 14:00:44",
+      "added_at": "2026-06-18 14:00:43",
       "album": {
         "name": "Dracula (Remix)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
@@ -951,22 +963,6 @@
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-06-11 14:00:44",
-      "album": {
-        "name": "Dark Before The Dawn",
-        "url": "https://open.spotify.com/album/3XQh5RuEp7voK5NnRWX7Fj"
-      },
-      "artists": [
-        {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
-        }
-      ],
-      "duration_ms": 215584,
-      "name": "Dark Before The Dawn",
-      "url": "https://open.spotify.com/track/69WK5gvcO8MFNNgii1lUgH"
     }
   ],
   "unique_name": "Hot Hits NL",

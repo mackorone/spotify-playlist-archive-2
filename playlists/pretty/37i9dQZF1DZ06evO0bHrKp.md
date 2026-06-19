@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 > This is Sum 41\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,358 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,375 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 14 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 |
 | 15 | [Out For Blood](https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:36 |
 | 16 | [Walking Disaster](https://open.spotify.com/track/7xuhVUJmBpHR276Yc7AsgW) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 4:46 |
-| 17 | [Noots](https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:51 |
+| 17 | [Some Say](https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:25 |
 | 18 | [Screaming Bloody Murder](https://open.spotify.com/track/1zqAXXA12UEVS7iDmAVeay) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:24 |
 | 19 | [Never There](https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 4:20 |
 | 20 | [Best Of Me](https://open.spotify.com/track/0vKGvQdkbesI7RGKX3tRyk) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 4:25 |
-| 21 | [Some Say](https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:25 |
+| 21 | [Noots](https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:51 |
 | 22 | [Makes No Difference](https://open.spotify.com/track/0dEKHXkMPrC5vQkjPtmOic) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Half Hour Of Power](https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH) | 3:10 |
 | 23 | [Jessica Kill](https://open.spotify.com/track/7aWYoIxfmQeyweth6IXY30) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 2:50 |
 | 24 | [Time Won't Wait](https://open.spotify.com/track/3EP4LqNhrKxdB93j2W6rvI) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 49 | [The New Sensation](https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
 | 50 | [Reason To Believe](https://open.spotify.com/track/4DJVmSP42li51r1C8zhURQ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:28 |
 
-Snapshot ID: `ajCSAAAAAAD4Se5pdQhzPOvvwyUbDpOD`
+Snapshot ID: `ajHjgAAAAAAZXw6mMFLEqS9bajFy8zDf`

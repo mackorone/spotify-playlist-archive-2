@@ -7631,6 +7631,24 @@
     },
     {
       "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/3YqPERlAE3wmCsWJjK2QJc"
+      },
+      "artists": [
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283393,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/5Wm9conkSlGGCMmme2TKzw"
+    },
+    {
+      "album": {
         "name": "Distant Memories",
         "url": "https://open.spotify.com/album/61HOablg7tXvedkUt4HgVT"
       },
@@ -11736,7 +11754,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 234204,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5SaA31HzAQSJbLInxhXHOP"
@@ -13196,7 +13214,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 204960,
       "name": "Go On",
       "url": "https://open.spotify.com/track/2Z42ydA0ORCroYInk2PLTi"
@@ -32530,6 +32548,32 @@
       "duration_ms": 179000,
       "name": "Superrich",
       "url": "https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms"
+    },
+    {
+      "album": {
+        "name": "Superstition EP",
+        "url": "https://open.spotify.com/album/7sHi05ALIKm6MsZhhLkqAw"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Syence",
+          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318688,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/10yQfULdZ2BfoipahuFZ0z"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > Los éxitos de la salsa de ayer y hoy en un sólo lugar\. Foto: Willie Colón
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,638 likes - 90 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,790 likes - 90 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 22 | [Deseándote](https://open.spotify.com/track/1THrLq1IPWwpisMdF9Ivya) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Show](https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E) | 4:43 |
 | 23 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 |
 | 24 | [Una Vida Pasada](https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Vida Pasada](https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd) | 3:38 |
-| 25 | [Que Alguien Me Diga](https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Expresion](https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3) | 4:50 |
+| 25 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
 | 26 | [Virgen](https://open.spotify.com/track/5SIoLK4aqXc2UzNrhVHwtp) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Mas Que Nunca](https://open.spotify.com/album/1r7GpzIQ7EHHsYrTRey2lV) | 4:31 |
-| 27 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
+| 27 | [Que Alguien Me Diga](https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Expresion](https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3) | 4:50 |
 | 28 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
 | 29 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 |
 | 30 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 41 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
 | 42 | [Parecen Viernes](https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 4:27 |
 | 43 | [Decisiones](https://open.spotify.com/track/2BOcua9pjhKuVtgN40AAHX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Buscando America](https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu) | 5:03 |
-| 44 | [Como Te Hago Entender](https://open.spotify.com/track/3uzIBpBL6f6hvaTi3X0E7P) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Los Rostros de la Salsa](https://open.spotify.com/album/0i86M5tnB7ikXChtz10Kli) | 5:44 |
+| 44 | [Mi Mayor Venganza](https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Pura Salsa](https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm) | 5:13 |
 | 45 | [He Tratado](https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:03 |
-| 46 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 |
-| 47 | [Mi Mayor Venganza](https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Pura Salsa](https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm) | 5:13 |
+| 46 | [Como Te Hago Entender](https://open.spotify.com/track/3uzIBpBL6f6hvaTi3X0E7P) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Los Rostros de la Salsa](https://open.spotify.com/album/0i86M5tnB7ikXChtz10Kli) | 5:44 |
+| 47 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 |
 | 48 | [Rebelión](https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Grandes Exitos](https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51) | 4:47 |
 | 49 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
 | 50 | [Por Ella](https://open.spotify.com/track/6xggO96o1OD6zNd5wjevhQ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Inconfundible](https://open.spotify.com/album/1VOFVi0W0TME7lcHaorE5B) | 4:38 |

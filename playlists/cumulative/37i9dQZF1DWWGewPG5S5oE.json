@@ -6921,6 +6921,24 @@
     },
     {
       "album": {
+        "name": "Soy Califa",
+        "url": "https://open.spotify.com/album/4R0gpdP9V7vyK1N18KtnHF"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u5ddd\u5468\u4e4b\u4ecb",
+          "url": "https://open.spotify.com/artist/0USuuHr06Mmk5TLrg1ctkt"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312564,
+      "name": "Soy Califa",
+      "url": "https://open.spotify.com/track/4nAQpP8dFX9rU9UO1WrR7D"
+    },
+    {
+      "album": {
         "name": "Spain",
         "url": "https://open.spotify.com/album/3LOZ21HBgvxGVdytLCdkoE"
       },
@@ -8734,7 +8752,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 241904,
       "name": "WE ARE",
       "url": "https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl"

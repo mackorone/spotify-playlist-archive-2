@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Tori Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,565 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,628 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

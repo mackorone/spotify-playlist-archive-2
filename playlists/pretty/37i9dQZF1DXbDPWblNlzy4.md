@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Greeicy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,270 likes - 54 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,272 likes - 54 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

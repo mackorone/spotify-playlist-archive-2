@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2026 RADAR登場！持續發掘香港未來新聲！Cover: The Hertz
+> 2026 RADAR登場！持續發掘香港未來新聲！Cover: Teddy Fan
 
 339 songs - 19 hr 43 min
 

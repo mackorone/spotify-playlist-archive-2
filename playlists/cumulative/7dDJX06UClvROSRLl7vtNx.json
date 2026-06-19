@@ -3140,7 +3140,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 142142,
       "name": "burn me down",
       "url": "https://open.spotify.com/track/5n6m0IMINOotiNaDGIwPdx"
@@ -10445,6 +10445,24 @@
     },
     {
       "album": {
+        "name": "Hit The Ground",
+        "url": "https://open.spotify.com/album/3a6QsejdxznRO2jfc6rgK3"
+      },
+      "artists": [
+        {
+          "name": "Nico Sol",
+          "url": "https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/2cII0vzkhLlaB0HQXNfC2c"
+    },
+    {
+      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/3XP17A1O80okZISP9GAx8C"
       },
@@ -11108,6 +11126,28 @@
       "duration_ms": 126500,
       "name": "Hope You Love Me Too",
       "url": "https://open.spotify.com/track/3i7cPXSDkJRYOKplg5Jzoj"
+    },
+    {
+      "album": {
+        "name": "hopefully",
+        "url": "https://open.spotify.com/album/3J8GZinpvA1Wug4B5AMmZo"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "clarity.",
+          "url": "https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "hopefully",
+      "url": "https://open.spotify.com/track/4LVQSTPGC7Kue5AwjilVcW"
     },
     {
       "album": {
@@ -17482,7 +17522,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 158095,
       "name": "miss those nights",
       "url": "https://open.spotify.com/track/57oIvbxSqRsOAbyJ7o54fp"

@@ -954,7 +954,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 260536,
       "name": "Dil Diyan Gallan",
       "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
@@ -1282,6 +1282,28 @@
       "duration_ms": 177446,
       "name": "Galiyon Ke Ghalib",
       "url": "https://open.spotify.com/track/3l8GKFbkD1dRhAmzw6fInB"
+    },
+    {
+      "album": {
+        "name": "Ek Villain",
+        "url": "https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF"
+      },
+      "artists": [
+        {
+          "name": "Ankit Tiwari",
+          "url": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340399,
+      "name": "Galliyan",
+      "url": "https://open.spotify.com/track/3ySVdXje5nm31d7vL3jNV3"
     },
     {
       "album": {

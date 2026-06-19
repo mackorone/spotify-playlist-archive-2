@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,613 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,611 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 56 | [Sadhana](https://open.spotify.com/track/6UcidIpOnWyscCvNWKnaPa) | [Vinayak A](https://open.spotify.com/artist/0rdwBKdUKRIp2t05MeQ7KV), [Flutewala](https://open.spotify.com/artist/4dV1PSWzfh8IgXQgJLrXnH), [Manoj Kumar](https://open.spotify.com/artist/5tgOvwp2QxSAhnnK2s3FX2) | [Sadhana](https://open.spotify.com/album/6JOn66aAncnEDWp31GKfjV) | 4:53 |
 | 57 | [Chintan Ke Saaz](https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Prema Ke Sur](https://open.spotify.com/album/0WQpqSKcn8XAggsTRDd0nC) | 4:30 |
 | 58 | [Kavadi Chindu](https://open.spotify.com/track/7zmtHg5CDTu9k4TixF7FbE) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [PARAMPARA](https://open.spotify.com/album/2x8LOTXSqQ9FL5nHFOkMYP) | 2:29 |
-| 59 | [Monsoon Moon](https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Monsoon Moon](https://open.spotify.com/album/5vkFkrsacJzdO1JuW0mLB1) | 4:04 |
-| 60 | [Durga](https://open.spotify.com/track/1f3Etpk0UmSDoj4zHYqIHu) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw), [Sriram Ramesh](https://open.spotify.com/artist/0DxF5hX19dKuP5x4oE5N2F), [Marina Albero](https://open.spotify.com/artist/2jWfppHhFHZewG8RWk8LHb), [Evan Flory\-Barnes](https://open.spotify.com/artist/4OXSAa2INCHHC74mkGy80D) | [The London Bridge Sessions](https://open.spotify.com/album/4e3EI9dcP63C8kzY4n0qyj) | 3:58 |
+| 59 | [Durga](https://open.spotify.com/track/1f3Etpk0UmSDoj4zHYqIHu) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw), [Sriram Ramesh](https://open.spotify.com/artist/0DxF5hX19dKuP5x4oE5N2F), [Marina Albero](https://open.spotify.com/artist/2jWfppHhFHZewG8RWk8LHb), [Evan Flory\-Barnes](https://open.spotify.com/artist/4OXSAa2INCHHC74mkGy80D) | [The London Bridge Sessions](https://open.spotify.com/album/4e3EI9dcP63C8kzY4n0qyj) | 3:58 |
+| 60 | [Monsoon Moon](https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Monsoon Moon](https://open.spotify.com/album/5vkFkrsacJzdO1JuW0mLB1) | 4:04 |
 | 61 | [Song of Praise](https://open.spotify.com/track/3GcIaOkyZP2KqN5OFHn5pB) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Shilong Chamber Choir](https://open.spotify.com/artist/50ZzirHCaFqOadumoImXut), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ), [Stephen Devassy](https://open.spotify.com/artist/1bJWW46CNRUpySTWeks99j) | [Silence Is Bliss](https://open.spotify.com/album/3cgDSVSPSIWi8jyg0eMUDT) | 5:05 |
 | 62 | [Venu](https://open.spotify.com/track/4iNkY671G1WKiFAzEvsT07) | [Martín Asaro](https://open.spotify.com/artist/0V3EGDQyGZgqEOBbWoK5Tk) | [Viajando Con El Viento](https://open.spotify.com/album/4Z2cYIf67ZZUJUTfkl2RpR) | 9:36 |
 | 63 | [Ninuvina Namadendhu](https://open.spotify.com/track/3cEJRKdCWYnFqM0DHuFZs8) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [PARAMPARA](https://open.spotify.com/album/2x8LOTXSqQ9FL5nHFOkMYP) | 6:43 |

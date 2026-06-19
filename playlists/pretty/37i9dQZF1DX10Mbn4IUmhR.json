@@ -907,22 +907,6 @@
     {
       "added_at": "2026-06-17 08:36:38",
       "album": {
-        "name": "A Rush To Nowhere",
-        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
-      },
-      "artists": [
-        {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "You're My",
-      "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"
-    },
-    {
-      "added_at": "2026-06-17 08:36:38",
-      "album": {
         "name": "A Matter of Time",
         "url": "https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H"
+    },
+    {
+      "added_at": "2026-06-17 08:36:38",
+      "album": {
+        "name": "A Rush To Nowhere",
+        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "You're My",
+      "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"
     },
     {
       "added_at": "2026-06-17 08:36:38",

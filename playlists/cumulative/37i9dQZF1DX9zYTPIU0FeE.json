@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the sounds of South African Jazz. Cover: vuyo viwe",
+  "description": "Journey through the sounds of South African Jazz. Cover: Rorisang Sechele",
   "name": "Jazz NEXT",
   "tracks": [
     {
@@ -374,6 +374,24 @@
       "duration_ms": 584524,
       "name": "An Incomplete Transition",
       "url": "https://open.spotify.com/track/4vNC5f2AIIAIR6z0SUJD7H"
+    },
+    {
+      "album": {
+        "name": "Another One for Bra Zim (Radio Edit)",
+        "url": "https://open.spotify.com/album/5y9ZUDjEnAJNwgRaMR9pNY"
+      },
+      "artists": [
+        {
+          "name": "Skyjack",
+          "url": "https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291248,
+      "name": "Another One for Bra Zim - Radio Edit",
+      "url": "https://open.spotify.com/track/4PrDd4wOBaUYGBMD6N7IFi"
     },
     {
       "album": {
@@ -868,6 +886,24 @@
       "duration_ms": 151714,
       "name": "Champagne Kisses",
       "url": "https://open.spotify.com/track/6gQ6dZf0iA8pAcJGagcgPh"
+    },
+    {
+      "album": {
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/7BUfSUXfhfKlyYqAKufExP"
+      },
+      "artists": [
+        {
+          "name": "Vimbs Mavimbs",
+          "url": "https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374388,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/1vxATOQuc29oW4nQOnbtNE"
     },
     {
       "album": {
@@ -2032,7 +2068,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 365000,
       "name": "H.O.P.E",
       "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
@@ -3426,7 +3462,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 520948,
       "name": "Light Cycle / Vang Gou Die Strandloper",
       "url": "https://open.spotify.com/track/2UbGeYkUoQwUwTDqLxwryQ"
@@ -3651,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/4Zf7ktaekWbM4RAW56QAqN"
+      },
+      "artists": [
+        {
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260346,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/0WtT81xVf7FERbo6SdoFE1"
+    },
+    {
+      "album": {
         "name": "Pele Pele",
         "url": "https://open.spotify.com/album/3Gc72EaS2NgCQzNeZI8PAS"
       },
@@ -3822,6 +3876,24 @@
       "duration_ms": 256917,
       "name": "Mindif - Single Edit",
       "url": "https://open.spotify.com/track/0KfGdrpJ3Dn4eW7CQRqRgO"
+    },
+    {
+      "album": {
+        "name": "Modeh Ani",
+        "url": "https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx"
+      },
+      "artists": [
+        {
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239107,
+      "name": "Modeh Ani",
+      "url": "https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8"
     },
     {
       "album": {
@@ -5210,7 +5282,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 245546,
       "name": "Sinamanga (uMagebhula)",
       "url": "https://open.spotify.com/track/4fZe1x4UfOPqNIZcmtzrAC"
@@ -5500,7 +5572,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 357244,
       "name": "Still I Rise (Part 1) - Revisited",
       "url": "https://open.spotify.com/track/0ucY0O7i8vmoOCdn4Hp6kT"

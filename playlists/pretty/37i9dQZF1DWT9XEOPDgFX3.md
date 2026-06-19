@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Genevieve Stokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,851 likes - 125 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,850 likes - 125 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 55 | [Pretender](https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pretender](https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm) | 2:57 |
 | 56 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 |
 | 57 | [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 |
-| 58 | [Blouse \- Recorded At Electric Lady Studios](https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:13 |
-| 59 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
+| 58 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
+| 59 | [Blouse \- Recorded At Electric Lady Studios](https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:13 |
 | 60 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 |
 | 61 | [Lydia Wears A Cross](https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:01 |
 | 62 | [Not Much](https://open.spotify.com/track/7jg7LVNFg6Euvm1wZySOrV) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [Hailaker](https://open.spotify.com/album/34xv8wmf6qJwWQn7y7rq6q) | 4:13 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 69 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
 | 70 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 |
 | 71 | [Salt Circle](https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Salt Circle](https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs) | 4:20 |
-| 72 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
-| 73 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 |
+| 72 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 |
+| 73 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
 | 74 | [Scorpions Don't Live Forever](https://open.spotify.com/track/4FUZi3B1cpwtAXZKXNTu2E) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Scorpions Don't Live Forever](https://open.spotify.com/album/01UB7yLLhdvHKtETrr0VgM) | 4:32 |
 | 75 | [Riding Around In The Dark](https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Riding Around In The Dark](https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj) | 3:26 |
 | 76 | [Evergreen](https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Evergreen](https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf) | 2:30 |
@@ -89,16 +89,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 79 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
 | 80 | [Forever](https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 3:28 |
 | 81 | [Wella](https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Wella](https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF) | 2:49 |
-| 82 | [Ohio](https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Ohio](https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF) | 3:22 |
-| 83 | [Ribcage](https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Ribcage](https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34) | 2:57 |
+| 82 | [Ribcage](https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Ribcage](https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34) | 2:57 |
+| 83 | [Ohio](https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Ohio](https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF) | 3:22 |
 | 84 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
 | 85 | [glacier meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [glacier meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 |
 | 86 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 |
 | 87 | [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 |
 | 88 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 |
 | 89 | [tap](https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [tap](https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np) | 4:31 |
-| 90 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 |
-| 91 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 |
+| 90 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 |
+| 91 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 |
 | 92 | [Rumble Strip](https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Rumble Strip](https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf) | 3:00 |
 | 93 | [Blindsided](https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Blindsided](https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF) | 3:42 |
 | 94 | [Every Woman](https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:27 |
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 119 | [if it’s not with you](https://open.spotify.com/track/08BM7fviigjEgzMr8ab1F4) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [HEADSPLIT \(Deluxe\)](https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc) | 2:33 |
 | 120 | [All of This Beauty](https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [All of This Beauty](https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja) | 2:08 |
 | 121 | [Crybaby](https://open.spotify.com/track/1Fe51DbsaZeTmLxqnp7eYf) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Crybaby](https://open.spotify.com/album/2zMU4HPuaNTBpWscm9PsXy) | 3:45 |
-| 122 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 |
-| 123 | [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 |
+| 122 | [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 |
+| 123 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 |
 | 124 | [Reaching Out](https://open.spotify.com/track/2GSMDvRIBADQEl2DS8XqPs) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Reaching Out](https://open.spotify.com/album/0tYyc7yXpSEv4W7FQF0ADO) | 4:15 |
-| 125 | [Can I Trust You](https://open.spotify.com/track/4T2pumcxU0Kx8PEsP3bXlJ) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Can I Trust You](https://open.spotify.com/album/6vxHdBdkoZgnjGBqXZuulZ) | 3:21 |
+| 125 | [If I Told](https://open.spotify.com/track/3AyxUc44BHxbV6niyl438i) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [If I Told](https://open.spotify.com/album/5Vi2zIea4GSb4nxhcRJTqj) | 4:58 |
 
 Snapshot ID: `AAAAAPtCmZvLhVTSHfkm0rpyFN/Su0JW`

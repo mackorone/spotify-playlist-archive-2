@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Ridh
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: The Midnight Darlings
 
-651 songs - 1 day 13 hr 59 min
+656 songs - 1 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [I Know](https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I Know](https://open.spotify.com/album/7JW9Ok3X1No2KOQ8ebaVu3) | 2:52 | 2024-06-27 | 2024-11-29 |
 | [I Lost My Smile Somewhere](https://open.spotify.com/track/1ybhaeNtQgVNbUIuptwWK7) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [I Lost My Smile Somewhere](https://open.spotify.com/album/5t2pmhhIT4hZ6cCfhWZ8XS) | 3:21 | 2024-07-25 | 2024-11-29 |
 | [I Love You More](https://open.spotify.com/track/6QpCGTfiUELLODEDjqZwXd) | [Satrio Pamungkas](https://open.spotify.com/artist/1XfSriHUiYbgNbngsYlCBg) | [Slow Burn](https://open.spotify.com/album/3TxaFsguZzgwS5MqWH5MBf) | 4:03 | 2025-11-28 | 2026-04-10 |
+| [I SHOULD'VE LOVED YOU MORE](https://open.spotify.com/track/4egaOQ3EwLtWe50dz46iBI) | [Irzhal Efadh](https://open.spotify.com/artist/4cok0Kl5xGtjJxTLuRtFsv) | [I SHOULD'VE LOVED YOU MORE](https://open.spotify.com/album/12BLNxPEBmPIy8dT1yPCbJ) | 3:48 | 2026-06-19 |  |
 | [I Wanna](https://open.spotify.com/track/2O10SZui7vue7ZyfWWjfcR) | [Helma Namira](https://open.spotify.com/artist/1xzJWprX9mAvTxIUbEaUS1) | [I Wanna](https://open.spotify.com/album/5tBLeD4BAL4fjrxCF0w7If) | 4:19 | 2024-09-26 | 2024-11-16 |
 | [I Will](https://open.spotify.com/track/2QZUzL17JAxao5dFkZuqte) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [I Will](https://open.spotify.com/album/2tsNcReLshp2lOODqJmYje) | 3:10 | 2024-06-27 | 2024-08-02 |
 | [I Wish You Knew](https://open.spotify.com/track/583qgwm3aJyacdD4I0owdm) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [I Wish You Knew](https://open.spotify.com/album/6DKez3kgyZoOUNnfbgyir0) | 4:00 | 2025-04-24 | 2025-09-30 |
@@ -356,6 +357,7 @@
 | [like an orchid / kembali \- Baila's Lullaby](https://open.spotify.com/track/0Pvg96gOZIBHrlcWfXivQm) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [orchids \(lullabies\)](https://open.spotify.com/album/5xAs8lHAgIS31jlaXBnYYD) | 2:34 | 2025-07-10 | 2026-04-24 |
 | [limbo](https://open.spotify.com/track/3XwSUA9k5CwiKkHS4GFYrd) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [limbo](https://open.spotify.com/album/5cZhtuP2HHoPcdvFF9ESmG) | 2:49 | 2025-08-01 | 2025-11-07 |
 | [Limerence](https://open.spotify.com/track/3I4mVnT3eD1GkWtfopCPEa) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [gazeng](https://open.spotify.com/artist/0i6mAAoB8AnMGb3oEuU2Bo) | [Limerence](https://open.spotify.com/album/01w1dx6iPZ1e1Xhx4mr9zy) | 3:39 | 2025-07-18 | 2025-10-17 |
+| [Lit in Shanghai](https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR) | [Lit in Shanghai](https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh) | 2:59 | 2026-06-18 |  |
 | [Little by Little](https://open.spotify.com/track/14OP5wOfh1zmkaNxRhazuz) | [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Midnight's Promises](https://open.spotify.com/album/7L8u8SoGZjEGBi9yFI0Cxo) | 3:20 | 2025-07-18 | 2026-02-13 |
 | [little freak](https://open.spotify.com/track/4xOBwulhffBVTmyATNF16E) | [Dru](https://open.spotify.com/artist/1i6b6aoOLZgHeOEUBJnelg) | [little freak](https://open.spotify.com/album/0g3QZSUpIZlSbCZyt2l9kq) | 3:15 | 2025-11-20 | 2026-05-31 |
 | [Little Time For Love](https://open.spotify.com/track/3MlLMBQxcbhAToQvMYiRoB) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Roadtrip](https://open.spotify.com/album/6udjCLHRuFO5Yjxy2pBlky) | 4:16 | 2024-06-27 | 2025-01-24 |
@@ -408,6 +410,7 @@
 | [Mighty Island](https://open.spotify.com/track/4kb4LkXzpvmb8PgbqPRQC6) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [Mighty Island](https://open.spotify.com/album/0ySITSHIav16LX5l16jg3t) | 3:53 | 2025-02-13 | 2025-04-25 |
 | [Missing You](https://open.spotify.com/track/3lIyZOz2hZLeMD8KK8br7Z) | [DAY](https://open.spotify.com/artist/5wz16QPWwXLAjpGxHaJoUS) | [have a nice DAY](https://open.spotify.com/album/0IjmpdtaR7N8HQeEViTew0) | 4:15 | 2024-12-12 | 2025-04-18 |
 | [Missing You](https://open.spotify.com/track/5MVf4vkfI1Y6jvV4m9pBZC) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Daydream](https://open.spotify.com/album/3UTMJp4fLna0RpWH6v1oeT) | 3:39 | 2025-06-19 | 2025-10-04 |
+| [Momentary Pleasure](https://open.spotify.com/track/3uOBIFr4hnyxXdyaHmEwDO) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Momentary Pleasure](https://open.spotify.com/album/0Dy9YBdzfrChQrULfPvjqj) | 3:33 | 2026-06-18 |  |
 | [Monopolar \- Tom Furse Remix](https://open.spotify.com/track/5TR2FSjKZeNN3VQsSA6iVy) | [Strange Fruit](https://open.spotify.com/artist/2rxlzU062cVwq4yA0LFQGy), [Tom Furse](https://open.spotify.com/artist/656QlXWNjRtnzAr5YNBEQB) | [Monopolar \(Tom Furse Remix\)](https://open.spotify.com/album/4OfKdPcOGCrn3MxBvr1WkM) | 4:25 | 2026-03-05 |  |
 | [Moonlight \- Live Stripped Down](https://open.spotify.com/track/5DBkIrEshZAqDd2Kg9mPOK) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Moonlight](https://open.spotify.com/album/0Ug96Tk15B2vfNbcaMoigs) | 2:49 | 2026-04-17 |  |
 | [Mother Angels](https://open.spotify.com/track/6myB4SLfmZpPpXgPPsodyY) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Mother Angels](https://open.spotify.com/album/6Bne5YPXNSPhsA2MMLAazu) | 2:44 | 2025-09-18 | 2025-12-06 |
@@ -532,6 +535,7 @@
 | [Someone Made For Me](https://open.spotify.com/track/1E38mDGZntSrz0dot6A6y1) | [Asteriska](https://open.spotify.com/artist/24j6RDsf06YOAKudHmvPry) | [Someone Made For Me](https://open.spotify.com/album/3l7dUQ6SNnMVkqJWKJvL2G) | 3:04 | 2025-04-24 | 2025-06-13 |
 | [something about you](https://open.spotify.com/track/15YMi1fS4AFTME9bKD9MzZ) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [something about you](https://open.spotify.com/album/1BAfEPPiyIrzglzOqdtPra) | 4:17 | 2025-05-15 |  |
 | [something ended before it \(even\) started](https://open.spotify.com/track/0U1tkoPAGFEOFuu8nP8iWP) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [something ended before it \(even\) started](https://open.spotify.com/album/3WzrEP4minGAidLPr9hT4F) | 3:05 | 2025-07-24 | 2025-11-07 |
+| [Something On Your Mind](https://open.spotify.com/track/4d8mYo1J66ro1l0vk7YPJo) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI), [The Soul & Rollers](https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu) | [Something on Your Mind](https://open.spotify.com/album/5DnLaYwlXBwFQfQaey3jZV) | 4:43 | 2026-06-18 |  |
 | [Sonder \(feat\. Valentine\)](https://open.spotify.com/track/1G4PULBh1Geupl2F7ocy0W) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Valentine](https://open.spotify.com/artist/0b7yUYbKbidPYkoLNAN56k) | [Sonder](https://open.spotify.com/album/6btTGzpKcQuQLAjHynSXmm) | 4:28 | 2025-06-12 | 2025-08-08 |
 | [SORRY](https://open.spotify.com/track/6Q7pIoM5pOxFjO22Kh3uLx) | [Jody & aydra](https://open.spotify.com/artist/3rqX9hDew9TgmrGYnHJomq), [Shanda](https://open.spotify.com/artist/0AhFkmSnFP9JDAYbDhmI5c), [Aydra](https://open.spotify.com/artist/3XHPvm1Iii0r0ytrwX6kxb), [JODY MHR](https://open.spotify.com/artist/3Jzy798xBbaf0f7rOHed0m) | [SORRY](https://open.spotify.com/album/3EwQtrnD07yc7k1f1elWfK) | 2:52 | 2026-02-13 | 2026-05-31 |
 | [sorry i phone you](https://open.spotify.com/track/5RE0AB2tC2XzzvV4UIgFR9) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [sorry i phone you](https://open.spotify.com/album/1Jobt4hAKFliWO22VB1SLI) | 3:40 | 2024-09-19 | 2025-01-24 |
@@ -599,6 +603,7 @@
 | [Touch \(feat\. Khole\)](https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [Touch \(feat\. Khole\)](https://open.spotify.com/album/1zt6yq7LpII2AJqG6PJxEw) | 3:30 | 2025-05-01 | 2025-07-11 |
 | [Train Ride Home](https://open.spotify.com/track/4KzFWYSUwLYtqBP0wfECID) | [aya](https://open.spotify.com/artist/4CRwvKZuSEGCjntogXqo1N) | [Train Ride Home](https://open.spotify.com/album/51mLBZhsNZY04UPcZSgHj5) | 3:39 | 2025-04-17 | 2025-06-13 |
 | [Transition](https://open.spotify.com/track/77Cm7H3RvqXE9kXvuXjXUA) | [Soul Of Decay](https://open.spotify.com/artist/3OXI7ZdQqQyR9UmB8wExHA) | [Transition](https://open.spotify.com/album/7t2BiD6aTuWb677C2tLm93) | 4:24 | 2024-09-26 | 2025-01-24 |
+| [Trip To The Sun](https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw) | [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL) | [Trip To The Sun](https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF) | 7:23 | 2026-06-18 |  |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-09-29 |  |
 | [Trust In You](https://open.spotify.com/track/2qNDCgnhSyeNY8qKuhmtfZ) | [Nadine Makalew](https://open.spotify.com/artist/6UFupqwbvGBTWEypGDhHKm) | [Trust In You](https://open.spotify.com/album/244OxAsKiOMITFV3UcpawN) | 4:43 | 2025-05-08 | 2025-07-11 |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-10-11 |

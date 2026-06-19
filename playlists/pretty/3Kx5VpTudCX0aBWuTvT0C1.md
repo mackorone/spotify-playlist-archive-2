@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,776 likes - 54 songs - 3 hr 20 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,796 likes - 62 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,13 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 52 | [Stop Bugging Me](https://open.spotify.com/track/6vB5GtdaVnKxI9oKLSJp1I) | [A&A Music](https://open.spotify.com/artist/44JpteVluI2YY0TpZw3E2a) | [Stop Bugging Me](https://open.spotify.com/album/1cvkR5d7O9u6exG68IQjwi) | 2:54 |
 | 53 | [Máquina do Tempo](https://open.spotify.com/track/2fsNfAmCoUBt07rzR2S2Wc) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [Máquina do Tempo](https://open.spotify.com/album/3AYQcmPWOwxGe7eGbLyadE) | 3:32 |
 | 54 | [Stand Up & Be Counted](https://open.spotify.com/track/1PQ0PlBi5kLbr5KwWgSQTL) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Stand Up & Be Counted](https://open.spotify.com/album/1Yq6WXlcFcTgksdh0UP9Ig) | 4:42 |
+| 55 | [IYKYK](https://open.spotify.com/track/7wW7kNGVWUjFYTrBOpxl9F) | [LOOM!](https://open.spotify.com/artist/4m7b8YVJXc2RlWkuJ58BEY), [Zac George](https://open.spotify.com/artist/5kRb45Iu6aafhD6UbF2344) | [ilLOOM!nate](https://open.spotify.com/album/5J09AiwM6RnQHO3SYlkjjx) | 3:00 |
+| 56 | [Cool Beans](https://open.spotify.com/track/0oiXqI9221znTkKHYpTL4d) | [Lovechild](https://open.spotify.com/artist/63joINATp7Ko83hV2D3UtU) | [Cool Beans](https://open.spotify.com/album/5ZGn1aZsdn2CwVNic1kXD6) | 3:53 |
+| 57 | [como la luna](https://open.spotify.com/track/50zdQV83gf1guuk6bBBUDJ) | [young llop.mp3](https://open.spotify.com/artist/1alG0IPqW3stdy2R7Sc7bK) | [como la luna](https://open.spotify.com/album/2vvmzqz0afaGSA1kSHons0) | 1:44 |
+| 58 | [You Were The One](https://open.spotify.com/track/0RxMAdHlXWQYK8iTPb0Z3C) | [Chain Avenue](https://open.spotify.com/artist/3wGXfF2V7Gole9ALgupdFO) | [You Were The One](https://open.spotify.com/album/3eFt5Sv8i1AqcGskcvK6sX) | 4:45 |
+| 59 | [Keep Rolling](https://open.spotify.com/track/22tLz4zLcrXq01kuytDFmF) | [Ben Inglis](https://open.spotify.com/artist/2r3FpNCAd37vbXzHwhMRJL) | [Hope](https://open.spotify.com/album/799k67euMDZHQy4pr15ytl) | 3:45 |
+| 60 | [Balla da solo](https://open.spotify.com/track/5i2OJvqlBWWuBNC3FTqOPM) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Balla da solo](https://open.spotify.com/album/6goetFqE7uwg4jYxk0THyA) | 3:20 |
+| 61 | [Polaroid](https://open.spotify.com/track/3MiHgdxNBYMNAmna2i6Mvl) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Polaroid](https://open.spotify.com/album/0cAdWCQ0QQmj3dJy0jZH94) | 2:39 |
+| 62 | [Bara](https://open.spotify.com/track/50hb6zxmJMxrfavhe0fyn7) | [Merah](https://open.spotify.com/artist/0SqG39qV2HtVNgtjKSKGXQ) | [Utara](https://open.spotify.com/album/2Ds4iV3LPSya4zyVBHqhcn) | 3:49 |
 
-Snapshot ID: `AAACqA3MXCh4wWCcjz7CMsujmuVtnACA`
+Snapshot ID: `AAACsJcTYN4ukbqiiJqyCzmDbR+0sYdD`

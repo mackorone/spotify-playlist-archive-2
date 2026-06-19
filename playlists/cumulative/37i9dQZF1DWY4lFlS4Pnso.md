@@ -2,9 +2,9 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Ariana Grande
+> The UK's biggest playlist\. Cover: Olivia Rodrigo
 
-485 songs - 1 day 1 hr 50 min
+486 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 | 2026-03-20 |  |
 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 | 2026-02-27 |  |
 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-13 | 2026-05-27 |
+| [drop dead](https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:44 | 2026-06-18 |  |
 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-17 | 2026-06-12 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-20 |  |
 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 | 2025-07-17 | 2025-08-08 |
@@ -411,7 +412,7 @@
 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 | 2024-10-10 | 2024-11-22 |
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-05-17 | 2024-06-14 |
 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 | 2025-06-05 | 2025-10-07 |
-| [Talk of the Town](https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk of the Town](https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU) | 3:13 | 2025-11-14 |  |
+| [Talk of the Town](https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk of the Town](https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU) | 3:13 | 2025-11-14 | 2026-06-19 |
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-14 | 2024-07-16 |
 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-03-20 |  |
 | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 | 2025-10-23 | 2025-12-19 |

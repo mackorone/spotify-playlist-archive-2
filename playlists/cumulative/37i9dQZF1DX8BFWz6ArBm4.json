@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Petros Iakovidis",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Katerina",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Ase Oti Kaneis",
+        "url": "https://open.spotify.com/album/6UVZFYaPgMJ66oHCAawL0e"
+      },
+      "artists": [
+        {
+          "name": "Apostolia Zoi",
+          "url": "https://open.spotify.com/artist/1Bkxsw4F0k3dwgA1GtpPaJ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Ase Oti Kaneis",
+      "url": "https://open.spotify.com/track/2fSUhpsHAuW3exWwQiAI3s"
+    },
+    {
+      "album": {
         "name": "Aspromavro",
         "url": "https://open.spotify.com/album/6R72Tmo2w195Rkh7rd2SW9"
       },
@@ -568,6 +586,24 @@
       "duration_ms": 245925,
       "name": "Aspromavro",
       "url": "https://open.spotify.com/track/7xN62pSQUKRrYr2ofWt1WD"
+    },
+    {
+      "album": {
+        "name": "Astrofeggia",
+        "url": "https://open.spotify.com/album/4cUAyISg8OcodUZnE1LLIq"
+      },
+      "artists": [
+        {
+          "name": "Katerina",
+          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187602,
+      "name": "Astrofeggia",
+      "url": "https://open.spotify.com/track/6VYarRcF6WxGDZ0BejmCR9"
     },
     {
       "album": {
@@ -1671,6 +1707,36 @@
     },
     {
       "album": {
+        "name": "Gia To Kalo Mou",
+        "url": "https://open.spotify.com/album/2BS6POovpDW5cFp7sBgxjZ"
+      },
+      "artists": [
+        {
+          "name": "Greg",
+          "url": "https://open.spotify.com/artist/3uBNVjDel3HFDLBmNt4ork"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        },
+        {
+          "name": "Johnny King",
+          "url": "https://open.spotify.com/artist/49OXQoObhn6uR1vgOeNlku"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156176,
+      "name": "Gia To Kalo Mou",
+      "url": "https://open.spotify.com/track/4Ga61DQK2yrGSkh0xn9iur"
+    },
+    {
+      "album": {
         "name": "Gia Tsigara Tha Vgo",
         "url": "https://open.spotify.com/album/2wsA6wD6wWy47tpji5MQZw"
       },
@@ -1990,7 +2056,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 227000,
       "name": "Kai Eis Anotera",
       "url": "https://open.spotify.com/track/03Fk1HBXI8zwOqOSqA8n5D"
@@ -2222,7 +2288,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 166800,
       "name": "Katarameni Kardia",
       "url": "https://open.spotify.com/track/36X7kwEYIWh6gQtB4MGZaJ"
@@ -2648,7 +2714,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 181894,
       "name": "Mavra Matia",
       "url": "https://open.spotify.com/track/3KpyeBandv07ri3WUu111o"
@@ -2706,7 +2772,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 222397,
       "name": "Me 'Geia Sou",
       "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
@@ -2910,6 +2976,24 @@
       "duration_ms": 149166,
       "name": "Minima Estali",
       "url": "https://open.spotify.com/track/5OnqWLsfht6mBiUSD2NDA9"
+    },
+    {
+      "album": {
+        "name": "Monadikos Ipefthinos",
+        "url": "https://open.spotify.com/album/49VzWCWmhDkrdnIg3npogS"
+      },
+      "artists": [
+        {
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210337,
+      "name": "Monadikos Ipefthinos",
+      "url": "https://open.spotify.com/track/66wNGWlJ3jl50Yfrp9U1iC"
     },
     {
       "album": {
@@ -3654,7 +3738,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 215003,
       "name": "Perno Tin Efthini",
       "url": "https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP"
@@ -5142,6 +5226,28 @@
       "duration_ms": 190053,
       "name": "To Pairno Pano Mou",
       "url": "https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb"
+    },
+    {
+      "album": {
+        "name": "To Proto Sou Fili",
+        "url": "https://open.spotify.com/album/2hB4UWuI7bYEd1L4QUOZWR"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Papadopoulos",
+          "url": "https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz"
+        },
+        {
+          "name": "Stella Konitopoulou",
+          "url": "https://open.spotify.com/artist/5yvbulfXEj6VIoVUvADLAd"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201013,
+      "name": "To Proto Sou Fili",
+      "url": "https://open.spotify.com/track/5KKrxq8JQ90ETCeRgeKGcT"
     },
     {
       "album": {

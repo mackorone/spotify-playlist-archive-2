@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,299 songs - 4 day 23 hr 16 min
+2,301 songs - 4 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1020,7 +1020,7 @@
 | [Ingenting](https://open.spotify.com/track/0L7mmcpKaTk5cCJqEF9vVf) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Ingenting](https://open.spotify.com/album/1HRxwe5kL63xBlXg4yszJQ) | 2:47 | 2026-02-12 |  |
 | [Ingenting](https://open.spotify.com/track/0s9EtdTE9sOz9jfaDP9nSS) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Ingenting](https://open.spotify.com/album/1c6w3smUTkjQ1m3KJEbdxr) | 3:08 | 2024-09-05 | 2024-11-26 |
 | [Ingenting](https://open.spotify.com/track/3t6K2juWZJbEEWWXM8YMjL) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Ingenting](https://open.spotify.com/album/3DqUAzuwPpxBZDEwiL10aw) | 2:47 | 2024-05-02 | 2024-06-01 |
-| [INGET E SAMMA](https://open.spotify.com/track/13aLtHCE3vPPDCct3nz6Iz) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [INGET E SAMMA](https://open.spotify.com/album/3vEuDEYKjbonMqING0XegG) | 2:32 | 2026-04-16 |  |
+| [INGET E SAMMA](https://open.spotify.com/track/13aLtHCE3vPPDCct3nz6Iz) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [INGET E SAMMA](https://open.spotify.com/album/3vEuDEYKjbonMqING0XegG) | 2:32 | 2026-04-16 | 2026-06-19 |
 | [Inget Lyckligt Slut](https://open.spotify.com/track/4EBbpAV9bKR4Foux4Z7JgS) | [Aron Milton](https://open.spotify.com/artist/3SYEMg6Y8f6aK5TFM4ENam) | [Inget Lyckligt Slut](https://open.spotify.com/album/0bZEnULFwN0Qbqiydexcbs) | 2:24 | 2024-08-08 | 2024-09-29 |
 | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat) | 2:28 | 2025-01-16 | 2025-05-16 |
 | [Inget som ändras](https://open.spotify.com/track/6LiZ1HFli2pMZTtWT7JDl9) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Inget som ändras](https://open.spotify.com/album/0T7S5nRJfHdV4i0yYULoi2) | 2:17 | 2025-01-30 | 2025-02-18 |
@@ -1056,6 +1056,7 @@
 | [Ja visst gör det ont](https://open.spotify.com/track/4Iz9mYKm1If0cX5WdKGlCz) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Ja visst gör det ont](https://open.spotify.com/album/1vPi8ZtpnKZyoyv2qDZuOK) | 3:17 | 2025-05-01 | 2025-07-15 |
 | [Jag borde gå](https://open.spotify.com/track/2v9FTezxTq2caERaOKGgdr) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Jag borde gå](https://open.spotify.com/album/4qFOfgIEz5MkWQCi5renDw) | 3:37 | 2024-10-10 | 2025-02-22 |
 | [Jag drömmer mig fri](https://open.spotify.com/track/1eH7fE5AZvPC8CxQrUAim3) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Jag drömmer mig fri](https://open.spotify.com/album/3BDnwsKU1qJWNTSuCrzjqe) | 3:11 | 2024-05-23 | 2024-06-21 |
+| [Jag fick andas den tunna luften](https://open.spotify.com/track/52KmKPexchX9q9wD3fd1hw) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Jag fick andas den tunna luften](https://open.spotify.com/album/2i8RBUG1MJ7TP02SKWDAoC) | 3:29 | 2026-06-18 |  |
 | [Jag har en sång](https://open.spotify.com/track/5EEBaNtTSxGAFDDvF4u0to) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Jag har en sång](https://open.spotify.com/album/54APrhPiWgvMab1fFU8wiJ) | 1:12 | 2021-12-16 | 2022-05-10 |
 | [Jag har förlorat](https://open.spotify.com/track/3CGAR7UtTiFLo4vAe769OV) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Jag har förlorat](https://open.spotify.com/album/52AFXBDfUYZZ9fm7NnUahq) | 2:56 | 2025-11-20 | 2026-03-20 |
 | [Jag har hört \(hahaha\)](https://open.spotify.com/track/5o1xTXO39jqeXhieh98rPa) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Jag har hört \(hahaha\)](https://open.spotify.com/album/7c0z1WRR2XXs2C6DWZLbD6) | 3:05 | 2025-05-08 | 2025-10-17 |
@@ -1318,6 +1319,7 @@
 | [Midsommar](https://open.spotify.com/track/1BWDrue8iLx0niKoUu5f8c) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Midsommar](https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q) | 2:49 | 2024-06-06 | 2024-08-09 |
 | [Midsommardansen](https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Midsommardansen](https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W) | 2:04 | 2024-06-13 | 2024-08-16 |
 | [Midsommarregn](https://open.spotify.com/track/43IOnIz4jMrU6qjPgiTtVL) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Midsommarregn](https://open.spotify.com/album/4lsbgqoNTEO987jBWDAh8w) | 3:11 | 2026-06-11 |  |
+| [Midsummer](https://open.spotify.com/track/4zFTHnd6J02sxwaqiHCDbn) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Midsummer](https://open.spotify.com/album/6Bq3FPWmydEJTfOLqTlJac) | 3:07 | 2026-06-18 |  |
 | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S) | 2:56 | 2025-09-11 | 2026-02-06 |
 | [Mika](https://open.spotify.com/track/1xv6D146GY71LviF0cT52P) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Mika](https://open.spotify.com/album/4FSUbcwDoAcFtSo1MAZTC6) | 4:28 | 2024-06-06 | 2024-08-09 |
 | [Mildest High](https://open.spotify.com/track/6YCe7aJVBWDEkJklrjVwmy) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Mildest High](https://open.spotify.com/album/5V7zY5PJ0sl5hgT7Jow9pQ) | 3:03 | 2022-06-23 | 2022-07-23 |
@@ -1835,7 +1837,7 @@
 | [Stars](https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [God Bless Sweden](https://open.spotify.com/album/58fHScs4YWTociyx6ekWff) | 3:05 | 2026-02-05 |  |
 | [Start Walking](https://open.spotify.com/track/4UEzD2NPm9yZ0cLTB9Lo6z) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Start Walking](https://open.spotify.com/album/4JhxpPwRhUf0RzHuHSsZ3O) | 3:14 | 2021-12-16 | 2022-03-09 |
 | [Stay Awake](https://open.spotify.com/track/67rLEjVfBaTus10bbL8zLN) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Put Your Self Out There](https://open.spotify.com/album/55zVsU9v9bo3P253vEhMDi) | 4:20 | 2021-12-16 | 2022-01-09 |
-| [Stay the night](https://open.spotify.com/track/7DmN7TkryZZXguVrf0OZ6P) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Stay the night](https://open.spotify.com/album/5K8feSbLR4ICxuJh1hmTCV) | 2:47 | 2026-02-19 |  |
+| [Stay the night](https://open.spotify.com/track/7DmN7TkryZZXguVrf0OZ6P) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Stay the night](https://open.spotify.com/album/5K8feSbLR4ICxuJh1hmTCV) | 2:47 | 2026-02-19 | 2026-06-19 |
 | [Stay The Same](https://open.spotify.com/track/1x2HCmiEv5CSEltweAkOW8) | [Vide](https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539) | [Stay The Same](https://open.spotify.com/album/74i4fawNhn1B7aXv2s6BSa) | 2:58 | 2024-01-25 | 2024-03-15 |
 | [Stay.](https://open.spotify.com/track/3vqnnGl5PYzj0eRXEuDVNb) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Stay.](https://open.spotify.com/album/7kpupdVQCbCdiVp0B8bMn8) | 3:19 | 2023-02-09 | 2023-02-17 |
 | [Steep Hills](https://open.spotify.com/track/6Ie9IKWu7PRwW80gTbSxKP) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Steep Hills](https://open.spotify.com/album/0G3wnAeXMgPqWvE4ZyH4AS) | 3:07 | 2025-09-25 | 2026-02-13 |

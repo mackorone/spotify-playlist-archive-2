@@ -6934,6 +6934,24 @@
     {
       "album": {
         "name": "Maaye",
+        "url": "https://open.spotify.com/album/2gPHStaeEs6sWjh45UeafW"
+      },
+      "artists": [
+        {
+          "name": "Mysore Xpress",
+          "url": "https://open.spotify.com/artist/3z6Qc4vYphJb18Rr0jGHuC"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Maaye",
+      "url": "https://open.spotify.com/track/5Peit3m6hkYPSOohtGk0Wu"
+    },
+    {
+      "album": {
+        "name": "Maaye",
         "url": "https://open.spotify.com/album/22VakWdcdmjkEeWmXDKz3Y"
       },
       "artists": [

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,525 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,554 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 61 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
 | 62 | [Go Big Or Go Home](https://open.spotify.com/track/1obisQNOcikRvTdStbW3pG) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [What We Live For](https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW) | 2:49 |
 | 63 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
-| 64 | [Work This Body](https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 2:57 |
-| 65 | [HOLD ME TIGHT OR DON’T](https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:30 |
+| 64 | [HOLD ME TIGHT OR DON’T](https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:30 |
+| 65 | [Work This Body](https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 2:57 |
 | 66 | [Never Going Back](https://open.spotify.com/track/5k02Wjsu2MdpF3c9VFQD0k) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:17 |
 | 67 | [Heartbeat](https://open.spotify.com/track/2atYprr9JsQaLynGhrWhld) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Scars & Stories](https://open.spotify.com/album/1Nu3r7EuveXog0rPvXExSF) | 3:40 |
 | 68 | [The Last Time](https://open.spotify.com/track/600oiqLkQIJ85HvQGIQWvO) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Sunsets & Full Moons](https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM) | 3:16 |

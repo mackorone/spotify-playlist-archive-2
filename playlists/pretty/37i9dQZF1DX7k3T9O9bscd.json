@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Boards Of Canada on cover.",
-  "num_followers": 578417,
+  "num_followers": 578455,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Incantations",
-        "url": "https://open.spotify.com/album/6pNIpNj7nvflNzEfQNnKTa"
-      },
-      "artists": [
-        {
-          "name": "Ed O'Brien",
-          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
-        }
-      ],
-      "duration_ms": 461733,
-      "name": "Incantations",
-      "url": "https://open.spotify.com/track/4y1MVdL0uL83S8fdDw9M78"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Ananda Shankar (US Internet Release)",
         "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 215866,
       "name": "Jumpin' Jack Flash",
       "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Incantations",
+        "url": "https://open.spotify.com/album/6pNIpNj7nvflNzEfQNnKTa"
+      },
+      "artists": [
+        {
+          "name": "Ed O'Brien",
+          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
+        }
+      ],
+      "duration_ms": 461733,
+      "name": "Incantations",
+      "url": "https://open.spotify.com/track/4y1MVdL0uL83S8fdDw9M78"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 159078,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Primos (with Hermanos Guti\u00e9rrez)",
         "url": "https://open.spotify.com/album/3tr64TtgZxkBgIOs3xJUpE"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 159078,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 257972,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Time Bazaar",
+        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
+      },
+      "artists": [
+        {
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Time Bazaar",
+      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -515,18 +531,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Time Bazaar",
-        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
+        "name": "Barrio Hustle",
+        "url": "https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV"
       },
       "artists": [
         {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Time Bazaar",
-      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
+      "duration_ms": 194400,
+      "name": "Barrio Hustle",
+      "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -559,22 +575,6 @@
       "duration_ms": 289000,
       "name": "Angeles",
       "url": "https://open.spotify.com/track/1WRwNkPolcW0a6sveTUBY8"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
-        "name": "Barrio Hustle",
-        "url": "https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Barrio Hustle",
-      "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Season Finale",
-        "url": "https://open.spotify.com/album/1vnozWw44b4fNNhV4sSNQP"
-      },
-      "artists": [
-        {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
-        }
-      ],
-      "duration_ms": 200476,
-      "name": "Season Finale",
-      "url": "https://open.spotify.com/track/3LSAVMvco9SOlZgOePCwYz"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Cinnamon Temple",
         "url": "https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 200664,
       "name": "Cinnamon Temple",
       "url": "https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Season Finale",
+        "url": "https://open.spotify.com/album/1vnozWw44b4fNNhV4sSNQP"
+      },
+      "artists": [
+        {
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+        }
+      ],
+      "duration_ms": 200476,
+      "name": "Season Finale",
+      "url": "https://open.spotify.com/track/3LSAVMvco9SOlZgOePCwYz"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Fudge Sandwich",
-        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Hit It and Quit It",
-      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "The Real Work",
         "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 266737,
       "name": "Risky Behaviour",
       "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Fudge Sandwich",
+        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Hit It and Quit It",
+      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Fliiim",
-        "url": "https://open.spotify.com/album/3FoCvSpo76YEUAt98FSKAq"
-      },
-      "artists": [
-        {
-          "name": "Upupay\u0101ma",
-          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
-        }
-      ],
-      "duration_ms": 329102,
-      "name": "Fliiim",
-      "url": "https://open.spotify.com/track/1aAsUzTj2bIH6cAHLsacKw"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Cardboard Pile",
         "url": "https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 239263,
       "name": "Dune",
       "url": "https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Fliiim",
+        "url": "https://open.spotify.com/album/3FoCvSpo76YEUAt98FSKAq"
+      },
+      "artists": [
+        {
+          "name": "Upupay\u0101ma",
+          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+        }
+      ],
+      "duration_ms": 329102,
+      "name": "Fliiim",
+      "url": "https://open.spotify.com/track/1aAsUzTj2bIH6cAHLsacKw"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
+        "name": "A Round of Applause",
+        "url": "https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw"
+      },
+      "artists": [
+        {
+          "name": "Hooveriii",
+          "url": "https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7"
+        }
+      ],
+      "duration_ms": 265374,
+      "name": "See",
+      "url": "https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
         "name": "On The Double (Remastered & Expanded)",
         "url": "https://open.spotify.com/album/4do5fIXEU2wKuiBJ0qBZJQ"
       },
@@ -1399,38 +1415,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "A Round of Applause",
-        "url": "https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw"
-      },
-      "artists": [
-        {
-          "name": "Hooveriii",
-          "url": "https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7"
-        }
-      ],
-      "duration_ms": 265374,
-      "name": "See",
-      "url": "https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
-        "name": "Ah Yoluna!",
-        "url": "https://open.spotify.com/album/5PmuMgHnAPqx9ozpGWfTTX"
-      },
-      "artists": [
-        {
-          "name": "Sedef Seb\u00fcktekin",
-          "url": "https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ah Yoluna!",
-      "url": "https://open.spotify.com/track/38DG2RKEcGgpxG5YANVP5G"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Not Normal",
         "url": "https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 486860,
       "name": "Mother Seletta",
       "url": "https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Ah Yoluna!",
+        "url": "https://open.spotify.com/album/5PmuMgHnAPqx9ozpGWfTTX"
+      },
+      "artists": [
+        {
+          "name": "Sedef Seb\u00fcktekin",
+          "url": "https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ah Yoluna!",
+      "url": "https://open.spotify.com/track/38DG2RKEcGgpxG5YANVP5G"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "PISS! PEAS! PEACE!",
-        "url": "https://open.spotify.com/album/1JQEawqqWequOQOz2i72HZ"
+        "name": "Microshift",
+        "url": "https://open.spotify.com/album/3wDOavy8yEk8G2c0mfyTsA"
       },
       "artists": [
         {
-          "name": "Lovvb\u00f6mbing!",
-          "url": "https://open.spotify.com/artist/2fCM484FPEFRbjqqpU1sjt"
+          "name": "Hookworms",
+          "url": "https://open.spotify.com/artist/7c5Qvy0cv7VGzRnUSwnSnj"
         }
       ],
-      "duration_ms": 172725,
-      "name": "Esquisito River",
-      "url": "https://open.spotify.com/track/16HGLBTpgw5VKclztUUayG"
+      "duration_ms": 228693,
+      "name": "Static Resistance",
+      "url": "https://open.spotify.com/track/0eOAeqbD5sxU77qdHSYLOY"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Microshift",
-        "url": "https://open.spotify.com/album/3wDOavy8yEk8G2c0mfyTsA"
+        "name": "PISS! PEAS! PEACE!",
+        "url": "https://open.spotify.com/album/1JQEawqqWequOQOz2i72HZ"
       },
       "artists": [
         {
-          "name": "Hookworms",
-          "url": "https://open.spotify.com/artist/7c5Qvy0cv7VGzRnUSwnSnj"
+          "name": "Lovvb\u00f6mbing!",
+          "url": "https://open.spotify.com/artist/2fCM484FPEFRbjqqpU1sjt"
         }
       ],
-      "duration_ms": 228693,
-      "name": "Static Resistance",
-      "url": "https://open.spotify.com/track/0eOAeqbD5sxU77qdHSYLOY"
+      "duration_ms": 172725,
+      "name": "Esquisito River",
+      "url": "https://open.spotify.com/track/16HGLBTpgw5VKclztUUayG"
     },
     {
       "added_at": "2026-05-22 06:00:37",

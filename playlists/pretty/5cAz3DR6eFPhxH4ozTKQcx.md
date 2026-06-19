@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5cAz3DR6eFPhxH4ozTKQcx.md) - [plain]
 
 > The perfect summer pop playlist.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 17,954 likes - 71 songs - 4 hr 28 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 17,954 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,14 @@ pretty - [cumulative](/playlists/cumulative/5cAz3DR6eFPhxH4ozTKQcx.md) - [plain]
 | 69 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
 | 70 | [Starships](https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 3:30 |
 | 71 | [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 |
+| 72 | [Your Man](https://open.spotify.com/track/4TPffFD4gwGRkTlRBHCfLN) | [Down With Webster](https://open.spotify.com/artist/6eMqM0bpqakYd4EA857uD9) | [Time To Win Vol\. I](https://open.spotify.com/album/3b2Gs0VNYB8sagQNvw8Q3R) | 2:48 |
+| 73 | [Brand New Bitch](https://open.spotify.com/track/2vmcUnGT4lFCatd32W9m2Y) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Brand New Bitch](https://open.spotify.com/album/5auEqJgICdGToMeuo00SH1) | 3:31 |
+| 74 | [Crabbuckit](https://open.spotify.com/track/2OYGJtZJTpu0ZobeWKNYvd) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Joyful Rebel Lion+](https://open.spotify.com/album/0JtLoKQeVLTo2WLHEKC4KE) | 3:47 |
+| 75 | [Dangerous](https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 4:06 |
+| 76 | [Best I Ever Had](https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 4:17 |
+| 77 | [Seven Day Fool](https://open.spotify.com/track/68Vb8dhUtY7xXgAc9WONXc) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/2PpxaPsS6U1bhDNG2sMf2q) | 3:25 |
+| 78 | [Africa](https://open.spotify.com/track/53onmUGun86TIYGuzdLK4e) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7), [culture](https://open.spotify.com/artist/3d0xDVCFawEdnFSXDsfKhk) | [Bite the Bullet](https://open.spotify.com/album/1gafh6OIc0rN1o1KiD6F9D) | 3:56 |
+| 79 | [Summer Girl](https://open.spotify.com/track/6H2kYBCW4eUGxL4sFN4XRE) | [Stereos](https://open.spotify.com/artist/6TMtMBhcyfl7kY8eocOmpo) | [Stereos \(Deluxe Version\)](https://open.spotify.com/album/5i1g0m5VtiVidPeoyiqfjS) | 2:45 |
+| 80 | [Throw Ya Hands Up \- Feat\. Jhevon Paris](https://open.spotify.com/track/6RcpTSqRtG7ljMO2WXXbqa) | [Stereos](https://open.spotify.com/artist/6TMtMBhcyfl7kY8eocOmpo), [Jhevon Paris](https://open.spotify.com/artist/1QZ2JMUuLIwMjVNUE29juM) | [Stereos \(Deluxe Version\)](https://open.spotify.com/album/5i1g0m5VtiVidPeoyiqfjS) | 2:42 |
 
-Snapshot ID: `AAAPVH4VJBbRy7Gd1Rpnkc6nI/nTCN+R`
+Snapshot ID: `AAAPXaf74OI9mYollbNRM5zBiON2tmma`

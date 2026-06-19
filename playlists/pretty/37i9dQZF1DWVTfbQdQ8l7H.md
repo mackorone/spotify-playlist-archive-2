@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 
 > Unforgettable love songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,213 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,379 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 | 56 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
 | 57 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
 | 58 | [Lay Me Down](https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 4:13 |
-| 59 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/0GxQ1A5L9xnMOytbP6eKBG) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:19 |
+| 59 | [Girls Like You](https://open.spotify.com/track/7npLlaPu9Mfno8hjk5OagD) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:35 |
 | 60 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 |
 | 61 | [Imagination](https://open.spotify.com/track/21TcDbGosp7w9YhTjOszgA) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/5Jov5724Nz13A302HM2eKG) | 3:37 |
 | 62 | [Love Someone](https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [3 \(The Purple Album\)](https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj) | 3:25 |
 | 63 | [I Won't Give Up](https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 4:00 |
-| 64 | [Girls Like You](https://open.spotify.com/track/7npLlaPu9Mfno8hjk5OagD) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:35 |
+| 64 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/0GxQ1A5L9xnMOytbP6eKBG) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:19 |
 | 65 | [Say Something](https://open.spotify.com/track/5TvE3pk05pyFIGdSY9j4DJ) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There? \- Track by Track Commentary](https://open.spotify.com/album/3kwbwO3wtwyNo7zCFzWkcW) | 3:49 |
 | 66 | [Back To You](https://open.spotify.com/track/514rhnksEwHUh6LxXsQ4Y9) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 3:30 |
 | 67 | [Say You Won't Let Go](https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Say You Won't Let Go](https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC) | 3:31 |

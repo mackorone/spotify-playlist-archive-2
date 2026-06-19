@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Saif Altaf
 
-1,309 songs - 2 day 22 hr 6 min
+1,311 songs - 2 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Awara Sa](https://open.spotify.com/track/3wNz7gnVOJmUOFmd56WNiV) | [Nasir Hameed](https://open.spotify.com/artist/2eyF3W3ivD7vpcOlZea9OW), [Zaain](https://open.spotify.com/artist/7rNw0ou0vrSbdvRVOOaGGQ), [Anilka Gill](https://open.spotify.com/artist/58kbcbaAy7sBQlPtaIm3R7) | [Awara Sa](https://open.spotify.com/album/1BPQWMnB1de2Fy3rNYDlC9) | 2:51 | 2024-12-04 | 2025-05-31 |
 | [Away](https://open.spotify.com/track/3YS6dUUkrO0OoH9VWeLVIj) | [Basit Rauf](https://open.spotify.com/artist/6nkJgX8WKe7ZHv845pTZdP), [Amaizy](https://open.spotify.com/artist/0QozOd13aqX9kGziUWKzSK), [Shamikh](https://open.spotify.com/artist/5OX1k6sfpyVSusR3Ur0tHH) | [Away](https://open.spotify.com/album/4v4GyAvriTrnlWSveU3jew) | 2:58 | 2026-04-24 |  |
 | [Awazein](https://open.spotify.com/track/21FsCvvfIcIJ2Ro0FaZVhB) | [Amna Askari](https://open.spotify.com/artist/1APOwzQ3mP56pRkFIueZbh) | [Awazein](https://open.spotify.com/album/6ba06qKiokFmgg7zg6Sz3o) | 3:07 | 2024-10-23 | 2024-12-05 |
+| [Ayza](https://open.spotify.com/track/2P9iGYlazDNb71rl6NZQ7a) | [Mirza](https://open.spotify.com/artist/3djIUwbgV4atR7mW6yjyRg) | [Ayza](https://open.spotify.com/album/70Ny9AIJ943OmF17FbAX0z) | 3:33 | 2026-06-19 |  |
 | [Azlaan](https://open.spotify.com/track/3uzPshUU51enjJij6kRFdm) | [JKD](https://open.spotify.com/artist/59gC5IJNSC7Snc2e6Qb8NI) | [Azlaan](https://open.spotify.com/album/6iSWnqrix1FjV7dRVYNYTM) | 2:29 | 2022-11-17 | 2023-01-26 |
 | [Azmaish](https://open.spotify.com/track/6RokAww44FrQZLzO9cvT4M) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [superdupersultan](https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN) | [Azmaish](https://open.spotify.com/album/0xBry5VG4SBomqPRpGTdf3) | 3:24 | 2023-06-09 | 2023-08-19 |
 | [Baadal](https://open.spotify.com/track/3b1Tj3Kbq12h0uw8CTOiYc) | [uzairkay](https://open.spotify.com/artist/6zsiq45NZmGrH0C0mNs2B3) | [Baadal](https://open.spotify.com/album/3A3q1GQXuVzwHgx57XXZnV) | 3:20 | 2022-08-27 | 2023-01-11 |
@@ -1282,6 +1283,7 @@
 | [Yaad](https://open.spotify.com/track/0cdaaZMv2wKic76qw3xjOg) | [Abeer Nomani](https://open.spotify.com/artist/45wayB3R3lVfU5AtZhF5Ux), [Ammar Khaled](https://open.spotify.com/artist/6gPp9r9KbEd5qZmHYPY5Et) | [Yaad](https://open.spotify.com/album/45ll5dfe5BvmdYhnVsNpEk) | 2:05 | 2023-09-15 | 2023-10-13 |
 | [Yaad](https://open.spotify.com/track/2EnYRkkU6hEH74u0uyCrKN) | [Ramis Ali](https://open.spotify.com/artist/3orm5ed9vxXd4QlRnVQwdw) | [Yaad](https://open.spotify.com/album/4cKggSiiOT0xNqG9CpcrSM) | 3:46 | 2025-12-12 | 2025-12-27 |
 | [Yaad](https://open.spotify.com/track/5YZInrMBySNyjKh6tyd9qw) | [Saad Sheharyar](https://open.spotify.com/artist/4O4kBNNG4Rq0LeV86uLZVE) | [Yaad](https://open.spotify.com/album/6N4n730whdk58yjnHVjsK6) | 3:38 | 2024-06-04 | 2024-09-06 |
+| [Yaad](https://open.spotify.com/track/1VB6YOwFPohYJtYWL70BAh) | [The Skinny guy](https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX), [Jayyke](https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw) | [Yaad](https://open.spotify.com/album/5i5wUGGA6oYt4aML48Jp1j) | 3:37 | 2026-06-19 |  |
 | [Yaad Ayengy](https://open.spotify.com/track/6P1ByybobenHCDNYzCBZ5m) | [Dynaxty](https://open.spotify.com/artist/1Aum5XXhYTIfl41u7sBFco), [ProdByHanan](https://open.spotify.com/artist/02NnzLutNdylnx6uTmNHQM) | [Yaad Ayengy](https://open.spotify.com/album/6p92zBv3Mq2zDUyMFn37pJ) | 2:48 | 2025-12-26 | 2026-01-15 |
 | [Yaad Hai](https://open.spotify.com/track/47sOevL40fmadZK5iSmc2I) | [Farrukh Zaidi](https://open.spotify.com/artist/6LC8cHti7jpu44VKinIslZ) | [Yaad Hai](https://open.spotify.com/album/5Bs2sVEs2qFj9W9ZFTg23s) | 2:40 | 2025-10-17 | 2026-05-08 |
 | [Yaad hai mujhe](https://open.spotify.com/track/20NE5mmfJUvoTl82xKA6b8) | [Asad Naeem](https://open.spotify.com/artist/0x0qbiFCy5b2U0jHWX0FeA) | [Yaad hai mujhe](https://open.spotify.com/album/5myRTApW8k7gwJdEJ3MOAm) | 3:34 | 2025-10-03 | 2026-05-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 
 > Baba God, run am 🙏\. <br/>Cover:  Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,696 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,865 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 13 | [Attack](https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Attack](https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM) | 2:33 |
 | 14 | [Dupe](https://open.spotify.com/track/4iCUs97QSPyYaFmzDa25Tb) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:42 |
 | 15 | [Blessing](https://open.spotify.com/track/0aJa1qkgXRI4CrrRsTekTG) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:27 |
-| 16 | [By Now](https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [Promise Land](https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV) | 3:31 |
-| 17 | [Lameda](https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [LAMEDA / AWAY](https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky) | 2:16 |
+| 16 | [Lameda](https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [LAMEDA / AWAY](https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky) | 2:16 |
+| 17 | [By Now](https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [Promise Land](https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV) | 3:31 |
 | 18 | [Billionaires Club](https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:46 |
 | 19 | [Baba God](https://open.spotify.com/track/5GLAHK3yCLCZ9lzmb44EVM) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 2:44 |
 | 20 | [I Alone](https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:27 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 37 | [Al\-Jannah](https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:18 |
 | 38 | [LOL](https://open.spotify.com/track/0SIYATXVKxxgu5zYTQhAma) | [EMO Grae](https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [LOL](https://open.spotify.com/album/7KqiS61BAqMuVru4FSG5X3) | 2:46 |
 | 39 | [Lonely Road](https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Lonely Road](https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom) | 2:37 |
-| 40 | [Only God](https://open.spotify.com/track/2hl9HqcOsnosvepwql12un) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Only God](https://open.spotify.com/album/5msES2AJgY40wJpt6g61c5) | 3:12 |
-| 41 | [Rules Of Life](https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Never Fold](https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq) | 2:50 |
+| 40 | [Rules Of Life](https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Never Fold](https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq) | 2:50 |
+| 41 | [Only God](https://open.spotify.com/track/2hl9HqcOsnosvepwql12un) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Only God](https://open.spotify.com/album/5msES2AJgY40wJpt6g61c5) | 3:12 |
 | 42 | [MARIO KART](https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:51 |
 | 43 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 |
 | 44 | [Thankful](https://open.spotify.com/track/4hm34en9vhwHwHsOTHrHzM) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Promise Land](https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV) | 4:12 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 60 | [Chance](https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [ITEM VII](https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD) | 2:43 |
 | 61 | [Ashimolowo](https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:07 |
 | 62 | [Adura](https://open.spotify.com/track/1oK5IICHx1MLPdmvpA1V2j) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Adura](https://open.spotify.com/album/0Q4hbbDXyxsSQz5wWUNMe1) | 3:11 |
-| 63 | [Pay Day](https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:11 |
-| 64 | [Stormy](https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Stormy](https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB) | 2:30 |
+| 63 | [Stormy](https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Stormy](https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB) | 2:30 |
+| 64 | [Pay Day](https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:11 |
 | 65 | [OBT \(feat\. BhadBoi OML\)](https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [OBT \(feat\. BhadBoi OML\)](https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5) | 2:50 |
 | 66 | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY) | 3:12 |
 | 67 | [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 |
-| 68 | [FAMILY](https://open.spotify.com/track/65aQ76660Dd6rn40UwQVgM) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [KURIMA](https://open.spotify.com/album/5maRefSgf0qSSkTMB4lmTR) | 2:33 |
-| 69 | [Better Days](https://open.spotify.com/track/1KRjAOPqmQtP6fwTKxH0zR) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Better Days](https://open.spotify.com/album/0VOSbhA13PMQSo4MuLXSDn) | 2:32 |
+| 68 | [Better Days](https://open.spotify.com/track/1KRjAOPqmQtP6fwTKxH0zR) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Better Days](https://open.spotify.com/album/0VOSbhA13PMQSo4MuLXSDn) | 2:32 |
+| 69 | [FAMILY](https://open.spotify.com/track/65aQ76660Dd6rn40UwQVgM) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [KURIMA](https://open.spotify.com/album/5maRefSgf0qSSkTMB4lmTR) | 2:33 |
 | 70 | [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 |
 | 71 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
 | 72 | [SPIRIT](https://open.spotify.com/track/0zQFZFR4vONHRgXs6Dqp2P) | [Vicoka](https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [SPIRIT](https://open.spotify.com/album/626iZIxk6Pmb2DlnRo4FQY) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 79 | [Try \(feat\. Young Jonn\)](https://open.spotify.com/track/12Mel6t7zZlfn1CpmwL96L) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Ecstasy](https://open.spotify.com/album/7yURZkIZfXifDmWOT48TT9) | 3:34 |
 | 80 | [Sho Mo Mi](https://open.spotify.com/track/2jQuziL4jIUO8YhcRfTpZr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension](https://open.spotify.com/album/7vl3pmA09x8tV7OUYCcTZ1) | 2:34 |
 
-Snapshot ID: `AAAAACfmF3aICO7gfAjg3r2jO4w5igah`
+Snapshot ID: `AAAAANS490rDFt/3yJwRxRiSmHOuSPn4`

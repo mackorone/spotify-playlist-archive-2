@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 602483,
+  "num_followers": 602461,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Fingers To The Bone",
+      "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Sing Into My Mouth",
         "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 212486,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Fingers To The Bone",
-      "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Cold Little Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 269386,
-      "name": "Cold Little Heart - Acoustic",
-      "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Salt For Salt",
         "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 226688,
       "name": "Bilgewater",
       "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Cold Little Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 269386,
+      "name": "Cold Little Heart - Acoustic",
+      "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Benjamin Booker",
-        "url": "https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "Violent Shiver",
-      "url": "https://open.spotify.com/track/1kJP08Hra8FQBz5dG80k3m"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Rubber",
         "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 198373,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Benjamin Booker",
+        "url": "https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 166480,
+      "name": "Violent Shiver",
+      "url": "https://open.spotify.com/track/1kJP08Hra8FQBz5dG80k3m"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Oh My God Charlie Darwin (Standard)",
-        "url": "https://open.spotify.com/album/0c5QNW9WIf9fU665cHKYYV"
-      },
-      "artists": [
-        {
-          "name": "The Low Anthem",
-          "url": "https://open.spotify.com/artist/27aJr79YUyfK5ZrcFxF5u0"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "To Ohio",
-      "url": "https://open.spotify.com/track/6Es3Z9JmH7yd2HFWC77LpK"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Black Cowboys",
         "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 162473,
       "name": "Lonesome Old River Blues",
       "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Oh My God Charlie Darwin (Standard)",
+        "url": "https://open.spotify.com/album/0c5QNW9WIf9fU665cHKYYV"
+      },
+      "artists": [
+        {
+          "name": "The Low Anthem",
+          "url": "https://open.spotify.com/artist/27aJr79YUyfK5ZrcFxF5u0"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "To Ohio",
+      "url": "https://open.spotify.com/track/6Es3Z9JmH7yd2HFWC77LpK"
     },
     {
       "added_at": "2024-08-28 14:08:37",

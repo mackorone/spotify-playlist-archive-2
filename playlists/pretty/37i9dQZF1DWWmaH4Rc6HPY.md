@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! ANASOF en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,773 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,787 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 23 | [Los Paracaídas](https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Los Paracaídas](https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF) | 3:09 |
 | 24 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP) | 3:05 |
 | 25 | [Poder Quererme](https://open.spotify.com/track/4YvBNOLXZwD2wIojl2mKqa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Poder Quererme](https://open.spotify.com/album/4o47GmQFZxJK2fcaTMu9gF) | 4:26 |
-| 26 | [Amanecidos](https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tormentas Inesperadas](https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl) | 4:24 |
+| 26 | [Caída Libre \(feat\. Robe\)](https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Caída Libre \(feat\. Robe\)](https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs) | 3:31 |
 | 27 | [Nada por Hecho \(feat\. Leiva\)](https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Nada por Hecho \(feat\. Leiva\)](https://open.spotify.com/album/6dD5pmen05khim74MHtYC9) | 3:28 |
-| 28 | [Caída Libre \(feat\. Robe\)](https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Caída Libre \(feat\. Robe\)](https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs) | 3:31 |
+| 28 | [Amanecidos](https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tormentas Inesperadas](https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl) | 4:24 |
 | 29 | [Mentiras Arriesgadas](https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Mentiras Arriesgadas](https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80) | 3:32 |
 | 30 | [Cinco Horas Menos](https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 3:23 |
 | 31 | [Antes Que Me Vaya](https://open.spotify.com/track/1QAhBJKdPM569bXLy8jO4I) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [Antes Que Me Vaya](https://open.spotify.com/album/6WavcUIxvGNdxrF6ify2xQ) | 3:26 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 57 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
 | 58 | [No Volveré </3](https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [No Volveré </3](https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL) | 2:51 |
 | 59 | [Bruma](https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Bruma](https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7) | 3:21 |
-| 60 | [Despertar](https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Despertar](https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4) | 3:35 |
-| 61 | [Prometimos](https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:13 |
+| 60 | [Prometimos](https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Narvarte](https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI) | 3:13 |
+| 61 | [Despertar](https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Despertar](https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4) | 3:35 |
 | 62 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |
 | 63 | [Memoria Muscular \- Desde Abbey Road](https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [ESO Que Nos Trajo a Abbey Road](https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s) | 3:18 |
 | 64 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |

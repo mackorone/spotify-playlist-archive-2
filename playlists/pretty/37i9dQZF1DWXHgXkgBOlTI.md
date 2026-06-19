@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: CASIOPEA
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,982 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,983 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 33 | [Ready?](https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [Ready?](https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw) | 4:35 |
 | 34 | [WAVE](https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 7:32 |
 | 35 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 |
-| 36 | [Flowery Flat](https://open.spotify.com/track/0biW20fBvcGbZ2pRf9PrSH) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [BEATS+PIECES 2](https://open.spotify.com/album/6wNDoHX8SrmdzHAKKmTfzt) | 4:07 |
+| 36 | [Down In The Village](https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N) | [Quasimode](https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD) | [Oneself Likeness](https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG) | 6:30 |
 | 37 | [WOLF](https://open.spotify.com/track/2xsyDwq9ZYm9kKYZF8gD4P) | [SPECIAL OTHERS ACOUSTIC](https://open.spotify.com/artist/1evtrDEm844KI8zqxp2Rp2) | [Telepathy](https://open.spotify.com/album/3qKAQlG3pTQ2dXi9Qg6tPe) | 6:55 |
-| 38 | [Down In The Village](https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N) | [Quasimode](https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD) | [Oneself Likeness](https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG) | 6:30 |
+| 38 | [Flowery Flat](https://open.spotify.com/track/0biW20fBvcGbZ2pRf9PrSH) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [BEATS+PIECES 2](https://open.spotify.com/album/6wNDoHX8SrmdzHAKKmTfzt) | 4:07 |
 | 39 | [marten](https://open.spotify.com/track/5qqzkyf0OCSvqoSEAhNyPe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz) | 4:27 |
 | 40 | [Thrust](https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Thrust](https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz) | 4:27 |
 | 41 | [犬、逃げた。\-ver\. 2.0\-](https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX) | [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [REAL KICKS](https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL) | 3:06 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 44 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 |
 | 45 | [The Piano](https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SET FREE](https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ) | 3:48 |
 | 46 | [birth](https://open.spotify.com/track/2VXijxrpCGnWb7pM3LkYZY) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [NEW DAY](https://open.spotify.com/album/5wo4OdsI8cutqgOV1ieXbB) | 4:50 |
-| 47 | [白鳥](https://open.spotify.com/track/5cFJ2DLxeLgNE4AZsuWOrB) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 6:44 |
-| 48 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PEZ](https://open.spotify.com/artist/6jCTuQ4WpvTPoyGrSGIicE) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 |
-| 49 | [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 |
-| 50 | [フル・スロットル](https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L) | [Megapteras](https://open.spotify.com/artist/1QvXTydThOanpD5ERmVM0r) | [フル・スロットル](https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f) | 3:56 |
+| 47 | [フル・スロットル](https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L) | [Megapteras](https://open.spotify.com/artist/1QvXTydThOanpD5ERmVM0r) | [フル・スロットル](https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f) | 3:56 |
+| 48 | [白鳥](https://open.spotify.com/track/5cFJ2DLxeLgNE4AZsuWOrB) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 6:44 |
+| 49 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PEZ](https://open.spotify.com/artist/6jCTuQ4WpvTPoyGrSGIicE) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 |
+| 50 | [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 |
 
-Snapshot ID: `AAAAAAtI0sRkaYOWgqwlvWyrWBiydGTw`
+Snapshot ID: `AAAAAHL1iaSGSH4cArtVle17ckzvXynR`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6c6Ra1iI1JjhADV2gnT7p6.md) - cumulative - [plain](/playlists/plain/6c6Ra1iI1JjhADV2gnT7p6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6c6Ra1iI1JjhADV2gnT7p6)
 
-### [Compact Cassette](https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6)
+### [Compact Cassette \(Spring 2026\)](https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6)
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
@@ -3804,7 +3804,7 @@
 | [Picnic In The Rain](https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 3:15 | 2026-04-25 | 2026-05-10 |
 | [Picto](https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [Picto](https://open.spotify.com/album/3HF6TUNZTfQ9Sv6lprcVfN) | 5:09 | 2026-01-31 | 2026-02-15 |
 | [Picture in the Summer](https://open.spotify.com/track/00aOm7Cn5AZSGL2CRurhTJ) | [Newtauk Underground](https://open.spotify.com/artist/1RD5VxiraBygqdFPubaAfQ) | [Limitarianism II](https://open.spotify.com/album/3EkWOnE3VwXU2Bp9ZyKcxI) | 3:00 | 2026-06-07 |  |
-| [Picture of Return](https://open.spotify.com/track/08Iwl4JFtDD6tgSx84J2ek) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Picture of Return](https://open.spotify.com/album/0utfWf9rY1xfvtJTw9wvhU) | 4:23 | 2026-06-14 |  |
+| [Picture Of Return](https://open.spotify.com/track/08Iwl4JFtDD6tgSx84J2ek) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Picture Of Return](https://open.spotify.com/album/0utfWf9rY1xfvtJTw9wvhU) | 4:23 | 2026-06-14 |  |
 | [Picture This](https://open.spotify.com/track/32FgakSprYHGVDhxPxEeal) | [Anysia Kym](https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Purity](https://open.spotify.com/album/0yD5XUsXIt11XZhTJH8xgG) | 1:01 | 2026-02-14 | 2026-03-22 |
 | [Piece of Gum](https://open.spotify.com/track/4AamzDKtX7zc4n6hQNBlrh) | [Pet Owner](https://open.spotify.com/artist/2MAWOCGirMzh0HfAuhDESM) | [Piece of Gum](https://open.spotify.com/album/4AGYWCSquGTBBVOaTClzCR) | 3:23 | 2026-01-31 | 2026-03-01 |
 | [Piece of Gum](https://open.spotify.com/track/4Ad80Bx49KzFBb71c2aaJV) | [Pet Owner](https://open.spotify.com/artist/2MAWOCGirMzh0HfAuhDESM) | [Second Nature](https://open.spotify.com/album/5lmiQyrCVgTIwgN3YxqUKk) | 3:23 | 2026-04-18 | 2026-04-26 |

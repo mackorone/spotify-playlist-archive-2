@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 988518,
+  "num_followers": 988616,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAACKQKqmx1NDuAG2SOl/lzy5",
+  "snapshot_id": "ajHjgAAAAAA9KMhEFgg+bCKi5IxWXMau",
   "tracks": [
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do It Again",
         "url": "https://open.spotify.com/album/3kBBntDYL62xlqgnulskwv"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 207746,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Gimme That",
+      "url": "https://open.spotify.com/track/53ETzLQQKFCzykRbqWb1ph"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 276560,
       "name": "Deuces (feat. Tyga & Kevin McCall)",
       "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Gimme That",
-      "url": "https://open.spotify.com/track/53ETzLQQKFCzykRbqWb1ph"
     },
     {
       "added_at": null,
@@ -971,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Wall To Wall",
+      "url": "https://open.spotify.com/track/5Zu4UO0QlderRYNPFkbJeO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 266306,
       "name": "Wet The Bed (feat. Ludacris)",
       "url": "https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Wall To Wall",
-      "url": "https://open.spotify.com/track/5Zu4UO0QlderRYNPFkbJeO"
     }
   ],
   "unique_name": "This Is Chris Brown",

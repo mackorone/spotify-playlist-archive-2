@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 
 > Set the mood for your romantic date night with some soft and cozy Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,113 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,103 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 69 | [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 |
 | 70 | [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 |
 
-Snapshot ID: `AAAAAC0C6j9333xnaDcp9xSWqIF3VmEX`
+Snapshot ID: `AAAAABYtPdlsHMesqe+sAxb00K8qoJr9`

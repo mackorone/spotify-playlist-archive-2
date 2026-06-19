@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Merveille",
   "name": "R&Bae",
   "tracks": [
     {
@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "BAD MAN",
+        "url": "https://open.spotify.com/album/0UMLUuo3wql64St8hQsJLD"
+      },
+      "artists": [
+        {
+          "name": "Yardenn",
+          "url": "https://open.spotify.com/artist/28Ne64DUH2VrQ6WrvPuzpv"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202409,
+      "name": "BAD MAN",
+      "url": "https://open.spotify.com/track/3soVBi0EVGXd3CLNDkdozg"
+    },
+    {
+      "album": {
         "name": "Bahinileek",
         "url": "https://open.spotify.com/album/1qMsq1oqugqTR3nQQGcF3S"
       },
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 199200,
       "name": "Call Me Mommy",
       "url": "https://open.spotify.com/track/3KSfHcdJF24FCiwY9W46bo"
@@ -1882,6 +1900,24 @@
       "duration_ms": 223073,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
+    },
+    {
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/4iQgvLGbrvICDkhndJrPf7"
+      },
+      "artists": [
+        {
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187598,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/3hmS8qCuENsDJMYFniLS5n"
     },
     {
       "album": {
@@ -5796,7 +5832,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 145139,
       "name": "J'\u00e9tais pas pr\u00eat",
       "url": "https://open.spotify.com/track/15MXarDbGn1T4szDcsRX7P"
@@ -9312,7 +9348,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 130000,
       "name": "Pagaille",
       "url": "https://open.spotify.com/track/0l50aENi6niKfWWBf2CrRx"
@@ -10870,7 +10906,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 186312,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W"
@@ -11944,6 +11980,24 @@
       "duration_ms": 153240,
       "name": "Soeurci\u00e8re",
       "url": "https://open.spotify.com/track/5uguWUlKcGKjt9RB2NE3r7"
+    },
+    {
+      "album": {
+        "name": "WONDERSUMMER",
+        "url": "https://open.spotify.com/album/7rs9gnSL0Jt5vve7D43wf0"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135693,
+      "name": "Soir",
+      "url": "https://open.spotify.com/track/4ZE549LjUxCk0d9OTasc99"
     },
     {
       "album": {
@@ -14014,6 +14068,28 @@
       "duration_ms": 84107,
       "name": "\u00c0 TON AISE",
       "url": "https://open.spotify.com/track/0Y4qN0tOi83VXdtN5DRcQv"
+    },
+    {
+      "album": {
+        "name": "\u00c7a Paye Pas",
+        "url": "https://open.spotify.com/album/7kMkAWc1d7WfE6xPFgHCm0"
+      },
+      "artists": [
+        {
+          "name": "El Mvnolo",
+          "url": "https://open.spotify.com/artist/2o4gVgLrZwTpXTZvi6KZcS"
+        },
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145100,
+      "name": "\u00c7a Paye Pas",
+      "url": "https://open.spotify.com/track/0CVkIqTKrKxnXBM1HWIVN8"
     },
     {
       "album": {

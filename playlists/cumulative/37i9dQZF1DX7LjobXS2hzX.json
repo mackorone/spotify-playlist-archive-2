@@ -6067,6 +6067,28 @@
     },
     {
       "album": {
+        "name": "MONSTRE",
+        "url": "https://open.spotify.com/album/0PIKu8Kbqbef0MsIlb4GNV"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Ill\u00e9gal",
+      "url": "https://open.spotify.com/track/6xjGT0wCJvMU77T9SQUOlo"
+    },
+    {
+      "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
       },
@@ -7923,6 +7945,24 @@
     },
     {
       "album": {
+        "name": "Mademoiselle",
+        "url": "https://open.spotify.com/album/5OCHnxfcb5Rgi3SmDsZJEJ"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197435,
+      "name": "Mademoiselle",
+      "url": "https://open.spotify.com/track/6l6bh1BetpFBtKZRhNIN2v"
+    },
+    {
+      "album": {
         "name": "Make It Alright",
         "url": "https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6"
       },
@@ -8338,7 +8378,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
@@ -13668,7 +13708,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 178447,
       "name": "Woodstock",
       "url": "https://open.spotify.com/track/0oBxRhHoaLXn7pK2uaqhuN"

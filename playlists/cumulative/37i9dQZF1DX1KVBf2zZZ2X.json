@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Lovely Morning",
+        "url": "https://open.spotify.com/album/0HjC9SYv4MqU1yKjeTUeik"
+      },
+      "artists": [
+        {
+          "name": "BlunD",
+          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201402,
+      "name": "A Lovely Morning",
+      "url": "https://open.spotify.com/track/5Rch63Aa78BPZj0oCNSxLL"
+    },
+    {
+      "album": {
         "name": "A Moments Rest",
         "url": "https://open.spotify.com/album/0vakLKm6vIai7276TJhWFB"
       },
@@ -545,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Auralen",
+        "url": "https://open.spotify.com/album/54ewdSbyx4aVHbDCrIt2Vz"
+      },
+      "artists": [
+        {
+          "name": "floating echoes",
+          "url": "https://open.spotify.com/artist/1ai55OO2IZmkx2Eeze4bbe"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "Auralen",
+      "url": "https://open.spotify.com/track/2gOA6HcLxjLjcwNmjDinkV"
+    },
+    {
+      "album": {
         "name": "Autonara",
         "url": "https://open.spotify.com/album/0QIEJuKkMKaikayK0gUarO"
       },
@@ -888,7 +924,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 186537,
       "name": "Bowie - Awakening",
       "url": "https://open.spotify.com/track/63zRRZhL8x0VA64o82uh2d"
@@ -1108,6 +1144,24 @@
       "duration_ms": 164000,
       "name": "Canola Morning",
       "url": "https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet"
+    },
+    {
+      "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/7svAydlF76P8fXNRjxlfON"
+      },
+      "artists": [
+        {
+          "name": "Still North",
+          "url": "https://open.spotify.com/artist/7At7FfK9R38dadIzbpEU4c"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139999,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/700PBK2kk2obNoyjyJMc8a"
     },
     {
       "album": {
@@ -1705,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Echoes Amass",
+        "url": "https://open.spotify.com/album/6G8XGEcxhunLWlY2hiJnET"
+      },
+      "artists": [
+        {
+          "name": "Verdant Nook",
+          "url": "https://open.spotify.com/artist/3TlDwBnwnRaMmyLXdJ5KTw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "Echoes Amass",
+      "url": "https://open.spotify.com/track/6dgWBAnWRwD6Qi6vQAsVuL"
+    },
+    {
+      "album": {
         "name": "Eden of the East",
         "url": "https://open.spotify.com/album/730BK0VQLn2mMzPcyl1JTL"
       },
@@ -1752,7 +1824,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 195500,
       "name": "Empathy Through Nature",
       "url": "https://open.spotify.com/track/4rZKmona0FutPWsrRZt00l"
@@ -2022,7 +2094,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 158048,
       "name": "Fluid Movement",
       "url": "https://open.spotify.com/track/6AwQRj5u23WSlB8tctfBet"
@@ -2152,6 +2224,24 @@
       "duration_ms": 190336,
       "name": "Forest Harmonies",
       "url": "https://open.spotify.com/track/5EGbkycj0Lblt69clO8vTM"
+    },
+    {
+      "album": {
+        "name": "Forest Lullaby",
+        "url": "https://open.spotify.com/album/5TF6gS3Ftz1m1LDBpQ2Dtc"
+      },
+      "artists": [
+        {
+          "name": "Novera Rae",
+          "url": "https://open.spotify.com/artist/5YvhcITTw5wtc05jMTFCoR"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Forest Lullaby",
+      "url": "https://open.spotify.com/track/6CSV0C26dA5QIhkaGGBGmj"
     },
     {
       "album": {
@@ -4204,7 +4294,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 157329,
       "name": "Plantae",
       "url": "https://open.spotify.com/track/77shZB4gVpO99vZyIbbu9B"
@@ -5032,7 +5122,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 180638,
       "name": "Soft and Secluded",
       "url": "https://open.spotify.com/track/3pm88ndOSvKfDbC28FGb7E"
@@ -5482,7 +5572,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 161700,
       "name": "The God",
       "url": "https://open.spotify.com/track/0gLVe2ggbV7j5epUeTNo7Q"
@@ -5572,7 +5662,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 164210,
       "name": "The River Song",
       "url": "https://open.spotify.com/track/0jzdpv1d3C0k76jenFwPKI"

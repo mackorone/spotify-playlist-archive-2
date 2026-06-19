@@ -1,6 +1,6 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 475534,
+  "num_followers": 475481,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-05-18 07:50:39",
       "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+    },
+    {
+      "added_at": "2026-05-18 07:50:39",
+      "album": {
         "name": "Youngblood (Deluxe)",
         "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2026-05-18 07:50:39",
-      "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 153332,
-      "name": "Sugar On My Tongue",
-      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
       "added_at": "2026-05-18 07:50:39",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-05-18 07:50:39",
       "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 205920,
-      "name": "no tears left to cry",
-      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
       "added_at": "2026-05-18 07:50:39",

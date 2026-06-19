@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 
 > This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,137 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,155 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 49 | [Tu Nombre \- Live](https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds) | 3:20 |
 | 50 | [Esquina del Mar](https://open.spotify.com/track/30SnTwJFafPrAYHzELdUV0) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Norteña](https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ) | 3:25 |
 
-Snapshot ID: `ajCSAAAAAAA7T+E9A0/VERnvKjIDPIaG`
+Snapshot ID: `ajHjgAAAAAA5PGcbK/rHiw3xG0h1Fh0I`

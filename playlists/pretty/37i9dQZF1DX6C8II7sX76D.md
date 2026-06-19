@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,374 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,398 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 31 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 |
 | 32 | [Believe \(Shooting Stars\)](https://open.spotify.com/track/7fJdto9euM593wybpCdEPV) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Believe \(Shooting Stars\)](https://open.spotify.com/album/79WFgZm35smuyjipo6fouj) | 2:34 |
 | 33 | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 |
-| 34 | [Home \- TWINSICK Remix](https://open.spotify.com/track/1OIlJ7coFBDaUdXXuiTeBc) | [TWINSICK](https://open.spotify.com/artist/4WfO14YgktUYkdLMrHgTeF), [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Home \(TWINSICK Remix\)](https://open.spotify.com/album/7IlHsFTMweuxERXdSt8ctt) | 2:36 |
+| 34 | [Crave You](https://open.spotify.com/track/06Gw4zi1Gqg11XgRchemgJ) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down to Earth](https://open.spotify.com/album/6IFS5Kqh3GkDuApNUTNh3h) | 3:54 |
 | 35 | [Borderline](https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/5C6pN8pgjLsyIIaziZmpBN) | 1:58 |
 | 36 | [ELECTRIC LOVE](https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ), [HXRT](https://open.spotify.com/artist/1DCtwrGZTUVyULqkkAQA9E) | [ELECTRIC LOVE](https://open.spotify.com/album/4lPX7RafbFpqoHQfNvj0HG) | 2:44 |
 | 37 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 |
 | 50 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
 
-Snapshot ID: `AAAAAN968lNlVw90LL/1adDdXhAEGXm7`
+Snapshot ID: `AAAAAIyj8K0KJeFwmcBLh+baPJyAfIWc`

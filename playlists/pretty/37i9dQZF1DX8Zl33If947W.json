@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 207866,
+  "num_followers": 207899,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Kraniche (plus Track by Track)",
-        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
-      },
-      "artists": [
-        {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "Sch\u00f6nste Zeit",
-      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Mit K",
         "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 258360,
       "name": "Kein Liebeslied",
       "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Kraniche (plus Track by Track)",
+        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Sch\u00f6nste Zeit",
+      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "Diese Eine",
+        "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 138924,
+      "name": "Diese Eine",
+      "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "Mailbox",
         "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 174500,
       "name": "mailbox",
       "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
-        "name": "Diese Eine",
-        "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
-      },
-      "artists": [
-        {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
-        }
-      ],
-      "duration_ms": 138924,
-      "name": "Diese Eine",
-      "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -883,22 +883,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "WIE LIEBE GEHT",
-        "url": "https://open.spotify.com/album/3O6GezOQBYoVUm6fX9wW8k"
+        "name": "Meine Liebe",
+        "url": "https://open.spotify.com/album/5Sm78Vs7XZ2TGEm4Sr6lbV"
       },
       "artists": [
         {
-          "name": "Gregor H\u00e4gele",
-          "url": "https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt"
-        },
-        {
-          "name": "Romero",
-          "url": "https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU"
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
         }
       ],
-      "duration_ms": 146000,
-      "name": "WIE LIEBE GEHT",
-      "url": "https://open.spotify.com/track/7pk0TzbdVwQRrnrLenPme1"
+      "duration_ms": 188446,
+      "name": "Meine Liebe",
+      "url": "https://open.spotify.com/track/15vtqlvHAnWjaiQdf87zRr"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -919,18 +915,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Meine Liebe",
-        "url": "https://open.spotify.com/album/5Sm78Vs7XZ2TGEm4Sr6lbV"
+        "name": "WIE LIEBE GEHT",
+        "url": "https://open.spotify.com/album/3O6GezOQBYoVUm6fX9wW8k"
       },
       "artists": [
         {
-          "name": "Wilhelmine",
-          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+          "name": "Gregor H\u00e4gele",
+          "url": "https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt"
+        },
+        {
+          "name": "Romero",
+          "url": "https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU"
         }
       ],
-      "duration_ms": 188446,
-      "name": "Meine Liebe",
-      "url": "https://open.spotify.com/track/15vtqlvHAnWjaiQdf87zRr"
+      "duration_ms": 146000,
+      "name": "WIE LIEBE GEHT",
+      "url": "https://open.spotify.com/track/7pk0TzbdVwQRrnrLenPme1"
     },
     {
       "added_at": "2026-03-26 08:28:03",

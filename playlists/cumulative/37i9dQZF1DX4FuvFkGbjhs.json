@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: GENER8ION",
+  "description": "Beyond titles, beyond genre. Cover: Jimi Somewhere",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -2912,7 +2912,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 241373,
       "name": "Crown Jewel",
       "url": "https://open.spotify.com/track/2RxCAkAfunFJbrImtXMcTR"
@@ -3772,7 +3772,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 107000,
       "name": "Don't Cheese Me Off",
       "url": "https://open.spotify.com/track/27uWMEs9zo3Yc2ZfgNvRKR"
@@ -6256,6 +6256,28 @@
       "duration_ms": 228783,
       "name": "Heaven Is No Feeling",
       "url": "https://open.spotify.com/track/0O2xM3g14PLmfp5xKoBnkA"
+    },
+    {
+      "album": {
+        "name": "HEAVENS #1",
+        "url": "https://open.spotify.com/album/7GerVx0fR4fOHh3aITnOSm"
+      },
+      "artists": [
+        {
+          "name": "Jimi Somewhere",
+          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
+        },
+        {
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174615,
+      "name": "HEAVENS #1",
+      "url": "https://open.spotify.com/track/0nl8sLJ9FywNZu1hJSIYtT"
     },
     {
       "album": {
@@ -10898,6 +10920,28 @@
       "duration_ms": 147774,
       "name": "On With The Show",
       "url": "https://open.spotify.com/track/7eCGf54RZlK7XjxfhbIsgr"
+    },
+    {
+      "album": {
+        "name": "On Your Mind (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "On Your Mind (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7"
     },
     {
       "album": {

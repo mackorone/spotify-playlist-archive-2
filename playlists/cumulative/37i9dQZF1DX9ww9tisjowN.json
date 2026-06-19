@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Ayase",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Sasuke Haraguchi \u539f\u53e3\u6c99\u8f14",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "BLUE MOON",
+        "url": "https://open.spotify.com/album/18CXSP7SAugNUkIgahOj9I"
+      },
+      "artists": [
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203592,
+      "name": "BLUE MOON",
+      "url": "https://open.spotify.com/track/0SKSjL22ps9UPlBx5ClTGi"
+    },
+    {
+      "album": {
         "name": "Blues in the Closet",
         "url": "https://open.spotify.com/album/5C3ycPoEWRtvdBClDrH6uK"
       },
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 203728,
       "name": "Cubibibibism",
       "url": "https://open.spotify.com/track/7sh0ZVMLYh44tuFWHxLIA9"
@@ -8060,7 +8078,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 184773,
       "name": "OTONABLUE",
       "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
@@ -11254,7 +11272,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 346226,
       "name": "TYPEWRITE LESSON",
       "url": "https://open.spotify.com/track/3SSIE7ScKKBLtA7y1ZBhVu"
@@ -11628,7 +11646,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 243317,
       "name": "Vivarium",
       "url": "https://open.spotify.com/track/0HKYeAArIodGWKWwaQieJL"
@@ -14618,6 +14636,24 @@
       "duration_ms": 188348,
       "name": "\u30af\u30b9\u30b7\u30ad",
       "url": "https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O"
+    },
+    {
+      "album": {
+        "name": "\u30af\u30e9\u30a6\u30f3\u65b0\u8eca\u3067\u8cb7\u3063\u3066\u3042\u3052\u308b",
+        "url": "https://open.spotify.com/album/79IX9gKiY14TsuQ7UldJoS"
+      },
+      "artists": [
+        {
+          "name": "amazarashi",
+          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347409,
+      "name": "\u30af\u30e9\u30a6\u30f3\u65b0\u8eca\u3067\u8cb7\u3063\u3066\u3042\u3052\u308b",
+      "url": "https://open.spotify.com/track/3TZhfwTNDdyFpBlkodbsMx"
     },
     {
       "album": {
@@ -18844,7 +18880,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 252722,
       "name": "\u602a\u7363",
       "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
@@ -18880,7 +18916,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 281920,
       "name": "\u604b\u8272",
       "url": "https://open.spotify.com/track/62XmbJHgLkBQZOT5SJMGA1"
@@ -19060,7 +19096,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 185830,
       "name": "\u611b\u6669\u9910",
       "url": "https://open.spotify.com/track/5WlQyOu63g9BMfNXb81xWq"
@@ -19876,6 +19912,24 @@
       "duration_ms": 204833,
       "name": "\u706b\u7a2e",
       "url": "https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX"
+    },
+    {
+      "album": {
+        "name": "\u70cf - Raven",
+        "url": "https://open.spotify.com/album/77lHr1rXYAkLjOVkcSXLGH"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248494,
+      "name": "\u70cf - Raven",
+      "url": "https://open.spotify.com/track/5Ij88F5dK7yib1RoNA8wGV"
     },
     {
       "album": {

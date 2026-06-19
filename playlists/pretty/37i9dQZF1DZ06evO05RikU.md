@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,830 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,835 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 49 | [coRaZÓn fRíO](https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [coRaZÓn fRíO](https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn) | 3:24 |
 | 50 | [BI](https://open.spotify.com/track/4sd1CaJPlMi8WGDhyVaOro) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:29 |
 
-Snapshot ID: `ajCSAAAAAADEypjxEwzmSbTO7lMYgqKT`
+Snapshot ID: `ajHjgAAAAACAGt+1K3IBlLmbW9mTmDwJ`

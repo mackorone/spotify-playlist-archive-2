@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,662 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,664 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 36 | [Giant's Despair](https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 3:40 |
 | 37 | [Get Down](https://open.spotify.com/track/3iiyx5CpyeeUmouLCMEf1w) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 3:39 |
 | 38 | [Bored of Being Sad](https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Let's Start Degeneracy](https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW) | 3:20 |
-| 39 | [Dud](https://open.spotify.com/track/26Jycq9kTirSDwIYl2VSYd) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Ill Times](https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J) | 3:47 |
-| 40 | [Right Now](https://open.spotify.com/track/07lDQBet0tjH77t5T1YtGH) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Right Now](https://open.spotify.com/album/59C8gUScKsa2e1ZdROyYYa) | 3:40 |
+| 39 | [Right Now](https://open.spotify.com/track/07lDQBet0tjH77t5T1YtGH) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Right Now](https://open.spotify.com/album/59C8gUScKsa2e1ZdROyYYa) | 3:40 |
+| 40 | [Dud](https://open.spotify.com/track/26Jycq9kTirSDwIYl2VSYd) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Ill Times](https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J) | 3:47 |
 | 41 | [Stay Golden](https://open.spotify.com/track/3LDShVeLxQkQldsomd0n2k) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 1:58 |
 | 42 | [Mood Ring](https://open.spotify.com/track/1GSTBJv8vb5zgiKtERUrf8) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 2:57 |
 | 43 | [Close Call](https://open.spotify.com/track/0F2MGkdHHRCCY38LSZ6WRN) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Come And See](https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE) | 2:43 |
 | 44 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
-| 45 | [that's what time does](https://open.spotify.com/track/6CpaWnrVt7lyGALNFUNgdt) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 3:08 |
-| 46 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 |
+| 45 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 |
+| 46 | [that's what time does](https://open.spotify.com/track/6CpaWnrVt7lyGALNFUNgdt) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 3:08 |
 | 47 | [lightweight](https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [lightweight](https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO) | 3:47 |
 | 48 | [The Ghost](https://open.spotify.com/track/54VdvfLY9vC1bxDdhpWbxW) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Speed Of Darkness](https://open.spotify.com/album/69JRRb97hIJIHMDqupL67Q) | 4:04 |
 | 49 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 56 | [Teething](https://open.spotify.com/track/3M1AOV25ZrXc4bLdHcDzEf) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Teething](https://open.spotify.com/album/26eGjM6GpvS9ht85XNKAdl) | 3:40 |
 | 57 | [Sprinter Brain](https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Dulling The Horns](https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW) | 3:43 |
 | 58 | [Under The Table](https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Under The Table](https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW) | 2:59 |
-| 59 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
-| 60 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
+| 59 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
+| 60 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
 | 61 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 |
 | 62 | [Keys Down If You Stay](https://open.spotify.com/track/473rb6T2uVDA5VJ3AOxlQy) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [The Gloss](https://open.spotify.com/album/35wgHb6XLVqxx9PuQmM6KD) | 3:46 |
 | 63 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 71 | [Start A Comeback](https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [Start A Comeback](https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx) | 3:01 |
 | 72 | [Break the Tension](https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Break the Tension](https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo) | 3:45 |
 | 73 | [Machines](https://open.spotify.com/track/12wkU3vVGrvQzp4wQcL3mL) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Machines](https://open.spotify.com/album/1erZ8PIF7ZCeC3uBKhZwCT) | 4:06 |
-| 74 | [Dissonance](https://open.spotify.com/track/5WFkQAuARYEAslWRkSxdke) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [Dissonance](https://open.spotify.com/album/60mupNd4ac6TbYwq7UFj7x) | 2:11 |
-| 75 | [Suck The Cherry](https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Suck The Cherry](https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk) | 3:03 |
+| 74 | [Suck The Cherry](https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Suck The Cherry](https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk) | 3:03 |
+| 75 | [Dissonance](https://open.spotify.com/track/5WFkQAuARYEAslWRkSxdke) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [Dissonance](https://open.spotify.com/album/60mupNd4ac6TbYwq7UFj7x) | 2:11 |
 
 Snapshot ID: `AAAAAJWCYDzGzYnpQeUaWT8dJL4PizNj`

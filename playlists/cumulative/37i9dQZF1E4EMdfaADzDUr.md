@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With After Cooking, GONE, winterburn and more
+> With After Cooking, winterburn, Mokado and more
 
 299 songs - 22 hr 53 min
 

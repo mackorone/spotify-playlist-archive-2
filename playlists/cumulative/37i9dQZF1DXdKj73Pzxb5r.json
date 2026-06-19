@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover:  Voxxes, Sheila Dara",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover:  Leonardo Ringo",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 225000,
       "name": "Dimabuk Cahaya",
       "url": "https://open.spotify.com/track/1AaKnKJTf4cyCai2yeXdca"
@@ -5898,7 +5898,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 249633,
       "name": "Menuai Terurai",
       "url": "https://open.spotify.com/track/7MkGyRKVnEGqQLUVXdPL8p"
@@ -7516,6 +7516,24 @@
       "duration_ms": 197962,
       "name": "Riot Angels",
       "url": "https://open.spotify.com/track/2dyO7E1uadz2d5LRbfhW1P"
+    },
+    {
+      "album": {
+        "name": "Riuh Suara",
+        "url": "https://open.spotify.com/album/1TSa48dGCMTZU399owez9V"
+      },
+      "artists": [
+        {
+          "name": "Fostan",
+          "url": "https://open.spotify.com/artist/0YmE9ep0aRPQtyj19FZdqj"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319411,
+      "name": "Riuh Suara",
+      "url": "https://open.spotify.com/track/5oQPQikJWsU0VlqZX2ym5m"
     },
     {
       "album": {
@@ -9562,6 +9580,24 @@
       "duration_ms": 149567,
       "name": "Tolong Bales Watsap Ku",
       "url": "https://open.spotify.com/track/4fLV287uHpZWX5KAEeTr5x"
+    },
+    {
+      "album": {
+        "name": "Trip To The Sun",
+        "url": "https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Ringo",
+          "url": "https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443000,
+      "name": "Trip To The Sun",
+      "url": "https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw"
     },
     {
       "album": {

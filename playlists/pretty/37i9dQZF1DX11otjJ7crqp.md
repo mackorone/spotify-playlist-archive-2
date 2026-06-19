@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Emei
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,676 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,982 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 48 | [Pieces](https://open.spotify.com/track/3E9ggAbla7NAR3UxWunjdz) | [Dom Innarella](https://open.spotify.com/artist/48rd4biBGjgoUUtzDBsJoV) | [Pieces](https://open.spotify.com/album/7nLR8ifpBHlcCBjXWOXA7P) | 2:19 |
 | 49 | [move, honey](https://open.spotify.com/track/5LqGOqE1vnNjc8ELAP76Tt) | [Ben Ellis](https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8) | [the train where the time slows \(deluxe\)](https://open.spotify.com/album/7By4XMbKKHqDfqDeYpdnzQ) | 3:20 |
 | 50 | [Midnight Blue](https://open.spotify.com/track/2e1cxDtd6Pm31HcbRAcwgy) | [Maya Engen](https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm) | [Midnight Blue](https://open.spotify.com/album/1di7MEeESta7xDolrg0jMX) | 4:12 |
-| 51 | [Follow Me \(feat\. RedOne\)](https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Adriana C](https://open.spotify.com/artist/7oBUfgdK5Q8PBdT9QsTgHE), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Follow Me \(feat\. RedOne\)](https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0) | 3:52 |
+| 51 | [Follow Me](https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Adriana C](https://open.spotify.com/artist/7oBUfgdK5Q8PBdT9QsTgHE), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Follow Me](https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0) | 3:52 |
 | 52 | [ENAMORED](https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [ENAMORED](https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW) | 2:48 |
 | 53 | [I Loved, I Lost](https://open.spotify.com/track/0ISDkwsAWGoVGBq5ZkMPlN) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [I Loved, I Lost](https://open.spotify.com/album/3UaH8kk0xAAhT9OryV7P5e) | 3:06 |
 | 54 | [15 Late](https://open.spotify.com/track/6MUEoBU3l9ZS7DzNrhkWrd) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [15 Late](https://open.spotify.com/album/3Uyq9fIRjuR5FtWwT4Pjrc) | 2:17 |

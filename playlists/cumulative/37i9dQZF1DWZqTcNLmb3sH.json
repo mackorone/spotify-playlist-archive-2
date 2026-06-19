@@ -16268,7 +16268,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 245756,
       "name": "Higondu Manavi (From \"Maayavi\")",
       "url": "https://open.spotify.com/track/0Tg9xoPReNwwx60pxMrEjp"
@@ -20278,7 +20278,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 196666,
       "name": "Kaala Kelo (From \"Gatha Vaibhava\")",
       "url": "https://open.spotify.com/track/6fcyl9dRHSaAC5E6PbNvPd"
@@ -25027,6 +25027,24 @@
     },
     {
       "album": {
+        "name": "Maaye",
+        "url": "https://open.spotify.com/album/2gPHStaeEs6sWjh45UeafW"
+      },
+      "artists": [
+        {
+          "name": "Mysore Xpress",
+          "url": "https://open.spotify.com/artist/3z6Qc4vYphJb18Rr0jGHuC"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Maaye",
+      "url": "https://open.spotify.com/track/5Peit3m6hkYPSOohtGk0Wu"
+    },
+    {
+      "album": {
         "name": "Maaye (From \"Congratulations Brother\")",
         "url": "https://open.spotify.com/album/5AuwrPQHTiYCTpAsJtEMVV"
       },
@@ -25552,7 +25570,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 218059,
       "name": "Majako Mallika (From \"Kattalan\") [Kannada]",
       "url": "https://open.spotify.com/track/2VhWtXmqhtKHbVpVsf609z"

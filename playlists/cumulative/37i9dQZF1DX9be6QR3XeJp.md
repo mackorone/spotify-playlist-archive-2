@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Pixie McCann
+> Discover your new favourite artists from UK&IE\. Cover: Ellie Nanni
 
-360 songs - 19 hr 17 min
+361 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Heart Attack Police](https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Heart Attack Police](https://open.spotify.com/album/5GjrSdkpaaz29CZCowwdsD) | 2:56 | 2025-02-21 |  |
 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2023-07-19 | 2023-07-21 |
 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 | 2022-02-18 |  |
+| [Honey](https://open.spotify.com/track/4TNi5ncp8uSbIy3mHtv5lF) | [Ellie Nanni](https://open.spotify.com/artist/3spMydBaIHg5DCbXY8tDqc) | [What makes us lovers](https://open.spotify.com/album/1ka8xYO3aQm6WHWHm4usXD) | 2:59 | 2026-06-18 |  |
 | [Hotel Amour](https://open.spotify.com/track/46jFeLj6khIo9v5RJTpdPO) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Hotel Amour](https://open.spotify.com/album/2o0zdg8tAFcj8dN6cbjN1P) | 2:33 | 2022-08-18 |  |
 | [Hung Up](https://open.spotify.com/track/6RXulMH0m6qIupYe00pd2F) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [Hung Up](https://open.spotify.com/album/7ENhtXgkFWk2PKr88HjoZq) | 2:05 | 2024-07-18 |  |
 | [Hungover](https://open.spotify.com/track/2pHEFGVwMMcSDIVQ15aMMY) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju) | 3:36 | 2022-09-22 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 
 > Mujeres a todo volumen, ahora en video\. Sólo para usuarios Premium\. BLAIR en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,405 likes - 24 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,401 likes - 24 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

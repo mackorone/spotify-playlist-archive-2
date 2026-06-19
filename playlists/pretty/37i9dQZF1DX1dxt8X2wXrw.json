@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 81254,
+  "num_followers": 81259,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-04-21 07:35:35",
       "album": {
+        "name": "TWENTIES",
+        "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 171955,
+      "name": "TWENTIES",
+      "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
+    },
+    {
+      "added_at": "2026-04-21 07:35:35",
+      "album": {
         "name": "Reputation (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 235705,
       "name": "Reputation (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
-    },
-    {
-      "added_at": "2026-04-21 07:35:35",
-      "album": {
-        "name": "TWENTIES",
-        "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 171955,
-      "name": "TWENTIES",
-      "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
     },
     {
       "added_at": "2026-04-21 07:35:35",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-04-21 07:35:35",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/2kkEMXsGVuWC36UClM5A7B"
+      },
+      "artists": [
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0D3dVIPNOlzZ2vjUeBX12Q"
+    },
+    {
+      "added_at": "2026-04-21 07:35:35",
+      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4"
       },
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2026-04-21 07:35:35",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/2kkEMXsGVuWC36UClM5A7B"
+        "name": "Toroka",
+        "url": "https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC"
       },
       "artists": [
         {
-          "name": "Louis Baker",
-          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
         }
       ],
-      "duration_ms": 227200,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/0D3dVIPNOlzZ2vjUeBX12Q"
+      "duration_ms": 202075,
+      "name": "Toroka",
+      "url": "https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB"
     },
     {
       "added_at": "2026-04-21 07:35:35",
@@ -1127,22 +1143,6 @@
       "duration_ms": 146000,
       "name": "Destroy Myself Just For You",
       "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
-    },
-    {
-      "added_at": "2026-04-21 07:35:35",
-      "album": {
-        "name": "Toroka",
-        "url": "https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC"
-      },
-      "artists": [
-        {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
-        }
-      ],
-      "duration_ms": 202075,
-      "name": "Toroka",
-      "url": "https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB"
     },
     {
       "added_at": "2026-04-21 07:35:35",

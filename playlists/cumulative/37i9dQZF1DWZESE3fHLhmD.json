@@ -4423,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "Midsommar",
+        "url": "https://open.spotify.com/album/4H8VdoYyGOGIsbck7T7OZS"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157280,
+      "name": "Midsommar",
+      "url": "https://open.spotify.com/track/5FC1EYofuu7LkF8DJNuwG1"
+    },
+    {
+      "album": {
         "name": "Backflips in a Restaurant (Deluxe)",
         "url": "https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI"
       },
@@ -4554,6 +4572,24 @@
       "duration_ms": 200840,
       "name": "More To This Life",
       "url": "https://open.spotify.com/track/6zPyE3kqAboGKv2iKNOEcR"
+    },
+    {
+      "album": {
+        "name": "Morgen fr\u00fch",
+        "url": "https://open.spotify.com/album/7DFZ7o87muVdmg9dJAJcXN"
+      },
+      "artists": [
+        {
+          "name": "Baumgart",
+          "url": "https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164653,
+      "name": "Morgen fr\u00fch",
+      "url": "https://open.spotify.com/track/1ozUACLMVWbfXr6GxPmtD2"
     },
     {
       "album": {
@@ -4788,7 +4824,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 197618,
       "name": "nie wieder normal",
       "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
@@ -6722,7 +6758,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 239586,
       "name": "Sunflowers",
       "url": "https://open.spotify.com/track/7oM4Kb4yGpU2F12UFWJMcY"
@@ -7472,7 +7508,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 200013,
       "name": "Vampire Time",
       "url": "https://open.spotify.com/track/5yDVOzmgF2jVaz7ilmm7IY"
@@ -7732,7 +7768,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 240087,
       "name": "What Dreams Are Made Of (Mine)",
       "url": "https://open.spotify.com/track/4HoRL1oIjGY05NzynfExsW"

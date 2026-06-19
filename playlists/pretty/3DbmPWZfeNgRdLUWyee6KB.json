@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAVNLd6hCdod+Mf/wbOvo3qyF3CZ6Uo",
+  "snapshot_id": "AAAVNZOyL27fLatoGZn6BdiHNWb0ihO3",
   "tracks": [
     {
       "added_at": "2026-06-09 08:21:56",
@@ -3019,6 +3019,22 @@
       "duration_ms": 155399,
       "name": "Red",
       "url": "https://open.spotify.com/track/1nHbcuZgDFlzl3nSzyKDP8"
+    },
+    {
+      "added_at": "2026-06-18 10:52:17",
+      "album": {
+        "name": "Bukan Orang Timur (Mimpi Jadi Bintang)",
+        "url": "https://open.spotify.com/album/7sG1LmsVHtqqj8nLHMB9OE"
+      },
+      "artists": [
+        {
+          "name": "Nirvan Channel",
+          "url": "https://open.spotify.com/artist/5CrcSowv9jp8dX1WCmoB5x"
+        }
+      ],
+      "duration_ms": 257625,
+      "name": "Bukan Orang Timur (Mimpi Jadi Bintang)",
+      "url": "https://open.spotify.com/track/4ye8HiMTGZh4M7RqBYO8ID"
     }
   ],
   "unique_name": "New Indie Music",

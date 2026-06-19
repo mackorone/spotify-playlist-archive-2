@@ -3074,7 +3074,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 235714,
       "name": "Fluorescence",
       "url": "https://open.spotify.com/track/4K3onPe55qb2WsgrvOZmu7"
@@ -8882,6 +8882,28 @@
       "duration_ms": 295026,
       "name": "Unarchiver",
       "url": "https://open.spotify.com/track/0WJVieYte28pUxC9hNfs0D"
+    },
+    {
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/1FQXkOnK5XYBaOvBSY5TIW"
+      },
+      "artists": [
+        {
+          "name": "Prince 85",
+          "url": "https://open.spotify.com/artist/6ADNjKrreUUc181zsy4Cte"
+        },
+        {
+          "name": "MIKE DEAN",
+          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293592,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/1Nxg47FghfUl6XB46WZwFc"
     },
     {
       "album": {

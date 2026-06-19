@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,145,666 likes - 165 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,145,855 likes - 165 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 164 | [Point of View](https://open.spotify.com/track/3ZzOr8m5EjFoXMah705Kk2) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Point of View](https://open.spotify.com/album/20GrGDlErhsCRGZDN2UOlu) | 2:21 |
 | 165 | [Weary Dreams](https://open.spotify.com/track/548tVTwGSUe72AI0tixG2k) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Weary Dreams](https://open.spotify.com/album/5yaaCjeLwr3MBDRsWr4eGn) | 2:51 |
 
-Snapshot ID: `AAAAAFZpZFTXJpgO+jt5u+ZQrrnMb+xM`
+Snapshot ID: `AAAAAC1Ff1oIw+FLbrDCtA7EWQKL0/tE`

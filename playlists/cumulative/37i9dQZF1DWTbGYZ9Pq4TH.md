@@ -4,7 +4,7 @@
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-265 songs - 16 hr 59 min
+266 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Piccola stella senza cielo](https://open.spotify.com/track/0HpKuz1HfXxRzNnUqfwzgF) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Ligabue \[Remastered Version\]](https://open.spotify.com/album/63kdOUqVdcyYLQHzojxeFB) | 3:58 | 2025-01-23 |  |
 | [Poetica](https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Possibili Scenari](https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa) | 4:53 | 2021-09-26 |  |
 | [Polvere](https://open.spotify.com/track/4BtXn7gvRgO2fFn3N7V6xP) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Gira, il mondo gira](https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap) | 2:46 | 2025-01-23 | 2026-04-14 |
+| [Possibili Scenari](https://open.spotify.com/track/6bCHySS6CvA22iww8WGHD1) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Possibili Scenari](https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa) | 5:11 | 2026-04-21 |  |
 | [Posso \(feat\. Max Gazzé\)](https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Notti Brave \(After\)](https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w) | 3:58 | 2021-09-26 |  |
 | [Quando nasce un amore](https://open.spotify.com/track/42QwfNehRxZzLhQCh7Jfkr) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN) | [I Grandi Successi](https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA) | 3:59 | 2021-09-26 | 2022-07-29 |
 | [Quel posto che non c'è](https://open.spotify.com/track/2k2EIHQn1xrJU85BLNqnBC) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 3:37 | 2021-09-26 | 2022-07-29 |
@@ -220,7 +221,7 @@
 | [Sempre e per sempre](https://open.spotify.com/track/5K8tLt1YQiLALZGwcErrjH) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Amore nel pomeriggio](https://open.spotify.com/album/7cHl1TaO6qOvyrfoqCofUT) | 3:23 | 2021-09-26 | 2025-04-20 |
 | [Sempre In Due](https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk) | [Carl Brave x Franco126](https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b) | [Polaroid 2.0](https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz) | 3:10 | 2021-09-26 |  |
 | [Senza farlo apposta](https://open.spotify.com/track/55t2S1tpx1Bj3C5bIEn2BF) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt), [Federica Carta](https://open.spotify.com/artist/3LEEvToYYJtAYV4lM9fYPE) | [Truman \(Sanremo Edition\)](https://open.spotify.com/album/4Zxjk7Nitaz5NmO4dFFUgW) | 3:35 | 2026-04-21 | 2026-06-07 |
-| [Senza Parole](https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:42 | 2021-09-26 |  |
+| [Senza Parole](https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:42 | 2021-09-26 | 2026-06-19 |
 | [Sere nere](https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [111 Centoundici](https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7) | 4:24 | 2023-02-20 | 2024-04-19 |
 | [Sfiorivano le viole](https://open.spotify.com/track/4UqKJx2oFJvgLIBrBV82Ou) | [Rino Gaetano](https://open.spotify.com/artist/5RRPSRJpISAWEPOeSfYuhV) | [Mio Fratello E' Figlio Unico](https://open.spotify.com/album/3s7QkjKcFtAlOpvYAQoG2i) | 5:00 | 2025-01-23 |  |
 | [Siamo](https://open.spotify.com/track/7jkZflOcHyeFz0xzaOZRHw) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:38 | 2021-09-26 | 2022-07-21 |

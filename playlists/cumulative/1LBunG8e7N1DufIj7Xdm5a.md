@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,457 songs - 9 day 22 hr 32 min
+4,458 songs - 9 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3241,6 +3241,7 @@
 | [Saturday](https://open.spotify.com/track/2vdXi49hSFAo3U5blyTcFl) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 3:41 | 2026-06-08 |  |
 | [Saturday Song For Sunday](https://open.spotify.com/track/32gEVbIyWbLOb8pjJND4fr) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Saturday Song For Sunday](https://open.spotify.com/album/2DZ2ODLdvjpmDTuAz5WZQU) | 3:24 | 2025-05-29 |  |
 | [Savage Reservation](https://open.spotify.com/track/0Pydl87io7bMSRj3pA27eH) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Neanderthal](https://open.spotify.com/album/39y2S1RQh7MTKi753MYlUN) | 1:48 | 2025-06-13 |  |
+| [Save Us](https://open.spotify.com/track/5CKVc9xlMamknLZwVDBBda) | [Sinsation](https://open.spotify.com/artist/7zkNESiCUt0wzQsSwKzTrS) | [Save Us](https://open.spotify.com/album/6rYTeQvcX9RF05gTGxy1uU) | 4:18 | 2026-06-18 |  |
 | [SAY SOMETHIN'](https://open.spotify.com/track/04U6CZTpcrhIHxyrNIWmrZ) | [Mathieu](https://open.spotify.com/artist/3FAbqnwvU6oVyphtcjydLw) | [WISH U WERE HERE](https://open.spotify.com/album/5VykTQitQAIZg9gUFZPIRg) | 3:13 | 2025-06-23 |  |
 | [Say the name](https://open.spotify.com/track/4lBMjeFvuoTLDvYVu80nFg) | [Pietro Contenti \(Montecristo\)](https://open.spotify.com/artist/1hElnwNn7P1EbfblsN7SWA) | [Say the name](https://open.spotify.com/album/2kttrMPVtjqKZmTP2Z06Md) | 3:12 | 2026-02-13 |  |
 | [saysomething](https://open.spotify.com/track/1bO2dWPz4NQqf6ox21ZINr) | [ILYSANITA](https://open.spotify.com/artist/1JSXMl2sk9acCPV5USguCq) | [DROP DEAD](https://open.spotify.com/album/55fE6OxTKnd7vLMsJz40xZ) | 1:43 | 2025-06-23 |  |

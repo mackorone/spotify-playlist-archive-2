@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-397 songs - 1 day 4 hr 32 min
+398 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [château](https://open.spotify.com/track/7GGF2U7bZP3LhM2IojZYoE) | [attic](https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku) | [château](https://open.spotify.com/album/3DLJo4t8P1Hcs0verzEuNf) | 2:45 | 2025-03-21 | 2026-05-31 |
 | [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 | 2022-01-07 | 2022-10-01 |
 | [Cinnamon \- Rework](https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Kazahana](https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH) | 2:58 | 2022-02-22 | 2023-08-19 |
+| [clammbon \(feat\. Anoice & Takahiro Kido\) \- ambient remix](https://open.spotify.com/track/7laS4Q0FzlqI80wri53GML) | [Yuki Murata](https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK), [Anoice](https://open.spotify.com/artist/1Harx8w7e050c1YwYJMPcb), [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI) | [Piano Ambient Fantasia \(ambient remix\)](https://open.spotify.com/album/4B0Is9b1XoseYifKgiR2vT) | 9:59 | 2026-06-12 |  |
 | [Clouds](https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 5:54 | 2022-12-30 | 2025-05-16 |
 | [Colors](https://open.spotify.com/track/2UQoFEcg70YOsFhT5RTvNO) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 2:45 | 2023-07-21 | 2024-08-09 |
 | [Colour of Dusk](https://open.spotify.com/track/0AdRAxbNIMMf51vw7gH6DR) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Colour of Dusk](https://open.spotify.com/album/2T56mrz1I7hfQvvQj3oXXZ) | 2:43 | 2026-05-30 |  |
@@ -246,7 +247,7 @@
 | [PALE](https://open.spotify.com/track/4QSh8hKevYk4HAsy6Db0fD) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [PALE](https://open.spotify.com/album/1HVXQw4eQIMJAgrEhaIg9l) | 2:53 | 2026-05-30 |  |
 | [Pathos](https://open.spotify.com/track/4Cz27Bi0z3yI3pXEFXlffY) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [RAN PARK](https://open.spotify.com/artist/2LcpnnKtegPLs0WJaQPdqK) | [Pathos](https://open.spotify.com/album/5u3LYb5RaoB07WrAte6OI8) | 5:05 | 2025-06-27 | 2025-12-13 |
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-12-20 |  |
-| [Placement Of The Drops](https://open.spotify.com/track/6QzDNQr4ao4OOBC1qES0CC) | [Tomoyoshi Date](https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR) | [Tribute to Ryuichi Sakamoto "Micro Ambient Music" Vol\. 5](https://open.spotify.com/album/7wuCniFaJn59eglfVdqdZo) | 6:02 | 2025-02-11 |  |
+| [Placement Of The Drops](https://open.spotify.com/track/6QzDNQr4ao4OOBC1qES0CC) | [Tomoyoshi Date](https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR) | [Tribute to Ryuichi Sakamoto "Micro Ambient Music" Vol\. 5](https://open.spotify.com/album/7wuCniFaJn59eglfVdqdZo) | 6:02 | 2025-02-11 | 2026-06-19 |
 | [Planet](https://open.spotify.com/track/33gZGbCutucohDi5fkTUsq) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Planet](https://open.spotify.com/album/1xoFs7J2CsodEOhBEUM3tE) | 3:25 | 2025-01-13 |  |
 | [Planet of Sorrow](https://open.spotify.com/track/1m7bxENmXHhLj5eTWfrzEP) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 3:15 | 2023-07-21 | 2024-07-27 |
 | [Plants Feast](https://open.spotify.com/track/5o9roDxnHFxzGgA0zLfSF4) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Plants Feast](https://open.spotify.com/album/3HAH0Vl5Fbu0eoM5wgUH2W) | 3:26 | 2023-04-28 | 2025-05-03 |

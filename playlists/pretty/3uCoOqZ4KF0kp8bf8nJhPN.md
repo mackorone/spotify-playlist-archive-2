@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 
 > 
 
-[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 270 songs - 10 hr 55 min
+[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 272 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -278,5 +278,7 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 268 | [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 |
 | 269 | [She Hates Me](https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:36 |
 | 270 | [Bedrott \- Instrumental Slowed](https://open.spotify.com/track/7q7StxVzHQ5LimdZLQV8xH) | [ForceTx](https://open.spotify.com/artist/2dDxg1hQi6igncj9SM8wkN) | [Bedrott \(Instrumental Slowed\)](https://open.spotify.com/album/3O2WCH1HaNyxLNW8KlIJnz) | 2:22 |
+| 271 | [Y’ALL DON’T KNOW MA BODY!](https://open.spotify.com/track/3jr1jNlXjbXzya7J3tQEyC) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [SWAGGOT! \(B SIDE\)](https://open.spotify.com/album/0ebnfu4hXifVFCgrAv6l3Y) | 1:59 |
+| 272 | [JUDY!](https://open.spotify.com/track/0NAMg4Md7nJKeX7UvRdKRB) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [JUDY!](https://open.spotify.com/album/7BiHfH4R4fBa1xQZWM9Fzb) | 1:35 |
 
-Snapshot ID: `AAAGktrirkVgmqxnb0UAPUC/uSEm/Q3B`
+Snapshot ID: `AAAGlD31m/FvUMwbZm9i5qI2edkYLqtT`

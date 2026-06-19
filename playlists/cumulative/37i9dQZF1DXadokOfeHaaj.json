@@ -950,7 +950,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 239750,
       "name": "Be That to You",
       "url": "https://open.spotify.com/track/6PRyHlrx4t9nj96pDRc00d"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 322346,
       "name": "Chalk",
       "url": "https://open.spotify.com/track/5HdeMdzAlNKwCM4L9cjehN"
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 203230,
       "name": "don't you miss me",
       "url": "https://open.spotify.com/track/52zrmEuyescE1mlhBPtdkA"
@@ -2515,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "Where The Waves Break",
+        "url": "https://open.spotify.com/album/6R1xCzolR17w5pJWFKHHeu"
+      },
+      "artists": [
+        {
+          "name": "TENDER",
+          "url": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266767,
+      "name": "Eleanor",
+      "url": "https://open.spotify.com/track/4x9RLHwtUvN2zchIJt7F3W"
+    },
+    {
+      "album": {
         "name": "Electric Cutz",
         "url": "https://open.spotify.com/album/0tsWEz8VVlBdKypM4IlKAk"
       },
@@ -2566,6 +2584,24 @@
       "duration_ms": 289315,
       "name": "Electric Cutz",
       "url": "https://open.spotify.com/track/4P07CYinzfgW5xAITGydS1"
+    },
+    {
+      "album": {
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227358,
+      "name": "Elm",
+      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
     },
     {
       "album": {
@@ -3132,7 +3168,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 211653,
       "name": "GIRL I WANT YOU",
       "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
@@ -4157,6 +4193,28 @@
     },
     {
       "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199196,
+      "name": "It's So Nice (ft. 3DDY)",
+      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
+    },
+    {
+      "album": {
         "name": "I Love My Computer",
         "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
       },
@@ -4176,6 +4234,28 @@
       "duration_ms": 169856,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr"
+    },
+    {
+      "album": {
+        "name": "I\u2019m your girl right? (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343239,
+      "name": "I\u2019m your girl right? (Fcukers Remix)",
+      "url": "https://open.spotify.com/track/0xu869oKDmbWv66goofbFq"
     },
     {
       "album": {
@@ -4443,6 +4523,28 @@
     },
     {
       "album": {
+        "name": "Lemme Dance",
+        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223660,
+      "name": "Lemme Dance",
+      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
+    },
+    {
+      "album": {
         "name": "Let the Lips Fall Where They May",
         "url": "https://open.spotify.com/album/2RdDzLj9oPuly44KbJ8HQI"
       },
@@ -4682,7 +4784,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 209777,
       "name": "Limousine",
       "url": "https://open.spotify.com/track/4iUg9L5VGxNtG3cvVUUt1J"
@@ -4849,6 +4951,24 @@
     },
     {
       "album": {
+        "name": "Love Me Baby",
+        "url": "https://open.spotify.com/album/35nKyhXYOODktIy2PUag3d"
+      },
+      "artists": [
+        {
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/38IVq9iiKjAEkvQ6SmCnMg"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248783,
+      "name": "Love Me Baby",
+      "url": "https://open.spotify.com/track/3x0oiAC2nLm397M0ukpDDv"
+    },
+    {
+      "album": {
         "name": "LOVE MIGHT MAKE ME BETTER",
         "url": "https://open.spotify.com/album/71H9vgQ8l9mvltuvLREHQQ"
       },
@@ -4878,7 +4998,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 183496,
       "name": "Love Will Make You Do Strange Things",
       "url": "https://open.spotify.com/track/4SzPqEp7vBRRacbcrfCbCj"
@@ -5120,6 +5240,24 @@
       "duration_ms": 237780,
       "name": "maybe it's u",
       "url": "https://open.spotify.com/track/2K0onXEr9iCUSYonEf0Bl4"
+    },
+    {
+      "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229475,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
     },
     {
       "album": {
@@ -5767,6 +5905,28 @@
     },
     {
       "album": {
+        "name": "On Your Mind (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "On Your Mind (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7"
+    },
+    {
+      "album": {
         "name": "ON&ON",
         "url": "https://open.spotify.com/album/5XqHP80OsGrUtaaQuIvyNh"
       },
@@ -6230,7 +6390,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 239133,
       "name": "Plush",
       "url": "https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj"
@@ -6767,6 +6927,28 @@
     },
     {
       "album": {
+        "name": "Round The Block",
+        "url": "https://open.spotify.com/album/78DEb7OzxItyfsHEUpedmo"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "Jane",
+          "url": "https://open.spotify.com/artist/14DueMqxGvc2A8DPSXMpTk"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162673,
+      "name": "Round The Block",
+      "url": "https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG"
+    },
+    {
+      "album": {
         "name": "We Love Dogs!",
         "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
       },
@@ -7275,6 +7457,28 @@
     },
     {
       "album": {
+        "name": "Sick Of Love (Mura Masa Remix)",
+        "url": "https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334078,
+      "name": "Sick Of Love (Mura Masa Remix)",
+      "url": "https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob"
+    },
+    {
+      "album": {
         "name": "Sister Infinity",
         "url": "https://open.spotify.com/album/1sDjnXH9RgKCRPi2tczLy7"
       },
@@ -7418,7 +7622,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 362699,
       "name": "SOMEWHERE ELSE - salute Remix",
       "url": "https://open.spotify.com/track/1HZWZgXF5BZAVzKumYTuJs"
@@ -7458,7 +7662,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 271415,
       "name": "Sort It Out",
       "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
@@ -7774,7 +7978,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 212201,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5asbG4btHJ2h2T4F1EtNK8"
@@ -8047,6 +8251,28 @@
     },
     {
       "album": {
+        "name": "That's All I Ask (HAAi Remix)",
+        "url": "https://open.spotify.com/album/1n539cmpnAuEu6v9WS0gxX"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257741,
+      "name": "That's All I Ask - HAAi Remix / Edit",
+      "url": "https://open.spotify.com/track/40qN3XgBBaq3AtD4a6ArJc"
+    },
+    {
+      "album": {
         "name": "The City Never Felt So Good",
         "url": "https://open.spotify.com/album/6vZMJqI9s1DFf6tMCLPvKi"
       },
@@ -8276,7 +8502,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 338120,
       "name": "THE THING",
       "url": "https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j"
@@ -8360,7 +8586,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 182248,
       "name": "THIEF",
       "url": "https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII"
@@ -8744,7 +8970,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 123979,
       "name": "TRUTH",
       "url": "https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb"
@@ -9087,6 +9313,24 @@
     },
     {
       "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/7bo3qLuwCzmWn4KIZzMkON"
+      },
+      "artists": [
+        {
+          "name": "Jaime Rosso",
+          "url": "https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241612,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/4YAhKZrz4S6dH4Ro4WMPdB"
+    },
+    {
+      "album": {
         "name": "Warm (Feeling)",
         "url": "https://open.spotify.com/album/35iBUBrdFfd8eNXllzB3L4"
       },
@@ -9408,6 +9652,28 @@
       "duration_ms": 137085,
       "name": "words",
       "url": "https://open.spotify.com/track/26jHXGOE2EENKlCByolM1x"
+    },
+    {
+      "album": {
+        "name": "WORRY. (Herbert's Brahm Dub)",
+        "url": "https://open.spotify.com/album/289cq3Rl0F7yqAiwvJBdoX"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "Matthew Herbert",
+          "url": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194676,
+      "name": "WORRY. (Herbert's Brahm Dub)",
+      "url": "https://open.spotify.com/track/6OCgI9QBl6zgqfOFgiRGuu"
     },
     {
       "album": {

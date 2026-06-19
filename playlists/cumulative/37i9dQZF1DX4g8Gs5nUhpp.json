@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "' CH\u1eb2NG C\u1ea6N B\u00ccNH Y\u00caN |",
+        "url": "https://open.spotify.com/album/1xQoXghXMKGK3HadxpQuuA"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 An Huy",
+          "url": "https://open.spotify.com/artist/6cz81gA7fLpRK4qKeLsGIn"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223064,
+      "name": "' CH\u1eb2NG C\u1ea6N B\u00ccNH Y\u00caN |",
+      "url": "https://open.spotify.com/track/2KadxdRVKWJy3ahMnlClhq"
+    },
+    {
+      "album": {
         "name": "(t\u1eebng l\u00e0) Boyfriend, Girlfriend",
         "url": "https://open.spotify.com/album/77nJF9EMU9k4UQQr31jDCU"
       },
@@ -56,7 +74,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 152000,
       "name": "1000 \u00c1nh M\u1eaft",
       "url": "https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc"
@@ -314,7 +332,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 230211,
       "name": "Ai \u0111\u01b0a em v\u1ec1 (Cukak Remix)",
       "url": "https://open.spotify.com/track/1I00yDXQKeUfYg2HOpGC8B"
@@ -408,6 +426,24 @@
       "duration_ms": 257013,
       "name": "Anh L\u00e0 Ai",
       "url": "https://open.spotify.com/track/0JzNOFN9AfxWYCQX8kfiyp"
+    },
+    {
+      "album": {
+        "name": "Anh L\u00e0 Ai",
+        "url": "https://open.spotify.com/album/5eBM2paNwRsdBnw9LmSkQb"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Ly",
+          "url": "https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257013,
+      "name": "Anh L\u00e0 Ai",
+      "url": "https://open.spotify.com/track/3gLRyMbg5nWLcuKD46Uz72"
     },
     {
       "album": {
@@ -1526,7 +1562,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 181558,
       "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
       "url": "https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq"
@@ -1620,7 +1656,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 281976,
       "name": "C\u00f2n G\u00ec \u0110\u1eb9p H\u01a1n - M\u01b0a \u0110\u1ecf Original Soundtrack",
       "url": "https://open.spotify.com/track/5zXCoF69UxPNLrpar8Rk7e"
@@ -2358,7 +2394,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 233263,
       "name": "D\u00f9 Cho T\u1eadn Th\u1ebf",
       "url": "https://open.spotify.com/track/0oSc7X1uRQGuEqNRtXEeQL"
@@ -2456,6 +2492,28 @@
       "duration_ms": 208289,
       "name": "Em",
       "url": "https://open.spotify.com/track/1UhQ0VwKq2PGnLiAZOJYV1"
+    },
+    {
+      "album": {
+        "name": "G\u1eb7p L\u1ea1i",
+        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296983,
+      "name": "Em (feat. SOOBIN)",
+      "url": "https://open.spotify.com/track/0a32EBPjqAe47cYDPE5Ia5"
     },
     {
       "album": {
@@ -2676,7 +2734,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 300221,
       "name": "EM \u0110AU",
       "url": "https://open.spotify.com/track/317Lh6QCAz9JpWbV3oxrCf"
@@ -3042,6 +3100,24 @@
       "duration_ms": 223200,
       "name": "gi\u00e1 nh\u01b0",
       "url": "https://open.spotify.com/track/4tqXSj46umlymdIxqY8zso"
+    },
+    {
+      "album": {
+        "name": "GI\u1ea2 V\u1edc",
+        "url": "https://open.spotify.com/album/3jqXa5a8QG4DnNPcY9JZTu"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00f9ng Kh\u00e1nh Linh",
+          "url": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253556,
+      "name": "GI\u1ea2 V\u1edc",
+      "url": "https://open.spotify.com/track/4DM8buF9J04zNPtYVMUt74"
     },
     {
       "album": {
@@ -3512,7 +3588,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 275820,
       "name": "H\u00f4m Nay T\u00f4i Bu\u1ed3n",
       "url": "https://open.spotify.com/track/5SzJs9cwYXdSm9G3xcXuA2"
@@ -3960,7 +4036,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 217731,
       "name": "Kh\u00f4ng Th\u1eddi Gian",
       "url": "https://open.spotify.com/track/6GUKRhIsWxA7VuZW8MKQLG"
@@ -6739,6 +6815,24 @@
     },
     {
       "album": {
+        "name": "S\u1edbm Nh\u01b0 V\u1eady",
+        "url": "https://open.spotify.com/album/0ntOmc6N4LENt7sNRbDhoQ"
+      },
+      "artists": [
+        {
+          "name": "buitruonglinh",
+          "url": "https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220893,
+      "name": "S\u1edbm Nh\u01b0 V\u1eady",
+      "url": "https://open.spotify.com/track/0GXZXSDFSbJjqdGifjSaig"
+    },
+    {
+      "album": {
         "name": "S\u1ef1 M\u1eadp M\u1edd",
         "url": "https://open.spotify.com/album/2qlrsRTlCm6bPyqncUndHh"
       },
@@ -6888,6 +6982,28 @@
       "duration_ms": 241935,
       "name": "ThichThich",
       "url": "https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP"
+    },
+    {
+      "album": {
+        "name": "Thi\u00ean M\u1ec7nh",
+        "url": "https://open.spotify.com/album/6MeBzSL4mdCkZbDj4Twt7u"
+      },
+      "artists": [
+        {
+          "name": "Qu\u00e2n A.P",
+          "url": "https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi"
+        },
+        {
+          "name": "H\u1ea3i \u0110\u0103ng Doo",
+          "url": "https://open.spotify.com/artist/0F1rSmrNT6sp3LYohgYKsT"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253565,
+      "name": "Thi\u00ean M\u1ec7nh",
+      "url": "https://open.spotify.com/track/0OB5hTu7ELKeVoD6JVRo6m"
     },
     {
       "album": {
@@ -7572,7 +7688,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 261492,
       "name": "T\u00ecnh Y\u00eau Bu\u00f4ng Tha Cho Ch\u00fang Ta",
       "url": "https://open.spotify.com/track/3hjirCdXFnVJDZsXlOfhfd"
@@ -7796,6 +7912,24 @@
       "duration_ms": 263954,
       "name": "T\u00f4i K\u1ec3 Em Nghe",
       "url": "https://open.spotify.com/track/2VFkErA6q5IQ9BV13dB6wv"
+    },
+    {
+      "album": {
+        "name": "T\u00ccM TH\u1ea4Y NHAU",
+        "url": "https://open.spotify.com/album/5I5JpJG0pKYSBZgvoUNnBs"
+      },
+      "artists": [
+        {
+          "name": "Duniverse",
+          "url": "https://open.spotify.com/artist/3h1HA6owjEkAHnIkMzYXoZ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177567,
+      "name": "T\u1ea1i Sao Em Bu\u00f4ng",
+      "url": "https://open.spotify.com/track/2Uw9vhm7aQKXFFsiu3Zw5f"
     },
     {
       "album": {
@@ -8322,6 +8456,24 @@
       "duration_ms": 185625,
       "name": "v\u1ea1n v\u1eadt nh\u01b0 mu\u1ed1n ta b\u00ean nhau",
       "url": "https://open.spotify.com/track/5WkuMbkHX7yR7nnBKCn7tV"
+    },
+    {
+      "album": {
+        "name": "v\u1ebft th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/3ByfL1brDy0a3oDMLfwBz3"
+      },
+      "artists": [
+        {
+          "name": "Fishy",
+          "url": "https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261617,
+      "name": "v\u1ebft th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/6mKMGpkgP2cH5gmqILWe7b"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Les hits du moment en Alg\u00e9rie. Cover: Abdou Gambetta",
+  "description": "Les hits du moment en Alg\u00e9rie. Cover: Soolking",
   "name": "Hot Hit Algeria",
   "tracks": [
     {
@@ -1196,6 +1196,28 @@
       "duration_ms": 240000,
       "name": "Courage",
       "url": "https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp"
+    },
+    {
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
       "album": {
@@ -4098,7 +4120,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 169256,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC"
@@ -4470,6 +4492,24 @@
       "duration_ms": 224807,
       "name": "Se9si Liyam",
       "url": "https://open.spotify.com/track/1yhawOwQm1XumUtkVHhtVP"
+    },
+    {
+      "album": {
+        "name": "Seknet Marseille",
+        "url": "https://open.spotify.com/album/0DufvOgmtG1Vxcvft7AJSy"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153013,
+      "name": "Seknet Marseille",
+      "url": "https://open.spotify.com/track/1Wtr4zQhkjOJ8KZWNtPDwj"
     },
     {
       "album": {
@@ -4874,7 +4914,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 171489,
       "name": "Tour du monde",
       "url": "https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX"

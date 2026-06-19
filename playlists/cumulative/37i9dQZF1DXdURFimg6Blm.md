@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-767 songs - 1 day 14 hr 8 min
+768 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,7 +436,7 @@
 | [Loveless \(with Teddy Swims\)](https://open.spotify.com/track/5yL2dV8sTkIgMEArGQiBdT) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Loveless \(with Teddy Swims\)](https://open.spotify.com/album/75MSTtzRgALg57B8yPJHAC) | 3:03 | 2022-04-22 | 2022-09-05 |
 | [LOW](https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LOW](https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm) | 3:23 | 2022-07-01 | 2023-01-08 |
 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 | 2025-05-30 | 2026-04-18 |
-| [Mad World](https://open.spotify.com/track/5pIOX4Fy3CXEdvs6Yp8roU) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Mad World](https://open.spotify.com/album/4lJuvmioRCQCHahAemAGzs) | 2:18 | 2026-04-17 |  |
+| [Mad World](https://open.spotify.com/track/5pIOX4Fy3CXEdvs6Yp8roU) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Mad World](https://open.spotify.com/album/4lJuvmioRCQCHahAemAGzs) | 2:18 | 2026-04-17 | 2026-06-19 |
 | [Madan \(King\)](https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/11JYg34EBPsGBnvvYc8wrU) | 3:03 | 2022-07-22 | 2022-08-27 |
 | [Make It Good](https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Make It Good](https://open.spotify.com/album/3AjMLvMHcgrXICSYHepcy6) | 2:39 | 2022-01-07 | 2022-05-07 |
 | [Make You Fight](https://open.spotify.com/track/5di9ztnBe0d2qim9ngmiMD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Make You Fight](https://open.spotify.com/album/5mAR9SiDOEYuO4sHZwXBtK) | 2:55 | 2026-06-12 |  |
@@ -558,6 +558,7 @@
 | [Pull Up](https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Pull Up](https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW) | 3:13 | 2026-04-17 | 2026-05-17 |
 | [Pump It](https://open.spotify.com/track/19HNHSB3WcVJA8Yaq0aCAZ) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM) | [Pump It](https://open.spotify.com/album/6yo1H4SODnXX8mxd2JVJw2) | 2:34 | 2022-01-07 | 2022-07-29 |
 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-05-24 | 2025-02-03 |
+| [Push It](https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Push It](https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio) | 2:09 | 2026-06-19 |  |
 | [Push The Tempo](https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Push The Tempo](https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN) | 2:41 | 2024-12-06 | 2025-12-22 |
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-08-11 | 2026-03-14 |
 | [Put That Banger On Next](https://open.spotify.com/track/3Telt6qNs0A3XaUTfG3p1e) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Put That Banger On Next](https://open.spotify.com/album/1MNMB9fCDWKHW5bA4iSgCy) | 3:19 | 2026-04-17 | 2026-05-30 |

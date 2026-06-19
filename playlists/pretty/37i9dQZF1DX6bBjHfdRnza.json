@@ -1,44 +1,64 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Featuring Delilah. Curated by human Spotify editors. \n",
-  "num_followers": 214206,
+  "description": "The best new dance tracks from independent artists & labels. Featuring VIVI909. Curated by human Spotify editors. \n",
+  "num_followers": 214228,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF74W6gCu9eldhL5unmGyssEogS4",
+  "snapshot_id": "AAAAAFPn+wk7kw5fCsERjbp1/NmfNQeH",
   "tracks": [
     {
-      "added_at": "2026-05-15 04:01:46",
+      "added_at": "2026-05-29 04:02:04",
       "album": {
-        "name": "Journey EP",
-        "url": "https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs"
+        "name": "wdym you don\u2018t like hardgroove?",
+        "url": "https://open.spotify.com/album/5KAvS8DDDvMPhYOsMw2u80"
       },
       "artists": [
         {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh"
+          "name": "VIVI909",
+          "url": "https://open.spotify.com/artist/0Oo01WMz8SsWQdSFpkchoL"
         }
       ],
-      "duration_ms": 181108,
-      "name": "Journey",
-      "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
+      "duration_ms": 161068,
+      "name": "wdym you don\u2018t like hardgroove? - Radio Edit",
+      "url": "https://open.spotify.com/track/7uyHeUCGHtlKeZ5IJ1G7yI"
+    },
+    {
+      "added_at": "2026-06-19 04:01:53",
+      "album": {
+        "name": "DIVING",
+        "url": "https://open.spotify.com/album/08yP27NXn7S7l8cGS7l80g"
+      },
+      "artists": [
+        {
+          "name": "K.ONE",
+          "url": "https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "DIVING",
+      "url": "https://open.spotify.com/track/2TKUS9hoarxOCQwiO7drVS"
     },
     {
       "added_at": "2026-06-17 16:50:54",
       "album": {
-        "name": "Show U Sexy",
-        "url": "https://open.spotify.com/album/4WIdUxqQjTVZ2REhNKxf9A"
+        "name": "Terapia EP",
+        "url": "https://open.spotify.com/album/0JkXw9RsPPgDckgj2X2QzH"
       },
       "artists": [
         {
-          "name": "DEDRO",
-          "url": "https://open.spotify.com/artist/22z7myWEqruGZpYuQKg4cQ"
+          "name": "Bonafique",
+          "url": "https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803"
+        },
+        {
+          "name": "Yuv\u00e8e",
+          "url": "https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f"
         }
       ],
-      "duration_ms": 187559,
-      "name": "Show U Sexy",
-      "url": "https://open.spotify.com/track/6H3Qhv1dzL5pbtrQ7Kh7Cx"
+      "duration_ms": 227535,
+      "name": "Profill",
+      "url": "https://open.spotify.com/track/7G7iejjUvVun2tPL5KdhBA"
     },
     {
       "added_at": "2026-06-09 17:47:06",
@@ -67,22 +87,34 @@
     {
       "added_at": "2026-06-17 16:50:54",
       "album": {
-        "name": "Terapia EP",
-        "url": "https://open.spotify.com/album/0JkXw9RsPPgDckgj2X2QzH"
+        "name": "Show U Sexy",
+        "url": "https://open.spotify.com/album/4WIdUxqQjTVZ2REhNKxf9A"
       },
       "artists": [
         {
-          "name": "Bonafique",
-          "url": "https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803"
-        },
-        {
-          "name": "Yuv\u00e8e",
-          "url": "https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f"
+          "name": "DEDRO",
+          "url": "https://open.spotify.com/artist/22z7myWEqruGZpYuQKg4cQ"
         }
       ],
-      "duration_ms": 227535,
-      "name": "Profill",
-      "url": "https://open.spotify.com/track/7G7iejjUvVun2tPL5KdhBA"
+      "duration_ms": 187559,
+      "name": "Show U Sexy",
+      "url": "https://open.spotify.com/track/6H3Qhv1dzL5pbtrQ7Kh7Cx"
+    },
+    {
+      "added_at": "2026-05-15 04:01:46",
+      "album": {
+        "name": "Journey EP",
+        "url": "https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh"
+        }
+      ],
+      "duration_ms": 181108,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
     },
     {
       "added_at": "2026-06-11 00:10:38",
@@ -133,20 +165,36 @@
       "url": "https://open.spotify.com/track/7CcGg6ZILcYisMgb4jczKm"
     },
     {
-      "added_at": "2026-05-29 04:02:04",
+      "added_at": "2026-06-19 04:01:53",
       "album": {
-        "name": "wdym you don\u2018t like hardgroove?",
-        "url": "https://open.spotify.com/album/5KAvS8DDDvMPhYOsMw2u80"
+        "name": "uniti/separati",
+        "url": "https://open.spotify.com/album/3BerwqIItBI9kVMUlfgJo7"
       },
       "artists": [
         {
-          "name": "VIVI909",
-          "url": "https://open.spotify.com/artist/0Oo01WMz8SsWQdSFpkchoL"
+          "name": "fenoaltea",
+          "url": "https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L"
         }
       ],
-      "duration_ms": 161068,
-      "name": "wdym you don\u2018t like hardgroove? - Radio Edit",
-      "url": "https://open.spotify.com/track/7uyHeUCGHtlKeZ5IJ1G7yI"
+      "duration_ms": 197624,
+      "name": "uniti/separati",
+      "url": "https://open.spotify.com/track/4MIOpYyJVYuG5JTqGjlBcC"
+    },
+    {
+      "added_at": "2026-06-19 04:01:53",
+      "album": {
+        "name": "ALMO$T ALWAY$",
+        "url": "https://open.spotify.com/album/0J5UxmS70GjdYIZvpDTvE5"
+      },
+      "artists": [
+        {
+          "name": "TWONSKi",
+          "url": "https://open.spotify.com/artist/0wpHC77nsV39LreyyX5TK3"
+        }
+      ],
+      "duration_ms": 333750,
+      "name": "P0W3R",
+      "url": "https://open.spotify.com/track/166ucatDT06X6iEDPc5oFH"
     },
     {
       "added_at": "2026-06-17 16:50:54",
@@ -937,38 +985,6 @@
       "url": "https://open.spotify.com/track/24BqX41wztlosanKgkKvDX"
     },
     {
-      "added_at": "2026-03-18 17:43:09",
-      "album": {
-        "name": "GTFU",
-        "url": "https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam"
-      },
-      "artists": [
-        {
-          "name": "Wal",
-          "url": "https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc"
-        }
-      ],
-      "duration_ms": 230551,
-      "name": "What Ya Got",
-      "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
-    },
-    {
-      "added_at": "2026-04-30 03:41:26",
-      "album": {
-        "name": "Fanga",
-        "url": "https://open.spotify.com/album/71MjiX9HjfdP5Kf7WwnUtq"
-      },
-      "artists": [
-        {
-          "name": "Narasimha",
-          "url": "https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV"
-        }
-      ],
-      "duration_ms": 209769,
-      "name": "Fanga",
-      "url": "https://open.spotify.com/track/2DykxprHbMOi4HlOGVXBo3"
-    },
-    {
       "added_at": "2026-04-30 03:41:26",
       "album": {
         "name": "No Lighter",
@@ -1227,22 +1243,6 @@
       "duration_ms": 155076,
       "name": "dance 4 infinity",
       "url": "https://open.spotify.com/track/4jBjwCXgvAJNPYluVDb3uJ"
-    },
-    {
-      "added_at": "2026-02-18 20:21:45",
-      "album": {
-        "name": "Nothing Left to Say",
-        "url": "https://open.spotify.com/album/003d8yyAwXiYHTEUNkXoIO"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Konrad",
-          "url": "https://open.spotify.com/artist/1I7cqwyb1cKU55oVbvQ66C"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Nothing Left to Say - Radio Edit",
-      "url": "https://open.spotify.com/track/2gP0oGwwCef1i4lOQesUj2"
     },
     {
       "added_at": "2026-01-30 05:01:11",

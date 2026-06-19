@@ -1,15 +1,51 @@
 {
-  "description": "Introducing RADAR Singapore & Malaysia Class of 2026. Cover: quiet morning",
-  "num_followers": 11463,
+  "description": "Introducing RADAR Singapore & Malaysia Class of 2026. Cover: Alpha",
+  "num_followers": 11462,
   "original_name": "RADAR SG & MY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOngwNPq2/JZgg33JtpNZk6uObtj",
+  "snapshot_id": "AAAAAJcj2Vg7JKLNmkOdicZdlxMuN2/r",
   "tracks": [
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
+      "album": {
+        "name": "The First Wave",
+        "url": "https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU"
+      },
+      "artists": [
+        {
+          "name": "Alpha",
+          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
+        },
+        {
+          "name": "Daiyan Trisha",
+          "url": "https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Haru Biru",
+      "url": "https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy"
+    },
+    {
+      "added_at": "2026-06-18 22:52:20",
+      "album": {
+        "name": "Lagu Healing Kita (Live At Padang B Dataran Shah Alam, 2026)",
+        "url": "https://open.spotify.com/album/6yZ9s6ceabGracinevOJxi"
+      },
+      "artists": [
+        {
+          "name": "Intan Maya",
+          "url": "https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa"
+        }
+      ],
+      "duration_ms": 218509,
+      "name": "Lagu Healing Kita (Live At Padang B Dataran Shah Alam, 2026)",
+      "url": "https://open.spotify.com/track/04LdgbXouZb5MIkgnhwNTI"
+    },
+    {
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "under my skin",
         "url": "https://open.spotify.com/album/1OVLexXEgHSqEyJCfMsSLS"
@@ -25,7 +61,7 @@
       "url": "https://open.spotify.com/track/2PWyhubh6VvSTlrw5w3m6t"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Play2TheWhistle",
         "url": "https://open.spotify.com/album/2MkPNjFGKn6PTzAYCGGwK3"
@@ -45,7 +81,7 @@
       "url": "https://open.spotify.com/track/1RtY9R9KBqwDYGytgH7hQJ"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "no time for sober",
         "url": "https://open.spotify.com/album/2eDbJ5LcvvwjnNQtUzdjjF"
@@ -61,7 +97,23 @@
       "url": "https://open.spotify.com/track/5KGCSZJi0J7aDnScGWshwD"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
+      "album": {
+        "name": "The First Wave",
+        "url": "https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU"
+      },
+      "artists": [
+        {
+          "name": "Alpha",
+          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
+        }
+      ],
+      "duration_ms": 256990,
+      "name": "Mahkota Cinta",
+      "url": "https://open.spotify.com/track/7bIJHmQrQxTrmuCwB3PL5U"
+    },
+    {
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Could've Been",
         "url": "https://open.spotify.com/album/3mYUUcwsOOzZjGvGonUukT"
@@ -77,23 +129,7 @@
       "url": "https://open.spotify.com/track/5yy1SxsJf6OY3lbbR7h4ww"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
-      "album": {
-        "name": "Gelato",
-        "url": "https://open.spotify.com/album/5IwZQK5NNKr4O2Vh7HKYYM"
-      },
-      "artists": [
-        {
-          "name": "Alpha",
-          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
-        }
-      ],
-      "duration_ms": 168048,
-      "name": "Gelato",
-      "url": "https://open.spotify.com/track/5QTLkIBuxqpEXE4gm7IKCX"
-    },
-    {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "\u6211\u5011\u90fd\u4e0d\u5c6c\u65bc\u9019\u500b\u6642\u4ee3",
         "url": "https://open.spotify.com/album/7s3kMcHIqME1bUbNZVQsiz"
@@ -109,7 +145,7 @@
       "url": "https://open.spotify.com/track/2j2EnUvN3tGTRAcxJJe7uP"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "\u6700\u5f8c\u4e00\u6b21\u6d6a\u8cbb (\u6292\u60c5\u7248)",
         "url": "https://open.spotify.com/album/2J3Xk0CGqReOLvVYinYNmo"
@@ -125,23 +161,23 @@
       "url": "https://open.spotify.com/track/4pCz05SvW63BsYVWZNIJst"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
-        "name": "Lagu Healing Kita",
-        "url": "https://open.spotify.com/album/7B6oz3qkogH2Xy2kKCDTkZ"
+        "name": "Gelato",
+        "url": "https://open.spotify.com/album/5IwZQK5NNKr4O2Vh7HKYYM"
       },
       "artists": [
         {
-          "name": "Intan Maya",
-          "url": "https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa"
+          "name": "Alpha",
+          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Lagu Healing Kita",
-      "url": "https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd"
+      "duration_ms": 168048,
+      "name": "Gelato",
+      "url": "https://open.spotify.com/track/5QTLkIBuxqpEXE4gm7IKCX"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Mona Lisa (Bang Bang)",
         "url": "https://open.spotify.com/album/735qzpsVhgEYoPjTrnAHSD"
@@ -157,7 +193,7 @@
       "url": "https://open.spotify.com/track/6v1JjezMLHbINEEq4Ch1lU"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Cosmic",
         "url": "https://open.spotify.com/album/272qI1H4Qxy3z1qPGa4tpR"
@@ -173,7 +209,7 @@
       "url": "https://open.spotify.com/track/7dTVx630q32E7NBBylFnfG"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/06Z6NmunCkEomOqxsUk6p2"
@@ -189,7 +225,7 @@
       "url": "https://open.spotify.com/track/0ppRHSeOI5UI0WQDKT6Xxo"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Layak Bahagia",
         "url": "https://open.spotify.com/album/5NqXunXBIUmZne876CUPpq"
@@ -205,7 +241,7 @@
       "url": "https://open.spotify.com/track/0s4SyDP7tWNSPD0KECNfIQ"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "\u5c08\u5c6c\u6d6a\u6f2b",
         "url": "https://open.spotify.com/album/4pXJNKM5u6U2JJ9oeli2iU"
@@ -225,7 +261,7 @@
       "url": "https://open.spotify.com/track/0ZpPrBnYV401be2ZyHS5eR"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Look And See",
         "url": "https://open.spotify.com/album/6xqK3tb3XHls2dnEbuuJzf"
@@ -241,7 +277,7 @@
       "url": "https://open.spotify.com/track/3a85dBzdohMVZkrTdTOJOU"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "STATE OF THE ART*",
         "url": "https://open.spotify.com/album/7b8D1WBTCFHoe816CESuau"
@@ -261,7 +297,7 @@
       "url": "https://open.spotify.com/track/0JxaSQveiupox6hDy3Vqd3"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Pesan Terakhir",
         "url": "https://open.spotify.com/album/5EKBO8J9Llq0wsmkpFyjM4"
@@ -277,7 +313,7 @@
       "url": "https://open.spotify.com/track/1vv9u1qvCnaRiY14A1eOXE"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "WARD 13A's DEATH RESUME",
         "url": "https://open.spotify.com/album/3kvxbcYgBtM3MZdEPOODYL"
@@ -297,7 +333,7 @@
       "url": "https://open.spotify.com/track/7iQfoHSK7TGD0zajjZsnhb"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "lips on mine",
         "url": "https://open.spotify.com/album/4LNorO57lfjRrBae20cEPU"
@@ -313,7 +349,7 @@
       "url": "https://open.spotify.com/track/4UYnj2Y9iwE08A12FDedMj"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Safe",
         "url": "https://open.spotify.com/album/2ZuIDEHxtSkmGR4EwtkDkc"
@@ -329,7 +365,7 @@
       "url": "https://open.spotify.com/track/4egBKvnGHtwBg8JfOsFOin"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "ORANGE",
         "url": "https://open.spotify.com/album/5Q14FjYIDafCAzeXM4AeUd"
@@ -345,7 +381,7 @@
       "url": "https://open.spotify.com/track/09BWC4HuuYodVWG3l4lPWn"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Tiada Pengganti",
         "url": "https://open.spotify.com/album/7vzNHzXi5yCbTRdc5eogmA"
@@ -361,7 +397,7 @@
       "url": "https://open.spotify.com/track/2Bfp4yZKfMJxCkScw7s1G3"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "1000 Kali Sakit",
         "url": "https://open.spotify.com/album/22otPjlpE1GtHzxphsmSDy"
@@ -381,7 +417,7 @@
       "url": "https://open.spotify.com/track/0uzE4bSVct5gjrLaGaWuT7"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "angel in disguise",
         "url": "https://open.spotify.com/album/4cPJiXzTeTNU4U6XiflS7P"
@@ -397,7 +433,7 @@
       "url": "https://open.spotify.com/track/2zQYlFRHVpBC2WmTnBsxja"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Sangka Kau Suci Live Studio",
         "url": "https://open.spotify.com/album/2cqV7kwFILbnraq0jZVBUL"
@@ -413,7 +449,7 @@
       "url": "https://open.spotify.com/track/4deTKInnF37yToYOVafr4T"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "P Ramlee Saloma",
         "url": "https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN"
@@ -429,7 +465,7 @@
       "url": "https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Bujang",
         "url": "https://open.spotify.com/album/1m0rCniLQrNH7RqSlAPCAx"
@@ -445,7 +481,7 @@
       "url": "https://open.spotify.com/track/3KNeUaMsHJjLfIdIc49GoC"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Limerence",
         "url": "https://open.spotify.com/album/0EM7cPfo622WFhZVFCDtFt"
@@ -461,7 +497,7 @@
       "url": "https://open.spotify.com/track/7GX3fsty0E2X2ZE8GivcGm"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "history",
         "url": "https://open.spotify.com/album/5124dhIjBPKKW6LoBfyTHY"
@@ -477,7 +513,7 @@
       "url": "https://open.spotify.com/track/4GCG4wue41tcJjOD6zhRWq"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/6ihZe1IOrHtQIrCoAuvC76"
@@ -493,7 +529,7 @@
       "url": "https://open.spotify.com/track/6Re0bJBf1d4XuHwJLg1GeQ"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/06Z6NmunCkEomOqxsUk6p2"
@@ -509,7 +545,7 @@
       "url": "https://open.spotify.com/track/6uAQtMephSqoizW8vufKjK"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Terjatuh Cinta",
         "url": "https://open.spotify.com/album/5NxFMIC2kTRtIlLxbUp2xR"
@@ -525,7 +561,7 @@
       "url": "https://open.spotify.com/track/0FgWL2yFDcxPhB9KzkLi6B"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Illusion EP",
         "url": "https://open.spotify.com/album/7dRKHBi8oyyDjb5uQrro8N"
@@ -541,7 +577,7 @@
       "url": "https://open.spotify.com/track/0jZhcorC9gQ5zRV9W8UDgw"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Cinta Tersimpul Rapi 2026",
         "url": "https://open.spotify.com/album/75ovnbodCrTxTmo8Qbx5Au"
@@ -557,7 +593,7 @@
       "url": "https://open.spotify.com/track/3xUk2e7A3zcDZXpugww7Ar"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Running Lights",
         "url": "https://open.spotify.com/album/5HlnHYKakzMEGZ6fLsWuHw"
@@ -573,7 +609,7 @@
       "url": "https://open.spotify.com/track/0pe3m2bZeD542VyzOCzCAC"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "POPSTAR IN THE MAKING",
         "url": "https://open.spotify.com/album/6vR888Yjx5OAwKqJT2Wzex"
@@ -589,7 +625,7 @@
       "url": "https://open.spotify.com/track/3YnWu48vw1cLKTFIyIcprx"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "LOVE - EP",
         "url": "https://open.spotify.com/album/2qdMkLZhMu7PBZXHvonArs"
@@ -605,7 +641,7 @@
       "url": "https://open.spotify.com/track/4KQrm3KrTuwq3oyii6RHTj"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "Lantak Kau Lah",
         "url": "https://open.spotify.com/album/7umz4CdIgqrpktR9oT9rVE"
@@ -621,7 +657,7 @@
       "url": "https://open.spotify.com/track/7DsciZNFr4za9SnflPKGA1"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "STATE OF THE ART*",
         "url": "https://open.spotify.com/album/7b8D1WBTCFHoe816CESuau"
@@ -637,7 +673,7 @@
       "url": "https://open.spotify.com/track/0nhMh8LM4zPx0DDnijH9t2"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "STATE OF THE ART*",
         "url": "https://open.spotify.com/album/7b8D1WBTCFHoe816CESuau"
@@ -653,7 +689,7 @@
       "url": "https://open.spotify.com/track/4ybkGgRr92P6X24WIOZlzL"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "WARD 13A's DEATH RESUME",
         "url": "https://open.spotify.com/album/3kvxbcYgBtM3MZdEPOODYL"
@@ -669,7 +705,7 @@
       "url": "https://open.spotify.com/track/1zUYxxLRCfKPv1CdViXpHF"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "WARD 13A's DEATH RESUME",
         "url": "https://open.spotify.com/album/3kvxbcYgBtM3MZdEPOODYL"
@@ -689,7 +725,7 @@
       "url": "https://open.spotify.com/track/03oARKM2eOeljp6NH63Tpt"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "curbside",
         "url": "https://open.spotify.com/album/4xDlrjgB9tdap6zke6TgVB"
@@ -705,7 +741,7 @@
       "url": "https://open.spotify.com/track/5HuwUxCB958kIcSh9rqC05"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "touch",
         "url": "https://open.spotify.com/album/62CpwDDgZotecv71VLERpm"
@@ -721,7 +757,7 @@
       "url": "https://open.spotify.com/track/1nEczAnjXD3Jvbau01ee0x"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/7e0QvZS2PRY4WiPAJfasBV"
@@ -737,7 +773,7 @@
       "url": "https://open.spotify.com/track/2z4CjUPlmxlTperrWnuqAr"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "ORANGE JUICE BOX",
         "url": "https://open.spotify.com/album/0BQUOCZhZ7Tr7kkF004AQn"
@@ -753,7 +789,7 @@
       "url": "https://open.spotify.com/track/2zc01klD7NZTPeHiPHQiS8"
     },
     {
-      "added_at": "2026-06-11 16:00:17",
+      "added_at": "2026-06-18 22:52:20",
       "album": {
         "name": "ORANGE JUICE BOX",
         "url": "https://open.spotify.com/album/0BQUOCZhZ7Tr7kkF004AQn"

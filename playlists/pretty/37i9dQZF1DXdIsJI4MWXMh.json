@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 81303,
+  "num_followers": 81311,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "Qu\u00e9date con el",
+        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
+      },
+      "artists": [
+        {
+          "name": "Sin Rivales de Punitaqui",
+          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
+        }
+      ],
+      "duration_ms": 328974,
+      "name": "Ahora por unas monedas",
+      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "Para Nuestra Gente",
         "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 193125,
       "name": "La Mesa 20",
       "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Qu\u00e9date con el",
-        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
-      },
-      "artists": [
-        {
-          "name": "Sin Rivales de Punitaqui",
-          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
-        }
-      ],
-      "duration_ms": 328974,
-      "name": "Ahora por unas monedas",
-      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Me Voy a Emborrachar",
-        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Rimac",
-          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "El \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Una Asesina",
         "url": "https://open.spotify.com/album/6WlJ3NLnNwaNZHPUHCWuUD"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 242472,
       "name": "Una Asesina",
       "url": "https://open.spotify.com/track/7eiRJ8pHqh2hHPwGt1Onsb"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Me Voy a Emborrachar",
+        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Rimac",
+          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "El \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Cumbias",
-        "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
-      },
-      "artists": [
-        {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
-        },
-        {
-          "name": "Los Infieles de Santa Barbara",
-          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
-        }
-      ],
-      "duration_ms": 235994,
-      "name": "El Chorito de Violeta",
-      "url": "https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Para Mi Gente Campesina",
         "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 196662,
       "name": "Pecado de Amor",
       "url": "https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Cumbias",
+        "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
+      },
+      "artists": [
+        {
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+        },
+        {
+          "name": "Los Infieles de Santa Barbara",
+          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
+        }
+      ],
+      "duration_ms": 235994,
+      "name": "El Chorito de Violeta",
+      "url": "https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Quisiera y No Quisiera",
-        "url": "https://open.spotify.com/album/3nd1fYlZYfOeuliXL5Lwat"
-      },
-      "artists": [
-        {
-          "name": "Los Infieles de Santa Barbara",
-          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
-        }
-      ],
-      "duration_ms": 154511,
-      "name": "Quisiera y No Quisiera",
-      "url": "https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Entre el Amor y el Odio",
         "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 194481,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Quisiera y No Quisiera",
+        "url": "https://open.spotify.com/album/3nd1fYlZYfOeuliXL5Lwat"
+      },
+      "artists": [
+        {
+          "name": "Los Infieles de Santa Barbara",
+          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
+        }
+      ],
+      "duration_ms": 154511,
+      "name": "Quisiera y No Quisiera",
+      "url": "https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76"
     },
     {
       "added_at": "2026-02-19 20:52:53",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Oscar Farrell",
+  "description": "The home for alternative electronic music. Cover: Bonobo",
   "name": "Altar",
   "tracks": [
     {
@@ -140,6 +140,24 @@
       "duration_ms": 334584,
       "name": "132 TECHNO",
       "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
+    },
+    {
+      "album": {
+        "name": "138 Perc",
+        "url": "https://open.spotify.com/album/6L4TmMYQsWLZepaQbROMGn"
+      },
+      "artists": [
+        {
+          "name": "Sam Interface",
+          "url": "https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281739,
+      "name": "138 Perc",
+      "url": "https://open.spotify.com/track/0rO1KgRj9JwhLYfLt4I2td"
     },
     {
       "album": {
@@ -7808,7 +7826,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 280455,
       "name": "Enterprise",
       "url": "https://open.spotify.com/track/6FGiBBgovna7p0UmacliZY"
@@ -11802,7 +11820,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 148645,
       "name": "hold tight",
       "url": "https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz"
@@ -13075,6 +13093,24 @@
     },
     {
       "album": {
+        "name": "ill be there for u",
+        "url": "https://open.spotify.com/album/4igH6XAgzuFY0OXVXOSIod"
+      },
+      "artists": [
+        {
+          "name": "amil raja",
+          "url": "https://open.spotify.com/artist/4emKkyOHSx3lMdmNNBZiUt"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189918,
+      "name": "ill be there for u",
+      "url": "https://open.spotify.com/track/2pfbhevjWzuSycZzSXAuVU"
+    },
+    {
+      "album": {
         "name": "Illegal + Four Tet",
         "url": "https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS"
       },
@@ -13266,7 +13302,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 255426,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1UcSwc91w0QBondREndseA"
@@ -15270,7 +15306,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 260879,
       "name": "Lights Burn Dimmer",
       "url": "https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ"
@@ -15818,7 +15854,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 229714,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/2zGn6hwGCnANDoSsAxlnRx"
@@ -17381,6 +17417,28 @@
     },
     {
       "album": {
+        "name": "Motorbike Rider",
+        "url": "https://open.spotify.com/album/7tZrUH2RHnRj2dSZGpY4Tu"
+      },
+      "artists": [
+        {
+          "name": "DJ Physical",
+          "url": "https://open.spotify.com/artist/5gLrd7zW9n1zpwkKsmzsrk"
+        },
+        {
+          "name": "Me & George",
+          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194280,
+      "name": "Motorbike Rider",
+      "url": "https://open.spotify.com/track/3oDXPCSApOLict6xpqfRQX"
+    },
+    {
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/1j4zEZkzGbGa34peFHFare"
       },
@@ -18839,6 +18897,28 @@
     },
     {
       "album": {
+        "name": "On Your Mind (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "On Your Mind (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7"
+    },
+    {
+      "album": {
         "name": "On Your Side",
         "url": "https://open.spotify.com/album/0ybSmADzvdW7DUNMwP33dk"
       },
@@ -18908,7 +18988,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 384105,
       "name": "One 2 One",
       "url": "https://open.spotify.com/track/6sgmz6hcWUvp1VDJabeXc4"
@@ -22266,6 +22346,28 @@
       "duration_ms": 244708,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
+    },
+    {
+      "album": {
+        "name": "Satisfied?",
+        "url": "https://open.spotify.com/album/3fUlyT0kdeJ8MinBZWSIgC"
+      },
+      "artists": [
+        {
+          "name": "Normal Pleasure",
+          "url": "https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI"
+        },
+        {
+          "name": "The Rah Band",
+          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233023,
+      "name": "Satisfied?",
+      "url": "https://open.spotify.com/track/6OJwbzcq7BdBwJsnLyyBAZ"
     },
     {
       "album": {
@@ -26204,6 +26306,24 @@
       "duration_ms": 222682,
       "name": "thicc",
       "url": "https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo"
+    },
+    {
+      "album": {
+        "name": "Thing About You",
+        "url": "https://open.spotify.com/album/5juwSNDpmN5ujCVoqGt76D"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269599,
+      "name": "Thing About You",
+      "url": "https://open.spotify.com/track/37Gynn6b6jLav72MY5TZQH"
     },
     {
       "album": {

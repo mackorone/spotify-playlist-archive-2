@@ -5704,6 +5704,28 @@
     {
       "album": {
         "name": "Ensaio sobre a Sujeira",
+        "url": "https://open.spotify.com/album/40vZMc7MuB7yYK1id4GdYU"
+      },
+      "artists": [
+        {
+          "name": "Puro Suco",
+          "url": "https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms"
+        },
+        {
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Ensaio sobre a Sujeira",
+      "url": "https://open.spotify.com/track/0xXMoKSZDGv3DMRIDuT6an"
+    },
+    {
+      "album": {
+        "name": "Ensaio sobre a Sujeira",
         "url": "https://open.spotify.com/album/5IFeqUcuUdjfmYT5qwFAzt"
       },
       "artists": [
@@ -5718,7 +5740,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 132000,
       "name": "Ensaio sobre a Sujeira",
       "url": "https://open.spotify.com/track/1RIm9aEbnBePS728xZi5o1"
@@ -13904,10 +13926,40 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 191448,
       "name": "Quando o Ego Inflar",
       "url": "https://open.spotify.com/track/07A6YOGCikRfaa5MxiDkKK"
+    },
+    {
+      "album": {
+        "name": "Estreito",
+        "url": "https://open.spotify.com/album/0ZUVyVi0nJxNpkORgmA1xU"
+      },
+      "artists": [
+        {
+          "name": "Victor Xam\u00e3",
+          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
+        },
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "El Prat",
+          "url": "https://open.spotify.com/artist/6Bcq1eBPmMI5okl6q0y8EA"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191448,
+      "name": "Quando o Ego Inflar",
+      "url": "https://open.spotify.com/track/3pGijJXRopdS2KpXyzW5S6"
     },
     {
       "album": {

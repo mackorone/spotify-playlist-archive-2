@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,163 songs - 2 day 11 hr 57 min
+1,164 songs - 2 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1047,6 +1047,7 @@
 | [Trujillana](https://open.spotify.com/track/47zvDIWnlhZWcWhZEDauTA) | [Maxx Lyon](https://open.spotify.com/artist/43CU8m11gF8fr4QLTxQdfW), [Andrew Hansel](https://open.spotify.com/artist/71IPHegMvPMkqmJfNs7A4V) | [Trujillana](https://open.spotify.com/album/1wR0T66gmIx2bUtPqGRX66) | 2:00 | 2023-02-24 | 2023-08-02 |
 | [Trumpz](https://open.spotify.com/track/0fpA44Ez6El7yJHLgln0SU) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Trumpz](https://open.spotify.com/album/4YN8jzTKellfwWAcjdTDXC) | 2:07 | 2023-02-12 | 2023-12-23 |
 | [Truzza \(feat\. Polina Grace\)](https://open.spotify.com/track/4PIimj8VC7QexfiobipYuc) | [Tava](https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R), [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [Truzza \(feat\. Polina Grace\)](https://open.spotify.com/album/4n7bOg24bCUZfMaK61JsTT) | 1:48 | 2023-07-14 | 2023-12-14 |
+| [Tu Es Tout](https://open.spotify.com/track/34OVYem9gbZQwKFdOC6Hxs) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Tu Es Tout](https://open.spotify.com/album/4sM2As0l2xCulpfdU1n0xo) | 3:01 | 2026-06-18 |  |
 | [Tu Tu](https://open.spotify.com/track/3LUq5EsyDfbdjMhUBYMQJ8) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [Tu Tu](https://open.spotify.com/album/3dw0eHvyRnuIdIp7LrkOmw) | 3:03 | 2024-02-16 | 2024-10-11 |
 | [Turn It Around Baby](https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Turn It Around Baby](https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3) | 3:38 | 2023-08-17 | 2023-12-14 |
 | [Turn It Up](https://open.spotify.com/track/2X4KRyKAxaBezXcOXegdq2) | [Rapsody](https://open.spotify.com/artist/3QsDrRo8jTNmqQtAPQc7iZ) | [Turn It Up](https://open.spotify.com/album/5aCf0aEQsfxOPMZMAyxxtK) | 2:29 | 2023-08-25 | 2023-09-01 |

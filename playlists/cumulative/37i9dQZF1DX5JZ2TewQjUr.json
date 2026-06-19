@@ -21357,6 +21357,28 @@
     },
     {
       "album": {
+        "name": "\u4e00\u5ec2\u60c5\u9858 (feat. \u5ed6\u5b50\u59a4) [\u6539\u7de8\u81ea\u300a\u591c\u738b\u300b\u96fb\u5f71\u97f3\u6a02]",
+        "url": "https://open.spotify.com/album/36Sncl0jBooZsNV5fJQ9Zl"
+      },
+      "artists": [
+        {
+          "name": "iii",
+          "url": "https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT"
+        },
+        {
+          "name": "\u5ed6\u5b50\u59a4",
+          "url": "https://open.spotify.com/artist/5qlNHZEXD7phpCj52GQSuz"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279448,
+      "name": "\u4e00\u5ec2\u60c5\u9858 (feat. \u5ed6\u5b50\u59a4) - \u6539\u7de8\u81ea\u300a\u591c\u738b\u300b\u96fb\u5f71\u97f3\u6a02",
+      "url": "https://open.spotify.com/track/1gsRlBtE7QvkmFk2l6dQnF"
+    },
+    {
+      "album": {
         "name": "\u4e03\u59ca\u59b9\u661f\u5718",
         "url": "https://open.spotify.com/album/0KUeT2hHz8GFbLXT4Yfd5F"
       },
@@ -24122,6 +24144,28 @@
       "duration_ms": 226666,
       "name": "\u5728\u4e0b\u4e00\u9663\u98a8\u4f86\u4e4b\u524d",
       "url": "https://open.spotify.com/track/6l17A7oYVPcQCESCD9aORl"
+    },
+    {
+      "album": {
+        "name": "\u5728\u5169\u500b\u5fc3\u4e2d\u9593\u5750\u4e0b Two Worlds",
+        "url": "https://open.spotify.com/album/3T1evDXqRxEMVOe7NXMU2o"
+      },
+      "artists": [
+        {
+          "name": "Cy Leo",
+          "url": "https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5"
+        },
+        {
+          "name": "Ivana Wong",
+          "url": "https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "\u5728\u5169\u500b\u5fc3\u4e2d\u9593\u5750\u4e0b Two Worlds (feat. Ivana Wong)",
+      "url": "https://open.spotify.com/track/1TZBNT3sqxVCBNr7g0lTti"
     },
     {
       "album": {
@@ -30752,6 +30796,24 @@
       "duration_ms": 214120,
       "name": "\u8981\u9084",
       "url": "https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt"
+    },
+    {
+      "album": {
+        "name": "\u8aaa\u771f\u7684",
+        "url": "https://open.spotify.com/album/3oFHKTGnyVz9qsi3swiBVj"
+      },
+      "artists": [
+        {
+          "name": "Zelos Wong \u9ec3\u51f1\u9038",
+          "url": "https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "\u8aaa\u771f\u7684",
+      "url": "https://open.spotify.com/track/5lImeKcFuPcoBGDLkUYgwC"
     },
     {
       "album": {

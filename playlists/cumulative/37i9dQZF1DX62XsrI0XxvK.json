@@ -1785,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "Guna Guna",
+        "url": "https://open.spotify.com/album/4Lce2g6iWMtomgg46M0Dxc"
+      },
+      "artists": [
+        {
+          "name": "Buzar",
+          "url": "https://open.spotify.com/artist/6OWl6OpSaGDoQBooOlChJI"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224250,
+      "name": "Guna Guna",
+      "url": "https://open.spotify.com/track/4MH2IMPImhyzzPEIqpMqSr"
+    },
+    {
+      "album": {
         "name": "Handle It (feat. Fangtatis)",
         "url": "https://open.spotify.com/album/77YYFOxDJa6IYxQzS2B5q7"
       },
@@ -4424,6 +4442,28 @@
       "duration_ms": 158291,
       "name": "Something New (feat. Afgan)",
       "url": "https://open.spotify.com/track/3lZXsYZgaXodwSALy5cR6B"
+    },
+    {
+      "album": {
+        "name": "Something on Your Mind",
+        "url": "https://open.spotify.com/album/5DnLaYwlXBwFQfQaey3jZV"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        },
+        {
+          "name": "The Soul & Rollers",
+          "url": "https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283453,
+      "name": "Something On Your Mind",
+      "url": "https://open.spotify.com/track/4d8mYo1J66ro1l0vk7YPJo"
     },
     {
       "album": {

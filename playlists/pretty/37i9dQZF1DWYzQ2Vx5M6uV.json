@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
-  "num_followers": 143734,
+  "num_followers": 143741,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -895,26 +895,6 @@
     {
       "added_at": "2026-05-24 07:04:55",
       "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
-    },
-    {
-      "added_at": "2026-05-24 07:04:55",
-      "album": {
         "name": "A POCA LUZ",
         "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 194181,
       "name": "A POCA LUZ",
       "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
+    },
+    {
+      "added_at": "2026-05-24 07:04:55",
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
     },
     {
       "added_at": "2026-05-24 07:04:55",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2026-05-24 07:04:55",
       "album": {
+        "name": "Cafecito",
+        "url": "https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3"
+    },
+    {
+      "added_at": "2026-05-24 07:04:55",
+      "album": {
         "name": "coletera",
         "url": "https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9"
       },
@@ -1775,22 +1791,6 @@
     {
       "added_at": "2026-05-24 07:04:55",
       "album": {
-        "name": "Cafecito",
-        "url": "https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 163516,
-      "name": "Cafecito",
-      "url": "https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3"
-    },
-    {
-      "added_at": "2026-05-24 07:04:55",
-      "album": {
         "name": "Tiempo Al Tiempo (feat. Goyo)",
         "url": "https://open.spotify.com/album/4GudHPMW0hOEB0UVofI8Qy"
       },
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2026-05-24 07:04:55",
       "album": {
-        "name": "a ti te matan las ganas",
-        "url": "https://open.spotify.com/album/2LREJjlTQ33QZ2mVdbOcZq"
-      },
-      "artists": [
-        {
-          "name": "Anacri",
-          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
-        }
-      ],
-      "duration_ms": 149340,
-      "name": "a ti te matan las ganas",
-      "url": "https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO"
-    },
-    {
-      "added_at": "2026-05-24 07:04:55",
-      "album": {
         "name": "IYKYK",
         "url": "https://open.spotify.com/album/4V0aFNdTIXNLdSaScn702S"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 159135,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5"
+    },
+    {
+      "added_at": "2026-05-24 07:04:55",
+      "album": {
+        "name": "a ti te matan las ganas",
+        "url": "https://open.spotify.com/album/2LREJjlTQ33QZ2mVdbOcZq"
+      },
+      "artists": [
+        {
+          "name": "Anacri",
+          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
+        }
+      ],
+      "duration_ms": 149340,
+      "name": "a ti te matan las ganas",
+      "url": "https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO"
     },
     {
       "added_at": "2026-05-24 07:04:55",

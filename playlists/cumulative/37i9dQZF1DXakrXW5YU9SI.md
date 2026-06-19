@@ -4,7 +4,7 @@
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-1,005 songs - 2 day 8 hr 10 min
+1,006 songs - 2 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 | 2026-01-09 | 2026-03-14 |
 | [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 | 2024-06-28 | 2024-09-13 |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 | 2025-03-28 | 2025-06-01 |
+| [glitter in the night](https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [glitter in the night](https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6) | 2:39 | 2026-06-12 |  |
 | [GODSPEED](https://open.spotify.com/track/4cYDTIDr19K7eHfVD9zMJA) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [GODSPEED](https://open.spotify.com/album/4V8nHlud02hz69Cqwoah2q) | 3:13 | 2025-12-05 | 2026-02-23 |
 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 | 2026-04-10 | 2026-06-10 |
 | [Golden](https://open.spotify.com/track/2eCIuJf0knqLiVc8nMFVPJ) | [Sonia Stein](https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y) | [Golden](https://open.spotify.com/album/5001QUmSIYtq9hKisNjdXI) | 3:58 | 2026-03-20 | 2026-03-28 |
@@ -375,7 +376,7 @@
 | [jakby co, to dzwoń](https://open.spotify.com/track/0C3PjVD7octHIivBMmHKSS) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [jakby co, to dzwoń](https://open.spotify.com/album/2o0THpAArDAx3lVksJ58Sn) | 3:25 | 2024-10-25 | 2024-11-09 |
 | [JAKBY JUTRA MIAŁO NIE BYĆ](https://open.spotify.com/track/32RXEFUIE21OJkIy57jOTU) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [NAPISZ JAK BĘDZIESZ](https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe) | 2:48 | 2025-04-25 | 2025-08-08 |
 | [Jeden smutek](https://open.spotify.com/track/0embiNjtOdlKEkZHiKoC8f) | [Asia Nawojska](https://open.spotify.com/artist/5GymgO2A0NDEhmRk5RwCi3), [Paplajki](https://open.spotify.com/artist/5Pu1wcbGGN9l55I6LbwePQ) | [Jeden smutek](https://open.spotify.com/album/2cEkuEzeBK1gtHVKTtZsMr) | 2:43 | 2024-12-19 | 2025-01-11 |
-| [Jedziemy na domki](https://open.spotify.com/track/1k6UKqqaN8YmJJzTp0gyCw) | [Ekipa](https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM), [Świeży](https://open.spotify.com/artist/1EIiX3fde2dGnFkYH3527s), [Michu Kontrabas](https://open.spotify.com/artist/1IC954ehnIxfV7Ek4sW9Uj), [Asia Marcinik](https://open.spotify.com/artist/1qooF2LGQbl1ReJzYY6Eys), [Postirol](https://open.spotify.com/artist/2MdRJ4qSgSQk9uA95FITj3), [Kwolczi](https://open.spotify.com/artist/2ixtjqXDvLMk4FzMoQQK6C) | [Jedziemy na domki](https://open.spotify.com/album/2dvHmFzqCfd8HQ9zyVgrv1) | 2:00 | 2026-06-09 |  |
+| [Jedziemy na domki](https://open.spotify.com/track/1k6UKqqaN8YmJJzTp0gyCw) | [Ekipa](https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM), [Świeży](https://open.spotify.com/artist/1EIiX3fde2dGnFkYH3527s), [Michu Kontrabas](https://open.spotify.com/artist/1IC954ehnIxfV7Ek4sW9Uj), [Asia Marcinik](https://open.spotify.com/artist/1qooF2LGQbl1ReJzYY6Eys), [Postirol](https://open.spotify.com/artist/2MdRJ4qSgSQk9uA95FITj3), [Kwolczi](https://open.spotify.com/artist/2ixtjqXDvLMk4FzMoQQK6C) | [Jedziemy na domki](https://open.spotify.com/album/2dvHmFzqCfd8HQ9zyVgrv1) | 2:00 | 2026-06-09 | 2026-06-19 |
 | [Jest jak jest](https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Jest jak jest](https://open.spotify.com/album/4YFA93YNUERAacYRMkrEi7) | 2:48 | 2025-04-25 | 2025-06-28 |
 | [Jestem](https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Jestem](https://open.spotify.com/album/5r0CDkFob3OnZ07m4b4Qqc) | 2:18 | 2024-08-30 | 2024-09-15 |
 | [Jestem Zwykłym Chłopcem](https://open.spotify.com/track/4e3XCNJxsPgzS7uYrn2I0A) | [oysterboy](https://open.spotify.com/artist/0zHt0gWj0hDUgKOrUkeiYk) | [Jestem Zwykłym Chłopcem](https://open.spotify.com/album/3FfCU2zq1yRTHeAfiLcRi0) | 2:36 | 2026-03-13 | 2026-03-15 |

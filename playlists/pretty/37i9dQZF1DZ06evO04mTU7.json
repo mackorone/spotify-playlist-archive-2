@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 15994,
+  "num_followers": 16008,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAAHLE4EWZR6t81MvIKQ5cMY",
+  "snapshot_id": "ajHjgAAAAADM4sQIAhwQZnrKVQySVvox",
   "tracks": [
     {
       "added_at": null,
@@ -35,26 +35,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "voc\u00ea vai gostar",
-        "url": "https://open.spotify.com/album/3GSOqaNwIax15VWuAtwvls"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 204767,
-      "name": "voc\u00ea vai gostar",
-      "url": "https://open.spotify.com/track/6Tz1pVZASlwQAAEi7Rb9Ut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3AM (PXT4 RASA) [Remix]",
         "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
       },
@@ -75,6 +55,26 @@
       "duration_ms": 122192,
       "name": "3AM (PXT4 RASA) - Remix",
       "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "voc\u00ea vai gostar",
+        "url": "https://open.spotify.com/album/3GSOqaNwIax15VWuAtwvls"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 204767,
+      "name": "voc\u00ea vai gostar",
+      "url": "https://open.spotify.com/track/6Tz1pVZASlwQAAEi7Rb9Ut"
     },
     {
       "added_at": null,

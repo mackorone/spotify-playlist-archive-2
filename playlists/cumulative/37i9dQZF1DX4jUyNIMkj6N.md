@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-420 songs - 1 day 1 hr 15 min
+422 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [End of July](https://open.spotify.com/track/6ag0v6PX7xlKu1RqmU6dm4) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Simpler Times](https://open.spotify.com/album/4uZZKroW4sf3973ravoU6s) | 3:56 | 2026-05-07 |  |
 | [Er du ensom har du meg](https://open.spotify.com/track/2lnRijAqNKDZvpSxoIMJEs) | [Valkyrien Allstars](https://open.spotify.com/artist/4E1kp6gNDweuoJ7UIrTbgU) | [venter på noen som venter på noen](https://open.spotify.com/album/4LLXR5tKNKOxlG9h0FQacF) | 3:44 | 2025-06-12 | 2025-11-01 |
 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 | 2023-05-25 | 2025-04-09 |
+| [Evigheten nærmer seg](https://open.spotify.com/track/5pYxllxzdm368L57cbzGIq) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Evigheten nærmer seg](https://open.spotify.com/album/77RXk1VrQ9aDWIWcGfnipX) | 2:51 | 2026-06-18 |  |
 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 | 2023-04-27 |  |
 | [Faster](https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Woods](https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN) | 3:27 | 2025-03-06 | 2026-04-03 |
 | [Fear/Hope](https://open.spotify.com/track/3hswSBDeVf5DNk9oUKtqlX) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Fear/Hope](https://open.spotify.com/album/2J0y7VtslUf4QRh3IVtr1n) | 2:55 | 2024-11-07 | 2025-09-19 |
@@ -207,7 +208,7 @@
 | [June](https://open.spotify.com/track/4pduaq2UnV1fpgevorNxAv) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [June](https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM) | 3:38 | 2022-07-14 | 2022-10-25 |
 | [Kaleidoscope Dream](https://open.spotify.com/track/7AA7OKI46YdQ64gXSDBQv6) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS) | [Kaleidoscope Dream](https://open.spotify.com/album/09UeNYXrcwTA0CFIx2P6c3) | 3:39 | 2021-12-02 | 2022-07-29 |
 | [Kings and Aces](https://open.spotify.com/track/00FjPtTqy9JtPsjwVJMRxw) | [The White Album](https://open.spotify.com/artist/5JhaDdCfVwK1YJciYM7s6i) | [The Quiet Strum](https://open.spotify.com/album/4VHQklPYm6aSSbeRalAi62) | 2:49 | 2021-12-02 | 2022-07-19 |
-| [know me](https://open.spotify.com/track/1VClV5m249HOzIwkr8FX8C) | [Palegengas](https://open.spotify.com/artist/6pIkIT2KD2bCV02ZXqhMNj) | [know me](https://open.spotify.com/album/0jBG8K1izc6jovvuVk0s5H) | 3:35 | 2026-06-04 |  |
+| [know me](https://open.spotify.com/track/1VClV5m249HOzIwkr8FX8C) | [Palegengas](https://open.spotify.com/artist/6pIkIT2KD2bCV02ZXqhMNj) | [know me](https://open.spotify.com/album/0jBG8K1izc6jovvuVk0s5H) | 3:35 | 2026-06-04 | 2026-06-19 |
 | [Kom heim](https://open.spotify.com/track/4GVZR9TdLp9D0ToG68ZxNh) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kom heim](https://open.spotify.com/album/445fT2wa4stnwaF4SNlJuF) | 3:22 | 2022-03-03 | 2022-07-29 |
 | [Late December](https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [Late December](https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8) | 2:59 | 2023-12-08 | 2025-01-19 |
 | [Let Go](https://open.spotify.com/track/6sxBh5RVUA3IP5i93WLIDn) | [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [Let Go](https://open.spotify.com/album/3qnowTLuRg2RxHRztC22DG) | 2:41 | 2023-12-14 | 2024-06-01 |
@@ -219,6 +220,7 @@
 | [Longed For This Moment](https://open.spotify.com/track/3X6OzLlY8xGD1MUvZgT755) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Longed For This Moment](https://open.spotify.com/album/1XmJ9gbDf1OlDOngzd2qMP) | 3:14 | 2026-04-16 | 2026-05-22 |
 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 | 2021-12-02 | 2023-10-06 |
 | [Lost](https://open.spotify.com/track/3y30CMKgom7ymwPVnDuoQ4) | [Sonic Løland](https://open.spotify.com/artist/3g4SAPEqsPhWUsAzRqnu8o) | [Lost](https://open.spotify.com/album/5KGvjHsl3He6zOSszh8uFH) | 3:45 | 2022-11-10 | 2022-11-26 |
+| [Lost Forever Over The Moon](https://open.spotify.com/track/5vRe5caFk0xaJ58whrsKwB) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE), [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Lost Forever Over The Moon](https://open.spotify.com/album/2jJE6NcA3uvGaSLsf8FGZI) | 3:02 | 2026-06-18 |  |
 | [Lou Lou](https://open.spotify.com/track/7fdPcyE4xzQlm0Fkf0JERy) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Lou Lou](https://open.spotify.com/album/39Tx9lVSciEVoYmCCdpkXH) | 2:04 | 2021-12-02 | 2022-07-28 |
 | [Lou Lou](https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [About You](https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM) | 2:08 | 2022-07-14 | 2024-04-03 |
 | [Love is All](https://open.spotify.com/track/3gVuz4Bhvxb2J0iGSH8bCZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2W2Na2SJuf7jqvjNuSjh5J) | 4:15 | 2021-12-02 | 2022-07-29 |
@@ -307,7 +309,7 @@
 | [Soldier Song](https://open.spotify.com/track/7cpq6ovqtMDVjUWw52aIYp) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L) | [Soldier Song](https://open.spotify.com/album/2eQmUvFYpkN2sIdgxOvalF) | 3:32 | 2024-10-10 | 2024-12-07 |
 | [Solfager og Ormekongen](https://open.spotify.com/track/72xkiSQyAbHlaGHBYrlwLI) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Solfager og Ormekongen](https://open.spotify.com/album/1CcblCunCvgfhSb7B3E1fS) | 4:53 | 2021-12-02 | 2022-07-28 |
 | [Solringen \- First Flight of the White Raven LIVE](https://open.spotify.com/track/0fIy0hd1teqHnUZyt0o7os) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Solringen \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/6onBcLQqwIoGL81fFAwI82) | 4:45 | 2022-01-20 | 2022-07-21 |
-| [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 | 2022-09-29 |  |
+| [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 | 2022-09-29 | 2026-06-19 |
 | [Spor i sand](https://open.spotify.com/track/7qGuTkxiZ3Uxtr4aI8bxmE) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann \(Vinyl Edition\)](https://open.spotify.com/album/6LAlzrbGc9DCpnKHRDWN1F) | 4:48 | 2023-04-13 | 2023-05-16 |
 | [Starting Again](https://open.spotify.com/track/7BnzDWMDn1lV25kTTEefNz) | [Rebekka Lundstrøm](https://open.spotify.com/artist/3gVauPfgPGg6uKuR6dOMui) | [Starting Again](https://open.spotify.com/album/5IrLKl3WwY03Kmzar5n9Ds) | 4:36 | 2022-03-24 | 2022-07-19 |
 | [Stay Alive \- From "The Secret Life of Walter Mitty" Soundtrack](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 | 2021-12-02 |  |

@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 98944,
+  "num_followers": 98947,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Anus",
-        "url": "https://open.spotify.com/album/5IMcfR6mVlC4eLOzDSmIk1"
-      },
-      "artists": [
-        {
-          "name": "Alaska Thunderfuck",
-          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
-        }
-      ],
-      "duration_ms": 238490,
-      "name": "Your Makeup Is Terrible",
-      "url": "https://open.spotify.com/track/55EINX1PxT45s5rpO8UIQw"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "UK Hun? (United Kingdolls Version)",
         "url": "https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 166100,
       "name": "UK Hun? (United Kingdolls Version)",
       "url": "https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Anus",
+        "url": "https://open.spotify.com/album/5IMcfR6mVlC4eLOzDSmIk1"
+      },
+      "artists": [
+        {
+          "name": "Alaska Thunderfuck",
+          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
+        }
+      ],
+      "duration_ms": 238490,
+      "name": "Your Makeup Is Terrible",
+      "url": "https://open.spotify.com/track/55EINX1PxT45s5rpO8UIQw"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Hot Couture",
+        "url": "https://open.spotify.com/album/6Ds1mmSABZUymGcIUOvecA"
+      },
+      "artists": [
+        {
+          "name": "Manila Luzon",
+          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Hot Couture",
+      "url": "https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
         "url": "https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 248973,
       "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
       "url": "https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Hot Couture",
-        "url": "https://open.spotify.com/album/6Ds1mmSABZUymGcIUOvecA"
-      },
-      "artists": [
-        {
-          "name": "Manila Luzon",
-          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Hot Couture",
-      "url": "https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -599,26 +599,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Everybody Hates Linux",
-        "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
-      },
-      "artists": [
-        {
-          "name": "Linux",
-          "url": "https://open.spotify.com/artist/2RO8MlM6Jnb5pmPPHFjFO6"
-        },
-        {
-          "name": "Aquaria",
-          "url": "https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL"
-        }
-      ],
-      "duration_ms": 254111,
-      "name": "Looks (feat. Aquaria)",
-      "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Everyone Is A Little Bit Gay",
         "url": "https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 190603,
       "name": "Everyone Is A Little Bit Gay",
       "url": "https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Everybody Hates Linux",
+        "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
+      },
+      "artists": [
+        {
+          "name": "Linux",
+          "url": "https://open.spotify.com/artist/2RO8MlM6Jnb5pmPPHFjFO6"
+        },
+        {
+          "name": "Aquaria",
+          "url": "https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL"
+        }
+      ],
+      "duration_ms": 254111,
+      "name": "Looks (feat. Aquaria)",
+      "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Gimme What I Want",
+        "url": "https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4"
+      },
+      "artists": [
+        {
+          "name": "Ros\u00e9",
+          "url": "https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "Gimme What I Want",
+      "url": "https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Know-It-All",
         "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 210708,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Gimme What I Want",
-        "url": "https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4"
-      },
-      "artists": [
-        {
-          "name": "Ros\u00e9",
-          "url": "https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "Gimme What I Want",
-      "url": "https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
+      },
+      "artists": [
+        {
+          "name": "Veronica Green",
+          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
+        }
+      ],
+      "duration_ms": 251250,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Out of Office",
         "url": "https://open.spotify.com/album/406xw48mEf8PUbq48eGu6C"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 194000,
       "name": "Out of Office",
       "url": "https://open.spotify.com/track/2quoLHVf67QT7yPDoMQlTE"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Stars (Disco Mix)",
-        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
-      },
-      "artists": [
-        {
-          "name": "Veronica Green",
-          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Stars - Disco Mix",
-      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Stars (Disco Mix)",
+        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
+      },
+      "artists": [
+        {
+          "name": "Veronica Green",
+          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Stars - Disco Mix",
+      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Born Naked",
         "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 212693,
       "name": "Sissy That Walk",
       "url": "https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
-      },
-      "artists": [
-        {
-          "name": "Veronica Green",
-          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
-        }
-      ],
-      "duration_ms": 251250,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
     },
     {
       "added_at": "2025-01-14 16:17:40",

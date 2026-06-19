@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI?si=0pFwlycWSQ2EW\-aA6W\-b4A>Tkeyz</a>
 
-400 songs - 2 day 1 hr 48 min
+401 songs - 2 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [I Pray](https://open.spotify.com/track/3C5SLOcwE5hfBMVgolgJAK) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 1:43 | 2025-04-18 | 2025-07-04 |
 | [I PREVAIL \- Live](https://open.spotify.com/track/05e71J5stPJGlANXswQDDu) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Live\)](https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL) | 12:58 | 2024-11-15 |  |
 | [I SEE](https://open.spotify.com/track/39yICU1ZRe4y69Cm2wZJgU) | [Odunayo Adebayo](https://open.spotify.com/artist/0ukVYetuAqUosMYWIw4cRa), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Dera Richards](https://open.spotify.com/artist/2dOU6Ciik1SpT7NTUYWM8u) | [I SEE](https://open.spotify.com/album/6koA76R3IQVmyQI6APcnsp) | 14:06 | 2025-12-12 | 2026-02-13 |
+| [I See Jesus](https://open.spotify.com/track/1ngGG0C9rA6js2YhimI9OC) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [I See Jesus](https://open.spotify.com/album/7qAcOgeAJhhny0TIh5AHV0) | 10:00 | 2026-06-19 |  |
 | [I See The Lord \- Live](https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [I See The Lord \(Live\)](https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3) | 10:10 | 2026-05-29 |  |
 | [I surrender](https://open.spotify.com/track/4OTZiVgPtkJsYAftgOIQEu) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [I surrender](https://open.spotify.com/album/3Nm2FBMLY48THNMIi9IPRs) | 5:26 | 2025-08-08 | 2025-12-12 |
 | [I Was Made To Glorify Your Name](https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [I Was Made To Glorify Your Name](https://open.spotify.com/album/5WUPJV4LB0mMvypBL8Sfc0) | 5:46 | 2026-02-27 |  |

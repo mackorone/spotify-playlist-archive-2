@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Ibrahim Maalouf",
+  "description": "New jazz for open minds. Cover: CARRTOONS",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 208880,
       "name": "Always Be (feat. Kaya Thomas-Dyke)",
       "url": "https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM"
@@ -8518,7 +8518,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 262832,
       "name": "COUGH DROP",
       "url": "https://open.spotify.com/track/5sacf57OnsUGuIdVO8WrT2"
@@ -12078,12 +12078,8 @@
           "url": "https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I"
         },
         {
-          "name": "Itay Simhocih",
-          "url": "https://open.spotify.com/artist/5Vi3MtvSHAOgsBLuWXuigF"
-        },
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Itay Simhovich",
+          "url": "https://open.spotify.com/artist/7aMuvoIBnkIiZFIPjSHRju"
         }
       ],
       "date_added": "2026-05-29",
@@ -15465,6 +15461,24 @@
     },
     {
       "album": {
+        "name": "Gospel Andante",
+        "url": "https://open.spotify.com/album/6Tthu3vwUNiZisIQnNq0hX"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235224,
+      "name": "Gospel Andante",
+      "url": "https://open.spotify.com/track/3Z72TmFgNcyvTL83UFEkSn"
+    },
+    {
+      "album": {
         "name": "Got that?",
         "url": "https://open.spotify.com/album/08nVCZBo8sBzTkzFAFtI3A"
       },
@@ -16678,7 +16692,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 230044,
       "name": "HOURS:AFTER",
       "url": "https://open.spotify.com/track/2efKpdGah3AVLf8qjtJ7NE"
@@ -19100,7 +19114,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 232506,
       "name": "it's hard to hear you",
       "url": "https://open.spotify.com/track/4w5eVrPEcUeuo88mEmLeWa"
@@ -21244,6 +21258,32 @@
       "duration_ms": 233634,
       "name": "Lennie's Changes",
       "url": "https://open.spotify.com/track/3HLc28AzjfZpvzEB6onh1E"
+    },
+    {
+      "album": {
+        "name": "Let's try",
+        "url": "https://open.spotify.com/album/1vYicUmPViVYQGszdjGSYk"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Robert \"Sput\" Searight",
+          "url": "https://open.spotify.com/artist/0o5bweAbSBmSkksYXrgKS8"
+        },
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377292,
+      "name": "Let's try",
+      "url": "https://open.spotify.com/track/6Y6ncZAtBwI16AP5541aDr"
     },
     {
       "album": {
@@ -28547,6 +28587,36 @@
     },
     {
       "album": {
+        "name": "PEARL",
+        "url": "https://open.spotify.com/album/0gfmzQ2h5XslfUtAZKm4oj"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231066,
+      "name": "PEARL",
+      "url": "https://open.spotify.com/track/33E2bU4xRVvjuc6Y4dtk5k"
+    },
+    {
+      "album": {
         "name": "Pebble Dance",
         "url": "https://open.spotify.com/album/6LHnBhoFxIQcAwcMrqCfaI"
       },
@@ -30183,6 +30253,28 @@
     },
     {
       "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/56Vm4sUP1hRYDqBA7K0hGv"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Parlato",
+          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225960,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/528pHUtcTjp4D3UxouB4CE"
+    },
+    {
+      "album": {
         "name": "Rainbows everywhere",
         "url": "https://open.spotify.com/album/3YCCXWR47845EZD3EIHz3c"
       },
@@ -31422,6 +31514,28 @@
       "duration_ms": 218706,
       "name": "Route de nuit",
       "url": "https://open.spotify.com/track/3aJ4NTA6ZN58RxzlT8MFHu"
+    },
+    {
+      "album": {
+        "name": "royal sun",
+        "url": "https://open.spotify.com/album/6yOF6McJwNb33KsPq4SlXJ"
+      },
+      "artists": [
+        {
+          "name": "Ferdi",
+          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163531,
+      "name": "royal sun",
+      "url": "https://open.spotify.com/track/56YZ4McOSFa1HrgxlBOfVq"
     },
     {
       "album": {
@@ -34008,7 +34122,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 91690,
       "name": "Song of Storms - from The Legend of Zelda: Ocarina of Time",
       "url": "https://open.spotify.com/track/5jPXynESV7qHOu6QyeXeoi"

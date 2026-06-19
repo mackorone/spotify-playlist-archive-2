@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 232727,
       "name": "Between The Lines",
       "url": "https://open.spotify.com/track/4rdLw7tBQqrGzVUUHUNnDL"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 232000,
       "name": "Bodega Disko",
       "url": "https://open.spotify.com/track/4iuoxbEzfXwvRS33MWmzBE"
@@ -5316,6 +5316,32 @@
     {
       "album": {
         "name": "Give Me Love",
+        "url": "https://open.spotify.com/album/2rZCryxqON7uvf1oNq6wTL"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "ARCH",
+          "url": "https://open.spotify.com/artist/3PqkEQBbtWdgKCWdNXdYrN"
+        },
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/1kDY6D2JWeRXIquoaATp1Z"
+    },
+    {
+      "album": {
+        "name": "Give Me Love",
         "url": "https://open.spotify.com/album/34lkIjBsVIOQIRsTKKw4IW"
       },
       "artists": [
@@ -6930,6 +6956,28 @@
       "duration_ms": 341750,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/7FlPx7oz9iX4x6cCRKkooH"
+    },
+    {
+      "album": {
+        "name": "I Really Meant It",
+        "url": "https://open.spotify.com/album/1TDHHpmYlIWO1iATPWnxTj"
+      },
+      "artists": [
+        {
+          "name": "Kotti Affair",
+          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
+        },
+        {
+          "name": "Yeti's Passport",
+          "url": "https://open.spotify.com/artist/2JSdmIbcEm0sl2hHj0NRc2"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207142,
+      "name": "I Really Meant It",
+      "url": "https://open.spotify.com/track/5khHXovdHudb61Fj1vZodZ"
     },
     {
       "album": {
@@ -9281,6 +9329,24 @@
     },
     {
       "album": {
+        "name": "Loverr",
+        "url": "https://open.spotify.com/album/1IAifM8CYCpNvG45SIUMHt"
+      },
+      "artists": [
+        {
+          "name": "Human Family",
+          "url": "https://open.spotify.com/artist/3rAmqzzZzmxAbxPyi3liyH"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200761,
+      "name": "Loverr",
+      "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
+    },
+    {
+      "album": {
         "name": "Love\u2019s Theme",
         "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
       },
@@ -11614,7 +11680,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 196145,
       "name": "People Of All Nationz",
       "url": "https://open.spotify.com/track/3DEAZ2pCIU8kuMQJKvhemP"

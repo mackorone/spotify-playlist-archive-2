@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 140625,
       "name": "4AM",
       "url": "https://open.spotify.com/track/7JGU6hIqwK94nfqj38BuEn"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 207272,
       "name": "Ain't With That (Late Night Callin')",
       "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 227272,
       "name": "Appetite",
       "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 166448,
       "name": "BACKBONE",
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 171162,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3Aayx1ubiWaTnxERQUomFi"
@@ -1861,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/42YRQ9d1vVUEzHu9krAPwO"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159685,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/4v6w9jrnOWOE1WwpHBd0uC"
+    },
+    {
+      "album": {
         "name": "The Ascent",
         "url": "https://open.spotify.com/album/7G0kWbJcGHJYNt9rBfq0Wl"
       },
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 155272,
       "name": "Cola",
       "url": "https://open.spotify.com/track/0pcbM85AHWo70ZkHa356z6"
@@ -2188,7 +2206,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 206829,
       "name": "Contesto",
       "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
@@ -2324,7 +2342,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 224591,
       "name": "Damager",
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 136406,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
@@ -2872,7 +2890,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 171964,
       "name": "Down To The Bone",
       "url": "https://open.spotify.com/track/0d2Ad8j1DftVrZENtEA0fj"
@@ -4664,7 +4682,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 178613,
       "name": "Heartbroken - Edit",
       "url": "https://open.spotify.com/track/5Yaw45Q7W0irDbTVN5LOVs"
@@ -4962,7 +4980,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170435,
       "name": "Horny Dub",
       "url": "https://open.spotify.com/track/64WXDifwCNu1BuZHEsHi4M"
@@ -5174,7 +5192,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 198425,
       "name": "I Only Smoke When I Drink",
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
@@ -5408,7 +5426,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 157487,
       "name": "If You Let Me",
       "url": "https://open.spotify.com/track/0RsViKNsOgDim3FeU2smxX"
@@ -5448,7 +5466,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 230187,
       "name": "If Your Girl",
       "url": "https://open.spotify.com/track/17CXft3kDo4QNrO491EFOv"
@@ -5514,7 +5532,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a"
@@ -5886,7 +5904,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 187965,
       "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
       "url": "https://open.spotify.com/track/6pMfUwTWJfhnqfjW020rNH"
@@ -5974,7 +5992,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 198455,
       "name": "LEVELS",
       "url": "https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho"
@@ -6262,7 +6280,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 228653,
       "name": "Loneliness - Radio Cut",
       "url": "https://open.spotify.com/track/7mPrEblYX8GLGRXLmPL8ws"
@@ -6342,7 +6360,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 173357,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/0vKM6pD1koHLvYzzI5gqNy"
@@ -6382,7 +6400,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 248035,
       "name": "Losing It",
       "url": "https://open.spotify.com/track/386fLFRee3HNK6MsYXURi3"
@@ -6782,7 +6800,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 160641,
       "name": "Million Things",
       "url": "https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm"
@@ -7756,7 +7774,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 141985,
       "name": "Oh La La La",
       "url": "https://open.spotify.com/track/28syhIeldEg7U53ey3NVMM"
@@ -7807,6 +7825,32 @@
     },
     {
       "album": {
+        "name": "On & On (Shots in Zante)",
+        "url": "https://open.spotify.com/album/3tR4yuJy4ceiIvWS40S8as"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Tom Hall",
+          "url": "https://open.spotify.com/artist/467yXfSwNLfBmxeaTp7rQo"
+        },
+        {
+          "name": "Billy Young",
+          "url": "https://open.spotify.com/artist/4S4CrQmGnnYLokMkV9F33Y"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120935,
+      "name": "On & On (Shots in Zante)",
+      "url": "https://open.spotify.com/track/7bUcwlEVIaBndm7LCSgJwn"
+    },
+    {
+      "album": {
         "name": "On A Wave",
         "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
       },
@@ -7822,7 +7866,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 199384,
       "name": "On A Wave",
       "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
@@ -7898,7 +7942,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 162651,
       "name": "Over You",
       "url": "https://open.spotify.com/track/0GWpFejiwi53OSfiyXyIDJ"
@@ -8389,6 +8433,24 @@
     },
     {
       "album": {
+        "name": "Pulling Me Back",
+        "url": "https://open.spotify.com/album/3eBm6Mn7LwLSeFhd1Q1nRi"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152093,
+      "name": "Pulling Me Back",
+      "url": "https://open.spotify.com/track/055xwGslsVRd40NwsOrj5I"
+    },
+    {
+      "album": {
         "name": "Pump the Brakes",
         "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
       },
@@ -8404,6 +8466,36 @@
       "duration_ms": 220581,
       "name": "Pump the Brakes",
       "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
+    },
+    {
+      "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129302,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
     },
     {
       "album": {
@@ -8978,7 +9070,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 143933,
       "name": "Satisfaction - Uk Radio Edit",
       "url": "https://open.spotify.com/track/2mRNUz2RbAFf0AkPeQWelt"
@@ -9216,7 +9308,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 179142,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/4Y3sarQT3zTJmb0WHZ0Dax"
@@ -9362,7 +9454,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 187640,
       "name": "Show Me Love (feat. Robin S)",
       "url": "https://open.spotify.com/track/55eFVWZ4lLq8kbJ0VwSfA4"
@@ -10864,7 +10956,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 149838,
       "name": "Too In Love With You",
       "url": "https://open.spotify.com/track/0rS9f6pdy49rLBVzyGyQYv"
@@ -11098,7 +11190,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 181500,
       "name": "Wanna Party (feat. Dennis G)",
       "url": "https://open.spotify.com/track/7ww9dHtVXHoJEbGGLSH7m2"
@@ -11398,7 +11490,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 256901,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
@@ -11490,7 +11582,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 136615,
       "name": "Won\u2019t Be Possible",
       "url": "https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR"

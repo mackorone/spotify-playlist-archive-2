@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-231 songs - 1 day 1 hr 29 min
+233 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aaqa Teri Rehmat \- Presented by Rivayat](https://open.spotify.com/track/3QuoSyPh0KEYyC1brxkEJr) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy), [Afzaal Ali Khan](https://open.spotify.com/artist/4P6RKmuyKGks8Nm6G2f3Vd), [Anton Davidyants](https://open.spotify.com/artist/66d6zyM2sXbxpVa6BVMLKq) | [Aaqa Teri Rehmat \(Presented by Rivayat\)](https://open.spotify.com/album/3dGlou4FunV5GGtjB7TUQO) | 12:17 | 2023-03-27 | 2023-08-01 |
 | [Aas Paas Khuda](https://open.spotify.com/track/3kuxr8U3QynLzyW82p5hYR) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Anjaana Anjaani](https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9) | 5:19 | 2022-10-25 | 2026-02-18 |
 | [Aas Paas Khuda \(Unplugged\)](https://open.spotify.com/track/0hVXFWS00liq3W2YAQUma4) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Anjaana Anjaani](https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9) | 3:24 | 2022-06-21 |  |
+| [Aatish](https://open.spotify.com/track/6bJJMam29IyvathYLst3uY) | [Ahsan Javed](https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE), [Usamasutra](https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L) | [Aatish](https://open.spotify.com/album/1UiQTSF62IFdoOoGcW04xc) | 2:38 | 2026-06-18 |  |
 | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/track/7pBcon5GqvUfn58HRfF8wv) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/album/1YFhFBYguVji3KdKdQGzId) | 6:40 | 2022-08-02 | 2026-02-18 |
 | [Aik Alif](https://open.spotify.com/track/1FVMCf8F6RgTVrIaN2R9tV) | [Saieen Zahoor & Noori](https://open.spotify.com/artist/6jVprp3uYRJ6Cr8jTn8lkV), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 7:09 | 2022-08-02 |  |
 | [Ainay](https://open.spotify.com/track/6f9D7nVZVcMJvCuqVvD5LE) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Tehzeeb Hafi](https://open.spotify.com/artist/2XZWheJXPLb99FDdImPP2o) | [Ainay](https://open.spotify.com/album/72zheRsnYxLWNuHv6dHXiL) | 5:28 | 2022-07-18 |  |
@@ -68,6 +69,7 @@
 | [Dam Mast Qalander](https://open.spotify.com/track/2y5nVgj5Fg1wEC2wBL8Mvm) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Nusrat Fateh Ali Khan No\. 1 Hits](https://open.spotify.com/album/2iHgZ58kj74cIwwvAkbSyO) | 6:23 | 2022-06-21 | 2024-01-06 |
 | [Dama Dum Mast](https://open.spotify.com/track/4kymm1BIlbDQnQ6Av5WSS4) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Abida Parveen, Vol\. 10](https://open.spotify.com/album/2H6e43nwOEzb13cHRnyPXk) | 4:27 | 2022-06-21 | 2024-01-06 |
 | [Daman Lagiyan](https://open.spotify.com/track/2uWyqK8pjaVMqXMjR4HUMr) | [SpringTimeLioness](https://open.spotify.com/artist/5H0dOkeN4aibbTnkZkHY2B), [Schumaila Rehmat Hussain](https://open.spotify.com/artist/702rZ76lltv1734oPO3Si8) | [Daman Lagiyan](https://open.spotify.com/album/4pcLVMjiU84Dceb6wE4Qwa) | 3:42 | 2026-05-29 |  |
+| [Dhamaal \- Haq Ali](https://open.spotify.com/track/3TsgUQzdphXX5yJ1kmzdRw) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Dhamaal \(Haq Ali\)](https://open.spotify.com/album/65aYMOvux8d0WoXhL8kzQe) | 5:18 | 2026-06-18 |  |
 | [Dil](https://open.spotify.com/track/2XiVM2X9nqh9tnPq37GhLo) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Dil](https://open.spotify.com/album/6p8nXdpQGXG3KLzQpm8pK5) | 5:15 | 2024-09-21 |  |
 | [Din Dhalay](https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 5:36 | 2022-06-21 | 2026-02-18 |
 | [Dost](https://open.spotify.com/track/3RCfKFNxqYyvyULjAWq8Wg) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:35 | 2022-06-21 |  |

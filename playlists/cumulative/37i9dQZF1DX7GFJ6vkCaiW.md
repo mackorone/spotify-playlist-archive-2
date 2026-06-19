@@ -2,9 +2,9 @@
 
 ### [Video Musik Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DX7GFJ6vkCaiW)
 
-> Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Idgitaf, Hindia
+> Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Ifan Seventeen
 
-100 songs - 6 hr 26 min
+102 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Hilang Tanpa Bilang](https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hilang Tanpa Bilang](https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6) | 4:43 | 2026-04-24 |  |
 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 | 2026-04-24 |  |
 | [Idea of You](https://open.spotify.com/track/4zfbfAmuxAD4Eevm1Kr7tN) | [Rimar](https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx) | [Idea of You](https://open.spotify.com/album/5PIXEonnpeD2zCG81NDXJn) | 2:39 | 2026-04-24 |  |
+| [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu \(Beda\)](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 | 2026-06-18 |  |
 | [Janji Setia](https://open.spotify.com/track/1AoBdDIOp6RFjAbzcPbWi8) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 4:21 | 2026-04-24 |  |
 | [Jikalau Kau Cinta](https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Judika](https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr) | 4:02 | 2026-04-24 |  |
 | [Kamu Tak Sendiri](https://open.spotify.com/track/0SQnaRBCYYnGOCFu8zulgM) | [Jemimah Cita](https://open.spotify.com/artist/6RqIuEKCU9X9SBjEkCZjgg) | [Kamu Tak Sendiri](https://open.spotify.com/album/191UHeJM1r2tNbi7N7rs99) | 3:35 | 2026-04-24 |  |
@@ -54,6 +55,7 @@
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2026-04-24 |  |
 | [Masih Takut Mencinta](https://open.spotify.com/track/4E6iWEsfOAkrT4OpluseK1) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:28 | 2026-04-24 |  |
 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 | 2026-04-24 |  |
+| [Melompat Lebih Tinggi](https://open.spotify.com/track/1NuvCcuRUGN54bkSLk51LC) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Melompat Lebih Tinggi](https://open.spotify.com/album/0ffA9bCAagLRj3pp2kYocZ) | 3:40 | 2026-06-18 |  |
 | [Memori](https://open.spotify.com/track/2ZEXytbCABVSSV7wn47941) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:33 | 2026-04-24 |  |
 | [Memori Kita](https://open.spotify.com/track/793eFZPmSzKDl0sQ0hWr0r) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [LUAP](https://open.spotify.com/album/4t1d7lp7cX2v1HnqhlPuXd) | 2:49 | 2026-04-24 |  |
 | [Menunggu Giliran](https://open.spotify.com/track/4i9rbztGgYtIYo6jSaYCvq) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Sebelum Merayakan](https://open.spotify.com/album/1MX1RStzJR8jkIHNjcn9Si) | 3:38 | 2026-04-24 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 87236,
+  "num_followers": 87255,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Soul Express",
-        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 282506,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
       },
@@ -219,18 +203,34 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Radiant",
-        "url": "https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ"
+        "name": "Soul Express",
+        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
       },
       "artists": [
         {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
         }
       ],
-      "duration_ms": 299493,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7"
+      "duration_ms": 282506,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Kickin' It",
+        "url": "https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "Chopsticks",
+      "url": "https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -251,18 +251,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Kickin' It",
-        "url": "https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1"
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ"
       },
       "artists": [
         {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
         }
       ],
-      "duration_ms": 238066,
-      "name": "Chopsticks",
-      "url": "https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w"
+      "duration_ms": 299493,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7"
     },
     {
       "added_at": "2020-08-19 19:15:51",

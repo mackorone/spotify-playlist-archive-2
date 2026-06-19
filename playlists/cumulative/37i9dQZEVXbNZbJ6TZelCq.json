@@ -4306,7 +4306,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 134399,
       "name": "Balans",
       "url": "https://open.spotify.com/track/0JK8MMdQNg1hHV51b2lsBA"
@@ -9256,7 +9256,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 173478,
       "name": "Cine te sun\u0103?",
       "url": "https://open.spotify.com/track/2iv0HFAp8FNzH35irvm78r"
@@ -15508,6 +15508,24 @@
       "duration_ms": 254814,
       "name": "Fa spagatu",
       "url": "https://open.spotify.com/track/2QDm64H7SGJj9RNR4e68zx"
+    },
+    {
+      "album": {
+        "name": "FA$HMILANO",
+        "url": "https://open.spotify.com/album/2rdDjYVq6xqcQlEy0T1RDz"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "FA$HMILANO",
+      "url": "https://open.spotify.com/track/7pLw3mdF3mLdAGUrlQRznD"
     },
     {
       "album": {
@@ -28120,7 +28138,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 208695,
       "name": "MDS",
       "url": "https://open.spotify.com/track/7d90mcFcXgy1L4BJqiAoLX"
@@ -38988,7 +39006,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 197845,
       "name": "Savarina",
       "url": "https://open.spotify.com/track/1bxvAh3tyCH6HjQf8g8MYH"
@@ -48154,7 +48172,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 173679,
       "name": "Vara-i vara",
       "url": "https://open.spotify.com/track/77IZ7M02qCR7D6PDITwHi5"

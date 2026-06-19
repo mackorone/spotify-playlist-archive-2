@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAACYgibF5aGNsCW3SYB10xg",
+  "snapshot_id": "ajHjgAAAAAC7gPt31p7IfaqjhgPLy5U5",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eu Creio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 321574,
+      "name": "Eu Creio (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enquanto a Igreja Ora (Ao Vivo)",
         "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
       },
@@ -591,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Grande Dia",
+      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vai Ter Vida A\u00ed",
         "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
       },
@@ -603,22 +639,6 @@
       "duration_ms": 270512,
       "name": "Vai Ter Vida A\u00ed",
       "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 276456,
-      "name": "O Pre\u00e7o Foi de Sangue",
-      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
     },
     {
       "added_at": null,
@@ -639,26 +659,6 @@
       "duration_ms": 332416,
       "name": "T\u00e1 Chorando Por Qu\u00ea? (Ao Vivo)",
       "url": "https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu Creio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 321574,
-      "name": "Eu Creio (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 275853,
-      "name": "Grande Dia",
-      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
+      "duration_ms": 276456,
+      "name": "O Pre\u00e7o Foi de Sangue",
+      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 314026,
-      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
-      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
+      "duration_ms": 274274,
+      "name": "Lugar Seguro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
       "duration_ms": 243000,
       "name": "O Melhor Pra Ti",
       "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guarda de Israel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5A77N7VrbxqnMAZ75mVBP9"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        }
+      ],
+      "duration_ms": 226038,
+      "name": "Guarda de Israel (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6Uo6Cs3BIRUGt3hvvCE6Tz"
     },
     {
       "added_at": null,
@@ -851,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guarda de Israel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5A77N7VrbxqnMAZ75mVBP9"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        }
-      ],
-      "duration_ms": 226038,
-      "name": "Guarda de Israel (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6Uo6Cs3BIRUGt3hvvCE6Tz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 274274,
-      "name": "Lugar Seguro (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
+      "duration_ms": 314026,
+      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
     },
     {
       "added_at": null,

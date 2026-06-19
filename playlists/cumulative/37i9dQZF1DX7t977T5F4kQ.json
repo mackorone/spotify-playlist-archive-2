@@ -204,7 +204,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 192000,
       "name": "4Life",
       "url": "https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX"
@@ -1695,6 +1695,32 @@
     },
     {
       "album": {
+        "name": "Backa",
+        "url": "https://open.spotify.com/album/7oBL7XYcmrLCZJpC7YEL9B"
+      },
+      "artists": [
+        {
+          "name": "Offei",
+          "url": "https://open.spotify.com/artist/53lrU0w5zDWd58f5hDsftr"
+        },
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        },
+        {
+          "name": "Afrolektra",
+          "url": "https://open.spotify.com/artist/0qy73oup9yKKAO8TsRoS1g"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Backa",
+      "url": "https://open.spotify.com/track/2IA463EQ4O1pHAGQx1d1U2"
+    },
+    {
+      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP"
       },
@@ -2300,7 +2326,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 165000,
       "name": "Body Go (with Tyla)",
       "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
@@ -3194,7 +3220,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 153750,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/13LJmsj0UnvhVpIa5ne5Pb"
@@ -7547,6 +7573,24 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2pobv1ka7vVznIqjrZVj07"
+      },
+      "artists": [
+        {
+          "name": "Itz Tiffany",
+          "url": "https://open.spotify.com/artist/1Owom9d3JLOlczXBorsQeW"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7ns280vPPmi6IOUwAkkTUs"
+    },
+    {
+      "album": {
         "name": "Young Daddy",
         "url": "https://open.spotify.com/album/6mQzGchJ3p5yKAsugrc5Gm"
       },
@@ -7558,7 +7602,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 147911,
       "name": "Money Makes The World Go Round (MMTWGR)",
       "url": "https://open.spotify.com/track/6Z4XuIm4CoQM7r4cMH9n6l"
@@ -8682,7 +8726,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 162500,
       "name": "Obiaa Nte Mase",
       "url": "https://open.spotify.com/track/30a0k5w2WkXeqsIdXCiwNk"
@@ -9482,7 +9526,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 174967,
       "name": "Party Day",
       "url": "https://open.spotify.com/track/3ErfAxoGNzEO71RnjNwuyr"
@@ -12896,7 +12940,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 137992,
       "name": "Webkid (Shatta Music)",
       "url": "https://open.spotify.com/track/2yt19nfbH7CIIRG1WKABPY"
@@ -13434,7 +13478,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 129924,
       "name": "Yahooboy",
       "url": "https://open.spotify.com/track/3gxE784U3RHs338iapWwos"

@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 208019,
+  "num_followers": 208020,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "To Unknownia",
+        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 243872,
+      "name": "To Unknownia",
+      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "AMAMA",
         "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
       },
@@ -259,18 +275,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "To Unknownia",
-        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
+        "name": "Mouth Full of Glass",
+        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
       },
       "artists": [
         {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
         }
       ],
-      "duration_ms": 243872,
-      "name": "To Unknownia",
-      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
+      "duration_ms": 215583,
+      "name": "Garter Snake",
+      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -291,22 +307,6 @@
       "duration_ms": 230050,
       "name": "Sad Makeup",
       "url": "https://open.spotify.com/track/74eE402hFv13hLBw5iPQds"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Mouth Full of Glass",
-        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
-      },
-      "artists": [
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Garter Snake",
-      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Hablar de M\u00e1s",
-        "url": "https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 214917,
-      "name": "Hablar de M\u00e1s",
-      "url": "https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Dumb Guitar",
         "url": "https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 310865,
       "name": "Dumb Guitar",
       "url": "https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Hablar de M\u00e1s",
+        "url": "https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 214917,
+      "name": "Hablar de M\u00e1s",
+      "url": "https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Crispy Skin",
+        "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 379400,
+      "name": "Crispy Skin",
+      "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Deux Paradis",
         "url": "https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 240250,
       "name": "setar rock",
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Crispy Skin",
-        "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 379400,
-      "name": "Crispy Skin",
-      "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -631,34 +631,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Suono Assente",
-        "url": "https://open.spotify.com/album/4dxsHCE1N9S5CTHApseLiG"
-      },
-      "artists": [
-        {
-          "name": "V/Z",
-          "url": "https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331"
-        },
-        {
-          "name": "Valentina Magaletti",
-          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
-        },
-        {
-          "name": "Zongamin",
-          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
-        },
-        {
-          "name": "Cathy Lucas",
-          "url": "https://open.spotify.com/artist/4zpSU9qVWKxjzruKmoo71D"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Habadash",
-      "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Love in Constant Spectacle",
         "url": "https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd"
       },
@@ -687,6 +659,34 @@
       "duration_ms": 246466,
       "name": "Afternoon X",
       "url": "https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Suono Assente",
+        "url": "https://open.spotify.com/album/4dxsHCE1N9S5CTHApseLiG"
+      },
+      "artists": [
+        {
+          "name": "V/Z",
+          "url": "https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331"
+        },
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        },
+        {
+          "name": "Zongamin",
+          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
+        },
+        {
+          "name": "Cathy Lucas",
+          "url": "https://open.spotify.com/artist/4zpSU9qVWKxjzruKmoo71D"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Habadash",
+      "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
     },
     {
       "added_at": "2025-11-18 17:38:22",

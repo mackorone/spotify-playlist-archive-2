@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Valentino Merlo & Marama
 
-719 songs - 1 day 11 hr 21 min
+720 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [No Es Amor](https://open.spotify.com/track/6OxzePqFAEXBcZq64MkUqz) | [More Con Flow](https://open.spotify.com/artist/5NS2B9GuroT6TrPoxRKd4t), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [No Es Amor](https://open.spotify.com/album/6PDpvajeX2fU9418HiqBkh) | 2:00 | 2025-09-05 | 2025-10-18 |
 | [NO ES LO QUE PARECE](https://open.spotify.com/track/1WrTj4KU7QNgm6qS3lSocA) | [DJ Cronox](https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [DJ Cuba](https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE), [Alexis Exequiel](https://open.spotify.com/artist/71jc5HAeS4ge2rhqwWdjtY) | [NO ES LO QUE PARECE](https://open.spotify.com/album/1pMv2WnLf6GSiSL3pVki7O) | 2:04 | 2023-05-05 | 2023-12-24 |
 | [No Fue Culpa Tuya](https://open.spotify.com/track/3S0pR6KMZdaBL0QC9SI2vY) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP) | [No Fue Culpa Tuya](https://open.spotify.com/album/6V2h9j8lyA1DxaKALu0ue6) | 2:28 | 2025-07-18 |  |
-| [NO FUIMOS](https://open.spotify.com/track/717KavpEoZakUVizYk70TU) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [NO FUIMOS](https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf) | 2:16 | 2024-03-01 |  |
+| [NO FUIMOS](https://open.spotify.com/track/717KavpEoZakUVizYk70TU) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [NO FUIMOS](https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf) | 2:16 | 2024-03-01 | 2026-06-19 |
 | [No hay más nada](https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Cuestión de tiempo](https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw) | 3:54 | 2021-12-23 | 2024-12-13 |
 | [No la Quiere Perder](https://open.spotify.com/track/4Rrwz7H1asTbkRBWfUBuOM) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [No la Quiere Perder](https://open.spotify.com/album/5SquwXZlPSdHY5yflK0XMN) | 2:48 | 2022-04-01 | 2022-07-12 |
 | [No me beses](https://open.spotify.com/track/3EK3QrWO1qz0NAJmA0hv9z) | [TULI](https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ) | [No me beses](https://open.spotify.com/album/31moM8hBMEVwebewQOB45V) | 2:33 | 2025-11-13 | 2026-03-03 |
@@ -445,6 +445,7 @@
 | [Olvidarte \(Cumbia\)](https://open.spotify.com/track/6SvxLADouYzfTrMSeRvutg) | [Nico Manriquez](https://open.spotify.com/artist/2ZPsXaS21IxNDnpe6JoBNh), [FEDEDJ'](https://open.spotify.com/artist/3aSoKs5QU9ACHqMOTe2Tw5) | [Olvidarte \(Cumbia\)](https://open.spotify.com/album/72bmIBaxvSG1KH9xzf8uel) | 1:51 | 2025-02-07 | 2025-04-19 |
 | [Olvidate \- Remix](https://open.spotify.com/track/6goJYemZPzg4ZuaQTpCiAZ) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Jais](https://open.spotify.com/artist/330WSPEqxqYQVbsYAZcBdQ) | [Olvidate \(Remix\)](https://open.spotify.com/album/2OC2QEzZ2zTciTsPCZ4yPN) | 2:14 | 2022-03-04 | 2022-07-20 |
 | [Olvidate de Mi](https://open.spotify.com/track/7IiFMffmFIZQxqy6WuABkm) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Olvidate de Mi](https://open.spotify.com/album/0yCeK4xylSq3GI5ysuBm3g) | 2:36 | 2023-03-31 | 2023-07-25 |
+| [Omitir Intro](https://open.spotify.com/track/6PEpeC3XDOPsbp695ami1m) | [Fede Mestre](https://open.spotify.com/artist/4kQCav3BRXxbuyGjxQDIy9) | [Omitir Intro](https://open.spotify.com/album/56A8YlZiaUm2HqAjhSNjoZ) | 2:15 | 2026-06-19 |  |
 | [Otra Boca](https://open.spotify.com/track/7HNSezQS7t0rli7GRAwFnS) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Otra Boca](https://open.spotify.com/album/4auRAy3xt7SxcFEL1ZMMDl) | 2:39 | 2024-12-20 | 2025-02-21 |
 | [OTRA COPA MÁS](https://open.spotify.com/track/0F5FCL8GDttbCy97UusxHx) | [AGUI](https://open.spotify.com/artist/1VjZe744ub9n8wqpe1CuzS), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [OTRA COPA MÁS](https://open.spotify.com/album/3vCusuv3lCOWNDm80NF9gm) | 2:38 | 2024-06-07 | 2025-01-27 |
 | [Otra Noche Mas](https://open.spotify.com/track/3SBXbgiaXIQY0d7Pn54Skd) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Otra Noche Mas](https://open.spotify.com/album/0Mvrn4eGpmzkCQY2PkBFG6) | 2:58 | 2026-04-24 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1584108,
+  "num_followers": 1584182,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,18 @@
     {
       "added_at": "2026-06-12 04:00:32",
       "album": {
-        "name": "Modal Soul",
-        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
+        "name": "Clin D'oeil",
+        "url": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU"
       },
       "artists": [
         {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Cise Starr & Akin from CYNE",
-          "url": "https://open.spotify.com/artist/0NQ5kUvKwC9r53V095i0np"
+          "name": "Jazz Liberatorz",
+          "url": "https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq"
         }
       ],
-      "duration_ms": 175360,
-      "name": "Feather (feat. Cise Starr & Akin from CYNE)",
-      "url": "https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR"
+      "duration_ms": 328573,
+      "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
+      "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
     },
     {
       "added_at": "2026-06-12 04:00:32",
@@ -427,18 +423,22 @@
     {
       "added_at": "2026-06-12 04:00:32",
       "album": {
-        "name": "Clin D'oeil",
-        "url": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU"
+        "name": "Modal Soul",
+        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
       },
       "artists": [
         {
-          "name": "Jazz Liberatorz",
-          "url": "https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq"
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Cise Starr & Akin from CYNE",
+          "url": "https://open.spotify.com/artist/0NQ5kUvKwC9r53V095i0np"
         }
       ],
-      "duration_ms": 328573,
-      "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
-      "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
+      "duration_ms": 175360,
+      "name": "Feather (feat. Cise Starr & Akin from CYNE)",
+      "url": "https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR"
     },
     {
       "added_at": "2026-06-12 04:00:32",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-06-12 04:00:32",
       "album": {
-        "name": "Modal Soul",
-        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Shing02",
-          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Luv(sic.) pt3 (feat. Shing02)",
-      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
-    },
-    {
-      "added_at": "2026-06-12 04:00:32",
-      "album": {
         "name": "Resurrection",
         "url": "https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 225026,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
       "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
+    },
+    {
+      "added_at": "2026-06-12 04:00:32",
+      "album": {
+        "name": "Modal Soul",
+        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Luv(sic.) pt3 (feat. Shing02)",
+      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
     },
     {
       "added_at": "2026-06-12 04:00:32",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-06-12 04:00:32",
       "album": {
-        "name": "A Fine African Man",
-        "url": "https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d"
-      },
-      "artists": [
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "MASQUERADE",
-      "url": "https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V"
-    },
-    {
-      "added_at": "2026-06-12 04:00:32",
-      "album": {
         "name": "POETRY JAM (feat. Foggieraw)",
         "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 198525,
       "name": "POETRY JAM (feat. Foggieraw)",
       "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
+    },
+    {
+      "added_at": "2026-06-12 04:00:32",
+      "album": {
+        "name": "A Fine African Man",
+        "url": "https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "MASQUERADE",
+      "url": "https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V"
     },
     {
       "added_at": "2026-06-12 04:00:32",
@@ -1471,38 +1471,6 @@
     {
       "added_at": "2026-06-12 04:00:32",
       "album": {
-        "name": "GREEN LIGHT",
-        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
-      },
-      "artists": [
-        {
-          "name": "Moses Yoofee Trio",
-          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        },
-        {
-          "name": "Moses Yoofee",
-          "url": "https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ"
-        },
-        {
-          "name": "Noah F\u00fcrbringer",
-          "url": "https://open.spotify.com/artist/2aFDkXJvi1jsvhu5lHIu6F"
-        },
-        {
-          "name": "cowboyklobe",
-          "url": "https://open.spotify.com/artist/3gZN7XHOHMwn1i0WZCWjKy"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "GREEN LIGHT",
-      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
-    },
-    {
-      "added_at": "2026-06-12 04:00:32",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1535,6 +1503,38 @@
     {
       "added_at": "2026-06-12 04:00:32",
       "album": {
+        "name": "GREEN LIGHT",
+        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Moses Yoofee",
+          "url": "https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ"
+        },
+        {
+          "name": "Noah F\u00fcrbringer",
+          "url": "https://open.spotify.com/artist/2aFDkXJvi1jsvhu5lHIu6F"
+        },
+        {
+          "name": "cowboyklobe",
+          "url": "https://open.spotify.com/artist/3gZN7XHOHMwn1i0WZCWjKy"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "GREEN LIGHT",
+      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
+    },
+    {
+      "added_at": "2026-06-12 04:00:32",
+      "album": {
         "name": "Quiet Miles",
         "url": "https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ"
       },
@@ -1547,30 +1547,6 @@
       "duration_ms": 153142,
       "name": "Blueberry",
       "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
-    },
-    {
-      "added_at": "2026-06-12 04:00:32",
-      "album": {
-        "name": "Hi Top Fade (Instrumentals)",
-        "url": "https://open.spotify.com/album/2BkkhYyVsxh2wAY8DUZ8oO"
-      },
-      "artists": [
-        {
-          "name": "The Cool Kids",
-          "url": "https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV"
-        },
-        {
-          "name": "Sir Michael Rocks",
-          "url": "https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx"
-        },
-        {
-          "name": "Chuck Inglish",
-          "url": "https://open.spotify.com/artist/64MoApwh8MFMHUarm13lrv"
-        }
-      ],
-      "duration_ms": 157699,
-      "name": "We Got Clips - Instrumental",
-      "url": "https://open.spotify.com/track/2DcnhvTAS4ovTughtQrSAq"
     },
     {
       "added_at": "2026-06-12 04:00:32",
@@ -1611,6 +1587,30 @@
       "duration_ms": 188764,
       "name": "That Jazz",
       "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2026-06-12 04:00:32",
+      "album": {
+        "name": "Hi Top Fade (Instrumentals)",
+        "url": "https://open.spotify.com/album/2BkkhYyVsxh2wAY8DUZ8oO"
+      },
+      "artists": [
+        {
+          "name": "The Cool Kids",
+          "url": "https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV"
+        },
+        {
+          "name": "Sir Michael Rocks",
+          "url": "https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx"
+        },
+        {
+          "name": "Chuck Inglish",
+          "url": "https://open.spotify.com/artist/64MoApwh8MFMHUarm13lrv"
+        }
+      ],
+      "duration_ms": 157699,
+      "name": "We Got Clips - Instrumental",
+      "url": "https://open.spotify.com/track/2DcnhvTAS4ovTughtQrSAq"
     },
     {
       "added_at": "2026-06-12 04:00:32",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2026-06-12 04:00:32",
       "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
-      },
-      "artists": [
-        {
-          "name": "Ricki Monique",
-          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
-        },
-        {
-          "name": "yourbeautifulruin",
-          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
-        }
-      ],
-      "duration_ms": 185298,
-      "name": "IMMORTAL",
-      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
-    },
-    {
-      "added_at": "2026-06-12 04:00:32",
-      "album": {
         "name": "Please Don't Cry",
         "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 164656,
       "name": "Raw (feat. Lil Wayne & Niko Brim)",
       "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
+    },
+    {
+      "added_at": "2026-06-12 04:00:32",
+      "album": {
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
+      },
+      "artists": [
+        {
+          "name": "Ricki Monique",
+          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+        },
+        {
+          "name": "yourbeautifulruin",
+          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
+        }
+      ],
+      "duration_ms": 185298,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2026-06-12 04:00:32",
@@ -1891,30 +1891,6 @@
     {
       "added_at": "2026-06-12 04:00:32",
       "album": {
-        "name": "Njalo Njalo",
-        "url": "https://open.spotify.com/album/2dAR7NXlgqYI4cAaw4uFKT"
-      },
-      "artists": [
-        {
-          "name": "Nomisupasta",
-          "url": "https://open.spotify.com/artist/3K27bM6ECoV2uZNwuwnIWV"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "madLib",
-          "url": "https://open.spotify.com/artist/1qwAiZ37SviNEoEZV0xQXb"
-        }
-      ],
-      "duration_ms": 161488,
-      "name": "Njalo Njalo - Radio Mix",
-      "url": "https://open.spotify.com/track/6MwwAnJKFmH2B3X9f8RFSW"
-    },
-    {
-      "added_at": "2026-06-12 04:00:32",
-      "album": {
         "name": "Out Of My Hands (feat. Oddisee)",
         "url": "https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB"
       },
@@ -1959,34 +1935,6 @@
     {
       "added_at": "2026-06-12 04:00:32",
       "album": {
-        "name": "COLLECTION PLATES (feat. Young Chris)",
-        "url": "https://open.spotify.com/album/5QVcCcyJJVeH1qiw5maq1Z"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Young Chris",
-          "url": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
-        }
-      ],
-      "duration_ms": 270604,
-      "name": "COLLECTION PLATES (feat. Young Chris)",
-      "url": "https://open.spotify.com/track/2yMsHFOcZy9m7Tcjc0gaer"
-    },
-    {
-      "added_at": "2026-06-12 04:00:32",
-      "album": {
         "name": "DON'T GROW UP TOO SOON",
         "url": "https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v"
       },
@@ -2015,6 +1963,74 @@
     {
       "added_at": "2026-06-12 04:00:32",
       "album": {
+        "name": "COLLECTION PLATES (feat. Young Chris)",
+        "url": "https://open.spotify.com/album/5QVcCcyJJVeH1qiw5maq1Z"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Young Chris",
+          "url": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+        }
+      ],
+      "duration_ms": 270604,
+      "name": "COLLECTION PLATES (feat. Young Chris)",
+      "url": "https://open.spotify.com/track/2yMsHFOcZy9m7Tcjc0gaer"
+    },
+    {
+      "added_at": "2026-06-12 04:00:32",
+      "album": {
+        "name": "Njalo Njalo",
+        "url": "https://open.spotify.com/album/2dAR7NXlgqYI4cAaw4uFKT"
+      },
+      "artists": [
+        {
+          "name": "Nomisupasta",
+          "url": "https://open.spotify.com/artist/3K27bM6ECoV2uZNwuwnIWV"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "madLib",
+          "url": "https://open.spotify.com/artist/1qwAiZ37SviNEoEZV0xQXb"
+        }
+      ],
+      "duration_ms": 161488,
+      "name": "Njalo Njalo - Radio Mix",
+      "url": "https://open.spotify.com/track/6MwwAnJKFmH2B3X9f8RFSW"
+    },
+    {
+      "added_at": "2026-06-12 04:00:32",
+      "album": {
+        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
+        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
+      },
+      "artists": [
+        {
+          "name": "Buckshot LeFonque",
+          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Breakfast At Denny's",
+      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
+    },
+    {
+      "added_at": "2026-06-12 04:00:32",
+      "album": {
         "name": "don't bite the bait!",
         "url": "https://open.spotify.com/album/49Zl4i9eYWnb6BTcWnN7hN"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 124281,
       "name": "don't bite the bait!",
       "url": "https://open.spotify.com/track/0DVbx9dEWWFp3tPYxZwtJ0"
-    },
-    {
-      "added_at": "2026-06-12 04:00:32",
-      "album": {
-        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
-        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
-      },
-      "artists": [
-        {
-          "name": "Buckshot LeFonque",
-          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Breakfast At Denny's",
-      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
     }
   ],
   "unique_name": "Jazz Rap",

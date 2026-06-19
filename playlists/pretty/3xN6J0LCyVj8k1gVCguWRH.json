@@ -1,13 +1,29 @@
 {
   "description": "Summer has a way of slowing us down and bringing us together. This playlist is a mix of new favorites and familiar sounds \u2014 songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.",
-  "num_followers": 132116,
+  "num_followers": 132162,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA7v9JlHr5Za4iQCe9oy1tpA5m8eqWQ",
+  "snapshot_id": "AAA7zvST39nJD5EPPAaCCtsWGKeyujVw",
   "tracks": [
+    {
+      "added_at": "2026-06-18 13:33:31",
+      "album": {
+        "name": "t\u00e1 bom",
+        "url": "https://open.spotify.com/album/2FkBNznkpRTydjiAeR0D97"
+      },
+      "artists": [
+        {
+          "name": "L\u00e8o Ovalle",
+          "url": "https://open.spotify.com/artist/2Zg8wROHfwvag3Qa3ZuD5f"
+        }
+      ],
+      "duration_ms": 129924,
+      "name": "t\u00e1 bom",
+      "url": "https://open.spotify.com/track/1I2SnMggnU9O06CkqFtDaI"
+    },
     {
       "added_at": "2026-04-14 22:13:37",
       "album": {
@@ -73,6 +89,38 @@
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
     },
     {
+      "added_at": "2026-06-18 13:33:37",
+      "album": {
+        "name": "Plus jamais invisible",
+        "url": "https://open.spotify.com/album/7w6HqslXouPbsA1X9BUiMH"
+      },
+      "artists": [
+        {
+          "name": "Prince LUYEYE",
+          "url": "https://open.spotify.com/artist/4XMIyv7sVjfnhpBEqF5WWp"
+        }
+      ],
+      "duration_ms": 282314,
+      "name": "Plus Jamais Invisible",
+      "url": "https://open.spotify.com/track/693IEpe08O259WMuIjZJ8V"
+    },
+    {
+      "added_at": "2026-06-18 13:33:33",
+      "album": {
+        "name": "State of Mind",
+        "url": "https://open.spotify.com/album/3ibVBw7qZ2ZcGU664sbnow"
+      },
+      "artists": [
+        {
+          "name": "Leo Veinz",
+          "url": "https://open.spotify.com/artist/3Hb7jkBSVrRwdwZLkfRttT"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "State of Mind",
+      "url": "https://open.spotify.com/track/3o1jyNd2Yn4Bdwh0ykCpl6"
+    },
+    {
       "added_at": "2026-04-14 22:14:39",
       "album": {
         "name": "ARIRANG",
@@ -119,6 +167,22 @@
       "duration_ms": 213440,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
+    {
+      "added_at": "2026-06-18 13:33:43",
+      "album": {
+        "name": "Buscando",
+        "url": "https://open.spotify.com/album/30bUtxDlYHnsq5gAdVTFyU"
+      },
+      "artists": [
+        {
+          "name": "Laura Campello",
+          "url": "https://open.spotify.com/artist/7x20G6YEjXhCsD5sitvoQb"
+        }
+      ],
+      "duration_ms": 249444,
+      "name": "Buscando",
+      "url": "https://open.spotify.com/track/1xGasCa5VSI3KCr7jdt9yo"
     },
     {
       "added_at": "2026-04-14 23:12:57",
@@ -241,6 +305,54 @@
       "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
     },
     {
+      "added_at": "2026-06-18 13:33:47",
+      "album": {
+        "name": "Oh Preacher",
+        "url": "https://open.spotify.com/album/40WCEdjygWAQdpiOva455L"
+      },
+      "artists": [
+        {
+          "name": "Lucie Tiger",
+          "url": "https://open.spotify.com/artist/7kpz1LLc30Bw6zId3wst3e"
+        }
+      ],
+      "duration_ms": 227424,
+      "name": "Oh Preacher",
+      "url": "https://open.spotify.com/track/2IoIVSaKlGXTg472FzYV0A"
+    },
+    {
+      "added_at": "2026-06-18 13:33:51",
+      "album": {
+        "name": "Bucket of Beers",
+        "url": "https://open.spotify.com/album/2HrhC24gJXQhJdxuzSaUmT"
+      },
+      "artists": [
+        {
+          "name": "Lucie Tiger",
+          "url": "https://open.spotify.com/artist/7kpz1LLc30Bw6zId3wst3e"
+        }
+      ],
+      "duration_ms": 189056,
+      "name": "Bucket of Beers",
+      "url": "https://open.spotify.com/track/17OhcEoYvayBkGIFLPlfdt"
+    },
+    {
+      "added_at": "2026-06-18 13:33:54",
+      "album": {
+        "name": "Tequila Talking",
+        "url": "https://open.spotify.com/album/3i35BY6tdVrQVYx4fwxTSW"
+      },
+      "artists": [
+        {
+          "name": "Lucie Tiger",
+          "url": "https://open.spotify.com/artist/7kpz1LLc30Bw6zId3wst3e"
+        }
+      ],
+      "duration_ms": 159402,
+      "name": "Tequila Talking",
+      "url": "https://open.spotify.com/track/4N2ORY0bLLOg1HuxOjp6xq"
+    },
+    {
       "added_at": "2026-06-12 13:36:05",
       "album": {
         "name": "Pretty Girl",
@@ -343,6 +455,22 @@
       "duration_ms": 249066,
       "name": "Who You Wit",
       "url": "https://open.spotify.com/track/1dfgE8LvBZkkoxBP0POcER"
+    },
+    {
+      "added_at": "2026-06-19 04:42:18",
+      "album": {
+        "name": "Identification Please",
+        "url": "https://open.spotify.com/album/1rqcY8bTaCUiD8uKoAYsz1"
+      },
+      "artists": [
+        {
+          "name": "Czafari.",
+          "url": "https://open.spotify.com/artist/57b3zqnOFy5PUKZp0HBygg"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Identification Please",
+      "url": "https://open.spotify.com/track/0ozySjGR0THi9XfWHMh7qI"
     },
     {
       "added_at": "2026-06-16 15:18:57",
@@ -743,6 +871,22 @@
       "duration_ms": 285230,
       "name": "My Angel",
       "url": "https://open.spotify.com/track/1XDADIAKvrnNvs5HhWXDpI"
+    },
+    {
+      "added_at": "2026-06-18 13:33:20",
+      "album": {
+        "name": "One Voice In Everyone\u2019s Memory",
+        "url": "https://open.spotify.com/album/5b6ehhyRLwq448TYShWAmZ"
+      },
+      "artists": [
+        {
+          "name": "Lea Bloom",
+          "url": "https://open.spotify.com/artist/4zla0ppSxmQlsYFl8AzHHL"
+        }
+      ],
+      "duration_ms": 228167,
+      "name": "One Voice In Everyone\u2019s Memory",
+      "url": "https://open.spotify.com/track/7y5jBrMfndjtekhBOTnIuf"
     },
     {
       "added_at": "2026-05-20 15:34:25",
@@ -2747,6 +2891,54 @@
       "duration_ms": 427093,
       "name": "Love & Hate",
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
+    },
+    {
+      "added_at": "2026-06-18 12:00:51",
+      "album": {
+        "name": "Too Much to Ask",
+        "url": "https://open.spotify.com/album/1X3lPuPiM4x2LXrQ6eoBMd"
+      },
+      "artists": [
+        {
+          "name": "Morning Verses",
+          "url": "https://open.spotify.com/artist/3tR3QE3ESLGJ58ZK1P49gV"
+        }
+      ],
+      "duration_ms": 182446,
+      "name": "Too Much to Ask",
+      "url": "https://open.spotify.com/track/0wxso65Z0LIui7YgctlSQP"
+    },
+    {
+      "added_at": "2026-06-18 12:00:57",
+      "album": {
+        "name": "Shift My Focus",
+        "url": "https://open.spotify.com/album/2fKIYtqDrIXehoi6DdxTrw"
+      },
+      "artists": [
+        {
+          "name": "Maverick First",
+          "url": "https://open.spotify.com/artist/2pyYRE2Mw6ZmmxJaFzrA7J"
+        }
+      ],
+      "duration_ms": 199279,
+      "name": "Last Time In Your Eyes",
+      "url": "https://open.spotify.com/track/2OrH56dKfhJ5hAgCbq60Wu"
+    },
+    {
+      "added_at": "2026-06-18 12:00:48",
+      "album": {
+        "name": "Nexus",
+        "url": "https://open.spotify.com/album/0rMkG36PAoEwlPSPoAzcBI"
+      },
+      "artists": [
+        {
+          "name": "BLACK AND RED",
+          "url": "https://open.spotify.com/artist/47exOqS2n1mtzYXEjOiMAO"
+        }
+      ],
+      "duration_ms": 210410,
+      "name": "All These Things",
+      "url": "https://open.spotify.com/track/1m1qXozDZYh6c8b9ABt9vq"
     },
     {
       "added_at": "2026-06-13 23:24:18",

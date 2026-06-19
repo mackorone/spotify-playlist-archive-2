@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Gilly ",
-  "num_followers": 2002,
+  "num_followers": 2001,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "ik wil verliefd zijn op mijn tijd",
-        "url": "https://open.spotify.com/album/0LNJLilA2tOIGkNO9OIMQk"
-      },
-      "artists": [
-        {
-          "name": "Else Lena",
-          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "ik wil verliefd zijn op mijn tijd",
-      "url": "https://open.spotify.com/track/1reHtx3YGzOdOYwuOCJi5x"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Money Rain",
         "url": "https://open.spotify.com/album/7vskvCoVOcvR6UN9kIkW4M"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 143061,
       "name": "Money Rain",
       "url": "https://open.spotify.com/track/6nQBeKREBjEQj7ked6fYod"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "ik wil verliefd zijn op mijn tijd",
+        "url": "https://open.spotify.com/album/0LNJLilA2tOIGkNO9OIMQk"
+      },
+      "artists": [
+        {
+          "name": "Else Lena",
+          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "ik wil verliefd zijn op mijn tijd",
+      "url": "https://open.spotify.com/track/1reHtx3YGzOdOYwuOCJi5x"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
-        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
-      },
-      "artists": [
-        {
-          "name": "Igor",
-          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
-        }
-      ],
-      "duration_ms": 234633,
-      "name": "Kan Ik Zoveel?",
-      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "No Profit",
         "url": "https://open.spotify.com/album/4ctjWefHbDBYal1EqWEZ8R"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 151111,
       "name": "No Profit",
       "url": "https://open.spotify.com/track/2mCBVMTa6e7VcQzdvvJegO"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
+        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
+      },
+      "artists": [
+        {
+          "name": "Igor",
+          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
+        }
+      ],
+      "duration_ms": 234633,
+      "name": "Kan Ik Zoveel?",
+      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "In My Head Today",
-        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
-      },
-      "artists": [
-        {
-          "name": "Send Me Flowers",
-          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "In My Head Today",
-      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Wele Wele",
         "url": "https://open.spotify.com/album/330AsVNPy0sX1QlX77bEe9"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 153000,
       "name": "Wele Wele",
       "url": "https://open.spotify.com/track/4t4P6Gq8EUHlFpC5PpgJnq"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "In My Head Today",
+        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
+      },
+      "artists": [
+        {
+          "name": "Send Me Flowers",
+          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "In My Head Today",
+      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Hoofd In De Wolken",
-        "url": "https://open.spotify.com/album/3KXk59vPwSpuXEXd1kXMu0"
-      },
-      "artists": [
-        {
-          "name": "Mees",
-          "url": "https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI"
-        }
-      ],
-      "duration_ms": 135374,
-      "name": "Hoofd In De Wolken",
-      "url": "https://open.spotify.com/track/2g8RVR3sdW8tLPI9xJpVdD"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Cowboy",
         "url": "https://open.spotify.com/album/4rID2w9JciEcgYWfRGcYjm"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 150173,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Hoofd In De Wolken",
+        "url": "https://open.spotify.com/album/3KXk59vPwSpuXEXd1kXMu0"
+      },
+      "artists": [
+        {
+          "name": "Mees",
+          "url": "https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI"
+        }
+      ],
+      "duration_ms": 135374,
+      "name": "Hoofd In De Wolken",
+      "url": "https://open.spotify.com/track/2g8RVR3sdW8tLPI9xJpVdD"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Wannabe Superstar",
-        "url": "https://open.spotify.com/album/4N27FYKD6EN7wAGshIfFOZ"
-      },
-      "artists": [
-        {
-          "name": "KUZKO",
-          "url": "https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo"
-        }
-      ],
-      "duration_ms": 237218,
-      "name": "wannabe superstar",
-      "url": "https://open.spotify.com/track/3cRAejYI9ibFnwhNNn1PDm"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Hin Orer",
         "url": "https://open.spotify.com/album/69nnv7jiuaTrvqNFKb2VuO"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 213167,
       "name": "Hin Orer",
       "url": "https://open.spotify.com/track/51ikyUu1Rc7UE73iEGxS8m"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Wannabe Superstar",
+        "url": "https://open.spotify.com/album/4N27FYKD6EN7wAGshIfFOZ"
+      },
+      "artists": [
+        {
+          "name": "KUZKO",
+          "url": "https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo"
+        }
+      ],
+      "duration_ms": 237218,
+      "name": "wannabe superstar",
+      "url": "https://open.spotify.com/track/3cRAejYI9ibFnwhNNn1PDm"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Mad Again",
-        "url": "https://open.spotify.com/album/6Y6uRRoutQyDd0sMNN5PaV"
-      },
-      "artists": [
-        {
-          "name": "Doris Vosters",
-          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
-        }
-      ],
-      "duration_ms": 262224,
-      "name": "Mad Again",
-      "url": "https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Something to Lose",
         "url": "https://open.spotify.com/album/5XQIG5emze3Wqs82FVzSBC"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 546499,
       "name": "Acid to Fascists",
       "url": "https://open.spotify.com/track/7J38jvMFpESlnq2sEmg9gH"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Mad Again",
+        "url": "https://open.spotify.com/album/6Y6uRRoutQyDd0sMNN5PaV"
+      },
+      "artists": [
+        {
+          "name": "Doris Vosters",
+          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
+        }
+      ],
+      "duration_ms": 262224,
+      "name": "Mad Again",
+      "url": "https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
+        "name": "Odesa Twilight Session (live)",
+        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
+      },
+      "artists": [
+        {
+          "name": "INOYSON",
+          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
+        }
+      ],
+      "duration_ms": 190083,
+      "name": "In My Arms - live",
+      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
         "name": "see-through",
         "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Odesa Twilight Session (live)",
-        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
+        "name": "deadbeat (how long)",
+        "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
       },
       "artists": [
         {
-          "name": "INOYSON",
-          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
+          "name": "crashing",
+          "url": "https://open.spotify.com/artist/6brUoKxN2RCw6j1aVVIoqr"
         }
       ],
-      "duration_ms": 190083,
-      "name": "In My Arms - live",
-      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
+      "duration_ms": 240233,
+      "name": "deadbeat (how long)",
+      "url": "https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -907,22 +923,6 @@
       "duration_ms": 191945,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
-        "name": "deadbeat (how long)",
-        "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
-      },
-      "artists": [
-        {
-          "name": "crashing",
-          "url": "https://open.spotify.com/artist/6brUoKxN2RCw6j1aVVIoqr"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "deadbeat (how long)",
-      "url": "https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/0BTi5qLvMLhaf197QJxVNo"
+      },
+      "artists": [
+        {
+          "name": "aquelarre*",
+          "url": "https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj"
+        }
+      ],
+      "duration_ms": 165784,
+      "name": "Trepanationforthenationalhealth",
+      "url": "https://open.spotify.com/track/0l6mlfoFZH3PPDTmq8ZmHT"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
         "name": "Agony",
         "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
       },
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "1",
-        "url": "https://open.spotify.com/album/0BTi5qLvMLhaf197QJxVNo"
-      },
-      "artists": [
-        {
-          "name": "aquelarre*",
-          "url": "https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj"
-        }
-      ],
-      "duration_ms": 165784,
-      "name": "Trepanationforthenationalhealth",
-      "url": "https://open.spotify.com/track/0l6mlfoFZH3PPDTmq8ZmHT"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "BAD CHI",
         "url": "https://open.spotify.com/album/2JbAEBojUAxaRpWdbZNytW"
       },
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
+        "name": "Max",
+        "url": "https://open.spotify.com/album/7JThK5VKLEQDzwChzoUVy6"
+      },
+      "artists": [
+        {
+          "name": "Amani",
+          "url": "https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3"
+        }
+      ],
+      "duration_ms": 120230,
+      "name": "Max",
+      "url": "https://open.spotify.com/track/46fRys6UjCRJESL2yv0gcp"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
         "name": "ep1",
         "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 187787,
       "name": "Elusive",
       "url": "https://open.spotify.com/track/5vF3crzWldigIceAdkpcNo"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
-        "name": "Max",
-        "url": "https://open.spotify.com/album/7JThK5VKLEQDzwChzoUVy6"
-      },
-      "artists": [
-        {
-          "name": "Amani",
-          "url": "https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3"
-        }
-      ],
-      "duration_ms": 120230,
-      "name": "Max",
-      "url": "https://open.spotify.com/track/46fRys6UjCRJESL2yv0gcp"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
-      },
-      "artists": [
-        {
-          "name": "HOOFS",
-          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Out Of Place",
-      "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/7db55fGyJSN2PBidi9pPM1"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 219876,
       "name": "Memories",
       "url": "https://open.spotify.com/track/3SD4rpJ0PeaIPzJUi0SRSE"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
+      },
+      "artists": [
+        {
+          "name": "HOOFS",
+          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "paths of sand",
-        "url": "https://open.spotify.com/album/2DeJRuaRJcXgbhOF14wbiJ"
-      },
-      "artists": [
-        {
-          "name": "xico",
-          "url": "https://open.spotify.com/artist/7ni53ZghzEfukMwg7GawgE"
-        }
-      ],
-      "duration_ms": 303526,
-      "name": "chaos oasis",
-      "url": "https://open.spotify.com/track/6nebKidwaw9loPQXtXrg49"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "CAH",
         "url": "https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 228500,
       "name": "Polder",
       "url": "https://open.spotify.com/track/4iJt3YH8EdjL5dcuknBfu4"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "paths of sand",
+        "url": "https://open.spotify.com/album/2DeJRuaRJcXgbhOF14wbiJ"
+      },
+      "artists": [
+        {
+          "name": "xico",
+          "url": "https://open.spotify.com/artist/7ni53ZghzEfukMwg7GawgE"
+        }
+      ],
+      "duration_ms": 303526,
+      "name": "chaos oasis",
+      "url": "https://open.spotify.com/track/6nebKidwaw9loPQXtXrg49"
     },
     {
       "added_at": "2026-06-08 07:57:47",

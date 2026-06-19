@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: RUBACK",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: \u00d6wnboss",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -1638,6 +1638,32 @@
       "duration_ms": 136874,
       "name": "Bad Boys",
       "url": "https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a"
+    },
+    {
+      "album": {
+        "name": "Bad Choices",
+        "url": "https://open.spotify.com/album/3ADZV1vMCEWmUS9IaNqQ1W"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "FEZZO",
+          "url": "https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Bad Choices",
+      "url": "https://open.spotify.com/track/0YpZz0Ip2TGdFv24Pqmlvk"
     },
     {
       "album": {
@@ -4056,7 +4082,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 297500,
       "name": "Culpa da Cacha\u00e7a",
       "url": "https://open.spotify.com/track/7CgCl558UoZCUn5dqJwGw0"
@@ -6108,7 +6134,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 179527,
       "name": "Eyes on Me",
       "url": "https://open.spotify.com/track/0BnZtlndhY8RmDKdO2Uko7"
@@ -6332,6 +6358,28 @@
       "duration_ms": 158201,
       "name": "Fast Friends",
       "url": "https://open.spotify.com/track/70rBw5gmaGKuG6hU1upHiO"
+    },
+    {
+      "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/4zJULJTLglrEPu1tIrxm7o"
+      },
+      "artists": [
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "ZARO",
+          "url": "https://open.spotify.com/artist/5cJZAC1qGuGBqk1kAKvQCk"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187142,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/7KIVzPQHkwaLkCafnDF4pz"
     },
     {
       "album": {
@@ -9362,7 +9410,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 261023,
       "name": "If It's Not Love",
       "url": "https://open.spotify.com/track/2pU2UlABXcI31Su0n28Upi"
@@ -15555,6 +15603,24 @@
     },
     {
       "album": {
+        "name": "Rebel Boogie Nights",
+        "url": "https://open.spotify.com/album/6aSpT40FF1z6k1ODlIjpp6"
+      },
+      "artists": [
+        {
+          "name": "Coppola",
+          "url": "https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303649,
+      "name": "Rebel Boogie Nights",
+      "url": "https://open.spotify.com/track/6H7Vhpkq4yNqFPWkmpfjn3"
+    },
+    {
+      "album": {
         "name": "Redline",
         "url": "https://open.spotify.com/album/0aXKQ2PXqOWt7I1b2zHNc9"
       },
@@ -15936,6 +16002,24 @@
       "duration_ms": 175238,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/5NyQ7NvT3zwisjmsUZkqTw"
+    },
+    {
+      "album": {
+        "name": "Rumba",
+        "url": "https://open.spotify.com/album/0vIbcU8qCzIMZ8WtCFfBhT"
+      },
+      "artists": [
+        {
+          "name": "Sterium",
+          "url": "https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Rumba",
+      "url": "https://open.spotify.com/track/3UAqSCnXLiIi46EbScLBRa"
     },
     {
       "album": {
@@ -16498,7 +16582,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 205984,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/53OLMfDeaFJgosZsxNSLT9"
@@ -16908,7 +16992,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 365689,
       "name": "Silence",
       "url": "https://open.spotify.com/track/340fN3ZYdRrcc7ybSYNglo"
@@ -19946,7 +20030,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 207483,
       "name": "Vem Comigo",
       "url": "https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1"

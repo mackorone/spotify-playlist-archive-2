@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 214358,
+  "num_followers": 214375,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAD4Se5pdQhzPOvvwyUbDpOD",
+  "snapshot_id": "ajHjgAAAAAAZXw6mMFLEqS9bajFy8zDf",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Noots",
-      "url": "https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp"
+      "duration_ms": 205933,
+      "name": "Some Say",
+      "url": "https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Some Say",
-      "url": "https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl"
+      "duration_ms": 231000,
+      "name": "Noots",
+      "url": "https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp"
     },
     {
       "added_at": null,

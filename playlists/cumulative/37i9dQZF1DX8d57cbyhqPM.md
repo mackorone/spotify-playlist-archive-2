@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tontons Guy2Bezbar et Tiakola.
+> Du Congo, au monde 🌍 avec Tontons Franglish et KeBlack.
 
-760 songs - 1 day 18 hr 30 min
+762 songs - 1 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Afsana](https://open.spotify.com/track/0Ms0rronIijW3ngbCOtRlB) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 4:47 | 2022-12-16 | 2023-07-01 |
 | [Ah mon bébé](https://open.spotify.com/track/27fF4VChLqJYRhjmQ9EGKL) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [Ah mon bébé](https://open.spotify.com/album/4y2gqiUF1t49bKYXKqeZxR) | 3:00 | 2025-04-25 | 2025-07-05 |
 | [Allo](https://open.spotify.com/track/2aOCcxLfLXUvDra9KuDkaa) | [Rockia Chelle](https://open.spotify.com/artist/1ZrT53sSLbDhxz7QVnisBo), [Fanicko](https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p) | [Allo](https://open.spotify.com/album/5gnoiVpxA1Y4bJIZ2oNpYL) | 3:19 | 2024-04-05 | 2024-07-27 |
+| [Altress \(feat\. Michka Ngandu\)](https://open.spotify.com/track/4AGwo7ic94ivqnWjJqK8Es) | [Héritier Wata](https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb), [Michka Ngandu](https://open.spotify.com/artist/3qFeHoCe0aXn9E3dQdCAzv) | [Altress \(feat\. Michka Ngandu\)](https://open.spotify.com/album/5z6dcaHQThY8PY98r7GfyO) | 6:05 | 2026-06-19 |  |
 | [ALWAYS](https://open.spotify.com/track/6Wkoz5kAWOTIHewXzn9srF) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [ALWAYS](https://open.spotify.com/album/5M3zUxFgRlneZtiEXGuKYe) | 2:52 | 2024-04-05 | 2024-05-11 |
 | [Amani Bombe](https://open.spotify.com/track/7qGZsPHy5NAkvtNeet3GXk) | [Huguette Tolinga](https://open.spotify.com/artist/13gEoV3xYprWdVPCSznG1O) | [Amani Bombe](https://open.spotify.com/album/7mrSqIQMuLxX6OQmYaT7kL) | 3:27 | 2022-07-29 | 2022-11-26 |
 | [Amapiupiu](https://open.spotify.com/track/3MNaH9rDwnuICFLBhky1tE) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Amapiupiu](https://open.spotify.com/album/3ZNOD4OfYMFGXbuNqTwfOk) | 3:09 | 2024-09-20 | 2025-07-12 |
@@ -233,7 +234,7 @@
 | [Eloko Oyo](https://open.spotify.com/track/2nOxzPAtTsUBmzShpGbpfj) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Tokooos](https://open.spotify.com/album/6IeIf8IVQfLGaYSckKPPsN) | 4:46 | 2022-06-30 | 2022-08-06 |
 | [EMBOMBO](https://open.spotify.com/track/0Ew4d2rU87GFcGl11mYIam) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [EMBOMBO](https://open.spotify.com/album/2qKZL9aY8l21zXkjIAVqPz) | 4:55 | 2024-07-26 | 2024-12-14 |
 | [Embêtée](https://open.spotify.com/track/6ROfu4XzhHBmaxYqjCr8rY) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Embêtée](https://open.spotify.com/album/6Z7mJy4VsmuIFFOejFzXNs) | 1:52 | 2026-06-12 |  |
-| [ENCORE](https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [ENCORE](https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD) | 2:20 | 2025-07-11 |  |
+| [ENCORE](https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [ENCORE](https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD) | 2:20 | 2025-07-11 | 2026-06-19 |
 | [ENERGY](https://open.spotify.com/track/5K2MNMBLGtWgSVHPu4fegX) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [ENERGY](https://open.spotify.com/album/21BzfHKJb7lE0tNJG08rS9) | 2:13 | 2024-10-11 | 2024-10-26 |
 | [Epayi na biso \(feat\. C2B\)](https://open.spotify.com/track/7zsehFgn9Qziqlh0jBE3CX) | [Paterne Maestro](https://open.spotify.com/artist/77I75BZlpcoggeiSxUUp7r), [C2B](https://open.spotify.com/artist/6zUcMw2Cj20JpCj4XoPqp9) | [Epayi na biso \(feat\. C2B\)](https://open.spotify.com/album/6lm1HFd3rlSGBNbiSEtZeB) | 3:08 | 2025-12-19 | 2026-02-21 |
 | [Erreur](https://open.spotify.com/track/5BJ5KZdSl08fwpYoScuVkP) | [Bedi Starr](https://open.spotify.com/artist/26ami0YKv0SCURuU3Gssva) | [UPDATE 3.0 LIFE](https://open.spotify.com/album/7vtH84ki8w1KYHjVXEPMk5) | 3:59 | 2026-02-20 | 2026-03-22 |
@@ -291,6 +292,7 @@
 | [Génération Naza](https://open.spotify.com/track/2na9VtqbST1LgDgrbGR2L0) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [CNN ALLIGA](https://open.spotify.com/artist/2GcqNYxnAkyHr5s13GkWrc), [Tuta Selo](https://open.spotify.com/artist/2G6wkaoBqIFPV0wwfZzIve) | [Génération Naza](https://open.spotify.com/album/1f3gZq5L4e9GS2b0ZWimH1) | 3:34 | 2025-10-17 | 2026-01-31 |
 | [Hakuna Matata](https://open.spotify.com/track/39g6ShcBq4MUe2pwtXDlIo) | [IDPizzle](https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC) | [Malewa EP](https://open.spotify.com/album/39cO3QGPQ3kk3Z183iQDyB) | 3:44 | 2025-02-21 | 2025-04-12 |
 | [Half 5](https://open.spotify.com/track/7dw9D4o2oRFrTBQI4NiXEA) | [RSG](https://open.spotify.com/artist/0CkpQO9oREMoxNzioUIKj8) | [Half 5](https://open.spotify.com/album/1cpB7QtgfL5NSTQZppLuYG) | 3:18 | 2023-09-01 | 2023-10-21 |
+| [Haut les mains](https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm) | [ENERGY](https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut) | 2:15 | 2026-06-19 |  |
 | [Histoire d'amour](https://open.spotify.com/track/1xivAPzBdY8AdOph4sFU2Y) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Gomme, Vol\. 2](https://open.spotify.com/album/2GKYeOvdjYn1iD0fFRf4JT) | 5:02 | 2023-04-28 | 2023-09-02 |
 | [Holla](https://open.spotify.com/track/02KE9xq0mTKsOaZhSOQ2Gp) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Holla](https://open.spotify.com/album/4t8mt3i5hTBN8scNtYXY6w) | 3:35 | 2022-08-05 | 2023-07-22 |
 | [Honey bee](https://open.spotify.com/track/5MnOolAxJbVqRvFYruVIfS) | [Bader](https://open.spotify.com/artist/1bcBNTeAi5f7rlUHpqYrZ4), [Ouzbek](https://open.spotify.com/artist/35agMu466xyff2jEokqhes) | [Honey bee](https://open.spotify.com/album/48Widtr5Le1phLHCCLu8bd) | 2:43 | 2023-12-01 | 2023-12-16 |
@@ -714,7 +716,7 @@
 | [Tu es à moi](https://open.spotify.com/track/3n0VfR0W0YmJ8WCWZB1G60) | [Shiki L'artist](https://open.spotify.com/artist/3AOYT74E7Wzov4s98wubcl), [Aris](https://open.spotify.com/artist/6o4aUPyhBkSZWdpWZ88p31) | [Tu es à moi](https://open.spotify.com/album/2zgBLkJgYZsPaFtV6rd5rE) | 2:53 | 2024-04-26 | 2024-06-01 |
 | [Tu m'aimes plus](https://open.spotify.com/track/4cAEgsyXRtjg34Be3PTDl0) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [RDF](https://open.spotify.com/album/3lBcud1MgtDd45B7SMrZ1S) | 2:26 | 2026-04-17 |  |
 | [Tu M'as Tout Donné \- Extended Version](https://open.spotify.com/track/3jt07FhLh159y0nT9sjP7R) | [Luc Evarist](https://open.spotify.com/artist/46tjw4Tkvp0ZfQlC3OGmOJ) | [Tu M'as Tout Donné \(Extended Version\)](https://open.spotify.com/album/77PWsjBJ56uVOvjZDE1zIT) | 4:00 | 2022-06-30 | 2022-09-17 |
-| [T’en fais pas](https://open.spotify.com/track/3RREuOcfhBFerg5EOvEG3D) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [T’en fais pas](https://open.spotify.com/album/2mXk9109RmXJE4EWtbRT7r) | 2:11 | 2025-09-19 |  |
+| [T’en fais pas](https://open.spotify.com/track/3RREuOcfhBFerg5EOvEG3D) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [T’en fais pas](https://open.spotify.com/album/2mXk9109RmXJE4EWtbRT7r) | 2:11 | 2025-09-19 | 2026-06-19 |
 | [T’étais où ?](https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [T’étais où ?](https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5) | 3:41 | 2024-02-02 | 2024-08-31 |
 | [Une autre vie](https://open.spotify.com/track/5z2iAmCpMK6M2btCov6Hv5) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC) | [Une autre vie](https://open.spotify.com/album/5i968sfaBCXESGF8OaNlAQ) | 2:26 | 2025-05-02 | 2025-05-24 |
 | [Une histoire](https://open.spotify.com/track/24JfEcLed7ACdaat7SzXVs) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Une histoire](https://open.spotify.com/album/0kh6CUC8FCfAgsMvcjQjwV) | 2:53 | 2024-11-15 | 2025-02-01 |

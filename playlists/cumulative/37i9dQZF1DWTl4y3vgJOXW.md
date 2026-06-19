@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Mikal Bridges
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Brunson
 
-917 songs - 1 day 22 hr 39 min
+918 songs - 1 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,7 +598,7 @@
 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [On Wat U On \(with GloRilla\)](https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz) | 2:39 | 2023-01-13 | 2023-02-18 |
 | [One Track Minded](https://open.spotify.com/track/7IA8ksXrY276otudaP7knL) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [One Track Minded](https://open.spotify.com/album/0JOrjRfvBbK6ybLhbea7zr) | 2:19 | 2023-01-27 | 2023-02-15 |
 | [One Up](https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:40 | 2022-10-21 | 2023-06-10 |
-| [Onnat](https://open.spotify.com/track/2QU9ZLNwjlFHvPQbHLiwij) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 2:11 | 2026-05-29 |  |
+| [Onnat](https://open.spotify.com/track/2QU9ZLNwjlFHvPQbHLiwij) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 2:11 | 2026-05-29 | 2026-06-19 |
 | [Oprah’s Bank Account \(Lil Yachty & DaBaby feat\. Drake\)](https://open.spotify.com/track/7wsmIIm0xWmtP7TmACXkJn) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Oprah’s Bank Account \(Lil Yachty & DaBaby feat\. Drake\)](https://open.spotify.com/album/56Abu6NLfNM5X7rJhrUdO4) | 3:26 | 2021-09-02 | 2022-06-25 |
 | [Out The Mud](https://open.spotify.com/track/2wZjsbwmWfNVslgV5afl1L) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Out The Mud](https://open.spotify.com/album/1LGwG4vhQIOwCBZhyEtL4u) | 2:37 | 2021-09-02 | 2022-10-01 |
 | [OUT WEST \(feat\. Young Thug\)](https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 2:37 | 2021-09-02 | 2024-11-02 |
@@ -710,6 +710,7 @@
 | [Save That](https://open.spotify.com/track/20QsjZcPfLlW9OidT7RphJ) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [The World Is Yours 2](https://open.spotify.com/album/6GDXnx6AUDGH0tpxXQX0Kn) | 2:30 | 2021-09-02 | 2022-06-25 |
 | [SAY MY GRACE \(feat\. Travis Scott\)](https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:53 | 2023-10-13 |  |
 | [scapegoats](https://open.spotify.com/track/0s2eTTKN5deHJttejOJDhg) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 1:16 | 2024-07-12 | 2024-07-19 |
+| [SEALS & TAGS](https://open.spotify.com/track/43ILM06ZEi4DoiNPnbppRM) | [Pz'](https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT) | [B4NTB](https://open.spotify.com/album/5PJr7pdqJFRANcJFcFsd2i) | 1:50 | 2026-06-19 |  |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-07 | 2023-11-18 |
 | [SEEUMSAYIN](https://open.spotify.com/track/1L5kcJo9aJIjudbqoOyP5e) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [SEEUMSAYIN](https://open.spotify.com/album/2Xo4k0jRBcsOIq1E2qM6UU) | 1:38 | 2026-01-16 | 2026-01-24 |
 | [Senate](https://open.spotify.com/track/2AypgV6lNNvlPIDkcv2JEq) | [Comethazine](https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf) | [Bawskee 5](https://open.spotify.com/album/2ryRBtabmlVuFiNBl9fpjd) | 2:20 | 2023-02-17 | 2023-02-22 |

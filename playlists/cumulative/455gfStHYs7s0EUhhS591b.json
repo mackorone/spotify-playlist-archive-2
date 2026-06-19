@@ -3767,6 +3767,32 @@
     },
     {
       "album": {
+        "name": "One of Those Nights",
+        "url": "https://open.spotify.com/album/0MkYmCTlCcWUX9aetjMGoM"
+      },
+      "artists": [
+        {
+          "name": "D.J.S.",
+          "url": "https://open.spotify.com/artist/3tbuFxkU3aZ2pH8n6Z5M6o"
+        },
+        {
+          "name": "Jay Fase",
+          "url": "https://open.spotify.com/artist/3P544g8HVln9cZfy9dHdTd"
+        },
+        {
+          "name": "Dymos & Shizzo",
+          "url": "https://open.spotify.com/artist/7owJmPvRxNxReTkZV4s40k"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218968,
+      "name": "One of Those Nights",
+      "url": "https://open.spotify.com/track/0IJylFAP93nKZgcynxUbdH"
+    },
+    {
+      "album": {
         "name": "Only Us",
         "url": "https://open.spotify.com/album/6rt8TqNLdFusAX72nzw8sj"
       },

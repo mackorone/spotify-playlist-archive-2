@@ -607,22 +607,6 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "The Essential Bob Wills And His Texas Playboys",
-        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "New San Antonio Rose",
-      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 183893,
       "name": "Mule Train",
       "url": "https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
+        "name": "The Essential Bob Wills And His Texas Playboys",
+        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "New San Antonio Rose",
+      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
     },
     {
       "added_at": "2026-02-11 22:46:25",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "My Favorite Country Songs",
-        "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Tumbling Tumbleweeds",
-      "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 135933,
       "name": "Divorce Me C.O.D.",
       "url": "https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
+        "name": "My Favorite Country Songs",
+        "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Tumbling Tumbleweeds",
+      "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
     },
     {
       "added_at": "2026-02-11 22:46:25",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Honey Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,181 likes - 46 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,192 likes - 46 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Song and Dance Man](https://open.spotify.com/track/1oflMqWYnceFzbIDdOM1fr) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/0K3erRyIjMqza5oWHTv86c) | 2:17 |
+| 1 | [Song and Dance Man](https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:17 |
 | 2 | [Satisfied](https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 4:04 |
 | 3 | [Calypso](https://open.spotify.com/track/0xDX2eQsx9F4xHVMNPvVge) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Calypso](https://open.spotify.com/album/7rfrQpTh58BeQfjmA4n2Yi) | 2:31 |
 | 4 | [Not in Love](https://open.spotify.com/track/6NwK2UZSO3RofFfreHxZOL) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [ARCADE](https://open.spotify.com/album/5CIQzG3okTPTbvawZ1Pczs) | 3:18 |

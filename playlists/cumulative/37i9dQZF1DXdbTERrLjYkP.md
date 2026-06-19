@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Lexi Jayde
+> Discover the next wave of talent writing their own songs\. Cover: Diva Smith
 
-1,091 songs - 2 day 10 hr 47 min
+1,093 songs - 2 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Augusta](https://open.spotify.com/track/35h0oVv5uf0WPNMaFAmNXS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:57 | 2022-01-14 | 2022-02-26 |
 | [Avalon](https://open.spotify.com/track/3nqDStgA910ZZtDqfgxO3H) | [Rachel Harlow](https://open.spotify.com/artist/7808k6MySVY31Nz6uYQC7r) | [Avalon](https://open.spotify.com/album/6G0HyqDV6Iu7V7MDusQ2Be) | 3:27 | 2025-09-05 | 2026-01-17 |
 | [AVERAGE AMERICAN WOMAN](https://open.spotify.com/track/4yKrWwUOOAt4U4Asxe3igO) | [Lily Mae Harrington](https://open.spotify.com/artist/0VUppYTrblZVeLBqEWjnlJ) | [Average American Woman](https://open.spotify.com/album/1zMZpg939xZFcaEqUjjtDP) | 2:39 | 2025-02-28 | 2025-05-03 |
+| [Baby Again](https://open.spotify.com/track/3DRdm0cEIMTe8QbL63AN4b) | [Madhavi Devi](https://open.spotify.com/artist/0htjgBT1mgEJG1hvSOnToR) | [Luck of the Draw](https://open.spotify.com/album/4Pl5OaVAIUmHmY4ExUu3Hh) | 4:17 | 2026-06-19 |  |
 | [Baby Just Be](https://open.spotify.com/track/3500z3pULXj7gW4xP7TnvF) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [Baby Just Be](https://open.spotify.com/album/7FQvxpYqB5FSr34Fi6JFgZ) | 3:46 | 2026-01-16 | 2026-03-14 |
 | [Back to Friends](https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Back to Friends](https://open.spotify.com/album/5t2hgJnqejxo2yaLFimYac) | 3:35 | 2022-01-14 | 2022-03-26 |
 | [Back To You](https://open.spotify.com/track/0GlO3iD7ParRcxXPRz6o04) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [Back To You](https://open.spotify.com/album/1Pk2SrspKEgZnyqT0wO5V6) | 2:40 | 2022-01-14 | 2022-03-12 |
@@ -525,7 +526,7 @@
 | [Immune](https://open.spotify.com/track/257vYk90jZBxKvgW2ZZH0D) | [Róise](https://open.spotify.com/artist/7ANwWQmuhIV8KmIOoZFjqq) | [Television](https://open.spotify.com/album/5GbCCEnNiwzRUxtyZie3CO) | 3:24 | 2025-11-25 | 2026-03-29 |
 | [In a Few Months](https://open.spotify.com/track/6FAMGlXpqVkgCpTgA5iEYs) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [In a Few Months](https://open.spotify.com/album/2tGxcCJyqcipZtervTeD77) | 2:52 | 2023-01-27 | 2023-04-15 |
 | [In Between](https://open.spotify.com/track/6MpH0CFS4ikDVF8nc8mEY3) | [Lilly Bedard](https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn) | [In Between](https://open.spotify.com/album/3GPnRyr4N0RBZM5sAgTYH0) | 3:54 | 2025-11-21 | 2026-05-23 |
-| [In Love With A Ghost](https://open.spotify.com/track/7xmK0BKKlAG6ifxZr99Qpc) | [Madhavi Devi](https://open.spotify.com/artist/0htjgBT1mgEJG1hvSOnToR) | [In Love With A Ghost](https://open.spotify.com/album/2HFEuad71R07xQK0WWI0eo) | 2:49 | 2026-03-06 |  |
+| [In Love With A Ghost](https://open.spotify.com/track/7xmK0BKKlAG6ifxZr99Qpc) | [Madhavi Devi](https://open.spotify.com/artist/0htjgBT1mgEJG1hvSOnToR) | [In Love With A Ghost](https://open.spotify.com/album/2HFEuad71R07xQK0WWI0eo) | 2:49 | 2026-03-06 | 2026-06-19 |
 | [in my head](https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [in my head](https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I) | 3:44 | 2023-04-28 | 2023-09-02 |
 | [In My Sleep](https://open.spotify.com/track/46LKpy0VOIcUOn9jJhCtTZ) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [In My Sleep](https://open.spotify.com/album/2ceea7b3XHoKXbljZcYSbM) | 3:22 | 2025-10-31 | 2026-03-21 |
 | [In Plain Sight](https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [In Plain Sight](https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0) | 2:36 | 2023-05-05 | 2023-07-15 |
@@ -800,6 +801,7 @@
 | [Rocket Science](https://open.spotify.com/track/7El19GVmLKoGANrPxbWSa7) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Heartbreak Hall Of Fame](https://open.spotify.com/album/4SpxjTnfgxHAxHjLAClJsF) | 2:42 | 2022-09-09 | 2022-12-24 |
 | [Rocket Woman](https://open.spotify.com/track/2PtZMicbDMbAYWpBzR8g3I) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Rocket Woman](https://open.spotify.com/album/3QF644FWqbPiCeDZMNMFwM) | 3:37 | 2024-07-12 | 2024-08-24 |
 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-05 | 2023-10-01 |
+| [rom com](https://open.spotify.com/track/621v7nXYzhMpRZwshVB0ZV) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [rom com](https://open.spotify.com/album/3EwJ3FzBGDRElfF1aqLdLE) | 3:28 | 2026-06-19 |  |
 | [Roses](https://open.spotify.com/track/4STDViDVw1BrMhT3LqSNXT) | [Iris Copperman](https://open.spotify.com/artist/6RcGUg4682v0WCDSB852iD) | [Middle School Dropout](https://open.spotify.com/album/4tFRlMuaPBCKK9pqqIeZh9) | 3:10 | 2026-04-03 |  |
 | [Roses](https://open.spotify.com/track/0k9KbFbpye6K8VPbA0HT7J) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Roses](https://open.spotify.com/album/1OdBCJQCZJFvYRvDz85STj) | 3:27 | 2023-11-10 | 2024-01-20 |
 | [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 | 2025-08-15 | 2025-10-11 |
@@ -826,7 +828,7 @@
 | [scaredy cat](https://open.spotify.com/track/6h25pN6clHAfaO443edhwS) | [JT FOLEY](https://open.spotify.com/artist/1h5BwdyJ0LOpYZwECGo58q) | [scaredy cat](https://open.spotify.com/album/5fFrqDeUxm6LkKtXHABKHd) | 3:06 | 2022-04-01 | 2022-04-23 |
 | [Season One](https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Season One](https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2) | 2:05 | 2024-09-27 | 2025-03-01 |
 | [second grade](https://open.spotify.com/track/77GI8YUY8xvnXD3qaC1xWQ) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [second grade](https://open.spotify.com/album/5pMdeiF3uvKgUkjrAjX3so) | 3:02 | 2026-04-03 |  |
-| [Second Guesser](https://open.spotify.com/track/3BWpdemSWVw7MqWBoTgP61) | [Sung Holly](https://open.spotify.com/artist/0z4BrD9oXnSUhUd80zLgCL) | [Second Guesser](https://open.spotify.com/album/7xg1mLZTqRlDb8dXWaW27Q) | 3:16 | 2026-02-27 |  |
+| [Second Guesser](https://open.spotify.com/track/3BWpdemSWVw7MqWBoTgP61) | [Sung Holly](https://open.spotify.com/artist/0z4BrD9oXnSUhUd80zLgCL) | [Second Guesser](https://open.spotify.com/album/7xg1mLZTqRlDb8dXWaW27Q) | 3:16 | 2026-02-27 | 2026-06-19 |
 | [Second Nature](https://open.spotify.com/track/1Y98awUOuPdheqh0cnDLHw) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [The Garden](https://open.spotify.com/album/3PGsOrW90ABHRIuv4zG9la) | 2:33 | 2025-06-27 | 2025-09-27 |
 | [Secondhand Smoke](https://open.spotify.com/track/6qkIHn2trQOSJJrzyD1ew9) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Secondhand Smoke](https://open.spotify.com/album/4Wu9Clf4wH6ItUqMfJkJA6) | 4:03 | 2023-02-24 | 2023-08-19 |
 | [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 | 2022-01-14 | 2022-04-23 |

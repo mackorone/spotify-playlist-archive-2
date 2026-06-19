@@ -416,7 +416,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 155800,
       "name": "An African",
       "url": "https://open.spotify.com/track/1jxVp3UVwaRwB4EgSAFnIf"
@@ -1268,6 +1268,28 @@
       "duration_ms": 238293,
       "name": "Eyin",
       "url": "https://open.spotify.com/track/6P0qBYmfNVbvydDYgdKS0j"
+    },
+    {
+      "album": {
+        "name": "HOPE!!",
+        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187680,
+      "name": "Fall On Me (feat. PJ Morton)",
+      "url": "https://open.spotify.com/track/4gzev8rPHeOydUdpubBCEm"
     },
     {
       "album": {
@@ -2462,7 +2484,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 179226,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
@@ -2596,7 +2618,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 196594,
       "name": "Nadi Balance (feat. Sheila Maurice-Grey)",
       "url": "https://open.spotify.com/track/5Z7HHsnGoG99HMM8KXuxda"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: KKevin & T\. Danny
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,949 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,959 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 | 4 | [TIP TIP](https://open.spotify.com/track/3CHx5MlbwfflmgrUoHSZw5) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [TIP TIP](https://open.spotify.com/album/35FPaskal0aoiu8iVfXgFD) | 2:55 |
 | 5 | [stupid song](https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:29 |
 | 6 | [DUMDUM](https://open.spotify.com/track/7ppCZOGHW33FT9d9NWh1kY) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [DUMDUM](https://open.spotify.com/album/74DQzDPzD0euWtsnBClgYH) | 2:35 |
-| 7 | [VRUMM](https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [VRUMM](https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ) | 2:26 |
+| 7 | [vrumm](https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [vrumm](https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ) | 2:26 |
 | 8 | [WAZZUP](https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c) | [MAXI](https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [WAZZUP](https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp) | 2:38 |
 | 9 | [SZEXI BB \- Bruno](https://open.spotify.com/track/5LFEksBRiR2Nyyr7NSteyl) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [Bereczki Zoltán](https://open.spotify.com/artist/2KjgTkzmS3SEzxiMsNpZiU) | [SZEXI BB \(Bruno\)](https://open.spotify.com/album/4ABZ9P0EXLCPmW8xnBf3Ij) | 2:43 |
 | 10 | [Diagram](https://open.spotify.com/track/5ZnlGNTGFOjOQ17TJzPnE0) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Diagram](https://open.spotify.com/album/0H4p2cpNeUeKL4Zn5BddfM) | 3:23 |

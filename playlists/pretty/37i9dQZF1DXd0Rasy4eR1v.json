@@ -1,12 +1,12 @@
 {
   "description": "Editor's picks of freshest Pakistani discoveries you need to listen to. Cover: Saif Altaf",
-  "num_followers": 11364,
+  "num_followers": 11368,
   "original_name": "Fresh Finds Pakistan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABR8edBp3djfzeXmp3ylz7mCzKY7",
+  "snapshot_id": "AAAAANPxZmjOBaKuQ7JfMBV3jbj/TtqW",
   "tracks": [
     {
       "added_at": "2026-06-09 13:41:26",
@@ -107,6 +107,42 @@
       "duration_ms": 382169,
       "name": "Qataghani (feat. Blaise Merlin)",
       "url": "https://open.spotify.com/track/54AD3vjfr1hmmOzpP0B9LP"
+    },
+    {
+      "added_at": "2026-06-19 04:01:14",
+      "album": {
+        "name": "Ayza",
+        "url": "https://open.spotify.com/album/70Ny9AIJ943OmF17FbAX0z"
+      },
+      "artists": [
+        {
+          "name": "Mirza",
+          "url": "https://open.spotify.com/artist/3djIUwbgV4atR7mW6yjyRg"
+        }
+      ],
+      "duration_ms": 213199,
+      "name": "Ayza",
+      "url": "https://open.spotify.com/track/2P9iGYlazDNb71rl6NZQ7a"
+    },
+    {
+      "added_at": "2026-06-19 04:01:14",
+      "album": {
+        "name": "Yaad",
+        "url": "https://open.spotify.com/album/5i5wUGGA6oYt4aML48Jp1j"
+      },
+      "artists": [
+        {
+          "name": "The Skinny guy",
+          "url": "https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX"
+        },
+        {
+          "name": "Jayyke",
+          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
+        }
+      ],
+      "duration_ms": 217850,
+      "name": "Yaad",
+      "url": "https://open.spotify.com/track/1VB6YOwFPohYJtYWL70BAh"
     },
     {
       "added_at": "2026-06-09 13:41:26",

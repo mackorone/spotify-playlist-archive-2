@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. <a href="spotify:artist:23vJAg53gio3DsY5jJof5H">KatzPascale</a> on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,535 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,646 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SINK WHERE YOU SLEEP](https://open.spotify.com/track/0JtscTBmEhAhw3PalM7AST) | [KatzPascale](https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H) | [ELEGY](https://open.spotify.com/album/3RSbclUQoSu7wVmSYa7Bd8) | 3:34 |
-| 2 | [Picture of Return](https://open.spotify.com/track/08Iwl4JFtDD6tgSx84J2ek) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Picture of Return](https://open.spotify.com/album/0utfWf9rY1xfvtJTw9wvhU) | 4:23 |
+| 2 | [Picture Of Return](https://open.spotify.com/track/08Iwl4JFtDD6tgSx84J2ek) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Picture Of Return](https://open.spotify.com/album/0utfWf9rY1xfvtJTw9wvhU) | 4:23 |
 | 3 | [デトロイト｜Detoroito](https://open.spotify.com/track/6DZbO6wJuGzUyy2lARqAmC) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [円相 ｜Enso](https://open.spotify.com/album/13JammOxbOwU9ft8PElfDT) | 4:19 |
 | 4 | [NUG46](https://open.spotify.com/track/0ipdaEBRDxWIigU5PfSUlU) | [Yung Singh](https://open.spotify.com/artist/47lrOrvCYsOUCEQQsj119K) | [NUG46](https://open.spotify.com/album/4eeq6cNsykHCaB5yNhsAVy) | 5:44 |
 | 5 | [Spring](https://open.spotify.com/track/4UQcp4mRxfo96VQA8CSFz9) | [Canopy](https://open.spotify.com/artist/640FBrELGSAOhovs0TYBuv) | [Spring](https://open.spotify.com/album/03yrn0eD6i3oJphP53G3Pv) | 6:02 |

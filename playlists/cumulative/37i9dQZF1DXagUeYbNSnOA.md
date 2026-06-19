@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Latin](https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA)
 
-> The best new music by independent artists and labels, featuring aLex vs aLex\. Updates every Wednesday.
+> The best new music by independent artists and labels, featuring MXKA\. Updates every Wednesday.
 
-2,783 songs - 6 day 4 hr 19 min
+2,785 songs - 6 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Amor No Correspondido](https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Amor No Correspondido](https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph) | 2:43 | 2023-01-12 | 2023-03-02 |
 | [Amor Rosado](https://open.spotify.com/track/1i14XuLKchAv9oAiMakCqv) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Amor Rosado](https://open.spotify.com/album/2ldsW8XrIaXRTqNabye8VW) | 3:28 | 2025-01-22 | 2025-03-06 |
 | [Amor Tumbado \(Bachata RMX\)](https://open.spotify.com/track/5crpZ1WK6HHlZsSA4fRny9) | [Lenny357](https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse) | [Amor Tumbado \(Bachata RMX\)](https://open.spotify.com/album/289L8dvLXkv0dVKeOPTnkd) | 2:44 | 2023-01-12 | 2023-02-16 |
-| [Amor.illo](https://open.spotify.com/track/66aahjHbtB5iAr5klNgNYV) | [Louie El Ser](https://open.spotify.com/artist/1nKfzK3n5Ti6TzUlj56jx7), [Tommie Phoenix](https://open.spotify.com/artist/7tW9uIBTXtakDgCDsAy6gk) | [Amor.illo](https://open.spotify.com/album/4iymNbKMfKg7RmKLWtH6df) | 3:13 | 2026-02-19 |  |
+| [Amor.illo](https://open.spotify.com/track/66aahjHbtB5iAr5klNgNYV) | [Louie El Ser](https://open.spotify.com/artist/1nKfzK3n5Ti6TzUlj56jx7), [Tommie Phoenix](https://open.spotify.com/artist/7tW9uIBTXtakDgCDsAy6gk) | [Amor.illo](https://open.spotify.com/album/4iymNbKMfKg7RmKLWtH6df) | 3:13 | 2026-02-19 | 2026-06-19 |
 | [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 | 2022-10-05 | 2022-12-01 |
 | [Amorcito Veranito](https://open.spotify.com/track/6d6lk5dyI0bu7n5P794uZt) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [Amorcito Veranito](https://open.spotify.com/album/7AzgJfovaFC6Hs9DJTagFX) | 2:15 | 2024-08-14 | 2024-09-05 |
 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 | 2023-07-12 | 2023-07-27 |
@@ -636,6 +636,7 @@
 | [De Telenovela](https://open.spotify.com/track/1y5pN3mxbz9BRjLUliC6DP) | [Valentina Moreno](https://open.spotify.com/artist/1srI7bnVw24WnHT6gV9V4p) | [De Telenovela](https://open.spotify.com/album/4C14PDwyvY4vNCrLW7qKLW) | 2:52 | 2023-09-27 | 2024-01-11 |
 | [De Todo Lo Que Fui.](https://open.spotify.com/track/6XHD6YyLwHaXgzueE06M1T) | [Iconauta](https://open.spotify.com/artist/77E8njlzjdYyrOQIkPyPLL) | [De Todo Lo Que Fui.](https://open.spotify.com/album/5r3V99jI3Ix5C5QG4L78je) | 4:41 | 2022-09-28 | 2022-12-01 |
 | [De un Solo Aliento](https://open.spotify.com/track/5rJ4jVrC8Tp5h48UTxCQ9h) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [De un Solo Aliento](https://open.spotify.com/album/2bvzmcBIkNkurpqbRAzgTI) | 3:36 | 2023-02-15 | 2023-03-16 |
+| [De Una Vez](https://open.spotify.com/track/4gyV7NTXXFrX8hlNNasu9W) | [Vanita Leo](https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9) | [De Una Vez](https://open.spotify.com/album/1CVF4Aae9E5gTY3yORnVs9) | 2:32 | 2026-06-18 |  |
 | [De Verdad](https://open.spotify.com/track/4GmWPSMwsKcUh8izKSquJ5) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [De Verdad](https://open.spotify.com/album/3Kpznn7Pu7R5Yulj7yepJx) | 2:09 | 2023-05-24 | 2023-06-15 |
 | [Dear Friend](https://open.spotify.com/track/7maxqLIEMaZb3d1gGG3zV5) | [Michelle Blades](https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG) | [Dear Friend](https://open.spotify.com/album/4MTdj70YPLSKZuYZVKCCee) | 3:54 | 2026-01-14 | 2026-03-26 |
 | [Dear Junior](https://open.spotify.com/track/5diJovhAIQJsdwLb0iDzpy) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Fé](https://open.spotify.com/album/399aPnDg2DcA0vybDB5Fpm) | 3:09 | 2024-02-28 | 2024-03-07 |
@@ -1969,7 +1970,7 @@
 | [Petróleo](https://open.spotify.com/track/1u0BULx6Y9OscncG0hmatC) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:44 | 2021-12-22 | 2022-01-20 |
 | [piano, piano](https://open.spotify.com/track/7t18kLASLlcOnCsD7GtFu8) | [astrid](https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm) | [piano, piano](https://open.spotify.com/album/4eGBlxVTIK95Ptvsn5dCo7) | 2:21 | 2022-06-08 | 2023-01-13 |
 | [Piedra Angular](https://open.spotify.com/track/3l1220M9lPXg4phZugh5FL) | [Fe Baca](https://open.spotify.com/artist/5SndtmBMtH0QTixMMM8l2z) | [Piedra Angular](https://open.spotify.com/album/5UcWM7PLCeNZqCaDFemk5N) | 2:37 | 2022-09-07 | 2022-10-06 |
-| [Piel : Profecías](https://open.spotify.com/track/523lVm48Con8p9G34j6H84) | [Jaswiry](https://open.spotify.com/artist/1fGZCYZpR1kUczhB55AJaW) | [Piel : Profecías](https://open.spotify.com/album/4ZdqDYLthmYOsNUKRfY9vV) | 3:08 | 2026-02-19 |  |
+| [Piel : Profecías](https://open.spotify.com/track/523lVm48Con8p9G34j6H84) | [Jaswiry](https://open.spotify.com/artist/1fGZCYZpR1kUczhB55AJaW) | [Piel : Profecías](https://open.spotify.com/album/4ZdqDYLthmYOsNUKRfY9vV) | 3:08 | 2026-02-19 | 2026-06-19 |
 | [Piel de Cristal](https://open.spotify.com/track/5QAU2CEWWsHfku4NxqEqpr) | [Montse](https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm) | [Piel de Cristal](https://open.spotify.com/album/1bVHLYQ1tvRHiUl7z5c6sB) | 4:46 | 2024-05-22 | 2024-06-13 |
 | [Pienso](https://open.spotify.com/track/5CnbDzq9XBtFZYfAAQW0EU) | [GERO](https://open.spotify.com/artist/0yJdH7HHacvB0UopMceKZl) | [Pienso](https://open.spotify.com/album/6mNjjAjG9nW7zU6DaT811X) | 3:13 | 2024-04-10 | 2024-04-25 |
 | [Pienso en Ti](https://open.spotify.com/track/2Oy1ZKm1QWYsLThU4rhduF) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:07 | 2023-08-23 | 2023-08-31 |
@@ -2638,6 +2639,7 @@
 | [Velocidad Crucero](https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Velocidad Crucero](https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1) | 3:52 | 2023-07-12 | 2023-07-27 |
 | [Veluga](https://open.spotify.com/track/5ncIeQHF099fPZRtWPYHr6) | [Satalights](https://open.spotify.com/artist/1vjX0IzSOVEpVhZ7uBSvhh) | [Veluga](https://open.spotify.com/album/4awPGdric3d0qKsBJuvMfY) | 3:53 | 2024-01-10 | 2024-01-25 |
 | [Velvet](https://open.spotify.com/track/3qU8U9M2l7Q32WAy2eYAwm) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [Velvet](https://open.spotify.com/album/769hmq1tKBE2Tu950P9enr) | 2:41 | 2023-04-12 | 2023-04-27 |
+| [Ven](https://open.spotify.com/track/7383nCC1plw6q0spGr4kAp) | [Lua Lelia](https://open.spotify.com/artist/5Gqhf0Jh17ECXFZB1zXWCn) | [Ven](https://open.spotify.com/album/7bRtpKZUlPJtaa08YotEJJ) | 2:47 | 2026-06-18 |  |
 | [VEN](https://open.spotify.com/track/2HOyTAN9AzYSDrDLJtWjg1) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk) | [VEN](https://open.spotify.com/album/4u70tnidSR0T5L5I4qdb8e) | 2:41 | 2025-06-25 | 2025-08-14 |
 | [Vendaval De Cristal](https://open.spotify.com/track/1aSt45gruUPowYTAnmTHcw) | [GENTE IMPROBABLE](https://open.spotify.com/artist/3hYNnh9hNnCKiQK4onMEJr) | [Vendaval De Cristal](https://open.spotify.com/album/7wQAo1qIV4da91vQkOIid8) | 4:06 | 2022-04-06 | 2022-04-14 |
 | [VENDÍ MI ALMA](https://open.spotify.com/track/75kGqk6acbTAQopMQbxOCz) | [Gio Kutia](https://open.spotify.com/artist/28vZIQfyaApCPe9qCxW15z) | [VENDÍ MI ALMA](https://open.spotify.com/album/5uFED9e5bCJtt6pofMktAO) | 3:14 | 2024-01-10 | 2024-02-01 |

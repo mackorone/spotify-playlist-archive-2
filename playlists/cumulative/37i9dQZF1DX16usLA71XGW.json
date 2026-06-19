@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa queens in their music bag. Cover: Teslah",
+  "description": "East Africa queens in their music bag. Cover: Mimi Mars",
   "name": "Malkia",
   "tracks": [
     {
@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 168979,
       "name": "Exam",
       "url": "https://open.spotify.com/track/6gu8mDTOSf3EjHNU16PRg9"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 235543,
       "name": "Love Commissioner",
       "url": "https://open.spotify.com/track/1TKPuXEo6va9g9GtY6YuOo"
@@ -1968,6 +1968,24 @@
       "duration_ms": 167284,
       "name": "Nfollowinga",
       "url": "https://open.spotify.com/track/0VNAMIE10wDY5zy6jqmQQY"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/2iOiqeid0nPYyTHfLuwHYM"
+      },
+      "artists": [
+        {
+          "name": "Mimi Mars",
+          "url": "https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "Niahidi",
+      "url": "https://open.spotify.com/track/34NEbs787Ie5TTHfCR7cxh"
     },
     {
       "album": {

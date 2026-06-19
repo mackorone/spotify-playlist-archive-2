@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAAdCPoON8iiqCpVoWhNHq5v",
+  "snapshot_id": "ajHjgAAAAAA+kXhM8psDNUFT65L3Sk0W",
   "tracks": [
     {
       "added_at": null,
@@ -160,74 +160,6 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 291693,
-      "name": "The Hollows",
-      "url": "https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Expanding Universe",
-        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 123773,
-      "name": "A Folk Study",
-      "url": "https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prsnt",
-        "url": "https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 35005,
-      "name": "FlyBy",
-      "url": "https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
-      },
-      "artists": [
-        {
-          "name": "VooCha",
-          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
-        },
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Heliopause",
-      "url": "https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unseen Worlds",
-        "url": "https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
       "duration_ms": 175093,
       "name": "From a Harmonic Algorithm",
       "url": "https://open.spotify.com/track/7pICSb5Mx7hSa0PPS2TYpk"
@@ -244,9 +176,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 194426,
-      "name": "Appalachian Grove III",
-      "url": "https://open.spotify.com/track/79qnW6PocozamltQqh8In9"
+      "duration_ms": 123773,
+      "name": "A Folk Study",
+      "url": "https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof"
     },
     {
       "added_at": null,
@@ -280,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4"
+      "duration_ms": 174000,
+      "name": "Heliopause",
+      "url": "https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY"
     },
     {
       "added_at": null,
@@ -312,6 +244,74 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
+      "duration_ms": 194426,
+      "name": "Appalachian Grove III",
+      "url": "https://open.spotify.com/track/79qnW6PocozamltQqh8In9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prsnt",
+        "url": "https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 35005,
+      "name": "FlyBy",
+      "url": "https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
+      },
+      "artists": [
+        {
+          "name": "VooCha",
+          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
+        },
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unseen Worlds",
+        "url": "https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "The Hollows",
+      "url": "https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Expanding Universe",
+        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
       "duration_ms": 413720,
       "name": "Old Wave",
       "url": "https://open.spotify.com/track/0KBRR5awpziELPG5H7dOTK"
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 202426,
-      "name": "Three Sonic Spaces II",
-      "url": "https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR"
+      "duration_ms": 215040,
+      "name": "Two Archetypes: Hurricane's Eye \u2013 II",
+      "url": "https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m"
     },
     {
       "added_at": null,

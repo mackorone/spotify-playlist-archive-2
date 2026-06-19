@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
+  "description": "Les hits zouk & kompa du moment. Photo : Kalipxsau",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 165396,
       "name": "CHOKOLA",
       "url": "https://open.spotify.com/track/4NvMEhBMK3MJ1D1GQSv4UI"
@@ -2914,7 +2914,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 174285,
       "name": "Homme Parfait",
       "url": "https://open.spotify.com/track/7I2eyMgDU5aTq0TyfylNJz"
@@ -3020,6 +3020,24 @@
       "duration_ms": 162073,
       "name": "Il y a moyen",
       "url": "https://open.spotify.com/track/2pS3ttRSUouiYQm7yD66oz"
+    },
+    {
+      "album": {
+        "name": "ILLIMIT\u00c9",
+        "url": "https://open.spotify.com/album/2FpLKBaZZEeX6c4lF8KGTA"
+      },
+      "artists": [
+        {
+          "name": "Barth",
+          "url": "https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "ILLIMIT\u00c9",
+      "url": "https://open.spotify.com/track/4b9Z3twr11YoLsK2iEgztD"
     },
     {
       "album": {
@@ -4122,7 +4140,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 158348,
       "name": "L\u00e9 Nou Pati",
       "url": "https://open.spotify.com/track/2JvVG5sZtbEC6tLwLRNKWn"
@@ -4650,7 +4668,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 206512,
       "name": "Mon Amour Est Mort",
       "url": "https://open.spotify.com/track/4fQpwVa1OrHQrk4sKSjkXG"
@@ -5403,6 +5421,28 @@
     },
     {
       "album": {
+        "name": "Ou ek mwin",
+        "url": "https://open.spotify.com/album/1vdWYpytr6NqXUtGAZkQfa"
+      },
+      "artists": [
+        {
+          "name": "VARAINE BEN",
+          "url": "https://open.spotify.com/artist/33VRGx12FIZw3TPLU93feY"
+        },
+        {
+          "name": "Dj Tyson",
+          "url": "https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205842,
+      "name": "Ou ek mwin",
+      "url": "https://open.spotify.com/track/4p6RookEaSLNq6waIWEicL"
+    },
+    {
+      "album": {
         "name": "Eclosion",
         "url": "https://open.spotify.com/album/4n2MRSNTulYZomK6KTKKDu"
       },
@@ -5710,6 +5750,24 @@
       "duration_ms": 210309,
       "name": "Padon\u00e9\u00b4m",
       "url": "https://open.spotify.com/track/1MK8a1kVLdzDTnmXy6goqJ"
+    },
+    {
+      "album": {
+        "name": "Palol\u00e9 palol\u00e9",
+        "url": "https://open.spotify.com/album/4c1RU4ZXqTBQ8iGpw0GBPq"
+      },
+      "artists": [
+        {
+          "name": "Jessye Belleval",
+          "url": "https://open.spotify.com/artist/0NAAEUMgWrBJNWviQcTx1T"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191518,
+      "name": "Palol\u00e9 palol\u00e9",
+      "url": "https://open.spotify.com/track/3IrXiWel8FZ1dQ9TzCJc58"
     },
     {
       "album": {
@@ -6343,6 +6401,24 @@
     },
     {
       "album": {
+        "name": "Rekomanse",
+        "url": "https://open.spotify.com/album/7FxulnQgNuNHSx0ACPu6xZ"
+      },
+      "artists": [
+        {
+          "name": "Chrystelha",
+          "url": "https://open.spotify.com/artist/2f1e5ou8I5yWAPzSLmIb9r"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158918,
+      "name": "Rekomanse",
+      "url": "https://open.spotify.com/track/5zd2ins9CVO1T0W1c0xQ10"
+    },
+    {
+      "album": {
         "name": "Reviens-moi",
         "url": "https://open.spotify.com/album/2V32gRmGl9lrYANBh9F3U4"
       },
@@ -6496,7 +6572,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 179277,
       "name": "Safe place",
       "url": "https://open.spotify.com/track/6M8l9eprbrVogC3V6MnO9d"
@@ -7494,6 +7570,28 @@
       "duration_ms": 196397,
       "name": "Tentation",
       "url": "https://open.spotify.com/track/4HlGzPPS4dYB39S8dIUv1q"
+    },
+    {
+      "album": {
+        "name": "Tes mots",
+        "url": "https://open.spotify.com/album/11NX2XtA4FYWLSPSiz0HkN"
+      },
+      "artists": [
+        {
+          "name": "Kalipsxau",
+          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
+        },
+        {
+          "name": "DJ Tutuss",
+          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Tes mots",
+      "url": "https://open.spotify.com/track/3n0LFME8XILdU1WcCAg37A"
     },
     {
       "album": {

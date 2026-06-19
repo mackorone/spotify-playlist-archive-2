@@ -370,7 +370,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 213453,
       "name": "De M\u00fasica Ligera",
       "url": "https://open.spotify.com/track/4it4NYn9wNqGV54joA6oN0"
@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "Lluvia de Exitos/Cumbia Hasta las Manos",
+        "url": "https://open.spotify.com/album/77C31VBm1Nxm5rbjD1Pp3g"
+      },
+      "artists": [
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197120,
+      "name": "Matador",
+      "url": "https://open.spotify.com/track/1eja543nD45Vym3ZGao2NO"
+    },
+    {
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
       },
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 289654,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
@@ -1760,6 +1778,24 @@
       "duration_ms": 167272,
       "name": "pa quererte",
       "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
+    },
+    {
+      "album": {
+        "name": "Pa' la Selecci\u00f3n",
+        "url": "https://open.spotify.com/album/3eEDJ9kMWQSwpJ0ymHxfk8"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186735,
+      "name": "Pa' la Selecci\u00f3n",
+      "url": "https://open.spotify.com/track/2l0hr2jYYXdkbF393AThLm"
     },
     {
       "album": {

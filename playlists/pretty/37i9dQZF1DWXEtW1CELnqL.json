@@ -1,6 +1,6 @@
 {
   "description": "Laisse go.",
-  "num_followers": 89814,
+  "num_followers": 89831,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-06-01 14:22:07",
       "album": {
+        "name": "fleabag",
+        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 176988,
+      "name": "fleabag",
+      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
+    },
+    {
+      "added_at": "2026-06-01 14:22:07",
+      "album": {
         "name": "My Only Angel (Desert Road Version)",
         "url": "https://open.spotify.com/album/2xPIwwyl8Mg9ESgYje7e95"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 255818,
       "name": "My Only Angel",
       "url": "https://open.spotify.com/track/2xkypDKYP2cyvRIfPKQ3hX"
-    },
-    {
-      "added_at": "2026-06-01 14:22:07",
-      "album": {
-        "name": "fleabag",
-        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 176988,
-      "name": "fleabag",
-      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2026-06-01 14:22:07",

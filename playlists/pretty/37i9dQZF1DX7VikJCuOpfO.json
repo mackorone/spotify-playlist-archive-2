@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal\ud83d\udcf8",
-  "num_followers": 367937,
+  "num_followers": 367946,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
-        "url": "https://open.spotify.com/album/3SrmR3w0a5hEE7QydHFkjX"
+        "name": "Por Un Mal Amor",
+        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
       },
       "artists": [
         {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
         },
         {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 159466,
-      "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
-      "url": "https://open.spotify.com/track/7eaCDVH7jAc7pFp64radbq"
+      "duration_ms": 193998,
+      "name": "Por Un Mal Amor",
+      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -175,22 +175,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Por Un Mal Amor",
-        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
+        "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
+        "url": "https://open.spotify.com/album/3SrmR3w0a5hEE7QydHFkjX"
       },
       "artists": [
         {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
         },
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 193998,
-      "name": "Por Un Mal Amor",
-      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
+      "duration_ms": 159466,
+      "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
+      "url": "https://open.spotify.com/track/7eaCDVH7jAc7pFp64radbq"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "La Perra",
-        "url": "https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "La Perra",
-      "url": "https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 183993,
       "name": "Vete",
       "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "La Perra",
+        "url": "https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "La Perra",
+      "url": "https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "La Nostalgia",
-        "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 149569,
-      "name": "\u2060Cuatro Caminos",
-      "url": "https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Rolitas Para Mis Abuelos",
         "url": "https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
+        "name": "La Nostalgia",
+        "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 149569,
+      "name": "\u2060Cuatro Caminos",
+      "url": "https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
         "name": "Nunca Hab\u00eda Amado As\u00ed",
         "url": "https://open.spotify.com/album/3IdfDl8gfoQIyPRitAFcvK"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 222711,
       "name": "Nunca Hab\u00eda Amado As\u00ed",
       "url": "https://open.spotify.com/track/7LVYiFrrWZA0Ui2fVT7z4p"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "De Qu\u00e9 Manera Te Olvido",
-        "url": "https://open.spotify.com/album/3ZdsQ9qRiqlzaIeRVdvC65"
-      },
-      "artists": [
-        {
-          "name": "Elias Medina",
-          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/7r6np7igPeQkUB2UKYHW1U"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -715,6 +699,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
+        "name": "De Qu\u00e9 Manera Te Olvido",
+        "url": "https://open.spotify.com/album/3ZdsQ9qRiqlzaIeRVdvC65"
+      },
+      "artists": [
+        {
+          "name": "Elias Medina",
+          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/7r6np7igPeQkUB2UKYHW1U"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
         "name": "Antes",
         "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 184167,
       "name": "Antes",
       "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "En Las Cantinas (En vivo)",
-        "url": "https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 196377,
-      "name": "No Me Amenaces (En Vivo)",
-      "url": "https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -763,6 +747,22 @@
       "duration_ms": 238200,
       "name": "Cuando Llegue el D\u00eda",
       "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "En Las Cantinas (En vivo)",
+        "url": "https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 196377,
+      "name": "No Me Amenaces (En Vivo)",
+      "url": "https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
+        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
+        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "duration_ms": 254227,
+      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
+      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
         "name": "Qu\u00e9 Manera De Perder",
         "url": "https://open.spotify.com/album/3gug01l53bHONxiMPjAJmQ"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 155667,
       "name": "Qu\u00e9 Manera De Perder",
       "url": "https://open.spotify.com/track/6ilcYE1SD0G3K4VbQiwYHs"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
-        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
-      },
-      "artists": [
-        {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
-        }
-      ],
-      "duration_ms": 254227,
-      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
-      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
+        "name": "Traigan Las Otras",
+        "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 230806,
+      "name": "Traigan Las Otras",
+      "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
         "name": "Despecho Puro (En Vivo)",
         "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 229173,
       "name": "Pajarillo",
       "url": "https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "Traigan Las Otras",
-        "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 230806,
-      "name": "Traigan Las Otras",
-      "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
     },
     {
       "added_at": "2026-05-22 06:00:32",

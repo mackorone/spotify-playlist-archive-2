@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance tracks from independent artists & labels. Featuring Delilah. Curated by human Spotify editors. \n",
+  "description": "The best new dance tracks from independent artists & labels. Featuring VIVI909. Curated by human Spotify editors. \n",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -15365,6 +15365,24 @@
     },
     {
       "album": {
+        "name": "DIVING",
+        "url": "https://open.spotify.com/album/08yP27NXn7S7l8cGS7l80g"
+      },
+      "artists": [
+        {
+          "name": "K.ONE",
+          "url": "https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "DIVING",
+      "url": "https://open.spotify.com/track/2TKUS9hoarxOCQwiO7drVS"
+    },
+    {
+      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje"
       },
@@ -19854,7 +19872,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 209769,
       "name": "Fanga",
       "url": "https://open.spotify.com/track/2DykxprHbMOi4HlOGVXBo3"
@@ -42182,7 +42200,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 228750,
       "name": "Nothing Left to Say - Radio Edit",
       "url": "https://open.spotify.com/track/2gP0oGwwCef1i4lOQesUj2"
@@ -44720,6 +44738,24 @@
       "duration_ms": 180000,
       "name": "P!NK",
       "url": "https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV"
+    },
+    {
+      "album": {
+        "name": "ALMO$T ALWAY$",
+        "url": "https://open.spotify.com/album/0J5UxmS70GjdYIZvpDTvE5"
+      },
+      "artists": [
+        {
+          "name": "TWONSKi",
+          "url": "https://open.spotify.com/artist/0wpHC77nsV39LreyyX5TK3"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333750,
+      "name": "P0W3R",
+      "url": "https://open.spotify.com/track/166ucatDT06X6iEDPc5oFH"
     },
     {
       "album": {
@@ -61917,6 +61953,24 @@
     },
     {
       "album": {
+        "name": "uniti/separati",
+        "url": "https://open.spotify.com/album/3BerwqIItBI9kVMUlfgJo7"
+      },
+      "artists": [
+        {
+          "name": "fenoaltea",
+          "url": "https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197624,
+      "name": "uniti/separati",
+      "url": "https://open.spotify.com/track/4MIOpYyJVYuG5JTqGjlBcC"
+    },
+    {
+      "album": {
         "name": "Universe",
         "url": "https://open.spotify.com/album/5Zr1RpCtSSjJSQLvFYJXSb"
       },
@@ -64624,7 +64678,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 230551,
       "name": "What Ya Got",
       "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"

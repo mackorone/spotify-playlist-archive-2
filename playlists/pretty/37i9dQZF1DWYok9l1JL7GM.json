@@ -1,6 +1,6 @@
 {
   "description": "The south got something to say. Cover: Gucci Mane",
-  "num_followers": 586911,
+  "num_followers": 586965,
   "original_name": "Down South Classics",
   "owner": {
     "name": "Spotify",
@@ -248,6 +248,10 @@
       },
       "artists": [
         {
+          "name": "Body Head Bangerz",
+          "url": "https://open.spotify.com/artist/219BoX4ga1r09kvBxWylN9"
+        },
+        {
           "name": "Roy Jones Jr.",
           "url": "https://open.spotify.com/artist/5K6YsAKuRtcczPgxAdzc3B"
         },
@@ -257,11 +261,11 @@
         },
         {
           "name": "Trouble",
-          "url": "https://open.spotify.com/artist/3OMd4I5GX8Hz51SLS0C2Fm"
+          "url": "https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC"
         }
       ],
       "duration_ms": 214400,
-      "name": "Can't Be Touched (feat. Mr. Magic & Trouble)",
+      "name": "Can't Be Touched",
       "url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K"
     },
     {
@@ -815,22 +819,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "THUGS ARE US",
-        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
-      },
-      "artists": [
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "I'm a Thug",
-      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Chicken - N - Beer",
         "url": "https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg"
       },
@@ -847,6 +835,22 @@
       "duration_ms": 213760,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "THUGS ARE US",
+        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
+      },
+      "artists": [
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "I'm a Thug",
+      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -911,6 +915,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 296586,
+      "name": "Rollout (My Business)",
+      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "TM:103 Hustlerz Ambition (Deluxe)",
         "url": "https://open.spotify.com/album/4GvDHEW1goHkqJbLJHzUUf"
       },
@@ -927,22 +947,6 @@
       "duration_ms": 241946,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/0Ft6hwGWdCdujdK6TOfBV7"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Word Of Mouf",
-        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 296586,
-      "name": "Rollout (My Business)",
-      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
     }
   ],
   "unique_name": "Down South Classics",

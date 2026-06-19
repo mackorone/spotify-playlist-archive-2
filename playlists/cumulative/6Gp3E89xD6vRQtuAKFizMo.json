@@ -5547,6 +5547,28 @@
     },
     {
       "album": {
+        "name": "I\u2019m Not Going Anywhere",
+        "url": "https://open.spotify.com/album/1gM5TAOTjG6N7kDsbsgBZr"
+      },
+      "artists": [
+        {
+          "name": "Iaco",
+          "url": "https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg"
+        },
+        {
+          "name": "remy",
+          "url": "https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "I\u2019m Not Going Anywhere",
+      "url": "https://open.spotify.com/track/5NOV69OCTCG2lxAp9dFTLR"
+    },
+    {
+      "album": {
         "name": "Jaded",
         "url": "https://open.spotify.com/album/3IJGXIstjykSCnQ5d9uDm9"
       },

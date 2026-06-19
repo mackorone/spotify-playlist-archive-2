@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "TRANSBORDAR",
+        "url": "https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB"
+      },
+      "artists": [
+        {
+          "name": "Mafe Peccin",
+          "url": "https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165768,
+      "name": "afinal o que \u00e9 um amor tranquilo?",
+      "url": "https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF"
+    },
+    {
+      "album": {
         "name": "Afropaty",
         "url": "https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7"
       },
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 142926,
       "name": "AMOR PROIBIDO",
       "url": "https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH"
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 160284,
       "name": "antes que voc\u00ea v\u00e1",
       "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
@@ -2150,7 +2168,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 144427,
       "name": "ATITUDE",
       "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
@@ -2262,6 +2280,24 @@
       "duration_ms": 139200,
       "name": "Avi\u00e3o",
       "url": "https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy"
+    },
+    {
+      "album": {
+        "name": "Avoad\u00e3o",
+        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219047,
+      "name": "Avoad\u00e3o",
+      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
     },
     {
       "album": {
@@ -2964,7 +3000,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 189054,
       "name": "Baunilha",
       "url": "https://open.spotify.com/track/0XReucxv3SVNNk606iP5sk"
@@ -3048,7 +3084,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 136089,
       "name": "Bem Bem",
       "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
@@ -4158,7 +4194,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 145927,
       "name": "Caos e Poesia",
       "url": "https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo"
@@ -4894,7 +4930,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 161454,
       "name": "Cigana",
       "url": "https://open.spotify.com/track/1rANj2Nucnkl2pM2wVvzxU"
@@ -4990,6 +5026,24 @@
       "duration_ms": 159692,
       "name": "CIRCO",
       "url": "https://open.spotify.com/track/1xuCgNDwq4sYyC7bruiTEg"
+    },
+    {
+      "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
+      },
+      "artists": [
+        {
+          "name": "Breezia",
+          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
     },
     {
       "album": {
@@ -6216,7 +6270,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 212500,
       "name": "Descomplica",
       "url": "https://open.spotify.com/track/5EtFeOIW4qKLYlMKnE343d"
@@ -6310,7 +6364,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170581,
       "name": "Desgra\u00e7a",
       "url": "https://open.spotify.com/track/7kLZlMAsV9Kx7RynqQaTiG"
@@ -7814,7 +7868,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170286,
       "name": "Eu Nunca Mais Vou Amar Algu\u00e9m",
       "url": "https://open.spotify.com/track/6VE2oWkB36snXifzNHG6o2"
@@ -12590,7 +12644,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 174107,
       "name": "Me Deixa Partir",
       "url": "https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr"
@@ -13424,7 +13478,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "MINA",
       "url": "https://open.spotify.com/track/6bms1AEgjJDu6TQaSTAEcR"
@@ -14504,7 +14558,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 146538,
       "name": "Noites de Neon",
       "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
@@ -18214,7 +18268,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Pura Poesia",
       "url": "https://open.spotify.com/track/1ShgI2Qw5D1QeHGscqojEi"
@@ -18784,7 +18838,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 211658,
       "name": "Quem \u00c9 Ju\u00e3o",
       "url": "https://open.spotify.com/track/4dDCIWde4PQDAf7TnaoqQP"
@@ -19264,7 +19318,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 189333,
       "name": "rela\u00e7\u00f5es superficiais",
       "url": "https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN"
@@ -20360,7 +20414,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 194407,
       "name": "Sem foto, sem v\u00eddeo",
       "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
@@ -20708,7 +20762,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 153148,
       "name": "Seu e S\u00f3",
       "url": "https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l"
@@ -21338,7 +21392,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 179259,
       "name": "Sorte",
       "url": "https://open.spotify.com/track/28xVmDFPHeRgYHo1Nfv27d"
@@ -21978,6 +22032,28 @@
       "duration_ms": 195115,
       "name": "Tbt",
       "url": "https://open.spotify.com/track/39ykOzUNFjg3lFNzDIOcVL"
+    },
+    {
+      "album": {
+        "name": "Te Amar Me D\u00e1 Asas",
+        "url": "https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        },
+        {
+          "name": "Ricky Ndombashi",
+          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195124,
+      "name": "Te Amar Me D\u00e1 Asas",
+      "url": "https://open.spotify.com/track/0VtwbacjRcHrpPtQzAEDBC"
     },
     {
       "album": {
@@ -23080,7 +23156,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 182064,
       "name": "Tudo o que eu preciso",
       "url": "https://open.spotify.com/track/6EuZGtqXcAfejal7Ghvtrw"
@@ -24054,7 +24130,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "Vida N\u00e3o Termina",
       "url": "https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi"
@@ -24432,7 +24508,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 127600,
       "name": "Volta",
       "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"

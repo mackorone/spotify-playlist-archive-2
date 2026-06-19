@@ -6,8 +6,24 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAARkmpi2S4ks2ZxeEWk54iSyEw237xu",
+  "snapshot_id": "AAARk6nhgJJlkX2jj5VK5Ynp5AzhV5+z",
   "tracks": [
+    {
+      "added_at": "2026-06-18 22:00:06",
+      "album": {
+        "name": "Tu Es Tout",
+        "url": "https://open.spotify.com/album/4sM2As0l2xCulpfdU1n0xo"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "duration_ms": 181260,
+      "name": "Tu Es Tout",
+      "url": "https://open.spotify.com/track/34OVYem9gbZQwKFdOC6Hxs"
+    },
     {
       "added_at": "2026-06-11 22:00:07",
       "album": {

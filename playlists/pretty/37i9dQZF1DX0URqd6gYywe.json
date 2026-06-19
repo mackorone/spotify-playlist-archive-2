@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: RAMMA & Cindy Cats",
-  "num_followers": 171227,
+  "num_followers": 171239,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-06-11 14:45:01",
       "album": {
-        "name": "En La Vereda del Sol",
-        "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 173746,
-      "name": "Inconsciente Colectivo",
-      "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
-    },
-    {
-      "added_at": "2026-06-11 14:45:01",
-      "album": {
         "name": "Dejo Atr\u00e1s",
         "url": "https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 221946,
       "name": "Dejo Atr\u00e1s",
       "url": "https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM"
+    },
+    {
+      "added_at": "2026-06-11 14:45:01",
+      "album": {
+        "name": "En La Vereda del Sol",
+        "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Inconsciente Colectivo",
+      "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
     },
     {
       "added_at": "2026-06-11 14:45:01",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-06-11 14:45:01",
       "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 250696,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
-    },
-    {
-      "added_at": "2026-06-11 14:45:01",
-      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 160369,
       "name": "Josefina",
       "url": "https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P"
+    },
+    {
+      "added_at": "2026-06-11 14:45:01",
+      "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 250696,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
     },
     {
       "added_at": "2026-06-11 14:45:01",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-06-11 14:45:01",
       "album": {
-        "name": "Los Lobos",
-        "url": "https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 217805,
-      "name": "Te Enfadas",
-      "url": "https://open.spotify.com/track/0gTNja0vnCU8Y1WNovBn2x"
-    },
-    {
-      "added_at": "2026-06-11 14:45:01",
-      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 235094,
       "name": "Mejor Callar",
       "url": "https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f"
+    },
+    {
+      "added_at": "2026-06-11 14:45:01",
+      "album": {
+        "name": "Los Lobos",
+        "url": "https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 217805,
+      "name": "Te Enfadas",
+      "url": "https://open.spotify.com/track/0gTNja0vnCU8Y1WNovBn2x"
     },
     {
       "added_at": "2026-06-11 14:45:01",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-06-11 14:45:01",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/0o29eImdlk0jJDyXGtjVhm"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 254882,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/03rP1rTGhyN1ilrkipznem"
-    },
-    {
-      "added_at": "2026-06-11 14:45:01",
-      "album": {
         "name": "Certezas de Cart\u00f3n",
         "url": "https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 218499,
       "name": "Certezas de Cart\u00f3n",
       "url": "https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0"
+    },
+    {
+      "added_at": "2026-06-11 14:45:01",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/0o29eImdlk0jJDyXGtjVhm"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 254882,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/03rP1rTGhyN1ilrkipznem"
     },
     {
       "added_at": "2026-06-11 14:45:01",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-06-11 14:45:01",
       "album": {
-        "name": "Las Ara\u00f1as",
-        "url": "https://open.spotify.com/album/146l6kCOT77xMMjJQIPeTK"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 179782,
-      "name": "Las Ara\u00f1as",
-      "url": "https://open.spotify.com/track/0DC2xgdAaunixqno818mZo"
-    },
-    {
-      "added_at": "2026-06-11 14:45:01",
-      "album": {
         "name": "Vendedora de Caricias",
         "url": "https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 199610,
       "name": "Vendedora de Caricias",
       "url": "https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC"
+    },
+    {
+      "added_at": "2026-06-11 14:45:01",
+      "album": {
+        "name": "Las Ara\u00f1as",
+        "url": "https://open.spotify.com/album/146l6kCOT77xMMjJQIPeTK"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 179782,
+      "name": "Las Ara\u00f1as",
+      "url": "https://open.spotify.com/track/0DC2xgdAaunixqno818mZo"
     },
     {
       "added_at": "2026-06-11 14:45:01",

@@ -2471,13 +2471,13 @@
         },
         {
           "name": "MacD",
-          "url": "https://open.spotify.com/artist/6vWE9Ulx5AYyP1qhyHaOvq"
+          "url": "https://open.spotify.com/artist/6EHxhQc96hohyNYKijed8d"
         }
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 438423,
+      "duration_ms": 438260,
       "name": "Healing",
       "url": "https://open.spotify.com/track/7I2USjkJAM5WpJ6YIfIueF"
     },
@@ -3801,6 +3801,28 @@
     },
     {
       "album": {
+        "name": "Deepyano Single Pack",
+        "url": "https://open.spotify.com/album/3crFCZualeq1PXEpS209SP"
+      },
+      "artists": [
+        {
+          "name": "Deeper Phil",
+          "url": "https://open.spotify.com/artist/1kV0CNLLylygX6XfJjt75N"
+        },
+        {
+          "name": "Djy Vino",
+          "url": "https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374736,
+      "name": "Lost in Tempo",
+      "url": "https://open.spotify.com/track/2GqmRRUOwIK48n8Al8CU97"
+    },
+    {
+      "album": {
         "name": "Lotta Luv",
         "url": "https://open.spotify.com/album/3Lgh6OFYawwvzyLVAcxngt"
       },
@@ -3816,7 +3838,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 307241,
       "name": "Lotta Luv - Radio Edit",
       "url": "https://open.spotify.com/track/31sxGZxK3x2SDZATJ9iiwv"

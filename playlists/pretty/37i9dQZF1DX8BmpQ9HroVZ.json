@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Asim Azhar",
-  "num_followers": 194741,
+  "num_followers": 194786,
   "original_name": "Hot Hits Pakistan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGZkkLe0RqVBAyamwaq+YLfnIem8",
+  "snapshot_id": "AAAAAG6u1vz6ILVRldkqd9TUKou8x14c",
   "tracks": [
     {
       "added_at": "2026-06-09 13:42:50",
@@ -59,6 +59,46 @@
       "duration_ms": 275076,
       "name": "Hum",
       "url": "https://open.spotify.com/track/7oNZfE9wnu7SP55LwNSiKG"
+    },
+    {
+      "added_at": "2026-06-09 13:42:50",
+      "album": {
+        "name": "Bermuda Triangle",
+        "url": "https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Jackpot",
+      "url": "https://open.spotify.com/track/0JOAMHwHFGKbPOwfM26fL7"
+    },
+    {
+      "added_at": "2026-06-09 13:42:50",
+      "album": {
+        "name": "Safar",
+        "url": "https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C"
+      },
+      "artists": [
+        {
+          "name": "Bayaan",
+          "url": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
+        },
+        {
+          "name": "Sherazam",
+          "url": "https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN"
+        }
+      ],
+      "duration_ms": 216922,
+      "name": "Safar",
+      "url": "https://open.spotify.com/track/51Ggv32i87ei9RYT0mkcVY"
     },
     {
       "added_at": "2026-06-09 13:42:50",
@@ -131,6 +171,34 @@
     {
       "added_at": "2026-06-09 13:42:50",
       "album": {
+        "name": "Aarzu (with Asim Azhar)",
+        "url": "https://open.spotify.com/album/51CHARUGKwnEGeitlu53fx"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm"
+        },
+        {
+          "name": "Khan",
+          "url": "https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS"
+        },
+        {
+          "name": "Madhurxo",
+          "url": "https://open.spotify.com/artist/0o5KaItv2mU6ACmRP19Qc2"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Aarzu (with Asim Azhar)",
+      "url": "https://open.spotify.com/track/1GnZH0wek1fkGCQnUsK6D0"
+    },
+    {
+      "added_at": "2026-06-09 13:42:50",
+      "album": {
         "name": "Jhol",
         "url": "https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y"
       },
@@ -199,6 +267,22 @@
       "duration_ms": 160000,
       "name": "Moves",
       "url": "https://open.spotify.com/track/53kcU6lCvTptLec1UXacaq"
+    },
+    {
+      "added_at": "2026-06-09 13:42:50",
+      "album": {
+        "name": "Sadi Sun",
+        "url": "https://open.spotify.com/album/6ZENcGCDaHcZKVL9mX4nrf"
+      },
+      "artists": [
+        {
+          "name": "Harsh Nussi",
+          "url": "https://open.spotify.com/artist/3i0OAds0OcYLQl3uuJsaKy"
+        }
+      ],
+      "duration_ms": 171041,
+      "name": "Sadi Sun",
+      "url": "https://open.spotify.com/track/2OISeKFXjDKqNm4BlWaC0w"
     },
     {
       "added_at": "2026-06-09 13:42:50",
@@ -283,34 +367,6 @@
     {
       "added_at": "2026-06-09 13:42:50",
       "album": {
-        "name": "Aarzu (with Asim Azhar)",
-        "url": "https://open.spotify.com/album/51CHARUGKwnEGeitlu53fx"
-      },
-      "artists": [
-        {
-          "name": "Asim Azhar",
-          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
-        },
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm"
-        },
-        {
-          "name": "Khan",
-          "url": "https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS"
-        },
-        {
-          "name": "Madhurxo",
-          "url": "https://open.spotify.com/artist/0o5KaItv2mU6ACmRP19Qc2"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Aarzu (with Asim Azhar)",
-      "url": "https://open.spotify.com/track/1GnZH0wek1fkGCQnUsK6D0"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
         "name": "P-POP CULTURE",
         "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
       },
@@ -347,26 +403,6 @@
       "duration_ms": 147272,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/55nrl1ScrRDCv1ORLoEMlG"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
-        "name": "Safar",
-        "url": "https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C"
-      },
-      "artists": [
-        {
-          "name": "Bayaan",
-          "url": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
-        },
-        {
-          "name": "Sherazam",
-          "url": "https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN"
-        }
-      ],
-      "duration_ms": 216922,
-      "name": "Safar",
-      "url": "https://open.spotify.com/track/51Ggv32i87ei9RYT0mkcVY"
     },
     {
       "added_at": "2026-06-09 13:42:50",
@@ -843,42 +879,6 @@
     {
       "added_at": "2026-06-09 13:42:50",
       "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
-        "name": "The Simpsons",
-        "url": "https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K"
-      },
-      "artists": [
-        {
-          "name": "Cheema Y",
-          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
-        },
-        {
-          "name": "Gur Sidhu",
-          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
-        }
-      ],
-      "duration_ms": 200258,
-      "name": "Tutor",
-      "url": "https://open.spotify.com/track/2KQBM1PYjg2ZpeA5xbTjrJ"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/7JWCWWOkIr1AFB7jxjRgQ9"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-06-09 13:42:50",
       "album": {
-        "name": "Sadi Sun",
-        "url": "https://open.spotify.com/album/6ZENcGCDaHcZKVL9mX4nrf"
-      },
-      "artists": [
-        {
-          "name": "Harsh Nussi",
-          "url": "https://open.spotify.com/artist/3i0OAds0OcYLQl3uuJsaKy"
-        }
-      ],
-      "duration_ms": 171041,
-      "name": "Sadi Sun",
-      "url": "https://open.spotify.com/track/2OISeKFXjDKqNm4BlWaC0w"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
         "name": "SARGOSHI",
         "url": "https://open.spotify.com/album/3LxvwpsXj6aX0I9St3ZAB3"
       },
@@ -1231,30 +1215,6 @@
       "duration_ms": 169090,
       "name": "NYPD",
       "url": "https://open.spotify.com/track/1wQfumpCUxZf5dwx06FSTE"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
-        "name": "FYI (For Your Information)",
-        "url": "https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf"
-      },
-      "artists": [
-        {
-          "name": "Jordan Sandhu",
-          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
-        },
-        {
-          "name": "Gur Sidhu",
-          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
-        },
-        {
-          "name": "Kaptaan",
-          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
-        }
-      ],
-      "duration_ms": 174729,
-      "name": "Banda Bamb",
-      "url": "https://open.spotify.com/track/4VzONhg2UBxyzcmOi1NFHJ"
     },
     {
       "added_at": "2026-06-09 13:42:50",
@@ -1427,26 +1387,6 @@
       "duration_ms": 162031,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
-        "name": "The Simpsons",
-        "url": "https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K"
-      },
-      "artists": [
-        {
-          "name": "Cheema Y",
-          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
-        },
-        {
-          "name": "Gur Sidhu",
-          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
-        }
-      ],
-      "duration_ms": 206707,
-      "name": "DXB",
-      "url": "https://open.spotify.com/track/17vaaGEZlUz7b7IMKyDXvy"
     },
     {
       "added_at": "2026-06-09 13:42:50",
@@ -1643,62 +1583,6 @@
     {
       "added_at": "2026-06-09 13:42:50",
       "album": {
-        "name": "Bermuda Triangle",
-        "url": "https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh"
-      },
-      "artists": [
-        {
-          "name": "Cheema Y",
-          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
-        },
-        {
-          "name": "Gur Sidhu",
-          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Jackpot",
-      "url": "https://open.spotify.com/track/0JOAMHwHFGKbPOwfM26fL7"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237344,
-      "name": "Janice STFU",
-      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
         "name": "Samjho Na",
         "url": "https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B"
       },
@@ -1843,26 +1727,6 @@
     {
       "added_at": "2026-06-09 13:42:50",
       "album": {
-        "name": "The Simpsons",
-        "url": "https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K"
-      },
-      "artists": [
-        {
-          "name": "Cheema Y",
-          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
-        },
-        {
-          "name": "Gur Sidhu",
-          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
-        }
-      ],
-      "duration_ms": 177854,
-      "name": "Farzi",
-      "url": "https://open.spotify.com/track/19G7Rxv7SMztrk4Mhpbz03"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
         "name": "Husn",
         "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
       },
@@ -1875,30 +1739,6 @@
       "duration_ms": 217894,
       "name": "Husn",
       "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
-        "name": "Bexley .Road",
-        "url": "https://open.spotify.com/album/7oF11NT8HyJ4JkZw5D7HQ9"
-      },
-      "artists": [
-        {
-          "name": "Baggh-e SMG",
-          "url": "https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu"
-        },
-        {
-          "name": "BIG KAY SMG",
-          "url": "https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G"
-        },
-        {
-          "name": "Farmaan SMG",
-          "url": "https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Bexley .Road",
-      "url": "https://open.spotify.com/track/0gHProQhPc0YQ2pDfGuIjn"
     },
     {
       "added_at": "2026-06-09 13:42:50",
@@ -1959,22 +1799,6 @@
     {
       "added_at": "2026-06-09 13:42:50",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293802,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
         "name": "Once Upon Ay Time In Mumbai Dobaara !",
         "url": "https://open.spotify.com/album/381lOukp7nV59bJS13TkPe"
       },
@@ -2011,26 +1835,6 @@
       "duration_ms": 159222,
       "name": "One Love",
       "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
-    },
-    {
-      "added_at": "2026-06-09 13:42:50",
-      "album": {
-        "name": "Top Fella",
-        "url": "https://open.spotify.com/album/2cMd5j7BCLo7xnZwVpzq3D"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Mxrci",
-          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
-        }
-      ],
-      "duration_ms": 201081,
-      "name": "Top Fella",
-      "url": "https://open.spotify.com/track/4x8JsInrhf0yWYFRpF4vRz"
     }
   ],
   "unique_name": "Hot Hits Pakistan",

@@ -2852,12 +2852,8 @@
           "url": "https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I"
         },
         {
-          "name": "Itay Simhocih",
-          "url": "https://open.spotify.com/artist/5Vi3MtvSHAOgsBLuWXuigF"
-        },
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Itay Simhovich",
+          "url": "https://open.spotify.com/artist/7aMuvoIBnkIiZFIPjSHRju"
         }
       ],
       "date_added": "2026-05-26",
@@ -6745,6 +6741,24 @@
     },
     {
       "album": {
+        "name": "QUESTUNE",
+        "url": "https://open.spotify.com/album/28tXeBd7QKwNmB0uOTUK9z"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51568,
+      "name": "Mukashi Mukashi",
+      "url": "https://open.spotify.com/track/2IuuNlktd6X1FyTu37Htzb"
+    },
+    {
+      "album": {
         "name": "EVERYDAY",
         "url": "https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi"
       },
@@ -7418,6 +7432,28 @@
       "duration_ms": 122709,
       "name": "Ocean Light (Phase 1: Prelude)",
       "url": "https://open.spotify.com/track/4lKQi60Oe2wnJk8Qrn1QHE"
+    },
+    {
+      "album": {
+        "name": "Off the Embankment",
+        "url": "https://open.spotify.com/album/0NzNBFZeue1vmE2PlLbt78"
+      },
+      "artists": [
+        {
+          "name": "Corey King",
+          "url": "https://open.spotify.com/artist/4QpFZwYNSqn212bHXtpDrc"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224693,
+      "name": "Off the Embankment",
+      "url": "https://open.spotify.com/track/24jmigSnkTCsBq5wKMGYsJ"
     },
     {
       "album": {
@@ -8116,6 +8152,28 @@
       "duration_ms": 213600,
       "name": "Raccoon",
       "url": "https://open.spotify.com/track/20ZpdLjSxQ7yAupAFQpMM7"
+    },
+    {
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/56Vm4sUP1hRYDqBA7K0hGv"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Parlato",
+          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225960,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/528pHUtcTjp4D3UxouB4CE"
     },
     {
       "album": {
@@ -11946,7 +12004,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 147000,
       "name": "\u96e8\u306b\u307b\u3069\u3051\u308b",
       "url": "https://open.spotify.com/track/23W2GyzpuPaoMYqKq4CGYa"

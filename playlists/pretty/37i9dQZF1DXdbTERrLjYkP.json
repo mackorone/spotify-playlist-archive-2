@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Lexi Jayde",
-  "num_followers": 219445,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Diva Smith",
+  "num_followers": 219461,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH/toE8DvV9aZ19zaGR3YtdPAVDM",
+  "snapshot_id": "AAAAABU09YDUlM8Y28ovnmnvByipHRvq",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:56:00",
+      "album": {
+        "name": "Sunny Surrender",
+        "url": "https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC"
+      },
+      "artists": [
+        {
+          "name": "Diva Smith",
+          "url": "https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC"
+        }
+      ],
+      "duration_ms": 201456,
+      "name": "Still The Kid",
+      "url": "https://open.spotify.com/track/7amqdTB1SWli7FsopSVUdd"
+    },
     {
       "added_at": "2026-06-05 04:01:05",
       "album": {
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/2QNhVsgY7qQ2yEu4lkhgAv"
     },
     {
+      "added_at": "2026-06-19 04:00:32",
+      "album": {
+        "name": "Luck of the Draw",
+        "url": "https://open.spotify.com/album/4Pl5OaVAIUmHmY4ExUu3Hh"
+      },
+      "artists": [
+        {
+          "name": "Madhavi Devi",
+          "url": "https://open.spotify.com/artist/0htjgBT1mgEJG1hvSOnToR"
+        }
+      ],
+      "duration_ms": 257386,
+      "name": "Baby Again",
+      "url": "https://open.spotify.com/track/3DRdm0cEIMTe8QbL63AN4b"
+    },
+    {
       "added_at": "2026-06-12 04:56:00",
       "album": {
         "name": "Come Down",
@@ -73,20 +105,20 @@
       "url": "https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6"
     },
     {
-      "added_at": "2026-06-12 04:56:00",
+      "added_at": "2026-06-19 04:00:32",
       "album": {
-        "name": "Sunny Surrender",
-        "url": "https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC"
+        "name": "rom com",
+        "url": "https://open.spotify.com/album/3EwJ3FzBGDRElfF1aqLdLE"
       },
       "artists": [
         {
-          "name": "Diva Smith",
-          "url": "https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC"
+          "name": "Sara Baroni",
+          "url": "https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq"
         }
       ],
-      "duration_ms": 201456,
-      "name": "Still The Kid",
-      "url": "https://open.spotify.com/track/7amqdTB1SWli7FsopSVUdd"
+      "duration_ms": 208920,
+      "name": "rom com",
+      "url": "https://open.spotify.com/track/621v7nXYzhMpRZwshVB0ZV"
     },
     {
       "added_at": "2026-06-12 04:56:00",
@@ -1183,38 +1215,6 @@
       "duration_ms": 200000,
       "name": "What a Woman Tastes Like",
       "url": "https://open.spotify.com/track/5MNsmiILMG66m3h5SXZHCS"
-    },
-    {
-      "added_at": "2026-02-27 05:00:35",
-      "album": {
-        "name": "Second Guesser",
-        "url": "https://open.spotify.com/album/7xg1mLZTqRlDb8dXWaW27Q"
-      },
-      "artists": [
-        {
-          "name": "Sung Holly",
-          "url": "https://open.spotify.com/artist/0z4BrD9oXnSUhUd80zLgCL"
-        }
-      ],
-      "duration_ms": 196403,
-      "name": "Second Guesser",
-      "url": "https://open.spotify.com/track/3BWpdemSWVw7MqWBoTgP61"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
-        "name": "In Love With A Ghost",
-        "url": "https://open.spotify.com/album/2HFEuad71R07xQK0WWI0eo"
-      },
-      "artists": [
-        {
-          "name": "Madhavi Devi",
-          "url": "https://open.spotify.com/artist/0htjgBT1mgEJG1hvSOnToR"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "In Love With A Ghost",
-      "url": "https://open.spotify.com/track/7xmK0BKKlAG6ifxZr99Qpc"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

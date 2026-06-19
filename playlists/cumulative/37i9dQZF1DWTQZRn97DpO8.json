@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Oscar Emch",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Nu Linh",
   "name": "le miel",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 193288,
       "name": "ANNA",
       "url": "https://open.spotify.com/track/4VEhFPbBV8a7qqFA9xoQwQ"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 155500,
       "name": "BAratin",
       "url": "https://open.spotify.com/track/7kBgw5DEkI6wp6RGyEnamF"
@@ -1518,6 +1518,24 @@
       "duration_ms": 186000,
       "name": "Chanel Pt. 2",
       "url": "https://open.spotify.com/track/7egZBEbXibU03rGh3zpqoq"
+    },
+    {
+      "album": {
+        "name": "Soleil Nomade",
+        "url": "https://open.spotify.com/album/0YZV68wXuCTYihBpUBRrRh"
+      },
+      "artists": [
+        {
+          "name": "Haz.r",
+          "url": "https://open.spotify.com/artist/27v9yUSHN9y7rMbX92unra"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173124,
+      "name": "Changer",
+      "url": "https://open.spotify.com/track/4DxrLnzLmGNVh5yPc28HZg"
     },
     {
       "album": {
@@ -2424,6 +2442,24 @@
       "duration_ms": 184918,
       "name": "Destin",
       "url": "https://open.spotify.com/track/1jcnGCQ24yHD2hbv2tFZRT"
+    },
+    {
+      "album": {
+        "name": "Destin, pt. II",
+        "url": "https://open.spotify.com/album/4NtYMlCCGFfPsukQLjHBz7"
+      },
+      "artists": [
+        {
+          "name": "ANJXLXE",
+          "url": "https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173658,
+      "name": "Destin, pt. II",
+      "url": "https://open.spotify.com/track/4cEVazPgBYvuB4SI8V7FLX"
     },
     {
       "album": {
@@ -4856,7 +4892,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 269311,
       "name": "J'voudrais",
       "url": "https://open.spotify.com/track/6ZmNhCopGcDRop90DrbaYk"
@@ -4950,7 +4986,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 172631,
       "name": "je sais",
       "url": "https://open.spotify.com/track/62XsUyT61PAc8Ou7KWvoUR"
@@ -6578,7 +6614,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 179565,
       "name": "MAUVAIS PERDANT",
       "url": "https://open.spotify.com/track/41C0GX9qYzlI1nErkHqglP"
@@ -8149,6 +8185,24 @@
     },
     {
       "album": {
+        "name": "Plus besoin de faire semblant.",
+        "url": "https://open.spotify.com/album/6YdwlxH92Sg5jasJeXTdRa"
+      },
+      "artists": [
+        {
+          "name": "Ninha",
+          "url": "https://open.spotify.com/artist/5Kgu7ezxEReIInR1o0PVy2"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "Plus besoin de faire semblant.",
+      "url": "https://open.spotify.com/track/26yZ6r1bN4IKtqiqBPaYBX"
+    },
+    {
+      "album": {
         "name": "Plus la peine",
         "url": "https://open.spotify.com/album/7exJUBfgVVkKFfrnn5eqMZ"
       },
@@ -8573,6 +8627,24 @@
     },
     {
       "album": {
+        "name": "Que de bonnes saveurs",
+        "url": "https://open.spotify.com/album/2V0yYEUSj4qSQgnP4EALnX"
+      },
+      "artists": [
+        {
+          "name": "FEEL",
+          "url": "https://open.spotify.com/artist/7Et5is6sEj6d1naU26wy14"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152183,
+      "name": "Que de bonnes saveurs",
+      "url": "https://open.spotify.com/track/74omEMX04PwNJJggax8MwS"
+    },
+    {
+      "album": {
         "name": "Que la nuit",
         "url": "https://open.spotify.com/album/389WQhjRH4tDq72Eb7MG94"
       },
@@ -8884,6 +8956,28 @@
       "duration_ms": 153230,
       "name": "Rien pour toi (Prod. Lazur)",
       "url": "https://open.spotify.com/track/7B81kQAyJ40l2946uVGPS0"
+    },
+    {
+      "album": {
+        "name": "Rock Your Body",
+        "url": "https://open.spotify.com/album/0HYKUE1flvWfA2hGcsE6jn"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9n\u00e9dicte",
+          "url": "https://open.spotify.com/artist/4dRyS2jQjd70QFlMGQ0KJT"
+        },
+        {
+          "name": "Mahery",
+          "url": "https://open.spotify.com/artist/7DPWTVD8FeArSgYN7S6qVt"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/3wOuv0YZdcV2nufy4vGMI1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 cover: Brucher\u00f2 nei pascoli",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 cover: GIIN",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -3241,6 +3241,24 @@
     },
     {
       "album": {
+        "name": "Before The Fall",
+        "url": "https://open.spotify.com/album/1QPTjSrCD7QPj0QRe0LOiv"
+      },
+      "artists": [
+        {
+          "name": "The Rumpled",
+          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191925,
+      "name": "Before The Fall",
+      "url": "https://open.spotify.com/track/09p23iHIwwU43GLgqtRaZq"
+    },
+    {
+      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/0DZu5L7eucdWhumtvK6FT9"
       },
@@ -6213,6 +6231,24 @@
     },
     {
       "album": {
+        "name": "Clairvoyant",
+        "url": "https://open.spotify.com/album/5WrtERYKrHhRnGZrMaqNiN"
+      },
+      "artists": [
+        {
+          "name": "Danxgerous",
+          "url": "https://open.spotify.com/artist/0Gt3wzw2zPVUVVAhGkeLuT"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152026,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/0eAFKzYD8bptm8F5HCm0AA"
+    },
+    {
+      "album": {
         "name": "Claudio",
         "url": "https://open.spotify.com/album/1dRqIynMDy4rKbG8mus1Tp"
       },
@@ -8212,7 +8248,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 155142,
       "name": "Dimenticare Maria",
       "url": "https://open.spotify.com/track/5q1bue3zwLf0N18K6NTLAl"
@@ -8533,6 +8569,24 @@
     },
     {
       "album": {
+        "name": "Distruggere un amore",
+        "url": "https://open.spotify.com/album/1u3BuuiOPubsgJ9vMryTZv"
+      },
+      "artists": [
+        {
+          "name": "Gloria Tricamo",
+          "url": "https://open.spotify.com/artist/58lKFq1ZTU6IH6NWkmObn0"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221306,
+      "name": "Distruggere un amore",
+      "url": "https://open.spotify.com/track/178sk2KA9TX9EgchAmGbBs"
+    },
+    {
+      "album": {
         "name": "Dita",
         "url": "https://open.spotify.com/album/7L4nu4LXtZWmNyqOGddHxp"
       },
@@ -8786,6 +8840,24 @@
       "duration_ms": 336438,
       "name": "Dolphins Touch",
       "url": "https://open.spotify.com/track/0wHE1ogEilT39UUbtlAmvV"
+    },
+    {
+      "album": {
+        "name": "Domani",
+        "url": "https://open.spotify.com/album/6l5TLAGVCABhOt3Qjr7MJ3"
+      },
+      "artists": [
+        {
+          "name": "CIMINI",
+          "url": "https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229150,
+      "name": "Domani",
+      "url": "https://open.spotify.com/track/1rP1VNE1pdjARdsoknK9YD"
     },
     {
       "album": {
@@ -12882,7 +12954,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 112603,
       "name": "Gola",
       "url": "https://open.spotify.com/track/4O5f73xAkwaocu94dvkLmQ"
@@ -14206,7 +14278,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 268400,
       "name": "I'll be different",
       "url": "https://open.spotify.com/track/3rZrKLeYRDfslSrdUa3gmV"
@@ -18132,7 +18204,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 152380,
       "name": "life is like a broadway show, new york",
       "url": "https://open.spotify.com/track/62qbMnZPBiNgqPTPm6GIh1"
@@ -19866,7 +19938,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 113045,
       "name": "MEGLIO ME CHE TE!",
       "url": "https://open.spotify.com/track/46jcFpFSDWkbnUDxBZmtpf"
@@ -20646,6 +20718,24 @@
       "duration_ms": 220303,
       "name": "Monumenti",
       "url": "https://open.spotify.com/track/0A6DGQ7wM8ZWpIhTsVSX63"
+    },
+    {
+      "album": {
+        "name": "Feral Spring",
+        "url": "https://open.spotify.com/album/4sedvaHt4hUTNokqGLkHL0"
+      },
+      "artists": [
+        {
+          "name": "ultrasaturated",
+          "url": "https://open.spotify.com/artist/5jzmHcHM6la5EEnffjdOrC"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Moor",
+      "url": "https://open.spotify.com/track/1Nlzqxn3d969FEU3I8edX1"
     },
     {
       "album": {
@@ -21644,7 +21734,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 169371,
       "name": "New Love",
       "url": "https://open.spotify.com/track/6hsHSPspOQ6XqoVkcllD2X"
@@ -22336,7 +22426,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 174580,
       "name": "non mi fido pi\u00f9",
       "url": "https://open.spotify.com/track/155zDi0W4vIu4ZB0eRMFvC"
@@ -22770,6 +22860,28 @@
       "duration_ms": 207317,
       "name": "Notti stanche",
       "url": "https://open.spotify.com/track/1cucGywqY07G5uIpzY0mz4"
+    },
+    {
+      "album": {
+        "name": "NOVE GIUGNO",
+        "url": "https://open.spotify.com/album/6SYxpexEQGTa90l0ExbpvA"
+      },
+      "artists": [
+        {
+          "name": "RIVERA",
+          "url": "https://open.spotify.com/artist/5k49BRqiNw8x7q5N6Lgwkh"
+        },
+        {
+          "name": "I miei migliori complimenti",
+          "url": "https://open.spotify.com/artist/2RGQnFO3apO0KYTG8TVevb"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223121,
+      "name": "NOVE GIUGNO",
+      "url": "https://open.spotify.com/track/4msj21meSxPticG81dcqAR"
     },
     {
       "album": {
@@ -25997,6 +26109,24 @@
     },
     {
       "album": {
+        "name": "Prima pioggia",
+        "url": "https://open.spotify.com/album/5G5cShcIutTZIY1cNBKpXM"
+      },
+      "artists": [
+        {
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215456,
+      "name": "Prima pioggia",
+      "url": "https://open.spotify.com/track/3Qmxe8yaTPz3bXIyHiZ6d3"
+    },
+    {
+      "album": {
         "name": "PRIMA VERA",
         "url": "https://open.spotify.com/album/0SuKKHLUGuGTevdJTGKkR2"
       },
@@ -27214,7 +27344,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 165190,
       "name": "RESET",
       "url": "https://open.spotify.com/track/02lNZ5TOLjfZmFTaFOMMEI"
@@ -27594,6 +27724,24 @@
       "duration_ms": 210538,
       "name": "Roma (non mi chiederai pi\u00f9)",
       "url": "https://open.spotify.com/track/33d7jB1nMIaOL0WgZLlhg4"
+    },
+    {
+      "album": {
+        "name": "Roma mi vuoi bene",
+        "url": "https://open.spotify.com/album/4lX67hqIsSGtXpyXnq4snw"
+      },
+      "artists": [
+        {
+          "name": "GIIN",
+          "url": "https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215767,
+      "name": "Roma mi vuoi bene",
+      "url": "https://open.spotify.com/track/0IivL40udxE62iThmodCYU"
     },
     {
       "album": {
@@ -30096,6 +30244,24 @@
       "duration_ms": 216000,
       "name": "Sospeso",
       "url": "https://open.spotify.com/track/1PJQQEslp4XOtqG1OEVqn9"
+    },
+    {
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/0sTIIVznvy35B7s6JrNzA0"
+      },
+      "artists": [
+        {
+          "name": "SPEAKEASY",
+          "url": "https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191688,
+      "name": "Sostanze",
+      "url": "https://open.spotify.com/track/65ZHdcNilus1K5AfQZXV18"
     },
     {
       "album": {
@@ -33368,7 +33534,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 100800,
       "name": "tremi d'estate",
       "url": "https://open.spotify.com/track/02FyMdjXubQINeipWOydNk"

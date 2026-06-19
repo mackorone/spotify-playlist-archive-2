@@ -1,12 +1,12 @@
 {
   "description": "This is Black Sabbath. The essential tracks, all in one playlist.",
-  "num_followers": 502341,
+  "num_followers": 502386,
   "original_name": "This Is Black Sabbath",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAAlKuHKbMe6bloX6CcdQ0lF",
+  "snapshot_id": "ajHjgAAAAACBzKoxGkAV60/U8lsx1gDu",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 301986,
-      "name": "Solitude - 2009 Remaster",
-      "url": "https://open.spotify.com/track/6VfoT86lDJ18YhLCDHKgEL"
+      "duration_ms": 371120,
+      "name": "Into the Void - 2009 Remaster",
+      "url": "https://open.spotify.com/track/09EQqFGUTJW6X4NksMPM0O"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 371120,
-      "name": "Into the Void - 2009 Remaster",
-      "url": "https://open.spotify.com/track/09EQqFGUTJW6X4NksMPM0O"
+      "duration_ms": 301986,
+      "name": "Solitude - 2009 Remaster",
+      "url": "https://open.spotify.com/track/6VfoT86lDJ18YhLCDHKgEL"
     },
     {
       "added_at": null,

@@ -249,6 +249,28 @@
     },
     {
       "album": {
+        "name": "Aatish",
+        "url": "https://open.spotify.com/album/1UiQTSF62IFdoOoGcW04xc"
+      },
+      "artists": [
+        {
+          "name": "Ahsan Javed",
+          "url": "https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE"
+        },
+        {
+          "name": "Usamasutra",
+          "url": "https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Aatish",
+      "url": "https://open.spotify.com/track/6bJJMam29IyvathYLst3uY"
+    },
+    {
+      "album": {
         "name": "Aazma Le",
         "url": "https://open.spotify.com/album/1q87hIrvBT7hbI1mTJdcXE"
       },
@@ -5279,7 +5301,7 @@
         },
         {
           "name": "Kami Paul",
-          "url": "https://open.spotify.com/artist/1ZkJJWLCbtjVxnXPmxqUMI"
+          "url": "https://open.spotify.com/artist/1PS9uKvAvyrgFMVZhZ20BO"
         },
         {
           "name": "Kamran Zafar Mannu",

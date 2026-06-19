@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2850,
+  "num_followers": 2851,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABrC6grVRUB3Hevkb8Chap2",
+  "snapshot_id": "ajHjgAAAAADFEkYGuZ336lw1lkYJ9Zal",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 158996,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DROOL",
         "url": "https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 169655,
       "name": "Personal Pornstar",
       "url": "https://open.spotify.com/track/6bKpTpTcQ4imWaP4uMMJmb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 158996,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr"
     },
     {
       "added_at": null,
@@ -275,18 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEAST (Let\u2019s Eat Yuh Yuh)",
-        "url": "https://open.spotify.com/album/6AaZk65wZdhu7GtKTM9dPx"
+        "name": "BOYS BOYS BOYS",
+        "url": "https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8"
       },
       "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        },
         {
           "name": "bludnymph",
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 159069,
-      "name": "Incognito",
-      "url": "https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB"
+      "duration_ms": 130095,
+      "name": "BOYS BOYS BOYS",
+      "url": "https://open.spotify.com/track/1b5mWKFDR33vyOFrUwBWQw"
     },
     {
       "added_at": null,
@@ -307,22 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOYS BOYS BOYS",
-        "url": "https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8"
+        "name": "FEAST (Let\u2019s Eat Yuh Yuh)",
+        "url": "https://open.spotify.com/album/6AaZk65wZdhu7GtKTM9dPx"
       },
       "artists": [
-        {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
-        },
         {
           "name": "bludnymph",
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 130095,
-      "name": "BOYS BOYS BOYS",
-      "url": "https://open.spotify.com/track/1b5mWKFDR33vyOFrUwBWQw"
+      "duration_ms": 159069,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB"
     },
     {
       "added_at": null,

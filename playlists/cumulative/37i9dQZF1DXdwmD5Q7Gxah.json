@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "meet After Louise  \ud83e\udee7\ud83e\udee7\ud83e\udee7",
+  "description": "Q on the cover \ud83d\udcab\ud83d\udcab\ud83d\udcab",
   "name": "Lorem",
   "tracks": [
     {
@@ -13713,6 +13713,28 @@
     },
     {
       "album": {
+        "name": "CONSTANTLY",
+        "url": "https://open.spotify.com/album/213P10SLkkkRltYI9bbh2V"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        },
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182368,
+      "name": "CONSTANTLY",
+      "url": "https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY"
+    },
+    {
+      "album": {
         "name": "L.U.J.I.",
         "url": "https://open.spotify.com/album/1FX487jhlnh6GvIhhCK6yM"
       },
@@ -14324,7 +14346,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 290000,
       "name": "crumble",
       "url": "https://open.spotify.com/track/2QxtLq8tLbq696srRS45J4"
@@ -16602,7 +16624,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 183654,
       "name": "Do That Again",
       "url": "https://open.spotify.com/track/4Dopg5XLw6JHlaqHHHYe0l"
@@ -17008,7 +17030,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 285634,
       "name": "DON'T BE DUMB / TRIP BABY",
       "url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
@@ -18378,7 +18400,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170213,
       "name": "Dust in the Wind",
       "url": "https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0"
@@ -21954,7 +21976,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 160870,
       "name": "fml .",
       "url": "https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue"
@@ -27457,6 +27479,24 @@
     },
     {
       "album": {
+        "name": "hey there [i have a compulsive complex]",
+        "url": "https://open.spotify.com/album/4hJczqZb7VUIigRIp8utjA"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173570,
+      "name": "hey there [i have a compulsive complex]",
+      "url": "https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS"
+    },
+    {
+      "album": {
         "name": "Hey You",
         "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
       },
@@ -30580,7 +30620,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 189569,
       "name": "I Saw Your Face",
       "url": "https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx"
@@ -38883,6 +38923,24 @@
     },
     {
       "album": {
+        "name": "Do That Again",
+        "url": "https://open.spotify.com/album/0nqsPuGO0iEl4MRWwjhWF2"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158693,
+      "name": "Malcolm In The Middle",
+      "url": "https://open.spotify.com/track/0JeAKH2DCIgCCrZ9qBGthg"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -43410,7 +43468,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 174740,
       "name": "NO LOLITA SH!T - EDIT",
       "url": "https://open.spotify.com/track/0bppglsr8SfwaYt1FI4L4v"
@@ -50622,7 +50680,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 186616,
       "name": "ROCCO",
       "url": "https://open.spotify.com/track/1QAulqNUI1RBfBco1PxqXv"
@@ -61974,7 +62032,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
@@ -65168,6 +65226,24 @@
       "duration_ms": 96838,
       "name": "two weeks (and i miss you)",
       "url": "https://open.spotify.com/track/2cqfTDvCy4v6DIF0wDoWeG"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "u + me = <3",
+      "url": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW"
     },
     {
       "album": {
@@ -69517,6 +69593,24 @@
     },
     {
       "album": {
+        "name": "WOMAN, MY LADY",
+        "url": "https://open.spotify.com/album/6ZI3sHthdaVKKfCt4uzZir"
+      },
+      "artists": [
+        {
+          "name": "Carver Jones",
+          "url": "https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177937,
+      "name": "WOMAN, MY LADY",
+      "url": "https://open.spotify.com/track/2hHuCTQCKMAMmNGT6nnlee"
+    },
+    {
+      "album": {
         "name": "Won't Give Up",
         "url": "https://open.spotify.com/album/0ZlAgFug8p4lNkliTNX1OI"
       },
@@ -70370,7 +70464,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 167272,
       "name": "You Could Have It",
       "url": "https://open.spotify.com/track/2ndh30vZhrfL0Zpq8wRbvl"

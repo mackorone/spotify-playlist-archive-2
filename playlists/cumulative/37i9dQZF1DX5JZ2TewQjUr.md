@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: MIDNIGHT COWBOY
 
-1,693 songs - 3 day 23 hr 46 min
+1,696 songs - 3 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1128,6 +1128,7 @@
 | [一圈](https://open.spotify.com/track/0euVgrqM2KLX4MF3AI3OR9) | [HLau](https://open.spotify.com/artist/7qLp47GBWXHfOnXFhVBMiJ) | [一圈](https://open.spotify.com/album/04v5MzEvR5kcChMMClQHkY) | 3:58 | 2022-05-26 | 2022-06-10 |
 | [一小節人生 \(All in One版本\)](https://open.spotify.com/track/7rI1kprxWhRIYwznrw6Ogs) | [SENZA A Cappella](https://open.spotify.com/artist/2CQcJ2puP32r60KacgJdyW) | [一小節人生 \(All in One版本\)](https://open.spotify.com/album/1VrTm7fF5MDYvIvkL28NGA) | 4:18 | 2024-01-05 | 2024-05-10 |
 | [一年容易又聖誕](https://open.spotify.com/track/1Yt2XLeuZfIupWtmNff68h) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [一年容易又聖誕](https://open.spotify.com/album/619egKEGgQmGuq2zvrTVmm) | 3:19 | 2024-12-12 | 2025-02-14 |
+| [一廂情願 \(feat\. 廖子妤\) \- 改編自《夜王》電影音樂](https://open.spotify.com/track/1gsRlBtE7QvkmFk2l6dQnF) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT), [廖子妤](https://open.spotify.com/artist/5qlNHZEXD7phpCj52GQSuz) | [一廂情願 \(feat\. 廖子妤\) \[改編自《夜王》電影音樂\]](https://open.spotify.com/album/36Sncl0jBooZsNV5fJQ9Zl) | 4:39 | 2026-06-18 |  |
 | [七姊妹星團](https://open.spotify.com/track/46ijStQoqmP8sHxF4oC10x) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [七姊妹星團](https://open.spotify.com/album/0KUeT2hHz8GFbLXT4Yfd5F) | 3:20 | 2023-01-19 | 2023-05-26 |
 | [三人床](https://open.spotify.com/track/6JQlVBfOTkF0yOTAnEB9Tn) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [三人床](https://open.spotify.com/album/0n60Y3MGspMfn4IygCnFyL) | 2:40 | 2023-05-04 | 2023-09-01 |
 | [三分尷](https://open.spotify.com/track/7nwnpNbVF1mTBySRn0TAVl) | [MIU 李頌仁](https://open.spotify.com/artist/6EpwnhZS4pMpAbeDi9lPWw), [NTopic](https://open.spotify.com/artist/3MUbd9Eo7TQznhqjzxSVuQ) | [三分尷](https://open.spotify.com/album/7sc58wWasTsLVIaG8CVTE5) | 3:33 | 2024-12-12 | 2025-03-14 |
@@ -1272,6 +1273,7 @@
 | [回溯](https://open.spotify.com/track/2m4i5ReW4teN71ReCCP9DS) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [回溯](https://open.spotify.com/album/03Qmy5tAGD81CzEJWgEwh6) | 4:26 | 2026-01-02 | 2026-05-22 |
 | [土撥鼠之日](https://open.spotify.com/track/1WOGWWiU4vw88sjuw6TYxy) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [土撥鼠之日](https://open.spotify.com/album/0menm8q2ZCWDw6eK6qhAul) | 3:18 | 2022-06-30 | 2022-11-04 |
 | [在下一陣風來之前](https://open.spotify.com/track/6l17A7oYVPcQCESCD9aORl) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [在下一陣風來之前](https://open.spotify.com/album/0JR5nVUM1yR6AnMT6oFleD) | 3:46 | 2025-08-28 | 2025-11-21 |
+| [在兩個心中間坐下 Two Worlds \(feat\. Ivana Wong\)](https://open.spotify.com/track/1TZBNT3sqxVCBNr7g0lTti) | [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5), [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [在兩個心中間坐下 Two Worlds](https://open.spotify.com/album/3T1evDXqRxEMVOe7NXMU2o) | 4:12 | 2026-06-18 |  |
 | [在憂鬱的熱帶](https://open.spotify.com/track/1USIBsCwsHlRNlddUWhLC3) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [在憂鬱的熱帶](https://open.spotify.com/album/0hZUeIpNSBw7mjoZLDkzeW) | 3:46 | 2025-02-27 | 2025-07-11 |
 | [在觀濱中出錯](https://open.spotify.com/track/1M2JjyXzqjqmYBR0wXY4qG) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [在觀濱中出錯](https://open.spotify.com/album/1x5iaF3JE0TRqxM72STrzG) | 4:01 | 2025-04-17 | 2025-08-01 |
 | [在錯誤的宇宙談戀愛](https://open.spotify.com/track/6yOYLtn7n1VE3uiOrE6I3c) | [SULIS](https://open.spotify.com/artist/341jDjLcWdN0Xt9TCkhsv3) | [在錯誤的宇宙談戀愛](https://open.spotify.com/album/2t8wTxHWq34BlYSSRHWKPc) | 3:23 | 2025-10-02 | 2026-02-27 |
@@ -1621,6 +1623,7 @@
 | [西方極樂](https://open.spotify.com/track/1BaWtTnOgSXSEaDzpFTU2p) | [Rawtrack](https://open.spotify.com/artist/2rtmiGX447uwtb0bcQ5bDE) | [西方極樂](https://open.spotify.com/album/1ZsJDmzCevkMRPZFs5NiXa) | 4:06 | 2022-06-30 | 2022-09-09 |
 | [要怎麼書寫](https://open.spotify.com/track/04lt7lHdDr1rrY4WclNxTp) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [如是我聞](https://open.spotify.com/album/65XUM0Ky3AYlOoLC62l1Du) | 2:29 | 2022-08-04 | 2022-11-04 |
 | [要還](https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [要還](https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai) | 3:34 | 2026-04-30 |  |
+| [說真的](https://open.spotify.com/track/5lImeKcFuPcoBGDLkUYgwC) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [說真的](https://open.spotify.com/album/3oFHKTGnyVz9qsi3swiBVj) | 3:50 | 2026-06-18 |  |
 | [誰不想當個chill人](https://open.spotify.com/track/1TtD7fk1GDIokj7qboMPAn) | [NatS](https://open.spotify.com/artist/367T9M6uiP4jr6u5DtMD1l) | [誰不想當個chill人](https://open.spotify.com/album/2gD4dEyvAPwowxvJ0kckYA) | 1:58 | 2025-01-16 | 2025-03-14 |
 | [談戀愛甚麽時候變成一場比賽](https://open.spotify.com/track/2S0jex9nwUk6rRB0kByFjL) | [Nj Ho](https://open.spotify.com/artist/25GIEfY5XJejZgXcfvtj7m) | [談戀愛甚麽時候變成一場比賽](https://open.spotify.com/album/7FTK6VQCBzjwapvrZFU931) | 2:56 | 2022-08-04 | 2022-11-04 |
 | [諗太多 \(feat\. J Jelly\)](https://open.spotify.com/track/6hF82nlk9cWSLoVjFI03Lk) | [Lay\-zG](https://open.spotify.com/artist/4NH6YkxBQW8mfgNLPwnzgE), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [諗太多 \(feat\. J Jelly\)](https://open.spotify.com/album/6fDzgjIEm3ewE7SU8Dy2zd) | 3:08 | 2023-01-05 | 2023-05-26 |

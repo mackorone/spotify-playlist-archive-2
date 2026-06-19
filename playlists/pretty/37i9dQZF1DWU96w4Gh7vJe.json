@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 575732,
+  "num_followers": 575713,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-06-15 08:25:52",
       "album": {
-        "name": "Patutunguhan",
-        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Patutunguhan",
-      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
-    },
-    {
-      "added_at": "2026-06-15 08:25:52",
-      "album": {
         "name": "Panata",
         "url": "https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 275893,
       "name": "Panata",
       "url": "https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ"
+    },
+    {
+      "added_at": "2026-06-15 08:25:52",
+      "album": {
+        "name": "Patutunguhan",
+        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Patutunguhan",
+      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
     },
     {
       "added_at": "2026-06-15 08:25:52",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-06-15 08:25:52",
       "album": {
-        "name": "Fictions You Produce",
-        "url": "https://open.spotify.com/album/1XnZLallUu8u13vepIfW35"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT"
-    },
-    {
-      "added_at": "2026-06-15 08:25:52",
-      "album": {
         "name": "baka bukas",
         "url": "https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 207558,
       "name": "baka bukas",
       "url": "https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X"
+    },
+    {
+      "added_at": "2026-06-15 08:25:52",
+      "album": {
+        "name": "Fictions You Produce",
+        "url": "https://open.spotify.com/album/1XnZLallUu8u13vepIfW35"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 198688,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT"
     },
     {
       "added_at": "2026-06-15 08:25:52",

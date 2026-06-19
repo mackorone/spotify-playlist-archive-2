@@ -9571,6 +9571,24 @@
     },
     {
       "album": {
+        "name": "Gato",
+        "url": "https://open.spotify.com/album/413BLQ4l5raJnILLe7QBfm"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178863,
+      "name": "Gato",
+      "url": "https://open.spotify.com/track/33b2F8s13zZuNEM5x7sE7y"
+    },
+    {
+      "album": {
         "name": "Gato de Noche",
         "url": "https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH"
       },
@@ -15119,6 +15137,28 @@
     },
     {
       "album": {
+        "name": "M\u00cdA",
+        "url": "https://open.spotify.com/album/4yRpuHZBILhQLHsFmoIDSG"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Martin Vegas",
+          "url": "https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "M\u00cdA",
+      "url": "https://open.spotify.com/track/79XRfEseZUgGESo8zfDn2b"
+    },
+    {
+      "album": {
         "name": "M\u00eda",
         "url": "https://open.spotify.com/album/1MYX005RfZStIOvkSNElu4"
       },
@@ -18861,6 +18901,40 @@
     },
     {
       "album": {
+        "name": "Pu\u00f1aladas (Remix)",
+        "url": "https://open.spotify.com/album/4PoBGDfAuUZXpWBj1cc8Tz"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "Tote",
+          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206440,
+      "name": "Pu\u00f1aladas - Remix",
+      "url": "https://open.spotify.com/track/37A4xk6GFrKZY1X71NYwMR"
+    },
+    {
+      "album": {
         "name": "P\u00c9GATE",
         "url": "https://open.spotify.com/album/1FSiNmVh42DRSWKWm0jrYB"
       },
@@ -20058,7 +20132,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 245469,
       "name": "ROSITA",
       "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
@@ -20630,6 +20704,28 @@
       "duration_ms": 193006,
       "name": "SENTIMIENTO NATURAL",
       "url": "https://open.spotify.com/track/1uE2MpryIKEUZuGhSipqQG"
+    },
+    {
+      "album": {
+        "name": "Serenata del 900 (Casa Sole)",
+        "url": "https://open.spotify.com/album/3LCqfj3XyKijkaGuF0bgoV"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193897,
+      "name": "Serenata del 900 (Casa Sole)",
+      "url": "https://open.spotify.com/track/5lxmxVVKufdAcM2Jn5pdlB"
     },
     {
       "album": {
@@ -22028,7 +22124,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 199237,
       "name": "Tan Dif\u00edcil",
       "url": "https://open.spotify.com/track/1H53Jd1J6SVUyuQFN5qhx2"
@@ -22316,7 +22412,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 176703,
       "name": "Te Elijo",
       "url": "https://open.spotify.com/track/032PZ5jBJYvzt8nPry49Ml"
@@ -22816,7 +22912,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 184365,
       "name": "TERMINA EL VERANO",
       "url": "https://open.spotify.com/track/2AvxgWxUzNaym9kjtHoqRW"

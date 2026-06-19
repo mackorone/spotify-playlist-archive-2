@@ -16199,6 +16199,28 @@
     },
     {
       "album": {
+        "name": "Layderr",
+        "url": "https://open.spotify.com/album/6cVMRyxRpR9urenwXrCk5m"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197368,
+      "name": "Layderr",
+      "url": "https://open.spotify.com/track/6ozLyXlZLt4trWme02M1ro"
+    },
+    {
+      "album": {
         "name": "Leadbelly (feat. MIKE)",
         "url": "https://open.spotify.com/album/3y6xpGcglPjbrpUZAMymiI"
       },

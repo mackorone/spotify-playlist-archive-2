@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 250165,
+  "num_followers": 250192,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAABTZIOgZbLUnQYNoEA0yr40",
+  "snapshot_id": "ajHjgAAAAACKG1BdI6sN5aijWSrIQDJn",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saca, Prende Y Sorprende",
-        "url": "https://open.spotify.com/album/1j5ncEpkM28aRKhD9vwXk0"
+        "name": "En bucle",
+        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 357619,
-      "name": "Saca, Prende Y Sorprende",
-      "url": "https://open.spotify.com/track/2VrXIFhpTneKQdwJh8indx"
+      "duration_ms": 270667,
+      "name": "Camanance",
+      "url": "https://open.spotify.com/track/1lzGMdapyGsGfSbs0a4wpx"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En bucle",
-        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
+        "name": "Saca, Prende Y Sorprende",
+        "url": "https://open.spotify.com/album/1j5ncEpkM28aRKhD9vwXk0"
       },
       "artists": [
         {
@@ -196,25 +196,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 270667,
-      "name": "Camanance",
-      "url": "https://open.spotify.com/track/1lzGMdapyGsGfSbs0a4wpx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 349226,
-      "name": "Ritmo Que Pesa",
-      "url": "https://open.spotify.com/track/2FSpiaFpqmCNnC7IPr1TAy"
+      "duration_ms": 357619,
+      "name": "Saca, Prende Y Sorprende",
+      "url": "https://open.spotify.com/track/2VrXIFhpTneKQdwJh8indx"
     },
     {
       "added_at": null,
@@ -239,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En bucle",
+        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 311948,
+      "name": "Bruna",
+      "url": "https://open.spotify.com/track/57Hf5X5PUakkYnJjIEletG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ"
       },
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En bucle",
-        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 311948,
-      "name": "Bruna",
-      "url": "https://open.spotify.com/track/57Hf5X5PUakkYnJjIEletG"
+      "duration_ms": 349226,
+      "name": "Ritmo Que Pesa",
+      "url": "https://open.spotify.com/track/2FSpiaFpqmCNnC7IPr1TAy"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendito Vicio",
-        "url": "https://open.spotify.com/album/01IslxV0ythFtzyAhQsWRQ"
+        "name": "En bucle",
+        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 271285,
-      "name": "Bendito Vicio",
-      "url": "https://open.spotify.com/track/03pzxEy3IkfZgYRWKRTOT3"
+      "duration_ms": 316026,
+      "name": "En bucle",
+      "url": "https://open.spotify.com/track/6Fclh8eoItr2T0QulGtZyO"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En bucle",
-        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
+        "name": "Bendito Vicio",
+        "url": "https://open.spotify.com/album/01IslxV0ythFtzyAhQsWRQ"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 316026,
-      "name": "En bucle",
-      "url": "https://open.spotify.com/track/6Fclh8eoItr2T0QulGtZyO"
+      "duration_ms": 271285,
+      "name": "Bendito Vicio",
+      "url": "https://open.spotify.com/track/03pzxEy3IkfZgYRWKRTOT3"
     },
     {
       "added_at": null,
@@ -351,6 +351,38 @@
       "duration_ms": 250347,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/46kTKtI83CZZfGadbVe9Cu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En bucle",
+        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 245003,
+      "name": "Hacer volar la casa",
+      "url": "https://open.spotify.com/track/2kjQNYDcxL5fA3S2tEzygu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 171536,
+      "name": "Me Faltabas T\u00fa",
+      "url": "https://open.spotify.com/track/7kuICQNYqWwhN9elL39HVu"
     },
     {
       "added_at": null,
@@ -375,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ"
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
       },
       "artists": [
         {
@@ -384,9 +416,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 171536,
-      "name": "Me Faltabas T\u00fa",
-      "url": "https://open.spotify.com/track/7kuICQNYqWwhN9elL39HVu"
+      "duration_ms": 281760,
+      "name": "Sube el Humo",
+      "url": "https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs"
     },
     {
       "added_at": null,
@@ -400,25 +432,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 245003,
-      "name": "Hacer volar la casa",
-      "url": "https://open.spotify.com/track/2kjQNYDcxL5fA3S2tEzygu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "Sube el Humo",
-      "url": "https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs"
+      "duration_ms": 36466,
+      "name": "Ella era...",
+      "url": "https://open.spotify.com/track/4Bc97x5py5pwMrS8dlBJx3"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En bucle",
-        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 36466,
-      "name": "Ella era...",
-      "url": "https://open.spotify.com/track/4Bc97x5py5pwMrS8dlBJx3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M. O. T. A.",
         "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
       },
@@ -483,6 +483,26 @@
       "duration_ms": 248533,
       "name": "La Noche Vibra",
       "url": "https://open.spotify.com/track/04LV5ZhMdkFJqvGtITa62B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En bucle",
+        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 276445,
+      "name": "Malherido",
+      "url": "https://open.spotify.com/track/1yFC4LX61Ur3Lw8peefrIO"
     },
     {
       "added_at": null,
@@ -515,26 +535,6 @@
       "duration_ms": 287160,
       "name": "Inspiraci\u00f3n",
       "url": "https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En bucle",
-        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        },
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 276445,
-      "name": "Malherido",
-      "url": "https://open.spotify.com/track/1yFC4LX61Ur3Lw8peefrIO"
     },
     {
       "added_at": null,

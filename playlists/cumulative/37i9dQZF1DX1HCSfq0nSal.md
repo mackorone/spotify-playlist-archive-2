@@ -2,9 +2,9 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Jay Wheeler
+> Si está pegao, está aquí\. Feat\. SAIKO
 
-969 songs - 2 day 5 hr 23 min
+970 songs - 2 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -612,7 +612,7 @@
 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 | 2025-04-04 | 2025-05-20 |
 | [Nueva Era](https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:37 | 2024-10-30 | 2024-12-03 |
 | [Nueva York \(Tot\*\)](https://open.spotify.com/track/1z5TNHJ4WP2ftKhRpqdoNY) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Nueva York \(Tot\*\)](https://open.spotify.com/album/1cuxNNdmQkoeqB9Kkj5nUE) | 2:34 | 2022-01-07 | 2022-01-17 |
-| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-05 |  |
+| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-05 | 2026-06-19 |
 | [NUEVOS DEALS](https://open.spotify.com/track/1fzz6tY24xwQFzZ9VX9qtz) | [West Srk](https://open.spotify.com/artist/0M0cPEB7uDiRRc22XtyRBZ) | [NUEVOS DEALS](https://open.spotify.com/album/77GNHOhecVF6BboLvUzmSk) | 2:38 | 2025-10-14 | 2025-10-28 |
 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-04-13 | 2022-07-19 |
 | [NYX00 \(with JC Reyes\)](https://open.spotify.com/track/0FI11LoJ41qud3TkFEYlzI) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [NYX00 \(with JC Reyes\)](https://open.spotify.com/album/76vkxtGwUplBS3sW3doHK8) | 3:00 | 2026-03-02 |  |
@@ -648,6 +648,7 @@
 | [PASIEMPRE](https://open.spotify.com/track/5NhLA2P7AiV3cloVmwtwLS) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 5:55 | 2023-06-30 | 2023-08-22 |
 | [PASIEMPRE](https://open.spotify.com/track/6hx3WBzrRdG4s8eug9t88Y) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [DATA LOADING.](https://open.spotify.com/album/5cA7Tiks5AezakVn0yQvzh) | 5:43 | 2023-05-25 | 2023-05-27 |
 | [Passoa](https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Passoa](https://open.spotify.com/album/1QdorKXV1OSPA0oDaMdYQD) | 5:09 | 2024-08-08 | 2024-11-23 |
+| [PaToLasGyales](https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [LOS ANGELITOS](https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5) | 3:38 | 2026-06-18 |  |
 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 | 2022-01-17 | 2022-03-23 |
 | [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 | 2024-08-12 | 2024-10-22 |
 | [PEPESOUP](https://open.spotify.com/track/40XkTQH8oa1w1oN3Fd2FFG) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [PEPESOUP](https://open.spotify.com/album/3Ou140lgFXmZ5MRAEMedgB) | 3:07 | 2025-02-17 | 2025-05-20 |

@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Vanessa Bell Armstrong, Rev\. Milton Brunson, Daryl Coley and more
+> With Vickie Winans, Daryl Coley, Vanessa Bell Armstrong and more
 
 2,007 songs - 6 day 11 hr 17 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Felipe e Rodrigo",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Guilherme & Benuto, Panda",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -2702,6 +2702,24 @@
       "duration_ms": 115955,
       "name": "Era Sol Que Me Faltava",
       "url": "https://open.spotify.com/track/2M6M1f5SVQqamxeyItWZxo"
+    },
+    {
+      "album": {
+        "name": "Errado o Triplo (\u00d4h Perigo) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1lFXn6R4fhKWgcL950Z3Dt"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157358,
+      "name": "Errado o Triplo (\u00d4h Perigo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4TvVqX9HOMTvDJXYHxHbq7"
     },
     {
       "album": {
@@ -7169,6 +7187,24 @@
     },
     {
       "album": {
+        "name": "Carnaval dos Cuiudos",
+        "url": "https://open.spotify.com/album/3aQAEqR3xfEZNwnwcpRHF7"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Barretto",
+          "url": "https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129515,
+      "name": "Texana 37",
+      "url": "https://open.spotify.com/track/6D0SGjUVUmu8Fp2y1QsFIK"
+    },
+    {
+      "album": {
         "name": "Todo Mundo Menos Eu (Ao Vivo)",
         "url": "https://open.spotify.com/album/50swQR5HVBhgawCQSyUSrK"
       },
@@ -7536,7 +7572,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 136367,
       "name": "Vacilona - Ao Vivo",
       "url": "https://open.spotify.com/track/0EfOfW72dE43humkvijiYq"

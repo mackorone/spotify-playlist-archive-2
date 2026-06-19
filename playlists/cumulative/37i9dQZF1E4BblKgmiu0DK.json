@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Tssara, Crimson ValkyRies, Die Mannequin and more",
+  "description": "With Crimson ValkyRies, Tssara, Die Mannequin and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 188840,
       "name": "BITCH",
       "url": "https://open.spotify.com/track/02t0123SAS76lOYc3WGRc9"
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 103359,
       "name": "Bruv, Skyline Ruckus",
       "url": "https://open.spotify.com/track/3rkTZkhoOA7fQgwpqnmwva"
@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 211533,
       "name": "Don't Break Me Down",
       "url": "https://open.spotify.com/track/7g5tIBg1W2ySyFeds4Iurv"
@@ -2872,7 +2872,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 130245,
       "name": "Gravity Falls",
       "url": "https://open.spotify.com/track/2JtKoVYwMlmNsrhHZXyzCi"
@@ -3708,7 +3708,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 173440,
       "name": "Have You No Pride",
       "url": "https://open.spotify.com/track/6hyawvI37HZdXkvDbAKLjv"
@@ -4270,7 +4270,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 162124,
       "name": "I Can't",
       "url": "https://open.spotify.com/track/3LE634W6PeNFqwztYMpnpQ"
@@ -4624,7 +4624,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 205799,
       "name": "Inner War",
       "url": "https://open.spotify.com/track/02FQAkM1fv8LPwkja6vG0x"
@@ -4678,7 +4678,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -4974,7 +4974,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -6142,7 +6142,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -6942,7 +6942,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 173171,
       "name": "OPPosites",
       "url": "https://open.spotify.com/track/138wnhAVUNf2jxm1lpd5xb"
@@ -6978,7 +6978,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 167200,
       "name": "Out of My Hands",
       "url": "https://open.spotify.com/track/4JoogJiCunKKv7bgl8fMP6"
@@ -7014,7 +7014,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 235500,
       "name": "Overstay",
       "url": "https://open.spotify.com/track/7rkUaIzyuus22wvR6hRITA"
@@ -7684,7 +7684,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 175786,
       "name": "Sacrificial Lamb",
       "url": "https://open.spotify.com/track/5drW7JCdJyqCOAC3d7RVJE"
@@ -8084,7 +8084,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 193899,
       "name": "So What",
       "url": "https://open.spotify.com/track/17mDkw99uAJnjFOXeDuLbE"
@@ -8228,7 +8228,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -8650,7 +8650,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 166136,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/6bz4qMWZrodFwDkcLUu0i9"
@@ -8668,7 +8668,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 200333,
       "name": "The Other Tiffany",
       "url": "https://open.spotify.com/track/0QNkibueS48C3DR6o9PqOi"
@@ -9180,7 +9180,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 234640,
       "name": "Upside Down Cross",
       "url": "https://open.spotify.com/track/0lM3X9CdTPbL5B7wnFsBs8"
@@ -9940,7 +9940,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 251000,
       "name": "\u30cf\u30fc\u30c8\u30fb\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/5x70Av2pxGX2ac5cLxbChu"

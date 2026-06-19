@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Sofie Royer",
+  "description": "New music off the beaten track. Cover: Clean Bandit, Biig Piig",
   "name": "OFF POP",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 317613,
       "name": "5words",
       "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -2656,6 +2656,24 @@
       "duration_ms": 153473,
       "name": "Black Pegasus",
       "url": "https://open.spotify.com/track/0Zx8UHVhUqjuDHoW9khZla"
+    },
+    {
+      "album": {
+        "name": "Black Techno Guy",
+        "url": "https://open.spotify.com/album/3OO4Kb2Iw1qljp75qXh3hF"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180586,
+      "name": "Black Techno Guy",
+      "url": "https://open.spotify.com/track/0GQ7Xh6mfh71Q0Az8sg3LT"
     },
     {
       "album": {
@@ -5470,7 +5488,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 206028,
       "name": "Death of Love",
       "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
@@ -6044,6 +6062,28 @@
       "duration_ms": 355021,
       "name": "Do It Again - Joplyn Remix",
       "url": "https://open.spotify.com/track/4QCc8Xdf206DvaXBgUzGuf"
+    },
+    {
+      "album": {
+        "name": "do it for the plot",
+        "url": "https://open.spotify.com/album/6dhgGDHp0iBo2w72uHG4G5"
+      },
+      "artists": [
+        {
+          "name": "Josi Miller",
+          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
+        },
+        {
+          "name": "Mulay",
+          "url": "https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148611,
+      "name": "do it for the plot",
+      "url": "https://open.spotify.com/track/4yUNvSK5PBu2L0qa3315Xv"
     },
     {
       "album": {
@@ -7962,6 +8002,28 @@
       "duration_ms": 276662,
       "name": "Fallen Cloud",
       "url": "https://open.spotify.com/track/2eYz2ZEoHun4Lepj7nBM3S"
+    },
+    {
+      "album": {
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/4K9rfx9YiUfGvCV4qLtdd5"
+      },
+      "artists": [
+        {
+          "name": "Plaisance",
+          "url": "https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu"
+        },
+        {
+          "name": "MATTII",
+          "url": "https://open.spotify.com/artist/1tCd8DCTFUYDclgcwuL1A6"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187223,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/7G7CE9KCxDS3QNO7f9tp8T"
     },
     {
       "album": {
@@ -9962,7 +10024,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 284745,
       "name": "Golden Gallows",
       "url": "https://open.spotify.com/track/1yaZAY2LyK4sH0PVr1cxcm"
@@ -12117,6 +12179,28 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna Hurt You",
+        "url": "https://open.spotify.com/album/6WHYJdxXL7sK9NDBLxOUMV"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185610,
+      "name": "I Don't Wanna Hurt You",
+      "url": "https://open.spotify.com/track/6untI22mqrOtoK6EYkm1yY"
+    },
+    {
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -13294,7 +13378,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 227116,
       "name": "inside.",
       "url": "https://open.spotify.com/track/7yM3fKmkliSikJJQIQ0RhS"
@@ -13842,6 +13926,24 @@
       "duration_ms": 175923,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy"
+    },
+    {
+      "album": {
+        "name": "Cry With Us",
+        "url": "https://open.spotify.com/album/7hnRtt8Z3jckrMwCaOJVMe"
+      },
+      "artists": [
+        {
+          "name": "JANIS",
+          "url": "https://open.spotify.com/artist/6yUYZsMTveUZ8yo8wsKSLN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273030,
+      "name": "Janis",
+      "url": "https://open.spotify.com/track/52uobAwbP5In7cc0NV677y"
     },
     {
       "album": {
@@ -15156,6 +15258,24 @@
       "duration_ms": 290680,
       "name": "Lettre \u00e0 France",
       "url": "https://open.spotify.com/track/7wOv0Qd3aKaDEw0QplvJzl"
+    },
+    {
+      "album": {
+        "name": "Leviathan",
+        "url": "https://open.spotify.com/album/41f1PgklBN9dmuc3FHfobl"
+      },
+      "artists": [
+        {
+          "name": "Hunter As a Horse",
+          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181928,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/5aszFyUeoKHAI4FxaQ7lPy"
     },
     {
       "album": {
@@ -22106,7 +22226,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 199488,
       "name": "Satisfaction Skank",
       "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
@@ -23040,7 +23160,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 137000,
       "name": "Show Business",
       "url": "https://open.spotify.com/track/4bGI8XDVLPMpsP0mMqeBuS"
@@ -23761,6 +23881,24 @@
     },
     {
       "album": {
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/7qiunvS3PiQqGpMJaZ21ck"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351660,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/62AUvcUNiVPQnAemsRXbJ3"
+    },
+    {
+      "album": {
         "name": "Solid",
         "url": "https://open.spotify.com/album/4eRtgOsveRqHt8wAZXQI1E"
       },
@@ -24438,6 +24576,24 @@
       "duration_ms": 225849,
       "name": "Stellar",
       "url": "https://open.spotify.com/track/2Go5FfwZeqUPW3OnmPdmPN"
+    },
+    {
+      "album": {
+        "name": "Stereo Dream",
+        "url": "https://open.spotify.com/album/0deWUTQo0S8n5OWmYcshbB"
+      },
+      "artists": [
+        {
+          "name": "Leon Blane",
+          "url": "https://open.spotify.com/artist/2TG1F0M1xO9SkvnjeQkzgu"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182574,
+      "name": "Stereo Dream",
+      "url": "https://open.spotify.com/track/3JjzlOrfqzgdJuTLvK3BPr"
     },
     {
       "album": {
@@ -25572,7 +25728,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 220731,
       "name": "Talk It Over - Kirecko Remix",
       "url": "https://open.spotify.com/track/64BNu0l4Lr5sgOg9GGAK2V"
@@ -26578,7 +26734,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 338120,
       "name": "THE THING",
       "url": "https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j"
@@ -30568,6 +30724,32 @@
       "duration_ms": 410410,
       "name": "Your Love - Agents of Time Remix",
       "url": "https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri"
+    },
+    {
+      "album": {
+        "name": "Your Lovin'",
+        "url": "https://open.spotify.com/album/2IBfTB4yaFwniF9lzIm1be"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "Your Lovin'",
+      "url": "https://open.spotify.com/track/1CzwbuxixZXvQjfvNqsK8d"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-217 songs - 10 hr 30 min
+218 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Psycho](https://open.spotify.com/track/1MrMCAwN8FKvSKHaDAAoTY) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [Psycho](https://open.spotify.com/album/3xey9oaCCAC2AEL1mcemo3) | 2:37 | 2022-11-19 | 2024-04-19 |
 | [Psycho](https://open.spotify.com/track/2IVuU4LByPrwUky12rk3Bw) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [Psycho](https://open.spotify.com/album/5lnX2L4TLYkW4e57oGOdI1) | 2:37 | 2024-02-27 | 2025-09-09 |
 | [R.I.P](https://open.spotify.com/track/3JkLRKvufT3vSABHmDbdIl) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [BAD HOP WORLD DELUXE](https://open.spotify.com/album/5iKrBBfSSmDja64JoH0kRS) | 4:01 | 2022-11-19 | 2023-05-24 |
-| [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 | 2024-07-12 |  |
+| [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 | 2024-07-12 | 2026-06-19 |
 | [RAKURAI](https://open.spotify.com/track/0xcZG0APNxCUQh6G2yv1WH) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/1pfgn03W3aBkPzzUKaQFy6) | 2:44 | 2022-11-19 | 2024-02-07 |
 | [RAKURAI](https://open.spotify.com/track/1w062ZFlKViaWMFkbxJRF3) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/4B1SD47qfhR8pDJIPd97V6) | 2:44 | 2024-02-27 | 2026-06-09 |
 | [RASEN in OKINAWA](https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:49 | 2023-08-21 | 2024-04-19 |
@@ -202,6 +202,7 @@
 | [WANI Remix \(feat\. BANNY BUGS, Skaai\)](https://open.spotify.com/track/30deyVHXDYgUDjhnu9j6Nn) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [BANNY BUGS](https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WANI EP](https://open.spotify.com/album/3EUOQSlZQxnqCMS2xVBl92) | 2:22 | 2025-02-20 | 2025-04-12 |
 | [WANNABE GONNABE](https://open.spotify.com/track/5zxzoyrzAWVzL7kMJm8DFe) | [möshigigam](https://open.spotify.com/artist/4CHEhTO2cv2o161swhcPQR) | [WANNABE GONNABE](https://open.spotify.com/album/7vJGsCv3emtWksRNzyMA0f) | 3:18 | 2025-12-10 | 2026-05-31 |
 | [WAR](https://open.spotify.com/track/6oVlyC84w0IvHWuPg6SJZM) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [WAR](https://open.spotify.com/album/5BWTz9IMuwdDMmZvFTM7gu) | 2:12 | 2022-11-19 | 2023-05-24 |
+| [WASSUP \(feat\. NORIKIYO\)](https://open.spotify.com/track/0dHRNAuFbHNnTAx4bWbZPx) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [Get Litty? \(Deluxe\)](https://open.spotify.com/album/6UMWTseCkEKRCrR5cJ8DYE) | 2:56 | 2026-06-18 |  |
 | [Welcome to Nokey](https://open.spotify.com/track/2fyOsf65B62tZsuUcKjXfm) | [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [TARONINJA](https://open.spotify.com/artist/3Uxfkj88nsQVzQCPRfgt4V) | [Mine](https://open.spotify.com/album/66CgJ3JfOsSFzApT2YPf7a) | 3:13 | 2022-11-19 | 2023-05-24 |
 | [Welcome to Nokey](https://open.spotify.com/track/7aTxPhDvUZtUWJiXleCGsM) | [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [太郎忍者](https://open.spotify.com/artist/2mmv8uCKFZO1r7zcEJe1lp) | [Mine](https://open.spotify.com/album/4h3rgxOEJ8TbPMjoB0FqMQ) | 3:13 | 2024-02-27 | 2024-04-24 |
 | [When i was young](https://open.spotify.com/track/2CWb9Q82ZWEIXunDwv6mkI) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [style](https://open.spotify.com/album/5kt6uRKhMiZUm8o915IkNx) | 2:38 | 2024-02-27 | 2024-04-24 |

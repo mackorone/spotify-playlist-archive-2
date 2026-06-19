@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Zo\u00eb Tauran & LUNA",
+  "description": "Frisse Nederlandse pop. Cover: Benjamin",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -4621,6 +4621,24 @@
     },
     {
       "album": {
+        "name": "Dans Je Toch Met Mij",
+        "url": "https://open.spotify.com/album/26b69aI5w4vQcWwpmIQOin"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Bloom",
+          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176031,
+      "name": "Dans Je Toch Met Mij",
+      "url": "https://open.spotify.com/track/7bxx1OY6p8RqPkpDLa7FEc"
+    },
+    {
+      "album": {
         "name": "Dans Op Het Mes",
         "url": "https://open.spotify.com/album/4HlJBGJa7nEs3GOhsD4B9w"
       },
@@ -6843,6 +6861,24 @@
     },
     {
       "album": {
+        "name": "Dicht Bij Mij",
+        "url": "https://open.spotify.com/album/0vFIT31n2dQOxuvc477ewc"
+      },
+      "artists": [
+        {
+          "name": "Sabien",
+          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164221,
+      "name": "Elk Risico Waard",
+      "url": "https://open.spotify.com/track/2ZsKOqQXJiJQnk9wY8T7Nn"
+    },
+    {
+      "album": {
         "name": "Elke Avond Feest",
         "url": "https://open.spotify.com/album/4LjBa0yk1oYtaOlwrbSVcZ"
       },
@@ -9020,7 +9056,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 155880,
       "name": "het moment.",
       "url": "https://open.spotify.com/track/7eEFlrFQv8bLlo7guYIS3v"
@@ -10046,7 +10082,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 180706,
       "name": "Hou van mezelf",
       "url": "https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43"
@@ -10548,6 +10584,24 @@
       "duration_ms": 181326,
       "name": "Ik Ben Niet Meer Bang",
       "url": "https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY"
+    },
+    {
+      "album": {
+        "name": "Benjamin / Benoni",
+        "url": "https://open.spotify.com/album/6QbXDIUPK8fDULVHmsUiiL"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211626,
+      "name": "Ik ben onzeker",
+      "url": "https://open.spotify.com/track/4pgl1lIeawNxMASWpEBulm"
     },
     {
       "album": {
@@ -11236,7 +11290,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170084,
       "name": "In Je Bed",
       "url": "https://open.spotify.com/track/5v78Fw0egMGlffUGn1pnb7"
@@ -11254,7 +11308,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 209930,
       "name": "In Je Hoek",
       "url": "https://open.spotify.com/track/75snVU5TWO4KbkIBbNITxq"
@@ -13535,6 +13589,24 @@
     },
     {
       "album": {
+        "name": "Lekker Liedje",
+        "url": "https://open.spotify.com/album/3uEfJJvJfnwz5Oe3FOEAmU"
+      },
+      "artists": [
+        {
+          "name": "Guus Hulshof",
+          "url": "https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141306,
+      "name": "Lekker Liedje",
+      "url": "https://open.spotify.com/track/1xEGuvwku0VTWNqk5jTnNz"
+    },
+    {
+      "album": {
         "name": "Lentesneeuw",
         "url": "https://open.spotify.com/album/4TTe9Cik1Vu39LxoVUAONF"
       },
@@ -14116,7 +14188,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 149280,
       "name": "Los Los Vast",
       "url": "https://open.spotify.com/track/1DQnGDeNZrFOlEfj5wWlGJ"
@@ -17741,6 +17813,32 @@
     },
     {
       "album": {
+        "name": "Pakt Mij",
+        "url": "https://open.spotify.com/album/1KaoBUwB2I3VyJxgYvyEAZ"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        },
+        {
+          "name": "De Amsterdamse Zomer",
+          "url": "https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164653,
+      "name": "Pakt Mij",
+      "url": "https://open.spotify.com/track/7quqA00qtOBWoTcYJ2nLME"
+    },
+    {
+      "album": {
         "name": "Pam Pam",
         "url": "https://open.spotify.com/album/2Oa5DwwuEWysiyebWHR4L3"
       },
@@ -18804,6 +18902,24 @@
       "duration_ms": 136291,
       "name": "Ruwe Diamant",
       "url": "https://open.spotify.com/track/3Q0XoPBcs6NxI15FQBwtyI"
+    },
+    {
+      "album": {
+        "name": "S.O.S. (Radiostilte)",
+        "url": "https://open.spotify.com/album/0a9im9RWMhoTbL0qFouviV"
+      },
+      "artists": [
+        {
+          "name": "Berend",
+          "url": "https://open.spotify.com/artist/1gplC639zf5QFkEGFU4yt5"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195015,
+      "name": "S.O.S. (Radiostilte)",
+      "url": "https://open.spotify.com/track/3b8SCsHI0L8esa28fxwVOw"
     },
     {
       "album": {
@@ -22661,6 +22777,24 @@
     },
     {
       "album": {
+        "name": "Voor Iedereen",
+        "url": "https://open.spotify.com/album/3HscyVfPrAEfHGRDumpYZO"
+      },
+      "artists": [
+        {
+          "name": "De Troubadours",
+          "url": "https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175549,
+      "name": "Voor Iedereen",
+      "url": "https://open.spotify.com/track/30p2i1EvXB9RounDUOhGsF"
+    },
+    {
+      "album": {
         "name": "Voor Je \u2018t Weet",
         "url": "https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc"
       },
@@ -22818,7 +22952,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 174255,
       "name": "Vrede",
       "url": "https://open.spotify.com/track/5nChDoJ0kXRw9Mmfyhn2ou"
@@ -23380,7 +23514,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 153476,
       "name": "Wat Blijft Er Nog Over?",
       "url": "https://open.spotify.com/track/0bCTV70cX6yjUtF91Fnkws"

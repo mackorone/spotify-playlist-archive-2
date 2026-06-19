@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Lupambo",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Anderson M\u00e1rio",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -6573,6 +6573,28 @@
     },
     {
       "album": {
+        "name": "Cicatrizes em Beijos",
+        "url": "https://open.spotify.com/album/3mKObiTQTsUd3qEP5XRKlu"
+      },
+      "artists": [
+        {
+          "name": "Anderson M\u00e1rio",
+          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208580,
+      "name": "Mais um Caso",
+      "url": "https://open.spotify.com/track/74vJ2796jQqnf0tiopPnde"
+    },
+    {
+      "album": {
         "name": "African Prince",
         "url": "https://open.spotify.com/album/7K0p3XgUd0ZlcJ7kjMu8Rf"
       },
@@ -12348,7 +12370,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 257137,
       "name": "TROMPETE",
       "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"

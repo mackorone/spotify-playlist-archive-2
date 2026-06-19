@@ -235,6 +235,28 @@
     },
     {
       "album": {
+        "name": "Aatish",
+        "url": "https://open.spotify.com/album/1UiQTSF62IFdoOoGcW04xc"
+      },
+      "artists": [
+        {
+          "name": "Ahsan Javed",
+          "url": "https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE"
+        },
+        {
+          "name": "Usamasutra",
+          "url": "https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Aatish",
+      "url": "https://open.spotify.com/track/6bJJMam29IyvathYLst3uY"
+    },
+    {
+      "album": {
         "name": "Afreen Afreen (Coke Studio Season 9)",
         "url": "https://open.spotify.com/album/1YFhFBYguVji3KdKdQGzId"
       },
@@ -1294,6 +1316,24 @@
       "duration_ms": 222203,
       "name": "Daman Lagiyan",
       "url": "https://open.spotify.com/track/2uWyqK8pjaVMqXMjR4HUMr"
+    },
+    {
+      "album": {
+        "name": "Dhamaal (Haq Ali)",
+        "url": "https://open.spotify.com/album/65aYMOvux8d0WoXhL8kzQe"
+      },
+      "artists": [
+        {
+          "name": "Mehak Ali",
+          "url": "https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318666,
+      "name": "Dhamaal - Haq Ali",
+      "url": "https://open.spotify.com/track/3TsgUQzdphXX5yJ1kmzdRw"
     },
     {
       "album": {

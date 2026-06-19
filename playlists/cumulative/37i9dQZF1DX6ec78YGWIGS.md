@@ -2,9 +2,9 @@
 
 ### [POP FLOW](https://open.spotify.com/playlist/37i9dQZF1DX6ec78YGWIGS)
 
-> Lo nuevo y lo más escuchado del pop\. Foto: 143leti
+> Lo nuevo y lo más escuchado del pop\. Foto: TOBIKA
 
-512 songs - 1 day 1 hr 23 min
+513 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Olvidate](https://open.spotify.com/track/6YHiWnXQyF0yM4oxGk54X4) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Olvidate](https://open.spotify.com/album/2OVbouaTwqVHertrc15Kgn) | 2:39 | 2023-05-12 | 2023-12-16 |
 | [OOPS!](https://open.spotify.com/track/3sSDoM8C5OyagBQHzBufW7) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:12 | 2025-07-25 |  |
 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 | 2023-05-12 | 2025-10-31 |
+| [OTRA NOCHE MÁS](https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [OTRA NOCHE MÁS](https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3) | 2:33 | 2026-06-19 |  |
 | [otro beso](https://open.spotify.com/track/1HJ2gcYoSL1pXDQRXJKRO2) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [otro beso](https://open.spotify.com/album/6GxesR7ZNlURvWfbp0uxMy) | 3:34 | 2025-11-28 |  |
 | [p GUANTES o BLANCOS v](https://open.spotify.com/track/1KBJbyTakDMGFBbp2xP5Xi) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [POV ROB POP](https://open.spotify.com/album/6ujyfpKuYnUS76pgFRIHnS) | 2:13 | 2025-09-12 | 2026-02-07 |
 | [pa](https://open.spotify.com/track/28ZVFl4CQhyRmBFpJXOpUY) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [pa](https://open.spotify.com/album/4bjgFGmRrC04tRlwz5i6op) | 3:10 | 2024-04-05 | 2024-05-11 |
@@ -372,7 +373,7 @@
 | [Pasatiempo](https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Pasatiempo](https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq) | 3:17 | 2023-07-28 | 2024-05-25 |
 | [Pa’ Qué Volviste?](https://open.spotify.com/track/0CgLpsgOmE0h1M7ILiwAnV) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Pa’ Qué Volviste?](https://open.spotify.com/album/4XaqqBH97CiSaqizhTViur) | 3:12 | 2024-11-15 | 2025-02-08 |
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-06-09 | 2023-08-29 |
-| [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 | 2024-05-24 |  |
+| [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 | 2024-05-24 | 2026-06-19 |
 | [Perdí El Control y Me Gustó](https://open.spotify.com/track/0co9Xpd6pAYlkzqUOn1xhG) | [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i) | [Perdí El Control y Me Gustó](https://open.spotify.com/album/2KUFkxcYpmmYHCX7TiuepJ) | 2:41 | 2026-03-27 |  |
 | [PERDÓN POR TODO](https://open.spotify.com/track/3y2U3NnIJti1RmT0rw1lwu) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [VII](https://open.spotify.com/album/0am3u26l9wbd0hSfBG9ioF) | 2:44 | 2024-11-29 | 2025-02-05 |
 | [Perfecta](https://open.spotify.com/track/5rGorQ0R06XveTJXMd3QRi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Perfecta](https://open.spotify.com/album/0bltv9msqv6kh3PSqjACXY) | 2:44 | 2023-05-12 | 2025-10-31 |

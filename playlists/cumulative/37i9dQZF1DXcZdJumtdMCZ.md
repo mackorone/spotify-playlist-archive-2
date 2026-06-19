@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
 
-338 songs - 17 hr 50 min
+339 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Solli Vei](https://open.spotify.com/track/0a3kxt3ENfxvhNRC9MVLCY) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Solli Vei](https://open.spotify.com/album/75674aUkYs4u2joPaL94YK) | 1:53 | 2025-01-27 | 2025-06-07 |
 | [Sollisai Haters](https://open.spotify.com/track/1mh0E5vVsDwSEkeziK7Z3H) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Mc Vijay Sandy](https://open.spotify.com/artist/1s74X5aCHgUoUn6RUAAfaV), [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G) | [Sollisai Haters](https://open.spotify.com/album/5fpeLYig2Dlh3DorpVXkfn) | 3:07 | 2025-02-03 | 2026-01-28 |
 | [Sollisai Kaalam](https://open.spotify.com/track/41KyWqoRsspaiFPbSy8ZnC) | [Iraivan](https://open.spotify.com/artist/6N9ejYnP3zgDFAf6TLuNzV) | [Sollisai Kaalam](https://open.spotify.com/album/7u2W7Q1XxLXkKk0ixQ6ia9) | 2:14 | 2025-03-07 | 2025-05-29 |
+| [Sollisai Kalaingan](https://open.spotify.com/track/2kbLvEfEZyjfGMhRCpPcSB) | [All Mixed Up](https://open.spotify.com/artist/5C4NvJLN3b1nY5x9dK2LLc), [El.Jey](https://open.spotify.com/artist/08oeHRO7tx6y8LHwZvaKlc) | [Sollisai Kalaingan](https://open.spotify.com/album/0aLRix1NiInHuQ0jjYBI7H) | 2:58 | 2026-06-18 |  |
 | [sollisai underground](https://open.spotify.com/track/50t1Y7T5D7pg2AnZSvoDTb) | [Rapkid 02](https://open.spotify.com/artist/3ofhK23vIRn61FSQvP4TJA), [Md Sheik](https://open.spotify.com/artist/4VfIJZ04vNbMGRVKPmipuA), [Bala D Thala](https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV), [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G) | [sollisai underground](https://open.spotify.com/album/05adUVk2tXZVsi9gvzidVC) | 3:10 | 2026-01-30 |  |
 | [SOUTHSIDE](https://open.spotify.com/track/021jE0MCbAcqEZIe40JMeX) | [LEO XMD](https://open.spotify.com/artist/4tv4JflXtgC6Zp7697lWAS), [kinzxn](https://open.spotify.com/artist/2Anj6H7nWFBUBIL90RX2t2), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM), [Darloo](https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7), [Two Teens Music](https://open.spotify.com/artist/269ulyYI7YIaKmDRAHbXnK) | [SOUTHSIDE](https://open.spotify.com/album/0KIEUIE0fGhTOaeIOadVeP) | 1:45 | 2025-10-23 | 2025-11-15 |
 | [Spirit](https://open.spotify.com/track/4IkYT5X2UhTFspK6MHCFHB) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e) | [Spirit](https://open.spotify.com/album/7nBphIEonczpCOPosngLfv) | 2:02 | 2025-11-12 |  |

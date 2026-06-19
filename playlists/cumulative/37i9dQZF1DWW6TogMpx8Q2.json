@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-31",
-  "description": "Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers.  Cover: Gordon Flanders ",
+  "description": "Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers.  Cover: Jason Chan \u9673\u67cf\u5b87 ",
   "name": "CantoVision",
   "tracks": [
     {
@@ -670,6 +670,32 @@
       "duration_ms": 197528,
       "name": "some days",
       "url": "https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW"
+    },
+    {
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/1WBpGQatYhvjMSK9Nc6nHC"
+      },
+      "artists": [
+        {
+          "name": "JAB.M",
+          "url": "https://open.spotify.com/artist/39LZyNzfhjC6OKLDsIiVu3"
+        },
+        {
+          "name": "Jade Sun",
+          "url": "https://open.spotify.com/artist/3wOgiNce6emfZDZffDXaaD"
+        },
+        {
+          "name": "NO CAP RECORDS",
+          "url": "https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175411,
+      "name": "Thinking About You (feat. Jade Sun)",
+      "url": "https://open.spotify.com/track/4UJ9SX3gwujOl0FxeSqsHz"
     },
     {
       "album": {
@@ -1997,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "\u6708\u4eae\u4ee3\u8868\u6211",
+        "url": "https://open.spotify.com/album/7jSkEbWsptHtAbLK0mtbbl"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "\u6708\u4eae\u4ee3\u8868\u6211",
+      "url": "https://open.spotify.com/track/1cZfNeEFNZAfOkqYZQkJHr"
+    },
+    {
+      "album": {
         "name": "\u672a\u4f86\u7684\u6b4c",
         "url": "https://open.spotify.com/album/483w7AHmaDk6FzRu12frdN"
       },
@@ -2293,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "\u7279\u52d9\u5360\u58eb\u5321 Mad World",
+        "url": "https://open.spotify.com/album/2fRf6ubalICtwEKoPkJaRD"
+      },
+      "artists": [
+        {
+          "name": "Phil Lam",
+          "url": "https://open.spotify.com/artist/2pYLo2RugZpdhYRub5nKcV"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216632,
+      "name": "\u7279\u52d9\u5360\u58eb\u5321 Mad World",
+      "url": "https://open.spotify.com/track/10Aoi1ETfryNh5JuwslwDG"
+    },
+    {
+      "album": {
         "name": "\u7528\u80cc\u810a\u5531\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/65RVRNqYKdkqVJOUOtAtF8"
       },
@@ -2506,6 +2568,24 @@
       "duration_ms": 232839,
       "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
       "url": "https://open.spotify.com/track/2oOemghuOplk25PORF4s39"
+    },
+    {
+      "album": {
+        "name": "\u820a\u9152\u65b0\u74f6",
+        "url": "https://open.spotify.com/album/4Q3sV28wzPxtXpqB7ecG96"
+      },
+      "artists": [
+        {
+          "name": "Jason Chan",
+          "url": "https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "\u820a\u9152\u65b0\u74f6",
+      "url": "https://open.spotify.com/track/1UOdpApGk7JxGXaYIbhh2j"
     },
     {
       "album": {
@@ -2932,6 +3012,24 @@
       "duration_ms": 274716,
       "name": "\u98c4\u6d41\u6559\u5ba4",
       "url": "https://open.spotify.com/track/5AnD1Tmu5hKPeHGyxGq6LJ"
+    },
+    {
+      "album": {
+        "name": "\u9918\u5730",
+        "url": "https://open.spotify.com/album/5AxmRpRdCB0HKp0dl7r0ra"
+      },
+      "artists": [
+        {
+          "name": "Serrini",
+          "url": "https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "\u9918\u5730",
+      "url": "https://open.spotify.com/track/5ttYCVKl0jXW7OTndIdx6I"
     },
     {
       "album": {

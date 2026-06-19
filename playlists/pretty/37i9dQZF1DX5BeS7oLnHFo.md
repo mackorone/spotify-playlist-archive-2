@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 
 > كافيار الراب المحلّي
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,845 likes - 42 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,843 likes - 42 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 | 29 | [DOMA](https://open.spotify.com/track/4cPz71LZVkKTdIzP3CwJM8) | [Hyper249](https://open.spotify.com/artist/3T7CEZ4h8vXO8kEftlggOI), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [DOMA](https://open.spotify.com/album/1mMvVmB0dpOWxJvIIF564a) | 3:00 |
 | 30 | [Ola'la](https://open.spotify.com/track/1wqTfg4UMAQel3GcHFwLSA) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Ola'la](https://open.spotify.com/album/3BBE6OidTsZ5PWPXinBxf3) | 2:30 |
 | 31 | [Storm](https://open.spotify.com/track/3eXWngGDvtPMFcBPfuWqW7) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [HEPTA](https://open.spotify.com/album/3JQgobucm5cegRkCt202JN) | 3:13 |
-| 32 | [Aswat \(feat\. Walgz\)](https://open.spotify.com/track/3wSS3x6klMRqgXzhufL5my) | [Tmsa7](https://open.spotify.com/artist/1eUb0Yqoxg2MgUuHyYfM4e), [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Aswat \(feat\. Walgz\)](https://open.spotify.com/album/3hu5RGsbSyrodAy2asW2Mv) | 2:31 |
+| 32 | [Aswat \(feat\. Walgz\)](https://open.spotify.com/track/3wSS3x6klMRqgXzhufL5my) | [Fodi](https://open.spotify.com/artist/1eUb0Yqoxg2MgUuHyYfM4e), [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Aswat \(feat\. Walgz\)](https://open.spotify.com/album/3hu5RGsbSyrodAy2asW2Mv) | 2:31 |
 | 33 | [Leh](https://open.spotify.com/track/3AitDtX8v5llBxeXDjx1ld) | [Veto](https://open.spotify.com/artist/6LhACAqPCMAf2jnSgE8aqa) | [Leh](https://open.spotify.com/album/6GtedZwGjK8hK3OuN6VDwG) | 2:49 |
 | 34 | [انترو](https://open.spotify.com/track/1sFyZPz49MR7xin3LiJqin) | [AwabTheRapper](https://open.spotify.com/artist/3vp9zXL4KXZZaZ64Pp6W5X), [Mshakil](https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL) | [انترو](https://open.spotify.com/album/0xRUHDEuShsfDJfPzfYAK7) | 4:02 |
 | 35 | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/track/2WMGvPpnSOk3YW8AjwkWiv) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/album/1oOFKHuth7o9cNeAZp3ms0) | 4:16 |

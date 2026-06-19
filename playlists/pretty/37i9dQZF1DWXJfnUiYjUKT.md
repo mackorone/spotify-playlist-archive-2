@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Olivia Rodrigo on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,143 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,289 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 80 | [Come Down](https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Come Down](https://open.spotify.com/album/78wzkaj5dqgjfggOEuqMUZ) | 2:55 |
 | 81 | [Burning Out](https://open.spotify.com/track/3075JUjtjJ2mGuy7eoOea2) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Burning Out](https://open.spotify.com/album/0jaqIbGbS0cFqRlHlqjGDB) | 3:18 |
 | 82 | [A Pesar De Ti y De Mi](https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [A Pesar De Ti y De Mi](https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8) | 4:09 |
-| 83 | [Follow Me \(feat\. RedOne\)](https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Adriana C](https://open.spotify.com/artist/7oBUfgdK5Q8PBdT9QsTgHE), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Follow Me \(feat\. RedOne\)](https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0) | 3:52 |
+| 83 | [Follow Me](https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Adriana C](https://open.spotify.com/artist/7oBUfgdK5Q8PBdT9QsTgHE), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Follow Me](https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0) | 3:52 |
 | 84 | [Weight On My Shoulders](https://open.spotify.com/track/2dufQVp9S9MuVbHoDTG78y) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Weight On My Shoulders](https://open.spotify.com/album/2BWPGVKmzvbIM4fuwHM7jw) | 2:55 |
 | 85 | [Mouse](https://open.spotify.com/track/54qjFrJ9cTjPzaGjCanyWS) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Mouse](https://open.spotify.com/album/5wEIxcoAinFbBzlOoFSbvG) | 4:57 |
 | 86 | [Don't Tell Me It's Over](https://open.spotify.com/track/0mG6f89Na8qlcO9bcwEtWi) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket \(25 Year Anniversary Edition\)](https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu) | 2:32 |

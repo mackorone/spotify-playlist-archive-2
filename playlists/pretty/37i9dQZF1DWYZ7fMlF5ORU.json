@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 185445,
+  "num_followers": 185469,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
+        "url": "https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4"
+      },
+      "artists": [
+        {
+          "name": "Pablo Simplicio",
+          "url": "https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5"
+        }
+      ],
+      "duration_ms": 169318,
+      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
+      "url": "https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Piano e Voz, Amigos e Pertences 3a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 332160,
       "name": "Sossegai - Ao Vivo",
       "url": "https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
-        "url": "https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4"
-      },
-      "artists": [
-        {
-          "name": "Pablo Simplicio",
-          "url": "https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5"
-        }
-      ],
-      "duration_ms": 169318,
-      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
-      "url": "https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho"
+      },
+      "artists": [
+        {
+          "name": "Jefte Santos",
+          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
+        }
+      ],
+      "duration_ms": 253354,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Kleber Lucas ao vivo no Teatro Rival (AO VIVO)",
         "url": "https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 220386,
       "name": "O Que H\u00e1 Por Dentro",
       "url": "https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Alegria",
-        "url": "https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho"
-      },
-      "artists": [
-        {
-          "name": "Jefte Santos",
-          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
-        }
-      ],
-      "duration_ms": 253354,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Aleluia",
-        "url": "https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI"
+        "name": "Celebre a Vida",
+        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
       },
       "artists": [
         {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+          "name": "Bira Santos",
+          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
         }
       ],
-      "duration_ms": 171320,
-      "name": "Aleluia",
-      "url": "https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94"
+      "duration_ms": 244239,
+      "name": "Celebre a Vida",
+      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -703,18 +703,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Celebre a Vida",
-        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
+        "name": "Aleluia",
+        "url": "https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI"
       },
       "artists": [
         {
-          "name": "Bira Santos",
-          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
         }
       ],
-      "duration_ms": 244239,
-      "name": "Celebre a Vida",
-      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
+      "duration_ms": 171320,
+      "name": "Aleluia",
+      "url": "https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94"
     },
     {
       "added_at": "2026-06-12 03:01:51",

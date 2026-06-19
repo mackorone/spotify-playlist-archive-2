@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Kabir
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,254 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,264 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stardust](https://open.spotify.com/track/7Gldjft5dQJ9vB9XVaLNFX) | [Kabir](https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws) | [Stardust](https://open.spotify.com/album/4TlAUF1jqMAcLIgiLchnir) | 3:06 |
+| 1 | [Stardust](https://open.spotify.com/track/7Gldjft5dQJ9vB9XVaLNFX) | [Kabir](https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Stardust](https://open.spotify.com/album/4TlAUF1jqMAcLIgiLchnir) | 3:06 |
 | 2 | [Paradise](https://open.spotify.com/track/5qY8BnZ4LOd1ZToctvLqRb) | [Taj Sandhu](https://open.spotify.com/artist/6YAKXsMcxohAH6jyvRnQHC), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [Paradise](https://open.spotify.com/album/6kse0E3fablHOITB2IWZfX) | 3:47 |
 | 3 | [Belle](https://open.spotify.com/track/2QM8Dv7ODGzI2KZyCMTvrD) | [Gill Ranjodh](https://open.spotify.com/artist/4VYsiN2BVC3o8wlmhd1Mu2), [Legacy](https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI) | [Belle](https://open.spotify.com/album/0Us4CZRjc2uMcEgpqhGbjV) | 3:00 |
 | 4 | [Ohde Wargi](https://open.spotify.com/track/6rkwobmsLRo28ESjIn30YA) | [Shahid Khan](https://open.spotify.com/artist/1qcQfkXy5mpXD3ofmJLohp), [Appu Beats](https://open.spotify.com/artist/7Kv9UknAuQpxLvziYfsAhz), [Samar Lassoi](https://open.spotify.com/artist/1riapDEqMuydPVTT73AChW) | [Ohde Wargi](https://open.spotify.com/album/4iNXwkH8im1obPtUB65SoA) | 2:44 |

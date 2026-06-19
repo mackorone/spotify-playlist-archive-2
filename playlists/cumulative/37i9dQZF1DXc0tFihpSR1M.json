@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Dagny",
+  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Myles Smith",
   "name": "Ny Pop (3)",
   "tracks": [
     {
@@ -902,7 +902,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 174945,
       "name": "Birthday Makeup",
       "url": "https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd"
@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 136620,
       "name": "Diva",
       "url": "https://open.spotify.com/track/0bbFcSe2cr75PFmKQajI9E"
@@ -2603,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "EN ANNEN EN",
+        "url": "https://open.spotify.com/album/1GS3bShQRg7gwAyxf3rPV2"
+      },
+      "artists": [
+        {
+          "name": "Oven",
+          "url": "https://open.spotify.com/artist/1EPCst185uNHrufVIP3TE8"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113076,
+      "name": "EN ANNEN EN",
+      "url": "https://open.spotify.com/track/0hEn6SB1gqGsZeAqp84eUN"
+    },
+    {
+      "album": {
         "name": "En Gang Til",
         "url": "https://open.spotify.com/album/75C0zuG3i2dmsLawhkbb2Q"
       },
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 147356,
       "name": "Ensom sabot\u00f8r",
       "url": "https://open.spotify.com/track/5Sj7IdO9PwyNCkVwTTXmj2"
@@ -3730,7 +3748,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 153495,
       "name": "Gr\u00e5ter (over det som er over)",
       "url": "https://open.spotify.com/track/5Cyue7Hv0fTY9JO8yK2Riv"
@@ -4016,6 +4034,24 @@
       "duration_ms": 234600,
       "name": "Heatstroke",
       "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453"
     },
     {
       "album": {
@@ -4616,7 +4652,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 162420,
       "name": "How you know",
       "url": "https://open.spotify.com/track/0yIcqXcFgVyLZl4m9HIGO8"
@@ -5379,6 +5415,28 @@
     },
     {
       "album": {
+        "name": "Is This Love",
+        "url": "https://open.spotify.com/album/6AtowkH5oLf12WoQ9C39gz"
+      },
+      "artists": [
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        },
+        {
+          "name": "Needlz",
+          "url": "https://open.spotify.com/artist/5QYszPceZHsVIohFm4hyDt"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162063,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/2HTFzO1TSjwBs4m92nfrdP"
+    },
+    {
+      "album": {
         "name": "WITHERED",
         "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
       },
@@ -5654,6 +5712,24 @@
       "duration_ms": 171751,
       "name": "Kjendis",
       "url": "https://open.spotify.com/track/02qSZOLIipk28y3MRmUSe3"
+    },
+    {
+      "album": {
+        "name": "Kj\u00e6rlighet P\u00e5 Pinne",
+        "url": "https://open.spotify.com/album/7LyhWfksfww5Zo4EaArFGT"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168357,
+      "name": "Kj\u00e6rlighet P\u00e5 Pinne",
+      "url": "https://open.spotify.com/track/3GmiNk1Ma0DlrSAfTuIQ81"
     },
     {
       "album": {
@@ -5984,6 +6060,24 @@
       "duration_ms": 174660,
       "name": "Look Who's Laughing Now",
       "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
+    },
+    {
+      "album": {
+        "name": "Lose Myself / I Wanna",
+        "url": "https://open.spotify.com/album/5pLDXKmvchaKPLdI93TAjH"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Lose Myself",
+      "url": "https://open.spotify.com/track/0e5K24g47Xze7bR6eftsHT"
     },
     {
       "album": {
@@ -8626,10 +8720,32 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 197159,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm"
+    },
+    {
+      "album": {
+        "name": "siren",
+        "url": "https://open.spotify.com/album/5Ra6GPqaqVgsRExfv24TBG"
+      },
+      "artists": [
+        {
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165003,
+      "name": "siren",
+      "url": "https://open.spotify.com/track/2Abgq1EmE3gDZhhaLBmbAn"
     },
     {
       "album": {
@@ -9186,7 +9302,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 206106,
       "name": "Stay Love",
       "url": "https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3"

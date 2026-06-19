@@ -4,7 +4,7 @@
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-119 songs - 5 hr 45 min
+120 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Eenie Meenie](https://open.spotify.com/track/4SClznXpl6IEK4ese5MULZ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:22 | 2022-10-28 | 2023-05-24 |
 | [Face The World](https://open.spotify.com/track/1yJBqUwbi23dbGDyB0IqjV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 2:58 | 2024-11-01 | 2026-03-15 |
 | [Feedback](https://open.spotify.com/track/0EJi5ppofhn5rmeRvoIA10) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Feedback](https://open.spotify.com/album/3avEg43Aiv7ASXT9S33Dxu) | 3:12 | 2022-10-28 | 2023-03-02 |
-| [Feedback](https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Feedback](https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF) | 3:12 | 2023-03-01 |  |
+| [Feedback](https://open.spotify.com/track/1ju3rW2OT3mzfxOi1SZ8TU) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Feedback](https://open.spotify.com/album/3sDTDiM0I50Ei89T7r1JEC) | 3:12 | 2026-06-19 |  |
+| [Feedback](https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Feedback](https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF) | 3:12 | 2023-03-01 | 2026-06-19 |
 | [Feel It](https://open.spotify.com/track/71PUYOHINr5A64QxBywwsp) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 2:46 | 2022-10-28 | 2023-10-11 |
 | [Fine](https://open.spotify.com/track/1crxMZzlCfCFMcuBID0Exf) | [Izye](https://open.spotify.com/artist/73fhQEN7dIjU6svM8ez3yv), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Fine](https://open.spotify.com/album/73UsWRce52p5IBTy8gDf4M) | 2:51 | 2025-10-29 | 2026-02-14 |
 | [FINE](https://open.spotify.com/track/70YrYj7TOzfd00NX7Ynlrt) | [Izye](https://open.spotify.com/artist/73fhQEN7dIjU6svM8ez3yv), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [FINE](https://open.spotify.com/album/3cXA1skgfeePscQgcLaw3P) | 2:51 | 2025-06-23 | 2025-10-14 |

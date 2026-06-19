@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: SHAKALABBITS
 
-902 songs - 1 day 23 hr 36 min
+903 songs - 1 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [seisyunhamada](https://open.spotify.com/track/4x8dUbBZSfR6mGyoZAe4F8) | [EiHilE](https://open.spotify.com/artist/754tcMSEqzwZPMch88LbED) | [seisyunhamada](https://open.spotify.com/album/5H6j3a87BUuNgjZQUD9sX5) | 2:35 | 2023-05-30 | 2023-06-09 |
 | [set it off](https://open.spotify.com/track/2l3aBqXOsmgqEZN1DB0x9P) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx) | 3:23 | 2022-08-19 | 2022-09-15 |
 | [Settle down](https://open.spotify.com/track/2zxlzUyRM2hYEznyY91ENm) | [PRAY FOR ME](https://open.spotify.com/artist/1kSsu9AQF5hSdLgkWFbmtF) | [Settle down](https://open.spotify.com/album/6OmVsRFOegNIRfXnaQI5M1) | 2:44 | 2023-10-03 | 2023-10-25 |
+| [SEVENTEEN](https://open.spotify.com/track/4dTEEEswpaNEDUGJJcaE39) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [SEVENTEEN](https://open.spotify.com/album/5YHCVlplYP98s4qKTaxdK1) | 3:16 | 2026-06-09 |  |
 | [shiboufuragu wo tatenaide](https://open.spotify.com/track/6jDtEDmFInvxR4Ga7vff7X) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [shiboufuragu wo tatenaide](https://open.spotify.com/album/76w257U3luBps7VnbQ2ozc) | 4:35 | 2022-08-23 | 2022-09-09 |
 | [Shinitakunattara Ainikite](https://open.spotify.com/track/6gB9xHmdj8mM7B2jY2zKX3) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [Nakuna, Seishun](https://open.spotify.com/album/4VgISolUUFSj4I8CIccYMp) | 2:58 | 2026-03-24 | 2026-04-22 |
 | [SHINOBI TOP SECRET](https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [SHINOBI TOP SECRET](https://open.spotify.com/album/2BErghmne06N5sK33vJUno) | 3:47 | 2022-06-07 | 2022-08-26 |
@@ -871,7 +872,7 @@
 | [理想と現実](https://open.spotify.com/track/4iJ8gbwQxNhdun2Vz7maj1) | [WEAKEND HEROES](https://open.spotify.com/artist/4JJsbXfC3fanYgoCP4T0F8) | [振り出しに向かう](https://open.spotify.com/album/0HvmWwHOIxjGkaPrVGgTcx) | 3:36 | 2022-05-12 | 2022-07-24 |
 | [生命](https://open.spotify.com/track/089CvfGDwYV3hrjV8ccxqC) | [sassya\-](https://open.spotify.com/artist/0Ro15lPEJLZfG9H7hxXOxu) | [生命](https://open.spotify.com/album/521XLb57KE7oyqscQIB71S) | 3:14 | 2022-07-12 | 2022-07-15 |
 | [画鋲](https://open.spotify.com/track/0ExLkkjmLB2X6KhFHPXqeE) | [画鋲](https://open.spotify.com/artist/4AZ61DUBlmjViXIzqoknqT) | [画鋲ファースト](https://open.spotify.com/album/6V6TuH4pZ89bUo7yvwJSdZ) | 2:15 | 2022-05-12 | 2022-07-24 |
-| [異次元の暮らし](https://open.spotify.com/track/1q0gjCOES8TvZkDICo1GBP) | [テレビ大陸音頭](https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt) | [異次元の暮らし](https://open.spotify.com/album/1in1MsABiu1uVDG5jBrqgx) | 3:34 | 2026-05-12 |  |
+| [異次元の暮らし](https://open.spotify.com/track/1q0gjCOES8TvZkDICo1GBP) | [テレビ大陸音頭](https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt) | [異次元の暮らし](https://open.spotify.com/album/1in1MsABiu1uVDG5jBrqgx) | 3:34 | 2026-05-12 | 2026-06-19 |
 | [白煙](https://open.spotify.com/track/0yGq8ZsyE3cYBYQC9R1P0g) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 3:49 | 2022-05-17 | 2022-07-28 |
 | [百合の咲く場所で](https://open.spotify.com/track/5fU5rBiYS7ICg3BtojUCIn) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd) | 3:16 | 2023-02-21 | 2023-02-23 |
 | [目が覚めてon the road](https://open.spotify.com/track/1gphTBLh9vXTXNPsq67MJY) | [ザ・リラクシンズ](https://open.spotify.com/artist/2TUQcoBWcdL0ID73Hxqn2H) | [目が覚めてon the road](https://open.spotify.com/album/1CowD0JcqhSUh9NyKkmUj8) | 3:42 | 2022-05-12 | 2022-07-19 |

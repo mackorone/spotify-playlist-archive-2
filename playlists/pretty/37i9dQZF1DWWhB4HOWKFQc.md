@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Celyna Grace, Andi Rianto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504,416 likes - 91 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504,513 likes - 91 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 90 | [LOUD](https://open.spotify.com/track/5rGrtds032AS35wDDyTNN4) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 2:50 |
 | 91 | [ddok ddok ddok](https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2) | 2:35 |
 
-Snapshot ID: `AAAAAPiaNaZYB1M4hxDBPReWFS4gWSZs`
+Snapshot ID: `AAAAAJ2g2VcGG2/tM9PmmMCqARESsn7r`

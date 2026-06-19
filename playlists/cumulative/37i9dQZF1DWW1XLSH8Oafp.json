@@ -2639,6 +2639,28 @@
     },
     {
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/7kUK8G239qBQV4rbdAwL8V"
+      },
+      "artists": [
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        },
+        {
+          "name": "DJ Traytex",
+          "url": "https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191286,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/0HgCPFrL49BKiQv6WSJlMG"
+    },
+    {
+      "album": {
         "name": "BLINDED (ONLYTHENEXT Remix)",
         "url": "https://open.spotify.com/album/1Ngx2Q24qZR1opZ3N1diH2"
       },
@@ -7584,7 +7606,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 158897,
       "name": "Falling Forever",
       "url": "https://open.spotify.com/track/3BHkirzjmCsPVi1b6HTTBH"
@@ -7656,7 +7678,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 331026,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/2WT6GKGDjx6v22XNlnpvpP"
@@ -9295,6 +9317,28 @@
     },
     {
       "album": {
+        "name": "Goes Like",
+        "url": "https://open.spotify.com/album/2FeWQKBnsphp5N5xyCuBXZ"
+      },
+      "artists": [
+        {
+          "name": "From Dave",
+          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
+        },
+        {
+          "name": "That Franco",
+          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169392,
+      "name": "Goes Like",
+      "url": "https://open.spotify.com/track/05p4Ruz6Pg0X3IuyZ3BbBR"
+    },
+    {
+      "album": {
         "name": "Going On",
         "url": "https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P"
       },
@@ -9885,6 +9929,24 @@
     },
     {
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/6fWscyRXz4JJ58c3E2Xhpe"
+      },
+      "artists": [
+        {
+          "name": "Dogs I Know",
+          "url": "https://open.spotify.com/artist/659NKYZdNCCOnkKwedxXcQ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/0p7xa6EfNLHiwcf130aQRT"
+    },
+    {
+      "album": {
         "name": "Heart Sign",
         "url": "https://open.spotify.com/album/0hdD2IrVbfDzOh57yj37Vd"
       },
@@ -10056,7 +10118,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 205693,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
@@ -13983,6 +14045,28 @@
     },
     {
       "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/02nESuAGbJmRZ7241OVBVm"
+      },
+      "artists": [
+        {
+          "name": "Kiimi",
+          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
+        },
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251285,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/0MaXDIUSHkVaAdy0tXokh5"
+    },
+    {
+      "album": {
         "name": "Lose Our Minds",
         "url": "https://open.spotify.com/album/286fCu34pH9RIuXoDWJNHJ"
       },
@@ -16120,7 +16204,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 126926,
       "name": "Nobody (Like You)",
       "url": "https://open.spotify.com/track/2ua4P7zVjvyDp54hhGEALs"
@@ -19818,7 +19902,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 159000,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/0wS0uD53rZpxU5k0RSVvWy"
@@ -24976,6 +25060,28 @@
       "duration_ms": 247275,
       "name": "Who I Adore",
       "url": "https://open.spotify.com/track/6JZGNF6zU0InVXemXhyFVR"
+    },
+    {
+      "album": {
+        "name": "why? (nebula)",
+        "url": "https://open.spotify.com/album/0hLzNv94kBjFkSGpmPf6Ul"
+      },
+      "artists": [
+        {
+          "name": "Sillage",
+          "url": "https://open.spotify.com/artist/5tQCbzDeBy8NlI90GKQdf6"
+        },
+        {
+          "name": "Sophiz",
+          "url": "https://open.spotify.com/artist/5H1y7yh5JGs79h3Dfa59d4"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209374,
+      "name": "why? (nebula)",
+      "url": "https://open.spotify.com/track/3hS2uX4kSjgGjZptEFbgCr"
     },
     {
       "album": {

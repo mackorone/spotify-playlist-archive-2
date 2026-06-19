@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-580 songs - 1 day 8 hr 38 min
+581 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Amor Pirata](https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:15 | 2022-03-11 |  |
 | [Amor Secreto](https://open.spotify.com/track/54Jr171k3fvsYRcuy6G7qi) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Mi Corazón Canta para Vos](https://open.spotify.com/album/3a8kuLV7GUW3tDNBNsGC7L) | 3:18 | 2022-04-01 | 2022-06-10 |
 | [Amor y Deudas](https://open.spotify.com/track/2lX34uxOakDVkNDwiV0aCL) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Amor y Deudas](https://open.spotify.com/album/7lt8y2dL66EVdZtlSJcbaY) | 4:20 | 2022-01-21 | 2022-06-17 |
-| [Angelito](https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Angelito](https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa) | 2:51 | 2024-08-16 |  |
+| [Angelito](https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Angelito](https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa) | 2:51 | 2024-08-16 | 2026-06-19 |
 | [Anoche La Perdí](https://open.spotify.com/track/6IW4czFoRns3q8uYzh5Hq7) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp), [Simplemente El Ángel](https://open.spotify.com/artist/4crpkDgxnANIqV3V7gOq4g) | [Anoche La Perdí](https://open.spotify.com/album/3daX2Z6krmShXdXPzApMCU) | 2:39 | 2024-08-16 | 2024-08-31 |
 | [Anochecemos](https://open.spotify.com/track/2o5kxY2w24kZWrzPSJFquu) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Anochecemos](https://open.spotify.com/album/4dlrWntcibuDtUW2jOE6lj) | 3:24 | 2023-10-27 | 2024-10-18 |
 | [APD](https://open.spotify.com/track/5osrCuTDdYz50A8CVgZBBI) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [APD](https://open.spotify.com/album/1Dy7ZCsu6OElfEgoE3L8Zb) | 2:49 | 2024-05-10 | 2024-08-23 |
@@ -221,6 +221,7 @@
 | [Fue un Error \- Sesión de Exitos](https://open.spotify.com/track/3peFDcJ0B3YBs4TIs050ta) | [Grupo Green](https://open.spotify.com/artist/3OSozwQXzKD9PY3M4hfkEW) | [Sesion de Éxitos](https://open.spotify.com/album/28NNXRCXsi7O6x2dj8XI9g) | 3:39 | 2022-06-24 | 2022-09-02 |
 | [Fuerte No Soy](https://open.spotify.com/track/03iuCunPkJmx6b7P3V0Mfq) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Fuerte No Soy](https://open.spotify.com/album/0otGOAVyYMS2WeiRwLwr2j) | 4:39 | 2024-04-19 | 2024-06-30 |
 | [Fuiste](https://open.spotify.com/track/4El1IIpdwvw1keVLr2oAnw) | [Verónica Lujan](https://open.spotify.com/artist/6o4MTZaGrBQ0pHMPYlQYa2) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:03 | 2022-01-21 | 2022-07-22 |
+| [Gato](https://open.spotify.com/track/33b2F8s13zZuNEM5x7sE7y) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Gato](https://open.spotify.com/album/413BLQ4l5raJnILLe7QBfm) | 2:58 | 2026-06-19 |  |
 | [Grabada en Mi Corazón](https://open.spotify.com/track/5QfJefR5mjd95r2764uMmV) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Grabada en Mi Corazón](https://open.spotify.com/album/3sFG1c5NgvJCow48WphhDA) | 2:49 | 2022-01-21 | 2022-07-16 |
 | [Gracias](https://open.spotify.com/track/5u986eU3jCkZzym2Gb3TM2) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [Gracias](https://open.spotify.com/album/3VOdx5jz3An6DX3oqjibTd) | 2:06 | 2022-04-01 | 2022-04-19 |
 | [Gritaras Te Quiero](https://open.spotify.com/track/6q84kjerpfatlMD3RzGA32) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [GOZA LA CUMBIA MAMITA!](https://open.spotify.com/album/52Fcj2EQw8kOPqX5fEHa49) | 1:48 | 2023-12-22 | 2024-01-27 |

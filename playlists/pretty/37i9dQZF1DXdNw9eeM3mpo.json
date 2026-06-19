@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Vicente Cifuentes y Joselo Osses en portada.",
-  "num_followers": 489411,
+  "num_followers": 489451,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2026-05-01 06:00:35",
-      "album": {
         "name": "Circolog\u00eda",
         "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 179720,
       "name": "Que Corran",
       "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
+    },
+    {
+      "added_at": "2026-05-01 06:00:35",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2026-05-01 06:00:35",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
-        "name": "Serie Verde - El Gran Silencio",
-        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
-    },
-    {
-      "added_at": "2026-05-01 06:00:35",
-      "album": {
         "name": "Bailar\u00edn Apocal\u00edptico",
         "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 278343,
       "name": "Entre Vos y Yo",
       "url": "https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt"
+    },
+    {
+      "added_at": "2026-05-01 06:00:35",
+      "album": {
+        "name": "Serie Verde - El Gran Silencio",
+        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
     },
     {
       "added_at": "2026-05-01 06:00:35",

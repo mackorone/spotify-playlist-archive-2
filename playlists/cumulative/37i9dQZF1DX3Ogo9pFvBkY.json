@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 142507,
       "name": "Calm Horizon",
       "url": "https://open.spotify.com/track/62caUSrD2QMvEhx2rI2MUr"
@@ -2936,7 +2936,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 180000,
       "name": "Camomille",
       "url": "https://open.spotify.com/track/190SkXUiIojCCLM6wNlcav"
@@ -3890,7 +3890,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 164000,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/3XhWWMsoLhyYh16MJkAM6B"
@@ -4304,7 +4304,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 142968,
       "name": "Curvature",
       "url": "https://open.spotify.com/track/24CWir5hBDyueHp1queIHZ"
@@ -6482,7 +6482,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 160819,
       "name": "Evidence of Light",
       "url": "https://open.spotify.com/track/7MRZ9beGeKCURYJPryjvNd"
@@ -7742,7 +7742,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 152374,
       "name": "Gentle Air",
       "url": "https://open.spotify.com/track/3n8DZSXOzfr8PtQ1jHT7pp"
@@ -7778,7 +7778,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 153333,
       "name": "Gentle Blue",
       "url": "https://open.spotify.com/track/2vKW6T5CCzWbt8eV3Vjq2x"
@@ -8650,7 +8650,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 129000,
       "name": "Hollow Dreams",
       "url": "https://open.spotify.com/track/7o25qq0syUtYMxPtp6Bnjl"
@@ -9298,7 +9298,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 119181,
       "name": "In Quiet Admirations",
       "url": "https://open.spotify.com/track/0FLmoG9ErJivjWQ8pZSoJH"
@@ -10277,6 +10277,24 @@
     },
     {
       "album": {
+        "name": "Leithinis",
+        "url": "https://open.spotify.com/album/1czkBymZBwVub3DiFz3HTs"
+      },
+      "artists": [
+        {
+          "name": "Coile\u00e1inn",
+          "url": "https://open.spotify.com/artist/5flYFtyT8qgB5GdW7SQsic"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Leithinis",
+      "url": "https://open.spotify.com/track/08xxuQziMz80GTm8Zfxob1"
+    },
+    {
+      "album": {
         "name": "Healing Spell",
         "url": "https://open.spotify.com/album/5IByIwRPBjaO6Hg6igyZBw"
       },
@@ -10468,7 +10486,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 158235,
       "name": "Light lives on",
       "url": "https://open.spotify.com/track/1AsWBnSavEiTgomJPdAm0I"
@@ -10702,7 +10720,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 183529,
       "name": "Low Cluster",
       "url": "https://open.spotify.com/track/18TUu8icDI48G0e1DqBJZp"
@@ -11674,7 +11692,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 129356,
       "name": "Moments",
       "url": "https://open.spotify.com/track/6Kuj3bBNtbgggLui4whMz6"
@@ -11800,7 +11818,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 171000,
       "name": "Moonlit Path",
       "url": "https://open.spotify.com/track/0whsNavz0WLxElFP4cmgmU"
@@ -11818,7 +11836,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 172075,
       "name": "Moonlit Reverie",
       "url": "https://open.spotify.com/track/39klIcPKxf6bcuxlx09KkS"
@@ -13013,6 +13031,24 @@
     },
     {
       "album": {
+        "name": "Oriel",
+        "url": "https://open.spotify.com/album/0sBR4u6SntXo10b1mpIRsl"
+      },
+      "artists": [
+        {
+          "name": "Ari Sol",
+          "url": "https://open.spotify.com/artist/7xX6DSIUE8TXOJjXgKz5Bs"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184363,
+      "name": "Oriel",
+      "url": "https://open.spotify.com/track/42YCCrzF1qfARWTsFpXSvf"
+    },
+    {
+      "album": {
         "name": "Our Powers",
         "url": "https://open.spotify.com/album/436sBZ537kyua9vyTdZMQ6"
       },
@@ -13078,7 +13114,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 194000,
       "name": "Overlap Zone",
       "url": "https://open.spotify.com/track/3YYJNRPrHL5YbklD92Y0GR"
@@ -14806,7 +14842,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 162800,
       "name": "Resting Field",
       "url": "https://open.spotify.com/track/320zEcFBo2MUXRQG68JhOY"
@@ -15202,7 +15238,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 159625,
       "name": "Sal Fjallsins",
       "url": "https://open.spotify.com/track/4eVJ2RTbfxUcTLnSnnKUOM"
@@ -15904,7 +15940,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 149536,
       "name": "Silent Sanctuary",
       "url": "https://open.spotify.com/track/3Tu7IMjLuD54GnjR4fMRz8"
@@ -16300,7 +16336,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 142107,
       "name": "Sofolix",
       "url": "https://open.spotify.com/track/4JepoLsttGu6IKGpbkZ1wC"

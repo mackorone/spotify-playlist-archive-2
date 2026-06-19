@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAB8hV83cmQTM5XRupG3lrol",
+  "snapshot_id": "ajHjgAAAAAC9mvIKr3AseR1N9syiIqU8",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 80745,
-      "name": "Commande musicale",
-      "url": "https://open.spotify.com/track/2eQYadzPjRQ44OjjY6wvtW"
+      "duration_ms": 44700,
+      "name": "Son miroir",
+      "url": "https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 44700,
-      "name": "Son miroir",
-      "url": "https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo"
+      "duration_ms": 80745,
+      "name": "Commande musicale",
+      "url": "https://open.spotify.com/track/2eQYadzPjRQ44OjjY6wvtW"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 87608,
-      "name": "Le temps",
-      "url": "https://open.spotify.com/track/1dzVjOWPeEwUrjBrcoIWpZ"
+      "duration_ms": 58000,
+      "name": "Perception par l'auditeur",
+      "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

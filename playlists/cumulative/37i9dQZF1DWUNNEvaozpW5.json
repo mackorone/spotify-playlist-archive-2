@@ -266,7 +266,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 197082,
       "name": "A mis 50",
       "url": "https://open.spotify.com/track/0DzGpuc4mhTkygWnY1aAXa"
@@ -762,6 +762,24 @@
       "duration_ms": 179705,
       "name": "Alguien pa ti",
       "url": "https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V"
+    },
+    {
+      "album": {
+        "name": "ALGUNA PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/4MGEYqtdNzINdek4d2fo0W"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202450,
+      "name": "ALGUNA PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/4nKiTOHUGMUvLuuhroCTS7"
     },
     {
       "album": {
@@ -1692,7 +1710,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 204368,
       "name": "B\u00fafalo",
       "url": "https://open.spotify.com/track/50CWGGcyq8U3NPYl9NeYHv"
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 187999,
       "name": "Chiquilla",
       "url": "https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K"
@@ -3738,7 +3756,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 192649,
       "name": "Dolor y Gloria",
       "url": "https://open.spotify.com/track/4xGoFJhcxyhgHC0pm6Pu1D"
@@ -5538,7 +5556,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 241941,
       "name": "Estado 03",
       "url": "https://open.spotify.com/track/29tQbUZC1rCxHP7QPBGphX"
@@ -6540,7 +6558,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 233350,
       "name": "Huella",
       "url": "https://open.spotify.com/track/0UiEfMscxb4PR7uTP7qZI3"
@@ -7284,7 +7302,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 223840,
       "name": "La Inocencia",
       "url": "https://open.spotify.com/track/5VeFMPCVVYfKy9QIZGCBYZ"
@@ -8345,6 +8363,28 @@
     },
     {
       "album": {
+        "name": "Llorar y bailar",
+        "url": "https://open.spotify.com/album/6tVZ8pZHYwtiHTCUdUxCQm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Colman",
+          "url": "https://open.spotify.com/artist/5fRFBYxLHk3yKoLS59obIq"
+        },
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205635,
+      "name": "Llorar y bailar",
+      "url": "https://open.spotify.com/track/16ILDUny5QSrCoRmuZ3vaq"
+    },
+    {
+      "album": {
         "name": "Llorar\u00e9",
         "url": "https://open.spotify.com/album/2aGiGNGM3rIQJVDXIuxjsr"
       },
@@ -9271,6 +9311,24 @@
     },
     {
       "album": {
+        "name": "Me acuerdo del Li",
+        "url": "https://open.spotify.com/album/5Pwm2zUx0nzdx4VT6GSQxi"
+      },
+      "artists": [
+        {
+          "name": "The Flying Rebollos",
+          "url": "https://open.spotify.com/artist/6sdIHPQ0hu87ff2OGpLbIj"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210465,
+      "name": "Me acuerdo del Li",
+      "url": "https://open.spotify.com/track/7KamUQq7UQC9Te5Sniywm7"
+    },
+    {
+      "album": {
         "name": "Por la boca vive el pez",
         "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
       },
@@ -9340,6 +9398,28 @@
       "duration_ms": 192906,
       "name": "Me has invitado a bailar",
       "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
+    },
+    {
+      "album": {
+        "name": "Me Levantar\u00e9 Otra Vez",
+        "url": "https://open.spotify.com/album/6sqhqh5E8IDXaK2LhwSvGu"
+      },
+      "artists": [
+        {
+          "name": "Boikot",
+          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
+        },
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "Me Levantar\u00e9 Otra Vez",
+      "url": "https://open.spotify.com/track/2yEFajNz4fcD7x5xuDEDPe"
     },
     {
       "album": {
@@ -9690,6 +9770,24 @@
       "duration_ms": 287659,
       "name": "Mis Viejos Discos de Jazz",
       "url": "https://open.spotify.com/track/6FPcpTRYUbsxonVwDXbzKk"
+    },
+    {
+      "album": {
+        "name": "Miss Dinamarca",
+        "url": "https://open.spotify.com/album/2PyYSr2ngFDyImwCdnPr8l"
+      },
+      "artists": [
+        {
+          "name": "Los Enemigos",
+          "url": "https://open.spotify.com/artist/4uiuj3kqeIHmTH87B7VMnr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208605,
+      "name": "Miss Dinamarca",
+      "url": "https://open.spotify.com/track/1YRl7r8LKZvpR8XQExBOMS"
     },
     {
       "album": {
@@ -10264,7 +10362,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 244781,
       "name": "No creo en Dios",
       "url": "https://open.spotify.com/track/1VZKxaYZxp8ZeKoxvGWVKF"
@@ -11702,7 +11800,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 352189,
       "name": "Puntos suspensivos",
       "url": "https://open.spotify.com/track/1vo9W7p9tPuzsH1b4JGDQD"
@@ -12572,6 +12670,24 @@
       "duration_ms": 219522,
       "name": "Se acaba el baile",
       "url": "https://open.spotify.com/track/2Ne8blsOJHicHczTEAE318"
+    },
+    {
+      "album": {
+        "name": "Ser Artista",
+        "url": "https://open.spotify.com/album/1o34AsgvJERz55MPyzMwGP"
+      },
+      "artists": [
+        {
+          "name": "Belarte",
+          "url": "https://open.spotify.com/artist/2HNADS1yqggfwoMmurRRvM"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175874,
+      "name": "Ser Artista",
+      "url": "https://open.spotify.com/track/3oOMhibiLHUKGU8XoSm7Jl"
     },
     {
       "album": {
@@ -13598,7 +13714,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 196146,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/5USTCcufDotVzivPhZi947"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Music that means it. Cover: Modern Woman",
+  "description": "Music that means it. Cover: overpass",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 195553,
       "name": "5168 Days",
       "url": "https://open.spotify.com/track/1H40y4eKv6JsfwMDNkbapx"
+    },
+    {
+      "album": {
+        "name": "Shaking Hips and Crashing Cars",
+        "url": "https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5"
+      },
+      "artists": [
+        {
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241706,
+      "name": "52",
+      "url": "https://open.spotify.com/track/5m8QgAyhIH4ftbgnrv3WAy"
     },
     {
       "album": {
@@ -848,7 +866,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 209085,
       "name": "Blessed Day",
       "url": "https://open.spotify.com/track/5xPB9VSc9GVomMmsrc0pbN"
@@ -2782,7 +2800,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 138747,
       "name": "Girl From NYC",
       "url": "https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk"
@@ -3164,6 +3182,24 @@
       "duration_ms": 227744,
       "name": "Heartbreak Town",
       "url": "https://open.spotify.com/track/7nT12hUGZBFNhtEszoe98S"
+    },
+    {
+      "album": {
+        "name": "Heaven Knows You're Lonely",
+        "url": "https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181773,
+      "name": "Heaven Knows You're Lonely",
+      "url": "https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e"
     },
     {
       "album": {
@@ -3873,6 +3909,24 @@
     },
     {
       "album": {
+        "name": "Elsewhere, Always",
+        "url": "https://open.spotify.com/album/2TFBs5iWa52Q3AKXnCzmPj"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216293,
+      "name": "Is This Real?",
+      "url": "https://open.spotify.com/track/30MooVcJ2zoTo2M9pkCr78"
+    },
+    {
+      "album": {
         "name": "Is This Real?",
         "url": "https://open.spotify.com/album/3XrN4VxSb9rMst9yOJNgen"
       },
@@ -3884,7 +3938,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 216293,
       "name": "Is This Real?",
       "url": "https://open.spotify.com/track/3KXse08qGP7cdOVt0BV7U4"
@@ -4500,7 +4554,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170373,
       "name": "Life's a Bitch (But I Like it So Much)",
       "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
@@ -4810,7 +4864,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 171280,
       "name": "Lucky Bean",
       "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
@@ -4828,7 +4882,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 260462,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/3BUjgjs6DCpu0pYT7PWEr8"
@@ -4958,6 +5012,24 @@
       "duration_ms": 188829,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/4ZrWs0G2sN9qimhkbQzEr1"
+    },
+    {
+      "album": {
+        "name": "Meet Me In Love",
+        "url": "https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242248,
+      "name": "Meet Me In Love",
+      "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
     },
     {
       "album": {
@@ -6571,6 +6643,24 @@
     },
     {
       "album": {
+        "name": "Southern Youth",
+        "url": "https://open.spotify.com/album/4vS8e6ggYLuO6eMNwbqRYg"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242029,
+      "name": "Southern Youth",
+      "url": "https://open.spotify.com/track/1PWh0ypifsoAUUN2HtZMpq"
+    },
+    {
+      "album": {
         "name": "Speak Up",
         "url": "https://open.spotify.com/album/6AkqY69DtCP20y2yd6YmZG"
       },
@@ -6900,6 +6990,24 @@
       "duration_ms": 202000,
       "name": "That Was A Joke",
       "url": "https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg"
+    },
+    {
+      "album": {
+        "name": "That's Me",
+        "url": "https://open.spotify.com/album/23Ny7HGfmfimPjnjbHkTR7"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131316,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/3KEovEZXkLJf8dtguk9eO8"
     },
     {
       "album": {
@@ -8037,6 +8145,24 @@
     },
     {
       "album": {
+        "name": "Who Needs Spain Ball?",
+        "url": "https://open.spotify.com/album/3pl1tGViqR3iVjTPN2zfqY"
+      },
+      "artists": [
+        {
+          "name": "Formal Sppeedwear",
+          "url": "https://open.spotify.com/artist/6jGvuyheUzkEjJLHJopDuu"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194813,
+      "name": "Who Needs Spain Ball?",
+      "url": "https://open.spotify.com/track/1aZbFQ9GwiaYLFF9VTeFur"
+    },
+    {
+      "album": {
         "name": "Wide Asleep",
         "url": "https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64"
       },
@@ -8232,7 +8358,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 162932,
       "name": "Zombieland",
       "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"

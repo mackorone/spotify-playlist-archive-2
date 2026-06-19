@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: PLAIINS",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Beartooth",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 191129,
       "name": "BRAINDEAD (feat. Toby Morse)",
       "url": "https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde"
@@ -2548,6 +2548,24 @@
       "duration_ms": 175445,
       "name": "Brutal Dreamy",
       "url": "https://open.spotify.com/track/27L1zsfjn6dcgDLsRbLMdq"
+    },
+    {
+      "album": {
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215384,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
     },
     {
       "album": {
@@ -3148,6 +3166,24 @@
       "duration_ms": 200653,
       "name": "Circe",
       "url": "https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW"
+    },
+    {
+      "album": {
+        "name": "Circular",
+        "url": "https://open.spotify.com/album/3ZSMwtRtk4LNBFXUlX7b3J"
+      },
+      "artists": [
+        {
+          "name": "The Intersphere",
+          "url": "https://open.spotify.com/artist/7GGtuvcBdHQYVbXi9B8YnY"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226153,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/4XnpXJkkKOie8Iunru0JbC"
     },
     {
       "album": {
@@ -4680,7 +4716,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 158347,
       "name": "Don't Play Nice",
       "url": "https://open.spotify.com/track/4ypwF2SzLJ0sf9IKoKt8V8"
@@ -5150,7 +5186,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 159500,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/6ofP6MhTyklCQQOSpYkiGy"
@@ -5950,7 +5986,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 222957,
       "name": "Forever/Always",
       "url": "https://open.spotify.com/track/1MoRo6wa0WcfjlOcutsnui"
@@ -6352,7 +6388,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 184444,
       "name": "Get Out of My Head",
       "url": "https://open.spotify.com/track/4FOoKNTPm2taXkfqkjynaO"
@@ -9622,7 +9658,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 190072,
       "name": "Look Ma, I'm A Don",
       "url": "https://open.spotify.com/track/2anJD22hq3IBZiVTatA8cS"
@@ -9976,6 +10012,24 @@
       "duration_ms": 233626,
       "name": "Lowlife",
       "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
+    },
+    {
+      "album": {
+        "name": "\u2060Lucid Love",
+        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210555,
+      "name": "Lucid Love",
+      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
     },
     {
       "album": {
@@ -12094,7 +12148,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 192071,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/5sZqrPVsomozAx6QnyD996"
@@ -12870,6 +12924,24 @@
       "duration_ms": 205495,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/3P3E5PHisRJ4omRhF0pbDH"
+    },
+    {
+      "album": {
+        "name": "Repainting",
+        "url": "https://open.spotify.com/album/3Y01PfjyoV8ZZlHwRI4WBI"
+      },
+      "artists": [
+        {
+          "name": "Lifespark.",
+          "url": "https://open.spotify.com/artist/5Hb2LAz1HTH6x92aONq729"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221495,
+      "name": "Repainting",
+      "url": "https://open.spotify.com/track/7mtClBCNr8k9HAybtCkBKW"
     },
     {
       "album": {
@@ -15180,7 +15252,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 209453,
       "name": "Take Me to the Start",
       "url": "https://open.spotify.com/track/2uy6p50yA029wrv17jNljJ"
@@ -15822,7 +15894,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 225871,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/0u8wRzaAaJkqpqrTYNn3bZ"
@@ -16010,6 +16082,24 @@
       "duration_ms": 200089,
       "name": "There's No Future In Optimism",
       "url": "https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U"
+    },
+    {
+      "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/60p9JOjZzp3YRQPqsdDlbz"
+      },
+      "artists": [
+        {
+          "name": "Wait of the World",
+          "url": "https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160147,
+      "name": "Thirty",
+      "url": "https://open.spotify.com/track/2BTDCcbN0pB6z0mZSxmJWj"
     },
     {
       "album": {

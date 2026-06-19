@@ -4,7 +4,7 @@
 
 > La tierra del Rap de oro puro\.  Millonario dominando
 
-169 songs - 10 hr 25 min
+170 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Canela](https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Canela](https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38) | 3:24 | 2022-07-01 |  |
 | [Categoría 5 / Huracán](https://open.spotify.com/track/1WvJiky1CYAy6ZhhBVrckj) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Categoría 5 / Huracán](https://open.spotify.com/album/3ev9hisOVt2otphJBHiJGP) | 2:45 | 2022-07-01 |  |
 | [Celebrando](https://open.spotify.com/track/1IwmThLeTTcroR7cI77CIX) | [Milkman](https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD) | [Celebrando](https://open.spotify.com/album/3gPQxHO6iXFmXCP4r9Esak) | 4:01 | 2026-02-13 | 2026-03-07 |
+| [Chamán](https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Chamán](https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi) | 2:47 | 2026-06-18 |  |
 | [Cholo](https://open.spotify.com/track/1LU62m7g2VTJwp0OOUMjPl) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:52 | 2025-07-25 |  |
 | [Cholo 2](https://open.spotify.com/track/6IMTgx19KOecnpXmbkgkyN) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Cholo 2](https://open.spotify.com/album/275lbusSPofF1Oqr0wOdhL) | 3:03 | 2026-02-06 |  |
 | [Click Clack](https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Chain Trackz](https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM) | [Click Clack](https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE) | 2:58 | 2023-07-07 |  |
@@ -93,7 +94,7 @@
 | [Me Ha Costado](https://open.spotify.com/track/1V14rt4SEpMU1wCdmGz6eB) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:36 | 2025-10-17 |  |
 | [Mi Clero](https://open.spotify.com/track/7LdLq9qpjRDksIQlO5EyAQ) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [De Vuelta a las Andadas](https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q) | 3:41 | 2025-06-27 |  |
 | [Mi Tío Snoop](https://open.spotify.com/track/48XgkAh1fkcZqA2EZWCDX6) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Mi Tío Snoop](https://open.spotify.com/album/6ugE8dVzZdepHyyGxCt2kW) | 3:23 | 2022-07-01 |  |
-| [Montecarlo](https://open.spotify.com/track/0AGTMYewBJqWX8VltU4gVe) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Montecarlo](https://open.spotify.com/album/1499LDt8XAKTpIPgtbn2zd) | 2:34 | 2023-02-17 |  |
+| [Montecarlo](https://open.spotify.com/track/0AGTMYewBJqWX8VltU4gVe) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Montecarlo](https://open.spotify.com/album/1499LDt8XAKTpIPgtbn2zd) | 2:34 | 2023-02-17 | 2026-06-19 |
 | [Mustang 65'](https://open.spotify.com/track/3vVnKrR31NraqoVTMIm0Cp) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 2:10 | 2023-08-31 | 2024-04-19 |
 | [Mustang 65'](https://open.spotify.com/track/4AukEZfhVeIzapCkwjJXGA) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 2:10 | 2024-04-12 |  |
 | [Nada Me Va A Importar](https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Fobia](https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq) | 2:42 | 2022-07-01 | 2024-04-19 |

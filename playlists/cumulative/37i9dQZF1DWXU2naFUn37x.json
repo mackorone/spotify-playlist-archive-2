@@ -2866,6 +2866,28 @@
     {
       "album": {
         "name": "Bandito",
+        "url": "https://open.spotify.com/album/7aeDTh7h77f5hsLz6f7DrP"
+      },
+      "artists": [
+        {
+          "name": "Dipinto",
+          "url": "https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9"
+        },
+        {
+          "name": "Fresh Beatz",
+          "url": "https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120468,
+      "name": "Bandito",
+      "url": "https://open.spotify.com/track/4TTJpJqCoG1HrXhnNENqAp"
+    },
+    {
+      "album": {
+        "name": "Bandito",
         "url": "https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh"
       },
       "artists": [
@@ -4500,6 +4522,28 @@
       "duration_ms": 137100,
       "name": "CALOGERO",
       "url": "https://open.spotify.com/track/1Fm31bNqcmiQuhiUtzhTET"
+    },
+    {
+      "album": {
+        "name": "#FREEDAG (album)",
+        "url": "https://open.spotify.com/album/1Nlmk5ApaxYjkryFodo4O6"
+      },
+      "artists": [
+        {
+          "name": "Dagood YL",
+          "url": "https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw"
+        },
+        {
+          "name": "twentyone21",
+          "url": "https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227139,
+      "name": "Camicia e Zanotti",
+      "url": "https://open.spotify.com/track/0sqNyE1IULjfZsjEaH15MK"
     },
     {
       "album": {
@@ -8358,7 +8402,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 183680,
       "name": "Floyd Mayweather (feat. Papa V e Nerissima Serpe)",
       "url": "https://open.spotify.com/track/3xrtjStNBOWioe7CN7YMDy"
@@ -8472,7 +8516,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 197000,
       "name": "FOTTUTO COLTELLO (feat. Visino Bianco, UNK)",
       "url": "https://open.spotify.com/track/6A9GMPXCSGEiss8QUdAa1N"
@@ -10078,7 +10122,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 159312,
       "name": "Hoola Hop (feat. Ernia)",
       "url": "https://open.spotify.com/track/5JDy1S1EjyqbjvWCKjUxK6"
@@ -15868,7 +15912,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 170571,
       "name": "Old Fashion (feat. Promessa e Flaco G)",
       "url": "https://open.spotify.com/track/5j5L8CShNbWaYrFJWbXZs3"
@@ -19473,6 +19517,24 @@
     },
     {
       "album": {
+        "name": "Selena Gomez",
+        "url": "https://open.spotify.com/album/2JrawLPb3QRBr3Jp2XU2yb"
+      },
+      "artists": [
+        {
+          "name": "Lubi",
+          "url": "https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175336,
+      "name": "Selena Gomez",
+      "url": "https://open.spotify.com/track/22pDDaPCT3zthpC73iy5ui"
+    },
+    {
+      "album": {
         "name": "Reinsertado 2.0",
         "url": "https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii"
       },
@@ -20557,6 +20619,24 @@
     },
     {
       "album": {
+        "name": "The Spring Breaker",
+        "url": "https://open.spotify.com/album/5CpEZQlrE4gao4muwNQXO7"
+      },
+      "artists": [
+        {
+          "name": "DrefGold",
+          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Spring Breaker",
+      "url": "https://open.spotify.com/track/063sIXbAOj1QS6feDrGnWz"
+    },
+    {
+      "album": {
         "name": "SQUALO 2 (feat. Gu\u00e8 & Nerissima Serpe)",
         "url": "https://open.spotify.com/album/52ENaEiNMKpXEpR3V8jFkv"
       },
@@ -20620,6 +20700,24 @@
       "duration_ms": 144506,
       "name": "STAILA (feat. Flaco G)",
       "url": "https://open.spotify.com/track/6X49o8gZ6lEWXZ60da1qmT"
+    },
+    {
+      "album": {
+        "name": "Stamm Chin",
+        "url": "https://open.spotify.com/album/09MdxbHAUll6rtS3kw6c33"
+      },
+      "artists": [
+        {
+          "name": "Young Hash",
+          "url": "https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Stamm Chin",
+      "url": "https://open.spotify.com/track/4JuXGa27SZ6VuoJmS07XsU"
     },
     {
       "album": {
@@ -22210,7 +22308,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 178285,
       "name": "Trafficante 3arbi (feat. Baby Gang, TK)",
       "url": "https://open.spotify.com/track/6FzRZp1NBF3WrZbIL23coE"

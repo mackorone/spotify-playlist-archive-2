@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Ganges.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Cupido.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 152000,
       "name": "13:13",
       "url": "https://open.spotify.com/track/629u8W4IKk41rhcbB49mM9"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 185454,
       "name": "Cabriolas",
       "url": "https://open.spotify.com/track/6MUKyohIAFyULlCbYcqBKZ"
@@ -2178,6 +2178,28 @@
       "duration_ms": 140571,
       "name": "casandra",
       "url": "https://open.spotify.com/track/5xxlq2rPFNbO3uTi8bRNUe"
+    },
+    {
+      "album": {
+        "name": "CASCABEL",
+        "url": "https://open.spotify.com/album/7qrKTrNPyEbIYfDGUviaMO"
+      },
+      "artists": [
+        {
+          "name": "BAJANDO AL MERCAO'",
+          "url": "https://open.spotify.com/artist/6pnJFEopQYVFQaesKOY5lG"
+        },
+        {
+          "name": "Aldhara",
+          "url": "https://open.spotify.com/artist/5Na7xWRc8FmFmdZJYUx12L"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230080,
+      "name": "CASCABEL",
+      "url": "https://open.spotify.com/track/0GxxBPa73yeSMw83i9MkOz"
     },
     {
       "album": {
@@ -3012,7 +3034,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 131071,
       "name": "CUANDO HABLES DE AMOR",
       "url": "https://open.spotify.com/track/11KZnk4XbaeYZrRZTGJcHM"
@@ -3168,7 +3190,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 189038,
       "name": "dame luz",
       "url": "https://open.spotify.com/track/0neuCXxllFo1Vw4kfd5PIP"
@@ -4588,7 +4610,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 188004,
       "name": "El Precipicio",
       "url": "https://open.spotify.com/track/0yu3ASlGmwus66Huo9nC8Z"
@@ -7038,7 +7060,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 188594,
       "name": "Kinder Bueno & Lotus",
       "url": "https://open.spotify.com/track/7qcK6Udp3c3WZ81HhU59fz"
@@ -8420,7 +8442,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 175476,
       "name": "Love Is The Answer",
       "url": "https://open.spotify.com/track/0v4Lkhx4SUcI9XHmgGFroc"
@@ -8568,6 +8590,28 @@
       "duration_ms": 253228,
       "name": "Mala M\u00eda",
       "url": "https://open.spotify.com/track/4NeYeEIf8pvY69LVUI6H2U"
+    },
+    {
+      "album": {
+        "name": "Amor Compartido",
+        "url": "https://open.spotify.com/album/5iNKAEiXpsvzu1Q9NyoVSy"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183486,
+      "name": "Maldito Cupido",
+      "url": "https://open.spotify.com/track/1gebUOovFENh3fMGWzVR7m"
     },
     {
       "album": {
@@ -9104,6 +9148,24 @@
       "duration_ms": 215598,
       "name": "Medias Brillantes",
       "url": "https://open.spotify.com/track/5bGCyURMcLEhoijhaz10qw"
+    },
+    {
+      "album": {
+        "name": "Mejor ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "Mejor ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN"
     },
     {
       "album": {
@@ -11087,6 +11149,28 @@
     },
     {
       "album": {
+        "name": "OLD & FAT",
+        "url": "https://open.spotify.com/album/6ttqI1YtYwfdDBcatmS9eS"
+      },
+      "artists": [
+        {
+          "name": "Escandaloso Xp\u00f3sito",
+          "url": "https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf"
+        },
+        {
+          "name": "GRAVY",
+          "url": "https://open.spotify.com/artist/2KbUHBduxmVybndhBOItql"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201609,
+      "name": "OLD & FAT",
+      "url": "https://open.spotify.com/track/1JYBJTKCsZgQgsJ1IAgSNQ"
+    },
+    {
+      "album": {
         "name": "Olv\u00eddame",
         "url": "https://open.spotify.com/album/7AL0d8NdaW52RzqyKrFNtV"
       },
@@ -12089,6 +12173,24 @@
     },
     {
       "album": {
+        "name": "Que Le Jodan Al Mundo",
+        "url": "https://open.spotify.com/album/7arXBBtAGfS3ySJYfFzCtQ"
+      },
+      "artists": [
+        {
+          "name": "K!ngdom",
+          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196529,
+      "name": "Que Le Jodan Al Mundo",
+      "url": "https://open.spotify.com/track/4Ps6AWhKeKw718RdeYI37H"
+    },
+    {
+      "album": {
         "name": "Que Me Beses !!!",
         "url": "https://open.spotify.com/album/0UQAm28OEezp9rkTSKJrY8"
       },
@@ -12502,7 +12604,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-19",
       "duration_ms": 114893,
       "name": "raxets",
       "url": "https://open.spotify.com/track/2Qh4VZQvEuoR0rm6ZjKzar"
@@ -12708,6 +12810,24 @@
       "duration_ms": 187588,
       "name": "ROC\u00cdN",
       "url": "https://open.spotify.com/track/29A0LjKHNQj8sNlwk4ogze"
+    },
+    {
+      "album": {
+        "name": "rodeo",
+        "url": "https://open.spotify.com/album/1EocBshKziq5ihMvgM4LRg"
+      },
+      "artists": [
+        {
+          "name": "Poster Boy",
+          "url": "https://open.spotify.com/artist/2uQ5MPeAoOkb9B6dwBzjze"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198909,
+      "name": "rodeo",
+      "url": "https://open.spotify.com/track/27f887zAAUFY80xyqt67MB"
     },
     {
       "album": {
@@ -14183,6 +14303,24 @@
     },
     {
       "album": {
+        "name": "tengo, tengo pero quiero, quiero (si t\u00fa me dices ven)",
+        "url": "https://open.spotify.com/album/07ekPEnRGyOSHLrlbIUGmN"
+      },
+      "artists": [
+        {
+          "name": "Russian Red",
+          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165085,
+      "name": "tengo, tengo pero quiero, quiero (si t\u00fa me dices ven)",
+      "url": "https://open.spotify.com/track/0jG5AGUs2zoE1Iawvl50Wy"
+    },
+    {
+      "album": {
         "name": "TERT\u00daLIA",
         "url": "https://open.spotify.com/album/0of0RED7msFMtdfZjE5aqa"
       },
@@ -14802,6 +14940,28 @@
       "duration_ms": 145408,
       "name": "Tu Buen Chaval",
       "url": "https://open.spotify.com/track/3co2WqpeIhiQI21jz2l2qm"
+    },
+    {
+      "album": {
+        "name": "Tu Cama",
+        "url": "https://open.spotify.com/album/3YT0cyVNWIjXmLrgH7nZbj"
+      },
+      "artists": [
+        {
+          "name": "Ben Yart",
+          "url": "https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV"
+        },
+        {
+          "name": "Mr. Worth",
+          "url": "https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154178,
+      "name": "Tu Cama",
+      "url": "https://open.spotify.com/track/6d703PKCsvMKo71Jv0QcE9"
     },
     {
       "album": {

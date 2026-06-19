@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 5828,
+  "num_followers": 5830,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajCSAAAAAAALcpuiYc9UtsdW1RmALUN3",
+  "snapshot_id": "ajHjgAAAAADiXb8wkiVzfH62GQmyNzCD",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 227053,
+      "name": "A Tiempo",
+      "url": "https://open.spotify.com/track/0l7o1qoJ754BKRlH7uBf2q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 177389,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instrucciones Para Ser Feliz",
         "url": "https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV"
       },
@@ -311,38 +347,6 @@
       "duration_ms": 149312,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/6AjUPlLbv6uZvlNccKMKhN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Pista",
-        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 239504,
-      "name": "De Nada Me Arrepiento",
-      "url": "https://open.spotify.com/track/31tKIt6qGlzqT3DV3NIQRF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOS DOS DOS",
-        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 227053,
-      "name": "A Tiempo",
-      "url": "https://open.spotify.com/track/0l7o1qoJ754BKRlH7uBf2q"
     },
     {
       "added_at": null,
@@ -386,15 +390,11 @@
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 177389,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV"
+      "duration_ms": 239504,
+      "name": "De Nada Me Arrepiento",
+      "url": "https://open.spotify.com/track/31tKIt6qGlzqT3DV3NIQRF"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Narices Fr\u00edas",
+        "url": "https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 303088,
+      "name": "Narices Fr\u00edas",
+      "url": "https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Mala Hora",
         "url": "https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 199736,
       "name": "YA NO SIENTO FR\u00cdO",
       "url": "https://open.spotify.com/track/5pWKM3ZxK7T14uSyuxVrH5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Narices Fr\u00edas",
-        "url": "https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 303088,
-      "name": "Narices Fr\u00edas",
-      "url": "https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 177610,
-      "name": "Que Locura Enamorarme de Ti - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ"
+      "duration_ms": 163295,
+      "name": "\u00bfY C\u00f3mo Es \u00c9l? - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/0EFtIku6LZPToZJ2F3hath"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 163295,
-      "name": "\u00bfY C\u00f3mo Es \u00c9l? - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/0EFtIku6LZPToZJ2F3hath"
+      "duration_ms": 177610,
+      "name": "Que Locura Enamorarme de Ti - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ"
     },
     {
       "added_at": null,

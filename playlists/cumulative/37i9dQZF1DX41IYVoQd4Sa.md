@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : דודו טסה
 
-407 songs - 23 hr 45 min
+408 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Stuck In Heaven \(AATM\) \- Live](https://open.spotify.com/track/2thCcR8O7YwgUTIjrIQBuX) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Stuck In Heaven \(AATM\) \[Live\]](https://open.spotify.com/album/29041H9UFjzxE1zrVEQ7Km) | 2:50 | 2026-04-30 | 2026-06-01 |
 | [Sun & Lemonade](https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1) | [Loren Peled](https://open.spotify.com/artist/2Oj7ayX2JXiMWg04Ysnmeh), [Daniella Pick](https://open.spotify.com/artist/0x3Etv5r5Ym0XGTC5rWMIp) | [Sun & Lemonade](https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ) | 2:59 | 2025-12-11 | 2026-02-27 |
 | [Sunflowers](https://open.spotify.com/track/7Ky2cG8KrGDAANz8gso58t) | [flatmate sessions](https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW), [LNDE](https://open.spotify.com/artist/2YuMX7ytJAdMfJr7x8r7Be) | [Sunflowers](https://open.spotify.com/album/0BouAkjyz1EW1szwF5yyhB) | 3:54 | 2025-02-13 | 2025-03-21 |
-| [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 | 2025-06-05 |  |
+| [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 | 2025-06-05 | 2026-06-19 |
 | [The Player](https://open.spotify.com/track/0L22an9RKBbFR3rT1yOS3W) | [Roy Avital](https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP), [Totemo](https://open.spotify.com/artist/6tUQYwxSVGcNxUYvxIkqJg) | [The Player](https://open.spotify.com/album/57AxBAyxN8XhDkLkkcMC2S) | 3:32 | 2025-08-21 | 2025-09-06 |
 | [To Whatever End](https://open.spotify.com/track/1LVfQqLN9SK81Du4lxuzwQ) | [Geva Alon](https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz) | [No Defenses](https://open.spotify.com/album/6TJaMzOKe7MYNvop4wOWo5) | 3:39 | 2025-11-27 | 2025-12-19 |
 | [U GOT PAID !!!!](https://open.spotify.com/track/4AL7zQTdkSkFBr1Sk0lhDg) | [Egozi](https://open.spotify.com/artist/06FcDNksGd8xlNOgN8f04x) | [U GOT PAID !!!!](https://open.spotify.com/album/2KnPVibHGAtS1QKyDLi6qj) | 2:47 | 2026-02-19 | 2026-02-27 |
@@ -292,6 +292,7 @@
 | [כשאין בי אהבה](https://open.spotify.com/track/1H4HWSagU7m1FjQf3slAKw) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [כשאין בי אהבה](https://open.spotify.com/album/7jpjHhEo31VK1T5DaVB8S5) | 3:20 | 2024-06-27 | 2024-07-12 |
 | [כשאתה לא כאן](https://open.spotify.com/track/5rBTHGX6GHSVkNpnVVsrre) | [Mika Tal](https://open.spotify.com/artist/0MmJ5Op44ZkXimqUvybV31) | [כשאתה לא כאן](https://open.spotify.com/album/0jzo0lYXTVNxdeKxnDHWGx) | 2:26 | 2025-11-20 | 2025-11-28 |
 | [כשתהיה גדול](https://open.spotify.com/track/0Q9Ov43PNEpJETS22zCkO3) | [Mish Bejerano](https://open.spotify.com/artist/1oG8qiBUA1WVFpYkesEZBH) | [כשתהיה גדול](https://open.spotify.com/album/6LBEj25cxtyqT3H5SAduQR) | 3:31 | 2024-08-08 | 2024-08-23 |
+| [כתם](https://open.spotify.com/track/6tLMlJhu09t09P4QnDV005) | [קיקי מלינקי](https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo), [Uri Brauner Kinrot](https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9) | [כתם](https://open.spotify.com/album/35RiUVgIeaoV3sMqnMKD4L) | 4:15 | 2026-06-18 |  |
 | [לא זמן טוב](https://open.spotify.com/track/7rJw8ABsu0fwWFSiQJ3zWD) | [Omer Moskovich](https://open.spotify.com/artist/0QRKWNU8pxIapKWMqgX72s) | [לא זמן טוב](https://open.spotify.com/album/2iNpn8Bzi48aKNFqBuHpxY) | 3:50 | 2025-02-27 | 2025-04-13 |
 | [לא לבד](https://open.spotify.com/track/1q9u5uDVBZzvjgTMbmE29i) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [לא לבד](https://open.spotify.com/album/10Sp1KBx5ZOfJxmdBEnUaW) | 4:00 | 2024-06-27 | 2024-07-13 |
 | [לא לדאוג \(עם יוני בלוך\)](https://open.spotify.com/track/18C8YzQwEbgNPbSVg8o0Zz) | [Daniel Koren](https://open.spotify.com/artist/2YnRSGcB6ty615zxv5SmFv), [Yoni Bloch](https://open.spotify.com/artist/3gC0JIIgE2lK3yztam5ndm) | [לא לדאוג \(עם יוני בלוך\)](https://open.spotify.com/album/72pp7GYO2I3I90MWoLEdFs) | 2:29 | 2025-03-20 | 2025-05-30 |
