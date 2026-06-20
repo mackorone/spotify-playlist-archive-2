@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: BabyChiefDoIt
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,348 likes - 99 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,377 likes - 99 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

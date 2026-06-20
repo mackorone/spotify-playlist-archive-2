@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Navaan Sandhu & Param
 
-420 songs - 21 hr 32 min
+421 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Glassy](https://open.spotify.com/track/0IeIYYW7KFt5sKbAVAwuyX) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [RESUME](https://open.spotify.com/album/46JNBkfOGwjJ5HS39wNWrX) | 3:03 | 2024-10-24 | 2025-01-09 |
 | [Goli \- Chapter 2](https://open.spotify.com/track/1VN0qoO0RdMwq4BpwfatIj) | [Harvy Sandhu](https://open.spotify.com/artist/1pKUpf9IOuy2rZ0jxoo3Nz), [Maahi Sharma](https://open.spotify.com/artist/3u8IH8WOkyRPMiB07jZknQ), [Mirroronly](https://open.spotify.com/artist/5Z4xc8enAcMaWp5xkRA5ej) | [Goli \- Chapter 2](https://open.spotify.com/album/3WjmUxyK9VVFI7gF2rf7eE) | 2:58 | 2026-05-15 |  |
 | [Graph](https://open.spotify.com/track/6GcHqqvdC7W9j46h78hAgg) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Graph](https://open.spotify.com/album/5ahdDmuYBvzCYI2kCo2cS0) | 2:35 | 2025-11-06 |  |
-| [GT Road](https://open.spotify.com/track/3nA63JVZMYAgWizQVGHyQ4) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [GT Road](https://open.spotify.com/album/39dY7pVHwpoyndxNjtxwPI) | 2:32 | 2025-02-03 |  |
+| [GT Road](https://open.spotify.com/track/3nA63JVZMYAgWizQVGHyQ4) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [GT Road](https://open.spotify.com/album/39dY7pVHwpoyndxNjtxwPI) | 2:32 | 2025-02-03 | 2026-06-20 |
 | [Gucci Gabhru](https://open.spotify.com/track/11FzxuVIoOWo07FyGwT8iR) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Gucci Gabhru](https://open.spotify.com/album/2HI0L36kWoMhhzIPQw9xki) | 2:31 | 2025-01-08 |  |
 | [Gulabi Pagg](https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:50 | 2025-05-02 | 2026-04-24 |
 | [Gundagardi \(“Dakuaan Da Munda 2"\)](https://open.spotify.com/track/6mcKuKxSM8AwZWiX3gcS4Q) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Gundagardi \(“Dakuaan Da Munda 2"\)](https://open.spotify.com/album/5LoEtwtK8sPH2AfRnOjfMy) | 3:22 | 2025-01-08 | 2025-04-08 |
@@ -383,6 +383,7 @@
 | [Target](https://open.spotify.com/track/5zpRdQxwh5gsdF4pH4ZAyL) | [Baaghi](https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo), [Savvy Sandhu](https://open.spotify.com/artist/7JNNQOhXwS5i8ENCGLBUgo) | [Target](https://open.spotify.com/album/4T6fHklPf7jjGYf4LeRlG4) | 2:57 | 2025-01-08 | 2025-01-30 |
 | [Taseer](https://open.spotify.com/track/6Av8FV73LpMQP4rPt8EhEu) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [Taseer](https://open.spotify.com/album/0JIuAPqkhqfYn3GFeQ5KMu) | 2:42 | 2025-03-25 |  |
 | [Taur](https://open.spotify.com/track/36rHMZtn1m5BsBkOOCf7l0) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Taur](https://open.spotify.com/album/4qT64NdvLkejlbqsJvZs5T) | 2:46 | 2023-07-26 | 2024-12-03 |
+| [Taur Naal](https://open.spotify.com/track/4ISH0XCwm5fmTH7sW8ilLO) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Taur Naal](https://open.spotify.com/album/0063cpo0TQdakud7DJXspa) | 2:49 | 2026-06-19 |  |
 | [Teeje Week](https://open.spotify.com/track/000RDCYioLteXcutOjeweY) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Teeje Week](https://open.spotify.com/album/6LxCxBowIfX7JAfmafOIaM) | 3:10 | 2025-01-08 |  |
 | [Teesi](https://open.spotify.com/track/6HBZnstI3gzT5gFvCHUkF0) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Jaadugar](https://open.spotify.com/album/3eWBtoZp2c2skkiEuz4YSQ) | 3:13 | 2025-05-02 |  |
 | [Tell Me Honestly](https://open.spotify.com/track/2vYOc06QkjMCSQjpf7hISL) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Tell Me Honestly](https://open.spotify.com/album/3JpW1WY2iNxgVGUNQFw37S) | 3:45 | 2025-02-06 |  |

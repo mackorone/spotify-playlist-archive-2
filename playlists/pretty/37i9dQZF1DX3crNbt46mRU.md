@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Luciano, Jazeek, Mauvais djo, Mike Candys, Tyla & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,907 likes - 94 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,032 likes - 94 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 20 | [Rhythm](https://open.spotify.com/track/3DJXImQZvUqOPgB7gFdl9n) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [NiklasWilson](https://open.spotify.com/artist/07AXCH6sR0JTXswQ8zeKjt) | [Rhythm](https://open.spotify.com/album/4saUgq3ngr570Ejluzk5Re) | 2:09 |
 | 21 | [Y méritent pas](https://open.spotify.com/track/60071ZZAxwmHyubRk4DBCO) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Y méritent pas](https://open.spotify.com/album/1hLHkG5EzDG7nGBjdXifQ6) | 2:45 |
 | 22 | [Go That High](https://open.spotify.com/track/5ky2asWUDCHRTKt2c769X5) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Go That High](https://open.spotify.com/album/6yvzDsYQpyLiorTkWO29PK) | 3:24 |
-| 23 | [BLN](https://open.spotify.com/track/16sS9eDTyfAIF5NL2EW9nK) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE), [Gangsta Ralph](https://open.spotify.com/artist/2N3l2KHvPvRPi4qFFoVZuU), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [BLN](https://open.spotify.com/album/2oYj4jpctURNdT2Xfx6HDj) | 3:33 |
+| 23 | [BLN](https://open.spotify.com/track/16sS9eDTyfAIF5NL2EW9nK) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE), [Gangsta Ralph](https://open.spotify.com/artist/2N3l2KHvPvRPi4qFFoVZuU), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [DJ Desue](https://open.spotify.com/artist/2olISwRbw41r9bC9GKGbCe) | [BLN](https://open.spotify.com/album/2oYj4jpctURNdT2Xfx6HDj) | 3:33 |
 | 24 | [Crop Top Boy](https://open.spotify.com/track/6dZfgdDKew60Qq7Jjn6Z94) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Crop Top Boy](https://open.spotify.com/album/4nIFrIJ8WucC5GBEf3VvcK) | 2:09 |
 | 25 | [Heaven](https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Heaven](https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp) | 3:10 |
 | 26 | [Change You](https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH) | [Linda Wolf](https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo) | [Change You](https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT) | 4:26 |

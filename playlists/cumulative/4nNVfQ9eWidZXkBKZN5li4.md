@@ -4,7 +4,7 @@
 
 > Groove to Desi chart\-toppers and Bollywood’s top TikTok hits &amp; Reels Anthems —featuring Arijit Singh, Badshah, AP Dhillon, Shreya Ghoshal, Neha Kakkar, Sunidhi Chauhan, A.R\. Rahman, Pritam, and Tanishk Bagchi!
 
-386 songs - 23 hr 58 min
+387 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bajre Da Sitta](https://open.spotify.com/track/5LDvAJwWczQ4DOjKIEtWZs) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Bajre Da Sitta](https://open.spotify.com/album/2Z58gr9ZIZdHOC2tL7tbYa) | 2:44 | 2021-01-14 | 2024-07-13 |
 | [Ban Ke Dikha Ikkis \(From "Ikkis"\)](https://open.spotify.com/track/6Ivg5PNRGL5jsZJdHVliTi) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Ban Ke Dikha Ikkis \(From "Ikkis"\)](https://open.spotify.com/album/4J2vnSGmsEhlhkqczdt1Xf) | 2:52 | 2025-12-09 |  |
 | [Bana Sharabi \(From "Govinda Naam Mera"\)](https://open.spotify.com/track/2T1K8XIPSIcvXueBS6kw2L) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Bana Sharabi \(From "Govinda Naam Mera"\)](https://open.spotify.com/album/5aCiRP8E4N9Tt0BosHPyfV) | 3:48 | 2022-12-06 | 2025-10-30 |
+| [Bandhu 2.0 \(From "Cocktail 2"\)](https://open.spotify.com/track/4qnFfsCaMe2Nsg1VfFPxq9) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Bandhu 2.0 \(From "Cocktail 2"\)](https://open.spotify.com/album/5830mF41OEgnX3twGqEzSL) | 3:41 | 2026-06-19 |  |
 | [Barbaad \(From "Saiyaara"\)](https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Barbaad \(From "Saiyaara"\)](https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF) | 5:57 | 2025-07-29 | 2026-02-03 |
 | [bargad](https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl) | [sufr](https://open.spotify.com/artist/0H2Xt7XJQyDItXNN3j7F1F), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [bargad](https://open.spotify.com/album/5BnxT8zqiWLJTzSPouJd1n) | 2:55 | 2025-12-01 | 2026-03-20 |
 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 | 2021-07-28 | 2022-09-07 |

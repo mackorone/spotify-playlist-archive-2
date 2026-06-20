@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 156893,
       "name": "Chalupas y buenas",
       "url": "https://open.spotify.com/track/0tnHG8STmZWs9WJEi4cJgu"
@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 221482,
       "name": "Cuando sufre un coraz\u00f3n",
       "url": "https://open.spotify.com/track/59r7ej9BZVNVM7NIcLVwMl"
@@ -4161,6 +4161,24 @@
     },
     {
       "album": {
+        "name": "El Mandil",
+        "url": "https://open.spotify.com/album/1jbdYNmAejdY9VhWC1VQ9C"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171025,
+      "name": "El Mandil",
+      "url": "https://open.spotify.com/track/3AlRtwYO85qQROISP5u18A"
+    },
+    {
+      "album": {
         "name": "El Moyo",
         "url": "https://open.spotify.com/album/3EMeK6okfqjkFsbv9kezf9"
       },
@@ -4746,7 +4764,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 159929,
       "name": "En Coma Inducido",
       "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
@@ -5204,6 +5222,24 @@
       "duration_ms": 188000,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
+    },
+    {
+      "album": {
+        "name": "Finales Tristes",
+        "url": "https://open.spotify.com/album/4gtOViOc36ck2hOAtC8nc0"
+      },
+      "artists": [
+        {
+          "name": "Los Primos MX",
+          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188971,
+      "name": "Finales Tristes",
+      "url": "https://open.spotify.com/track/7M0lqNg2xxcq1FWCWwRqJQ"
     },
     {
       "album": {
@@ -6624,7 +6660,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 140832,
       "name": "Las Tres Vueltas",
       "url": "https://open.spotify.com/track/3oYMhtXh5wfMR4XpgX46RY"
@@ -6828,6 +6864,24 @@
       "duration_ms": 176466,
       "name": "Lo Mejor Que Hay En Mi Vida",
       "url": "https://open.spotify.com/track/564voYBKZapOX2yN0MfCKR"
+    },
+    {
+      "album": {
+        "name": "Lo Pasado Pisado",
+        "url": "https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185250,
+      "name": "Lo Pasado Pisado",
+      "url": "https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77"
     },
     {
       "album": {
@@ -7825,6 +7879,24 @@
     },
     {
       "album": {
+        "name": "Mi Gallo",
+        "url": "https://open.spotify.com/album/6EqlKXCCjePHSPgCnZnF1z"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208833,
+      "name": "Mi Gallo",
+      "url": "https://open.spotify.com/track/2QI9b2TU9qCRBTSYkGyCEi"
+    },
+    {
+      "album": {
         "name": "Vicente Fern\u00e1ndez Con Banda",
         "url": "https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0"
       },
@@ -7948,6 +8020,28 @@
       "duration_ms": 190876,
       "name": "Mi Primer D\u00eda Sin Ti",
       "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
+    },
+    {
+      "album": {
+        "name": "Mi Problema",
+        "url": "https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206458,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq"
     },
     {
       "album": {
@@ -8098,7 +8192,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 150204,
       "name": "Mi \u00danico Camino",
       "url": "https://open.spotify.com/track/6iJuKL7CZGJXAAv56HbH8q"
@@ -8294,6 +8388,24 @@
       "duration_ms": 233265,
       "name": "Mujer Infiel",
       "url": "https://open.spotify.com/track/6LYw7Ql4Kn6iX6vJH0iaKD"
+    },
+    {
+      "album": {
+        "name": "Mujer mujer",
+        "url": "https://open.spotify.com/album/2ub82N7JQuCwHWwTv20tlt"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167787,
+      "name": "Mujer mujer",
+      "url": "https://open.spotify.com/track/0esS2QSGeZK4gPB0DKlUWo"
     },
     {
       "album": {
@@ -8672,7 +8784,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 191141,
       "name": "No Le Tengas Compasi\u00f3n",
       "url": "https://open.spotify.com/track/11SK5HbiMSO0WEYvsaXwAO"
@@ -8774,6 +8886,28 @@
       "duration_ms": 194782,
       "name": "No Me Pidas Un Tiempo",
       "url": "https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7"
+    },
+    {
+      "album": {
+        "name": "No Se Diga M\u00e1s",
+        "url": "https://open.spotify.com/album/2LOimJUAs5PORnQDAEaHwJ"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Legado MyM",
+          "url": "https://open.spotify.com/artist/6KbZTKwSEJaqJd0UgjhIRz"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198548,
+      "name": "No Se Diga M\u00e1s",
+      "url": "https://open.spotify.com/track/6bYFtMOVwHuOF4Ob9atXS9"
     },
     {
       "album": {
@@ -11315,6 +11449,24 @@
     },
     {
       "album": {
+        "name": "Se Nos Acab\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/6Z4vKKQ3ih2etNrEBi0sSI"
+      },
+      "artists": [
+        {
+          "name": "Banda Playa Grande",
+          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216733,
+      "name": "Se Nos Acab\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/2bXo6a27ObT9EgjrE5g7Vc"
+    },
+    {
+      "album": {
         "name": "Se Sabe",
         "url": "https://open.spotify.com/album/3Zp4rYGAh6L8GY2AHpbGKK"
       },
@@ -11696,7 +11848,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 204679,
       "name": "Si Tan Malo Soy",
       "url": "https://open.spotify.com/track/3oeFWwFuzfQvK8iXIaHB90"
@@ -11786,7 +11938,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 182538,
       "name": "Si Tu Te Fueras De Mi",
       "url": "https://open.spotify.com/track/6YGGn7dDqMLi1cxxRDNtmk"
@@ -12952,7 +13104,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 248110,
       "name": "Todav\u00eda No Te Olvido - En Vivo",
       "url": "https://open.spotify.com/track/4VgaJgsjuaPOnX0s9KILxq"
@@ -14790,6 +14942,24 @@
       "duration_ms": 148744,
       "name": "\u00c1ngel de mi Vida",
       "url": "https://open.spotify.com/track/5FCdhVRTf8bhmvlyc7pBzo"
+    },
+    {
+      "album": {
+        "name": "\u00c9cheme Otro Consejo",
+        "url": "https://open.spotify.com/album/3A4Z6TOx34CdaqVVBpk8yk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241933,
+      "name": "\u00c9cheme Otro Consejo",
+      "url": "https://open.spotify.com/track/1skpZgEgKrl7WZ1UsROesx"
     },
     {
       "album": {

@@ -1063,6 +1063,28 @@
     },
     {
       "album": {
+        "name": "BACK OFF",
+        "url": "https://open.spotify.com/album/2epNNQf5BwcrcGQLB5zzNY"
+      },
+      "artists": [
+        {
+          "name": "Vick Sharma",
+          "url": "https://open.spotify.com/artist/0tdE00a8W3frDscI8QClaF"
+        },
+        {
+          "name": "P.Bhatt",
+          "url": "https://open.spotify.com/artist/6YFlp4XVOh9huVERElKtzz"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "BACK OFF",
+      "url": "https://open.spotify.com/track/0aKQZUzL4NmvFAEZuetTFF"
+    },
+    {
+      "album": {
         "name": "Backbite",
         "url": "https://open.spotify.com/album/0oZKnE7KIntFjsPNJKXo9B"
       },
@@ -2824,7 +2846,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 132790,
       "name": "Chori Gangster",
       "url": "https://open.spotify.com/track/1j0bHDdyruBCiU1vWmTfat"
@@ -3672,6 +3694,28 @@
       "duration_ms": 149368,
       "name": "Dhakkad Hai",
       "url": "https://open.spotify.com/track/1P3hTlQmLRd0Garyv46BSf"
+    },
+    {
+      "album": {
+        "name": "DICHAON",
+        "url": "https://open.spotify.com/album/2oRyujuNFnJk5ibKcBMe9W"
+      },
+      "artists": [
+        {
+          "name": "R Cruze",
+          "url": "https://open.spotify.com/artist/3KvTpIp5PcyoMTKRmi2H4s"
+        },
+        {
+          "name": "PINNOCIO",
+          "url": "https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140181,
+      "name": "DICHAON",
+      "url": "https://open.spotify.com/track/4TaaywNqPqvNlPKnWLgl8t"
     },
     {
       "album": {
@@ -4660,6 +4704,28 @@
       "duration_ms": 185333,
       "name": "Gaabru",
       "url": "https://open.spotify.com/track/6KBHavoX3xsd8Fa0hfSCWh"
+    },
+    {
+      "album": {
+        "name": "Gaadi",
+        "url": "https://open.spotify.com/album/5P5hmhHr03MXflZTp08tZv"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Balyaan",
+          "url": "https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw"
+        },
+        {
+          "name": "RAIYAT",
+          "url": "https://open.spotify.com/artist/6YyZQlMvCpzJys5x0FWOUE"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171176,
+      "name": "Gaadi",
+      "url": "https://open.spotify.com/track/4qLpyUDGIoL4nWcfZu3UAQ"
     },
     {
       "album": {
@@ -7954,7 +8020,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 228018,
       "name": "LMCO ( Let Me Check Out )",
       "url": "https://open.spotify.com/track/0jVrqddxbsPrYVp7YxY2JK"
@@ -10262,7 +10328,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 155000,
       "name": "Plata O Plomo",
       "url": "https://open.spotify.com/track/5TXxQ5oP0PN8wjb7vOk9wU"

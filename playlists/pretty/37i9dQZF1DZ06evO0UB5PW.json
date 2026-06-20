@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 63327,
+  "num_followers": 63349,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAACWTTN4zhTkBwy05PAHFe9C",
+  "snapshot_id": "ajM1AAAAAADCQyIH4DJmwMMKFoNDL6ZR",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 377695,
-      "name": "Sickle and Peace",
-      "url": "https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt"
+      "duration_ms": 299542,
+      "name": "The Crux",
+      "url": "https://open.spotify.com/track/2GRRO02oEcmtantKU4VeZB"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 299542,
-      "name": "The Crux",
-      "url": "https://open.spotify.com/track/2GRRO02oEcmtantKU4VeZB"
+      "duration_ms": 377695,
+      "name": "Sickle and Peace",
+      "url": "https://open.spotify.com/track/47RRcu032tugUTX8i6OGlt"
     },
     {
       "added_at": null,

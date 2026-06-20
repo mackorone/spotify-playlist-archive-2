@@ -1,13 +1,29 @@
 {
-  "description": "The newest and best Hip-Hop tracks, updated weekly! Cover: Drake",
-  "num_followers": 22896,
+  "description": "The newest and best Hip-Hop tracks, updated weekly! Cover: KTOE",
+  "num_followers": 22894,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAkgIn/hnWETXhmLj23AdWYxc11FBI0",
+  "snapshot_id": "AAAkhEgpiWOHYmDFMopUjXY6VdpqxYzJ",
   "tracks": [
+    {
+      "added_at": "2026-06-19 04:07:51",
+      "album": {
+        "name": "REEKO",
+        "url": "https://open.spotify.com/album/1c0opZ5Flclsg36oGyQJdH"
+      },
+      "artists": [
+        {
+          "name": "KTOE",
+          "url": "https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L"
+        }
+      ],
+      "duration_ms": 130416,
+      "name": "LIGHTS CAMERA",
+      "url": "https://open.spotify.com/track/1ccmgULydgeBefKdfsQU4j"
+    },
     {
       "added_at": "2026-06-17 18:10:17",
       "album": {
@@ -1551,22 +1567,6 @@
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
-    },
-    {
-      "added_at": "2026-06-17 18:10:17",
-      "album": {
-        "name": "Tweaker",
-        "url": "https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq"
-      },
-      "artists": [
-        {
-          "name": "GELO",
-          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
-        }
-      ],
-      "duration_ms": 189544,
-      "name": "Tweaker",
-      "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"
     },
     {
       "added_at": "2026-06-17 18:10:17",

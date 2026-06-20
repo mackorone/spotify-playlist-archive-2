@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-605 songs - 1 day 12 hr 17 min
+607 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Chauffeur](https://open.spotify.com/track/53XFu5ZXPyldc3MtfxEkDq) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [Chauffeur](https://open.spotify.com/album/6YOqslVYEbfCZgRQQjSrYf) | 4:36 | 2026-05-08 |  |
 | [Cheating in the Daylight](https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Willie Clayton](https://open.spotify.com/artist/5YtfmlJnLT6TR7kiBKqNhj) | [Cheating in the Daylight](https://open.spotify.com/album/1wLDe2OnQvYkTCfyMBV95J) | 5:27 | 2022-02-25 | 2023-02-04 |
 | [Cherry](https://open.spotify.com/track/3X68ExQpQzMCTCHsiqaQLI) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Cherry](https://open.spotify.com/album/0dVEDCqihLJ7o8eCxGg2Pu) | 4:26 | 2026-02-27 |  |
+| [Chicano Blues \- Radio Edit](https://open.spotify.com/track/0mOJ3nJM7AReQwqhdfTObd) | [EddieAngel](https://open.spotify.com/artist/07nom0ljKc0SWmtFEDBamh) | [Chicano Blues \(Non Explicit\)](https://open.spotify.com/album/2fVZriMKyIjV593omp5iNl) | 3:31 | 2026-06-19 |  |
 | [Chocolate Woman](https://open.spotify.com/track/0M5ZTD5bzYadecfUQcQx8j) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Chocolate Woman](https://open.spotify.com/album/2dDCKPhCc7U0dBOkeK5I8W) | 2:50 | 2025-12-12 |  |
 | [Closer](https://open.spotify.com/track/2mAMcZ18iCU39tTF0PHvVx) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Closer](https://open.spotify.com/album/5heDsRjgWf63G0F3dzGEji) | 3:33 | 2023-11-24 | 2025-08-23 |
 | [Closer](https://open.spotify.com/track/15CcPYbfU0Ylp0s6ezE5Zw) | [Rainee Blake](https://open.spotify.com/artist/03PaZ9IYpD0VVrZeUatPC3) | [Closer](https://open.spotify.com/album/6ELbkRCauMrlJbzY0NfFDh) | 3:49 | 2022-08-09 | 2024-06-22 |
@@ -242,7 +243,7 @@
 | [ICNBYH](https://open.spotify.com/track/44VZGe3IwqmKoZUo8Z236A) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [ICNBYH](https://open.spotify.com/album/4FneHoDgdZFai9ZzwSfVkB) | 3:17 | 2025-02-14 | 2025-03-15 |
 | [IDGAF \(but I care\)](https://open.spotify.com/track/17Fg2PKD5iipVst2gm5fJ3) | [Sladek](https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57) | [IDGAF \(but I care\)](https://open.spotify.com/album/6wmSyW1Ie05cSJwUbgcVFC) | 3:05 | 2025-01-31 | 2025-10-25 |
 | [If My Love Was Enough](https://open.spotify.com/track/5aXJA4672geISfKvJYMvP2) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Natalie Slade](https://open.spotify.com/artist/2G4QmfdQaRtHde3OYDl3AQ) | [If My Love Was Enough](https://open.spotify.com/album/5nj8FfDsjGKC3WMPIG900C) | 3:41 | 2021-07-09 | 2022-07-21 |
-| [If We Try](https://open.spotify.com/track/7oyYeHq2tz7f80DSl9nknN) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [If We Try](https://open.spotify.com/album/2IbIbmF3m122JX9Gkh3Dhw) | 3:44 | 2025-05-30 |  |
+| [If We Try](https://open.spotify.com/track/7oyYeHq2tz7f80DSl9nknN) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [If We Try](https://open.spotify.com/album/2IbIbmF3m122JX9Gkh3Dhw) | 3:44 | 2025-05-30 | 2026-06-20 |
 | [If You Don't Want My Love](https://open.spotify.com/track/2364WrvPTUHobDNURudCbM) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N) | 2:26 | 2023-03-24 | 2023-04-30 |
 | [If You Don't Want My Love](https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6) | 2:26 | 2023-03-24 | 2023-09-09 |
 | [If You Don't Want My Love](https://open.spotify.com/track/5BO76ay1UPZEj72HUqJtxA) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1t09sHx5LoUBFD8M4h94Nn) | 2:26 | 2023-03-24 | 2023-06-11 |
@@ -284,6 +285,7 @@
 | [Let Not \(Your Heart Be Troubled\)](https://open.spotify.com/track/4WovYmHVAw2WliG6Es3kRQ) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Let Not \(Your Heart Be Troubled\)](https://open.spotify.com/album/4Hx7ymGXKFN2rd8bMVNOxG) | 4:26 | 2024-08-02 | 2024-09-14 |
 | [Let You Go](https://open.spotify.com/track/7a6zCrX08XWisZXGj3sMEf) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [Let You Go](https://open.spotify.com/album/31Lq73n7sxinFMFak3zqZT) | 2:44 | 2024-04-19 | 2025-11-15 |
 | [Let's Be Alone Together](https://open.spotify.com/track/4svMoWeX1xfkJw4NiRJL6N) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Let's Be Alone Together](https://open.spotify.com/album/4ZSJXSwFpoVKzVCInWagCi) | 5:11 | 2024-06-07 | 2024-08-17 |
+| [Let's Fall In Love \(Again\)](https://open.spotify.com/track/4MFaY2c03D6Pmw38CVtSKo) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Let's Fall In Love \(Again\)](https://open.spotify.com/album/6mvEGQbyfU2pYJ8m5UDGiR) | 3:13 | 2026-06-19 |  |
 | [Life of the Party](https://open.spotify.com/track/3sjgUdqEep6XgJFfVRqllt) | [Jr\. Thomas](https://open.spotify.com/artist/4rlASrO81ZjHrd70G6swdV), [Eraserhood Sound](https://open.spotify.com/artist/3GJ1qWWMdMQNXMmwTnyqtZ) | [Life of the Party](https://open.spotify.com/album/3Bp75oph7dSe9bEcdZPn97) | 3:30 | 2025-09-05 | 2025-09-27 |
 | [Lift](https://open.spotify.com/track/6Ht5xsk4VtVOW2X6iihvWY) | [Dwight & Nicole](https://open.spotify.com/artist/4F8E2YPeiWp9ncA3xJlxv0) | [Lift](https://open.spotify.com/album/7IMTCYMmhoq95Dso180h8v) | 4:27 | 2022-07-29 | 2022-08-27 |
 | [Lifted Up](https://open.spotify.com/track/5I49eXTkm0BUI9l5zvVcfw) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Lifted Up](https://open.spotify.com/album/4jGb0IWRLtC75RQzIWGpEV) | 2:55 | 2024-01-26 | 2024-06-01 |
@@ -609,7 +611,7 @@
 | [You Deserve](https://open.spotify.com/track/3qv52G3oQ4MNcIib4KSRqH) | [Cayden Cruz](https://open.spotify.com/artist/36WZQ2Iukj5fVI2FLEt1l5) | [You Deserve](https://open.spotify.com/album/4zk6KsexxbrABRXCSKfj7K) | 3:02 | 2026-01-16 | 2026-04-11 |
 | [You Know What It Do](https://open.spotify.com/track/1YPsvTzKTMsQjrdC88CRcT) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End 2](https://open.spotify.com/album/1dwWH4m6TIepflnji3hVsG) | 3:07 | 2021-07-09 | 2022-06-11 |
 | [You Went Away Too Long](https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [You Went Away Too Long](https://open.spotify.com/album/5NpT7rCbRYs6LRMcmBEKOD) | 3:19 | 2026-02-27 | 2026-05-09 |
-| [You Were Mine](https://open.spotify.com/track/4Q6WTLLZtYZ2OuQ4pCZH0A) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Dark Black](https://open.spotify.com/album/2eV8dXQXxJderdQEvY3ZuC) | 3:51 | 2024-03-29 |  |
+| [You Were Mine](https://open.spotify.com/track/4Q6WTLLZtYZ2OuQ4pCZH0A) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Dark Black](https://open.spotify.com/album/2eV8dXQXxJderdQEvY3ZuC) | 3:51 | 2024-03-29 | 2026-06-20 |
 | [Your Light](https://open.spotify.com/track/6abwIudy5gCZvNuFrAmWk6) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Your Light](https://open.spotify.com/album/04U1QazlwjvnpD0QuMRsx3) | 3:54 | 2025-01-10 | 2025-02-15 |
 | [Your Love Is Gold](https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Louie Thesinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj) | [Your Love Is Gold](https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1) | 2:46 | 2023-11-10 | 2024-01-13 |
 | [Your Team](https://open.spotify.com/track/5pIlwtkgYsmgDJ3RCJiUOD) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [Your Team](https://open.spotify.com/album/6R0Q1JubcgsOYoCnlZeUZX) | 3:06 | 2024-09-13 |  |

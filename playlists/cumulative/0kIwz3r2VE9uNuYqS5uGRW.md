@@ -4,7 +4,7 @@
 
 > 
 
-232 songs - 12 hr 6 min
+233 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [for the day \(my life doesn't seem so gray\)](https://open.spotify.com/track/5jEA3MfSYes1opYzW1A15B) | [jj!s](https://open.spotify.com/artist/2JashvlZeoFOiLpIy6dFE6) | [for the day \(my life doesn't seem so gray\)](https://open.spotify.com/album/54etYLc84CmETgjN65td9C) | 1:58 | 2026-03-05 |  |
 | [Genuine](https://open.spotify.com/track/51mLBSASbfih09HkTViS8M) | [Pixiewolf](https://open.spotify.com/artist/2MjyIcU2BRGLYXtpW9aVa7) | [Genuine](https://open.spotify.com/album/1yhCbT665XRK4sbp19WRCQ) | 2:43 | 2025-04-07 |  |
 | [Gimme Someone I Can Hold on to \(Instrumental\)](https://open.spotify.com/track/5LcrOJjKRQ8opafD72lCm6) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Gimme Someone I Can Hold on to \(Instrumental\)](https://open.spotify.com/album/4WIZ3Cf2dJTEKeGLdhKLmZ) | 3:26 | 2025-03-12 |  |
+| [Gimmick](https://open.spotify.com/track/4uFT0D47ztptmYn4lfybCb) | [Pigeon Pye](https://open.spotify.com/artist/72kLEU6mRB5iLrmABFhjlz) | [Story](https://open.spotify.com/album/1SEFpmr6CmYvQWXHDTMFa6) | 2:50 | 2026-06-19 |  |
 | [Girl Like Me](https://open.spotify.com/track/2DstLe32Gt83sN32IEoKik) | [Whimzi](https://open.spotify.com/artist/7reGlLkLSVxJe3OUjyjqPh) | [Girl Like Me](https://open.spotify.com/album/7rBihut7UrW4zNtODmU0lP) | 2:20 | 2025-06-06 |  |
 | [Got Me Feeling Down](https://open.spotify.com/track/3mdi1GiOhAAyNcVd72wDoy) | [Crimson Helles](https://open.spotify.com/artist/6bFi5UTNn2BgqBKkbuBdi2), [Chris Cool](https://open.spotify.com/artist/7A73QX7I2ArWocgWfBY6Bs) | [Got Me Feeling Down](https://open.spotify.com/album/70kSlrGmXFDGE9LoGFr8x9) | 3:33 | 2025-11-07 |  |
 | [GROW](https://open.spotify.com/track/3htcj4Dd4cIfHVFTD2ajh6) | [Kamy](https://open.spotify.com/artist/2i03xVEyzsYwm84ifehJUS) | [GROW](https://open.spotify.com/album/1ZAvMLlyVmb1gM3bNzdNuN) | 3:35 | 2025-08-20 |  |

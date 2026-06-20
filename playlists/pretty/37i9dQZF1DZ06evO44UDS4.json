@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 151578,
+  "num_followers": 154707,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAAB7ai0I0ov5AtrTBgo1krnn",
+  "snapshot_id": "ajM1AAAAAABw4QU2XIXYKOpANGvAguYX",
   "tracks": [
     {
       "added_at": null,
@@ -175,42 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do You Feel Me?",
-        "url": "https://open.spotify.com/album/61ySPdOmnFtNhA8M7HIBLV"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 187754,
-      "name": "Do You Feel Me?",
-      "url": "https://open.spotify.com/track/2O7itneeXoILR304z8zzev"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 135020,
-      "name": "Jerk",
-      "url": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -227,6 +191,22 @@
       "duration_ms": 168359,
       "name": "Essence (feat. Super Computer)",
       "url": "https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 135020,
+      "name": "Jerk",
+      "url": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
     },
     {
       "added_at": null,
@@ -251,34 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+        "name": "Do You Feel Me?",
+        "url": "https://open.spotify.com/album/61ySPdOmnFtNhA8M7HIBLV"
       },
       "artists": [
         {
           "name": "Oliver Tree",
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 217012,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/2DdxVSxtbNWLw2ssJe8e9n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
-      },
-      "artists": [
+        },
         {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
         }
       ],
-      "duration_ms": 111209,
-      "name": "Let Me Down",
-      "url": "https://open.spotify.com/track/0jk6J6B9ivegJc7dTg10Mp"
+      "duration_ms": 187754,
+      "name": "Do You Feel Me?",
+      "url": "https://open.spotify.com/track/2O7itneeXoILR304z8zzev"
     },
     {
       "added_at": null,
@@ -299,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x"
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
       },
       "artists": [
         {
@@ -308,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 148673,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq"
+      "duration_ms": 111209,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/0jk6J6B9ivegJc7dTg10Mp"
     },
     {
       "added_at": null,
@@ -324,15 +292,15 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 198433,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/2mMZ7bbyImtgDGRebOYpNd"
+      "duration_ms": 217012,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/2DdxVSxtbNWLw2ssJe8e9n"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x"
       },
       "artists": [
         {
@@ -340,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 125051,
-      "name": "Miracle Man",
-      "url": "https://open.spotify.com/track/2PFnwW05Wh0MYkfZxSwfuf"
+      "duration_ms": 148673,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq"
     },
     {
       "added_at": null,
@@ -367,6 +335,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 125051,
+      "name": "Miracle Man",
+      "url": "https://open.spotify.com/track/2PFnwW05Wh0MYkfZxSwfuf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 198433,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/2mMZ7bbyImtgDGRebOYpNd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
         "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+        "name": "Cowboy Tears",
+        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 195520,
-      "name": "My Only Friend",
-      "url": "https://open.spotify.com/track/05n4kFKzoCjCU3Lfg8I3Ba"
+      "duration_ms": 153366,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/1OvVeke9uOLsgXbVG0aDBt"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
       "duration_ms": 185022,
       "name": "I'm Gone",
       "url": "https://open.spotify.com/track/6Em6BtxvTsQrXFsFVzAEym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "My Only Friend",
+      "url": "https://open.spotify.com/track/05n4kFKzoCjCU3Lfg8I3Ba"
     },
     {
       "added_at": null,
@@ -440,25 +456,9 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 153366,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/1OvVeke9uOLsgXbVG0aDBt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 178492,
-      "name": "Glow On",
-      "url": "https://open.spotify.com/track/1iGx5ExhCxY0mgTaLqWyhn"
+      "duration_ms": 179264,
+      "name": "Swing & A Miss",
+      "url": "https://open.spotify.com/track/1572zYzvWUopUEbwmjeLiO"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
       "duration_ms": 212631,
       "name": "Forget It (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 178492,
+      "name": "Glow On",
+      "url": "https://open.spotify.com/track/1iGx5ExhCxY0mgTaLqWyhn"
     },
     {
       "added_at": null,
@@ -512,25 +528,9 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 179264,
-      "name": "Swing & A Miss",
-      "url": "https://open.spotify.com/track/1572zYzvWUopUEbwmjeLiO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 190265,
-      "name": "Death Ray",
-      "url": "https://open.spotify.com/track/0YdG4zW1WUpKvWI9tVbnjO"
+      "duration_ms": 140824,
+      "name": "Freaks & Geeks",
+      "url": "https://open.spotify.com/track/6SXMyJ44dyZo4Vz34ikIzG"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
       "duration_ms": 120194,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/70Hi6JJq98794TMe1IeIAH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 190265,
+      "name": "Death Ray",
+      "url": "https://open.spotify.com/track/0YdG4zW1WUpKvWI9tVbnjO"
     },
     {
       "added_at": null,
@@ -576,25 +592,9 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 140824,
-      "name": "Freaks & Geeks",
-      "url": "https://open.spotify.com/track/6SXMyJ44dyZo4Vz34ikIzG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 165523,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/01PiUx0e8rAKQIka0w8PQa"
+      "duration_ms": 157600,
+      "name": "Things We Used To Do",
+      "url": "https://open.spotify.com/track/55DDIEeRHXfVh1qnhNMJAN"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 165523,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/01PiUx0e8rAKQIka0w8PQa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 94857,
       "name": "Fairweather Friends",
       "url": "https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboy Tears",
-        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "Things We Used To Do",
-      "url": "https://open.spotify.com/track/55DDIEeRHXfVh1qnhNMJAN"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/3MeGMRZzJ4Ij5Jj55oBG1r"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 150790,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/7AkPhGsAWtMczTvSYH65q3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn It Up (feat. Tommy Cash)",
         "url": "https://open.spotify.com/album/6QtloaQlP1TQEDBMJsTtG8"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 129621,
       "name": "Turn It Up (feat. Tommy Cash)",
       "url": "https://open.spotify.com/track/1LqGBnl9m1duX1XWopugaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/3MeGMRZzJ4Ij5Jj55oBG1r"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 150790,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/7AkPhGsAWtMczTvSYH65q3"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/1TwEYzYp5T5lKcsR09D9EZ"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 150255,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
         "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 132236,
       "name": "When You're Around",
       "url": "https://open.spotify.com/track/27RyeAlW8qufycdeSz2K2o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/1TwEYzYp5T5lKcsR09D9EZ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 150255,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Every Type of Friend",
+      "url": "https://open.spotify.com/track/4857wFBWpbuhm5caykSZSO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life Goes On (feat. Trippie Redd & Ski Mask The Slump God)",
         "url": "https://open.spotify.com/album/1ucf98ip08W4dY41QZrXeq"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 182491,
       "name": "Life Goes On (feat. Trippie Redd & Ski Mask The Slump God)",
       "url": "https://open.spotify.com/track/07ShpyCaAqfCseA3fWFFMY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Every Type of Friend",
-      "url": "https://open.spotify.com/track/4857wFBWpbuhm5caykSZSO"
     },
     {
       "added_at": null,

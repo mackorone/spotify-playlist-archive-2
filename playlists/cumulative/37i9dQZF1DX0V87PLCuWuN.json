@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Contentious Environment (From \"The Invite\")",
+        "url": "https://open.spotify.com/album/5gC7Jy2lyadGwSI9voznHH"
+      },
+      "artists": [
+        {
+          "name": "Devont\u00e9 Hynes",
+          "url": "https://open.spotify.com/artist/0M1ImWN3uInxUCZVIE9uxa"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "Contentious Environment (From \"The Invite\")",
+      "url": "https://open.spotify.com/track/6zLvibKh8GmZnzEAH9z6FY"
+    },
+    {
+      "album": {
         "name": "Gypsic",
         "url": "https://open.spotify.com/album/3aRv9E3W3MGX525P21SwbR"
       },
@@ -1714,6 +1732,28 @@
       "duration_ms": 296480,
       "name": "Valse triste, Op. 44",
       "url": "https://open.spotify.com/track/0F9mxcYi2HgMFnnA2dvtRo"
+    },
+    {
+      "album": {
+        "name": "Soltani: Variations on a Theme by Paganini for 2 Cellos",
+        "url": "https://open.spotify.com/album/2jT9Eh8BEehXuDnGk8KYVX"
+      },
+      "artists": [
+        {
+          "name": "Kian Soltani",
+          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
+        },
+        {
+          "name": "Pablo Ferrandez",
+          "url": "https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310400,
+      "name": "Variations on a Theme by Paganini for 2 Cellos",
+      "url": "https://open.spotify.com/track/6hLJCbSZtORttNupFIb8pk"
     },
     {
       "album": {

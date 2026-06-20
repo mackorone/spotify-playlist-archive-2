@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Russo & Mart Hoogkamer, Myles Smith, Henkie T & KM, Tyla en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,880 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,300 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,6 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 96 | [ej upp](https://open.spotify.com/track/0CiHt05kGYOfKZbHuZiNSD) | [tenderblom](https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl) | [ej upp](https://open.spotify.com/album/1pJvr9RP5R1TXyGvp3HM3W) | 2:45 |
 | 97 | [Proof](https://open.spotify.com/track/48D3oAIHlbXgLCtWYDcWWL) | [theo artz](https://open.spotify.com/artist/3eiT9L7vDW31nH9ufEL7Nb) | [It'll be fine](https://open.spotify.com/album/2ZrYpYvby0k6Wklo3lAXQG) | 2:20 |
 | 98 | [Hoe het was](https://open.spotify.com/track/22hDM4vc87TaRo3uRzWosk) | [Theun met een h](https://open.spotify.com/artist/0gPKa3T9bOhyyUkGeYcf2I) | [Hoe het was](https://open.spotify.com/album/1BOu3mNVxs0JU1qthGd7YN) | 3:30 |
-| 99 | [Utopia](https://open.spotify.com/track/1XNUmD035Ft6LLXDuXCcJh) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Page Of Cups \(Reversed\)](https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr) | 3:54 |
+| 99 | [Utopia](https://open.spotify.com/track/645Nzy8pjijHCGktPNEv5O) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Utopia](https://open.spotify.com/album/0nfR3Ynoarnypo1jcpNwDj) | 3:54 |
+| 100 | [A Needle In A Haystack](https://open.spotify.com/track/1i6Xp9sKqWGQjASQWljyNK) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc) | [A Needle In A Haystack](https://open.spotify.com/album/75dPXEqGqwb1fKEJVXxGqU) | 3:16 |
 
-Snapshot ID: `AAAAAGEkCwgTtO6gQAxkrLPbIjouTFtU`
+Snapshot ID: `AAAAAGBOiFe+3N0VwJTHxvCBFg79Gzy9`

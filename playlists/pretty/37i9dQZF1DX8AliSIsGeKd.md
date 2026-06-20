@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: TH;EN
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,756 likes - 88 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,939 likes - 88 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [CTRL](https://open.spotify.com/track/7wkIgv32aWW4ZHkjMnAL66) | [Raden \(UK\)](https://open.spotify.com/artist/6BW1auskrxNZ5Ap83LtamK) | [CTRL](https://open.spotify.com/album/2toXm2m1QQRbcmvuDf8Yn6) | 3:38 |
 | 88 | [Riot](https://open.spotify.com/track/5SP8e2d99MyqtVx9wPHgnR) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Riot](https://open.spotify.com/album/3zqvht3mWwHSc0sSY0JFpb) | 2:39 |
 
-Snapshot ID: `AAAAALeiqBdiLXs/jMIbu06KWV4vLP/N`
+Snapshot ID: `AAAAAHDto7qKY/Q5QIrWhGQ4ep65ft2+`

@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,204 songs - 1 day 22 hr 17 min
+1,205 songs - 1 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,7 +546,7 @@
 | [Lights](https://open.spotify.com/track/2Ybz4zJuj5pBKmWeLjbGdE) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Lights](https://open.spotify.com/album/7jVcGM3AMu2z9yRs6TEO0R) | 2:34 | 2023-07-19 | 2025-10-17 |
 | [Lightzone](https://open.spotify.com/track/6RWd8uKY4Fp7IfVpJjjOgp) | [Ble0](https://open.spotify.com/artist/6WmPnJPGUdHOZAmDIY9GIo) | [Lightzone](https://open.spotify.com/album/4NKxtQjQiUir9MJMIkdPJi) | 2:21 | 2022-04-15 | 2022-05-20 |
 | [Like Water](https://open.spotify.com/track/5vLmed5xWfDEiwAbkBPOQG) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Like Water](https://open.spotify.com/album/2eJNHf8JiIcGStoofUu82q) | 2:05 | 2022-04-15 | 2022-08-12 |
-| [lille dyp](https://open.spotify.com/track/3QXdIjTThCZP2r2ed3XEiZ) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [lille dyp](https://open.spotify.com/album/5h0YmsuW4dOrt1ZISmqgrn) | 2:31 | 2024-11-27 |  |
+| [lille dyp](https://open.spotify.com/track/3QXdIjTThCZP2r2ed3XEiZ) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [lille dyp](https://open.spotify.com/album/5h0YmsuW4dOrt1ZISmqgrn) | 2:31 | 2024-11-27 | 2026-06-20 |
 | [Limitless 8](https://open.spotify.com/track/5Nym2K9ThXcsp3P1y8bD1N) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Limitless 8](https://open.spotify.com/album/38jOR4uZk78GnorFhtSBbH) | 2:37 | 2023-12-15 | 2025-08-23 |
 | [Liquorice](https://open.spotify.com/track/34gmdxjVoCAQIDixBNhYda) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Supreme](https://open.spotify.com/album/1aq0krXC5rXL0SoOPOBkIC) | 1:54 | 2022-04-15 | 2022-05-27 |
 | [little memories](https://open.spotify.com/track/5cGpQgmRf14jnkfxAqOi3U) | [joe macchiato](https://open.spotify.com/artist/5BmTJhUH8SPiSGwv00pr19) | [little memories](https://open.spotify.com/album/6tTknlybqIFY34JNMJS0CU) | 2:00 | 2024-09-27 | 2024-11-29 |
@@ -936,6 +936,7 @@
 | [Social Jazz](https://open.spotify.com/track/7GzdWuACBcAB9nmz0JJ4Pl) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Social Jazz](https://open.spotify.com/album/2FOY9O0VU5AEfvmEXQYbQT) | 2:01 | 2022-06-10 | 2025-05-24 |
 | [Sofa](https://open.spotify.com/track/3XfRoxDC6XdkOVpOVwcSEj) | [Osoku](https://open.spotify.com/artist/7tGFPYtcRKqkiEYu9ryCcl) | [Sofa](https://open.spotify.com/album/39tSdGkvzwGkoUnKdg9Fno) | 2:25 | 2024-10-25 |  |
 | [SoFi](https://open.spotify.com/track/00ZXkrMBoVMBMXgVOz8nWX) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [SoFi](https://open.spotify.com/album/6XNEjT7GPdFp6QhgpJy4w6) | 2:11 | 2024-06-28 |  |
+| [Soft Focus](https://open.spotify.com/track/6o5FDM4W6OIybTjzdP9FIE) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Soft Focus](https://open.spotify.com/album/08Ja9tIvHbJCBiPHtSb7MH) | 2:10 | 2026-06-19 |  |
 | [Soft Lad](https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [Soft Lad](https://open.spotify.com/album/7uoBTodwAjmtlC51RFcl6g) | 4:26 | 2022-04-15 | 2022-09-03 |
 | [Soft Sunset](https://open.spotify.com/track/4zoTRhVK2M3az746QLPXWc) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Soft Sunset](https://open.spotify.com/album/14sTyMyKwCbggVKdixdX3K) | 2:05 | 2022-10-14 | 2023-09-22 |
 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/2wzdxTtpdHaVx9vkSaC6mI) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Softly As In A Morning Sunrise](https://open.spotify.com/album/7iBqSO4KtMIzoqe3SzzxYg) | 2:55 | 2022-05-20 | 2022-08-19 |
@@ -969,7 +970,7 @@
 | [Star Guard](https://open.spotify.com/track/65j5nUIrMp1b0hE0y2hyN8) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Arcanyz](https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB), [Matija Lazic](https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB) | [Star Guard](https://open.spotify.com/album/7v4q39gP6Pj0PDXzlMd0a3) | 1:48 | 2022-12-09 | 2023-11-17 |
 | [Star Guard](https://open.spotify.com/track/032qJaBqhCnu91uv5CrI9F) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Matija Lazic](https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB), [Arcanyz](https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB) | [Star Guard](https://open.spotify.com/album/2cf3QBUSta0629BNlOvDYG) | 1:48 | 2022-11-11 | 2022-12-15 |
 | [starry nights](https://open.spotify.com/track/6JLCZPbRojiFATBFRoIFFR) | [Halon Alo](https://open.spotify.com/artist/6mV4xWgIKInX3SxE370eQQ) | [starry nights](https://open.spotify.com/album/710hEZOm9sL0Y0imd7Qj1b) | 3:00 | 2024-03-08 |  |
-| [Static Glow](https://open.spotify.com/track/0mrCVnofqXODFXTcFO2InR) | [driftø blues](https://open.spotify.com/artist/6IK9tbMR95RzFZhaHvHi5E) | [Static Glow](https://open.spotify.com/album/0rqKvqEQjKN49VHMtdu1h6) | 1:57 | 2026-02-06 |  |
+| [Static Glow](https://open.spotify.com/track/0mrCVnofqXODFXTcFO2InR) | [driftø blues](https://open.spotify.com/artist/6IK9tbMR95RzFZhaHvHi5E) | [Static Glow](https://open.spotify.com/album/0rqKvqEQjKN49VHMtdu1h6) | 1:57 | 2026-02-06 | 2026-06-20 |
 | [stay closer](https://open.spotify.com/track/26d8n4MjhZNopkmZKqCHM0) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [stay closer](https://open.spotify.com/album/5pSHFnyIyAM9LWI2CtGXhJ) | 2:05 | 2025-01-31 | 2025-02-15 |
 | [Staying Inside Tonight](https://open.spotify.com/track/5Wkh4tytIpCave04bDIr58) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Lagom](https://open.spotify.com/album/4k7Eh3WH907ikJlxC5B0C4) | 2:09 | 2022-04-15 | 2022-07-08 |
 | [Stellar Mood](https://open.spotify.com/track/0ZEzdu0ICYA1aVO9ANzSyj) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Stellar Mood](https://open.spotify.com/album/3M9MFOVJXXZafVstHH7TRO) | 2:07 | 2026-02-27 |  |

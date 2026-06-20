@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 474705,
+  "num_followers": 474756,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAAAT40Erml3nrcJ7S4Om89my",
+  "snapshot_id": "ajM1AAAAAACVjnXQrIrdZb/B0ZzvSMMW",
   "tracks": [
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Y Algo Mas",
-        "url": "https://open.spotify.com/album/27gnrHBeKww4XnaEAV5ifr"
+        "name": "En Vivo Desde Villa Juarez Sonora",
+        "url": "https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 208106,
-      "name": "La Papa",
-      "url": "https://open.spotify.com/track/0vpd52xfWmxpRTZeeQ9gkQ"
+      "duration_ms": 232600,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/64s6BmkogWiJCeFyzSveiM"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Villa Juarez Sonora",
-        "url": "https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy"
+        "name": "Corridos Y Algo Mas",
+        "url": "https://open.spotify.com/album/27gnrHBeKww4XnaEAV5ifr"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 232600,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/64s6BmkogWiJCeFyzSveiM"
+      "duration_ms": 208106,
+      "name": "La Papa",
+      "url": "https://open.spotify.com/track/0vpd52xfWmxpRTZeeQ9gkQ"
     },
     {
       "added_at": null,

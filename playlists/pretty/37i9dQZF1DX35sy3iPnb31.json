@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Drake",
-  "num_followers": 1915,
+  "num_followers": 1919,
   "original_name": "Editors' Picks: Best Canadian Songs of May",
   "owner": {
     "name": "Spotify",
@@ -323,54 +323,6 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "Multiplied",
-        "url": "https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 182463,
-      "name": "Multiplied",
-      "url": "https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv"
-    },
-    {
-      "added_at": "2026-06-01 09:19:24",
-      "album": {
-        "name": "In Da Jungle",
-        "url": "https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 164275,
-      "name": "In Da Jungle",
-      "url": "https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY"
-    },
-    {
-      "added_at": "2026-06-01 09:19:24",
-      "album": {
-        "name": "Out of Water",
-        "url": "https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f"
-      },
-      "artists": [
-        {
-          "name": "GUS",
-          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "Out of Water",
-      "url": "https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y"
-    },
-    {
-      "added_at": "2026-06-01 09:19:24",
-      "album": {
         "name": "BORN WINNER",
         "url": "https://open.spotify.com/album/6V8vpu5MiLkOSLifAGfe2f"
       },
@@ -399,6 +351,54 @@
       "duration_ms": 250453,
       "name": "BORN WINNER",
       "url": "https://open.spotify.com/track/4ACkAjg9smuLvjskptzLgE"
+    },
+    {
+      "added_at": "2026-06-01 09:19:24",
+      "album": {
+        "name": "In Da Jungle",
+        "url": "https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 164275,
+      "name": "In Da Jungle",
+      "url": "https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY"
+    },
+    {
+      "added_at": "2026-06-01 09:19:24",
+      "album": {
+        "name": "Multiplied",
+        "url": "https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 182463,
+      "name": "Multiplied",
+      "url": "https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv"
+    },
+    {
+      "added_at": "2026-06-01 09:19:24",
+      "album": {
+        "name": "Out of Water",
+        "url": "https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "Out of Water",
+      "url": "https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -819,18 +819,22 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/4CURxfHkhPWvf8MOQYrsDq"
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/2zR2CvE3sANYBc19r5dvC6"
       },
       "artists": [
         {
-          "name": "j ember",
-          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        },
+        {
+          "name": "C The Reason",
+          "url": "https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk"
         }
       ],
-      "duration_ms": 155600,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/5MtUBa98qC4ukSfCCjOnX9"
+      "duration_ms": 207114,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/5k5M9d3KpJv0zv6Y9LhraU"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -851,22 +855,18 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/2zR2CvE3sANYBc19r5dvC6"
+        "name": "Fous de nous deux",
+        "url": "https://open.spotify.com/album/0SXQw0b0sVz0LTGv7t6Utb"
       },
       "artists": [
         {
-          "name": "Clerel",
-          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
-        },
-        {
-          "name": "C The Reason",
-          "url": "https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk"
+          "name": "Clodelle",
+          "url": "https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt"
         }
       ],
-      "duration_ms": 207114,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/5k5M9d3KpJv0zv6Y9LhraU"
+      "duration_ms": 169358,
+      "name": "Fous de nous deux",
+      "url": "https://open.spotify.com/track/34pKCpWbrzLva99r9lkF7n"
     }
   ],
   "unique_name": "Editors' Picks: Best Canadian Songs of May",

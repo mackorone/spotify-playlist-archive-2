@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: R2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,590 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,715 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 2 | [Rihanna](https://open.spotify.com/track/23Y3IYu82OxwSWC1f2ILyl) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Rihanna](https://open.spotify.com/album/7jvhFuArohMk5JOGfhH84L) | 3:28 |
 | 3 | [Maria Benguela](https://open.spotify.com/track/0O0O5cDTQurnlQ4V44RNgV) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Dabanda Roots](https://open.spotify.com/album/4OFujVYmrxg2rieHAk9GVf) | 4:56 |
 | 4 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 |
-| 5 | [Track 5](https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [ENERGY](https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut) | 0:00 |
+| 5 | [Haut les mains](https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm) | [ENERGY](https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut) | 2:15 |
 | 6 | [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 |
 | 7 | [Mélo Décalé](https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo Décalé](https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc) | 2:36 |
 | 8 | [Sensa](https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Sensa](https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW) | 2:02 |

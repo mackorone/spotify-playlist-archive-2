@@ -11807,6 +11807,24 @@
     },
     {
       "album": {
+        "name": "Plin Plan",
+        "url": "https://open.spotify.com/album/5T62Bm5WyJMTFJNTiZh958"
+      },
+      "artists": [
+        {
+          "name": "Neona",
+          "url": "https://open.spotify.com/artist/1VOUbr2qeHgk36EXMkWaZH"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153684,
+      "name": "Plin Plan",
+      "url": "https://open.spotify.com/track/4gr32VodpsdYeqrt9SCYA9"
+    },
+    {
+      "album": {
         "name": "PPN (Para Pencari Nafkah)",
         "url": "https://open.spotify.com/album/0IjB2iuWjTtvi7yrTap0Mc"
       },

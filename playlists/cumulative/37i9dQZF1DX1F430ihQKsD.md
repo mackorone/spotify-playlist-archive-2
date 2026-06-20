@@ -4,7 +4,7 @@
 
 > 100 % chill, 100 % Montréal avec Beaux Léon
 
-896 songs - 2 day 2 hr 50 min
+898 songs - 2 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [CHILL](https://open.spotify.com/track/4urZknX7jJbvgMAWYIrWwK) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [GROSSE MAISON](https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb) | 2:45 | 2025-05-16 | 2025-11-29 |
 | [Chlorine](https://open.spotify.com/track/3p8G6cIqs5sinWIZ4MtlxN) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Chlorine](https://open.spotify.com/album/6XwXtVaQxXNBD9G6wihYp1) | 2:41 | 2025-05-30 | 2025-10-18 |
 | [Choker](https://open.spotify.com/track/2n9JkcdNp7pFviL0qdmmuH) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Choker](https://open.spotify.com/album/795cwI0M8cjrFb86T2dcqf) | 3:13 | 2022-05-27 | 2022-10-01 |
+| [chop it](https://open.spotify.com/track/6jjinjz2ECBHmdx0gL3Wch) | [em & I](https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb) | [chop it](https://open.spotify.com/album/4AUIY2JRgZcA0PNwHJa7Lb) | 2:00 | 2026-06-19 |  |
 | [Chrysalide](https://open.spotify.com/track/3FcXXAJGLHPRzSgGaAG6xH) | [Sunderloom](https://open.spotify.com/artist/39RDCjWphLt3dcDb975MyX) | [Check Engine](https://open.spotify.com/album/3Fnp7iTfN3GYQoFxml9BG3) | 4:11 | 2026-05-01 |  |
 | [Château de sable \- Piano Edit](https://open.spotify.com/track/34xRCwiwxNk02ih8kAVE0R) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Château de sable \(Piano Edit\)](https://open.spotify.com/album/44jGCF4P32PtjxQy6ybDKt) | 2:41 | 2026-01-16 | 2026-05-23 |
 | [Chérie](https://open.spotify.com/track/7jpaoqNDH8X6bLdLPpcXG0) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Vésuve](https://open.spotify.com/album/1qqDZpdmL5miAVBYOWiNds) | 4:40 | 2025-04-18 | 2025-10-18 |
@@ -287,6 +288,7 @@
 | [Flash](https://open.spotify.com/track/6QidTb1L7KCdbLmu7j0WIB) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [Flash](https://open.spotify.com/album/5vp5ih0pzIsUrNLcD8Hcyx) | 3:21 | 2022-07-08 | 2023-06-03 |
 | [Fleur de l'Âge](https://open.spotify.com/track/1AtvnJLYXb0eUy0JElcoPC) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:25 | 2022-05-13 | 2023-03-11 |
 | [Fleuron](https://open.spotify.com/track/1Uoi7ozqHcSMIufOZgYwaL) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs) | [Nouveau Langage](https://open.spotify.com/album/5LPAqjB3dGnLJkvnJKJYO8) | 3:44 | 2025-01-31 | 2026-01-17 |
+| [Fleuron \(feat\. Helena Deland\)](https://open.spotify.com/track/4fgp7Ase2eu8dnkQZ73AkT) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Fleuron \(feat\. Helena Deland\)](https://open.spotify.com/album/6Qp4q7H4L6xOiR6rfpGxn0) | 3:15 | 2026-06-19 |  |
 | [Fleurs](https://open.spotify.com/track/6J4sn4PN9POF1TeZiE77w2) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Fleurs](https://open.spotify.com/album/1QX130cPvTixh689vkCWo4) | 2:58 | 2022-03-25 | 2022-04-16 |
 | [Flocons](https://open.spotify.com/track/26TV5erxGmc924vwFoJ5b0) | [Joseph Avalé](https://open.spotify.com/artist/3BJ3ZN0pOwhJXqG6zQMCdB) | [Flocons](https://open.spotify.com/album/6roRTrpoS91aKKZJ8W1xBn) | 3:28 | 2026-01-16 | 2026-05-30 |
 | [Flying Away](https://open.spotify.com/track/3bszv09KHptpoVP6yDN2wv) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [Flying Away](https://open.spotify.com/album/3klMx33nQECUneOjwk9lc5) | 2:34 | 2024-05-24 | 2024-08-24 |

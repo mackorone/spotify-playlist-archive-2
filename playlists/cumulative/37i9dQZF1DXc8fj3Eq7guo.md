@@ -4,7 +4,7 @@
 
 > 50 stops, one continent, grab your pass
 
-103 songs - 6 hr 32 min
+106 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Angola](https://open.spotify.com/track/52s4ni6wnfdVhVPFZBpvQW) | [Bheki Mseleku](https://open.spotify.com/artist/49D0LjaqSUYrGdjDUL8klj) | [Celebration](https://open.spotify.com/album/2OFQgGsXO2ZpcUkGyaQ37y) | 7:26 | 2023-10-09 | 2026-04-18 |
 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 | 2023-11-24 |  |
 | [BENIN BOYS](https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:49 | 2024-07-12 |  |
+| [Bobo](https://open.spotify.com/track/3pfz2lC3SxolfEeUVo1sPE) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 3:02 | 2026-06-19 |  |
 | [Botswana](https://open.spotify.com/track/1CzcV8k8LoILPQMCGb7Zis) | [Carto](https://open.spotify.com/artist/5PJi5oUz6E3iA2t9IHtXVE), [Midday](https://open.spotify.com/artist/7eKm0PKhNlA36ybLq3fGs0) | [Cartostrophe](https://open.spotify.com/album/2fh9U70k4ZphuTnL5iufgw) | 2:58 | 2023-09-08 |  |
 | [Cairo](https://open.spotify.com/track/7dPGqNBb89NlmYyc1zkQ8a) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Cairo](https://open.spotify.com/album/0eZghBruhOmhbF5Uy9nqJR) | 3:16 | 2023-09-08 | 2025-04-12 |
 | [CANADA BREEZE](https://open.spotify.com/track/5bZoHEhzsgj49TZR6R7Uc3) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CLARITY OF MIND](https://open.spotify.com/album/2dsbyfeOhmmpzisluBfPKc) | 2:42 | 2026-04-17 |  |
@@ -78,6 +79,7 @@
 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 | 2025-07-11 |  |
 | [Mombasa](https://open.spotify.com/track/3CtfRT0hfvNGhEivMI4CCY) | [Safari Sound Band](https://open.spotify.com/artist/2mCLJWF0Fy3eEHPvgRCEFM) | [The Best Of African Songs](https://open.spotify.com/album/1i6Xt02mq2p85ywAei5f58) | 4:09 | 2023-09-08 | 2024-03-16 |
 | [Mombasa After Midnight](https://open.spotify.com/track/7rIqwiH9uCLuBYyr2cu7vH) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Exotic Moods Of Les Baxter](https://open.spotify.com/album/2ht6iWCY9PPVS4CuBYVcD1) | 2:10 | 2023-09-08 | 2023-12-09 |
+| [Montecarlo](https://open.spotify.com/track/064Yhqx41dl4hzWSNjsD80) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Sexy Highlife](https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi) | 1:49 | 2026-06-19 |  |
 | [Morocco](https://open.spotify.com/track/2ljF7c0hX2YU2K5BOzC5LU) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:06 | 2023-09-08 |  |
 | [Morogoro](https://open.spotify.com/track/653sdYtuZPYKZHr6GRplOX) | [Tankie DJ](https://open.spotify.com/artist/5QhPNPVnSivVz4R0PXZN3L) | [Morogoro](https://open.spotify.com/album/1SwmQQRqFY1OsPBpXjGE4k) | 6:58 | 2023-09-08 | 2023-10-23 |
 | [Mzansi](https://open.spotify.com/track/6h6lRoxhGgkfLw6pVMvPHN) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Eindo](https://open.spotify.com/artist/6kHkTLWCtE88wnK3XKXFFr), [Turaz](https://open.spotify.com/artist/6G0KGHioY6sCFMNozFUQRC) | [Necessary Evil](https://open.spotify.com/album/5DAnRaWABIjjFFNdMFOPrc) | 3:49 | 2023-09-08 | 2024-10-19 |
@@ -90,6 +92,7 @@
 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 | 2023-09-08 | 2024-04-19 |
 | [Ojuelegba](https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9) | 3:36 | 2024-03-15 |  |
 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2024-03-08 |  |
+| [Paris](https://open.spotify.com/track/2nF8YfQEp8OZizpZ6S8W8r) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [SAY Yours](https://open.spotify.com/album/5AIArg9AYwFRfvjh6QPkyv) | 3:20 | 2026-06-19 |  |
 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2023-09-08 |  |
 | [Port\-harcourt](https://open.spotify.com/track/4mYrASGvrm2xBWQskhg2P3) | [Vicoka](https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN) | [Port\-harcourt](https://open.spotify.com/album/4SMOG66rrNEkmBnvYsIYdw) | 2:50 | 2024-10-25 |  |
 | [Run Jozi \(Godly\) \(feat\. K.O\)](https://open.spotify.com/track/2zuOiLM3QGT5DpO4fJwOEo) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 3:54 | 2023-09-08 |  |

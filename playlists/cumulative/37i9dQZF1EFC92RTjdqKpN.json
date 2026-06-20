@@ -2297,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/2Agpx4O43voM4HbvPJZ6cv"
+      },
+      "artists": [
+        {
+          "name": "Kevin Jonas",
+          "url": "https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175961,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/5f0SfZp3LqbA1Ny6L4v15U"
+    },
+    {
+      "album": {
         "name": "Love Back",
         "url": "https://open.spotify.com/album/4WVPdkba5QybMBD8szrRwB"
       },

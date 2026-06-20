@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1583,
+  "num_followers": 1586,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAAAN9My4kQoFOKweJV5rTgCx",
+  "snapshot_id": "ajM1AAAAAABHg4Px8oFgwVxF8Qvdub85",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "never worry",
-        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
       },
       "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 186123,
-      "name": "Sumthin Crazy (with Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
+      "duration_ms": 221153,
+      "name": "Feel the Same Way",
+      "url": "https://open.spotify.com/track/41maLNLFSpT2bJDLkZlpSU"
     },
     {
       "added_at": null,
@@ -363,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
+        "name": "never worry",
+        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
       "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 221153,
-      "name": "Feel the Same Way",
-      "url": "https://open.spotify.com/track/41maLNLFSpT2bJDLkZlpSU"
+      "duration_ms": 186123,
+      "name": "Sumthin Crazy (with Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
       "duration_ms": 187840,
       "name": "401",
       "url": "https://open.spotify.com/track/43X9h7tRxERIYgztKjHU6k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A View of U",
-        "url": "https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 262897,
-      "name": "The Relic",
-      "url": "https://open.spotify.com/track/415z4JEuCKRr5T8djU13Wl"
     }
   ],
   "unique_name": "This Is Rochelle Jordan",

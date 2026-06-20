@@ -2,9 +2,9 @@
 
 ### [K\-OST Music Video](https://open.spotify.com/playlist/37i9dQZF1DWXarsGtGJHPf)
 
-> Enjoy the iconic K\-OSTs with the music videos! \(Cover: Dynamite Kiss\(키스는 괜히 해서\)\) \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
+> Enjoy the iconic K\-OSTs with the music videos! \(Cover: 신입사원 강회장\) \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
 
-37 songs - 2 hr 13 min
+38 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Heavy Heart](https://open.spotify.com/track/3VfIcpqpEr8q0M9OuvS1c7) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Heavy Heart](https://open.spotify.com/album/7srQjmEGwrbYEWU0SQviXF) | 3:36 | 2025-07-06 |  |
 | [I GOT IT \(From "The Judge Returns \(Original Soundtrack\) Part.1"\)](https://open.spotify.com/track/0pG7b0bItR0F63mOmiiNJp) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [I GOT IT \(From "The Judge Returns \(Original Soundtrack\) Part.1"\)](https://open.spotify.com/album/5nvIByJ9NOzVhx51XIpWUP) | 2:37 | 2026-01-05 |  |
 | [I still love you](https://open.spotify.com/track/3u6FvRmmMc1ta2rtCQhL9W) | [VIOLA](https://open.spotify.com/artist/25aScl6kfWpLHcAwRKvwU3) | [I still love you](https://open.spotify.com/album/6EXdOZ4SvaepJTA82Kdv20) | 3:46 | 2025-10-15 |  |
+| [I'm Runnin' \(From "Reborn Rookie"\)](https://open.spotify.com/track/3JmJGCAiBoFtRj35WA4l9O) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [I'm Runnin' \(From "Reborn Rookie"\)](https://open.spotify.com/album/4bGqhi4LiKBowOybxp45Zc) | 2:49 | 2026-06-19 |  |
 | [If you're with me](https://open.spotify.com/track/3Edd5X9vy6t49rj74h2pAL) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [If you're with me](https://open.spotify.com/album/1yRqx40R9ons7xDlDKL2FS) | 3:53 | 2025-07-06 |  |
 | [Isle of Me \(From "Sold Out On You"\)](https://open.spotify.com/track/54SEo4CoJktVPzvDEwgJiE) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Isle of Me \(From "Sold Out On You"\)](https://open.spotify.com/album/42j462vfrGmybewykkeuBb) | 3:47 | 2026-04-25 |  |
 | [Lilac](https://open.spotify.com/track/4UdyOkVnpwW3337qb3JBEf) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Lilac](https://open.spotify.com/album/6bhg1nEu6BjGxxYf8z2i2W) | 3:12 | 2025-10-15 |  |

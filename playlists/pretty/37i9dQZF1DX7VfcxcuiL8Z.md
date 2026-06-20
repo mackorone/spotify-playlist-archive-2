@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: The Buoys
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,289 likes - 81 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,299 likes - 81 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All I'll Ever Know](https://open.spotify.com/track/2zSMcbwXJ6aRpb5nx56psa) | [Sonic Reducer](https://open.spotify.com/artist/4fSqBIjaypPHHyGIkrebEL) | [Living Room](https://open.spotify.com/album/6xTiV4aeEdyG9HPYDotzaK) | 3:06 |
 | 2 | [Kill You Back](https://open.spotify.com/track/08FMKTqe5CUHAPSmUb9r4q) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Kill You Back](https://open.spotify.com/album/18NnUYDOwB07EFJTIroiW5) | 2:54 |
-| 3 | [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 |
+| 3 | [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 |
 | 4 | [Don't Tell Me It's Over](https://open.spotify.com/track/0mG6f89Na8qlcO9bcwEtWi) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket \(25 Year Anniversary Edition\)](https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu) | 2:32 |
 | 5 | [Magic Man](https://open.spotify.com/track/1kegdFmzGcUPUM35xJXzmK) | [The Gnomes](https://open.spotify.com/artist/1Ax3BC6GoOGjSw2ipoi6P6) | [Magic Man](https://open.spotify.com/album/4N468uvbihepIVfjDhe82d) | 2:55 |
 | 6 | [Evolution](https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Evolution](https://open.spotify.com/album/10reOzyrRiJQehulKminkn) | 3:45 |

@@ -1867,6 +1867,36 @@
     },
     {
       "album": {
+        "name": "El Gaucho (feat. Marcos Valle, Mirella Costa & Zaza Desiderio)",
+        "url": "https://open.spotify.com/album/4E7cjsGwW7DIIZfOFokVFH"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        },
+        {
+          "name": "Mirella Costa",
+          "url": "https://open.spotify.com/artist/7ESNrvtH8AEYW4pSbiOtx7"
+        },
+        {
+          "name": "Zaza Desiderio",
+          "url": "https://open.spotify.com/artist/6MKahwH3Pc4PjRPIKrngfb"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "El Gaucho (feat. Marcos Valle, Mirella Costa & Zaza Desiderio)",
+      "url": "https://open.spotify.com/track/23T156dMcEz78BKQLUg0D6"
+    },
+    {
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2q2XdDtowIYawqkKsPnokt"
       },

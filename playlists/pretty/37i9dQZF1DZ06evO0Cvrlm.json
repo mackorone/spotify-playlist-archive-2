@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 597452,
+  "num_followers": 597485,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAAB0yhsEbNc2eH8XgY3a6mqW",
+  "snapshot_id": "ajM1AAAAAAAGygwlM3yaLK4KYoxLdaY6",
   "tracks": [
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 239174,
-      "name": "Mothers Pride - Remastered",
-      "url": "https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv"
+      "duration_ms": 147482,
+      "name": "Waiting (Reprise) - Remastered",
+      "url": "https://open.spotify.com/track/6pqUpNXOsFWqMtPonvLJOe"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 147482,
-      "name": "Waiting (Reprise) - Remastered",
-      "url": "https://open.spotify.com/track/6pqUpNXOsFWqMtPonvLJOe"
+      "duration_ms": 239174,
+      "name": "Mothers Pride - Remastered",
+      "url": "https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Meticulously selected by Spotify music experts.",
-  "num_followers": 98246,
+  "num_followers": 98228,
   "original_name": "Editors' Picks: Best Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
+        "name": "Same Day Cleaning",
+        "url": "https://open.spotify.com/album/3Ph1OGPvuAHe4BN00WNYi9"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 226522,
+      "name": "Burn The River",
+      "url": "https://open.spotify.com/track/4ZLiHdZHDe0hpzElVQEvDT"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
         "name": "No Sharing (feat. Luh Tyler)",
         "url": "https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 211717,
       "name": "No Sharing (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
-        "name": "Same Day Cleaning",
-        "url": "https://open.spotify.com/album/3Ph1OGPvuAHe4BN00WNYi9"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 226522,
-      "name": "Burn The River",
-      "url": "https://open.spotify.com/track/4ZLiHdZHDe0hpzElVQEvDT"
     },
     {
       "added_at": "2026-02-04 14:24:46",

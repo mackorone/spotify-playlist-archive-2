@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: YHWH Nailgun",
+  "description": "The best new music from the wide world of punk. Cover: Quicksand",
   "name": "All New Punk",
   "tracks": [
     {
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 164026,
       "name": "9 Till Not Alright",
       "url": "https://open.spotify.com/track/7gmbNyE6x4AiqZrSvZitT4"
@@ -4402,6 +4402,24 @@
       "duration_ms": 126773,
       "name": "Back To Bangkok",
       "url": "https://open.spotify.com/track/5RrtTSB9uvPFCWFJ8ViI94"
+    },
+    {
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
+      },
+      "artists": [
+        {
+          "name": "iNTeRNeT FReNDz",
+          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160726,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
     },
     {
       "album": {
@@ -11829,6 +11847,24 @@
     },
     {
       "album": {
+        "name": "Cool Guy",
+        "url": "https://open.spotify.com/album/4k9XE5JzzWmtoY8eMQQuRY"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Cool Guy",
+      "url": "https://open.spotify.com/track/20X1G6CNx9L0hcuHA3oqxi"
+    },
+    {
+      "album": {
         "name": "Cool Job",
         "url": "https://open.spotify.com/album/18RQPFDmUjqqf64v87muCa"
       },
@@ -13778,6 +13814,24 @@
       "duration_ms": 138147,
       "name": "Death Calling",
       "url": "https://open.spotify.com/track/3kBLyzBxxALUJ0F139XdlJ"
+    },
+    {
+      "album": {
+        "name": "Death Destruction Mayhem",
+        "url": "https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8"
+      },
+      "artists": [
+        {
+          "name": "Ceremony",
+          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178613,
+      "name": "Death Destruction Mayhem",
+      "url": "https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0"
     },
     {
       "album": {
@@ -16841,6 +16895,42 @@
     },
     {
       "album": {
+        "name": "El Reencuentro",
+        "url": "https://open.spotify.com/album/0aQX6iSLt8bVoVZZ448WFP"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213226,
+      "name": "El Reencuentro",
+      "url": "https://open.spotify.com/track/3pDDvUeUC7qSIULLArYNnY"
+    },
+    {
+      "album": {
+        "name": "CASI",
+        "url": "https://open.spotify.com/album/1itTUvcQvI3gQGyzfQZUTR"
+      },
+      "artists": [
+        {
+          "name": "casi",
+          "url": "https://open.spotify.com/artist/08KCycW58Ksyv5y5QaTyXH"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267222,
+      "name": "ELEVEN87",
+      "url": "https://open.spotify.com/track/6GIzqPQn0a2L6AHt1ToSIb"
+    },
+    {
+      "album": {
         "name": "Elitest G.O.A.T.",
         "url": "https://open.spotify.com/album/2wgsMdq9nZr7YhHjrcjSKF"
       },
@@ -17896,7 +17986,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 180563,
       "name": "F.O.M.O.",
       "url": "https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz"
@@ -19926,6 +20016,24 @@
       "duration_ms": 169059,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/3YTh8sEUXyvufGoQA5e6LP"
+    },
+    {
+      "album": {
+        "name": "FREE CASKETS",
+        "url": "https://open.spotify.com/album/5gOayp9nee1eRip1lydDeO"
+      },
+      "artists": [
+        {
+          "name": "Aim High",
+          "url": "https://open.spotify.com/artist/52uduC7KEQFBSnGHpMskpn"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163989,
+      "name": "FREE CASKETS",
+      "url": "https://open.spotify.com/track/3YPmR5CB5sAhynKV6Bszmi"
     },
     {
       "album": {
@@ -23099,6 +23207,24 @@
     },
     {
       "album": {
+        "name": "Hang The Choir",
+        "url": "https://open.spotify.com/album/3k72KEyk82I2JKw9IUkFGv"
+      },
+      "artists": [
+        {
+          "name": "John Coffey",
+          "url": "https://open.spotify.com/artist/4kffVdSOMGP0BOiBXVgeyA"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187533,
+      "name": "Hang The Choir",
+      "url": "https://open.spotify.com/track/4H3SBY3mnzI2slMB0rGvhQ"
+    },
+    {
+      "album": {
         "name": "Hanging Onto You",
         "url": "https://open.spotify.com/album/7v2jRZVrXNOIZOrq62hwzO"
       },
@@ -24492,7 +24618,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 223416,
       "name": "Highs and Lows",
       "url": "https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O"
@@ -26894,7 +27020,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 206410,
       "name": "I Will Be Delivered",
       "url": "https://open.spotify.com/track/0w2jevuHBhjB9dNjYC0Was"
@@ -30623,6 +30749,24 @@
     },
     {
       "album": {
+        "name": "Late Night Burger",
+        "url": "https://open.spotify.com/album/1HfWSmELxJMzjdXg5a54ck"
+      },
+      "artists": [
+        {
+          "name": "Heavy Lungs",
+          "url": "https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174874,
+      "name": "Late Night Burger",
+      "url": "https://open.spotify.com/track/20q15xy1u7uDEBJUuvRGT7"
+    },
+    {
+      "album": {
         "name": "Greatest Hangs",
         "url": "https://open.spotify.com/album/4v4tvpx7fkXA9sqHrKNSy1"
       },
@@ -31388,6 +31532,24 @@
       "duration_ms": 200200,
       "name": "Levity",
       "url": "https://open.spotify.com/track/50VmAefTGokvpBLNTBhN9Y"
+    },
+    {
+      "album": {
+        "name": "Seven Years of Bad Luck",
+        "url": "https://open.spotify.com/album/3Z7NbdYtjIH1PsFHHdMAA4"
+      },
+      "artists": [
+        {
+          "name": "Belvedere",
+          "url": "https://open.spotify.com/artist/6LaK7jiyyNzB8JVhddxZxG"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/4bcy3hFKUCShVcLzEZYVCt"
     },
     {
       "album": {
@@ -38104,7 +38266,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 107714,
       "name": "North West Coastal Highway",
       "url": "https://open.spotify.com/track/5aDhgpcK0OEBEDPT4HgL5l"
@@ -44674,7 +44836,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 191583,
       "name": "Rings True",
       "url": "https://open.spotify.com/track/2L8GTZdqp7ZPHdh8XLUATN"
@@ -46750,7 +46912,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 197627,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35"
@@ -47226,7 +47388,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 182665,
       "name": "Shoplifting",
       "url": "https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v"
@@ -47446,7 +47608,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 181922,
       "name": "Shy Guy",
       "url": "https://open.spotify.com/track/0mu5a22nuiaUzH1LcFtAin"
@@ -48420,6 +48582,24 @@
       "duration_ms": 103605,
       "name": "Slip the Noose",
       "url": "https://open.spotify.com/track/4a0GY70CJ9hGQzhbDyPnXZ"
+    },
+    {
+      "album": {
+        "name": "Slowly Turning Blue",
+        "url": "https://open.spotify.com/album/4KUu1oPJyk1JRDPrBiVDHw"
+      },
+      "artists": [
+        {
+          "name": "No Cure",
+          "url": "https://open.spotify.com/artist/3nw6phs4P8q7lncRq3uurU"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222227,
+      "name": "Slowly Turning Blue",
+      "url": "https://open.spotify.com/track/4YqENY598REOECia70REDu"
     },
     {
       "album": {
@@ -52208,7 +52388,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 190986,
       "name": "Tap Water",
       "url": "https://open.spotify.com/track/2qBouPYIR4pbDlJZIJkSAl"
@@ -54049,6 +54229,24 @@
     },
     {
       "album": {
+        "name": "The Mud Never Dries",
+        "url": "https://open.spotify.com/album/5Bl0eyoYZSa8VVWqvEy2xV"
+      },
+      "artists": [
+        {
+          "name": "TV Priest",
+          "url": "https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197101,
+      "name": "The Mud Never Dries",
+      "url": "https://open.spotify.com/track/1X28Q4iqqoLunMSxRVm7ff"
+    },
+    {
+      "album": {
         "name": "The Ocean",
         "url": "https://open.spotify.com/album/5xkTDUJ4frtffODIZeQa8y"
       },
@@ -54660,6 +54858,24 @@
       "duration_ms": 197853,
       "name": "The Weapon Pt. II",
       "url": "https://open.spotify.com/track/2nUWdoAXkRdZj4ssbrbK81"
+    },
+    {
+      "album": {
+        "name": "In Echo",
+        "url": "https://open.spotify.com/album/6OvFsus02FUsVhFnWfhUoW"
+      },
+      "artists": [
+        {
+          "name": "Soft Palms",
+          "url": "https://open.spotify.com/artist/4PmRvPxX5xKA5zg4gmh4wR"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184951,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/0S7wTDPZrjW2tBtmwN33BL"
     },
     {
       "album": {
@@ -55496,7 +55712,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 163191,
       "name": "TIL THE END",
       "url": "https://open.spotify.com/track/48F1xLtman0hOSW8PACPO7"
@@ -57466,7 +57682,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 164732,
       "name": "UNREAD",
       "url": "https://open.spotify.com/track/3Nne1wsDyLbHdgf8r3txKW"
@@ -58238,7 +58454,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 176455,
       "name": "Waiting To Know",
       "url": "https://open.spotify.com/track/7zZSpzhovJFLtjrX7KSz7P"
@@ -58260,7 +58476,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 320573,
       "name": "Wake Her Up",
       "url": "https://open.spotify.com/track/0DvVy1XSbcRatqCTxs4yWK"

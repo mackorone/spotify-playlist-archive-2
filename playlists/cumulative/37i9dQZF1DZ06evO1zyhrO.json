@@ -56,10 +56,32 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 155076,
       "name": "Abracadabra (feat. Craig David)",
       "url": "https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp"
+    },
+    {
+      "album": {
+        "name": "Abracadabra (feat. Craig David)",
+        "url": "https://open.spotify.com/album/3ZhVhgmMYyPalwUSX6D42l"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Abracadabra (feat. Craig David)",
+      "url": "https://open.spotify.com/track/4XIIjW8c8pPaB3tZ712yH9"
     },
     {
       "album": {
@@ -78,7 +100,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 167796,
       "name": "Abracadabra, Pt. 2",
       "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
@@ -252,7 +274,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 200403,
       "name": "Commitment Pt. 2",
       "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Fito P\u00e1ez en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Cuca en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -2974,7 +2974,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 216250,
       "name": "Juguete",
       "url": "https://open.spotify.com/track/1AP0YC81s5Gxk3wUIoQE5Q"
@@ -6670,6 +6670,24 @@
       "duration_ms": 180421,
       "name": "Tema de Adri\u00e1n",
       "url": "https://open.spotify.com/track/2x9hAIqH7yQiAdGWutAI1S"
+    },
+    {
+      "album": {
+        "name": "Tempestades",
+        "url": "https://open.spotify.com/album/2f1loAzfVS23pWN5du3WzW"
+      },
+      "artists": [
+        {
+          "name": "Cuca",
+          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280760,
+      "name": "Tempestades",
+      "url": "https://open.spotify.com/track/19OvviVpEn8Geqnuc4ZEdW"
     },
     {
       "album": {

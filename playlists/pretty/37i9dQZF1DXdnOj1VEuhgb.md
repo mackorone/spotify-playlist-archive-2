@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Motive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,747 likes - 49 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,719 likes - 49 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

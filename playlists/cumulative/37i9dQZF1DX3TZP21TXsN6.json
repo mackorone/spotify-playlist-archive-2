@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 147878,
       "name": "Bezig Zijn",
       "url": "https://open.spotify.com/track/3E9Ny2OgTctuerknreY0ka"
@@ -4986,6 +4986,24 @@
       "duration_ms": 131250,
       "name": "Havana Club",
       "url": "https://open.spotify.com/track/7dHVRgkpuXO46mJYFz2EDU"
+    },
+    {
+      "album": {
+        "name": "Hchouma",
+        "url": "https://open.spotify.com/album/7eOuhA16JceXZzclYtgHp9"
+      },
+      "artists": [
+        {
+          "name": "VL Disappear",
+          "url": "https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160406,
+      "name": "Hchouma",
+      "url": "https://open.spotify.com/track/1lY4ev4ihSy5MqbYkqnn8U"
     },
     {
       "album": {

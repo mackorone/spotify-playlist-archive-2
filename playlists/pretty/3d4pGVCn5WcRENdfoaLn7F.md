@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 735 likes - 66 songs - 3 hr 53 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 739 likes - 67 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,5 +74,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 64 | [Just a Little](https://open.spotify.com/track/5gTqfu1tnwW4FRWVPWwAHB) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:34 |
 | 65 | [Spent My Whole Life Loving You](https://open.spotify.com/track/3NeYvY7holTVNCpaQt8BH1) | [Alexandra Klee](https://open.spotify.com/artist/3SbQ1Fwzf6okKXEXfCkTLP), [Andreas Wallner](https://open.spotify.com/artist/02u2I6IenqojYw6JMPnat6) | [Spent My Whole Life Loving You](https://open.spotify.com/album/52Ac8NvHzJ6pxVDMvM23yC) | 3:14 |
 | 66 | [Something New](https://open.spotify.com/track/7G9HfHhiTPYrvtu7hTRFJk) | [Monday's Monsoon](https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg) | [Something New](https://open.spotify.com/album/5iVvaFMO6P1bQKWxRfWr8p) | 4:40 |
+| 67 | [Chasing Taste](https://open.spotify.com/track/2OnXAQlNqA5ulvDJAdMbNm) | [ANCR TO PAST](https://open.spotify.com/artist/5JAtQYcWXv57H39UEom6ul) | [fibres](https://open.spotify.com/album/4yHAxaNLLxheJ688GXi9ko) | 3:51 |
 
-Snapshot ID: `AAADu01pzgowMQBgxGYLUtEwwuKqRmEA`
+Snapshot ID: `AAADvP2/jFoZIyA+BJUwm3rGh8oJpzUO`

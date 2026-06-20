@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: Tom Misch
 
-358 songs - 23 hr 24 min
+359 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Echo In The Chamber](https://open.spotify.com/track/4z8q6Ob38UExUmoSXfB7Ei) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 3:20 | 2023-10-05 | 2023-11-10 |
 | [Echo In The Chamber](https://open.spotify.com/track/7mamMoh4j7RUpYrT7IvRov) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Echo In The Chamber](https://open.spotify.com/album/3ywLr5Ciaxauop3NuF2DFJ) | 3:20 | 2023-08-24 | 2023-10-08 |
 | [Ego](https://open.spotify.com/track/4pTY7fvhW6v0OtUGleAqUg) | [Feelds](https://open.spotify.com/artist/74W4mKE9RR576xVZiMGE8W), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [Brilliant Mud](https://open.spotify.com/album/73OCol3JVs2XjcknZ8h2CK) | 4:21 | 2023-09-14 | 2023-11-10 |
+| [El Gaucho \(feat\. Marcos Valle, Mirella Costa & Zaza Desiderio\)](https://open.spotify.com/track/23T156dMcEz78BKQLUg0D6) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [Mirella Costa](https://open.spotify.com/artist/7ESNrvtH8AEYW4pSbiOtx7), [Zaza Desiderio](https://open.spotify.com/artist/6MKahwH3Pc4PjRPIKrngfb) | [El Gaucho \(feat\. Marcos Valle, Mirella Costa & Zaza Desiderio\)](https://open.spotify.com/album/4E7cjsGwW7DIIZfOFokVFH) | 4:25 | 2026-06-19 |  |
 | [Electric](https://open.spotify.com/track/1prB2IsyoUHw8bEjhprqFL) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Electric](https://open.spotify.com/album/2q2XdDtowIYawqkKsPnokt) | 2:22 | 2023-10-05 | 2024-11-23 |
 | [Emerge \(For Sarah\)](https://open.spotify.com/track/5Xo4uNxFINswfad0bMQHrt) | [Jerome Blazé](https://open.spotify.com/artist/4Xugx9BOIAE45eFzvzEN6e) | [Emerge \(For Sarah\)](https://open.spotify.com/album/4K7rrFZvxgDyDGD3SvJHfJ) | 5:07 | 2024-10-04 |  |
 | [Emotional Math](https://open.spotify.com/track/1aEnioYodWv34uW8AfG09O) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Emiliano Lasansky](https://open.spotify.com/artist/5H9mRyNtdbnJ9L0mAD2egh), [Erin O'Neill](https://open.spotify.com/artist/3sw1KsnsjxCKsetyiEPDun) | [Emotional Math](https://open.spotify.com/album/0kusgNmps2quCWWbRB7ENN) | 4:23 | 2025-07-04 |  |

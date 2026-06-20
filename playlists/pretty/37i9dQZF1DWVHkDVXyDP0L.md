@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: South Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,571 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,570 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Tell Me It Ain't Over](https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lovesick Sentimental](https://open.spotify.com/album/3Z63UdA9vBK8yhmhwqkEY2) | 4:49 |
 | 100 | [Waiting For](https://open.spotify.com/track/4zNx5lN8omm3LCacnSh8pM) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Waiting For](https://open.spotify.com/album/6KebC6sewcGM66E2Ea5eJW) | 3:16 |
 
-Snapshot ID: `AAAAADLHxRs6VdB1q3t+pxGPAiwiVDiz`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

@@ -4531,6 +4531,28 @@
     },
     {
       "album": {
+        "name": "I Got A Feeling",
+        "url": "https://open.spotify.com/album/3P1eIPsWrKLZMfvYqyDase"
+      },
+      "artists": [
+        {
+          "name": "Sam Pounds",
+          "url": "https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1"
+        },
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "I Got A Feeling",
+      "url": "https://open.spotify.com/track/0r8IyNbHfCexbil7HeJsRW"
+    },
+    {
+      "album": {
         "name": "I GOT IT",
         "url": "https://open.spotify.com/album/7Ittuxr5x2Z1mM8wxag9zS"
       },
@@ -7408,7 +7430,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 201422,
       "name": "Play My Guitar",
       "url": "https://open.spotify.com/track/6bfDFOlMraYL4XoYAExz3n"

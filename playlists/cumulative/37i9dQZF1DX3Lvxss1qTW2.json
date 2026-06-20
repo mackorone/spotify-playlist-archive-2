@@ -12001,6 +12001,24 @@
     },
     {
       "album": {
+        "name": "Red Benz",
+        "url": "https://open.spotify.com/album/4vqzeWLjVBjADTJT7wzERb"
+      },
+      "artists": [
+        {
+          "name": "EKENE",
+          "url": "https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186503,
+      "name": "Red Benz",
+      "url": "https://open.spotify.com/track/4p1OLcAB4oDmhboqikTuHG"
+    },
+    {
+      "album": {
         "name": "Reset (feat. Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA"
       },

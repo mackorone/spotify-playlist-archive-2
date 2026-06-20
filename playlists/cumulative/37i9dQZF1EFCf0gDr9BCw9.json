@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "To Benny & Johnny With Love From Herb Geller",
+        "url": "https://open.spotify.com/album/5qJddYaWqJEzwkhEkM1dZT"
+      },
+      "artists": [
+        {
+          "name": "Herb Geller",
+          "url": "https://open.spotify.com/artist/65xuAsfqBQjZ6p3co6NGBX"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299480,
+      "name": "Ballad For Very Tired And Very Sad Lotus Eaters",
+      "url": "https://open.spotify.com/track/1RYMwSbymCJ37heFBpSiiC"
+    },
+    {
+      "album": {
         "name": "A Drum Is a Woman, conte musical de Duke Ellington (Live au Th\u00e9\u00e2tre National de Chaillot en 1996)",
         "url": "https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc"
       },
@@ -970,7 +988,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 373840,
       "name": "Day Dream",
       "url": "https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx"
@@ -996,6 +1014,24 @@
       "duration_ms": 236426,
       "name": "Day Dream",
       "url": "https://open.spotify.com/track/0noKq3ZipsYm3cjDsGiqgH"
+    },
+    {
+      "album": {
+        "name": "Duke Ellington's Far East Suite",
+        "url": "https://open.spotify.com/album/5vpTgY04AzRBacZxtGhFe6"
+      },
+      "artists": [
+        {
+          "name": "Slavic Soul Party!",
+          "url": "https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372182,
+      "name": "Depk",
+      "url": "https://open.spotify.com/track/6M8khwCck0uxFRRwYMO39h"
     },
     {
       "album": {
@@ -1678,6 +1714,24 @@
       "duration_ms": 263093,
       "name": "Intimacy Of The Blues",
       "url": "https://open.spotify.com/track/1FfWQD0d7AVwEJpVpIGf7Y"
+    },
+    {
+      "album": {
+        "name": "Passion Flower",
+        "url": "https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8"
+      },
+      "artists": [
+        {
+          "name": "John Dimartino",
+          "url": "https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416638,
+      "name": "Isfahan (Elf)",
+      "url": "https://open.spotify.com/track/3lxUkLKhivvu86W5Nr6UWz"
     },
     {
       "album": {
@@ -2763,6 +2817,24 @@
     },
     {
       "album": {
+        "name": "Sings Lonely and Blue",
+        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147759,
+      "name": "Only the Lonely",
+      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
+    },
+    {
+      "album": {
         "name": "BD Music Presents Billy Strayhorn Played by Duke Ellington",
         "url": "https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ"
       },
@@ -2814,6 +2886,24 @@
       "duration_ms": 177031,
       "name": "Paris Blues",
       "url": "https://open.spotify.com/track/37oXUGR543Dt5z8DW2W0lB"
+    },
+    {
+      "album": {
+        "name": "The Duke Plays Ellington",
+        "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186876,
+      "name": "Passion Flower",
+      "url": "https://open.spotify.com/track/5j5zeHWqdXWybCCIowBM6G"
     },
     {
       "album": {
@@ -3090,10 +3180,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 526066,
       "name": "Pt. I-Festival Junction",
       "url": "https://open.spotify.com/track/7kw6RQgL8a7ksK5NCEWx59"
+    },
+    {
+      "album": {
+        "name": "Ellington at Newport 1956 (Complete)",
+        "url": "https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484973,
+      "name": "Pt. I-Festival Junction - Live",
+      "url": "https://open.spotify.com/track/6ovjdSJpBamIgcIQJCQhO9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Slow Pulp
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,404 likes - 113 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,474 likes - 113 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

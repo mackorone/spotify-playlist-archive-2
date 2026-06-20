@@ -1,15 +1,35 @@
 {
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Willy Paul & Otile Brown",
-  "num_followers": 52909,
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Modest Chabari",
+  "num_followers": 52907,
   "original_name": "Made In Kenya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMXXd2GDO/roYEOGCheMCCDNe2jA",
+  "snapshot_id": "AAAAAJLoDigh/7PpRUt/EZ3X2avSt6hm",
   "tracks": [
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
+      "album": {
+        "name": "Mtoto wa Khadija",
+        "url": "https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "Siaka",
+      "url": "https://open.spotify.com/track/0aJb7gWWz2HbI0GB3kq6vP"
+    },
+    {
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "M.O.T.O",
         "url": "https://open.spotify.com/album/1z3vDn9mlXrNfJgXeXIdwb"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/13RrmTzCsknCAV7jb1hPnx"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/2GqiTio6qu6nrWVhamVSNh"
@@ -57,7 +77,23 @@
       "url": "https://open.spotify.com/track/1WBhqy3hTte6U9tAo5qe3N"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
+      "album": {
+        "name": "Korazon",
+        "url": "https://open.spotify.com/album/0oPcfA4s84CKAk8ruxCIr4"
+      },
+      "artists": [
+        {
+          "name": "Modest Chabari",
+          "url": "https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Korazon",
+      "url": "https://open.spotify.com/track/3ryaMwDkG6qP1OvEOrOmqV"
+    },
+    {
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Longo Longo",
         "url": "https://open.spotify.com/album/2nCEA6ak90czRS3KLWEZcm"
@@ -77,27 +113,27 @@
       "url": "https://open.spotify.com/track/7C4ld0CYlWSHk7hovq3xpn"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
-        "name": "Mtoto wa Khadija",
-        "url": "https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn"
+        "name": "Hell Of A Night",
+        "url": "https://open.spotify.com/album/0Lru0GcgdZnMcU3J1MgtVV"
       },
       "artists": [
         {
-          "name": "Mejja",
-          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+          "name": "Domani Munga",
+          "url": "https://open.spotify.com/artist/5QzkdCjCrO3OpfLTHvqnNb"
         },
         {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
         }
       ],
-      "duration_ms": 136363,
-      "name": "Siaka",
-      "url": "https://open.spotify.com/track/0aJb7gWWz2HbI0GB3kq6vP"
+      "duration_ms": 213061,
+      "name": "Hell Of A Night",
+      "url": "https://open.spotify.com/track/2T7mz68Ha96CFfYVhJ6Fiw"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "PM",
         "url": "https://open.spotify.com/album/0r3S6mCeav8JDaUsFKuE0x"
@@ -117,7 +153,7 @@
       "url": "https://open.spotify.com/track/4WadEom9ypAUL8a3Ppx5c3"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "NaEnjoy",
         "url": "https://open.spotify.com/album/3X0ByBetVJ3YDL5tSTgjRt"
@@ -137,7 +173,27 @@
       "url": "https://open.spotify.com/track/5HYDoscfBYwQhLxkMY2dXs"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
+      "album": {
+        "name": "Baddest",
+        "url": "https://open.spotify.com/album/0Ml09yO6GgYHTSbjeFUoVR"
+      },
+      "artists": [
+        {
+          "name": "Calvo Mistari",
+          "url": "https://open.spotify.com/artist/6w4t3pnu0u5aDfnkDzN4vA"
+        },
+        {
+          "name": "Naiboi",
+          "url": "https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Baddest Vibes",
+      "url": "https://open.spotify.com/track/3VtYIGMMoSpgrU5tWGXgaU"
+    },
+    {
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Now it's Experience Talking",
         "url": "https://open.spotify.com/album/5r0GN5MfXy30y940mqBiU5"
@@ -161,7 +217,7 @@
       "url": "https://open.spotify.com/track/5I5camliIvJpAlTH1Qrnj7"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Watiri's Trouble",
         "url": "https://open.spotify.com/album/0fLdMoX6lwdeXwHOuUUj2i"
@@ -181,7 +237,7 @@
       "url": "https://open.spotify.com/track/5e8vMUSUiMuM7QmsEE6roD"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Braggadocious",
         "url": "https://open.spotify.com/album/3UxSSWDypYIdyjdujWiHWe"
@@ -201,7 +257,27 @@
       "url": "https://open.spotify.com/track/0dApyDWaWsIdhqNxLsAtRn"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
+      "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/1pL7n2nyf2GZvCXcNui1ll"
+      },
+      "artists": [
+        {
+          "name": "Savinnah",
+          "url": "https://open.spotify.com/artist/3cd1tAs8P9mpjE4e4kBbQb"
+        },
+        {
+          "name": "Genes1s",
+          "url": "https://open.spotify.com/artist/2bHzI3U1oGyLK5OvIFdq2e"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/0i2tFVfo5ft4ZQSBMuCpON"
+    },
+    {
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "FREAKY",
         "url": "https://open.spotify.com/album/0sF7WtY3jzo2CHUlNWNOsK"
@@ -221,7 +297,7 @@
       "url": "https://open.spotify.com/track/3BWjPv9oGKmmQxST6ygltl"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Chai ya saa kumi",
         "url": "https://open.spotify.com/album/6zo9fgnkIliVQoZLSB9Wh5"
@@ -237,7 +313,7 @@
       "url": "https://open.spotify.com/track/1gQsbe5nVBPmfj5Y1d1kec"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Hallelujah (Washwash)",
         "url": "https://open.spotify.com/album/6Q9LLJEQ2HRWbyzJO73MER"
@@ -257,7 +333,7 @@
       "url": "https://open.spotify.com/track/4l43H3GIY1HQ9gMOArHPpj"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Ni Wewe",
         "url": "https://open.spotify.com/album/2rEvhPoKUfENWr3QTJ4bpm"
@@ -273,7 +349,7 @@
       "url": "https://open.spotify.com/track/4U5mrT7FckpTynwDRnnQv0"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Wi Muthaka",
         "url": "https://open.spotify.com/album/5We2OdnmfsWmIa3gw4gJAj"
@@ -293,7 +369,7 @@
       "url": "https://open.spotify.com/track/27fREfR29KgpnCGHQa658H"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Miss Understood",
         "url": "https://open.spotify.com/album/302aQy8UeU99sWA9CcFgRE"
@@ -309,7 +385,7 @@
       "url": "https://open.spotify.com/track/1vmlAOkpXxfclPeg0pdgdn"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Mjiekee",
         "url": "https://open.spotify.com/album/6nnibv2Nq4eo83Wa5mCbrJ"
@@ -333,7 +409,7 @@
       "url": "https://open.spotify.com/track/3I7h52OZb7eokVCFoWBGFp"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Ni Sisi Tuliowachagua",
         "url": "https://open.spotify.com/album/03ynYpD0qnWtVthRD0eSzZ"
@@ -349,7 +425,7 @@
       "url": "https://open.spotify.com/track/3q8ilRtjOS0mLYCWkDR98K"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Weche Hera",
         "url": "https://open.spotify.com/album/2AiTZmeO1rUN5pHhmajOSX"
@@ -369,7 +445,7 @@
       "url": "https://open.spotify.com/track/6x5w3lfCGbc7sAuJxkxoiv"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "WAWILI",
         "url": "https://open.spotify.com/album/0vMtWDCRcs7QbygsiNpV6q"
@@ -385,7 +461,7 @@
       "url": "https://open.spotify.com/track/4L9ybT7YEVF3kwstzewJdo"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0n38FRZY0LI1cgI4nAychR"
@@ -401,7 +477,7 @@
       "url": "https://open.spotify.com/track/2WVcEQjK8nDQq3xcGrb1I3"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Shika Shika",
         "url": "https://open.spotify.com/album/07BqesCEIbC6SN4fAIt9aJ"
@@ -417,7 +493,7 @@
       "url": "https://open.spotify.com/track/51rVXtE39Uz0vXFnJsaQwc"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Sio Leo",
         "url": "https://open.spotify.com/album/68BmPyTkXmTZNggjq5Z7wM"
@@ -433,7 +509,7 @@
       "url": "https://open.spotify.com/track/3Zuwy3nNfm55jHyKXrbuSK"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Zuzu (Kompa Edit)",
         "url": "https://open.spotify.com/album/61Je6BNoJ8GjiRktsw1zuC"
@@ -449,7 +525,35 @@
       "url": "https://open.spotify.com/track/7bBozqP0QRlNyVADxLaelB"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
+      "album": {
+        "name": "Shengspeare",
+        "url": "https://open.spotify.com/album/3IgjIy4eLYkYQfB73q63NT"
+      },
+      "artists": [
+        {
+          "name": "GTB Emzee",
+          "url": "https://open.spotify.com/artist/75pIMAgNt4bf8OWBW8eImv"
+        },
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        },
+        {
+          "name": "Lecco",
+          "url": "https://open.spotify.com/artist/7zLXHKSY0PTkpjE0KKQDy7"
+        },
+        {
+          "name": "AUGUST IV",
+          "url": "https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "O.P.W",
+      "url": "https://open.spotify.com/track/5NnjyoTQqukaz2cFWlUbxQ"
+    },
+    {
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Chanda na Pete",
         "url": "https://open.spotify.com/album/1e4UD7BwDRSWcUeimb0Jdf"
@@ -465,7 +569,7 @@
       "url": "https://open.spotify.com/track/7vR5AgrSnrqeJoWMimmopy"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "NYONGI",
         "url": "https://open.spotify.com/album/7FC6JmMcBdAQXO1E1WOeQd"
@@ -485,7 +589,7 @@
       "url": "https://open.spotify.com/track/5PUhfcbU3PutbBtikw34C9"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Nataka",
         "url": "https://open.spotify.com/album/2FPgNbV0eftA74o1ZJryhN"
@@ -505,7 +609,7 @@
       "url": "https://open.spotify.com/track/57vwMMVn3yZxqQQTJcZZYu"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Dance Samawaah!",
         "url": "https://open.spotify.com/album/3PDWY1mBbszTEyYmLKIlFq"
@@ -525,23 +629,7 @@
       "url": "https://open.spotify.com/track/0NqqZIDStxP5bHOzAt7ne9"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
-      "album": {
-        "name": "Hainaga Mambo",
-        "url": "https://open.spotify.com/album/1dvGUPvN4elqBbs2LAJSlr"
-      },
-      "artists": [
-        {
-          "name": "Maandy",
-          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "Hainaga Mambo",
-      "url": "https://open.spotify.com/track/22GqqA7GmzbSWMSrax8IDn"
-    },
-    {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/0bjdSgH2f4dJtOl75VGBJ2"
@@ -561,7 +649,7 @@
       "url": "https://open.spotify.com/track/6sJXgJybQEu5LmsiRVrUAq"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "For the Money",
         "url": "https://open.spotify.com/album/69jVlusbE6Clf81crLPq6u"
@@ -577,7 +665,23 @@
       "url": "https://open.spotify.com/track/3YcqvoZ8wWD1ZWlslc0oPs"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
+      "album": {
+        "name": "Hainaga Mambo",
+        "url": "https://open.spotify.com/album/1dvGUPvN4elqBbs2LAJSlr"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "Hainaga Mambo",
+      "url": "https://open.spotify.com/track/22GqqA7GmzbSWMSrax8IDn"
+    },
+    {
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Pretty Whine",
         "url": "https://open.spotify.com/album/4WEK0bhve3Sf5TSoCXtq63"
@@ -597,47 +701,7 @@
       "url": "https://open.spotify.com/track/4vbcjVBD0JrwndFVxcOmFV"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
-      "album": {
-        "name": "Shots",
-        "url": "https://open.spotify.com/album/1tVrJnTIwaRl91TAJjFztO"
-      },
-      "artists": [
-        {
-          "name": "Lafayette.da1",
-          "url": "https://open.spotify.com/artist/57H4nHhR07vH4c27c1Zvzy"
-        },
-        {
-          "name": "Dyana Cods",
-          "url": "https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "Shots",
-      "url": "https://open.spotify.com/track/0ITJ31MlkIIud7veHr6OTR"
-    },
-    {
-      "added_at": "2026-06-11 23:59:26",
-      "album": {
-        "name": "Miss Understood",
-        "url": "https://open.spotify.com/album/302aQy8UeU99sWA9CcFgRE"
-      },
-      "artists": [
-        {
-          "name": "Teslah",
-          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
-        },
-        {
-          "name": "Exray Taniua",
-          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
-        }
-      ],
-      "duration_ms": 171527,
-      "name": "Unaning\u2019am",
-      "url": "https://open.spotify.com/track/51utSGoCKCuXDUfi4a5pCR"
-    },
-    {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Utaambia Nini Watu?",
         "url": "https://open.spotify.com/album/049zyMg7hf5UXJGpBAParf"
@@ -657,7 +721,47 @@
       "url": "https://open.spotify.com/track/1wzAlsS1kuKcXT6qJwh0Vh"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
+      "album": {
+        "name": "Shots",
+        "url": "https://open.spotify.com/album/1tVrJnTIwaRl91TAJjFztO"
+      },
+      "artists": [
+        {
+          "name": "Lafayette.da1",
+          "url": "https://open.spotify.com/artist/57H4nHhR07vH4c27c1Zvzy"
+        },
+        {
+          "name": "Dyana Cods",
+          "url": "https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/0ITJ31MlkIIud7veHr6OTR"
+    },
+    {
+      "added_at": "2026-06-19 05:21:39",
+      "album": {
+        "name": "Miss Understood",
+        "url": "https://open.spotify.com/album/302aQy8UeU99sWA9CcFgRE"
+      },
+      "artists": [
+        {
+          "name": "Teslah",
+          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
+        },
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        }
+      ],
+      "duration_ms": 171527,
+      "name": "Unaning\u2019am",
+      "url": "https://open.spotify.com/track/51utSGoCKCuXDUfi4a5pCR"
+    },
+    {
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Mungu Alipanga Mwenyewe",
         "url": "https://open.spotify.com/album/3RCoHHAnkwar8UA85S0Hv8"
@@ -673,7 +777,7 @@
       "url": "https://open.spotify.com/track/5yan9vHUvk1H2W4ItJgubL"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "What If",
         "url": "https://open.spotify.com/album/1F1xPCXUJz295NiQLMpiJ0"
@@ -693,7 +797,7 @@
       "url": "https://open.spotify.com/track/0UVfLdHAjqb6yHWqh3mE8F"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Mtoto wa Khadija",
         "url": "https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn"
@@ -713,7 +817,7 @@
       "url": "https://open.spotify.com/track/41iNGuUsKmvNv8cQtiyFU3"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Mapenzi Yananiua",
         "url": "https://open.spotify.com/album/4JfEwxBa6a0XF1TugUSXMw"
@@ -729,7 +833,7 @@
       "url": "https://open.spotify.com/track/7kpOMtciPq0LqImbFnBWeN"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Better Love",
         "url": "https://open.spotify.com/album/2K6u2p51mwoN9MbDNWzFAI"
@@ -749,7 +853,7 @@
       "url": "https://open.spotify.com/track/48FW62a8isVS443e7EaIUE"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Don't Cry",
         "url": "https://open.spotify.com/album/0OMeuPtkur1kDgUh4DK4j9"
@@ -769,7 +873,7 @@
       "url": "https://open.spotify.com/track/0rpiNACvQ6rqM8rk14bWHc"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Umekuwa Wapi",
         "url": "https://open.spotify.com/album/0MrAZsQQJuVBZDpwa1gAT9"
@@ -789,23 +893,7 @@
       "url": "https://open.spotify.com/track/71U2cD3TdVSYK9RR0TZgTi"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
-      "album": {
-        "name": "Wape Wape",
-        "url": "https://open.spotify.com/album/5HjwHkM3XugNia4VQOe3ef"
-      },
-      "artists": [
-        {
-          "name": "ItsYaba",
-          "url": "https://open.spotify.com/artist/61CKwmxern8sROzuhUDY3j"
-        }
-      ],
-      "duration_ms": 209060,
-      "name": "Wape Wape",
-      "url": "https://open.spotify.com/track/1goWbbSPQu0t83oP9C1zSp"
-    },
-    {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "All Over",
         "url": "https://open.spotify.com/album/19i8esoItUheg9XSpqjf78"
@@ -821,23 +909,7 @@
       "url": "https://open.spotify.com/track/3rByEZzH7lk609vg6pAn3m"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
-      "album": {
-        "name": "Tell Nobody",
-        "url": "https://open.spotify.com/album/2kaT0i6Rp9VvQ5AlpnOekR"
-      },
-      "artists": [
-        {
-          "name": "M\u016bmbi",
-          "url": "https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF"
-        }
-      ],
-      "duration_ms": 169132,
-      "name": "Tell Nobody",
-      "url": "https://open.spotify.com/track/1r8IHxVIlMDvq2BNJjsLLy"
-    },
-    {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Anitah",
         "url": "https://open.spotify.com/album/64M1BDnx2IoJyzziD0Bm6V"
@@ -857,7 +929,7 @@
       "url": "https://open.spotify.com/track/6TTMF57Wiks0T8Z9tTvoLi"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "One Man Army",
         "url": "https://open.spotify.com/album/4uwzUpXrVKXV4EW1E5xMsa"
@@ -877,7 +949,7 @@
       "url": "https://open.spotify.com/track/2yp04QnEA1uMC3k8AjjM3G"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Nimeonja",
         "url": "https://open.spotify.com/album/5OUIg0Vjl2fUoozuGxU31X"
@@ -893,35 +965,7 @@
       "url": "https://open.spotify.com/track/6wilhQg99EaCpF1UDRFcX0"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
-      "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/5CMzUP97soB0N3VEWUkNyn"
-      },
-      "artists": [
-        {
-          "name": "Mwanaa",
-          "url": "https://open.spotify.com/artist/5pzU5EVVWksqPwGvuA2oDa"
-        },
-        {
-          "name": "X.O",
-          "url": "https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ"
-        },
-        {
-          "name": "Muthoka",
-          "url": "https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp"
-        },
-        {
-          "name": "SoFresh 254",
-          "url": "https://open.spotify.com/artist/2fKzlGIaEWqBYFLICdRJFP"
-        }
-      ],
-      "duration_ms": 267459,
-      "name": "More",
-      "url": "https://open.spotify.com/track/2khOVgq6GJRUaANyp8kUgO"
-    },
-    {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Ghetto Dala",
         "url": "https://open.spotify.com/album/7vcMoqVfWIivDbh9hPPXc0"
@@ -941,7 +985,7 @@
       "url": "https://open.spotify.com/track/3MQDQWquB3KcDWVVzhgkhj"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "RNB",
         "url": "https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp"
@@ -957,7 +1001,7 @@
       "url": "https://open.spotify.com/track/7lScV0vUMxy1tt2HnYGMXq"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "NERVOUS",
         "url": "https://open.spotify.com/album/4N5rJQrNlZm5eqJazYiyjZ"
@@ -981,7 +1025,7 @@
       "url": "https://open.spotify.com/track/6Ct7wMxdVRNPozCqMfpdGl"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Nasinzia II",
         "url": "https://open.spotify.com/album/14O2vNbA2bQSnCVYH2s6xx"
@@ -1001,27 +1045,7 @@
       "url": "https://open.spotify.com/track/1nm8oLMHs19tqKU9QoeSPM"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
-      "album": {
-        "name": "Wakiuliza",
-        "url": "https://open.spotify.com/album/0pppQDjsW6DLWxkxsVUu68"
-      },
-      "artists": [
-        {
-          "name": "Collo Blue",
-          "url": "https://open.spotify.com/artist/36JUu7ydl5Is9601ZhpLw3"
-        },
-        {
-          "name": "Fathermoh",
-          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
-        }
-      ],
-      "duration_ms": 191096,
-      "name": "Wakiuliza",
-      "url": "https://open.spotify.com/track/5PwIntzpWGvyRJUMBbfELj"
-    },
-    {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Mali Safi",
         "url": "https://open.spotify.com/album/1jjH7CUkYpaTb7L2GY6dNW"
@@ -1037,7 +1061,7 @@
       "url": "https://open.spotify.com/track/3dM8r9wO8bOGEJ6kE7Kx9y"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/6mjstDKxdSDfK7PgOvnKRC"
@@ -1053,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0FTkyNOOMb8b1sh81r5vJT"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Trust No 1",
         "url": "https://open.spotify.com/album/5g5q1Ixr9A5kyxW6F3GXWQ"
@@ -1073,7 +1097,7 @@
       "url": "https://open.spotify.com/track/4Nfq2CziIZHDzVP8A6llUF"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "All My Enemies Are Suffering",
         "url": "https://open.spotify.com/album/3hWcG5eyPdchM0oGNmTwqg"
@@ -1089,27 +1113,7 @@
       "url": "https://open.spotify.com/track/2KtuNqz9wE23Uy0VVS8izJ"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
-      "album": {
-        "name": "Vile Unataka",
-        "url": "https://open.spotify.com/album/6dNl9UpbtKjVExRqO6utao"
-      },
-      "artists": [
-        {
-          "name": "Teslah",
-          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
-        },
-        {
-          "name": "Fathermoh",
-          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
-        }
-      ],
-      "duration_ms": 166425,
-      "name": "Vile Unataka",
-      "url": "https://open.spotify.com/track/6SQO8fWYQGuY6pShsrrWSF"
-    },
-    {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Up Burukanga",
         "url": "https://open.spotify.com/album/3rDiAqSlUu4b7yEb7aa4l9"
@@ -1129,7 +1133,7 @@
       "url": "https://open.spotify.com/track/3uZPjeBJ0PJbU4RBAcjQ1L"
     },
     {
-      "added_at": "2026-06-11 23:59:26",
+      "added_at": "2026-06-19 05:21:39",
       "album": {
         "name": "Slow Whine",
         "url": "https://open.spotify.com/album/6m13yXh8EChK75Na2JADN6"

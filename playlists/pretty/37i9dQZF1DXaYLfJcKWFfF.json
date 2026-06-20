@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Dumama",
-  "num_followers": 2213,
+  "num_followers": 2232,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -511,18 +511,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Djanne",
-        "url": "https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx"
+        "name": "Mighty",
+        "url": "https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3"
       },
       "artists": [
         {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+          "name": "SaxbyTwins",
+          "url": "https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ"
         }
       ],
-      "duration_ms": 162707,
-      "name": "Djanne",
-      "url": "https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct"
+      "duration_ms": 233880,
+      "name": "Mighty",
+      "url": "https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -543,18 +543,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Mighty",
-        "url": "https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3"
+        "name": "Djanne",
+        "url": "https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx"
       },
       "artists": [
         {
-          "name": "SaxbyTwins",
-          "url": "https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 233880,
-      "name": "Mighty",
-      "url": "https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K"
+      "duration_ms": 162707,
+      "name": "Djanne",
+      "url": "https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "You Want Me",
-        "url": "https://open.spotify.com/album/6DzCw29EiZh5vbzfJwo7L7"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Lee",
-          "url": "https://open.spotify.com/artist/5Mm5UKAlvabjuuw6i4oz98"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "You Want Me",
-      "url": "https://open.spotify.com/track/4uWaSDMiSisZW5cf7mCNdF"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
         "name": "Weight Off My Shoulders",
         "url": "https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 167680,
       "name": "Weight Off My Shoulders",
       "url": "https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "You Want Me",
+        "url": "https://open.spotify.com/album/6DzCw29EiZh5vbzfJwo7L7"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Lee",
+          "url": "https://open.spotify.com/artist/5Mm5UKAlvabjuuw6i4oz98"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "You Want Me",
+      "url": "https://open.spotify.com/track/4uWaSDMiSisZW5cf7mCNdF"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "SORE LOSER",
-        "url": "https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "SORE LOSER",
-      "url": "https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
         "name": "Not Alone",
         "url": "https://open.spotify.com/album/5DHve1hHU8qGaBeOM6MMtE"
       },
@@ -1271,22 +1255,6 @@
       "duration_ms": 173634,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/5wqvuhFNzwgiopq90xJiGy"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
-        "name": "A Different Corner",
-        "url": "https://open.spotify.com/album/04KqIOGtMv9uJkagkupONe"
-      },
-      "artists": [
-        {
-          "name": "Nakhane",
-          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
-        }
-      ],
-      "duration_ms": 239415,
-      "name": "A Different Corner",
-      "url": "https://open.spotify.com/track/7bt4SUQM5Mh6CIlFLkXHdn"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -1307,6 +1275,38 @@
       "duration_ms": 201959,
       "name": "Holu Lufuno",
       "url": "https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "A Different Corner",
+        "url": "https://open.spotify.com/album/04KqIOGtMv9uJkagkupONe"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "duration_ms": 239415,
+      "name": "A Different Corner",
+      "url": "https://open.spotify.com/track/7bt4SUQM5Mh6CIlFLkXHdn"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "SORE LOSER",
+        "url": "https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "SORE LOSER",
+      "url": "https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4"
     },
     {
       "added_at": "2026-05-07 22:03:31",

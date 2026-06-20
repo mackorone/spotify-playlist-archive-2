@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-201 songs - 9 hr 53 min
+202 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bluffin' \(with The Kid LAROI\)](https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Piss In The Wind \(Deluxe\)](https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL) | 2:34 | 2026-06-05 |  |
 | [Bottle Go Down](https://open.spotify.com/track/349jUksHiirUFIUqOZ4pUX) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Bottle Go Down](https://open.spotify.com/album/1MNfcfYPbHA955TYtA6ttP) | 2:17 | 2024-12-13 |  |
 | [Call Me](https://open.spotify.com/track/5Q5Ejr1O1FPgQ29QqY5LpG) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Call Me](https://open.spotify.com/album/5lPxQ6iqaoXUpf1IZlI4Gu) | 3:11 | 2025-11-07 |  |
-| [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2023-08-07 |  |
+| [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2023-08-07 | 2026-06-20 |
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2023-08-07 |  |
 | [Candles](https://open.spotify.com/track/1wa6QQsdSE3X2GbRljGpFk) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:03 | 2024-02-23 | 2026-01-15 |
 | [Central Park](https://open.spotify.com/track/5CSCpV7F9ZJZqFTOYxGoAw) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Central Park](https://open.spotify.com/album/50VY4hGQOZYKjDNsEo7pOT) | 2:49 | 2025-03-28 | 2026-01-15 |
@@ -60,6 +60,7 @@
 | [Don't Wanna Breathe](https://open.spotify.com/track/567CrVjCl2p3qmZqMKfOD9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:16 | 2024-02-23 |  |
 | [dont let me go](https://open.spotify.com/track/2qvGI2uUNgNheWnfxQr25W) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb) | 2:53 | 2024-02-23 |  |
 | [Down Below](https://open.spotify.com/track/4SWWe2OYC4mqf40Gc2RSdl) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets II](https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX) | 3:44 | 2024-02-23 |  |
+| [drunk and confused!](https://open.spotify.com/track/3qVU5IHczEr4NEcyRhOXut) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [drunk and confused!](https://open.spotify.com/album/0nN4U65omCYbuXD70ikJuy) | 2:35 | 2026-06-19 |  |
 | [emotions](https://open.spotify.com/track/5ls62WNKHUUrdF3r1cv83T) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [nothings ever good enough](https://open.spotify.com/album/5UHC2JN3ck4XPYPjngia2G) | 2:11 | 2024-02-23 |  |
 | [Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:08 | 2023-08-18 |  |
 | [Erase Your Social](https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [The Perfect LUV Tape](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67) | 3:19 | 2023-08-18 |  |

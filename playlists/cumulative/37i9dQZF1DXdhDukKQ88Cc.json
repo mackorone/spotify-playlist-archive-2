@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "Noah Carter \ud83d\udc40",
+  "description": "kun det nyeste danske rap \ud83d\udc40",
   "name": "rap dk",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 184530,
       "name": "4AM",
       "url": "https://open.spotify.com/track/1N32Z7eOaLxT8WHXRhvySH"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 204030,
       "name": "Backshots",
       "url": "https://open.spotify.com/track/05rmBmmwJEk2qvhoK9PK98"
@@ -3469,6 +3469,24 @@
     },
     {
       "album": {
+        "name": "er det p\u00e5",
+        "url": "https://open.spotify.com/album/79nfwaoVqa0pvslyK4u6F0"
+      },
+      "artists": [
+        {
+          "name": "legobygger123",
+          "url": "https://open.spotify.com/artist/0u0haqHdqzbTCF5bCYo2hs"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143758,
+      "name": "er det p\u00e5",
+      "url": "https://open.spotify.com/track/5ILdsTHctTk0qnFlb7OBOC"
+    },
+    {
+      "album": {
         "name": "Er du med mig?",
         "url": "https://open.spotify.com/album/5CF47ZbFyakSVTPkavX5CC"
       },
@@ -3940,7 +3958,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 255766,
       "name": "Fjender",
       "url": "https://open.spotify.com/track/5sxOJi8K19JswhPSjCQ1js"
@@ -4290,6 +4308,24 @@
       "duration_ms": 149462,
       "name": "F\u00f8lelser (feat. Jamaika)",
       "url": "https://open.spotify.com/track/3nDcLRg4XZW1ubYHqS7gGX"
+    },
+    {
+      "album": {
+        "name": "F\u00f8lelser for mig",
+        "url": "https://open.spotify.com/album/4tXJPTzJuwvGvybItVVlLO"
+      },
+      "artists": [
+        {
+          "name": "Magzim",
+          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "F\u00f8lelser for mig",
+      "url": "https://open.spotify.com/track/2TvAtzwTM75ptluD1btiHQ"
     },
     {
       "album": {
@@ -5009,6 +5045,24 @@
     },
     {
       "album": {
+        "name": "WAVY",
+        "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163437,
+      "name": "Hold Mit Tempo",
+      "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
+    },
+    {
+      "album": {
         "name": "P\u00c5 GEN5YN",
         "url": "https://open.spotify.com/album/1UwgdrQVaJBueo48c2GM8x"
       },
@@ -5086,6 +5140,24 @@
       "duration_ms": 158666,
       "name": "Hva Du P\u00e5 (feat. Gilli)",
       "url": "https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw"
+    },
+    {
+      "album": {
+        "name": "hva fuck mener du",
+        "url": "https://open.spotify.com/album/3x6kS96DcexsPthxCIVvo6"
+      },
+      "artists": [
+        {
+          "name": "Speedy",
+          "url": "https://open.spotify.com/artist/6yumHfMcbCfI1QyBUHGvOB"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "hva fuck mener du",
+      "url": "https://open.spotify.com/track/06lfv6CwYPnlpXfguvYiCA"
     },
     {
       "album": {
@@ -6283,6 +6355,28 @@
     },
     {
       "album": {
+        "name": "KUN 4 OS 2",
+        "url": "https://open.spotify.com/album/01byyjuHBSQuDyXtvMvaLK"
+      },
+      "artists": [
+        {
+          "name": "AMAL",
+          "url": "https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD"
+        },
+        {
+          "name": "Carmon",
+          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225681,
+      "name": "KUN 4 OS 2",
+      "url": "https://open.spotify.com/track/3tTjSy6eiEi7rFLIHtrUeP"
+    },
+    {
+      "album": {
         "name": "Kun For Festerne",
         "url": "https://open.spotify.com/album/1KfQdQcjuTtKTjxIGBTWmn"
       },
@@ -6593,6 +6687,24 @@
     },
     {
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/7duxJrzYUSBx9VuZfYCTkw"
+      },
+      "artists": [
+        {
+          "name": "Baloosh",
+          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123195,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/4whm6QeeLouv2jc6iCV8Iq"
+    },
+    {
+      "album": {
         "name": "OG S\u00c5 VIDERE",
         "url": "https://open.spotify.com/album/5eltcb1nCUUS5xeCyrsQV3"
       },
@@ -6798,6 +6910,24 @@
       "duration_ms": 153925,
       "name": "LUVSONG",
       "url": "https://open.spotify.com/track/3XOxeC6xvm4S31778TY5nb"
+    },
+    {
+      "album": {
+        "name": "WAVY",
+        "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409948,
+      "name": "LV Sweater",
+      "url": "https://open.spotify.com/track/6cj6EZt4Gqja2XFXpqf9O4"
     },
     {
       "album": {
@@ -8139,6 +8269,24 @@
     },
     {
       "album": {
+        "name": "Poppin",
+        "url": "https://open.spotify.com/album/3JtbT8xEzPLjvtvX4OUvu9"
+      },
+      "artists": [
+        {
+          "name": "BONFI",
+          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189053,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/5QgNPYhLvoEPIcc1uw7eSq"
+    },
+    {
+      "album": {
         "name": "Prime Khalifa",
         "url": "https://open.spotify.com/album/60wVW9typL3fLIXiuQYNCr"
       },
@@ -8863,6 +9011,36 @@
     },
     {
       "album": {
+        "name": "Siden Start (feat. OLIVVER & Merro8)",
+        "url": "https://open.spotify.com/album/0Z5OvShv9JmPhxPwPzCmE8"
+      },
+      "artists": [
+        {
+          "name": "Mike Lowrey",
+          "url": "https://open.spotify.com/artist/1Ty16CxXn9CapBAn9bt4Hv"
+        },
+        {
+          "name": "Willy",
+          "url": "https://open.spotify.com/artist/6Ex4qMJYjLpfDpxDinHC82"
+        },
+        {
+          "name": "OLIVVER",
+          "url": "https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO"
+        },
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156052,
+      "name": "Siden Start (feat. OLIVVER & Merro8)",
+      "url": "https://open.spotify.com/track/1pnUOhAme8mJoclC7tZXM2"
+    },
+    {
+      "album": {
         "name": "DOUBLEPEACE",
         "url": "https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ"
       },
@@ -9578,6 +9756,24 @@
       "duration_ms": 167735,
       "name": "Submissive (feat. Zuloo)",
       "url": "https://open.spotify.com/track/4eLM9kVdcf9gxtLGpg9rjw"
+    },
+    {
+      "album": {
+        "name": "SUPER$TAR",
+        "url": "https://open.spotify.com/album/5wIetGWmkrJWVrmkTCU0Lu"
+      },
+      "artists": [
+        {
+          "name": "K4BZ",
+          "url": "https://open.spotify.com/artist/2TIlWsBmdZBgR2qstq6NM1"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "SUPER$TAR",
+      "url": "https://open.spotify.com/track/4ZPaXrgZoNL51KG9l6qxLa"
     },
     {
       "album": {
@@ -10816,6 +11012,40 @@
       "duration_ms": 118187,
       "name": "Wanna Be My Lady",
       "url": "https://open.spotify.com/track/2bsgTepwbSPYAS0gvlHUw7"
+    },
+    {
+      "album": {
+        "name": "wannabee",
+        "url": "https://open.spotify.com/album/4CzMalPrp7E1g54e1RoDny"
+      },
+      "artists": [
+        {
+          "name": "Rune Kuda",
+          "url": "https://open.spotify.com/artist/1bmeYQ1w5TJEymee7OLanY"
+        },
+        {
+          "name": "Loke Deph",
+          "url": "https://open.spotify.com/artist/3oRPfWPis1iIWdFElveUuN"
+        },
+        {
+          "name": "Elias Njovu",
+          "url": "https://open.spotify.com/artist/42FrdBvYgumCoyWaYlL530"
+        },
+        {
+          "name": "MCKold",
+          "url": "https://open.spotify.com/artist/46lNUlTtEPdqjrs4SWqfE7"
+        },
+        {
+          "name": "Kasper",
+          "url": "https://open.spotify.com/artist/53jKhZZ8rse1WTivfPi6hb"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215696,
+      "name": "wannabee",
+      "url": "https://open.spotify.com/track/13mLSGAcaBVwQe6QZohOBn"
     },
     {
       "album": {

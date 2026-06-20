@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Best blends of Electronic music across Africa. Cover: Hirabe, Mura, DJayPaps",
+  "description": "Best blends of Electronic music across Africa. Cover: MGM Kenya",
   "name": "Oontz",
   "tracks": [
     {
@@ -80,6 +80,28 @@
       "duration_ms": 295000,
       "name": "Aicha - Ghedi 3Step Remix",
       "url": "https://open.spotify.com/track/2OSrPrU0RHd6ULVezS05UM"
+    },
+    {
+      "album": {
+        "name": "All Aboard",
+        "url": "https://open.spotify.com/album/6nG40bSnF4Nfu0gD2zny5u"
+      },
+      "artists": [
+        {
+          "name": "MGM Kenya",
+          "url": "https://open.spotify.com/artist/58MhhE9o1AmRkEktOkwMOH"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283278,
+      "name": "All Aboard",
+      "url": "https://open.spotify.com/track/2yU7x7FJDPZAleI0zChGKw"
     },
     {
       "album": {
@@ -3275,6 +3297,36 @@
     },
     {
       "album": {
+        "name": "LOST IN CHAMPAGNE",
+        "url": "https://open.spotify.com/album/2xoJSwOnhtWJNqgjTaASHV"
+      },
+      "artists": [
+        {
+          "name": "Palm Monkey",
+          "url": "https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G"
+        },
+        {
+          "name": "Adrian Fyrla",
+          "url": "https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij"
+        },
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        },
+        {
+          "name": "Am\u00e8",
+          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "LOST IN CHAMPAGNE",
+      "url": "https://open.spotify.com/track/3siAQeekKuXCMfHn8hjrSe"
+    },
+    {
+      "album": {
         "name": "Pyramids",
         "url": "https://open.spotify.com/album/4Imc9qg3fBn0KuusJYydSb"
       },
@@ -4013,6 +4065,28 @@
     },
     {
       "album": {
+        "name": "Mwandamo",
+        "url": "https://open.spotify.com/album/18HvCOrFb8igIzQaLZ005h"
+      },
+      "artists": [
+        {
+          "name": "Zaleya",
+          "url": "https://open.spotify.com/artist/7pWQ1NNYydGqss1bgmrlOD"
+        },
+        {
+          "name": "Ethno Electronica",
+          "url": "https://open.spotify.com/artist/3NBBPfprBYrV8xjEbieLQD"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Mwandamo",
+      "url": "https://open.spotify.com/track/3oWOA2RIN3xl5CPLWb4oKF"
+    },
+    {
+      "album": {
         "name": "Mwele (Chalee Remix)",
         "url": "https://open.spotify.com/album/1f5eRNVwmLj7BnteTVfJJs"
       },
@@ -4466,6 +4540,32 @@
       "duration_ms": 253884,
       "name": "Niokire",
       "url": "https://open.spotify.com/track/6CEjm8OhBdQcqK2mU3WNvQ"
+    },
+    {
+      "album": {
+        "name": "Nishike (Alex Esser Remix)",
+        "url": "https://open.spotify.com/album/0tqGvQps3gDsoe2PC7SgYZ"
+      },
+      "artists": [
+        {
+          "name": "Dan Bay",
+          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Alex Esser",
+          "url": "https://open.spotify.com/artist/4qWYMV0naGui2loq7l2Iga"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381639,
+      "name": "Nishike - Alex Esser Remix",
+      "url": "https://open.spotify.com/track/1a6jMlkL9mK76FagJfPtuw"
     },
     {
       "album": {

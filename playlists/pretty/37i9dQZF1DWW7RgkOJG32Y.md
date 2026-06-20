@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Trending for a reason \- the home of country's future monster hits\. Cover: Shaboozey
+> Trending for a reason \- the home of country's future monster hits\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,816 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,904 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cowgirl](https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowgirl](https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR) | 2:56 |
-| 2 | [Think About Me](https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Think About Me](https://open.spotify.com/album/2nQaXdzjSp7ZkNapPxIZiA) | 2:39 |
-| 3 | [Better That Way \(feat\. Luke Combs\)](https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Better That Way](https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt) | 3:45 |
-| 4 | [Traitor \(Roles Reversed\)](https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1) | 3:27 |
+| 1 | [Fool Proof](https://open.spotify.com/track/1NEGpZ8jOQurxwkAUHq5lD) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Fool Proof](https://open.spotify.com/album/0JH2r9Y0EFD0o29Yqf4IMc) | 2:36 |
+| 2 | [Better That Way \(feat\. Luke Combs\)](https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Better That Way](https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt) | 3:45 |
+| 3 | [Cowgirl](https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowgirl](https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR) | 2:56 |
+| 4 | [Think About Me](https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Think About Me](https://open.spotify.com/album/2nQaXdzjSp7ZkNapPxIZiA) | 2:39 |
 | 5 | [Bet On That](https://open.spotify.com/track/7DOqRPa9Z5jEHRdo3zyLPo) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Bet On That](https://open.spotify.com/album/3FHP2epbEekzQgGe3jHegf) | 3:10 |
-| 6 | [Fool Proof](https://open.spotify.com/track/1NEGpZ8jOQurxwkAUHq5lD) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Fool Proof](https://open.spotify.com/album/0JH2r9Y0EFD0o29Yqf4IMc) | 2:36 |
-| 7 | [Broken](https://open.spotify.com/track/65t42trkFQjspA3vzjl7bF) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:03 |
-| 8 | [Honeysuckle](https://open.spotify.com/track/2SDysVSv74sRO77e4Av4ce) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Honeysuckle](https://open.spotify.com/album/7IKzNJb9R5wI1zQbgHG0o7) | 3:15 |
-| 9 | [Wannabe](https://open.spotify.com/track/0JeY4GvsnwccrpxqPbdnqC) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wannabe](https://open.spotify.com/album/0pXgJekW0XCYpsXpmEkht2) | 2:30 |
+| 6 | [Broken](https://open.spotify.com/track/65t42trkFQjspA3vzjl7bF) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:03 |
+| 7 | [Honeysuckle](https://open.spotify.com/track/2SDysVSv74sRO77e4Av4ce) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Honeysuckle](https://open.spotify.com/album/7IKzNJb9R5wI1zQbgHG0o7) | 3:15 |
+| 8 | [Wannabe](https://open.spotify.com/track/0JeY4GvsnwccrpxqPbdnqC) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wannabe](https://open.spotify.com/album/0pXgJekW0XCYpsXpmEkht2) | 2:30 |
+| 9 | [Traitor \(Roles Reversed\)](https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1) | 3:27 |
 | 10 | [Backwards](https://open.spotify.com/track/7gSfFlfC5w2JjqChH8P8mv) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Backwards](https://open.spotify.com/album/0QNhRJish7FMRUczyetfmi) | 3:17 |
 | 11 | [Half The Man](https://open.spotify.com/track/0vvYTzRfvQJO5BGt7Em0yy) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Half The Man](https://open.spotify.com/album/67x0OJEVWnsNZc7vtEGDoB) | 3:56 |
 | 12 | [No Need For Leavin'](https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [No Need For Leavin'](https://open.spotify.com/album/7KSzJ0oaZ5DoN6Xvbd9hD6) | 3:35 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 39 | [Loving Life Again](https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Loving Life Again](https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC) | 3:46 |
 | 40 | [I Own This Bar](https://open.spotify.com/track/7McpXsVRxUPpusgneIUFJE) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I Own This Bar](https://open.spotify.com/album/2zfkAS4GOOM29LplPyedEz) | 3:12 |
 
-Snapshot ID: `AAAAAFZAlav7ElBPCc41/ORDKWry90ED`
+Snapshot ID: `AAAAAGSofY5em/K59B8A3nUQ75wx29+j`

@@ -2,9 +2,9 @@
 
 ### [Country Rap](https://open.spotify.com/playlist/37i9dQZF1DWXbiccytJ5L7)
 
-> Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
+> Country rap hits of today and tomorrow\. Cover: Big Mo
 
-183 songs - 9 hr 37 min
+184 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Roll With Me](https://open.spotify.com/track/1A8bSRTIaWjOjtt1y8gmZO) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Country Boy City Slick](https://open.spotify.com/album/58rS611GRSt8OEG1Wb1fRu) | 3:55 | 2023-03-17 |  |
 | [Runaway Train](https://open.spotify.com/track/39T5oAenSW23lsJT41u8VP) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Runaway Train](https://open.spotify.com/album/00GNobeHKDEOYXXkXxGwl5) | 3:15 | 2023-09-29 | 2024-07-13 |
 | [Runnin](https://open.spotify.com/track/19g5N41kZEdlfTmNSif6D9) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 3:07 | 2025-08-15 |  |
+| [Settle Me Down](https://open.spotify.com/track/3QsPiy0rKUiJfXlI5YtTw5) | [Big Mo](https://open.spotify.com/artist/6p0IWgx77UVIe3OBcaSgdA), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Settle Me Down](https://open.spotify.com/album/0V1qvrWOqTKdaECFhCrg71) | 2:41 | 2026-06-19 |  |
 | [SHOOT THE LOCK](https://open.spotify.com/track/3EXdrPdRuTmJFcPYvNR1PT) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [SHOOT THE LOCK](https://open.spotify.com/album/3orD58TRYdUHChxr39TkcP) | 2:41 | 2024-07-19 |  |
 | [Shot for You](https://open.spotify.com/track/6drWeyOfzFSp5MHBtO7cbJ) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Shot for You](https://open.spotify.com/album/16xY44VL9nAocX855PN4PR) | 3:03 | 2026-02-27 |  |
 | [Shot Me Alive](https://open.spotify.com/track/0p4i3IVz9DMiSs2yq4LiQP) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Shot Me Alive](https://open.spotify.com/album/0JeH0Zusi2x59hwWik9Za9) | 3:06 | 2023-03-17 | 2026-02-28 |

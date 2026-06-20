@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,968 likes - 75 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,979 likes - 75 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 15 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
 | 16 | [Gorah \- Francis Mercier Midnight Mix](https://open.spotify.com/track/6hIWwlyAiwuBjTFUYqFa5c) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf) | [Gorah \(Francis Mercier Midnight Mix\)](https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4) | 3:19 |
 | 17 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 |
-| 18 | [Secundo](https://open.spotify.com/track/0iaLgsJbnrCYLn3ghs53FO) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Secundo](https://open.spotify.com/album/5CmSOr9mPAC9zlJWgokyH8) | 5:51 |
+| 18 | [Secundo](https://open.spotify.com/track/0iaLgsJbnrCYLn3ghs53FO) | [Ajna](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Secundo](https://open.spotify.com/album/5CmSOr9mPAC9zlJWgokyH8) | 5:51 |
 | 19 | [Kukaya \- Fka Mash Remix](https://open.spotify.com/track/4kSq8Jam0a7FJt0e8eoRF0) | [CLARAA](https://open.spotify.com/artist/0hzvjvnzkOTFNgVrLTwiM4), [Ashimba](https://open.spotify.com/artist/50taVLD5bthDh28wcdhAnQ), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [Kukaya](https://open.spotify.com/album/11AaDjijVg3PVuwu7C9BPN) | 6:30 |
 | 20 | [Whistleman \- Pablo Fierro Remix](https://open.spotify.com/track/4iTSSXrOlxDNRfY2DEIJG1) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Whistleman EP](https://open.spotify.com/album/4ke9Kyr7cG1hG6H4fGdyoZ) | 7:32 |
 | 21 | [Ellora](https://open.spotify.com/track/3t6M63vFhH7vTrTZ2VH7qe) | [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Ellora](https://open.spotify.com/album/0ZpqP5BCmqehNp38O8DMn9) | 5:57 |

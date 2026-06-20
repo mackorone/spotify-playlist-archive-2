@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-08",
-  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : A.L.A",
+  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : Mouka",
   "name": "RapTounsi",
   "tracks": [
     {
@@ -926,6 +926,24 @@
       "duration_ms": 174545,
       "name": "DRILL MENA",
       "url": "https://open.spotify.com/track/2BVVXtq5DYowMXCumxB85B"
+    },
+    {
+      "album": {
+        "name": "GAGA",
+        "url": "https://open.spotify.com/album/7evma9YyvpwpHd6DRoawZj"
+      },
+      "artists": [
+        {
+          "name": "Ktyb",
+          "url": "https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139921,
+      "name": "EEE",
+      "url": "https://open.spotify.com/track/2OmAVXEptbA2EEApxV1IoC"
     },
     {
       "album": {

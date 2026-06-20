@@ -202,6 +202,32 @@
     {
       "album": {
         "name": "Aadat",
+        "url": "https://open.spotify.com/album/5PKtNjp6OAt3L0T2tg1azG"
+      },
+      "artists": [
+        {
+          "name": "Gurpreet Marwah",
+          "url": "https://open.spotify.com/artist/6rftNnlItxkZTd0Ar6BQ1g"
+        },
+        {
+          "name": "REHAT",
+          "url": "https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo"
+        },
+        {
+          "name": "Kp Music",
+          "url": "https://open.spotify.com/artist/0rk8zrRC3nkyfbrvCuWIpx"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170134,
+      "name": "Aadat",
+      "url": "https://open.spotify.com/track/3XISGXEojJDsRy3X8hcGdJ"
+    },
+    {
+      "album": {
+        "name": "Aadat",
         "url": "https://open.spotify.com/album/2p1NTIbbZU1qTBCyXcKcsm"
       },
       "artists": [
@@ -1130,6 +1156,32 @@
       "duration_ms": 201745,
       "name": "Defaulter",
       "url": "https://open.spotify.com/track/260lfDzVnZHXmIXIvKUNVz"
+    },
+    {
+      "album": {
+        "name": "Depression",
+        "url": "https://open.spotify.com/album/0Gqlnrkdp1pszAP9vAQYTR"
+      },
+      "artists": [
+        {
+          "name": "Sifat Dhillon",
+          "url": "https://open.spotify.com/artist/3K7jwOEv0p7Uci0NhZXugC"
+        },
+        {
+          "name": "Deep Boparai",
+          "url": "https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d"
+        },
+        {
+          "name": "Echo Music",
+          "url": "https://open.spotify.com/artist/7lKigeQnod6F1SXr0HWlbq"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158974,
+      "name": "Depression",
+      "url": "https://open.spotify.com/track/08DFVREMCppjk7W0LYJ1cz"
     },
     {
       "album": {
@@ -2468,12 +2520,20 @@
           "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
         },
         {
-          "name": "Neeshitaa Kumar",
-          "url": "https://open.spotify.com/artist/7nPSQjeftA9KU8Z6BWniQc"
-        },
-        {
           "name": "Rabica Wadhawan",
           "url": "https://open.spotify.com/artist/7JvI3rxourVbaMmZT382fk"
+        },
+        {
+          "name": "Jaidev Kumar",
+          "url": "https://open.spotify.com/artist/3jFf4UnboFrqsHZA8qBkH8"
+        },
+        {
+          "name": "Monewala",
+          "url": "https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe"
+        },
+        {
+          "name": "Prince Saggu",
+          "url": "https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4"
         }
       ],
       "date_added": "2026-06-15",
@@ -2526,7 +2586,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 149433,
       "name": "Joda Natiyaan Da",
       "url": "https://open.spotify.com/track/4hB6WfzeMuHmUukqxCxmqn"
@@ -5050,7 +5110,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 216192,
       "name": "Saah",
       "url": "https://open.spotify.com/track/5mLCTsVpRLB6zxClm3HIRp"

@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 60440,
+  "num_followers": 60469,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,22 @@
     {
       "added_at": "2026-06-19 00:02:04",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
       "artists": [
         {
           "name": "FOLA",
           "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
     },
     {
       "added_at": "2026-06-19 00:02:04",
@@ -391,22 +395,18 @@
     {
       "added_at": "2026-06-19 00:02:04",
       "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
       },
       "artists": [
         {
           "name": "FOLA",
           "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 162587,
-      "name": "golibe",
-      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
     },
     {
       "added_at": "2026-06-19 00:02:04",
@@ -579,6 +579,26 @@
     {
       "added_at": "2026-06-19 00:02:04",
       "album": {
+        "name": "Till The Wheels Fall Off",
+        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Till The Wheels Fall Off",
+      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
+    },
+    {
+      "added_at": "2026-06-19 00:02:04",
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 160560,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0fKrZjwdZlwAEYi7S012mN"
-    },
-    {
-      "added_at": "2026-06-19 00:02:04",
-      "album": {
-        "name": "Till The Wheels Fall Off",
-        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Till The Wheels Fall Off",
-      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
     },
     {
       "added_at": "2026-06-19 00:02:04",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-06-19 00:02:04",
       "album": {
-        "name": "Mon B\u00e9b\u00e9 (with King Promise)",
-        "url": "https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc"
-      },
-      "artists": [
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 168791,
-      "name": "Mon B\u00e9b\u00e9 (with King Promise)",
-      "url": "https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC"
-    },
-    {
-      "added_at": "2026-06-19 00:02:04",
-      "album": {
         "name": "Crazily",
         "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 149333,
       "name": "Crazily",
       "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
+    },
+    {
+      "added_at": "2026-06-19 00:02:04",
+      "album": {
+        "name": "Mon B\u00e9b\u00e9 (with King Promise)",
+        "url": "https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 168791,
+      "name": "Mon B\u00e9b\u00e9 (with King Promise)",
+      "url": "https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC"
     },
     {
       "added_at": "2026-06-19 00:02:04",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-06-19 00:02:04",
       "album": {
+        "name": "First Sight",
+        "url": "https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg"
+      },
+      "artists": [
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        }
+      ],
+      "duration_ms": 186220,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO"
+    },
+    {
+      "added_at": "2026-06-19 00:02:04",
+      "album": {
         "name": "Ring",
         "url": "https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2026-06-19 00:02:04",
       "album": {
-        "name": "First Sight",
-        "url": "https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg"
+        "name": "Available",
+        "url": "https://open.spotify.com/album/4Zm9Uo3atRc7urLrzvudn0"
       },
       "artists": [
         {
-          "name": "BoyPee",
-          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
         }
       ],
-      "duration_ms": 186220,
-      "name": "First Sight",
-      "url": "https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO"
+      "duration_ms": 159444,
+      "name": "Available",
+      "url": "https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5"
     },
     {
       "added_at": "2026-06-19 00:02:04",
@@ -1379,22 +1395,6 @@
       "duration_ms": 155972,
       "name": "Blame On Me",
       "url": "https://open.spotify.com/track/03FQZWe6qCPqeHPIExAIjr"
-    },
-    {
-      "added_at": "2026-06-19 00:02:04",
-      "album": {
-        "name": "Available",
-        "url": "https://open.spotify.com/album/4Zm9Uo3atRc7urLrzvudn0"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 159444,
-      "name": "Available",
-      "url": "https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5"
     },
     {
       "added_at": "2026-06-19 00:02:04",

@@ -207,6 +207,62 @@
     },
     {
       "album": {
+        "name": "2 Ghode",
+        "url": "https://open.spotify.com/album/7LWPdJPdnfX0jWIkOhRxh1"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Fateh Shergill",
+          "url": "https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb"
+        },
+        {
+          "name": "Guri Nimana",
+          "url": "https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165338,
+      "name": "2 Ghode",
+      "url": "https://open.spotify.com/track/5j0JB1qtxFR3jZXPlONSUa"
+    },
+    {
+      "album": {
+        "name": "201",
+        "url": "https://open.spotify.com/album/0k6DgqXoQCEdsjKE7oAwsU"
+      },
+      "artists": [
+        {
+          "name": "Watan Sahi",
+          "url": "https://open.spotify.com/artist/60AHsnenfij85IExxs2456"
+        },
+        {
+          "name": "Kamm",
+          "url": "https://open.spotify.com/artist/2Hwm56KbsXBLJWZF88kqBg"
+        },
+        {
+          "name": "Nav Prince",
+          "url": "https://open.spotify.com/artist/43hVKGJyBP3vWbbMZKLQfF"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148380,
+      "name": "201",
+      "url": "https://open.spotify.com/track/4rmbkWnmeotS7o3Lgx7b8Q"
+    },
+    {
+      "album": {
         "name": "Jalwa",
         "url": "https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h"
       },
@@ -556,7 +612,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 165000,
       "name": "Ace",
       "url": "https://open.spotify.com/track/33H3JkG5kAlqwgtI5rYbpP"
@@ -2022,7 +2078,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 187869,
       "name": "Dapper Dan",
       "url": "https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ"
@@ -2182,6 +2238,28 @@
       "duration_ms": 155294,
       "name": "Demand",
       "url": "https://open.spotify.com/track/6hgEgdYq9g9TN9ZN46hFor"
+    },
+    {
+      "album": {
+        "name": "STATE OF MIND",
+        "url": "https://open.spotify.com/album/2qHHz4CeSeY6aYDz8vuSPG"
+      },
+      "artists": [
+        {
+          "name": "JK",
+          "url": "https://open.spotify.com/artist/30A8pUI01O6H41x7rvQpSt"
+        },
+        {
+          "name": "THIRD SIDE",
+          "url": "https://open.spotify.com/artist/5RJfe9bKlaFnM92Xjq9nbg"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "DESI GANN",
+      "url": "https://open.spotify.com/track/72sBOZVBWsfgKRWAF61jDA"
     },
     {
       "album": {
@@ -5098,7 +5176,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 163500,
       "name": "Me Vs Me",
       "url": "https://open.spotify.com/track/6bHzM2kuIvnereyctSmGeF"

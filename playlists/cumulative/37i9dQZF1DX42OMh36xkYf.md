@@ -2,9 +2,9 @@
 
 ### [IRIS](https://open.spotify.com/playlist/37i9dQZF1DX42OMh36xkYf)
 
-> Resonancias extraordinarias de luminiscencia inclasificable\. Con Alvaro Diaz en portada.
+> Resonancias extraordinarias de luminiscencia inclasificable\. Con BALTHVS en portada.
 
-294 songs - 16 hr 16 min
+296 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Como Romper el Deseo](https://open.spotify.com/track/4inxtujkyeh3RKQlisFfyp) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Firmamento en blanco y negro](https://open.spotify.com/album/57lnIz6eGPU1Ics67okG4Q) | 4:21 | 2025-11-21 | 2026-02-28 |
 | [Con la vida al centro](https://open.spotify.com/track/0TCDtpmn2uLtQzrLZikIKR) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Con la vida al centro](https://open.spotify.com/album/1OROJufh2WokWE8aMzNlDm) | 2:52 | 2024-06-14 | 2024-12-07 |
 | [CON TU TÍA EN EL CLUB](https://open.spotify.com/track/6l0JFV3Tuhn2eLNvnMZEFM) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [husa.](https://open.spotify.com/artist/4rCSPhgFKs3vWVOnpcuWBa) | [CON TU TÍA EN EL CLUB](https://open.spotify.com/album/6GUaxCCSSh0ObbbzUmXU6I) | 4:24 | 2024-11-22 | 2025-12-13 |
-| [Conmigo](https://open.spotify.com/track/5FJnlDlaf98nWC4SCdLMZU) | [Solo Valencia](https://open.spotify.com/artist/2ZDmVE82uDUSsXwPnjr2xH), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Conmigo](https://open.spotify.com/album/5PB9LwfZgjkww0fL8Rgb92) | 4:09 | 2026-02-27 |  |
+| [Conmigo](https://open.spotify.com/track/5FJnlDlaf98nWC4SCdLMZU) | [Solo Valencia](https://open.spotify.com/artist/2ZDmVE82uDUSsXwPnjr2xH), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Conmigo](https://open.spotify.com/album/5PB9LwfZgjkww0fL8Rgb92) | 4:09 | 2026-02-27 | 2026-06-20 |
 | [CORA DE HIELO \(feat\. Natt Calma\) – Spotify Sessions](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [RØZ – Spotify Sessions](https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA) | 4:53 | 2025-11-14 | 2026-02-28 |
 | [Corazón de pollo](https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1) | [Estamos Perdidos](https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP) | [Corazón de pollo](https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS) | 3:23 | 2026-02-13 |  |
 | [Crucemos](https://open.spotify.com/track/1DqxFcAxtVKIA2sWldZYKY) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Crucemos](https://open.spotify.com/album/15pPla93CDLdX0TbVYbXHP) | 3:09 | 2025-08-01 | 2025-11-29 |
@@ -161,11 +161,12 @@
 | [Lejos de la Ciudad \- con Camilo](https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lejos de la Ciudad \(con Camilo\)](https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu) | 3:07 | 2025-04-04 |  |
 | [Ley universal](https://open.spotify.com/track/3dC9fYYyH5oGu8mQbcE8HQ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Ley universal](https://open.spotify.com/album/0UoP5K4k5NrxoYmtG3z0XG) | 3:09 | 2024-04-26 | 2026-02-14 |
 | [LIBERTAD](https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6) | [Ruzzi](https://open.spotify.com/artist/31YcNToh9HWRWuKjoSvpG9) | [LIBERTAD](https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym) | 3:36 | 2026-03-18 | 2026-03-27 |
+| [Liminal Stages](https://open.spotify.com/track/5K8oPr0nneHhd1zqPKCNjs) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Liminal Stages](https://open.spotify.com/album/0hmKvN9GxyDF8r1tVUZgWj) | 3:04 | 2026-06-19 |  |
 | [Limón](https://open.spotify.com/track/3Q9nmP7ACk4UG5Ld6D6sYd) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Limón](https://open.spotify.com/album/47VgL6B4zheqaAtnPd5MCo) | 2:27 | 2024-09-12 | 2025-03-01 |
 | [Lluviare](https://open.spotify.com/track/7tQICvPQ491u8JnHnR2ann) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Sodot a Rama](https://open.spotify.com/album/34od7O3gBdrusV1DzlxjM8) | 4:40 | 2026-03-18 | 2026-03-27 |
 | [lo que dura la canción](https://open.spotify.com/track/0Tn2iauUDbOKWpP3et4Wuz) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [lo que dura la canción](https://open.spotify.com/album/7N3TiYr4lyhNCPCVKyhZak) | 3:11 | 2024-11-08 | 2025-05-24 |
 | [LOCO](https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BELAMOR](https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22) | 3:43 | 2023-09-22 | 2023-10-28 |
-| [Los Lugares Más Bonitos](https://open.spotify.com/track/4slJEqinbznsUEVXQ6GeFW) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Los Lugares Más Bonitos](https://open.spotify.com/album/1jxXdXtX2trPeB1i32e0W5) | 2:38 | 2024-07-19 |  |
+| [Los Lugares Más Bonitos](https://open.spotify.com/track/4slJEqinbznsUEVXQ6GeFW) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Los Lugares Más Bonitos](https://open.spotify.com/album/1jxXdXtX2trPeB1i32e0W5) | 2:38 | 2024-07-19 | 2026-06-20 |
 | [Límites](https://open.spotify.com/track/3InU95w7uhcHOxXU9m1294) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Límites](https://open.spotify.com/album/66tUKjngOsWoJj7ccwktRD) | 3:30 | 2023-11-24 | 2024-03-02 |
 | [ma, peiname otra vez](https://open.spotify.com/track/4iBGu9YdrM40sX0kQ52Kd0) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [ma, peiname otra vez](https://open.spotify.com/album/0UB3hW289IUID3CA3IMiOB) | 2:27 | 2024-07-19 | 2025-08-02 |
 | [MALASNOTICIAS.](https://open.spotify.com/track/5W1bHlFGv5jJw1xyWQJlrJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [MALASNOTICIAS.](https://open.spotify.com/album/76HEOpvvIpymofngK3tRSE) | 3:16 | 2026-05-08 |  |
@@ -224,6 +225,7 @@
 | [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 | 2023-12-01 | 2025-01-25 |
 | [Oveja Negra](https://open.spotify.com/track/5lVHU9YGgzhrzUQzmv71XC) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9), [Carlitosss](https://open.spotify.com/artist/4BnbhKXjvpJBRkC9mmgjxo) | [Oveja Negra](https://open.spotify.com/album/6dIc4l4A7QNGISb3oKhiEp) | 2:55 | 2025-09-26 | 2025-11-22 |
 | [Pa' Mí No Vales Nada](https://open.spotify.com/track/4Ixm2dFSYn8zELPXlUQAwU) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Pa' Mí No Vales Nada](https://open.spotify.com/album/070FonkMaXRQYRQIApAVZ4) | 3:00 | 2024-04-12 | 2024-05-18 |
+| [Padre](https://open.spotify.com/track/65N8EYka3J6lSbA2aVdcME) | [Soy Yo](https://open.spotify.com/artist/0363Cma1XKtwZ8gWH9Xrfw) | [Padre](https://open.spotify.com/album/2Sh9VlZzAP2oP2lufAqVcT) | 3:49 | 2026-06-19 |  |
 | [Para Ti](https://open.spotify.com/track/2B9fz9WW4XRg1ExCZnfuAI) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Para Ti](https://open.spotify.com/album/0F4Ex5ET5dBsPX2tAiYRvP) | 3:37 | 2023-10-13 | 2024-03-02 |
 | [Paradisco](https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Paradisco](https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h) | 3:53 | 2023-09-22 | 2024-04-13 |
 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 | 2023-09-22 | 2025-08-02 |

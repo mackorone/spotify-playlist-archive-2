@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: Qiuntelli
+> late night vibes – notifications off\. cover: where.t.at
 
-351 songs - 16 hr 6 min
+353 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Alone](https://open.spotify.com/track/1LsfJiTZ9ty64JE4Fq26gF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Alone](https://open.spotify.com/album/0FBiNNjtlkTBZg5WhkQCAO) | 2:25 | 2025-08-15 | 2025-09-20 |
 | [ANOTHER LOVE STORY](https://open.spotify.com/track/1jJgfnrhuDOdM68tSlugBa) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb) | [THERES ALWAYS MORE](https://open.spotify.com/album/6FBEAmINge2toN4aABjXG7) | 3:04 | 2024-03-15 | 2025-09-20 |
 | [Art of War](https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Art of War](https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm) | 2:06 | 2025-02-28 |  |
+| [Aura \(feat\. Bryson Tiller\)](https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [AMA](https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB) | 4:00 | 2026-06-19 |  |
 | [Autumn](https://open.spotify.com/track/4XRR2nNTU9UWBTBOdmnmyT) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Autumn](https://open.spotify.com/album/3vdIKZeNtDF9JZvodWAbFN) | 3:08 | 2024-09-13 | 2024-10-19 |
 | [B.S.](https://open.spotify.com/track/1Z3NXXk8GZJwEEJiX5l2G6) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [B.S.](https://open.spotify.com/album/1qTLWHLgqkaJti5E08jSB7) | 2:47 | 2024-10-18 |  |
 | [B.S.](https://open.spotify.com/track/3Vu55H3hrJQtdaKDmdQkZf) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Look What You've Done](https://open.spotify.com/album/2PDK6hYWOXKooDebSnVHeY) | 2:47 | 2024-10-18 | 2026-06-04 |
@@ -141,7 +142,7 @@
 | [go](https://open.spotify.com/track/1Zsf0U4SPsf4aaWxcfftYx) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [go](https://open.spotify.com/album/0ygpm3Vqgsg1lRIl7JMvVm) | 2:22 | 2025-10-03 | 2025-11-08 |
 | [GOD SAVE ME](https://open.spotify.com/track/2NT7gHrp79ZUwoOsboZt0L) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [GOD SAVE ME](https://open.spotify.com/album/7KB7YRERq3w0VE7896lx6r) | 2:49 | 2025-09-19 |  |
 | [GOD SAVE ME](https://open.spotify.com/track/4KqzsxExqFkN3TzJRbY0TI) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [2 Late To Be Toxic](https://open.spotify.com/album/7zXUTaJKdOgzTHmaekdnDU) | 2:49 | 2025-09-19 | 2026-06-04 |
-| [Granted](https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:42 | 2024-02-02 |  |
+| [Granted](https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:42 | 2024-02-02 | 2026-06-20 |
 | [Grapevine](https://open.spotify.com/track/2dNtWTtPsLWfF62cqMES4V) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Grapevine](https://open.spotify.com/album/2F4hKMXwaalpaoTDn5vTxB) | 1:53 | 2025-11-07 |  |
 | [hands up](https://open.spotify.com/track/55IBWPU4KqTYPVkXWv9A9z) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [2 Songs](https://open.spotify.com/album/6KfDDFzuEdLSjP3wmGGJSx) | 1:35 | 2025-11-14 |  |
 | [Handstand](https://open.spotify.com/track/7d8JbC6QfJouRyVUXzt5mg) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Handstand](https://open.spotify.com/album/2Fz1ONkQVqZg081Xk9ORwK) | 0:57 | 2025-08-22 |  |
@@ -182,7 +183,7 @@
 | [LASERS](https://open.spotify.com/track/2vjFTjmvpFjFM01cNdG2ik) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:18 | 2025-02-14 | 2025-09-20 |
 | [Late Nite Slider Music](https://open.spotify.com/track/1D4VYPt5J1znGmzeMGgHHx) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Late Nite Slider Music](https://open.spotify.com/album/3xhkpLspxHrvkZQ9nPUTJZ) | 3:13 | 2024-11-22 | 2025-09-20 |
 | [lead me on](https://open.spotify.com/track/0JxPtwbOOU2SQNjQZU3zAW) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5), [ROME](https://open.spotify.com/artist/4hrz9OhxBfTmyNTZmqxm2q) | [lead me on](https://open.spotify.com/album/0su818CRHaJGnAdmfFb7k0) | 3:39 | 2026-05-01 |  |
-| [Let it Go](https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [Let it Go](https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p) | 2:36 | 2024-11-08 |  |
+| [Let it Go](https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [Let it Go](https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p) | 2:36 | 2024-11-08 | 2026-06-20 |
 | [Let Me Down Slow](https://open.spotify.com/track/01Posy6lTFjJShK8UffWi9) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Let Me Down Slow](https://open.spotify.com/album/51cYBBrQJNRTpwFXzxg7Pi) | 2:32 | 2025-06-27 |  |
 | [Let Me Go](https://open.spotify.com/track/3KSy31qPrTqOcPXnebceQN) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Let Me Go](https://open.spotify.com/album/27csXPVTW3PLguY6vbGoH7) | 2:20 | 2024-04-19 | 2025-11-08 |
 | [Like We Wrote](https://open.spotify.com/track/5gDNZz30LTbAo5roksoxog) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Like We Wrote](https://open.spotify.com/album/3imSlaJXMI6i3yeZqz68d1) | 1:58 | 2024-05-31 | 2026-06-04 |
@@ -204,7 +205,7 @@
 | [Maybe](https://open.spotify.com/track/0wQgERNEc2XoxpZSf3o2OK) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Maybe](https://open.spotify.com/album/5yquxQivgSO3WYJAQWP4bn) | 2:59 | 2025-04-04 |  |
 | [Middle of The Night](https://open.spotify.com/track/4AWNGXhcT1eQhEajvO6yZl) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Middle of The Night](https://open.spotify.com/album/3JZIOJUYGiJ6tKhx80UW7X) | 2:12 | 2024-10-25 |  |
 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 | 2024-11-15 |  |
-| [MORE THAN SORRY](https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:30 | 2024-03-29 |  |
+| [MORE THAN SORRY](https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:30 | 2024-03-29 | 2026-06-20 |
 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2024-02-02 | 2024-08-03 |
 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 | 2024-06-07 | 2025-11-08 |
 | [NATURAL](https://open.spotify.com/track/1G6SUhnXRyuS3DuLNzXkfW) | [Aidan Vaughn](https://open.spotify.com/artist/7LdzjdaC5nwZdmP4INCdIE) | [NATURAL](https://open.spotify.com/album/1hwcCHfAuDkEERhthIjgSC) | 2:21 | 2025-04-11 |  |
@@ -221,7 +222,7 @@
 | [None Of Your Concern \(feat\. Big Sean\)](https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 4:19 | 2024-02-02 | 2024-03-30 |
 | [Not Average](https://open.spotify.com/track/18QY2kOLijiKrvWYKaTbnp) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Love Life](https://open.spotify.com/album/4gXOnvlylPbHchBNdh76dM) | 3:21 | 2025-11-14 |  |
 | [Not Mine](https://open.spotify.com/track/0s0HQde8B10UnQJGFDEqmI) | [Tona Glover](https://open.spotify.com/artist/0MnMT3Q8i2O43b73SLANwT) | [Not Mine](https://open.spotify.com/album/66gGdAHsqcdYrVjQOFrJcG) | 2:29 | 2024-10-18 | 2025-09-20 |
-| [NOT THE ONE](https://open.spotify.com/track/5odrgttxGTjodGqpIc4Kqr) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [NOT THE ONE](https://open.spotify.com/album/6gS1GTD1AAKREG85KdJcQd) | 2:40 | 2024-11-22 |  |
+| [NOT THE ONE](https://open.spotify.com/track/5odrgttxGTjodGqpIc4Kqr) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [NOT THE ONE](https://open.spotify.com/album/6gS1GTD1AAKREG85KdJcQd) | 2:40 | 2024-11-22 | 2026-06-20 |
 | [Oakland Baby](https://open.spotify.com/track/1eCmhxAjTh2tJgyT9wntHL) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Oakland Baby](https://open.spotify.com/album/46jcanZS4AwhaavD9WAxTC) | 2:09 | 2025-07-18 |  |
 | [Oakland Pt\. 2](https://open.spotify.com/track/53ZSD18jfaGFqSnj4FL8Lq) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Oakland Pt\. 2](https://open.spotify.com/album/17mz6AvacvJo6kK9stQTLK) | 2:36 | 2024-09-13 |  |
 | [Obsession](https://open.spotify.com/track/06n0zi8b4SEEHT5tV3cQTs) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK) | [Obsession](https://open.spotify.com/album/55NwcyKf4QXcWiCAtYMMx0) | 1:55 | 2025-11-07 |  |
@@ -268,6 +269,7 @@
 | [SEARCHING](https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [SEARCHING](https://open.spotify.com/album/5Brn5xm94sbj03mp8tvSnX) | 2:30 | 2025-03-28 |  |
 | [seeing red](https://open.spotify.com/track/4Ju7XGhJWfA3a9CkoUBVwA) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [seeing red](https://open.spotify.com/album/0dOSRsraRPHIz9L26N7Kez) | 2:38 | 2025-10-03 | 2025-11-08 |
 | [Selfie](https://open.spotify.com/track/1eFptQumbRt3F1mRjsRgwH) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Selfie](https://open.spotify.com/album/4S7MbbcAuQRFBqIKhFNbeK) | 2:44 | 2024-08-02 | 2025-11-08 |
+| [she goes by.](https://open.spotify.com/track/3kpGbIP1qVaFHNE78tTGEy) | [where.t.at](https://open.spotify.com/artist/0kxG2FyO4bp80QsBwYQTvo) | [she goes by.](https://open.spotify.com/album/20GEur5fpZCdC8o6oVI6V2) | 2:57 | 2026-06-19 |  |
 | [Shut It Down](https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Shut It Down](https://open.spotify.com/album/1pBHZvxW0PjRj3JDYlAovT) | 2:26 | 2026-02-27 |  |
 | [Sin on Purpose](https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Sin on Purpose](https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G) | 2:23 | 2024-02-02 | 2026-02-02 |
 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 | 2024-02-02 | 2024-10-19 |

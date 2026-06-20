@@ -1,12 +1,12 @@
 {
-  "description": "New music from Aina Abdul, Tyla, RIIZE,  Liza Hanim, Luqman Podolski, Alpha, Daiyan Trisha,  and more!",
-  "num_followers": 75160,
+  "description": "New music from Aina Abdul, Tyla, RIIZE, Liza Hanim, Luqman Podolski, Alpha, Daiyan Trisha,  and more!",
+  "num_followers": 75206,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKuqJzFLuGMw9mPXSjWoLBHcPlG+",
+  "snapshot_id": "AAAAAIdBnp33WJkNvD9y+rB7O+wRbqeQ",
   "tracks": [
     {
       "added_at": "2026-06-18 16:00:49",
@@ -229,6 +229,42 @@
       "url": "https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep"
     },
     {
+      "added_at": "2026-06-19 09:00:04",
+      "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 244669,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
+    },
+    {
+      "added_at": "2026-06-18 17:00:18",
+      "album": {
+        "name": "Sementara, Selamanya",
+        "url": "https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD"
+      },
+      "artists": [
+        {
+          "name": "Fajar Noor",
+          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
+        }
+      ],
+      "duration_ms": 227908,
+      "name": "Salah Apa Aku",
+      "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
+    },
+    {
       "added_at": "2026-06-18 16:00:49",
       "album": {
         "name": "Sempurna",
@@ -247,22 +283,6 @@
       "duration_ms": 138461,
       "name": "Sempurna",
       "url": "https://open.spotify.com/track/5jzrEitOu3EvVqn54sQPqD"
-    },
-    {
-      "added_at": "2026-06-18 17:00:18",
-      "album": {
-        "name": "Sementara, Selamanya",
-        "url": "https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD"
-      },
-      "artists": [
-        {
-          "name": "Fajar Noor",
-          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
-        }
-      ],
-      "duration_ms": 227908,
-      "name": "Salah Apa Aku",
-      "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
     },
     {
       "added_at": "2026-06-18 16:00:49",
@@ -500,7 +520,7 @@
           "url": "https://open.spotify.com/artist/5mSJM9ei1SZ5lEAO1BPP3m"
         }
       ],
-      "duration_ms": 208000,
+      "duration_ms": 200000,
       "name": "Meski Lewat Luka",
       "url": "https://open.spotify.com/track/4DG4sz1JVshcghYwckmueM"
     },
@@ -876,8 +896,8 @@
           "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 203458,
+      "name": "Bad News",
       "url": "https://open.spotify.com/track/5l0FelDpLcRGzvpYhT9eCH"
     },
     {
@@ -1313,7 +1333,7 @@
         },
         {
           "name": "Amir Mansor",
-          "url": "https://open.spotify.com/artist/0fCxC7P7GeiqBkC3JfmMAT"
+          "url": "https://open.spotify.com/artist/34edWeV1j0o2X50jJW5oEq"
         },
         {
           "name": "Danial Baharin",
@@ -1413,6 +1433,26 @@
       "url": "https://open.spotify.com/track/5ROZr0epf1xWoXxrNr4B3C"
     },
     {
+      "added_at": "2026-06-19 04:02:11",
+      "album": {
+        "name": "THE GENTLEMEN'S CLUB",
+        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "ON THE LOW feat tyler, the creator",
+      "url": "https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1"
+    },
+    {
       "added_at": "2026-06-18 16:00:49",
       "album": {
         "name": "in the bedroom, i confess",
@@ -1431,6 +1471,26 @@
       "duration_ms": 136066,
       "name": "swamp theme",
       "url": "https://open.spotify.com/track/3hZYOIzX6cijywwoEs4idP"
+    },
+    {
+      "added_at": "2026-06-19 04:02:11",
+      "album": {
+        "name": "LIQUID FORM",
+        "url": "https://open.spotify.com/album/4FJRRt6KogobrTxmpMb3R6"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "Beat Like A Key (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/484L48EB1g6JuqlmnkS4ng"
     },
     {
       "added_at": "2026-06-18 16:00:49",

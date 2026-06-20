@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring SLANDER",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Borgore",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 173017,
       "name": "999soundsystem",
       "url": "https://open.spotify.com/track/6mv33AvhAJWcz3O8XzQ2rc"
@@ -3203,6 +3203,28 @@
     },
     {
       "album": {
+        "name": "Bass Cannon (Flux's Version - Crankdat Remix)",
+        "url": "https://open.spotify.com/album/5ftcfTOC3YH5HPIbkfQngX"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190801,
+      "name": "Bass Cannon (Flux's Version) - Crankdat Remix",
+      "url": "https://open.spotify.com/track/3b7doVly0rz4na3rqZUasE"
+    },
+    {
+      "album": {
         "name": "Bass Drop",
         "url": "https://open.spotify.com/album/2wEpgFSaoe6g7CncCfdn05"
       },
@@ -3418,7 +3440,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 194042,
       "name": "BBFL",
       "url": "https://open.spotify.com/track/0pqlIvYxalvFLP1Oje5zD3"
@@ -9510,7 +9532,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 157384,
       "name": "DON'T LOOK DOWN",
       "url": "https://open.spotify.com/track/6zkI5zNfoilLBC9qvvETI6"
@@ -18517,6 +18539,32 @@
     },
     {
       "album": {
+        "name": "DUALITY",
+        "url": "https://open.spotify.com/album/4Dw28zBHujmDojEbZeViEk"
+      },
+      "artists": [
+        {
+          "name": "Lizdek",
+          "url": "https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG"
+        },
+        {
+          "name": "Malixe",
+          "url": "https://open.spotify.com/artist/0Aj37VEcCEFEZtoSFFvZzh"
+        },
+        {
+          "name": "Oddly Godly",
+          "url": "https://open.spotify.com/artist/35C4dxG2eg13VhzF1FaN7U"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "INSANE",
+      "url": "https://open.spotify.com/track/45JQqMg08DsvcDvpiJP7rE"
+    },
+    {
+      "album": {
         "name": "Insane (feat. Smokey)",
         "url": "https://open.spotify.com/album/2H8HiM2kQdS0UB7uruMeXD"
       },
@@ -18690,7 +18738,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 213125,
       "name": "Internal Shell",
       "url": "https://open.spotify.com/track/2nVXgCTdJHSkouVNhM2Xca"
@@ -23612,7 +23660,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 150857,
       "name": "need (u)",
       "url": "https://open.spotify.com/track/3Y2q0up7I4xfHZD59z3Yf4"
@@ -24899,6 +24947,28 @@
     },
     {
       "album": {
+        "name": "COLLABORATIVE EXTENDED PLAY",
+        "url": "https://open.spotify.com/album/715gAqiaUk7antz2sU7iIm"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Kayp",
+          "url": "https://open.spotify.com/artist/1Lp0WVwWH1SZbs5DRJrI3V"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181324,
+      "name": "OBSESSED",
+      "url": "https://open.spotify.com/track/1eV4FSoEZKN7eIkAM8RzDQ"
+    },
+    {
+      "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/19CxScw8V448Fiar6paBFf"
       },
@@ -25954,7 +26024,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 154566,
       "name": "Original Style",
       "url": "https://open.spotify.com/track/62IL1Fj8GeneLQsmLu7ofk"
@@ -26256,6 +26326,28 @@
       "duration_ms": 212946,
       "name": "Pain Killer",
       "url": "https://open.spotify.com/track/5eIAOdzmt3Nxd7XDFzek9U"
+    },
+    {
+      "album": {
+        "name": "Pain to Pleasure",
+        "url": "https://open.spotify.com/album/7DpZpOQ55oKjPJZOYuMORE"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        },
+        {
+          "name": "Daemon",
+          "url": "https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161682,
+      "name": "Pain to Pleasure",
+      "url": "https://open.spotify.com/track/4zgz7tvD24hLRNxHP2GcS5"
     },
     {
       "album": {
@@ -27847,6 +27939,32 @@
     },
     {
       "album": {
+        "name": "Push Up",
+        "url": "https://open.spotify.com/album/2afaHlpY3BkWzzaxCfNm6G"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Zoey808",
+          "url": "https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203142,
+      "name": "Push Up",
+      "url": "https://open.spotify.com/track/4wGzISKyZqIBGtWvCLOPHH"
+    },
+    {
+      "album": {
         "name": "PUSHINN",
         "url": "https://open.spotify.com/album/2umT6tMDBC2DDbjCEckF3v"
       },
@@ -28688,6 +28806,28 @@
       "duration_ms": 193714,
       "name": "REGICIDE",
       "url": "https://open.spotify.com/track/4Ic4NFdhUifY28MXwwlU51"
+    },
+    {
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/18dWMm2DXRXFIhjIaFU3Wb"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227327,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/27DXQ1nIW0tbdkUM5f0X07"
     },
     {
       "album": {
@@ -31156,6 +31296,28 @@
       "duration_ms": 300916,
       "name": "Shivering",
       "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
+    },
+    {
+      "album": {
+        "name": "SHOOT 2 KILL",
+        "url": "https://open.spotify.com/album/2h26ISASnahkhpEHzHQ8tz"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122400,
+      "name": "SHOOT 2 KILL",
+      "url": "https://open.spotify.com/track/7k5JqvfMRikQwzyn5tyq0g"
     },
     {
       "album": {
@@ -35326,7 +35488,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 148965,
       "name": "THIGHS (up)",
       "url": "https://open.spotify.com/track/491ojG5dWqokrVgGltDdRH"

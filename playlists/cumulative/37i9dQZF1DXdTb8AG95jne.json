@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uad6c\ub984(Cloud koh)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Gogohawk) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -4912,7 +4912,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 196000,
       "name": "Don't Be",
       "url": "https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu"
@@ -11992,7 +11992,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 218989,
       "name": "Let\u2019s Say \u201cI Love You\u201d",
       "url": "https://open.spotify.com/track/3WpxaeTYve3tQMpeSOm6tZ"
@@ -15697,6 +15697,24 @@
     },
     {
       "album": {
+        "name": "VOL.10",
+        "url": "https://open.spotify.com/album/7EFR2crZ7e3kHwss7Pnngn"
+      },
+      "artists": [
+        {
+          "name": "Gogohawk",
+          "url": "https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249776,
+      "name": "P",
+      "url": "https://open.spotify.com/track/33AR52AJz3yONq2OTFjuWc"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/53CquI42D8OFUEyphbbnRK"
       },
@@ -16902,7 +16920,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 185542,
       "name": "rare",
       "url": "https://open.spotify.com/track/2oOspwY8IQv5BkxGS4chqX"

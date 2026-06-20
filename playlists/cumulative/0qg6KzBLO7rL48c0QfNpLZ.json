@@ -1853,6 +1853,28 @@
     },
     {
       "album": {
+        "name": "Back To Her",
+        "url": "https://open.spotify.com/album/0zioG5RWfiauUDKd7vnzsW"
+      },
+      "artists": [
+        {
+          "name": "Calm Springs",
+          "url": "https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb"
+        },
+        {
+          "name": "Mallou",
+          "url": "https://open.spotify.com/artist/0shRX1S8qo6p32ErP9OWwP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160982,
+      "name": "Back To Her",
+      "url": "https://open.spotify.com/track/0Q4uYxQsR4UwtGeD0RwE3I"
+    },
+    {
+      "album": {
         "name": "Back to Life",
         "url": "https://open.spotify.com/album/2u5AfWM0K28d6adWEvMOA6"
       },
@@ -3796,6 +3818,24 @@
       "duration_ms": 140004,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/4Uvn8vp2hKWyQwTK1w8GaI"
+    },
+    {
+      "album": {
+        "name": "By Myself",
+        "url": "https://open.spotify.com/album/5QMs9FQ6f6vpcPH6cXkXhh"
+      },
+      "artists": [
+        {
+          "name": "Solara",
+          "url": "https://open.spotify.com/artist/1M7CohuwV1Mgim4czMhWRe"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/6KRDahLuYSz2Mdp45aFi26"
     },
     {
       "album": {
@@ -7926,10 +7966,28 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 144942,
       "name": "Easy on You",
       "url": "https://open.spotify.com/track/0WtWNP4aoQ4Q6yzhwQEqJn"
+    },
+    {
+      "album": {
+        "name": "Easy to Love",
+        "url": "https://open.spotify.com/album/3bVrzFJBbm7PZ3dHOIXCzJ"
+      },
+      "artists": [
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121048,
+      "name": "Easy to Love",
+      "url": "https://open.spotify.com/track/5ew4gNYxaxDc6sEsvjGf2J"
     },
     {
       "album": {
@@ -8978,6 +9036,24 @@
       "duration_ms": 149743,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/6NZziRxaq11Tv8MTuEB0kR"
+    },
+    {
+      "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/0KPEAud02W35S7fU71jrjq"
+      },
+      "artists": [
+        {
+          "name": "2FarAway",
+          "url": "https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/0XpdpXlxOdYt2qx0J6WsdO"
     },
     {
       "album": {
@@ -13101,6 +13177,28 @@
     },
     {
       "album": {
+        "name": "hopefully",
+        "url": "https://open.spotify.com/album/3J8GZinpvA1Wug4B5AMmZo"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "clarity.",
+          "url": "https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "hopefully",
+      "url": "https://open.spotify.com/track/4LVQSTPGC7Kue5AwjilVcW"
+    },
+    {
+      "album": {
         "name": "Hotel California",
         "url": "https://open.spotify.com/album/6qtt9QJYtwYoO9K6FeNPhe"
       },
@@ -14528,7 +14626,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
@@ -14916,6 +15014,24 @@
       "duration_ms": 129373,
       "name": "Indefinitely",
       "url": "https://open.spotify.com/track/2p1tBwD03k1omVL3QufODn"
+    },
+    {
+      "album": {
+        "name": "Infatuation",
+        "url": "https://open.spotify.com/album/4RC9IbnLobvxGcIJlAr7Nc"
+      },
+      "artists": [
+        {
+          "name": "attic pulse",
+          "url": "https://open.spotify.com/artist/6zjF5NnzTTXu8r4PLKkmnz"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Infatuation",
+      "url": "https://open.spotify.com/track/4DCvSq0xOOKOmGAm0XSMTG"
     },
     {
       "album": {
@@ -17082,6 +17198,32 @@
       "duration_ms": 154639,
       "name": "Living the Day",
       "url": "https://open.spotify.com/track/78gMlIZUmlr5uNF1B02z4X"
+    },
+    {
+      "album": {
+        "name": "London",
+        "url": "https://open.spotify.com/album/0dz33md8SGTpNomFoVTETj"
+      },
+      "artists": [
+        {
+          "name": "linequat",
+          "url": "https://open.spotify.com/artist/49PsUQX8IbmpwcTWHG9OWy"
+        },
+        {
+          "name": "Pherick",
+          "url": "https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe"
+        },
+        {
+          "name": "John Von Dusk",
+          "url": "https://open.spotify.com/artist/4JeAtwRoOrbTED0kN8D4jz"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142822,
+      "name": "London",
+      "url": "https://open.spotify.com/track/5zCJkDDoZW8eDbCv0itcy9"
     },
     {
       "album": {
@@ -20563,6 +20705,24 @@
     },
     {
       "album": {
+        "name": "No Second Player",
+        "url": "https://open.spotify.com/album/4KEu2EUuycJ9LEwjs8M64n"
+      },
+      "artists": [
+        {
+          "name": "TEMP!E",
+          "url": "https://open.spotify.com/artist/75TTHqbTvMOttu5BC9dare"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "No Second Player",
+      "url": "https://open.spotify.com/track/1IRV909ztfPe16hznXQ856"
+    },
+    {
+      "album": {
         "name": "No Sleep",
         "url": "https://open.spotify.com/album/2dEMmIDTijQeBPWa98HDW8"
       },
@@ -23393,6 +23553,32 @@
     },
     {
       "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/7nxKsNmyCVM7uXhFLQHSmt"
+      },
+      "artists": [
+        {
+          "name": "Odare",
+          "url": "https://open.spotify.com/artist/1Z636FAEL724WokX4TvF8G"
+        },
+        {
+          "name": "Iskarelyn",
+          "url": "https://open.spotify.com/artist/6EYhZnGfuQEGRjxjfOx9Hd"
+        },
+        {
+          "name": "k\u00f8hvt",
+          "url": "https://open.spotify.com/artist/7HHOIV7VtXL6hgacfGdOxc"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146774,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/6aRojfBJ1Cl6gmwof4IKmR"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/2naixWNRFz1nySGD2Jzi1q"
       },
@@ -25970,6 +26156,28 @@
     {
       "album": {
         "name": "Something Real",
+        "url": "https://open.spotify.com/album/3KAk2hEknbuvA3vD00WF8x"
+      },
+      "artists": [
+        {
+          "name": "RAZZ",
+          "url": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+        },
+        {
+          "name": "KAYGE",
+          "url": "https://open.spotify.com/artist/30LIU4cGM257aNd6d43QUo"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156388,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/4VAAFEztiLbIxGkmjnGelC"
+    },
+    {
+      "album": {
+        "name": "Something Real",
         "url": "https://open.spotify.com/album/789OHGf8yuNopwNvDsxWO1"
       },
       "artists": [
@@ -25988,7 +26196,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 128235,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/0wCFs6PrNk1oGrqnJ4a1Bu"
@@ -27840,7 +28048,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 152187,
       "name": "Take Me on a Date",
       "url": "https://open.spotify.com/track/5ZSZZJr8Iwd66jZgryVAVH"
@@ -28044,7 +28252,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 116005,
       "name": "Taste of Me",
       "url": "https://open.spotify.com/track/05FArefcY2XsxRnawb5v1N"
@@ -29600,7 +29808,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 185593,
       "name": "Torn",
       "url": "https://open.spotify.com/track/7rMxuyblcRQ0h3V4h4pyDc"
@@ -29758,7 +29966,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 132057,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/01rDRfmHegYaIWHO1gGOdB"
@@ -31758,6 +31966,28 @@
       "duration_ms": 146500,
       "name": "While We're Young",
       "url": "https://open.spotify.com/track/2muEoAwQInHRY4wakaqsuq"
+    },
+    {
+      "album": {
+        "name": "Chapter 3",
+        "url": "https://open.spotify.com/album/7yN7HR6mhGwIejAN1gG7am"
+      },
+      "artists": [
+        {
+          "name": "Killason",
+          "url": "https://open.spotify.com/artist/1CDeoqnIdiK79e2j7BhyFY"
+        },
+        {
+          "name": "Parada",
+          "url": "https://open.spotify.com/artist/29y0WHW3GGg8GJC2M8uEge"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152076,
+      "name": "White Dress",
+      "url": "https://open.spotify.com/track/4ChDixKsaYzymz7GKC0ntl"
     },
     {
       "album": {

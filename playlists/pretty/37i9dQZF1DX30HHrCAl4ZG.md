@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from feeble little horse
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,818 likes - 141 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,791 likes - 141 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

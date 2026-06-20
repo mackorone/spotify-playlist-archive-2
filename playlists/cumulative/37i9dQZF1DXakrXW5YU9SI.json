@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 182142,
       "name": "Czule m\u00f3wi\u0119",
       "url": "https://open.spotify.com/track/5vCjLZ5tJd2DuVeENeoTyw"
@@ -3434,7 +3434,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 222252,
       "name": "Do Ciebie",
       "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
@@ -3686,6 +3686,24 @@
       "duration_ms": 185434,
       "name": "Dom",
       "url": "https://open.spotify.com/track/78xFhSIY8vjhKBtPZLNktm"
+    },
+    {
+      "album": {
+        "name": "B\u0142\u0119kit",
+        "url": "https://open.spotify.com/album/1OrS5Jer8uVMVOFWUy9pJJ"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/7GI44CEvgkTfS0lDPxnVQW"
     },
     {
       "album": {
@@ -5582,7 +5600,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 143048,
       "name": "halo Houston",
       "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
@@ -6474,7 +6492,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 167000,
       "name": "Ile?",
       "url": "https://open.spotify.com/track/0XJvZK2nhyVwfwhwMF1Z8L"
@@ -7016,7 +7034,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 120333,
       "name": "Jedziemy na domki",
       "url": "https://open.spotify.com/track/1k6UKqqaN8YmJJzTp0gyCw"
@@ -7600,7 +7618,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 147477,
       "name": "Ko\u0142ysanka (z filmu Ch\u0142opiec na Kra\u0144cach \u015awiata)",
       "url": "https://open.spotify.com/track/5AOhDOzD1S3EPPJn5b4PoL"
@@ -8617,6 +8635,24 @@
     },
     {
       "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/4OgVLFuahrMgMvmKgyECf2"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226260,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/13HoInPNP9y7ric9rHdmKo"
+    },
+    {
+      "album": {
         "name": "S\u0142oneczna strona ulicy",
         "url": "https://open.spotify.com/album/6WC2GVDGNhOPMyOPzSL31y"
       },
@@ -8686,7 +8722,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 233290,
       "name": "Mam nadziej\u0119",
       "url": "https://open.spotify.com/track/38DWD30XnDQ7ue5kNbXi1M"
@@ -10376,7 +10412,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 199363,
       "name": "Nie Chc\u0119 (Sialalala)",
       "url": "https://open.spotify.com/track/7dEvUtwgCFq3vKj4LqqG32"
@@ -11190,7 +11226,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 173400,
       "name": "OdFiltruj Rzeczywisto\u015b\u0107",
       "url": "https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM"
@@ -11666,7 +11702,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 161823,
       "name": "Pali jej si\u0119 \u015bwiat",
       "url": "https://open.spotify.com/track/06wvfgboTLsYfWiPoLKLrn"
@@ -12002,7 +12038,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 224295,
       "name": "Per\u0142y za Kredensem",
       "url": "https://open.spotify.com/track/6dJnEeG7fhkGwfngdgQ45u"
@@ -13138,6 +13174,28 @@
       "duration_ms": 197942,
       "name": "P\u00f3\u0142noc",
       "url": "https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs"
+    },
+    {
+      "album": {
+        "name": "P\u00f3\u017aniej Ci opowiem",
+        "url": "https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh"
+      },
+      "artists": [
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        },
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "P\u00f3\u017aniej Ci opowiem",
+      "url": "https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon"
     },
     {
       "album": {
@@ -16837,6 +16895,24 @@
     },
     {
       "album": {
+        "name": "tylko kochaj mnie",
+        "url": "https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161342,
+      "name": "tylko kochaj mnie",
+      "url": "https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ"
+    },
+    {
+      "album": {
         "name": "Sztu\u0107ce EP",
         "url": "https://open.spotify.com/album/1liPHIkERKGaFAi0ETkoK7"
       },
@@ -18248,7 +18324,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 185250,
       "name": "wszystko jedno, wszystko \u017ale",
       "url": "https://open.spotify.com/track/1yXPUokqPGKcdzP7gsS6TZ"

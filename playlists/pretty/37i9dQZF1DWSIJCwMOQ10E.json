@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Karen Lizarazo",
-  "num_followers": 106773,
+  "num_followers": 106769,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -215,18 +215,22 @@
     {
       "added_at": "2025-05-30 05:03:05",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
+        "name": "EL RITMO QUE NOS UNE (feat. Selecci\u00f3n Colombia)",
+        "url": "https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         }
       ],
-      "duration_ms": 301573,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
+      "duration_ms": 189795,
+      "name": "EL RITMO QUE NOS UNE - feat. Selecci\u00f3n Colombia",
+      "url": "https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp"
     },
     {
       "added_at": "2025-05-30 05:03:05",
@@ -267,22 +271,18 @@
     {
       "added_at": "2025-05-30 05:03:05",
       "album": {
-        "name": "EL RITMO QUE NOS UNE (feat. Selecci\u00f3n Colombia)",
-        "url": "https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 189795,
-      "name": "EL RITMO QUE NOS UNE - feat. Selecci\u00f3n Colombia",
-      "url": "https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp"
+      "duration_ms": 301573,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
     },
     {
       "added_at": "2025-05-30 05:03:05",
@@ -707,18 +707,18 @@
     {
       "added_at": "2025-05-30 05:03:05",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/1wPCKuOe9I7dLDwYtBhFIh"
+        "name": "Deja Que Te Cante",
+        "url": "https://open.spotify.com/album/5YKYtTEULxuokW6tDSxsBd"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
         }
       ],
-      "duration_ms": 279866,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/61BoBnTname2M5evtYyU6k"
+      "duration_ms": 334840,
+      "name": "Mosaico Lo De La Chula (Tamarindo Seco, La Mata De Patilla, La Garrapata)",
+      "url": "https://open.spotify.com/track/62O1pmJ6MIN9bHMQTtL51K"
     },
     {
       "added_at": "2025-05-30 05:03:05",
@@ -739,18 +739,18 @@
     {
       "added_at": "2025-05-30 05:03:05",
       "album": {
-        "name": "Deja Que Te Cante",
-        "url": "https://open.spotify.com/album/5YKYtTEULxuokW6tDSxsBd"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/1wPCKuOe9I7dLDwYtBhFIh"
       },
       "artists": [
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 334840,
-      "name": "Mosaico Lo De La Chula (Tamarindo Seco, La Mata De Patilla, La Garrapata)",
-      "url": "https://open.spotify.com/track/62O1pmJ6MIN9bHMQTtL51K"
+      "duration_ms": 279866,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/61BoBnTname2M5evtYyU6k"
     },
     {
       "added_at": "2025-05-30 05:03:05",

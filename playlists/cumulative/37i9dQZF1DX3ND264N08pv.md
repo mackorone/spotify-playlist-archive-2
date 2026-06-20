@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-439 songs - 23 hr 27 min
+440 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [2 Tha Rhythm](https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [NEED FOR SPEED](https://open.spotify.com/album/3bNU00DAypHgWuehEIl935) | 2:25 | 2024-07-26 | 2025-01-11 |
 | [365](https://open.spotify.com/track/7FeG9loIhGzhqnIH72hTd7) | [Maul](https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU) | [365](https://open.spotify.com/album/0xV7AAaEIHVrLSo8ptGWg1) | 2:20 | 2024-11-18 | 2025-03-08 |
 | [9MM](https://open.spotify.com/track/50cNmlFtLyt0exTnajYFsR) | [Kili](https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV) | [Locked & Loaded EP](https://open.spotify.com/album/6Ze9U69rsUgglX584FE2uY) | 1:41 | 2025-12-11 | 2026-02-19 |
-| [Across The Globe \(Official Masters Of Hardcore Austria 2026 Anthem\)](https://open.spotify.com/track/3ek7P7TpmOAoaZR8m9pfZT) | [Unfused](https://open.spotify.com/artist/71JkAolI9Axuvf2lyzEhpq) | [Across The Globe \(Official Masters Of Hardcore Austria 2026 Anthem\)](https://open.spotify.com/album/2PUqe4bQm968gUVt4tlXxE) | 4:08 | 2026-03-06 |  |
+| [Across The Globe \(Official Masters Of Hardcore Austria 2026 Anthem\)](https://open.spotify.com/track/3ek7P7TpmOAoaZR8m9pfZT) | [Unfused](https://open.spotify.com/artist/71JkAolI9Axuvf2lyzEhpq) | [Across The Globe \(Official Masters Of Hardcore Austria 2026 Anthem\)](https://open.spotify.com/album/2PUqe4bQm968gUVt4tlXxE) | 4:08 | 2026-03-06 | 2026-06-20 |
 | [Addiction](https://open.spotify.com/track/5Cx5e2e7BgWchPqHBHfTT1) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Addiction](https://open.spotify.com/album/6V4xEfSA1XCEwQOQke5qPG) | 2:57 | 2022-12-08 | 2023-04-14 |
 | [ADHD](https://open.spotify.com/track/4DKSnd7K0T9C7xnhIfeRnB) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [ADHD](https://open.spotify.com/album/6PntwdcQ98hWY6cwugRJMw) | 3:05 | 2023-08-24 | 2024-12-13 |
 | [Adrenaline \- Never Surrender Remix](https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5) | [Neophyte Records All Stars](https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Adrenaline \(Never Surrender Remix\)](https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9) | 2:47 | 2023-04-20 | 2024-11-09 |
@@ -415,6 +415,7 @@
 | [Trip to Tortuga](https://open.spotify.com/track/0cfun8g45RZ32siq8LuaoA) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Vernex](https://open.spotify.com/artist/5OaeD9pHLRaEXNf6qZtgmC), [Bassrunner](https://open.spotify.com/artist/2SjRurwyM0sEwhxk9YjWwU) | [Tripping with Dr\. Peacock](https://open.spotify.com/album/48YFvNNXY78tFt1Rwr8QUe) | 2:48 | 2025-11-17 | 2026-01-06 |
 | [Trip to USA](https://open.spotify.com/track/1iHzaNUUAq4dAH5drnioPq) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Trip to USA](https://open.spotify.com/album/6PXiP9YTgcag50QtDVUqM7) | 2:33 | 2025-06-02 | 2025-09-23 |
 | [Trippie naar de klote](https://open.spotify.com/track/4Tz5h4M9dEVTJPk1x2kImp) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Steen](https://open.spotify.com/artist/4sf0XtUsKwVtg6YK72Dx2C) | [Trippie naar de klote](https://open.spotify.com/album/3yey7HNNhu0asuLy02BWuh) | 3:12 | 2023-09-21 | 2024-05-17 |
+| [Turn It Upside Down](https://open.spotify.com/track/725tRVeAdbPPXMGycchSvP) | [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3), [Deviation](https://open.spotify.com/artist/0c9ER6NjjpiibM7LNvJzkM) | [Turn It Upside Down](https://open.spotify.com/album/0Cuo5ZE7f1aC0fdUu5oU7e) | 3:12 | 2026-06-19 |  |
 | [Turn the Tide](https://open.spotify.com/track/41xptomAuNGKBU6g00EoLv) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr), [RWF](https://open.spotify.com/artist/5SSccKfaWK4yIu8TsqUtac), [KIOR](https://open.spotify.com/artist/5T4JS1DKk850DNKpQoIbYJ) | [Cyber War](https://open.spotify.com/album/6s0SZMQ3plk02FvwNO5dWF) | 2:58 | 2026-05-26 |  |
 | [U Will Be Mine](https://open.spotify.com/track/7qZhWZkh309jgVao0Jo8DO) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O), [Radium](https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG) | [U Will Be Mine](https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo) | 3:11 | 2023-03-09 | 2024-12-13 |
 | [Uit M'n Naad!](https://open.spotify.com/track/5H1uRBGwXBuDnBYpK27ztt) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Uit M'n Naad!](https://open.spotify.com/album/5HvNhHwer4tmPe5xGqUzUx) | 3:22 | 2024-02-15 | 2024-11-09 |

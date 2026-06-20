@@ -242,7 +242,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 354244,
       "name": "Bayeke - Prace Remix",
       "url": "https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 258746,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/2BNztHs4pufXHi2YY6s0mn"
@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 421968,
       "name": "Open Source",
       "url": "https://open.spotify.com/track/1QDQm9g3hVTfWeLdolhrO6"
@@ -2239,6 +2239,32 @@
     },
     {
       "album": {
+        "name": "Peas In A Pod",
+        "url": "https://open.spotify.com/album/4pbXoYwjXiX2vHD3zOGjmE"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189797,
+      "name": "Peas In A Pod",
+      "url": "https://open.spotify.com/track/7HIxhNg4Ko9CvKYpVPMS94"
+    },
+    {
+      "album": {
         "name": "Firepower EP",
         "url": "https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U"
       },
@@ -2254,6 +2280,28 @@
       "duration_ms": 439466,
       "name": "Quicktime - Roska Remix",
       "url": "https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI"
+    },
+    {
+      "album": {
+        "name": "Ravers",
+        "url": "https://open.spotify.com/album/6AOBVhxdU833s723ef7IrE"
+      },
+      "artists": [
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "European 305",
+          "url": "https://open.spotify.com/artist/1UB3q4Ly1A7pOno5OMLENU"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148760,
+      "name": "Ravers",
+      "url": "https://open.spotify.com/track/1Zk2e5gEbJbAqjC1HIozCc"
     },
     {
       "album": {
@@ -2525,6 +2573,28 @@
     },
     {
       "album": {
+        "name": "Stop & Wave",
+        "url": "https://open.spotify.com/album/0ZQsnzP2FKhBgbxxnvaoZ6"
+      },
+      "artists": [
+        {
+          "name": "Roska",
+          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+        },
+        {
+          "name": "Snowy",
+          "url": "https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174836,
+      "name": "Stop & Wave",
+      "url": "https://open.spotify.com/track/1XKssaTCdg9EbPKQsUK4r9"
+    },
+    {
+      "album": {
         "name": "Da Linha",
         "url": "https://open.spotify.com/album/2hrGcp8EGqsiWOax66avCe"
       },
@@ -2690,6 +2760,32 @@
       "duration_ms": 246000,
       "name": "Take time - Murder He Wrote rmx",
       "url": "https://open.spotify.com/track/6UY2DLqt9azQTmIu3gNZL0"
+    },
+    {
+      "album": {
+        "name": "Tek Wine",
+        "url": "https://open.spotify.com/album/0KiTjfwb1IoFsdEHEBMlzG"
+      },
+      "artists": [
+        {
+          "name": "Jamz Supernova",
+          "url": "https://open.spotify.com/artist/7phxLHaKymoKWRg61jrBt8"
+        },
+        {
+          "name": "Sam Interface",
+          "url": "https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw"
+        },
+        {
+          "name": "Jeremiah Asiamah",
+          "url": "https://open.spotify.com/artist/4a8asYwblfRPbHxD6Oc7W4"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199829,
+      "name": "Tek Wine",
+      "url": "https://open.spotify.com/track/7MHVrEu009KLQO1xPbPSsn"
     },
     {
       "album": {
@@ -3090,7 +3186,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 257538,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6NWZnftVAZPB8Rw7a5NWgT"

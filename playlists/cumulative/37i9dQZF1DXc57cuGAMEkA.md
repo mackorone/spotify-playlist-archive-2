@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Myles Smith, Chris Brown, FKA twigs, Elmiene & Fujii Kaze and more!
 
-14,086 songs - 32 day 18 hr 20 min
+14,087 songs - 32 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2978,6 +2978,7 @@
 | [Dodged A Bullet](https://open.spotify.com/track/4RQ5rPSO5B0PDoV4hrz7Cw) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Dodged A Bullet](https://open.spotify.com/album/6kLLJQFrfLqvl71WdqQLz9) | 2:38 | 2025-07-10 | 2025-07-18 |
 | [DOES GOD CRY?](https://open.spotify.com/track/265SjBtYq3TRNMZRnKQni3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [DOES GOD CRY?](https://open.spotify.com/album/1Imj6FMtKCGGEZLq29CuDe) | 3:38 | 2025-01-23 | 2025-01-31 |
 | [Does It Again \(feat\. Lil Yachty\)](https://open.spotify.com/track/5DT58khLtyj8DS38ImspAa) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Does It Again \(feat\. Lil Yachty\)](https://open.spotify.com/album/2eMtNuJDvEjvNAPX40Ushn) | 1:52 | 2025-07-17 | 2025-07-25 |
+| [Does She Know](https://open.spotify.com/track/5HqmlB253b8HXDJUnueBTd) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong](https://open.spotify.com/album/38b9zu39HSUPDsEzELcvyi) | 3:14 | 2026-06-18 |  |
 | [Doesn't Really Matter \(Remix\)](https://open.spotify.com/track/0Xtwrd3utlCltSG8TLx4iq) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Doesn't Really Matter \(Remix\)](https://open.spotify.com/album/5swN4tDYGG1F8M764piI7E) | 2:55 | 2026-06-11 | 2026-06-19 |
 | [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 | 2023-09-22 | 2023-09-29 |
 | [Dog](https://open.spotify.com/track/5eBhs4ethVM65azitjNAFv) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Dog](https://open.spotify.com/album/3TbON5WSx3OksjRcQVyvpz) | 2:37 | 2026-03-05 | 2026-03-13 |

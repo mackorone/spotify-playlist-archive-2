@@ -1,13 +1,49 @@
 {
-  "description": "New music from your favorite women.  Cover: Imani Imani",
-  "num_followers": 232122,
+  "description": "New music from your favorite women.  Cover: Ama",
+  "num_followers": 232140,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKm6fBrgvIo+g/vVNPhqGknbc5A9",
+  "snapshot_id": "AAAAAJb18jtTQqrdVrw1PfFU+XB+C7jF",
   "tracks": [
+    {
+      "added_at": "2026-06-19 08:20:06",
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 148084,
+      "name": "Different High",
+      "url": "https://open.spotify.com/track/3v5zEJ439BTtSUZQoAMUDi"
+    },
+    {
+      "added_at": "2026-06-19 08:20:06",
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 132048,
+      "name": "Talking Dirty",
+      "url": "https://open.spotify.com/track/0TvgV79xVI0t2022ABkxS4"
+    },
     {
       "added_at": "2026-06-05 04:04:03",
       "album": {
@@ -23,6 +59,42 @@
       "duration_ms": 161843,
       "name": "On Demand",
       "url": "https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO"
+    },
+    {
+      "added_at": "2026-06-19 08:20:06",
+      "album": {
+        "name": "outta time",
+        "url": "https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "A. K. Paul",
+          "url": "https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe"
+        }
+      ],
+      "duration_ms": 251173,
+      "name": "outta time",
+      "url": "https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU"
+    },
+    {
+      "added_at": "2026-06-19 08:20:06",
+      "album": {
+        "name": "2 Many Days",
+        "url": "https://open.spotify.com/album/5C9EToByF5XDM3DXx4WewZ"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 185770,
+      "name": "2 Many Days",
+      "url": "https://open.spotify.com/track/5xKsdMU9ssxhKSre7iMflV"
     },
     {
       "added_at": "2026-06-12 08:13:38",
@@ -61,6 +133,22 @@
       "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
     },
     {
+      "added_at": "2026-06-19 08:20:06",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/0HiRotGMOWoUcbdEbe1W7T"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 188726,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/0Bw0kB0fDnAS8IKks0S8Qu"
+    },
+    {
       "added_at": "2026-05-01 07:00:07",
       "album": {
         "name": "Bottles & Lights",
@@ -81,20 +169,24 @@
       "url": "https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H"
     },
     {
-      "added_at": "2026-06-12 08:13:38",
+      "added_at": "2026-06-19 08:20:06",
       "album": {
-        "name": "Go To Hell",
-        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
+        "name": "baby, can we?",
+        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
       },
       "artists": [
         {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Go To Hell",
-      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
+      "duration_ms": 246422,
+      "name": "baby, can we?",
+      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
     },
     {
       "added_at": "2026-06-05 04:04:03",
@@ -129,38 +221,6 @@
       "url": "https://open.spotify.com/track/2TxEe5Rqfzq5z6JG7eEzlh"
     },
     {
-      "added_at": "2026-06-05 04:04:03",
-      "album": {
-        "name": "Holding Back",
-        "url": "https://open.spotify.com/album/2JNlTV4RIRVGlNZScebsOK"
-      },
-      "artists": [
-        {
-          "name": "Ama",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        }
-      ],
-      "duration_ms": 199533,
-      "name": "Holding Back",
-      "url": "https://open.spotify.com/track/2VUqrHj4z85HUBMQVdjqmj"
-    },
-    {
-      "added_at": "2026-06-05 04:04:03",
-      "album": {
-        "name": "point blank",
-        "url": "https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 266613,
-      "name": "point blank",
-      "url": "https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI"
-    },
-    {
       "added_at": "2026-06-12 08:13:38",
       "album": {
         "name": "FIRE BURNIN' THRU THE RAIN",
@@ -177,24 +237,20 @@
       "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
     },
     {
-      "added_at": "2026-05-29 04:00:16",
+      "added_at": "2026-06-19 08:20:06",
       "album": {
-        "name": "Callin (feat. Blu june)",
-        "url": "https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS"
+        "name": "FOR MIA",
+        "url": "https://open.spotify.com/album/3BUVBlmEdSCcGbScFDdy6t"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Blu june",
-          "url": "https://open.spotify.com/artist/3pyEwxCySBsnsD5B4SUiDr"
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
         }
       ],
-      "duration_ms": 154581,
-      "name": "Callin (feat. Blu june)",
-      "url": "https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF"
+      "duration_ms": 120877,
+      "name": "FOR MIA",
+      "url": "https://open.spotify.com/track/7jEHnIiCRGqGwljgXurue6"
     },
     {
       "added_at": "2026-05-01 07:00:07",
@@ -229,22 +285,6 @@
       "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
     },
     {
-      "added_at": "2026-05-15 06:21:37",
-      "album": {
-        "name": "But, Nvm",
-        "url": "https://open.spotify.com/album/2YZZlQUGlQgf2xIiimUGlN"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "But, Nvm",
-      "url": "https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG"
-    },
-    {
       "added_at": "2026-06-12 08:13:38",
       "album": {
         "name": "God Must Really Love Me",
@@ -259,6 +299,58 @@
       "duration_ms": 198866,
       "name": "Hurts So Good",
       "url": "https://open.spotify.com/track/5EQFlXjVAQEv39DKvHSmdv"
+    },
+    {
+      "added_at": "2026-06-19 08:20:06",
+      "album": {
+        "name": "Slowly Burning",
+        "url": "https://open.spotify.com/album/2gtPAOr3emVRJprUuXbgsA"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "duration_ms": 160244,
+      "name": "Slowly Burning",
+      "url": "https://open.spotify.com/track/4jaB32QgvmVG2VOh9dUBtc"
+    },
+    {
+      "added_at": "2026-06-19 08:20:06",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/7q5tb3F4pHe5aHU5chJ1Iv"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        },
+        {
+          "name": "Reenah Golden",
+          "url": "https://open.spotify.com/artist/1s70kKYXRtp1QLnRLlPLqb"
+        }
+      ],
+      "duration_ms": 136522,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4OGdzXnIp4iCESl7XWKPY4"
+    },
+    {
+      "added_at": "2026-06-12 08:13:38",
+      "album": {
+        "name": "Go To Hell",
+        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Go To Hell",
+      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
     },
     {
       "added_at": "2026-06-12 08:13:38",
@@ -309,6 +401,22 @@
       "url": "https://open.spotify.com/track/28LiTR1zZR1ELe42doTMLD"
     },
     {
+      "added_at": "2026-06-19 08:20:06",
+      "album": {
+        "name": "Forgive Them (Live at Blue Note LA)",
+        "url": "https://open.spotify.com/album/2DMhwrLUYm6DNhbOUk8JPF"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        }
+      ],
+      "duration_ms": 222874,
+      "name": "Forgive Them - Live at Blue Note LA",
+      "url": "https://open.spotify.com/track/5W2YFlNgIqcnnynPVCn5BA"
+    },
+    {
       "added_at": "2026-06-12 08:13:38",
       "album": {
         "name": "Not So Sweet",
@@ -339,6 +447,22 @@
       "duration_ms": 145274,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/3OQh9gEKxpLttwRfbSoJQQ"
+    },
+    {
+      "added_at": "2026-06-19 08:20:06",
+      "album": {
+        "name": "Sweet Sensation",
+        "url": "https://open.spotify.com/album/0PX6GgJPd5oxbmzo9kZ8V9"
+      },
+      "artists": [
+        {
+          "name": "Binta",
+          "url": "https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Sweet Sensation",
+      "url": "https://open.spotify.com/track/0zOxrpgFQQQ2sD1XYsfoTK"
     },
     {
       "added_at": "2026-06-12 08:13:38",
@@ -403,6 +527,38 @@
       "duration_ms": 208695,
       "name": "Weak",
       "url": "https://open.spotify.com/track/3Xpw079r8oMTfgjCK7dfBB"
+    },
+    {
+      "added_at": "2026-06-19 08:20:06",
+      "album": {
+        "name": "#NEEDTHAT",
+        "url": "https://open.spotify.com/album/2QDY7y73qOtVXyfXvp3QoJ"
+      },
+      "artists": [
+        {
+          "name": "Abby Jasmine",
+          "url": "https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf"
+        }
+      ],
+      "duration_ms": 162680,
+      "name": "#NEEDTHAT",
+      "url": "https://open.spotify.com/track/08UzsROwxWGlIWFVkUieb1"
+    },
+    {
+      "added_at": "2026-06-19 08:20:06",
+      "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/5I9bZ8o7bT2773KXzUgf4L"
+      },
+      "artists": [
+        {
+          "name": "Angelica Vila",
+          "url": "https://open.spotify.com/artist/4uGEwrSd2U7vy5jyEK5qLX"
+        }
+      ],
+      "duration_ms": 118674,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/6ZrmD8EDb6ElG18YP18AZY"
     },
     {
       "added_at": "2026-06-05 04:04:03",
@@ -487,6 +643,22 @@
       "duration_ms": 146400,
       "name": "Life is Unfair",
       "url": "https://open.spotify.com/track/4ZUNsrg67FyS47d8eLRV2I"
+    },
+    {
+      "added_at": "2026-06-19 08:20:06",
+      "album": {
+        "name": "XCITED",
+        "url": "https://open.spotify.com/album/17mhS11PAtRs1MpHjPpSHi"
+      },
+      "artists": [
+        {
+          "name": "Lavils",
+          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
+        }
+      ],
+      "duration_ms": 135799,
+      "name": "XCITED",
+      "url": "https://open.spotify.com/track/10Zy0dxQPgiwaLw80UMljd"
     },
     {
       "added_at": "2026-05-29 04:00:16",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: SEU Worship",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: DOE & Joe L Barnes",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -6684,7 +6684,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 297856,
       "name": "He Is Here",
       "url": "https://open.spotify.com/track/2CwSU2PBHlapNwbALjlFR2"
@@ -8823,6 +8823,24 @@
     },
     {
       "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/29GzDK7GEbMBHos0J1rRvJ"
+      },
+      "artists": [
+        {
+          "name": "Charles Weems",
+          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485754,
+      "name": "I Will Follow - Extended",
+      "url": "https://open.spotify.com/track/2MeZbydHrGiiXQpocZOE6m"
+    },
+    {
+      "album": {
         "name": "i've been meaning to say this...(deluxe)",
         "url": "https://open.spotify.com/album/7IQeUOlUvSCbFhbil5cylC"
       },
@@ -10548,7 +10566,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 272545,
       "name": "Know Your Name",
       "url": "https://open.spotify.com/track/45EuRfYN9UPYrRuu0Kqvzb"
@@ -13282,7 +13300,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 267500,
       "name": "Nothing More",
       "url": "https://open.spotify.com/track/1bRFq7HJBCqE2nfqbwCjx0"
@@ -15062,7 +15080,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 219116,
       "name": "Redeemed - Live",
       "url": "https://open.spotify.com/track/0b0itI0G0JoDRHjPBOn67i"
@@ -15838,6 +15856,24 @@
       "duration_ms": 280640,
       "name": "Scatter",
       "url": "https://open.spotify.com/track/02rivs8ZeJxg3c0PwjxTSo"
+    },
+    {
+      "album": {
+        "name": "Seen Too Much",
+        "url": "https://open.spotify.com/album/3saA0ZzlK0yF9VlFnMWxgS"
+      },
+      "artists": [
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356538,
+      "name": "Seen Too Much",
+      "url": "https://open.spotify.com/track/0duSLQ22dQxwLAVY1IQwQU"
     },
     {
       "album": {
@@ -19469,6 +19505,28 @@
     },
     {
       "album": {
+        "name": "To You",
+        "url": "https://open.spotify.com/album/1bzajEjhpNpvxqcFZVzbzD"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321083,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/7FNgOiBfotP5tjfu7kf9KD"
+    },
+    {
+      "album": {
         "name": "This Is How I Thank The Lord",
         "url": "https://open.spotify.com/album/4nqe5ontu7BXz6C7mD5Ami"
       },
@@ -20308,6 +20366,28 @@
       "duration_ms": 251032,
       "name": "What a friend",
       "url": "https://open.spotify.com/track/0w6iogAZgWyfVcC4MpG4zs"
+    },
+    {
+      "album": {
+        "name": "What A God",
+        "url": "https://open.spotify.com/album/6pD1fqZb2FRZmpgbOmtgen"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378197,
+      "name": "What A God",
+      "url": "https://open.spotify.com/track/4eTLdVkDPeJRwvS5T5YrVd"
     },
     {
       "album": {

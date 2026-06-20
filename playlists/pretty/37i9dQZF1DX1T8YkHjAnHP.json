@@ -1,18 +1,18 @@
 {
   "description": "<a href=\"spotify:artist:5bKdC6382t97Qnpvs81Rqx\">Bedouin</a>'s favorite tracks. Updated regularly. Curated by Bedouin. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 36872,
+  "num_followers": 36887,
   "original_name": "Bedouin's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGE5QJZ3YLCJv0OUbnDlYRKS6Pxu",
+  "snapshot_id": "AAAAAOdkL3c3PetCORZyZuOBdOqBk7ZP",
   "tracks": [
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
-        "name": "Salaam",
-        "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/1xj0AHYzc0hxmAKHW1vuHS"
       },
       "artists": [
         {
@@ -20,40 +20,44 @@
           "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
         },
         {
-          "name": "Hiya",
-          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        },
+        {
+          "name": "Karl Williams",
+          "url": "https://open.spotify.com/artist/6F7RlpNDeVEeiwt5EaA6fE"
         }
       ],
-      "duration_ms": 286829,
-      "name": "Salaam",
-      "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
+      "duration_ms": 308852,
+      "name": "The Only One - Radio Edit",
+      "url": "https://open.spotify.com/track/3eEdbkAYt1mYKDoHYzc4Ig"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
-        "name": "Reason (Robin M Remix)",
-        "url": "https://open.spotify.com/album/2E9WJc7DeUS4WhJkjgckjq"
+        "name": "Desert Rose (Reimagined)",
+        "url": "https://open.spotify.com/album/6xKAtFQb75Q5eK3dwgVBy5"
       },
       "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
         {
           "name": "Bedouin",
           "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
         },
         {
-          "name": "Marieme",
-          "url": "https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD"
-        },
-        {
-          "name": "Robin M",
-          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+          "name": "Cheb Mami",
+          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
         }
       ],
-      "duration_ms": 441639,
-      "name": "Reason - Robin M Remix",
-      "url": "https://open.spotify.com/track/16fLzkx8HRmuGGuhUWrKdj"
+      "duration_ms": 288780,
+      "name": "Desert Rose - Bedouin Remix",
+      "url": "https://open.spotify.com/track/6Q0QOjg0whW68Mn2byferG"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Raiva",
         "url": "https://open.spotify.com/album/5aBIXhTdPVUCQeM6BnTQEi"
@@ -73,7 +77,7 @@
       "url": "https://open.spotify.com/track/7xdmcGcPLwqHnSCbeXfhGj"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Baby Run",
         "url": "https://open.spotify.com/album/7FFjxOPlJ3RZe5omgkKTpc"
@@ -89,7 +93,7 @@
       "url": "https://open.spotify.com/track/44COSTXHkxPVGfeyA038Qq"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "New Days (Nandu Remix)",
         "url": "https://open.spotify.com/album/7hm8fbWg9CZeTWUR5cY8mk"
@@ -109,7 +113,31 @@
       "url": "https://open.spotify.com/track/5KLEjoz2twSrJn8kvEhzdh"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
+      "album": {
+        "name": "Guestlist",
+        "url": "https://open.spotify.com/album/2GmaPhrgoXhGezm2DWkEEW"
+      },
+      "artists": [
+        {
+          "name": "Nhii",
+          "url": "https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X"
+        },
+        {
+          "name": "HARJI",
+          "url": "https://open.spotify.com/artist/18R0lz0DARyexnEAaWaYds"
+        },
+        {
+          "name": "Vice Luna",
+          "url": "https://open.spotify.com/artist/7e2aYfYHifqx1n38b2DK2n"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "Guestlist - Radio Edit",
+      "url": "https://open.spotify.com/track/22iO0X0ABjUOqIQJT69YA6"
+    },
+    {
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Watch Them Come 2025 Remixes",
         "url": "https://open.spotify.com/album/6KHacFTwOfDaBOGjs7o34S"
@@ -137,7 +165,7 @@
       "url": "https://open.spotify.com/track/0a3e7fUnkMyaXzkoR2KZ7t"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "If U Ever",
         "url": "https://open.spotify.com/album/7v7Q1dMyvoTaGicpiEx7HR"
@@ -161,7 +189,7 @@
       "url": "https://open.spotify.com/track/2t7OYbIy8VAKophB8wJpN3"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Yebo Remixes",
         "url": "https://open.spotify.com/album/3piK4pBs87a64sbTp8MSwL"
@@ -189,7 +217,27 @@
       "url": "https://open.spotify.com/track/6OA653bfajZdjti4lXBJeX"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
+      "album": {
+        "name": "Salaam",
+        "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Hiya",
+          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
+        }
+      ],
+      "duration_ms": 286829,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
+    },
+    {
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Oneki EP",
         "url": "https://open.spotify.com/album/2NJLs79ld2AsY0WFZtnxfh"
@@ -209,7 +257,7 @@
       "url": "https://open.spotify.com/track/17k7c6jur7nhdriGdQ7nd5"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Belsunce",
         "url": "https://open.spotify.com/album/2Sh13etuFp1PwZAMBIBURe"
@@ -233,7 +281,27 @@
       "url": "https://open.spotify.com/track/6M5tZ0lljzQEMhlb025DYx"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
+      "album": {
+        "name": "Siamese Twin (Edit)",
+        "url": "https://open.spotify.com/album/3ZAuRKYAEmAbXGAMoRb0Jw"
+      },
+      "artists": [
+        {
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        },
+        {
+          "name": "Robin Michelangelo",
+          "url": "https://open.spotify.com/artist/5RUemJ6qQNY6Asyla2ZvbR"
+        }
+      ],
+      "duration_ms": 196190,
+      "name": "Siamese Twin - Edit",
+      "url": "https://open.spotify.com/track/61I9VKPyLkCloMIh7oyH3b"
+    },
+    {
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "FFM",
         "url": "https://open.spotify.com/album/5y4XajsaCPAp3EhBMk0CHQ"
@@ -253,7 +321,7 @@
       "url": "https://open.spotify.com/track/4JizQmbv8ieZshqoVOJPAZ"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Haunted Nights EP",
         "url": "https://open.spotify.com/album/4TwzNEPDxK2UhdYGUBqCbc"
@@ -269,23 +337,35 @@
       "url": "https://open.spotify.com/track/2aWT2xExUohnos6YChlPZT"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
-        "name": "Gypsy Soul EP",
-        "url": "https://open.spotify.com/album/0KLGdArJz3w0tsDNejQmh8"
+        "name": "into flames (Santiago Garcia Remix)",
+        "url": "https://open.spotify.com/album/4ZjHdEPwSuyZzl5phNnadP"
       },
       "artists": [
         {
-          "name": "The Soul Brothers",
-          "url": "https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn"
+          "name": "MXGPU",
+          "url": "https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko"
+        },
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        },
+        {
+          "name": "GPU Panic",
+          "url": "https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3"
+        },
+        {
+          "name": "Santiago Garcia",
+          "url": "https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS"
         }
       ],
-      "duration_ms": 405546,
-      "name": "Viento Del Arena",
-      "url": "https://open.spotify.com/track/4CRUtZIWqlPP8rchT0XeiJ"
+      "duration_ms": 256520,
+      "name": "into flames - Santiago Garcia Remix",
+      "url": "https://open.spotify.com/track/44kskXGWnv7pLQP9WfrFjr"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Oneki EP",
         "url": "https://open.spotify.com/album/2NJLs79ld2AsY0WFZtnxfh"
@@ -305,14 +385,30 @@
       "url": "https://open.spotify.com/track/6BDI41DRDs56DDjGtHOjA4"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
+      "album": {
+        "name": "No Rules EP",
+        "url": "https://open.spotify.com/album/1S28FFZL59GgcUChSBfZBl"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 221103,
+      "name": "Troublemakers",
+      "url": "https://open.spotify.com/track/1Re64v11j6NhuJG9LAEiGR"
+    },
+    {
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/6VcvfOH50yuKWVaeluq2SJ"
       },
       "artists": [
         {
-          "name": "Ajna (BE)",
+          "name": "Ajna",
           "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
         }
       ],
@@ -321,7 +417,7 @@
       "url": "https://open.spotify.com/track/6LBNRWUS3dKeZxREy3WHTL"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "The Trap",
         "url": "https://open.spotify.com/album/6PcP3P4KKajhKMrDshFsDR"
@@ -341,7 +437,23 @@
       "url": "https://open.spotify.com/track/33GOBfoF5QQFgWLhNoj7Km"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
+      "album": {
+        "name": "Fall Again",
+        "url": "https://open.spotify.com/album/4OpCOWe7LAtZuD391I6ok5"
+      },
+      "artists": [
+        {
+          "name": "Shahin Shantiaei",
+          "url": "https://open.spotify.com/artist/2uMU6guzncNxQIWf2ROaHL"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Fall Again - Radio Edit",
+      "url": "https://open.spotify.com/track/7G0UqUYxuZIRABb28BX0rj"
+    },
+    {
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
@@ -357,27 +469,7 @@
       "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
-      "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/38jheapqHZYrpPaceQP0qH"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        },
-        {
-          "name": "Marieme",
-          "url": "https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD"
-        }
-      ],
-      "duration_ms": 263606,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/4mK3M3Xf9hUpsKtJsw4IJx"
-    },
-    {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Running (Nandu Remix)",
         "url": "https://open.spotify.com/album/5D5p0OWi04J91ykQ12QUh0"
@@ -401,7 +493,23 @@
       "url": "https://open.spotify.com/track/7JOIGGoQUWqP7YmJvDbklj"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
+      "album": {
+        "name": "UH HUH",
+        "url": "https://open.spotify.com/album/4aPPJwiVbH0knXTH2yxOAP"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 421463,
+      "name": "Shepard's Tone",
+      "url": "https://open.spotify.com/track/2PfHWYV43Tq5M2PDw2qb0Z"
+    },
+    {
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Those Nights",
         "url": "https://open.spotify.com/album/1ePtsdsC6fcqCb9mmxrLuo"
@@ -417,7 +525,7 @@
       "url": "https://open.spotify.com/track/49RCvoTkANUWGfkz2ANApW"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Trippy Yeah",
         "url": "https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3"
@@ -437,7 +545,7 @@
       "url": "https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Better Than This (Dorian Craft & Baron Remix)",
         "url": "https://open.spotify.com/album/34ghDY0AwF0mhsxobYNGej"
@@ -461,47 +569,7 @@
       "url": "https://open.spotify.com/track/3zdf3SM4MLuEirljbZdYMV"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
-      "album": {
-        "name": "TERRITORY",
-        "url": "https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 276373,
-      "name": "TERRITORY",
-      "url": "https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim"
-    },
-    {
-      "added_at": "2026-02-09 09:09:49",
-      "album": {
-        "name": "AGAMA EP",
-        "url": "https://open.spotify.com/album/1IUBNXx3tdMccDddGPH2pm"
-      },
-      "artists": [
-        {
-          "name": "OSFUR",
-          "url": "https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO"
-        },
-        {
-          "name": "The Scripture",
-          "url": "https://open.spotify.com/artist/7nGeoIGnJVQTHcDIAqCStR"
-        },
-        {
-          "name": "UVITA",
-          "url": "https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B"
-        }
-      ],
-      "duration_ms": 252295,
-      "name": "AGAMA",
-      "url": "https://open.spotify.com/track/6fcze2Re7NG53tNsEF3WXi"
-    },
-    {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Move (Maz Remix)",
         "url": "https://open.spotify.com/album/0VkcmSvleL95VJm6J7Kg7W"
@@ -512,7 +580,7 @@
           "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
         },
         {
-          "name": "Ajna (BE)",
+          "name": "Ajna",
           "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
         },
         {
@@ -525,7 +593,27 @@
       "url": "https://open.spotify.com/track/75D35hR59pQjCh5NAfAiIZ"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/38jheapqHZYrpPaceQP0qH"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Marieme",
+          "url": "https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD"
+        }
+      ],
+      "duration_ms": 263606,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/4mK3M3Xf9hUpsKtJsw4IJx"
+    },
+    {
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Chanekeh",
         "url": "https://open.spotify.com/album/3Qd66Qsux22xSxeQYYAGvA"
@@ -545,7 +633,39 @@
       "url": "https://open.spotify.com/track/7I6KfP0PhVefcCQElEMgki"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
+      "album": {
+        "name": "Gypsy Soul EP",
+        "url": "https://open.spotify.com/album/0KLGdArJz3w0tsDNejQmh8"
+      },
+      "artists": [
+        {
+          "name": "The Soul Brothers",
+          "url": "https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn"
+        }
+      ],
+      "duration_ms": 405546,
+      "name": "Viento Del Arena",
+      "url": "https://open.spotify.com/track/4CRUtZIWqlPP8rchT0XeiJ"
+    },
+    {
+      "added_at": "2026-06-19 14:00:23",
+      "album": {
+        "name": "ROULETTE ROULOTTE",
+        "url": "https://open.spotify.com/album/2jmF23pH65cghVYNj9DNWA"
+      },
+      "artists": [
+        {
+          "name": "Malandra Jr.",
+          "url": "https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ"
+        }
+      ],
+      "duration_ms": 280345,
+      "name": "Roulette Roulotte",
+      "url": "https://open.spotify.com/track/26j0Cvg8tJnIsz7uwdxVDP"
+    },
+    {
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Skogen",
         "url": "https://open.spotify.com/album/1io9HEqbF6pvjJBkE3sOl8"
@@ -565,7 +685,7 @@
       "url": "https://open.spotify.com/track/3aTNVxSQEN83WqKYQNPLt5"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "No Way Out",
         "url": "https://open.spotify.com/album/42UGCuosGzHkMVsk2SbUHb"
@@ -589,10 +709,10 @@
       "url": "https://open.spotify.com/track/7Cl5ITyEbFN7f2Y3YzfGTY"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
-        "name": "Heavy On My Mind feat. SKYE",
-        "url": "https://open.spotify.com/album/1MrykMJXH1JnBTDEFsYFgk"
+        "name": "Reason (Robin M Remix)",
+        "url": "https://open.spotify.com/album/2E9WJc7DeUS4WhJkjgckjq"
       },
       "artists": [
         {
@@ -600,20 +720,40 @@
           "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
         },
         {
-          "name": "Robin M",
-          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+          "name": "Marieme",
+          "url": "https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD"
         },
         {
-          "name": "Skye",
-          "url": "https://open.spotify.com/artist/5e8LRy323xeJh0sGtifjGn"
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
         }
       ],
-      "duration_ms": 177049,
-      "name": "Heavy On My Mind feat. SKYE - Radio Edit",
-      "url": "https://open.spotify.com/track/45C7A63DA4PMshgKYtCHxB"
+      "duration_ms": 441639,
+      "name": "Reason - Robin M Remix",
+      "url": "https://open.spotify.com/track/16fLzkx8HRmuGGuhUWrKdj"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/3MznWOMINFIhV5BZCBOdRw"
+      },
+      "artists": [
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        },
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6Cnj9gUbIrhkMAsKKv4qkg"
+    },
+    {
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Gypsy Soul EP",
         "url": "https://open.spotify.com/album/0KLGdArJz3w0tsDNejQmh8"
@@ -629,7 +769,7 @@
       "url": "https://open.spotify.com/track/14BhbaVzG0qbCpGRjdkq1c"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "The Era Remixes Part II",
         "url": "https://open.spotify.com/album/0qBOC27GfGPr8IviXRA0Ft"
@@ -649,7 +789,7 @@
       "url": "https://open.spotify.com/track/6xtG7qz93GVLCpt8EkjPxi"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Ninetoes presents... Good Company Vol. 1",
         "url": "https://open.spotify.com/album/2IVDx1KRpK0aHz5EDPM8gn"
@@ -665,7 +805,7 @@
       "url": "https://open.spotify.com/track/5WSJBjFrfb8xyKzab7sJxV"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Makes Me (Prok & Fitch Remix)",
         "url": "https://open.spotify.com/album/3Kz3g1Dfef5IiWsGnsftPC"
@@ -689,7 +829,7 @@
       "url": "https://open.spotify.com/track/3VeYokgHZ1Ov7KhzHZKSXD"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "1001 Nuits (Extended Mix)",
         "url": "https://open.spotify.com/album/71DuLGOJwXTcvUzgndjClw"
@@ -705,7 +845,7 @@
       "url": "https://open.spotify.com/track/74JKZeV9CIFMFu7xKtasi4"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Percolate EP",
         "url": "https://open.spotify.com/album/41bVMtPT7HXUndIw0XOWcg"
@@ -721,7 +861,7 @@
       "url": "https://open.spotify.com/track/1BAiA7X57jccQQesa0rN6C"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Act A Fool",
         "url": "https://open.spotify.com/album/3QSHm2WmJOo183q1MHOtnm"
@@ -741,7 +881,7 @@
       "url": "https://open.spotify.com/track/3eMoprmyQvZJ2ID5DeDZjj"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "FE!N (CHASE B REMIX)",
         "url": "https://open.spotify.com/album/3PgQ3tZpZH8gZm9PEmSlJA"
@@ -761,23 +901,7 @@
       "url": "https://open.spotify.com/track/6sFriHsWdq31GcaHdgFHoY"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
-      "album": {
-        "name": "ROULETTE ROULOTTE",
-        "url": "https://open.spotify.com/album/2jmF23pH65cghVYNj9DNWA"
-      },
-      "artists": [
-        {
-          "name": "Malandra Jr.",
-          "url": "https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ"
-        }
-      ],
-      "duration_ms": 388609,
-      "name": "After En Cali",
-      "url": "https://open.spotify.com/track/3wqlO3v1swLDl7epNTcThh"
-    },
-    {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Swim / Surrounded",
         "url": "https://open.spotify.com/album/2dTHKAcKGZIvkrA17lwSMB"
@@ -793,7 +917,7 @@
       "url": "https://open.spotify.com/track/1cBmC6LH5SAcNo4fEUH0sZ"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Talking Drums",
         "url": "https://open.spotify.com/album/1bpfcPv8xiKI0ybxfjcjj6"
@@ -809,7 +933,23 @@
       "url": "https://open.spotify.com/track/0wouQLscZ2XeNjX5DRVGbd"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
+      "album": {
+        "name": "I Feel You",
+        "url": "https://open.spotify.com/album/7JuXgjwCqFppliLQtlc7bX"
+      },
+      "artists": [
+        {
+          "name": "Upercent",
+          "url": "https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq"
+        }
+      ],
+      "duration_ms": 149119,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/6FU6H2CLIDatPNldNJ5Wud"
+    },
+    {
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "To My Babe",
         "url": "https://open.spotify.com/album/1mA2LxdCBdFJDOW8ueBOGE"
@@ -825,7 +965,7 @@
       "url": "https://open.spotify.com/track/290u1M7LEt6mQuxMglicMm"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Nuraan",
         "url": "https://open.spotify.com/album/3bZYIgahZjPP58TUDJYc7d"
@@ -845,27 +985,7 @@
       "url": "https://open.spotify.com/track/0ZIdK9xgN6vEXj27fzj8V8"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
-      "album": {
-        "name": "Started Something (feat. Miluhska)",
-        "url": "https://open.spotify.com/album/7K03XMpc5cqeDxVrFAfbLW"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        },
-        {
-          "name": "Miluhska",
-          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
-        }
-      ],
-      "duration_ms": 277073,
-      "name": "Started Something (feat. Miluhska)",
-      "url": "https://open.spotify.com/track/3gMGk0F8kn8SvAXSUDpYaO"
-    },
-    {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "The Choice",
         "url": "https://open.spotify.com/album/5bgg0m0Uwk8UnQxPWcaw4G"
@@ -885,7 +1005,7 @@
       "url": "https://open.spotify.com/track/2lLfenVuY0BJOLdSlGW6gG"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "The Branches (Deluxe Edition)",
         "url": "https://open.spotify.com/album/77V22lLOZ16UB9kz00H7zk"
@@ -905,7 +1025,7 @@
       "url": "https://open.spotify.com/track/1yAT5evaeT6AjnqjwVYSNN"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Children Of 95",
         "url": "https://open.spotify.com/album/0lPtLvaconuzEsRPFEnRKv"
@@ -921,7 +1041,7 @@
       "url": "https://open.spotify.com/track/2nmQ5ipEeHc9BYWqlczZ6O"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Percolate EP",
         "url": "https://open.spotify.com/album/41bVMtPT7HXUndIw0XOWcg"
@@ -937,7 +1057,7 @@
       "url": "https://open.spotify.com/track/2gIfl7K6JEnmgDGGTnPrHu"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "And I Say",
         "url": "https://open.spotify.com/album/6dzOiRwyXFW3MY5KwtYtFM"
@@ -953,7 +1073,7 @@
       "url": "https://open.spotify.com/track/5D85I0RECvyhRzd6Sk6O7l"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Esigia",
         "url": "https://open.spotify.com/album/0IrDKXhiG95PvzCfdXAonr"
@@ -977,7 +1097,7 @@
       "url": "https://open.spotify.com/track/1VymxJQJujV9fLYFZ1LNMR"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Shunyata",
         "url": "https://open.spotify.com/album/57gS7PYt6uU8OcWoYoPxKS"
@@ -993,7 +1113,7 @@
       "url": "https://open.spotify.com/track/3V0yVhMTZx3Pp2cV635U4T"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": ">1 Greater Than One (Remixes)",
         "url": "https://open.spotify.com/album/23Bi7txf9rnCV2GDm7yUZJ"
@@ -1013,7 +1133,7 @@
       "url": "https://open.spotify.com/track/52pLNF6KQ2RHvcsr2KIxIH"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Groove On",
         "url": "https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ"
@@ -1033,27 +1153,7 @@
       "url": "https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
-      "album": {
-        "name": "Dear Miami (Bedouin Remix)",
-        "url": "https://open.spotify.com/album/1mzwZuiUFLxqiGlv7IUywF"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 218553,
-      "name": "Dear Miami - Bedouin Remix",
-      "url": "https://open.spotify.com/track/7kfnbvdDrAvYaxPmOFeP5Y"
-    },
-    {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Titatite",
         "url": "https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ"
@@ -1069,7 +1169,7 @@
       "url": "https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Amana",
         "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
@@ -1089,7 +1189,7 @@
       "url": "https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Como El Agua",
         "url": "https://open.spotify.com/album/0e46vldKERFC0fS2Z4XLF6"
@@ -1109,23 +1209,7 @@
       "url": "https://open.spotify.com/track/1JHNil2Fef8rXU7oI3T6wv"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
-      "album": {
-        "name": "ROULETTE ROULOTTE",
-        "url": "https://open.spotify.com/album/2jmF23pH65cghVYNj9DNWA"
-      },
-      "artists": [
-        {
-          "name": "Malandra Jr.",
-          "url": "https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ"
-        }
-      ],
-      "duration_ms": 280345,
-      "name": "Roulette Roulotte",
-      "url": "https://open.spotify.com/track/26j0Cvg8tJnIsz7uwdxVDP"
-    },
-    {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Prado's Revenge",
         "url": "https://open.spotify.com/album/68EKPZ8GkRbJGFvKShroUd"
@@ -1149,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3tgu7vhxt0otqML0dGjCJU"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/5mqqz5386qPLLSgy0oJ7s1"
@@ -1169,43 +1253,7 @@
       "url": "https://open.spotify.com/track/7CZXOu726ZAycwgseVNO87"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
-      "album": {
-        "name": "Miriam's Praise",
-        "url": "https://open.spotify.com/album/3k8GojGBkgYNRTjJLFKC8p"
-      },
-      "artists": [
-        {
-          "name": "Robin M",
-          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
-        },
-        {
-          "name": "Robin Michelangelo",
-          "url": "https://open.spotify.com/artist/5RUemJ6qQNY6Asyla2ZvbR"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Miriam",
-      "url": "https://open.spotify.com/track/0m36mV53k634jIwoe8J4r4"
-    },
-    {
-      "added_at": "2026-02-09 09:09:49",
-      "album": {
-        "name": "No More Faith",
-        "url": "https://open.spotify.com/album/7pMefx5SJ9AlRNIgE5WCoK"
-      },
-      "artists": [
-        {
-          "name": "Coll\u00e9",
-          "url": "https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI"
-        }
-      ],
-      "duration_ms": 377913,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/28Z9yaU1yx2zgSATAC6R5Y"
-    },
-    {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Do My Thing (Ryan Elliott Remix)",
         "url": "https://open.spotify.com/album/5dsGW5uqjl1VmldYTXDz3o"
@@ -1225,7 +1273,7 @@
       "url": "https://open.spotify.com/track/0XXHjrRYFjKWBhSZBXEpVb"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Battle Of Pampero (Edit)",
         "url": "https://open.spotify.com/album/7cEaOvaXNsWkeTl5n2RTpj"
@@ -1245,7 +1293,7 @@
       "url": "https://open.spotify.com/track/6kT1CvtGJM9NHwS9vYvYJh"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV"
@@ -1265,7 +1313,7 @@
       "url": "https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Remember Me (Franky Rizardo Remix)",
         "url": "https://open.spotify.com/album/7Iee6IcRwerVNTOb8u9MqW"
@@ -1285,23 +1333,7 @@
       "url": "https://open.spotify.com/track/6ahUlke5XTcNsBeafd2Fih"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
-      "album": {
-        "name": "Whistleman EP",
-        "url": "https://open.spotify.com/album/2flltU7kFakfNh6soN2NCa"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 479920,
-      "name": "Whistleman",
-      "url": "https://open.spotify.com/track/2qSxBkq8YXiCLBnjgfAXWn"
-    },
-    {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Yallah (Musique de F\u00ebte, Vol. 5)",
         "url": "https://open.spotify.com/album/5Qo09Piln9TMlbpTuFdKPg"
@@ -1321,7 +1353,7 @@
       "url": "https://open.spotify.com/track/1mU4XBWXnzHWcpX6LsdSYM"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "What The F",
         "url": "https://open.spotify.com/album/6r03kjrICqrRxKkgnh4knW"
@@ -1337,23 +1369,23 @@
       "url": "https://open.spotify.com/track/3aCSgsFpGhy4Ne91Wl1AWa"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
-        "name": "Into The Wind",
-        "url": "https://open.spotify.com/album/1VYyRdAItSU06egvlhRPaJ"
+        "name": "ROULETTE ROULOTTE",
+        "url": "https://open.spotify.com/album/2jmF23pH65cghVYNj9DNWA"
       },
       "artists": [
         {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+          "name": "Malandra Jr.",
+          "url": "https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ"
         }
       ],
-      "duration_ms": 234146,
-      "name": "Better Than This",
-      "url": "https://open.spotify.com/track/12W6ykZdXtGPmNfgJzJmEP"
+      "duration_ms": 388609,
+      "name": "After En Cali",
+      "url": "https://open.spotify.com/track/3wqlO3v1swLDl7epNTcThh"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Make 'Em",
         "url": "https://open.spotify.com/album/4gVGkPopRK4yKzpxUP0raW"
@@ -1369,7 +1401,7 @@
       "url": "https://open.spotify.com/track/7Kr9bRfUQ7XP5RU26uTrCU"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "Voila / Fame",
         "url": "https://open.spotify.com/album/41FOKZVLSRIfkJRFzEKlH1"
@@ -1389,7 +1421,7 @@
       "url": "https://open.spotify.com/track/5NWD8eVs4jGoe38DRxNXnS"
     },
     {
-      "added_at": "2026-02-09 09:09:49",
+      "added_at": "2026-06-19 14:00:23",
       "album": {
         "name": "VFM EP",
         "url": "https://open.spotify.com/album/4Y8P8vElRxzSDJzpuiuou7"

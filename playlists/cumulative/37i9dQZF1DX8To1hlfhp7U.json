@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 142857,
       "name": "Jatt Na Kahi",
       "url": "https://open.spotify.com/track/1K8A4wyYf7XZCbQMHxS1iO"
@@ -2538,6 +2538,32 @@
       "duration_ms": 178604,
       "name": "Proper Patola",
       "url": "https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT"
+    },
+    {
+      "album": {
+        "name": "Majhaestic",
+        "url": "https://open.spotify.com/album/0Rfydlvsbf9JRARoPfaj3v"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        },
+        {
+          "name": "Jenny Johal",
+          "url": "https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226046,
+      "name": "Putt Jam Te Lau",
+      "url": "https://open.spotify.com/track/5Cri5X3u4On71cGDGeNNiD"
     },
     {
       "album": {

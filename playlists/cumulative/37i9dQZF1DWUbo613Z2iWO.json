@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: DAMEDAME*",
+  "description": "R&B of the moment by the artists of the future. Cover: Dylan Sinclair",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -2207,6 +2207,28 @@
     },
     {
       "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Aura (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI"
+    },
+    {
+      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/1Nv8jZuC0lWUQPRvASlg1s"
       },
@@ -2804,6 +2826,24 @@
       "duration_ms": 218698,
       "name": "Bad M'fkr",
       "url": "https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5"
+    },
+    {
+      "album": {
+        "name": "SOULSTAR DELUXE",
+        "url": "https://open.spotify.com/album/0CN5V9O6Ldnu5OIDfMndUB"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203458,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/5l0FelDpLcRGzvpYhT9eCH"
     },
     {
       "album": {
@@ -11876,7 +11916,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 245100,
       "name": "Gas Station Love - remix",
       "url": "https://open.spotify.com/track/43uvpEvaYB3jxp6TqIwzON"
@@ -14030,7 +14070,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 173743,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/4E6p9AY52g3h1A4eGD2YmF"
@@ -14276,7 +14316,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 199533,
       "name": "Holding Back",
       "url": "https://open.spotify.com/track/2VUqrHj4z85HUBMQVdjqmj"
@@ -17436,7 +17476,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 130235,
       "name": "Laugh Later, Cry Now",
       "url": "https://open.spotify.com/track/4i7sF4JEHhRzzBbokH1kIS"
@@ -17850,6 +17890,24 @@
       "duration_ms": 353242,
       "name": "Leveled",
       "url": "https://open.spotify.com/track/5sgC12av64mTU25aZSL64J"
+    },
+    {
+      "album": {
+        "name": "FOR MIA",
+        "url": "https://open.spotify.com/album/3BUVBlmEdSCcGbScFDdy6t"
+      },
+      "artists": [
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/46ybPDszzb4l79tSMWZZAY"
     },
     {
       "album": {
@@ -19128,6 +19186,24 @@
       "duration_ms": 233320,
       "name": "LUber",
       "url": "https://open.spotify.com/track/08xEJQb6PB0vxxEpdlhT0o"
+    },
+    {
+      "album": {
+        "name": "Luh Mo' Love",
+        "url": "https://open.spotify.com/album/07YxYfJhhvXyhXHUPOLthY"
+      },
+      "artists": [
+        {
+          "name": "EJ Jones",
+          "url": "https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220462,
+      "name": "Luh Mo' Love",
+      "url": "https://open.spotify.com/track/22fjiuuHawoPEnh9f0zL68"
     },
     {
       "album": {
@@ -23120,7 +23196,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 195063,
       "name": "Outside",
       "url": "https://open.spotify.com/track/1JTXX2PRBauOOKWiR1sOkU"
@@ -28092,7 +28168,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 212133,
       "name": "somewhere in the world",
       "url": "https://open.spotify.com/track/3HnnRFYdAqC6lRQZx07fxu"
@@ -28258,7 +28334,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 196631,
       "name": "So\u2026",
       "url": "https://open.spotify.com/track/1W31Osw7XybJ4YcS3NCOZ5"
@@ -28424,6 +28500,28 @@
       "duration_ms": 129666,
       "name": "Spoon & Bang",
       "url": "https://open.spotify.com/track/2RkvnSmAzC49zlXmzKfisn"
+    },
+    {
+      "album": {
+        "name": "Make You Feel",
+        "url": "https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Spray (with JVCK JAMES)",
+      "url": "https://open.spotify.com/track/2mGxhluEmuB06abqZBzVUK"
     },
     {
       "album": {
@@ -32553,6 +32651,28 @@
     },
     {
       "album": {
+        "name": "SOULAR (Deluxe)",
+        "url": "https://open.spotify.com/album/72m9kSdJefQyIOqeU7DVFz"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155603,
+      "name": "Vanilla Skies",
+      "url": "https://open.spotify.com/track/6PPEgkKFHX2nvAr9eqICGV"
+    },
+    {
+      "album": {
         "name": "Vibrate (feat. Pink Sweat$)",
         "url": "https://open.spotify.com/album/5lf1nBM3xVI6tqsRoTUqlw"
       },
@@ -32644,7 +32764,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 202564,
       "name": "w.t.a.",
       "url": "https://open.spotify.com/track/0E0A9dqRSYlXufh90ZMrxH"
@@ -34078,6 +34198,42 @@
       "duration_ms": 197508,
       "name": "Wish You Wouldn't",
       "url": "https://open.spotify.com/track/4C9QPaM63xlVh4u6cqW1V6"
+    },
+    {
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/5yVOyzUQcQFGsXkn8IsSI6"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232320,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/5yE7OnSteFeItR1YlmV9WI"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/1U22hjL3og5gV4xC2x7mQz"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210214,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5yN8X3TofBg9IhN0jlb1XI"
     },
     {
       "album": {

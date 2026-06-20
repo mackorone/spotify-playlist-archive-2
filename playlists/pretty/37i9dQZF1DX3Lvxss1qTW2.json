@@ -1,12 +1,12 @@
 {
   "description": "The future hits of today. Up Next: Khaid",
-  "num_followers": 114535,
+  "num_followers": 114593,
   "original_name": "NXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHfrya80HITjN1wtMLFnTsTHe5zo",
+  "snapshot_id": "AAAAADU2UmvyyPEN8ShWKt4srKg+gik5",
   "tracks": [
     {
       "added_at": "2026-06-19 00:02:00",
@@ -243,6 +243,22 @@
       "duration_ms": 199384,
       "name": "SpaceFuji",
       "url": "https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l"
+    },
+    {
+      "added_at": "2026-06-19 14:38:53",
+      "album": {
+        "name": "Red Benz",
+        "url": "https://open.spotify.com/album/4vqzeWLjVBjADTJT7wzERb"
+      },
+      "artists": [
+        {
+          "name": "EKENE",
+          "url": "https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP"
+        }
+      ],
+      "duration_ms": 186503,
+      "name": "Red Benz",
+      "url": "https://open.spotify.com/track/4p1OLcAB4oDmhboqikTuHG"
     },
     {
       "added_at": "2026-06-19 00:02:00",

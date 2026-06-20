@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover - Asal Kolaar",
+  "description": "India's Rap Scene. Cover - Navaan Sandhu & Dhanda Nyoliwala",
   "name": "RAP 91",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 165724,
       "name": "420 Miles",
       "url": "https://open.spotify.com/track/3Oil8CtimxkHDiLX7o1mlx"
@@ -2813,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "From Bihar",
+        "url": "https://open.spotify.com/album/0ZTBkqLiapsXqyVwRtuze5"
+      },
+      "artists": [
+        {
+          "name": "Arinar Black",
+          "url": "https://open.spotify.com/artist/7yx3gerc8n9twrvZ0YNmUm"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "From Bihar",
+      "url": "https://open.spotify.com/track/07ktr8d2HevKXeibUUQMuA"
+    },
+    {
+      "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
       },
@@ -4142,6 +4160,36 @@
       "duration_ms": 195000,
       "name": "Karuppu Car - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/7tYuCHklj9cSjkI2l5i0R1"
+    },
+    {
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        },
+        {
+          "name": "Sanya Dandona",
+          "url": "https://open.spotify.com/artist/5Y88j1QhlpI0iUp0uMrXip"
+        },
+        {
+          "name": "RXTRO",
+          "url": "https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Kath Lagda",
+      "url": "https://open.spotify.com/track/3zoM4v1qTX94ZqfPYRReJh"
     },
     {
       "album": {
@@ -7400,7 +7448,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 206454,
       "name": "Sigma Style (From \"Sigma\") (Tamil)",
       "url": "https://open.spotify.com/track/6Tzzr0w0qEUIYMXZctQLwr"

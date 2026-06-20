@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Penyair en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Tino el Ping\u00fcino en portada. ",
   "name": "Rap Champa\u00f1a",
   "tracks": [
     {
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 133636,
       "name": "Alzypher Vol. 23",
       "url": "https://open.spotify.com/track/6LmQGM2qED3EL6ib52XpBH"
@@ -1537,6 +1537,32 @@
     },
     {
       "album": {
+        "name": "Atari",
+        "url": "https://open.spotify.com/album/05srs2qxHI71SaP0xtIy1C"
+      },
+      "artists": [
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        },
+        {
+          "name": "MZCLBR",
+          "url": "https://open.spotify.com/artist/5xxbFcLZDjyuvb8QLPsR4t"
+        },
+        {
+          "name": "Drama Theme",
+          "url": "https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134973,
+      "name": "Atari",
+      "url": "https://open.spotify.com/track/3d5QtjYLLorGzrBBkVl3ct"
+    },
+    {
+      "album": {
         "name": "ATBLM",
         "url": "https://open.spotify.com/album/7GqXSd7cxRcsfQV6S2cHUM"
       },
@@ -1548,7 +1574,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 212922,
       "name": "ATBLM",
       "url": "https://open.spotify.com/track/0kV5JDOPeI6rFXiGAWAYev"
@@ -2490,6 +2516,40 @@
       "duration_ms": 297969,
       "name": "Cachondos Session #1 (feat. Sebastian Esquivel, Eugenio Esquivel, Tiagz & Los Esquivel)",
       "url": "https://open.spotify.com/track/5vNRuXbnqV6ISkNxvHEfbM"
+    },
+    {
+      "album": {
+        "name": "Cachondos Session #2 (feat. Luno)",
+        "url": "https://open.spotify.com/album/6HMfYPQjee8pRmvYNub45s"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        },
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        },
+        {
+          "name": "Angel Almaguer",
+          "url": "https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr"
+        },
+        {
+          "name": "Luno",
+          "url": "https://open.spotify.com/artist/6V36JyoMUbA6lNLNMjA3Bz"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Cachondos Session #2 (feat. Luno)",
+      "url": "https://open.spotify.com/track/00bczQ7lV2hAwQxdrxWAkL"
     },
     {
       "album": {
@@ -4976,6 +5036,28 @@
       "duration_ms": 210261,
       "name": "En los Brazos de Morfeo",
       "url": "https://open.spotify.com/track/4OJ7fRdpcFMKW3sxaCZ22h"
+    },
+    {
+      "album": {
+        "name": "Camisa de Fuerza",
+        "url": "https://open.spotify.com/album/2MKNpzPSc7jJF2ZmcxhqNc"
+      },
+      "artists": [
+        {
+          "name": "Kase.O",
+          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
+        },
+        {
+          "name": "Harto Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/7q9zy1VD126XTDrWcnEqBQ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260306,
+      "name": "Encantamiento",
+      "url": "https://open.spotify.com/track/5ryq2kLF7FQNJFMlc0dKxk"
     },
     {
       "album": {
@@ -11425,6 +11507,32 @@
     },
     {
       "album": {
+        "name": "Por Si No Ha Quedado Claro",
+        "url": "https://open.spotify.com/album/3bywFMnE8WMUuvWFghDuah"
+      },
+      "artists": [
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188389,
+      "name": "Por Si No Ha Quedado Claro",
+      "url": "https://open.spotify.com/track/1bhKMBXdZCjKuEVy4VbGE9"
+    },
+    {
+      "album": {
         "name": "Porque La Demora",
         "url": "https://open.spotify.com/album/1jmda3z2yVf18leBFpEEDQ"
       },
@@ -11924,7 +12032,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 121143,
       "name": "Quien dijo que no se puede",
       "url": "https://open.spotify.com/track/4RhSst0ZdmFz4fCp26BZ7f"
@@ -12166,7 +12274,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 135903,
       "name": "RAPSINCORTE 57",
       "url": "https://open.spotify.com/track/5NGyqTq5fqeOUx8leNDSfn"
@@ -12266,6 +12374,32 @@
       "duration_ms": 216008,
       "name": "Recuerden",
       "url": "https://open.spotify.com/track/4bnUnhYQNux2wg8sULSBWZ"
+    },
+    {
+      "album": {
+        "name": "Red Bull Espiral #05",
+        "url": "https://open.spotify.com/album/5jjqKKckcNzqs8u8fCVKVB"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208622,
+      "name": "Red Bull Espiral #05",
+      "url": "https://open.spotify.com/track/1nuVImTjVoRk7BBg7p2neV"
     },
     {
       "album": {
@@ -13898,7 +14032,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 182168,
       "name": "Te Acostumbraste",
       "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"

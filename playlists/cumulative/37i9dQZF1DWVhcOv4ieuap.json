@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 183652,
       "name": "50mm",
       "url": "https://open.spotify.com/track/3x41wi60bGPm3Zf8VWbuMF"
@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Bahamas",
+        "url": "https://open.spotify.com/album/71yJsqI8xwHFTKUTT7d2oN"
+      },
+      "artists": [
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150410,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/1MMSPU104BcRlh6Yc7AGW4"
+    },
+    {
+      "album": {
         "name": "Baila Baila",
         "url": "https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI"
       },
@@ -914,6 +932,24 @@
       "duration_ms": 142960,
       "name": "BESITOS DULCES",
       "url": "https://open.spotify.com/track/44xqs8Z1S0YSkJSDZ59KMM"
+    },
+    {
+      "album": {
+        "name": "Beso a Beso",
+        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137969,
+      "name": "Beso a Beso",
+      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
     },
     {
       "album": {
@@ -1490,7 +1526,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 187119,
       "name": "Carteras Chinas",
       "url": "https://open.spotify.com/track/40V77QgNlrEn4V03E13zxh"
@@ -3565,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "HAPPY \ud83e\udebd",
+        "url": "https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136007,
+      "name": "HAPPY \ud83e\udebd",
+      "url": "https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt"
+    },
+    {
+      "album": {
         "name": "Hasta el Sol de Hoy",
         "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
       },
@@ -5116,7 +5170,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 150052,
       "name": "Luna Llena",
       "url": "https://open.spotify.com/track/0w37XvWazgBzY1bD0Pi0yz"
@@ -5214,7 +5268,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 154992,
       "name": "MALIBU",
       "url": "https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M"
@@ -9070,7 +9124,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 152711,
       "name": "Tuyo y Nada M\u00e1s",
       "url": "https://open.spotify.com/track/1sNQKWNNmxY0gaAuKK8RlM"
@@ -9334,6 +9388,24 @@
       "duration_ms": 212090,
       "name": "Una Foto en Blanco y Negro",
       "url": "https://open.spotify.com/track/4BNqM0h2wukiQkAUKZjurV"
+    },
+    {
+      "album": {
+        "name": "UNA NA MAS",
+        "url": "https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196256,
+      "name": "UNA NA MAS",
+      "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"
     },
     {
       "album": {
@@ -9880,6 +9952,32 @@
       "duration_ms": 177369,
       "name": "Ya No Soy As\u00ed",
       "url": "https://open.spotify.com/track/5ldzmvKCSAT0BEeplaZYcS"
+    },
+    {
+      "album": {
+        "name": "YAPAQUE",
+        "url": "https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237120,
+      "name": "YAPAQUE",
+      "url": "https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y"
     },
     {
       "album": {

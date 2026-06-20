@@ -4,7 +4,7 @@
 
 > 
 
-563 songs - 1 day 12 hr 41 min
+564 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Lost](https://open.spotify.com/track/75TM9FIrdiW2OoXsafpOAN) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Timeless](https://open.spotify.com/album/3H1BJZNArXbopWiMJ6512M) | 2:53 | 2022-05-09 |  |
 | [Lost in Her Virtual Eyes](https://open.spotify.com/track/6jZngUHXXzFGnK8mtMEaRV) | [Cynthoni](https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6), [Projekt Melody](https://open.spotify.com/artist/68FnSiPe0TzZLtTFfDKwFo) | [Lost in Her Virtual Eyes](https://open.spotify.com/album/3YgEDVLBPl7dH9yAinVavK) | 4:21 | 2025-10-15 |  |
 | [Lost In Her Virtual Eyes \- Lo\-Fi Version](https://open.spotify.com/track/1yrvY9TArRxb4D3Cjapu5r) | [Cynthoni](https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6), [Projekt Melody](https://open.spotify.com/artist/68FnSiPe0TzZLtTFfDKwFo) | [\[lo\-fi beats to do bad things to\]](https://open.spotify.com/album/6XDzNr9PkH3arTCAKw6pnI) | 4:41 | 2025-10-15 |  |
+| [Lost In Space](https://open.spotify.com/track/6r9GzPEdq4bGp507oxt2iZ) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 4:19 | 2026-06-20 |  |
 | [Lost Woods](https://open.spotify.com/track/78j8TTEo6VJ7VeeDItgvaJ) | [Helynt](https://open.spotify.com/artist/6wM3tYsLm3LMfEKIkl5SmY), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Legend of Synthwave](https://open.spotify.com/album/4TeZZfbu3rbifAjwiAAEq8) | 2:38 | 2020-05-08 |  |
 | [Love on the Comedown](https://open.spotify.com/track/16b3BqYPz4JSXrzkMMt72C) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Kawkab](https://open.spotify.com/album/1QanrS9FWN6yDgOwIf1Pmw) | 2:54 | 2022-05-09 |  |
 | [Love Taste](https://open.spotify.com/track/0XVoD3TmJVEYdRzZoe0Ewy) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [Love Taste](https://open.spotify.com/album/0r9YlVLiJf93hXHxCiJKCt) | 2:56 | 2020-03-11 |  |

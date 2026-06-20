@@ -8197,6 +8197,24 @@
     },
     {
       "album": {
+        "name": "Eine Wolke, die sich vor die Sonne schiebt",
+        "url": "https://open.spotify.com/album/5VYpZwbtDV8lFazEL49DeG"
+      },
+      "artists": [
+        {
+          "name": "bella bazz",
+          "url": "https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147756,
+      "name": "Eine Wolke, die sich vor die Sonne schiebt",
+      "url": "https://open.spotify.com/track/2hqJEsX7PNKKk9P1Z5uMj5"
+    },
+    {
+      "album": {
         "name": "Einfach sein",
         "url": "https://open.spotify.com/album/0309n4dzi1kqWpZwXEabae"
       },
@@ -21265,6 +21283,24 @@
     },
     {
       "album": {
+        "name": "Neue Hoffnung, oder wie man sie nicht verliert",
+        "url": "https://open.spotify.com/album/2MUn2mfBtCLrCVHfetvFIO"
+      },
+      "artists": [
+        {
+          "name": "diggidaniel",
+          "url": "https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129140,
+      "name": "NEUE HOFFNUNG",
+      "url": "https://open.spotify.com/track/5xvyu9K4RFRVg7PVjqlzwN"
+    },
+    {
+      "album": {
         "name": "neue Notiz",
         "url": "https://open.spotify.com/album/6QCo9CnoOWoSkmGOxiuPxX"
       },
@@ -29080,42 +29116,6 @@
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
-    },
-    {
-      "album": {
-        "name": "Eine Wolke, die sich vor die Sonne schiebt",
-        "url": "https://open.spotify.com/album/5VYpZwbtDV8lFazEL49DeG"
-      },
-      "artists": [
-        {
-          "name": "bella bazz",
-          "url": "https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi"
-        }
-      ],
-      "date_added": "2026-06-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2hqJEsX7PNKKk9P1Z5uMj5"
-    },
-    {
-      "album": {
-        "name": "Neue Hoffnung, oder wie man sie nicht verliert",
-        "url": "https://open.spotify.com/album/2MUn2mfBtCLrCVHfetvFIO"
-      },
-      "artists": [
-        {
-          "name": "diggidaniel",
-          "url": "https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw"
-        }
-      ],
-      "date_added": "2026-06-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/5xvyu9K4RFRVg7PVjqlzwN"
     },
     {
       "album": {

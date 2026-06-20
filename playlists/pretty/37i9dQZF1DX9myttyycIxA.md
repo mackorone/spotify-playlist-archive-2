@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Wishy
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,848 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,842 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [dust to dust](https://open.spotify.com/track/4R8sxtsSWWGm0DZw6CHtCt) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Rivers of Sugar and Blood](https://open.spotify.com/album/13erMRMbkhT3hUvDB4VZXy) | 3:51 |
 | 100 | [Anywhere Else](https://open.spotify.com/track/0fL6S8ciI1B7klHk7oTIFf) | [Alice Costelloe](https://open.spotify.com/artist/1xbZZl0gYutFPyiUAXuJLy) | [Anywhere Else](https://open.spotify.com/album/2zX9wmpRJ0GeVktkE8T1Sg) | 4:45 |
 
-Snapshot ID: `AAAAAL8lhrdGYn3rd2cMGTMHd2oL0KGm`
+Snapshot ID: `AAAAAPUuz6KSehgXdlXUjcVys7h0UOjq`

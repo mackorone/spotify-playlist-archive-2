@@ -215495,6 +215495,28 @@
     },
     {
       "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244669,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
+    },
+    {
+      "album": {
         "name": "Heaven On My Mind (with Sigala)",
         "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
       },
@@ -557898,6 +557920,10 @@
         {
           "name": "Leonardo Ringo",
           "url": "https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL"
+        },
+        {
+          "name": "Miyane Soemitro",
+          "url": "https://open.spotify.com/artist/3RLBh8sYkQLAFDoAcpcN6t"
         }
       ],
       "date_added": "2026-06-18",

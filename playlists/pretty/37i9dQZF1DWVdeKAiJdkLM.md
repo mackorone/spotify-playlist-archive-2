@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdeKAiJdkLM.md) - [plain]
 
 > Curated by The Virgo Queen \- Y2K Black Girl Magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 221 likes - 36 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 227 likes - 37 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [So Into You](https://open.spotify.com/track/3wnittJZDFl1CvwiIh8XZH) | [The Virgo Queen](https://open.spotify.com/artist/7xUlGu35ihHhZtrzfBkEsv) | [So Into You](https://open.spotify.com/album/3N8ruQPTPw5mjDUbmr8jns) | 3:24 |
+| 1 | [Internet Friends](https://open.spotify.com/track/4zjGCNOQyRQINNKQyacBWm) | [The Virgo Queen](https://open.spotify.com/artist/7xUlGu35ihHhZtrzfBkEsv) | [Internet Friends](https://open.spotify.com/album/1NfBadyJgnrNo6z84UGhpr) | 3:04 |
 | 2 | [Doesn't Really Matter](https://open.spotify.com/track/0ekdT3jOhn3LinWtqHhmsw) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 4:25 |
 | 3 | [Beautiful U R](https://open.spotify.com/track/1WtNom0PCEZWOLj77z9eg0) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [The Promise](https://open.spotify.com/album/03jEIpwDBf80jqCrwyPrhv) | 4:10 |
 | 4 | [Freak](https://open.spotify.com/track/5aWsPUwaFAqbEup7uRDFDb) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 1](https://open.spotify.com/album/74g1LYnZ2qy397WEQ6VRyf) | 2:16 |
@@ -44,5 +44,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdeKAiJdkLM.md) - [plain]
 | 34 | [Dip It Low](https://open.spotify.com/track/4L55p6txv9vuCWhpNnY6eY) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Dip It Low](https://open.spotify.com/album/3iJxV52syDyKSOoS6aC3cE) | 3:21 |
 | 35 | [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 |
 | 36 | [Get Up \(feat\. Chamillionaire\)](https://open.spotify.com/track/3rKCDtV8UcF0RytSiXxypc) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chamillionaire](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:21 |
+| 37 | [So Into You](https://open.spotify.com/track/3wnittJZDFl1CvwiIh8XZH) | [The Virgo Queen](https://open.spotify.com/artist/7xUlGu35ihHhZtrzfBkEsv) | [So Into You](https://open.spotify.com/album/3N8ruQPTPw5mjDUbmr8jns) | 3:24 |
 
-Snapshot ID: `AAAAAOfBI4cZbtxEZ3LfAWg24JmfngOm`
+Snapshot ID: `AAAAAHOdlM/q5LC1L85hoWskn7/m1Uxm`

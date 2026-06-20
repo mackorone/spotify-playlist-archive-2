@@ -1,6 +1,6 @@
 {
   "description": "Uutta musaa tarjoilevat Jami Faltin, Samuell, Ina... ja moni muu  \ud83c\udfb6",
-  "num_followers": 107487,
+  "num_followers": 107541,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -342,10 +342,14 @@
         {
           "name": "Aarne Tenkanen",
           "url": "https://open.spotify.com/artist/6f28ZHhjysrqFL5GTLIpWX"
+        },
+        {
+          "name": "Lauri Salon Makuukariorkesteri",
+          "url": "https://open.spotify.com/artist/5inDNqCpmTjsqetZ4cWxkf"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 190250,
+      "name": "Tuomas on mieskarkki",
       "url": "https://open.spotify.com/track/2T0S7Cbpk0SU1JF4UbTaYO"
     },
     {
@@ -775,6 +779,26 @@
       "duration_ms": 157133,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/6zkDRufwDX4ro5tncbXvL1"
+    },
+    {
+      "added_at": "2026-06-18 21:00:42",
+      "album": {
+        "name": "THE GENTLEMEN'S CLUB",
+        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "ON THE LOW feat tyler, the creator",
+      "url": "https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1"
     },
     {
       "added_at": "2026-06-18 21:00:42",
@@ -1567,6 +1591,22 @@
       "duration_ms": 211331,
       "name": "Beautiful Noise In My Head",
       "url": "https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6"
+    },
+    {
+      "added_at": "2026-06-18 21:00:42",
+      "album": {
+        "name": "Z PACK",
+        "url": "https://open.spotify.com/album/04PYomnUSHoYnFzCr72s0U"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 199638,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/0t5AdTL1owRXKepWcvPp1a"
     }
   ],
   "unique_name": "New Music Friday Suomi",

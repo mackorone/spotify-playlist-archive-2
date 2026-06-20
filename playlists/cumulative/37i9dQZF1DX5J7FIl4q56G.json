@@ -57441,6 +57441,24 @@
     },
     {
       "album": {
+        "name": "Parasite Dream",
+        "url": "https://open.spotify.com/album/4Nq9TrgLJUpIOBhi6ZUbbX"
+      },
+      "artists": [
+        {
+          "name": "Prompts",
+          "url": "https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253894,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/1yceuVJSJ9M082CzRdlBJN"
+    },
+    {
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/2EJuQbL1o3m2KPGHO4CfOd"
       },
@@ -174952,7 +174970,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 216492,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1X4Jidr8dWPJQWMCaZUtwS"

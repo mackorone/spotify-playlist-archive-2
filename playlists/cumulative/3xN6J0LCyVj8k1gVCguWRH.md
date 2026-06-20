@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,160 songs - 14 day 8 hr 20 min
+6,163 songs - 14 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1772,6 +1772,7 @@
 | [Feel Alive](https://open.spotify.com/track/1Q0feVmWcYN7uFZWUiIKJU) | [Suzanne Cook](https://open.spotify.com/artist/0xX14SeRpb0XGSyCPpBwSA) | [Feel Alive](https://open.spotify.com/album/6J2nFyh8wGV3Y89n1dQ4aW) | 4:29 | 2021-05-08 | 2021-06-03 |
 | [Feel Alright](https://open.spotify.com/track/503wBuHZS6Y0NeMU5x5ORS) | [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Feel Alright](https://open.spotify.com/album/1nSygjYUhxXUFHPL81Crz5) | 2:22 | 2021-09-04 | 2022-02-06 |
 | [Feel Better](https://open.spotify.com/track/3CoMzJXWIRLfjZkgwSW6UE) | [Jonathan Shapiro](https://open.spotify.com/artist/3U38aUkSRa6JgTdDOrUawZ), [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [Feel Better](https://open.spotify.com/album/7cBIhRfgxvKHY22RHYax9T) | 2:09 | 2022-04-29 | 2022-05-15 |
+| [Feel Everything](https://open.spotify.com/track/3Dsuq8vJG0wWxPgu0eIt4m) | [Diego Fragnaud](https://open.spotify.com/artist/3xmCcjDOVSSJNOHRCMSXET) | [Feel Everything](https://open.spotify.com/album/6VWwhf4OhgObX7NLpbV1iI) | 3:16 | 2026-06-19 |  |
 | [Feel Infinity](https://open.spotify.com/track/21TArjiFP7xKOCGVMKlShP) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodeje](https://open.spotify.com/artist/66tEYHooGXFu7LqoGFWJ54) | [Feel Infinity](https://open.spotify.com/album/3iDcLGZK4E8EX4AL0iTfqw) | 3:15 | 2020-04-12 | 2020-04-25 |
 | [Feel It](https://open.spotify.com/track/5UREB05Tkdf6Chs788Ivyc) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [SUNSHINE](https://open.spotify.com/album/0BTuqFbI1tn9Nrh03g8prs) | 3:04 | 2024-10-11 | 2024-11-04 |
 | [Feel it](https://open.spotify.com/track/18xQTce1gMkCnj2j59Zuvd) | [Sladek](https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57) | [Feel It](https://open.spotify.com/album/3ByY2aAABrEwPf61Ex7zT0) | 3:15 | 2024-09-19 | 2024-10-01 |
@@ -2312,6 +2313,7 @@
 | [HER \(Feat\. Sonny Zero\)](https://open.spotify.com/track/7FxWATwVZTCoI27cHecoh6) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [HER](https://open.spotify.com/album/10rKqG1BP7wUSzT8VupqqF) | 3:26 | 2022-03-17 | 2022-04-06 |
 | [Her Groove](https://open.spotify.com/track/6ax6gl2sldunonkpswlnGT) | [Azeez Sanusi](https://open.spotify.com/artist/3u8xZzq1bVqVXhzQM6NbRi) | [The Renegade and Preacher Man](https://open.spotify.com/album/4MncIPCAaWR4yciqE4QZqy) | 3:25 | 2024-02-19 | 2024-02-27 |
 | [Her Pov](https://open.spotify.com/track/1gnJZBwOuoxRdnNE9easKx) | [Elikem Gh](https://open.spotify.com/artist/5F68EWKf2XrEyTCve1LHEp) | [Her Pov](https://open.spotify.com/album/4XKyqwzGUl9jdk0pYPr1UI) | 3:57 | 2026-03-12 | 2026-03-24 |
+| [Her Strawberry Wine](https://open.spotify.com/track/2rJayXEG1UfUw3v9f8BBA0) | [Suteos Studios](https://open.spotify.com/artist/3pkij6Fzj4IpUMfEfHcdnW) | [Feel The Vibe](https://open.spotify.com/album/5Jrw26W5ehjdIalQ3dfnWL) | 3:24 | 2026-06-19 |  |
 | [Here](https://open.spotify.com/track/1ol3jyBHKivNGfv3Yoiw5B) | [Grace Kay](https://open.spotify.com/artist/5XUKBYaVDPMDlKVTS3hSlT) | [Here](https://open.spotify.com/album/4iKgNZBmlBDDi8hXfJq9Q5) | 3:50 | 2021-11-13 | 2021-12-05 |
 | [Here](https://open.spotify.com/track/0u30fnLtlD0lSWKdPd8P7T) | [SILKIN](https://open.spotify.com/artist/0BHnU3S7yoIJvmMzi4IxMt) | [Here](https://open.spotify.com/album/4heIQ4yNXoV8eqA3VADW7p) | 2:20 | 2020-03-28 | 2020-04-07 |
 | [Here Again](https://open.spotify.com/track/5rrKfEnerPJCb6F14iYgoj) | [Arthur Walsh](https://open.spotify.com/artist/5IgbE2AXwFrKeVa1T2wwCk), [Leah Nawy](https://open.spotify.com/artist/6CZGNe7USySKA5vVUXfcaP) | [Here Again](https://open.spotify.com/album/37ZWHnpIJGBelDvUdYGE7c) | 3:59 | 2024-12-10 | 2024-12-25 |
@@ -2367,6 +2369,7 @@
 | [Hold on to Me](https://open.spotify.com/track/7HfDcoZpW64alWikM7SWby) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Hold on to Me](https://open.spotify.com/album/4hNDyFz5uInKoR5FHpGyM3) | 3:40 | 2023-01-20 | 2023-02-11 |
 | [Hold Tight](https://open.spotify.com/track/4q7Vak7esNrzPQeDGT42qE) | [Bronx Soul Collective](https://open.spotify.com/artist/780eu4RGJcEvncrGnujoiW) | [Hold Tight](https://open.spotify.com/album/0YeN1Ug8pkXggdCg0ITvsD) | 3:16 | 2024-10-14 | 2024-10-26 |
 | [Hold You](https://open.spotify.com/track/0X5obnBCTtXdhJgTwuJ1L5) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Hold You](https://open.spotify.com/album/7spbRt9SqbU9ixAhhTGMyW) | 3:05 | 2025-11-17 | 2025-12-19 |
+| [Hold Your Hand](https://open.spotify.com/track/4o6KYfWpdb3Sgm1YCGL0HV) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Hold Your Hand](https://open.spotify.com/album/6rTMg67z65cJh1Q2WSz5ku) | 3:09 | 2026-06-19 |  |
 | [Hold Your Lights Up](https://open.spotify.com/track/2BaoHGdwp5JVfqD9se6Un8) | [Kugman](https://open.spotify.com/artist/1KznfqgZOIhm5NpIC3IbzK) | [In My Way](https://open.spotify.com/album/4P7Xx3jrgtmrfsBU5ZFNFZ) | 4:24 | 2020-12-04 | 2020-12-19 |
 | [Holding Back the Years \- 2008 Remaster](https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Picture Book \(Expanded Version\)](https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT) | 4:29 | 2021-07-11 | 2024-04-21 |
 | [Holiday](https://open.spotify.com/track/0aF6uG5TmGKHdw3npNzoYm) | [Arianna Tsar](https://open.spotify.com/artist/62cSPuCVcFqdRrMMyguEC0) | [Holiday](https://open.spotify.com/album/0YhuSxNLbuesVoHZ4mgLQk) | 4:06 | 2023-12-01 | 2023-12-19 |

@@ -117,6 +117,32 @@
     },
     {
       "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/5kKfH4ksnLxzQAujQAhNrT"
+      },
+      "artists": [
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98083,
+      "name": "Alone Theme (From \"Naruto\")",
+      "url": "https://open.spotify.com/track/40BZkx12MfB7QKtjryXKGN"
+    },
+    {
+      "album": {
         "name": "The Boy and the Heron - Original Soundtrack",
         "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
       },
@@ -840,6 +866,32 @@
       "duration_ms": 189800,
       "name": "One Summer Day",
       "url": "https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu"
+    },
+    {
+      "album": {
+        "name": "A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki",
+        "url": "https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244560,
+      "name": "One Summer's Day (The Name of Life) - English Version / from 'Spirited Away'",
+      "url": "https://open.spotify.com/track/4gzcl0yqLPlXWvytu7O8Gp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,353 likes - 155 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,633 likes - 155 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 154 | [Evergreen](https://open.spotify.com/track/2DKwQj6MPbpiRmTs1lNIIy) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Evergreen](https://open.spotify.com/album/1YXkgOCGmnN9j2pKKtDeis) | 2:39 |
 | 155 | [Quiet Nature](https://open.spotify.com/track/4c2tyVmIzbyqCVJ0P1cbbx) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Quiet Nature](https://open.spotify.com/album/64z4d3dj2JBuXHsds54L1r) | 2:26 |
 
-Snapshot ID: `AAAAADZQQoWqS7UpNRmbsHiRbMEjEtVq`
+Snapshot ID: `AAAAAGluzkwirtUmzmgQGBr7NYHfU0LS`

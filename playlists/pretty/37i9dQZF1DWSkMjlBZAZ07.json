@@ -1,6 +1,6 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1876010,
+  "num_followers": 1875928,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Nathaniel Rateliff & The Night Sweats",
-        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "I Need Never Get Old",
-      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Good Things Happen",
         "url": "https://open.spotify.com/album/2O3NBUzy7RTLuxMAOwI7VE"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 163381,
       "name": "Good Things Happen",
       "url": "https://open.spotify.com/track/3mvz61tOzslkOYL0Z0HyqM"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Nathaniel Rateliff & The Night Sweats",
+        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "I Need Never Get Old",
+      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
         "name": "Walking Through The Water",
         "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
       },
@@ -535,18 +551,18 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
         }
       ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -567,18 +583,18 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+        "name": "Bugs",
+        "url": "https://open.spotify.com/album/6nZDSyd1KsYmff2yAJxJ3i"
       },
       "artists": [
         {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
         }
       ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+      "duration_ms": 134130,
+      "name": "Bugs",
+      "url": "https://open.spotify.com/track/2Fs3BXtegC7uLQy7ElpETE"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -615,18 +631,18 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Bugs",
-        "url": "https://open.spotify.com/album/6nZDSyd1KsYmff2yAJxJ3i"
+        "name": "Grow Up",
+        "url": "https://open.spotify.com/album/2Pr2RQKoF6y9HI2ytleeM3"
       },
       "artists": [
         {
-          "name": "Jesse Welles",
-          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+          "name": "Late Night Thoughts",
+          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
         }
       ],
-      "duration_ms": 134130,
-      "name": "Bugs",
-      "url": "https://open.spotify.com/track/2Fs3BXtegC7uLQy7ElpETE"
+      "duration_ms": 228064,
+      "name": "Grow Up",
+      "url": "https://open.spotify.com/track/3Qt3A2x143Eo3PeZb0rRfH"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -643,22 +659,6 @@
       "duration_ms": 210381,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
-        "name": "Grow Up",
-        "url": "https://open.spotify.com/album/2Pr2RQKoF6y9HI2ytleeM3"
-      },
-      "artists": [
-        {
-          "name": "Late Night Thoughts",
-          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
-        }
-      ],
-      "duration_ms": 228064,
-      "name": "Grow Up",
-      "url": "https://open.spotify.com/track/3Qt3A2x143Eo3PeZb0rRfH"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Plant A Forest",
-        "url": "https://open.spotify.com/album/0oKKTJTn0TniaTXT3Dj79z"
-      },
-      "artists": [
-        {
-          "name": "Chance Emerson",
-          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
-        }
-      ],
-      "duration_ms": 164898,
-      "name": "Plant A Forest",
-      "url": "https://open.spotify.com/track/3PY4QVfv2hTd5hvikGd8vB"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Hearts Town",
         "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "honey!",
-        "url": "https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE"
+        "name": "Plant A Forest",
+        "url": "https://open.spotify.com/album/0oKKTJTn0TniaTXT3Dj79z"
       },
       "artists": [
         {
-          "name": "Mike Duhaime",
-          "url": "https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq"
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
         }
       ],
-      "duration_ms": 234000,
-      "name": "honey!",
-      "url": "https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo"
+      "duration_ms": 164898,
+      "name": "Plant A Forest",
+      "url": "https://open.spotify.com/track/3PY4QVfv2hTd5hvikGd8vB"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1011,6 +995,22 @@
       "duration_ms": 252301,
       "name": "People Need A Melody",
       "url": "https://open.spotify.com/track/7vVtCG0LmChEV6NaIwALOh"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "honey!",
+        "url": "https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE"
+      },
+      "artists": [
+        {
+          "name": "Mike Duhaime",
+          "url": "https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "honey!",
+      "url": "https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "if you got a problem",
-      "url": "https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Strangers No More",
         "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "if you got a problem",
+      "url": "https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
         "name": "Saratoga",
         "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 230533,
       "name": "Saratoga",
       "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1155,22 +1171,6 @@
       "duration_ms": 185603,
       "name": "Both Can Be True",
       "url": "https://open.spotify.com/track/0kAe9PKCDne4YyRrK7qUj7"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
-      },
-      "artists": [
-        {
-          "name": "Calder Allen",
-          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
-        }
-      ],
-      "duration_ms": 298720,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Hold On For Dear Life",
         "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Love Love Love",
-        "url": "https://open.spotify.com/album/09kk6sdd81BYJY5YFzV2uJ"
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
       },
       "artists": [
         {
-          "name": "Avalanche City",
-          "url": "https://open.spotify.com/artist/1PX8bguYn6ba8NaBOJuu8A"
+          "name": "Calder Allen",
+          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
         }
       ],
-      "duration_ms": 192826,
-      "name": "Love Love Love",
-      "url": "https://open.spotify.com/track/3e5Ee5GrNzSnCt2laIDm3S"
+      "duration_ms": 298720,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1415,6 +1399,22 @@
       "duration_ms": 205600,
       "name": "Better Angels",
       "url": "https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Love Love Love",
+        "url": "https://open.spotify.com/album/09kk6sdd81BYJY5YFzV2uJ"
+      },
+      "artists": [
+        {
+          "name": "Avalanche City",
+          "url": "https://open.spotify.com/artist/1PX8bguYn6ba8NaBOJuu8A"
+        }
+      ],
+      "duration_ms": 192826,
+      "name": "Love Love Love",
+      "url": "https://open.spotify.com/track/3e5Ee5GrNzSnCt2laIDm3S"
     },
     {
       "added_at": "2026-06-05 20:48:48",

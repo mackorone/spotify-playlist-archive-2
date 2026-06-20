@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Ivan Greko
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,904 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,919 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 14 | [MATIA](https://open.spotify.com/track/6VpyXpen3OkhaNPjkMQhg3) | [SARIGIAN](https://open.spotify.com/artist/71Fi48sWYjiSsjvLGRZzCB), [GLS](https://open.spotify.com/artist/25om2GMeTAyCA6qyw40ncG) | [MATIA](https://open.spotify.com/album/4Sq2Y2BuOdQPDgQEdytaB0) | 2:54 |
 | 15 | [Kantada](https://open.spotify.com/track/4LSgjA6nzvd4u5bCgyIBN4) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Ixogenia](https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v) | 2:14 |
 | 16 | [YING YANG](https://open.spotify.com/track/06yhYC3DfAAlnNc1jYj9td) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [VRD](https://open.spotify.com/album/0rKLeeNlCA1fjZiqQS8f6y) | 2:35 |
-| 17 | [Ti Thelo Ego Me Sena](https://open.spotify.com/track/7gLT8aVOkQkXQk2yTkZzhF) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Ti Thelo Ego Me Sena](https://open.spotify.com/album/6huYtEFzy9x6gSEvMwdi4A) | 2:55 |
+| 17 | [Ti Thelo Ego Me Sena](https://open.spotify.com/track/7gLT8aVOkQkXQk2yTkZzhF) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd), [Eleana Vrachali](https://open.spotify.com/artist/0L7vGwIsynB86DhC2QQmzn) | [Ti Thelo Ego Me Sena](https://open.spotify.com/album/6huYtEFzy9x6gSEvMwdi4A) | 2:55 |
 | 18 | [KSANA](https://open.spotify.com/track/6NmGemgtgnXl8dzdZ5irAq) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [VRD](https://open.spotify.com/album/0rKLeeNlCA1fjZiqQS8f6y) | 3:31 |
 | 19 | [Thimizeis Kati Apo Ellada](https://open.spotify.com/track/6A9SlQ6TcZC0YeQurcjFXg) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Thimizeis Kati Apo Ellada](https://open.spotify.com/album/0XE3PFWYxFVowo50Sm5S03) | 3:14 |
 | 20 | [AMAZING \- Remix](https://open.spotify.com/track/2lv40gMcnHgMTYnyBX1mL9) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [AMAZING \(Remix\)](https://open.spotify.com/album/5n9BmLtebD4J2uuKlgTKrj) | 2:38 |

@@ -4,7 +4,7 @@
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Kevin Atwater
 
-585 songs - 1 day 7 hr 19 min
+588 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [FREAK / PINTEREST](https://open.spotify.com/track/0p4WCgPfEomL1pEe9HXzCG) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [FREAK / PINTEREST](https://open.spotify.com/album/19viYoCAW1LfmGXyba3jPm) | 3:31 | 2024-06-17 | 2024-08-10 |
 | [Freak It](https://open.spotify.com/track/1e8DRAVSxGDPd9hgxcppP2) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Freak It](https://open.spotify.com/album/58eyKa5DMA7R8NeuBeJciy) | 3:05 | 2025-08-01 | 2026-01-15 |
 | [FREAKEE](https://open.spotify.com/track/6JDNT4jCx90o5lh2HxpOP5) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [FREAKEE](https://open.spotify.com/album/62yHlLrHrCpFhXy4zoUmVR) | 2:40 | 2025-05-30 | 2025-11-01 |
+| [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 | 2026-06-19 |  |
 | [From This Moment On](https://open.spotify.com/track/0p6U7RhYhkbWXR0Rcyg65A) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [TJ Osborne](https://open.spotify.com/artist/6QiL03acy4FWqgWiS2sLhw) | [Smothered, Covered & Fried](https://open.spotify.com/album/1tPvOhlM7iBAQblo7CqfKl) | 3:53 | 2024-06-09 | 2025-08-09 |
 | [Fuetazo \(feat\. Villano Antillano\)](https://open.spotify.com/track/3MeQpnrMl1fjVun29DK45k) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Fuetazo \(feat\. Villano Antillano\)](https://open.spotify.com/album/14GJrju93uE5fZCslmD2UR) | 2:23 | 2024-02-02 | 2025-05-31 |
 | [Funny People](https://open.spotify.com/track/4rB1P6Rfdf3QEhMxDk0Tfx) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Knuckle Breaker Maxxx](https://open.spotify.com/album/5KrARfNHWfiWx6QQu11XFD) | 3:01 | 2026-01-16 | 2026-04-18 |
@@ -277,6 +278,7 @@
 | [In Emerald](https://open.spotify.com/track/39Rzcw7zHgC4asCKPRVjDx) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Chandler](https://open.spotify.com/album/6n4MUgNl5I0ZndmMO3AaZV) | 3:30 | 2024-05-31 | 2025-08-09 |
 | [In My Head](https://open.spotify.com/track/5tl74SObVmHU6cumH2Ym0a) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [The Celestials!](https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9) | [In My Head](https://open.spotify.com/album/1YN8TfYPgp7K0x8TCVo7yy) | 3:32 | 2024-02-02 | 2025-05-31 |
 | [in plain sight](https://open.spotify.com/track/5XNT7Opf0sMyfoqUEdsd1y) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/3e9xFKdGt0oS5O4fMubFT5) | 2:25 | 2025-10-31 | 2026-02-14 |
+| [Internet Friends](https://open.spotify.com/track/4zjGCNOQyRQINNKQyacBWm) | [The Virgo Queen](https://open.spotify.com/artist/7xUlGu35ihHhZtrzfBkEsv) | [Internet Friends](https://open.spotify.com/album/1NfBadyJgnrNo6z84UGhpr) | 3:04 | 2026-06-19 |  |
 | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84) | 3:02 | 2023-12-15 | 2024-07-13 |
 | [Is It Fun Or Is It Over?](https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Is It Fun Or Is It Over?](https://open.spotify.com/album/54N4dAkractT6mUBC0a48b) | 2:40 | 2026-03-20 | 2026-05-02 |
 | [Is This Really Happening?](https://open.spotify.com/track/1ivFENev90vl7KkhV4ZuoV) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG) | [Is This Really Happening?](https://open.spotify.com/album/3mzlLP2CBMZGX3sYYbSwQW) | 4:21 | 2026-02-10 | 2026-04-18 |
@@ -537,6 +539,7 @@
 | [Time After Time](https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Time After Time](https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x) | 3:39 | 2025-08-01 | 2026-01-15 |
 | [Time Is Up](https://open.spotify.com/track/1F9t0oeQnfbcTGD2QroYkA) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Time Is Up](https://open.spotify.com/album/1cyz7jBODxQqDjcqdEBGdu) | 2:11 | 2026-05-08 |  |
 | [tiny purse, tiny top](https://open.spotify.com/track/1AhoAuvhcydhLy8i7uLPBq) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW), [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [tiny purse, tiny top](https://open.spotify.com/album/6LBpAMjNSc8tm740hopJsx) | 2:06 | 2024-09-06 | 2025-09-27 |
+| [tiptoeing](https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [tiptoeing](https://open.spotify.com/album/4Mkhq0sACoEJoema2n6Zys) | 2:34 | 2026-06-19 |  |
 | [tomboy cowgirl](https://open.spotify.com/track/2tkT247UVqrc1tEloKImiY) | [BELLSAINT](https://open.spotify.com/artist/1ASbcqMhp2Xsx8xQ2NQK0p) | [i used to be funny.](https://open.spotify.com/album/7da2islBlr2IUA2dJeLyg9) | 3:39 | 2023-12-15 | 2024-04-06 |
 | [Too Close](https://open.spotify.com/track/4rQf9YtcgjzLzndj1EUcAm) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Memblem](https://open.spotify.com/artist/4oXVlZhnXyku2WkQjziDVI) | [Too Close](https://open.spotify.com/album/1549qienGQFQHzFQcvhl9H) | 1:54 | 2025-10-31 | 2026-01-15 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-04 |

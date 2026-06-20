@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,347 songs - 2 day 10 hr 2 min
+1,348 songs - 2 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Baby I'm Yours](https://open.spotify.com/track/0qTbFobPCgr6ctfkTSKbG8) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Baby I'm Yours](https://open.spotify.com/album/4bOqI0iL6sedYgQlm1hHXz) | 2:37 | 2024-04-21 | 2024-05-21 |
 | [Baby It's Summer](https://open.spotify.com/track/44X38Z5svzeNZ2lYaIAT0v) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Baby It's Summer](https://open.spotify.com/album/22T8gPzYB2g3EH0V8qHRQm) | 2:43 | 2024-07-30 | 2024-12-02 |
 | [back to friends](https://open.spotify.com/track/0OyBlGcqesDjFsJZF96Myu) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT) | [back to friends](https://open.spotify.com/album/58E4vTcilqcUj8O0hoiq5t) | 2:06 | 2026-05-24 |  |
+| [Back To Her](https://open.spotify.com/track/0Q4uYxQsR4UwtGeD0RwE3I) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Mallou](https://open.spotify.com/artist/0shRX1S8qo6p32ErP9OWwP) | [Back To Her](https://open.spotify.com/album/0zioG5RWfiauUDKd7vnzsW) | 2:40 | 2026-06-19 |  |
 | [Back to Summer](https://open.spotify.com/track/4YdF8yF2eKomyElIdMD4Vr) | [Batu Onat](https://open.spotify.com/artist/7aOWtkVztALwRvuLWDPC0p) | [Back to Summer](https://open.spotify.com/album/585JNE5aaruJLObK5M6Srj) | 2:51 | 2023-09-22 | 2024-01-03 |
 | [Back To The Sun](https://open.spotify.com/track/1cd3tQ5tB7V81PQhDOWUfY) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Back To The Sun](https://open.spotify.com/album/7yQluEMVJbUbve5i1TT0RM) | 2:15 | 2024-07-05 | 2024-10-09 |
 | [Back Together](https://open.spotify.com/track/4keNkIArCVOlbvjd6uwvTm) | [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [Back Together](https://open.spotify.com/album/5cNPNZNIGwg3Zm00CcnB8h) | 2:14 | 2025-03-01 | 2025-08-25 |

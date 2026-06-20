@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15691,
+  "num_followers": 15690,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAABQTAlvX9NcH6p6FOTZgwey",
+  "snapshot_id": "ajM1AAAAAADUogHWZ0fxWH7+/KU/kzSZ",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 356760,
+      "name": "I Care",
+      "url": "https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ray Ray",
         "url": "https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 258813,
       "name": "Rifle Love",
       "url": "https://open.spotify.com/track/0rTJxsTHftHWA6pRyCWu2c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 356760,
-      "name": "I Care",
-      "url": "https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 285133,
-      "name": "Born Not To Know",
-      "url": "https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7"
+      "duration_ms": 261706,
+      "name": "Who's Lovin You",
+      "url": "https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 261706,
-      "name": "Who's Lovin You",
-      "url": "https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp"
+      "duration_ms": 285133,
+      "name": "Born Not To Know",
+      "url": "https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7"
     },
     {
       "added_at": null,

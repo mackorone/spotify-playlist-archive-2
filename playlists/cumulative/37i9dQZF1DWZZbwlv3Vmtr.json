@@ -10208,7 +10208,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 151463,
       "name": "lille dyp",
       "url": "https://open.spotify.com/track/3QXdIjTThCZP2r2ed3XEiZ"
@@ -17505,6 +17505,28 @@
     },
     {
       "album": {
+        "name": "Soft Focus",
+        "url": "https://open.spotify.com/album/08Ja9tIvHbJCBiPHtSb7MH"
+      },
+      "artists": [
+        {
+          "name": "Youthology",
+          "url": "https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM"
+        },
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Soft Focus",
+      "url": "https://open.spotify.com/track/6o5FDM4W6OIybTjzdP9FIE"
+    },
+    {
+      "album": {
         "name": "Soft Lad",
         "url": "https://open.spotify.com/album/7uoBTodwAjmtlC51RFcl6g"
       },
@@ -18158,7 +18180,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 117701,
       "name": "Static Glow",
       "url": "https://open.spotify.com/track/0mrCVnofqXODFXTcFO2InR"

@@ -9349,6 +9349,28 @@
     },
     {
       "album": {
+        "name": "For The Streets",
+        "url": "https://open.spotify.com/album/2dcGIPqSec1V3V9OlZPOsR"
+      },
+      "artists": [
+        {
+          "name": "CV",
+          "url": "https://open.spotify.com/artist/5KJ5ykum0wqQtJF4krqGiS"
+        },
+        {
+          "name": "4orttune",
+          "url": "https://open.spotify.com/artist/3YLy0CeBiLqr1PWAk6pnMp"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Louie V",
+      "url": "https://open.spotify.com/track/4bWPw0TEHHWsd1OwaIbvg3"
+    },
+    {
+      "album": {
         "name": "LOVERBOY",
         "url": "https://open.spotify.com/album/299pfWd3fonYSQoONNjS7C"
       },
@@ -11151,6 +11173,28 @@
     },
     {
       "album": {
+        "name": "THE GENTLEMEN'S CLUB",
+        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146439,
+      "name": "OMG feat pusha t",
+      "url": "https://open.spotify.com/track/52GRbtHCnZnPOy85U22TY3"
+    },
+    {
+      "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
@@ -11904,6 +11948,24 @@
       "duration_ms": 130000,
       "name": "Perfect Person (feat. coop)",
       "url": "https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w"
+    },
+    {
+      "album": {
+        "name": "Wisdom Weed & Wordplay",
+        "url": "https://open.spotify.com/album/6jZyq1IWlq8I3XKY8FK6kP"
+      },
+      "artists": [
+        {
+          "name": "Chillinit",
+          "url": "https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185077,
+      "name": "Perfect Tension",
+      "url": "https://open.spotify.com/track/6kRUXZseQ0oUik1DeyffDK"
     },
     {
       "album": {
@@ -16014,24 +16076,6 @@
       "duration_ms": 194089,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy"
-    },
-    {
-      "album": {
-        "name": "For The Streets",
-        "url": "https://open.spotify.com/album/2dcGIPqSec1V3V9OlZPOsR"
-      },
-      "artists": [
-        {
-          "name": "CV",
-          "url": "https://open.spotify.com/artist/5KJ5ykum0wqQtJF4krqGiS"
-        }
-      ],
-      "date_added": "2026-06-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/4bWPw0TEHHWsd1OwaIbvg3"
     },
     {
       "album": {

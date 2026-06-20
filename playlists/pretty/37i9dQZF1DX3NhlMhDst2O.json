@@ -1,6 +1,6 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 170581,
+  "num_followers": 170633,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "15 Exitos Del Recuerdo",
-        "url": "https://open.spotify.com/album/2iLHBOWBH9SVsSgvEaqIc2"
-      },
-      "artists": [
-        {
-          "name": "Polo Y Los Apson",
-          "url": "https://open.spotify.com/artist/5W7PxrygHGHSs7N3MSI5KV"
-        }
-      ],
-      "duration_ms": 141533,
-      "name": "Anoche Me Enamore",
-      "url": "https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Coleccion Suprema Plus- Los Polifaceticos",
         "url": "https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 187173,
       "name": "Cuatro Lagrimas",
       "url": "https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "15 Exitos Del Recuerdo",
+        "url": "https://open.spotify.com/album/2iLHBOWBH9SVsSgvEaqIc2"
+      },
+      "artists": [
+        {
+          "name": "Polo Y Los Apson",
+          "url": "https://open.spotify.com/artist/5W7PxrygHGHSs7N3MSI5KV"
+        }
+      ],
+      "duration_ms": 141533,
+      "name": "Anoche Me Enamore",
+      "url": "https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
-      },
-      "artists": [
-        {
-          "name": "Los Barbaros",
-          "url": "https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Pecado Mortal",
-      "url": "https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "15 Exitos De Los Silver",
         "url": "https://open.spotify.com/album/02AOEqMXKTeyT91mm7VXx1"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 263520,
       "name": "Amor Querido",
       "url": "https://open.spotify.com/track/28ybanxKBA9n0zUpqVmB03"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+      },
+      "artists": [
+        {
+          "name": "Los Barbaros",
+          "url": "https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Pecado Mortal",
+      "url": "https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5"
     },
     {
       "added_at": "2025-01-28 15:41:46",

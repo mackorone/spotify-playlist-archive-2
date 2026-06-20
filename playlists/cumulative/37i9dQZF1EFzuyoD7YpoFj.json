@@ -8040,10 +8040,32 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 221000,
       "name": "Now You Has Jazz",
       "url": "https://open.spotify.com/track/3KK0Wyaxhi4SwTSL8vrNiD"
+    },
+    {
+      "album": {
+        "name": "Bing In Dixieland",
+        "url": "https://open.spotify.com/album/2JTF56lSwuyv6BiMXumawL"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Now You Has Jazz",
+      "url": "https://open.spotify.com/track/777WXO13DfNM1OOittSk3k"
     },
     {
       "album": {

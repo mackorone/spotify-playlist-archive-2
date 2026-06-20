@@ -2,7 +2,7 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> Your guide to R&B in Canada, with Roy Woods from Brampton, ON.
+> Your guide to R&B in Canada, with Dylan Sinclair from Thornhill, ON.
 
 1,695 songs - 3 day 15 hr 53 min
 

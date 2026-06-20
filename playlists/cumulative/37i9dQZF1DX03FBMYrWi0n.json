@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Almost Gone",
+        "url": "https://open.spotify.com/album/4ANSmxtnQiaYyrVBg2KdAn"
+      },
+      "artists": [
+        {
+          "name": "Worst Club",
+          "url": "https://open.spotify.com/artist/1CyFodjlDrukHj5HqeAyKn"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184522,
+      "name": "Almost Gone",
+      "url": "https://open.spotify.com/track/28QL9oxHDxJ75VEODOUDVX"
+    },
+    {
+      "album": {
         "name": "Journal d'un Loup-Garou",
         "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
       },
@@ -908,7 +926,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 246752,
       "name": "B*TCH",
       "url": "https://open.spotify.com/track/3LlBBlSBmtKwFkvTifFQwo"
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 276500,
       "name": "Belemen",
       "url": "https://open.spotify.com/track/7bMpolsgVswAxMDEg6GvBW"
@@ -1154,6 +1172,24 @@
       "duration_ms": 253000,
       "name": "Big Bus",
       "url": "https://open.spotify.com/track/2OHJu3CEvMFuSC2epoPFVQ"
+    },
+    {
+      "album": {
+        "name": "big dog",
+        "url": "https://open.spotify.com/album/0YWX331XqcoGeiPjvK9on1"
+      },
+      "artists": [
+        {
+          "name": "bombe",
+          "url": "https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151013,
+      "name": "big dog",
+      "url": "https://open.spotify.com/track/1KeSvI6TNMd4VUS0FdsFyR"
     },
     {
       "album": {
@@ -2088,7 +2124,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 269375,
       "name": "Coup de vent",
       "url": "https://open.spotify.com/track/55wBGo1kOr3ISMHTTJR28I"
@@ -2330,7 +2366,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 456846,
       "name": "De l'autre c\u00f4t\u00e9 de la terre",
       "url": "https://open.spotify.com/track/5jSa3vmaQhWfyNcuQTl3wo"
@@ -2388,6 +2424,24 @@
       "duration_ms": 209187,
       "name": "DEMAIN JE PARS",
       "url": "https://open.spotify.com/track/4bcBIZQBBmIhbVUoA5RSxO"
+    },
+    {
+      "album": {
+        "name": "Demain minuit",
+        "url": "https://open.spotify.com/album/3CPxTfaD77jkBWtXHKaldt"
+      },
+      "artists": [
+        {
+          "name": "\u00c9l\u00e9gie",
+          "url": "https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189540,
+      "name": "Demain minuit",
+      "url": "https://open.spotify.com/track/1HubFNujYKvxk5UfvJNLpV"
     },
     {
       "album": {
@@ -3241,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "Fascists Killed Yer Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/0TGpCN3D6yEfkkThsgkb9p"
+      },
+      "artists": [
+        {
+          "name": "Elephant Stone",
+          "url": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251708,
+      "name": "Fascists Killed Yer Rock'N' Roll",
+      "url": "https://open.spotify.com/track/5A0lCjxtn6HzuEfNWpNOBc"
+    },
+    {
+      "album": {
         "name": "Puisque les heures nous manquent",
         "url": "https://open.spotify.com/album/0V3mQctTFlwTEASUWVmRek"
       },
@@ -3774,7 +3846,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 220693,
       "name": "Here Comes",
       "url": "https://open.spotify.com/track/5k8C9sXUZahKaK2qoykDqo"
@@ -4728,7 +4800,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 171939,
       "name": "Kicking & screaming",
       "url": "https://open.spotify.com/track/5ydb6mhv4W8e6mdWte91z9"
@@ -5503,6 +5575,24 @@
     },
     {
       "album": {
+        "name": "les vagues",
+        "url": "https://open.spotify.com/album/2jMCtG1UOqq1O3pXQRDF8p"
+      },
+      "artists": [
+        {
+          "name": "h\u00f4te",
+          "url": "https://open.spotify.com/artist/2TN2ejUvw00uSbRc6GV6ev"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282413,
+      "name": "les vagues",
+      "url": "https://open.spotify.com/track/07qRD1Eup9YxBBNIHXrZf7"
+    },
+    {
+      "album": {
         "name": "Even Sad Boys Like To Have Fun",
         "url": "https://open.spotify.com/album/0PDhTkKKxf1r7L88iBa6TQ"
       },
@@ -5640,7 +5730,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 126000,
       "name": "Lovers by Chance",
       "url": "https://open.spotify.com/track/4S2aSsWfdCnZBtZ61u2RBM"
@@ -6148,7 +6238,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 186038,
       "name": "Money",
       "url": "https://open.spotify.com/track/0ZvDfA12ehsFThhPsdEJUS"
@@ -6935,6 +7025,24 @@
     },
     {
       "album": {
+        "name": "Paranormale",
+        "url": "https://open.spotify.com/album/2w7BXewmD4fShClXPPL7zb"
+      },
+      "artists": [
+        {
+          "name": "Les Incendiaires",
+          "url": "https://open.spotify.com/artist/64hnSX04Ots0QZ9c9s1KKR"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205566,
+      "name": "Paranormale",
+      "url": "https://open.spotify.com/track/47H2SFaxpxVgvhxHGHBRMq"
+    },
+    {
+      "album": {
         "name": "Oiseau de Nuit",
         "url": "https://open.spotify.com/album/07kOc70svJnWUYTRNkdHma"
       },
@@ -7611,6 +7719,50 @@
     },
     {
       "album": {
+        "name": "POUSSILICIOUS",
+        "url": "https://open.spotify.com/album/7j3sCkMifiAp43aDgUGe95"
+      },
+      "artists": [
+        {
+          "name": "POUSSI",
+          "url": "https://open.spotify.com/artist/75VFjsn8VeDReX6Itj6lYB"
+        },
+        {
+          "name": "SISSI",
+          "url": "https://open.spotify.com/artist/2LS9qYRP9Xx40BvqCC2ZWB"
+        },
+        {
+          "name": "F\u00e9lix-Apou",
+          "url": "https://open.spotify.com/artist/20fgNjx5cBoqWd5fDZ7PN1"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125294,
+      "name": "POUSSILICIOUS",
+      "url": "https://open.spotify.com/track/292IQB8dZCcPWZ1jKNyCfV"
+    },
+    {
+      "album": {
+        "name": "pretty place 2 cry",
+        "url": "https://open.spotify.com/album/18G2MgzcpSnTO0LyIF2rxS"
+      },
+      "artists": [
+        {
+          "name": "worry",
+          "url": "https://open.spotify.com/artist/69HyPNP7JNtJjVwqYBNDVM"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221204,
+      "name": "pretty place 2 cry",
+      "url": "https://open.spotify.com/track/5W8I0knrJQY3pDIT86WKfB"
+    },
+    {
+      "album": {
         "name": "Pretty Privilege (feat. Emma Beko)",
         "url": "https://open.spotify.com/album/1yrdOeCzid2nTGKUpnVHos"
       },
@@ -7652,6 +7804,24 @@
       "duration_ms": 258053,
       "name": "Prey to Me",
       "url": "https://open.spotify.com/track/5T8kEPvWkB0d8vREyJPJNr"
+    },
+    {
+      "album": {
+        "name": "PUSSY POP MUSIC",
+        "url": "https://open.spotify.com/album/1rsuwlWAGPwjI9oF1RCUkX"
+      },
+      "artists": [
+        {
+          "name": "Rose Duke",
+          "url": "https://open.spotify.com/artist/1u6lFcwvmjZeAxK6Gecu64"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214683,
+      "name": "PUSSY POP MUSIC",
+      "url": "https://open.spotify.com/track/3pEoo55cSJ3GlUn4lJ9yg3"
     },
     {
       "album": {
@@ -7997,6 +8167,24 @@
     },
     {
       "album": {
+        "name": "Rotten",
+        "url": "https://open.spotify.com/album/35dIBCuPTe5tHzE03MVPTn"
+      },
+      "artists": [
+        {
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220493,
+      "name": "Rotten",
+      "url": "https://open.spotify.com/track/0typVO5PXN4GAgmTx5mHip"
+    },
+    {
+      "album": {
         "name": "Rouge Blanc",
         "url": "https://open.spotify.com/album/6bfCe5L8ncyo5vbGat4o3Z"
       },
@@ -8318,7 +8506,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 214618,
       "name": "Seul",
       "url": "https://open.spotify.com/track/5E68WhqLfnLPXEHJe9JH1I"
@@ -8603,6 +8791,24 @@
     },
     {
       "album": {
+        "name": "some day",
+        "url": "https://open.spotify.com/album/0pGFx7j1ibIlDO7R9QdsXL"
+      },
+      "artists": [
+        {
+          "name": "fangs",
+          "url": "https://open.spotify.com/artist/4hMzLL80aF5I6obBe0FXKW"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102400,
+      "name": "some day",
+      "url": "https://open.spotify.com/track/3W94lBE5hjft5X7mENZpZB"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/3Y8cOdEiGMyhB7zZTybKl0"
       },
@@ -8639,6 +8845,24 @@
     },
     {
       "album": {
+        "name": "south durham",
+        "url": "https://open.spotify.com/album/0EDQJI9pbPOLSoOLIpGvw5"
+      },
+      "artists": [
+        {
+          "name": "gabno",
+          "url": "https://open.spotify.com/artist/7ARDCeWQmzV4krCOTXSNVp"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201823,
+      "name": "south durham",
+      "url": "https://open.spotify.com/track/6OSjA2o2aocQXtGFcaOiqx"
+    },
+    {
+      "album": {
         "name": "Squelette",
         "url": "https://open.spotify.com/album/3woYSlpErgTOeUKAhXq9mp"
       },
@@ -8668,7 +8892,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 300563,
       "name": "St-Herm\u00e9n\u00e9gilde",
       "url": "https://open.spotify.com/track/6ERrQl9CZpVyixIAT6rYrQ"
@@ -9090,6 +9314,24 @@
       "duration_ms": 195000,
       "name": "The Rabbit Song",
       "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
+    },
+    {
+      "album": {
+        "name": "The Water's Just Fine",
+        "url": "https://open.spotify.com/album/5mAiyPfSinLP5R4e7TNYgh"
+      },
+      "artists": [
+        {
+          "name": "Birds Of Prrrey",
+          "url": "https://open.spotify.com/artist/1Kg97QOcupO6zl9KRknCO8"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190750,
+      "name": "The Water's Just Fine",
+      "url": "https://open.spotify.com/track/1c1ncPGk9iEzO60gAOcYH8"
     },
     {
       "album": {
@@ -10016,7 +10258,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 150898,
       "name": "You Look Good",
       "url": "https://open.spotify.com/track/0emfAytOoEUXLiKvk38ENU"

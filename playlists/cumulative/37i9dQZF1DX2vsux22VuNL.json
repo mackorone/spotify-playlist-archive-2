@@ -7055,6 +7055,28 @@
     },
     {
       "album": {
+        "name": "CASA MOLHADA",
+        "url": "https://open.spotify.com/album/2sifLgponrzxbbcxOekNfk"
+      },
+      "artists": [
+        {
+          "name": "MARINA NA VOZ",
+          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145237,
+      "name": "N\u00c3O VOU PARAR",
+      "url": "https://open.spotify.com/track/61NmBK1EVDR3uqdj6Y15Io"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Vou Voltar",
         "url": "https://open.spotify.com/album/1unIXIxrlEFGSpWC1k7bUn"
       },
@@ -7472,7 +7494,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 178795,
       "name": "Onda (Cita\u00e7\u00e3o A onda)",
       "url": "https://open.spotify.com/track/629TanzHDvm1G2Z9VQsEgE"

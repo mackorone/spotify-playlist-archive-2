@@ -193,6 +193,28 @@
     },
     {
       "album": {
+        "name": "1besito",
+        "url": "https://open.spotify.com/album/2MAE8PDl00gJyO1AlCRW9b"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "1besito",
+      "url": "https://open.spotify.com/track/72lBhSO5SN6GqtTsmUXok5"
+    },
+    {
+      "album": {
         "name": "20 Minutos",
         "url": "https://open.spotify.com/album/1IgtGBd7kISzw15xkFwllh"
       },
@@ -4811,6 +4833,28 @@
     },
     {
       "album": {
+        "name": "EL RETROVISOR.",
+        "url": "https://open.spotify.com/album/6c9J1v78HosluK8vYCm9Hs"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "EL RETROVISOR.",
+      "url": "https://open.spotify.com/track/5RLe0xv0kY1WvhGS4850oG"
+    },
+    {
+      "album": {
         "name": "Elefante Rosado",
         "url": "https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl"
       },
@@ -7106,7 +7150,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 186666,
       "name": "la excepci\u00f3n",
       "url": "https://open.spotify.com/track/1tzpt29Q92h8gJBOgMoYXu"
@@ -10207,6 +10251,32 @@
     },
     {
       "album": {
+        "name": "No Quiero Ser",
+        "url": "https://open.spotify.com/album/1CuQVVHLLaq1jwttcXnhYk"
+      },
+      "artists": [
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "IMA",
+          "url": "https://open.spotify.com/artist/3BjYZUW21VH6TohUVC5FhV"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "No Quiero Ser",
+      "url": "https://open.spotify.com/track/1JePDU1OWEqihZiksVKIbt"
+    },
+    {
+      "album": {
         "name": "no soy yo",
         "url": "https://open.spotify.com/album/3gS6OyLqYMKvBJelzhUCHP"
       },
@@ -10236,7 +10306,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 60857,
       "name": "no s\u00e9",
       "url": "https://open.spotify.com/track/2TGuIQbw62MSxJzBkpF8dC"
@@ -10636,7 +10706,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 140813,
       "name": "nuevos aires",
       "url": "https://open.spotify.com/track/49kO2QNmprKFzqGFDaqX6G"
@@ -12836,6 +12906,28 @@
       "duration_ms": 176140,
       "name": "Rosa Pastel",
       "url": "https://open.spotify.com/track/5JAQUTIpKkbccoFiJlYrV0"
+    },
+    {
+      "album": {
+        "name": "r\u00f3mpeme",
+        "url": "https://open.spotify.com/album/3ZijnkKUr5IfgX4kinGcT2"
+      },
+      "artists": [
+        {
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+        },
+        {
+          "name": "Lua Lacruz",
+          "url": "https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "r\u00f3mpeme",
+      "url": "https://open.spotify.com/track/0dbrWSIJz5hofhO1Hl6CKM"
     },
     {
       "album": {
@@ -16324,7 +16416,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 161012,
       "name": "Whisky",
       "url": "https://open.spotify.com/track/0HEexBnv4UZJlitPM1dc3g"

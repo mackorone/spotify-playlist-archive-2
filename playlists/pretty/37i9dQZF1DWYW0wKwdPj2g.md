@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,337 likes - 100 songs - 14 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,364 likes - 100 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 8 | [IDINMA \(Mercy Prevails\) \- Live](https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [IDINMA \(Mercy Prevails\) \[Live\]](https://open.spotify.com/album/4vDlB283bSnqfdk1IC4upA) | 11:55 |
 | 9 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
 | 10 | [My Lover \- Live](https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 8:24 |
-| 11 | [Track 4](https://open.spotify.com/track/6rDHIXUnc4pt9wl7kjw3Vk) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Revival Hour \(Live\)](https://open.spotify.com/album/5VTGZQbiGCXVsjJbLDlpVq) | 0:00 |
+| 11 | [Eyes will See \- Live](https://open.spotify.com/track/6rDHIXUnc4pt9wl7kjw3Vk) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Revival Hour \(Live\)](https://open.spotify.com/album/5VTGZQbiGCXVsjJbLDlpVq) | 10:36 |
 | 12 | [I PREVAIL \- Live](https://open.spotify.com/track/05e71J5stPJGlANXswQDDu) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Live\)](https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL) | 12:58 |
 | 13 | [Mercy](https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Mercy](https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu) | 16:45 |
 | 14 | [Prayer](https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Prayer](https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU) | 3:54 |
-| 15 | [Track 1](https://open.spotify.com/track/0F6xKCRG1UFvhgJN9EUiZ4) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [After The Storm \(Live Recording\)](https://open.spotify.com/album/6h78wycG4MrWX6X7SZ9Mdj) | 0:00 |
+| 15 | [Asafo Yehowa \(LIVE\) \[feat\. Kobby Mantey\]](https://open.spotify.com/track/0F6xKCRG1UFvhgJN9EUiZ4) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI), [Kobby Mantey](https://open.spotify.com/artist/6EU94Iocwwem69yRk6DuOc) | [After The Storm \(Live Recording\)](https://open.spotify.com/album/6h78wycG4MrWX6X7SZ9Mdj) | 4:52 |
 | 16 | [Jesu O \(Live\)](https://open.spotify.com/track/4hN0MbGDinXaKHVyHiddwr) | [Minstrel John Leke](https://open.spotify.com/artist/4Y9c0hrqtHikpZFb7lif8o), [Shiloh\-JewEl Idoko](https://open.spotify.com/artist/4X05DqwYWzocKj5vpmzfGa) | [Jesu O \(Live\)](https://open.spotify.com/album/5oISUI4BzFdWp7qwe1UEjB) | 11:16 |
 | 17 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 18 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 |

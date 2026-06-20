@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3248,
+  "num_followers": 3250,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAAAHnct6VXihlUdpB9i5ZXP+",
+  "snapshot_id": "ajM1AAAAAADj2F4apxP6maSwIU6Qe4Ts",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 113960,
-      "name": "Split (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/6PdY3m4TaBMZUTNmsffJUD"
+      "duration_ms": 55293,
+      "name": "Une Homme et Un Slit (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/0QC6haYulTktRMrYjunZJ8"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 55293,
-      "name": "Une Homme et Un Slit (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/0QC6haYulTktRMrYjunZJ8"
+      "duration_ms": 113960,
+      "name": "Split (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/6PdY3m4TaBMZUTNmsffJUD"
     },
     {
       "added_at": null,

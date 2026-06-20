@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: The Army, The Navy",
+  "description": "A laid-back trip in the folk scene. Cover: Allison Russell",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -564,6 +564,36 @@
       "duration_ms": 269147,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/1HDl1oOVvhqf5VU6qwVGaI"
+    },
+    {
+      "album": {
+        "name": "Accidental Tattoo",
+        "url": "https://open.spotify.com/album/3OwghTltlARrWaoSIhnQCM"
+      },
+      "artists": [
+        {
+          "name": "case/lang/veirs",
+          "url": "https://open.spotify.com/artist/63I02CqRt2xKO0o5QvmHs5"
+        },
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        },
+        {
+          "name": "k.d. lang",
+          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
+        },
+        {
+          "name": "Laura Veirs",
+          "url": "https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195862,
+      "name": "Accidental Tattoo",
+      "url": "https://open.spotify.com/track/0JxUqyj3Zum5eT9fY7MJjd"
     },
     {
       "album": {
@@ -3034,6 +3064,28 @@
       "duration_ms": 173226,
       "name": "Black Bird - A COLORS SHOW",
       "url": "https://open.spotify.com/track/00SYX4AtIHCpSXopJUj5pP"
+    },
+    {
+      "album": {
+        "name": "Black Lavender (ft. Brittney Spencer)",
+        "url": "https://open.spotify.com/album/3Z7VohZSNBdMa3qk67PQ0a"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181373,
+      "name": "Black Lavender (ft. Brittney Spencer)",
+      "url": "https://open.spotify.com/track/3AXNE72mnKIkaT3kigz7q9"
     },
     {
       "album": {
@@ -6756,6 +6808,24 @@
       "duration_ms": 253561,
       "name": "Don't Wake Me Up [Feat. Jesse Welles]",
       "url": "https://open.spotify.com/track/28Lt8UhUhJLgGsJQpDEJDE"
+    },
+    {
+      "album": {
+        "name": "Don't Wanna Talk",
+        "url": "https://open.spotify.com/album/414F4S6uHCVsRZCJuBgY95"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Don't Wanna Talk",
+      "url": "https://open.spotify.com/track/2wHN2KgmzDPOszIJ8QMqHO"
     },
     {
       "album": {
@@ -24528,6 +24598,24 @@
       "duration_ms": 370895,
       "name": "Stolen Lands",
       "url": "https://open.spotify.com/track/3612vDRgEpnvWNy9DqSny1"
+    },
+    {
+      "album": {
+        "name": "stolen moments",
+        "url": "https://open.spotify.com/album/0PY2oBUfwvhTLmdXPbKb9E"
+      },
+      "artists": [
+        {
+          "name": "Eric Kane",
+          "url": "https://open.spotify.com/artist/1c0It57ov3NYgwdU1trh2Y"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202222,
+      "name": "stolen moments",
+      "url": "https://open.spotify.com/track/5HTWjQvFk08xEbi4XIgkGC"
     },
     {
       "album": {

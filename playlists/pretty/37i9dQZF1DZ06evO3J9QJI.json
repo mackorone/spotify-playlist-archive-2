@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAAC9LMShkm7OdA/YJhZffOfh",
+  "snapshot_id": "ajM1AAAAAAAYEIjx8+fWYiE0CygpgUfi",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/6XDwaK2gJe5dsNtnEOviT7"
-      },
-      "artists": [
-        {
-          "name": "Grafh",
-          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
-        },
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 270419,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/1WyWTVpwgSITwJ1kVTtaQK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Informal Introduction OG",
         "url": "https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 282240,
       "name": "All I Know (feat. Irv Gotti)",
       "url": "https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/6XDwaK2gJe5dsNtnEOviT7"
+      },
+      "artists": [
+        {
+          "name": "Grafh",
+          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
+        },
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 270419,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/1WyWTVpwgSITwJ1kVTtaQK"
     },
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Irv Gotti Presents: The Murderers",
+        "url": "https://open.spotify.com/album/7aSfSgqa64j0WPe6W7D32w"
+      },
+      "artists": [
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 130826,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4wcsCTDLadhBiSSTc3j289"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Open Door (feat. Irv Gotti) - Single",
         "url": "https://open.spotify.com/album/5PWH056YOtScBzErZitdHx"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 229643,
       "name": "Open Door",
       "url": "https://open.spotify.com/track/7lpLJAfs77KwlG0KJZuQAt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Irv Gotti Presents: The Murderers",
-        "url": "https://open.spotify.com/album/7aSfSgqa64j0WPe6W7D32w"
-      },
-      "artists": [
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 130826,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/4wcsCTDLadhBiSSTc3j289"
     },
     {
       "added_at": null,

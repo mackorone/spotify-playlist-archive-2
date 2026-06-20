@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de rock en español\. 📸: Aiko el grupo
 
-5,618 songs - 13 day 11 hr 7 min
+5,619 songs - 13 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1282,6 +1282,7 @@
 | [Diosito](https://open.spotify.com/track/17BSIxhmwh5He7UzguwJPs) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Diosito](https://open.spotify.com/album/4ell8Y3YqPm4xtFKBAzSwV) | 2:42 | 2022-07-22 | 2022-08-13 |
 | [Dirac](https://open.spotify.com/track/1LNpOqyoxhV1JGgGulz9vG) | [Eddie Luno](https://open.spotify.com/artist/2zgQt2DmmcWj49Vzs7vZsh) | [Dirac](https://open.spotify.com/album/4NO5nIEMc8qeaecCQwcmpJ) | 4:31 | 2024-08-02 | 2024-08-10 |
 | [Dirty Donna](https://open.spotify.com/track/41PlwW2LwnJQCHa3c2L1Qf) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Dirty Donna](https://open.spotify.com/album/6Y8jks0IRkAjXlHvcgDyX3) | 4:24 | 2025-10-17 | 2025-11-07 |
+| [Dirty Laundry](https://open.spotify.com/track/2LYhekTd3G0wOl7M5FLu5t) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dirty Laundry](https://open.spotify.com/album/57o4AUsYHuIpdZMNR3uCOz) | 3:06 | 2026-06-19 |  |
 | [Diría Que Estaría Bueno](https://open.spotify.com/track/2eu2lN6u1Y3AXBNRJHfTKr) | [Pablo Lesuit](https://open.spotify.com/artist/4lA8TrVb4WS2bcyqaokXaT) | [Diría Que Estaría Bueno](https://open.spotify.com/album/3IAyepCPjsN8GKGcDTk88L) | 2:59 | 2025-03-07 | 2025-03-15 |
 | [Disco](https://open.spotify.com/track/4OTBD5g2HtuKlF3sysdu6T) | [La Bande\-Son Imaginaire](https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7) | [Disco](https://open.spotify.com/album/5mXlrfESx3nrxGQsg4pFOF) | 5:34 | 2025-08-07 | 2025-08-23 |
 | [Disguise](https://open.spotify.com/track/3PxECSNMTwweT5K35clpbg) | [Secret Agent](https://open.spotify.com/artist/20ASve28pwCOdqNh02hUQp) | [Disguise](https://open.spotify.com/album/6XLNufOQjJah4TYSbWI7JM) | 3:31 | 2024-04-05 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Timun Jelita
 
-957 songs - 2 day 14 hr 19 min
+958 songs - 2 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,6 +635,7 @@
 | [Pintu Rahasia](https://open.spotify.com/track/2Sj80JzhcFoZB287rrau1y) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Pintu Rahasia](https://open.spotify.com/album/4rEpowTo9zk8pwyAY2QXk7) | 4:16 | 2025-01-16 | 2025-04-25 |
 | [Pisah Baik\-Baik](https://open.spotify.com/track/57ALt7I6PfsbIstHr2C8SW) | [Elma Dae](https://open.spotify.com/artist/3o4Y9Gn3YghgIiAlYLDNZ7) | [Pisah Baik\-Baik](https://open.spotify.com/album/26vm4ZZTKZljlzYhHO5bmg) | 3:22 | 2024-06-27 | 2025-01-10 |
 | [Please](https://open.spotify.com/track/4UO8e0hxMumyaAyyajowLE) | [Willy Anggawinata](https://open.spotify.com/artist/6KZL22Io61OAjmyPw2tPor) | [Please](https://open.spotify.com/album/3xL5tp3yBdLNWsAZZI37Td) | 2:59 | 2024-07-25 | 2024-09-27 |
+| [Plin Plan](https://open.spotify.com/track/4gr32VodpsdYeqrt9SCYA9) | [Neona](https://open.spotify.com/artist/1VOUbr2qeHgk36EXMkWaZH) | [Plin Plan](https://open.spotify.com/album/5T62Bm5WyJMTFJNTiZh958) | 2:33 | 2026-06-19 |  |
 | [PPN \(Para Pencari Nafkah\)](https://open.spotify.com/track/0MOdukd6nHsCvox7htyI2F) | [Rizky Billar](https://open.spotify.com/artist/1QHSgB3sQ7xd1Cbs3yPU16), [Abi Ramzi](https://open.spotify.com/artist/27hlBUDWRI4eQNaw43JDUW), [Gilang Dirga](https://open.spotify.com/artist/6FvAreEdLqgdxkVVgBpyWd) | [PPN \(Para Pencari Nafkah\)](https://open.spotify.com/album/0IjB2iuWjTtvi7yrTap0Mc) | 3:33 | 2025-12-18 | 2026-01-24 |
 | [Puaskah](https://open.spotify.com/track/7ok3axTvn74nxuWJK2SR7P) | [BADAI ROMANTIC PROJECT](https://open.spotify.com/artist/5RymE2WMKFAq9hql4ag8aa) | [Puaskah](https://open.spotify.com/album/1N3LTvPt4muKCD9Sie7qrR) | 3:57 | 2025-05-22 | 2025-06-27 |
 | [Puisi](https://open.spotify.com/track/6TWjztpwmfYqS5HzJTyhxV) | [Aqeela Calista](https://open.spotify.com/artist/5viTsV4BwI62jNF7ERhK4r) | [Puisi \(Ost\. Septihan Series\)](https://open.spotify.com/album/49pqUpwILtFoDbQ3DfoHDQ) | 4:27 | 2025-09-05 | 2025-11-28 |

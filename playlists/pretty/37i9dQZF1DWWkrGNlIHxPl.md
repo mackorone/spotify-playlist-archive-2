@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by Arab artists\. Cover: Nory & Nadine El Roubi
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,278 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,276 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [SUMMER GLOW \(feat\. NBL\)](https://open.spotify.com/track/3uiOGSMGTj2QPjBoJEqq3J) | [AZIZ.wav](https://open.spotify.com/artist/31hBwYTq1BDVU9Yr1eD3aQ), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [NBL](https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D) | [SUMMER GLOW \(feat\. NBL\)](https://open.spotify.com/album/1FRtoshJo9OLt6TMrVooQj) | 3:53 |
 | 50 | [NASKAR](https://open.spotify.com/track/6wnSQh2JzBCIj1kVFq1kPM) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 3:26 |
 
-Snapshot ID: `AAAAAOZPLLTvFB6kvQKkKyuwd8H8krCo`
+Snapshot ID: `AAAAAGvNoCBfzq6lpbfiL6TtaYPuFcUA`

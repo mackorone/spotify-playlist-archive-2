@@ -2,7 +2,7 @@
 
 ### [Hot Hits USA](https://open.spotify.com/playlist/37i9dQZF1DX0kbJZpiYdZl)
 
-> The hottest tracks in the United States\. Cover: Ariana Grande
+> The hottest tracks in the United States\. Cover: Don Toliver
 
 890 songs - 2 day 0 hr 28 min
 

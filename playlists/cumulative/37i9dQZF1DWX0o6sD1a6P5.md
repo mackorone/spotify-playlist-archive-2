@@ -4,7 +4,7 @@
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: R2
 
-954 songs - 1 day 22 hr 20 min
+954 songs - 1 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 | 2022-09-08 | 2022-12-09 |
 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 | 2023-12-07 | 2024-05-17 |
 | [Hate Me](https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Hate Me](https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p) | 3:19 | 2022-03-10 | 2022-03-25 |
+| [Haut les mains](https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm) | [ENERGY](https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut) | 2:15 | 2026-06-18 |  |
 | [Hendek](https://open.spotify.com/track/55HAQNklLPxmHNFaaUu2f7) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Hendek](https://open.spotify.com/album/7uA3u6LM79UdcjTIAP2VHf) | 2:07 | 2024-11-21 | 2025-04-04 |
 | [Hi hi hi](https://open.spotify.com/track/7ycOby0nlAhC7kj5RYxqOH) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [Hi hi hi](https://open.spotify.com/album/4rvfzZglf3wk2JCt3swsnM) | 2:25 | 2023-04-13 | 2023-06-23 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-11-17 | 2023-02-10 |
@@ -883,7 +884,6 @@
 | [Tout laisse](https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 2:56 | 2024-06-06 | 2024-09-20 |
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2022-05-19 | 2022-09-16 |
 | [Toxic Love](https://open.spotify.com/track/7JaYn3eZYVgW4cjrvqbJWE) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Toxic Love](https://open.spotify.com/album/401ZkPLClE3UGAn7DepicP) | 3:27 | 2021-12-27 | 2022-02-11 |
-| [Track 5](https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [ENERGY](https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut) | 0:00 | 2026-06-18 |  |
 | [Trop intense](https://open.spotify.com/track/16AMJ7tU9TXfiSKepxpCJR) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [Trop intense](https://open.spotify.com/album/5pK1UjbKezgFzawUAFACEI) | 2:10 | 2023-06-08 | 2023-06-13 |
 | [Trop parler](https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Trop parler](https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY) | 3:03 | 2023-08-03 | 2024-02-16 |
 | [Trophy](https://open.spotify.com/track/1mKlQnt4FPb2R4HV5cn5y1) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Féeries](https://open.spotify.com/album/2W94yzXafkE28LcyiQD4YH) | 2:59 | 2023-02-23 | 2023-05-12 |

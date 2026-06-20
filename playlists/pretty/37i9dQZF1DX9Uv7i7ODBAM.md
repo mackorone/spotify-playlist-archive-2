@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,426 likes - 97 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,509 likes - 97 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 | 46 | [STAR AND STRIPE](https://open.spotify.com/track/4h3yLsVBHJRWDPmq0ktMBI) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 4:08 |
 | 47 | [POP☆STEP](https://open.spotify.com/track/0UtruuaYSyn6it8d8RNua1) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [ポップ☆ステップ](https://open.spotify.com/artist/4acDr2jLgAGAFtRDeTr4cq) | [POP☆STEP](https://open.spotify.com/album/6OITpIlNZY6BnNTBzIuLuj) | 1:42 |
 | 48 | [スピード \- Speed](https://open.spotify.com/track/2D3jMiMkKMmvchLMLXLG4T) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [スピード \- Speed](https://open.spotify.com/album/1b468g18LpNbntgka81SCM) | 3:38 |
-| 49 | [The Demon Lord](https://open.spotify.com/track/4uS0zKWIQBy2uaSdMvshHo) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 3:10 |
+| 49 | [The Demon Lord](https://open.spotify.com/track/4uS0zKWIQBy2uaSdMvshHo) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Ayako Tanaka](https://open.spotify.com/artist/5F5J6w1CcGSPl9ki993PzU) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 3:10 |
 | 50 | [My Hero Is Our Hero](https://open.spotify.com/track/2yheZqd9dNuvawJM1lkeAU) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:49 |
 | 51 | [だってアタシのヒーロー。](https://open.spotify.com/track/48KVm3SY82HnkrikUrgRlm) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [だってアタシのヒーロー。](https://open.spotify.com/album/3tCOh5mgNf4viKVyKaMB3d) | 3:54 |
 | 52 | [HERO A](https://open.spotify.com/track/6LoC0DAzeIET4iA9gXG2Ly) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 3:15 |

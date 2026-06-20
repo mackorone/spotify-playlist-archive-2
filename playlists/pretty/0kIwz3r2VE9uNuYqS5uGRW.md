@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 239 songs - 12 hr 29 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 240 songs - 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,5 +247,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 237 | [Badali Badala](https://open.spotify.com/track/3TyG9VWhzwh9ETEQ0JOsgU) | [Sebastian McQueen](https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP) | [Between Us](https://open.spotify.com/album/1FckvjpUd1bin7xkXQzyuF) | 5:03 |
 | 238 | [Me Confundes](https://open.spotify.com/track/3p4zlX5oex6W0FhAWgl9gr) | [Draxess](https://open.spotify.com/artist/31eiTFPa3SmEug6EbLH3d3) | [Me Confundes](https://open.spotify.com/album/512JlbUPseSvuO0ZiKj9GR) | 2:04 |
 | 239 | [Diablax](https://open.spotify.com/track/6CVeBLFZw98ek6Eh7zE3pd) | [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Diablax](https://open.spotify.com/album/7rybHGQt51fJxGm8lVoVxL) | 2:40 |
+| 240 | [Gimmick](https://open.spotify.com/track/4uFT0D47ztptmYn4lfybCb) | [Pigeon Pye](https://open.spotify.com/artist/72kLEU6mRB5iLrmABFhjlz) | [Story](https://open.spotify.com/album/1SEFpmr6CmYvQWXHDTMFa6) | 2:50 |
 
-Snapshot ID: `AAAV9QtnEssZS+COWEFC3o1KYC8kkTEB`
+Snapshot ID: `AAAV9gCQ9oZmgOVJwIEvKo6JhomAYoVJ`

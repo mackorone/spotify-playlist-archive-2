@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABKucLz7dK+3gasAtB2cPqEi6n1M",
+  "snapshot_id": "AAAAAP80r+tkUq04j2mpdvInPahlecXx",
   "tracks": [
     {
       "added_at": "2026-06-18 22:01:01",
@@ -111,26 +111,6 @@
     {
       "added_at": "2026-06-18 22:01:01",
       "album": {
-        "name": "Runner",
-        "url": "https://open.spotify.com/album/6EnAXief5ET4I92perP6Zy"
-      },
-      "artists": [
-        {
-          "name": "Leblanco",
-          "url": "https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2"
-        },
-        {
-          "name": "KA",
-          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
-        }
-      ],
-      "duration_ms": 167472,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/4JKI3AZTmCNOzoXbZE2AZr"
-    },
-    {
-      "added_at": "2026-06-18 22:01:01",
-      "album": {
         "name": "OM DE TAFEL",
         "url": "https://open.spotify.com/album/7v2C0BOh9nhvgrtULvW5HR"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 227571,
       "name": "Welcome To The 6",
       "url": "https://open.spotify.com/track/3yaI4tfo3pqMdHkQjaV0lt"
+    },
+    {
+      "added_at": "2026-06-18 22:01:01",
+      "album": {
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/6EnAXief5ET4I92perP6Zy"
+      },
+      "artists": [
+        {
+          "name": "Leblanco",
+          "url": "https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2"
+        },
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        }
+      ],
+      "duration_ms": 167472,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/4JKI3AZTmCNOzoXbZE2AZr"
     },
     {
       "added_at": "2026-06-18 22:01:01",

@@ -6054,7 +6054,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -49561,6 +49561,28 @@
     },
     {
       "album": {
+        "name": "Kuba vs Bary",
+        "url": "https://open.spotify.com/album/3fbpFAAXAOr0gcYisQRt6L"
+      },
+      "artists": [
+        {
+          "name": "Bary",
+          "url": "https://open.spotify.com/artist/4JBmVZET2xstezrgS5PsXw"
+        },
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "SERIO",
+      "url": "https://open.spotify.com/track/3M09QRHMKdG7eiTlYjGhao"
+    },
+    {
+      "album": {
         "name": "SERIO",
         "url": "https://open.spotify.com/album/6Xgtuy59R6aLCcF4JpxVBV"
       },
@@ -49576,7 +49598,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 160000,
       "name": "SERIO",
       "url": "https://open.spotify.com/track/78bAUUxyLxhBQDCVfXb8Ov"
@@ -57584,7 +57606,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 121142,
       "name": "ULUBIENIEC TWOJEJ MAMY",
       "url": "https://open.spotify.com/track/0rgAOSiRT5vnyQR9Q7UKau"
@@ -62336,7 +62358,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "ZA KOGO MNIE MASZ?",
       "url": "https://open.spotify.com/track/2uWl1FzqmmA3hGdjlHp8mR"
@@ -62970,6 +62992,24 @@
       "duration_ms": 204573,
       "name": "Zgon przy porodzie",
       "url": "https://open.spotify.com/track/3vg8Z3aNXo8zUFxPmJJGIv"
+    },
+    {
+      "album": {
+        "name": "zielona noc",
+        "url": "https://open.spotify.com/album/7D93RdhBrogv2SUrCN5mcy"
+      },
+      "artists": [
+        {
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281575,
+      "name": "zielona noc",
+      "url": "https://open.spotify.com/track/3u1eGyD4uFyIzsnkexBJW7"
     },
     {
       "album": {

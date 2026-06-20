@@ -4,7 +4,7 @@
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hà An Huy
 
-43 songs - 2 hr 42 min
+44 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,11 @@
 | [Buông](https://open.spotify.com/track/2ZBi1KpCR0grEWRNgySqwg) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ) | [Buông](https://open.spotify.com/album/6ub8yuzsgJbYRdTd0ZgmLp) | 3:25 | 2026-04-23 |  |
 | [Bài Ca Em Viết \(feat\. Hustlang Robber\)](https://open.spotify.com/track/1a0pNJeGTKqnVjV2MN0WBT) | [Muộii](https://open.spotify.com/artist/0o3J7OHDa35b6AY7Ivj5j7), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv), [Lespace](https://open.spotify.com/artist/5VqJjr06RZ1ZSteos5sET2) | [Bài Ca Em Viết \(feat\. Hustlang Robber\)](https://open.spotify.com/album/76bEkP3pNdvS2KBPbloqBC) | 3:36 | 2026-04-23 |  |
 | [Bắt Cóc Con Tim](https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si) | [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Bắt Cóc Con Tim](https://open.spotify.com/album/538vBy7c27uatest2Eu58q) | 3:17 | 2026-04-23 |  |
-| [chuyện Nắng và Mưa](https://open.spotify.com/track/6OTmEE4bpIkL4REkQB4goY) | [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA) | [chuyện Nắng và Mưa](https://open.spotify.com/album/4m9pfGwFsevbmaXCIdWU7o) | 3:52 | 2026-04-23 |  |
+| [chuyện Nắng và Mưa](https://open.spotify.com/track/6OTmEE4bpIkL4REkQB4goY) | [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA) | [chuyện Nắng và Mưa](https://open.spotify.com/album/4m9pfGwFsevbmaXCIdWU7o) | 3:52 | 2026-04-23 | 2026-06-20 |
 | [Chúc Phúc \- Emcee L \(Da LAB\) collab version](https://open.spotify.com/track/55XrKKzHQPbGPnvQCaSNPV) | [PiaLinh](https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54), [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2) | [Chúc Phúc \[Emcee L \(Da LAB\) collab version\]](https://open.spotify.com/album/1s3Ntt0GHXJKKrVsFFLCNB) | 3:51 | 2026-04-23 | 2026-05-31 |
-| [Chấp Nhận](https://open.spotify.com/track/64kXwf3h9uFwF14SRag4oH) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf) | [Chấp Nhận](https://open.spotify.com/album/6Ef6K8lIZASM9lcvHIjltx) | 3:24 | 2026-05-14 |  |
+| [Chấp Nhận](https://open.spotify.com/track/64kXwf3h9uFwF14SRag4oH) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf) | [Chấp Nhận](https://open.spotify.com/album/6Ef6K8lIZASM9lcvHIjltx) | 3:24 | 2026-05-14 | 2026-06-20 |
 | [Come My Way](https://open.spotify.com/track/7326q9PcJDcKuAFcrSkN0t) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Come My Way](https://open.spotify.com/album/36ocXZA5Xnny4cdKULKoFF) | 3:12 | 2026-05-31 |  |
+| [Có Công Mài "Sắc" \(Afrobeats \) \[DJ Kim Chol Remix\]](https://open.spotify.com/track/24NU99R1NGEVlVIOPO0Ahg) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC), [DJ Kim Chol](https://open.spotify.com/artist/4DInqZIinmwQG2znFviwX2) | [Có Công Mài "Sắc" \(Afrobeats \) \[DJ Kim Chol Remix\]](https://open.spotify.com/album/2nHpXkJOlyujpytWcasT5U) | 2:52 | 2026-06-19 |  |
 | [có lẽ](https://open.spotify.com/track/3Bq55ekTrrHpuzd3Fz2O2a) | [SWAN](https://open.spotify.com/artist/0kRs5H8JQHkHMQwBg7BgPv) | [có lẽ](https://open.spotify.com/album/7DEETa82QbBi3VyFP3W8pV) | 3:28 | 2026-04-23 |  |
 | [có lẽ \(feat\. Minh Tốc & Lam\)](https://open.spotify.com/track/01QPPMqRh4qKqhj9PIRlLg) | [SWAN](https://open.spotify.com/artist/0kRs5H8JQHkHMQwBg7BgPv), [Minh Tốc & Lam](https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU) | [có lẽ \(feat\. Minh Tốc & Lam\)](https://open.spotify.com/album/4NUBDxSZp7RUIPqEF6wki9) | 3:28 | 2026-05-03 |  |
 | [Cứ Chill Thôi](https://open.spotify.com/track/014DA3BdnmD3kI5pBogH7c) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [SUNI](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Cứ Chill Thôi](https://open.spotify.com/album/7FEh6eJumH2tqhXKfQ5Tul) | 4:30 | 2026-04-23 | 2026-05-04 |

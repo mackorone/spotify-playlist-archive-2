@@ -1,12 +1,12 @@
 {
   "description": "A hypnotic journey through Melodic Techno. Photographer: Kevin Mazur via Getty Images",
-  "num_followers": 181631,
+  "num_followers": 181680,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJrimCEWBmesAgcG48Q5D5XcFisI",
+  "snapshot_id": "AAAAAFznWqmFyP9GETdg7CFxcYywe2qY",
   "tracks": [
     {
       "added_at": "2026-06-11 22:01:52",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
-        "name": "Distorted Love",
-        "url": "https://open.spotify.com/album/3zYXTglqvKAOFtbELVNpdJ"
-      },
-      "artists": [
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        },
-        {
-          "name": "Be No Rain",
-          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Distorted Love",
-      "url": "https://open.spotify.com/track/7qhw9e6NTSdEQSnrVlWe0u"
-    },
-    {
-      "added_at": "2026-06-11 22:01:52",
-      "album": {
         "name": "Every Breath",
         "url": "https://open.spotify.com/album/4UUnFvSEbJhp6Tyuut9ncu"
       },
@@ -799,22 +779,22 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
-        "name": "Born Like That",
-        "url": "https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q"
+        "name": "Distorted Love",
+        "url": "https://open.spotify.com/album/3zYXTglqvKAOFtbELVNpdJ"
       },
       "artists": [
         {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
         },
         {
-          "name": "Jast",
-          "url": "https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo"
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
         }
       ],
-      "duration_ms": 225892,
-      "name": "Born Like That",
-      "url": "https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN"
+      "duration_ms": 220952,
+      "name": "Distorted Love",
+      "url": "https://open.spotify.com/track/7qhw9e6NTSdEQSnrVlWe0u"
     },
     {
       "added_at": "2026-06-11 22:01:52",
@@ -855,26 +835,22 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
-        "name": "Nightshapes",
-        "url": "https://open.spotify.com/album/5pRg1T6q3JHehMmVAP8afy"
+        "name": "Born Like That",
+        "url": "https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q"
       },
       "artists": [
         {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         },
         {
-          "name": "MotherEarth",
-          "url": "https://open.spotify.com/artist/2o2pBVmNUXW9LZvjVvKC0x"
-        },
-        {
-          "name": "Tyoz",
-          "url": "https://open.spotify.com/artist/5KR5DO4Ezn0QPcM5N9Ioms"
+          "name": "Jast",
+          "url": "https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo"
         }
       ],
-      "duration_ms": 205779,
-      "name": "Nightshapes",
-      "url": "https://open.spotify.com/track/20Mb3OEO2GYuhvQ7mDmTXe"
+      "duration_ms": 225892,
+      "name": "Born Like That",
+      "url": "https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN"
     },
     {
       "added_at": "2026-06-11 22:01:52",
@@ -895,6 +871,30 @@
       "duration_ms": 214070,
       "name": "Culture",
       "url": "https://open.spotify.com/track/1tf1bJWmA54TDD3F0tdZy2"
+    },
+    {
+      "added_at": "2026-06-11 22:01:52",
+      "album": {
+        "name": "Nightshapes",
+        "url": "https://open.spotify.com/album/5pRg1T6q3JHehMmVAP8afy"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "MotherEarth",
+          "url": "https://open.spotify.com/artist/2o2pBVmNUXW9LZvjVvKC0x"
+        },
+        {
+          "name": "Tyoz",
+          "url": "https://open.spotify.com/artist/5KR5DO4Ezn0QPcM5N9Ioms"
+        }
+      ],
+      "duration_ms": 205779,
+      "name": "Nightshapes",
+      "url": "https://open.spotify.com/track/20Mb3OEO2GYuhvQ7mDmTXe"
     },
     {
       "added_at": "2026-06-11 22:01:52",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
+        "name": "Do You EP",
+        "url": "https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 221769,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH"
+    },
+    {
+      "added_at": "2026-06-11 22:01:52",
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/0rVfUBomZINxAxffvoSOCi"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
-        "name": "Do You EP",
-        "url": "https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 221769,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH"
-    },
-    {
-      "added_at": "2026-06-11 22:01:52",
-      "album": {
         "name": "Manta",
         "url": "https://open.spotify.com/album/26PV47U9aFqbYOkcsUUcq5"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 247152,
       "name": "Manta",
       "url": "https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm"
-    },
-    {
-      "added_at": "2026-06-11 22:01:52",
-      "album": {
-        "name": "Koko",
-        "url": "https://open.spotify.com/album/4wcfyp6Jo32SXCSyPZwqaH"
-      },
-      "artists": [
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Koko",
-      "url": "https://open.spotify.com/track/39tgmvIqDuQYlpvGEIyRMf"
     },
     {
       "added_at": "2026-06-11 22:01:52",
@@ -1275,6 +1259,22 @@
       "duration_ms": 146090,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T"
+    },
+    {
+      "added_at": "2026-06-11 22:01:52",
+      "album": {
+        "name": "Koko",
+        "url": "https://open.spotify.com/album/4wcfyp6Jo32SXCSyPZwqaH"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Koko",
+      "url": "https://open.spotify.com/track/39tgmvIqDuQYlpvGEIyRMf"
     },
     {
       "added_at": "2026-06-11 22:01:52",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
+        "name": "I Will Find You",
+        "url": "https://open.spotify.com/album/1XxDcTMBN3ag8yHjusNpIv"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "I Will Find You",
+      "url": "https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5"
+    },
+    {
+      "added_at": "2026-06-11 22:01:52",
+      "album": {
         "name": "Entrance",
         "url": "https://open.spotify.com/album/6vnQGepBinBhQjBUdm1hxL"
       },
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
-        "name": "I Will Find You",
-        "url": "https://open.spotify.com/album/1XxDcTMBN3ag8yHjusNpIv"
+        "name": "My Love For You",
+        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
       },
       "artists": [
         {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
         }
       ],
-      "duration_ms": 209090,
-      "name": "I Will Find You",
-      "url": "https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5"
+      "duration_ms": 173587,
+      "name": "My Love For You",
+      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
     },
     {
       "added_at": "2026-06-11 22:01:52",
@@ -1531,22 +1547,6 @@
       "duration_ms": 228372,
       "name": "Let's Go Dancing",
       "url": "https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU"
-    },
-    {
-      "added_at": "2026-06-11 22:01:52",
-      "album": {
-        "name": "My Love For You",
-        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        }
-      ],
-      "duration_ms": 173587,
-      "name": "My Love For You",
-      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
     },
     {
       "added_at": "2026-06-11 22:01:52",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
+        "name": "MEDUZA",
+        "url": "https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/7gT3poPl89krqi8qcBinyU"
+    },
+    {
+      "added_at": "2026-06-11 22:01:52",
+      "album": {
         "name": "Deadly Valentine",
         "url": "https://open.spotify.com/album/1KrV7mXE0n4n6OncRaEuPB"
       },
@@ -1687,46 +1707,6 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
-        "name": "MEDUZA",
-        "url": "https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/7gT3poPl89krqi8qcBinyU"
-    },
-    {
-      "added_at": "2026-06-11 22:01:52",
-      "album": {
-        "name": "DURO",
-        "url": "https://open.spotify.com/album/7vHU6Thcn0BNx8esO7y2Ws"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "TNY",
-          "url": "https://open.spotify.com/artist/4CroZ02OMqULf4GM6UkMnw"
-        }
-      ],
-      "duration_ms": 187619,
-      "name": "DURO",
-      "url": "https://open.spotify.com/track/2spZQeEnPRJ7e3jj9vMXNC"
-    },
-    {
-      "added_at": "2026-06-11 22:01:52",
-      "album": {
         "name": "Told You So (Remixes Vol. 2)",
         "url": "https://open.spotify.com/album/7tSdlRlODwsNkMHTT86VCY"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 221102,
       "name": "Told You So - Agents Of Time Remix",
       "url": "https://open.spotify.com/track/2lQnyDTZSKQEgPYZtXYMaV"
+    },
+    {
+      "added_at": "2026-06-11 22:01:52",
+      "album": {
+        "name": "DURO",
+        "url": "https://open.spotify.com/album/7vHU6Thcn0BNx8esO7y2Ws"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "TNY",
+          "url": "https://open.spotify.com/artist/4CroZ02OMqULf4GM6UkMnw"
+        }
+      ],
+      "duration_ms": 187619,
+      "name": "DURO",
+      "url": "https://open.spotify.com/track/2spZQeEnPRJ7e3jj9vMXNC"
     },
     {
       "added_at": "2026-06-11 22:01:52",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
+        "name": "Don't Wake Me Up (Mathame Remix)",
+        "url": "https://open.spotify.com/album/0b6LL7pudctgubc8vZlhk6"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Don't Wake Me Up - Mathame Remix",
+      "url": "https://open.spotify.com/track/65n8srUiAPS5t6nEgZmRxL"
+    },
+    {
+      "added_at": "2026-06-11 22:01:52",
+      "album": {
         "name": "Parallax",
         "url": "https://open.spotify.com/album/6bojyA0Daix0B91oRJW5wM"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 228629,
       "name": "Parallax",
       "url": "https://open.spotify.com/track/0UgLmLX6DUkRsMmosFDfLb"
-    },
-    {
-      "added_at": "2026-06-11 22:01:52",
-      "album": {
-        "name": "Don't Wake Me Up (Mathame Remix)",
-        "url": "https://open.spotify.com/album/0b6LL7pudctgubc8vZlhk6"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Don't Wake Me Up - Mathame Remix",
-      "url": "https://open.spotify.com/track/65n8srUiAPS5t6nEgZmRxL"
     },
     {
       "added_at": "2026-06-11 22:01:52",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
+        "name": "Rondo",
+        "url": "https://open.spotify.com/album/3BR2YAI30QHuaYx95WWlZD"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "duration_ms": 146490,
+      "name": "Rondo",
+      "url": "https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3"
+    },
+    {
+      "added_at": "2026-06-11 22:01:52",
+      "album": {
         "name": "Flex My Ice",
         "url": "https://open.spotify.com/album/2Qiq217xFjj7ppUSI5rdvS"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 209523,
       "name": "Flex My Ice",
       "url": "https://open.spotify.com/track/6qgkgPXcMyOOwyIQ9Tml1R"
-    },
-    {
-      "added_at": "2026-06-11 22:01:52",
-      "album": {
-        "name": "Rondo",
-        "url": "https://open.spotify.com/album/3BR2YAI30QHuaYx95WWlZD"
-      },
-      "artists": [
-        {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
-        }
-      ],
-      "duration_ms": 146490,
-      "name": "Rondo",
-      "url": "https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3"
     },
     {
       "added_at": "2026-06-11 22:01:52",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/1SL5y9nXB0monY11oF6x4u"
-      },
-      "artists": [
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        }
-      ],
-      "duration_ms": 238125,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr"
-    },
-    {
-      "added_at": "2026-06-11 22:01:52",
-      "album": {
         "name": "Elysium",
         "url": "https://open.spotify.com/album/2FWPJEb6I1Qjcy85UCwM4e"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 219031,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/3SwWCfF9zT1A34ar3iDaaI"
+    },
+    {
+      "added_at": "2026-06-11 22:01:52",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1SL5y9nXB0monY11oF6x4u"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 238125,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr"
     },
     {
       "added_at": "2026-06-11 22:01:52",
@@ -2435,18 +2435,22 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
-        "name": "The Fall",
-        "url": "https://open.spotify.com/album/5cUjMv9cvwC2k0L52M9WMS"
+        "name": "Life Through A Different Lens",
+        "url": "https://open.spotify.com/album/4qkVLM1dHnydhcWUOg6U4A"
       },
       "artists": [
         {
-          "name": "Boris Way",
-          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
         }
       ],
-      "duration_ms": 200683,
-      "name": "The Fall",
-      "url": "https://open.spotify.com/track/2MxYP7fPz6IZMTSfVaJuww"
+      "duration_ms": 216653,
+      "name": "Paradise (Feat. Jem Cooke)",
+      "url": "https://open.spotify.com/track/6IB7ACtFpfxFbUR06pA7Xc"
     },
     {
       "added_at": "2026-06-11 22:01:52",
@@ -2475,6 +2479,22 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/5cUjMv9cvwC2k0L52M9WMS"
+      },
+      "artists": [
+        {
+          "name": "Boris Way",
+          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+        }
+      ],
+      "duration_ms": 200683,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/2MxYP7fPz6IZMTSfVaJuww"
+    },
+    {
+      "added_at": "2026-06-11 22:01:52",
+      "album": {
         "name": "Promised Land (Remixes)",
         "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
       },
@@ -2491,26 +2511,6 @@
       "duration_ms": 288115,
       "name": "Find A Way - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/4KoCo18Zg02uv72tyofFKf"
-    },
-    {
-      "added_at": "2026-06-11 22:01:52",
-      "album": {
-        "name": "Life Through A Different Lens",
-        "url": "https://open.spotify.com/album/4qkVLM1dHnydhcWUOg6U4A"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 216653,
-      "name": "Paradise (Feat. Jem Cooke)",
-      "url": "https://open.spotify.com/track/6IB7ACtFpfxFbUR06pA7Xc"
     },
     {
       "added_at": "2026-06-11 22:01:52",
@@ -2535,26 +2535,18 @@
     {
       "added_at": "2026-06-11 22:01:52",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/3RlCUXGxWy1TmXKdl4ck7Y"
+        "name": "Step Into Your Mind",
+        "url": "https://open.spotify.com/album/5YmJ00nNC2M66WR0nhxoCy"
       },
       "artists": [
         {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        },
-        {
-          "name": "Rafael Cerato",
-          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
-        },
-        {
-          "name": "Lena Sue",
-          "url": "https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30"
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
         }
       ],
-      "duration_ms": 248095,
-      "name": "Unleashed",
-      "url": "https://open.spotify.com/track/218l5c2LMvAIusPWi9v62I"
+      "duration_ms": 209032,
+      "name": "Step Into Your Mind",
+      "url": "https://open.spotify.com/track/2w1qucwFjnkjn4LRWhFjr1"
     }
   ],
   "unique_name": "Melodic Techno Elements",

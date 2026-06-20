@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Don't Rush",
+        "url": "https://open.spotify.com/album/2IBlpvkidmQhiUuu3SFttO"
+      },
+      "artists": [
+        {
+          "name": "Shaniah Bito",
+          "url": "https://open.spotify.com/artist/35dJwfpLTOdT4JHevIwZA0"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Don't Rush",
+      "url": "https://open.spotify.com/track/6vOjEdbys2CHui72u9C610"
+    },
+    {
+      "album": {
         "name": "EN3RGY",
         "url": "https://open.spotify.com/album/5RFMuaMkPzV7kpfvGAgjF6"
       },

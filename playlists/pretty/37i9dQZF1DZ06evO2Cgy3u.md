@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cgy3u.md) - [plain]
 
 > This is The Raincoats\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021 likes - 32 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,022 likes - 32 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cgy3u.md) - [plain]
 | 10 | [Running Away](https://open.spotify.com/track/5HNwgMrDzIxKepdVz34TwY) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 2:49 |
 | 11 | [And Then It's OK](https://open.spotify.com/track/35aBZUn6gHTfa2NFaYf2Nd) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 3:10 |
 | 12 | [Only Tonight](https://open.spotify.com/track/2O4XtuW60jpbVQFPJaan0c) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:28 |
-| 13 | [Adventures Close to Home](https://open.spotify.com/track/1KAbkJk4wblIcS4zTNJox0) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 1:53 |
+| 13 | [Off Duty Trip](https://open.spotify.com/track/6hsh2tGBNL5WlaQLrD61P7) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 3:15 |
 | 14 | [Dance of Hopping Mad](https://open.spotify.com/track/2NJJ2XkVaWVFoVJLRVye32) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 5:29 |
 | 15 | [Dancing in My Head](https://open.spotify.com/track/0hBv9EMmGNoFIpD2orvxI7) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 5:30 |
 | 16 | [Balloonacy](https://open.spotify.com/track/1ouNCaEmKfphN0PVubmLIq) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 4:19 |
-| 17 | [Off Duty Trip](https://open.spotify.com/track/6hsh2tGBNL5WlaQLrD61P7) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 3:15 |
+| 17 | [Adventures Close to Home](https://open.spotify.com/track/1KAbkJk4wblIcS4zTNJox0) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 1:53 |
 | 18 | [Balloon](https://open.spotify.com/track/2IHAoSawKMALzFRU6yRH8o) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:34 |
 | 19 | [Odyshape](https://open.spotify.com/track/2F6CwF1PFz3Ql8iDJ7XBVq) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 3:41 |
 | 20 | [Oh Oh La La La](https://open.spotify.com/track/7gLgP6dxtCQcR50nfhFm0h) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:17 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cgy3u.md) - [plain]
 | 31 | [Forgotten Words](https://open.spotify.com/track/4xkv53vFS5SInaHXW9E81H) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:36 |
 | 32 | [Babydog](https://open.spotify.com/track/7xeeZ3Gpr2hF8Nq9fTEXy0) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 5:05 |
 
-Snapshot ID: `ajHjgAAAAABRupN/ClpYY4PAc7f4sGDX`
+Snapshot ID: `ajM1AAAAAABeEgCQqc1Z6wxuipcYxxPC`

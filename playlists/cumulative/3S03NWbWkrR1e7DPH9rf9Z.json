@@ -1887,6 +1887,28 @@
     },
     {
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/0L3wBtrZKS8eLGu6BseDMD"
+      },
+      "artists": [
+        {
+          "name": "Joey Dale",
+          "url": "https://open.spotify.com/artist/3QjbhhPrW6clls3VPRGkXu"
+        },
+        {
+          "name": "Dirty Signal",
+          "url": "https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217741,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/6Ehx4fcQL2EgnAb1sj5wAl"
+    },
+    {
+      "album": {
         "name": "Go Down",
         "url": "https://open.spotify.com/album/43yt5EQ7RD12ZxZxPoshdW"
       },

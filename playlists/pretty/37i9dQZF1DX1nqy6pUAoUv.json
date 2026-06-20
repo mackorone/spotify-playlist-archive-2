@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170758,
+  "num_followers": 170752,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Rosey",
         "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 225999,
       "name": "Rosey",
       "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "The Bird & the Rifle",
+        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 264106,
+      "name": "The Bird & The Rifle",
+      "url": "https://open.spotify.com/track/0CKWuLBs7x02MUc3F7FwtW"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "Raise The Roof",
         "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "The Bird & the Rifle",
-        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
       },
       "artists": [
         {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
         }
       ],
-      "duration_ms": 264106,
-      "name": "The Bird & The Rifle",
-      "url": "https://open.spotify.com/track/0CKWuLBs7x02MUc3F7FwtW"
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1115,22 +1131,6 @@
       "duration_ms": 278167,
       "name": "Green Eyes - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 286139,
-      "name": "Bullet Holes in the Sky",
-      "url": "https://open.spotify.com/track/2MsSf6Ls0y4H54pJLlvVkg"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Hearts Town",
         "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
       },
@@ -1223,22 +1207,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Not Dark Yet",
-        "url": "https://open.spotify.com/album/4yJfRrReJMfIEULve1NksC"
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
       "artists": [
         {
-          "name": "Shelby Lynne",
-          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
-        },
-        {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
         }
       ],
-      "duration_ms": 259917,
-      "name": "Not Dark Yet",
-      "url": "https://open.spotify.com/track/6uG0VaubeAXcdqWJWirGtv"
+      "duration_ms": 286139,
+      "name": "Bullet Holes in the Sky",
+      "url": "https://open.spotify.com/track/2MsSf6Ls0y4H54pJLlvVkg"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1255,6 +1235,26 @@
       "duration_ms": 223418,
       "name": "Come and Fill My Soul",
       "url": "https://open.spotify.com/track/4qWLk808SIvlMvKmAIrWk4"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Not Dark Yet",
+        "url": "https://open.spotify.com/album/4yJfRrReJMfIEULve1NksC"
+      },
+      "artists": [
+        {
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        },
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+        }
+      ],
+      "duration_ms": 259917,
+      "name": "Not Dark Yet",
+      "url": "https://open.spotify.com/track/6uG0VaubeAXcdqWJWirGtv"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Manchester Air",
-        "url": "https://open.spotify.com/album/6J5XzblZhX17EZKFYnie89"
+        "name": "One Night Lonely (Live)",
+        "url": "https://open.spotify.com/album/5EKD30jtEHxZypuRQDUA7P"
       },
       "artists": [
         {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
         }
       ],
-      "duration_ms": 247328,
-      "name": "Manchester Air",
-      "url": "https://open.spotify.com/track/3DR0HjNmqlQ2mDmI8AuP2l"
+      "duration_ms": 287480,
+      "name": "Chasing What's Already Gone - Live",
+      "url": "https://open.spotify.com/track/4QfBWnHMmnwAer7cztxgvb"
     }
   ],
   "unique_name": "Contemporary Folk",

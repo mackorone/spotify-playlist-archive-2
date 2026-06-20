@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: selines",
-  "num_followers": 34834,
+  "num_followers": 34845,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
+        "name": "Sonido C\u00f3smico",
+        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 278862,
+      "name": "It\u2019s All In Your Mind",
+      "url": "https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 183880,
       "name": "Asilo (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
-        "name": "Sonido C\u00f3smico",
-        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 278862,
-      "name": "It\u2019s All In Your Mind",
-      "url": "https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Flores Muertas",
-        "url": "https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC"
-      },
-      "artists": [
-        {
-          "name": "Tavo Guarneros",
-          "url": "https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q"
-        }
-      ],
-      "duration_ms": 328663,
-      "name": "Flores Muertas",
-      "url": "https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "Neblina Sesiones desde el Bosque",
         "url": "https://open.spotify.com/album/2lMcIJqzPaS4qJahlHpUHA"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 220765,
       "name": "Canto de Amor - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/33CUljxlbtF0EnAfBU4BDJ"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "Flores Muertas",
+        "url": "https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC"
+      },
+      "artists": [
+        {
+          "name": "Tavo Guarneros",
+          "url": "https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q"
+        }
+      ],
+      "duration_ms": 328663,
+      "name": "Flores Muertas",
+      "url": "https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Una historia que contar",
-        "url": "https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk"
-      },
-      "artists": [
-        {
-          "name": "Mateo Falgas",
-          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
-        }
-      ],
-      "duration_ms": 186995,
-      "name": "Una historia que contar",
-      "url": "https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 202610,
       "name": "Luces",
       "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "Una historia que contar",
+        "url": "https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk"
+      },
+      "artists": [
+        {
+          "name": "Mateo Falgas",
+          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
+        }
+      ],
+      "duration_ms": 186995,
+      "name": "Una historia que contar",
+      "url": "https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
+        "name": "Al Pie del Volc\u00e1n",
+        "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
+      },
+      "artists": [
+        {
+          "name": "Yo y las Bestias",
+          "url": "https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP"
+        }
+      ],
+      "duration_ms": 245422,
+      "name": "Al Pie del Volc\u00e1n",
+      "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
         "name": "Feliz contigo",
         "url": "https://open.spotify.com/album/3sRPrPaHsGAiUOH0wynHQQ"
       },
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Al Pie del Volc\u00e1n",
-        "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
-      },
-      "artists": [
-        {
-          "name": "Yo y las Bestias",
-          "url": "https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP"
-        }
-      ],
-      "duration_ms": 245422,
-      "name": "Al Pie del Volc\u00e1n",
-      "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "Estrellas En El Mar",
         "url": "https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N"
       },
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "X M\u00ed (Vol. 1)",
-        "url": "https://open.spotify.com/album/6acPZRAg6LmiWEX3FPtmQF"
-      },
-      "artists": [
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 364786,
-      "name": "Juegos y Miedos - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4TRZk8gb5btbkXbTx3yo7k"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "Renacido",
         "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 253986,
       "name": "Renacido",
       "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "X M\u00ed (Vol. 1)",
+        "url": "https://open.spotify.com/album/6acPZRAg6LmiWEX3FPtmQF"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "duration_ms": 364786,
+      "name": "Juegos y Miedos - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4TRZk8gb5btbkXbTx3yo7k"
     },
     {
       "added_at": "2026-06-17 15:34:50",

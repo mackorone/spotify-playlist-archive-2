@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,294 likes - 80 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,300 likes - 80 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 11 | [Shake It Loose \- Nathan Barato Remix](https://open.spotify.com/track/3LzNZBsgsHjZfm2DtquNwv) | [Tyler Hill](https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr), [Nathan Barato](https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4) | [Shake It Loose](https://open.spotify.com/album/7vzCdAskchu9YqkWtIbRbL) | 6:18 |
 | 12 | [Kiss From A Rose](https://open.spotify.com/track/5LNFAjkC0DhgUfiQcKHrX4) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Walter Phillips](https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ) | [Kiss From A Rose](https://open.spotify.com/album/7hWYQeuLz8pL88CqfFLroi) | 2:35 |
 | 13 | [Aleric](https://open.spotify.com/track/6dtBKjXV20uqfSLZoo0t2h) | [Baime](https://open.spotify.com/artist/1BhpnaiATjhNtIjTjSHLz4), [Jepe](https://open.spotify.com/artist/5ejwp8bnIfkstS6zPBSrzO) | [Aleric](https://open.spotify.com/album/4bDsAQ5PwqUJmJY8xdRDv5) | 6:18 |
-| 14 | [Move](https://open.spotify.com/track/2Kk6DJR5OsxNrN2uEEg1k6) | [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Move](https://open.spotify.com/album/1gBScbXZBbVZXksnDzI6ze) | 4:59 |
+| 14 | [Move](https://open.spotify.com/track/2Kk6DJR5OsxNrN2uEEg1k6) | [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Move](https://open.spotify.com/album/1gBScbXZBbVZXksnDzI6ze) | 4:59 |
 | 15 | [Mad Motion](https://open.spotify.com/track/65TcmTdJ6bqvYfC8UTsqiR) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Mad Motion](https://open.spotify.com/album/3JDv0FccxznLCdDIs32axJ) | 2:40 |
 | 16 | [Simulator \- Odd Mob Remix](https://open.spotify.com/track/0GiT71RKKiZbmBH4u3VoU1) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Simulator Remixes](https://open.spotify.com/album/3yYs4kAhpSnBsHC1Usadyd) | 4:11 |
 | 17 | [Shake Body](https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Shake Body](https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8) | 3:11 |

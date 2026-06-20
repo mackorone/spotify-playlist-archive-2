@@ -4987,6 +4987,24 @@
     },
     {
       "album": {
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/13sFVVgefDaJppXGH8pyJl"
+      },
+      "artists": [
+        {
+          "name": "Sujo",
+          "url": "https://open.spotify.com/artist/48j7Y03pXamTYd3TGuVL7r"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/3ykYgc3QSxKuBYRXl4l9Uv"
+    },
+    {
+      "album": {
         "name": "Cocktail",
         "url": "https://open.spotify.com/album/3hhjq59BQ2HoXd3hxyyCPl"
       },
@@ -5884,6 +5902,28 @@
       "duration_ms": 172000,
       "name": "Daily Life (Feat. GRAM)",
       "url": "https://open.spotify.com/track/6wFTXiFfYEgaZuKjbBOD8a"
+    },
+    {
+      "album": {
+        "name": "DAISY",
+        "url": "https://open.spotify.com/album/4ORomDLja82WVXGmEePcsq"
+      },
+      "artists": [
+        {
+          "name": "RIPLEY",
+          "url": "https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ"
+        },
+        {
+          "name": "yedira",
+          "url": "https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124827,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/0vd69ZoxNRPDNkdD02uX13"
     },
     {
       "album": {
@@ -7160,6 +7200,24 @@
       "duration_ms": 192000,
       "name": "Double Trouble (Remix)",
       "url": "https://open.spotify.com/track/2TeevnrPlJfYfyJtSjK1mB"
+    },
+    {
+      "album": {
+        "name": "Down to the sea",
+        "url": "https://open.spotify.com/album/2aL6YVx9fjCUpsLwiWuYyv"
+      },
+      "artists": [
+        {
+          "name": "Minjeong",
+          "url": "https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205589,
+      "name": "Down to the sea",
+      "url": "https://open.spotify.com/track/58Xwb48IoXtvmGTGP8L34N"
     },
     {
       "album": {
@@ -9414,6 +9472,24 @@
       "duration_ms": 187783,
       "name": "Following you once again",
       "url": "https://open.spotify.com/track/1KBsOceByEC8AeetRM6EcK"
+    },
+    {
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/7vip43KlGFeIdvcwNxiPG8"
+      },
+      "artists": [
+        {
+          "name": "South Kidd",
+          "url": "https://open.spotify.com/artist/1esvVLySdorVAyrigvWQxZ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144715,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/5ut4evJfC39eyPuyU6V598"
     },
     {
       "album": {
@@ -11972,7 +12048,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 170000,
       "name": "horse",
       "url": "https://open.spotify.com/track/59FYfmeeHiPVgYfHd75TiH"
@@ -13804,6 +13880,28 @@
       "duration_ms": 161379,
       "name": "indivisible",
       "url": "https://open.spotify.com/track/1SgeUkSYNwSQilkVGf7Eam"
+    },
+    {
+      "album": {
+        "name": "inmymind (Feat. Jean Vice)",
+        "url": "https://open.spotify.com/album/6TFsUmLVwO8r8KJdp3LzCG"
+      },
+      "artists": [
+        {
+          "name": "Yunu",
+          "url": "https://open.spotify.com/artist/37P0d2JpSfHUaEOU3aZVcQ"
+        },
+        {
+          "name": "Jean Vice",
+          "url": "https://open.spotify.com/artist/4b9XYj9WBdBgM2tUy0F9Xy"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156860,
+      "name": "inmymind (Feat. Jean Vice)",
+      "url": "https://open.spotify.com/track/6Z2jFoXG8Mu4N1d2MIrI94"
     },
     {
       "album": {
@@ -17250,7 +17348,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 170000,
       "name": "Message (with Gist)",
       "url": "https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL"
@@ -18798,7 +18896,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 251000,
       "name": "No Worry Salon",
       "url": "https://open.spotify.com/track/0qTny0XZx8NOzJLjiOLQoU"
@@ -21745,6 +21843,24 @@
     },
     {
       "album": {
+        "name": "Remaining",
+        "url": "https://open.spotify.com/album/07o0WLU12HUpGjvuzCvcJx"
+      },
+      "artists": [
+        {
+          "name": "Parannoul",
+          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317000,
+      "name": "Remaining",
+      "url": "https://open.spotify.com/track/6n7EzXekjBHOgAjJbrWrn8"
+    },
+    {
+      "album": {
         "name": "When the light that shine on us fades away",
         "url": "https://open.spotify.com/album/3LbGstDmD6sE34YieZ7WIB"
       },
@@ -23616,7 +23732,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 160746,
       "name": "socks",
       "url": "https://open.spotify.com/track/7wkUcJctXuRrG7eNVD8Ivx"
@@ -24122,7 +24238,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 194004,
       "name": "Starving",
       "url": "https://open.spotify.com/track/18JFKESC4ZJTiydyE0LIot"
@@ -24198,7 +24314,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 237676,
       "name": "Stay by My Side",
       "url": "https://open.spotify.com/track/5EFEOUuM7PpnT23rqzz1Qz"
@@ -24907,6 +25023,24 @@
     },
     {
       "album": {
+        "name": "Summer Equation",
+        "url": "https://open.spotify.com/album/7vxxHrc0G4FVWoBsG8auNQ"
+      },
+      "artists": [
+        {
+          "name": "EJel",
+          "url": "https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Summer Equation",
+      "url": "https://open.spotify.com/track/35cHw3u8SKKmjlunF9yWmR"
+    },
+    {
+      "album": {
         "name": "Summer Freak",
         "url": "https://open.spotify.com/album/7zld27DJOAGzHZwTjKH1Lb"
       },
@@ -25580,7 +25714,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 318567,
       "name": "Take-Off",
       "url": "https://open.spotify.com/track/76vuTnayDmrSqcsXMBsUKH"
@@ -27229,6 +27363,24 @@
     },
     {
       "album": {
+        "name": "WALET",
+        "url": "https://open.spotify.com/album/0JA0mtbGUqjyCreT7RHOq0"
+      },
+      "artists": [
+        {
+          "name": "Sii",
+          "url": "https://open.spotify.com/artist/0X9TIFzB6y6kA2pZBcRmLu"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175920,
+      "name": "TOO SLOW",
+      "url": "https://open.spotify.com/track/73GLUtAnxpbWrT2xgUmzLw"
+    },
+    {
+      "album": {
         "name": "took",
         "url": "https://open.spotify.com/album/75uoBvStIbjZYTK7l1ccwP"
       },
@@ -28562,7 +28714,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 198709,
       "name": "Wave To Home",
       "url": "https://open.spotify.com/track/51KFJlb69QIH94YodF6Xay"
@@ -30697,6 +30849,24 @@
     },
     {
       "album": {
+        "name": "You\u2019re my summer",
+        "url": "https://open.spotify.com/album/0uDar1M8hqUsDDQeJtRRTw"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "You\u2019re my summer",
+      "url": "https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY"
+    },
+    {
+      "album": {
         "name": "You\u2019re the Reason",
         "url": "https://open.spotify.com/album/3xVKf7cBwdVZtz9FR2nzy3"
       },
@@ -31810,7 +31980,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 259000,
       "name": "\uc6b0\uc8fc\uc778",
       "url": "https://open.spotify.com/track/07oZw64EhC450udta5BAip"

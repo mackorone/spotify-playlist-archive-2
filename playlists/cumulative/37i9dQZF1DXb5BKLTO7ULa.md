@@ -4,7 +4,7 @@
 
 > Nieuw: Russo & Mart Hoogkamer, Myles Smith, Henkie T & KM, Tyla en meer..
 
-16,242 songs - 35 day 8 hr 13 min
+16,244 songs - 35 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [A Moment](https://open.spotify.com/track/0XTt9kpYyjgYtBfeqOFea6) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [A Moment](https://open.spotify.com/album/2ZFQN6NQUWJdr2GbffQUmy) | 3:46 | 2024-12-05 | 2024-12-13 |
 | [A Moment](https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [A Moment](https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa) | 3:23 | 2025-01-16 | 2025-01-24 |
 | [A Moon Shaped Face](https://open.spotify.com/track/4jNFgDBotejx2rlZX09VPg) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [A Moon Shaped Face](https://open.spotify.com/album/4T0M5mslCbisW0h54KMS0Y) | 4:25 | 2024-02-15 | 2024-02-23 |
+| [A Needle In A Haystack](https://open.spotify.com/track/1i6Xp9sKqWGQjASQWljyNK) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc) | [A Needle In A Haystack](https://open.spotify.com/album/75dPXEqGqwb1fKEJVXxGqU) | 3:16 | 2026-06-19 |  |
 | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0) | 3:27 | 2025-07-24 | 2025-08-01 |
 | [A Niffski](https://open.spotify.com/track/7iIVXkLJ9DHCqwZFajsqsX) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [A Niffski](https://open.spotify.com/album/0mrkKpRSbPimpQClNxajMW) | 1:57 | 2023-10-05 | 2023-10-13 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-20 | 2023-10-27 |
@@ -14719,7 +14720,8 @@
 | [Useless \(Without You\)](https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Useless \(Without You\)](https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35) | 2:46 | 2025-08-14 | 2025-08-22 |
 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2024-09-05 | 2024-09-13 |
 | [USUALLY](https://open.spotify.com/track/39dSTrk5vaWjjX0up6Oemv) | [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B) | [USUALLY](https://open.spotify.com/album/1TQXKkv50w07cLqSddhu9Q) | 3:15 | 2024-02-09 | 2024-02-16 |
-| [Utopia](https://open.spotify.com/track/1XNUmD035Ft6LLXDuXCcJh) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Page Of Cups \(Reversed\)](https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr) | 3:54 | 2026-06-18 |  |
+| [Utopia](https://open.spotify.com/track/1XNUmD035Ft6LLXDuXCcJh) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Page Of Cups \(Reversed\)](https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr) | 3:54 | 2026-06-18 | 2026-06-20 |
+| [Utopia](https://open.spotify.com/track/645Nzy8pjijHCGktPNEv5O) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Utopia](https://open.spotify.com/album/0nfR3Ynoarnypo1jcpNwDj) | 3:54 | 2026-06-19 |  |
 | [Utrecht](https://open.spotify.com/track/4NCIduhosiVATq2M38bhI2) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Utrecht](https://open.spotify.com/album/5XpjEbOmsoOOaHWZRjvd76) | 3:13 | 2025-03-20 | 2025-03-28 |
 | [Uuugly](https://open.spotify.com/track/0T0S3Ue6h1ozJRSu4A4uKs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 1:55 | 2024-06-28 | 2024-07-05 |
 | [UV](https://open.spotify.com/track/763vwfppEuPZjKQPtvXBNA) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Liminal](https://open.spotify.com/album/2KcyjDwJU1Y5sjXMIETiPR) | 5:06 | 2024-09-26 | 2024-10-04 |

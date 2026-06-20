@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 ### [2026 COUNTRY BANGERS 🤠🔥](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Taylor Swift
+> The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Taylor Swift
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,190 likes - 83 songs - 4 hr 27 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,189 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,15 +81,32 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 | 71 | [Park](https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Strong](https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo) | 2:44 |
 | 72 | [Bar And Back](https://open.spotify.com/track/3tIpPero4mBna2KK8xndmm) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Bar And Back](https://open.spotify.com/album/4dIRUzzqfwQtjyqCJJoEbN) | 3:14 |
 | 73 | [Bottomland](https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Bottomland](https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o) | 3:04 |
-| 74 | [Thorns](https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Thorns](https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg) | 3:10 |
-| 75 | [Country House](https://open.spotify.com/track/2DOxC6AdXlSeUrsgWKuX4X) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Locked Up](https://open.spotify.com/album/1uZrgmt2depCIzzN0FxfIv) | 3:34 |
-| 76 | [You Didn’t Hear It From Me](https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [One Of Us](https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA) | 3:09 |
-| 77 | [Friday Night Heartbreaker](https://open.spotify.com/track/0oJhcYnFy6wx36jSFaDGuM) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Friday Night Heartbreaker](https://open.spotify.com/album/0FGySZHkb5MORFp5BG9L8z) | 3:25 |
-| 78 | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 |
-| 79 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 |
-| 80 | [Damned If I Do](https://open.spotify.com/track/5Lf0Hm3SuFxFzjfhg0Sous) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [There I Go](https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg) | 3:37 |
-| 81 | [Bar None](https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bar None](https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI) | 2:53 |
-| 82 | [Land](https://open.spotify.com/track/4848iEZHeWX9rqPlilPA87) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Land](https://open.spotify.com/album/5MlazoygT2SDyJMOrvkVXr) | 3:23 |
-| 83 | [When You Know You Know](https://open.spotify.com/track/32sIMbP91MRYwlQ92UfYZL) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Somewhere in a Small Town](https://open.spotify.com/album/5Ia42Ht7CTQSy5LCUVtgSc) | 2:57 |
+| 74 | [Country House](https://open.spotify.com/track/2DOxC6AdXlSeUrsgWKuX4X) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Locked Up](https://open.spotify.com/album/1uZrgmt2depCIzzN0FxfIv) | 3:34 |
+| 75 | [You Didn’t Hear It From Me](https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [One Of Us](https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA) | 3:09 |
+| 76 | [Friday Night Heartbreaker](https://open.spotify.com/track/0oJhcYnFy6wx36jSFaDGuM) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Friday Night Heartbreaker](https://open.spotify.com/album/0FGySZHkb5MORFp5BG9L8z) | 3:25 |
+| 77 | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 |
+| 78 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 |
+| 79 | [Damned If I Do](https://open.spotify.com/track/5Lf0Hm3SuFxFzjfhg0Sous) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [There I Go](https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg) | 3:37 |
+| 80 | [Bar None](https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bar None](https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI) | 2:53 |
+| 81 | [Land](https://open.spotify.com/track/4848iEZHeWX9rqPlilPA87) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Land](https://open.spotify.com/album/5MlazoygT2SDyJMOrvkVXr) | 3:23 |
+| 82 | [When You Know You Know](https://open.spotify.com/track/32sIMbP91MRYwlQ92UfYZL) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Somewhere in a Small Town](https://open.spotify.com/album/5Ia42Ht7CTQSy5LCUVtgSc) | 2:57 |
+| 83 | [Think As You Drunk](https://open.spotify.com/track/20FhqUEadmPYCrJYzeyPSx) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Think As You Drunk](https://open.spotify.com/album/10I3RS2Ijy9GCVZZAVG7Al) | 3:48 |
+| 84 | [Love Hate Love](https://open.spotify.com/track/11BKDVxYGuWPjEOjfVCJNr) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In The Feeling](https://open.spotify.com/album/5t9dUqzhZipR4hx7et4gx4) | 2:55 |
+| 85 | [Hurtin' Songs](https://open.spotify.com/track/0T0tw43OEpIBjIQFFBdoCg) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Let Your Horses Run \- The Album \(Deluxe Edition\)](https://open.spotify.com/album/4OwKgEgCtTiYFnPbk1a1HY) | 3:04 |
+| 86 | [Be Your Man](https://open.spotify.com/track/7v8UTNAwAE5eb85FGKVl4N) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Be Your Man](https://open.spotify.com/album/4y0kalZtaXrYjUxkqG6wu7) | 3:13 |
+| 87 | [Turn This Truck Around](https://open.spotify.com/track/6Yvrv046xNsQXX3MirnO8l) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Turn This Truck Around](https://open.spotify.com/album/1vvuNH6s9nkkUIZKf1itJg) | 3:24 |
+| 88 | [Better That Way \(feat\. Luke Combs\)](https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Better That Way](https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt) | 3:45 |
+| 89 | [baby blues](https://open.spotify.com/track/0gx2NKeIy2YCc1UaXkJmYI) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [ace](https://open.spotify.com/album/1qV1UBoBOubbEoNetigs3Z) | 2:54 |
+| 90 | [Runnin' Down A Dream](https://open.spotify.com/track/2m1kaNrld481MmOB3WWb6a) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Runnin' Down A Dream](https://open.spotify.com/album/6zuoQB73uUNKG2IUEHtq44) | 4:59 |
+| 91 | [Let Me Show You Love](https://open.spotify.com/track/1GJsiT7fmv9c4RprwabzrQ) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Act I: Summer Nights](https://open.spotify.com/album/3RPDh3A283D7F4DuJO95kD) | 3:29 |
+| 92 | [high school sweetheart](https://open.spotify.com/track/3kxcRsR6yaghkuTwXDZO5Z) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [high school sweetheart](https://open.spotify.com/album/7KdJRMPSpI6zxnWV3mWYXL) | 3:11 |
+| 93 | [Ain't Over Me Yet](https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Ain't Over Me Yet](https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p) | 3:24 |
+| 94 | [Honeysuckle](https://open.spotify.com/track/2SDysVSv74sRO77e4Av4ce) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Honeysuckle](https://open.spotify.com/album/7IKzNJb9R5wI1zQbgHG0o7) | 3:15 |
+| 95 | [You Can Have Him](https://open.spotify.com/track/2Fk3aGFUTMniC8tNSJWe4S) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [You Can Have Him](https://open.spotify.com/album/2sLwRHswcURQ3Oe0chhcN8) | 3:15 |
+| 96 | [Crisco](https://open.spotify.com/track/5pnWECOdwXO5tIyx1DqAeP) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crisco](https://open.spotify.com/album/70GWxgdMF8ybDcY4JX9SEE) | 2:56 |
+| 97 | [Bitches](https://open.spotify.com/track/6M1i8I1dRCTw0VESPXikw6) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Bitches](https://open.spotify.com/album/6md6XQS1qEmxx4UDyEx9qa) | 3:48 |
+| 98 | [Hell On Me](https://open.spotify.com/track/3VeiX8rGAwlFMcqV0ScviA) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr) | 3:08 |
+| 99 | [Hey There Son \(feat\. Wyatt Flores\)](https://open.spotify.com/track/6bxxxlnPtYLDCFJiHEnJ9s) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC), [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Hey There Son](https://open.spotify.com/album/7vYGf3JgUNorLT6jW9j8w9) | 4:08 |
+| 100 | [Preacher’s Kid](https://open.spotify.com/track/0xhJziFgWiRqV3ihWaXdc0) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Preacher’s Kid](https://open.spotify.com/album/5r5DSgxAIE0yWQjqZT61fo) | 5:02 |
 
-Snapshot ID: `AAAm+GMgO9JOPFBZNo2SCxeEjxGe3PQP`
+Snapshot ID: `AAAnDQlEX/rcAUZf+o3XoOU1mY/7TjUi`

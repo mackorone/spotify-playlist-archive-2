@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-862 songs - 1 day 18 hr 44 min
+863 songs - 1 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Keep You](https://open.spotify.com/track/0NHGqculuy8Aa1bEerrGtS) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Keep You](https://open.spotify.com/album/5dunVmIKUec2zaq5rJeFe5) | 2:42 | 2024-01-26 | 2024-12-09 |
 | [KHARMA](https://open.spotify.com/track/2GMWUfoFmwy5KO4XZCcW3R) | [Christopher Damas](https://open.spotify.com/artist/03sZi1EjCnl0b3Irnqa9NJ) | [KHARMA](https://open.spotify.com/album/0wNUgo1LK6wv3R0Ot4imWF) | 1:38 | 2024-03-27 | 2024-05-23 |
 | [KILL ZONE](https://open.spotify.com/track/10QQjmucQgBlrKc0RPh2i2) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [KILL ZONE \(OLD UPC VERSION\)](https://open.spotify.com/album/2p2T64NBnD9KObNPGmeLZP) | 2:03 | 2025-10-20 |  |
+| [KYOTO](https://open.spotify.com/track/0LqxFn08bsfGCT0AtvSWu7) | [HESTER](https://open.spotify.com/artist/1jCLTlhIUyR4NVuBjLBxAG) | [KYOTO](https://open.spotify.com/album/6mDgDqxkApKTf6F19hn7O9) | 6:18 | 2026-06-19 |  |
 | [La Manera De Vivir](https://open.spotify.com/track/7C2OMLPtQsbQgcOiyFytzA) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [ÆSTRØ](https://open.spotify.com/artist/4JXD4saaiFlOBWXhDPtj4F) | [La Manera De Vivir](https://open.spotify.com/album/2cfbzv0R430XWmjtKPSQ7Q) | 2:06 | 2023-02-02 | 2023-08-10 |
 | [la playa](https://open.spotify.com/track/0hfsatZUTyfIRnHObyf3WR) | [SK3TCH01](https://open.spotify.com/artist/0NakXcxWSSLTMHvJsDWPVC), [X972](https://open.spotify.com/artist/0ShRIzN5hJDUBGPmn1rt50) | [la playa](https://open.spotify.com/album/4EmlPBi5UFiXhbiyVuz34k) | 1:12 | 2025-10-21 |  |
 | [LA VIBE](https://open.spotify.com/track/4pgmtdYruqcV7gcT1uky56) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [LA VIBE](https://open.spotify.com/album/4Rggq3KsZImoLSicpoYaz7) | 2:12 | 2023-02-03 | 2023-08-10 |

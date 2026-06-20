@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 225892,
       "name": "Born Like That",
       "url": "https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN"
@@ -13470,6 +13470,32 @@
       "duration_ms": 291840,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/7kUZGVHKDRBrPIYfhZ49ju"
+    },
+    {
+      "album": {
+        "name": "Cross Pollination II",
+        "url": "https://open.spotify.com/album/4g25RHR3VYr0mP6yqV0vaG"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400629,
+      "name": "The Doubt",
+      "url": "https://open.spotify.com/track/2sxAMFvwgEwNer6Ph1SZcn"
     },
     {
       "album": {

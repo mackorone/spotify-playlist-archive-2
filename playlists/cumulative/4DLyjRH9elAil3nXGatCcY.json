@@ -5549,6 +5549,24 @@
     },
     {
       "album": {
+        "name": "Paradise State of Mind",
+        "url": "https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259252,
+      "name": "Lost In Space",
+      "url": "https://open.spotify.com/track/6r9GzPEdq4bGp507oxt2iZ"
+    },
+    {
+      "album": {
         "name": "Legend of Synthwave",
         "url": "https://open.spotify.com/album/4TeZZfbu3rbifAjwiAAEq8"
       },

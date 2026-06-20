@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Kalash",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Franglish, KeBlack",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -2765,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "SOLARIA",
+        "url": "https://open.spotify.com/album/5GGl1EIK37AbSyz3Gg0wCu"
+      },
+      "artists": [
+        {
+          "name": "FRE5H",
+          "url": "https://open.spotify.com/artist/3wHBt5vw5plrufZh1DdQVe"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141745,
+      "name": "CHROMI",
+      "url": "https://open.spotify.com/track/2jayHZIvrhTwLYXKZuBv3l"
+    },
+    {
+      "album": {
         "name": "CH\u00c9RIE COCO",
         "url": "https://open.spotify.com/album/5i5r4A39FsatsEZEsuLxXK"
       },
@@ -3786,7 +3804,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 152748,
       "name": "Dolce Camara - Solo",
       "url": "https://open.spotify.com/track/3kOz2ACmLHZ9iXuWm7Ofgh"
@@ -4244,7 +4262,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 143078,
       "name": "Essentiel",
       "url": "https://open.spotify.com/track/1EAllf5nFkcLD8ER7Ge6xv"
@@ -4564,7 +4582,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 137622,
       "name": "FLASH-BACK",
       "url": "https://open.spotify.com/track/13ykgko9pytBkK3UAoIrfY"
@@ -5339,6 +5357,32 @@
     },
     {
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "iDS",
+          "url": "https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135600,
+      "name": "Haut les mains",
+      "url": "https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0"
+    },
+    {
+      "album": {
         "name": "HIVER-\u00c9T\u00c9",
         "url": "https://open.spotify.com/album/2Fy1Uv2C57hnoV0Qvrl9nS"
       },
@@ -5972,6 +6016,24 @@
       "duration_ms": 177705,
       "name": "Jefe",
       "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
+    },
+    {
+      "album": {
+        "name": "JEUNE MAUDIT",
+        "url": "https://open.spotify.com/album/5Jp1s99yg5nPduWgek17MK"
+      },
+      "artists": [
+        {
+          "name": "KDS Requinzer",
+          "url": "https://open.spotify.com/artist/6ig5quIM4AJ5GRzccMh5r3"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145942,
+      "name": "JEUNE MAUDIT",
+      "url": "https://open.spotify.com/track/4ptCIjRZggIuDX7Swkd02d"
     },
     {
       "album": {
@@ -6904,7 +6966,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 166344,
       "name": "le toit",
       "url": "https://open.spotify.com/track/5SXrcFJlLlJLW7HZpR7HHl"
@@ -6952,6 +7014,24 @@
       "duration_ms": 180466,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/6m9iOAk3qIfvpem4MQBOH8"
+    },
+    {
+      "album": {
+        "name": "Les avions dessinent dans le ciel",
+        "url": "https://open.spotify.com/album/7EUblqvqDOvXR5eW5HkTqh"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183694,
+      "name": "Les avions dessinent dans le ciel",
+      "url": "https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci"
     },
     {
       "album": {
@@ -8782,7 +8862,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 128479,
       "name": "OBLIGER",
       "url": "https://open.spotify.com/track/4jxX1SYeB6AQTOdtOwr2hg"
@@ -9032,6 +9112,32 @@
       "duration_ms": 203714,
       "name": "OUTRO MAMEK",
       "url": "https://open.spotify.com/track/7xRbgJim0Nmpoz2slHcGGM"
+    },
+    {
+      "album": {
+        "name": "Pacino Pacino",
+        "url": "https://open.spotify.com/album/2euScZkRrvIvDaEmFwHhEV"
+      },
+      "artists": [
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        },
+        {
+          "name": "Di-Meh",
+          "url": "https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y"
+        },
+        {
+          "name": "Jungle Jack",
+          "url": "https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252858,
+      "name": "Pacino Pacino",
+      "url": "https://open.spotify.com/track/2sDQJHNnpSul59Bey6FGcU"
     },
     {
       "album": {
@@ -9490,6 +9596,24 @@
       "duration_ms": 113093,
       "name": "phileas fogg",
       "url": "https://open.spotify.com/track/03ijxNalYn4V6467YMGMP3"
+    },
+    {
+      "album": {
+        "name": "FREE MOI",
+        "url": "https://open.spotify.com/album/1UnHdl7psxcwXkNAbavqTZ"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/48OCj1qG6BPITStmgBVca3"
     },
     {
       "album": {
@@ -11294,7 +11418,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 177586,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/3nkVSeaL5M6II2uHQHRuYM"
@@ -12078,7 +12202,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 230986,
       "name": "Timide",
       "url": "https://open.spotify.com/track/07VCHR1MatmWTmVSfxB5pe"

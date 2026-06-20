@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 179881,
       "name": "17",
       "url": "https://open.spotify.com/track/5SKQD13rINIdIS8WLZCi9I"
@@ -262,6 +262,24 @@
       "duration_ms": 145137,
       "name": "A A A A",
       "url": "https://open.spotify.com/track/0PX4JOqMRoUc8TzN51zenN"
+    },
+    {
+      "album": {
+        "name": "A Ciegas",
+        "url": "https://open.spotify.com/album/3a6H8bAGT4GNk3a0n38Nhp"
+      },
+      "artists": [
+        {
+          "name": "Duck Fizz",
+          "url": "https://open.spotify.com/artist/6sk1tzWevukbzNTIDTlhzy"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221058,
+      "name": "A Ciegas",
+      "url": "https://open.spotify.com/track/1ObQCTqo42fBTjyFJTPWkO"
     },
     {
       "album": {
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 204368,
       "name": "B\u00fafalo",
       "url": "https://open.spotify.com/track/50CWGGcyq8U3NPYl9NeYHv"
@@ -2760,6 +2778,24 @@
       "duration_ms": 232120,
       "name": "Como T\u00fa (Magic Music Box)",
       "url": "https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e"
+    },
+    {
+      "album": {
+        "name": "Como Un Demonio En Una Nube",
+        "url": "https://open.spotify.com/album/7uxgEU1un329TjEic8w3Nf"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282755,
+      "name": "Como Un Demonio En Una Nube",
+      "url": "https://open.spotify.com/track/0Jdwf1lgADTILn7Dh4aneo"
     },
     {
       "album": {
@@ -4056,6 +4092,24 @@
       "duration_ms": 212185,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/6jW1BghId3ws6BFC2Sk8dk"
+    },
+    {
+      "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/5S3yeQpoIqDAt7yeaypYro"
+      },
+      "artists": [
+        {
+          "name": "Taller para Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177031,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/5sAvtDy3WE2Wf9JtDguqqt"
     },
     {
       "album": {
@@ -11838,7 +11892,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 194823,
       "name": "Procedimientos (All Stxrz)",
       "url": "https://open.spotify.com/track/7a3mWCEN2bmNQ3GwWybyUN"
@@ -14551,6 +14605,28 @@
     },
     {
       "album": {
+        "name": "Amor Compartido",
+        "url": "https://open.spotify.com/album/5iNKAEiXpsvzu1Q9NyoVSy"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        },
+        {
+          "name": "l0rna",
+          "url": "https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174663,
+      "name": "Troleo",
+      "url": "https://open.spotify.com/track/12j1vaKdxjmaNogDsVU2HQ"
+    },
+    {
+      "album": {
         "name": "Troleo",
         "url": "https://open.spotify.com/album/6FQf51yZPm75XkUO0mU2TG"
       },
@@ -15316,7 +15392,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 218823,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/5LkP3BLxs7f8GWvuOqfRV1"

@@ -4,7 +4,7 @@
 
 > What track is BTS's Spotify\-exclusive music video coming out on the 19th? Vote now to guess!
 
-560 songs - 1 day 8 hr 47 min
+561 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [MAMA](https://open.spotify.com/track/25TIeoVFG1QKdMppHdjNq0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:32 | 2022-05-27 |  |
 | [MAMA](https://open.spotify.com/track/51hIGgLnT8s6gEzjVqKlEF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:32 | 2022-05-27 | 2023-02-03 |
 | [Merry Go Round](https://open.spotify.com/track/0iuC1cgzqw5yiHCgZE1QMp) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:49 | 2026-03-20 |  |
+| [Merry Go Round](https://open.spotify.com/track/6t4JEAfgl8oVJUASyxzptH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Merry Go Round](https://open.spotify.com/album/3xExm6422LDtFkZdkKblyo) | 4:15 | 2026-06-19 |  |
 | [Message from BTS](https://open.spotify.com/track/5ovkTZINOFNzQrMQ8d13JG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [This Is BTS](https://open.spotify.com/album/0WrvJ8dY63qaruHYiupcFE) | 0:50 | 2026-03-20 |  |
 | [MIC Drop](https://open.spotify.com/track/0nUftNWYvNCWnjiyeujCR8) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:58 | 2022-05-27 |  |
 | [MIC Drop](https://open.spotify.com/track/4gZGAVECoiutzp64KSHNjE) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 承 'Her'](https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G) | 3:58 | 2022-05-27 | 2023-02-03 |

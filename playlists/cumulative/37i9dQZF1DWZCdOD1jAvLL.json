@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Stank face activated. Cover: The Halluci Nation",
+  "description": "Stank face activated. Cover: Dave Summer",
   "name": "Bangers",
   "tracks": [
     {
@@ -2666,6 +2666,28 @@
       "duration_ms": 182665,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/43girkLVD5WYKCBMOphHhd"
+    },
+    {
+      "album": {
+        "name": "Bounce Check",
+        "url": "https://open.spotify.com/album/7Hc9XvaqdMYHLEapsb2xTe"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129007,
+      "name": "Bounce Check",
+      "url": "https://open.spotify.com/track/6cSst5c65KlaQeTFTP7YEl"
     },
     {
       "album": {
@@ -7886,7 +7908,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 232031,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
@@ -8688,7 +8710,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 141776,
       "name": "HITZ 4 THE HOOD",
       "url": "https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj"
@@ -9105,6 +9127,24 @@
     },
     {
       "album": {
+        "name": "Do My Thing EP",
+        "url": "https://open.spotify.com/album/2oBy9gluPVKRvdtMeAr6s6"
+      },
+      "artists": [
+        {
+          "name": "Dave Summer",
+          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "How We Do It",
+      "url": "https://open.spotify.com/track/79SpsM6FXfRkA9BglzGlyP"
+    },
+    {
+      "album": {
         "name": "Howweroll",
         "url": "https://open.spotify.com/album/1tdFexpCXqL8b1M0Fir6lz"
       },
@@ -9390,7 +9430,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 146059,
       "name": "I Don't Trust A Soul",
       "url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"
@@ -19055,6 +19095,24 @@
     },
     {
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/0b0WDAJRSoV3OkHhbcAvJi"
+      },
+      "artists": [
+        {
+          "name": "MARAH",
+          "url": "https://open.spotify.com/artist/0OXsxd2Fe85OZ36uZ6xTrX"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/1vYl9t9uItDdR80wL8Tz6J"
+    },
+    {
+      "album": {
         "name": "Talk To Me (with BRUX)",
         "url": "https://open.spotify.com/album/2shARbzXHKV7DDbTRmUDc4"
       },
@@ -19796,7 +19854,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 145820,
       "name": "Throw It Back",
       "url": "https://open.spotify.com/track/64saHwYZp0MkRZRwqtbDFR"
@@ -21552,7 +21610,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 180010,
       "name": "Work",
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"

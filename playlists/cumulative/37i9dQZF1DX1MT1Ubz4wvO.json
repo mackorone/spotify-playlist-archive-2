@@ -24213,6 +24213,24 @@
     },
     {
       "album": {
+        "name": "Dirty Laundry",
+        "url": "https://open.spotify.com/album/57o4AUsYHuIpdZMNR3uCOz"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186928,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/2LYhekTd3G0wOl7M5FLu5t"
+    },
+    {
+      "album": {
         "name": "Dir\u00eda Que Estar\u00eda Bueno",
         "url": "https://open.spotify.com/album/3IAyepCPjsN8GKGcDTk88L"
       },

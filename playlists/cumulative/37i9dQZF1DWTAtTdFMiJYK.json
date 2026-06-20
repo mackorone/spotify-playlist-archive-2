@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Barsa",
+        "url": "https://open.spotify.com/album/45JKe1xmPgQ91MZd2kf08f"
+      },
+      "artists": [
+        {
+          "name": "Achint",
+          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206088,
+      "name": "Barsa",
+      "url": "https://open.spotify.com/track/4Ylc8oP6UsoZqL3ubXYtoA"
+    },
+    {
+      "album": {
         "name": "Barsatein",
         "url": "https://open.spotify.com/album/1j249n8FdPvZzLaafLwMK5"
       },
@@ -3862,7 +3880,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 282371,
       "name": "Kadi Aavi Ve",
       "url": "https://open.spotify.com/track/3IZU0qqTeHH6ae6TF2YFFy"
@@ -3960,7 +3978,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 163899,
       "name": "Kaise Ho Tum",
       "url": "https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim"
@@ -5250,7 +5268,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 224284,
       "name": "Mere Qareeb",
       "url": "https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC"
@@ -5382,6 +5400,24 @@
       "duration_ms": 236732,
       "name": "Motoliya 2.0",
       "url": "https://open.spotify.com/track/3x3iya64y8XmsVxOYFUkXC"
+    },
+    {
+      "album": {
+        "name": "Mulaqaat",
+        "url": "https://open.spotify.com/album/119PjDCBDmx0VcThsZ3hLe"
+      },
+      "artists": [
+        {
+          "name": "Rajan Batra",
+          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211833,
+      "name": "Mulaqaat",
+      "url": "https://open.spotify.com/track/0ks1BVAA92yo6x447oBasd"
     },
     {
       "album": {
@@ -8908,6 +8944,28 @@
       "duration_ms": 216877,
       "name": "Zindagi Ki Goud Mein",
       "url": "https://open.spotify.com/track/0wA7aUIOOynbdIyF6AIejn"
+    },
+    {
+      "album": {
+        "name": "Zulfe",
+        "url": "https://open.spotify.com/album/46guavxrNdZddtM3XouUli"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        },
+        {
+          "name": "Trosk",
+          "url": "https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "Zulfe",
+      "url": "https://open.spotify.com/track/5Jr6BVsaP2w8YgkFxobTYf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK"

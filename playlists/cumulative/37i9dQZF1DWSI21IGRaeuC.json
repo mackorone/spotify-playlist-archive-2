@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-05",
-  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Dean Turnley",
+  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Riordan & AlunaGeorge",
   "name": "Deep & Minimal",
   "tracks": [
     {
@@ -1891,6 +1891,40 @@
     },
     {
       "album": {
+        "name": "Best Be Believing",
+        "url": "https://open.spotify.com/album/02mPc6O70UKAHE4A3rEVkL"
+      },
+      "artists": [
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        },
+        {
+          "name": "Caleb Laurenson",
+          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217611,
+      "name": "Best Be Believing",
+      "url": "https://open.spotify.com/track/30pPf3bjXSL07zF613iHLF"
+    },
+    {
+      "album": {
         "name": "Best Believe (Stole My Heart)",
         "url": "https://open.spotify.com/album/2Yj9LDL0pILhskGdLQW0kL"
       },
@@ -2782,7 +2816,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 186666,
       "name": "Burndown",
       "url": "https://open.spotify.com/track/0nWX5MYxTp2z0bCPfqdahA"
@@ -4197,6 +4231,24 @@
     },
     {
       "album": {
+        "name": "Dawn Of Day",
+        "url": "https://open.spotify.com/album/4azKyWlCOt4gfmgmQAntYk"
+      },
+      "artists": [
+        {
+          "name": "Hidde van Wee",
+          "url": "https://open.spotify.com/artist/3BhQ6qO6Y8Pxbok6yUWRwH"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369204,
+      "name": "Dawn Of Day",
+      "url": "https://open.spotify.com/track/71MDQ5NMhM3W8jDMiIwIot"
+    },
+    {
+      "album": {
         "name": "De Groovy EP",
         "url": "https://open.spotify.com/album/3whxzMZr8Kvs6wLuQGVl7V"
       },
@@ -4984,7 +5036,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 201913,
       "name": "Don't Stop (Keep On)",
       "url": "https://open.spotify.com/track/1lkEi8hPYvtnI5SUHckhmN"
@@ -6017,6 +6069,24 @@
     },
     {
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
+    },
+    {
+      "album": {
         "name": "Feel It EP",
         "url": "https://open.spotify.com/album/6QqcyAbCmxUOVXqyIg7PRN"
       },
@@ -6064,7 +6134,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 217218,
       "name": "Feel it in your soul",
       "url": "https://open.spotify.com/track/6SdRmI5tJPG4zIZxBYhOkX"
@@ -7009,6 +7079,24 @@
     },
     {
       "album": {
+        "name": "GANGSTA",
+        "url": "https://open.spotify.com/album/2FkZgqzJkucGubEC2Zw76l"
+      },
+      "artists": [
+        {
+          "name": "Joss Dean",
+          "url": "https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180451,
+      "name": "GANGSTA",
+      "url": "https://open.spotify.com/track/5w2J3jCuxhCKXSeAKooytB"
+    },
+    {
+      "album": {
         "name": "Gangsta Chucks",
         "url": "https://open.spotify.com/album/1F0SUDGo2lSA7Rpmn5ucOS"
       },
@@ -7758,7 +7846,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 211022,
       "name": "Gonna Let",
       "url": "https://open.spotify.com/track/5jkcTZjDj6V8NXX19bpRwH"
@@ -7824,7 +7912,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 187547,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/2VRA89NWX5X4whKTsnhwCM"
@@ -9348,7 +9436,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 327300,
       "name": "Ill Behaviour",
       "url": "https://open.spotify.com/track/3PjlHGywmMwuj4YIawdty7"
@@ -9888,7 +9976,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 202373,
       "name": "I\u2019m Lonely - Casnova Dub",
       "url": "https://open.spotify.com/track/6LjTvg4Ug3H8RHGRahBEVt"
@@ -11011,6 +11099,24 @@
     },
     {
       "album": {
+        "name": "Like An Angel (Touch Me) / Word Play",
+        "url": "https://open.spotify.com/album/3U86BRtfgVbBnuX0ZVgl7Z"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183636,
+      "name": "Like An Angel (Touch Me)",
+      "url": "https://open.spotify.com/track/69NLfaFQrL1sSwEMHpHEoT"
+    },
+    {
+      "album": {
         "name": "Like Dat",
         "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
       },
@@ -11464,6 +11570,36 @@
       "duration_ms": 198000,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/45yjPHECGDAkbo5lp2oItr"
+    },
+    {
+      "album": {
+        "name": "Lost in paradise x XTC",
+        "url": "https://open.spotify.com/album/77ZKLr9rH8DAyJjyI6gqDi"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/0odt5AXuYYnvk97DttaqcD"
+        },
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Samuel Collins",
+          "url": "https://open.spotify.com/artist/1goHhP8bFYFDlHn1JX9BD5"
+        },
+        {
+          "name": "Jocelyn Enriquez",
+          "url": "https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267305,
+      "name": "Lost in paradise x XTC",
+      "url": "https://open.spotify.com/track/3Rbk1lBVkhpsnkr3XhqYCo"
     },
     {
       "album": {
@@ -12039,6 +12175,24 @@
     },
     {
       "album": {
+        "name": "Mesmerize",
+        "url": "https://open.spotify.com/album/5KfSWHvDUW05seZMLbirnL"
+      },
+      "artists": [
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198805,
+      "name": "Mesmerize",
+      "url": "https://open.spotify.com/track/0oDbO6K2eYSobaJmDM1cNw"
+    },
+    {
+      "album": {
         "name": "OG002",
         "url": "https://open.spotify.com/album/2S3pPbkXkgTFbWeBDaSHEM"
       },
@@ -12528,6 +12682,32 @@
       "duration_ms": 168801,
       "name": "Moovin n Groovin",
       "url": "https://open.spotify.com/track/5yiRgZxx6qA4Qz9bFaOtgK"
+    },
+    {
+      "album": {
+        "name": "Energy Crew Pt. 1",
+        "url": "https://open.spotify.com/album/3pDBOAKDjXCYjLswTu6vMe"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        },
+        {
+          "name": "Ellia Jaya",
+          "url": "https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO"
+        },
+        {
+          "name": "Mizbee",
+          "url": "https://open.spotify.com/artist/2gqyi88Qa4bZ2AGYbFCPIh"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186363,
+      "name": "Morning Light (feat. Mizbee)",
+      "url": "https://open.spotify.com/track/0evpQOzmGKPoZo5LYFfKRt"
     },
     {
       "album": {
@@ -13484,6 +13664,28 @@
       "duration_ms": 380307,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/4yDM4vM4UKaGZyYK65vdN2"
+    },
+    {
+      "album": {
+        "name": "Numb The Pain",
+        "url": "https://open.spotify.com/album/3pILsNNZausFTowr8VcM6a"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        },
+        {
+          "name": "Late Replies",
+          "url": "https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386250,
+      "name": "Numb The Pain",
+      "url": "https://open.spotify.com/track/3OX5vYebeYHnoCYb9PC0jG"
     },
     {
       "album": {
@@ -15003,6 +15205,32 @@
     },
     {
       "album": {
+        "name": "Puff Puff Pass (Nafe Smallz & Luke Dean Remix)",
+        "url": "https://open.spotify.com/album/0KRv87FFURKGhb4i7PMMmP"
+      },
+      "artists": [
+        {
+          "name": "Kitty Hall",
+          "url": "https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ"
+        },
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335831,
+      "name": "Puff Puff Pass - Nafe Smallz & Luke Dean Remix",
+      "url": "https://open.spotify.com/track/45gMbNPiHzrzEIezRwPmiB"
+    },
+    {
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/1E6FiNnQ86tcZrRr8OIZm0"
       },
@@ -15196,6 +15424,24 @@
       "duration_ms": 188307,
       "name": "Push The Feeling",
       "url": "https://open.spotify.com/track/13wZII1Xmergka2m0trPYR"
+    },
+    {
+      "album": {
+        "name": "Push Ya Back EP",
+        "url": "https://open.spotify.com/album/7iwCnPqQI3yLbs7Q62puLd"
+      },
+      "artists": [
+        {
+          "name": "Local Dub",
+          "url": "https://open.spotify.com/artist/5Wgw2WCYLFCz0sOrD63ymF"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196555,
+      "name": "Push Ya Back",
+      "url": "https://open.spotify.com/track/5i5caeF79c3FuXWbJMZQww"
     },
     {
       "album": {
@@ -15821,6 +16067,28 @@
     },
     {
       "album": {
+        "name": "Rhythm Of The House",
+        "url": "https://open.spotify.com/album/7s0F9LpKdKc1dzdOh4MqHp"
+      },
+      "artists": [
+        {
+          "name": "Alex Culross",
+          "url": "https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD"
+        },
+        {
+          "name": "Ejeca",
+          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199575,
+      "name": "Rhythm Of The House",
+      "url": "https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj"
+    },
+    {
+      "album": {
         "name": "RIDE",
         "url": "https://open.spotify.com/album/4Ou1PeRVSZ0fLFX8Acf0cR"
       },
@@ -16184,6 +16452,24 @@
       "duration_ms": 190200,
       "name": "Running from the Noise - Edit",
       "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
+    },
+    {
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/2U07xqRus8Vm96YT2YZsSy"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nicholls",
+          "url": "https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5X8ir6VRntSttQwkDAncjn"
     },
     {
       "album": {
@@ -16900,7 +17186,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 311612,
       "name": "She Just (Nuno Dos Santos Remix)",
       "url": "https://open.spotify.com/track/3TfHcxceJcS54o4mKg39Kv"
@@ -20602,7 +20888,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 191076,
       "name": "Underground - Danny P & Caleb Laurenson Remix",
       "url": "https://open.spotify.com/track/36z5YmBEBG430FHkJqO0Cc"
@@ -21848,6 +22134,24 @@
       "duration_ms": 194887,
       "name": "Work It",
       "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
+    },
+    {
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/2J1EDRiGKwyK9ghGji2gCS"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224438,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/45FTnF7YPwGWFebjG8AmGO"
     },
     {
       "album": {

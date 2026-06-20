@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,158 songs - 3 day 11 hr 25 min
+2,159 songs - 3 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Aviary](https://open.spotify.com/track/2giDcUZGybbvJljKtgxgnY) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Aviary](https://open.spotify.com/album/3lk5iCsLEyEHEiNypGMmwF) | 2:14 | 2022-08-12 | 2022-11-26 |
 | [Avocades](https://open.spotify.com/track/72VPz6obgR5JjPCv8uRotp) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Avocades](https://open.spotify.com/album/2gBKkx8mHrbY9pZxsjwjYJ) | 2:11 | 2024-01-19 | 2026-03-14 |
 | [Awake](https://open.spotify.com/track/3QPWAZOWUW66GQq7wDfjNI) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Awake](https://open.spotify.com/album/4HHch0dspTBouzlM9yn4SL) | 2:29 | 2022-12-23 | 2023-11-11 |
+| [awake to see the city sleep](https://open.spotify.com/track/34ZmkJqFjkNewux1wZJoAv) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [awake to see the city sleep](https://open.spotify.com/album/2YNkPhO8BG1hZwIVxybQcT) | 1:30 | 2026-06-19 |  |
 | [Awakening](https://open.spotify.com/track/28TFSOJsr6zUIujZ9vvpOK) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [Awakening](https://open.spotify.com/album/2LlvQDAl15bYhNSij713zO) | 1:48 | 2021-12-07 | 2022-04-08 |
 | [awesomelicious](https://open.spotify.com/track/4QXQkfCHSFuWtjhQ2ueNRf) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [awesomelicious](https://open.spotify.com/album/5lXolPanfgJtNxXDVP5NEl) | 2:30 | 2022-10-14 | 2023-04-12 |
 | [Ayways](https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Ayways](https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ) | 1:54 | 2023-10-06 | 2023-11-11 |
@@ -701,7 +702,7 @@
 | [Flower Meadow](https://open.spotify.com/track/5Ief2HSMVQDW4VP4pkPep7) | [Grisp](https://open.spotify.com/artist/4Ss8Vh1dqwdci0DqaNycZM), [nytø](https://open.spotify.com/artist/1HZSZHE4C1vJymt4CWEfHH) | [Flower Meadow](https://open.spotify.com/album/7jHj18juG5k5ZmDp0kZasC) | 2:30 | 2022-07-29 | 2022-09-30 |
 | [Flower of life](https://open.spotify.com/track/4RgiMxWDgwz1kHonxtaJUp) | [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Flower of life](https://open.spotify.com/album/7L5flwJxFIGcuqBmf2vDEo) | 2:22 | 2022-09-23 | 2022-09-30 |
 | [Flower Vibes](https://open.spotify.com/track/578YiQvMFbkARNwITtu6Ld) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Flower Vibes](https://open.spotify.com/album/6FAbfAFkLosmJWqCajzWk9) | 2:48 | 2022-07-15 | 2022-10-14 |
-| [flowers](https://open.spotify.com/track/4kYHK1YFkSeuVaONpR1Mv5) | [Kichiro](https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo), [so.tired](https://open.spotify.com/artist/4ordIijwezMyR8fJkOaVNy) | [flowers](https://open.spotify.com/album/2V4JXB8UhM3zoLvW72GWAX) | 2:23 | 2026-03-13 |  |
+| [flowers](https://open.spotify.com/track/4kYHK1YFkSeuVaONpR1Mv5) | [Kichiro](https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo), [so.tired](https://open.spotify.com/artist/4ordIijwezMyR8fJkOaVNy) | [flowers](https://open.spotify.com/album/2V4JXB8UhM3zoLvW72GWAX) | 2:23 | 2026-03-13 | 2026-06-20 |
 | [Flowers](https://open.spotify.com/track/7KWdSkMxMR1dnUwBiGjdhL) | [Slooow](https://open.spotify.com/artist/1p2Mb0YhupIUEhwP1nbAU0) | [Flowers](https://open.spotify.com/album/7dFloEnoynZGJZPDnmkk6F) | 2:27 | 2022-11-11 | 2023-09-16 |
 | [Flowhaven](https://open.spotify.com/track/4ntwIVXn4O1Chq697xZ1Cx) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [Flowhaven](https://open.spotify.com/album/5dn7hHlMdoVbor1PL4fG70) | 2:40 | 2025-03-14 |  |
 | [Flowing](https://open.spotify.com/track/5lqfiQpfO52pNANLM5px05) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Flowing](https://open.spotify.com/album/1GRKplQA0hQWomInnYQqh8) | 3:00 | 2026-02-20 |  |

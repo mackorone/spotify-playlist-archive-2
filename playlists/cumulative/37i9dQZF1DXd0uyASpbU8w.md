@@ -4,7 +4,7 @@
 
 > New music from Shimza, Tyla, Al Xapo, and more.
 
-10,677 songs - 31 day 3 hr 11 min
+10,678 songs - 31 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2777,6 +2777,7 @@
 | [Family First](https://open.spotify.com/track/6o4ZTM2tooFE51n05pThWV) | [DJ Manzo Sa](https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio) | [Family First](https://open.spotify.com/album/6Xwvn55TfFRWAAFn54oaUo) | 6:45 | 2024-01-25 | 2024-02-02 |
 | [Family Gathering](https://open.spotify.com/track/7lxprar02ISIdUnNr4WeaT) | [Vimbs Mavimbs](https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN) | [Family Gathering](https://open.spotify.com/album/7udmP1WAhbaQVLSw3nuvYD) | 4:56 | 2026-03-12 | 2026-03-20 |
 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-10 | 2024-05-17 |
+| [FAMOUS](https://open.spotify.com/track/75oTJxEoLGIfMrJN6tsrg0) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Starring](https://open.spotify.com/album/4aOweR9nOEUCI30g6xYKQI) | 3:10 | 2026-06-18 |  |
 | [Famous](https://open.spotify.com/track/5PczfSmmH9XH122DBN5t3f) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Famous](https://open.spotify.com/album/4VQaTPt4KhpQh3477vbfPI) | 2:35 | 2025-03-28 | 2025-04-04 |
 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 | 2023-09-15 | 2023-09-23 |
 | [FANCY ME](https://open.spotify.com/track/7rZWZvp6LmHSaqcQfG0ogH) | [BENJAMIN](https://open.spotify.com/artist/5vGBEOddwhwgvzoHIbl1ji) | [FANCY ME](https://open.spotify.com/album/6l5U0825awwQxt5FcvxDaa) | 2:03 | 2025-11-13 | 2025-11-22 |
@@ -8635,6 +8636,7 @@
 | [Stuck at the top](https://open.spotify.com/track/0FF5CWrlJ3E5vcww1CES7I) | [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r) | [?](https://open.spotify.com/album/4l0Zu7beVLmMX0aNAgXEB5) | 2:50 | 2025-10-03 | 2025-10-04 |
 | [Stuck in a Freezer with Dead Animals](https://open.spotify.com/track/1ii1lAd1aPP75QYNfTc0a2) | [Kayla The Crow](https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH) | [SEED](https://open.spotify.com/album/3weP9369Bu8rUtzSLI8rwc) | 3:21 | 2026-03-12 | 2026-03-20 |
 | [STUCK IN MY WAYS](https://open.spotify.com/track/4S5Fm1tLLk2ZY3jlSRyZs8) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [LAVISH](https://open.spotify.com/album/4qVRHd4uMkNSlVkTSMJZm2) | 3:44 | 2024-07-26 | 2024-08-02 |
+| [Stumble](https://open.spotify.com/track/14TGG1rBUUBFJTK0wK971H) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Stumble](https://open.spotify.com/album/68QKrFE3Yfi5nxPjwNoAVU) | 3:48 | 2026-06-19 |  |
 | [Stupid Dumb](https://open.spotify.com/track/6RFvRQfwSV5kvF9NodnZnb) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Stupid Dumb](https://open.spotify.com/album/0fJZgO2wJlvVXalnpdoc9i) | 2:44 | 2024-10-11 | 2024-10-18 |
 | [Stupid Love](https://open.spotify.com/track/09onULWFX7fVegHwTHTHTl) | [F3line](https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ) | [Stupid Love](https://open.spotify.com/album/5iyb0MZM2S0hmr0dPyh9PV) | 2:37 | 2024-04-19 | 2024-04-26 |
 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 | 2026-06-11 | 2026-06-19 |
@@ -9377,7 +9379,6 @@
 | [TOY DOLL HEART](https://open.spotify.com/track/78dt3LkFKk16vFZnu95nwx) | [BŪJIN](https://open.spotify.com/artist/1Li4AeVdyUrd5ltRTzfWED) | [TOY DOLL HEART](https://open.spotify.com/album/5qRwboTSRSAokar1ZFO6rr) | 3:37 | 2024-06-13 | 2024-06-21 |
 | [TOYOTA](https://open.spotify.com/track/5N55suVRCcouaoIxKjNz6x) | [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R) | [TOYOTA](https://open.spotify.com/album/7LggoxQ82Yqj7hLimHx3K1) | 3:15 | 2024-08-23 | 2024-08-30 |
 | [Track 1](https://open.spotify.com/track/0rIU6NfW2aSPdV1S5VBBYT) | [015 MusiQ & Van City MusiQ](https://open.spotify.com/artist/6qQ80mn21S92SYfqtceUin), [OHP Sage](https://open.spotify.com/artist/4IZr8UpEiuTNDf9a5atoco) | [Ekasi Our Story](https://open.spotify.com/album/4fSJngV0iAF2oRWIwy2zCw) | 0:00 | 2025-09-05 | 2025-09-06 |
-| [Track 1](https://open.spotify.com/track/75oTJxEoLGIfMrJN6tsrg0) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Starring](https://open.spotify.com/album/4aOweR9nOEUCI30g6xYKQI) | 0:00 | 2026-06-18 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [train/of\_thought](https://open.spotify.com/track/1O0YzsovTkSS4XWioMtDw5) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [train/of\_thought](https://open.spotify.com/album/0KL8llJgdU16AT0rOFehrZ) | 3:00 | 2025-03-21 | 2025-03-29 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-16 | 2024-02-24 |

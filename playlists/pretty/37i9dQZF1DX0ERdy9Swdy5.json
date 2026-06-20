@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 804385,
+  "num_followers": 804511,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
         }
       ],
-      "duration_ms": 284053,
-      "name": "Luna Negra",
-      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
+      "duration_ms": 287266,
+      "name": "Si Te Preguntan",
+      "url": "https://open.spotify.com/track/3Bg1xF0RPxbFN4eIen8PSG"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
         }
       ],
-      "duration_ms": 287266,
-      "name": "Si Te Preguntan",
-      "url": "https://open.spotify.com/track/3Bg1xF0RPxbFN4eIen8PSG"
+      "duration_ms": 284053,
+      "name": "Luna Negra",
+      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Todo A Su Tiempo",
-        "url": "https://open.spotify.com/album/69lnF2K07sZMRbyGSuggFk"
+        "name": "Dos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/27dR4YTXlLQCHfrvDTkgfM"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 296066,
-      "name": "Llegaste A Mi",
-      "url": "https://open.spotify.com/track/2nIZpaxsp0CKlCg8Okfatq"
+      "duration_ms": 287960,
+      "name": "Pensamiento y Palabra",
+      "url": "https://open.spotify.com/track/7HZgFgvqDQpe4ZWIYwh0YV"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
+        "name": "Todo A Su Tiempo",
+        "url": "https://open.spotify.com/album/69lnF2K07sZMRbyGSuggFk"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 296066,
+      "name": "Llegaste A Mi",
+      "url": "https://open.spotify.com/track/2nIZpaxsp0CKlCg8Okfatq"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
         "name": "Siempre Una Aventura",
         "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 354973,
       "name": "Gotas De Lluvia",
       "url": "https://open.spotify.com/track/3wBuU391TaEr9NEPkN1e1j"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "Dos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/27dR4YTXlLQCHfrvDTkgfM"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 287960,
-      "name": "Pensamiento y Palabra",
-      "url": "https://open.spotify.com/track/7HZgFgvqDQpe4ZWIYwh0YV"
     },
     {
       "added_at": "2024-07-12 19:20:44",

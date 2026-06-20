@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: JAY B\)
+> Trendy & Chill Korean R&B music\. \(Cover: Gemini\)
 
-920 songs - 2 day 0 hr 34 min
+921 songs - 2 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Dream](https://open.spotify.com/track/5J3tmPXDvzQfCMtYAmq6cy) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Dream](https://open.spotify.com/album/1lXV3YlEIxxyiP2AuG3LZB) | 3:43 | 2025-09-29 | 2025-10-18 |
 | [Dream](https://open.spotify.com/track/2QiqcWQBXB6PD14CvQHuIc) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Dream](https://open.spotify.com/album/6ySezBYVHuSk0eUqhiUYQD) | 3:49 | 2023-02-14 | 2023-02-25 |
 | [Dreaming of You \(Feat\. Sonny Zero\)](https://open.spotify.com/track/139QSany5ZxsIl7rtBXtDB) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Dreaming of You \(Feat\. Sonny Zero\)](https://open.spotify.com/album/2cpCpCjffiuk7NKYunIb81) | 3:40 | 2023-11-09 | 2023-11-18 |
+| [Dress Up](https://open.spotify.com/track/6XuKU63xHqFyNVfZ1BZWmQ) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Knight](https://open.spotify.com/album/3SrZkhjYp6FC0nGcLTYX24) | 2:14 | 2026-06-19 |  |
 | [DRIP](https://open.spotify.com/track/6TZDHtfAyLBrhS71qNofFG) | [Roydo](https://open.spotify.com/artist/4Tq5nMU99vtYU8YV8lHVvC) | [DRIP](https://open.spotify.com/album/6FRHKt7ZI6tmQOBle6EMPV) | 2:32 | 2023-02-14 | 2023-02-22 |
 | [DRIVE \(Feat\. Leellamarz\)](https://open.spotify.com/track/4fQZn3i96966kDpGotjvy1) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [DRIVE \(Feat\. Leellamarz\) \(Single Edition 2\)](https://open.spotify.com/album/6OVQlbKrHdQDJqzkxnj0oy) | 4:07 | 2022-05-09 | 2022-05-11 |
 | [Drunk at this night \(With noovv\)](https://open.spotify.com/track/5AcA1vakbQzFXq4HgbIsi9) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Noovv](https://open.spotify.com/artist/3ksWmDlBeF6Dnn3u36TUrT) | [Drunk at this night \(With noovv\)](https://open.spotify.com/album/3VfNUzMddAwX2yLp1b8HJO) | 3:06 | 2022-04-19 | 2022-04-28 |
@@ -288,7 +289,7 @@
 | [FINE \(feat\. SOMA & WOODZ\)](https://open.spotify.com/track/0YhTNs46xlfwDUxvNNh0xb) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [SOMA](https://open.spotify.com/artist/2YZhod6BAbnBKh2nPdUejY), [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [DAFT LOVE](https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX) | 3:33 | 2022-07-14 | 2022-07-25 |
 | [FiNE!](https://open.spotify.com/track/0uXc6bgGKOHi861XBgbuQ1) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [LEFT](https://open.spotify.com/album/5wQND7CP9pnNPW3QA2ODos) | 3:11 | 2022-04-19 | 2022-07-25 |
 | [Fire](https://open.spotify.com/track/3ZqO9gU0aFrkawmoT3nc9i) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr) | [Fire](https://open.spotify.com/album/3NAD08mjlDk0vW0CHHDzyL) | 2:21 | 2022-08-18 | 2022-09-01 |
-| [Fire Tree](https://open.spotify.com/track/66NpSmJUKMXfrCgCUhR71F) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq) | [Fire Tree](https://open.spotify.com/album/13eOXJnGI8UReQ6cmGY2XZ) | 2:25 | 2026-06-16 |  |
+| [Fire Tree](https://open.spotify.com/track/66NpSmJUKMXfrCgCUhR71F) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq) | [Fire Tree](https://open.spotify.com/album/13eOXJnGI8UReQ6cmGY2XZ) | 2:25 | 2026-06-16 | 2026-06-20 |
 | [First kiss \(Feat\. Sonny zero, Harms\)](https://open.spotify.com/track/1wInZv0I7D0EDrgfSRnC33) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [Harms](https://open.spotify.com/artist/6AEdu26JUdoNP01gO8sM0N) | [A Thousand Miles](https://open.spotify.com/album/2c7wTvGT6ioIBKL3UrSGrd) | 2:35 | 2022-04-22 | 2022-07-24 |
 | [First Meeting \(Feat\. Moon Sujin, BE′O\)](https://open.spotify.com/track/4Dpe82AV83yN9dS8Fn0KgK) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [BLEND](https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR) | 2:37 | 2024-06-12 | 2024-07-10 |
 | [Flight +82](https://open.spotify.com/track/5HLl0OKRVpIHtgHwDJzagR) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.2\-2](https://open.spotify.com/album/0gNaQL7iXpZHnzrvz12v1Y) | 2:48 | 2022-05-28 | 2022-06-10 |

@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Internet Friends",
+        "url": "https://open.spotify.com/album/1NfBadyJgnrNo6z84UGhpr"
+      },
+      "artists": [
+        {
+          "name": "The Virgo Queen",
+          "url": "https://open.spotify.com/artist/7xUlGu35ihHhZtrzfBkEsv"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184159,
+      "name": "Internet Friends",
+      "url": "https://open.spotify.com/track/4zjGCNOQyRQINNKQyacBWm"
+    },
+    {
+      "album": {
         "name": "Cassie (U.S. Version)",
         "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
       },

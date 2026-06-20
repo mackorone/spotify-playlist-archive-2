@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-788 songs - 3 day 1 hr 24 min
+789 songs - 3 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Bloom In The Cold](https://open.spotify.com/track/3VH1pgtGlayAWg2s19IDed) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Bloom In The Cold](https://open.spotify.com/album/02OyJh302Y5RUnrI1GqeKX) | 4:23 | 2023-02-18 | 2024-07-19 |
 | [Blue Dream](https://open.spotify.com/track/7etFQJui0P0UpMF4TDMBvl) | [Beatamines](https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK) | [Blue Dream](https://open.spotify.com/album/3H3HlMwpfD8CpTjhVwhKw9) | 5:51 | 2019-08-06\* | 2019-09-19 |
 | [Boavista](https://open.spotify.com/track/5XWtnEDX7CJC9yK6F7KeK6) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Boavista](https://open.spotify.com/album/2v2BidodVf5z07M6Pofhx3) | 7:37 | 2021-10-11 | 2022-07-28 |
-| [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 | 2025-10-24 |  |
+| [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 | 2025-10-24 | 2026-06-20 |
 | [Boundaries](https://open.spotify.com/track/4hJyUjsqSPN9WedW4J6S5p) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Should Have Seen It Coming EP](https://open.spotify.com/album/0vg4zAM1cS40kkCxfINEey) | 4:11 | 2021-02-20 | 2022-07-16 |
 | [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-04 | 2026-02-22 |
 | [Boys & Girls](https://open.spotify.com/track/4JWXOAxHSA6BQFHWvMwMcM) | [Nightwhisper](https://open.spotify.com/artist/01CKNofaWoejTw9J0WMkOa) | [Boys & Girls](https://open.spotify.com/album/212D606rlOMsRWxOV6s0jW) | 2:32 | 2020-11-28 | 2022-04-24 |
@@ -670,6 +670,7 @@
 | [The Distance](https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 4:51 | 2023-09-19 | 2024-04-19 |
 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 | 2022-07-08 | 2023-09-25 |
 | [The Distance](https://open.spotify.com/track/7kUZGVHKDRBrPIYfhZ49ju) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/4Y5HddfFNFopRAhEbXuUe7) | 4:51 | 2021-12-17 | 2022-07-29 |
+| [The Doubt](https://open.spotify.com/track/2sxAMFvwgEwNer6Ph1SZcn) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Cross Pollination II](https://open.spotify.com/album/4g25RHR3VYr0mP6yqV0vaG) | 6:40 | 2026-06-19 |  |
 | [The Echo](https://open.spotify.com/track/0LaJAP7IkBKdGZwpnIOjIf) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [The Echo](https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS) | 4:30 | 2024-05-24 | 2025-07-19 |
 | [The Future](https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh), [Frank Sonic](https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR) | [The Future](https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF) | 3:31 | 2022-07-01 | 2024-07-13 |
 | [The Future Is The Past](https://open.spotify.com/track/6rGqiK4oKP9RtRdTjGepNH) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Volume Two](https://open.spotify.com/album/29b1OZhPyjsNGTkukUt2OD) | 4:43 | 2020-06-12 | 2020-06-20 |

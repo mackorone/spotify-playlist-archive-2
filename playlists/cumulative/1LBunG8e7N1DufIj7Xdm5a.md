@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,458 songs - 9 day 22 hr 36 min
+4,463 songs - 9 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [Come up and See Me](https://open.spotify.com/track/0emn0LIIhaxyg6b6Rl3cws) | [Teho Teardo](https://open.spotify.com/artist/3Amq9Iu3n8FEwaDq0sV5BL), [Blixa Bargeld](https://open.spotify.com/artist/0ecGioDyIR2QiyujHeiwHw) | [Still Smiling](https://open.spotify.com/album/7k0WGXPrNROKbejJ2Zhq90) | 4:45 | 2025-11-05 |  |
 | [ComeTe](https://open.spotify.com/track/2ECV2hrsNMx0kiSLTS8BSk) | [ETRE](https://open.spotify.com/artist/4KTgaVVDIvu8i1bbEKHmhx) | [ComeTe](https://open.spotify.com/album/0GtGIpHJJhLbA24uCKdj1s) | 2:40 | 2025-06-24 |  |
 | [comical](https://open.spotify.com/track/6BNXYLvJGBp3EBNoYcKQNM) | [6xat!c](https://open.spotify.com/artist/2uwEvDBKbB5xehCgTlYflx) | [comical](https://open.spotify.com/album/5uQn1YhgxrKRH5OzEN7iJS) | 2:35 | 2025-07-28 |  |
+| [como la luna](https://open.spotify.com/track/50zdQV83gf1guuk6bBBUDJ) | [young llop.mp3](https://open.spotify.com/artist/1alG0IPqW3stdy2R7Sc7bK) | [como la luna](https://open.spotify.com/album/2vvmzqz0afaGSA1kSHons0) | 1:44 | 2026-06-19 |  |
 | [Companion](https://open.spotify.com/track/5gdTDWskPEc1QlJ4mukqBd) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Bossa](https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC) | [Companion](https://open.spotify.com/album/4WuPNxFbBAuY9wyc0C3ptV) | 1:30 | 2025-05-16 |  |
 | [Company Car](https://open.spotify.com/track/13zKnltVahqjGRjFYKrYod) | [PLAY DEAD](https://open.spotify.com/artist/2XQ4KK7Ol8gTUBBLAkIF2j) | [Mug Cake](https://open.spotify.com/album/4b2FTmlWKSiCKPNY6djFfC) | 2:22 | 2025-11-05 |  |
 | [COMPENA \(Remaster 2023\)](https://open.spotify.com/track/07TeH3QcBhXbqQyg60t9WI) | [ATONE](https://open.spotify.com/artist/1xgiexWjln0XwtVZRW1iz9) | [COMPENA \(Remaster 2023\)](https://open.spotify.com/album/1uGTWGGCq4cmIFSoUbCiI6) | 3:57 | 2025-06-01 |  |
@@ -3095,6 +3096,7 @@
 | [Real Mixer ACE](https://open.spotify.com/track/5E2SQKysxlWXfjZRisYzD5) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 3:44 | 2025-09-08 |  |
 | [Real Thing](https://open.spotify.com/track/4L5kierBAWBPIeYC6kU0dP) | [ThePieces](https://open.spotify.com/artist/0BN1T49jfRbf4eMqJtS5R1) | [Real Thing](https://open.spotify.com/album/1tRXOYfiW78uWDIxOAJN7R) | 3:18 | 2025-11-16 |  |
 | [Really Doesn't Matter](https://open.spotify.com/track/3NhMFifEL0BjenTIrZ57iK) | [Continental Lovers](https://open.spotify.com/artist/6cc52xhf2jcAUXOnAPdI6K) | [Continental Lovers](https://open.spotify.com/album/2kYFXwsCKIVEXgQbTFfdlk) | 2:08 | 2025-09-29 |  |
+| [Reasons To Stay](https://open.spotify.com/track/6GO9asq0BdWB3EMWZibLMc) | [Get Through](https://open.spotify.com/artist/5gF3q9VRL3x0zOyba99xIT) | [Reasons To Stay](https://open.spotify.com/album/1fgrJdJdPJhaz0KCN5PkVW) | 4:29 | 2026-06-19 |  |
 | [Rebel Heart](https://open.spotify.com/track/3yBRPnQnbAE8ZHxJ78ps2O) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rock'n roll Pop Modern Hits](https://open.spotify.com/album/5TKb0dzplMyuhjmMv2iFim) | 3:54 | 2025-05-31 |  |
 | [Rebel Heart \(another\)](https://open.spotify.com/track/6i0wkBGhCfOq1QLmtsAk2Y) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rock'n roll Pop Modern Hits](https://open.spotify.com/album/5TKb0dzplMyuhjmMv2iFim) | 3:20 | 2025-09-18 |  |
 | [Rebellion's Fire](https://open.spotify.com/track/654UuP9v8Jt7NV6YPtudIA) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rock'n roll Pop Modern Hits](https://open.spotify.com/album/5TKb0dzplMyuhjmMv2iFim) | 2:55 | 2025-05-27 |  |
@@ -3380,6 +3382,7 @@
 | [Shiny Daydreams \(another\)](https://open.spotify.com/track/1c2lUtWLEN8u83esZX9WMq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Groovy pop](https://open.spotify.com/album/2fxdt8WQaSS5xHYoYcuVk0) | 4:00 | 2025-09-17 |  |
 | [Shiny Lights](https://open.spotify.com/track/3cOymZkuua7XyKZU02aPqc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Disco Pop](https://open.spotify.com/album/3YPMZbyyiuAblLkyUMiixm) | 3:07 | 2025-09-19 |  |
 | [Shiny Lights \(another\)](https://open.spotify.com/track/0Omm52IPL0bjIQrzZWyymw) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Disco Pop](https://open.spotify.com/album/3YPMZbyyiuAblLkyUMiixm) | 2:26 | 2025-09-19 |  |
+| [Shotgun Shell Breakfast](https://open.spotify.com/track/1yUa1cu6yUlogx6pSYafmz) | [Shooby Alexander](https://open.spotify.com/artist/2OJPVD3CO35MymnTq8bZkS) | [Shotgun Shell Breakfast](https://open.spotify.com/album/3RoiAPhbbQERs2tIwNBUPX) | 2:54 | 2026-06-19 |  |
 | [Shouting Aloud](https://open.spotify.com/track/1upWPjPzqOcd6pcTy9B8oS) | [Fran Squadrito](https://open.spotify.com/artist/2FD9tfsKOSAqcuCsGGOErr) | [Shouting Aloud](https://open.spotify.com/album/72na7CDxMITNivb60N2N3C) | 3:37 | 2025-05-26 |  |
 | [Show U Da World](https://open.spotify.com/track/0BAMN2JvxrAFuXDiTlwyAh) | [BabyBoy1N3](https://open.spotify.com/artist/3I7oak9z3Ucz3zyXHkPrOh), [user00xman](https://open.spotify.com/artist/5jHEV2nmLvDyu6MwUU9ftS), [Ceru](https://open.spotify.com/artist/6asghv8lFCRDHUGMUPoRWe) | [She Love Binx](https://open.spotify.com/album/0aT80cXiVytpfOQc27Ng9a) | 1:42 | 2025-06-23 |  |
 | [Show Your Kitty](https://open.spotify.com/track/0UsABwYUIog7ZYMOl0OvQJ) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [Show Your Kitty](https://open.spotify.com/album/2dUEwogLQjdo9y5ZG6be6Y) | 1:52 | 2025-06-04 |  |
@@ -3877,6 +3880,7 @@
 | [The Sea Is My Friend](https://open.spotify.com/track/5fLlgagZIXX3z8t9tSewXY) | [The Dream Machine](https://open.spotify.com/artist/2ngmfPvH3LUeSGOX0kXIgi) | [Vol 2: On The Water](https://open.spotify.com/album/7KCF84Dt27IiTg0baJasv2) | 2:13 | 2025-11-05 |  |
 | [The Sinner & the Saint](https://open.spotify.com/track/5mZkuKUQgZ249uB9cq45G0) | [Jesse Lee Smith](https://open.spotify.com/artist/4bvC48Yls5GRDe3Xh1j7ya) | [Broken](https://open.spotify.com/album/7gZ1s1zTcGtPPP5ZrLHuy4) | 3:42 | 2025-07-19 |  |
 | [the sleeppin dead](https://open.spotify.com/track/7kCk3ACL37w1qHkFJkNjxv) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [At the down of the sleepindead](https://open.spotify.com/album/36dQNlJRtZQbZvBsaMxDmK) | 4:22 | 2025-10-03 |  |
+| [The Space Between](https://open.spotify.com/track/3BqObTaNraOvwEDI3tiGTv) | [Shade Over Winter](https://open.spotify.com/artist/6bUMhQG3m1Bm4CAsuMTzK0) | [The Space Between](https://open.spotify.com/album/3bffllwnQPxbRHOx0OmeN0) | 3:26 | 2026-06-19 |  |
 | [The Storm Inside You](https://open.spotify.com/track/2oD5ntuXhbB6eegCqw6mB2) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [The Storm Inside You](https://open.spotify.com/album/6kkJyP9RUyV2jHaARHqupj) | 3:35 | 2025-06-04 |  |
 | [The Things We Never Said](https://open.spotify.com/track/7ii7pKVsXDYCFaEebNdMQU) | [Eaten By Trees](https://open.spotify.com/artist/1QQFXwRm0YJOPKRfMs2WHH) | [The Things We Never Said](https://open.spotify.com/album/3IaD8xHP3RsEvMJNB5Co7P) | 4:36 | 2025-12-04 |  |
 | [The Thought Of Loosing You](https://open.spotify.com/track/7CFt7scChd3KbQsUTNuHDG) | [youngking galaday](https://open.spotify.com/artist/0u4KWKf0gNJ7erRnf12MRQ) | [The Thought Of Loosing You](https://open.spotify.com/album/2ytXXkjeLuf3Yu7bOVxsyJ) | 3:08 | 2025-06-23 |  |
@@ -4020,6 +4024,7 @@
 | [Truth Without A Voice](https://open.spotify.com/track/6VWCYsFaSzmtdmzSrTKMW7) | [Changeover](https://open.spotify.com/artist/2u4GX0Bif1sfEzNfj6ehmg) | [Truth Without A Voice](https://open.spotify.com/album/3zEX5kzLx0JYkhFhyW9ZVt) | 3:10 | 2026-05-11 |  |
 | [Tränen](https://open.spotify.com/track/5QMOsZYAXmC74zyNA6MVY1) | [Bierkenstock](https://open.spotify.com/artist/6EpNThKCVl7Fs0ebxfbQNJ) | [Tränen](https://open.spotify.com/album/3vqsRlHgBSdKnWWUziTpji) | 3:12 | 2025-05-26 |  |
 | [Tu dors](https://open.spotify.com/track/1Gxj17JyqnTezJkK62eVrM) | [Osah](https://open.spotify.com/artist/1AeKlQFE3f4jMoiJyuhyM1), [Weedlack](https://open.spotify.com/artist/01BvBbo2LhDw1fwCnr7iYL) | [Tu dors](https://open.spotify.com/album/4FPji3VCeIl6Um0xkKZEOk) | 2:56 | 2025-06-05 |  |
+| [Tu Hai Toh](https://open.spotify.com/track/3BjYRmww0BVPv28wfGkWJv) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tu Hai Toh](https://open.spotify.com/album/1c0jWhoRT6biZMrqxUYx4g) | 4:11 | 2026-06-19 |  |
 | [Tu mirada en mi espalda](https://open.spotify.com/track/1F4SNolb3rli87xEgepCtM) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Flores de Loto](https://open.spotify.com/album/6K4mDXoXfAGkWmestJpVSm) | 3:32 | 2025-06-16 |  |
 | [Tu último trofeo](https://open.spotify.com/track/1yrl0BSUQYUWIiQFEpzMdt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [Tu último trofeo](https://open.spotify.com/album/1WKho2AuLC6z9jeFdjhkPt) | 3:06 | 2026-03-25 |  |
 | [Tu+paranoie](https://open.spotify.com/track/73izB0Q1kmrRZwCBG2pNhL) | [Resma](https://open.spotify.com/artist/1gWkVUP7obAEzU2RPvbuKx) | [Tu+paranoie](https://open.spotify.com/album/2omvBWBuI6I87nQiFzIQVi) | 3:10 | 2025-07-05 |  |

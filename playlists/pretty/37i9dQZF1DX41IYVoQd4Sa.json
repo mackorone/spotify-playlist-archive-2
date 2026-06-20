@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d3\u05d5\u05d3\u05d5 \u05d8\u05e1\u05d4",
-  "num_followers": 33965,
+  "num_followers": 33973,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-06-18 21:00:45",
       "album": {
-        "name": "\u05db\u05d7\u05d5\u05dc \u05dc\u05d1\u05df",
-        "url": "https://open.spotify.com/album/0eW2EEjQ6cJmaHVtN51SB2"
-      },
-      "artists": [
-        {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "\u05db\u05d7\u05d5\u05dc \u05dc\u05d1\u05df",
-      "url": "https://open.spotify.com/track/2PMkkZI0FjriSzdqHxuDAR"
-    },
-    {
-      "added_at": "2026-06-18 21:00:45",
-      "album": {
         "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
         "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 174452,
       "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
       "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
+    },
+    {
+      "added_at": "2026-06-18 21:00:45",
+      "album": {
+        "name": "\u05db\u05d7\u05d5\u05dc \u05dc\u05d1\u05df",
+        "url": "https://open.spotify.com/album/0eW2EEjQ6cJmaHVtN51SB2"
+      },
+      "artists": [
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "\u05db\u05d7\u05d5\u05dc \u05dc\u05d1\u05df",
+      "url": "https://open.spotify.com/track/2PMkkZI0FjriSzdqHxuDAR"
     },
     {
       "added_at": "2026-06-18 21:00:45",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-06-18 21:00:45",
       "album": {
-        "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
-        "url": "https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh"
-      },
-      "artists": [
-        {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
-        }
-      ],
-      "duration_ms": 241046,
-      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
-      "url": "https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy"
-    },
-    {
-      "added_at": "2026-06-18 21:00:45",
-      "album": {
         "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
         "url": "https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 176400,
       "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
       "url": "https://open.spotify.com/track/5psxA79JSFx9e05NXsWGP2"
+    },
+    {
+      "added_at": "2026-06-18 21:00:45",
+      "album": {
+        "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
+        "url": "https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh"
+      },
+      "artists": [
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        }
+      ],
+      "duration_ms": 241046,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
+      "url": "https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy"
     },
     {
       "added_at": "2026-06-18 21:00:45",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-06-18 21:00:45",
       "album": {
-        "name": "Everybody Needs To Be",
-        "url": "https://open.spotify.com/album/75pIwBgLfpKV4UNs7Xzt3Q"
-      },
-      "artists": [
-        {
-          "name": "Kutiman",
-          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
-        },
-        {
-          "name": "Dekel",
-          "url": "https://open.spotify.com/artist/4WUjnhS0CHDhjdm9ei8pj7"
-        }
-      ],
-      "duration_ms": 170107,
-      "name": "Everybody Needs To Be",
-      "url": "https://open.spotify.com/track/57nR701tskrQisI9GZJ9oq"
-    },
-    {
-      "added_at": "2026-06-18 21:00:45",
-      "album": {
         "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
         "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 197045,
       "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
       "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
+    },
+    {
+      "added_at": "2026-06-18 21:00:45",
+      "album": {
+        "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/1X7A7EhntT8Lk4c61oPFUL"
+      },
+      "artists": [
+        {
+          "name": "Ivri Lider",
+          "url": "https://open.spotify.com/artist/1L8QE7iUTf9330wcKxnieK"
+        },
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/7aOFrZTExl780REZ3CIFiN"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

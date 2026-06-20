@@ -4157,6 +4157,28 @@
     },
     {
       "album": {
+        "name": "Hey Neptune Nizhale",
+        "url": "https://open.spotify.com/album/56uh1I8uxk4dHPVC2Xa1PK"
+      },
+      "artists": [
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        },
+        {
+          "name": "Sri Sudharsun",
+          "url": "https://open.spotify.com/artist/3rEvzXb6i6OZsX184y3lY8"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259058,
+      "name": "Hey Neptune Nizhale",
+      "url": "https://open.spotify.com/track/1KIHbNslsJKimtwAnBuKOT"
+    },
+    {
+      "album": {
         "name": "Hey Raasathi",
         "url": "https://open.spotify.com/album/2zWzaoEJ7ciF4rZ6xFxlpV"
       },
@@ -5854,7 +5876,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 215722,
       "name": "Kadhalikkiren",
       "url": "https://open.spotify.com/track/4Hd9B68kCjSLlV70BN4wR0"

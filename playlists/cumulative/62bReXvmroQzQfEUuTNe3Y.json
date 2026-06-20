@@ -2845,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "feel it coming",
+        "url": "https://open.spotify.com/album/5bltqw2RwL7QdLPsB3rAqs"
+      },
+      "artists": [
+        {
+          "name": "origins",
+          "url": "https://open.spotify.com/artist/3IAbIh8buWbZyOcoRpX1Uy"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170730,
+      "name": "feel it coming",
+      "url": "https://open.spotify.com/track/2GmmLyUZhMtyyBUFV3xn71"
+    },
+    {
+      "album": {
         "name": "Feel Like Home (Remixes)",
         "url": "https://open.spotify.com/album/4uvxD8sm2XLCP4GTCZJihI"
       },
@@ -9254,6 +9272,24 @@
       "duration_ms": 174228,
       "name": "Slide",
       "url": "https://open.spotify.com/track/6ogAI7hxJhcpH04xFuwGn4"
+    },
+    {
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/47BKhnKtuIDhk65xbM36Fp"
+      },
+      "artists": [
+        {
+          "name": "MIND",
+          "url": "https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155446,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/7zBUd2g1tvHbnWUazGo5rR"
     },
     {
       "album": {

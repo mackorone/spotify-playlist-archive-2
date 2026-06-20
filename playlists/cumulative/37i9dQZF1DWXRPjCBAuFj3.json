@@ -4193,6 +4193,28 @@
     },
     {
       "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/3mFxzu5rkiqHh8P6xqJc7B"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "CHROME HEARTS (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/6bOwCTgqiUIEuGNdwTDpi5"
+    },
+    {
+      "album": {
         "name": "PACE E GUERRA",
         "url": "https://open.spotify.com/album/5pABP7mOe6LSish3LOGgA3"
       },
@@ -15514,6 +15536,28 @@
       "duration_ms": 179374,
       "name": "PICCOLO",
       "url": "https://open.spotify.com/track/5xab2acNjhKo4q0T9KvwfG"
+    },
+    {
+      "album": {
+        "name": "EL MOCO VERDE",
+        "url": "https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173774,
+      "name": "PIENXA EN MI",
+      "url": "https://open.spotify.com/track/4MR5DmTbTZUA9asyyUmJgP"
     },
     {
       "album": {

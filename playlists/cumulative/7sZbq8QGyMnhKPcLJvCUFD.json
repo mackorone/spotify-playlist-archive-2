@@ -8615,6 +8615,24 @@
     },
     {
       "album": {
+        "name": "KYOTO",
+        "url": "https://open.spotify.com/album/6mDgDqxkApKTf6F19hn7O9"
+      },
+      "artists": [
+        {
+          "name": "HESTER",
+          "url": "https://open.spotify.com/artist/1jCLTlhIUyR4NVuBjLBxAG"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378644,
+      "name": "KYOTO",
+      "url": "https://open.spotify.com/track/0LqxFn08bsfGCT0AtvSWu7"
+    },
+    {
+      "album": {
         "name": "La Manera De Vivir",
         "url": "https://open.spotify.com/album/2cfbzv0R430XWmjtKPSQ7Q"
       },

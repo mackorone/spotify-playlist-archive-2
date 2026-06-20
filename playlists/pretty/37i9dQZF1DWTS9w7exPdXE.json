@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 165892,
+  "num_followers": 165986,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Jammer Dan",
+        "url": "https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "duration_ms": 185137,
+      "name": "Jammer Dan",
+      "url": "https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Duurt Te Lang (Beste Zangers Seizoen 2018)",
         "url": "https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 153527,
       "name": "Duurt Te Lang",
       "url": "https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Jammer Dan",
-        "url": "https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd"
-      },
-      "artists": [
-        {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        }
-      ],
-      "duration_ms": 185137,
-      "name": "Jammer Dan",
-      "url": "https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Mij Niet Bellen",
-        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
+        "name": "Danny de Munk",
+        "url": "https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle"
       },
       "artists": [
         {
-          "name": "RAYMON HERMANS",
-          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
+          "name": "Danny De Munk",
+          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
         }
       ],
-      "duration_ms": 161484,
-      "name": "Mij Niet Bellen",
-      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
+      "duration_ms": 190553,
+      "name": "Mijn Stad",
+      "url": "https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Danny de Munk",
-        "url": "https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle"
+        "name": "Mij Niet Bellen",
+        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
       },
       "artists": [
         {
-          "name": "Danny De Munk",
-          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
+          "name": "RAYMON HERMANS",
+          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
         }
       ],
-      "duration_ms": 190553,
-      "name": "Mijn Stad",
-      "url": "https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI"
+      "duration_ms": 161484,
+      "name": "Mij Niet Bellen",
+      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Drink Rode Wijn (Feestmix)",
-        "url": "https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9"
-      },
-      "artists": [
-        {
-          "name": "Donny Ponsen",
-          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Drink Rode Wijn - Feestmix",
-      "url": "https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "De nieuwe van....",
         "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 308053,
       "name": "Jannes hitmedley",
       "url": "https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Drink Rode Wijn (Feestmix)",
+        "url": "https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9"
+      },
+      "artists": [
+        {
+          "name": "Donny Ponsen",
+          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Drink Rode Wijn - Feestmix",
+      "url": "https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg"
     },
     {
       "added_at": "2026-06-17 07:46:41",

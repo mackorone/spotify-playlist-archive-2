@@ -4,7 +4,7 @@
 
 > The best new and classic South African Rock\. Cover: Aiden Kade
 
-944 songs - 2 day 7 hr 7 min
+944 songs - 2 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Falling](https://open.spotify.com/track/0CAXcJHh0gGnzfHhnCsjVi) | [Coenie Naude](https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF) | [Falling](https://open.spotify.com/album/07s9Ut88jaHYGMSEwEDuEn) | 2:36 | 2024-12-12 | 2025-02-15 |
 | [FALLING DOWN](https://open.spotify.com/track/2DsW6khzay6yv7OMe7Is0x) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [FALLING DOWN](https://open.spotify.com/album/1d456n0tT0NBMjrdSfahwS) | 4:15 | 2023-02-02 | 2023-04-15 |
 | [Familiar Faces](https://open.spotify.com/track/6sDoTfIObXnQnG7Uvrk3Jb) | [Stereo Club](https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv) | [Familiar Faces](https://open.spotify.com/album/6tnvnuVlbQrZDryoXH58lm) | 3:20 | 2025-06-27 | 2025-07-04 |
+| [FAMOUS](https://open.spotify.com/track/75oTJxEoLGIfMrJN6tsrg0) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Starring](https://open.spotify.com/album/4aOweR9nOEUCI30g6xYKQI) | 3:10 | 2026-06-18 |  |
 | [Fantasy Factory](https://open.spotify.com/track/79i1iB5GYqIHaZGMh14uS6) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Fantasy Factory](https://open.spotify.com/album/2eDfOklG1zGZsiLPgTIdce) | 2:52 | 2025-05-02 | 2025-07-19 |
 | [Fatal Attraction](https://open.spotify.com/track/5YL0AEgbd1fYMS5Jrgw10E) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Fatal Attraction](https://open.spotify.com/album/2TJlitKnHY894L95PfqLie) | 3:21 | 2023-03-23 | 2023-04-21 |
 | [Feast Or Famine](https://open.spotify.com/track/6fKV6whgdABjr9iJBlhJAa) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Feast Or Famine](https://open.spotify.com/album/3E3xF6HFKSqhi9dT8hO1wq) | 4:33 | 2021-07-15 | 2022-07-29 |
@@ -652,7 +653,7 @@
 | [PLOFSTOF](https://open.spotify.com/track/1wfxz99hrx15z5TVKpgoNE) | [Die Ramkat Mafia](https://open.spotify.com/artist/2tf7u7nYSaa8sIfFQ3hrg2) | [PLOFSTOF](https://open.spotify.com/album/6eQoBwlQsywrUrX5c69NB9) | 3:29 | 2025-05-02 | 2025-05-16 |
 | [PLUS MINUS](https://open.spotify.com/track/7vGJj71Z0RRVOzpdnpYjip) | [Hendriek Bleik](https://open.spotify.com/artist/4k0tcb0DEpNlQzOD8mKtCT) | [PLUS MINUS](https://open.spotify.com/album/74wqMfp38DGFfVBAJPJYEx) | 2:43 | 2024-08-15 | 2024-08-30 |
 | [PLUSH](https://open.spotify.com/track/3HwO7ZxXYbwjL3ZRjBcKQq) | [Mario de Sa](https://open.spotify.com/artist/5mVJFBftCTdJmcmCQSArCy) | [PLUSH](https://open.spotify.com/album/65xGYp8aXkM9uot4DIxQ2w) | 4:51 | 2025-03-06 | 2025-03-15 |
-| [Polaritieit](https://open.spotify.com/track/6EsdoFyfcf3OLZBnQgmvoA) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Polaritieit](https://open.spotify.com/album/0OLJtStD7x9bHh9EhaJlM8) | 3:10 | 2026-06-18 |  |
+| [Polariteit](https://open.spotify.com/track/6EsdoFyfcf3OLZBnQgmvoA) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Polariteit](https://open.spotify.com/album/0OLJtStD7x9bHh9EhaJlM8) | 3:10 | 2026-06-18 |  |
 | [Portraits](https://open.spotify.com/track/7tbrAxXQWUsPVoFpxiJouI) | [Diverted Disorder](https://open.spotify.com/artist/2e0v1Lyfnj30EjATJ0ytil) | [Portraits](https://open.spotify.com/album/6GzNoRUMrHXaYJkmKZVKLG) | 3:09 | 2025-02-14 | 2025-02-21 |
 | [Potchefstroom](https://open.spotify.com/track/5CpHQNWoOSFyDQ6LMvbIkK) | [Vabond](https://open.spotify.com/artist/3rQctTQLgL48c2lu3sOnWC) | [Potchefstroom](https://open.spotify.com/album/6AxBARYkXmA03xZ5A5qQwc) | 4:41 | 2025-08-29 | 2025-09-20 |
 | [Prediker](https://open.spotify.com/track/4awOkMUUOHxxjU9uJBmd1G) | [RAAF](https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi) | [Prediker](https://open.spotify.com/album/6DLr0e6UlImONhBrEK9Dlp) | 4:52 | 2023-12-08 | 2024-01-05 |
@@ -861,7 +862,6 @@
 | [Towards The Sun](https://open.spotify.com/track/57Fo0TBbJvUndg5OXfhiNh) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Towards The Sun](https://open.spotify.com/album/30XPENrsPptG3L6mBHFM9t) | 4:25 | 2021-08-13 | 2022-04-01 |
 | [Towerkop](https://open.spotify.com/track/0lxm6E9GTyQ8hJXxnR5hZb) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Towerkop](https://open.spotify.com/album/2WlM9UWueQZ0beAQSbjRKx) | 4:29 | 2022-11-17 | 2023-01-27 |
 | [Toxic Memories](https://open.spotify.com/track/70Vz80OyLKa5UrChrI3ewd) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz), [SKTLLZ](https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5) | [Toxic Memories](https://open.spotify.com/album/21uYLW8NnoSJVdYTamQGx6) | 2:41 | 2021-09-23 | 2022-03-18 |
-| [Track 1](https://open.spotify.com/track/75oTJxEoLGIfMrJN6tsrg0) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Starring](https://open.spotify.com/album/4aOweR9nOEUCI30g6xYKQI) | 0:00 | 2026-06-18 |  |
 | [Travelers](https://open.spotify.com/track/6wxarX9bnQDgWdaiPhuot7) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Travelers](https://open.spotify.com/album/2CsxtFbCzVIYDxeBqHLnaO) | 2:39 | 2024-01-18 | 2024-03-01 |
 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 | 2025-04-10 |  |
 | [Twak In Die Sak](https://open.spotify.com/track/0kBHPLX0L9okVxNzaBOhW1) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Twak In Die Sak](https://open.spotify.com/album/4sQIxY95sJP8RyIx17tVsh) | 2:28 | 2023-12-08 | 2024-01-05 |

@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 305670,
       "name": "[revelation]",
       "url": "https://open.spotify.com/track/6t8DdVOZXhbAqTtMnpEGZu"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 188684,
       "name": "Ciel",
       "url": "https://open.spotify.com/track/3TrCvZpezFNZQg1IEm5NDR"
@@ -2006,6 +2006,24 @@
       "duration_ms": 269125,
       "name": "Departure",
       "url": "https://open.spotify.com/track/55V2kHwu3VXaJbuS3ph3TZ"
+    },
+    {
+      "album": {
+        "name": "Marillion.Com (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3g3MbIK9ZVjEBNlnYMXrXa"
+      },
+      "artists": [
+        {
+          "name": "Marillion",
+          "url": "https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264974,
+      "name": "Deserve - 2026 Remix",
+      "url": "https://open.spotify.com/track/32rxO3ZYcNLfj0UVEVTJ4V"
     },
     {
       "album": {
@@ -6021,6 +6039,32 @@
     },
     {
       "album": {
+        "name": "Prince Of Failure",
+        "url": "https://open.spotify.com/album/0fveELBgedO6YwRv0WM6t3"
+      },
+      "artists": [
+        {
+          "name": "Prince Of Failure",
+          "url": "https://open.spotify.com/artist/4m3CUQmjdcjkYYS3MNUBS8"
+        },
+        {
+          "name": "Daniel Tompkins",
+          "url": "https://open.spotify.com/artist/5n5iBDC9dOljWGwj7BrdZt"
+        },
+        {
+          "name": "Chimp Spanner",
+          "url": "https://open.spotify.com/artist/1luumZojARx0L3spmNwEgl"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240960,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/7ajU4f4hj5cK1xhFyTsJoz"
+    },
+    {
+      "album": {
         "name": "Phantom Island",
         "url": "https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc"
       },
@@ -6904,6 +6948,32 @@
       "duration_ms": 315240,
       "name": "Sand Castles",
       "url": "https://open.spotify.com/track/6OnldEmtrkeWxgPrkPhxwQ"
+    },
+    {
+      "album": {
+        "name": "Sandworm",
+        "url": "https://open.spotify.com/album/1R1wKMsBXJ1YZoaU201KTW"
+      },
+      "artists": [
+        {
+          "name": "4 Eyed Bears",
+          "url": "https://open.spotify.com/artist/50hjZxcsxO2gMOdp4s8Kb2"
+        },
+        {
+          "name": "Martin Gonzalez",
+          "url": "https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg"
+        },
+        {
+          "name": "Lechuga",
+          "url": "https://open.spotify.com/artist/2SDcND6iKTDeQtHYV7OmoB"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310909,
+      "name": "Sandworm",
+      "url": "https://open.spotify.com/track/0dr6AEYJ77ZNshrlxZeDnI"
     },
     {
       "album": {
@@ -9690,7 +9760,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 420520,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/4ahtRUxmMyOBAZVSRaXW1z"

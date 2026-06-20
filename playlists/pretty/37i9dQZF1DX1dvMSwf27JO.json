@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 556279,
+  "num_followers": 556254,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "FAMJAM4000",
+      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Midnight Marauders",
         "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 226440,
       "name": "Award Tour (feat. Trugoy The Dove)",
       "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "FAMJAM4000",
-      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Far Rockaway",
-        "url": "https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0"
-      },
-      "artists": [
-        {
-          "name": "KAMAUU",
-          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
-        }
-      ],
-      "duration_ms": 142566,
-      "name": "Far Rockaway",
-      "url": "https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 209108,
       "name": "Closure",
       "url": "https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Far Rockaway",
+        "url": "https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        }
+      ],
+      "duration_ms": 142566,
+      "name": "Far Rockaway",
+      "url": "https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "LOUIE",
+        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
+      },
+      "artists": [
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 133546,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "froge.mp3",
         "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 154400,
       "name": "silver lining",
       "url": "https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "LOUIE",
-        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
-      },
-      "artists": [
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-        }
-      ],
-      "duration_ms": 133546,
-      "name": "Family Tree",
-      "url": "https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Dog Food (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 184123,
+      "name": "Dog Food (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Echo (tom huna Edit)",
         "url": "https://open.spotify.com/album/6miWzsOhLwQaprbr8ID8yb"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 218823,
       "name": "Echo - tom huna Edit",
       "url": "https://open.spotify.com/track/1Q9FBsIfqS9OiktSpxzFjb"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Dog Food (feat. Denzel Curry)",
-        "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 184123,
-      "name": "Dog Food (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "WAN ME DEAD",
+        "url": "https://open.spotify.com/album/2IZuFx4C7bvUQdCWEiRcLR"
+      },
+      "artists": [
+        {
+          "name": "808vic",
+          "url": "https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM"
+        }
+      ],
+      "duration_ms": 131427,
+      "name": "WAN ME DEAD",
+      "url": "https://open.spotify.com/track/7xQNKbIhGbfibisThIb75d"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Show Me The Money (with Tkay Maidza)",
         "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 187058,
       "name": "Show Me The Money (with Tkay Maidza)",
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "WAN ME DEAD",
-        "url": "https://open.spotify.com/album/2IZuFx4C7bvUQdCWEiRcLR"
-      },
-      "artists": [
-        {
-          "name": "808vic",
-          "url": "https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM"
-        }
-      ],
-      "duration_ms": 131427,
-      "name": "WAN ME DEAD",
-      "url": "https://open.spotify.com/track/7xQNKbIhGbfibisThIb75d"
     }
   ],
   "unique_name": "'fit check",

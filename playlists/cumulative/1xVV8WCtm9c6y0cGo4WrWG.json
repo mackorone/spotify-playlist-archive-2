@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The newest and best Hip-Hop tracks, updated weekly! Cover: Drake",
+  "description": "The newest and best Hip-Hop tracks, updated weekly! Cover: KTOE",
   "name": "Hip-Hop Pulse",
   "tracks": [
     {
@@ -5005,6 +5005,24 @@
     },
     {
       "album": {
+        "name": "REEKO",
+        "url": "https://open.spotify.com/album/1c0opZ5Flclsg36oGyQJdH"
+      },
+      "artists": [
+        {
+          "name": "KTOE",
+          "url": "https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130416,
+      "name": "LIGHTS CAMERA",
+      "url": "https://open.spotify.com/track/1ccmgULydgeBefKdfsQU4j"
+    },
+    {
+      "album": {
         "name": "The Pre-Party",
         "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
       },
@@ -9224,7 +9242,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 189544,
       "name": "Tweaker",
       "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"

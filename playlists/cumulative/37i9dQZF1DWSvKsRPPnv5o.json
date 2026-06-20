@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Blxst",
+  "description": "Holdin' it down for the westside. Cover: AZ Chike",
   "name": "Westside",
   "tracks": [
     {
@@ -9686,7 +9686,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 200664,
       "name": "Ehhh pt.2",
       "url": "https://open.spotify.com/track/5ioEIdDl9xyzjsHBjYcGWc"
@@ -11951,6 +11951,24 @@
     },
     {
       "album": {
+        "name": "G Gangstaz",
+        "url": "https://open.spotify.com/album/7Jd4fUaMG57iteN7w9Z1l3"
+      },
+      "artists": [
+        {
+          "name": "EBK Young Joc",
+          "url": "https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176053,
+      "name": "G Gangstaz",
+      "url": "https://open.spotify.com/track/3cc02IKh7vH8FLL2JSAqL5"
+    },
+    {
+      "album": {
         "name": "G Slim's Revenge",
         "url": "https://open.spotify.com/album/5WbAFYPQXfuMB8VibCFt5s"
       },
@@ -13526,7 +13544,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 266021,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
@@ -14938,7 +14956,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 180380,
       "name": "HOLLYWOOD",
       "url": "https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir"
@@ -16418,7 +16436,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 256406,
       "name": "INSECURE feat jid & ab-soul",
       "url": "https://open.spotify.com/track/6wRBNi9WAXrGrzyDw7JFP8"
@@ -16596,7 +16614,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 169912,
       "name": "Is You Rockin Wit Us",
       "url": "https://open.spotify.com/track/3y1Zc7AOv9zxrufBRrFlLE"
@@ -17208,6 +17226,36 @@
       "duration_ms": 142036,
       "name": "Keep it Spoety",
       "url": "https://open.spotify.com/track/6MlPpglYdb7EpKJMlk5Vhu"
+    },
+    {
+      "album": {
+        "name": "Trap Art 3",
+        "url": "https://open.spotify.com/album/7arEdD3PcT7i67zHoD0mWv"
+      },
+      "artists": [
+        {
+          "name": "Haiti Babii",
+          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
+        },
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        },
+        {
+          "name": "Saviii 3rd",
+          "url": "https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2"
+        },
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129265,
+      "name": "Kenzo",
+      "url": "https://open.spotify.com/track/0EtxWc3SzRVLRKyGRUYfPf"
     },
     {
       "album": {
@@ -22681,6 +22729,28 @@
     },
     {
       "album": {
+        "name": "THE GENTLEMEN'S CLUB",
+        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146439,
+      "name": "OMG feat pusha t",
+      "url": "https://open.spotify.com/track/52GRbtHCnZnPOy85U22TY3"
+    },
+    {
+      "album": {
         "name": "OMMIO 4",
         "url": "https://open.spotify.com/album/53dTIJVxZHrnEynYrhvsL6"
       },
@@ -22868,6 +22938,28 @@
       "duration_ms": 156503,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/05rqovaF53w9op4snRPaK7"
+    },
+    {
+      "album": {
+        "name": "THE GENTLEMEN'S CLUB",
+        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "ON THE LOW feat tyler, the creator",
+      "url": "https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1"
     },
     {
       "album": {
@@ -23646,6 +23738,24 @@
       "duration_ms": 117894,
       "name": "Pacific Coast Highway",
       "url": "https://open.spotify.com/track/0o7Tdf8WP4Xf4g70LEyyeJ"
+    },
+    {
+      "album": {
+        "name": "Packed Up",
+        "url": "https://open.spotify.com/album/6gPUfZyvtafrlzEaeFiRum"
+      },
+      "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143105,
+      "name": "Packed Up",
+      "url": "https://open.spotify.com/track/0FUyZIiieOrOiiIAuGHVVS"
     },
     {
       "album": {
@@ -25116,7 +25226,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 146326,
       "name": "Pose For Me",
       "url": "https://open.spotify.com/track/3YOrk2YHbXRdKtmurcdq2T"
@@ -27448,7 +27558,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 158418,
       "name": "She",
       "url": "https://open.spotify.com/track/2wy9CWZaIVCCOwXkd4boBm"
@@ -31524,7 +31634,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 178625,
       "name": "The Light",
       "url": "https://open.spotify.com/track/6lQQNfLEhyJM3SE7GQdhb6"
@@ -31858,6 +31968,24 @@
       "duration_ms": 169951,
       "name": "This Thing of Ours",
       "url": "https://open.spotify.com/track/5ggZR2ZCaek2u558EKjqyj"
+    },
+    {
+      "album": {
+        "name": "This Yo Shhh",
+        "url": "https://open.spotify.com/album/5mz66HMgX0zSG5liH3e7BS"
+      },
+      "artists": [
+        {
+          "name": "Chef Boy",
+          "url": "https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135080,
+      "name": "This Yo Shhh",
+      "url": "https://open.spotify.com/track/2O6D6wJFdTWc5GrpqQb8KD"
     },
     {
       "album": {
@@ -33890,6 +34018,24 @@
       "duration_ms": 192677,
       "name": "Way Up",
       "url": "https://open.spotify.com/track/44xSEAqoD5nBjIh2Zs7nU4"
+    },
+    {
+      "album": {
+        "name": "THE GENTLEMEN'S CLUB",
+        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217754,
+      "name": "WE KNOW THE TRUTH",
+      "url": "https://open.spotify.com/track/2pLunsAZbnzIPpfKU0Caw4"
     },
     {
       "album": {

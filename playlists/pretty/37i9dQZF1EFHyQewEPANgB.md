@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 69 | [CONTRADICTION](https://open.spotify.com/track/1H9pChdwYGS1eAos8F48xn) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 3:00 |
 | 70 | [Learn to Love My Bm](https://open.spotify.com/track/0qgWR7yasp2c5FGp40Xxhi) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 2:53 |
 | 71 | [Stretch Money](https://open.spotify.com/track/70uz0rWlOsnpMWlEwfAL4U) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 3:20 |
-| 72 | [BIG SEXY FREESTYLE](https://open.spotify.com/track/1c5f2ZWLf4g8WJd1Aa0e5Z) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 1:53 |
-| 73 | [Super Up](https://open.spotify.com/track/4TLvEV4lAVbcBiEPeXFhQw) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Super Up](https://open.spotify.com/album/7gZM9w7M1e9qoYDoIc5QV0) | 2:16 |
+| 72 | [Super Up](https://open.spotify.com/track/4TLvEV4lAVbcBiEPeXFhQw) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Super Up](https://open.spotify.com/album/7gZM9w7M1e9qoYDoIc5QV0) | 2:16 |
+| 73 | [BIG SEXY FREESTYLE](https://open.spotify.com/track/1c5f2ZWLf4g8WJd1Aa0e5Z) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 1:53 |
 | 74 | [God Knows Hotline](https://open.spotify.com/track/2kmseSm4niZQu2XDE5UOWz) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [God Knows](https://open.spotify.com/album/72vJnqE5HYdzczuOyQ9acd) | 0:37 |
 | 75 | [TRAPPED IN MY MIND](https://open.spotify.com/track/59UFMlQ83D8eWlEM8QDicY) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 2:22 |
 | 76 | [All Money Spend](https://open.spotify.com/track/01IU47xxQDEgVKF4eWmnIX) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Earl ManiGoat](https://open.spotify.com/album/2sVW32G4fT3wALd4z1sRCt) | 2:52 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 89 | [W.H.E.W\. \(Fat Al & The Silk Drawers\)](https://open.spotify.com/track/5ZxIVf6rWtKuBnYMe6smcH) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:21 |
 | 90 | [W.H.E.W\. \(SouthWest Kesha Mission\)](https://open.spotify.com/track/2nXQCxv2VSlHZ1ELHpOnLo) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:27 |
 
-Snapshot ID: `AcUlWgAAAADbpeAsV6kNdlqJ8hoY50Wi`
+Snapshot ID: `AcUq+gAAAAC2Xt37Ki7ZEJJF/ePRwgKi`

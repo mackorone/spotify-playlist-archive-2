@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Imminence are on top of today's best Metal playlist.",
+  "description": "Loathe are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -290,6 +290,24 @@
       "duration_ms": 290104,
       "name": "8.6 BLACKOUT",
       "url": "https://open.spotify.com/track/7iO63Uh5PncPAneiyITz7R"
+    },
+    {
+      "album": {
+        "name": "A Blaze of Nihilism",
+        "url": "https://open.spotify.com/album/3ve1oUyQcEmazFTcB7voYD"
+      },
+      "artists": [
+        {
+          "name": "Fuming Mouth",
+          "url": "https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172210,
+      "name": "A Blaze of Nihilism",
+      "url": "https://open.spotify.com/track/1Gj7O01k7FbghPN0Pb2Odk"
     },
     {
       "album": {
@@ -4781,6 +4799,24 @@
     },
     {
       "album": {
+        "name": "Armour Of Angels",
+        "url": "https://open.spotify.com/album/4ZEtAdGoESebTf6Dc1ydhz"
+      },
+      "artists": [
+        {
+          "name": "Guilt Trip",
+          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166186,
+      "name": "Cut From God",
+      "url": "https://open.spotify.com/track/0PKG4DeFYDB68bgvw5XmM9"
+    },
+    {
+      "album": {
         "name": "Cut Me Open",
         "url": "https://open.spotify.com/album/4I6HDYKbgn6ImOpvgUqyNV"
       },
@@ -7675,6 +7711,24 @@
     },
     {
       "album": {
+        "name": "EYESTALK ABLATIONS",
+        "url": "https://open.spotify.com/album/48jUKiaEuju9RBAbz2MPJr"
+      },
+      "artists": [
+        {
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211210,
+      "name": "EYESTALK ABLATIONS",
+      "url": "https://open.spotify.com/track/3ZUiQE3GYtxzGq7YsXqk3M"
+    },
+    {
+      "album": {
         "name": "The Great Satan",
         "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
       },
@@ -7686,7 +7740,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 235906,
       "name": "F.T.W. 84",
       "url": "https://open.spotify.com/track/4DJDtYrUMZl1WteQCSKEBX"
@@ -13386,7 +13440,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 164630,
       "name": "Make Me Feel (with elijah & Downswing)",
       "url": "https://open.spotify.com/track/5uqHCGJ1f6pPJh3QIjnTvQ"
@@ -14820,7 +14874,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 150400,
       "name": "No Love Lost",
       "url": "https://open.spotify.com/track/6PQA6MBU3xAsZKmahjF9Bg"
@@ -18108,6 +18162,36 @@
       "duration_ms": 219575,
       "name": "Seeing Red",
       "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
+    },
+    {
+      "album": {
+        "name": "This Place Wasn't Meant for Us",
+        "url": "https://open.spotify.com/album/5Bd50hiF1gv2UU7ysnx3wM"
+      },
+      "artists": [
+        {
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+        },
+        {
+          "name": "Michael Leo Valeri",
+          "url": "https://open.spotify.com/artist/25Ov94sa39E3pwdQ4Rgk1S"
+        },
+        {
+          "name": "Liam Beeson",
+          "url": "https://open.spotify.com/artist/1JzQLoxKEDECoItUP7jR8I"
+        },
+        {
+          "name": "Kyle Anderson",
+          "url": "https://open.spotify.com/artist/74GuAuCz0mWRUiqL4KPJKh"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262125,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/4RCsxImpbVG07SZls4KShV"
     },
     {
       "album": {
@@ -22772,7 +22856,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 171529,
       "name": "trauma/response",
       "url": "https://open.spotify.com/track/2CxtAvvLfMJSke9gTM2F5o"

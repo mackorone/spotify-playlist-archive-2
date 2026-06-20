@@ -1595,6 +1595,28 @@
     },
     {
       "album": {
+        "name": "Para Despertar: Reggaeton",
+        "url": "https://open.spotify.com/album/4zE5Cz09g8ZMcuLCbbOI4A"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182813,
+      "name": "No Bailes Sola",
+      "url": "https://open.spotify.com/track/18Ehq6VGcQOYfVBT4EYed5"
+    },
+    {
+      "album": {
         "name": "Verano Latino Hits 2020",
         "url": "https://open.spotify.com/album/7Dqw6ZqR7FvCzaJ3CfvNOm"
       },
@@ -1910,7 +1932,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 249160,
       "name": "Principe Azul",
       "url": "https://open.spotify.com/track/1ICZdiAGVi6F0WWtBoPzuW"

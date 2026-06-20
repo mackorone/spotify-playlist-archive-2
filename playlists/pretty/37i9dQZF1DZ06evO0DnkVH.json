@@ -1,12 +1,12 @@
 {
   "description": "This is Kate Bush. The essential tracks, all in one playlist.",
-  "num_followers": 208212,
+  "num_followers": 208229,
   "original_name": "This Is Kate Bush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAAAmQ1HNPDjVkqZ2l3YX19ix",
+  "snapshot_id": "ajM1AAAAAADODWFAEL8UcZlYPCALk2Ph",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aerial",
-        "url": "https://open.spotify.com/album/7rJhczUZtha1uulvAlYS4j"
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 293720,
-      "name": "King Of The Mountain",
-      "url": "https://open.spotify.com/track/21ZTkAe7nw4kAR1aHyZXSx"
+      "duration_ms": 52186,
+      "name": "Night Scented Stock - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6ZYjCeL9704rdBdDI59gRY"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never for Ever (2018 Remaster)",
-        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/7rJhczUZtha1uulvAlYS4j"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 52186,
-      "name": "Night Scented Stock - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6ZYjCeL9704rdBdDI59gRY"
+      "duration_ms": 293720,
+      "name": "King Of The Mountain",
+      "url": "https://open.spotify.com/track/21ZTkAe7nw4kAR1aHyZXSx"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
       "duration_ms": 61533,
       "name": "Aerial Tal - 2018 Remaster",
       "url": "https://open.spotify.com/track/2n2D35EgoIHB2SCXOzlIjL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 171346,
+      "name": "Delius - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3dSd4f3KMC3efgKlODlnfZ"
     },
     {
       "added_at": null,
@@ -443,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never for Ever (2018 Remaster)",
-        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 171346,
-      "name": "Delius - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3dSd4f3KMC3efgKlODlnfZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Best Of The Other Sides",
         "url": "https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lionheart (2018 Remaster)",
-        "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "In Search of Peter Pan - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3dbKMKZjmjYaFfW5KdRN8q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aerial (2018 Remaster)",
         "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 304306,
       "name": "Somewhere In Between - 2018 Remaster",
       "url": "https://open.spotify.com/track/49nRB16eio3crw2VprMRHG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lionheart (2018 Remaster)",
+        "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "In Search of Peter Pan - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3dbKMKZjmjYaFfW5KdRN8q"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lionheart",
-        "url": "https://open.spotify.com/album/7qeRejAsyqrM1hw3LwVPYp"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 279466,
-      "name": "Hammer Horror",
-      "url": "https://open.spotify.com/track/1OeyUaxsSWYqJEzH81X3ue"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aerial (2018 Remaster)",
         "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 509200,
       "name": "Nocturn - 2018 Remaster",
       "url": "https://open.spotify.com/track/72PLLUXivN0B79cmjcqJgo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lionheart",
+        "url": "https://open.spotify.com/album/7qeRejAsyqrM1hw3LwVPYp"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 279466,
+      "name": "Hammer Horror",
+      "url": "https://open.spotify.com/track/1OeyUaxsSWYqJEzH81X3ue"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sensual World (2018 Remaster)",
-        "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Never Be Mine - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1E504bXgCNV66KqvWGGgVo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aerial (2018 Remaster)",
         "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 85893,
       "name": "Prelude - 2018 Remaster",
       "url": "https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Of The Other Sides",
+        "url": "https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 294600,
+      "name": "Experiment IV - Remastered 2025",
+      "url": "https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of The Other Sides",
-        "url": "https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz"
+        "name": "The Sensual World (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 294600,
-      "name": "Experiment IV - Remastered 2025",
-      "url": "https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf"
+      "duration_ms": 224760,
+      "name": "Never Be Mine - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1E504bXgCNV66KqvWGGgVo"
     },
     {
       "added_at": null,
@@ -692,25 +692,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 294853,
-      "name": "An Architect's Dream - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0RwmRvaoJKpTMnenlxYMxc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Red Shoes",
-        "url": "https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 317898,
-      "name": "Moments Of Pleasure - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/6MNhr7oVi9UrnnKlB1TqGx"
+      "duration_ms": 341306,
+      "name": "Prologue - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1xcKLHQ4KcI5rtFOsZusTv"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 299106,
       "name": "Rocket Man",
       "url": "https://open.spotify.com/track/2DYOj01jENtD95hQzQywHI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Shoes",
+        "url": "https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 317898,
+      "name": "Moments Of Pleasure - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/6MNhr7oVi9UrnnKlB1TqGx"
     },
     {
       "added_at": null,

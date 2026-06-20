@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Karuppu",
+  "description": "New Music from Kollywood.\nCover : Vishwanath & Sons",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -19192,7 +19192,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 156000,
       "name": "Jilpanso (From \"Youth\")",
       "url": "https://open.spotify.com/track/0uhauFEJ3IWWQWPFypNRrl"
@@ -28055,6 +28055,32 @@
     },
     {
       "album": {
+        "name": "Magaraasi (From \"Gatta Kusthi 2\")",
+        "url": "https://open.spotify.com/album/5EfSfKIjByKaSpSX5Tx1MI"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Vijaynarain",
+          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
+        },
+        {
+          "name": "Muthamil",
+          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Magaraasi (From \"Gatta Kusthi 2\")",
+      "url": "https://open.spotify.com/track/1Oqu0izpQ4Y9Vx6eu91qjI"
+    },
+    {
+      "album": {
         "name": "Mahimaalayamagu (From \"Shaakuntalam\") [Tamil] [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/4f1V2LhglURkh8G4XycJhB"
       },
@@ -29618,7 +29644,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 222143,
       "name": "Massa Massa (TAMIL)",
       "url": "https://open.spotify.com/track/4hZRtSaFaz3vPhn4xr8VI8"
@@ -35801,6 +35827,32 @@
     },
     {
       "album": {
+        "name": "Nightu Nila (From \"Vekkai\")",
+        "url": "https://open.spotify.com/album/10Qj7xrG0OZvc68kzeWs76"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Gana Bala",
+          "url": "https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208205,
+      "name": "Nightu Nila - From \"Vekkai\"",
+      "url": "https://open.spotify.com/track/3BcifTzLQviVBw5zjMWDHw"
+    },
+    {
+      "album": {
         "name": "Oru Naal Uravu",
         "url": "https://open.spotify.com/album/2HkVDL4snhmoYUxWGpwOrA"
       },
@@ -39719,6 +39771,32 @@
     },
     {
       "album": {
+        "name": "Pattampoochi (From \"Vishwanath & Sons\")(Tamil)",
+        "url": "https://open.spotify.com/album/4hwIPgr2dJLoAa7smPsbE4"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Pattampoochi (From \"Vishwanath & Sons\")(Tamil)",
+      "url": "https://open.spotify.com/track/1DgQIai8yxUNhNeYVfaqT9"
+    },
+    {
+      "album": {
         "name": "Jawan (TAMIL)",
         "url": "https://open.spotify.com/album/6IPocVtoXfw3YaBwC9M5tX"
       },
@@ -39876,7 +39954,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 252569,
       "name": "Pavazha Malli - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
@@ -50880,7 +50958,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 242865,
       "name": "The Life",
       "url": "https://open.spotify.com/track/1BFY7J7l754hwcCLZz6ycw"
@@ -58492,6 +58570,32 @@
       "duration_ms": 261000,
       "name": "Vendum",
       "url": "https://open.spotify.com/track/4ogxWEsy2bTf2QlN9T5JrZ"
+    },
+    {
+      "album": {
+        "name": "Vengaatu Boomyil (From \"Black Gold\")",
+        "url": "https://open.spotify.com/album/5H8tqq60Ry7QofWxGl5HzI"
+      },
+      "artists": [
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        },
+        {
+          "name": "Gavaskar Avinash",
+          "url": "https://open.spotify.com/artist/4P2nwFIMURDKwp0dPOXKdR"
+        },
+        {
+          "name": "Mohanrajan",
+          "url": "https://open.spotify.com/artist/5tSoZKJdiyAz4blPkLLF3X"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "Vengaatu Boomyil (From \"Black Gold\")",
+      "url": "https://open.spotify.com/track/3LcmRVCiikQxY1lS7fBbcb"
     },
     {
       "album": {

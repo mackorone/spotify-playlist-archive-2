@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Saïf
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,635 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,677 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 39 | [Être une fille](https://open.spotify.com/track/6s7PgvBT8yKRtoogdwZzna) | [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [Les monstres](https://open.spotify.com/album/4w8l9RgrnoYB6EvRkZhmdo) | 3:32 |
 | 40 | [Bleu métallisé](https://open.spotify.com/track/2nqnCD36BRi0Njij12pzw4) | [PEKA](https://open.spotify.com/artist/1OVMF4LXI8xkr4lHiDL8W4) | [TPLM Vol.2](https://open.spotify.com/album/14aBAqCpVDl85KX04Gcpd3) | 2:58 |
 
-Snapshot ID: `AAAAAIR3bAT10AtB1y14GoqHLQ5J4WKZ`
+Snapshot ID: `AAAAAKuGrzsQTdUHB3cEQUA7Wi5F/rZD`

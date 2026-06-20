@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-03",
-  "description": "AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH. System Of  A Down en portada",
+  "description": "AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH. Beartooth en portada",
   "name": "Dark and Furious",
   "tracks": [
     {
@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Black & Blue (2026 Repented)",
+        "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272967,
+      "name": "Black & Blue - 2026 Repented",
+      "url": "https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i"
+    },
+    {
+      "album": {
         "name": "Horrified",
         "url": "https://open.spotify.com/album/2nknlmZyMtKyHDstDWVQVV"
       },
@@ -1446,6 +1464,24 @@
       "duration_ms": 186521,
       "name": "Brujerizmo",
       "url": "https://open.spotify.com/track/6cLQFbfzJ5TWN6l1i4d3w6"
+    },
+    {
+      "album": {
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215384,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
     },
     {
       "album": {
@@ -3062,6 +3098,24 @@
       "duration_ms": 181666,
       "name": "Everything Burns (feat. Beartooth)",
       "url": "https://open.spotify.com/track/4m4MMljoJx4illTnaWRHbG"
+    },
+    {
+      "album": {
+        "name": "Exit Wound",
+        "url": "https://open.spotify.com/album/6tH8sjW4wo7eDiZn1WZTG9"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278231,
+      "name": "Exit Wound",
+      "url": "https://open.spotify.com/track/46PCeG1vUqW2TxTJuJsenw"
     },
     {
       "album": {
@@ -5522,7 +5576,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 205454,
       "name": "Marat\u00f3n",
       "url": "https://open.spotify.com/track/3xjUM2mRRQKZS3YwzDtwlB"
@@ -5540,7 +5594,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 400415,
       "name": "Marijuanaut's Theme",
       "url": "https://open.spotify.com/track/64qtZmx57W6XbnqTn3eSE0"
@@ -6154,7 +6208,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 309466,
       "name": "No Hardcore Dancing In the Living Room",
       "url": "https://open.spotify.com/track/1Z2CB3dT4Zgs4wO9SQNvvW"
@@ -6965,6 +7019,28 @@
     },
     {
       "album": {
+        "name": "R.I.P. (feat. Skylar Grey)",
+        "url": "https://open.spotify.com/album/2BdQsMhZDuxilUo1mG12OK"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240109,
+      "name": "R.I.P. (feat. Skylar Grey)",
+      "url": "https://open.spotify.com/track/4t2iBQXTof6BoWCIxkgFF1"
+    },
+    {
+      "album": {
         "name": "Instinctus Bestialis",
         "url": "https://open.spotify.com/album/4LS73b8Jxgi2vdeYvPv2u1"
       },
@@ -7754,7 +7830,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 136826,
       "name": "Shed",
       "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"

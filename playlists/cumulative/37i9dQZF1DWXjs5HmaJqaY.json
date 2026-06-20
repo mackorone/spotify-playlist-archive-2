@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/2hUsXPSXrPv7CAMtHJ8sbV"
+      },
+      "artists": [
+        {
+          "name": "Philipp Lake",
+          "url": "https://open.spotify.com/artist/1O6uzBR9eeNjNx7tDDXsZH"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183307,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/3Dsbv1PVJDBJsnaOAzfBfl"
+    },
+    {
+      "album": {
         "name": "Bending the End",
         "url": "https://open.spotify.com/album/07SvgpFWSvAEreX8Zq3GqX"
       },
@@ -1132,6 +1150,24 @@
       "duration_ms": 311739,
       "name": "Cee",
       "url": "https://open.spotify.com/track/3uH4GSjsQRDnvdQQCHCXD3"
+    },
+    {
+      "album": {
+        "name": "Certified Original",
+        "url": "https://open.spotify.com/album/3EOjKhjmKd3eSm4BvF2fQW"
+      },
+      "artists": [
+        {
+          "name": "Frieder & Jakob",
+          "url": "https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185003,
+      "name": "Certified Original",
+      "url": "https://open.spotify.com/track/6bOCU2u20snODY1fMYrFpP"
     },
     {
       "album": {

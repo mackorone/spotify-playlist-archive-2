@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Annemijntje",
+        "url": "https://open.spotify.com/album/58bW7uythJ93uv6C6JW5wM"
+      },
+      "artists": [
+        {
+          "name": "Lode & Nivek",
+          "url": "https://open.spotify.com/artist/68nVPNLt1YpWBr11dVwXLy"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137272,
+      "name": "Annemijntje",
+      "url": "https://open.spotify.com/track/6pfLBb9hhlOnvkn0QLx4Uq"
+    },
+    {
+      "album": {
         "name": "Avond voor in de Boeken",
         "url": "https://open.spotify.com/album/6EeWtkYsrjKAq2FkZ0OHPQ"
       },

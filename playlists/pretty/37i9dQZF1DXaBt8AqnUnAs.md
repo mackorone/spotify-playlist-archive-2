@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,558 likes - 81 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,614 likes - 81 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 30 | [Anjo](https://open.spotify.com/track/1UQhXpOKXJeNu1HNolwbZy) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Confia: Sonho de Cria \- Trilha Sonora](https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf) | 2:50 |
 | 31 | [começo \(de um fim\)](https://open.spotify.com/track/152mvG5WOMDuKHnpTQJywJ) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [começo \(de um fim\)](https://open.spotify.com/album/5Noioyq0yVx8jUpDZk09uR) | 2:47 |
 | 32 | [Diaba](https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk) | [Cachorro Sincero](https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc) | 2:17 |
-| 33 | [Foi assim](https://open.spotify.com/track/6fPALIGFkjmlHKuiiZLRl6) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Fique o tempo que precisar](https://open.spotify.com/album/3XopVdEcVEZHbk1yJQlXHO) | 2:27 |
+| 33 | [Foi assim](https://open.spotify.com/track/6fPALIGFkjmlHKuiiZLRl6) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [Pulim](https://open.spotify.com/artist/1bz6GpkRZaeBbkUeDbVkW9) | [Fique o tempo que precisar](https://open.spotify.com/album/3XopVdEcVEZHbk1yJQlXHO) | 2:27 |
 | 34 | [Você \- Remix](https://open.spotify.com/track/5pscBEmv4Hj9QrpJyUMZD7) | [Delinn](https://open.spotify.com/artist/0YZV75xF136zfiSYukmY6p), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Caetanoprod](https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy) | [Você \(Remix\)](https://open.spotify.com/album/7Jdi1YIeZABZ0dD695gixE) | 3:23 |
 | 35 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 |
 | 36 | [ME DIZ PQ?](https://open.spotify.com/track/3yTgfngNRx88W1GvD4Cyc8) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [MANO R7](https://open.spotify.com/artist/6RruMIOL9mfFjnNfZfsXhB) | [ME DIZ PQ?](https://open.spotify.com/album/1Hvq4LbUkDiLHUc518ElWy) | 2:49 |

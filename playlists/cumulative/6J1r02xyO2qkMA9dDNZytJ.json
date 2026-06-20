@@ -449,6 +449,40 @@
     },
     {
       "album": {
+        "name": "Best Be Believing",
+        "url": "https://open.spotify.com/album/0j00bWGcetHSeCa3ZkFPxB"
+      },
+      "artists": [
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        },
+        {
+          "name": "Caleb Laurenson",
+          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217611,
+      "name": "Best Be Believing",
+      "url": "https://open.spotify.com/track/6PrNlcO0taE0XUyyYIO1tP"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/7JQkC9K96HeCQuBfReRgHD"
       },
@@ -486,7 +520,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 192937,
       "name": "Black & Gold",
       "url": "https://open.spotify.com/track/2bLVojtkh60Rh0wK0TLwaf"
@@ -1100,7 +1134,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 192923,
       "name": "Delirious",
       "url": "https://open.spotify.com/track/46875iJliwEgqWQvKT4cJX"
@@ -1126,7 +1160,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 173538,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/0y5ZwoP0GHc24ZoP5wUY8o"
@@ -1224,7 +1258,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 159545,
       "name": "Do It For The Girls (feat. Jalja)",
       "url": "https://open.spotify.com/track/1n7pkIXGPGK0d6Yd1p3L6V"
@@ -1658,6 +1692,28 @@
       "duration_ms": 179771,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW"
+    },
+    {
+      "album": {
+        "name": "Function",
+        "url": "https://open.spotify.com/album/1I625NZEBR1qKeWGNAHgl1"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/1TzkhmV7nWq3gquoiDf4QH"
     },
     {
       "album": {
@@ -2404,7 +2460,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 178359,
       "name": "Ice",
       "url": "https://open.spotify.com/track/2ZSrmhpwpd7KKoM3khQtY0"
@@ -2540,6 +2596,28 @@
       "duration_ms": 171942,
       "name": "Jazza",
       "url": "https://open.spotify.com/track/1ZX8c8EHTEH7sQqQbQHsrI"
+    },
+    {
+      "album": {
+        "name": "Jump N' Shout (Gorgon City Remix)",
+        "url": "https://open.spotify.com/album/2G9F2xsIz3HFRmzDEW4RQR"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237022,
+      "name": "Jump N' Shout - Gorgon City Remix",
+      "url": "https://open.spotify.com/track/2pbtSI3CJXfAE9ekE5qowg"
     },
     {
       "album": {
@@ -2824,7 +2902,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 159374,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/7AWXvMSofb0jPBfdUZQw0s"
@@ -3161,6 +3239,32 @@
     },
     {
       "album": {
+        "name": "Love Dancing (Groove P Remix)",
+        "url": "https://open.spotify.com/album/3J9cBUyMYnOl2WOBTXspN4"
+      },
+      "artists": [
+        {
+          "name": "Mixed Signals 021",
+          "url": "https://open.spotify.com/artist/7BTZcyNK5kt9aR3JYXb0Tl"
+        },
+        {
+          "name": "Carta",
+          "url": "https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF"
+        },
+        {
+          "name": "Groove P",
+          "url": "https://open.spotify.com/artist/1QR0qBs45isMMz5qHTMcV9"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216377,
+      "name": "Love Dancing - Groove P Remix",
+      "url": "https://open.spotify.com/track/1XSfVwOsgF7FEKNykYhJwz"
+    },
+    {
+      "album": {
         "name": "Love Songs (feat. Kosmo Kint)",
         "url": "https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ"
       },
@@ -3304,7 +3408,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 209523,
       "name": "Momo",
       "url": "https://open.spotify.com/track/5cZwfsjkjjyXi2sqLgBUuT"
@@ -3866,6 +3970,28 @@
       "duration_ms": 144732,
       "name": "Please Me",
       "url": "https://open.spotify.com/track/4shdF3Ln9GoPBNZu7rajFG"
+    },
+    {
+      "album": {
+        "name": "Pongo",
+        "url": "https://open.spotify.com/album/7jEsxKu7SLxVChJzaNXHRH"
+      },
+      "artists": [
+        {
+          "name": "miirabelle",
+          "url": "https://open.spotify.com/artist/2sZWQPBglKu7CxaZ6tJSYG"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155156,
+      "name": "Pongo",
+      "url": "https://open.spotify.com/track/0rc03JgMbXOMjacmMia40b"
     },
     {
       "album": {
@@ -5201,6 +5327,24 @@
     },
     {
       "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/3c2voLvEAMxW8UHzNrThOM"
+      },
+      "artists": [
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329068,
+      "name": "Universe - Extended Mix",
+      "url": "https://open.spotify.com/track/0zxZrRzVqlp1GUy71Nj2Sj"
+    },
+    {
+      "album": {
         "name": "Valerie",
         "url": "https://open.spotify.com/album/4dYCFK8K9PQSL0SZ1DSgJD"
       },
@@ -5434,6 +5578,24 @@
       "duration_ms": 164250,
       "name": "Words",
       "url": "https://open.spotify.com/track/6lDoavtdRl2cJqBUv4JKz4"
+    },
+    {
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/2J1EDRiGKwyK9ghGji2gCS"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224438,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/45FTnF7YPwGWFebjG8AmGO"
     },
     {
       "album": {

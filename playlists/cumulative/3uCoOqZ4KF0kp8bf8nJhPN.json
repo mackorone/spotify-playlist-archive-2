@@ -2315,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "in my room.",
+        "url": "https://open.spotify.com/album/6OTkOZBWVW0mzY6S2gCZV7"
+      },
+      "artists": [
+        {
+          "name": "shteppi",
+          "url": "https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152965,
+      "name": "in my room.",
+      "url": "https://open.spotify.com/track/1j9fz0wHYvJTJPF5esbGiB"
+    },
+    {
+      "album": {
         "name": "Jar",
         "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
@@ -2442,6 +2460,24 @@
       "duration_ms": 134418,
       "name": "ISSBEENAMINUTE!",
       "url": "https://open.spotify.com/track/58BtmAspg5FXJNcoxVcbSN"
+    },
+    {
+      "album": {
+        "name": "are you lonely?",
+        "url": "https://open.spotify.com/album/1magMsVGcV4r6K3fUCRMIo"
+      },
+      "artists": [
+        {
+          "name": "shteppi",
+          "url": "https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "it's only a matter of time before its over anyway.",
+      "url": "https://open.spotify.com/track/66IwPyPQUuq9pJxxFlXKpT"
     },
     {
       "album": {
@@ -3714,7 +3750,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 127209,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0nAjZA769okRS8LtJJlOjd"
@@ -4000,6 +4036,24 @@
       "duration_ms": 238376,
       "name": "Shed",
       "url": "https://open.spotify.com/track/175lpKNwpd62TOw2ZvO1xG"
+    },
+    {
+      "album": {
+        "name": "six drinks deep. + arrhythmia.",
+        "url": "https://open.spotify.com/album/0vnJixrgZg0RUq4abZuorZ"
+      },
+      "artists": [
+        {
+          "name": "shteppi",
+          "url": "https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138201,
+      "name": "six drinks deep.",
+      "url": "https://open.spotify.com/track/5rmAAqxbvj8h1CUz0ICjYs"
     },
     {
       "album": {
@@ -4490,6 +4544,24 @@
       "duration_ms": 210974,
       "name": "The Real",
       "url": "https://open.spotify.com/track/6Ux3fUYIKunILT948gEFMM"
+    },
+    {
+      "album": {
+        "name": "the spins.",
+        "url": "https://open.spotify.com/album/1n75fDKW5C0pHPQjsJZihy"
+      },
+      "artists": [
+        {
+          "name": "shteppi",
+          "url": "https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138272,
+      "name": "the spins.",
+      "url": "https://open.spotify.com/track/79p9lHdrQ8tHpFBz67kmup"
     },
     {
       "album": {

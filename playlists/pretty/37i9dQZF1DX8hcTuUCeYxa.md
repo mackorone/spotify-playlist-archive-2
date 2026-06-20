@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: L'aupaire
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,925 likes - 88 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,949 likes - 88 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 87 | [Rock o’ Stone](https://open.spotify.com/track/21CU5fG0Pp0LUbXRDG1d48) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Philadelphia's been good to me](https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI) | 5:35 |
 | 88 | [Mesmerized](https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Mesmerized](https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr) | 2:38 |
 
-Snapshot ID: `AAAAACLubzBWv15UCR28WYhFxXkMqZHZ`
+Snapshot ID: `AAAAAAxj2jYB8wZSP+6SAnJhJmlQDjmA`

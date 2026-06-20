@@ -4,7 +4,7 @@
 
 > Sing along with Angel to "Glitter Glide" and other Disney favorites!
 
-192 songs - 9 hr 53 min
+193 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Here I Come](https://open.spotify.com/track/64tRwTvgWlfLUof290mhMJ) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series Season 3 \(Episode 7\) \[From "High School Musical: The Musical: The Series \(Season 3\)"\]](https://open.spotify.com/album/5O2Cn8alyU7Bm0ZblEJmve) | 3:17 | 2024-01-08 | 2025-10-01 |
 | [High School Musical](https://open.spotify.com/track/2dlJkJOVBGOktzbKWYDvHz) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack/The Final Season\)](https://open.spotify.com/album/4lgerEl1WmufPna1oqpsQZ) | 1:16 | 2024-01-08 | 2025-10-01 |
 | [High School Reunion \- From "High School Musical: The Musical: The Series \(The Final Season\)"](https://open.spotify.com/track/7jle0zhRgO8AMrBcBnHSr2) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Reunion \[From "High School Musical: The Musical: The Series \(The Final Season\)\]](https://open.spotify.com/album/65U2jwJ6kQTLNmhHTb6iVN) | 2:31 | 2024-01-08 | 2025-10-01 |
+| [Hoedown Throwdown](https://open.spotify.com/track/6ntkwU1MhehTKgx4BWxX3f) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:01 | 2026-06-19 |  |
 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2024-01-08 |  |
 | [How Far I'll Go](https://open.spotify.com/track/5TRugjx4cKvypzIe4QRk1c) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [DCappella](https://open.spotify.com/album/5cCVD8FsgUWJso4Do9A38K) | 2:42 | 2024-01-08 | 2025-10-01 |
 | [How Far I'll Go \- Alessia Cara Version](https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:55 | 2024-01-08 |  |

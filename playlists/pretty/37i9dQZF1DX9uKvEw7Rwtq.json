@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 125543,
+  "num_followers": 125550,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/67DIiGJPzKG3HdqPPhm3B6"
+      },
+      "artists": [
+        {
+          "name": "From Somewhere Quiet",
+          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
+        }
+      ],
+      "duration_ms": 127240,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/4tEdMG485b8naFRVOasiKD"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Ambient One",
         "url": "https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 307263,
       "name": "Watching the Storm",
       "url": "https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/67DIiGJPzKG3HdqPPhm3B6"
-      },
-      "artists": [
-        {
-          "name": "From Somewhere Quiet",
-          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
-        }
-      ],
-      "duration_ms": 127240,
-      "name": "Lifted",
-      "url": "https://open.spotify.com/track/4tEdMG485b8naFRVOasiKD"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -259,6 +259,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/3Y296dqJW6HBj1LYCoIsrB"
+      },
+      "artists": [
+        {
+          "name": "From Somewhere Quiet",
+          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/1IrJf0dsyxqcsuI9QbUBhu"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "The Second Coming Was a Moonrise",
         "url": "https://open.spotify.com/album/3zOh4n2WhCxwwDkuET0i4G"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 347636,
       "name": "Passage",
       "url": "https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/3Y296dqJW6HBj1LYCoIsrB"
-      },
-      "artists": [
-        {
-          "name": "From Somewhere Quiet",
-          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/1IrJf0dsyxqcsuI9QbUBhu"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "James",
-        "url": "https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z"
-      },
-      "artists": [
-        {
-          "name": "Lowercase Noises",
-          "url": "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
-        }
-      ],
-      "duration_ms": 354066,
-      "name": "The First Glimmer of Wind",
-      "url": "https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Hex",
         "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 593866,
       "name": "Pendulum Man",
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "James",
+        "url": "https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z"
+      },
+      "artists": [
+        {
+          "name": "Lowercase Noises",
+          "url": "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
+        }
+      ],
+      "duration_ms": 354066,
+      "name": "The First Glimmer of Wind",
+      "url": "https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Timewave Zero",
+        "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
+      },
+      "artists": [
+        {
+          "name": "Blood Incantation",
+          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "Ea: First Movement",
+      "url": "https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Water Temple",
         "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
       },
@@ -423,18 +439,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Timewave Zero",
-        "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
+        "name": "The Ever Shifting Fields",
+        "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
       },
       "artists": [
         {
-          "name": "Blood Incantation",
-          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
+          "name": "Seas of Years",
+          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
         }
       ],
-      "duration_ms": 441386,
-      "name": "Ea: First Movement",
-      "url": "https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP"
+      "duration_ms": 277133,
+      "name": "In Collusion with the Waves",
+      "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -459,18 +475,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "The Ever Shifting Fields",
-        "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
+        "name": "Feeling Everything but Lost",
+        "url": "https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG"
       },
       "artists": [
         {
-          "name": "Seas of Years",
-          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
+          "name": "Andrew Prahlow",
+          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
         }
       ],
-      "duration_ms": 277133,
-      "name": "In Collusion with the Waves",
-      "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
+      "duration_ms": 295104,
+      "name": "Feeling Everything but Lost",
+      "url": "https://open.spotify.com/track/5OY253uETDSe8456oYvkS3"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -491,22 +507,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Feeling Everything but Lost",
-        "url": "https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG"
-      },
-      "artists": [
-        {
-          "name": "Andrew Prahlow",
-          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
-        }
-      ],
-      "duration_ms": 295104,
-      "name": "Feeling Everything but Lost",
-      "url": "https://open.spotify.com/track/5OY253uETDSe8456oYvkS3"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Reanimation",
         "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 132472,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8"
+      },
+      "artists": [
+        {
+          "name": "The Echelon Effect",
+          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
+        }
+      ],
+      "duration_ms": 160465,
+      "name": "Goodbye Sierra",
+      "url": "https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -539,22 +555,6 @@
       "duration_ms": 97659,
       "name": "Forgotten Light",
       "url": "https://open.spotify.com/track/6cMvnZciT4mV313kBY3o26"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8"
-      },
-      "artists": [
-        {
-          "name": "The Echelon Effect",
-          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
-        }
-      ],
-      "duration_ms": 160465,
-      "name": "Goodbye Sierra",
-      "url": "https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Acknowledge Kindness",
-        "url": "https://open.spotify.com/album/3O67YGfabTWR14jjIsh9ib"
-      },
-      "artists": [
-        {
-          "name": "The Reds, Pinks and Purples",
-          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
-        }
-      ],
-      "duration_ms": 178428,
-      "name": "Blue Heron Lake",
-      "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "nothing is real, part XI",
         "url": "https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 187406,
       "name": "i meet myself, again",
       "url": "https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Acknowledge Kindness",
+        "url": "https://open.spotify.com/album/3O67YGfabTWR14jjIsh9ib"
+      },
+      "artists": [
+        {
+          "name": "The Reds, Pinks and Purples",
+          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
+        }
+      ],
+      "duration_ms": 178428,
+      "name": "Blue Heron Lake",
+      "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Those Winter Sundays",
-        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
-      },
-      "artists": [
-        {
-          "name": "Have a Cigar",
-          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Those Winter Sundays",
-      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Love is a Shelter",
         "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Those Winter Sundays",
+        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
+      },
+      "artists": [
+        {
+          "name": "Have a Cigar",
+          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Those Winter Sundays",
+      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "VOID",
         "url": "https://open.spotify.com/album/4dlVpb8VyP924DQhcYkRag"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "(not) alone",
-        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
-      },
-      "artists": [
-        {
-          "name": "Johannes Baumer",
-          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
-        }
-      ],
-      "duration_ms": 279197,
-      "name": "(not) alone",
-      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Blurring",
         "url": "https://open.spotify.com/album/1JvlqLOBMVJZm0jGSYM3WB"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 216237,
       "name": "Fog",
       "url": "https://open.spotify.com/track/6FuTWOqsTYwGvjRxqcwdEU"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "(not) alone",
+        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+      },
+      "artists": [
+        {
+          "name": "Johannes Baumer",
+          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+        }
+      ],
+      "duration_ms": 279197,
+      "name": "(not) alone",
+      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
-      },
-      "artists": [
-        {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
-        }
-      ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Volcan",
         "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 284000,
       "name": "Deliveries",
       "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
+      },
+      "artists": [
+        {
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
+        }
+      ],
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 420330,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Dark Awakening",
         "url": "https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh"
       },
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 420330,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "A Place to Breathe",
         "url": "https://open.spotify.com/album/1MfQ1WJQ5IihFUkqusIgxQ"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Songs to Disappear to",
-        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 257568,
-      "name": "Old Moon",
-      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 232026,
       "name": "Back To Dangerous",
       "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Songs to Disappear to",
+        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 257568,
+      "name": "Old Moon",
+      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Elsewhere",
-        "url": "https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "Elsewhere",
-      "url": "https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "growing up",
         "url": "https://open.spotify.com/album/4pvgtTIF9WIWyvtUs3AD2y"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 157755,
       "name": "growing up",
       "url": "https://open.spotify.com/track/3PWVoUzYBlcHDlAgR0Zz5d"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Screen Time",
-        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
-      },
-      "artists": [
-        {
-          "name": "Thurston Moore",
-          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
-        }
-      ],
-      "duration_ms": 164453,
-      "name": "The Station",
-      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Translucent",
         "url": "https://open.spotify.com/album/1gp8VXsI71AekAP145JVeB"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 366000,
       "name": "Watching Feathers Float",
       "url": "https://open.spotify.com/track/5pod4sYGbicg7UDiH6wO1g"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Screen Time",
+        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
+      },
+      "artists": [
+        {
+          "name": "Thurston Moore",
+          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
+        }
+      ],
+      "duration_ms": 164453,
+      "name": "The Station",
+      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
     },
     {
       "added_at": "2026-05-29 04:00:33",

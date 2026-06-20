@@ -252,7 +252,7 @@
           "url": "https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt"
         },
         {
-          "name": "Ajna (BE)",
+          "name": "Ajna",
           "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
         },
         {
@@ -3941,6 +3941,28 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1N0Eo5rpjlu34TrkvpHkaW"
+      },
+      "artists": [
+        {
+          "name": "Moosa Saleem",
+          "url": "https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN"
+        },
+        {
+          "name": "GHALIA",
+          "url": "https://open.spotify.com/artist/7G25QOtyexazRpK1ZYqhOc"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/7zxl2kBweFFtmFqr5qKYm3"
+    },
+    {
+      "album": {
         "name": "Miriam's Praise",
         "url": "https://open.spotify.com/album/2z7ieRKUnROTOfAean3qoN"
       },
@@ -5308,6 +5330,28 @@
       "duration_ms": 274925,
       "name": "stayinit",
       "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
+    },
+    {
+      "album": {
+        "name": "Talk To You (ft. 54 Ultra)",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
       "album": {

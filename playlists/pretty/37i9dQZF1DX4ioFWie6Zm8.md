@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,332 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,353 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Biwamiel](https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er) | [Udulele](https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY), [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Biwamiel](https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa) | 2:35 |
 | 100 | [Ndakaaru](https://open.spotify.com/track/6ZyVEyjzi1PYFaEAY7eJLg) | [SAHAD](https://open.spotify.com/artist/2ZjoekvMs8aDES0jFp37IT), [Khalifa Gueye](https://open.spotify.com/artist/0KytCBegoEPzs78lECpWgN) | [Ndakaaru](https://open.spotify.com/album/4lyXV4fNsqvrUttayqFzab) | 4:44 |
 
-Snapshot ID: `AAAAAASGijn/4QPJZcygQPAMUZ7H4M1M`
+Snapshot ID: `AAAAAHhPv3N9HCxyrXvDK8pTyy/JyKJp`

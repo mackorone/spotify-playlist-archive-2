@@ -4,25 +4,22 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,625 likes - 16 songs - 58 min 51 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,626 likes - 13 songs - 46 min 45 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mina Fotavtryck](https://open.spotify.com/track/2NkaGdnVHQHX9QjPOUwAsI) | [Mirror of My Soul](https://open.spotify.com/artist/0IOVyEmPipg0zvsnst08sI) | [October is Rising](https://open.spotify.com/album/0HlmdDTLJQA8GhEIdElnBB) | 4:01 |
-| 2 | [Lips Parted](https://open.spotify.com/track/6NlrMnvjRSpjLWqwQEQASn) | [Hayley Bleho](https://open.spotify.com/artist/7m3iY9UtEpcByTLVlwEFH7) | [Rabbit Rabbit](https://open.spotify.com/album/4o6Am46JjzmxUq5V5Oxxxu) | 2:50 |
-| 3 | [Get Out Of Town](https://open.spotify.com/track/0FqynphTOfxWsHLTtitJ54) | [Eva sur Seine](https://open.spotify.com/artist/0i67aNTXibb7XIqWuMCmHb) | [Keep Cool](https://open.spotify.com/album/1w0NS7WeGNE2IqmF8kHmjH) | 2:50 |
-| 4 | [45](https://open.spotify.com/track/4FFfzng6WOQKcBSi4jgQvu) | [Donson](https://open.spotify.com/artist/5BWlGj95oqmytrojTyBBvo), [Gayito](https://open.spotify.com/artist/0R9Qkr12TLHhDjHTkSU31P) | [45](https://open.spotify.com/album/0joEA4yWTxPZmjPHvYJYfU) | 2:06 |
-| 5 | [Play with Love](https://open.spotify.com/track/0050FZ7ZkaQAuvXoD3qe6m) | [Nzuri Soul](https://open.spotify.com/artist/5l45C2Uh7oEvXto7rnSgos) | [Play with Love](https://open.spotify.com/album/00D5uIBnm32aP72BDUsma5) | 3:49 |
-| 6 | [Kellä onni on](https://open.spotify.com/track/1mK1X2OajI2rkvwrmPBwxC) | [Sanna Säntti](https://open.spotify.com/artist/0flPYmf3blJhpt5u8dg2LS) | [Kellä onni on](https://open.spotify.com/album/7uupQZbX1PWG1zKfpDKTDk) | 3:29 |
-| 7 | [Tillsammans Är Vi Berg](https://open.spotify.com/track/1msjxifIEn8u1Dd14RfYz1) | [Amanda Warren](https://open.spotify.com/artist/5IXA2Evm4dcj8KLg7ZzayA) | [Det Kosmiska Hjärtat](https://open.spotify.com/album/4HDdvIJSLEUvXbIa1hWcVV) | 6:12 |
-| 8 | [Η Προκοπή Της Ξενιτιάς](https://open.spotify.com/track/5jjDERzarqFcLsgcKGTWIY) | [Nicky Papa](https://open.spotify.com/artist/2ec8p4vt3OGLO2JIcOefIK) | [Η Προκοπή Της Ξενιτιάς](https://open.spotify.com/album/4FkpI26jMvnu0AeiMwLpIz) | 5:51 |
-| 9 | [Hacerte desaparecer](https://open.spotify.com/track/6vLkWdu2Id8JVOz4rQTgun) | [Bolsa De Moscas](https://open.spotify.com/artist/4WLod9DCaa4XXICphv0C2E) | [Hacerte desaparecer](https://open.spotify.com/album/0NwruVDDST7ga7GKiEUNRc) | 3:19 |
-| 10 | [Heroes of Faith \- 2026 Remastered](https://open.spotify.com/track/44JpKauNt4wYqu6pEULlgD) | [Faith Gear](https://open.spotify.com/artist/4GBzmxNu2dg09oKyY7rSni) | [Heroes of Faith \(Remastered\)](https://open.spotify.com/album/3iQaLcZcx7WNQLFuGV5UzP) | 4:37 |
-| 11 | [Like A Drug](https://open.spotify.com/track/3MrRwWtd4QvHJ8H3GHpoWO) | [WILLO](https://open.spotify.com/artist/1AZJGlTt6Ktw06MAvRu1ZE) | [Like A Drug](https://open.spotify.com/album/6eJj2fP3Sc2Obqv8bnkl3U) | 2:05 |
-| 12 | [Här och nu](https://open.spotify.com/track/1hwqociVzHCpnWXMNI8N3z) | [Erat Lilla Band](https://open.spotify.com/artist/7CiEYyipu8jb48KOet0AXa) | [Här och nu](https://open.spotify.com/album/23OLQebY7T57mk8Q3Wdpwz) | 3:38 |
-| 13 | [S\-kirjain tähden sisällä](https://open.spotify.com/track/4wINdEizwK2eYf7uohGM0O) | [Evesussu](https://open.spotify.com/artist/44I65USxoZn539GW1sgKVJ) | [S\-kirjain tähden sisällä](https://open.spotify.com/album/0zNVqw3YIXdz7v1KDzTj2d) | 3:34 |
-| 14 | [Leaving On A Jet Plane](https://open.spotify.com/track/0kxVspaKesJfWUf0ODIVpA) | [The HamStrings](https://open.spotify.com/artist/4eez1YYrNGVET6WrrW6mEx) | [Humanmade](https://open.spotify.com/album/4fhBXNp5jhI39UaJlxpEl3) | 5:18 |
-| 15 | [Dit is Miss Nederland](https://open.spotify.com/track/1p2sQcHy5bi8ceZVoemNHD) | [Miss Nederland](https://open.spotify.com/artist/1nSlpploTwckICtmwsZoSp), [Marie\-Louise](https://open.spotify.com/artist/0spyYLDqq2wOVo7xhQXv4T), [Nathalie Yasmin](https://open.spotify.com/artist/3RWnvsEDZcJ0ChaxwCIzAE), [Donson](https://open.spotify.com/artist/5BWlGj95oqmytrojTyBBvo), [Victor](https://open.spotify.com/artist/3dRFRbBllGVqhtd5DZsWu3), [Lizzy](https://open.spotify.com/artist/0BLmBGb8deRkIAZFh2yGdZ) | [Dit is Miss Nederland](https://open.spotify.com/album/3k45CDWgJmXv68Vcaj8vri) | 2:32 |
-| 16 | [Everything and Nothing](https://open.spotify.com/track/2pTvoVzRXYLmhsPXJJQkQA) | [Why The Hell Knot](https://open.spotify.com/artist/2b5JtPdLt8prXEufNj9aZh) | [Everything and Nothing](https://open.spotify.com/album/7nv4ae1nsAHKG9wbJDCWYY) | 2:34 |
+| 1 | [NEVERKNOWMORE](https://open.spotify.com/track/5T3dAL5rTKy7FakHwYeCau) | [TeYo](https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC) | [NEVERKNOWMORE](https://open.spotify.com/album/1vnnP80sqDTI9NiD2M69mJ) | 3:18 |
+| 2 | [Animal](https://open.spotify.com/track/5oCpSdApdh6pz2vOfzhgZZ) | [Tiger Island](https://open.spotify.com/artist/0LSNBpNfXynpugXlDQRh0J) | [Let's Go Out](https://open.spotify.com/album/4uNfl7vef7wVDHymsfn4Ii) | 2:47 |
+| 3 | [Evening Sun](https://open.spotify.com/track/5Ztbsr3mi52XWuRzvyLpo0) | [Echonis](https://open.spotify.com/artist/1Aq4Hs0SfQPyTV804gwWz2) | [Evening Sun](https://open.spotify.com/album/4azIhZ7DIp0iz2rmybQIqs) | 4:49 |
+| 4 | [Rotten Perish](https://open.spotify.com/track/2l6kqEraR0G52m8eopRt3l) | [RottenPerish](https://open.spotify.com/artist/3URTlIJSy1V9HI9WcSp1bR) | [Rotten Perish](https://open.spotify.com/album/3gf7t4ARjP7J4ZVbFsCPTi) | 3:00 |
+| 5 | [Reliance](https://open.spotify.com/track/0jVWHjcWTS2xeB48tyMLSV) | [Tugboat Captain](https://open.spotify.com/artist/3gBLnOLSOAV0tXQa6ZGGKb) | [Reliance](https://open.spotify.com/album/730EwhgodJBgDbuYDIhS6E) | 6:54 |
+| 6 | [SCORPIO](https://open.spotify.com/track/3B6uXkaxCXBIL3Dne8fv92) | [THUNDERJUG](https://open.spotify.com/artist/4Zk8uLWb0Q08EXuHhUa1n1) | [THUNDERJUG](https://open.spotify.com/album/6elaIqsRPMfNxjJtAGwNMA) | 2:46 |
+| 7 | [Ballet for Warr](https://open.spotify.com/track/04zpL8zk03niUegdnk3RRv) | [Ondřej Urban](https://open.spotify.com/artist/0OJqmhqhMjDCYcqezve177), [Andre The Sun](https://open.spotify.com/artist/6uXRimFckTsyuyJfH6Kboz) | [Ballet for Warr](https://open.spotify.com/album/2wUCBcXrL4AxK7uwRywNbF) | 1:56 |
+| 8 | [Espiral](https://open.spotify.com/track/1NmD5LnGBjexUvbpcyooAP) | [FELO](https://open.spotify.com/artist/6Dh7jq2cBtqLg2UUsNwFvP), [Chëzko](https://open.spotify.com/artist/77iNf7WysDTMs7NSfOccGZ) | [Espiral](https://open.spotify.com/album/31KDleXRW4m54JFGtAwnCS) | 2:57 |
+| 9 | [Grave Of Fear](https://open.spotify.com/track/3Fqc1vm92pq8tnThPsd4wK) | [Teri Quinn](https://open.spotify.com/artist/6iQIrbONT6zOdefHu24Xv0) | [Grave Of Fear](https://open.spotify.com/album/1DAPloVTQRChs62XP9X2qo) | 3:33 |
+| 10 | [虹色ステップ](https://open.spotify.com/track/6QsJziJnhYojhd2x1bWWK7) | [白石 桜](https://open.spotify.com/artist/1KTNT4NvGLYUfbfd6Lbs50) | [あしたのいろ](https://open.spotify.com/album/3YOnRDHFhKlnnzM9f85kaB) | 3:07 |
+| 11 | [Tegelbacken](https://open.spotify.com/track/1lc2TgaFu4Ov1WOXe2pXno) | [Tbaxtstan](https://open.spotify.com/artist/0HhFOkZCQMSTdUJ17hy4pm), [Wille Crafoord](https://open.spotify.com/artist/5c6gSK67nlUmsWBjCY8u7B) | [Kungsholmen \- en stadsvandring](https://open.spotify.com/album/4bMHWEJc4c48QpZvxJksty) | 3:37 |
+| 12 | [Año Nuevo](https://open.spotify.com/track/4e7gqxkx1ncLg9k7tqoeo7) | [Dani Cabezas](https://open.spotify.com/artist/6wCMrUZbFZIU2zCTWuOkBS) | [Año Nuevo](https://open.spotify.com/album/0eg2qFKE8H0YbORdvVYrjH) | 4:41 |
+| 13 | [Simple Attraction](https://open.spotify.com/track/66Ttfp0Yf6LGjpJtNVD34E) | [The Loner Collective](https://open.spotify.com/artist/2gS2jUS2xz5bTIb8W8holO) | [Simple Attraction](https://open.spotify.com/album/7pWZbEXXAcWxgq0lJrHHLY) | 3:15 |
 
-Snapshot ID: `AAAF4yRp2cfLlU41q30vQbOjKANgeDKd`
+Snapshot ID: `AAAF5g0tI0g/lJaM5s5wm6F/fkm0nvl+`

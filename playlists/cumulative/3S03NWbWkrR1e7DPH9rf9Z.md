@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-243 songs - 11 hr 51 min
+244 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Fuga](https://open.spotify.com/track/6hiZThRLPZtTFiwiMBfZJj) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN) | [Ela Sabe EP](https://open.spotify.com/album/134y2ihwAlwkjbLlCmkk2x) | 2:03 | 2025-07-04 |  |
 | [Future Rave Is Now](https://open.spotify.com/track/5phqs1kTBLOWhG7FD3MVDv) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Future Rave Is Now](https://open.spotify.com/album/05GxrCfoBcSwBNeiDO0tEm) | 4:40 | 2025-07-04 |  |
 | [Get Down](https://open.spotify.com/track/2lo3onFA6cUu0RjrRhKM8N) | [2ACES](https://open.spotify.com/artist/5dHy2mDWei8fmwzE3fsrC3), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Get Down](https://open.spotify.com/album/3xqNE8jim4IWo0AkA3N9Lw) | 2:58 | 2025-07-04 |  |
+| [Get Up](https://open.spotify.com/track/6Ehx4fcQL2EgnAb1sj5wAl) | [Joey Dale](https://open.spotify.com/artist/3QjbhhPrW6clls3VPRGkXu), [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ) | [Get Up](https://open.spotify.com/album/0L3wBtrZKS8eLGu6BseDMD) | 3:37 | 2026-06-19 |  |
 | [Go Down](https://open.spotify.com/track/1Kc6omQaDVP91ecihU7hhM) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9) | [Go Down](https://open.spotify.com/album/43yt5EQ7RD12ZxZxPoshdW) | 4:55 | 2025-07-04 |  |
 | [Good Time](https://open.spotify.com/track/4z24HY8PCmkRqszR3GXxHz) | [Ezra Hazard](https://open.spotify.com/artist/1S9Vw9mq99909oPknCYaEv), [Drifter5](https://open.spotify.com/artist/4h0g2CXX0lQauuR7Vsk7TU) | [Good Time](https://open.spotify.com/album/3xBtTxWoFksAaOwAjHtHHH) | 2:49 | 2025-07-04 |  |
 | [Greenlight](https://open.spotify.com/track/1KsQ8y9wtQnOnQHgnZLu3L) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | [Greenlight](https://open.spotify.com/album/64xjMvMB0ysQiX9gjeMUug) | 2:57 | 2025-07-04 |  |

@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Ravel (Encores)",
+        "url": "https://open.spotify.com/album/4enKowMiwzVBUqTLYb6CHh"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167859,
+      "name": "Adagio (Ravel)",
+      "url": "https://open.spotify.com/track/64qeNInhPT3TKPCc6eKyy3"
+    },
+    {
+      "album": {
         "name": "Agape",
         "url": "https://open.spotify.com/album/2sAxo94o1LjFvb5FqGxgML"
       },
@@ -270,6 +292,28 @@
       "duration_ms": 293405,
       "name": "Big Wide World (Reimagined for Piano)",
       "url": "https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp"
+    },
+    {
+      "album": {
+        "name": "Find And You Will Seek",
+        "url": "https://open.spotify.com/album/1u0f2BJBSNTWaM9ExkxRdf"
+      },
+      "artists": [
+        {
+          "name": "Christian Balvig",
+          "url": "https://open.spotify.com/artist/072Ajngh4QfgHapsOeKEcg"
+        },
+        {
+          "name": "Ensemble Hermes",
+          "url": "https://open.spotify.com/artist/35kfBwi73nkAcnGihLjXpY"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245835,
+      "name": "Bird Suite I - EyesDoubleSunrise",
+      "url": "https://open.spotify.com/track/52ExlXtyxN85Djch17vknE"
     },
     {
       "album": {
@@ -588,6 +632,24 @@
       "duration_ms": 229000,
       "name": "Earnest Leslye",
       "url": "https://open.spotify.com/track/5RJNXi1qzxp01mX7V1IrvG"
+    },
+    {
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/3B6ajgq03CrZCJAoQCX2tp"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295280,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/4224vfqQpznVh4X04AIrZp"
     },
     {
       "album": {
@@ -975,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "AWAKENING",
+        "url": "https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU"
+      },
+      "artists": [
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199467,
+      "name": "ICARUS",
+      "url": "https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx"
+    },
+    {
+      "album": {
         "name": "Caught a Black Rabbit",
         "url": "https://open.spotify.com/album/3M0wS70M7tRZntXMfKqPtU"
       },
@@ -1182,6 +1262,24 @@
       "duration_ms": 236999,
       "name": "Loom \u2014 piano reworks",
       "url": "https://open.spotify.com/track/4wCg95zm652wWBnryX9oS6"
+    },
+    {
+      "album": {
+        "name": "To/Day",
+        "url": "https://open.spotify.com/album/7cr80VXUNFKIVENIDuery7"
+      },
+      "artists": [
+        {
+          "name": "Jordain Wallace",
+          "url": "https://open.spotify.com/artist/3DNVxNhoLQt9Q4HqzTPajS"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Lunae",
+      "url": "https://open.spotify.com/track/2c5hCxzQSRQR4XAiAEetEl"
     },
     {
       "album": {
@@ -1531,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "Opaline",
+        "url": "https://open.spotify.com/album/2tgpBIpWdTo8Yp5j6zwvbv"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        },
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197413,
+      "name": "Opaline",
+      "url": "https://open.spotify.com/track/3NqpZ8OSEUIGl59cpx5XBo"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/7LSOjGfETku2oPC7mr6ubo"
       },
@@ -1542,7 +1662,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 281003,
       "name": "Opera (Paris)",
       "url": "https://open.spotify.com/track/3DvbPJL6yFXhgp4mD5j5fD"
@@ -1805,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "In Good Company",
+        "url": "https://open.spotify.com/album/1zMuMFYoUKJttNxof156wG"
+      },
+      "artists": [
+        {
+          "name": "AAESPO",
+          "url": "https://open.spotify.com/artist/6zhjVmPJZu9cmiv82lQv5D"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87600,
+      "name": "Rippling",
+      "url": "https://open.spotify.com/track/2kOegJWplR7ggacXa4ku0q"
+    },
+    {
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/6dpwTCRNhHZPU3AWPbuq3K"
       },
@@ -1958,6 +2096,24 @@
       "duration_ms": 190416,
       "name": "Sleeping Lotus - redux",
       "url": "https://open.spotify.com/track/3KZ9JN33S2Avmu6czTVGnS"
+    },
+    {
+      "album": {
+        "name": "Soglia",
+        "url": "https://open.spotify.com/album/2JRm3nGkmyz6wBFCpkEJ3X"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161573,
+      "name": "Soglia",
+      "url": "https://open.spotify.com/track/754YO0HqOWBbksx2vmWTAj"
     },
     {
       "album": {
@@ -2171,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "Temporary Coexistence of Humans",
+        "url": "https://open.spotify.com/album/2ob168pec2r2ZtuSjzbgtz"
+      },
+      "artists": [
+        {
+          "name": "Peter Sandberg",
+          "url": "https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173614,
+      "name": "Temporary Coexistence",
+      "url": "https://open.spotify.com/track/44UULCqmzqSuT4FzNoALZl"
+    },
+    {
+      "album": {
         "name": "the color of the sky (sleep rework)",
         "url": "https://open.spotify.com/album/1Lv022YCTEYHI7B3lqLJ60"
       },
@@ -2225,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Where We Are (Unity Edition)",
+        "url": "https://open.spotify.com/album/4ritLJ4dx1ORPyARuasLjB"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134760,
+      "name": "The Light Within",
+      "url": "https://open.spotify.com/track/3bdcZhuUHinvFeNViIWXKT"
+    },
+    {
+      "album": {
         "name": "The long wait",
         "url": "https://open.spotify.com/album/0fkCVJKKAS7ORhbMoiV8R9"
       },
@@ -2243,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "The Stars Will Dim (Nowhere Sessions)",
+        "url": "https://open.spotify.com/album/4Eil98QcM8s8ES9vCP7Pxl"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161353,
+      "name": "The Stars Will Dim - Nowhere Sessions",
+      "url": "https://open.spotify.com/track/59FkcwkiWIq6HBVrSai5Db"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
       },
@@ -2258,6 +2468,24 @@
       "duration_ms": 137500,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
+    },
+    {
+      "album": {
+        "name": "Lumi\u00e8re (Expanded)",
+        "url": "https://open.spotify.com/album/5sPxNUytj37p0cQJ8KRbOZ"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115866,
+      "name": "Timothy Is Sleeping",
+      "url": "https://open.spotify.com/track/6vYjY9nVrHxfKQ2ByvcuTu"
     },
     {
       "album": {

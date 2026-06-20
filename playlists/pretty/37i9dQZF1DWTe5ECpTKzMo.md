@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 ### [Hip\-Hop MX 24k](https://open.spotify.com/playlist/37i9dQZF1DWTe5ECpTKzMo)
 
-> La tierra del Rap de oro puro\.  Millonario dominando
+> La tierra del Rap de oro puro\. Beto Sierra & Grupo Marca Registrada dominando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,606 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,603 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 | 99 | [Si Nunca Va a Amanecer](https://open.spotify.com/track/62mv8OMTIeYjlL7ofwgvMI) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Smile](https://open.spotify.com/album/20FVdE2JlNZwcPFlDqrYgC) | 3:33 |
 | 100 | [Toma 1](https://open.spotify.com/track/6tzvSqAhZ0PbvCGcGG8mqu) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Toma 1](https://open.spotify.com/album/7iljZj5qiQMzlARfZQZpy2) | 3:14 |
 
-Snapshot ID: `AAAAAOlVTO844+HeVYGmg6gI3xXLeERJ`
+Snapshot ID: `AAAAAIIzffBZkQcbOxHG39YP7j7UBLth`

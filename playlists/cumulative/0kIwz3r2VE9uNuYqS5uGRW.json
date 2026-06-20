@@ -1473,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/1SEFpmr6CmYvQWXHDTMFa6"
+      },
+      "artists": [
+        {
+          "name": "Pigeon Pye",
+          "url": "https://open.spotify.com/artist/72kLEU6mRB5iLrmABFhjlz"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170026,
+      "name": "Gimmick",
+      "url": "https://open.spotify.com/track/4uFT0D47ztptmYn4lfybCb"
+    },
+    {
+      "album": {
         "name": "Girl Like Me",
         "url": "https://open.spotify.com/album/7rBihut7UrW4zNtODmU0lP"
       },

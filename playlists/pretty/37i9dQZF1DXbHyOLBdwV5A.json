@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 133344,
+  "num_followers": 133351,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
+        "name": "Caminho Seguro",
+        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caminho Seguro",
+      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
         "name": "N\u00e3o Me Deixar\u00e1s",
         "url": "https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 184320,
       "name": "N\u00e3o Me Deixar\u00e1s",
       "url": "https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
-        "name": "Caminho Seguro",
-        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caminho Seguro",
-      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Onde o Jaguar Espreita (Mose Remix)",
-        "url": "https://open.spotify.com/album/07pgudVmJYXqqgT53Uikli"
-      },
-      "artists": [
-        {
-          "name": "Advan Haschi",
-          "url": "https://open.spotify.com/artist/1xUZsIv7Vl2RlPKMIraFXE"
-        },
-        {
-          "name": "Mose",
-          "url": "https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr"
-        }
-      ],
-      "duration_ms": 451200,
-      "name": "Onde o Jaguar Espreita - Mose Remix",
-      "url": "https://open.spotify.com/track/28XlmRM17A8x5igE0HKK4Q"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "Renascido das Cinzas",
         "url": "https://open.spotify.com/album/2KlBD6CwyvCv9hMf77wVqS"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 204375,
       "name": "Das Trevas para Luz - VIP Version",
       "url": "https://open.spotify.com/track/37R0NpssvQdZ1o6TB9F5ld"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Onde o Jaguar Espreita (Mose Remix)",
+        "url": "https://open.spotify.com/album/07pgudVmJYXqqgT53Uikli"
+      },
+      "artists": [
+        {
+          "name": "Advan Haschi",
+          "url": "https://open.spotify.com/artist/1xUZsIv7Vl2RlPKMIraFXE"
+        },
+        {
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr"
+        }
+      ],
+      "duration_ms": 451200,
+      "name": "Onde o Jaguar Espreita - Mose Remix",
+      "url": "https://open.spotify.com/track/28XlmRM17A8x5igE0HKK4Q"
     },
     {
       "added_at": "2026-05-08 03:01:30",

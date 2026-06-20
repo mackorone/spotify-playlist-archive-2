@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,898 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,899 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 | 7 | [Increíble](https://open.spotify.com/track/1BYjwl50ZTPXJfLLf4tO6l) | [Miel San Marcos Kids](https://open.spotify.com/artist/7cYETZOsorcZYrVef2c22c) | [Agradecido](https://open.spotify.com/album/7B1bhXT3PyV2LP6zO1yHUN) | 3:40 |
 | 8 | [El Arca de Noé \- Infantil](https://open.spotify.com/track/7mhTn1WILa52WAk329YBQC) | [CANCIONES CRISTIANAS INFANTILES](https://open.spotify.com/artist/3bNl0IaEKmZHAAb7NDHwRH) | [Canciones Cristianas para Niños](https://open.spotify.com/album/5pLXgf6RTuAECVBholK2ly) | 2:48 |
 | 9 | [Lázaro](https://open.spotify.com/track/5gbSJRXXRngWqmfZbaRqxN) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:42 |
-| 10 | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/track/3XnQMj2uZMzUaPrNfbn8rT) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/album/2Dx8LkBcbxmBgKAXgOzmj8) | 2:20 |
-| 11 | [Dios Me Ama](https://open.spotify.com/track/3wHJTYvg75zrP0iXYcxrVQ) | [Canta Y Rie](https://open.spotify.com/artist/7LMW8Tb18FZ9btvEA4c3iH) | [Canta Y Rie](https://open.spotify.com/album/6DVmSe200tVimu1cLGwUkG) | 2:41 |
+| 10 | [Dios Me Ama](https://open.spotify.com/track/3wHJTYvg75zrP0iXYcxrVQ) | [Canta Y Rie](https://open.spotify.com/artist/7LMW8Tb18FZ9btvEA4c3iH) | [Canta Y Rie](https://open.spotify.com/album/6DVmSe200tVimu1cLGwUkG) | 2:41 |
+| 11 | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/track/3XnQMj2uZMzUaPrNfbn8rT) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/album/2Dx8LkBcbxmBgKAXgOzmj8) | 2:20 |
 | 12 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3QtTQ2uFHqHqMj3IWYpjQb) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Que Se Llene Tu Casa](https://open.spotify.com/album/7dMAKj2uWzdtjrEVE4ZEAm) | 3:15 |
 | 13 | [A Danzar](https://open.spotify.com/track/5JJMWmzo2cWqHewyS8mnyp) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP) | [A Danzar](https://open.spotify.com/album/5j00peGbFZlbph2dlQsZD1) | 1:31 |
 | 14 | [Jesús Te Llama](https://open.spotify.com/track/2C2wrIvH68aKP64Cboc9DS) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [Jesús Te Llama](https://open.spotify.com/album/4CduqUvu9W2nnH7FAE170N) | 3:23 |
-| 15 | [La Vaca Tita](https://open.spotify.com/track/2yovTUgzyJ6naFFq0wjdBc) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [La Vaca Tita](https://open.spotify.com/album/2g9IxC1lhO9sKoxP7TSksR) | 2:09 |
-| 16 | [Cuidado Mis Ojitos al Mirar](https://open.spotify.com/track/30IXNi5WlQcTfAHRGzXc53) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:29 |
+| 15 | [Cuidado Mis Ojitos al Mirar](https://open.spotify.com/track/30IXNi5WlQcTfAHRGzXc53) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:29 |
+| 16 | [La Vaca Tita](https://open.spotify.com/track/2yovTUgzyJ6naFFq0wjdBc) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [La Vaca Tita](https://open.spotify.com/album/2g9IxC1lhO9sKoxP7TSksR) | 2:09 |
 | 17 | [Yo Tengo un Gran Dios](https://open.spotify.com/track/1KMOWC6BE1OeE5uim8VT2g) | [Planet Kids](https://open.spotify.com/artist/4xNAhG6OP1NLaxUCPK3iJo) | [Grandes Promesas](https://open.spotify.com/album/4amlLsph2ZhuQvSwRtBcdQ) | 3:36 |
 | 18 | [No Hay Lugar Más Alto](https://open.spotify.com/track/7GprxftlfJVlGnkVfxhegJ) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek) | [No Hay Lugar Más Alto](https://open.spotify.com/album/26iKn1gikP7rCaL7yVsLpU) | 3:37 |
 | 19 | [Sansón](https://open.spotify.com/track/2hnAkfaKzF6aODzvixKtnh) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:22 |

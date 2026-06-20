@@ -1,12 +1,12 @@
 {
   "description": "2026 yaz\u0131n\u0131n \u015fark\u0131lar\u0131.",
-  "num_followers": 288504,
+  "num_followers": 288560,
   "original_name": "Yaz Hitleri 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALu3IEtWgc8QH7m/bdFNmfeefPwj",
+  "snapshot_id": "AAAAAKvqscOrpGqrTHUWpkzOoRywvhOF",
   "tracks": [
     {
       "added_at": "2026-06-08 09:59:31",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-06-08 09:59:31",
       "album": {
+        "name": "U\u00e7urum",
+        "url": "https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "U\u00e7urum",
+      "url": "https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe"
+    },
+    {
+      "added_at": "2026-06-08 09:59:31",
+      "album": {
         "name": "\u00dcZ\u00dcLECEKS\u0130N 2.0",
         "url": "https://open.spotify.com/album/0gngUevVkWfjzdwiH77ULJ"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 139354,
       "name": "\u00dcZ\u00dcLECEKS\u0130N 2.0",
       "url": "https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI"
-    },
-    {
-      "added_at": "2026-06-08 09:59:31",
-      "album": {
-        "name": "U\u00e7urum",
-        "url": "https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu"
-      },
-      "artists": [
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "U\u00e7urum",
-      "url": "https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe"
     },
     {
       "added_at": "2026-06-08 09:59:31",

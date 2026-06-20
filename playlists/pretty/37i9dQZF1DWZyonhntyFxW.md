@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى تراكات الهيب هوب في مصر\. الغلاف: مروان موسى
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,004 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,031 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 27 | [Nasser](https://open.spotify.com/track/6JcdmDmB9EV7wFYxbwa8xa) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [Nasser](https://open.spotify.com/album/6f8XAV4PBmAmbP3OPwR7ST) | 2:52 |
 | 28 | [Maalosh Beymot Leh ?](https://open.spotify.com/track/3RiDHz3sX2V0hyKUnzcrLR) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [OQAY OQAY](https://open.spotify.com/album/1uWQcxrrmMmkdG8lO0YB7M) | 2:17 |
 | 29 | [KARMA](https://open.spotify.com/track/5ETFNSZAqO6A66VrgXkd6v) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [7OB&KASHAT](https://open.spotify.com/album/2svCOWiV5oGoZk1YTU1NPL) | 2:54 |
-| 30 | [BZNS](https://open.spotify.com/track/7vKZg4y18laSIpSaa90WGi) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [BZNS](https://open.spotify.com/album/2Y02HRAeLZ1DqzO827H79R) | 2:31 |
+| 30 | [BZNS](https://open.spotify.com/track/7vKZg4y18laSIpSaa90WGi) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Evo](https://open.spotify.com/artist/7kwVPqXyhXaS60b4X0jL6u) | [BZNS](https://open.spotify.com/album/2Y02HRAeLZ1DqzO827H79R) | 2:31 |
 | 31 | [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 |
 | 32 | [AGBHA](https://open.spotify.com/track/32dRw90vVNSP6gnBlqBhIE) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [5mstashr](https://open.spotify.com/artist/6Tg1CwS2wxOOkCoqtiIR3b) | [AGBHA](https://open.spotify.com/album/4hMLvzASFdpJO6kNXwQ1zq) | 3:08 |
 | 33 | [Kadaba](https://open.spotify.com/track/0WqqQ8uHKDbkPbo2ASI9U6) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [Kadaba](https://open.spotify.com/album/3L1t71V8i7ZGFJOTy6cYYg) | 2:56 |

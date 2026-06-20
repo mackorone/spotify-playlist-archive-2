@@ -3505,6 +3505,32 @@
     },
     {
       "album": {
+        "name": "On My Way to Heaven",
+        "url": "https://open.spotify.com/album/33cycgV7UVqjr7S4qxGRXP"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        },
+        {
+          "name": "Dennis Quaid",
+          "url": "https://open.spotify.com/artist/4Xc8wZYmacomrp1afX6ajP"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249711,
+      "name": "On My Way to Heaven",
+      "url": "https://open.spotify.com/track/3jxm3qgTSupK8sjlqgqPl6"
+    },
+    {
+      "album": {
         "name": "One More Hallelujah",
         "url": "https://open.spotify.com/album/2rdif8xIfOoZxACrvrvCy3"
       },

@@ -1,292 +1,232 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2625,
+  "num_followers": 2626,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAF4yRp2cfLlU41q30vQbOjKANgeDKd",
+  "snapshot_id": "AAAF5g0tI0g/lJaM5s5wm6F/fkm0nvl+",
   "tracks": [
     {
-      "added_at": "2026-06-12 14:43:34",
+      "added_at": "2026-06-19 14:43:38",
       "album": {
-        "name": "October is Rising",
-        "url": "https://open.spotify.com/album/0HlmdDTLJQA8GhEIdElnBB"
+        "name": "NEVERKNOWMORE",
+        "url": "https://open.spotify.com/album/1vnnP80sqDTI9NiD2M69mJ"
       },
       "artists": [
         {
-          "name": "Mirror of My Soul",
-          "url": "https://open.spotify.com/artist/0IOVyEmPipg0zvsnst08sI"
+          "name": "TeYo",
+          "url": "https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC"
         }
       ],
-      "duration_ms": 241520,
-      "name": "Mina Fotavtryck",
-      "url": "https://open.spotify.com/track/2NkaGdnVHQHX9QjPOUwAsI"
+      "duration_ms": 198369,
+      "name": "NEVERKNOWMORE",
+      "url": "https://open.spotify.com/track/5T3dAL5rTKy7FakHwYeCau"
     },
     {
-      "added_at": "2026-06-12 14:43:34",
+      "added_at": "2026-06-19 14:43:38",
       "album": {
-        "name": "Rabbit Rabbit",
-        "url": "https://open.spotify.com/album/4o6Am46JjzmxUq5V5Oxxxu"
+        "name": "Let's Go Out",
+        "url": "https://open.spotify.com/album/4uNfl7vef7wVDHymsfn4Ii"
       },
       "artists": [
         {
-          "name": "Hayley Bleho",
-          "url": "https://open.spotify.com/artist/7m3iY9UtEpcByTLVlwEFH7"
+          "name": "Tiger Island",
+          "url": "https://open.spotify.com/artist/0LSNBpNfXynpugXlDQRh0J"
         }
       ],
-      "duration_ms": 170234,
-      "name": "Lips Parted",
-      "url": "https://open.spotify.com/track/6NlrMnvjRSpjLWqwQEQASn"
+      "duration_ms": 167083,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/5oCpSdApdh6pz2vOfzhgZZ"
     },
     {
-      "added_at": "2026-06-12 14:43:34",
+      "added_at": "2026-06-19 14:43:38",
       "album": {
-        "name": "Keep Cool",
-        "url": "https://open.spotify.com/album/1w0NS7WeGNE2IqmF8kHmjH"
+        "name": "Evening Sun",
+        "url": "https://open.spotify.com/album/4azIhZ7DIp0iz2rmybQIqs"
       },
       "artists": [
         {
-          "name": "Eva sur Seine",
-          "url": "https://open.spotify.com/artist/0i67aNTXibb7XIqWuMCmHb"
+          "name": "Echonis",
+          "url": "https://open.spotify.com/artist/1Aq4Hs0SfQPyTV804gwWz2"
         }
       ],
-      "duration_ms": 170426,
-      "name": "Get Out Of Town",
-      "url": "https://open.spotify.com/track/0FqynphTOfxWsHLTtitJ54"
+      "duration_ms": 289067,
+      "name": "Evening Sun",
+      "url": "https://open.spotify.com/track/5Ztbsr3mi52XWuRzvyLpo0"
     },
     {
-      "added_at": "2026-06-12 14:43:34",
+      "added_at": "2026-06-19 14:43:38",
       "album": {
-        "name": "45",
-        "url": "https://open.spotify.com/album/0joEA4yWTxPZmjPHvYJYfU"
+        "name": "Rotten Perish",
+        "url": "https://open.spotify.com/album/3gf7t4ARjP7J4ZVbFsCPTi"
       },
       "artists": [
         {
-          "name": "Donson",
-          "url": "https://open.spotify.com/artist/5BWlGj95oqmytrojTyBBvo"
+          "name": "RottenPerish",
+          "url": "https://open.spotify.com/artist/3URTlIJSy1V9HI9WcSp1bR"
+        }
+      ],
+      "duration_ms": 180427,
+      "name": "Rotten Perish",
+      "url": "https://open.spotify.com/track/2l6kqEraR0G52m8eopRt3l"
+    },
+    {
+      "added_at": "2026-06-19 14:43:38",
+      "album": {
+        "name": "Reliance",
+        "url": "https://open.spotify.com/album/730EwhgodJBgDbuYDIhS6E"
+      },
+      "artists": [
+        {
+          "name": "Tugboat Captain",
+          "url": "https://open.spotify.com/artist/3gBLnOLSOAV0tXQa6ZGGKb"
+        }
+      ],
+      "duration_ms": 414525,
+      "name": "Reliance",
+      "url": "https://open.spotify.com/track/0jVWHjcWTS2xeB48tyMLSV"
+    },
+    {
+      "added_at": "2026-06-19 14:43:38",
+      "album": {
+        "name": "THUNDERJUG",
+        "url": "https://open.spotify.com/album/6elaIqsRPMfNxjJtAGwNMA"
+      },
+      "artists": [
+        {
+          "name": "THUNDERJUG",
+          "url": "https://open.spotify.com/artist/4Zk8uLWb0Q08EXuHhUa1n1"
+        }
+      ],
+      "duration_ms": 166213,
+      "name": "SCORPIO",
+      "url": "https://open.spotify.com/track/3B6uXkaxCXBIL3Dne8fv92"
+    },
+    {
+      "added_at": "2026-06-19 14:43:38",
+      "album": {
+        "name": "Ballet for Warr",
+        "url": "https://open.spotify.com/album/2wUCBcXrL4AxK7uwRywNbF"
+      },
+      "artists": [
+        {
+          "name": "Ond\u0159ej Urban",
+          "url": "https://open.spotify.com/artist/0OJqmhqhMjDCYcqezve177"
         },
         {
-          "name": "Gayito",
-          "url": "https://open.spotify.com/artist/0R9Qkr12TLHhDjHTkSU31P"
+          "name": "Andre The Sun",
+          "url": "https://open.spotify.com/artist/6uXRimFckTsyuyJfH6Kboz"
         }
       ],
-      "duration_ms": 126741,
-      "name": "45",
-      "url": "https://open.spotify.com/track/4FFfzng6WOQKcBSi4jgQvu"
+      "duration_ms": 116490,
+      "name": "Ballet for Warr",
+      "url": "https://open.spotify.com/track/04zpL8zk03niUegdnk3RRv"
     },
     {
-      "added_at": "2026-06-12 14:43:34",
+      "added_at": "2026-06-19 14:43:38",
       "album": {
-        "name": "Play with Love",
-        "url": "https://open.spotify.com/album/00D5uIBnm32aP72BDUsma5"
+        "name": "Espiral",
+        "url": "https://open.spotify.com/album/31KDleXRW4m54JFGtAwnCS"
       },
       "artists": [
         {
-          "name": "Nzuri Soul",
-          "url": "https://open.spotify.com/artist/5l45C2Uh7oEvXto7rnSgos"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Play with Love",
-      "url": "https://open.spotify.com/track/0050FZ7ZkaQAuvXoD3qe6m"
-    },
-    {
-      "added_at": "2026-06-12 14:43:34",
-      "album": {
-        "name": "Kell\u00e4 onni on",
-        "url": "https://open.spotify.com/album/7uupQZbX1PWG1zKfpDKTDk"
-      },
-      "artists": [
-        {
-          "name": "Sanna S\u00e4ntti",
-          "url": "https://open.spotify.com/artist/0flPYmf3blJhpt5u8dg2LS"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "Kell\u00e4 onni on",
-      "url": "https://open.spotify.com/track/1mK1X2OajI2rkvwrmPBwxC"
-    },
-    {
-      "added_at": "2026-06-12 14:43:34",
-      "album": {
-        "name": "Det Kosmiska Hj\u00e4rtat",
-        "url": "https://open.spotify.com/album/4HDdvIJSLEUvXbIa1hWcVV"
-      },
-      "artists": [
-        {
-          "name": "Amanda Warren",
-          "url": "https://open.spotify.com/artist/5IXA2Evm4dcj8KLg7ZzayA"
-        }
-      ],
-      "duration_ms": 372167,
-      "name": "Tillsammans \u00c4r Vi Berg",
-      "url": "https://open.spotify.com/track/1msjxifIEn8u1Dd14RfYz1"
-    },
-    {
-      "added_at": "2026-06-12 14:43:34",
-      "album": {
-        "name": "\u0397 \u03a0\u03c1\u03bf\u03ba\u03bf\u03c0\u03ae \u03a4\u03b7\u03c2 \u039e\u03b5\u03bd\u03b9\u03c4\u03b9\u03ac\u03c2",
-        "url": "https://open.spotify.com/album/4FkpI26jMvnu0AeiMwLpIz"
-      },
-      "artists": [
-        {
-          "name": "Nicky Papa",
-          "url": "https://open.spotify.com/artist/2ec8p4vt3OGLO2JIcOefIK"
-        }
-      ],
-      "duration_ms": 351000,
-      "name": "\u0397 \u03a0\u03c1\u03bf\u03ba\u03bf\u03c0\u03ae \u03a4\u03b7\u03c2 \u039e\u03b5\u03bd\u03b9\u03c4\u03b9\u03ac\u03c2",
-      "url": "https://open.spotify.com/track/5jjDERzarqFcLsgcKGTWIY"
-    },
-    {
-      "added_at": "2026-06-12 14:43:34",
-      "album": {
-        "name": "Hacerte desaparecer",
-        "url": "https://open.spotify.com/album/0NwruVDDST7ga7GKiEUNRc"
-      },
-      "artists": [
-        {
-          "name": "Bolsa De Moscas",
-          "url": "https://open.spotify.com/artist/4WLod9DCaa4XXICphv0C2E"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Hacerte desaparecer",
-      "url": "https://open.spotify.com/track/6vLkWdu2Id8JVOz4rQTgun"
-    },
-    {
-      "added_at": "2026-06-12 14:43:34",
-      "album": {
-        "name": "Heroes of Faith (Remastered)",
-        "url": "https://open.spotify.com/album/3iQaLcZcx7WNQLFuGV5UzP"
-      },
-      "artists": [
-        {
-          "name": "Faith Gear",
-          "url": "https://open.spotify.com/artist/4GBzmxNu2dg09oKyY7rSni"
-        }
-      ],
-      "duration_ms": 277999,
-      "name": "Heroes of Faith - 2026 Remastered",
-      "url": "https://open.spotify.com/track/44JpKauNt4wYqu6pEULlgD"
-    },
-    {
-      "added_at": "2026-06-12 14:43:34",
-      "album": {
-        "name": "Like A Drug",
-        "url": "https://open.spotify.com/album/6eJj2fP3Sc2Obqv8bnkl3U"
-      },
-      "artists": [
-        {
-          "name": "WILLO",
-          "url": "https://open.spotify.com/artist/1AZJGlTt6Ktw06MAvRu1ZE"
-        }
-      ],
-      "duration_ms": 125500,
-      "name": "Like A Drug",
-      "url": "https://open.spotify.com/track/3MrRwWtd4QvHJ8H3GHpoWO"
-    },
-    {
-      "added_at": "2026-06-12 14:43:34",
-      "album": {
-        "name": "H\u00e4r och nu",
-        "url": "https://open.spotify.com/album/23OLQebY7T57mk8Q3Wdpwz"
-      },
-      "artists": [
-        {
-          "name": "Erat Lilla Band",
-          "url": "https://open.spotify.com/artist/7CiEYyipu8jb48KOet0AXa"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "H\u00e4r och nu",
-      "url": "https://open.spotify.com/track/1hwqociVzHCpnWXMNI8N3z"
-    },
-    {
-      "added_at": "2026-06-12 14:43:34",
-      "album": {
-        "name": "S-kirjain t\u00e4hden sis\u00e4ll\u00e4",
-        "url": "https://open.spotify.com/album/0zNVqw3YIXdz7v1KDzTj2d"
-      },
-      "artists": [
-        {
-          "name": "Evesussu",
-          "url": "https://open.spotify.com/artist/44I65USxoZn539GW1sgKVJ"
-        }
-      ],
-      "duration_ms": 214840,
-      "name": "S-kirjain t\u00e4hden sis\u00e4ll\u00e4",
-      "url": "https://open.spotify.com/track/4wINdEizwK2eYf7uohGM0O"
-    },
-    {
-      "added_at": "2026-06-12 14:43:34",
-      "album": {
-        "name": "Humanmade",
-        "url": "https://open.spotify.com/album/4fhBXNp5jhI39UaJlxpEl3"
-      },
-      "artists": [
-        {
-          "name": "The HamStrings",
-          "url": "https://open.spotify.com/artist/4eez1YYrNGVET6WrrW6mEx"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "Leaving On A Jet Plane",
-      "url": "https://open.spotify.com/track/0kxVspaKesJfWUf0ODIVpA"
-    },
-    {
-      "added_at": "2026-06-12 14:43:34",
-      "album": {
-        "name": "Dit is Miss Nederland",
-        "url": "https://open.spotify.com/album/3k45CDWgJmXv68Vcaj8vri"
-      },
-      "artists": [
-        {
-          "name": "Miss Nederland",
-          "url": "https://open.spotify.com/artist/1nSlpploTwckICtmwsZoSp"
+          "name": "FELO",
+          "url": "https://open.spotify.com/artist/6Dh7jq2cBtqLg2UUsNwFvP"
         },
         {
-          "name": "Marie-Louise",
-          "url": "https://open.spotify.com/artist/0spyYLDqq2wOVo7xhQXv4T"
-        },
-        {
-          "name": "Nathalie Yasmin",
-          "url": "https://open.spotify.com/artist/3RWnvsEDZcJ0ChaxwCIzAE"
-        },
-        {
-          "name": "Donson",
-          "url": "https://open.spotify.com/artist/5BWlGj95oqmytrojTyBBvo"
-        },
-        {
-          "name": "Victor",
-          "url": "https://open.spotify.com/artist/3dRFRbBllGVqhtd5DZsWu3"
-        },
-        {
-          "name": "Lizzy",
-          "url": "https://open.spotify.com/artist/0BLmBGb8deRkIAZFh2yGdZ"
+          "name": "Ch\u00ebzko",
+          "url": "https://open.spotify.com/artist/77iNf7WysDTMs7NSfOccGZ"
         }
       ],
-      "duration_ms": 152500,
-      "name": "Dit is Miss Nederland",
-      "url": "https://open.spotify.com/track/1p2sQcHy5bi8ceZVoemNHD"
+      "duration_ms": 177240,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/1NmD5LnGBjexUvbpcyooAP"
     },
     {
-      "added_at": "2026-06-12 14:43:34",
+      "added_at": "2026-06-19 14:43:38",
       "album": {
-        "name": "Everything and Nothing",
-        "url": "https://open.spotify.com/album/7nv4ae1nsAHKG9wbJDCWYY"
+        "name": "Grave Of Fear",
+        "url": "https://open.spotify.com/album/1DAPloVTQRChs62XP9X2qo"
       },
       "artists": [
         {
-          "name": "Why The Hell Knot",
-          "url": "https://open.spotify.com/artist/2b5JtPdLt8prXEufNj9aZh"
+          "name": "Teri Quinn",
+          "url": "https://open.spotify.com/artist/6iQIrbONT6zOdefHu24Xv0"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Everything and Nothing",
-      "url": "https://open.spotify.com/track/2pTvoVzRXYLmhsPXJJQkQA"
+      "duration_ms": 213064,
+      "name": "Grave Of Fear",
+      "url": "https://open.spotify.com/track/3Fqc1vm92pq8tnThPsd4wK"
+    },
+    {
+      "added_at": "2026-06-19 14:43:38",
+      "album": {
+        "name": "\u3042\u3057\u305f\u306e\u3044\u308d",
+        "url": "https://open.spotify.com/album/3YOnRDHFhKlnnzM9f85kaB"
+      },
+      "artists": [
+        {
+          "name": "\u767d\u77f3 \u685c",
+          "url": "https://open.spotify.com/artist/1KTNT4NvGLYUfbfd6Lbs50"
+        }
+      ],
+      "duration_ms": 187960,
+      "name": "\u8679\u8272\u30b9\u30c6\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/6QsJziJnhYojhd2x1bWWK7"
+    },
+    {
+      "added_at": "2026-06-19 14:43:38",
+      "album": {
+        "name": "Kungsholmen - en stadsvandring",
+        "url": "https://open.spotify.com/album/4bMHWEJc4c48QpZvxJksty"
+      },
+      "artists": [
+        {
+          "name": "Tbaxtstan",
+          "url": "https://open.spotify.com/artist/0HhFOkZCQMSTdUJ17hy4pm"
+        },
+        {
+          "name": "Wille Crafoord",
+          "url": "https://open.spotify.com/artist/5c6gSK67nlUmsWBjCY8u7B"
+        }
+      ],
+      "duration_ms": 217761,
+      "name": "Tegelbacken",
+      "url": "https://open.spotify.com/track/1lc2TgaFu4Ov1WOXe2pXno"
+    },
+    {
+      "added_at": "2026-06-19 14:43:38",
+      "album": {
+        "name": "A\u00f1o Nuevo",
+        "url": "https://open.spotify.com/album/0eg2qFKE8H0YbORdvVYrjH"
+      },
+      "artists": [
+        {
+          "name": "Dani Cabezas",
+          "url": "https://open.spotify.com/artist/6wCMrUZbFZIU2zCTWuOkBS"
+        }
+      ],
+      "duration_ms": 281089,
+      "name": "A\u00f1o Nuevo",
+      "url": "https://open.spotify.com/track/4e7gqxkx1ncLg9k7tqoeo7"
+    },
+    {
+      "added_at": "2026-06-19 14:43:38",
+      "album": {
+        "name": "Simple Attraction",
+        "url": "https://open.spotify.com/album/7pWZbEXXAcWxgq0lJrHHLY"
+      },
+      "artists": [
+        {
+          "name": "The Loner Collective",
+          "url": "https://open.spotify.com/artist/2gS2jUS2xz5bTIb8W8holO"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Simple Attraction",
+      "url": "https://open.spotify.com/track/66Ttfp0Yf6LGjpJtNVD34E"
     }
   ],
   "unique_name": "Independent Music Friday",

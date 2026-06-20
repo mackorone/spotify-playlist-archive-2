@@ -2,9 +2,9 @@
 
 ### [Country Soul](https://open.spotify.com/playlist/37i9dQZF1DWZv25tLhsWKX)
 
-> Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
+> Where Nashville, Memphis & the Shoals meet\. Cover: Kashus Culpepper
 
-124 songs - 7 hr 38 min
+126 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,12 +62,13 @@
 | [In the Night](https://open.spotify.com/track/0UYz2MYHwUSSquqdDIJc0j) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [In the Night](https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh) | 3:56 | 2021-02-17 |  |
 | [Kentucky Too Long](https://open.spotify.com/track/6dPMvMqLD2sfmDWYfGLgHa) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Kentucky Too Long](https://open.spotify.com/album/4Z8FQO3TmpkD6COopQTTxE) | 3:38 | 2026-02-13 |  |
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2026-02-13 |  |
+| [Let Me Show You Love](https://open.spotify.com/track/1GJsiT7fmv9c4RprwabzrQ) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Act I: Summer Nights](https://open.spotify.com/album/3RPDh3A283D7F4DuJO95kD) | 3:29 | 2026-06-19 |  |
 | [Livin’ In Shame](https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Livin’ In Shame](https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f) | 2:25 | 2026-02-20 |  |
 | [Long Way to Go](https://open.spotify.com/track/4Tb1Yf1e6tgimjLKPQhhOd) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing \(Deluxe Edition\)](https://open.spotify.com/album/4dUldCEXkgAezE5GYMeJMW) | 4:04 | 2021-02-17 |  |
 | [Long White Line](https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 4:01 | 2026-02-13 |  |
 | [Manufactured Feelings](https://open.spotify.com/track/1ZxzH9KKrvGgKRQS0L8QgF) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Manufactured Feelings](https://open.spotify.com/album/7MHHibngFhVwcQH6ubUxwk) | 3:47 | 2026-02-13 |  |
 | [Masterpiece](https://open.spotify.com/track/4Um2F2VX93HkXZhqSyiBck) | [Benny G](https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8) | [Masterpiece](https://open.spotify.com/album/18EJmM2T13yO4Sdgk5lqP9) | 3:33 | 2026-02-13 |  |
-| [Me & Mr\. Hohner](https://open.spotify.com/track/0k9VIAEEjQqgZvM2s5mIpf) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Songs From Big Sur](https://open.spotify.com/album/5RbuMvlyR93a0t8yCNstn4) | 3:17 | 2021-02-17 |  |
+| [Me & Mr\. Hohner](https://open.spotify.com/track/0k9VIAEEjQqgZvM2s5mIpf) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Songs From Big Sur](https://open.spotify.com/album/5RbuMvlyR93a0t8yCNstn4) | 3:17 | 2021-02-17 | 2026-06-20 |
 | [Me & Mr\. Hohner](https://open.spotify.com/track/0aBjyU314IjwkRQcoOIuyH) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Songs From Big Sur](https://open.spotify.com/album/0WUR7j5vHwxr2FYPF9Z3qZ) | 3:19 | 2023-05-26 | 2024-04-19 |
 | [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 4:39 | 2021-02-17 |  |
 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 | 2021-02-17 |  |
@@ -126,7 +127,8 @@
 | [Wheels Of Laredo](https://open.spotify.com/track/3MgHIcV9xc8tUdoekttdLM) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 4:14 | 2021-02-17 |  |
 | [Whiskey Lows \- Live](https://open.spotify.com/track/6Gt9OwdcpxuLpMSQFYUvca) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Common Hymnal \(Live\)](https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj) | 4:44 | 2021-02-17 |  |
 | [Wildflowers & Wine](https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:48 | 2021-02-17 | 2022-08-27 |
-| [Without Your Love](https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:51 | 2021-02-17 |  |
+| [Without Your Love](https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:51 | 2021-02-17 | 2026-06-20 |
+| [You Can't Hurt Me Anymore](https://open.spotify.com/track/4mQduoCFyrgEV8wkx56Bem) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The Story of Michael and Tanya](https://open.spotify.com/album/4DsL4fp1EBMXavK10WxBkl) | 3:50 | 2026-06-19 |  |
 | [You Don't Miss Your Water \- Extended](https://open.spotify.com/track/6pYvB2TQO7oGLw6oNV40jm) | [William Bell](https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO) | [Stax\-Volt: The Complete Singles 1959\-1968](https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH) | 3:00 | 2021-02-17 |  |
 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 | 2021-02-17 |  |
 | [You Must Go](https://open.spotify.com/track/0LTlAPV6S8Z9U1u42GZfmL) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [All Kinds Of People / You Must Go](https://open.spotify.com/album/50YM56ngtmK2bOUTmntZf9) | 5:02 | 2024-03-22 | 2024-04-19 |

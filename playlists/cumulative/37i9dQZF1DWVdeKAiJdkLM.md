@@ -4,7 +4,7 @@
 
 > Curated by The Virgo Queen \- Y2K Black Girl Magic
 
-36 songs - 2 hr 13 min
+37 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/4EJPFBPoRdsyXhiCtHBsVN) | [Blu Cantrell](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM) | [So Blu](https://open.spotify.com/album/3v1SafL8TFgzZSSA027uR9) | 4:10 | 2026-06-01 |  |
 | [I Thought](https://open.spotify.com/track/4RTmK9PWPJo9gB75g0b5ZO) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Full Moon](https://open.spotify.com/album/7yqkXXwjU3hEL1cH663d4l) | 4:29 | 2026-06-01 |  |
 | [I'm Good \- Radio Version](https://open.spotify.com/track/7EgG37pjxw0Y4GHwjK3CBS) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ) | [I'm Good](https://open.spotify.com/album/5viI2ApPbeEOvlBOBlA6z3) | 3:35 | 2026-06-01 |  |
+| [Internet Friends](https://open.spotify.com/track/4zjGCNOQyRQINNKQyacBWm) | [The Virgo Queen](https://open.spotify.com/artist/7xUlGu35ihHhZtrzfBkEsv) | [Internet Friends](https://open.spotify.com/album/1NfBadyJgnrNo6z84UGhpr) | 3:04 | 2026-06-19 |  |
 | [Just One Nite](https://open.spotify.com/track/6oH5TppZWJdtVUPoYESsyw) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 4:06 | 2026-06-01 |  |
 | [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 | 2026-06-01 |  |
 | [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 | 2026-06-01 |  |

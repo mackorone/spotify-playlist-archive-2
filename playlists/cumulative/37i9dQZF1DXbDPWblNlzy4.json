@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Alguien aqui",
+        "url": "https://open.spotify.com/album/4gD3yvy16Y9glyQvTAw3Z8"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141874,
+      "name": "Alguien aqui",
+      "url": "https://open.spotify.com/track/1cxiTnSdoLscxNU25iCPg5"
+    },
+    {
+      "album": {
         "name": "Alma Bendita",
         "url": "https://open.spotify.com/album/6KADxWkA1nPZo3g8t9iCHE"
       },
@@ -4473,6 +4491,28 @@
     },
     {
       "album": {
+        "name": "Gidi 2 Caracas (La M\u00fasica)",
+        "url": "https://open.spotify.com/album/2wXcuMCVdvsHaAje0TgNph"
+      },
+      "artists": [
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "Gidi 2 Caracas - La M\u00fasica",
+      "url": "https://open.spotify.com/track/3KDNjufpaTpwTiR9zAxDbY"
+    },
+    {
+      "album": {
         "name": "Golpes Contra Las Paredes",
         "url": "https://open.spotify.com/album/7dz4YX7KleW1rR5YQInKog"
       },
@@ -7474,6 +7514,24 @@
       "duration_ms": 219133,
       "name": "no llames lo m\u00edo nuestro",
       "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
+    },
+    {
+      "album": {
+        "name": "No Llegamos Ni A Febrero",
+        "url": "https://open.spotify.com/album/6aNgiuAeoVLHICmNiZryZo"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178848,
+      "name": "No Llegamos Ni A Febrero",
+      "url": "https://open.spotify.com/track/5yb9zjiSDK9cMBhQxI0TMs"
     },
     {
       "album": {
@@ -11248,6 +11306,24 @@
       "duration_ms": 186581,
       "name": "Vuelvo A Ti",
       "url": "https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF"
+    },
+    {
+      "album": {
+        "name": "WhyWhyWhy",
+        "url": "https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159178,
+      "name": "WhyWhyWhy",
+      "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"
     },
     {
       "album": {

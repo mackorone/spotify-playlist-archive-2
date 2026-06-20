@@ -4,7 +4,7 @@
 
 > East Africa queens in their music bag\. Cover: Mimi Mars
 
-196 songs - 10 hr 23 min
+197 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Dakika Moja](https://open.spotify.com/track/7ES0Y6lLl5NrMhz4sbaePq) | [Ruby](https://open.spotify.com/artist/2ypTfYYhRIQFIYj6bdnKa6) | [Dakika Moja](https://open.spotify.com/album/54uEgwNVQ0L8FNHO8gFYbA) | 3:42 | 2022-07-18 | 2024-09-28 |
 | [Dark Skin](https://open.spotify.com/track/5AjVctG4cZUAlGFWpuIxLe) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4) | [Dark Skin](https://open.spotify.com/album/08kjRiczlt4ykqCXPBoASh) | 3:22 | 2022-07-18 | 2024-07-05 |
 | [Desire](https://open.spotify.com/track/654SYg2HiYmZI3chN6erFl) | [Melissa Mulungi](https://open.spotify.com/artist/77ZzFS6WajdNwqHdOMScJl) | [Desire](https://open.spotify.com/album/70yKNubVpLpVipULl9k5Pr) | 3:35 | 2025-08-21 |  |
+| [Don't Rush](https://open.spotify.com/track/6vOjEdbys2CHui72u9C610) | [Shaniah Bito](https://open.spotify.com/artist/35dJwfpLTOdT4JHevIwZA0) | [Don't Rush](https://open.spotify.com/album/2IBlpvkidmQhiUuu3SFttO) | 2:26 | 2026-06-18 |  |
 | [EN3RGY](https://open.spotify.com/track/7s1cUqddTHFRmL66cuyAlh) | [Polaris Pauline](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA), [Mayonde](https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr), [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB), [HSKE](https://open.spotify.com/artist/0GHHtw39P3sS8MqYuuR4j8) | [EN3RGY](https://open.spotify.com/album/5RFMuaMkPzV7kpfvGAgjF6) | 3:10 | 2023-09-07 | 2024-03-29 |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2022-07-18 | 2024-07-05 |
 | [Exam](https://open.spotify.com/track/6gu8mDTOSf3EjHNU16PRg9) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6) | [Forever](https://open.spotify.com/album/3pIQp2YhO2kDax3nzCJo6F) | 2:48 | 2024-07-04 | 2026-06-19 |

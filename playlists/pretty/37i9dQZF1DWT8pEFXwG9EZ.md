@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,020 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,047 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 44 | [Opening \(Spirit of Adventure\)](https://open.spotify.com/track/5oYUpqagyuDKyv4CAYOqzR) | [Andrea Datzman](https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2), [Curtis Green](https://open.spotify.com/artist/7BeM8T22ATymjmtyyfoHyV) | [Dug Days \(Original Soundtrack\)](https://open.spotify.com/album/6fEXaQ4sDE9L9pSsixUPQM) | 0:52 |
 | 45 | [Bigger Than Us](https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 1:51 |
 | 46 | [That's Life \- Music From The Motion Picture](https://open.spotify.com/track/4ph4EHuQi2tKtvNU12UTRu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joker: Folie à Deux \(Music From The Motion Picture\)](https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc) | 3:03 |
-| 47 | [Alfie's Theme \- From "Alfie" Score](https://open.spotify.com/track/0LITSYvjbQzgcumESz6Z7l) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Alfie](https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5) | 9:44 |
-| 48 | [Charade](https://open.spotify.com/track/5Jl8bMn0bt7rG1ugDZUvqA) | [Si Zentner](https://open.spotify.com/artist/4ktfAENbpoxfR7STEtKBM6) | [The Big Kahuna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0a9i86wh0eV8cj0IlfW4hf) | 2:38 |
+| 47 | [Charade](https://open.spotify.com/track/5Jl8bMn0bt7rG1ugDZUvqA) | [Si Zentner](https://open.spotify.com/artist/4ktfAENbpoxfR7STEtKBM6) | [The Big Kahuna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0a9i86wh0eV8cj0IlfW4hf) | 2:38 |
+| 48 | [Alfie's Theme \- From "Alfie" Score](https://open.spotify.com/track/0LITSYvjbQzgcumESz6Z7l) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Alfie](https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5) | 9:44 |
 | 49 | [I Love Penny Sue](https://open.spotify.com/track/4SBHuF59wYA32i3O1Yfv1L) | [Daniel May](https://open.spotify.com/artist/1v1sbhRjpHfjqdBpSiwCvc) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:17 |
 | 50 | [Born to Play](https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 2:00 |
 | 51 | [Room "26"](https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Bullitt \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO) | 2:23 |

@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-169 songs - 9 hr 19 min
+170 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [She](https://open.spotify.com/track/6aNR1tbrRtamWleMigQs4J) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [She](https://open.spotify.com/album/2s3pBPqxmcbmy1Zct8Ezu5) | 3:38 | 2023-06-30 | 2024-08-24 |
 | [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-22 | 2025-08-22 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2023-06-30 | 2024-10-18 |
+| [Sina Mawazo](https://open.spotify.com/track/2obS5pxEc2Df7WO90FZAk3) | [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Sina Mawazo](https://open.spotify.com/album/2HM6MEjNWq4FhYcjNStbae) | 5:07 | 2026-06-19 |  |
 | [Sioni Mbele](https://open.spotify.com/track/53jDdL38b0npbH3hqxTQpM) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Sioni Mbele](https://open.spotify.com/album/6oCfqw1wxvrUDbD7O9Gd9c) | 3:03 | 2026-04-16 |  |
 | [Skies Have Cleared](https://open.spotify.com/track/1sHI5KcCF4nXZKR5iQQgHM) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Lia April](https://open.spotify.com/artist/4zduBC59YxJ3rRjz2E9x6F) | [Skies Have Cleared](https://open.spotify.com/album/75hXQzEJGC7ZxZXbSIVoTW) | 3:07 | 2024-05-30 | 2025-09-20 |
 | [SLOWLY FAST](https://open.spotify.com/track/6eg0gp8fr41kX8s40wQJ5M) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me) | [PRE PACK](https://open.spotify.com/album/3m0vczVUu8N3K7VZIoxdjq) | 1:04 | 2025-03-07 |  |
@@ -149,7 +150,7 @@
 | [Table](https://open.spotify.com/track/7xz2qqAFgzUSRtz6ZtasVl) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP), [Zawadi Mukami](https://open.spotify.com/artist/49UnEPh42EMERfMtt6jf6v), [Chris Barr](https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo) | [Table](https://open.spotify.com/album/5xtIIsCORyIBXvI3X2LJt5) | 3:29 | 2025-04-17 | 2026-03-27 |
 | [Take Control](https://open.spotify.com/track/44ohwgdP6fywqjza4cwBU4) | [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Soundlykbb](https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S) | [Take Control](https://open.spotify.com/album/4AWV0Kl4nWnfaPTseDUKWN) | 2:41 | 2026-03-19 |  |
 | [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 | 2024-07-15 | 2026-03-13 |
-| [TESLA](https://open.spotify.com/track/3r5RMIwKMHVLI9lm7YmDds) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [TESLA](https://open.spotify.com/album/527vCzOGMQd4AN3K5VpS6S) | 2:00 | 2024-10-03 |  |
+| [TESLA](https://open.spotify.com/track/3r5RMIwKMHVLI9lm7YmDds) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [TESLA](https://open.spotify.com/album/527vCzOGMQd4AN3K5VpS6S) | 2:00 | 2024-10-03 | 2026-06-20 |
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-06-30 | 2024-12-06 |
 | [The Lost Kingdom](https://open.spotify.com/track/0IaPSABMW2y34G13CfZIxo) | [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR), [Rachel Flowers](https://open.spotify.com/artist/4grHJyvpWRMC9cSDzohYaf) | [The Lost Kingdom](https://open.spotify.com/album/3IbagRYu8lk2Z1jyamvSne) | 4:19 | 2024-10-17 |  |
 | [The Sun, The Grass & The River](https://open.spotify.com/track/7EX3rOwPd71wXnreVGey32) | [Gabbie](https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3), [Timothy Arinaitwe](https://open.spotify.com/artist/1zO62Bttg6arwugcOIZuCH) | [Empty Spaces](https://open.spotify.com/album/5XBV1o2MmWAoKgZ8GBugaq) | 4:08 | 2023-06-30 | 2024-01-27 |

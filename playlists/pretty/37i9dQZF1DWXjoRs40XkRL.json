@@ -1,6 +1,6 @@
 {
   "description": "Unwind to the best Indian classical sounds out there.",
-  "num_followers": 125770,
+  "num_followers": 125786,
   "original_name": "Raga Lounge",
   "owner": {
     "name": "Spotify",
@@ -322,10 +322,14 @@
         {
           "name": "Raja Hasan",
           "url": "https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA"
+        },
+        {
+          "name": "Amir Khusro",
+          "url": "https://open.spotify.com/artist/7075Swy0Th9uQZK3FQPMuk"
         }
       ],
       "duration_ms": 150131,
-      "name": "Sakal Ban (From \"Heeramandi\") - Original",
+      "name": "Sakal Ban",
       "url": "https://open.spotify.com/track/7svwWqUNrqjhlmaHB6Dl3b"
     },
     {
@@ -515,26 +519,6 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
-        "name": "Neer Bharan",
-        "url": "https://open.spotify.com/album/4hYwar8PBO70C4eAbrACtw"
-      },
-      "artists": [
-        {
-          "name": "Tanmay Deochake",
-          "url": "https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR"
-        },
-        {
-          "name": "Radhika Bhide",
-          "url": "https://open.spotify.com/artist/4OMlEVryNzCNImKNGoZ22c"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Neer Bharan",
-      "url": "https://open.spotify.com/track/6bfKZYgAaMgRLZYTxK0T9f"
-    },
-    {
-      "added_at": "2026-06-10 04:39:25",
-      "album": {
         "name": "Piya Ki Nazariya (Raag Yaman)",
         "url": "https://open.spotify.com/album/0uGYras6Hlp06K8nK0Sgd3"
       },
@@ -551,6 +535,26 @@
       "duration_ms": 191428,
       "name": "Piya Ki Nazariya - Raag Yaman",
       "url": "https://open.spotify.com/track/2y07A0vDh1waCZirOiodB5"
+    },
+    {
+      "added_at": "2026-06-10 04:39:25",
+      "album": {
+        "name": "Neer Bharan",
+        "url": "https://open.spotify.com/album/4hYwar8PBO70C4eAbrACtw"
+      },
+      "artists": [
+        {
+          "name": "Tanmay Deochake",
+          "url": "https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR"
+        },
+        {
+          "name": "Radhika Bhide",
+          "url": "https://open.spotify.com/artist/4OMlEVryNzCNImKNGoZ22c"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Neer Bharan",
+      "url": "https://open.spotify.com/track/6bfKZYgAaMgRLZYTxK0T9f"
     },
     {
       "added_at": "2026-06-10 04:39:25",
@@ -915,26 +919,6 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
-        "name": "Ambwa Talay",
-        "url": "https://open.spotify.com/album/4QlxOqWwjzTFTbUCqpWR5u"
-      },
-      "artists": [
-        {
-          "name": "Gurupriya Atreya",
-          "url": "https://open.spotify.com/artist/0OO4ioldaC9gDh0XBHy11I"
-        },
-        {
-          "name": "Hriday Goswami",
-          "url": "https://open.spotify.com/artist/4IpSIc9T223yFJHve2gVF7"
-        }
-      ],
-      "duration_ms": 312832,
-      "name": "Ambwa Talay",
-      "url": "https://open.spotify.com/track/1CyLBIdvwHLXTrDm7PD8TY"
-    },
-    {
-      "added_at": "2026-06-10 04:39:25",
-      "album": {
         "name": "AMMP Signature Series Volume 4 - Rag Manj Khammaj / Rag Misra Mand",
         "url": "https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2"
       },
@@ -971,6 +955,26 @@
       "duration_ms": 199013,
       "name": "Barasana Laagi Re",
       "url": "https://open.spotify.com/track/6yzBtilObFjJtCgI2Z5tOF"
+    },
+    {
+      "added_at": "2026-06-10 04:39:25",
+      "album": {
+        "name": "Ambwa Talay",
+        "url": "https://open.spotify.com/album/4QlxOqWwjzTFTbUCqpWR5u"
+      },
+      "artists": [
+        {
+          "name": "Gurupriya Atreya",
+          "url": "https://open.spotify.com/artist/0OO4ioldaC9gDh0XBHy11I"
+        },
+        {
+          "name": "Hriday Goswami",
+          "url": "https://open.spotify.com/artist/4IpSIc9T223yFJHve2gVF7"
+        }
+      ],
+      "duration_ms": 312832,
+      "name": "Ambwa Talay",
+      "url": "https://open.spotify.com/track/1CyLBIdvwHLXTrDm7PD8TY"
     },
     {
       "added_at": "2026-06-10 04:39:25",
@@ -1231,22 +1235,26 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
-        "name": "Rung",
-        "url": "https://open.spotify.com/album/7eh36qK7s7eThfg7GAnWMB"
+        "name": "Ghule",
+        "url": "https://open.spotify.com/album/2Lf8HLjJ8N9OxXiNloWMzA"
       },
       "artists": [
         {
-          "name": "Hari & Sukhmani",
-          "url": "https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj"
+          "name": "Abby V",
+          "url": "https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX"
         },
         {
-          "name": "Dhruv Sangari",
-          "url": "https://open.spotify.com/artist/6VGfXWL2EDRPXa6BcfuCyO"
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        },
+        {
+          "name": "Sona Mohapatra",
+          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
         }
       ],
-      "duration_ms": 326741,
-      "name": "Rung",
-      "url": "https://open.spotify.com/track/2PNdWB44ar4HlRbrJfHELg"
+      "duration_ms": 336586,
+      "name": "Ghule",
+      "url": "https://open.spotify.com/track/1SRw6AawwihNR3uQUOTSAi"
     },
     {
       "added_at": "2026-06-10 04:39:25",
@@ -1279,26 +1287,22 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
-        "name": "Ghule",
-        "url": "https://open.spotify.com/album/2Lf8HLjJ8N9OxXiNloWMzA"
+        "name": "Rung",
+        "url": "https://open.spotify.com/album/7eh36qK7s7eThfg7GAnWMB"
       },
       "artists": [
         {
-          "name": "Abby V",
-          "url": "https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX"
+          "name": "Hari & Sukhmani",
+          "url": "https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj"
         },
         {
-          "name": "Ricky Kej",
-          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
-        },
-        {
-          "name": "Sona Mohapatra",
-          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
+          "name": "Dhruv Sangari",
+          "url": "https://open.spotify.com/artist/6VGfXWL2EDRPXa6BcfuCyO"
         }
       ],
-      "duration_ms": 336586,
-      "name": "Ghule",
-      "url": "https://open.spotify.com/track/1SRw6AawwihNR3uQUOTSAi"
+      "duration_ms": 326741,
+      "name": "Rung",
+      "url": "https://open.spotify.com/track/2PNdWB44ar4HlRbrJfHELg"
     },
     {
       "added_at": "2026-06-10 04:39:25",
@@ -1359,6 +1363,26 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
+        "name": "Moko Kahan",
+        "url": "https://open.spotify.com/album/3TKDcIp43A2db9vnK263xP"
+      },
+      "artists": [
+        {
+          "name": "Vidhya Gopal",
+          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
+        },
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+        }
+      ],
+      "duration_ms": 426813,
+      "name": "Moko Kahan",
+      "url": "https://open.spotify.com/track/2i6hWZ4s93bxWrrag2fcLI"
+    },
+    {
+      "added_at": "2026-06-10 04:39:25",
+      "album": {
         "name": "Sabr",
         "url": "https://open.spotify.com/album/3WC4sGcmSsfIfHHwgFfskQ"
       },
@@ -1399,22 +1423,18 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
-        "name": "Moko Kahan",
-        "url": "https://open.spotify.com/album/3TKDcIp43A2db9vnK263xP"
+        "name": "Bhagwaan",
+        "url": "https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j"
       },
       "artists": [
         {
-          "name": "Vidhya Gopal",
-          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
-        },
-        {
-          "name": "digV",
-          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+          "name": "Masala Coffee",
+          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
         }
       ],
-      "duration_ms": 426813,
-      "name": "Moko Kahan",
-      "url": "https://open.spotify.com/track/2i6hWZ4s93bxWrrag2fcLI"
+      "duration_ms": 274110,
+      "name": "Bhagwaan",
+      "url": "https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb"
     },
     {
       "added_at": "2026-06-10 04:39:25",
@@ -1431,22 +1451,6 @@
       "duration_ms": 136500,
       "name": "Shyam Murari",
       "url": "https://open.spotify.com/track/2ZDsXQFwnskLZCRjd3mZ2M"
-    },
-    {
-      "added_at": "2026-06-10 04:39:25",
-      "album": {
-        "name": "Bhagwaan",
-        "url": "https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j"
-      },
-      "artists": [
-        {
-          "name": "Masala Coffee",
-          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
-        }
-      ],
-      "duration_ms": 274110,
-      "name": "Bhagwaan",
-      "url": "https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb"
     },
     {
       "added_at": "2026-06-10 04:39:25",
@@ -1667,6 +1671,22 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
+        "name": "Sakhi Mori",
+        "url": "https://open.spotify.com/album/6ySjcSZ1eeXWHzvs2fXJQP"
+      },
+      "artists": [
+        {
+          "name": "Ankita Joshi",
+          "url": "https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo"
+        }
+      ],
+      "duration_ms": 318375,
+      "name": "Sakhi Mori",
+      "url": "https://open.spotify.com/track/2Zgp68rx8p6RC4xWMauNkj"
+    },
+    {
+      "added_at": "2026-06-10 04:39:25",
+      "album": {
         "name": "Jugalbandi 2",
         "url": "https://open.spotify.com/album/4RlDoF53xUIiKYC0TEgbxz"
       },
@@ -1687,6 +1707,22 @@
       "duration_ms": 1309387,
       "name": "Raag Mishra Shirvranjani Taal Deepchandi",
       "url": "https://open.spotify.com/track/21CxzCrRgjPe5nFFe3ks9j"
+    },
+    {
+      "added_at": "2026-06-10 04:39:25",
+      "album": {
+        "name": "Kaari",
+        "url": "https://open.spotify.com/album/6daQiMjPyMjA91IpMW4UDS"
+      },
+      "artists": [
+        {
+          "name": "ShNik",
+          "url": "https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Kaari",
+      "url": "https://open.spotify.com/track/3IZHUKvcOxLve5IDFoT8KX"
     },
     {
       "added_at": "2026-06-10 04:39:25",
@@ -1715,26 +1751,6 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
-        "name": "Tose Lage Nain",
-        "url": "https://open.spotify.com/album/4zokBbgS5ZFgVjs3WFO6Pj"
-      },
-      "artists": [
-        {
-          "name": "Avra Banerjee",
-          "url": "https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3"
-        },
-        {
-          "name": "Hariharan",
-          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
-        }
-      ],
-      "duration_ms": 354759,
-      "name": "Tose Lage Nain",
-      "url": "https://open.spotify.com/track/2rLx3Y0yEjEGfO9ydhl7cw"
-    },
-    {
-      "added_at": "2026-06-10 04:39:25",
-      "album": {
         "name": "Aisi Holi Na Khelo",
         "url": "https://open.spotify.com/album/0OyoifG1qbyu6FJuSCQq0S"
       },
@@ -1759,6 +1775,26 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
+        "name": "Tose Lage Nain",
+        "url": "https://open.spotify.com/album/4zokBbgS5ZFgVjs3WFO6Pj"
+      },
+      "artists": [
+        {
+          "name": "Avra Banerjee",
+          "url": "https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        }
+      ],
+      "duration_ms": 354759,
+      "name": "Tose Lage Nain",
+      "url": "https://open.spotify.com/track/2rLx3Y0yEjEGfO9ydhl7cw"
+    },
+    {
+      "added_at": "2026-06-10 04:39:25",
+      "album": {
         "name": "Swar Sadhna",
         "url": "https://open.spotify.com/album/303Pkb83Anu8cMovTksOen"
       },
@@ -1771,22 +1807,6 @@
       "duration_ms": 2112156,
       "name": "Raga Shuddh Kalyan",
       "url": "https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT"
-    },
-    {
-      "added_at": "2026-06-10 04:39:25",
-      "album": {
-        "name": "Kaari",
-        "url": "https://open.spotify.com/album/6daQiMjPyMjA91IpMW4UDS"
-      },
-      "artists": [
-        {
-          "name": "ShNik",
-          "url": "https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "Kaari",
-      "url": "https://open.spotify.com/track/3IZHUKvcOxLve5IDFoT8KX"
     },
     {
       "added_at": "2026-06-10 04:39:25",
@@ -1831,22 +1851,6 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
-        "name": "Nainan Mein Chhabi",
-        "url": "https://open.spotify.com/album/77rpMPXAoQzSEOvjDFg4Dk"
-      },
-      "artists": [
-        {
-          "name": "Shruti Bujarbaruah",
-          "url": "https://open.spotify.com/artist/6VqinjdkW7wPrf94a982RC"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Nainan Mein Chhabi",
-      "url": "https://open.spotify.com/track/1hLwCJhyg7CsqavvDKfWkH"
-    },
-    {
-      "added_at": "2026-06-10 04:39:25",
-      "album": {
         "name": "Aaye Hain Samjhane Log - Single",
         "url": "https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO"
       },
@@ -1867,18 +1871,34 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
-        "name": "Sakhi Mori",
-        "url": "https://open.spotify.com/album/6ySjcSZ1eeXWHzvs2fXJQP"
+        "name": "Nainan Mein Chhabi",
+        "url": "https://open.spotify.com/album/77rpMPXAoQzSEOvjDFg4Dk"
       },
       "artists": [
         {
-          "name": "Ankita Joshi",
-          "url": "https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo"
+          "name": "Shruti Bujarbaruah",
+          "url": "https://open.spotify.com/artist/6VqinjdkW7wPrf94a982RC"
         }
       ],
-      "duration_ms": 318375,
-      "name": "Sakhi Mori",
-      "url": "https://open.spotify.com/track/2Zgp68rx8p6RC4xWMauNkj"
+      "duration_ms": 218266,
+      "name": "Nainan Mein Chhabi",
+      "url": "https://open.spotify.com/track/1hLwCJhyg7CsqavvDKfWkH"
+    },
+    {
+      "added_at": "2026-06-10 04:39:25",
+      "album": {
+        "name": "Who's To Know - Indian Classical Music",
+        "url": "https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ"
+      },
+      "artists": [
+        {
+          "name": "L. Shankar",
+          "url": "https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr"
+        }
+      ],
+      "duration_ms": 1433426,
+      "name": "Ananda Nadamadum Tillai Sankara",
+      "url": "https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq"
     },
     {
       "added_at": "2026-06-10 04:39:25",
@@ -1899,22 +1919,6 @@
       "duration_ms": 207749,
       "name": "Sajan More Ghar Aayo",
       "url": "https://open.spotify.com/track/2f74281V9IbfcWrqdYrI91"
-    },
-    {
-      "added_at": "2026-06-10 04:39:25",
-      "album": {
-        "name": "Who's To Know - Indian Classical Music",
-        "url": "https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ"
-      },
-      "artists": [
-        {
-          "name": "L. Shankar",
-          "url": "https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr"
-        }
-      ],
-      "duration_ms": 1433426,
-      "name": "Ananda Nadamadum Tillai Sankara",
-      "url": "https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq"
     },
     {
       "added_at": "2026-06-10 04:39:25",
@@ -2051,26 +2055,6 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
-        "name": "More Sajan",
-        "url": "https://open.spotify.com/album/11rRmLH3wgpHbHrYK17PVN"
-      },
-      "artists": [
-        {
-          "name": "Arjuna Harjai",
-          "url": "https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN"
-        },
-        {
-          "name": "Surabhi Dashputra",
-          "url": "https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "More Sajan",
-      "url": "https://open.spotify.com/track/4ebzARJSxxzlvR7O5vtJ3S"
-    },
-    {
-      "added_at": "2026-06-10 04:39:25",
-      "album": {
         "name": "Jhini Jhini",
         "url": "https://open.spotify.com/album/6GUFKOCRGSVOkGqx9cVZO1"
       },
@@ -2087,6 +2071,26 @@
       "duration_ms": 287732,
       "name": "Jhini Jhini",
       "url": "https://open.spotify.com/track/1RI74apWIQoWdtK4qOmZUn"
+    },
+    {
+      "added_at": "2026-06-10 04:39:25",
+      "album": {
+        "name": "More Sajan",
+        "url": "https://open.spotify.com/album/11rRmLH3wgpHbHrYK17PVN"
+      },
+      "artists": [
+        {
+          "name": "Arjuna Harjai",
+          "url": "https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN"
+        },
+        {
+          "name": "Surabhi Dashputra",
+          "url": "https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "More Sajan",
+      "url": "https://open.spotify.com/track/4ebzARJSxxzlvR7O5vtJ3S"
     },
     {
       "added_at": "2026-06-10 04:39:25",
@@ -2111,22 +2115,6 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
-        "name": "Bhor Bhayi",
-        "url": "https://open.spotify.com/album/2Ufh4166inMXn43jqGmQ7r"
-      },
-      "artists": [
-        {
-          "name": "INSYNC",
-          "url": "https://open.spotify.com/artist/19vhG6MY7yUn1uyBFHfK40"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Bhor Bhayi",
-      "url": "https://open.spotify.com/track/64txAeGrepJepCeaFvNLH2"
-    },
-    {
-      "added_at": "2026-06-10 04:39:25",
-      "album": {
         "name": "Koyal (Acoustic)",
         "url": "https://open.spotify.com/album/4CFSs9NYBo0RbRXVJB1Xkp"
       },
@@ -2143,22 +2131,38 @@
     {
       "added_at": "2026-06-10 04:39:25",
       "album": {
-        "name": "Piya Se Mila De",
-        "url": "https://open.spotify.com/album/6Kr7joSInnPV3gWBRj5xN2"
+        "name": "Bhor Bhayi",
+        "url": "https://open.spotify.com/album/2Ufh4166inMXn43jqGmQ7r"
       },
       "artists": [
         {
-          "name": "Ujwal Nagar",
-          "url": "https://open.spotify.com/artist/09GQxWaCQICsreFokLcbzc"
-        },
-        {
-          "name": "Anindo Bose",
-          "url": "https://open.spotify.com/artist/1G2v9z0cxtBy5FMHvZB5Hr"
+          "name": "INSYNC",
+          "url": "https://open.spotify.com/artist/19vhG6MY7yUn1uyBFHfK40"
         }
       ],
-      "duration_ms": 266086,
-      "name": "Piya Se Mila De",
-      "url": "https://open.spotify.com/track/4Z2MfpavuPU4dNJUohBGRo"
+      "duration_ms": 314000,
+      "name": "Bhor Bhayi",
+      "url": "https://open.spotify.com/track/64txAeGrepJepCeaFvNLH2"
+    },
+    {
+      "added_at": "2026-06-10 04:39:25",
+      "album": {
+        "name": "Article 370",
+        "url": "https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        }
+      ],
+      "duration_ms": 156900,
+      "name": "Najariya LoFi Cake Mix",
+      "url": "https://open.spotify.com/track/3PRXDT8kUntYccU3L3y0ji"
     }
   ],
   "unique_name": "Raga Lounge",

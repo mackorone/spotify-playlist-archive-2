@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 141288,
+  "num_followers": 141280,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
+        "name": "Pip Paine [Pay The \u00a35000 You Owe]",
+        "url": "https://open.spotify.com/album/0LBrYpF7s0wQSyLX4Nza7w"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Trick or Treatz",
+      "url": "https://open.spotify.com/track/6IvJzqlKRjOaJwe85k4PHK"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
         "name": "Blood Red Moon",
         "url": "https://open.spotify.com/album/3clEQCPrQ7MAfW3vUasGpj"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 196893,
       "name": "Halloween Blues",
       "url": "https://open.spotify.com/track/3Wby5EleliIk9ZF9aYynX9"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
-        "name": "In Ghost Colours",
-        "url": "https://open.spotify.com/album/56YFlkW3xQdHKel5VzPvv9"
-      },
-      "artists": [
-        {
-          "name": "Cut Copy",
-          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "So Haunted",
-      "url": "https://open.spotify.com/track/5TM606Zfk31aNXIR63baT5"
     }
   ],
   "unique_name": "Indie Halloween",

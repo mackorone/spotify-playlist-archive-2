@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Angèle, Franglish x KeBlack x iDS, Tyla, Gambi and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,491 likes - 132 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,702 likes - 132 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 17 | [SO MAWA \(feat\. Mauvais djo\)](https://open.spotify.com/track/64KtizdhpvWuiJJho1VSQ2) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [JEUNE&INNOCENT](https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki) | 3:25 |
 | 18 | [Beautiful Noise In My Head](https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Beautiful Noise In My Head](https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N) | 3:31 |
 | 19 | [golden boy](https://open.spotify.com/track/0y2O1cQchKi6V76ABHSjuv) | [Eve La Marka](https://open.spotify.com/artist/17tjZtS3t6aWW4qGVz4DuB), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3), [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9) | [golden boy](https://open.spotify.com/album/1iouT4L7K7DsrQ8KZN86S8) | 2:23 |
-| 20 | [Utopia](https://open.spotify.com/track/1XNUmD035Ft6LLXDuXCcJh) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Page Of Cups \(Reversed\)](https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr) | 3:54 |
-| 21 | [Man On A Mission \(feat\. Wizkid\)](https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [BROWN \(The Chocolate Edition\)](https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb) | 3:52 |
+| 20 | [Man On A Mission \(feat\. Wizkid\)](https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [BROWN \(The Chocolate Edition\)](https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb) | 3:52 |
+| 21 | [Utopia](https://open.spotify.com/track/645Nzy8pjijHCGktPNEv5O) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Utopia](https://open.spotify.com/album/0nfR3Ynoarnypo1jcpNwDj) | 3:54 |
 | 22 | [Everything Bends Towards You](https://open.spotify.com/track/7Cn5tCpEL650g5AReewFke) | [Brennt Vanneste](https://open.spotify.com/artist/1riFgdQrsBc8CjBvNCoOd1) | [Collection of Goodbyes: Escapades III](https://open.spotify.com/album/2FrgOYhsgbEHOqMFnn3mEz) | 2:53 |
 | 23 | [K.O](https://open.spotify.com/track/0wkn35bVSegbkHKhTKnesi) | [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [K.O](https://open.spotify.com/album/6NAeoQtu6RNAgS5g97QoEu) | 2:14 |
 | 24 | [Feel](https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Feel](https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1) | 2:38 |
-| 25 | [Say My Name \(The Riddle\) \- Radio edit](https://open.spotify.com/track/40mM9tEXWtgc3Il0z4pcXn) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Say My Name \(The Riddle\) \[Radio edit\]](https://open.spotify.com/album/62BqOiYvQ8tBYXwJfLmMqi) | 3:30 |
+| 25 | [Say My Name \(The Riddle\)](https://open.spotify.com/track/40mM9tEXWtgc3Il0z4pcXn) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Say My Name \(The Riddle\)](https://open.spotify.com/album/62BqOiYvQ8tBYXwJfLmMqi) | 3:30 |
 | 26 | [Pakt Mij](https://open.spotify.com/track/7quqA00qtOBWoTcYJ2nLME) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Pakt Mij](https://open.spotify.com/album/1KaoBUwB2I3VyJxgYvyEAZ) | 2:44 |
 | 27 | [TIK TAK](https://open.spotify.com/track/7bZ2QUWiP3upNEnIQc7AmZ) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [SARRA](https://open.spotify.com/artist/6rxAZckuZM4y6aKz9ZtaUv) | [TIK TAK](https://open.spotify.com/album/411hbuzY43HR3rIHE9EDYy) | 2:25 |
 | 28 | [Grease Baby](https://open.spotify.com/track/7CzAEvBvbEqZfFQlkDSQ6G) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Grease Baby](https://open.spotify.com/album/290EU7vFhTDJ9cckHP6gEh) | 3:17 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 131 | [Aura \(feat\. Bryson Tiller\)](https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [AMA](https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB) | 4:00 |
 | 132 | [Les Yeux Plus Gros qu'Abidjan](https://open.spotify.com/track/2Gay85JJlIpYdZxS3xK6nI) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw) | [Les Yeux Plus Gros qu'Abidjan](https://open.spotify.com/album/17v0RtdHLrAG2D3Ftf1RUL) | 2:51 |
 
-Snapshot ID: `AAAAAEfzFy+9vVboCu7MNJPFTmkgNIQk`
+Snapshot ID: `AAAAACju70JpBg6NY83v8OLjeQlFvtZy`

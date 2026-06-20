@@ -2,7 +2,7 @@
 
 ### [Türkçe Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ASuQophyb3)
 
-> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Yalın
+> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Demet Akalın x Gökhan Özen
 
 681 songs - 1 day 11 hr 19 min
 

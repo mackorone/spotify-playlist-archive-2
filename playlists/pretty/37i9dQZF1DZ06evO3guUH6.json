@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1091044,
+  "num_followers": 1091164,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAAAw077oT1HiNr53xYXBmHFP",
+  "snapshot_id": "ajM1AAAAAAB945XI/VCCbp2AdgA0bBlc",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Caballo",
-        "url": "https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 262608,
-      "name": "Amor Del Bueno (con Alfredo Olivas)",
-      "url": "https://open.spotify.com/track/5ckl6DcMSiDJV80U1uPhVP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 144640,
       "name": "Me Toc\u00f3 Morir",
       "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Caballo",
+        "url": "https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 262608,
+      "name": "Amor Del Bueno (con Alfredo Olivas)",
+      "url": "https://open.spotify.com/track/5ckl6DcMSiDJV80U1uPhVP"
     },
     {
       "added_at": null,

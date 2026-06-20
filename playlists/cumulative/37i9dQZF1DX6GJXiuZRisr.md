@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-689 songs - 1 day 23 hr 12 min
+690 songs - 1 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Each Other](https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [Each Other](https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv) | 3:04 | 2025-04-18 |  |
 | [Easy](https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Easy](https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78) | 3:25 | 2023-11-17 | 2025-03-22 |
 | [Easy Love](https://open.spotify.com/track/520bx5thoXdK6SsBJseLGl) | [Krismi](https://open.spotify.com/artist/3ujWl7adFLOFZOkNtVi0WL) | [Easy Love](https://open.spotify.com/album/07gM5wpFq7rh1kGg9NECTj) | 3:26 | 2024-07-26 | 2025-04-19 |
-| [Echoes](https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Echoes](https://open.spotify.com/album/46N04V4j9W6MOzK8JdQ4ye) | 3:37 | 2025-10-10 |  |
+| [Echoes](https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Echoes](https://open.spotify.com/album/46N04V4j9W6MOzK8JdQ4ye) | 3:37 | 2025-10-10 | 2026-06-20 |
 | [Echoes](https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Echoes](https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8) | 3:39 | 2026-04-17 | 2026-06-19 |
 | [Ecletric](https://open.spotify.com/track/779p7HaX7hYS0irMq30kIy) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Ecletric](https://open.spotify.com/album/3DuDHySeHsZXytYR1HHQq9) | 3:18 | 2021-05-07 | 2022-07-28 |
 | [Elamy](https://open.spotify.com/track/6jdaBz780wecXanS9elu68) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Elamy](https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6) | 4:38 | 2022-02-11 | 2023-12-17 |
@@ -163,6 +163,7 @@
 | [Empty Theatre, Pretty Picture](https://open.spotify.com/track/7Djw8fIOWbZC7T6JMxLLZ8) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Davey Havok](https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8) | [Empty Theatre, Pretty Picture](https://open.spotify.com/album/4MXinFbftiy9loZOapfUhu) | 5:01 | 2026-05-22 |  |
 | [Empyrean](https://open.spotify.com/track/5f768GZ884iQphBUZWmjum) | [Moa](https://open.spotify.com/artist/1lAfFBE10XKWun4CkIS9Jb), [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [Empyrean](https://open.spotify.com/album/7G6kaqouj5KSHRRIGaPt0L) | 3:56 | 2021-05-07 | 2022-07-27 |
 | [Endless](https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Endless](https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV) | 3:16 | 2026-03-20 |  |
+| [Enjoy the Silence](https://open.spotify.com/track/1s9xl5Nl6Ioo0oviSGww9e) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY) | [Enjoy the Silence](https://open.spotify.com/album/25RHfRq0MV0U23aDJkGSNs) | 3:29 | 2026-06-19 |  |
 | [Equinox \- Original Club Mix](https://open.spotify.com/track/5DmKG2iNXtwQqbwSzWMP80) | [Austin Leeds](https://open.spotify.com/artist/24Mc3zc0ogZux3BVi4m3ue), [2 Tall Keith](https://open.spotify.com/artist/5sLCjU2aNDT0BO0V1WXRq3) | [Equinox](https://open.spotify.com/album/2UsFDnZai26v8YvHg1TfI8) | 5:29 | 2021-05-07 | 2022-04-19 |
 | [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 | 2025-06-13 | 2025-10-18 |
 | [Escalus](https://open.spotify.com/track/2ySk8ecOEBzNckGLKA6TEZ) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF) | [Flicker/Escalus](https://open.spotify.com/album/5PLsKjBuudqrPDCaRKwkZP) | 4:15 | 2021-05-07 | 2022-07-18 |

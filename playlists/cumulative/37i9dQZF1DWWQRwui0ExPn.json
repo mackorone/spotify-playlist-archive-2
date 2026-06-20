@@ -46011,6 +46011,24 @@
     },
     {
       "album": {
+        "name": "florescence",
+        "url": "https://open.spotify.com/album/4v3ahPTlaMmN0ruZbILUff"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "florescence",
+      "url": "https://open.spotify.com/track/5fkCAtInX2jfSvYJWGqRMu"
+    },
+    {
+      "album": {
         "name": "Florianopolis",
         "url": "https://open.spotify.com/album/3IyWbIjpbeMTLsvXnuO7kc"
       },
@@ -73746,7 +73764,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 137142,
       "name": "little bird",
       "url": "https://open.spotify.com/track/598ObM4J3GozCnXyeW2q8F"
@@ -93411,6 +93429,24 @@
     },
     {
       "album": {
+        "name": "ocean air",
+        "url": "https://open.spotify.com/album/4Jsl9IGB25udkWWKDSluij"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129729,
+      "name": "ocean air",
+      "url": "https://open.spotify.com/track/4bvL2l9gpQFYrZGw7jNsCk"
+    },
+    {
+      "album": {
         "name": "Ocean Cove",
         "url": "https://open.spotify.com/album/2i4JryyVYAglE28hIPWOH9"
       },
@@ -103200,6 +103236,24 @@
       "duration_ms": 125500,
       "name": "Promenade Walk",
       "url": "https://open.spotify.com/track/07yGA4qy5p5g9Linlhg5Bf"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wpgHN3bW1gnQ6D2eHESDh"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178380,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/7clmICpOL6Z9L2Bh7ikWo9"
     },
     {
       "album": {
@@ -113566,7 +113620,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 108015,
       "name": "she is my sunshine",
       "url": "https://open.spotify.com/track/1sPLPHAsSxsDvIxg1OrIhg"
@@ -115080,6 +115134,28 @@
       "duration_ms": 117000,
       "name": "simple things",
       "url": "https://open.spotify.com/track/2jJPB8v11nFxx0INPjZFok"
+    },
+    {
+      "album": {
+        "name": "Simpler Times",
+        "url": "https://open.spotify.com/album/2hq6wR18OPL8X24Dntz0Ca"
+      },
+      "artists": [
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134571,
+      "name": "Simpler Times",
+      "url": "https://open.spotify.com/track/7ep9bIHcTM2XJwLBp1at9d"
     },
     {
       "album": {
@@ -138956,7 +139032,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 140869,
       "name": "Undertone",
       "url": "https://open.spotify.com/track/50VLwwvzjpemTbpK4hdSCr"
@@ -148308,7 +148384,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 107700,
       "name": "Within",
       "url": "https://open.spotify.com/track/4pZmyJopv7LgKGvKpsomsq"

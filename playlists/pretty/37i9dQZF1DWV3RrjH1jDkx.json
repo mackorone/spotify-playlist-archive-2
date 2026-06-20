@@ -1,6 +1,6 @@
 {
   "description": "Endelig fredag og ny musikk fra The Bausa, Tyla, Blackie og mange fler!! \u2665\ufe0f",
-  "num_followers": 202993,
+  "num_followers": 203109,
   "original_name": "New Music Friday Norway",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-06-18 22:01:14",
       "album": {
+        "name": "2 Many Days",
+        "url": "https://open.spotify.com/album/5C9EToByF5XDM3DXx4WewZ"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 185770,
+      "name": "2 Many Days",
+      "url": "https://open.spotify.com/track/5xKsdMU9ssxhKSre7iMflV"
+    },
+    {
+      "added_at": "2026-06-18 22:01:14",
+      "album": {
         "name": "+47 (oh ol\u00e9)",
         "url": "https://open.spotify.com/album/3mpa6r4bfNUc3khM6zYjHJ"
       },
@@ -1127,7 +1143,7 @@
     {
       "added_at": "2026-06-18 22:01:14",
       "album": {
-        "name": "Gi meg",
+        "name": "Gi meg (feat. Primz)",
         "url": "https://open.spotify.com/album/50QqrtqsRosmZEC2UYfHAd"
       },
       "artists": [
@@ -1143,6 +1159,26 @@
       "duration_ms": 140468,
       "name": "Gi meg",
       "url": "https://open.spotify.com/track/6T0WvXZzMIO4XPxRDJioio"
+    },
+    {
+      "added_at": "2026-06-18 22:01:14",
+      "album": {
+        "name": "THE GENTLEMEN'S CLUB",
+        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 146439,
+      "name": "OMG feat pusha t",
+      "url": "https://open.spotify.com/track/52GRbtHCnZnPOy85U22TY3"
     },
     {
       "added_at": "2026-06-18 22:01:14",

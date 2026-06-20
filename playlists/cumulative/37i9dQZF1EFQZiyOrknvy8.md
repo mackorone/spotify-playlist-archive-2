@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-188 songs - 9 hr 31 min
+189 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Hunger](https://open.spotify.com/track/4SO3szcwUCQHnM5AXB6XYw) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Erde & Knochen](https://open.spotify.com/album/47tOfXJ9EW6pO26FKzFBn7) | 3:25 | 2024-01-29 |  |
 | [I Heart U](https://open.spotify.com/track/4EDUeuv5MEUkE9LXoIabFg) | [Bad Paris](https://open.spotify.com/artist/2NFeNBVDb7eHaA1bgKS0Lt) | [I Heart U \(feat\. Mimoza\)](https://open.spotify.com/album/0pP2TH966jSunaWJaiLQGi) | 3:05 | 2024-01-29 |  |
 | [Ich flieg zu dir](https://open.spotify.com/track/5qrwJRBdBzkLTjv9TojkO5) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:53 | 2024-01-29 |  |
-| [Ich glaub dir \(nicht\)](https://open.spotify.com/track/3ONRKwwLIqXDNrJFxXFF82) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Von Liebe...](https://open.spotify.com/album/4rKLRJvSW6QZW4t0wrkjHP) | 2:30 | 2026-04-26 |  |
+| [Ich glaub dir \(nicht\)](https://open.spotify.com/track/3ONRKwwLIqXDNrJFxXFF82) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Von Liebe...](https://open.spotify.com/album/4rKLRJvSW6QZW4t0wrkjHP) | 2:30 | 2026-04-26 | 2026-06-20 |
+| [Ich glaub dir \(nicht\)](https://open.spotify.com/track/6MbYpfkizhriiX6Zn3gtDj) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Von Liebe & Entzug](https://open.spotify.com/album/4j6NnlH1lYPT36LZ9fs1Eh) | 2:30 | 2026-06-19 |  |
 | [Ich hab dich](https://open.spotify.com/track/5KiY01Q3PmBg9G702FMaby) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Erde & Knochen](https://open.spotify.com/album/47tOfXJ9EW6pO26FKzFBn7) | 3:31 | 2024-01-29 |  |
 | [ich hasse dich](https://open.spotify.com/track/2JLZAtFOW9jTDHN1r9rlQI) | [youareslowlykillingme](https://open.spotify.com/artist/1OO6NNsMdnnZqjFPKaIiZp) | [ich hasse dich](https://open.spotify.com/album/76ABHtDaeYPnY1zpefPGR7) | 2:24 | 2024-01-29 | 2025-06-07 |
 | [Ich liebe meine Ex noch \- LUZIs Megamix](https://open.spotify.com/track/2rc5e7rZFSEJ000oVMNGVp) | [LUZI](https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10) | [LUZIs Megamix](https://open.spotify.com/album/2EN8ufsACQcGR77mCdL9IZ) | 2:51 | 2024-01-29 |  |

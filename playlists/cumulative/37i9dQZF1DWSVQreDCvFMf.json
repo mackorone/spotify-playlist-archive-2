@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: HEY JUNE!",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Jenzen Guino",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 241855,
       "name": "Ate",
       "url": "https://open.spotify.com/track/6Lsts5Jn22moVr4H5FTtAx"
@@ -1829,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Basta't Kasama Ka",
+        "url": "https://open.spotify.com/album/3AdVxlvpAhoJI9uoXfsqEF"
+      },
+      "artists": [
+        {
+          "name": "NOBITA",
+          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284212,
+      "name": "Basta't Kasama Ka",
+      "url": "https://open.spotify.com/track/3IHFveMyXASMzZeyyfcM9U"
+    },
+    {
+      "album": {
         "name": "Basta\u2019t Alam Kong Tayo 1",
         "url": "https://open.spotify.com/album/0lKzEclvyFeq3tIvGK38Lz"
       },
@@ -1924,6 +1942,24 @@
       "duration_ms": 121600,
       "name": "bedroom",
       "url": "https://open.spotify.com/track/7nPRtLdOTKJySFy2z2LU2s"
+    },
+    {
+      "album": {
+        "name": "Before You Left",
+        "url": "https://open.spotify.com/album/55klWigmxBqw3IRJia30z3"
+      },
+      "artists": [
+        {
+          "name": "Camille de la Cruz",
+          "url": "https://open.spotify.com/artist/19unJ2tL7xGtVAZ8XIyTqi"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144718,
+      "name": "Before You Left",
+      "url": "https://open.spotify.com/track/6Bn2bgzn1Ak410q7AC6qBc"
     },
     {
       "album": {
@@ -2288,7 +2324,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 148000,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/545ac5xiggy2Wy6tefoT5I"
@@ -2867,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "dahon",
+        "url": "https://open.spotify.com/album/6eS6ugqniJe0jYXz3bcHTL"
+      },
+      "artists": [
+        {
+          "name": "justin",
+          "url": "https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "dahon",
+      "url": "https://open.spotify.com/track/6DElmrdn8ZlCuTfI3lFQ6l"
+    },
+    {
+      "album": {
         "name": "Dalawa",
         "url": "https://open.spotify.com/album/2EW0Kwp3taQjsc9ZcUmYk1"
       },
@@ -3020,7 +3074,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 240000,
       "name": "DANCE WITH ME",
       "url": "https://open.spotify.com/track/5q6J1vJEa0hEvVi2x0CYLe"
@@ -3056,7 +3110,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 184178,
       "name": "Dapit hapon",
       "url": "https://open.spotify.com/track/0FmXwwndEuzyug70tZZLkQ"
@@ -3324,7 +3378,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 277500,
       "name": "DI NA MULI",
       "url": "https://open.spotify.com/track/5x01QSVJ6VEGWb39ol8Ha2"
@@ -4078,6 +4132,24 @@
       "duration_ms": 176753,
       "name": "First Luv",
       "url": "https://open.spotify.com/track/0qHbCeNAPB7EaKxWiyaAMP"
+    },
+    {
+      "album": {
+        "name": "Always Here",
+        "url": "https://open.spotify.com/album/25BPg8XFp2qkGWXgEahCGl"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220034,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/3f9s6rzGWja6HvCQCxfdl3"
     },
     {
       "album": {
@@ -6125,6 +6197,24 @@
     },
     {
       "album": {
+        "name": "ikaw lang ang bossing ko",
+        "url": "https://open.spotify.com/album/4guaa8LYGnFvSabu4GUpu6"
+      },
+      "artists": [
+        {
+          "name": "neytan",
+          "url": "https://open.spotify.com/artist/2SiPvwfKYm1TANEo8F0zyT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "ikaw lang ang bossing ko",
+      "url": "https://open.spotify.com/track/314IQcUw9Ge5iWScZFiYq0"
+    },
+    {
+      "album": {
         "name": "Ikaw na yan eh",
         "url": "https://open.spotify.com/album/6Aubp9CmoVXbxTXzs90NxH"
       },
@@ -7877,6 +7967,24 @@
     },
     {
       "album": {
+        "name": "LANGYA",
+        "url": "https://open.spotify.com/album/00Vk8BvIL3pGR6IiTEOXBI"
+      },
+      "artists": [
+        {
+          "name": "LU MARZAN",
+          "url": "https://open.spotify.com/artist/2PFOavJcy4B4Eom96N7vDl"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205482,
+      "name": "LANGYA",
+      "url": "https://open.spotify.com/track/1uFqhAC27iQLPB3I0L7ewV"
+    },
+    {
+      "album": {
         "name": "Lapit Kapit",
         "url": "https://open.spotify.com/album/7saglGbQnqjQ5eytjWnqas"
       },
@@ -9247,6 +9355,24 @@
     },
     {
       "album": {
+        "name": "maryclaire",
+        "url": "https://open.spotify.com/album/1meZYCtadHPVjd8GYH6mTr"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365882,
+      "name": "maryclaire",
+      "url": "https://open.spotify.com/track/2kxOkocyK75spxRWoSaufB"
+    },
+    {
+      "album": {
         "name": "Mas Gusto Kita",
         "url": "https://open.spotify.com/album/1Tqdtyo89IGVfIQA5fCMDB"
       },
@@ -9812,6 +9938,24 @@
       "duration_ms": 237692,
       "name": "Multo",
       "url": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF"
+    },
+    {
+      "album": {
+        "name": "Scribble List of Feelings",
+        "url": "https://open.spotify.com/album/3DO9cdydSijTcCDzfwDHTb"
+      },
+      "artists": [
+        {
+          "name": "Doughbaby",
+          "url": "https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273616,
+      "name": "Muntikan",
+      "url": "https://open.spotify.com/track/4Y4hZxwU3WXfydWoUZs3FO"
     },
     {
       "album": {
@@ -11629,6 +11773,24 @@
     },
     {
       "album": {
+        "name": "LOVER BOY: CHAPTER 1: Like me or not?",
+        "url": "https://open.spotify.com/album/65X5zPwqXvioOOw9XINMyz"
+      },
+      "artists": [
+        {
+          "name": "Yudino",
+          "url": "https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178395,
+      "name": "Palusapan (palusot na usapan)",
+      "url": "https://open.spotify.com/track/3vVUhwSOFZnjLYmaE6EjRZ"
+    },
+    {
+      "album": {
         "name": "Pamamaalam",
         "url": "https://open.spotify.com/album/1EwEagKWXDpCHa7W1imleB"
       },
@@ -12410,7 +12572,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 228387,
       "name": "Photobooth",
       "url": "https://open.spotify.com/track/1fJI9TI91aInC1vBjBt04H"
@@ -13418,7 +13580,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 233268,
       "name": "Sa Walang Hanggan",
       "url": "https://open.spotify.com/track/51M0GSzpTPuCBK2pQIiVcc"
@@ -14902,7 +15064,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 247269,
       "name": "Stronger Than Before",
       "url": "https://open.spotify.com/track/3E3MNqDZuF62vgjqrnbC4h"
@@ -15144,7 +15306,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 251666,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/66PmY8JTnohjmLeV17jOvU"
@@ -15184,6 +15346,24 @@
       "duration_ms": 222919,
       "name": "Superman",
       "url": "https://open.spotify.com/track/1IjJp3vQBTOnCT8yypNboJ"
+    },
+    {
+      "album": {
+        "name": "Superstar Ng Buhay Ko",
+        "url": "https://open.spotify.com/album/69fWCm2hu0tAO6epGmogdb"
+      },
+      "artists": [
+        {
+          "name": "Paham",
+          "url": "https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Superstar Ng Buhay Ko",
+      "url": "https://open.spotify.com/track/5tAUqKWw1UzfCnu5ygOZER"
     },
     {
       "album": {
@@ -15303,6 +15483,24 @@
     },
     {
       "album": {
+        "name": "Sweetheart",
+        "url": "https://open.spotify.com/album/3cZaMlZeuHcEQ21BMPtbtn"
+      },
+      "artists": [
+        {
+          "name": "Jenzen Guino",
+          "url": "https://open.spotify.com/artist/3jkBa6etjIDCdf13YXJ0pS"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Sweetheart",
+      "url": "https://open.spotify.com/track/1TTf6NBLl8IVsaK4NRJZxt"
+    },
+    {
+      "album": {
         "name": "Swimming In The Clouds",
         "url": "https://open.spotify.com/album/0u6FNmbgjNBEwYUgBqltDB"
       },
@@ -15376,7 +15574,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 229523,
       "name": "Tadhana't Dalangin",
       "url": "https://open.spotify.com/track/6kjLjHhygJh6qsgtFlc5dC"
@@ -16374,7 +16572,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 213065,
       "name": "Too Young To Be Old",
       "url": "https://open.spotify.com/track/3pjvHlY1hiaKaU3RqcHtIT"

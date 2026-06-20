@@ -1807,6 +1807,32 @@
     },
     {
       "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/4AzW6X5DR6EfY73wBh3EPw"
+      },
+      "artists": [
+        {
+          "name": "TABAL",
+          "url": "https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ"
+        },
+        {
+          "name": "Mayaewk",
+          "url": "https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ"
+        },
+        {
+          "name": "Bastien Brison",
+          "url": "https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163255,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/5Kvt3Z5UmSujUQDFUJZ9oi"
+    },
+    {
+      "album": {
         "name": "Brush",
         "url": "https://open.spotify.com/album/0fED8Ta5z3ZZ4PhSh4ojCt"
       },
@@ -3294,7 +3320,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 154862,
       "name": "deep in it",
       "url": "https://open.spotify.com/track/3J2WUEn6oFN8eDPZov7w9I"
@@ -4968,7 +4994,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 125159,
       "name": "flygawd",
       "url": "https://open.spotify.com/track/1GVk47Cvw4gRGMpex3zZUp"
@@ -14966,6 +14992,28 @@
       "duration_ms": 181289,
       "name": "Sunflowers - Instrumental",
       "url": "https://open.spotify.com/track/4TavIXGtNkJTvHFvulvrC4"
+    },
+    {
+      "album": {
+        "name": "Sunleap",
+        "url": "https://open.spotify.com/album/0nlaZKs6zWlkHPvjwxzWb0"
+      },
+      "artists": [
+        {
+          "name": "howupheelin'",
+          "url": "https://open.spotify.com/artist/23RWeaDeSVPWEOGogfsQ0i"
+        },
+        {
+          "name": "7th Realm",
+          "url": "https://open.spotify.com/artist/4UtJ3cnpM9ptMHY6LSfMUs"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117098,
+      "name": "Sunleap",
+      "url": "https://open.spotify.com/track/55C8M6ov4fk2n4SPt0kXzj"
     },
     {
       "album": {

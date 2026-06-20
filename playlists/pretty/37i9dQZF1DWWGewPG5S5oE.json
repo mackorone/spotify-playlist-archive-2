@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u5927\u6c5f\u5343\u91cc",
-  "num_followers": 50112,
+  "num_followers": 50126,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
     },
     {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
-        "name": "uku",
-        "url": "https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5"
-      },
-      "artists": [
-        {
-          "name": "Sakura Fujiwara",
-          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
-        }
-      ],
-      "duration_ms": 181568,
-      "name": "Every day",
-      "url": "https://open.spotify.com/track/4GbjgXrqXj0Ogc241YaWLZ"
-    },
-    {
       "added_at": "2026-06-02 15:00:28",
       "album": {
         "name": "Sakura",
@@ -431,6 +415,22 @@
       "duration_ms": 259151,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/7djuD2TyLhcKMaH9270auq"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "uku",
+        "url": "https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5"
+      },
+      "artists": [
+        {
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "duration_ms": 181568,
+      "name": "Every day",
+      "url": "https://open.spotify.com/track/4GbjgXrqXj0Ogc241YaWLZ"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
+        "name": "Rhapsody in Summer",
+        "url": "https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 258183,
+      "name": "Rhapsody in Summer",
+      "url": "https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
         "name": "Trio IV: The City, It Whispers",
         "url": "https://open.spotify.com/album/1TcfzFpZm4kmi5zMiZ3crA"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Rhapsody in Summer",
-        "url": "https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 258183,
-      "name": "Rhapsody in Summer",
-      "url": "https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
         "name": "Spark",
         "url": "https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Ryo Fukui Trio at the Slowboat 2004",
-        "url": "https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw"
-      },
-      "artists": [
-        {
-          "name": "Ryo Fukui",
-          "url": "https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh"
-        }
-      ],
-      "duration_ms": 775840,
-      "name": "Eclypso",
-      "url": "https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
         "name": "SS",
         "url": "https://open.spotify.com/album/0l60RYyo5migWBDp8qaVYD"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 215675,
       "name": "SS",
       "url": "https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "Ryo Fukui Trio at the Slowboat 2004",
+        "url": "https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw"
+      },
+      "artists": [
+        {
+          "name": "Ryo Fukui",
+          "url": "https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh"
+        }
+      ],
+      "duration_ms": 775840,
+      "name": "Eclypso",
+      "url": "https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc"
     },
     {
       "added_at": "2026-04-28 15:00:54",

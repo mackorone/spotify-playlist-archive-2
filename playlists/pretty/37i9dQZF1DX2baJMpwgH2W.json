@@ -1,6 +1,6 @@
 {
   "description": "Ballads from the best shows, from the West End and beyond.",
-  "num_followers": 178839,
+  "num_followers": 178837,
   "original_name": "Ballads From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,26 @@
     {
       "added_at": "2025-12-10 11:43:01",
       "album": {
+        "name": "The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq"
+      },
+      "artists": [
+        {
+          "name": "Heidi Mollenhauer",
+          "url": "https://open.spotify.com/artist/2FmXrymxv6kNBnA66HpoPt"
+        },
+        {
+          "name": "Chorus - The Hunchback Of Notre Dame",
+          "url": "https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T"
+        }
+      ],
+      "duration_ms": 225293,
+      "name": "God Help the Outcasts",
+      "url": "https://open.spotify.com/track/67KymXb4OUQtUlO31EFOjS"
+    },
+    {
+      "added_at": "2025-12-10 11:43:01",
+      "album": {
         "name": "Wicked",
         "url": "https://open.spotify.com/album/46VuziW5kL9Hrt5NlJtLjY"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 353920,
       "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/0yM3VmM8gHEVGViKvAbQkc"
-    },
-    {
-      "added_at": "2025-12-10 11:43:01",
-      "album": {
-        "name": "The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq"
-      },
-      "artists": [
-        {
-          "name": "Heidi Mollenhauer",
-          "url": "https://open.spotify.com/artist/2FmXrymxv6kNBnA66HpoPt"
-        },
-        {
-          "name": "Chorus - The Hunchback Of Notre Dame",
-          "url": "https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T"
-        }
-      ],
-      "duration_ms": 225293,
-      "name": "God Help the Outcasts",
-      "url": "https://open.spotify.com/track/67KymXb4OUQtUlO31EFOjS"
     },
     {
       "added_at": "2025-12-10 11:43:01",
@@ -799,6 +799,30 @@
     {
       "added_at": "2025-12-10 11:43:01",
       "album": {
+        "name": "Aladdin: Special Edition Soundtrack",
+        "url": "https://open.spotify.com/album/1Eq5qk8DnHWGOZT2cAASP2"
+      },
+      "artists": [
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        },
+        {
+          "name": "Brad Kane",
+          "url": "https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "A Whole New World",
+      "url": "https://open.spotify.com/track/506nvAQgHmkGd13ipZuBwo"
+    },
+    {
+      "added_at": "2025-12-10 11:43:01",
+      "album": {
         "name": "West Side Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1kA4RO70idrEQkOX3zlRfa"
       },
@@ -823,30 +847,6 @@
       "duration_ms": 155933,
       "name": "West Side Story: Act I: Maria",
       "url": "https://open.spotify.com/track/4PhC8QIdq2LcGm6KpXFaVi"
-    },
-    {
-      "added_at": "2025-12-10 11:43:01",
-      "album": {
-        "name": "Aladdin: Special Edition Soundtrack",
-        "url": "https://open.spotify.com/album/1Eq5qk8DnHWGOZT2cAASP2"
-      },
-      "artists": [
-        {
-          "name": "Lea Salonga",
-          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
-        },
-        {
-          "name": "Brad Kane",
-          "url": "https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "A Whole New World",
-      "url": "https://open.spotify.com/track/506nvAQgHmkGd13ipZuBwo"
     },
     {
       "added_at": "2025-12-10 11:43:01",

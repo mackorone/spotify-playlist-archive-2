@@ -375,22 +375,6 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 223425,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
         "name": "Streets of London",
         "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 189136,
       "name": "Streets of London",
       "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 223425,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
     },
     {
       "added_at": "2026-05-21 22:00:09",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
         "name": "Purple Gas",
         "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 180153,
       "name": "Purple Gas",
       "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-05-21 22:00:09",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "For Once",
-        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
+        "name": "Wealthiest Man",
+        "url": "https://open.spotify.com/album/1SW1cbceHsjMJjHvyniK0s"
       },
       "artists": [
         {
-          "name": "A\u00e4ron Koch",
-          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
+          "name": "Erik Lindeman",
+          "url": "https://open.spotify.com/artist/3n3KUrOk92Xm3ks9WYtrjH"
         }
       ],
-      "duration_ms": 237467,
-      "name": "For Once",
-      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
+      "duration_ms": 293215,
+      "name": "Wealthiest Man",
+      "url": "https://open.spotify.com/track/0m5RI0qThyYnZ3QX9WQk2O"
     }
   ],
   "unique_name": "Country & Americana",

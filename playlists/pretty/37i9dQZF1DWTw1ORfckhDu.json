@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104110,
+  "num_followers": 104106,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2026-06-18 21:00:41",
       "album": {
-        "name": "iltaset",
-        "url": "https://open.spotify.com/album/2iZujhPCftldF5Bq6evcp3"
-      },
-      "artists": [
-        {
-          "name": "Lytt\u00e4",
-          "url": "https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn"
-        },
-        {
-          "name": "Tohtori Getto",
-          "url": "https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY"
-        }
-      ],
-      "duration_ms": 185935,
-      "name": "iltaset",
-      "url": "https://open.spotify.com/track/25U7svN6Zqgf9yDCM60tYD"
-    },
-    {
-      "added_at": "2026-06-18 21:00:41",
-      "album": {
         "name": "T\u00e4\u00e4lp\u00e4in",
         "url": "https://open.spotify.com/album/32Tow3LoxvoHqW4EO0fVbv"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 194021,
       "name": "T\u00e4\u00e4lp\u00e4in",
       "url": "https://open.spotify.com/track/0Gf5abbjb5XibbQRAwsCPq"
+    },
+    {
+      "added_at": "2026-06-18 21:00:41",
+      "album": {
+        "name": "iltaset",
+        "url": "https://open.spotify.com/album/2iZujhPCftldF5Bq6evcp3"
+      },
+      "artists": [
+        {
+          "name": "Lytt\u00e4",
+          "url": "https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn"
+        },
+        {
+          "name": "Tohtori Getto",
+          "url": "https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY"
+        }
+      ],
+      "duration_ms": 185935,
+      "name": "iltaset",
+      "url": "https://open.spotify.com/track/25U7svN6Zqgf9yDCM60tYD"
     },
     {
       "added_at": "2026-06-18 21:00:41",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-06-18 21:00:41",
       "album": {
-        "name": "Mutta mill\u00e4 hinnalla",
-        "url": "https://open.spotify.com/album/1nwaC7MbyUc5sQju47xbJp"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Mutta mill\u00e4 hinnalla",
-      "url": "https://open.spotify.com/track/5suG6Qed1VC7QtGkrHIxAd"
-    },
-    {
-      "added_at": "2026-06-18 21:00:41",
-      "album": {
         "name": "Syv\u00e4 p\u00e4\u00e4ty",
         "url": "https://open.spotify.com/album/5vAcp73b5x6zBo3qzvDyhM"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 188650,
       "name": "Syv\u00e4 p\u00e4\u00e4ty",
       "url": "https://open.spotify.com/track/4eKb3URMF19IeCXcBkbVoN"
+    },
+    {
+      "added_at": "2026-06-18 21:00:41",
+      "album": {
+        "name": "Mutta mill\u00e4 hinnalla",
+        "url": "https://open.spotify.com/album/1nwaC7MbyUc5sQju47xbJp"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Mutta mill\u00e4 hinnalla",
+      "url": "https://open.spotify.com/track/5suG6Qed1VC7QtGkrHIxAd"
     },
     {
       "added_at": "2026-06-18 21:00:41",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-06-18 21:00:41",
       "album": {
+        "name": "Kirjotettu t\u00e4htiin",
+        "url": "https://open.spotify.com/album/2jnDXAJYyg6170tk9cQ7JT"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "duration_ms": 158909,
+      "name": "Kirjotettu t\u00e4htiin",
+      "url": "https://open.spotify.com/track/6JKClwOEbYMZrSJGRACtY2"
+    },
+    {
+      "added_at": "2026-06-18 21:00:41",
+      "album": {
         "name": "Stallion",
         "url": "https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2026-06-18 21:00:41",
       "album": {
-        "name": "Kirjotettu t\u00e4htiin",
-        "url": "https://open.spotify.com/album/2jnDXAJYyg6170tk9cQ7JT"
+        "name": "LADABOIS",
+        "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
       },
       "artists": [
         {
-          "name": "Gettomasa",
-          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
         }
       ],
-      "duration_ms": 158909,
-      "name": "Kirjotettu t\u00e4htiin",
-      "url": "https://open.spotify.com/track/6JKClwOEbYMZrSJGRACtY2"
+      "duration_ms": 197205,
+      "name": "Rakkaudesta manii",
+      "url": "https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu"
     },
     {
       "added_at": "2026-06-18 21:00:41",
@@ -611,18 +627,22 @@
     {
       "added_at": "2026-06-18 21:00:41",
       "album": {
-        "name": "LADABOIS",
-        "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
+        "name": "Koukussa (feat. Axel Kala)",
+        "url": "https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT"
       },
       "artists": [
         {
-          "name": "Mouhous",
-          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+          "name": "Pyrythekid",
+          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
+        },
+        {
+          "name": "Axel Kala",
+          "url": "https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD"
         }
       ],
-      "duration_ms": 197205,
-      "name": "Rakkaudesta manii",
-      "url": "https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu"
+      "duration_ms": 187234,
+      "name": "Koukussa (feat. Axel Kala)",
+      "url": "https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3"
     },
     {
       "added_at": "2026-06-18 21:00:41",
@@ -663,26 +683,6 @@
     {
       "added_at": "2026-06-18 21:00:41",
       "album": {
-        "name": "Koukussa (feat. Axel Kala)",
-        "url": "https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT"
-      },
-      "artists": [
-        {
-          "name": "Pyrythekid",
-          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
-        },
-        {
-          "name": "Axel Kala",
-          "url": "https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD"
-        }
-      ],
-      "duration_ms": 187234,
-      "name": "Koukussa (feat. Axel Kala)",
-      "url": "https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3"
-    },
-    {
-      "added_at": "2026-06-18 21:00:41",
-      "album": {
         "name": "Boujee",
         "url": "https://open.spotify.com/album/0kecOEPFgZ3b6Au59OKVet"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-06-18 21:00:41",
       "album": {
-        "name": "MI BONITA",
-        "url": "https://open.spotify.com/album/3mHebESGf5FB5j3pxu064j"
-      },
-      "artists": [
-        {
-          "name": "M//O",
-          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
-        }
-      ],
-      "duration_ms": 144509,
-      "name": "MI BONITA",
-      "url": "https://open.spotify.com/track/4EtTwz6FYnbe1KySXGcV82"
-    },
-    {
-      "added_at": "2026-06-18 21:00:41",
-      "album": {
         "name": "TYT\u00d6T (feat. VBZ)",
         "url": "https://open.spotify.com/album/4Iw2adhkiSw1ggGxJLmLy7"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 160033,
       "name": "TYT\u00d6T (feat. VBZ)",
       "url": "https://open.spotify.com/track/5U7eSZyxtnftPcVgq9C4GA"
+    },
+    {
+      "added_at": "2026-06-18 21:00:41",
+      "album": {
+        "name": "MI BONITA",
+        "url": "https://open.spotify.com/album/3mHebESGf5FB5j3pxu064j"
+      },
+      "artists": [
+        {
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+        }
+      ],
+      "duration_ms": 144509,
+      "name": "MI BONITA",
+      "url": "https://open.spotify.com/track/4EtTwz6FYnbe1KySXGcV82"
     },
     {
       "added_at": "2026-06-18 21:00:41",
@@ -819,6 +819,26 @@
     {
       "added_at": "2026-06-18 21:00:41",
       "album": {
+        "name": "Viel\u00e4ki t\u00e4\u00e4ll\u00e4 (feat. Senya)",
+        "url": "https://open.spotify.com/album/509rrATqdrU3Jf2GJOFxId"
+      },
+      "artists": [
+        {
+          "name": "Hussa",
+          "url": "https://open.spotify.com/artist/2qBuynC2GNPJW9s4tNBQoG"
+        },
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "duration_ms": 212437,
+      "name": "Viel\u00e4ki t\u00e4\u00e4ll\u00e4 (feat. Senya)",
+      "url": "https://open.spotify.com/track/5DeFROT7Sb4NhrolCXTk9C"
+    },
+    {
+      "added_at": "2026-06-18 21:00:41",
+      "album": {
         "name": "RICK ROSS",
         "url": "https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY"
       },
@@ -851,42 +871,6 @@
     {
       "added_at": "2026-06-18 21:00:41",
       "album": {
-        "name": "Viel\u00e4ki t\u00e4\u00e4ll\u00e4 (feat. Senya)",
-        "url": "https://open.spotify.com/album/509rrATqdrU3Jf2GJOFxId"
-      },
-      "artists": [
-        {
-          "name": "Hussa",
-          "url": "https://open.spotify.com/artist/2qBuynC2GNPJW9s4tNBQoG"
-        },
-        {
-          "name": "Senya",
-          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
-        }
-      ],
-      "duration_ms": 212437,
-      "name": "Viel\u00e4ki t\u00e4\u00e4ll\u00e4 (feat. Senya)",
-      "url": "https://open.spotify.com/track/5DeFROT7Sb4NhrolCXTk9C"
-    },
-    {
-      "added_at": "2026-06-18 21:00:41",
-      "album": {
-        "name": "Autobahn",
-        "url": "https://open.spotify.com/album/38UgXLcxp7CY01IEcyZdzf"
-      },
-      "artists": [
-        {
-          "name": "Kube",
-          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Autobahn",
-      "url": "https://open.spotify.com/track/4LVEvAnfjYuXn1RooKi5Mn"
-    },
-    {
-      "added_at": "2026-06-18 21:00:41",
-      "album": {
         "name": "KUUS KILOO",
         "url": "https://open.spotify.com/album/31zHOqwM0aWiFQ9SXuC8ct"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 131076,
       "name": "KUUS KILOO",
       "url": "https://open.spotify.com/track/0nIOGVOBixtHjHZx3vQiky"
+    },
+    {
+      "added_at": "2026-06-18 21:00:41",
+      "album": {
+        "name": "Autobahn",
+        "url": "https://open.spotify.com/album/38UgXLcxp7CY01IEcyZdzf"
+      },
+      "artists": [
+        {
+          "name": "Kube",
+          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/4LVEvAnfjYuXn1RooKi5Mn"
     },
     {
       "added_at": "2026-06-18 21:00:41",

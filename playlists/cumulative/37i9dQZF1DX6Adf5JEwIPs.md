@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Aldo Trujillo 📸
 
-10,842 songs - 23 day 10 hr 1 min
+10,844 songs - 23 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1441,6 +1441,7 @@
 | [Centro de Atencion \(En Vivo\)](https://open.spotify.com/track/2vBjSW3RnQnEbY6uGkUoFP) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm) | [Centro de Atencion \(En Vivo\)](https://open.spotify.com/album/1hBevbeIe2rseuSIUVZJto) | 3:20 | 2023-12-08 | 2023-12-16 |
 | [Cerca De La Meta](https://open.spotify.com/track/7iC2dWI8m7a1xd6wYvBELS) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Cerca De La Meta](https://open.spotify.com/album/4tSn71N0ljqiKbq4yKOgO8) | 3:10 | 2024-07-05 | 2024-07-13 |
 | [Cerca de Ti](https://open.spotify.com/track/3rPOaM4ZfTkipE7fm9fUtE) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Cerca De Ti](https://open.spotify.com/album/5W7CaLSXyXvaL1xNKDBps9) | 2:43 | 2026-01-09 | 2026-01-17 |
+| [Cereza](https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [Cereza](https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR) | 3:18 | 2026-06-19 |  |
 | [Cero Empatía](https://open.spotify.com/track/03MqlviAY1kvFqdaGl5Mhg) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [¿Quién?](https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy) | 3:09 | 2024-10-25 | 2024-11-09 |
 | [Cero Miedo](https://open.spotify.com/track/0dTIXDuvk0Dn3Vsv4nwmdp) | [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2) | [Cero Miedo](https://open.spotify.com/album/2oyTLS83sdNqDFUotldi0i) | 2:35 | 2026-03-06 | 2026-03-14 |
 | [Cero Miedo](https://open.spotify.com/track/0aIxhILUsgmMFxMXea2u9S) | [Kevin Quiñonez](https://open.spotify.com/artist/2dVmlajjbDnJch05x7OAqP) | [Cero Miedo](https://open.spotify.com/album/55EjewqcJLka0SYcIbXEf5) | 3:17 | 2022-07-15 | 2022-07-23 |
@@ -5631,6 +5632,7 @@
 | [Llórame un Río](https://open.spotify.com/track/6rHEIIg1pf2kRzHlN4N4D1) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Llórame un Río](https://open.spotify.com/album/460SSLvvQjzzzRNjGEYFfJ) | 3:13 | 2025-01-31 | 2025-02-08 |
 | [LMS](https://open.spotify.com/track/2DGwWdqieMX0Eudn0dhDPh) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [LMS](https://open.spotify.com/album/1xSmJfwBb2jIHTxYU0NZmy) | 3:09 | 2025-01-03 | 2025-01-18 |
 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 | 2023-03-10 | 2023-03-18 |
+| [Ln Que Pedo:/?](https://open.spotify.com/track/3BOSQf5gjnAjgEKBxGXmgs) | [Gael Espinoza](https://open.spotify.com/artist/7vwGtdTr1n6j5tVVSud2ht) | [Ln Que Pedo:/?](https://open.spotify.com/album/6dMz7d1rPGNPdoqSzeYaOm) | 2:55 | 2026-06-19 |  |
 | [Lo Acepto](https://open.spotify.com/track/48Szww0CCHHDvdHLdCRCJI) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [El Mismo Loco](https://open.spotify.com/album/1J8M5qIcl72dyB5JiLd2dS) | 2:41 | 2024-09-06 | 2024-09-14 |
 | [Lo Bonito de Sufrir](https://open.spotify.com/track/3p9v4yLOF3XWQHW6WCvwku) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Lo Bonito de Sufrir](https://open.spotify.com/album/72Pm0wNsTgOwRsUdBLTGyZ) | 3:13 | 2026-03-27 | 2026-04-04 |
 | [Lo Bueno Nunca Dura](https://open.spotify.com/track/2XpwCGSbeyxod47jGMrmJy) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Lo Bueno Nunca Dura](https://open.spotify.com/album/5YwsWlpeRNHxTaluFBcRmU) | 3:18 | 2022-09-09 | 2022-09-17 |

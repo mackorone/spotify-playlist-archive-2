@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-03",
-  "description": "Dosis musical para disfrutar el momento. Foto: Nanpa B\u00e1sico",
+  "description": "Dosis musical para disfrutar el momento. Foto: Danny Ocean",
   "name": "Parchadito",
   "tracks": [
     {
@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Alguien aqui",
+        "url": "https://open.spotify.com/album/4gD3yvy16Y9glyQvTAw3Z8"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141874,
+      "name": "Alguien aqui",
+      "url": "https://open.spotify.com/track/1cxiTnSdoLscxNU25iCPg5"
+    },
+    {
+      "album": {
         "name": "Bendito Verano",
         "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
       },
@@ -502,6 +520,24 @@
       "duration_ms": 247346,
       "name": "Aloha Remix",
       "url": "https://open.spotify.com/track/4hpOYMQsjZtYAt7T2KPJ0b"
+    },
+    {
+      "album": {
+        "name": "amoureux",
+        "url": "https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "amoureux",
+      "url": "https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd"
     },
     {
       "album": {
@@ -1135,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/2zoELihgdzNwMCftYhosAI"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134867,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR"
+    },
+    {
+      "album": {
         "name": "Un Verano en Caliyork",
         "url": "https://open.spotify.com/album/4F44LKbwcD0MlXkvYnYl0r"
       },
@@ -1634,7 +1688,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 269960,
       "name": "Descaro 2.0",
       "url": "https://open.spotify.com/track/1W7pLeUgPbFdDzASi4kUFA"
@@ -2185,6 +2239,28 @@
     },
     {
       "album": {
+        "name": "Gidi 2 Caracas (La M\u00fasica)",
+        "url": "https://open.spotify.com/album/2wXcuMCVdvsHaAje0TgNph"
+      },
+      "artists": [
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "Gidi 2 Caracas - La M\u00fasica",
+      "url": "https://open.spotify.com/track/3KDNjufpaTpwTiR9zAxDbY"
+    },
+    {
+      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -2712,7 +2788,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 147600,
       "name": "Lo Que El Corazon Diga",
       "url": "https://open.spotify.com/track/1l0VF3yXnMDQ3EREGXoyJC"
@@ -3179,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "Mil Veces",
+        "url": "https://open.spotify.com/album/7KkxtMpWGKhN71HAKWoiUz"
+      },
+      "artists": [
+        {
+          "name": "Juan Palacio",
+          "url": "https://open.spotify.com/artist/1KTNuIeXk9dBwuqyH7TNXy"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mil Veces",
+      "url": "https://open.spotify.com/track/6GYaCM2ILUZAaW62kqI3sK"
+    },
+    {
+      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
       },
@@ -3370,6 +3464,24 @@
       "duration_ms": 157959,
       "name": "No Le Meten",
       "url": "https://open.spotify.com/track/2nPHB4cuPquIzSo2u4xaaW"
+    },
+    {
+      "album": {
+        "name": "No Llegamos Ni A Febrero",
+        "url": "https://open.spotify.com/album/6aNgiuAeoVLHICmNiZryZo"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178848,
+      "name": "No Llegamos Ni A Febrero",
+      "url": "https://open.spotify.com/track/5yb9zjiSDK9cMBhQxI0TMs"
     },
     {
       "album": {
@@ -3608,7 +3720,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 157884,
       "name": "NUevo",
       "url": "https://open.spotify.com/track/2TBcya0YHEb36zMnYinPEk"
@@ -4112,7 +4224,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 189000,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/724Txk8NEBXqNK7nIvY6MK"
@@ -4996,7 +5108,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 155666,
       "name": "Sustancias",
       "url": "https://open.spotify.com/track/5AwmjqMMYU46Esqe72NBwH"
@@ -5014,7 +5126,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 160645,
       "name": "T O M A !",
       "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
@@ -5058,6 +5170,32 @@
       "duration_ms": 151034,
       "name": "Tarea",
       "url": "https://open.spotify.com/track/2dcsG9tJO9KrC4HOyl8Msu"
+    },
+    {
+      "album": {
+        "name": "TATTUU",
+        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194734,
+      "name": "TATTUU",
+      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
     },
     {
       "album": {
@@ -5186,7 +5324,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 183278,
       "name": "todav\u00edA",
       "url": "https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx"

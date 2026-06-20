@@ -3484,7 +3484,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 219661,
       "name": "it felt different",
       "url": "https://open.spotify.com/track/10lN8OKZbEG2OFFY1Jfwog"
@@ -6081,6 +6081,28 @@
     },
     {
       "album": {
+        "name": "Pra todas",
+        "url": "https://open.spotify.com/album/2v5FoJV0cCNCaAA2fHqKb0"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "Pra todas",
+      "url": "https://open.spotify.com/track/1yZA5pYK0Xhykh0wwjj8hq"
+    },
+    {
+      "album": {
         "name": "Quero",
         "url": "https://open.spotify.com/album/7wNFlxLXby8RduE9xNEjrW"
       },
@@ -6554,7 +6576,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 173750,
       "name": "She Said (Big Jet Plane)",
       "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
@@ -7205,6 +7227,24 @@
     },
     {
       "album": {
+        "name": "Summer Days",
+        "url": "https://open.spotify.com/album/5yt3k4A9Iovid69ic62HGC"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202734,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/14bHw2NS6a0aoMZi7Fbb47"
+    },
+    {
+      "album": {
         "name": "Summer In Your Arms",
         "url": "https://open.spotify.com/album/6yaiVVvpRArCMSyTwrjkg3"
       },
@@ -7250,6 +7290,28 @@
       "duration_ms": 178064,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/2mCDr3iGivDH7rGBVIgkUf"
+    },
+    {
+      "album": {
+        "name": "Sunset In Pretoria",
+        "url": "https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238032,
+      "name": "Sunset In Pretoria",
+      "url": "https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai"
     },
     {
       "album": {
@@ -8248,7 +8310,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 190344,
       "name": "waited a long",
       "url": "https://open.spotify.com/track/7yh8CCk3kEemmXEqk9SFln"

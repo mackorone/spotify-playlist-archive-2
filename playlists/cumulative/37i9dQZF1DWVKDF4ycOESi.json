@@ -61719,6 +61719,24 @@
     },
     {
       "album": {
+        "name": "Fuori dai club",
+        "url": "https://open.spotify.com/album/4bjmH3BjCCBa76ppWoZQ7p"
+      },
+      "artists": [
+        {
+          "name": "CARA",
+          "url": "https://open.spotify.com/artist/5zB3Q6zAf7VWq0cfiHgzqf"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191283,
+      "name": "Fuori dai club",
+      "url": "https://open.spotify.com/track/5VsSViJxzisps3s74WI3VP"
+    },
+    {
+      "album": {
         "name": "Fuori dal Blu",
         "url": "https://open.spotify.com/album/5vLXJnnIjNsnewnL7pWG8m"
       },
@@ -159827,6 +159845,28 @@
     },
     {
       "album": {
+        "name": "Sunset In Pretoria",
+        "url": "https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238032,
+      "name": "Sunset In Pretoria",
+      "url": "https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi"
       },
@@ -170042,24 +170082,6 @@
       "duration_ms": 187500,
       "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
-    },
-    {
-      "album": {
-        "name": "Fuori dai club",
-        "url": "https://open.spotify.com/album/4bjmH3BjCCBa76ppWoZQ7p"
-      },
-      "artists": [
-        {
-          "name": "CARA",
-          "url": "https://open.spotify.com/artist/5zB3Q6zAf7VWq0cfiHgzqf"
-        }
-      ],
-      "date_added": "2026-06-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/5VsSViJxzisps3s74WI3VP"
     },
     {
       "album": {

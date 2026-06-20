@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 2009,
+  "num_followers": 2010,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAAA9GhuuWKt8jv3RXXeJshyK",
+  "snapshot_id": "ajM1AAAAAAAXHXQSdvKlOar1VhvSQke4",
   "tracks": [
     {
       "added_at": null,
@@ -71,30 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/3nY93SfZCct3t9lfXYrYtt"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Einaudi: Una mattina",
-      "url": "https://open.spotify.com/track/0rFdP3ZfwsUajBLUuex0Kb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elgar: Cello Concerto in E Minor, Op. 85: III. Adagio",
         "url": "https://open.spotify.com/album/5GRQgouohxuDxhd6ujam3d"
       },
@@ -119,6 +95,30 @@
       "duration_ms": 298853,
       "name": "Elgar: Cello Concerto in E Minor, Op. 85: III. Adagio",
       "url": "https://open.spotify.com/track/3eLTSI4vKo5mUF12oVQnlH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/3nY93SfZCct3t9lfXYrYtt"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Einaudi: Una mattina",
+      "url": "https://open.spotify.com/track/0rFdP3ZfwsUajBLUuex0Kb"
     },
     {
       "added_at": null,
@@ -575,30 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rachmaninoff: Cello Sonata in G Minor, Op. 19",
-        "url": "https://open.spotify.com/album/6hYcC80EgYG89s5F1IHfRe"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 339506,
-      "name": "Cello Sonata in G Minor, Op. 19: III. Andante",
-      "url": "https://open.spotify.com/track/67MUWIB8YlTQ0oOsAEUuZa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dunckel: Wake",
         "url": "https://open.spotify.com/album/2zeTlmZZd3oGnJTDq2FgsZ"
       },
@@ -619,6 +595,22 @@
       "duration_ms": 252866,
       "name": "Wake",
       "url": "https://open.spotify.com/track/1dQURFJy6aduSwPhK5wMbg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Einaudi: Air",
+        "url": "https://open.spotify.com/album/4LVYd1Q5TTEDf7th9MMi1Z"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 249346,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/2yllYHj6bUXrivkzVPMItX"
     },
     {
       "added_at": null,
@@ -655,18 +647,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Einaudi: Air",
-        "url": "https://open.spotify.com/album/4LVYd1Q5TTEDf7th9MMi1Z"
+        "name": "Rachmaninoff: Cello Sonata in G Minor, Op. 19",
+        "url": "https://open.spotify.com/album/6hYcC80EgYG89s5F1IHfRe"
       },
       "artists": [
         {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
         }
       ],
-      "duration_ms": 249346,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/2yllYHj6bUXrivkzVPMItX"
+      "duration_ms": 339506,
+      "name": "Cello Sonata in G Minor, Op. 19: III. Andante",
+      "url": "https://open.spotify.com/track/67MUWIB8YlTQ0oOsAEUuZa"
     },
     {
       "added_at": null,
@@ -1243,6 +1243,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sensations",
+        "url": "https://open.spotify.com/album/0nVAQLpoiKnF4zAVoNeEVq"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Johanna Malangr\u00e9",
+          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
+        },
+        {
+          "name": "Orchestre national de Bretagne",
+          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Nessun dorma (From \"Turandot\")",
+      "url": "https://open.spotify.com/track/5ylSlIKVbQQDnkEuLwgqmw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sensations - La vie en rose",
         "url": "https://open.spotify.com/album/3pe7hdB8lRhFolNvaV0Ubi"
       },
@@ -1271,34 +1299,6 @@
       "duration_ms": 264013,
       "name": "La vie en rose",
       "url": "https://open.spotify.com/track/4uDiP7xdjkD5fYhS6fypp8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sensations",
-        "url": "https://open.spotify.com/album/0nVAQLpoiKnF4zAVoNeEVq"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Johanna Malangr\u00e9",
-          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
-        },
-        {
-          "name": "Orchestre national de Bretagne",
-          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Nessun dorma (From \"Turandot\")",
-      "url": "https://open.spotify.com/track/5ylSlIKVbQQDnkEuLwgqmw"
     },
     {
       "added_at": null,

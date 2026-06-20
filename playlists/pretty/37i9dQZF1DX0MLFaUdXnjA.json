@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to the chillest pop.  Cover: AD\u00c9LA",
-  "num_followers": 1787530,
+  "num_followers": 1787307,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACaStX/mTb1J76wQTZWXUHr0qxBh",
+  "snapshot_id": "AAAAAATTYqbVSjKqpurQtNbvtsY/cDjj",
   "tracks": [
     {
       "added_at": "2026-06-12 04:11:55",
@@ -39,6 +39,22 @@
       "duration_ms": 223332,
       "name": "Mexico Honey",
       "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+    },
+    {
+      "added_at": "2026-06-19 04:01:10",
+      "album": {
+        "name": "after all",
+        "url": "https://open.spotify.com/album/7lzGyOwEpw8hCGQge8SS2D"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 193056,
+      "name": "after all",
+      "url": "https://open.spotify.com/track/4UCuyeaovBIUlyeecxU9Q4"
     },
     {
       "added_at": "2026-06-12 04:52:03",
@@ -503,22 +519,6 @@
       "duration_ms": 185992,
       "name": "Nothing Like Hollywood",
       "url": "https://open.spotify.com/track/52cP6CHMCWQc6s1XItREqg"
-    },
-    {
-      "added_at": "2026-05-15 04:01:37",
-      "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/2Agpx4O43voM4HbvPJZ6cv"
-      },
-      "artists": [
-        {
-          "name": "Kevin Jonas",
-          "url": "https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu"
-        }
-      ],
-      "duration_ms": 175961,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/5f0SfZp3LqbA1Ny6L4v15U"
     },
     {
       "added_at": "2026-05-08 04:01:35",

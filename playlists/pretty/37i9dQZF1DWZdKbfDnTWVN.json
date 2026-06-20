@@ -1,12 +1,12 @@
 {
   "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl?si=mHDa1yRURWKIxNU4bmrDMQ\"> Steph Kapela</a> ",
-  "num_followers": 22714,
+  "num_followers": 22721,
   "original_name": "254 Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE/8jtfRCzFjo5ZOTQLW4FDY3alh",
+  "snapshot_id": "AAAAAMlCndASwhcFC8cs4dFIJNLaX9yW",
   "tracks": [
     {
       "added_at": "2026-06-18 23:59:33",
@@ -23,6 +23,34 @@
       "duration_ms": 200000,
       "name": "LAST DANCE",
       "url": "https://open.spotify.com/track/3D7wEIwqXryatRi2xeFM3j"
+    },
+    {
+      "added_at": "2026-06-19 05:24:29",
+      "album": {
+        "name": "Shengspeare",
+        "url": "https://open.spotify.com/album/3IgjIy4eLYkYQfB73q63NT"
+      },
+      "artists": [
+        {
+          "name": "GTB Emzee",
+          "url": "https://open.spotify.com/artist/75pIMAgNt4bf8OWBW8eImv"
+        },
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        },
+        {
+          "name": "Lecco",
+          "url": "https://open.spotify.com/artist/7zLXHKSY0PTkpjE0KKQDy7"
+        },
+        {
+          "name": "AUGUST IV",
+          "url": "https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "O.P.W",
+      "url": "https://open.spotify.com/track/5NnjyoTQqukaz2cFWlUbxQ"
     },
     {
       "added_at": "2026-06-18 23:59:33",
@@ -207,6 +235,26 @@
       "duration_ms": 217522,
       "name": "Very Bad",
       "url": "https://open.spotify.com/track/2eghpMUR7JXx8WxyN7eACl"
+    },
+    {
+      "added_at": "2026-06-19 05:24:29",
+      "album": {
+        "name": "MAFRANKOOO",
+        "url": "https://open.spotify.com/album/3o0Fzphu8K4Tk2JqNQ0c0M"
+      },
+      "artists": [
+        {
+          "name": "4Mr Frank White",
+          "url": "https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6"
+        },
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "duration_ms": 192537,
+      "name": "Mwachie",
+      "url": "https://open.spotify.com/track/7gf8MywNXvFGRPeloXPUgY"
     },
     {
       "added_at": "2026-06-18 23:59:33",
@@ -779,22 +827,6 @@
     {
       "added_at": "2026-06-18 23:59:33",
       "album": {
-        "name": "Run Nairobi",
-        "url": "https://open.spotify.com/album/0DGSwsHAigZSzKmm569ewS"
-      },
-      "artists": [
-        {
-          "name": "HITMAN KAHT",
-          "url": "https://open.spotify.com/artist/6kPTEaWcNadrTgbT89FmNi"
-        }
-      ],
-      "duration_ms": 223014,
-      "name": "Run Nairobi",
-      "url": "https://open.spotify.com/track/6gOhSNtadzamlSselRjPqD"
-    },
-    {
-      "added_at": "2026-06-18 23:59:33",
-      "album": {
         "name": "THE BOOK OF JONES 1st CHAPTER",
         "url": "https://open.spotify.com/album/3dVeAYbIiL1etx0BJ1gYe9"
       },
@@ -915,22 +947,6 @@
       "duration_ms": 170746,
       "name": "Vurugu",
       "url": "https://open.spotify.com/track/0sHUcLFeE5X7z61r3OC2oA"
-    },
-    {
-      "added_at": "2026-06-18 23:59:33",
-      "album": {
-        "name": "Weyuat",
-        "url": "https://open.spotify.com/album/6LUXYt1QMVGt38H1fLWARr"
-      },
-      "artists": [
-        {
-          "name": "Khaligraph Jones",
-          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
-        }
-      ],
-      "duration_ms": 201064,
-      "name": "Weyuat",
-      "url": "https://open.spotify.com/track/0lQrV1lpPriQmwdwxPcQkg"
     },
     {
       "added_at": "2026-06-18 23:59:33",

@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "ANNAMMA",
+        "url": "https://open.spotify.com/album/5WBhEzR8FZtvmqU4Azp39d"
+      },
+      "artists": [
+        {
+          "name": "Cheithanya",
+          "url": "https://open.spotify.com/artist/4Zr9yY3UDbqyE6sJqI7ueB"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185038,
+      "name": "ANNAMMA",
+      "url": "https://open.spotify.com/track/3aSiutIpQwkCWAeHRUmaof"
+    },
+    {
+      "album": {
         "name": "Antariksha",
         "url": "https://open.spotify.com/album/67fzzYghJI5aPHJCwokERt"
       },
@@ -1986,6 +2004,24 @@
       "duration_ms": 336697,
       "name": "Bidudilla Geleya Ninna",
       "url": "https://open.spotify.com/track/7igz8Qb3zV93km5ZjLIDKD"
+    },
+    {
+      "album": {
+        "name": "Bloody Wild",
+        "url": "https://open.spotify.com/album/7dh7Zv1652y0GVfMP4yvNX"
+      },
+      "artists": [
+        {
+          "name": "Sachin Villu",
+          "url": "https://open.spotify.com/artist/1zC2OL3O5jPFYoNt7N6N2G"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136939,
+      "name": "Bloody Wild",
+      "url": "https://open.spotify.com/track/6gzZgFK2eBSTjM9UWzEtbj"
     },
     {
       "album": {
@@ -3318,6 +3354,28 @@
       "duration_ms": 195500,
       "name": "En\u00e9no Aase",
       "url": "https://open.spotify.com/track/13EPhdmnXGNtxtdorPMGkU"
+    },
+    {
+      "album": {
+        "name": "En\u00e9no Aase (Dubstep Remix)",
+        "url": "https://open.spotify.com/album/6pqNjGsP8ooFCCz0FEtyEM"
+      },
+      "artists": [
+        {
+          "name": "Aryamanu Baloji",
+          "url": "https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp"
+        },
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231778,
+      "name": "En\u00e9no Aase (Dubstep Remix)",
+      "url": "https://open.spotify.com/track/1dVIYUeBMRBkfiXFctcbMn"
     },
     {
       "album": {
@@ -8984,6 +9042,24 @@
       "duration_ms": 201307,
       "name": "Nannale Iruve",
       "url": "https://open.spotify.com/track/2y2IxFZjCEyKJeKDMDZ5d8"
+    },
+    {
+      "album": {
+        "name": "Nannavale",
+        "url": "https://open.spotify.com/album/6olXD0bAZYJN5HjjP28Upd"
+      },
+      "artists": [
+        {
+          "name": "Curry",
+          "url": "https://open.spotify.com/artist/1sHWKJ2CYul8vAS8wL2Yl5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Nannavale",
+      "url": "https://open.spotify.com/track/3OS7pl10PHd4JBtJQZSz9K"
     },
     {
       "album": {

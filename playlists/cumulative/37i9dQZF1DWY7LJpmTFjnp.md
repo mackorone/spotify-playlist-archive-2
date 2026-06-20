@@ -2,9 +2,9 @@
 
 ### [La + Chingona](https://open.spotify.com/playlist/37i9dQZF1DWY7LJpmTFjnp)
 
-> Una dosis con lo más chingón pa'l gusto mexicano,  Fito Páez en portada.
+> Una dosis con lo más chingón pa'l gusto mexicano,  Cuca en portada.
 
-384 songs - 23 hr 46 min
+385 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Invencibles](https://open.spotify.com/track/40xJUJrqsFacqj2OGBtW2g) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD) | [Invencibles](https://open.spotify.com/album/3Qljw6pn2N8Fhn7erW5Ppk) | 4:05 | 2025-10-17 | 2025-12-13 |
 | [Jamás](https://open.spotify.com/track/3dLAotJ6GujWNHJQjqox2J) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Jamás](https://open.spotify.com/album/2fhb5Jrtb7XRSqEvc1kzyH) | 4:26 | 2025-07-18 | 2025-08-23 |
 | [Juan el Descuartizador](https://open.spotify.com/track/7Dh45ouPTSqztckOTIJXNQ) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [José Andrëa](https://open.spotify.com/artist/3gxND003R6Jf4U41ODfMFJ), [Kabrönes](https://open.spotify.com/artist/7daRDWS4dMeyuIeieB6oSS) | [Juan el Descuartizador](https://open.spotify.com/album/4wXmyG5vYdxGVlvkIBxm7S) | 3:01 | 2026-04-03 | 2026-05-02 |
-| [Juguete](https://open.spotify.com/track/1AP0YC81s5Gxk3wUIoQE5Q) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Juguete](https://open.spotify.com/album/1SEsHTEsKqNHVogHOV96xT) | 3:36 | 2025-06-20 |  |
+| [Juguete](https://open.spotify.com/track/1AP0YC81s5Gxk3wUIoQE5Q) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Juguete](https://open.spotify.com/album/1SEsHTEsKqNHVogHOV96xT) | 3:36 | 2025-06-20 | 2026-06-20 |
 | [Karmadame](https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:44 | 2024-02-02 |  |
 | [King of Watches](https://open.spotify.com/track/47ovAtI7DPTKTPbyRsqHmc) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Nunca Voy a Morir](https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy) | 2:27 | 2026-06-12 |  |
 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 | 2022-04-19 |  |
@@ -342,6 +342,7 @@
 | [Te Odio y Te Quiero](https://open.spotify.com/track/2jezH0QQ6Eatu4xuP76Eir) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Pinche Amor](https://open.spotify.com/album/5eimAhBgq83zYg7C0vckXc) | 2:36 | 2023-03-23 | 2023-07-22 |
 | [Te quiero](https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te quiero](https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe) | 3:34 | 2024-02-15 |  |
 | [Tema de Adrián](https://open.spotify.com/track/2x9hAIqH7yQiAdGWutAI1S) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Tema de Adrián](https://open.spotify.com/album/1bF3ocG1KstRDKRXwEsjjB) | 3:00 | 2024-03-04 | 2024-07-22 |
+| [Tempestades](https://open.spotify.com/track/19OvviVpEn8Geqnuc4ZEdW) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [Tempestades](https://open.spotify.com/album/2f1loAzfVS23pWN5du3WzW) | 4:40 | 2026-06-19 |  |
 | [Tengo un mes con el mismo pantalón](https://open.spotify.com/track/6qzyLZX4s24iCB5AI8Xenv) | [Ricky Luis](https://open.spotify.com/artist/5AuBm72UJZcnMDCG1Ar3Vb) | [Absolutamente Lo Mejor](https://open.spotify.com/album/0qPgD8NiIxP96puwmuGwSq) | 3:16 | 2023-04-28 | 2023-09-09 |
 | [Tenochtitlán](https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tenochtitlán](https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf) | 4:13 | 2023-09-01 | 2026-02-23 |
 | [The Gringos are Coming](https://open.spotify.com/track/5gDE5Slmk3Nnida9WJTHWz) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [The Gringos are Coming](https://open.spotify.com/album/59DibxXOiAi0mrEHxLL4vn) | 4:19 | 2023-06-16 | 2023-07-22 |

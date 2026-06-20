@@ -4,7 +4,7 @@
 
 > Enjoy your favorite Disney tunes, including "Zoo" from Zootopia 2!
 
-228 songs - 11 hr 47 min
+229 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Heigh\-Ho](https://open.spotify.com/track/4OkD0WYpUTu8eJcDDVJERl) | [The Dwarf Chorus](https://open.spotify.com/artist/6oyAC5MXCvdwRH2bpPOmYz) | [Snow White and the Seven Dwarfs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk) | 2:46 | 2023-05-15 |  |
 | [Here Comes Elastigirl \- Elastigirl's Theme](https://open.spotify.com/track/0mL1awDtKnXGZUVE2ijGIc) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Incredibles 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO) | 1:23 | 2021-11-19 | 2023-05-16 |
 | [Hi\-Diddle\-Dee\-Dee \(An Actor's Life for Me\)](https://open.spotify.com/track/1eM1TAhv39wg4LY7XmtqoL) | [Walter Catlett](https://open.spotify.com/artist/1yCdvNCmOAMzEqOcw3CvHF) | [Pinocchio](https://open.spotify.com/album/5zsAzctyWGNrchLWXFvKgz) | 1:40 | 2023-05-15 |  |
+| [Hoedown Throwdown](https://open.spotify.com/track/6ntkwU1MhehTKgx4BWxX3f) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:01 | 2026-06-19 |  |
 | [How Does A Moment Last Forever \(Music Box\)](https://open.spotify.com/track/4LMBbdkL1YCzC2d4k39Ulu) | [Kevin Kline](https://open.spotify.com/artist/7dkk0DGuwAkpzpJRXpUGiZ) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3yHqth7pPn4juBh8gxbyjb) | 0:59 | 2021-11-19 | 2022-07-29 |
 | [How Does A Moment Last Forever \(Music Box\)](https://open.spotify.com/track/01E4XLmGfZj86FUxmRTOGD) | [Kevin Kline](https://open.spotify.com/artist/0ANX5mz4DX0JwNq78AB2zj) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 1:03 | 2022-02-25 | 2023-05-16 |
 | [How Does A Moment Last Forever \(Music Box\) \- Demo](https://open.spotify.com/track/2IO6GFzqsJTxOvGxL573tk) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 0:59 | 2022-11-05 | 2022-11-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,838 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,870 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 53 | [Let It Ride](https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Into the Blue](https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL) | 7:28 |
 | 54 | [Candy](https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Daylight Express](https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN) | 2:25 |
 | 55 | [You're the Cream in My Coffee](https://open.spotify.com/track/7qknVmDKIi9ml9qhyatq8g) | [Cat Anderson & His Orchestra](https://open.spotify.com/artist/4XurbHWJ8ybBqnz9dcYT2Z), [Jimmy Jones](https://open.spotify.com/artist/0VKW7nrPpyh3PDmMUiZv9P), [Jimmy Cleveland](https://open.spotify.com/artist/6O7VJ0WMXn3zPa5X59iimd) | [Cat's in the Alley](https://open.spotify.com/album/2s5MexPafZuOxmXJSJhsI0) | 3:12 |
-| 56 | [Stockholm Sweetnin'](https://open.spotify.com/track/2HTLAtih08iTty4hT6r8bj) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u), [Swedish All Stars](https://open.spotify.com/artist/2IeJ4FAeqqVo02SS62DzoG) | [With The Swedish All Stars Vol\. 1](https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv) | 5:20 |
-| 57 | [Response \- Live](https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [A Rift In Decorum: Live At The Village Vanguard](https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb) | 5:37 |
+| 56 | [Response \- Live](https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [A Rift In Decorum: Live At The Village Vanguard](https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb) | 5:37 |
+| 57 | [Stockholm Sweetnin'](https://open.spotify.com/track/2HTLAtih08iTty4hT6r8bj) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u), [Swedish All Stars](https://open.spotify.com/artist/2IeJ4FAeqqVo02SS62DzoG) | [With The Swedish All Stars Vol\. 1](https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv) | 5:20 |
 | 58 | [Die Weisheit von Le Comte Lautréamont](https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03) | [Tomasz Stańko](https://open.spotify.com/artist/65WFsTQhFYVqbovrVZAOd7), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Tony Oxley](https://open.spotify.com/artist/38hAXjCbg6MlaUqFpdNB03) | [Leosia](https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4) | 6:07 |
 | 59 | [I Lost My Gal from Memphis](https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK) | [Bubber Miley](https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT) | [Thumpin' & Bumpin' \- New York, Vol\. 2](https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv) | 2:59 |
 | 60 | [Dear Old Stockholm](https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Simply Stated](https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK) | 10:00 |

@@ -1,6 +1,6 @@
 {
   "description": "aqu\u00ed est\u00e1n las joyas escondidas del 2025, elegidas por tus editores \ud83d\ude42\u200d\u2195\ufe0f",
-  "num_followers": 104768,
+  "num_followers": 104771,
   "original_name": "Las favoritas de tus editores 2025",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "C.A.P.S",
+        "url": "https://open.spotify.com/album/6HlzENT5LIAZoVq8LjP0iR"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "duration_ms": 163812,
+      "name": "No estaba tan mal",
+      "url": "https://open.spotify.com/track/3xSBUtVPeIxD9kiLHcKxx7"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "Quiz\u00e1 no es para tanto",
         "url": "https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 236130,
       "name": "pens\u00e9 en ti (feat. Caloncho)",
       "url": "https://open.spotify.com/track/46Z3waLIm9pBhiI5dA6dyt"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "C.A.P.S",
-        "url": "https://open.spotify.com/album/6HlzENT5LIAZoVq8LjP0iR"
-      },
-      "artists": [
-        {
-          "name": "Oney1",
-          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
-        }
-      ],
-      "duration_ms": 163812,
-      "name": "No estaba tan mal",
-      "url": "https://open.spotify.com/track/3xSBUtVPeIxD9kiLHcKxx7"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1455,22 +1455,18 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Boleros Psicod\u00e9licos II",
-        "url": "https://open.spotify.com/album/12gMpdC16uCaCJk3qdrtkW"
+        "name": "La Cruz De Mi Conciencia",
+        "url": "https://open.spotify.com/album/6vBoHwzDVVsXX0kTKxEJI8"
       },
       "artists": [
         {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Vac\u00edos Cuerpos",
+          "url": "https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6"
         }
       ],
-      "duration_ms": 232120,
-      "name": "Ojos Secos (with Cuco)",
-      "url": "https://open.spotify.com/track/1s271I2cbxYZDrLy3xOFrE"
+      "duration_ms": 216014,
+      "name": "Entre Sombras",
+      "url": "https://open.spotify.com/track/5PxpdL4bx14onNU1BVlSrA"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1499,18 +1495,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "La Cruz De Mi Conciencia",
-        "url": "https://open.spotify.com/album/6vBoHwzDVVsXX0kTKxEJI8"
+        "name": "Boleros Psicod\u00e9licos II",
+        "url": "https://open.spotify.com/album/12gMpdC16uCaCJk3qdrtkW"
       },
       "artists": [
         {
-          "name": "Vac\u00edos Cuerpos",
-          "url": "https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6"
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 216014,
-      "name": "Entre Sombras",
-      "url": "https://open.spotify.com/track/5PxpdL4bx14onNU1BVlSrA"
+      "duration_ms": 232120,
+      "name": "Ojos Secos (with Cuco)",
+      "url": "https://open.spotify.com/track/1s271I2cbxYZDrLy3xOFrE"
     },
     {
       "added_at": "2025-12-03 13:16:51",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Gabriel EMC",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Tercer Cielo",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 192085,
       "name": "Amor Especial",
       "url": "https://open.spotify.com/track/2vEqGa4ZbAilkux7z3X7YJ"
@@ -6694,7 +6694,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 453704,
       "name": "Eres Santo",
       "url": "https://open.spotify.com/track/5LdMz5vn33zSTkGk5M3HpZ"
@@ -12465,6 +12465,24 @@
     },
     {
       "album": {
+        "name": "No Me Sueltes",
+        "url": "https://open.spotify.com/album/1uJlORkhvuiSzqKUO9zZeE"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195357,
+      "name": "No Me Sueltes",
+      "url": "https://open.spotify.com/track/2KIprcvBv1CU1NETVQMpGk"
+    },
+    {
+      "album": {
         "name": "No Necesito Doctor.",
         "url": "https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg"
       },
@@ -14000,6 +14018,24 @@
       "duration_ms": 492206,
       "name": "Pr\u00edncipe de paz",
       "url": "https://open.spotify.com/track/2bQJg9yqWio0X79c6jpCQn"
+    },
+    {
+      "album": {
+        "name": "PUDE VOLVER",
+        "url": "https://open.spotify.com/album/4tx0b9CeJbaOAXCM7ldZgE"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9nesis Col\u00f3n",
+          "url": "https://open.spotify.com/artist/0kMN6WLuNDVrhRH88IMCzE"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417857,
+      "name": "PUDE VOLVER",
+      "url": "https://open.spotify.com/track/7KCVkeX3aDNDtVFnogUeXv"
     },
     {
       "album": {

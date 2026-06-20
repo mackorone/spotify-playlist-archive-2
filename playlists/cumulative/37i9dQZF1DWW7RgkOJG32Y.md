@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Trending for a reason \- the home of country's future monster hits\. Cover: Shaboozey
+> Trending for a reason \- the home of country's future monster hits\. Cover: Cody Johnson
 
 666 songs - 1 day 11 hr 59 min
 

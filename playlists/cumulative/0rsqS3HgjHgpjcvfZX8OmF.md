@@ -2,7 +2,7 @@
 
 ### [New Rock Music](https://open.spotify.com/playlist/0rsqS3HgjHgpjcvfZX8OmF)
 
-> The best and latest rock and alternative\. Cover:  mgk &amp; Fred Durst
+> The best and latest rock and alternative\. Cover:  Arkells
 
 319 songs - 19 hr 4 min
 

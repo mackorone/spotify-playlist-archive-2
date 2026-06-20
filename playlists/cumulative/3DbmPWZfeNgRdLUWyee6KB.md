@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,205 songs - 2 day 22 hr 14 min
+1,208 songs - 2 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Coming on Too Strong](https://open.spotify.com/track/5CIfISXBoPboo4otAbYT2A) | [Cael Dadian](https://open.spotify.com/artist/46jXUfvQSM7aDYDv7YadFU), [Grace Marie Glenn](https://open.spotify.com/artist/4MX6ZaxWVv7ucry2Ln7qSS) | [Coming on Too Strong](https://open.spotify.com/album/7BOClUiiGklgrRkN4aECsV) | 2:49 | 2026-06-11 |  |
 | [Como un haz de luz](https://open.spotify.com/track/04XWohJeHUzAyQqLF9yK4x) | [Shoni Shed](https://open.spotify.com/artist/0DYNizLSPnjfU0cK1W9CLD) | [Silencio Vivo](https://open.spotify.com/album/3cn6VKPGgmkJe6zKprMEpj) | 3:48 | 2025-12-17 | 2026-01-15 |
 | [Confession to Make](https://open.spotify.com/track/4BWbeI8yxhm6syj4P3K9yl) | [DJ Kosho](https://open.spotify.com/artist/4v0mYxAmKlG7pDYuiUfm87) | [Confession to Make](https://open.spotify.com/album/45O096QdrsBc5oRpQ7kVi2) | 3:53 | 2026-04-07 | 2026-05-03 |
+| [Cool](https://open.spotify.com/track/0lEyuxEtiz90tgC542d3Iz) | [Tim Allan](https://open.spotify.com/artist/1PAvHNGevlHvYXRC5JityS) | [Not the Bad Boy](https://open.spotify.com/album/4fHVgR7PMm8nO8FPpaxIx1) | 2:45 | 2026-06-19 |  |
 | [Cool Breeze](https://open.spotify.com/track/0uX7UsvCZzbjbJsFyqbdUR) | [Ben Carringer](https://open.spotify.com/artist/5Xs7la5VzfvqDJD2KfVhL6) | [Cool Breeze](https://open.spotify.com/album/5mcOE9xiQGH9rvaAW1H8Op) | 3:35 | 2026-03-03 | 2026-03-25 |
 | [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 | 2026-03-30 | 2026-05-03 |
 | [Corações em Flamas](https://open.spotify.com/track/6fLR45wa3pKdrP5WcAnxXK) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Corações em Flamas](https://open.spotify.com/album/45A7R9um3ebUebMzYigDMa) | 3:46 | 2026-03-23 | 2026-05-03 |
@@ -449,6 +450,7 @@
 | [I Love You More](https://open.spotify.com/track/7yvEjVqM9yzjaJO4GoqlNa) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [I Love You More](https://open.spotify.com/album/6a5LYuzQ3FuyEexUhvyFhp) | 3:33 | 2026-03-19 | 2026-04-22 |
 | [I Might Be An Alien](https://open.spotify.com/track/1AkOkTeSG7FwD5gIc8gnmI) | [Lee Switzer\-Woolf](https://open.spotify.com/artist/39FQMAp2C86W7yagW3n43h) | [I Might Be An Alien](https://open.spotify.com/album/0frOpLxlwSl0yT1vNOVtLt) | 3:54 | 2026-03-30 | 2026-05-03 |
 | [I Miss You](https://open.spotify.com/track/1eOKhyrLngwYxGKtqB1zFI) | [ILEKTRA](https://open.spotify.com/artist/1KSXF3RslyOfUJzkaxb6o1) | [I Miss You](https://open.spotify.com/album/7pQNFSf3imjlVyMrusJpMZ) | 2:48 | 2026-04-06 | 2026-05-03 |
+| [I Need To Know](https://open.spotify.com/track/1vLPOm6bkp4ui1nsxAPxp2) | [1976Piano/MJM](https://open.spotify.com/artist/51dGdERH5AOJVfardvCpi3) | [I Need To Know](https://open.spotify.com/album/5d1RZzDjTxXqzfPS2TVzm4) | 2:27 | 2026-06-19 |  |
 | [I painted our kitchen](https://open.spotify.com/track/0M7wvy5zekMKNkGrT1WMsB) | [Heather Bond](https://open.spotify.com/artist/20sShzubGeYpYFNoDY11sK) | [somewhere out there](https://open.spotify.com/album/3b7kPzUL5gR4JKTAAGjDGQ) | 4:44 | 2026-02-04 | 2026-03-07 |
 | [I RAGAZZI DEL 2020](https://open.spotify.com/track/4KqNZui4229o3aQu6i175G) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [I RAGAZZI DEL 2020](https://open.spotify.com/album/1WIXpY3RQ4b8pHn40b1nP8) | 4:31 | 2025-12-22 | 2026-01-24 |
 | [I Remember](https://open.spotify.com/track/1g6A2VknXWthpFdIABD7TL) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [I Remember](https://open.spotify.com/album/329hvLLTQfamreFNuFYLy5) | 2:10 | 2025-10-02 | 2025-11-29 |
@@ -981,6 +983,7 @@
 | [Teal Waves And Rum Nights](https://open.spotify.com/track/0mLFAl3zHncCDtAhjF3Pjh) | [The Florida Shipwreckers](https://open.spotify.com/artist/1BMsaOL5sPmOIbec8WUFl4) | [Daiquiris and Sandy Knees](https://open.spotify.com/album/73iwb1DaCm4T15RTf77lAj) | 4:04 | 2026-01-26 | 2026-02-28 |
 | [Tears](https://open.spotify.com/track/71KWkDcT5lwG1dG2mCf5vu) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0) | [Tears](https://open.spotify.com/album/1aF7rNMvxmQxTxRkGy6pUi) | 3:29 | 2026-03-18 | 2026-04-22 |
 | [Tell Me Where The Light's Gone](https://open.spotify.com/track/1CV0dfCgjLoZbj3ysBndNU) | [Mitch Meyer](https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk) | [Tell Me Where The Light's Gone](https://open.spotify.com/album/6614ReT8bDTay3fLxIYd4U) | 3:20 | 2026-05-19 |  |
+| [Temporale](https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Temporale](https://open.spotify.com/album/1GzSHr7iwT76nRnL2zRHh0) | 2:32 | 2026-06-19 |  |
 | [Temptation](https://open.spotify.com/track/2vYEf6osvIaDzuCYpmshkJ) | [VKB Band](https://open.spotify.com/artist/4z5Gn36zfWAKYW3jut0Pop) | [Yesterday is Here](https://open.spotify.com/album/5lMe79wBPvY7rPZzlbvi1j) | 2:40 | 2026-01-20 | 2026-02-20 |
 | [Tengo](https://open.spotify.com/track/3kNqJjZyw1IC49IafzLZGm) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Entre gargantas y oídos](https://open.spotify.com/album/3kh5AEj633mAw7PNRdkctx) | 2:50 | 2025-11-25 | 2026-01-05 |
 | [Tere Ishq Mai](https://open.spotify.com/track/6noYEFKEF9mYBVsBbMXhKU) | [DrXHassan](https://open.spotify.com/artist/7IYdWmzwMltrg8VhYrnvKJ) | [Tere Ishq Mai](https://open.spotify.com/album/08kUqXUD2VATh2vKUcn6JT) | 3:54 | 2026-01-26 | 2026-02-28 |

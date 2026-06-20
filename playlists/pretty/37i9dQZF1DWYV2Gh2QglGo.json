@@ -1,13 +1,45 @@
 {
-  "description": "The home of Canadian country music. Cover: Emmett Jerome",
-  "num_followers": 84058,
+  "description": "The home of Canadian country music. Cover: Blue Ridge Band",
+  "num_followers": 84063,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJAakwrNTdmzWGkHfPTX6PP1VeWD",
+  "snapshot_id": "AAAAAKdA5V0RWCVKfRvp6kj+1+ajFLnp",
   "tracks": [
+    {
+      "added_at": "2026-06-19 04:03:02",
+      "album": {
+        "name": "Loving You is Easy",
+        "url": "https://open.spotify.com/album/5nNHqIN72ywikkPkeqzwsI"
+      },
+      "artists": [
+        {
+          "name": "Blue Ridge Band",
+          "url": "https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u"
+        }
+      ],
+      "duration_ms": 166748,
+      "name": "Loving You is Easy",
+      "url": "https://open.spotify.com/track/4j8fn1y5LlDj6hsa4jwlRq"
+    },
+    {
+      "added_at": "2026-06-19 04:03:02",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7aGsBuUGlIAnqw7WL8YCIU"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mason",
+          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1LhHbN4mhvDMMxNSmu309U"
+    },
     {
       "added_at": "2026-06-12 04:03:11",
       "album": {
@@ -121,6 +153,22 @@
       "url": "https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD"
     },
     {
+      "added_at": "2026-06-19 04:03:02",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/2ZgnqafVCj78rO9kTGwPVS"
+      },
+      "artists": [
+        {
+          "name": "Brian John Harwood",
+          "url": "https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/14PPOwZGiNdxa9CtYLitR2"
+    },
+    {
       "added_at": "2026-06-12 04:03:11",
       "album": {
         "name": "GIRLFRIENDS BEWARE",
@@ -185,6 +233,22 @@
       "url": "https://open.spotify.com/track/1hWt5sMeyacK7IwXm4vKMq"
     },
     {
+      "added_at": "2026-06-19 04:03:02",
+      "album": {
+        "name": "Living For Friday Night",
+        "url": "https://open.spotify.com/album/45gfFxEmg2mJGYIDUQ89ji"
+      },
+      "artists": [
+        {
+          "name": "Bobby Wills",
+          "url": "https://open.spotify.com/artist/32vz5yfClDLomeIAH6LF5Q"
+        }
+      ],
+      "duration_ms": 156690,
+      "name": "Living For Friday Night",
+      "url": "https://open.spotify.com/track/6OhXiz0Q4cq5GTq6VDS9Cm"
+    },
+    {
       "added_at": "2026-06-12 04:03:11",
       "album": {
         "name": "Work Truck",
@@ -199,6 +263,22 @@
       "duration_ms": 168692,
       "name": "Work Truck",
       "url": "https://open.spotify.com/track/1XE8qDoGJUBtDqGEidZAq7"
+    },
+    {
+      "added_at": "2026-06-19 04:03:02",
+      "album": {
+        "name": "CIGARETTE",
+        "url": "https://open.spotify.com/album/0HFxBzNyidcwiHQ6pl81SD"
+      },
+      "artists": [
+        {
+          "name": "Sean Michael Ryan",
+          "url": "https://open.spotify.com/artist/6HRmf5pui2Mcqi3URD8Uvk"
+        }
+      ],
+      "duration_ms": 205071,
+      "name": "CIGARETTE",
+      "url": "https://open.spotify.com/track/5N974DIUb3OBJirNNFnYRw"
     },
     {
       "added_at": "2026-05-29 14:51:47",

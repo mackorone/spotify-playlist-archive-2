@@ -1007,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "fibres",
+        "url": "https://open.spotify.com/album/4yHAxaNLLxheJ688GXi9ko"
+      },
+      "artists": [
+        {
+          "name": "ANCR TO PAST",
+          "url": "https://open.spotify.com/artist/5JAtQYcWXv57H39UEom6ul"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231900,
+      "name": "Chasing Taste",
+      "url": "https://open.spotify.com/track/2OnXAQlNqA5ulvDJAdMbNm"
+    },
+    {
+      "album": {
         "name": "CHERRIES",
         "url": "https://open.spotify.com/album/2HUh8kMZwmcnIJOjrreooR"
       },

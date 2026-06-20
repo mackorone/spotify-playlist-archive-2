@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PUN",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e2d\u0e39\u0e42\u0e19\u0e48 \u0e2b\u0e25\u0e32\u0e27\u0e17\u0e2d\u0e07",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -9550,7 +9550,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 187000,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV"
@@ -12848,7 +12848,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 247058,
       "name": "ONE THING",
       "url": "https://open.spotify.com/track/58uSGzTE4LVARQlME5HZkg"
@@ -16764,7 +16764,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
@@ -21282,7 +21282,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 181551,
       "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e1d\u0e19 (When It Rains)",
       "url": "https://open.spotify.com/track/7l5xRO0s5RsxGdCm6faQmA"
@@ -21329,6 +21329,24 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e35\u0e49\u0e41\u0e07 (Boys Don't Cry)",
+        "url": "https://open.spotify.com/album/6nLwr7ShdFiiCtvwMw0epG"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "\u0e02\u0e35\u0e49\u0e41\u0e07 (Boys Don't Cry)",
+      "url": "https://open.spotify.com/track/04nwoRnWqFYhFLaRNWuNw5"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e23\u0e32\u0e21",
         "url": "https://open.spotify.com/album/2grpAe3ueeeKX2ge26QvF9"
       },
@@ -21358,7 +21376,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 217095,
       "name": "\u0e04\u0e33\u0e16\u0e32\u0e21",
       "url": "https://open.spotify.com/track/5eOjp1RX8yiWug63VoAklH"
@@ -21380,6 +21398,28 @@
       "duration_ms": 266813,
       "name": "\u0e04\u0e33\u0e22\u0e34\u0e19\u0e14\u0e35",
       "url": "https://open.spotify.com/track/1ur8R3ThdEg3BdD844G6Mw"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e38\u0e13\u0e08\u0e30\u0e0a\u0e2d\u0e1a\u0e1c\u0e21\u0e44\u0e2b\u0e21 (Your Type?)",
+        "url": "https://open.spotify.com/album/4QfuaNmBAE4PTmzBZWQmfB"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        },
+        {
+          "name": "gorn",
+          "url": "https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188877,
+      "name": "\u0e04\u0e38\u0e13\u0e08\u0e30\u0e0a\u0e2d\u0e1a\u0e1c\u0e21\u0e44\u0e2b\u0e21 (Your Type?)",
+      "url": "https://open.spotify.com/track/7ApNdlOBsjvmG4IiRZEpuP"
     },
     {
       "album": {
@@ -21452,7 +21492,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 202500,
       "name": "\u0e08\u0e38\u0e21\u0e1e\u0e34\u0e15",
       "url": "https://open.spotify.com/track/1mSpdhpNylzDpGSvrymU07"
@@ -21492,6 +21532,24 @@
       "duration_ms": 202708,
       "name": "\u0e0a\u0e49\u0e32\u0e0a\u0e49\u0e32 (CHA CHA)",
       "url": "https://open.spotify.com/track/2885sIcSfF5cDdPv70x3l5"
+    },
+    {
+      "album": {
+        "name": "\u0e0b\u0e34\u0e07\u0e40\u0e01\u0e34\u0e25\u0e04\u0e2d\u0e22",
+        "url": "https://open.spotify.com/album/6LOpZqEYrCqcT6XAZJ4p9r"
+      },
+      "artists": [
+        {
+          "name": "Tattoo Colour",
+          "url": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218811,
+      "name": "\u0e0b\u0e34\u0e07\u0e40\u0e01\u0e34\u0e25\u0e04\u0e2d\u0e22 - Single Coil",
+      "url": "https://open.spotify.com/track/4LtijQfypWSsmAM0t6ooK6"
     },
     {
       "album": {
@@ -21647,6 +21705,28 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e31\u0e49\u0e07\u0e40\u0e08\u0e47\u0e1a\u0e17\u0e31\u0e49\u0e07\u0e23\u0e31\u0e01 (From \"\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c\")",
+        "url": "https://open.spotify.com/album/60T6tqBJRXj6k8XVKYfMOd"
+      },
+      "artists": [
+        {
+          "name": "\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07 \u0e04\u0e2d\u0e07",
+          "url": "https://open.spotify.com/artist/1St0LTo9RMbzZWv6hvBuh5"
+        },
+        {
+          "name": "\u0e2d\u0e2d\u0e21 \u0e01\u0e23\u0e13\u0e4c\u0e19\u0e20\u0e31\u0e2a",
+          "url": "https://open.spotify.com/artist/435ULoNKkDLlSGlMm2XJxN"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226046,
+      "name": "\u0e17\u0e31\u0e49\u0e07\u0e40\u0e08\u0e47\u0e1a\u0e17\u0e31\u0e49\u0e07\u0e23\u0e31\u0e01 - From \"\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c\"",
+      "url": "https://open.spotify.com/track/7Hxu6cvNRmScO7tbAKQr2E"
+    },
+    {
+      "album": {
         "name": "\u0e19\u0e2d\u0e19\u0e19\u0e35\u0e48 (Zzz.) [Bonus Track]",
         "url": "https://open.spotify.com/album/1x1qL65pIRqDQ5k8Et6aT9"
       },
@@ -21756,6 +21836,24 @@
       "duration_ms": 220000,
       "name": "\u0e22\u0e49\u0e32\u0e22\u0e48\u0e32\u0e22\u0e30",
       "url": "https://open.spotify.com/track/0FTAiWhYLMKZlzhMeMzRZy"
+    },
+    {
+      "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/5rLo8es514U1hcjv4aGsM9"
+      },
+      "artists": [
+        {
+          "name": "Bedroom Audio",
+          "url": "https://open.spotify.com/artist/5NTMa7YJCseQqw70zgF7b5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200170,
+      "name": "\u0e23\u0e31\u0e01\u0e21\u0e37\u0e2d\u0e2a\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/6FngEZyo8Gg5P4fzckJeX4"
     },
     {
       "album": {
@@ -21937,6 +22035,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e25\u0e38\u0e21\u0e2d\u0e32\u0e01\u0e32\u0e28",
+        "url": "https://open.spotify.com/album/4L5tegjCajfCK99LLZ0Kk0"
+      },
+      "artists": [
+        {
+          "name": "Palmy",
+          "url": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "\u0e2b\u0e25\u0e38\u0e21\u0e2d\u0e32\u0e01\u0e32\u0e28",
+      "url": "https://open.spotify.com/track/75FEJ1dyr39vGXC20EyQYb"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e39\u0e49\u0e1a\u0e48\u0e08\u0e49\u0e32\u0e07",
         "url": "https://open.spotify.com/album/67pHjCmyZ9jaPhNSjujGyp"
       },
@@ -21948,7 +22064,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 239059,
       "name": "\u0e2d\u0e39\u0e49\u0e1a\u0e48\u0e08\u0e49\u0e32\u0e07",
       "url": "https://open.spotify.com/track/5RhEVajyRoOtks0txRnCke"
@@ -22024,6 +22140,24 @@
       "duration_ms": 239770,
       "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
       "url": "https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35 (\u0e21\u0e35\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e19)",
+        "url": "https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv"
+      },
+      "artists": [
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214883,
+      "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35 (\u0e21\u0e35\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e19)",
+      "url": "https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm"
     },
     {
       "album": {

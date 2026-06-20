@@ -1,13 +1,33 @@
 {
-  "description": "The best and latest rock and alternative. Cover:  mgk &amp; Fred Durst",
+  "description": "The best and latest rock and alternative. Cover:  Arkells",
   "num_followers": 9535,
   "original_name": "New Rock Music",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAdUa6TkTyJ5GT5mGGjkL4eRfXUMqlP",
+  "snapshot_id": "AAAdU9oRdg2PQgqX7GjZopOB57WYOczZ",
   "tracks": [
+    {
+      "added_at": "2026-06-17 18:15:20",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/49seZuE8IzjfFOLEhU0F8X"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw"
+    },
     {
       "added_at": "2026-06-17 18:15:20",
       "album": {
@@ -147,26 +167,6 @@
       "duration_ms": 239582,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"
-    },
-    {
-      "added_at": "2026-06-17 18:15:20",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/49seZuE8IzjfFOLEhU0F8X"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw"
     },
     {
       "added_at": "2026-06-17 18:15:20",

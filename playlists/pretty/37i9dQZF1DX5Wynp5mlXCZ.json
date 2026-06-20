@@ -1,6 +1,6 @@
 {
   "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Olivia Rodrigo",
-  "num_followers": 15302,
+  "num_followers": 15339,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-06-18 21:00:58",
       "album": {
-        "name": "Play (Extended Edition)",
-        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 215511,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
-    },
-    {
-      "added_at": "2026-06-18 21:00:58",
-      "album": {
         "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
         "url": "https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2026-06-18 21:00:58",
       "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
+    },
+    {
+      "added_at": "2026-06-18 21:00:58",
+      "album": {
         "name": "Gorgone",
         "url": "https://open.spotify.com/album/5QVCAOKiBikNLZRmlsvLdX"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 162317,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx"
-    },
-    {
-      "added_at": "2026-06-18 21:00:58",
-      "album": {
-        "name": "\u041f\u0440\u0438\u0432\u0456\u0442. Hello",
-        "url": "https://open.spotify.com/album/7a4jaPDUORkJUUXCU1X43o"
-      },
-      "artists": [
-        {
-          "name": "Jerry Heil",
-          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
-        }
-      ],
-      "duration_ms": 182035,
-      "name": "\u041f\u0440\u0438\u0432\u0456\u0442. Hello",
-      "url": "https://open.spotify.com/track/6hZJocUHCjpSmWOghwdHkL"
     },
     {
       "added_at": "2026-06-18 21:00:58",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2026-06-18 21:00:58",
       "album": {
+        "name": "\u041f\u0440\u0438\u0432\u0456\u0442. Hello",
+        "url": "https://open.spotify.com/album/7a4jaPDUORkJUUXCU1X43o"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "duration_ms": 182035,
+      "name": "\u041f\u0440\u0438\u0432\u0456\u0442. Hello",
+      "url": "https://open.spotify.com/track/6hZJocUHCjpSmWOghwdHkL"
+    },
+    {
+      "added_at": "2026-06-18 21:00:58",
+      "album": {
         "name": "Romcom",
         "url": "https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 133333,
       "name": "\u0421\u0445\u043e\u0436\u0456",
       "url": "https://open.spotify.com/track/2sK5Kc4hRLm53oUu1wIsIu"
-    },
-    {
-      "added_at": "2026-06-18 21:00:58",
-      "album": {
-        "name": "Ridnym",
-        "url": "https://open.spotify.com/album/7dr61EZEcX5C7jaaEyf8zn"
-      },
-      "artists": [
-        {
-          "name": "Lel\u00e9ka",
-          "url": "https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG"
-        }
-      ],
-      "duration_ms": 178824,
-      "name": "Ridnym",
-      "url": "https://open.spotify.com/track/52IlNxHUoQ3ZZyw9atSGVN"
     },
     {
       "added_at": "2026-06-18 21:00:58",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2026-06-18 21:00:58",
       "album": {
+        "name": "Ridnym",
+        "url": "https://open.spotify.com/album/7dr61EZEcX5C7jaaEyf8zn"
+      },
+      "artists": [
+        {
+          "name": "Lel\u00e9ka",
+          "url": "https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG"
+        }
+      ],
+      "duration_ms": 178824,
+      "name": "Ridnym",
+      "url": "https://open.spotify.com/track/52IlNxHUoQ3ZZyw9atSGVN"
+    },
+    {
+      "added_at": "2026-06-18 21:00:58",
+      "album": {
         "name": "\u041c\u0438\u043b\u0430 \u043c\u043e\u044f",
         "url": "https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 178857,
       "name": "\u041c\u0438\u043b\u0430 \u043c\u043e\u044f",
       "url": "https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q"
+    },
+    {
+      "added_at": "2026-06-18 21:00:58",
+      "album": {
+        "name": "\u0422\u0438\u0441\u044f\u0447\u0430 \u043f\u0456\u0441\u0435\u043d\u044c",
+        "url": "https://open.spotify.com/album/0PFAI5uq4WBUqkVnZ8YDUV"
+      },
+      "artists": [
+        {
+          "name": "KLER",
+          "url": "https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui"
+        }
+      ],
+      "duration_ms": 231692,
+      "name": "\u0422\u0438\u0441\u044f\u0447\u0430 \u043f\u0456\u0441\u0435\u043d\u044c",
+      "url": "https://open.spotify.com/track/2GufmBTxp2K4SyZUJ5xmev"
     },
     {
       "added_at": "2026-06-18 21:00:58",
@@ -1119,22 +1135,6 @@
       "duration_ms": 150517,
       "name": "take it all",
       "url": "https://open.spotify.com/track/1Nk0YsyiGEBFrpgtn5255k"
-    },
-    {
-      "added_at": "2026-06-18 21:00:58",
-      "album": {
-        "name": "\u0422\u0438\u0441\u044f\u0447\u0430 \u043f\u0456\u0441\u0435\u043d\u044c",
-        "url": "https://open.spotify.com/album/0PFAI5uq4WBUqkVnZ8YDUV"
-      },
-      "artists": [
-        {
-          "name": "KLER",
-          "url": "https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui"
-        }
-      ],
-      "duration_ms": 231692,
-      "name": "\u0422\u0438\u0441\u044f\u0447\u0430 \u043f\u0456\u0441\u0435\u043d\u044c",
-      "url": "https://open.spotify.com/track/2GufmBTxp2K4SyZUJ5xmev"
     },
     {
       "added_at": "2026-06-18 21:00:58",

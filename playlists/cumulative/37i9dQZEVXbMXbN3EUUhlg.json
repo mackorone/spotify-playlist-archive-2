@@ -24935,6 +24935,28 @@
     },
     {
       "album": {
+        "name": "Nessa idade",
+        "url": "https://open.spotify.com/album/2Zxx2zFK4xQR0LhpG9q3Xj"
+      },
+      "artists": [
+        {
+          "name": "Munhoz & Mariano",
+          "url": "https://open.spotify.com/artist/0OWtaM1z81DliQXntU4KaN"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178896,
+      "name": "Nessa idade",
+      "url": "https://open.spotify.com/track/3Q6BDjIoF5lsKZ3eaEeIVm"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -27380,7 +27402,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 192367,
       "name": "P do Pecado - Ao Vivo",
       "url": "https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M"
@@ -27478,16 +27500,16 @@
           "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "Real Fuba",
-          "url": "https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb"
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
         },
         {
           "name": "DJ Guh Mix",
           "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
         },
         {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+          "name": "Real Fuba",
+          "url": "https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb"
         }
       ],
       "date_added": "2026-06-18",
@@ -35998,7 +36020,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 231057,
       "name": "TADINHA",
       "url": "https://open.spotify.com/track/0K7qMa0JqOIETkWmQXmQvw"
@@ -41038,7 +41060,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 270245,
       "name": "Volte Amor - Ao Vivo em Linhares",
       "url": "https://open.spotify.com/track/58etYboXC3fk4jBQQNI1WC"

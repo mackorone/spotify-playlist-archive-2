@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Saif Altaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,368 likes - 72 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,374 likes - 72 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 12 | [Dobara](https://open.spotify.com/track/6uVHRGSfxaxWrilppxr2eI) | [Ibrahim Adnan](https://open.spotify.com/artist/13NwgJce79MFUgjbfpmLJb) | [Dobara](https://open.spotify.com/album/4oAwVKI3e4eL0hIJbH8cWJ) | 3:04 |
 | 13 | [Chune Ishq'en](https://open.spotify.com/track/4PeNxF94ppeUKQDkGtXRul) | [SAZGIR](https://open.spotify.com/artist/2oAG6MjavkOWhvC97uf212) | [Chune Ishq'en](https://open.spotify.com/album/1sU8WNSFTrE8hfgxtSFACP) | 3:23 |
 | 14 | [Sabar](https://open.spotify.com/track/0iS8bWM8xB18Dv8gWgM8yQ) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Sabar](https://open.spotify.com/album/3mujFAt0PTmIMjOLNB2h6Z) | 2:24 |
-| 15 | [Darmaan \(feat\. Lina Marie Marcelle & Veeru Shan\)](https://open.spotify.com/track/01UAgLMZtWdCz1jGjZ6suM) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Aaryan](https://open.spotify.com/artist/0bYkfpew9s6FNJ4b6MVm7K), [Faheem uddin hunzai](https://open.spotify.com/artist/31bt09yIuNKHYx3rpspuRB), [Lina Marie Marcelle](https://open.spotify.com/artist/3sAFnrkf8Gi8NIHM4ePN5y), [Veeru Shan](https://open.spotify.com/artist/09AQmT8DH8V3UuDxcHv2i6) | [Darmaan \(feat\. Lina Marie Marcelle & Veeru Shan\)](https://open.spotify.com/album/4gdxASATkXXU7phicz6aeD) | 10:37 |
+| 15 | [Darmaan \(feat\. Lina Marie Marcelle & Veeru Shan\)](https://open.spotify.com/track/01UAgLMZtWdCz1jGjZ6suM) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Aaryan](https://open.spotify.com/artist/2qq6Ebs4cc0R1agoEKqyDS), [Faheem uddin hunzai](https://open.spotify.com/artist/31bt09yIuNKHYx3rpspuRB), [Lina Marie Marcelle](https://open.spotify.com/artist/3sAFnrkf8Gi8NIHM4ePN5y), [Veeru Shan](https://open.spotify.com/artist/09AQmT8DH8V3UuDxcHv2i6) | [Darmaan \(feat\. Lina Marie Marcelle & Veeru Shan\)](https://open.spotify.com/album/4gdxASATkXXU7phicz6aeD) | 10:37 |
 | 16 | [Duur Duur](https://open.spotify.com/track/0eIhOI7pb6wyV4W3cRJKIZ) | [Farooq Got Audio](https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm), [AsherMusik](https://open.spotify.com/artist/0M1EezTY7rRYZsN5uk2Xme), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Duur Duur](https://open.spotify.com/album/4JdG5DznKZ36X2k0owm3uW) | 2:26 |
 | 17 | [konay](https://open.spotify.com/track/5eKNTz4i1DSznSgQROdrCO) | [Ibrahim Chandna](https://open.spotify.com/artist/5EnIGv5v8ONYfWQ6j1l6pi) | [konay](https://open.spotify.com/album/2GvhPzVOBh9JIZxQNzpaPO) | 3:03 |
 | 18 | [Milo Na](https://open.spotify.com/track/1Cpl0L1Zzw0iz3nGPkkdzj) | [Ahmed Khan](https://open.spotify.com/artist/49w12XrOuzUevVP12bgfge) | [Milo Na](https://open.spotify.com/album/7JW37eFY8pNsJphydCGcIe) | 3:10 |

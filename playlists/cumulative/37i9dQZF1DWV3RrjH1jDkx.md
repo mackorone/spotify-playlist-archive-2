@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musikk fra The Bausa, Tyla, Blackie og mange fler!! ♥️
 
-11,317 songs - 24 day 11 hr 38 min
+11,319 songs - 24 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [2 ganger](https://open.spotify.com/track/162WKk9UX1HlKPsX93H78U) | [Egil Ellevill](https://open.spotify.com/artist/3IzJ0vCw2AxthbKOLhGnQa), [Jack Dee](https://open.spotify.com/artist/1O4AnKY2Rp3ZNM5EmUqJrd) | [2 ganger](https://open.spotify.com/album/2Kzu3r6F9fJ65IF12T7hTE) | 2:32 | 2024-08-22 | 2024-08-30 |
 | [2 Good 4 U](https://open.spotify.com/track/7JjyJly7Fm17M0C9E01E6Q) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [2 Good 4 U](https://open.spotify.com/album/7rJGVn5RFUhwBU7Kz07hzO) | 3:43 | 2026-03-12 | 2026-03-20 |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-14 | 2024-11-22 |
+| [2 Many Days](https://open.spotify.com/track/5xKsdMU9ssxhKSre7iMflV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [2 Many Days](https://open.spotify.com/album/5C9EToByF5XDM3DXx4WewZ) | 3:05 | 2026-06-18 |  |
 | [2 ord m/ Lars Vaular](https://open.spotify.com/track/3Qj7jdHHGJgBeheJBqw6KP) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Lars Vaular](https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2) | [2 ord m/ Lars Vaular](https://open.spotify.com/album/4c5QKonmQ7CsK4lygmaEOn) | 2:40 | 2026-04-02 | 2026-04-10 |
 | [2 Pair](https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [2 Pair](https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi) | 2:31 | 2025-06-12 | 2025-06-20 |
 | [2 sekunder](https://open.spotify.com/track/731yHyGZZ9kB8kd3PMRjoq) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG) | [2 sekunder](https://open.spotify.com/album/5gS7wq84FF3838L48h6Asr) | 2:52 | 2025-10-16 | 2025-10-24 |
@@ -3724,7 +3725,7 @@
 | [Gi bort hjertet mitt](https://open.spotify.com/track/1BscwUjHTkBVZzkobxUQGm) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Gi bort hjertet mitt](https://open.spotify.com/album/0HEMOFr4arb6AOZuWDrjdW) | 2:59 | 2025-05-22 | 2025-05-30 |
 | [Gi det litt tid](https://open.spotify.com/track/0uFuGg6sgvaGOHc3PODJOJ) | [Ida Knutsen](https://open.spotify.com/artist/3qmxqXFBsLw3NIKmC45c3c) | [Gi det litt tid](https://open.spotify.com/album/1CvSXKj5MRrakxjKw9mKsW) | 3:22 | 2025-10-23 | 2025-10-31 |
 | [Gi Meg](https://open.spotify.com/track/66Fs2D1M7GyVl0hqPLyRRh) | [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Gi Meg](https://open.spotify.com/album/2MVCLwGFUHBDwT9ZWfgO5m) | 2:36 | 2025-02-20 | 2025-02-28 |
-| [Gi meg](https://open.spotify.com/track/6T0WvXZzMIO4XPxRDJioio) | [Railo](https://open.spotify.com/artist/1hMqDdRb5XvsXGCSQbPxcC), [Primz](https://open.spotify.com/artist/60nYLk8UsZl3dXCCkMELOE) | [Gi meg](https://open.spotify.com/album/50QqrtqsRosmZEC2UYfHAd) | 2:20 | 2026-06-18 |  |
+| [Gi meg](https://open.spotify.com/track/6T0WvXZzMIO4XPxRDJioio) | [Railo](https://open.spotify.com/artist/1hMqDdRb5XvsXGCSQbPxcC), [Primz](https://open.spotify.com/artist/60nYLk8UsZl3dXCCkMELOE) | [Gi meg \(feat\. Primz\)](https://open.spotify.com/album/50QqrtqsRosmZEC2UYfHAd) | 2:20 | 2026-06-18 |  |
 | [GI MEG \(Imperium 2026\)](https://open.spotify.com/track/0HL1rvFJy3NmBktdu4OMoS) | [Prells](https://open.spotify.com/artist/50Kop00cliTuhn1vCBNVkH), [Lille Saus](https://open.spotify.com/artist/15saPvefLxxtw3nvTOCUg0), [Joe Rock](https://open.spotify.com/artist/2l5ZAGdHNQnBS3YWnAMchH), [DJ VLADI](https://open.spotify.com/artist/7wRXf1DelGyBsmOj5hnOum) | [GI MEG \(Imperium 2026\)](https://open.spotify.com/album/0QSlmt0lPlZVbHnpSZMZQB) | 2:55 | 2025-09-04 | 2025-09-13 |
 | [Giants of concrete](https://open.spotify.com/track/3B3oxdNk04XNuibs5lz2Gn) | [Warlocks](https://open.spotify.com/artist/3Pr20Uk55vImXSisXHnD2d) | [Giants of concrete](https://open.spotify.com/album/3SaBA48auR34S4GqK1C3Zr) | 3:54 | 2025-02-27 | 2025-03-07 |
 | [GiFT](https://open.spotify.com/track/7DnZAX8jPQvphSdoJUJqd9) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [GiFT](https://open.spotify.com/album/6ORHR8FKQUs3Bfi0LzB4C5) | 2:56 | 2026-01-29 | 2026-02-06 |
@@ -7418,6 +7419,7 @@
 | [Omens](https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Omens](https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP) | 2:00 | 2026-02-05 | 2026-02-13 |
 | [OMG](https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:13 | 2024-05-31 | 2024-06-07 |
 | [OMG \(feat\. Sage the Gemini\)](https://open.spotify.com/track/3LF4Qfm38i2VaPv4qb97Id) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [OMG \(feat\. Sage the Gemini\)](https://open.spotify.com/album/3ckT2p2SWcY9lJDlXoJr45) | 2:37 | 2025-02-20 | 2025-02-28 |
+| [OMG feat pusha t](https://open.spotify.com/track/52GRbtHCnZnPOy85U22TY3) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 2:26 | 2026-06-18 |  |
 | [Omo Aiye](https://open.spotify.com/track/2P1M2XBvYyVSwtFlmomFBy) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Omo Aiye](https://open.spotify.com/album/07tWr0jMNKAEA1F5feELVK) | 2:04 | 2025-10-23 | 2025-10-31 |
 | [omvei](https://open.spotify.com/track/0OQKCJRr5saHQdldtpJx75) | [Sofia Loise](https://open.spotify.com/artist/21iee2QrHmKLhP1kId0hKL) | [omvei](https://open.spotify.com/album/5t4duv5ldvGfOqFjvHKKTo) | 3:10 | 2025-09-12 | 2025-09-19 |
 | [On & On](https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [On & On](https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc) | 3:04 | 2025-03-13 | 2025-03-21 |

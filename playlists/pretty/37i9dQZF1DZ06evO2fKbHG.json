@@ -1,12 +1,12 @@
 {
   "description": "This is The Clash. The essential tracks, all in one playlist.",
-  "num_followers": 184758,
+  "num_followers": 184766,
   "original_name": "This Is The Clash",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAABnzawRcC6v/50fXveuHwB6",
+  "snapshot_id": "ajM1AAAAAADEHFMy1d8aaVvTfBMN8Jw+",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 220075,
-      "name": "Know Your Rights - Remastered",
-      "url": "https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant"
+      "duration_ms": 236373,
+      "name": "Clash City Rockers",
+      "url": "https://open.spotify.com/track/7KMOrq5bPFiEQPmxsYvJ2C"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits Back",
-        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 236373,
-      "name": "Clash City Rockers",
-      "url": "https://open.spotify.com/track/7KMOrq5bPFiEQPmxsYvJ2C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give 'Em Enough Rope (Remastered)",
         "url": "https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg"
       },
@@ -491,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sandinista! (Remastered)",
-        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 261766,
-      "name": "Hitsville U.K. - Remastered",
-      "url": "https://open.spotify.com/track/3F8ddXLIHVLdunzh6fLvKs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -516,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 161081,
-      "name": "Inoculated City - Remastered",
-      "url": "https://open.spotify.com/track/09dKenoVuQzPRQ8Anoo6we"
+      "duration_ms": 220075,
+      "name": "Know Your Rights - Remastered",
+      "url": "https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant"
     },
     {
       "added_at": null,
@@ -539,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sandinista! (Remastered)",
+        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 261766,
+      "name": "Hitsville U.K. - Remastered",
+      "url": "https://open.spotify.com/track/3F8ddXLIHVLdunzh6fLvKs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give 'Em Enough Rope (Remastered)",
         "url": "https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg"
       },
@@ -555,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sandinista! (Remastered)",
-        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 102174,
-      "name": "The Leader - Remastered",
-      "url": "https://open.spotify.com/track/1HEcT04aFqXJt27hdTQ9nB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -580,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 150012,
-      "name": "Atom Tan - Remastered",
-      "url": "https://open.spotify.com/track/5rL2E6ZlMJYMdV799HumhZ"
+      "duration_ms": 161081,
+      "name": "Inoculated City - Remastered",
+      "url": "https://open.spotify.com/track/09dKenoVuQzPRQ8Anoo6we"
     },
     {
       "added_at": null,
@@ -603,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sandinista! (Remastered)",
+        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 102174,
+      "name": "The Leader - Remastered",
+      "url": "https://open.spotify.com/track/1HEcT04aFqXJt27hdTQ9nB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give 'Em Enough Rope (Remastered)",
         "url": "https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 220599,
       "name": "Stay Free - Remastered",
       "url": "https://open.spotify.com/track/32rUsiLCvd1yZWr4UFUoiu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 150012,
+      "name": "Atom Tan - Remastered",
+      "url": "https://open.spotify.com/track/5rL2E6ZlMJYMdV799HumhZ"
     },
     {
       "added_at": null,

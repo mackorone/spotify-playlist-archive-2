@@ -1,12 +1,12 @@
 {
   "description": "Intersection of R&B and afrobeats. Cover:  Tyla",
-  "num_followers": 219250,
+  "num_followers": 219255,
   "original_name": "afro&b ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANFMOjoi1ZxZcR79X+O4GC9Bmpl3",
+  "snapshot_id": "AAAAAPMc8vX4/feg99Yg0bbT4/AwHTl0",
   "tracks": [
     {
       "added_at": "2026-06-19 00:01:48",
@@ -271,6 +271,22 @@
       "duration_ms": 155428,
       "name": "That Way",
       "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
+    },
+    {
+      "added_at": "2026-06-19 14:39:36",
+      "album": {
+        "name": "Red Benz",
+        "url": "https://open.spotify.com/album/4vqzeWLjVBjADTJT7wzERb"
+      },
+      "artists": [
+        {
+          "name": "EKENE",
+          "url": "https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP"
+        }
+      ],
+      "duration_ms": 186503,
+      "name": "Red Benz",
+      "url": "https://open.spotify.com/track/4p1OLcAB4oDmhboqikTuHG"
     },
     {
       "added_at": "2026-06-19 00:01:48",

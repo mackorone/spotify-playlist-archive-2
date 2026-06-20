@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Guitarricadelafuente.",
-  "num_followers": 22291,
+  "num_followers": 22290,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
+        "name": "Pantal\u00f3n",
+        "url": "https://open.spotify.com/album/1kkCB6Bojsi2NWWToffYSU"
+      },
+      "artists": [
+        {
+          "name": "BAJOCERO X",
+          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
+        }
+      ],
+      "duration_ms": 125753,
+      "name": "Pantal\u00f3n",
+      "url": "https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
         "name": "Ouineta Verificada",
         "url": "https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 181001,
       "name": "NOIS",
       "url": "https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
-        "name": "Pantal\u00f3n",
-        "url": "https://open.spotify.com/album/1kkCB6Bojsi2NWWToffYSU"
-      },
-      "artists": [
-        {
-          "name": "BAJOCERO X",
-          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
-        }
-      ],
-      "duration_ms": 125753,
-      "name": "Pantal\u00f3n",
-      "url": "https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD"
     },
     {
       "added_at": "2026-06-08 07:44:23",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
-        "name": "coraz\u00f3n distante",
-        "url": "https://open.spotify.com/album/0399cbykPgf4TRwqeu3x0J"
-      },
-      "artists": [
-        {
-          "name": "Tatiana Delalvz",
-          "url": "https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "coraz\u00f3n distante",
-      "url": "https://open.spotify.com/track/1Db7H5M0JHVrSjeA8uufwS"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
         "name": "Hoy ya no",
         "url": "https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 167856,
       "name": "Se te est\u00e1 olvidando",
       "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
+        "name": "coraz\u00f3n distante",
+        "url": "https://open.spotify.com/album/0399cbykPgf4TRwqeu3x0J"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Delalvz",
+          "url": "https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "coraz\u00f3n distante",
+      "url": "https://open.spotify.com/track/1Db7H5M0JHVrSjeA8uufwS"
     },
     {
       "added_at": "2026-06-08 07:44:23",

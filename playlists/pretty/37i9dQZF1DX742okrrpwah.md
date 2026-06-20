@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Franglish x KeBlack x iDS, Tyla et Angèle au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,632 likes - 104 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,297 likes - 104 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 12 | [golden boy](https://open.spotify.com/track/0y2O1cQchKi6V76ABHSjuv) | [Eve La Marka](https://open.spotify.com/artist/17tjZtS3t6aWW4qGVz4DuB), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3), [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9) | [golden boy](https://open.spotify.com/album/1iouT4L7K7DsrQ8KZN86S8) | 2:23 |
 | 13 | [Man On A Mission \(feat\. Wizkid\)](https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [BROWN \(The Chocolate Edition\)](https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb) | 3:52 |
 | 14 | [K.O](https://open.spotify.com/track/0wkn35bVSegbkHKhTKnesi) | [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [K.O](https://open.spotify.com/album/6NAeoQtu6RNAgS5g97QoEu) | 2:14 |
-| 15 | [Say My Name \(The Riddle\) \- Radio edit](https://open.spotify.com/track/40mM9tEXWtgc3Il0z4pcXn) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Say My Name \(The Riddle\) \[Radio edit\]](https://open.spotify.com/album/62BqOiYvQ8tBYXwJfLmMqi) | 3:30 |
+| 15 | [Say My Name \(The Riddle\)](https://open.spotify.com/track/40mM9tEXWtgc3Il0z4pcXn) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Say My Name \(The Riddle\)](https://open.spotify.com/album/62BqOiYvQ8tBYXwJfLmMqi) | 3:30 |
 | 16 | [TIK TAK](https://open.spotify.com/track/7bZ2QUWiP3upNEnIQc7AmZ) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [SARRA](https://open.spotify.com/artist/6rxAZckuZM4y6aKz9ZtaUv) | [TIK TAK](https://open.spotify.com/album/411hbuzY43HR3rIHE9EDYy) | 2:25 |
 | 17 | [R.I.P\. \(feat\. Skylar Grey\)](https://open.spotify.com/track/4t2iBQXTof6BoWCIxkgFF1) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [R.I.P\. \(feat\. Skylar Grey\)](https://open.spotify.com/album/2BdQsMhZDuxilUo1mG12OK) | 4:00 |
 | 18 | [swim](https://open.spotify.com/track/3TRP1MEDDkUw0YDsi8iQ3F) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [swim](https://open.spotify.com/album/4h4L56LbVAXREBss215iRB) | 6:11 |

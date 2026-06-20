@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Stopgap
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,253 likes - 87 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,254 likes - 87 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 11 | [anything](https://open.spotify.com/track/4eNBTaGnB5ELO6o9u918wV) | [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251), [MALI JO$E](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4) | [Rapihaler](https://open.spotify.com/album/7oI6St2lv9U7BH26yXrVLn) | 3:21 |
 | 12 | [it's not that deep](https://open.spotify.com/track/6k20ken6cjJE9wn9IAwytu) | [Charis](https://open.spotify.com/artist/624di24HXgttjdzLB0MgNW) | [it's not that deep](https://open.spotify.com/album/5s0xEt976UQRYlHo0so8qA) | 3:15 |
 | 13 | [Neighbourhood \(feat\. Dende the Sensei, Masia One & Jay Coast\)](https://open.spotify.com/track/3BZ1Qq8hy6ReUU0oJZ3kwV) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm), [Dende the Sensei](https://open.spotify.com/artist/3YkMXVpdxPkS3ODnSkBhO2), [Masia One](https://open.spotify.com/artist/5xwsVRGFYIPpDmoaCC9XpB), [Jay Coast](https://open.spotify.com/artist/7qHzHe42ph1gEX3KiwIsbX) | [Neighbourhood \(feat\. Dende the Sensei, Masia One & Jay Coast\)](https://open.spotify.com/album/3sI72Ot1DA60LwQG7DBPa4) | 3:42 |
-| 14 | [Celaru](https://open.spotify.com/track/2cHQqchnXnbgPnkS69Sd7G) | [Heezran](https://open.spotify.com/artist/0fS5pQ0ve5LzzfkD5NwZxj), [Amir Mansor](https://open.spotify.com/artist/0fCxC7P7GeiqBkC3JfmMAT), [Danial Baharin](https://open.spotify.com/artist/5In2Kkmpf5REayiSA6Ls0w), [Izhar Hidayat](https://open.spotify.com/artist/2rB1tO4wYOOFlTYFUWFTzK) | [Celaru](https://open.spotify.com/album/05Fj717L0cbe2ZxDPC8KY7) | 3:15 |
+| 14 | [Celaru](https://open.spotify.com/track/2cHQqchnXnbgPnkS69Sd7G) | [Heezran](https://open.spotify.com/artist/0fS5pQ0ve5LzzfkD5NwZxj), [Amir Mansor](https://open.spotify.com/artist/34edWeV1j0o2X50jJW5oEq), [Danial Baharin](https://open.spotify.com/artist/5In2Kkmpf5REayiSA6Ls0w), [Izhar Hidayat](https://open.spotify.com/artist/2rB1tO4wYOOFlTYFUWFTzK) | [Celaru](https://open.spotify.com/album/05Fj717L0cbe2ZxDPC8KY7) | 3:15 |
 | 15 | [better light](https://open.spotify.com/track/3rDOhT3E7y3GHTh8gFmQK5) | [KEAT](https://open.spotify.com/artist/5lzooGwfNsjMjk96wHkZJg) | [better light](https://open.spotify.com/album/36o9LK3CpYbNPg8vl1b2Xh) | 2:39 |
 | 16 | [meadows](https://open.spotify.com/track/6V7VqCxAfajfx2LcPAADHd) | [slump](https://open.spotify.com/artist/2nPpCHfa4SEzkLbAJ8UzdK) | [meadows](https://open.spotify.com/album/5gbBqjDQADTObiOg9ZrnKY) | 2:53 |
 | 17 | [Curtain Call](https://open.spotify.com/track/2Txp3RbQgdTBGV7rsdJGGL) | [Ayumi](https://open.spotify.com/artist/2ND7OWbqX8jgIcN5pkdpfL) | [Curtain Call](https://open.spotify.com/album/1ymFqGhZL0DAfffR27QeaW) | 3:25 |

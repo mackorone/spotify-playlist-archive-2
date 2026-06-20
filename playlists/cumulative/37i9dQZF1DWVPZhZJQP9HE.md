@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sarah Black
 
-793 songs - 1 day 22 hr 40 min
+794 songs - 1 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Hey Girl](https://open.spotify.com/track/3mEuJiQ0uuhEBP5ziB1d61) | [Arjun Heyjay](https://open.spotify.com/artist/4SRG9FDiXqDMispFR31N2g), [Karthik Nick](https://open.spotify.com/artist/4BdmxUlU3i8DXOPwrscd7o) | [Hey Girl](https://open.spotify.com/album/538f51h9Q9qDirlYzx7xkI) | 4:06 | 2022-02-16 | 2022-07-08 |
 | [Hey Kadhal Kanmani](https://open.spotify.com/track/68rnua8CCiXP2pN8aqepBv) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Vivek ravi](https://open.spotify.com/artist/5hG8x8ynDBvUBOqYQOxpfU) | [Hey Kadhal Kanmani](https://open.spotify.com/album/6ZplA3nsVgTXXpXgbaVktU) | 2:27 | 2025-03-26 | 2025-04-18 |
 | [Hey Mama](https://open.spotify.com/track/0d27hofivsEsGCE4b9pYJZ) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9) | [Hey Mama](https://open.spotify.com/album/4cZxA8L8TBurhW29VW8MKN) | 3:32 | 2025-12-26 | 2026-01-30 |
+| [Hey Neptune Nizhale](https://open.spotify.com/track/1KIHbNslsJKimtwAnBuKOT) | [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit), [Sri Sudharsun](https://open.spotify.com/artist/3rEvzXb6i6OZsX184y3lY8) | [Hey Neptune Nizhale](https://open.spotify.com/album/56uh1I8uxk4dHPVC2Xa1PK) | 4:19 | 2026-06-19 |  |
 | [Hey Raasathi](https://open.spotify.com/track/4ASsUoVKSrwVtvPRwbRwJ5) | [Samson P Moses](https://open.spotify.com/artist/0B8HwZtfjJyqF8WiQJRUu1), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Hey Raasathi](https://open.spotify.com/album/2zWzaoEJ7ciF4rZ6xFxlpV) | 4:29 | 2026-02-03 | 2026-06-15 |
 | [Hey Sagiye](https://open.spotify.com/track/5UoDP4lBVA2Cpdg3J9GqSe) | [MOZ](https://open.spotify.com/artist/1g4uzCTdQZdsfZKC1rBTZR), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Sagiye](https://open.spotify.com/album/1B0xbRHabbOWaPfQDw7eOc) | 3:08 | 2022-09-23 | 2022-10-07 |
 | [Hey Singari](https://open.spotify.com/track/5gwIXB335XKUb6tMlGepQv) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Singari](https://open.spotify.com/album/4WwSfK1gPABCUFctI3Rjts) | 3:51 | 2021-12-01 | 2022-08-12 |
@@ -271,7 +272,7 @@
 | [Kadhal Mazhaiyae](https://open.spotify.com/track/05uenVwul3q4H9iaQm4Ohy) | [Emzy Shady](https://open.spotify.com/artist/3kNgX4u7lDyGcp1cK9osEQ), [Lenix](https://open.spotify.com/artist/5xDbPSV29LbyKj4tgkWrZP) | [Kadhal Mazhaiyae](https://open.spotify.com/album/1FU76K9pQLmJUL1eQgT3Pn) | 3:37 | 2022-02-17 | 2022-08-06 |
 | [Kadhal Raasee](https://open.spotify.com/track/4haNuRPEFpfolOmtO0YQvQ) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [OJ Da Tamil Rapper](https://open.spotify.com/artist/0tphHIjvOj8Xkc8Q7WH27C), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Kadhal Raasee](https://open.spotify.com/album/1GSRblB74gF4QNAGzsEPsi) | 3:01 | 2022-11-30 | 2023-03-08 |
 | [Kadhal Serkaadho \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/5OxjuxmvQG3a58SrVcWfuK) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H) | [Kadhal Serkaadho \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/0oGz2fpEeYJmA5dR6v8sjV) | 3:14 | 2024-10-18 | 2025-11-19 |
-| [Kadhalikkiren](https://open.spotify.com/track/4Hd9B68kCjSLlV70BN4wR0) | [Dhinesh Nagarajan](https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt) | [Kadhalikkiren \(From "Think Indie"\)](https://open.spotify.com/album/7KSmaRHan0muLPyx3zaVpr) | 3:35 | 2025-10-03 |  |
+| [Kadhalikkiren](https://open.spotify.com/track/4Hd9B68kCjSLlV70BN4wR0) | [Dhinesh Nagarajan](https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt) | [Kadhalikkiren \(From "Think Indie"\)](https://open.spotify.com/album/7KSmaRHan0muLPyx3zaVpr) | 3:35 | 2025-10-03 | 2026-06-20 |
 | [Kadhalikkiren](https://open.spotify.com/track/6rWfligUryssDGdxaNWpmY) | [Dhinesh Nagarajan](https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt) | [Kadhalikkiren](https://open.spotify.com/album/2vuEj7y25eLTPr4z5j71CO) | 3:35 | 2021-12-01 | 2022-08-09 |
 | [Kadhalkaari](https://open.spotify.com/track/1NxzU4MHV6PzdFWi3QA2hg) | [EJ Brothers](https://open.spotify.com/artist/7KiWncdc8EYImIzqvgViUi) | [Kadhalkaari](https://open.spotify.com/album/6aBSApwk2kS4l0Z4FsavnW) | 4:28 | 2022-10-06 | 2022-10-11 |
 | [Kadhol \- From "Think Indie"](https://open.spotify.com/track/1b9GOREBGLcBRWaeZadGq2) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX), [Praveen PKP](https://open.spotify.com/artist/4d9SUhuaX9w8hdWSQqYFAK) | [Kadhol \(From "Think Indie"\)](https://open.spotify.com/album/4425jl7MCjecjAH3OTATNB) | 2:18 | 2026-01-29 |  |

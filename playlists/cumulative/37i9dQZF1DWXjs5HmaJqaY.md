@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-404 songs - 1 day 12 hr 39 min
+406 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Be OK](https://open.spotify.com/track/6GlkUBDTFpwp8dkFTA6yR9) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Be OK](https://open.spotify.com/album/48fu5AK77F4tovPGX5bFJH) | 3:00 | 2026-04-17 |  |
 | [Be The Change](https://open.spotify.com/track/4aibXK1Ions27oyqdJLkVf) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Be The Change](https://open.spotify.com/album/2p5EwIEGE8bKVGqr2QcdWC) | 4:01 | 2022-09-16 | 2022-10-01 |
 | [Beachside Bliss](https://open.spotify.com/track/74OdLnGtAMfmyXdGeUvVj4) | [Loft 15 A](https://open.spotify.com/artist/3H7elwiXJ63HlIyjOeLhtG) | [Beach Side Bliss](https://open.spotify.com/album/6SBRlyqYyNPg6uYJZetVc1) | 6:35 | 2023-10-20 | 2023-10-28 |
+| [Belong](https://open.spotify.com/track/3Dsbv1PVJDBJsnaOAzfBfl) | [Philipp Lake](https://open.spotify.com/artist/1O6uzBR9eeNjNx7tDDXsZH) | [Belong](https://open.spotify.com/album/2hUsXPSXrPv7CAMtHJ8sbV) | 3:03 | 2026-06-19 |  |
 | [Bending The End](https://open.spotify.com/track/78Bj94zrq8DgvjcZffBNS7) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Bending the End](https://open.spotify.com/album/07SvgpFWSvAEreX8Zq3GqX) | 7:47 | 2022-09-16 | 2022-12-17 |
 | [Black Eclipse \- Edit](https://open.spotify.com/track/7f8BDPUKP9YJC8eopxXx8F) | [Al\-Faris](https://open.spotify.com/artist/07LrIMW3EHnuoc5us4AGgm), [Andrew Wooden](https://open.spotify.com/artist/2BcpCh7qQg8YDzAQ7XrxG2) | [Black Eclipse](https://open.spotify.com/album/3NvyBdYCHsCKwxyqAPfCHj) | 2:56 | 2023-10-27 | 2024-03-20 |
 | [Black Ice \- Boris Brejcha Remix](https://open.spotify.com/track/4oKpdNCActjFU2kDbY3iLi) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Black Ice \(Boris Brejcha Remix\)](https://open.spotify.com/album/75COllS7axLZDroQCGWCFb) | 8:23 | 2022-09-16 | 2022-12-10 |
@@ -67,6 +68,7 @@
 | [ce n'est pas la réalité \(perlonesque\)](https://open.spotify.com/track/3ZtfkDYaF4M61uNvjCbIni) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj), [Drea Perlon](https://open.spotify.com/artist/66z8ifbUF6uMEg6X44vXbw) | [Ce n'est pas la réalité EP](https://open.spotify.com/album/7HLoHa6qc7E47t9EwBxHKv) | 6:26 | 2024-10-28 | 2025-06-28 |
 | [Cedes](https://open.spotify.com/track/3gCqPq2W4Soe7v8QTor0mN) | [Rico Puestel](https://open.spotify.com/artist/6onCOduLbP6KH26LqSRV69) | [Cedes](https://open.spotify.com/album/7vqjuCQYlcv1LRMqNmXJxl) | 6:36 | 2022-09-16 | 2023-10-28 |
 | [Cee](https://open.spotify.com/track/3uH4GSjsQRDnvdQQCHCXD3) | [Fabique](https://open.spotify.com/artist/69CFg5Gp1zrNZbqLjprGS8) | [Cee](https://open.spotify.com/album/0984f8nBVFnUqEebp5bFLg) | 5:11 | 2023-10-27 | 2023-12-09 |
+| [Certified Original](https://open.spotify.com/track/6bOCU2u20snODY1fMYrFpP) | [Frieder & Jakob](https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V) | [Certified Original](https://open.spotify.com/album/3EOjKhjmKd3eSm4BvF2fQW) | 3:05 | 2026-06-19 |  |
 | [Chanji](https://open.spotify.com/track/0JWNZUUdtsve3VvAVNgqcx) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Chanji](https://open.spotify.com/album/1hIhXKDt6u9KHEI6oIfLr4) | 3:36 | 2026-03-13 | 2026-05-16 |
 | [Chezana \- Extended Mix](https://open.spotify.com/track/2mZQeDBnroSHx2QIUB2Cv1) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M), [Tarania](https://open.spotify.com/artist/2Bx8ng6VxOmUIr18SpPwQD) | [Chezana](https://open.spotify.com/album/3eupXugfZMOCkZmaR2vgI9) | 4:48 | 2026-02-06 | 2026-02-21 |
 | [Clearer Mind](https://open.spotify.com/track/2ELTcPtYTXaQC5OruwrOSi) | [Prevision](https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs) | [Clearer Mind](https://open.spotify.com/album/0wipOv3FjBQlbpXef5YQ4a) | 7:29 | 2024-10-28 | 2025-02-15 |

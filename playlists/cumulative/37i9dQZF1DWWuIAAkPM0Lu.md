@@ -4,7 +4,7 @@
 
 > Vi er klar til weekendens hedebølge med WAVY @lamin.wavy, right? 🥵
 
-10,994 songs - 23 day 19 hr 3 min
+10,995 songs - 23 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7190,6 +7190,7 @@
 | [On The Low](https://open.spotify.com/track/21ZoZf3uejSGVff0eZk31y) | [Mark Vox](https://open.spotify.com/artist/5MeDekmzOYzHmRJS1159YL) | [On The Low](https://open.spotify.com/album/64GDqOkYuU46TEiRrStqTg) | 2:42 | 2025-01-02 | 2025-01-10 |
 | [ON THE LOW](https://open.spotify.com/track/7JJsA3K4QxzK6SU3BRnvMd) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ON THE LOW](https://open.spotify.com/album/3Zu1sBpLxNrYzEDAk6mEjN) | 2:16 | 2025-03-27 | 2025-04-04 |
 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 | 2025-07-31 | 2025-08-08 |
+| [ON THE LOW feat tyler, the creator](https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 3:03 | 2026-06-18 |  |
 | [On The Way](https://open.spotify.com/track/6sYjJiyaE4thO62cLT8VWY) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [On The Way](https://open.spotify.com/album/3jjLfizSOLAfw4phk7n64W) | 3:59 | 2025-09-11 | 2025-09-19 |
 | [On This Hill](https://open.spotify.com/track/5T460Zf29u1jlOpbcKrfEA) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [On This Hill](https://open.spotify.com/album/1hyZDQgwKAWjPwDXhjJxx7) | 2:34 | 2025-04-03 | 2025-04-11 |
 | [On This Love](https://open.spotify.com/track/25s2Q50d7ahhF7rMoGZkzF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [On This Love](https://open.spotify.com/album/4dGflZ7TPuYgPVrYOhiPjd) | 2:49 | 2025-05-01 | 2025-05-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Lovely, acoustic pop. Cover: Taylor Swift",
-  "num_followers": 171451,
+  "num_followers": 171453,
   "original_name": "Acoustic Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHxhU1weRg8T0ZDjM2Rt1tRAaySo",
+  "snapshot_id": "AAAAAMbHfveWa965gCHNsIbJ99LTHwTZ",
   "tracks": [
     {
       "added_at": "2026-06-12 04:42:31",
@@ -583,22 +583,6 @@
       "duration_ms": 236320,
       "name": "Nightvisions",
       "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
-    },
-    {
-      "added_at": "2026-03-31 14:30:09",
-      "album": {
-        "name": "LA",
-        "url": "https://open.spotify.com/album/2Lvt5Kiz9CPM0vcHDCvduH"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 200444,
-      "name": "LA",
-      "url": "https://open.spotify.com/track/0NZ95zuvvves6AI83A9W0S"
     },
     {
       "added_at": "2026-03-31 14:30:09",

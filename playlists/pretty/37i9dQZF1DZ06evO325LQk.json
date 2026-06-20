@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38329,
+  "num_followers": 38326,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAAAi7wh6YMuaqb9Eh/iurS9O",
+  "snapshot_id": "ajM1AAAAAAAc/eCVWa1nB3gYuS+rg9MF",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Me See Ya (feat. MUNA)",
+        "url": "https://open.spotify.com/album/4RCMft0azAOIIGWv3rpd6B"
+      },
+      "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 205592,
+      "name": "Let Me See Ya (feat. MUNA)",
+      "url": "https://open.spotify.com/track/6K0iZIS5wPirY5IHpxHvq5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MSMSMSM",
         "url": "https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4"
       },
@@ -335,6 +359,22 @@
       "duration_ms": 215628,
       "name": "MSMSMSM",
       "url": "https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 280286,
+      "name": "Infatuation",
+      "url": "https://open.spotify.com/track/3UYjzTbFu1qJjxkgktKXJC"
     },
     {
       "added_at": null,
@@ -355,22 +395,6 @@
       "duration_ms": 167458,
       "name": "La Ch\u00edqui",
       "url": "https://open.spotify.com/track/51Xn6IYNyiYaKc8ECI5CUr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 280286,
-      "name": "Infatuation",
-      "url": "https://open.spotify.com/track/3UYjzTbFu1qJjxkgktKXJC"
     },
     {
       "added_at": null,
@@ -500,17 +524,13 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         },
         {
-          "name": "BC Kingdom",
-          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
-        },
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
         }
       ],
-      "duration_ms": 244062,
-      "name": "Live In My Truth (feat. BC Kingdom and LIZ)",
-      "url": "https://open.spotify.com/track/2OnQbbTwzHS72bcVjeRZW1"
+      "duration_ms": 244839,
+      "name": "My Forever (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT"
     },
     {
       "added_at": null,
@@ -584,13 +604,17 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         },
         {
-          "name": "Cecile Believe",
-          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+          "name": "BC Kingdom",
+          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
+        },
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
         }
       ],
-      "duration_ms": 244839,
-      "name": "My Forever (feat. Cecile Believe)",
-      "url": "https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT"
+      "duration_ms": 244062,
+      "name": "Live In My Truth (feat. BC Kingdom and LIZ)",
+      "url": "https://open.spotify.com/track/2OnQbbTwzHS72bcVjeRZW1"
     },
     {
       "added_at": null,

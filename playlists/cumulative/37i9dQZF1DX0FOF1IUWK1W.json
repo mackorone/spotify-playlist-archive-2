@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 178882,
       "name": "Apaga Apaga Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL"
@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 247980,
       "name": "Beatriz",
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 99692,
       "name": "Bola Uma Vela (Trava Chip)",
       "url": "https://open.spotify.com/track/4tP2kbroBcBmYk4IhbYwu5"
@@ -3821,6 +3821,48 @@
     },
     {
       "album": {
+        "name": "Cuida do Pet",
+        "url": "https://open.spotify.com/album/3NzIzRMF8NaWNqTHmS7R3a"
+      },
+      "artists": [
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        },
+        {
+          "name": "Mc Iguinho Ct",
+          "url": "https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo"
+        },
+        {
+          "name": "MC Willian",
+          "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Dj Aladin GDB",
+          "url": "https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459212,
+      "name": "Cuida do Pet",
+      "url": "https://open.spotify.com/track/2gbEvM5IwVIwJFpTVPUXV5"
+    },
+    {
+      "album": {
         "name": "C\u00ea T\u00e1 Preparada (Ao Vivo)",
         "url": "https://open.spotify.com/album/0SKpoFXvWGulci9ZGmWKCy"
       },
@@ -4450,7 +4492,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 170581,
       "name": "Desgra\u00e7a",
       "url": "https://open.spotify.com/track/7kLZlMAsV9Kx7RynqQaTiG"
@@ -5365,6 +5407,24 @@
     },
     {
       "album": {
+        "name": "Errado o Triplo (\u00d4h Perigo) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1lFXn6R4fhKWgcL950Z3Dt"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157358,
+      "name": "Errado o Triplo (\u00d4h Perigo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4TvVqX9HOMTvDJXYHxHbq7"
+    },
+    {
+      "album": {
         "name": "Cintilante (Ao Vivo)",
         "url": "https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK"
       },
@@ -5746,6 +5806,36 @@
       "duration_ms": 154560,
       "name": "Eu S\u00f3 Quero Tu",
       "url": "https://open.spotify.com/track/07gyedLla60LsxCljcKCiv"
+    },
+    {
+      "album": {
+        "name": "Toca Aquela2.0",
+        "url": "https://open.spotify.com/album/0Z47P8o8tMVSFmfnB2gk3m"
+      },
+      "artists": [
+        {
+          "name": "Toca Aquela",
+          "url": "https://open.spotify.com/artist/77HrIL9YZ1VR6Uvf3WGHE7"
+        },
+        {
+          "name": "Thauane",
+          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        },
+        {
+          "name": "Breno Major",
+          "url": "https://open.spotify.com/artist/53cEbokP6S7cahtXPXvQ5c"
+        },
+        {
+          "name": "Som de Faculdade",
+          "url": "https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Eu Te Esperarei",
+      "url": "https://open.spotify.com/track/5ICt8bhdL84T9qYZnp05ze"
     },
     {
       "album": {
@@ -6820,7 +6910,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 273326,
       "name": "Gauchinha",
       "url": "https://open.spotify.com/track/7qqixxBvZIGSep53Eh2o0b"
@@ -7118,6 +7208,24 @@
       "duration_ms": 209032,
       "name": "Hino dos Mlks",
       "url": "https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ"
+    },
+    {
+      "album": {
+        "name": "Impulso, Vol 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/40Xc6SkClmEJasKW4hfXIp"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155553,
+      "name": "Hoje N\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/7rrzNI9TrcK7HLc5mBHUJn"
     },
     {
       "album": {
@@ -7468,7 +7576,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 148645,
       "name": "JETSKI",
       "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
@@ -7664,7 +7772,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 173858,
       "name": "Lembrei de Tu",
       "url": "https://open.spotify.com/track/1lokGTw8YKDexcSPtQ8AQ3"
@@ -8495,6 +8603,24 @@
     },
     {
       "album": {
+        "name": "Paralelos Vol. 02",
+        "url": "https://open.spotify.com/album/1i6thmVWAz7Q9CMBSIWim5"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148195,
+      "name": "Me Fala Qual Necessidade - Ao Vivo",
+      "url": "https://open.spotify.com/track/42AIPMFY5Plqxr4Mw6Bhx9"
+    },
+    {
+      "album": {
         "name": "SUPER",
         "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
@@ -8992,6 +9118,36 @@
       "duration_ms": 144160,
       "name": "Melzinho",
       "url": "https://open.spotify.com/track/4HAF5oAZt0Dq7pF6P0NqEW"
+    },
+    {
+      "album": {
+        "name": "Quem T\u00e1 Vivo, T\u00e1 Vivendo",
+        "url": "https://open.spotify.com/album/5bfMYcaucm6RfNqZZTFjo9"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        },
+        {
+          "name": "DJ Noiskita",
+          "url": "https://open.spotify.com/artist/3TYTLGZJkc58xamupVrfFl"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215433,
+      "name": "Mente Barulhenta",
+      "url": "https://open.spotify.com/track/2364CtKIeJNVUnZZHKrzIr"
     },
     {
       "album": {
@@ -13517,6 +13673,24 @@
     },
     {
       "album": {
+        "name": "Manifesto Musical 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6xWtWF4IELcn31NEU5eMcq"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "Saudade De Quem Eu Sou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3xgrWGYrqZVL7aAvZTm2MA"
+    },
+    {
+      "album": {
         "name": "Manifesto Musical 2 (Ao Vivo / EP4)",
         "url": "https://open.spotify.com/album/5eeXmA5MzujMCU7OMy194q"
       },
@@ -13546,7 +13720,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 153103,
       "name": "Saudade De Quem Eu Sou - Ao Vivo",
       "url": "https://open.spotify.com/track/7tesyGMnAFNI0l2xaxcFKi"
@@ -13572,7 +13746,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 170777,
       "name": "Saudade do Carai",
       "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
@@ -14974,10 +15148,28 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 163207,
       "name": "Te Amar \u00c9 Meu Talento - Ao Vivo",
       "url": "https://open.spotify.com/track/0Jn2mV8cW1bkTGkyuB26Fs"
+    },
+    {
+      "album": {
+        "name": "Sertanejo Respira (Ao Vivo Em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/0p6IyKCVANLx7knOPSvw2P"
+      },
+      "artists": [
+        {
+          "name": "Fred & Fabr\u00edcio",
+          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163207,
+      "name": "Te Amar \u00c9 Meu Talento - Ao Vivo",
+      "url": "https://open.spotify.com/track/2qG8U0e7uBqwu5vlV1oKNf"
     },
     {
       "album": {
@@ -16714,6 +16906,24 @@
       "duration_ms": 147132,
       "name": "Voltou Com Quem N\u00e3o Voltava - Ao Vivo",
       "url": "https://open.spotify.com/track/0Q1oLvAI9QaD3DIlvluTqx"
+    },
+    {
+      "album": {
+        "name": "Esquenta Pro S\u00e3o Jo\u00e3o",
+        "url": "https://open.spotify.com/album/6KkT7aOslNVFT5SUti5bbM"
+      },
+      "artists": [
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162858,
+      "name": "Volt\u00e1vel",
+      "url": "https://open.spotify.com/track/6Yf90AbdxoSL16346QKLzT"
     },
     {
       "album": {

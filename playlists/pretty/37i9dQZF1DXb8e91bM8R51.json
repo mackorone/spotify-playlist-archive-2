@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 53034,
+  "num_followers": 53031,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
+        "name": "Ronaldinho",
+        "url": "https://open.spotify.com/album/6JQQKrPXvSeAI4eoGi6kWU"
+      },
+      "artists": [
+        {
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 235776,
+      "name": "Ronaldinho",
+      "url": "https://open.spotify.com/track/35JqNzZFpwrODnieizyUm0"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
         "name": "I Know NIGO!",
         "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 174862,
       "name": "Lost and Found Freestyle 2019 (with Tyler, The Creator & Nigo)",
       "url": "https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
-        "name": "Ronaldinho",
-        "url": "https://open.spotify.com/album/6JQQKrPXvSeAI4eoGi6kWU"
-      },
-      "artists": [
-        {
-          "name": "Lord Apex",
-          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 235776,
-      "name": "Ronaldinho",
-      "url": "https://open.spotify.com/track/35JqNzZFpwrODnieizyUm0"
     },
     {
       "added_at": "2026-05-07 21:17:30",

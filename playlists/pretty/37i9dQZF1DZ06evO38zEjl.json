@@ -1,12 +1,12 @@
 {
   "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
-  "num_followers": 3382,
+  "num_followers": 3384,
   "original_name": "This Is Jon Hassell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAABFkGdCoK/YAoxHF0l3SwgM",
+  "snapshot_id": "ajM1AAAAAACvUTFHFbqfiouBr1l4PUT/",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maarifa Street",
-        "url": "https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 429160,
-      "name": "Maarifa Street",
-      "url": "https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Utopies",
         "url": "https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 167880,
       "name": "Parasol Blanc, pt. 1",
       "url": "https://open.spotify.com/track/6v5duRp0Su1k7s8GNqrfns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 429160,
+      "name": "Maarifa Street",
+      "url": "https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Tales of the Near Future (Clairvoyance)",
+      "url": "https://open.spotify.com/track/41NtDamY27bjNQwwvKGCww"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seeing Through Sound (Pentimento Volume Two)",
         "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
       },
@@ -887,22 +907,6 @@
       "duration_ms": 136826,
       "name": "Reykjavik",
       "url": "https://open.spotify.com/track/0A4uK12VvfptV5QTJinuV6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aka / Darbari / Java",
-        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 832160,
-      "name": "Darbari Extension I",
-      "url": "https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO"
     }
   ],
   "unique_name": "This Is Jon Hassell",

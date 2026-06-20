@@ -4,7 +4,7 @@
 
 > Canciones que tenés que escuchar  📸 Olivia Rodrigo
 
-1,212 songs - 2 day 14 hr 21 min
+1,213 songs - 2 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [ALGO TÚ](https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [ALGO TÚ](https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo) | 3:33 | 2026-03-06 |  |
 | [ALGUIEN MÁS \(With Yami Safdie\)](https://open.spotify.com/track/0YeGf9akfyIq3FyKL1rkPl) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:21 | 2023-08-18 | 2023-09-02 |
 | [algún día](https://open.spotify.com/track/66v7Rcc25aSprVOwBzqmdZ) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [algún día](https://open.spotify.com/album/000oBFIq4QNMY8ZV5o0z4c) | 3:11 | 2025-11-14 | 2026-04-11 |
-| [algún día \- Spotify Sessions](https://open.spotify.com/track/0dbKJL6gTj6sxaG4pytAfl) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:15 | 2026-02-04 |  |
+| [algún día \- Spotify Sessions](https://open.spotify.com/track/0dbKJL6gTj6sxaG4pytAfl) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:15 | 2026-02-04 | 2026-06-20 |
 | [Alma de Diamante](https://open.spotify.com/track/7K3cxHHs1s3n2cq9xenNCk) | [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv), [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [EN VIVO VOLUMEN I](https://open.spotify.com/album/5JsejNz8xfUgabk9A83moM) | 6:33 | 2025-09-19 | 2025-09-27 |
 | [Almas Gemelas](https://open.spotify.com/track/1ATzXsjdUhrQKOrTMmJBTn) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Almas Gemelas](https://open.spotify.com/album/489b7rRUZ1N2EPXRnGMpW2) | 2:56 | 2025-07-04 | 2025-08-23 |
 | [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-01-10 | 2025-03-19 |
@@ -517,6 +517,7 @@
 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 | 2023-11-24 | 2023-12-23 |
 | [La Chispa Es Una](https://open.spotify.com/track/7lLc3W3Yb2vGOrkuK0N0XH) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [La Chispa Es Una](https://open.spotify.com/album/1NJUBPeIi31tnYEOBtsSnr) | 2:51 | 2023-06-02 | 2023-09-27 |
 | [La Cobra](https://open.spotify.com/track/1W88WCqW8FtBep9femjfSh) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [La Cobra](https://open.spotify.com/album/1zgag3eaEU9q7aU8Xqr6Z6) | 3:46 | 2024-11-29 | 2025-05-17 |
+| [La Cuarta Estrella](https://open.spotify.com/track/2isognTzyURyPXeHPbRhVi) | [PALMITO](https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v) | [La Cuarta Estrella](https://open.spotify.com/album/7sScNswh3NiMX7biccktnE) | 2:46 | 2026-06-19 |  |
 | [LA CUEVA](https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [LA CUEVA](https://open.spotify.com/album/26dJWqDIdIY9iAmntxjOiR) | 2:44 | 2024-12-20 | 2025-01-11 |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2024-01-26 | 2024-02-10 |
 | [LA ELITE](https://open.spotify.com/track/2Fn7ArECH8Sgy4uXQYp4lh) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [KUSTOM](https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp) | 2:10 | 2024-10-25 | 2024-11-16 |

@@ -1,13 +1,97 @@
 {
   "description": "The best in blues right now. Cover: Ruthie Foster",
-  "num_followers": 153415,
+  "num_followers": 153529,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAICQi1nu/GSrM5fD+T209uSLHX1s",
+  "snapshot_id": "AAAAAD2+nDZnAW15W5XgCSY5ppne74Ea",
   "tracks": [
+    {
+      "added_at": "2026-06-19 04:00:33",
+      "album": {
+        "name": "Solidarity Song / Abolition Song",
+        "url": "https://open.spotify.com/album/6nVb4kOVdBJW2Eo0PSTyFE"
+      },
+      "artists": [
+        {
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        },
+        {
+          "name": "Miki Howard",
+          "url": "https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh"
+        },
+        {
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
+        },
+        {
+          "name": "Marc Ribot",
+          "url": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "name": "Social Science",
+          "url": "https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5"
+        },
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        },
+        {
+          "name": "Matthew Stevens",
+          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
+        },
+        {
+          "name": "Morgan Guerin",
+          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "Solidarity Song",
+      "url": "https://open.spotify.com/track/2EUuB8eqBKC9FHDI5ZMESQ"
+    },
+    {
+      "added_at": "2026-06-19 04:00:33",
+      "album": {
+        "name": "Death Letter Blues",
+        "url": "https://open.spotify.com/album/6fl9kTNZ95QhIsPm2pODUw"
+      },
+      "artists": [
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        },
+        {
+          "name": "Martin Gellner",
+          "url": "https://open.spotify.com/artist/4htujiPBxC6ynIY9V6sKOR"
+        },
+        {
+          "name": "Ground Zero Blues Club Band",
+          "url": "https://open.spotify.com/artist/03hSW2Ru3hyb1bADhUZYgT"
+        },
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Mark Yacovone",
+          "url": "https://open.spotify.com/artist/7CJGPqQhhAbOVVmhiJMPh4"
+        },
+        {
+          "name": "Jimmy Kinard",
+          "url": "https://open.spotify.com/artist/1gdIgnOhtSCeIHelMnKDaI"
+        },
+        {
+          "name": "Steve Potts",
+          "url": "https://open.spotify.com/artist/2Z43xSYYSpeO07H2BYQD53"
+        }
+      ],
+      "duration_ms": 240149,
+      "name": "Death Letter Blues",
+      "url": "https://open.spotify.com/track/0w2OjlNhn3zYPAH32HjZAx"
+    },
     {
       "added_at": "2026-06-05 04:00:30",
       "album": {
@@ -23,6 +107,26 @@
       "duration_ms": 199969,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3OsPdwc8t0ReCQjGFarwvZ"
+    },
+    {
+      "added_at": "2026-06-19 04:00:33",
+      "album": {
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "Savior With A Razor (feat. Slash)",
+      "url": "https://open.spotify.com/track/6Yk9u3C8EVpyixdgXv0S6G"
     },
     {
       "added_at": "2026-06-12 04:00:22",
@@ -227,22 +331,6 @@
       "duration_ms": 255942,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/2YN68c2uZ5b5aipZJtul4u"
-    },
-    {
-      "added_at": "2026-04-24 04:03:28",
-      "album": {
-        "name": "You Still Got Me (Deluxe)",
-        "url": "https://open.spotify.com/album/17m8T1FS59klYDuvN737hT"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 420280,
-      "name": "Mean Ole Man Of Mine",
-      "url": "https://open.spotify.com/track/6JWZuNFOSLRwcGAW82GQEp"
     },
     {
       "added_at": "2026-03-27 04:00:07",
@@ -1775,42 +1863,6 @@
       "duration_ms": 246946,
       "name": "Condition Blue",
       "url": "https://open.spotify.com/track/7HQshuPqE8A8OA0bdH9xYb"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Good God I Got The Blues",
-        "url": "https://open.spotify.com/album/4htnUNP2Jte3CVgeHUj8b6"
-      },
-      "artists": [
-        {
-          "name": "Memphis Royal Brothers",
-          "url": "https://open.spotify.com/artist/324gyHepTRkRqJObgifb67"
-        },
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 261853,
-      "name": "Good God I Got The Blues",
-      "url": "https://open.spotify.com/track/31M0bTiGgPWL0Vl5aucBxg"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/7MaRq0aht9NyYJotzgur8Y"
-      },
-      "artists": [
-        {
-          "name": "Snowy White",
-          "url": "https://open.spotify.com/artist/4DMlDJn7CPSSS0DuUf1vrH"
-        }
-      ],
-      "duration_ms": 379472,
-      "name": "Unfinished Business",
-      "url": "https://open.spotify.com/track/6LskEDoruABEzMKHly7D99"
     },
     {
       "added_at": "2024-07-12 04:00:00",

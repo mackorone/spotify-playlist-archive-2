@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari Fajar Noor, Tyla, Mario G Klau, Juan Reza dan masih banyak lagi dari dalam dan mancanegara.",
-  "num_followers": 245283,
+  "num_followers": 245613,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEBn4YVF5gU5T0S9MfhIuRFpTXF6",
+  "snapshot_id": "AAAAAPsC1gR8EYS0HGTc6sXhUzKnWaTG",
   "tracks": [
     {
       "added_at": "2026-06-18 17:00:19",
@@ -91,6 +91,26 @@
       "duration_ms": 177000,
       "name": "Do your dance",
       "url": "https://open.spotify.com/track/5POcU3tBNEXuIDgfYo4TEa"
+    },
+    {
+      "added_at": "2026-06-19 09:00:04",
+      "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 244669,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
     },
     {
       "added_at": "2026-06-18 17:00:19",
@@ -478,6 +498,10 @@
         {
           "name": "Leonardo Ringo",
           "url": "https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL"
+        },
+        {
+          "name": "Miyane Soemitro",
+          "url": "https://open.spotify.com/artist/3RLBh8sYkQLAFDoAcpcN6t"
         }
       ],
       "duration_ms": 443000,

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Cool Guy",
+        "url": "https://open.spotify.com/album/4k9XE5JzzWmtoY8eMQQuRY"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Cool Guy",
+      "url": "https://open.spotify.com/track/20X1G6CNx9L0hcuHA3oqxi"
+    },
+    {
+      "album": {
         "name": "Interiors",
         "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
       },

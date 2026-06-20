@@ -5559,6 +5559,24 @@
     },
     {
       "album": {
+        "name": "A Needle In A Haystack",
+        "url": "https://open.spotify.com/album/75dPXEqGqwb1fKEJVXxGqU"
+      },
+      "artists": [
+        {
+          "name": "Ato P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196992,
+      "name": "A Needle In A Haystack",
+      "url": "https://open.spotify.com/track/1i6Xp9sKqWGQjASQWljyNK"
+    },
+    {
+      "album": {
         "name": "A New Day (feat. Celine Dion)",
         "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
       },
@@ -291558,10 +291576,28 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 234440,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/1XNUmD035Ft6LLXDuXCcJh"
+    },
+    {
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/0nfR3Ynoarnypo1jcpNwDj"
+      },
+      "artists": [
+        {
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234440,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/645Nzy8pjijHCGktPNEv5O"
     },
     {
       "album": {

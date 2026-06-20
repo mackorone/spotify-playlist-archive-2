@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari Fajar Noor, Tyla, Mario G Klau, Juan Reza dan masih banyak lagi dari dalam dan mancanegara.
 
-31,955 songs - 75 day 17 hr 48 min
+31,956 songs - 75 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11095,6 +11095,7 @@
 | [Heaven Exhibition](https://open.spotify.com/track/1WT0mnY6h9SDhGKNgki12m) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Heaven Exhibition](https://open.spotify.com/album/60FCx3NDKnkNnqbd5ywIzz) | 4:51 | 2021-12-16 | 2021-12-24 |
 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 | 2024-11-07 | 2024-11-15 |
 | [Heaven Is a Hand to Hold](https://open.spotify.com/track/5z2aQl5Kn9N2B6mwOfdXlx) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:41 | 2021-06-11 | 2021-06-18 |
+| [Heaven Knows](https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heaven Knows](https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR) | 4:04 | 2026-06-19 |  |
 | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/track/7bIq1v8svANsAys7I694Up) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm) | 3:12 | 2020-06-29 | 2020-07-03 |
 | [Heaven on the Other Line](https://open.spotify.com/track/2fs92MPdau3fitNLe4co8S) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Heaven on the Other Line](https://open.spotify.com/album/5tRfmNC6CkKDMefrCqCRdf) | 2:59 | 2025-09-18 | 2025-09-26 |
 | [Heaven On Your Mind](https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Heaven On Your Mind](https://open.spotify.com/album/1oPqsnINC8uvqs1MfxZNez) | 3:44 | 2026-05-21 | 2026-05-29 |
@@ -28725,7 +28726,7 @@
 | [Trinkets](https://open.spotify.com/track/2sTXsUJ9S1cZOtA69inxrv) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Trinkets](https://open.spotify.com/album/3DUFUslq7V7bLbdhGkuU6g) | 1:56 | 2025-08-14 | 2025-08-22 |
 | [Trip](https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Trip](https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n) | 2:56 | 2021-03-06 | 2021-03-14 |
 | [Trip to Japan](https://open.spotify.com/track/5mHJ8IftetyR9nNBIFOFfj) | [FASSounds](https://open.spotify.com/artist/4Zg0XlpXyAa4TJVSzVNfZF) | [Trip to Japan](https://open.spotify.com/album/3wkBAjTBbsUpXKusX0xnV0) | 2:01 | 2023-03-23 | 2023-03-31 |
-| [Trip To The Sun](https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw) | [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL) | [Trip To The Sun](https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF) | 7:23 | 2026-06-18 |  |
+| [Trip To The Sun](https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw) | [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL), [Miyane Soemitro](https://open.spotify.com/artist/3RLBh8sYkQLAFDoAcpcN6t) | [Trip To The Sun](https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF) | 7:23 | 2026-06-18 |  |
 | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/track/7JKIP5eWwPfpijXDU5EmZf) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/album/4pmJH9gH9yZxuPOMU0swI9) | 2:38 | 2023-06-01 | 2023-06-09 |
 | [triple check](https://open.spotify.com/track/63MY8NhFCU4W9fTkSRRL22) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [triple check](https://open.spotify.com/album/2xo6NArAUKDAsjpZzW8LKZ) | 2:22 | 2021-07-02 | 2021-07-09 |
 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-08-31 | 2023-09-08 |

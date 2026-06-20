@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 
 > Our Rock editors' picks of the very best rock, alternative, metal and punk songs of last month\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,660 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,720 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 | 49 | [Cops Clubs/Kids Cigs](https://open.spotify.com/track/5M65ln5Zt0pT1GzDUugAUa) | [Komarov Magnificent Backflip](https://open.spotify.com/artist/5NlTrC804MPqTXwy3CX7fx) | [Cop Days](https://open.spotify.com/album/6ZSwNvgeTVANOvLawy7JSg) | 6:57 |
 | 50 | [We loved each other before we even knew that](https://open.spotify.com/track/76V5Gya3Jorr7QPGImgH59) | [Motel Cecil](https://open.spotify.com/artist/5AaaaiuLFShXMWKTw0KpSL) | [That's life I guess..\. And it sucks!](https://open.spotify.com/album/5wE0bXBOz5kp1MxR7wVFjl) | 1:09 |
 
-Snapshot ID: `AAAAAFwQ/yj8qJWh6TGyLd6v8ks/kh0G`
+Snapshot ID: `AAAAAPsdbacEK1T1gxVjQKUhwaJUEzX9`

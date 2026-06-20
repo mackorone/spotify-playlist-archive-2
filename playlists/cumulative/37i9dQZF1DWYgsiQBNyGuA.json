@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-08",
-  "description": "Soul to brighten up your day. Cover: Tone Stith",
+  "description": "Soul to brighten up your day. Cover: Latanya Alberto",
   "name": "Soulful Day",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 186279,
       "name": "Another Man's Life",
       "url": "https://open.spotify.com/track/06iGEMC0OkfUJyQ4g9Cprs"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 226744,
       "name": "Dream of You",
       "url": "https://open.spotify.com/track/6kBMDjsl16SRkHmtyDi2Vu"
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 184259,
       "name": "Kill Switch",
       "url": "https://open.spotify.com/track/1uLxsQ0X6utcJEV5qE5w88"
@@ -3729,6 +3729,24 @@
     },
     {
       "album": {
+        "name": "Seen",
+        "url": "https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133265,
+      "name": "Purify",
+      "url": "https://open.spotify.com/track/0LU8SUaU3RNhts5NeIdX9v"
+    },
+    {
+      "album": {
         "name": "Question",
         "url": "https://open.spotify.com/album/1kjt69Zh1jAXwndjY0kZ0y"
       },
@@ -3802,6 +3820,24 @@
       "duration_ms": 271573,
       "name": "Really Wanna Be With You",
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
+    },
+    {
+      "album": {
+        "name": "Recognize",
+        "url": "https://open.spotify.com/album/4OftHn7uy80P3yWxjjq4zp"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125278,
+      "name": "Recognize",
+      "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
     },
     {
       "album": {
@@ -4843,6 +4879,42 @@
     },
     {
       "album": {
+        "name": "Sweet Thang",
+        "url": "https://open.spotify.com/album/05wRlo4q22wpGkKDKEHBZe"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154971,
+      "name": "Sweet Thang",
+      "url": "https://open.spotify.com/track/1LseKUjL7AAgkZv7IjEBYk"
+    },
+    {
+      "album": {
+        "name": "Sweetest Season",
+        "url": "https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170753,
+      "name": "Sweetest Season",
+      "url": "https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG"
+    },
+    {
+      "album": {
         "name": "Sweetie",
         "url": "https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36"
       },
@@ -5010,7 +5082,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 220613,
       "name": "These Eyes",
       "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> Your guide to R&B in Canada, with Roy Woods from Brampton, ON.
+> Your guide to R&B in Canada, with Dylan Sinclair from Thornhill, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,610 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,633 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Hold You](https://open.spotify.com/track/0X5obnBCTtXdhJgTwuJ1L5) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Hold You](https://open.spotify.com/album/7spbRt9SqbU9ixAhhTGMyW) | 3:05 |
 | 100 | [Sweet Sensation](https://open.spotify.com/track/08lMm17NyaTxqE2pnyLNi8) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Sweet Sensation](https://open.spotify.com/album/0jKFVbAav1wfa5smwIY0bd) | 3:43 |
 
-Snapshot ID: `AAAAAAxBJLx5kcE1QAVQxlNR8rvM3dhA`
+Snapshot ID: `AAAAAP4VtsAvi1xZVEPb6iQUZ3qLN66/`

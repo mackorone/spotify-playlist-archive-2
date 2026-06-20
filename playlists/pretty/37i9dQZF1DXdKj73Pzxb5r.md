@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover:  Leonardo Ringo
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,959 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,963 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Trip To The Sun](https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw) | [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL) | [Trip To The Sun](https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF) | 7:23 |
+| 1 | [Trip To The Sun](https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw) | [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL), [Miyane Soemitro](https://open.spotify.com/artist/3RLBh8sYkQLAFDoAcpcN6t) | [Trip To The Sun](https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF) | 7:23 |
 | 2 | [Riuh Suara](https://open.spotify.com/track/5oQPQikJWsU0VlqZX2ym5m) | [Fostan](https://open.spotify.com/artist/0YmE9ep0aRPQtyj19FZdqj) | [Riuh Suara](https://open.spotify.com/album/1TSa48dGCMTZU399owez9V) | 5:19 |
 | 3 | [Warm Weather \- Live from Classic Love Songs](https://open.spotify.com/track/30uDQUslGz3nEMoeIpxLsz) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG), [Sheila Dara Aisha](https://open.spotify.com/artist/2R0LdMQd1EpziRZpCnKmvh) | [Warm Weather \(Live from Classic Love Songs\)](https://open.spotify.com/album/04E6qJ3dAOWutgEka5TQFf) | 3:12 |
 | 4 | [I'm Just A Girl](https://open.spotify.com/track/6UXfE2VCzrNI52B9fA2JiA) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Di Hotel Malibu](https://open.spotify.com/album/6y0nT2F3SwFS2dRnvczAFP) | 2:49 |

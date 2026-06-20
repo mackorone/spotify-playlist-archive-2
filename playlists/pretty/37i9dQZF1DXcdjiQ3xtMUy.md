@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Ellize, FY
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,003 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,018 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KARALHO](https://open.spotify.com/track/1vTAwpWr8qOtFM7pfMw6wM) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [KARALHO](https://open.spotify.com/album/5V94gUViWjEaX3RGgshVHz) | 3:00 |
 | 2 | [Ki Allo](https://open.spotify.com/track/1APBa1UnvvcrZJGfHNcRUB) | [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [Ki Allo](https://open.spotify.com/album/4ereTaKGCKJgk2iHkFhJnJ) | 3:13 |
-| 3 | [Ti Thelo Ego Me Sena](https://open.spotify.com/track/7gLT8aVOkQkXQk2yTkZzhF) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Ti Thelo Ego Me Sena](https://open.spotify.com/album/6huYtEFzy9x6gSEvMwdi4A) | 2:55 |
+| 3 | [Ti Thelo Ego Me Sena](https://open.spotify.com/track/7gLT8aVOkQkXQk2yTkZzhF) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd), [Eleana Vrachali](https://open.spotify.com/artist/0L7vGwIsynB86DhC2QQmzn) | [Ti Thelo Ego Me Sena](https://open.spotify.com/album/6huYtEFzy9x6gSEvMwdi4A) | 2:55 |
 | 4 | [ANASA](https://open.spotify.com/track/5prXcfHoW8nIij8nuc52kd) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [TIGER LUV](https://open.spotify.com/album/6srP9HJXcKA4lwfa8viVPJ) | 3:00 |
 | 5 | [Jackie Ο'](https://open.spotify.com/track/3eki2WDPpHdejxehX147UA) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Jackie Ο'](https://open.spotify.com/album/35hZqIutiGG7tCaPNDlnE9) | 2:37 |
 | 6 | [Granita Lemoni](https://open.spotify.com/track/1d7mMTCDkPB6No9nvJ6Lhc) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Granita Lemoni](https://open.spotify.com/album/6QusMyuqgtSe2W2naYg85e) | 3:36 |

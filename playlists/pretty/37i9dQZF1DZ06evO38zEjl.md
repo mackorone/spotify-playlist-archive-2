@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,382 likes - 50 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,384 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 40 | [Timeless](https://open.spotify.com/track/2rHlFsC6bnBxeJkjYvNea9) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 8:19 |
 | 41 | [Vernal Equinox](https://open.spotify.com/track/5GIGWcHy4Z9MZcXfPwRd7z) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 21:54 |
 | 42 | [Empire II](https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 4:53 |
-| 43 | [Maarifa Street](https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 7:09 |
-| 44 | [Parasol Blanc, pt\. 1](https://open.spotify.com/track/6v5duRp0Su1k7s8GNqrfns) | [Hadouk Trio](https://open.spotify.com/artist/6LGJztKkpc9F9yNpPSh8Js), [Didier Malherbe](https://open.spotify.com/artist/29ZPj7LSaUStGFCPyivcOl), [Loy Ehrlich](https://open.spotify.com/artist/1Y21TMXwcmh3J7ScCMRQdH), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Utopies](https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7) | 2:47 |
+| 43 | [Parasol Blanc, pt\. 1](https://open.spotify.com/track/6v5duRp0Su1k7s8GNqrfns) | [Hadouk Trio](https://open.spotify.com/artist/6LGJztKkpc9F9yNpPSh8Js), [Didier Malherbe](https://open.spotify.com/artist/29ZPj7LSaUStGFCPyivcOl), [Loy Ehrlich](https://open.spotify.com/artist/1Y21TMXwcmh3J7ScCMRQdH), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Utopies](https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7) | 2:47 |
+| 44 | [Maarifa Street](https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 7:09 |
 | 45 | [Unknown Wish](https://open.spotify.com/track/2HPoZ2u0s3mYTBNmV0sVey) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 2:57 |
 | 46 | [Empire IV](https://open.spotify.com/track/4ZRIdK87L5YOfVZoywWV60) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 5:13 |
 | 47 | [Ya Safwa Ti](https://open.spotify.com/track/3HIOAlsSQQI8PtI5sNcK1F) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 5:17 |
 | 48 | [Slow Loris Versus Poison Snail](https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj) | [David Toop](https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Pink Noir](https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB) | 9:23 |
-| 49 | [Reykjavik](https://open.spotify.com/track/0A4uK12VvfptV5QTJinuV6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 2:16 |
-| 50 | [Darbari Extension I](https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 13:52 |
+| 49 | [Tales of the Near Future \(Clairvoyance\)](https://open.spotify.com/track/41NtDamY27bjNQwwvKGCww) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 4:19 |
+| 50 | [Reykjavik](https://open.spotify.com/track/0A4uK12VvfptV5QTJinuV6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 2:16 |
 
-Snapshot ID: `ajHjgAAAAABFkGdCoK/YAoxHF0l3SwgM`
+Snapshot ID: `ajM1AAAAAACvUTFHFbqfiouBr1l4PUT/`

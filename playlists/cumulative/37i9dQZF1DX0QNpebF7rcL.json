@@ -2079,6 +2079,48 @@
     },
     {
       "album": {
+        "name": "Death Letter Blues",
+        "url": "https://open.spotify.com/album/6fl9kTNZ95QhIsPm2pODUw"
+      },
+      "artists": [
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        },
+        {
+          "name": "Martin Gellner",
+          "url": "https://open.spotify.com/artist/4htujiPBxC6ynIY9V6sKOR"
+        },
+        {
+          "name": "Ground Zero Blues Club Band",
+          "url": "https://open.spotify.com/artist/03hSW2Ru3hyb1bADhUZYgT"
+        },
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Mark Yacovone",
+          "url": "https://open.spotify.com/artist/7CJGPqQhhAbOVVmhiJMPh4"
+        },
+        {
+          "name": "Jimmy Kinard",
+          "url": "https://open.spotify.com/artist/1gdIgnOhtSCeIHelMnKDaI"
+        },
+        {
+          "name": "Steve Potts",
+          "url": "https://open.spotify.com/artist/2Z43xSYYSpeO07H2BYQD53"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240149,
+      "name": "Death Letter Blues",
+      "url": "https://open.spotify.com/track/0w2OjlNhn3zYPAH32HjZAx"
+    },
+    {
+      "album": {
         "name": "Naked Truth",
         "url": "https://open.spotify.com/album/456DsBFuWSDf02fYcPqp1i"
       },
@@ -3366,7 +3408,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 261853,
       "name": "Good God I Got The Blues",
       "url": "https://open.spotify.com/track/31M0bTiGgPWL0Vl5aucBxg"
@@ -6208,7 +6250,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 420280,
       "name": "Mean Ole Man Of Mine",
       "url": "https://open.spotify.com/track/6JWZuNFOSLRwcGAW82GQEp"
@@ -7751,6 +7793,28 @@
     },
     {
       "album": {
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287666,
+      "name": "Savior With A Razor (feat. Slash)",
+      "url": "https://open.spotify.com/track/6Yk9u3C8EVpyixdgXv0S6G"
+    },
+    {
+      "album": {
         "name": "Scarlet Town",
         "url": "https://open.spotify.com/album/3bDQzaW38BMWykUCiVrdFM"
       },
@@ -8216,6 +8280,52 @@
       "duration_ms": 154840,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/4dtYmYgTH5I5uZxUuF5eon"
+    },
+    {
+      "album": {
+        "name": "Solidarity Song / Abolition Song",
+        "url": "https://open.spotify.com/album/6nVb4kOVdBJW2Eo0PSTyFE"
+      },
+      "artists": [
+        {
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        },
+        {
+          "name": "Miki Howard",
+          "url": "https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh"
+        },
+        {
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
+        },
+        {
+          "name": "Marc Ribot",
+          "url": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+        },
+        {
+          "name": "Social Science",
+          "url": "https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5"
+        },
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        },
+        {
+          "name": "Matthew Stevens",
+          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
+        },
+        {
+          "name": "Morgan Guerin",
+          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236693,
+      "name": "Solidarity Song",
+      "url": "https://open.spotify.com/track/2EUuB8eqBKC9FHDI5ZMESQ"
     },
     {
       "album": {
@@ -9946,7 +10056,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 379472,
       "name": "Unfinished Business",
       "url": "https://open.spotify.com/track/6LskEDoruABEzMKHly7D99"

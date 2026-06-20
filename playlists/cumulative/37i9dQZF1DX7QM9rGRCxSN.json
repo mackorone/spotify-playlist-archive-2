@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 139023,
       "name": "Al Oc\u00e9ano",
       "url": "https://open.spotify.com/track/0mWnCLerLZOzLaWA4B9UeL"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 222555,
       "name": "De Dios",
       "url": "https://open.spotify.com/track/2pvyTrY3i5N2vjKCH2w6x3"
@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Est\u00e9tica Unisex",
+        "url": "https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS"
+      },
+      "artists": [
+        {
+          "name": "cacomixtle",
+          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113253,
+      "name": "Est\u00e9tica Unisex",
+      "url": "https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV"
+    },
+    {
+      "album": {
         "name": "sky of fading lights",
         "url": "https://open.spotify.com/album/4MsvXCBZ8QZ8VJMnw6B89N"
       },
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 241540,
       "name": "Glaciar de L\u00e1grimas",
       "url": "https://open.spotify.com/track/1sjmhiXos2RJsnjGBUhIqA"
@@ -1649,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Todo Va Hacia el Mar",
+        "url": "https://open.spotify.com/album/3hUBWCquWieokQRa0Yzvmx"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213898,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/1jpP9y8UW2BMBAYYy4QCqQ"
+    },
+    {
+      "album": {
         "name": "Laberinto",
         "url": "https://open.spotify.com/album/64cQcqpTfJQ4YMSvQfxmlo"
       },
@@ -1982,6 +2018,24 @@
       "duration_ms": 273493,
       "name": "Mil Espejos",
       "url": "https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc"
+    },
+    {
+      "album": {
+        "name": "split",
+        "url": "https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN"
+      },
+      "artists": [
+        {
+          "name": "archipi\u00e9lagos",
+          "url": "https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225334,
+      "name": "minet",
+      "url": "https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv"
     },
     {
       "album": {
@@ -3245,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Gu\u00eda para Comprender los Sue\u00f1os",
+        "url": "https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2"
+      },
+      "artists": [
+        {
+          "name": "Nunca Pasa Nada",
+          "url": "https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Todos Preguntaron por Ti",
+      "url": "https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw"
+    },
+    {
+      "album": {
         "name": "Tornado de Acu\u00f1a",
         "url": "https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK"
       },
@@ -3480,7 +3552,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 184377,
       "name": "\u00bfqu\u00e9 M\u00e1s Rompes?",
       "url": "https://open.spotify.com/track/34keejCVZRYTXjsEsLuFhq"

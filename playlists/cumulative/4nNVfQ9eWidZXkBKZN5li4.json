@@ -777,6 +777,36 @@
     },
     {
       "album": {
+        "name": "Bandhu 2.0 (From \"Cocktail 2\")",
+        "url": "https://open.spotify.com/album/5830mF41OEgnX3twGqEzSL"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221777,
+      "name": "Bandhu 2.0 (From \"Cocktail 2\")",
+      "url": "https://open.spotify.com/track/4qnFfsCaMe2Nsg1VfFPxq9"
+    },
+    {
+      "album": {
         "name": "Barbaad (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF"
       },

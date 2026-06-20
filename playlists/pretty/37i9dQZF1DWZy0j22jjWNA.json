@@ -1,6 +1,6 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 123526,
+  "num_followers": 123544,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
+        "name": "You Shine",
+        "url": "https://open.spotify.com/album/72jFirpOEYhHfEPNC0kpQt"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 204255,
+      "name": "You Shine",
+      "url": "https://open.spotify.com/track/7xErthsNR0N0Q6jCfTrgF0"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
         "name": "Rise My Soul, The Lord Is Risen",
         "url": "https://open.spotify.com/album/6k2NpIoDbowre3D5Tloqyl"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 200415,
       "name": "Rise My Soul, The Lord Is Risen",
       "url": "https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
-        "name": "You Shine",
-        "url": "https://open.spotify.com/album/72jFirpOEYhHfEPNC0kpQt"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 204255,
-      "name": "You Shine",
-      "url": "https://open.spotify.com/track/7xErthsNR0N0Q6jCfTrgF0"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
+        "name": "GOOD THING",
+        "url": "https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 153770,
+      "name": "GOOD THING",
+      "url": "https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
         "name": "So Blessed",
         "url": "https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 196862,
       "name": "So Blessed",
       "url": "https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
-        "name": "GOOD THING",
-        "url": "https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 153770,
-      "name": "GOOD THING",
-      "url": "https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
-      },
-      "artists": [
-        {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 223695,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/7ilYm200byu5tpaXE97NVR"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Hope Builds (Live)",
         "url": "https://open.spotify.com/album/7nqbKIBhttgx5EXg8BW5sD"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 343592,
       "name": "Hope Builds - Live",
       "url": "https://open.spotify.com/track/5z29OLLU0EQq2mSVR44TTE"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 223695,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/7ilYm200byu5tpaXE97NVR"
     },
     {
       "added_at": "2026-04-17 07:08:56",

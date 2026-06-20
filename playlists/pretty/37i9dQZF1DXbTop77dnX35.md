@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Khaid, Tyla, Falz, Yemi Alade, Chris Brown and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,944 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,508 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 8 | [RAPID FYAH \(feat\. Skillibeng\)](https://open.spotify.com/track/2liaCKyzID20FGfWslwWHA) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [RAPID FYAH \(feat\. Skillibeng\)](https://open.spotify.com/album/5e4EiQFjBNnd1UGx3tnJ5W) | 2:49 |
 | 9 | [Okunkun](https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [Okunkun](https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe) | 2:39 |
 | 10 | [Samankwe](https://open.spotify.com/track/1ouLGBzR2y1EOHhcrB2bjo) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Samankwe](https://open.spotify.com/album/2WX5SHLMFmA1yvqNKgkkmH) | 2:24 |
-| 11 | [Joanna](https://open.spotify.com/track/1HqUNWKlYGjxqw2W28scFK) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN) | [Joanna](https://open.spotify.com/album/0iGHMZSyk18aFfJaTFIMGA) | 2:16 |
-| 12 | [Titled Man](https://open.spotify.com/track/7bwcPyehJbv09za87ij9ox) | [Crown Ape](https://open.spotify.com/artist/6nnAwOJLUlSt8Jjl484R7r), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt), [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX) | [Titled Man](https://open.spotify.com/album/3KKp6GcA79KnWNSCRq4lmo) | 3:38 |
-| 13 | [MAGAA](https://open.spotify.com/track/1uXIywdXW2eaFnD3zJbfpl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [MAGAA](https://open.spotify.com/album/10BL9nd3OGaX5s47NWNIPA) | 3:01 |
-| 14 | [Dantata](https://open.spotify.com/track/0BZIcREt4wKs79qsYTEurB) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Dantata](https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR) | 2:55 |
+| 11 | [Red Benz](https://open.spotify.com/track/4p1OLcAB4oDmhboqikTuHG) | [EKENE](https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP) | [Red Benz](https://open.spotify.com/album/4vqzeWLjVBjADTJT7wzERb) | 3:06 |
+| 12 | [Joanna](https://open.spotify.com/track/1HqUNWKlYGjxqw2W28scFK) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN) | [Joanna](https://open.spotify.com/album/0iGHMZSyk18aFfJaTFIMGA) | 2:16 |
+| 13 | [Titled Man](https://open.spotify.com/track/7bwcPyehJbv09za87ij9ox) | [Crown Ape](https://open.spotify.com/artist/6nnAwOJLUlSt8Jjl484R7r), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt), [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX) | [Titled Man](https://open.spotify.com/album/3KKp6GcA79KnWNSCRq4lmo) | 3:38 |
+| 14 | [MAGAA](https://open.spotify.com/track/1uXIywdXW2eaFnD3zJbfpl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [MAGAA](https://open.spotify.com/album/10BL9nd3OGaX5s47NWNIPA) | 3:01 |
 | 15 | [Ole](https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Ole](https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk) | 2:15 |
 | 16 | [Baba](https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Baba](https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2) | 2:45 |
 | 17 | [Unavailable](https://open.spotify.com/track/50pMmqctbfKZfF8cFbpR8P) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Unavailable](https://open.spotify.com/album/2g5YkZ3CyVbaoqyXjd30fT) | 2:42 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 47 | [Wahala](https://open.spotify.com/track/1fLwHmBlt0Tlg5c2gMtzBv) | [Kxyyz](https://open.spotify.com/artist/5IZlQUbmHJcbuBFRDHB3nB), [Patomant](https://open.spotify.com/artist/3Ceutye6nW8egv4yMn0jc5) | [Wahala](https://open.spotify.com/album/40WJbvKBBOX3U3zvfC0omJ) | 2:37 |
 | 48 | [Color](https://open.spotify.com/track/1bEpSnr5xX4QoyyXaOKq9b) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [Color / Wulo](https://open.spotify.com/album/3MPAuxza590Bd2JbPfxA56) | 2:02 |
 | 49 | [Que Sera Sera](https://open.spotify.com/track/0Zvvcg4ECVQlMW7bKuXw1v) | [boyBlandi](https://open.spotify.com/artist/6glaqL5S7Uw6gZ8Xn1dbaF), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Que Sera Sera/Mercy](https://open.spotify.com/album/0b6wpP1XLYxvB3GlwsE2a6) | 2:30 |
-| 50 | [Me + U \(Destiny\)](https://open.spotify.com/track/66jPFgVH0P7J8ZZRStOqu3) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Me + U \(Destiny\)](https://open.spotify.com/album/5RScNOObQXjy1hYSUWflfI) | 2:46 |
+| 50 | [Me + U \(Destiny\)](https://open.spotify.com/track/66jPFgVH0P7J8ZZRStOqu3) | [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Me + U \(Destiny\)](https://open.spotify.com/album/5RScNOObQXjy1hYSUWflfI) | 2:46 |
 | 51 | [Water](https://open.spotify.com/track/5gBssq6zruvHUSbO3BS6qQ) | [BOLA BMH](https://open.spotify.com/artist/497qEgixkGM0jhzjBqMerI), [Nello MXL](https://open.spotify.com/artist/3tTgOZaxLpzUirK4aKQalD) | [CURRENTS](https://open.spotify.com/album/3jCil0XHwejp2zJRQuHGlW) | 2:06 |
 | 52 | [Ball](https://open.spotify.com/track/3lKrtEaZ9ygyIBpNEzg2lB) | [Will B \(UK\)](https://open.spotify.com/artist/59nSOoGDeR6LmQjmvremjj), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Ball](https://open.spotify.com/album/5uzDexftqi4zPriTRpwBCP) | 5:29 |
 | 53 | [Ofeke](https://open.spotify.com/track/1uMf8cFFxPy3UH2pJ8zmaj) | [Hugo P](https://open.spotify.com/artist/0J6ZIgkuOsplZ6o3VOrb8p) | [Ofeke](https://open.spotify.com/album/0Du8UeScSy7PS7RKjaajOt) | 2:54 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 60 | [EXPENSIVE SILENCE](https://open.spotify.com/track/2NDeN58mnYWyh2Ganydx9I) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [EXPENSIVE SILENCE](https://open.spotify.com/album/2UzBFozgCYLP4dlAa3lkJr) | 2:28 |
 | 61 | [Their Back](https://open.spotify.com/track/7naxFaRA0NQUTOGaSSKqQf) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Their Back](https://open.spotify.com/album/0P7Uw0YVBINiCs68fJ5ax6) | 2:41 |
 | 62 | [Heaven](https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Heaven](https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp) | 3:10 |
-| 63 | [House Call \- A COLORS ENCORE](https://open.spotify.com/track/3kr5GWissJcTzHdQaWmFxX) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [House Call \- A COLORS ENCORE](https://open.spotify.com/album/4UII47mIZbKyutKoW04fm8) | 2:36 |
+| 63 | [House Call \- A COLORS SHOW](https://open.spotify.com/track/3kr5GWissJcTzHdQaWmFxX) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [House Call \- A COLORS SHOW](https://open.spotify.com/album/4UII47mIZbKyutKoW04fm8) | 2:36 |
 | 64 | [Ready](https://open.spotify.com/track/2Md155L5t3ShDWE7lzNYLr) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Ready](https://open.spotify.com/album/6ZP4GInPQJoQovE7lq0xzw) | 2:52 |
 | 65 | [Redo](https://open.spotify.com/track/4dlHUbuOCEQx5S8ty2fx9O) | [I Am Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [Redo](https://open.spotify.com/album/0F6IlHgfvkaEtg7qGXlItf) | 3:07 |
 | 66 | [DJ](https://open.spotify.com/track/0E3pEAs5dLxovmbtwykgOe) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [DJ](https://open.spotify.com/album/1zO2F0TsrEnmvVsI3VxWWi) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 74 | [SAGACITÉ](https://open.spotify.com/track/7iLMhRjmsufvisk3lW4ctc) | [Lamine løssa](https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6) | [CONCRÉTISATION : L'ASCENSION](https://open.spotify.com/album/62jEvfBe59Lh5LQ6DLcDpG) | 2:57 |
 | 75 | [CALE EN L'AIR](https://open.spotify.com/track/2KF8wQnjwhnbt8hnaaCzIB) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq), [TRK.](https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7) | [Sang 9](https://open.spotify.com/album/5wggH2okfXO7c09yVKhPsx) | 2:57 |
 
-Snapshot ID: `AAAAAMbQ9wdI6+W/ncG8P+eFiajmZcoP`
+Snapshot ID: `AAAAAOI1bGEied6/YTYkslTRHw28fBdR`

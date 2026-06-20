@@ -1187,6 +1187,28 @@
     },
     {
       "album": {
+        "name": "Ando Con Perras",
+        "url": "https://open.spotify.com/album/5jBfRUvxb1LzQYuZ7HFvEf"
+      },
+      "artists": [
+        {
+          "name": "Zkiper Mami",
+          "url": "https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE"
+        },
+        {
+          "name": "Flacco Lapresion",
+          "url": "https://open.spotify.com/artist/0vOkRmt817dkOS5As5CBlm"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203821,
+      "name": "Ando Con Perras",
+      "url": "https://open.spotify.com/track/2U4nKVeHQGoz5VYOlN9DP5"
+    },
+    {
+      "album": {
         "name": "ANDROMEDA",
         "url": "https://open.spotify.com/album/1SaKp9LhPnu7NrjlmBt1Tg"
       },
@@ -1548,6 +1570,28 @@
       "duration_ms": 159196,
       "name": "Ay Mamasita",
       "url": "https://open.spotify.com/track/5YrqElRQbXfmx3Xl3aiKwS"
+    },
+    {
+      "album": {
+        "name": "AYER",
+        "url": "https://open.spotify.com/album/4YooBnF2on85pGrSvEAVcK"
+      },
+      "artists": [
+        {
+          "name": "qmalbb",
+          "url": "https://open.spotify.com/artist/0SsBJWsAWMuGDYQlPbqxki"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142066,
+      "name": "AYER",
+      "url": "https://open.spotify.com/track/7FNYHEYrqR8Y2FqM6maT4B"
     },
     {
       "album": {
@@ -5832,7 +5876,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 225000,
       "name": "Detone - Remix",
       "url": "https://open.spotify.com/track/144CppSt3F27GEx1OieUUu"
@@ -7240,7 +7284,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 199992,
       "name": "Entre Nosotros",
       "url": "https://open.spotify.com/track/0dTT7z2uJ3XtwK55kM3511"
@@ -9990,7 +10034,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 144600,
       "name": "Kristiniando",
       "url": "https://open.spotify.com/track/73eu3nEaAqRDQiZpiy6hqH"
@@ -10499,6 +10543,28 @@
     },
     {
       "album": {
+        "name": "La Goga La Armani",
+        "url": "https://open.spotify.com/album/0CsoXIFJxGFt4Rfs0pD4G0"
+      },
+      "artists": [
+        {
+          "name": "Danni Crack",
+          "url": "https://open.spotify.com/artist/4MnK9LSwYFyeDCj6Bu5sf2"
+        },
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114585,
+      "name": "La Goga La Armani",
+      "url": "https://open.spotify.com/track/1PMhtAyfze1gA5jTqOLU4j"
+    },
+    {
+      "album": {
         "name": "La Korta",
         "url": "https://open.spotify.com/album/1dRhO8mUvBtuvAS4JdCzGn"
       },
@@ -10744,7 +10810,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 146711,
       "name": "La M\u00e1s Rika",
       "url": "https://open.spotify.com/track/3eIhjAdYTPIacTss3HGrz6"
@@ -15111,6 +15177,24 @@
     },
     {
       "album": {
+        "name": "No es Igual",
+        "url": "https://open.spotify.com/album/2ijjkmkpCwjdKsELA3k7Ho"
+      },
+      "artists": [
+        {
+          "name": "Leo Torrez",
+          "url": "https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157555,
+      "name": "No es Igual",
+      "url": "https://open.spotify.com/track/2twCftKCfY7rFxQPkGJajS"
+    },
+    {
+      "album": {
         "name": "YNG LGNDZ: Season 1",
         "url": "https://open.spotify.com/album/6THHZzzZicnZYL3HiwnTDL"
       },
@@ -16836,6 +16920,32 @@
       "duration_ms": 137315,
       "name": "Pasele Guera",
       "url": "https://open.spotify.com/track/1062VDQ379Uv9Ih8NYPDIR"
+    },
+    {
+      "album": {
+        "name": "Pasti",
+        "url": "https://open.spotify.com/album/2BdOgLlZjzbD2Pdc8DeRIL"
+      },
+      "artists": [
+        {
+          "name": "BERXZ",
+          "url": "https://open.spotify.com/artist/0qxufA23dCB8Otscfs5qR9"
+        },
+        {
+          "name": "MAXXO L J",
+          "url": "https://open.spotify.com/artist/6YLZmNw7x0vFsdRMX1MtT2"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162772,
+      "name": "Pasti",
+      "url": "https://open.spotify.com/track/3ea5X5PYVyBMAnPRJmsTQ0"
     },
     {
       "album": {
@@ -20106,7 +20216,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 133827,
       "name": "se subio alatorre",
       "url": "https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm"
@@ -20942,7 +21052,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 154342,
       "name": "SMHQEB",
       "url": "https://open.spotify.com/track/7iHUcI22QnlURjP6a0B0dL"

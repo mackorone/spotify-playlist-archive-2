@@ -1,6 +1,6 @@
 {
   "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc190\ud0dc\uc9c4)\nLet's party with cheerful Korean trot medley.",
-  "num_followers": 29712,
+  "num_followers": 29714,
   "original_name": "K-\ud2b8\ub86f \uc2a4\ud0c0 (K-Trot Stars)",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-06-11 07:49:20",
       "album": {
-        "name": "\uc544\ud649 \uc774\uc57c\uae30",
-        "url": "https://open.spotify.com/album/3cbESEgKDuZ1JYO1yDTvB2"
-      },
-      "artists": [
-        {
-          "name": "Na Hoon-A",
-          "url": "https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG"
-        }
-      ],
-      "duration_ms": 278413,
-      "name": "\ud14c\uc2a4\ud615!",
-      "url": "https://open.spotify.com/track/57oDPVvNldgc6setk832Ev"
-    },
-    {
-      "added_at": "2026-06-11 07:49:20",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/1MW5U54Vi6V3N7z7kppwrJ"
       },
@@ -339,22 +323,6 @@
     {
       "added_at": "2026-06-11 07:49:20",
       "album": {
-        "name": "\uc724\uc218\uc77c 35\uc8fc\ub144 \uae30\ub150 \ub77c\uc774\ube0c \uc568\ubc94",
-        "url": "https://open.spotify.com/album/7tgP00py7iogjjccONQgmT"
-      },
-      "artists": [
-        {
-          "name": "Yoon Sooil",
-          "url": "https://open.spotify.com/artist/4EbQDafTmGSL1mVsnlqu99"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "\uc544\ud30c\ud2b8",
-      "url": "https://open.spotify.com/track/4zmR4uqdTzqAU2tkifS0p8"
-    },
-    {
-      "added_at": "2026-06-11 07:49:20",
-      "album": {
         "name": "Music source of Mr. Trot Death match Part1",
         "url": "https://open.spotify.com/album/5GuLmPGu6HMl6uyKVYTDE2"
       },
@@ -367,6 +335,38 @@
       "duration_ms": 200887,
       "name": "Drink Makgeolli",
       "url": "https://open.spotify.com/track/1RwZWVU3f6L0votFsPZ6Sc"
+    },
+    {
+      "added_at": "2026-06-11 07:49:20",
+      "album": {
+        "name": "\uc544\ud649 \uc774\uc57c\uae30",
+        "url": "https://open.spotify.com/album/3cbESEgKDuZ1JYO1yDTvB2"
+      },
+      "artists": [
+        {
+          "name": "Na Hoon-A",
+          "url": "https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG"
+        }
+      ],
+      "duration_ms": 278413,
+      "name": "\ud14c\uc2a4\ud615!",
+      "url": "https://open.spotify.com/track/57oDPVvNldgc6setk832Ev"
+    },
+    {
+      "added_at": "2026-06-11 07:49:20",
+      "album": {
+        "name": "\uc724\uc218\uc77c 35\uc8fc\ub144 \uae30\ub150 \ub77c\uc774\ube0c \uc568\ubc94",
+        "url": "https://open.spotify.com/album/7tgP00py7iogjjccONQgmT"
+      },
+      "artists": [
+        {
+          "name": "Yoon Sooil",
+          "url": "https://open.spotify.com/artist/4EbQDafTmGSL1mVsnlqu99"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "\uc544\ud30c\ud2b8",
+      "url": "https://open.spotify.com/track/4zmR4uqdTzqAU2tkifS0p8"
     },
     {
       "added_at": "2026-06-11 07:49:20",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-06-11 07:49:20",
       "album": {
-        "name": "DAWN (SIX STORIES)",
-        "url": "https://open.spotify.com/album/4HQZTDsgy6CoNdyUGOJeWE"
-      },
-      "artists": [
-        {
-          "name": "Na Hoon-A",
-          "url": "https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Gijang`s Seagull",
-      "url": "https://open.spotify.com/track/6ZQa2BoO4nbOpgBSUdzrAF"
-    },
-    {
-      "added_at": "2026-06-11 07:49:20",
-      "album": {
         "name": "Amor Fati",
         "url": "https://open.spotify.com/album/3tyYlTW18GJNyLTsx2hU1Q"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 209946,
       "name": "Amor Fati",
       "url": "https://open.spotify.com/track/0MtgCf4oUuUwGOczJGvdT1"
+    },
+    {
+      "added_at": "2026-06-11 07:49:20",
+      "album": {
+        "name": "DAWN (SIX STORIES)",
+        "url": "https://open.spotify.com/album/4HQZTDsgy6CoNdyUGOJeWE"
+      },
+      "artists": [
+        {
+          "name": "Na Hoon-A",
+          "url": "https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Gijang`s Seagull",
+      "url": "https://open.spotify.com/track/6ZQa2BoO4nbOpgBSUdzrAF"
     },
     {
       "added_at": "2026-06-11 07:49:20",
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-06-11 07:49:20",
       "album": {
-        "name": "\uae40\uc6a9\uc784 \uc2a4\ud398\uc15c \ubca0\uc2a4\ud2b8 76",
-        "url": "https://open.spotify.com/album/2ik5jCob6eBOWwn0j2oPYh"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/6xVU1RxqmoCXaprKXHSQ4B"
       },
       "artists": [
         {
-          "name": "\uae40\uc6a9\uc784",
-          "url": "https://open.spotify.com/artist/1yQDZDUxKlzAerBjjztpkV"
+          "name": "Yun Tae Kyu",
+          "url": "https://open.spotify.com/artist/6GgKdTVs6DJG9VWlqmlFKQ"
         }
       ],
-      "duration_ms": 169914,
-      "name": "\uc0bc\uac01\uad00\uacc4",
-      "url": "https://open.spotify.com/track/7km9uEfaIcN3ZKFmSe57rD"
+      "duration_ms": 207493,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3PEukWsCMpP1ecZ3ZeN5cB"
     },
     {
       "added_at": "2026-06-11 07:49:20",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-06-11 07:49:20",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/6xVU1RxqmoCXaprKXHSQ4B"
+        "name": "\uae40\uc6a9\uc784 \uc2a4\ud398\uc15c \ubca0\uc2a4\ud2b8 76",
+        "url": "https://open.spotify.com/album/2ik5jCob6eBOWwn0j2oPYh"
       },
       "artists": [
         {
-          "name": "Yun Tae Kyu",
-          "url": "https://open.spotify.com/artist/6GgKdTVs6DJG9VWlqmlFKQ"
+          "name": "\uae40\uc6a9\uc784",
+          "url": "https://open.spotify.com/artist/1yQDZDUxKlzAerBjjztpkV"
         }
       ],
-      "duration_ms": 207493,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3PEukWsCMpP1ecZ3ZeN5cB"
+      "duration_ms": 169914,
+      "name": "\uc0bc\uac01\uad00\uacc4",
+      "url": "https://open.spotify.com/track/7km9uEfaIcN3ZKFmSe57rD"
     },
     {
       "added_at": "2026-06-11 07:49:20",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-06-11 07:49:20",
       "album": {
-        "name": "Promise of Spring",
-        "url": "https://open.spotify.com/album/02ldtAhCEs4YAJ6sdX4t7o"
-      },
-      "artists": [
-        {
-          "name": "Son Tae Jin",
-          "url": "https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "A Boarder",
-      "url": "https://open.spotify.com/track/1m3rnxKsDU1QdMfwEKgxab"
-    },
-    {
-      "added_at": "2026-06-11 07:49:20",
-      "album": {
         "name": "Love call center PART6",
         "url": "https://open.spotify.com/album/13HpqMqyjzlWI8lfNWxHUh"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 193133,
       "name": "Camellia lady",
       "url": "https://open.spotify.com/track/4EouVirDNRZXKNSjQu1OSq"
+    },
+    {
+      "added_at": "2026-06-11 07:49:20",
+      "album": {
+        "name": "Promise of Spring",
+        "url": "https://open.spotify.com/album/02ldtAhCEs4YAJ6sdX4t7o"
+      },
+      "artists": [
+        {
+          "name": "Son Tae Jin",
+          "url": "https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "A Boarder",
+      "url": "https://open.spotify.com/track/1m3rnxKsDU1QdMfwEKgxab"
     },
     {
       "added_at": "2026-06-11 07:49:20",
@@ -1027,22 +1027,6 @@
       "duration_ms": 207586,
       "name": "The East sea and Mt. Baekdu",
       "url": "https://open.spotify.com/track/4CnHFiXsytwfsjcCPwMnst"
-    },
-    {
-      "added_at": "2026-06-11 07:49:20",
-      "album": {
-        "name": "Shinhyunji 1st Album <A Knock on Dreams>",
-        "url": "https://open.spotify.com/album/7gArXnDATIsYYAfDHbOT8g"
-      },
-      "artists": [
-        {
-          "name": "Shin Hyun Ji",
-          "url": "https://open.spotify.com/artist/3ydcsloOjwdYJev7Z86JIT"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/74hVGXcweb2AmLry6BCP1w"
     },
     {
       "added_at": "2026-06-11 07:49:20",
@@ -1083,6 +1067,22 @@
       "duration_ms": 265453,
       "name": "Nostalgia (guitar by Ham Chun Ho)",
       "url": "https://open.spotify.com/track/0LxAh1jzHt7nOhQa6RgcD6"
+    },
+    {
+      "added_at": "2026-06-11 07:49:20",
+      "album": {
+        "name": "Shinhyunji 1st Album <A Knock on Dreams>",
+        "url": "https://open.spotify.com/album/7gArXnDATIsYYAfDHbOT8g"
+      },
+      "artists": [
+        {
+          "name": "Shin Hyun Ji",
+          "url": "https://open.spotify.com/artist/3ydcsloOjwdYJev7Z86JIT"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/74hVGXcweb2AmLry6BCP1w"
     },
     {
       "added_at": "2026-06-11 07:49:20",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2026-06-11 07:49:20",
       "album": {
-        "name": "Love call center PART2",
-        "url": "https://open.spotify.com/album/6QHKWnpYwEUyuuuZxVU76O"
+        "name": "Love Call Center Seven Stars Part13",
+        "url": "https://open.spotify.com/album/5aPWjs8upzX6jIG1Y0yGHm"
       },
       "artists": [
         {
-          "name": "Jang Minho",
-          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
+          "name": "Kim Yong Bin",
+          "url": "https://open.spotify.com/artist/1LTzgzQlvBbJiZ7Er8xj2l"
         }
       ],
-      "duration_ms": 188960,
-      "name": "The Moon Represents My Heart",
-      "url": "https://open.spotify.com/track/0kthpblMmkuZpmpT3hyqiV"
+      "duration_ms": 100346,
+      "name": "Aririang Mokdong",
+      "url": "https://open.spotify.com/track/6vJW4stsxtcfZBTfTjKlze"
     },
     {
       "added_at": "2026-06-11 07:49:20",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-06-11 07:49:20",
       "album": {
+        "name": "Love call center PART2",
+        "url": "https://open.spotify.com/album/6QHKWnpYwEUyuuuZxVU76O"
+      },
+      "artists": [
+        {
+          "name": "Jang Minho",
+          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "The Moon Represents My Heart",
+      "url": "https://open.spotify.com/track/0kthpblMmkuZpmpT3hyqiV"
+    },
+    {
+      "added_at": "2026-06-11 07:49:20",
+      "album": {
         "name": "MISS TROT2 Team Mission BEST",
         "url": "https://open.spotify.com/album/2boKluSGypyQmx614Xktvj"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 172773,
       "name": "Hani Hani",
       "url": "https://open.spotify.com/track/2nkhWkwPdA80IM5G0ezKCv"
-    },
-    {
-      "added_at": "2026-06-11 07:49:20",
-      "album": {
-        "name": "MISS TROT2 Death match PART1",
-        "url": "https://open.spotify.com/album/6YCn2HNNSVLOnG31b0BTaT"
-      },
-      "artists": [
-        {
-          "name": "Da Hyun Kim",
-          "url": "https://open.spotify.com/artist/2bq9xwaiwirI0rMNQ9MKgX"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Hoeryongpo",
-      "url": "https://open.spotify.com/track/06mc74UD8KeVZ5ZRhZYcBG"
     },
     {
       "added_at": "2026-06-11 07:49:20",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-06-11 07:49:20",
       "album": {
-        "name": "Love Call Center Seven Stars Part13",
-        "url": "https://open.spotify.com/album/5aPWjs8upzX6jIG1Y0yGHm"
-      },
-      "artists": [
-        {
-          "name": "Kim Yong Bin",
-          "url": "https://open.spotify.com/artist/1LTzgzQlvBbJiZ7Er8xj2l"
-        }
-      ],
-      "duration_ms": 100346,
-      "name": "Aririang Mokdong",
-      "url": "https://open.spotify.com/track/6vJW4stsxtcfZBTfTjKlze"
-    },
-    {
-      "added_at": "2026-06-11 07:49:20",
-      "album": {
         "name": "Love call center PART13",
         "url": "https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 267693,
       "name": "Love for a thousand years",
       "url": "https://open.spotify.com/track/2TKTPsdxbjblibyITIH25A"
+    },
+    {
+      "added_at": "2026-06-11 07:49:20",
+      "album": {
+        "name": "MISS TROT2 Death match PART1",
+        "url": "https://open.spotify.com/album/6YCn2HNNSVLOnG31b0BTaT"
+      },
+      "artists": [
+        {
+          "name": "Da Hyun Kim",
+          "url": "https://open.spotify.com/artist/2bq9xwaiwirI0rMNQ9MKgX"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Hoeryongpo",
+      "url": "https://open.spotify.com/track/06mc74UD8KeVZ5ZRhZYcBG"
     },
     {
       "added_at": "2026-06-11 07:49:20",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2026-06-11 07:49:20",
       "album": {
-        "name": "Bongsungah school PART15",
-        "url": "https://open.spotify.com/album/06ONAyDAqBtnpcx8hWSkHt"
-      },
-      "artists": [
-        {
-          "name": "Cho Youngnam",
-          "url": "https://open.spotify.com/artist/2buYSyVLRSRpDtKB0JzWiR"
-        },
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Hwagae Market (guitar by Ham Chun Ho)",
-      "url": "https://open.spotify.com/track/5XmV4Cf7UxDklnxI5P1H2Z"
-    },
-    {
-      "added_at": "2026-06-11 07:49:20",
-      "album": {
         "name": "Music Source of Miss Trot Threegether(3-gether) Special PART3",
         "url": "https://open.spotify.com/album/6b8iPxwvFTDFcyGFwvai8C"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 266546,
       "name": "MY Way",
       "url": "https://open.spotify.com/track/4Nnzzc5Ff37XxJsXPloEVp"
+    },
+    {
+      "added_at": "2026-06-11 07:49:20",
+      "album": {
+        "name": "Bongsungah school PART15",
+        "url": "https://open.spotify.com/album/06ONAyDAqBtnpcx8hWSkHt"
+      },
+      "artists": [
+        {
+          "name": "Cho Youngnam",
+          "url": "https://open.spotify.com/artist/2buYSyVLRSRpDtKB0JzWiR"
+        },
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Hwagae Market (guitar by Ham Chun Ho)",
+      "url": "https://open.spotify.com/track/5XmV4Cf7UxDklnxI5P1H2Z"
     },
     {
       "added_at": "2026-06-11 07:49:20",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-06-11 07:49:20",
       "album": {
-        "name": "I'm coming to meet my love",
-        "url": "https://open.spotify.com/album/1C1GGKEV6jAwVJkMrKA5dF"
-      },
-      "artists": [
-        {
-          "name": "Jung Dakyung",
-          "url": "https://open.spotify.com/artist/2Ux1SnimCF3FN1Nh6biVvD"
-        }
-      ],
-      "duration_ms": 183173,
-      "name": "I\u2032m coming to meet my love",
-      "url": "https://open.spotify.com/track/0BtLojrw2PKirr3ViXmZ0j"
-    },
-    {
-      "added_at": "2026-06-11 07:49:20",
-      "album": {
         "name": "Love call center PART15",
         "url": "https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 220884,
       "name": "Beautiful day",
       "url": "https://open.spotify.com/track/2TR93BdahtOCytkNkl4J45"
+    },
+    {
+      "added_at": "2026-06-11 07:49:20",
+      "album": {
+        "name": "I'm coming to meet my love",
+        "url": "https://open.spotify.com/album/1C1GGKEV6jAwVJkMrKA5dF"
+      },
+      "artists": [
+        {
+          "name": "Jung Dakyung",
+          "url": "https://open.spotify.com/artist/2Ux1SnimCF3FN1Nh6biVvD"
+        }
+      ],
+      "duration_ms": 183173,
+      "name": "I\u2032m coming to meet my love",
+      "url": "https://open.spotify.com/track/0BtLojrw2PKirr3ViXmZ0j"
     },
     {
       "added_at": "2026-06-11 07:49:20",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-06-11 07:49:20",
       "album": {
-        "name": "Tree ring love",
-        "url": "https://open.spotify.com/album/31SKQ85jRGYIorOFsG0k4w"
-      },
-      "artists": [
-        {
-          "name": "Nahee Kim",
-          "url": "https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl"
-        }
-      ],
-      "duration_ms": 184041,
-      "name": "Tree ring love",
-      "url": "https://open.spotify.com/track/0Xjmh0iUPEq5jWJTLlROi0"
-    },
-    {
-      "added_at": "2026-06-11 07:49:20",
-      "album": {
         "name": "Love call center premium",
         "url": "https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4"
       },
@@ -1751,6 +1735,22 @@
     {
       "added_at": "2026-06-11 07:49:20",
       "album": {
+        "name": "Tree ring love",
+        "url": "https://open.spotify.com/album/31SKQ85jRGYIorOFsG0k4w"
+      },
+      "artists": [
+        {
+          "name": "Nahee Kim",
+          "url": "https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl"
+        }
+      ],
+      "duration_ms": 184041,
+      "name": "Tree ring love",
+      "url": "https://open.spotify.com/track/0Xjmh0iUPEq5jWJTLlROi0"
+    },
+    {
+      "added_at": "2026-06-11 07:49:20",
+      "album": {
         "name": "GiNiTa MoZZa (So cool)",
         "url": "https://open.spotify.com/album/2sFVEp4hHXGeSvdUvvVGK2"
       },
@@ -1763,22 +1763,6 @@
       "duration_ms": 164080,
       "name": "GiNiTa MoZZa (So cool)",
       "url": "https://open.spotify.com/track/2ok2w2jTCaaDlQyUUtumWx"
-    },
-    {
-      "added_at": "2026-06-11 07:49:20",
-      "album": {
-        "name": "Music Source of Mr. Trot3 1:1 Death Match Best PART2",
-        "url": "https://open.spotify.com/album/3AX4e6raYqfhN2ITaNbuH2"
-      },
-      "artists": [
-        {
-          "name": "Shim Su Ho",
-          "url": "https://open.spotify.com/artist/32rwOf5UcF8jhIgBNyTF7J"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Like Adam and Eve",
-      "url": "https://open.spotify.com/track/2J4O4qJqDwpRSrKTWyP4PD"
     },
     {
       "added_at": "2026-06-11 07:49:20",
@@ -1823,6 +1807,22 @@
       "duration_ms": 190733,
       "name": "Oh! hot",
       "url": "https://open.spotify.com/track/04lpB6kpUMc7tTj6BmynCk"
+    },
+    {
+      "added_at": "2026-06-11 07:49:20",
+      "album": {
+        "name": "Music Source of Mr. Trot3 1:1 Death Match Best PART2",
+        "url": "https://open.spotify.com/album/3AX4e6raYqfhN2ITaNbuH2"
+      },
+      "artists": [
+        {
+          "name": "Shim Su Ho",
+          "url": "https://open.spotify.com/artist/32rwOf5UcF8jhIgBNyTF7J"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Like Adam and Eve",
+      "url": "https://open.spotify.com/track/2J4O4qJqDwpRSrKTWyP4PD"
     },
     {
       "added_at": "2026-06-11 07:49:20",

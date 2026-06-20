@@ -4,7 +4,7 @@
 
 > Najlepsza świeża polska alternatywa\. Cover: AJLA
 
-1,691 songs - 3 day 23 hr 38 min
+1,692 songs - 3 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Błękit](https://open.spotify.com/track/3V9Fz5AEhxrDV3mBBzHekS) | [Martini Police](https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN) | [Błękit](https://open.spotify.com/album/53ts9goBQ5G6yUsY9luT3o) | 3:11 | 2025-02-06 | 2025-03-28 |
 | [Błękitne Powietrze](https://open.spotify.com/track/1bm714UnE6g1oZb5yfglRe) | [INA WEST](https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo), [Ten Typ Mes](https://open.spotify.com/artist/3AU8FAva0w5qdrf5IVu620) | [Błękitne Powietrze](https://open.spotify.com/album/5M3ryHH3cRxHNbCdZZfRCy) | 3:08 | 2025-12-18 | 2026-01-16 |
 | [California](https://open.spotify.com/track/3g57wXRDOAzYnLzIuhrTHt) | [Martini Police](https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN) | [California](https://open.spotify.com/album/3tIhJPlGKYOHuGEcY3QMGd) | 4:16 | 2025-03-13 | 2025-03-28 |
+| [CANNOT BE](https://open.spotify.com/track/652YZPXR4usSJKpLuP7lKT) | [Wiktoria Jakubowska](https://open.spotify.com/artist/03B9rUpfuSXCXbSS3OmFZG) | [CANNOT BE](https://open.spotify.com/album/2j2nHoKiF7qFq2HvIXBeiz) | 4:43 | 2026-06-19 |  |
 | [Cała ZARA śpiewa z nami](https://open.spotify.com/track/6Um70cL1rD87hPXrluPcD6) | [Renata Ślesicka](https://open.spotify.com/artist/48VnaUqWYBYehjA2Hbzbae), [Jakub Magier](https://open.spotify.com/artist/5aCXLfaZgPiIxfDIjSXoCi) | [Cała ZARA śpiewa z nami](https://open.spotify.com/album/52cmdFC0NQDQ2umvPj30M8) | 2:05 | 2026-05-28 | 2026-06-12 |
 | [CEL PAL](https://open.spotify.com/track/5FvF9KhgEqRLU4PUm0DGUV) | [SIEKIRKA](https://open.spotify.com/artist/53253rq8NWY9jwM3qlYKaM), [Shaiba](https://open.spotify.com/artist/1kcUSDHhizNeLXLD1WaoO9) | [CEL PAL](https://open.spotify.com/album/0u2nRnh3MDdHX5FrVBRaKb) | 2:36 | 2025-12-11 | 2026-01-30 |
 | [cel! pal!](https://open.spotify.com/track/22Lkyyx75WrFkZiSF7PLPe) | [nic nic](https://open.spotify.com/artist/3iXF1TPd2ydHapLJ6uPqUi) | [cel! pal!](https://open.spotify.com/album/2ib6Kjk5Gr01Jk6YkshQG1) | 3:07 | 2024-10-17 | 2024-11-15 |
@@ -641,6 +642,7 @@
 | [lato](https://open.spotify.com/track/4k8KNN6OBi2PuYQJEh7Nz3) | [szkarłatność](https://open.spotify.com/artist/46h5BHRMGyNpkiCmT4JZbC), [Siberian.](https://open.spotify.com/artist/0cxTeOjLpXx8lAXFi5LbvU) | [lato](https://open.spotify.com/album/41CIIKeSyHbrCcUJOTgtkl) | 2:51 | 2024-07-25 | 2024-08-02 |
 | [Lato przypływa](https://open.spotify.com/track/1pCLzNOQqELGpJggA6p9BT) | [Czechoslovakia](https://open.spotify.com/artist/4fxdQaj7wSUA9Q81VPcsBt) | [Lato przypływa](https://open.spotify.com/album/5U5tZq6Hd1RnyVSnSJ5DY0) | 2:53 | 2024-07-18 | 2024-07-27 |
 | [Lawa](https://open.spotify.com/track/5ISbU3pNa6EHXGSj7qek7g) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu), [Arek Kopera](https://open.spotify.com/artist/70wQF5hZS0M1Rp6TpaXhVt) | [Czas się bać! \(Akt I\)](https://open.spotify.com/album/1fZkcFSuwDEe8cTjwkvLqT) | 3:06 | 2024-08-09 | 2024-11-01 |
+| [Lawenda](https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H) | [Kąpałam się wczoraj w snach](https://open.spotify.com/album/3DhqZFXewd6BvLsKa5bIzZ) | 3:16 | 2026-06-18 |  |
 | [lawenda](https://open.spotify.com/track/1MkUt0F83LEQUOkMylVLQR) | [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [lawenda](https://open.spotify.com/album/4SYewAkrqWANmfutFXeZc1) | 3:55 | 2024-07-11 | 2024-08-23 |
 | [lawina](https://open.spotify.com/track/5Dez7O1ueJ1KW578LUIDNo) | [duszno](https://open.spotify.com/artist/2utOsBf2Kzg9lYHKSMxClB) | [okruszki](https://open.spotify.com/album/4wlkX0DF9VAUtplKTOKyly) | 4:39 | 2025-11-06 | 2025-12-05 |
 | [Le bois brûle](https://open.spotify.com/track/3j5yLii9A2RXboXDxddsZE) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb) | [Le bois brûle](https://open.spotify.com/album/5xMtoetMCz6QQvEPSZV5Q7) | 4:04 | 2024-07-18 | 2024-09-13 |
@@ -1378,7 +1380,6 @@
 | [Toruń](https://open.spotify.com/track/3oKvNBUziRbUWpvS7vHJAy) | [Kazik & Kwartet ProForma](https://open.spotify.com/artist/6gv9OBMwrCKkZGFQIPUa73) | [Po moim trupie](https://open.spotify.com/album/2Llhzp3WCWP0JFp7wpXH7W) | 4:53 | 2024-09-26 | 2024-11-01 |
 | [Touching](https://open.spotify.com/track/2oDRWPfp5tJkfYySjRoQV3) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Fragile \(Original Soundtrack\)](https://open.spotify.com/album/0ngt33D8YMRJUN3WbVd8tx) | 2:44 | 2026-01-08 | 2026-01-30 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 |  |
-| [Track 2](https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b) | [AJLA](https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H) | [Kąpałam się wczoraj w snach](https://open.spotify.com/album/3DhqZFXewd6BvLsKa5bIzZ) | 0:00 | 2026-06-18 |  |
 | [Tracę czas](https://open.spotify.com/track/1J9O8tV3uVJldubfAGqp8i) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Tracę czas](https://open.spotify.com/album/3C9lJPKKVG6zaVYAqa6TKz) | 3:10 | 2026-05-21 |  |
 | [Treehouse](https://open.spotify.com/track/7GINKMcfLDQEBQaTEPOjr8) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [Treehouse](https://open.spotify.com/album/0Eol0GjvLJtW3xxFtB1V0W) | 3:44 | 2026-02-19 | 2026-03-27 |
 | [TRIK](https://open.spotify.com/track/4NPCGtOfEuRIK1CJh6q3Nv) | [FOMOTOK](https://open.spotify.com/artist/0CnSNWcT6hES7FDHk4alpL) | [TRIK](https://open.spotify.com/album/55AvttSNVmQFfowzCqB5MV) | 2:41 | 2024-06-27 | 2024-07-12 |

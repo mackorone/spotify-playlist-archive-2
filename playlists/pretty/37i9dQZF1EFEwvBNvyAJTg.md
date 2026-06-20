@@ -169,8 +169,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 159 | [Heartslap](https://open.spotify.com/track/4K81soo8r8lpB711m7E0ze) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Mykal Kilgore](https://open.spotify.com/artist/0YO1x9lk7UJdHjR16lC23F) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:09 |
 | 160 | [Friday](https://open.spotify.com/track/2vTf9a0lLSWVKNtwpVQ498) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [Friday](https://open.spotify.com/album/49CKOwAEpZZn1L9CDbNibI) | 4:28 |
 | 161 | [Stay In](https://open.spotify.com/track/3K6fxJQP324dGBh0ugobb3) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 2:52 |
-| 162 | [BEVERLY HILLS HEARTACHE](https://open.spotify.com/track/0FzlhwaKweyfZPnBwUkYZ4) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [IT'S NOT ABOUT YOU NO MORE](https://open.spotify.com/album/53GNAJjBMwGNXcIX5ps6Iy) | 3:06 |
-| 163 | [Is It Just Me?](https://open.spotify.com/track/1tImABpTw2uXb0oEZdIj2R) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [She Won't Let Go](https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD) | 2:54 |
+| 162 | [Is It Just Me?](https://open.spotify.com/track/1tImABpTw2uXb0oEZdIj2R) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [She Won't Let Go](https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD) | 2:54 |
+| 163 | [BEVERLY HILLS HEARTACHE](https://open.spotify.com/track/0FzlhwaKweyfZPnBwUkYZ4) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [IT'S NOT ABOUT YOU NO MORE](https://open.spotify.com/album/53GNAJjBMwGNXcIX5ps6Iy) | 3:06 |
 | 164 | [IDK \(I DECAY\)](https://open.spotify.com/track/7vkV4BYH5c1ejoLgLJ9Hqq) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA), [Kiya Juliet](https://open.spotify.com/artist/41Qhb1pKOLWD9ZYc0FUQWc) | [IT'S NOT ABOUT YOU NO MORE](https://open.spotify.com/album/53GNAJjBMwGNXcIX5ps6Iy) | 3:45 |
 | 165 | [Steph Curry](https://open.spotify.com/track/2SoD6N6lXUp9cPmFkEFW3Q) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 3:18 |
 | 166 | [Sweet Release](https://open.spotify.com/track/6slHYtUdsRou97ZKllTF2w) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:08 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 198 | [Time](https://open.spotify.com/track/4IXo4QEaA0C5L1gmwcoLs6) | [Mali](https://open.spotify.com/artist/44hC0isoN7FTViV4xB4VsD) | [Time](https://open.spotify.com/album/3AnHWPc0t69do84olU1b7b) | 3:00 |
 | 199 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AcUlggAAAAAomKsanrQK1EimdxBRry/R`
+Snapshot ID: `AcUq5gAAAABhfOp/VYTfcFlmXpELx4bj`

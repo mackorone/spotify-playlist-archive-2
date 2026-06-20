@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 ### [Türkçe Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ASuQophyb3)
 
-> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Yalın
+> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Demet Akalın x Gökhan Özen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558,859 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,559,051 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hileli](https://open.spotify.com/track/4eBE6hpwm7aJxIY4iwgwU8) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Hileli](https://open.spotify.com/album/1Dim5nq14eGHzcfGhLqUWU) | 3:22 |
-| 2 | [Akşamüstü](https://open.spotify.com/track/2DuqHDhcgQJ4Rz8noWFsgR) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Akşamüstü](https://open.spotify.com/album/1d5ajC5UEApJAtlA8zKZ2h) | 2:52 |
-| 3 | [NAZAR](https://open.spotify.com/track/6uvUXO63MVDzfMV7DMsYlZ) | [Gökhan Özen](https://open.spotify.com/artist/3QLMLmISoZnFxUdzSoT6JB), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [NAZAR](https://open.spotify.com/album/1ltvCwbMqAkRNm5qUYyquF) | 2:50 |
-| 4 | [Unutacağım](https://open.spotify.com/track/6ZB2MjZFsNukr71joHmwQd) | [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Unutacağım](https://open.spotify.com/album/4IJjWvJufVG6aFLmks1eMB) | 2:39 |
-| 5 | [Yangın Yeri](https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Yangın Yeri](https://open.spotify.com/album/7t0enz3EMgiyTsLGkbwzuj) | 2:31 |
+| 2 | [NAZAR](https://open.spotify.com/track/6uvUXO63MVDzfMV7DMsYlZ) | [Gökhan Özen](https://open.spotify.com/artist/3QLMLmISoZnFxUdzSoT6JB), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [NAZAR](https://open.spotify.com/album/1ltvCwbMqAkRNm5qUYyquF) | 2:50 |
+| 3 | [Unutacağım](https://open.spotify.com/track/6ZB2MjZFsNukr71joHmwQd) | [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Unutacağım](https://open.spotify.com/album/4IJjWvJufVG6aFLmks1eMB) | 2:39 |
+| 4 | [Yangın Yeri](https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Yangın Yeri](https://open.spotify.com/album/7t0enz3EMgiyTsLGkbwzuj) | 2:31 |
+| 5 | [Akşamüstü](https://open.spotify.com/track/2DuqHDhcgQJ4Rz8noWFsgR) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Akşamüstü](https://open.spotify.com/album/1d5ajC5UEApJAtlA8zKZ2h) | 2:52 |
 | 6 | [Bunun Adı Aşksa](https://open.spotify.com/track/4cMw6E3noUON6E2zaZ0a3D) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bunun Adı Aşksa](https://open.spotify.com/album/6wLqpSsTp2ggh4a6i9yKtd) | 3:35 |
 | 7 | [Şımarık](https://open.spotify.com/track/1YLHRVAsWnNFCeLMfqz2dh) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Şımarık](https://open.spotify.com/album/2hi0BeIUFh2cqQjxYP4R1j) | 2:33 |
 | 8 | [Ateşle Barut](https://open.spotify.com/track/3lURnxMD5kvT8iTYgleuPO) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Ateşle Barut](https://open.spotify.com/album/0yktWaLi2f5YsrYekOSrzX) | 3:26 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 48 | [Unutamazsın](https://open.spotify.com/track/65dKYQvIz5eTTy4fqv19Ji) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Unutamazsın](https://open.spotify.com/album/43nJTaIBqv1ECCCMDFvPfv) | 2:20 |
 | 49 | [Sanmadan Git](https://open.spotify.com/track/6NvKz9LOa9KbCmd3NEnKP1) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Sanmadan Git](https://open.spotify.com/album/4tw3quCr2Q91TUqP1tD30i) | 2:57 |
 
-Snapshot ID: `AAAAAEyjo/j2brsHFVQwAbl1xFfjUrgg`
+Snapshot ID: `AAAAAN2cdarQY+ygFDaye1vnD9RwHAtd`

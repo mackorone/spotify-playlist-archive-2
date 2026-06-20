@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Jensen McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,279 likes - 89 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,330 likes - 89 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 88 | [Over Again](https://open.spotify.com/track/3SRbhPdFe0xiRMilDb5PCe) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Over Again](https://open.spotify.com/album/6KPkzK2684tAy9Lgw0vTmX) | 3:04 |
 | 89 | [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 |
 
-Snapshot ID: `AAAAAJBnR6v3RJYDpRJyba+AJOdOFlLI`
+Snapshot ID: `AAAAANogtcWES8vUfvvfS/5dOrrOnTHz`

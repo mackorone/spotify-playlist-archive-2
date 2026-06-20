@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-08",
-  "description": "late night vibes \u2013 notifications off. cover: Qiuntelli",
+  "description": "late night vibes \u2013 notifications off. cover: where.t.at",
   "name": "DND.",
   "tracks": [
     {
@@ -588,6 +588,28 @@
       "duration_ms": 126973,
       "name": "Art of War",
       "url": "https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK"
+    },
+    {
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Aura (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI"
     },
     {
       "album": {
@@ -2534,7 +2556,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 162133,
       "name": "Granted",
       "url": "https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw"
@@ -3320,7 +3342,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 156428,
       "name": "Let it Go",
       "url": "https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF"
@@ -3720,7 +3742,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 150375,
       "name": "MORE THAN SORRY",
       "url": "https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p"
@@ -4046,7 +4068,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 160540,
       "name": "NOT THE ONE",
       "url": "https://open.spotify.com/track/5odrgttxGTjodGqpIc4Kqr"
@@ -4914,6 +4936,24 @@
       "duration_ms": 164000,
       "name": "Selfie",
       "url": "https://open.spotify.com/track/1eFptQumbRt3F1mRjsRgwH"
+    },
+    {
+      "album": {
+        "name": "she goes by.",
+        "url": "https://open.spotify.com/album/20GEur5fpZCdC8o6oVI6V2"
+      },
+      "artists": [
+        {
+          "name": "where.t.at",
+          "url": "https://open.spotify.com/artist/0kxG2FyO4bp80QsBwYQTvo"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177423,
+      "name": "she goes by.",
+      "url": "https://open.spotify.com/track/3kpGbIP1qVaFHNE78tTGEy"
     },
     {
       "album": {

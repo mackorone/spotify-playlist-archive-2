@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Franky Rizardo
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,477 likes - 109 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,520 likes - 109 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 7 | [LaLaLo](https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Rave Kid EP](https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1) | 2:49 |
 | 8 | [I Want Your Love](https://open.spotify.com/track/3maBFltdmodeTDz82ZqeLU) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Danny Losito](https://open.spotify.com/artist/3su0bqQsPT32tMf1Yp76Yf) | [I Want Your Love](https://open.spotify.com/album/4aA0YfSnvcwgMwVN6pPRpa) | 4:00 |
 | 9 | [Lose Myself](https://open.spotify.com/track/0e5K24g47Xze7bR6eftsHT) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Lose Myself / I Wanna](https://open.spotify.com/album/5pLDXKmvchaKPLdI93TAjH) | 2:46 |
-| 10 | [Attract](https://open.spotify.com/track/4ykK6tNnlu2fAAWPCxzvFc) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Attract](https://open.spotify.com/album/30L1oRMIswC3hErbOQ5JO9) | 5:07 |
+| 10 | [Attract](https://open.spotify.com/track/4ykK6tNnlu2fAAWPCxzvFc) | [Ajna](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Attract](https://open.spotify.com/album/30L1oRMIswC3hErbOQ5JO9) | 5:07 |
 | 11 | [Invisible](https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Invisible](https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK) | 3:16 |
 | 12 | [Pulling Me Back](https://open.spotify.com/track/055xwGslsVRd40NwsOrj5I) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Pulling Me Back](https://open.spotify.com/album/3eBm6Mn7LwLSeFhd1Q1nRi) | 2:32 |
 | 13 | [It's So Nice \(ft\. 3DDY\)](https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Withness](https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo) | 3:19 |

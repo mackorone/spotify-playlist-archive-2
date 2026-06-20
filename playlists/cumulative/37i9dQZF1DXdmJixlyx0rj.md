@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: IÖN\)
 
-304 songs - 17 hr 5 min
+305 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Armageddon \(Flava D Remix\)](https://open.spotify.com/track/79YRHM4e97AF4s4xo60p4y) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 4:07 | 2024-09-21 | 2026-05-17 |
 | [Armageddon \(Mount XLR Remix\)](https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 3:44 | 2024-09-24 | 2025-03-17 |
 | [Ash](https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Ash](https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu) | 2:24 | 2024-11-29 |  |
-| [Atmosphere](https://open.spotify.com/track/3s6oEjTTcjdCResRda90Hx) | [Juncoco](https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td), [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Atmosphere \- SM STATION](https://open.spotify.com/album/6F44f0aj0LxqI4hguioxTZ) | 3:11 | 2026-06-12 |  |
+| [Atmosphere](https://open.spotify.com/track/3s6oEjTTcjdCResRda90Hx) | [Juncoco](https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td), [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Atmosphere \- SM STATION](https://open.spotify.com/album/6F44f0aj0LxqI4hguioxTZ) | 3:11 | 2026-06-12 | 2026-06-20 |
 | [Attention \(250 Remix\)](https://open.spotify.com/track/2nW48vXnZZ5EYka46v7GOk) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:01 | 2024-04-05 | 2024-06-29 |
 | [axis\_0\_ㅇ](https://open.spotify.com/track/1kWBxXv0NpSyqCVFBJYDxA) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [latency](https://open.spotify.com/album/2rjA4rO2TtcWuyj3Wuk30N) | 5:35 | 2026-02-03 | 2026-02-25 |
 | [BAAM \(Chan Lee Remix\) \- EDM Version](https://open.spotify.com/track/7lpGvD6texvEU0M0rjksRm) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [Chan Lee](https://open.spotify.com/artist/2q5FnisSwxF4yCRYmPc3oP) | [FESTIVALAND](https://open.spotify.com/album/7BvJKDBODvjWbXDrdXGAoC) | 3:12 | 2025-07-15 | 2025-10-23 |
@@ -289,6 +289,7 @@
 | [Until I Saw You](https://open.spotify.com/track/5vq1maQ1FfzGqNxlatvOIt) | [Thoby](https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x), [Kevin Krissen](https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI), [H93](https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw) | [Until I Saw You](https://open.spotify.com/album/3iMnAm08qg5PdOnM80YNfd) | 3:27 | 2024-04-05 | 2024-09-02 |
 | [Useless](https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Noisy Choice](https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID) | [Useless](https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp) | 2:41 | 2024-06-28 | 2026-01-23 |
 | [Vanilla Sundae](https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Limbo](https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY) | 3:18 | 2024-09-01 | 2024-11-24 |
+| [Victory](https://open.spotify.com/track/2osyzRNIOMXUoW4gJLrRxl) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Victory](https://open.spotify.com/album/1rWXfjjQW0A7ZUPPGMvpNG) | 3:36 | 2026-06-19 |  |
 | [Virus](https://open.spotify.com/track/6Z7ZmDWdnrMusQK4fuZggL) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8), [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY) | [Virus](https://open.spotify.com/album/0iK9OCBlrURxG5vs0hUs6I) | 2:32 | 2024-06-28 | 2024-12-01 |
 | [Vogue Boys And Girls](https://open.spotify.com/track/6UENRUaDq4Nl7kylkftcsP) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Selected Reworks](https://open.spotify.com/album/4nHzgkr2avqn7YrZbNlkTO) | 4:19 | 2025-07-15 | 2025-11-11 |
 | [VORTEX](https://open.spotify.com/track/3YN1Cwvr9XAudtMFhyHmHi) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [TENGGER](https://open.spotify.com/album/5Cziq0Bc2fJOcTgVDZ1COh) | 5:16 | 2024-04-05 | 2024-06-29 |

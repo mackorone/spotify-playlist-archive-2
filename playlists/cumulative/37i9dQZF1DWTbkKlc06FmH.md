@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,256 songs - 3 day 1 hr 59 min
+1,257 songs - 3 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,7 +539,7 @@
 | [Leave Me In The Dust](https://open.spotify.com/track/5wGPvxoxp4dWRkdbB7YDxe) | [01sail](https://open.spotify.com/artist/4x3WVAIQvl8zMeg6WCvGAC), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Leave Me In The Dust](https://open.spotify.com/album/7pONG8xzaMBk8QR5yEYp4T) | 4:35 | 2024-01-30 | 2024-03-01 |
 | [Left Alone feat\. 土岐麻子](https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Left Alone feat\. 土岐麻子](https://open.spotify.com/album/1UBA1poMb5uU40hvC6ld9r) | 4:10 | 2022-10-20 | 2022-12-16 |
 | [Lesbian Of The Year](https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Lesbian Of The Year](https://open.spotify.com/album/2jxlwT7sZN9ios4LuXQSsW) | 3:33 | 2025-08-20 | 2025-09-25 |
-| [Let It All Out](https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Let It All Out](https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb) | 4:13 | 2025-12-17 |  |
+| [Let It All Out](https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Let It All Out](https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb) | 4:13 | 2025-12-17 | 2026-06-20 |
 | [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 | 2026-03-04 |  |
 | [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-08-29 | 2025-11-15 |
 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 | 2024-09-11 |  |
@@ -901,6 +901,7 @@
 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-02 | 2023-04-03 |
 | [Soft](https://open.spotify.com/track/3IKUHOBOktlBP6kryzg1AS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Soft](https://open.spotify.com/album/2JknXBW2N9ncLyiLoUysvB) | 5:18 | 2024-06-04 | 2024-07-31 |
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-30 | 2024-07-18 |
+| [Something Bout It](https://open.spotify.com/track/0ATYGGx8AP7w0tsTsC1L4o) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Labor Of Love](https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st) | 2:36 | 2026-06-18 |  |
 | [SOMEWHERE NEW](https://open.spotify.com/track/5P8PacMc8YVHo5P2fODnuL) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [SOMEWHERE NEW / WHAT NOW](https://open.spotify.com/album/0R3aQGOUkFvyxvn2X5cpxt) | 2:14 | 2025-08-06 | 2025-09-01 |
 | [Somewhere You Can Fly](https://open.spotify.com/track/5Nmmrv8DBGlGw59yQMOwwl) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Archives Mixtape](https://open.spotify.com/album/0PZn9YuIkbAEj4iJQOt6ni) | 2:37 | 2025-06-11 | 2025-06-18 |
 | [Soul Assassin \(feat\. BSC, MUD, DIAN & DONY JOINT\)](https://open.spotify.com/track/0jhM9IFLxDWqef69Dv2zxW) | [KANDYTOWN](https://open.spotify.com/artist/5Treq1MbA8Kw8EGwJc0nzy), [BSC](https://open.spotify.com/artist/6gb39K86ctQFpICp7ps9hn), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q), [DIAN](https://open.spotify.com/artist/6vsnsFUQWlelvGpD5PTfDo), [DONY JOINT](https://open.spotify.com/artist/3zBimOdEMH8zaDJY2QkniH) | [LAST ALBUM](https://open.spotify.com/album/7v1KuejMMyXdjw1GvPsG6v) | 2:33 | 2022-11-29 | 2022-12-07 |

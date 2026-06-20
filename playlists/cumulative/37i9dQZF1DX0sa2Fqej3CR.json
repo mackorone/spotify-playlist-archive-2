@@ -8589,6 +8589,28 @@
     },
     {
       "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/1rWXfjjQW0A7ZUPPGMvpNG"
+      },
+      "artists": [
+        {
+          "name": "250",
+          "url": "https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216896,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/2osyzRNIOMXUoW4gJLrRxl"
+    },
+    {
+      "album": {
         "name": "Viva La Vida or Death and All His Friends",
         "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
       },

@@ -4,7 +4,7 @@
 
 > Nuovi brani di Ultimo, ANNA, Fabri Fibra, Madame e tanti altri.
 
-9,492 songs - 20 day 0 hr 1 min
+9,493 songs - 20 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3123,6 +3123,7 @@
 | [Fuori Comfort](https://open.spotify.com/track/2HyMMYdEkTL42KeLiGJbMk) | [Dudu Lame](https://open.spotify.com/artist/1hffKxuSdXLiRUyZF4dh1l), [Ale.Mud](https://open.spotify.com/artist/7bukD58E7kriZpBrJ8gCZh) | [Modou Modou](https://open.spotify.com/album/0RzvB3vbJlRG0iOW36XIge) | 2:37 | 2025-10-02 | 2025-10-10 |
 | [FUORI CONTROLLO](https://open.spotify.com/track/2ZlQtpy3kq2oEzerBx4xj2) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [FUORI CONTROLLO](https://open.spotify.com/album/7yvU00Gr156QMndM2IpkfG) | 2:15 | 2025-01-30 | 2025-02-07 |
 | [Fuori da come sei](https://open.spotify.com/track/29u2doUcDI3UUlhEFzq7y8) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Fuori da come sei](https://open.spotify.com/album/6SEDGxWbxtXFUey2Zk0WNy) | 2:49 | 2026-01-30 | 2026-02-06 |
+| [Fuori dai club](https://open.spotify.com/track/5VsSViJxzisps3s74WI3VP) | [CARA](https://open.spotify.com/artist/5zB3Q6zAf7VWq0cfiHgzqf) | [Fuori dai club](https://open.spotify.com/album/4bjmH3BjCCBa76ppWoZQ7p) | 3:11 | 2026-06-18 |  |
 | [Fuori dal Blu](https://open.spotify.com/track/30PTapN6nWrPaLLwAWTKaN) | [Amanda Roberts](https://open.spotify.com/artist/56kQLgmlLN7mPjKa4yQyJD) | [Fuori dal Blu](https://open.spotify.com/album/5vLXJnnIjNsnewnL7pWG8m) | 3:15 | 2025-08-28 | 2025-09-05 |
 | [fuori dalla finestra](https://open.spotify.com/track/57rQJlj0aXErxDREbKVJts) | [alaska](https://open.spotify.com/artist/08wibq50EmhXgkKI4kgKfB), [Nularse](https://open.spotify.com/artist/2ZqgNoyBc3pgPQwq3Np6iH) | [fuori dalla finestra](https://open.spotify.com/album/3Rx2ee5vntBC80Tx3LzlWn) | 4:06 | 2025-09-04 | 2025-09-12 |
 | [Fuori Dalla Vasca](https://open.spotify.com/track/3ZUIiUUQtLFqdVtNgY6evR) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Fuori Dalla Vasca](https://open.spotify.com/album/0Tu6oD8QwvPUFtQGJz8Xny) | 2:06 | 2025-12-05 | 2025-12-12 |
@@ -8079,6 +8080,7 @@
 | [Sunny Baby](https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Sunny Baby](https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa) | 3:19 | 2025-03-14 | 2025-03-21 |
 | [Sunny Days](https://open.spotify.com/track/7C1otS6Rttu3B1izlxO4qi) | [Amanda Roberts](https://open.spotify.com/artist/56kQLgmlLN7mPjKa4yQyJD) | [Sunny Days](https://open.spotify.com/album/4xXQbyK124HnlmVD53qjTC) | 3:17 | 2025-06-05 | 2025-06-13 |
 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 | 2025-03-14 | 2025-03-21 |
+| [Sunset In Pretoria](https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [Sunset In Pretoria](https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD) | 3:58 | 2026-06-19 |  |
 | [Sunshine](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Sunshine](https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi) | 3:15 | 2024-08-22 | 2024-08-30 |
 | [Sunshine & Rain...](https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sunshine & Rain...](https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4) | 3:17 | 2025-03-28 | 2025-04-04 |
 | [Sunshine On Catford](https://open.spotify.com/track/6EWH3LNszyqxW9eo6PdByl) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Self Titled](https://open.spotify.com/album/4yRTZSqafx7hhRELaOHU4o) | 3:10 | 2025-07-03 | 2025-07-11 |
@@ -8590,7 +8592,6 @@
 | [Tra le onde](https://open.spotify.com/track/4TfxicRtSNQwfdWPSZ7JQc) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Tra le onde](https://open.spotify.com/album/3lAn7sXbnuxqnjzaUTU1w1) | 3:06 | 2024-12-05 | 2024-12-13 |
 | [tra parentesi](https://open.spotify.com/track/1FVGtE2nAqIR22ial5EbHo) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [tra parentesi](https://open.spotify.com/album/1szcGWQ3Mgv5VZwxmobw66) | 1:58 | 2025-11-28 | 2025-12-05 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-05 |
-| [Track 3](https://open.spotify.com/track/5VsSViJxzisps3s74WI3VP) | [CARA](https://open.spotify.com/artist/5zB3Q6zAf7VWq0cfiHgzqf) | [Fuori dai club](https://open.spotify.com/album/4bjmH3BjCCBa76ppWoZQ7p) | 0:00 | 2026-06-18 |  |
 | [Track 3](https://open.spotify.com/track/2u7oaYuzOEAnkgoiWlVjoW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [PIÙ CHE SOLIDO](https://open.spotify.com/album/1p4XYB6kR49pnvbdBJibCT) | 0:00 | 2026-03-05 | 2026-03-07 |
 | [Track 5](https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 | 2025-10-25 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |

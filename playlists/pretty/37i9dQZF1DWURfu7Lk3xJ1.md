@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > breathe slow, drift soft 🪷 calm beats to uncover the stillness within
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,233 likes - 75 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,250 likes - 75 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 74 | [ZMOOTH](https://open.spotify.com/track/3FOvS4B32VeOvRG6sQyL0m) | [Written On Glass](https://open.spotify.com/artist/0flGLaDtO2VB3ETpqoZhwg) | [ZMOOTH](https://open.spotify.com/album/3L3ORj0iQxym4SDCe0fTew) | 2:04 |
 | 75 | [street rain](https://open.spotify.com/track/47RU7lNBcOnk900RR9170z) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [street rain](https://open.spotify.com/album/0sXcIsldD8soezHecjCRlW) | 2:41 |
 
-Snapshot ID: `AAAAAE5FpzGMJHbaziV/kf1JjvNyU+pw`
+Snapshot ID: `AAAAAA+PytId6EuhmlYPFoUMWMKKORxD`

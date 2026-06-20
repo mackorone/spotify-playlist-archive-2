@@ -4,7 +4,7 @@
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 52 min
+79 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [All of Me](https://open.spotify.com/track/3ZJ0YC0bTd04N03gVsPDUb) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179) | 2:47 | 2026-06-18 |  |
 | [All of Me](https://open.spotify.com/track/4YqKVhVjjSDllNzZfDAxnw) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 2:47 | 2025-07-20 | 2025-08-18 |
 | [All The Things You Are \(feat\. Stéphane Grappelli\) \- Remastered 2002](https://open.spotify.com/track/0z6ciqkCFkGNh0CfzWgByi) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Djangology \(feat\. Stéphane Grappelli\)](https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK) | 2:54 | 2026-05-23 | 2026-05-31 |
-| [Anniversary Song](https://open.spotify.com/track/1vZvb1VYTBgWDgmg6a9omU) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 3:31 | 2025-08-19 |  |
+| [Anniversary Song](https://open.spotify.com/track/1vZvb1VYTBgWDgmg6a9omU) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 3:31 | 2025-08-19 | 2026-06-20 |
 | [Anniversary Song](https://open.spotify.com/track/5Tvz1fUgvywdVoPYVP9QxQ) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 3:31 | 2025-07-20 | 2025-08-19 |
+| [Anniversary Song](https://open.spotify.com/track/62RDBsdCy8RgrIND5BAh1J) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179) | 3:31 | 2026-06-20 |  |
 | [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangology 49](https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq) | 4:16 | 2025-07-20 |  |
 | [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Indispensible Django Reinhardt \(1949\-1950\)](https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH) | 4:19 | 2025-07-20 |  |
 | [Billets Doux](https://open.spotify.com/track/2BsOqXWv9LMNBaSzaznPFv) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 2:57 | 2025-07-20 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAADGG8IAgbWe2B5un7XRYDbh",
+  "snapshot_id": "ajM1AAAAAADqOdnHeyU5bw86ByHlcsib",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GRACIAS (Remix)",
+        "url": "https://open.spotify.com/album/2cA7MFLrQZ8cUB2iJ0wKUS"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 146377,
+      "name": "GRACIAS - Remix",
+      "url": "https://open.spotify.com/track/3brSGOCq6CbPLP4b1LBC7H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/5J3ozKtuMhoOsFReyJAaaX"
       },
@@ -839,38 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIE LIE LIE!",
-        "url": "https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS"
+        "name": "METAL TAIL",
+        "url": "https://open.spotify.com/album/743P9G9do6QUrn31c7Y7p1"
       },
       "artists": [
         {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 148860,
-      "name": "LIE LIE LIE!",
-      "url": "https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GRACIAS (Remix)",
-        "url": "https://open.spotify.com/album/2cA7MFLrQZ8cUB2iJ0wKUS"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+          "name": "WondaGurl",
+          "url": "https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0"
         },
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 146377,
-      "name": "GRACIAS - Remix",
-      "url": "https://open.spotify.com/track/3brSGOCq6CbPLP4b1LBC7H"
+      "duration_ms": 178611,
+      "name": "DAMAGE",
+      "url": "https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy"
     },
     {
       "added_at": null,
@@ -891,22 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "METAL TAIL",
-        "url": "https://open.spotify.com/album/743P9G9do6QUrn31c7Y7p1"
+        "name": "LIE LIE LIE!",
+        "url": "https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS"
       },
       "artists": [
-        {
-          "name": "WondaGurl",
-          "url": "https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0"
-        },
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 178611,
-      "name": "DAMAGE",
-      "url": "https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy"
+      "duration_ms": 148860,
+      "name": "LIE LIE LIE!",
+      "url": "https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH"
     },
     {
       "added_at": null,

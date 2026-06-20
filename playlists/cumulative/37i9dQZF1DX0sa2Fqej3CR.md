@@ -4,7 +4,7 @@
 
 > 축구 경기 응원가/테마곡과 함께 대한민국의 경기를 응원해보세요!! 🇰🇷
 
-524 songs - 1 day 6 hr 35 min
+525 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [Vancouver 2](https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Vancouver 2](https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq) | 3:22 | 2023-09-27 | 2024-06-14 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 | 2023-04-19 | 2024-06-14 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-18 | 2023-05-01 |
+| [Victory](https://open.spotify.com/track/2osyzRNIOMXUoW4gJLrRxl) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Victory](https://open.spotify.com/album/1rWXfjjQW0A7ZUPPGMvpNG) | 3:36 | 2026-06-19 |  |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2025-08-19 | 2025-12-27 |
 | [Volunteer Theme x FIFA World Cup 26™ by DJANE VIOLET](https://open.spotify.com/track/3B3k8bDSy6Wgr7nyg8NcrF) | [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH), [Djane Violet](https://open.spotify.com/artist/3Sh1PUYdNWI9KGFQO2uBdw) | [Volunteer Theme x FIFA World Cup 26™ by DJANE VIOLET](https://open.spotify.com/album/4Cpe21C9CHKVX9nuGuwiVq) | 2:02 | 2026-05-31 |  |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-05-11 | 2022-07-27 |

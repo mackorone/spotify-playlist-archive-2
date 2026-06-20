@@ -4,7 +4,7 @@
 
 > Enjoy exclusive live performance videos from K\-Pop artists produced by Spotify! \(스포티파이가 프로듀싱한 케이팝 아티스트들의 특별한 라이브 퍼포먼스 비디오를 즐겨보세요!\)
 
-29 songs - 1 hr 38 min
+30 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Freestyle](https://open.spotify.com/track/6Wu30Ro8z8SLBUxsnfTKLI) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Freestyle](https://open.spotify.com/album/3pr47kR7vZWpgsiLsGBFEa) | 2:59 | 2025-11-19 |  |
 | [Loose \(Korean Ver.\)](https://open.spotify.com/track/03HHGNtjpS5K6fRcwlX3Sx) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/47tBLYvFev5FbtKO9PHlWm) | 4:06 | 2025-11-19 |  |
 | [Loose \(Korean Ver.\)](https://open.spotify.com/track/2RCriW55nKo1k49PcgnzeK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/4WEEEi1YvRwwPzXileG661) | 4:06 | 2025-11-19 |  |
+| [Merry Go Round](https://open.spotify.com/track/6t4JEAfgl8oVJUASyxzptH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Merry Go Round](https://open.spotify.com/album/3xExm6422LDtFkZdkKblyo) | 4:15 | 2026-06-19 |  |
 | [NORMAL \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [NORMAL \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C) | 3:11 | 2026-06-01 |  |
 | [O.O Part 1 \(Baila\)](https://open.spotify.com/track/6dx6xPMkBwPXdRXtaFEk1T) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [O.O Part 1 \(Baila\)](https://open.spotify.com/album/3hndrP38zWOzZFDIIyDsB7) | 3:43 | 2025-11-19 |  |
 | [O.O Pt\. 1 \(Baila\)](https://open.spotify.com/track/0c15Tj9dcB3VgwDya7roED) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [O.O Pt\. 1 \(Baila\)](https://open.spotify.com/album/3UBnxG8yJO6Bp1lMlLBMZB) | 3:43 | 2025-11-19 |  |

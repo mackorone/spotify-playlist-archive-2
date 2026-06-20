@@ -2425,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "Dhiruthi",
+        "url": "https://open.spotify.com/album/2zKPYFF75XzPZXUpxnzOpi"
+      },
+      "artists": [
+        {
+          "name": "Reyan",
+          "url": "https://open.spotify.com/artist/0Te5urvZR7fH2ojS5H6ERM"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145882,
+      "name": "Dhiruthi",
+      "url": "https://open.spotify.com/track/2gpUXXOvFECxoTtUylgA8I"
+    },
+    {
+      "album": {
         "name": "District 7",
         "url": "https://open.spotify.com/album/2rMb2UfKlyXUekKL86UeGc"
       },
@@ -3941,6 +3959,28 @@
     },
     {
       "album": {
+        "name": "KAATTITHERA",
+        "url": "https://open.spotify.com/album/3LfwkwoR7TMd8EfX81jyXR"
+      },
+      "artists": [
+        {
+          "name": "JOKER390P",
+          "url": "https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW"
+        },
+        {
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162947,
+      "name": "KAATTITHERA",
+      "url": "https://open.spotify.com/track/4auKyR301DZ73nYOerGwbk"
+    },
+    {
+      "album": {
         "name": "Kaavalino?",
         "url": "https://open.spotify.com/album/7IyuRS8ThskiE9cddnCmzp"
       },
@@ -4132,6 +4172,28 @@
       "duration_ms": 154405,
       "name": "Kaipuzha to Balewadi",
       "url": "https://open.spotify.com/track/1HNIF808e9TsC9iR9WNGMi"
+    },
+    {
+      "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/5WCI2QOQdhjVKcli3pPwlV"
+      },
+      "artists": [
+        {
+          "name": "GABRI",
+          "url": "https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng"
+        },
+        {
+          "name": "Jkfactor",
+          "url": "https://open.spotify.com/artist/2YhFy8MzbmY2jlPSqUucAv"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141187,
+      "name": "Kala",
+      "url": "https://open.spotify.com/track/0cpaDahjkc50kkBJNz5tN9"
     },
     {
       "album": {
@@ -4808,7 +4870,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 209166,
       "name": "Khalbum Katti",
       "url": "https://open.spotify.com/track/70eTArYv8s81pKECLgL1il"
@@ -4996,7 +5058,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 159118,
       "name": "KL42",
       "url": "https://open.spotify.com/track/2akQaKSgo8XjKj5eqccOV4"
@@ -5984,7 +6046,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 246000,
       "name": "Malabari Banger",
       "url": "https://open.spotify.com/track/0aXnTU90v6G1QVlimy0Kw8"
@@ -6360,7 +6422,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 170678,
       "name": "Marpapa (From \"Marco\")",
       "url": "https://open.spotify.com/track/3wy1CWZIb89ajMdd2SiFM3"
@@ -6474,7 +6536,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 147750,
       "name": "MAUNA LOA",
       "url": "https://open.spotify.com/track/7gqmoEWBvt6srOCDgTMEHM"
@@ -6740,7 +6802,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 234428,
       "name": "Munthirichar",
       "url": "https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS"
@@ -7070,7 +7132,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 151149,
       "name": "Naranga Paal",
       "url": "https://open.spotify.com/track/3wL3P9U07mTkdnlLAMe0ql"
@@ -7709,6 +7771,36 @@
     },
     {
       "album": {
+        "name": "Nonsense",
+        "url": "https://open.spotify.com/album/4J29RPd1lv4tUhMBcJeHTq"
+      },
+      "artists": [
+        {
+          "name": "ThirumaLi",
+          "url": "https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ"
+        },
+        {
+          "name": "Jay Stellar",
+          "url": "https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        },
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/2D2SfXqsP0fZWovGFiSTDG"
+    },
+    {
+      "album": {
         "name": "NOOR",
         "url": "https://open.spotify.com/album/5qSkWadQGiYygLIS74i3A8"
       },
@@ -8302,6 +8394,32 @@
       "duration_ms": 178923,
       "name": "Pacha Parishkari",
       "url": "https://open.spotify.com/track/1AX9IVuMQ9WThp1koU7sdY"
+    },
+    {
+      "album": {
+        "name": "Pachapothi",
+        "url": "https://open.spotify.com/album/0lWCILAJJsHPXI9SOuUSJQ"
+      },
+      "artists": [
+        {
+          "name": "Deon",
+          "url": "https://open.spotify.com/artist/4w5cn6TMLnK4dCyfcp0lbO"
+        },
+        {
+          "name": "draeKo",
+          "url": "https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq"
+        },
+        {
+          "name": "Ankith Gupta",
+          "url": "https://open.spotify.com/artist/3MF9NNtt4etTc8GUZB8gCa"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163731,
+      "name": "Pachapothi",
+      "url": "https://open.spotify.com/track/3GnyPVq3WL2w7inwb8biwP"
     },
     {
       "album": {
@@ -10229,6 +10347,24 @@
     },
     {
       "album": {
+        "name": "Superglue (Disc 1)",
+        "url": "https://open.spotify.com/album/6ET71AHpjYM5xM238W0OI7"
+      },
+      "artists": [
+        {
+          "name": "Anohnymouss",
+          "url": "https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/6MTVvvp7zBO8fq6MyxyVcE"
+    },
+    {
+      "album": {
         "name": "T SHIRT",
         "url": "https://open.spotify.com/album/3Ooo36cYxR20s6XarUS697"
       },
@@ -11484,6 +11620,28 @@
       "duration_ms": 228000,
       "name": "Vaapa (Ft. Jack' styles)",
       "url": "https://open.spotify.com/track/1w6DAe1xlAj9oxDb1dWHo4"
+    },
+    {
+      "album": {
+        "name": "Vaazha",
+        "url": "https://open.spotify.com/album/3qvcArptGV5Fwx2euFgm2z"
+      },
+      "artists": [
+        {
+          "name": "S Dee",
+          "url": "https://open.spotify.com/artist/6AIHewFwNjOEJQCrOZBoSt"
+        },
+        {
+          "name": "Hiphop JB",
+          "url": "https://open.spotify.com/artist/58MN2gwmEvgqAECH1yKX5I"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230058,
+      "name": "Vaazha",
+      "url": "https://open.spotify.com/track/3vYlY83QhJHTXCRmcf3aXa"
     },
     {
       "album": {

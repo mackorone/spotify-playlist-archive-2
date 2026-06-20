@@ -1,6 +1,6 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 106143,
+  "num_followers": 106206,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
@@ -637,6 +637,26 @@
       "url": "https://open.spotify.com/track/6UGklMOti1kY7zl9po1WEH"
     },
     {
+      "added_at": "2026-04-10 15:27:39",
+      "album": {
+        "name": "SKYLAB",
+        "url": "https://open.spotify.com/album/5N21SLtHRT17d0F7PhWEPO"
+      },
+      "artists": [
+        {
+          "name": "Prashanth R Vihari",
+          "url": "https://open.spotify.com/artist/1advv7h9JDw0JqezZiVAN1"
+        },
+        {
+          "name": "Madhura Dhara Talluri",
+          "url": "https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Aapena Aagena",
+      "url": "https://open.spotify.com/track/11BM8S7cB3oa1X9rWt9qgs"
+    },
+    {
       "added_at": "2026-01-05 05:30:29",
       "album": {
         "name": "Patang",
@@ -659,26 +679,6 @@
       "duration_ms": 268027,
       "name": "Tai Tai Tai",
       "url": "https://open.spotify.com/track/6rcCn2P4aStaUetsDy3Npg"
-    },
-    {
-      "added_at": "2026-04-10 15:27:39",
-      "album": {
-        "name": "SKYLAB",
-        "url": "https://open.spotify.com/album/5N21SLtHRT17d0F7PhWEPO"
-      },
-      "artists": [
-        {
-          "name": "Prashanth R Vihari",
-          "url": "https://open.spotify.com/artist/1advv7h9JDw0JqezZiVAN1"
-        },
-        {
-          "name": "Madhura Dhara Talluri",
-          "url": "https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Aapena Aagena",
-      "url": "https://open.spotify.com/track/11BM8S7cB3oa1X9rWt9qgs"
     },
     {
       "added_at": "2025-09-22 10:53:22",
@@ -763,6 +763,26 @@
     {
       "added_at": "2021-05-18 09:57:44",
       "album": {
+        "name": "Mirchi",
+        "url": "https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Anitha",
+          "url": "https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "Idhedho Bagundhe",
+      "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
+    },
+    {
+      "added_at": "2021-05-18 09:57:44",
+      "album": {
         "name": "Nenu Local",
         "url": "https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7"
       },
@@ -799,22 +819,18 @@
     {
       "added_at": "2021-05-18 09:57:44",
       "album": {
-        "name": "Mirchi",
-        "url": "https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf"
+        "name": "Son Of Satyamurthy",
+        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
       },
       "artists": [
         {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Anitha",
-          "url": "https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc"
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
         }
       ],
-      "duration_ms": 266760,
-      "name": "Idhedho Bagundhe",
-      "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
+      "duration_ms": 262488,
+      "name": "Seethakaalam",
+      "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
     },
     {
       "added_at": "2021-05-18 09:57:44",
@@ -831,22 +847,6 @@
       "duration_ms": 199200,
       "name": "Yenti Yenti",
       "url": "https://open.spotify.com/track/37LmFlPnpsBISJjNvqbUkT"
-    },
-    {
-      "added_at": "2021-05-18 09:57:44",
-      "album": {
-        "name": "Son Of Satyamurthy",
-        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
-      },
-      "artists": [
-        {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        }
-      ],
-      "duration_ms": 262488,
-      "name": "Seethakaalam",
-      "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
     },
     {
       "added_at": "2021-05-18 09:57:44",
@@ -869,26 +869,6 @@
       "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
     },
     {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Saahasam Swaasaga Saagipo",
-        "url": "https://open.spotify.com/album/4Y48mLFqW5aJ7LRoUUMx6J"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "ADK",
-          "url": "https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj"
-        }
-      ],
-      "duration_ms": 261368,
-      "name": "Vellipomaake",
-      "url": "https://open.spotify.com/track/6z15tFRtCyiSorSGaKLJeu"
-    },
-    {
       "added_at": "2021-05-18 09:57:44",
       "album": {
         "name": "Rangam",
@@ -907,6 +887,26 @@
       "duration_ms": 330505,
       "name": "Endhuko Emo",
       "url": "https://open.spotify.com/track/6Yqw4HtJuFXleJtgzYXWzT"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Saahasam Swaasaga Saagipo",
+        "url": "https://open.spotify.com/album/4Y48mLFqW5aJ7LRoUUMx6J"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "ADK",
+          "url": "https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj"
+        }
+      ],
+      "duration_ms": 261368,
+      "name": "Vellipomaake",
+      "url": "https://open.spotify.com/track/6z15tFRtCyiSorSGaKLJeu"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
+        "name": "Oye",
+        "url": "https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "duration_ms": 354346,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/42XgH6kQAvTOiKODWMuD9p"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
         "name": "Nuvvu Nenu Prema",
         "url": "https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 273769,
       "name": "Gala Gala Paruthunna",
       "url": "https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Oye",
-        "url": "https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8"
-      },
-      "artists": [
-        {
-          "name": "KK",
-          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
-        }
-      ],
-      "duration_ms": 354346,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/42XgH6kQAvTOiKODWMuD9p"
     }
   ],
   "unique_name": "Mellow Telugu",

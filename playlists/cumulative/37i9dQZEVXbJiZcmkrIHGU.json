@@ -2526,7 +2526,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 136132,
       "name": "63",
       "url": "https://open.spotify.com/track/09LnnXEjmErXMEVEYXn7GJ"
@@ -31617,6 +31617,24 @@
     },
     {
       "album": {
+        "name": "Glaub an dich",
+        "url": "https://open.spotify.com/album/5WzVyRTsjUMh5wOwqT7JUU"
+      },
+      "artists": [
+        {
+          "name": "BearyTunes",
+          "url": "https://open.spotify.com/artist/6yw8N6PdyedoyY5DnS79Lj"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "Glaub an dich",
+      "url": "https://open.spotify.com/track/11AlDaLmOMP78MR25uuX37"
+    },
+    {
+      "album": {
         "name": "glaub dir nicht",
         "url": "https://open.spotify.com/album/5Kvs1nas4NfDpR9YFCyL0c"
       },
@@ -35414,7 +35432,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 223013,
       "name": "honeybee",
       "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
@@ -41714,7 +41732,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 153230,
       "name": "Kay\u0131p Kalp",
       "url": "https://open.spotify.com/track/3H4aYDeSswC31fSOWJtWdg"
@@ -52642,7 +52660,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 182968,
       "name": "Mon Amour (Original von Hecht)",
       "url": "https://open.spotify.com/track/6H1j5PiyxgyWTnDmabW0Ng"
@@ -61158,6 +61176,24 @@
       "duration_ms": 147075,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/5AQyVssLj6Xj5ryPENxntm"
+    },
+    {
+      "album": {
+        "name": "L'undertaker Part.1",
+        "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
     },
     {
       "album": {
@@ -73964,7 +74000,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -74560,6 +74596,24 @@
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
+    },
+    {
+      "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,944 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,959 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 45 | [雨のケンネル通り](https://open.spotify.com/track/34fPafuMThpNjUuJ3DW8dj) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [GOODIES](https://open.spotify.com/album/60OpUEpnNiPjvMM8ibV3Ur) | 4:34 |
 | 46 | [タワー・サイド・メモリー](https://open.spotify.com/track/4DhKgRHv5MzNCzLhTEByZi) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [昨晩お会いしましょう](https://open.spotify.com/album/1SOU69vRno4XD2yvz7zqF4) | 3:06 |
 | 47 | [GATSBY WOMAN](https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [ＭＵＧＳＨＯＴ](https://open.spotify.com/album/7u2JWvr9mkfzBbK7ZaoMpc) | 4:26 |
-| 48 | [MIDNIGHT DRIVER](https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/0VtVYCQCmmmTaMytFTTvc0) | 7:44 |
-| 49 | [カラパナ・ブラック・サンド・ビーチ](https://open.spotify.com/track/17LEN5pPeHU7b5rLgQupGO) | [Atsuko Nina](https://open.spotify.com/artist/6E3IfpRGFBLViCZZ5syIRj) | [ロコ・アイランド](https://open.spotify.com/album/61u9uutLeJHDzBL4Mm2TgA) | 4:13 |
+| 48 | [カラパナ・ブラック・サンド・ビーチ](https://open.spotify.com/track/17LEN5pPeHU7b5rLgQupGO) | [Atsuko Nina](https://open.spotify.com/artist/6E3IfpRGFBLViCZZ5syIRj) | [ロコ・アイランド](https://open.spotify.com/album/61u9uutLeJHDzBL4Mm2TgA) | 4:13 |
+| 49 | [MIDNIGHT DRIVER](https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/0VtVYCQCmmmTaMytFTTvc0) | 7:44 |
 | 50 | [Let Me Hold You Again Tonight](https://open.spotify.com/track/1k77BfbL9jwRXC4O9LEmx2) | [原田真二 & クライシス](https://open.spotify.com/artist/2OzKnHAV9H54abcIaIJAoa) | [原田真二GOLDEN☆BEST Legendary Hits 80's](https://open.spotify.com/album/4k2ZzNZ0koeUw4rXzMjwdO) | 4:43 |
 
 Snapshot ID: `AAAAAPtIGWtsSkFG0oNWUbSM1Lh+wETB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 La Grecia
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,768 likes - 90 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,766 likes - 90 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 24 | [Ataques en mi ciudad](https://open.spotify.com/track/5bPlBlbed488nYF8lWkvvX) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Ataques en mi ciudad](https://open.spotify.com/album/5Uf4QqRyjV8sVwzCGjDAcC) | 2:39 |
 | 25 | [REINADO](https://open.spotify.com/track/1lcZi2t9hCnP3kMcfArLKt) | [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF) | [UNA MALA IDEA](https://open.spotify.com/album/0as6ZkvROy2ol33etekB4H) | 2:41 |
 | 26 | [Desconsuelo](https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2) | [DOJO](https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG) | [Desconsuelo](https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T) | 4:03 |
-| 27 | [Ajedrez](https://open.spotify.com/track/4lx8pUmMsRKVReSnixvHUb) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Ajedrez](https://open.spotify.com/album/0KVlJbAPJDTpYiPxRT4pKm) | 2:53 |
+| 27 | [ajedrez](https://open.spotify.com/track/4lx8pUmMsRKVReSnixvHUb) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [ajedrez](https://open.spotify.com/album/0KVlJbAPJDTpYiPxRT4pKm) | 2:53 |
 | 28 | [cada vez que veo tu cara me quiero morir](https://open.spotify.com/track/5d9cA9I3my1vRSPiTStgBl) | [La Real Academia](https://open.spotify.com/artist/4Rin3fJL3HmFKZsoJ2OzZm) | [cada vez que veo tu cara me quiero morir](https://open.spotify.com/album/5Rk7wgq3zruc6pLt1Q2d1N) | 3:23 |
 | 29 | [Pero ella no](https://open.spotify.com/track/5IhwgSrKFfQufwMSK0LCjF) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [Pero ella no](https://open.spotify.com/album/4THExkvbRXmYNt5ij7y52s) | 2:28 |
 | 30 | [Tres Viernes](https://open.spotify.com/track/1dgQjfoM0Kcus4Sq6AjTSx) | [Radicäl](https://open.spotify.com/artist/4JyGBDOEYSDmMphGEacNAC) | [Una Semana Cualquiera](https://open.spotify.com/album/2oqaBp3gTE9Jf4s4FezNAy) | 2:37 |

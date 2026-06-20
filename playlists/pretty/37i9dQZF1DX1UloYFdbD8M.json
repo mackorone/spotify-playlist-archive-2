@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: K.S.Harisankar, Salim Sulaiman",
-  "num_followers": 40218,
+  "num_followers": 40221,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAGr35jAhVjHMS13Yb7xfBwDZeK9",
+  "snapshot_id": "AAAAALXbkDhAWoSvRhz27Ua4thWRpfZ1",
   "tracks": [
     {
       "added_at": "2026-01-16 09:26:59",
@@ -181,6 +181,30 @@
       "url": "https://open.spotify.com/track/5lBRUGwkC8irqHyIKQRkF9"
     },
     {
+      "added_at": "2026-06-19 04:48:37",
+      "album": {
+        "name": "Snehithe",
+        "url": "https://open.spotify.com/album/4nWT5f6V7bTvWMJiYMnttS"
+      },
+      "artists": [
+        {
+          "name": "Swalih CK",
+          "url": "https://open.spotify.com/artist/419WNgeBMwdlziHzMJ2SrX"
+        },
+        {
+          "name": "Sudeep Palanad",
+          "url": "https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3"
+        },
+        {
+          "name": "Manjari",
+          "url": "https://open.spotify.com/artist/1jtuCB1QvOAOiyXxqxBeOz"
+        }
+      ],
+      "duration_ms": 243731,
+      "name": "Snehithe",
+      "url": "https://open.spotify.com/track/7KmabzyKrpjsvWR8AIuyrb"
+    },
+    {
       "added_at": "2026-06-11 23:40:53",
       "album": {
         "name": "Laavaa Laile",
@@ -217,6 +241,26 @@
       "url": "https://open.spotify.com/track/4Oo44aYhg2w0hz1Bpu2k2o"
     },
     {
+      "added_at": "2026-06-19 04:48:37",
+      "album": {
+        "name": "Mazha Nanayaam",
+        "url": "https://open.spotify.com/album/5wdT9TcjkFBvjeiqZVsNX3"
+      },
+      "artists": [
+        {
+          "name": "MUFLIH",
+          "url": "https://open.spotify.com/artist/19YXXmFAYmFkF3iLGgNyGy"
+        },
+        {
+          "name": "Yazin F T",
+          "url": "https://open.spotify.com/artist/1Xpyq29clqQa4HoroWqOUl"
+        }
+      ],
+      "duration_ms": 108705,
+      "name": "Mazha Nanayaam",
+      "url": "https://open.spotify.com/track/4tYrkfyx7HUDU44iCPvnfO"
+    },
+    {
       "added_at": "2026-06-11 09:02:30",
       "album": {
         "name": "Kaalangalaal",
@@ -235,6 +279,22 @@
       "duration_ms": 269992,
       "name": "Kaalangalaal",
       "url": "https://open.spotify.com/track/65dPSpaFDR1SlTV78iznXj"
+    },
+    {
+      "added_at": "2026-06-19 13:25:34",
+      "album": {
+        "name": "Neelaravil",
+        "url": "https://open.spotify.com/album/0YuMOITteRtVK8M7Z1JdVq"
+      },
+      "artists": [
+        {
+          "name": "Sinov Raj",
+          "url": "https://open.spotify.com/artist/0Xk1j528pHoL2oervr3qP0"
+        }
+      ],
+      "duration_ms": 262327,
+      "name": "Neelaravil",
+      "url": "https://open.spotify.com/track/3CnVOw5FmNWCBFKyAjrK78"
     },
     {
       "added_at": "2026-06-12 00:00:29",
@@ -745,34 +805,6 @@
       "url": "https://open.spotify.com/track/2kJ5S7VLdpwC4PblqJdZ5R"
     },
     {
-      "added_at": "2025-09-30 07:06:38",
-      "album": {
-        "name": "Aham",
-        "url": "https://open.spotify.com/album/0AIYu4ehm4dw6rfsufDfgT"
-      },
-      "artists": [
-        {
-          "name": "Rahul Ramachandran",
-          "url": "https://open.spotify.com/artist/5ZVqVNfX4878mRzELmU6WB"
-        },
-        {
-          "name": "K. S. Harisankar",
-          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
-        },
-        {
-          "name": "Aavani Malhar",
-          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
-        },
-        {
-          "name": "SHXKE",
-          "url": "https://open.spotify.com/artist/26d49CuuFuduRprTcShjuz"
-        }
-      ],
-      "duration_ms": 229784,
-      "name": "Aham - The Atma",
-      "url": "https://open.spotify.com/track/0WHOOt77K29SJG4wdgj3sK"
-    },
-    {
       "added_at": "2025-11-14 08:14:03",
       "album": {
         "name": "Chekavar",
@@ -973,34 +1005,6 @@
       "url": "https://open.spotify.com/track/2skqHUac0gpqqUMuVjUkrU"
     },
     {
-      "added_at": "2025-10-10 05:39:58",
-      "album": {
-        "name": "Jaalame",
-        "url": "https://open.spotify.com/album/4PtCiq8SiO8Ve8bWUT9OiT"
-      },
-      "artists": [
-        {
-          "name": "Pina Colada Blues",
-          "url": "https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE"
-        },
-        {
-          "name": "Jai Matt",
-          "url": "https://open.spotify.com/artist/2sC8JDQrhhEjnpeHrTYzjf"
-        },
-        {
-          "name": "Samad Khan",
-          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
-        },
-        {
-          "name": "J2K",
-          "url": "https://open.spotify.com/artist/6Um66wxKM0pGG4HIoLacTM"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Jaalame",
-      "url": "https://open.spotify.com/track/1SEe6PB3qJipGcbtJQS5db"
-    },
-    {
       "added_at": "2025-11-10 07:35:42",
       "album": {
         "name": "Majnu (From \"Saina Music Indie\")",
@@ -1019,206 +1023,6 @@
       "duration_ms": 188397,
       "name": "Majnu - From \"Saina Music Indie\"",
       "url": "https://open.spotify.com/track/61HtS9NSAxJ7oLZBzX0lTU"
-    },
-    {
-      "added_at": "2025-11-07 09:26:37",
-      "album": {
-        "name": "Mayatheeram",
-        "url": "https://open.spotify.com/album/2ahKKTbwW8CnpTE6Lnu8dH"
-      },
-      "artists": [
-        {
-          "name": "Bhadra Rajin",
-          "url": "https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn"
-        },
-        {
-          "name": "Sreeranjini Kodampally",
-          "url": "https://open.spotify.com/artist/4LJRTEt0rKZfEwMWSTGJM5"
-        }
-      ],
-      "duration_ms": 236273,
-      "name": "Mayatheeram",
-      "url": "https://open.spotify.com/track/5Ox3gerw8gatalUBOQdumf"
-    },
-    {
-      "added_at": "2025-10-12 14:42:40",
-      "album": {
-        "name": "Eerezhu Lokam",
-        "url": "https://open.spotify.com/album/1Nk19vcDcaQtdAfVSU1hl0"
-      },
-      "artists": [
-        {
-          "name": "Pranav Das",
-          "url": "https://open.spotify.com/artist/6OwdhjSwx9S20xgIhe8DYI"
-        },
-        {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Eerezhu Lokam",
-      "url": "https://open.spotify.com/track/4pcDQb8DG551RbYB6jrw9i"
-    },
-    {
-      "added_at": "2025-09-30 09:22:26",
-      "album": {
-        "name": "Oud Trip",
-        "url": "https://open.spotify.com/album/4xMVu7G2doh5Bssx0SNzzN"
-      },
-      "artists": [
-        {
-          "name": "Dabzee",
-          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
-        },
-        {
-          "name": "Wraith V",
-          "url": "https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ"
-        }
-      ],
-      "duration_ms": 194418,
-      "name": "Oud Trip",
-      "url": "https://open.spotify.com/track/2VnolpkBTx6R61J4BWbLBa"
-    },
-    {
-      "added_at": "2025-10-22 07:31:39",
-      "album": {
-        "name": "Kamaal",
-        "url": "https://open.spotify.com/album/5kLctn1uVWRRmPJt8B9L9j"
-      },
-      "artists": [
-        {
-          "name": "MBL_",
-          "url": "https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z"
-        },
-        {
-          "name": "ADK",
-          "url": "https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj"
-        },
-        {
-          "name": "AYARKAY",
-          "url": "https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P"
-        }
-      ],
-      "duration_ms": 206732,
-      "name": "Kamaal",
-      "url": "https://open.spotify.com/track/1LEuBLe6NyJE90XCchRgYk"
-    },
-    {
-      "added_at": "2025-10-10 05:44:25",
-      "album": {
-        "name": "Muriv",
-        "url": "https://open.spotify.com/album/3je4KxtZBXJI4VBVzDKKIu"
-      },
-      "artists": [
-        {
-          "name": "Irfan Zehn",
-          "url": "https://open.spotify.com/artist/5MU7uJmz4pkO5VW2zc9rqn"
-        },
-        {
-          "name": "Evan Gonsalves",
-          "url": "https://open.spotify.com/artist/0GJ20ystfIjrkljsF6c658"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Muriv",
-      "url": "https://open.spotify.com/track/7oguqIbtB1eM4lacNnoNXO"
-    },
-    {
-      "added_at": "2025-10-22 08:12:48",
-      "album": {
-        "name": "PENNE NEE",
-        "url": "https://open.spotify.com/album/1RZUlyFnb7zlMywMrHkvwE"
-      },
-      "artists": [
-        {
-          "name": "Jasim Jamal",
-          "url": "https://open.spotify.com/artist/6WW7DYQiOJS7JDV7LT54XH"
-        }
-      ],
-      "duration_ms": 298890,
-      "name": "PENNE NEE",
-      "url": "https://open.spotify.com/track/1r1hdWL4Iyv5VJOIpHVta1"
-    },
-    {
-      "added_at": "2025-10-09 10:58:46",
-      "album": {
-        "name": "Aanandam Aanandame",
-        "url": "https://open.spotify.com/album/3aWkF9mfuR3jG3r7EPML1e"
-      },
-      "artists": [
-        {
-          "name": "Sithara Krishnakumar",
-          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
-        },
-        {
-          "name": "Sreejith Edavana",
-          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
-        }
-      ],
-      "duration_ms": 212505,
-      "name": "Aanandam Aanandame",
-      "url": "https://open.spotify.com/track/5cKvhS5YD93kGRKCDav2eK"
-    },
-    {
-      "added_at": "2025-10-07 11:23:26",
-      "album": {
-        "name": "Valiyaparamb",
-        "url": "https://open.spotify.com/album/5ikqN9j24apCT3l6xwQSAi"
-      },
-      "artists": [
-        {
-          "name": "M.H.R",
-          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
-        },
-        {
-          "name": "Haniya Nafisa",
-          "url": "https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0"
-        }
-      ],
-      "duration_ms": 220501,
-      "name": "Thedal",
-      "url": "https://open.spotify.com/track/1vLOGBEUancfHIFk7R6KAw"
-    },
-    {
-      "added_at": "2025-09-26 06:20:37",
-      "album": {
-        "name": "Souhridham",
-        "url": "https://open.spotify.com/album/6eUj0skPcm5lDArY9yleKe"
-      },
-      "artists": [
-        {
-          "name": "ACTIVE RADIO",
-          "url": "https://open.spotify.com/artist/4myX6NO3fLknDwMk5S4lml"
-        }
-      ],
-      "duration_ms": 280615,
-      "name": "Souhridham",
-      "url": "https://open.spotify.com/track/6xEOKRBzBUndWjkpGjFH7o"
-    },
-    {
-      "added_at": "2025-09-19 07:18:27",
-      "album": {
-        "name": "Chelu",
-        "url": "https://open.spotify.com/album/4FDQHPRJfVSzXPw4v6o6o8"
-      },
-      "artists": [
-        {
-          "name": "Jubair Muhammed",
-          "url": "https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0"
-        },
-        {
-          "name": "Najran Kabeer",
-          "url": "https://open.spotify.com/artist/0jvCibdhene4gjkWnfdort"
-        },
-        {
-          "name": "Musthafa",
-          "url": "https://open.spotify.com/artist/0tHJICSi99x38lzsS9yjnz"
-        }
-      ],
-      "duration_ms": 152014,
-      "name": "Chelu",
-      "url": "https://open.spotify.com/track/0xdm6L3j1eX7qqI9Tp1Oyp"
     }
   ],
   "unique_name": "Malayalam Indie",

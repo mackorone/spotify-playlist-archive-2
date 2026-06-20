@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-631 songs - 1 day 18 hr 36 min
+632 songs - 1 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Doing Of The Lord](https://open.spotify.com/track/4r966NZHJtBkOpfhXVFdxY) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Doing Of The Lord](https://open.spotify.com/album/0Ff26WWIzgkiSxWVemAtxD) | 4:19 | 2025-01-10 | 2025-02-21 |
 | [Done It Again](https://open.spotify.com/track/5iqZcZQlGVnyu7lCaYrFyB) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [Done It Again](https://open.spotify.com/album/00VbqNN4JPpyNqOXK9iVh4) | 6:12 | 2025-12-12 | 2026-01-15 |
 | [Done me Well](https://open.spotify.com/track/2NTxIp2e1Asq94iBoTSE7z) | [Alice Peters](https://open.spotify.com/artist/3QgTVlHmMjek7wGGRsvi6U), [G\-Ben Music](https://open.spotify.com/artist/3AimmyFkxdXoMLanW9i1Xm) | [Done Me Well](https://open.spotify.com/album/5jJvIWlKOtsmQ9XXViO10J) | 3:30 | 2026-02-06 | 2026-04-03 |
-| [E Ba Mi Gbe Ga](https://open.spotify.com/track/0fGcgCXGeZGflUzBgwkneW) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [E Ba Mi Gbe Ga](https://open.spotify.com/album/6g6gAExjvai5WwR3oQ2Ed8) | 5:50 | 2026-05-29 |  |
+| [E Ba Mi Gbe Ga](https://open.spotify.com/track/0fGcgCXGeZGflUzBgwkneW) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [E Ba Mi Gbe Ga](https://open.spotify.com/album/6g6gAExjvai5WwR3oQ2Ed8) | 5:50 | 2026-05-29 | 2026-06-20 |
 | [E Dey Flow](https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [SpotLite Nation](https://open.spotify.com/artist/2UhKWXKdeg54DFRMVK3wqS), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [E Dey Flow](https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW) | 2:36 | 2024-09-27 |  |
 | [E No Dey Finish](https://open.spotify.com/track/607RU3eLBQCeiqBCWBh4eq) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [E No Dey Finish](https://open.spotify.com/album/6i2e0TpfHMdjMXyxZmv4PM) | 2:53 | 2026-02-20 | 2026-03-20 |
 | [Ebenezer \(My Helper\)](https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Prayer](https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO) | 5:46 | 2025-09-26 | 2025-11-28 |
@@ -334,6 +334,7 @@
 | [Joy](https://open.spotify.com/track/4O7LdpkxIfdNEXODDN4ApN) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Sound From The South](https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ) | 3:26 | 2026-02-13 | 2026-03-13 |
 | [Joy \(feat\. LC Beatz\)](https://open.spotify.com/track/1DAUHWoF0BRWT0wyES0I9W) | [Timi Phoenix](https://open.spotify.com/artist/44e37JkgcHI4857DDZWOdr), [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi) | [Joy \(feat\. LC Beatz\)](https://open.spotify.com/album/6ugfSSCMX9r5cesyyAxw9l) | 2:57 | 2024-10-18 | 2025-02-07 |
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2024-09-27 | 2025-02-28 |
+| [Kaunar Allah](https://open.spotify.com/track/6Yu4gwqfUEIwHhK5JRIG5P) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Kaunar Allah](https://open.spotify.com/album/7cRvo8ih8ElRx3psSHbk2Y) | 3:18 | 2026-06-12 |  |
 | [Kumama](https://open.spotify.com/track/0T1976UbQjxp4gp529DmQ7) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Kumama](https://open.spotify.com/album/0rE7B3Buwz2JCQjdPZWLXw) | 3:20 | 2025-03-07 | 2025-07-25 |
 | [Lai Lai](https://open.spotify.com/track/4J7u9sUTi63l1KOIw5o9jC) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Lai Lai](https://open.spotify.com/album/5YXPJ5JBpAxrIGx81Pmyyn) | 2:47 | 2024-09-27 | 2025-02-07 |
 | [LAS LAS](https://open.spotify.com/track/6ASx7WaH5dJKxcq0lGHEZZ) | [Richrok](https://open.spotify.com/artist/2u1nZOO16DH6500HiJYXyZ) | [LAS LAS](https://open.spotify.com/album/2av1PbpOikyD0uTzg3u1aw) | 2:21 | 2025-11-14 | 2026-03-27 |

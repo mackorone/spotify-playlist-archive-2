@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "2 Many Days",
+        "url": "https://open.spotify.com/album/5C9EToByF5XDM3DXx4WewZ"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185770,
+      "name": "2 Many Days",
+      "url": "https://open.spotify.com/track/5xKsdMU9ssxhKSre7iMflV"
+    },
+    {
+      "album": {
         "name": "Don't Box Me In",
         "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
       },
@@ -10492,7 +10510,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 154581,
       "name": "Callin (feat. Blu june)",
       "url": "https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF"
@@ -22827,6 +22845,28 @@
     },
     {
       "album": {
+        "name": "Fixxxer",
+        "url": "https://open.spotify.com/album/4p7ROj0ByDCgV7AJy0z4wv"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        },
+        {
+          "name": "Jamie Slays",
+          "url": "https://open.spotify.com/artist/3yDHic4zKtfWfAQzKXd69Q"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246211,
+      "name": "Fixxxer",
+      "url": "https://open.spotify.com/track/7pMK5vsIMEbeyvRUCscgFD"
+    },
+    {
+      "album": {
         "name": "Live From Vienna (FM4 Session)",
         "url": "https://open.spotify.com/album/1XXJgQL0doLf6dKNBI9JOO"
       },
@@ -29318,7 +29358,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 174733,
       "name": "Helen's Theme from Candyman (Arr. for Piano by Michael Riesman)",
       "url": "https://open.spotify.com/track/0vQrawIpBJKndkwgxQMuyq"
@@ -30722,6 +30762,24 @@
       "duration_ms": 171188,
       "name": "Hooked (Hot Stuff)",
       "url": "https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B"
+    },
+    {
+      "album": {
+        "name": "Horseback",
+        "url": "https://open.spotify.com/album/0fFdJJRfSRvm1LyLB5jomf"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168653,
+      "name": "Horseback",
+      "url": "https://open.spotify.com/track/5AvPZT0oHmQewNNbrv6cHr"
     },
     {
       "album": {
@@ -33740,6 +33798,24 @@
       "duration_ms": 242573,
       "name": "In Your Love - Live From Radio City Music Hall",
       "url": "https://open.spotify.com/track/1vlF4jSU2nAWMjsGkzgFio"
+    },
+    {
+      "album": {
+        "name": "Miles '56 (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274303,
+      "name": "In Your Own Sweet Way - March 16, 1956 Version / Remastered 2026",
+      "url": "https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8"
     },
     {
       "album": {
@@ -39583,6 +39659,28 @@
     },
     {
       "album": {
+        "name": "Lion",
+        "url": "https://open.spotify.com/album/4QpHoNpEnzQ8tDNdocoRJ4"
+      },
+      "artists": [
+        {
+          "name": "Kylieloc",
+          "url": "https://open.spotify.com/artist/7JiJhPzzHv5yfWsgvl1D7P"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Lion",
+      "url": "https://open.spotify.com/track/5bnwzZqznMuHEluXp9Tpil"
+    },
+    {
+      "album": {
         "name": "Lion in The ZOO",
         "url": "https://open.spotify.com/album/1aRYNEwNqq9CX5OMJzafAC"
       },
@@ -43738,7 +43836,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 180000,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/5C3xOBGFufmAuqC3gaTmnF"
@@ -46377,6 +46475,24 @@
     },
     {
       "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/4soEzPHhvr4nWPzRGFtziE"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 768293,
+      "name": "night",
+      "url": "https://open.spotify.com/track/6Lgc5vU1qCTInkrJ5BQ3mn"
+    },
+    {
+      "album": {
         "name": "Electric Lady Studios: A Jimi Hendrix Vision",
         "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
       },
@@ -47162,6 +47278,36 @@
       "duration_ms": 209569,
       "name": "Nobody Like Me",
       "url": "https://open.spotify.com/track/7pe3ccvM6xp3T8nxNVua43"
+    },
+    {
+      "album": {
+        "name": "Nobody Speak Part 2",
+        "url": "https://open.spotify.com/album/4Fi6GMtpuR7OADGKUxeVDC"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        },
+        {
+          "name": "Run The Jewels",
+          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Nobody Speak Part 2",
+      "url": "https://open.spotify.com/track/1mCBdy88f3dI6QBTOhnv13"
     },
     {
       "album": {
@@ -48520,6 +48666,28 @@
       "duration_ms": 242838,
       "name": "On The Game",
       "url": "https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V"
+    },
+    {
+      "album": {
+        "name": "THE GENTLEMEN'S CLUB",
+        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "ON THE LOW feat tyler, the creator",
+      "url": "https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1"
     },
     {
       "album": {
@@ -50626,6 +50794,24 @@
       "duration_ms": 147961,
       "name": "Passenger Princess (feat. Smino)",
       "url": "https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC"
+    },
+    {
+      "album": {
+        "name": "Wheels Of Fire (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5wf3ZpbmLPb8BCp2ZZfiyh"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351280,
+      "name": "Passing The Time - Alternate Long Stereo Mix / Remastered 2026",
+      "url": "https://open.spotify.com/track/0E55kn1JNIH25uRZgqIJS6"
     },
     {
       "album": {
@@ -56893,6 +57079,24 @@
     },
     {
       "album": {
+        "name": "Epic Summer, Pt. 1",
+        "url": "https://open.spotify.com/album/6Pdm2Yy23yHJAUPmEd6Dh0"
+      },
+      "artists": [
+        {
+          "name": "Tommy J",
+          "url": "https://open.spotify.com/artist/3xjgxBP5F0xxUr2Srjc2IO"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "R\u00f6vars\u00e5ngen",
+      "url": "https://open.spotify.com/track/1tGNZx8VWvIX10lUyAiLi7"
+    },
+    {
+      "album": {
         "name": "SABLE,",
         "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
       },
@@ -62637,6 +62841,36 @@
     },
     {
       "album": {
+        "name": "D12 Forever (Vol. 1)",
+        "url": "https://open.spotify.com/album/6EJpcUijwWlVtj0F1KEJEc"
+      },
+      "artists": [
+        {
+          "name": "D12",
+          "url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "King Iso",
+          "url": "https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle"
+        },
+        {
+          "name": "Sly Pyper",
+          "url": "https://open.spotify.com/artist/7LzTBVNarOeaDXFdzOugAI"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "Still Hating",
+      "url": "https://open.spotify.com/track/3mTxj64B5yOta9TMmY9Xyh"
+    },
+    {
+      "album": {
         "name": "KING OF THE MISCHIEVOUS SOUTH",
         "url": "https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG"
       },
@@ -63226,6 +63460,28 @@
       "duration_ms": 222680,
       "name": "Stripper Name (feat. Tech N9ne)",
       "url": "https://open.spotify.com/track/6somQE12ub3defDlkcvcx3"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: Strung Out",
+        "url": "https://open.spotify.com/album/7Elnmq73xA43BEUgcWY9Lx"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Darragh Morgan",
+          "url": "https://open.spotify.com/artist/0dOUih419I3nCqHZqvk0YI"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1062000,
+      "name": "Strung Out for Solo Amplified Violin",
+      "url": "https://open.spotify.com/track/3egnhhMRaeNbGzWKGA1xW7"
     },
     {
       "album": {

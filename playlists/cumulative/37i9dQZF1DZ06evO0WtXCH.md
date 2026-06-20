@@ -4,7 +4,7 @@
 
 > This is Quicksand\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 36 min
+53 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Clean Slate](https://open.spotify.com/track/5b3GgYZdWKFyAjYBosWdqI) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Quicksand](https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S) | 2:49 | 2022-11-17 |  |
 | [Colossus](https://open.spotify.com/track/2nxTdYXI2XnscHguTOseg7) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:18 | 2022-11-17 |  |
 | [Compacted Infinity](https://open.spotify.com/track/20EI8dSK9gLe3tYD82VXpj) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 1:10 | 2023-07-13 | 2023-07-18 |
+| [Cool Guy](https://open.spotify.com/track/20X1G6CNx9L0hcuHA3oqxi) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Cool Guy](https://open.spotify.com/album/4k9XE5JzzWmtoY8eMQQuRY) | 2:09 | 2026-06-20 |  |
 | [Cosmonauts](https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 4:08 | 2022-11-17 |  |
 | [Crazy](https://open.spotify.com/track/1uRdil0iAVexdNLcBBjZJQ) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Crazy](https://open.spotify.com/album/0Qp6B1ZS2LbMNKdjLgYWMC) | 1:31 | 2023-03-11 | 2023-03-15 |
 | [Crystallize](https://open.spotify.com/track/4tHPDcaQEV9pi8veAeSZRz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Crystallize](https://open.spotify.com/album/1kPzcJdjjihNY2HjERXFu3) | 2:18 | 2026-05-23 |  |

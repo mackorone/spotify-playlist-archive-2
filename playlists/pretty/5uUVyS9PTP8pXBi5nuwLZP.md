@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 579,498 likes - 82 songs - 4 hr 54 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 579,688 likes - 82 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 60 | [Scrub Brush & Gag Ball](https://open.spotify.com/track/6rYSpuA96eeoKOc86iolqN) | [RoTuN](https://open.spotify.com/artist/0U7Cm8mWUnEEr0WFXDNfN0) | [Scrub Brush & Gag Ball](https://open.spotify.com/album/6tv2dL9pJ8hC1C0XUR7meU) | 2:06 |
 | 61 | [春を急かすな](https://open.spotify.com/track/1vGwDQz7y3q8aCkZ6kRJaw) | [Gometai](https://open.spotify.com/artist/09zew50C6qXS3CZuQeN6ie) | [春を急かすな](https://open.spotify.com/album/2pyCppkm4ZmVborREDWbvv) | 3:55 |
 | 62 | [El rey de las cucarachas](https://open.spotify.com/track/5JHIIpLFWcT2KaEWhIAwSB) | [Caballeros Inexistentes](https://open.spotify.com/artist/2VW4cW7nBottmjmapaWcKN) | [El rey de las cucarachas](https://open.spotify.com/album/21db56mMoL37XHo1Tj9jdf) | 3:52 |
-| 63 | [La asesina](https://open.spotify.com/track/0QElYqA6r5lrvn7R3EBK1X) | [Liliana santamaria](https://open.spotify.com/artist/3M6jeoBpPJ2tX6CxOwav12) | [La asesina](https://open.spotify.com/album/42kAJzqrPZax36jPFNy20H) | 3:59 |
+| 63 | [LA ASESINA](https://open.spotify.com/track/0QElYqA6r5lrvn7R3EBK1X) | [Liliana santamaria](https://open.spotify.com/artist/3M6jeoBpPJ2tX6CxOwav12) | [LA ASESINA](https://open.spotify.com/album/42kAJzqrPZax36jPFNy20H) | 3:59 |
 | 64 | [ゆめのあと](https://open.spotify.com/track/2CnptIIJzNGrQstBED5te9) | [maiteu](https://open.spotify.com/artist/1rBmmQhlba9Y5RS7vkMqsB), [miu](https://open.spotify.com/artist/1jzW7yJu7ki7eAWph3wRln) | [ゆめのあと](https://open.spotify.com/album/41rkIYziNMs0VkFL1jlYKV) | 6:16 |
 | 65 | [Broforce Theme Song](https://open.spotify.com/track/4ZiMrrjGZjk4VUYtNutGQ1) | [Deon Van Heerden](https://open.spotify.com/artist/42wTrYXmXiolE9DV5IFCh0), [Strident](https://open.spotify.com/artist/4mCThE6GfGfwmtkZNOGyHn) | [Broforce \(Original Game Soundtrack\)](https://open.spotify.com/album/4iAbYl2dMF3Q3EVEXifL9h) | 4:29 |
 | 66 | [echizo de miel](https://open.spotify.com/track/7nzfm1XFATyFJquzWplQym) | [marel calix](https://open.spotify.com/artist/5J8qfecoVYzsMclDlAIHni) | [echizo de miel](https://open.spotify.com/album/3Hz8Moz38BzNrnDhz0hy21) | 3:44 |

@@ -1786,10 +1786,28 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 150469,
       "name": "Ich glaub dir (nicht)",
       "url": "https://open.spotify.com/track/3ONRKwwLIqXDNrJFxXFF82"
+    },
+    {
+      "album": {
+        "name": "Von Liebe & Entzug",
+        "url": "https://open.spotify.com/album/4j6NnlH1lYPT36LZ9fs1Eh"
+      },
+      "artists": [
+        {
+          "name": "Lostboi Lino",
+          "url": "https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150469,
+      "name": "Ich glaub dir (nicht)",
+      "url": "https://open.spotify.com/track/6MbYpfkizhriiX6Zn3gtDj"
     },
     {
       "album": {

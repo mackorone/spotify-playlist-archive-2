@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Emmett Jerome
+> The home of Canadian country music\. Cover: Blue Ridge Band
 
-702 songs - 1 day 13 hr 41 min
+707 songs - 1 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Chevy Back](https://open.spotify.com/track/6kEkD4UwEmsCBqIPlYRTz0) | [Dawson Gray](https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA) | [Chevy Back](https://open.spotify.com/album/3M9fBBRnLYkoYAVswpmhXx) | 2:48 | 2025-08-01 | 2025-09-26 |
 | [Choked Up](https://open.spotify.com/track/4HTz5DqoueYyipp9h8B89T) | [Carson Janik](https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM) | [Choked Up](https://open.spotify.com/album/7B9bXUC3Q1nm7pQsprnTps) | 3:05 | 2026-02-06 | 2026-05-30 |
 | [Church](https://open.spotify.com/track/2CuozTAQkXtwB4eQ0lMbyG) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Church](https://open.spotify.com/album/1Q303HZ7KT6B5xGlfJBF6c) | 3:31 | 2024-08-16 | 2024-09-28 |
+| [CIGARETTE](https://open.spotify.com/track/5N974DIUb3OBJirNNFnYRw) | [Sean Michael Ryan](https://open.spotify.com/artist/6HRmf5pui2Mcqi3URD8Uvk) | [CIGARETTE](https://open.spotify.com/album/0HFxBzNyidcwiHQ6pl81SD) | 3:25 | 2026-06-19 |  |
 | [Cigarette Smoke](https://open.spotify.com/track/6UjE42w4Dh38gpG4zTV5Ly) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Cigarette Smoke](https://open.spotify.com/album/6kXxF8t32N6rZLcLmoBsOk) | 3:23 | 2026-05-01 |  |
 | [Close to You](https://open.spotify.com/track/73ToXLJg0eSYWQ8SceGKbO) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Close to You](https://open.spotify.com/album/12hWLifkFc93MKdBm9WBKU) | 3:24 | 2024-11-22 | 2025-03-01 |
 | [Coast to Coast](https://open.spotify.com/track/18fqq295kEELwCmgky7y9a) | [Tyson Ray Borsboom](https://open.spotify.com/artist/5pJeBtKZlfZCFnq9HB0eTC) | [Coast to Coast](https://open.spotify.com/album/6txofk1MqbNA1ZBFpfjcCh) | 3:58 | 2024-10-25 | 2025-02-22 |
@@ -362,6 +363,7 @@
 | [Little Boy](https://open.spotify.com/track/1xxgjvqq3jmyzDAYZ7xEUW) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Little Boy](https://open.spotify.com/album/6Qb2nkecGuW8cezFkA6IYy) | 3:38 | 2026-05-08 |  |
 | [Little Man](https://open.spotify.com/track/5ZWayyXEDiSrYy6fD9qYDd) | [Justin Tyler](https://open.spotify.com/artist/2FKvcZLG5cDJ0PrjpfEQvg) | [Little Man](https://open.spotify.com/album/5ocrpDgSOxbxctRGe0FmOA) | 3:29 | 2026-01-09 | 2026-05-23 |
 | [Little Of The Drunk Me](https://open.spotify.com/track/3PYSxGSw6vMAWHhotPCvhx) | [Doug Folkins](https://open.spotify.com/artist/4FXyGNkqjgnwI9APRAUrMs) | [Little Of The Drunk Me](https://open.spotify.com/album/1uHVq7dDuZi6gi5raL2yWj) | 3:18 | 2025-04-18 | 2025-06-28 |
+| [Living For Friday Night](https://open.spotify.com/track/6OhXiz0Q4cq5GTq6VDS9Cm) | [Bobby Wills](https://open.spotify.com/artist/32vz5yfClDLomeIAH6LF5Q) | [Living For Friday Night](https://open.spotify.com/album/45gfFxEmg2mJGYIDUQ89ji) | 2:36 | 2026-06-19 |  |
 | [Livin’ My Life Like a Country Song](https://open.spotify.com/track/5ZJloQU8VklwgNKAhZ0RRW) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ), [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Livin’ My Life Like a Country Song](https://open.spotify.com/album/3F4hp16a8LkqoJlHiXkCHL) | 3:19 | 2024-09-06 | 2024-11-02 |
 | [Lonely Dirt Road](https://open.spotify.com/track/6uBXlvLz3g0WHI5n2qIz7u) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Lonely Dirt Road](https://open.spotify.com/album/1PYzr3qMS5lvI1MY3waU9y) | 4:06 | 2024-10-11 | 2024-12-07 |
 | [Lonely For You](https://open.spotify.com/track/6OiPqs18yDs5pmrAuOwxRi) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Lonely For You](https://open.spotify.com/album/7ytvXyIg9hfr1hymx0sBT5) | 2:31 | 2026-02-06 | 2026-05-30 |
@@ -376,6 +378,7 @@
 | [Love Hate Love](https://open.spotify.com/track/2PpVlMyeVlIf4jhpFR8WlA) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Love Hate Love](https://open.spotify.com/album/646IYYLssCtXOuVrY8z3Kw) | 2:55 | 2026-02-13 | 2026-05-23 |
 | [Love Me Or Leave Me \(Day Or Night Mix\)](https://open.spotify.com/track/5lyFwxY9ouyqFZY61NIRDO) | [Chad Brownlee](https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU), [Dan Swinimer](https://open.spotify.com/artist/22QKKYErEVOVHDcwCz72eo) | [Love Me Or Leave Me \(Day Or Night Mix\)](https://open.spotify.com/album/09Ag9gMUEX7PVKTagED3za) | 3:43 | 2024-09-27 | 2024-11-23 |
 | [Love Myself](https://open.spotify.com/track/0A5smlSd60fsk4CDCxICd4) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Love Myself](https://open.spotify.com/album/2VjFqY2ckzWlwpx9OqdzLq) | 3:09 | 2024-09-06 | 2024-09-28 |
+| [Loving You is Easy](https://open.spotify.com/track/4j8fn1y5LlDj6hsa4jwlRq) | [Blue Ridge Band](https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u) | [Loving You is Easy](https://open.spotify.com/album/5nNHqIN72ywikkPkeqzwsI) | 2:46 | 2026-06-19 |  |
 | [Lyin' To Me](https://open.spotify.com/track/6880DZhIYIHOqIvfhSwwkt) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Lyin' To Me](https://open.spotify.com/album/34ghDKatJF5Z1Q7dxNtLcJ) | 3:00 | 2024-06-28 | 2024-07-13 |
 | [magic](https://open.spotify.com/track/4KOs1jL1kJBg4iYREfKDNv) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [magic](https://open.spotify.com/album/0yhFpNV4EV1cCr4vLXxXgO) | 3:09 | 2025-07-11 | 2025-09-20 |
 | [Make It Out Alive](https://open.spotify.com/track/6eE8YiBqmKK96UnlNYOP8d) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [Make It Out Alive](https://open.spotify.com/album/4mi9ihXypXaweqvT4NAML7) | 3:55 | 2024-07-05 | 2024-08-31 |
@@ -429,6 +432,7 @@
 | [Not Yet](https://open.spotify.com/track/6Vecr80tnNQJmyoIMWkiCq) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Not Yet](https://open.spotify.com/album/64X6Dn40pMX4gBBkfr91b1) | 2:46 | 2024-06-28 | 2024-09-14 |
 | [Nothing On Me](https://open.spotify.com/track/1V5SxmanpeqEjZIUfCWp5T) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [Nothing On Me](https://open.spotify.com/album/7hwI2tNyQeVRShLYQrVoxv) | 2:36 | 2026-05-22 |  |
 | [Nothing To Do](https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Nothing To Do](https://open.spotify.com/album/03qJ0llRuCFBEPCt5NQR50) | 4:14 | 2025-07-18 | 2026-04-25 |
+| [Nowhere](https://open.spotify.com/track/14PPOwZGiNdxa9CtYLitR2) | [Brian John Harwood](https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4) | [Nowhere](https://open.spotify.com/album/2ZgnqafVCj78rO9kTGwPVS) | 3:05 | 2026-06-19 |  |
 | [Oh Jesus](https://open.spotify.com/track/2sFc7zjwbOuWbx2tyVgbD3) | [Robert Adam](https://open.spotify.com/artist/1nQfw4PecsFq0uw4Cj1z7u) | [Oh Jesus](https://open.spotify.com/album/1RY5Zc6eKhlzdISmHljhdm) | 3:55 | 2025-08-15 | 2025-11-22 |
 | [Oh My Days](https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Appaloosa](https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2) | 3:33 | 2025-11-14 | 2026-04-25 |
 | [Oh to Be Young](https://open.spotify.com/track/4W8uc8C5xJvSaP3uM1UYNT) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe) | [Oh to Be Young](https://open.spotify.com/album/1xWpOO7XFM0JblWC8RtsCP) | 3:10 | 2025-09-12 |  |
@@ -562,6 +566,7 @@
 | [South Side of Sober](https://open.spotify.com/track/1XctHNqa8Ev0jJmd5uSlKz) | [Evan Burrison](https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4) | [South Side of Sober](https://open.spotify.com/album/7bIHEOowAoqBJFY8DKmLwO) | 2:29 | 2025-10-17 | 2026-04-18 |
 | [Space](https://open.spotify.com/track/1Ykta2tKZCE7crfIZ85IBi) | [Brayden King](https://open.spotify.com/artist/0fCguqEo1gADoSkTGI47qJ) | [Space](https://open.spotify.com/album/2MwGk2VLvM8u6fcmtDi1dm) | 3:26 | 2025-09-26 | 2026-01-24 |
 | [Springsteen](https://open.spotify.com/track/0ZaO9StpzY9hRGYHoGeu89) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [Springsteen](https://open.spotify.com/album/6OAS2XMhnVr3z0NyqNsMc0) | 3:10 | 2026-04-03 |  |
+| [Stay](https://open.spotify.com/track/1LhHbN4mhvDMMxNSmu309U) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Stay](https://open.spotify.com/album/7aGsBuUGlIAnqw7WL8YCIU) | 3:21 | 2026-06-19 |  |
 | [Stay a Little Longer](https://open.spotify.com/track/29qwIkY2r8gShcx9NfhQxs) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [Stay a Little Longer](https://open.spotify.com/album/3Xu8qQ5ub97wlniJznRGAb) | 3:09 | 2024-11-15 | 2025-04-26 |
 | [Steal It From Me](https://open.spotify.com/track/5GysSy6K5YacNa9efpsZEw) | [Alex Hughes](https://open.spotify.com/artist/6iL96eq4EA2eoFI9CzyJgI) | [Steal It From Me](https://open.spotify.com/album/5OnJTc4JO25LjyvE1JgPTP) | 2:41 | 2025-08-29 | 2025-10-25 |
 | [Still Make Cowgirls](https://open.spotify.com/track/6vuAjHpUrOVoY2hedswbdb) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Still Make Cowgirls](https://open.spotify.com/album/7tYoO5Hw7GbyYXXofPIWi5) | 3:08 | 2024-06-28 | 2024-08-03 |

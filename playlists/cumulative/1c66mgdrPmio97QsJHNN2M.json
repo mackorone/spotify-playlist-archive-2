@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "In My WRLD",
+        "url": "https://open.spotify.com/album/7fQ5E0BEzl29vhH04h3YHB"
+      },
+      "artists": [
+        {
+          "name": "bullet 7",
+          "url": "https://open.spotify.com/artist/6GCn8WZKbolndTfM4rxNJf"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179639,
+      "name": "24 Hrs",
+      "url": "https://open.spotify.com/track/0FudpbrW8YoxhDF7rNVySV"
+    },
+    {
+      "album": {
         "name": "3Am",
         "url": "https://open.spotify.com/album/0Hvchx9FLBwmYYpwVxoXa6"
       },
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 168217,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/4BXjlT2Jxq9ZWpfKJ0T48p"
@@ -4256,7 +4274,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 176080,
       "name": "blue jeans",
       "url": "https://open.spotify.com/track/5sePufvZG0xFK17X5YJ9n3"
@@ -5228,7 +5246,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 173000,
       "name": "by my side",
       "url": "https://open.spotify.com/track/4gGaVfj10sSjfnx3627Jiu"
@@ -6354,7 +6372,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 203946,
       "name": "Cocaine",
       "url": "https://open.spotify.com/track/6ZvILY8vegOuZmzXN9XVyZ"
@@ -8836,7 +8854,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 164247,
       "name": "Don't Let Me Down Tonight",
       "url": "https://open.spotify.com/track/6TM1UAoaQQ2zC1mKgnDala"
@@ -12745,6 +12763,24 @@
     },
     {
       "album": {
+        "name": "Funeral (For The Girl I Was)",
+        "url": "https://open.spotify.com/album/3F11O1VLOqRG97Y9Yvakoc"
+      },
+      "artists": [
+        {
+          "name": "Fanny Alexandra",
+          "url": "https://open.spotify.com/artist/0OBgzNzxjVAGrqGjHnXwGa"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287440,
+      "name": "Funeral (For The Girl I Was)",
+      "url": "https://open.spotify.com/track/1tH8eiuY1koYpsKmcSmLC6"
+    },
+    {
+      "album": {
         "name": "Funky Shoes",
         "url": "https://open.spotify.com/album/6B923n9SzNzEDzIIkD0OYa"
       },
@@ -12984,6 +13020,24 @@
       "duration_ms": 153239,
       "name": "Geometric Violence",
       "url": "https://open.spotify.com/track/1jUlyWh4zMMacD3buM6NhE"
+    },
+    {
+      "album": {
+        "name": "George III",
+        "url": "https://open.spotify.com/album/1arpkoi2EBEkU8vBKxa5G6"
+      },
+      "artists": [
+        {
+          "name": "James Witham",
+          "url": "https://open.spotify.com/artist/605ybKUppkju7z2MwMO5TW"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239373,
+      "name": "George III",
+      "url": "https://open.spotify.com/track/5JOqeG8Qzp4WFEdeQpL1Pp"
     },
     {
       "album": {
@@ -17268,8 +17322,8 @@
       },
       "artists": [
         {
-          "name": "ForeverAgo",
-          "url": "https://open.spotify.com/artist/4ZSlAEDBHVGRbDooRXi3Q3"
+          "name": "Foreverago",
+          "url": "https://open.spotify.com/artist/3unxJSm6T9MR9CMCasbrMI"
         }
       ],
       "date_added": "2026-05-27",
@@ -17700,7 +17754,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 124242,
       "name": "INTERTWINED!",
       "url": "https://open.spotify.com/track/76u0sKAResokQwCNRdoIB6"
@@ -17874,6 +17928,24 @@
       "duration_ms": 271680,
       "name": "Is This Normal? \u2013 My Heritage",
       "url": "https://open.spotify.com/track/4GcNNXYroiU0XKcZMvCnBj"
+    },
+    {
+      "album": {
+        "name": "Isabellas Waltz",
+        "url": "https://open.spotify.com/album/4jNL7ftmRS6us9pqLwJtTA"
+      },
+      "artists": [
+        {
+          "name": "Kay Uwe Rott",
+          "url": "https://open.spotify.com/artist/0fqKefvHnK8L7lwFi5uHcA"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128659,
+      "name": "Isabellas Waltz",
+      "url": "https://open.spotify.com/track/5HimFs6lZeJriiIse7OCZ7"
     },
     {
       "album": {
@@ -21068,7 +21140,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 119935,
       "name": "love u again",
       "url": "https://open.spotify.com/track/4ietRRwtQfaCZnBiPU4wV1"
@@ -22386,7 +22458,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 137309,
       "name": "Met in La",
       "url": "https://open.spotify.com/track/6dv54hd94mUoGue7EUkE1i"
@@ -23758,6 +23830,24 @@
       "duration_ms": 128484,
       "name": "Nasty Way",
       "url": "https://open.spotify.com/track/4VUfZsfHSbwnvJu5cGdzho"
+    },
+    {
+      "album": {
+        "name": "Natural Rizz",
+        "url": "https://open.spotify.com/album/4mn9DQvhkOe6gmsw6jIzVU"
+      },
+      "artists": [
+        {
+          "name": "Left & Right",
+          "url": "https://open.spotify.com/artist/1EHthTAOVKSuM3KOAQeX93"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Natural Rizz",
+      "url": "https://open.spotify.com/track/7i5LlDJxB8CpkX8aWflrnG"
     },
     {
       "album": {
@@ -25683,6 +25773,24 @@
     },
     {
       "album": {
+        "name": "One more Time",
+        "url": "https://open.spotify.com/album/1LXBpOjSXWUYnvGLfzuxdT"
+      },
+      "artists": [
+        {
+          "name": "LuumixX",
+          "url": "https://open.spotify.com/artist/0YM7PRuqPpBZUzqnD5Wh6n"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "One more Time",
+      "url": "https://open.spotify.com/track/35NDUgeYanREA5dOCuKONo"
+    },
+    {
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/3QUosDhdcGqOSgxXxagaFo"
       },
@@ -26098,7 +26206,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 132683,
       "name": "Out My Feelings",
       "url": "https://open.spotify.com/track/02LkWQcDI7YEh15QU80F5K"
@@ -31451,6 +31559,24 @@
     },
     {
       "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/4BxD21vCJdfyljFRtIMm68"
+      },
+      "artists": [
+        {
+          "name": "Evan Fahey",
+          "url": "https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/5BFSkpronrm0w5OaxhSXEd"
+    },
+    {
+      "album": {
         "name": "Slick",
         "url": "https://open.spotify.com/album/4bE4tywOgfHT8h8z2sE6et"
       },
@@ -32598,7 +32724,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 166000,
       "name": "Star Sibling",
       "url": "https://open.spotify.com/track/3u9HcnzxRL7PZcxc0VUMRb"
@@ -41220,7 +41346,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 192000,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/1S1nlv7pt70OsZT1qMb89y"

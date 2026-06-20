@@ -1,13 +1,33 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Rose Gray",
-  "num_followers": 419592,
+  "description": "The hottest new pop with all the drops. Cover: Dawty & Pink Sweat$",
+  "num_followers": 420296,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKnTXWF1ezgjGqVxlu8PWOobXwke",
+  "snapshot_id": "AAAAAFaghSzhPYC3eWa/EHqzsVjnbcfF",
   "tracks": [
+    {
+      "added_at": "2026-06-19 04:01:21",
+      "album": {
+        "name": "Electrify",
+        "url": "https://open.spotify.com/album/6BUhyrs4xY8XF80fJzq05W"
+      },
+      "artists": [
+        {
+          "name": "Dawty",
+          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 139918,
+      "name": "Electrify",
+      "url": "https://open.spotify.com/track/1SBpmEOhSQI76TToeJazws"
+    },
     {
       "added_at": "2026-06-12 04:02:14",
       "album": {
@@ -23,6 +43,46 @@
       "duration_ms": 191596,
       "name": "Club To Your Arms",
       "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
+    },
+    {
+      "added_at": "2026-06-19 04:01:21",
+      "album": {
+        "name": "I Don't Wanna Hurt You",
+        "url": "https://open.spotify.com/album/6WHYJdxXL7sK9NDBLxOUMV"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 185610,
+      "name": "I Don't Wanna Hurt You",
+      "url": "https://open.spotify.com/track/6untI22mqrOtoK6EYkm1yY"
+    },
+    {
+      "added_at": "2026-06-19 04:01:21",
+      "album": {
+        "name": "Flip Side",
+        "url": "https://open.spotify.com/album/0uDZT87RUjaSsQR5LXXPSM"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Daddy DJ",
+          "url": "https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL"
+        }
+      ],
+      "duration_ms": 143310,
+      "name": "Flip Side",
+      "url": "https://open.spotify.com/track/2DZCnwzOR9S7r7n0oGqGAc"
     },
     {
       "added_at": "2026-06-12 04:02:14",
@@ -45,6 +105,22 @@
       "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
     },
     {
+      "added_at": "2026-06-19 04:01:21",
+      "album": {
+        "name": "Morenito",
+        "url": "https://open.spotify.com/album/4qMgq0Xnm9zk1uKr6YMyRF"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 135694,
+      "name": "Morenito",
+      "url": "https://open.spotify.com/track/2UgaIRtWxiEmRcv6MXhFVb"
+    },
+    {
       "added_at": "2026-06-12 04:02:14",
       "album": {
         "name": "DIRTY BLONDE",
@@ -59,6 +135,26 @@
       "duration_ms": 188000,
       "name": "One Day",
       "url": "https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R"
+    },
+    {
+      "added_at": "2026-06-19 04:01:21",
+      "album": {
+        "name": "siren",
+        "url": "https://open.spotify.com/album/5Ra6GPqaqVgsRExfv24TBG"
+      },
+      "artists": [
+        {
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 165003,
+      "name": "siren",
+      "url": "https://open.spotify.com/track/2Abgq1EmE3gDZhhaLBmbAn"
     },
     {
       "added_at": "2026-06-12 04:02:14",
@@ -121,6 +217,22 @@
       "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
     },
     {
+      "added_at": "2026-06-19 04:01:21",
+      "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/7Cvn6yzjoU7K9yt4J83qYl"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 115966,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/6QyCxKdH6n2bfV49UI9pmC"
+    },
+    {
       "added_at": "2026-06-12 04:02:14",
       "album": {
         "name": "can we do it all again?",
@@ -155,6 +267,22 @@
       "duration_ms": 182077,
       "name": "Spin Me Slowly (feat. Julia Church)",
       "url": "https://open.spotify.com/track/4kSPUCwxN0KjrX8Q3uM3rY"
+    },
+    {
+      "added_at": "2026-06-19 04:01:21",
+      "album": {
+        "name": "Euphoria (Radio Edit)",
+        "url": "https://open.spotify.com/album/4PVO2Or0AGg5NTf7CZPxkE"
+      },
+      "artists": [
+        {
+          "name": "Ella Isaacson",
+          "url": "https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an"
+        }
+      ],
+      "duration_ms": 177344,
+      "name": "Euphoria - Radio Edit",
+      "url": "https://open.spotify.com/track/4AlcZ3atk5vbFsbTdVkqTt"
     },
     {
       "added_at": "2026-06-12 04:02:14",
@@ -1281,26 +1409,6 @@
       "url": "https://open.spotify.com/track/6aynKW70w06W8LyZaKpdAX"
     },
     {
-      "added_at": "2026-05-01 04:03:55",
-      "album": {
-        "name": "Replay (What You Say)",
-        "url": "https://open.spotify.com/album/7kKyHRO9UmCRtUlhKVFJBH"
-      },
-      "artists": [
-        {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        },
-        {
-          "name": "Alessia Labate",
-          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
-        }
-      ],
-      "duration_ms": 148421,
-      "name": "Replay (What You Say)",
-      "url": "https://open.spotify.com/track/1wT6sMqf0Ek3LAbPogJPMy"
-    },
-    {
       "added_at": "2026-04-24 04:00:39",
       "album": {
         "name": "It's Not That Deep (Unless You Want It To Be)",
@@ -1319,30 +1427,6 @@
       "duration_ms": 141497,
       "name": "Fantasy (ft. Cobrah)",
       "url": "https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U"
-    },
-    {
-      "added_at": "2026-04-24 04:00:39",
-      "album": {
-        "name": "Nothing Left",
-        "url": "https://open.spotify.com/album/0kzf8T8kfjTmWzYcovLnDp"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        },
-        {
-          "name": "Arlo",
-          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
-        },
-        {
-          "name": "Emi Grace",
-          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Nothing Left",
-      "url": "https://open.spotify.com/track/5hSday9Ki5RhBOjIGErYzJ"
     },
     {
       "added_at": "2026-04-17 04:01:19",

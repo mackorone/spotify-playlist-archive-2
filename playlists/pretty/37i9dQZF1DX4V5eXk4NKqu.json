@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring rusowsky.",
-  "num_followers": 168235,
+  "num_followers": 168228,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-04-03 04:02:10",
       "album": {
+        "name": "SOPHIA",
+        "url": "https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 184689,
+      "name": "SOPHIA",
+      "url": "https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5"
+    },
+    {
+      "added_at": "2026-04-03 04:02:10",
+      "album": {
         "name": "despu\u00e9s del PARi",
         "url": "https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 232211,
       "name": "despu\u00e9s del PARi",
       "url": "https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf"
-    },
-    {
-      "added_at": "2026-04-03 04:02:10",
-      "album": {
-        "name": "SOPHIA",
-        "url": "https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 184689,
-      "name": "SOPHIA",
-      "url": "https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5"
     },
     {
       "added_at": "2026-04-03 04:02:10",

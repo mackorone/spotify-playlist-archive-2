@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 187600,
       "name": "Aleinn",
       "url": "https://open.spotify.com/track/6Ykd5YhetzKMPgo0tpVoab"
@@ -14958,7 +14958,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -20146,7 +20146,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 226023,
       "name": "Frelsi\u00f0",
       "url": "https://open.spotify.com/track/17eVe466nbOmrqyaBHh8BI"
@@ -25200,7 +25200,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 207911,
       "name": "Hj\u00e1 \u00fe\u00e9r",
       "url": "https://open.spotify.com/track/6bMexmPJgSkZyNDV0QZGsI"
@@ -25262,7 +25262,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 217570,
       "name": "Hli\u00f0 vi\u00f0 hli\u00f0",
       "url": "https://open.spotify.com/track/1rjRlp4DObTiVHGnoCuKQ4"
@@ -27560,7 +27560,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 245400,
       "name": "I Don't Give a ***",
       "url": "https://open.spotify.com/track/01z8G09UJDYhio8R8O9XEj"
@@ -34862,7 +34862,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -36495,6 +36495,24 @@
     },
     {
       "album": {
+        "name": "Algr\u00edm hjartans",
+        "url": "https://open.spotify.com/album/5JRnK27r7PdlV1eSXKMLbH"
+      },
+      "artists": [
+        {
+          "name": "Hipsumhaps",
+          "url": "https://open.spotify.com/artist/0Hc3yVWeBOkwf4jCW79BLh"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228437,
+      "name": "Meira en mig",
+      "url": "https://open.spotify.com/track/7kjODx9vY0aDqTGUYtOQcq"
+    },
+    {
+      "album": {
         "name": "Meira en \u00fea\u00f0",
         "url": "https://open.spotify.com/album/1PYhZ1cljn1FryLlrntL8j"
       },
@@ -36718,6 +36736,24 @@
       "duration_ms": 180733,
       "name": "Me\u00f0 h\u00e6kkandi s\u00f3l",
       "url": "https://open.spotify.com/track/4t3gM4Rl5rz5du0Qn2Yd8K"
+    },
+    {
+      "album": {
+        "name": "Algr\u00edm hjartans",
+        "url": "https://open.spotify.com/album/5JRnK27r7PdlV1eSXKMLbH"
+      },
+      "artists": [
+        {
+          "name": "Hipsumhaps",
+          "url": "https://open.spotify.com/artist/0Hc3yVWeBOkwf4jCW79BLh"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269482,
+      "name": "Me\u00f0al mannsins (\u00fej\u00f3\u00f0s\u00f6ngurinn)",
+      "url": "https://open.spotify.com/track/6cpmOZMT1cS9MUULSP05C8"
     },
     {
       "album": {
@@ -41110,7 +41146,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 251054,
       "name": "Ofbo\u00f0slega fr\u00e6gur",
       "url": "https://open.spotify.com/track/203uQ5u5ZLiNC4g5zSG0vR"
@@ -47906,7 +47942,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 234010,
       "name": "Sautj\u00e1ndi j\u00fan\u00ed",
       "url": "https://open.spotify.com/track/3AUvWRvTByGIhn3GMF9BKo"
@@ -52550,7 +52586,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 169640,
       "name": "Stoppa t\u00edmann",
       "url": "https://open.spotify.com/track/6sjvA7JuGIGDNRWDAeZhsK"
@@ -56070,7 +56106,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -65304,7 +65340,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 199505,
       "name": "\u00c9g er farinn",
       "url": "https://open.spotify.com/track/78WfDuDCfJzUhOiD9vzsIf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Aguero Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,045 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,102 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 10 | [Bando Diaries](https://open.spotify.com/track/3T27JFvKbp3btufldaKOUU) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 2:38 |
 | 11 | [Vigilante Bop](https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/2W90ihxyThRpceuy94iejV) | 3:00 |
 | 12 | [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 |
-| 13 | [Free Fighter \(feat\. Evado\)](https://open.spotify.com/track/0sH9uhZ2VrIcrzrzAwVbzF) | [Dre Ice](https://open.spotify.com/artist/5KJTsjpdWTuvobavvBDRJO), [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [Free Fighter \(feat\. Evado\)](https://open.spotify.com/album/6TMSevwdQGy98M9rovFNZ7) | 3:20 |
+| 13 | [Free Fighter](https://open.spotify.com/track/0sH9uhZ2VrIcrzrzAwVbzF) | [Dre Ice](https://open.spotify.com/artist/5KJTsjpdWTuvobavvBDRJO), [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [Free Fighter](https://open.spotify.com/album/6TMSevwdQGy98M9rovFNZ7) | 3:20 |
 | 14 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 |
 | 15 | [Paid \(Remix\)](https://open.spotify.com/track/48yu0DXZjlwBN8nkcUMomV) | [Stahgee](https://open.spotify.com/artist/1V2bR5y4rXl7gJHskZJyaj), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Paid \(Remix\)](https://open.spotify.com/album/6wBKEaP2qLOSYzpn0mGKkk) | 2:40 |
 | 16 | [Oku](https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THE RETURN \(Eze Onyịkọ\)](https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH) | 3:29 |

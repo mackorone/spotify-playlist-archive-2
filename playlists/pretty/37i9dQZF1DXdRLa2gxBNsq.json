@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 116210,
+  "num_followers": 116236,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
+        "name": "Toro",
+        "url": "https://open.spotify.com/album/6Ml0HOZfLtluOpHM9bjik5"
+      },
+      "artists": [
+        {
+          "name": "Boikot",
+          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Toro",
+      "url": "https://open.spotify.com/track/2IUZYc5zUcE2jEJkH9IJJN"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
         "name": "C\u00f3mo Convertirse en Nada",
         "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 207265,
       "name": "Disp\u00e1rame",
       "url": "https://open.spotify.com/track/6twbgCaqNnz64uuGJcEuOn"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
-        "name": "Toro",
-        "url": "https://open.spotify.com/album/6Ml0HOZfLtluOpHM9bjik5"
-      },
-      "artists": [
-        {
-          "name": "Boikot",
-          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "Toro",
-      "url": "https://open.spotify.com/track/2IUZYc5zUcE2jEJkH9IJJN"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -839,18 +839,22 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Sin Perd\u00f3n",
-        "url": "https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA"
+        "name": "Mi \u00fanica salida",
+        "url": "https://open.spotify.com/album/2m91Eba2vl5OSLCpJejcIy"
       },
       "artists": [
         {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        },
+        {
+          "name": "Endemia",
+          "url": "https://open.spotify.com/artist/30HBg18EnoAtgGWVps8nsa"
         }
       ],
-      "duration_ms": 190980,
-      "name": "Sin Perd\u00f3n",
-      "url": "https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu"
+      "duration_ms": 200168,
+      "name": "Mi \u00fanica salida",
+      "url": "https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -871,22 +875,18 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Mi \u00fanica salida",
-        "url": "https://open.spotify.com/album/2m91Eba2vl5OSLCpJejcIy"
+        "name": "Sin Perd\u00f3n",
+        "url": "https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA"
       },
       "artists": [
         {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
-        },
-        {
-          "name": "Endemia",
-          "url": "https://open.spotify.com/artist/30HBg18EnoAtgGWVps8nsa"
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
         }
       ],
-      "duration_ms": 200168,
-      "name": "Mi \u00fanica salida",
-      "url": "https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW"
+      "duration_ms": 190980,
+      "name": "Sin Perd\u00f3n",
+      "url": "https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Garrote Vil",
-        "url": "https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD"
-      },
-      "artists": [
-        {
-          "name": "XpresidentX",
-          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
-        }
-      ],
-      "duration_ms": 105386,
-      "name": "Jubilaci\u00f3n a los 18",
-      "url": "https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "Molestar",
         "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 158074,
       "name": "Molestar",
       "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
+        "name": "Garrote Vil",
+        "url": "https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD"
+      },
+      "artists": [
+        {
+          "name": "XpresidentX",
+          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
+        }
+      ],
+      "duration_ms": 105386,
+      "name": "Jubilaci\u00f3n a los 18",
+      "url": "https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
+        "name": "Asesinos",
+        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
+      },
+      "artists": [
+        {
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "Asesinos",
+      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
         "name": "Ana Curra y los 13 Ap\u00f3stoles Presentan: La \u00daltima Cena de Par\u00e1lisis Permanente",
         "url": "https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 189493,
       "name": "Adictos a la Lujuria - con \u00c1nxela (Bala)",
       "url": "https://open.spotify.com/track/36aKaIj6aD2MLkBiCTT1hZ"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
-        "name": "Asesinos",
-        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
-      },
-      "artists": [
-        {
-          "name": "Manifa",
-          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "Asesinos",
-      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
     },
     {
       "added_at": "2026-06-11 22:00:32",

@@ -22646,7 +22646,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 198606,
       "name": "i morgen er der ogs\u00e5 en dag",
       "url": "https://open.spotify.com/track/1zTLgT9jFwTuwrFFcOqXNw"
@@ -23002,7 +23002,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 145235,
       "name": "If u kno u kno (feat. Karoline Mousing)",
       "url": "https://open.spotify.com/track/4baTMQfOgmcWJwzYHXM0rf"
@@ -29192,10 +29192,28 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 178347,
       "name": "L\u00e5st Inde",
       "url": "https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw"
+    },
+    {
+      "album": {
+        "name": "WAVY",
+        "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178347,
+      "name": "L\u00e5st Inde",
+      "url": "https://open.spotify.com/track/71GXry0HuU8KjxW1yqU2Ik"
     },
     {
       "album": {

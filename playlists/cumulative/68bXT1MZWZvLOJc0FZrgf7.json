@@ -332,6 +332,28 @@
     {
       "album": {
         "name": "Alive",
+        "url": "https://open.spotify.com/album/2S9QP1X7CjvpngvhGNN0MM"
+      },
+      "artists": [
+        {
+          "name": "Era Istrefi",
+          "url": "https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91"
+        },
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208050,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4jWgREzNq1RRAlCMaRlPcY"
+    },
+    {
+      "album": {
+        "name": "Alive",
         "url": "https://open.spotify.com/album/1kdJHSLs8tTh6g9FRRNRV5"
       },
       "artists": [
@@ -2520,7 +2542,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 270000,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/5bW0EIhvYV7vzoy19T7kD3"
@@ -5514,7 +5536,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 227400,
       "name": "Fist Fighting A Sandstorm",
       "url": "https://open.spotify.com/track/2f4a3iqaHrW8ly6qtjvYOL"
@@ -9849,6 +9871,24 @@
     },
     {
       "album": {
+        "name": "Lose Myself / I Wanna",
+        "url": "https://open.spotify.com/album/5pLDXKmvchaKPLdI93TAjH"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Lose Myself",
+      "url": "https://open.spotify.com/track/0e5K24g47Xze7bR6eftsHT"
+    },
+    {
+      "album": {
         "name": "Lose Yourself Again",
         "url": "https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws"
       },
@@ -10514,6 +10554,28 @@
       "duration_ms": 131134,
       "name": "Masala (with Amrit Maan)",
       "url": "https://open.spotify.com/track/5dB5jHKWnC5zHO7e0LlEyM"
+    },
+    {
+      "album": {
+        "name": "Me & U (Sammy Virji Remix)",
+        "url": "https://open.spotify.com/album/1iqTnKpDcOuWp3o4kOuzU3"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201199,
+      "name": "Me & U - Sammy Virji Remix",
+      "url": "https://open.spotify.com/track/5tm9ZsHVB29WVxBaekV013"
     },
     {
       "album": {
@@ -14094,7 +14156,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 150500,
       "name": "Run With The Sun",
       "url": "https://open.spotify.com/track/4tzDxQC3Rkso3khvj5nQJG"
@@ -15358,6 +15420,32 @@
       "duration_ms": 180020,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/1r4gQdNHdAJfUpREI0ywiu"
+    },
+    {
+      "album": {
+        "name": "Speed Dial (feat. Cydnee with a C)",
+        "url": "https://open.spotify.com/album/0vg6S29uMjoEygrv4mnT8E"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Nokae",
+          "url": "https://open.spotify.com/artist/32tm4kFatfXJM1kWaoBu69"
+        },
+        {
+          "name": "Cydnee with a C",
+          "url": "https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184050,
+      "name": "Speed Dial (feat. Cydnee with a C)",
+      "url": "https://open.spotify.com/track/3jhke2rHwlc0NI1JPldImU"
     },
     {
       "album": {
@@ -19252,7 +19340,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 158378,
       "name": "Zouki",
       "url": "https://open.spotify.com/track/4fi51l6vEHfAbq0vieFpMF"

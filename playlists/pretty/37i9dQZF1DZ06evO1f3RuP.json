@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAAAyflQtBvrtfgU/QZEDsuMH",
+  "snapshot_id": "ajM1AAAAAAD49ZJu+3a93AGl0tXbjMCp",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everyone",
-        "url": "https://open.spotify.com/album/13UmBV9sS0UuII8qiNdk19"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 158328,
-      "name": "Everyone",
-      "url": "https://open.spotify.com/track/2fpl1NTLGEFXcMbI6ExE8n"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 135116,
       "name": "Passenger Princess",
       "url": "https://open.spotify.com/track/6GAI8f3Kb4IfOPj28WXGUS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everyone",
+        "url": "https://open.spotify.com/album/13UmBV9sS0UuII8qiNdk19"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 158328,
+      "name": "Everyone",
+      "url": "https://open.spotify.com/track/2fpl1NTLGEFXcMbI6ExE8n"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "16",
-        "url": "https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 144637,
-      "name": "16",
-      "url": "https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO RE-ENTRY",
         "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 129264,
       "name": "all of that",
       "url": "https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "16",
+        "url": "https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 144637,
+      "name": "16",
+      "url": "https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k"
     },
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 121423,
+      "name": "SUGARCOAT",
+      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOTH",
         "url": "https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC"
       },
@@ -167,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+        "name": "not safe",
+        "url": "https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L"
       },
       "artists": [
         {
@@ -176,9 +192,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 121423,
-      "name": "SUGARCOAT",
-      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
+      "duration_ms": 136686,
+      "name": "not safe",
+      "url": "https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37"
     },
     {
       "added_at": null,
@@ -199,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "not safe",
-        "url": "https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L"
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
       },
       "artists": [
         {
@@ -208,9 +224,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 136686,
-      "name": "not safe",
-      "url": "https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37"
+      "duration_ms": 151628,
+      "name": "hi fem",
+      "url": "https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e"
     },
     {
       "added_at": null,
@@ -231,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+        "name": "NO RE-ENTRY (Nano Mixes)",
+        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
       },
       "artists": [
         {
@@ -240,9 +256,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 151628,
-      "name": "hi fem",
-      "url": "https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e"
+      "duration_ms": 123720,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/6BgdkRfOOxxOnARUTuAFs8"
     },
     {
       "added_at": null,
@@ -267,6 +283,22 @@
       "duration_ms": 174193,
       "name": "Float (feat. BAYLI)",
       "url": "https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 146378,
+      "name": "Lucky Number One",
+      "url": "https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL"
     },
     {
       "added_at": null,
@@ -323,38 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 146378,
-      "name": "Lucky Number One",
-      "url": "https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY (Nano Mixes)",
-        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 123720,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/6BgdkRfOOxxOnARUTuAFs8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "stories from new york",
         "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 137104,
       "name": "say it back",
       "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 142142,
-      "name": "into me",
-      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 142142,
+      "name": "into me",
+      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "think of drugs",
         "url": "https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 120400,
-      "name": "ur mine",
-      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/2nWaVG4ZaLj1J41LBBwzLA"
       },
@@ -531,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SICK!",
-        "url": "https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7"
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
       },
       "artists": [
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "ILOVEMAKONNEN",
-          "url": "https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja"
         }
       ],
-      "duration_ms": 126743,
-      "name": "SICK!",
-      "url": "https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG"
+      "duration_ms": 120400,
+      "name": "ur mine",
+      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
     },
     {
       "added_at": null,
@@ -567,6 +547,26 @@
       "duration_ms": 165086,
       "name": "Busy - BAYLI Remix",
       "url": "https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "ILOVEMAKONNEN",
+          "url": "https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja"
+        }
+      ],
+      "duration_ms": 126743,
+      "name": "SICK!",
+      "url": "https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG"
     },
     {
       "added_at": null,

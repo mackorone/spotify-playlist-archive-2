@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Bella, Appel, Tasché, Aiden Kaide en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,740 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,774 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 20 | [Sink In Die Hemel In](https://open.spotify.com/track/2GAksPn9Omb2JusaztzY6V) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Sink In Die Hemel In](https://open.spotify.com/album/6LqkflOHAHzsQSxaOrbfcU) | 3:07 |
 | 21 | [In 'n Oogwink](https://open.spotify.com/track/2H3AZxoQuD3F1F49SlSVsU) | [Heyns](https://open.spotify.com/artist/0qpZTMaJzegwAYpevBcGuD) | [In 'n Oogwink](https://open.spotify.com/album/5Lr36zGdJ3Rvmm4flWHVtC) | 3:00 |
 | 22 | [Droomland](https://open.spotify.com/track/03ig4uDdK0qugUWCMdLIvH) | [Tasha](https://open.spotify.com/artist/3874K00yWSgUCovxgLv8Ij) | [Droomland](https://open.spotify.com/album/4FUOu0FHoVYJeRYtp5cnaf) | 2:58 |
-| 23 | [Polaritieit](https://open.spotify.com/track/6EsdoFyfcf3OLZBnQgmvoA) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Polaritieit](https://open.spotify.com/album/0OLJtStD7x9bHh9EhaJlM8) | 3:10 |
+| 23 | [Polariteit](https://open.spotify.com/track/6EsdoFyfcf3OLZBnQgmvoA) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Polariteit](https://open.spotify.com/album/0OLJtStD7x9bHh9EhaJlM8) | 3:10 |
 | 24 | [Hoe Rave Die Boere](https://open.spotify.com/track/0HvH8ixqt7VK9kQuPiUO9S) | [MAEZTRO](https://open.spotify.com/artist/4SXPlxI5H5fY9JaVAjFqc1), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Hoe Rave Die Boere](https://open.spotify.com/album/2YmURXySGMTKyiF7I5BJzP) | 3:30 |
 | 25 | [Gly Mamma Gly](https://open.spotify.com/track/6zxQcCztB1zyMvdWedQEZL) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw) | [Gly Mamma Gly](https://open.spotify.com/album/18kY4ZnCCsjjF4PCVGkaGj) | 3:25 |
 | 26 | [Die Ergste](https://open.spotify.com/track/3pu8k1DGRJ9c4zZZLGhq9g) | [Dian Roux](https://open.spotify.com/artist/4BEqu4XnNSCazGvgtSYbOo) | [Die Ergste](https://open.spotify.com/album/6WTr1ZBjblvMcN1vrGUYcx) | 3:34 |

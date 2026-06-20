@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 402990,
+  "num_followers": 403019,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 269799,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Let You In (feat. East Forest)",
         "url": "https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 356373,
       "name": "Let You In (feat. East Forest)",
       "url": "https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Don't Let Go",
-        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 269799,
-      "name": "Don't Let Go",
-      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "What If I",
-        "url": "https://open.spotify.com/album/0OrRBSXrvdMEpwrx0S5TU0"
-      },
-      "artists": [
-        {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 354889,
-      "name": "What If I",
-      "url": "https://open.spotify.com/track/5bGqDdq1N19rshIU3WXAcr"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Forelsket",
         "url": "https://open.spotify.com/album/4jTwsVQan0LMDtyH4Ko0N7"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 336874,
       "name": "Forelsket",
       "url": "https://open.spotify.com/track/4GKaQwQjOpx6TBc3M9ubDp"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "What If I",
+        "url": "https://open.spotify.com/album/0OrRBSXrvdMEpwrx0S5TU0"
+      },
+      "artists": [
+        {
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 354889,
+      "name": "What If I",
+      "url": "https://open.spotify.com/track/5bGqDdq1N19rshIU3WXAcr"
     },
     {
       "added_at": "2024-08-09 18:28:29",

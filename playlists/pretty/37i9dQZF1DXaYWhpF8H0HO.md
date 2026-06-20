@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: The Midnight Darlings
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,516 likes - 97 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,542 likes - 97 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Momentary Pleasure](https://open.spotify.com/track/3uOBIFr4hnyxXdyaHmEwDO) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Momentary Pleasure](https://open.spotify.com/album/0Dy9YBdzfrChQrULfPvjqj) | 3:33 |
-| 2 | [Trip To The Sun](https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw) | [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL) | [Trip To The Sun](https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF) | 7:23 |
+| 2 | [Trip To The Sun](https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw) | [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL), [Miyane Soemitro](https://open.spotify.com/artist/3RLBh8sYkQLAFDoAcpcN6t) | [Trip To The Sun](https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF) | 7:23 |
 | 3 | [Something On Your Mind](https://open.spotify.com/track/4d8mYo1J66ro1l0vk7YPJo) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI), [The Soul & Rollers](https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu) | [Something on Your Mind](https://open.spotify.com/album/5DnLaYwlXBwFQfQaey3jZV) | 4:43 |
 | 4 | [Lit in Shanghai](https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR) | [Lit in Shanghai](https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh) | 2:59 |
 | 5 | [lose](https://open.spotify.com/track/6muxq0hXyW4m6rPR102PFc) | [Ridh](https://open.spotify.com/artist/0tqCMm24TzsA9pbhqbjbv1) | [lose](https://open.spotify.com/album/0gOdeAwXicLZ9BgHkyLYDy) | 3:29 |

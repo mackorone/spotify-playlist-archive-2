@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Fimiguerrero
 
-961 songs - 1 day 23 hr 0 min
+965 songs - 1 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [12am in Milan](https://open.spotify.com/track/3nP7GDxbWL9UqT5vkAqZb7) | [Lil Zino](https://open.spotify.com/artist/7AUV18vpujVWJKIDZtFfWS) | [Hear me vent](https://open.spotify.com/album/3sAfU8HtLEbFcsoBUL88BJ) | 2:42 | 2026-05-15 | 2026-05-29 |
 | [175 Months](https://open.spotify.com/track/7HkOwm4wmvTsKbe405RhE3) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 4:34 | 2025-10-23 | 2025-11-07 |
 | [1999](https://open.spotify.com/track/1XPlYPulzYQJ0JEi8xmzN9) | [sahara](https://open.spotify.com/artist/1k0rALDJlsAbgWqn7jMlLY) | [4thesoul](https://open.spotify.com/album/2Xd37loPEzY9o8C9cwkpl9) | 3:11 | 2026-01-09 | 2026-01-16 |
+| [2 Many Days](https://open.spotify.com/track/5xKsdMU9ssxhKSre7iMflV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [2 Many Days](https://open.spotify.com/album/5C9EToByF5XDM3DXx4WewZ) | 3:05 | 2026-06-18 |  |
 | [2000s Pop Punk Rnb](https://open.spotify.com/track/4pCaGHshtacSSPRqXSLK75) | [WHATMORE](https://open.spotify.com/artist/2y4kS2ljmS41pNDNA01P2Q) | [Still Loiteringgg / 2000s Pop Punk Rnb](https://open.spotify.com/album/1PsPAevrYEFFoOwjezQ4LF) | 2:56 | 2026-03-13 | 2026-03-27 |
 | [2099](https://open.spotify.com/track/4ooICmT2zrfMprazExomIi) | [Sade Olutola](https://open.spotify.com/artist/3RnVqL6k23iwhe1uYh1JSm) | [Arrow Heart](https://open.spotify.com/album/6qS5D90JVQEZpBHccB577c) | 2:27 | 2026-02-27 | 2026-03-13 |
 | [20th January](https://open.spotify.com/track/08R5dODNJXuhawekAz1rFS) | [KayMuni](https://open.spotify.com/artist/1OdRfN5lRo8QcMTpFTCtp5) | [More Muni More Freedom](https://open.spotify.com/album/6Fpxqpk6su2kCg83lxT8PO) | 2:55 | 2026-02-13 | 2026-02-27 |
@@ -139,6 +140,7 @@
 | [Bridges](https://open.spotify.com/track/0IFwU3Vaq5FEuOBnQAjnMd) | [Arno Sacco](https://open.spotify.com/artist/6bfoz2GFeUYmr2Kz4LikKx) | [Bridges](https://open.spotify.com/album/0xC9PfmBnPtcQGLnblmAO3) | 3:53 | 2026-05-21 | 2026-06-05 |
 | [Broke Love](https://open.spotify.com/track/390sonGgAmwU7Wu2CY8qGZ) | [Nicole Blakk](https://open.spotify.com/artist/5HnkBZ2fxKMj6yE2DagFiP) | [Broke Love](https://open.spotify.com/album/3YWSIm3wrcMjlBgYEf59H0) | 2:42 | 2026-03-20 | 2026-04-03 |
 | [Broken Record](https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Broken Record](https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S) | 2:25 | 2026-02-20 | 2026-02-27 |
+| [broken vase](https://open.spotify.com/track/4bDetS185jvSXnqSDo4IhC) | [SINN6R](https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY) | [broken vase](https://open.spotify.com/album/01IAsnb1GLx8tHiNv8MZvV) | 2:05 | 2026-06-18 |  |
 | [Built Different](https://open.spotify.com/track/4vNPEUTDUuHx35aiLl2dEP) | [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi) | [Built Different](https://open.spotify.com/album/7plXjLT8cUTfVOb9RowaKn) | 2:35 | 2026-02-20 | 2026-02-27 |
 | [BUILT LIKE TEE](https://open.spotify.com/track/4QoshbFOlPPfXhiMaG5Mxv) | [Tdarq](https://open.spotify.com/artist/32fjTg4szazZo87Sgxs9a2), [db.](https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW) | [SET YOUR SIGHTS HIGHER](https://open.spotify.com/album/4FveEBVuGPSWSvqmD7xgbR) | 2:30 | 2026-05-15 | 2026-05-22 |
 | [Bulldog](https://open.spotify.com/track/4Iv1RiGeOZwCcbeqD4OzhD) | [Reek0](https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD) | [Dance Tapes](https://open.spotify.com/album/5eihDqjS3Cslmx4pqy4c41) | 3:00 | 2025-11-21 | 2025-12-05 |
@@ -767,6 +769,7 @@
 | [Side Effects](https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL](https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG) | 3:17 | 2026-04-17 | 2026-05-01 |
 | [Signs](https://open.spotify.com/track/2OY1FPx3DtP1EejTyIMG1f) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Signs](https://open.spotify.com/album/0JFcLrkPDSyFJASHH94uII) | 2:42 | 2025-11-14 | 2025-11-28 |
 | [Silent Approach](https://open.spotify.com/track/4m50P9Q09O5W5ngsGVqf4B) | [Damzz](https://open.spotify.com/artist/0gIUtcSvpmZsNEGo3rusf4) | [Recency Bias V4](https://open.spotify.com/album/4KNzSckggHdyJcYCrK4Ofp) | 2:12 | 2025-11-28 | 2025-12-12 |
+| [SIMON SAYS feat isaiah falls, odeal & sasha keable](https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 4:20 | 2026-06-18 |  |
 | [SING4ME](https://open.spotify.com/track/6XxWKbPOJGo6cwYFUvLAU3) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [FEAR OF ECLIPSE](https://open.spotify.com/album/7zhi64PIlLEL1O4oqRLKWz) | 2:02 | 2026-01-16 | 2026-01-30 |
 | [Sink or Swim](https://open.spotify.com/track/0kBWEgutopAoEU8YtpOgts) | [Raheem Bakare](https://open.spotify.com/artist/40IuUXbYWhw6UcfU7hHmpM), [Elviene](https://open.spotify.com/artist/28rNbzLNeE3uuchR98v9EM) | [Sink or Swim](https://open.spotify.com/album/73Tb67NrvSqyMsGlmUJEFw) | 1:53 | 2026-03-13 | 2026-03-27 |
 | [Sinner](https://open.spotify.com/track/0MUSX7J41ns5rBseSaxuyT) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Sinner](https://open.spotify.com/album/4pXAW15Q6SBg09Sl7lYxFF) | 2:51 | 2026-03-27 | 2026-04-10 |
@@ -949,6 +952,7 @@
 | [Who's That?](https://open.spotify.com/track/4ZN7QuYhaq4OwqGeNF8eZu) | [Brother Wallace](https://open.spotify.com/artist/1Obi4nLN1WU3jho5LoPV5Z) | [Who's That?](https://open.spotify.com/album/5eTBY9FpQAPWExb2wwmN6k) | 2:48 | 2026-05-07 | 2026-05-15 |
 | [WHODIS](https://open.spotify.com/track/4yv2tvrIDRiIwNG0G8eVzr) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [WHODIS](https://open.spotify.com/album/3JpVOhwlOGS1XZzzJquq4L) | 2:13 | 2026-04-02 | 2026-04-10 |
 | [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 | 2025-10-23 | 2025-10-31 |
+| [Why Love](https://open.spotify.com/track/452HcoqVduPCwSoyCXBfKt) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Why Love](https://open.spotify.com/album/4ttxJ5LiFvyeQMFHnqFFGP) | 3:15 | 2026-06-18 |  |
 | [WHY YOU WATCHING ME 2.0](https://open.spotify.com/track/22uvB4ofwU2T0TL6oADF3U) | [Yizzy](https://open.spotify.com/artist/4uCUBeUgVSrYFwLDeklA7g), [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68) | [GRIME 2.0 EP \(Deluxe\)](https://open.spotify.com/album/44T4h2x6t4nHjRDnodP33J) | 2:12 | 2026-01-09 | 2026-01-23 |
 | [WID IT](https://open.spotify.com/track/4geco0FqSze6GLQxnNCxzf) | [JM7](https://open.spotify.com/artist/5JlMu1K8bFk1Q62SRUVckm) | [WID IT](https://open.spotify.com/album/2j1351u0B3Sm4wHl65VtT1) | 3:42 | 2026-01-09 | 2026-01-23 |
 | [Wild](https://open.spotify.com/track/5MNrcGDA4XAau1t3pUwiIi) | [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [Wild](https://open.spotify.com/album/5X44EGa91MXvuAKmeV9NTL) | 2:24 | 2026-05-21 | 2026-05-29 |

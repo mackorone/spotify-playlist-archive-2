@@ -2899,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/6bT4o1dAbrdODEHn3VapWY"
+      },
+      "artists": [
+        {
+          "name": "Sai Sandeep Pakki",
+          "url": "https://open.spotify.com/artist/6ZILD2P95MZFKC68437P0o"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/7v20oLynmiTajbdeOGOBQm"
+    },
+    {
+      "album": {
         "name": "Idega Prema",
         "url": "https://open.spotify.com/album/2OdQtTapi5rAT2shgxiyd1"
       },
@@ -9773,6 +9791,32 @@
     },
     {
       "album": {
+        "name": "Sukumaarive",
+        "url": "https://open.spotify.com/album/1Mnn9g8XXxRvDcdyPMi4D2"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "VIKYK",
+          "url": "https://open.spotify.com/artist/7vJpZ5o50LXRpwIGKn9s2G"
+        },
+        {
+          "name": "Sravani Amarapu",
+          "url": "https://open.spotify.com/artist/3imN1dakgEq1dRoImW7cfm"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216213,
+      "name": "Sukumaarive",
+      "url": "https://open.spotify.com/track/0HnQBVo7llaBl04ksWExcm"
+    },
+    {
+      "album": {
         "name": "SunRisers Hyderabad Anthem - 2024",
         "url": "https://open.spotify.com/album/5w3AoIm6vGGMYPqaVzq2CY"
       },
@@ -10724,6 +10768,36 @@
       "duration_ms": 247680,
       "name": "Vasthaavaa",
       "url": "https://open.spotify.com/track/1M67wuVGrL7BSDAIZrKNlJ"
+    },
+    {
+      "album": {
+        "name": "Vedam",
+        "url": "https://open.spotify.com/album/49OdlVnjqdze5rK7DIkYzj"
+      },
+      "artists": [
+        {
+          "name": "Amit N Dasani",
+          "url": "https://open.spotify.com/artist/6ra99eKIhiMtRjQbIjTYT6"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Nutana Mohan",
+          "url": "https://open.spotify.com/artist/7nWJbJH5UTPFHPVREddNed"
+        },
+        {
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5LULT9Y1i0FMacKsnwWljL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294545,
+      "name": "Vedam",
+      "url": "https://open.spotify.com/track/30L9XxaZhXBdWH608Jec1r"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Devon Gilfillian
 
-508 songs - 1 day 5 hr 39 min
+509 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [I Did It For You](https://open.spotify.com/track/4xWLo3R0jjTVOdmtjC5MKI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:01 | 2020-11-20 | 2022-04-09 |
 | [I Don't Wanna Be In Love, But I Don't Wanna Be Alone](https://open.spotify.com/track/0Cy1cXdjWDZogM5YVk0EDI) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [I Don't Wanna Be In Love, But I Don't Wanna Be Alone](https://open.spotify.com/album/78nImjHu9SijmNwWEccFQn) | 2:50 | 2023-09-01 | 2024-11-16 |
 | [I Found You \(feat\. Benjamin Ingrosso\) \- Dimitri From Paris Remix](https://open.spotify.com/track/08Cws0E0tiHfm18dQINYvZ) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [I Found You \(feat\. Benjamin Ingrosso\) \[Dimitri From Paris Remix\]](https://open.spotify.com/album/4QWCCbdhcZkFc8627LOVXX) | 2:43 | 2021-09-17 | 2022-09-17 |
+| [I Got A Feeling](https://open.spotify.com/track/0r8IyNbHfCexbil7HeJsRW) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1), [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [I Got A Feeling](https://open.spotify.com/album/3P1eIPsWrKLZMfvYqyDase) | 3:03 | 2026-06-19 |  |
 | [I GOT IT](https://open.spotify.com/track/6ddW4TWSSIuQpJiNf2DN5I) | [Gerard Alain](https://open.spotify.com/artist/2M1iqciaWLU8JSGJgFvhKx) | [I GOT IT](https://open.spotify.com/album/7Ittuxr5x2Z1mM8wxag9zS) | 3:03 | 2023-06-23 | 2023-09-30 |
 | [I Won't Do U Like That](https://open.spotify.com/track/7DKnkvTDOyFfKXCF8QY4we) | [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Call Collect 8](https://open.spotify.com/album/5WKe6hq1b2Ywo2wpn1o2fD) | 2:35 | 2021-09-03 | 2022-10-29 |
 | [I'm Gonna Break Through The Minneapolis Sound](https://open.spotify.com/track/3NquVqpiNefjlWzj83ljbd) | [Leon Schmith](https://open.spotify.com/artist/4xrhCvqLYl670XhDEPLrD9), [José Côrte\-Real](https://open.spotify.com/artist/72mw2lexAW7ztbJXDLvZvc) | [I'm Gonna Break Through The Minneapolis Sound](https://open.spotify.com/album/5SPxmPtm7P2SzNiFWmUQeN) | 3:40 | 2024-02-09 | 2024-08-24 |
@@ -360,7 +361,7 @@
 | [Picky](https://open.spotify.com/track/2AnRsU93Frlz2tSipATdCf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Picky](https://open.spotify.com/album/0Fg4s2vE0u9TOwVLWb3OVV) | 3:18 | 2020-11-20 | 2022-04-09 |
 | [Pipe Dream](https://open.spotify.com/track/2VvA02bUmNmZvxsexippXM) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Pipe Dream](https://open.spotify.com/album/2wbdNXoe1bTA66vkblLPiS) | 3:06 | 2023-06-30 | 2023-08-26 |
 | [Planet Nine](https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [1978](https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj) | 4:50 | 2024-04-05 |  |
-| [Play My Guitar](https://open.spotify.com/track/6bfDFOlMraYL4XoYAExz3n) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [Play My Guitar](https://open.spotify.com/album/2hjsDetomg1855StKuMZWs) | 3:21 | 2024-08-30 |  |
+| [Play My Guitar](https://open.spotify.com/track/6bfDFOlMraYL4XoYAExz3n) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [Play My Guitar](https://open.spotify.com/album/2hjsDetomg1855StKuMZWs) | 3:21 | 2024-08-30 | 2026-06-20 |
 | [Pocket](https://open.spotify.com/track/7a4uiLnvLP33EPvGDn5YXA) | [KONL](https://open.spotify.com/artist/4GqeovkUhMsSvFkHVshwS0) | [Pocket](https://open.spotify.com/album/4wwpEMqsM5iiNcvAi3kVZi) | 3:20 | 2021-06-25 | 2022-01-29 |
 | [Power Station](https://open.spotify.com/track/1z7PHD8GeatMCzuBY3SUsB) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Power Station](https://open.spotify.com/album/4hGwNNlT72jpOJFWIatuEk) | 3:22 | 2022-04-08 | 2023-04-01 |
 | [Pressure](https://open.spotify.com/track/6R8q5huZOkxRUdbq3JsTDp) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Pressure](https://open.spotify.com/album/0tIlSRHdKJQ1ABFNClsglz) | 3:23 | 2022-03-04 | 2023-04-15 |

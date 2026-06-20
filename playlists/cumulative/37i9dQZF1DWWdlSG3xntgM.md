@@ -2,7 +2,7 @@
 
 ### [Bolero Tuyệt Phẩm](https://open.spotify.com/playlist/37i9dQZF1DWWdlSG3xntgM)
 
-> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
+> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
 353 songs - 1 day 6 hr 45 min
 
@@ -121,7 +121,7 @@
 | [Kẻ ở miền xa](https://open.spotify.com/track/5QT5sejxWy5F9RvRXxgxNc) | [Giang Tử](https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW) | [Giang Tử Tuyệt Phẩm](https://open.spotify.com/album/01Z3lEP1pIv1DGkqrzUBff) | 4:10 | 2023-08-08 | 2024-04-19 |
 | [Lan Và Điệp 2](https://open.spotify.com/track/0JIOIM5q3gCKzGG38zRC1b) | [Giao Linh](https://open.spotify.com/artist/4H5Eeyp0AbxXuJKbeuc1wx) | [Khu Phố Ngày Xưa](https://open.spotify.com/album/3AtTRxDreCMx9VCTr71xKT) | 5:48 | 2023-10-06 | 2023-10-13 |
 | [Liên khúc Dấu chân kỷ niệm](https://open.spotify.com/track/2UvwNy4NzDXF0OXhrTIALT) | [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED), [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP), [Sơn Tuyền](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [The Best Of Thanh Tuyền \(Người Mẹ Bán Nón\)](https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ) | 5:20 | 2024-05-27 | 2025-09-16 |
-| [Liên khúc Em là tất cả \- Hai vì sao lạc](https://open.spotify.com/track/4mtcwpgSjtHQYiKzIn5P5q) | [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED), [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [The Best Of Thanh Tuyền \(Người Mẹ Bán Nón\)](https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ) | 5:15 | 2024-03-12 |  |
+| [Liên khúc Em là tất cả \- Hai vì sao lạc](https://open.spotify.com/track/4mtcwpgSjtHQYiKzIn5P5q) | [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED), [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [The Best Of Thanh Tuyền \(Người Mẹ Bán Nón\)](https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ) | 5:15 | 2024-03-12 | 2026-06-20 |
 | [Liên Khúc Mưa Nửa Đêm \- Ai Cho Tôi Tình Yêu](https://open.spotify.com/track/0X2YIrnOLoYDfkPtdCkTel) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Nguyên Lê](https://open.spotify.com/artist/44tv8Ok9mYOhirL1RyTn2U) | [Không Phải Tại Chúng Mình](https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh) | 5:35 | 2024-02-09 |  |
 | [Liên khúc một người đi](https://open.spotify.com/track/7BWg96oxD6NXPapc9YPfv1) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [Tường Nguyên](https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK), [Tường Khuê](https://open.spotify.com/artist/52HvRqozRACgI2cS7sMNW0) | [Về Lại Đồi Sim](https://open.spotify.com/album/0sy3wvCtsGgb6aUJg2Wghg) | 5:51 | 2024-05-27 | 2026-02-08 |
 | [Liên Khúc Nhạc Vàng / Yến Ly / Lâm Hùng](https://open.spotify.com/track/3VFIS1Whmkf5w1l5Jwyvzc) | [Yến Ly](https://open.spotify.com/artist/1SaCJUCcZzvR5JctfaMT9H), [Lâm Hùng](https://open.spotify.com/artist/55yAFZYGqQ6Oy5i85txF2u) | [Liên Khúc Nhạc Vàng](https://open.spotify.com/album/653HZhMoP8Z6aCbL8wmlrx) | 25:52 | 2025-04-15 | 2025-05-20 |
@@ -291,7 +291,7 @@
 | [Trom Nhin Nhau](https://open.spotify.com/track/2YnaiSCpOhyn77VAwTY7SA) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Doi Mat Nguoi Xua](https://open.spotify.com/album/1cr15CHmotR28DFJa0kgze) | 5:28 | 2022-03-11 | 2022-07-29 |
 | [Trách Ai Bây Giờ](https://open.spotify.com/track/2qlyYKZWlVavGedljgEaeW) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W) | [Trách Ai Bây Giờ](https://open.spotify.com/album/6fP9rfjkCA7PotRxqk4RBB) | 5:43 | 2022-03-11 | 2025-05-26 |
 | [Trăng tàn trên hè phố](https://open.spotify.com/track/2M4sGZZOSakycaEI5YZdEt) | [Giang Tử](https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW) | [Giang Tử Tuyệt Phẩm](https://open.spotify.com/album/01Z3lEP1pIv1DGkqrzUBff) | 5:21 | 2023-10-12 | 2023-12-24 |
-| [Trăng Tỏ Hai Miền](https://open.spotify.com/track/1v9FCQ3Vs2hD58XXZR5H12) | [Hồ Phương Liên](https://open.spotify.com/artist/1xqw6I7JGeyBPQNJIwYaXU) | [Tuyển Tập Bolero Trữ Tình Hay Nhất](https://open.spotify.com/album/3GyeIN5z4FqciMQAXyuh7i) | 5:06 | 2025-04-15 | 2026-05-06 |
+| [Trăng Tỏ Hai Miền](https://open.spotify.com/track/1v9FCQ3Vs2hD58XXZR5H12) | [Hồ Phương Liên](https://open.spotify.com/artist/1xqw6I7JGeyBPQNJIwYaXU) | [Tuyển Tập Bolero Trữ Tình Hay Nhất](https://open.spotify.com/album/3GyeIN5z4FqciMQAXyuh7i) | 5:06 | 2025-04-15 |  |
 | [Trường Cũ Tình Xưa](https://open.spotify.com/track/6G4CiuoWSwK5LeytZFkL1d) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Trường Cũ Tình Xưa](https://open.spotify.com/album/6p7PcIgCsqsF9i3atpJxzB) | 4:31 | 2022-03-11 | 2022-07-29 |
 | [Trả Lại Thời Gian](https://open.spotify.com/track/5FBZTuXD8VEc3TUdkcW02G) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Trả Lại Thời Gian](https://open.spotify.com/album/3anrtl0M6qcB22rTHH9JNy) | 5:47 | 2023-10-12 | 2024-02-22 |
 | [Trả Lại Thời Gian](https://open.spotify.com/track/0I9NZiLwDs2lLw5zREgyse) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 2](https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX) | 4:35 | 2025-05-02 | 2025-06-04 |

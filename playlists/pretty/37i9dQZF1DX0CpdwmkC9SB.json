@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 243979,
+  "num_followers": 243991,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Made of Bricks",
-        "url": "https://open.spotify.com/album/11SwLZF0LlX2GUAgN4rJ1b"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Foundations",
-      "url": "https://open.spotify.com/track/6lUk96KJPMHWdhEy6rmwxt"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Foolish Loving Spaces (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 161293,
       "name": "Your Girlfriend",
       "url": "https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Made of Bricks",
+        "url": "https://open.spotify.com/album/11SwLZF0LlX2GUAgN4rJ1b"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Foundations",
+      "url": "https://open.spotify.com/track/6lUk96KJPMHWdhEy6rmwxt"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Cathexis",
-        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
-      },
-      "artists": [
-        {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
-        }
-      ],
-      "duration_ms": 183741,
-      "name": "Doomsday Blue",
-      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Marcus Garvey",
         "url": "https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 207000,
       "name": "Marcus Garvey",
       "url": "https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Cathexis",
+        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 183741,
+      "name": "Doomsday Blue",
+      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Islands",
-        "url": "https://open.spotify.com/album/17GC0y8Pi3RQflQtDD5LK0"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 279457,
-      "name": "Above the Clouds of Pompeii",
-      "url": "https://open.spotify.com/track/23CGl8LfaUfOOxP4b4mGas"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Grind Pon Mi",
         "url": "https://open.spotify.com/album/6VuVN2OeiULk7uhV8wmRGQ"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 129241,
       "name": "Grind Pon Mi",
       "url": "https://open.spotify.com/track/6lzqWQqmRoq3wOKF8ylJr2"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Islands",
+        "url": "https://open.spotify.com/album/17GC0y8Pi3RQflQtDD5LK0"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 279457,
+      "name": "Above the Clouds of Pompeii",
+      "url": "https://open.spotify.com/track/23CGl8LfaUfOOxP4b4mGas"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 272214,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Peace Song",
         "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 272214,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2503,6 +2503,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Sisters (Remastered Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4vgJiGEUObYa88HwDxxbct"
+      },
+      "artists": [
+        {
+          "name": "The Bluebells",
+          "url": "https://open.spotify.com/artist/59FA7hfd0gJCIVBN0GygHg"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/6uAKudZaTJrR0hlFMreipp"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0"
       },
@@ -2519,18 +2535,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Sisters (Remastered Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4vgJiGEUObYa88HwDxxbct"
+        "name": "Producer 01",
+        "url": "https://open.spotify.com/album/2YgeSuxQWw3NjUPYhjoTFl"
       },
       "artists": [
         {
-          "name": "The Bluebells",
-          "url": "https://open.spotify.com/artist/59FA7hfd0gJCIVBN0GygHg"
+          "name": "LTJ Bukem",
+          "url": "https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL"
         }
       ],
-      "duration_ms": 203226,
-      "name": "Young At Heart",
-      "url": "https://open.spotify.com/track/6uAKudZaTJrR0hlFMreipp"
+      "duration_ms": 394000,
+      "name": "Atlantis (I Need You)",
+      "url": "https://open.spotify.com/track/2527WUoKIauHY1tx5TCetu"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2563,22 +2579,6 @@
       "duration_ms": 216750,
       "name": "Bros",
       "url": "https://open.spotify.com/track/4McPoHVfn7qQptowbbPK23"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Producer 01",
-        "url": "https://open.spotify.com/album/2YgeSuxQWw3NjUPYhjoTFl"
-      },
-      "artists": [
-        {
-          "name": "LTJ Bukem",
-          "url": "https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL"
-        }
-      ],
-      "duration_ms": 394000,
-      "name": "Atlantis (I Need You)",
-      "url": "https://open.spotify.com/track/2527WUoKIauHY1tx5TCetu"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2703,22 +2703,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Come Play the Trees",
-        "url": "https://open.spotify.com/album/4qu6XbO9yy990D0bgBDVoY"
-      },
-      "artists": [
-        {
-          "name": "Snapped Ankles",
-          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
-        }
-      ],
-      "duration_ms": 247071,
-      "name": "I Want My Minutes Back",
-      "url": "https://open.spotify.com/track/0R5DSabbpFQs0wPcOdVGAI"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "every night was the same",
         "url": "https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK"
       },
@@ -2731,6 +2715,22 @@
       "duration_ms": 173329,
       "name": "pink dress",
       "url": "https://open.spotify.com/track/4UYMPoAzPFMkWUYa5t5Fpb"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Come Play the Trees",
+        "url": "https://open.spotify.com/album/4qu6XbO9yy990D0bgBDVoY"
+      },
+      "artists": [
+        {
+          "name": "Snapped Ankles",
+          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
+        }
+      ],
+      "duration_ms": 247071,
+      "name": "I Want My Minutes Back",
+      "url": "https://open.spotify.com/track/0R5DSabbpFQs0wPcOdVGAI"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2775,22 +2775,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "There\u2019s Nothing But Space, Man!",
-        "url": "https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "SPACE MAN",
-      "url": "https://open.spotify.com/track/6HzwR0zqTzoyfADCR1rPX3"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Humble As The Sun",
         "url": "https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh"
       },
@@ -2803,6 +2787,22 @@
       "duration_ms": 199643,
       "name": "Makes Me Violent",
       "url": "https://open.spotify.com/track/0qu6cJbPDnwaWZSPqQbuId"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "There\u2019s Nothing But Space, Man!",
+        "url": "https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "SPACE MAN",
+      "url": "https://open.spotify.com/track/6HzwR0zqTzoyfADCR1rPX3"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2835,22 +2835,6 @@
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/0OQehQY5sa24kxGOOB1Uuu"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Hot Lemonade",
-        "url": "https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl"
-      },
-      "artists": [
-        {
-          "name": "A Guy Called Gerald",
-          "url": "https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Voodoo Ray",
-      "url": "https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2907,6 +2891,38 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Afrikan Alien",
+        "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
+      },
+      "artists": [
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/7kgU2NMdgWnKMksqvgzPAb"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Hot Lemonade",
+        "url": "https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl"
+      },
+      "artists": [
+        {
+          "name": "A Guy Called Gerald",
+          "url": "https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Voodoo Ray",
+      "url": "https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Back In the Dayz",
         "url": "https://open.spotify.com/album/71N9Ka76xlsjDRQLVwsTaO"
       },
@@ -2927,22 +2943,6 @@
       "duration_ms": 181620,
       "name": "Back In the Dayz",
       "url": "https://open.spotify.com/track/7Gfw0fTWsmPflnplixtkJ4"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Afrikan Alien",
-        "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/7kgU2NMdgWnKMksqvgzPAb"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3123,22 +3123,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Marlboro Sounds",
-        "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 363620,
-      "name": "Marlboro Sounds",
-      "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Back To Back (B2B)",
         "url": "https://open.spotify.com/album/6bSMeMnzgxWncuRlL80p3s"
       },
@@ -3151,6 +3135,22 @@
       "duration_ms": 175546,
       "name": "Back To Back (B2B)",
       "url": "https://open.spotify.com/track/0Ax0rAJqWrwJ7Tyib3dvUb"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Marlboro Sounds",
+        "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 363620,
+      "name": "Marlboro Sounds",
+      "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3287,6 +3287,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Heard You Got Love",
+        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Mortal Man",
+      "url": "https://open.spotify.com/track/3dp9Eq6cmdiueBFbwPbp7m"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Shoot",
         "url": "https://open.spotify.com/album/7ABQGNfnRm0vwcdPBr3NoY"
       },
@@ -3303,22 +3319,6 @@
       "duration_ms": 164137,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/2px94zB56yKPyaUuGeVyEP"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Heard You Got Love",
-        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Mortal Man",
-      "url": "https://open.spotify.com/track/3dp9Eq6cmdiueBFbwPbp7m"
     },
     {
       "added_at": "2025-06-27 23:00:28",

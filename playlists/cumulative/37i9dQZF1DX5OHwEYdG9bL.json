@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-03-15",
-  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: BABYMONSTER) (Enjoy a playlist of songs that support music video features!) ",
+  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: BTS) (Enjoy a playlist of songs that support music video features!) ",
   "name": "K-Pop Music Video Hits",
   "tracks": [
+    {
+      "album": {
+        "name": "2 L0VE",
+        "url": "https://open.spotify.com/album/7rZpkVRUjGdtxPYOWdFxpa"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201022,
+      "name": "2 L0VE",
+      "url": "https://open.spotify.com/track/0falo3BHEdKuSKZjHPPuqK"
+    },
     {
       "album": {
         "name": "2.0",
@@ -1253,6 +1271,42 @@
     },
     {
       "album": {
+        "name": "Do your dance",
+        "url": "https://open.spotify.com/album/3nb5nacP2fxTmTNRG2rJtj"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189525,
+      "name": "Do your dance",
+      "url": "https://open.spotify.com/track/2xt7Vs6lhJQBYxWaGwkwyL"
+    },
+    {
+      "album": {
+        "name": "Don't Be",
+        "url": "https://open.spotify.com/album/33GDpqRm5Mz50mlNLEcF7K"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195945,
+      "name": "Don't Be",
+      "url": "https://open.spotify.com/track/2x0iW9zX00hMkfFO4R0w4E"
+    },
+    {
+      "album": {
         "name": "Don't Say You Love Me",
         "url": "https://open.spotify.com/album/0ZJbJm0kWYUsmxseeKUXKB"
       },
@@ -2383,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Layback",
+        "url": "https://open.spotify.com/album/5c3H5O5VDtmWuOeBA9Kef9"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196137,
+      "name": "Layback",
+      "url": "https://open.spotify.com/track/54MezJT8koqN1K9j14yvcz"
+    },
+    {
+      "album": {
         "name": "Lemon Drop",
         "url": "https://open.spotify.com/album/09IydXd1KOgReAONummjt5"
       },
@@ -2693,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "Merry Go Round",
+        "url": "https://open.spotify.com/album/3xExm6422LDtFkZdkKblyo"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255284,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/6t4JEAfgl8oVJUASyxzptH"
+    },
+    {
+      "album": {
         "name": "Mess",
         "url": "https://open.spotify.com/album/71XPrdRLDPTdXgg5lSdVGT"
       },
@@ -2960,6 +3050,24 @@
       "duration_ms": 200682,
       "name": "oops!",
       "url": "https://open.spotify.com/track/68UnaGof7Bd6UEQn75Bsb9"
+    },
+    {
+      "album": {
+        "name": "Open The Door",
+        "url": "https://open.spotify.com/album/7FHNoMtow2sCipOL6Pt3zL"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217685,
+      "name": "Open The Door",
+      "url": "https://open.spotify.com/track/5nS4tv6PqJyeCDtI9DGQ1Y"
     },
     {
       "album": {
@@ -3530,6 +3638,24 @@
       "duration_ms": 188991,
       "name": "SLAM DUNK",
       "url": "https://open.spotify.com/track/5c3v5iU6WjMzd9EG1k2Hxc"
+    },
+    {
+      "album": {
+        "name": "SNAPBACK",
+        "url": "https://open.spotify.com/album/16deoxNs2fSk1esycRlnRd"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158814,
+      "name": "SNAPBACK",
+      "url": "https://open.spotify.com/track/3yDjroZ8PRAbcsSc8LqmxP"
     },
     {
       "album": {

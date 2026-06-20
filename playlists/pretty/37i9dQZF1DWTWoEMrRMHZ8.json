@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
-  "num_followers": 355534,
+  "num_followers": 355527,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "Um dia eu te encontro",
-        "url": "https://open.spotify.com/album/1XzOxqDFkg9PExs47Tip0a"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 209250,
-      "name": "Um dia eu te encontro",
-      "url": "https://open.spotify.com/track/37QAkaScwdWBOwj8pBpCLo"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
         "name": "Olha",
         "url": "https://open.spotify.com/album/4UCapWCSeOEAKSmHXVZA3q"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 198702,
       "name": "Olha",
       "url": "https://open.spotify.com/track/5V5EFOPbPIbQxuxgGIRKDt"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "Um dia eu te encontro",
+        "url": "https://open.spotify.com/album/1XzOxqDFkg9PExs47Tip0a"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 209250,
+      "name": "Um dia eu te encontro",
+      "url": "https://open.spotify.com/track/37QAkaScwdWBOwj8pBpCLo"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -279,26 +279,6 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Bruna Marquezine",
-          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
-        }
-      ],
-      "duration_ms": 297233,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
         "name": "1\u00b0 Ato (Ao Vivo)",
         "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 228314,
       "name": "Admir\u00e1vel Gado Novo / Toada - Ao Vivo",
       "url": "https://open.spotify.com/track/5j1gqrBK1aCYxyon31CVnq"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Bruna Marquezine",
+          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
+        }
+      ],
+      "duration_ms": 297233,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
+        "name": "Vera Cruz",
+        "url": "https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Vera Cruz",
+      "url": "https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
         "name": "Sembal",
         "url": "https://open.spotify.com/album/3jb0i7cPqumhnn9vSJRLiy"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 212853,
       "name": "Sembal",
       "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
-        "name": "Vera Cruz",
-        "url": "https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Vera Cruz",
-      "url": "https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "Campo Alegre Km 500 Mil",
-        "url": "https://open.spotify.com/album/1NWBPQX5rhytyEJMXkvJFl"
-      },
-      "artists": [
-        {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
-        }
-      ],
-      "duration_ms": 227512,
-      "name": "Campo Alegre Km 500 Mil",
-      "url": "https://open.spotify.com/track/4nMGitEcCZQkfNe2XOyEnG"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
         "name": "Este seu olhar / Promessas",
         "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
+        "name": "Campo Alegre Km 500 Mil",
+        "url": "https://open.spotify.com/album/1NWBPQX5rhytyEJMXkvJFl"
+      },
+      "artists": [
+        {
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        }
+      ],
+      "duration_ms": 227512,
+      "name": "Campo Alegre Km 500 Mil",
+      "url": "https://open.spotify.com/track/4nMGitEcCZQkfNe2XOyEnG"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
         "name": "Vila do Sossego",
         "url": "https://open.spotify.com/album/5xQJOjRkhtFXfmOo8KoeGR"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 249798,
       "name": "Vila do Sossego",
       "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "LA MIA STORIA TRA LE DITA / All Versions",
+        "url": "https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 315733,
+      "name": "QUEM DE N\u00d3S DOIS (solo version)",
+      "url": "https://open.spotify.com/track/2aZ4R7KQqJ3yNH2DoXQl7i"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -627,22 +643,6 @@
       "duration_ms": 276000,
       "name": "Pontes no Ar",
       "url": "https://open.spotify.com/track/2M6GfrTPMJSkO6DHGHsvJy"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
-        "name": "LA MIA STORIA TRA LE DITA / All Versions",
-        "url": "https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 315733,
-      "name": "QUEM DE N\u00d3S DOIS (solo version)",
-      "url": "https://open.spotify.com/track/2aZ4R7KQqJ3yNH2DoXQl7i"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "Depois do Breu",
-        "url": "https://open.spotify.com/album/2ZzOd4RWiJUBjRwsMoqsY7"
-      },
-      "artists": [
-        {
-          "name": "Juliana Linhares",
-          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
-        }
-      ],
-      "duration_ms": 250851,
-      "name": "Depois do Breu",
-      "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
         "name": "dois brilhantes",
         "url": "https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 203311,
       "name": "dois brilhantes",
       "url": "https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "Depois do Breu",
+        "url": "https://open.spotify.com/album/2ZzOd4RWiJUBjRwsMoqsY7"
+      },
+      "artists": [
+        {
+          "name": "Juliana Linhares",
+          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
+        }
+      ],
+      "duration_ms": 250851,
+      "name": "Depois do Breu",
+      "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
+        "name": "Mariana Nolasco Sessions 3",
+        "url": "https://open.spotify.com/album/6RcwBjOAtnTDHN8DJM0ZNQ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 149825,
+      "name": "Deus me proteja - Sessions",
+      "url": "https://open.spotify.com/track/67RY6Ze7UDQNiB2klRhxzT"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
         "name": "D'Ouro Brilhante",
         "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 246802,
       "name": "D'Ouro Brilhante",
       "url": "https://open.spotify.com/track/6WKEg8JZFraRFZLX9IukL5"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
-        "name": "Mariana Nolasco Sessions 3",
-        "url": "https://open.spotify.com/album/6RcwBjOAtnTDHN8DJM0ZNQ"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 149825,
-      "name": "Deus me proteja - Sessions",
-      "url": "https://open.spotify.com/track/67RY6Ze7UDQNiB2klRhxzT"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -991,22 +991,18 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "25 Anos de M\u00fasica",
-        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
+        "name": "Lugar Comum",
+        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
       },
       "artists": [
         {
-          "name": "Gabriel Sater",
-          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
-        },
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+          "name": "Michael Pipoquinha",
+          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
         }
       ],
-      "duration_ms": 220826,
-      "name": "Me Ajuda",
-      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
+      "duration_ms": 278212,
+      "name": "Lugar Comum",
+      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -1031,22 +1027,6 @@
       "duration_ms": 236000,
       "name": "Mais Simples",
       "url": "https://open.spotify.com/track/24keqRUA9bXehN7dkulmT3"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
-        "name": "Lugar Comum",
-        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
-      },
-      "artists": [
-        {
-          "name": "Michael Pipoquinha",
-          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
-        }
-      ],
-      "duration_ms": 278212,
-      "name": "Lugar Comum",
-      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -1087,6 +1067,26 @@
       "duration_ms": 213536,
       "name": "Desculpe o Au\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/2wHOXgPbLgsrdDf60hsJy7"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "25 Anos de M\u00fasica",
+        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Sater",
+          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
+        },
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Me Ajuda",
+      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
+        "name": "Sonhando o Futuro",
+        "url": "https://open.spotify.com/album/3zMVuA9xdKA7KKaqy1crSy"
+      },
+      "artists": [
+        {
+          "name": "14 Bis",
+          "url": "https://open.spotify.com/artist/4cz8toptnAtxffn7ghNjyp"
+        }
+      ],
+      "duration_ms": 261043,
+      "name": "Sonhando o Futuro",
+      "url": "https://open.spotify.com/track/351MxF9HAAqxb33O6SCiRl"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
         "name": "Pupillo",
         "url": "https://open.spotify.com/album/2oOKYjxPF5C3gvWDAugzqn"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 189019,
       "name": "Fealh\u00e1",
       "url": "https://open.spotify.com/track/3sb1yYFxHuPNWDBH499Ut4"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
-        "name": "Sonhando o Futuro",
-        "url": "https://open.spotify.com/album/3zMVuA9xdKA7KKaqy1crSy"
-      },
-      "artists": [
-        {
-          "name": "14 Bis",
-          "url": "https://open.spotify.com/artist/4cz8toptnAtxffn7ghNjyp"
-        }
-      ],
-      "duration_ms": 261043,
-      "name": "Sonhando o Futuro",
-      "url": "https://open.spotify.com/track/351MxF9HAAqxb33O6SCiRl"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -1379,6 +1379,30 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
+        "name": "Garotos II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7zY74hy1FpTWzsHo6zCVEw"
+      },
+      "artists": [
+        {
+          "name": "Leoni",
+          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
+        },
+        {
+          "name": "Outro Futuro",
+          "url": "https://open.spotify.com/artist/7IGi9K7nL5xNTXRS7c78QT"
+        },
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 236061,
+      "name": "Garotos II - Ao Vivo",
+      "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
         "name": "Se Acabou",
         "url": "https://open.spotify.com/album/3Wqq7nrFYkF6igVeA23YxH"
       },
@@ -1411,46 +1435,6 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "Garotos II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7zY74hy1FpTWzsHo6zCVEw"
-      },
-      "artists": [
-        {
-          "name": "Leoni",
-          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
-        },
-        {
-          "name": "Outro Futuro",
-          "url": "https://open.spotify.com/artist/7IGi9K7nL5xNTXRS7c78QT"
-        },
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 236061,
-      "name": "Garotos II - Ao Vivo",
-      "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
-        "name": "F\u00e3 do Sandu\u00edche",
-        "url": "https://open.spotify.com/album/5PETN41VqMG3tnOA5cq4Bm"
-      },
-      "artists": [
-        {
-          "name": "Hyldon",
-          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
-        }
-      ],
-      "duration_ms": 363104,
-      "name": "F\u00e3 do Sandu\u00edche",
-      "url": "https://open.spotify.com/track/4nydrqDPi38BDY3XqWFoIo"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
         "name": "s\u00f3 eu sei",
         "url": "https://open.spotify.com/album/5AXHyzrsBqeLPTZieytJyW"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 223000,
       "name": "s\u00f3 eu sei",
       "url": "https://open.spotify.com/track/7e0h3dwmifDZT14DLjgqZJ"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "F\u00e3 do Sandu\u00edche",
+        "url": "https://open.spotify.com/album/5PETN41VqMG3tnOA5cq4Bm"
+      },
+      "artists": [
+        {
+          "name": "Hyldon",
+          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
+        }
+      ],
+      "duration_ms": 363104,
+      "name": "F\u00e3 do Sandu\u00edche",
+      "url": "https://open.spotify.com/track/4nydrqDPi38BDY3XqWFoIo"
     },
     {
       "added_at": "2026-06-17 12:55:23",

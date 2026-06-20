@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3905966,
+  "num_followers": 3905834,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 423006,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
         "name": "Manhattan",
         "url": "https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 215062,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -463,6 +463,26 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -495,26 +515,6 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
         "name": "3 Days Later",
         "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
       },
@@ -531,6 +531,58 @@
       "duration_ms": 333658,
       "name": "3 Days Later",
       "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
+        "name": "YOUR EYES",
+        "url": "https://open.spotify.com/album/6EH22I1ThZ1bBlbg5KlOmc"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "YOUR EYES",
+      "url": "https://open.spotify.com/track/5uxwxuFRvmwYr3rLn81k8G"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
+        "name": "Not Giving You Up",
+        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "duration_ms": 172939,
+      "name": "Not Giving You Up",
+      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
+        "name": "Lost In The Woods",
+        "url": "https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 183934,
+      "name": "Lost In The Woods",
+      "url": "https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -555,58 +607,6 @@
       "duration_ms": 221250,
       "name": "See My Soul",
       "url": "https://open.spotify.com/track/5IDYlNp75toRLVVdaZL8W6"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
-        "name": "Not Giving You Up",
-        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        }
-      ],
-      "duration_ms": 172939,
-      "name": "Not Giving You Up",
-      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
-        "name": "YOUR EYES",
-        "url": "https://open.spotify.com/album/6EH22I1ThZ1bBlbg5KlOmc"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "YOUR EYES",
-      "url": "https://open.spotify.com/track/5uxwxuFRvmwYr3rLn81k8G"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
-        "name": "Lost In The Woods",
-        "url": "https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 183934,
-      "name": "Lost In The Woods",
-      "url": "https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "More To Life",
-        "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        },
-        {
-          "name": "Carston",
-          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
-        }
-      ],
-      "duration_ms": 204374,
-      "name": "More To Life",
-      "url": "https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
         "name": "KYGO",
         "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
@@ -895,6 +875,26 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
+        "name": "More To Life",
+        "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        }
+      ],
+      "duration_ms": 204374,
+      "name": "More To Life",
+      "url": "https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
         "name": "A Life",
         "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 199160,
       "name": "Felt (feat. Henry Green)",
       "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
-        "name": "Flow Free",
-        "url": "https://open.spotify.com/album/1lSb4HADfBQ422Z89G0Ovg"
-      },
-      "artists": [
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 239523,
-      "name": "Flow Free",
-      "url": "https://open.spotify.com/track/1AK271I7M3ZQmSulRg5EQ4"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -971,22 +951,22 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/6TH6mDJgdPL1cp6q5oJou4"
+        "name": "Flow Free",
+        "url": "https://open.spotify.com/album/1lSb4HADfBQ422Z89G0Ovg"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         },
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 359040,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/2Lkbzbxnyu25NVlV1uiaYb"
+      "duration_ms": 239523,
+      "name": "Flow Free",
+      "url": "https://open.spotify.com/track/1AK271I7M3ZQmSulRg5EQ4"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1015,22 +995,22 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "Of Joy",
-        "url": "https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7"
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/6TH6mDJgdPL1cp6q5oJou4"
       },
       "artists": [
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         },
         {
-          "name": "ARY",
-          "url": "https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 199636,
-      "name": "Of Joy",
-      "url": "https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ"
+      "duration_ms": 359040,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/2Lkbzbxnyu25NVlV1uiaYb"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1051,6 +1031,26 @@
       "duration_ms": 211278,
       "name": "Places",
       "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
+        "name": "Of Joy",
+        "url": "https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Of Joy",
+      "url": "https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1131,18 +1131,22 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "Wanderer",
-        "url": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
+        "name": "sicklysweet (Tobiahs Remix)",
+        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
       },
       "artists": [
         {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+          "name": "Jetta",
+          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
+        },
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
         }
       ],
-      "duration_ms": 195812,
-      "name": "Wanderlust",
-      "url": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
+      "duration_ms": 137888,
+      "name": "sicklysweet - Tobiahs Remix",
+      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "sicklysweet (Tobiahs Remix)",
-        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
       },
       "artists": [
         {
-          "name": "Jetta",
-          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
-        },
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 137888,
-      "name": "sicklysweet - Tobiahs Remix",
-      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
+      "duration_ms": 195812,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1431,18 +1431,22 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+        "name": "Sun & Rain",
+        "url": "https://open.spotify.com/album/4iAsazBdJVm5OqhEYKTXEX"
       },
       "artists": [
         {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+        },
+        {
+          "name": "Run Rivers",
+          "url": "https://open.spotify.com/artist/2VxxKYEtuy6JnDDB2hpoOH"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+      "duration_ms": 200640,
+      "name": "Sun & Rain",
+      "url": "https://open.spotify.com/track/7bqtONADSmsbMHy57EVGix"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1467,6 +1471,22 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
         "name": "Call You Mine",
         "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
       },
@@ -1479,26 +1499,6 @@
       "duration_ms": 209696,
       "name": "Call You Mine",
       "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
-        "name": "Sun & Rain",
-        "url": "https://open.spotify.com/album/4iAsazBdJVm5OqhEYKTXEX"
-      },
-      "artists": [
-        {
-          "name": "Deeparture",
-          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
-        },
-        {
-          "name": "Run Rivers",
-          "url": "https://open.spotify.com/artist/2VxxKYEtuy6JnDDB2hpoOH"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Sun & Rain",
-      "url": "https://open.spotify.com/track/7bqtONADSmsbMHy57EVGix"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
+      },
+      "artists": [
+        {
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 361080,
       "name": "Memories",
       "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
-      },
-      "artists": [
-        {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
     },
     {
       "added_at": "2026-06-19 04:00:42",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2026-06-19 04:00:42",
       "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK"
+    },
+    {
+      "added_at": "2026-06-19 04:00:42",
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 258644,
       "name": "Control",
       "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
-    },
-    {
-      "added_at": "2026-06-19 04:00:42",
-      "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe"
-      },
-      "artists": [
-        {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK"
     },
     {
       "added_at": "2026-06-19 04:00:42",

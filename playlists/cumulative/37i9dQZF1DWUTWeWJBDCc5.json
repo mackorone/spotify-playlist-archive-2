@@ -4049,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "2:LOVE",
+        "url": "https://open.spotify.com/album/1kslbMVRXKMwhPlyVI4MWg"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181124,
+      "name": "WHERE YOU AT?",
+      "url": "https://open.spotify.com/track/08djt7JVDPyJGvnDAvBskP"
+    },
+    {
+      "album": {
         "name": "Where's My Phone?",
         "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
       },

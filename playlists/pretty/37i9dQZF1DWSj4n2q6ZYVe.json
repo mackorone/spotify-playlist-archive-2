@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 768073,
+  "num_followers": 768463,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Goodbye Country (Hello Nightclub)",
-        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 360426,
-      "name": "Superstylin'",
-      "url": "https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 212546,
       "name": "Aerodynamic",
       "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Goodbye Country (Hello Nightclub)",
+        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 360426,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Invaders Must Die",
-        "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Omen",
-      "url": "https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "In Silico",
         "url": "https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 313346,
       "name": "Propane Nightmares",
       "url": "https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Invaders Must Die",
+        "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Strobe",
+        "url": "https://open.spotify.com/album/6EYy8giXumFOmT1fpZTCMB"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Strobe - Radio Edit",
+      "url": "https://open.spotify.com/track/6c9EGVj5CaOeoKd9ecMW1U"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Invaders Must Die",
         "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Strobe",
-        "url": "https://open.spotify.com/album/6EYy8giXumFOmT1fpZTCMB"
+        "name": "Payback Time",
+        "url": "https://open.spotify.com/album/6U0i1B1rbF9Byy4rlfx9Na"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "DJ Aligator Project",
+          "url": "https://open.spotify.com/artist/0tcTEBez3blSzzDbKQeM0b"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Strobe - Radio Edit",
-      "url": "https://open.spotify.com/track/6c9EGVj5CaOeoKd9ecMW1U"
+      "duration_ms": 223800,
+      "name": "The Whistle Song",
+      "url": "https://open.spotify.com/track/4YnAKHP8pUPeaOov12tljh"
     },
     {
       "added_at": "2021-10-06 04:50:26",
@@ -1215,22 +1231,6 @@
       "duration_ms": 210453,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/3gZqDJkMZipOYCRjlHWgOV"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Payback Time",
-        "url": "https://open.spotify.com/album/6U0i1B1rbF9Byy4rlfx9Na"
-      },
-      "artists": [
-        {
-          "name": "DJ Aligator Project",
-          "url": "https://open.spotify.com/artist/0tcTEBez3blSzzDbKQeM0b"
-        }
-      ],
-      "duration_ms": 223800,
-      "name": "The Whistle Song",
-      "url": "https://open.spotify.com/track/4YnAKHP8pUPeaOov12tljh"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1704,9 +1704,9 @@
           "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Weekend!",
-      "url": "https://open.spotify.com/track/1K68dHzsB7HLqRYBEq00pw"
+      "duration_ms": 234116,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/6ACG1I3qXRpnkIKLVzy4Ww"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1796,9 +1796,9 @@
           "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
         }
       ],
-      "duration_ms": 234116,
-      "name": "The Logical Song",
-      "url": "https://open.spotify.com/track/6ACG1I3qXRpnkIKLVzy4Ww"
+      "duration_ms": 215506,
+      "name": "Weekend!",
+      "url": "https://open.spotify.com/track/1K68dHzsB7HLqRYBEq00pw"
     }
   ],
   "unique_name": "Dance Hits 2000s",

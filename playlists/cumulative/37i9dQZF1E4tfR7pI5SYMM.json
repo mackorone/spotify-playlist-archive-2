@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 384370,
       "name": "84",
       "url": "https://open.spotify.com/track/0Vl5voXWCbcXVnQKqJrIty"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 237219,
       "name": "Ain\u00b4t It Funny",
       "url": "https://open.spotify.com/track/79uKILLcGbaGLdGOmuHFBK"
@@ -4216,7 +4216,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -5032,7 +5032,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 148010,
       "name": "I Don't Look Like That",
       "url": "https://open.spotify.com/track/07eyV5Jl9yHXagGgWlVlYm"
@@ -5656,7 +5656,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -5920,6 +5920,24 @@
       "duration_ms": 252004,
       "name": "Lambs",
       "url": "https://open.spotify.com/track/5SLaKUk2t9C57MlHHgS5Z3"
+    },
+    {
+      "album": {
+        "name": "Lechery Love",
+        "url": "https://open.spotify.com/album/5USXO8gLh8IQAqtzmEDhyA"
+      },
+      "artists": [
+        {
+          "name": "Dear",
+          "url": "https://open.spotify.com/artist/5xC8Nx2BbHjZPVXAD30ERA"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324026,
+      "name": "Lechery Love",
+      "url": "https://open.spotify.com/track/0pYrzlsgg0USecWtggHS6P"
     },
     {
       "album": {
@@ -6470,6 +6488,24 @@
       "duration_ms": 196973,
       "name": "Loss Of Faith",
       "url": "https://open.spotify.com/track/1up3Tnuz2h8GNMeHln42YX"
+    },
+    {
+      "album": {
+        "name": "Louisa",
+        "url": "https://open.spotify.com/album/08JgfhvYEug2EMv2i8qGNx"
+      },
+      "artists": [
+        {
+          "name": "killingTeddy",
+          "url": "https://open.spotify.com/artist/2RuLxgEZtDPf7q12lUfvVF"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165552,
+      "name": "Louisa",
+      "url": "https://open.spotify.com/track/1n22ITZaAnJlIknNEpqbfJ"
     },
     {
       "album": {
@@ -7350,7 +7386,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 316493,
       "name": "Mutter",
       "url": "https://open.spotify.com/track/0dZQZ2lzX73bPIqPG33AeA"
@@ -7848,7 +7884,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -8414,7 +8450,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 338747,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
@@ -8468,7 +8504,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 142657,
       "name": "Parapet",
       "url": "https://open.spotify.com/track/4lwmKp7SxX1a4A7unHO6c8"
@@ -8544,7 +8580,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 210117,
       "name": "Pay The Price",
       "url": "https://open.spotify.com/track/5pBvfqml5qtDwgd8AeiYwH"
@@ -8696,6 +8732,24 @@
       "duration_ms": 222193,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/14tT9kBpmJCTaPgBe934gk"
+    },
+    {
+      "album": {
+        "name": "Picture Of Time",
+        "url": "https://open.spotify.com/album/7nEOpdK8xd2fRBum6zz5IJ"
+      },
+      "artists": [
+        {
+          "name": "N\u00c4STY",
+          "url": "https://open.spotify.com/artist/0YRCBCNnoCqGyfDvbeAatm"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249818,
+      "name": "Picture Of Time",
+      "url": "https://open.spotify.com/track/2kH79NnF6USM1qGX2NE0xk"
     },
     {
       "album": {
@@ -10366,7 +10420,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -10954,7 +11008,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -11278,7 +11332,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 136615,
       "name": "The magic juice",
       "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
@@ -11434,7 +11488,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -13320,7 +13374,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 265643,
       "name": "Written in the Stars",
       "url": "https://open.spotify.com/track/65lDxk6gz2cjgKZxUGJdW0"

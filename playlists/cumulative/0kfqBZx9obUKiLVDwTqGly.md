@@ -50,7 +50,7 @@
 | [The Trader \- 2000 \- Remaster](https://open.spotify.com/track/2O1vOIZ3JRHNjGRvaWMmrL) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits Volume 3: The Best Of The Brother Years 1970 \- 1986](https://open.spotify.com/album/5od5MVWzGnuNQbZCTzYdsX) | 5:06 | 2013-06-25 |  |
 | [The Warmth of the Sun](https://open.spotify.com/track/6Ck7L2zEbjL6tZbY0IAA6N) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [50 Big Ones: Greatest Hits](https://open.spotify.com/album/4nZ5wPL5XxSY2OuDgbnYdc) | 4:14 | 2013-06-25 |  |
 | [Transcendental Meditation \- Remastered 2001](https://open.spotify.com/track/0nc4t5n6r5karpDkS6F8ab) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Friends \(Remastered\)](https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS) | 1:52 | 2013-06-26 |  |
-| [Wind Chimes](https://open.spotify.com/track/3USfbRbjWl1d3rQL2jRxrK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Smile Sessions](https://open.spotify.com/album/5SKIMMI6ilJTGOLd69Q9aM) | 3:06 | 2013-06-25 |  |
+| [Wind Chimes \- Mono Mix](https://open.spotify.com/track/3USfbRbjWl1d3rQL2jRxrK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Smile Sessions](https://open.spotify.com/album/5SKIMMI6ilJTGOLd69Q9aM) | 3:06 | 2013-06-25 |  |
 | [Won't Somebody Dance With Me](https://open.spotify.com/track/6Kkn4ZYyyRXgbfq3t4biRB) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Going Public](https://open.spotify.com/album/7x5517dgXDj2NgIaaHoWZc) | 4:00 | 2013-06-27 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

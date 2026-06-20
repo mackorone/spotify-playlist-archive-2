@@ -1,13 +1,341 @@
 {
   "description": "Check out our latest Cargo digital distributed tracks! Updated weekly",
-  "num_followers": 638,
+  "num_followers": 639,
   "original_name": "Cargo Independent Distribution New Release Playlist",
   "owner": {
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABMzGCiPWXqUZugDOX/qgAleR2Dx0+A",
+  "snapshot_id": "AABM7QrwkIHquAJqDNpq/s5utSdvsV1Y",
   "tracks": [
+    {
+      "added_at": "2026-06-19 10:17:27",
+      "album": {
+        "name": "Dream Me A Dream",
+        "url": "https://open.spotify.com/album/7a039yB9nIcXTbL7bwwSBc"
+      },
+      "artists": [
+        {
+          "name": "Tucker Zimmerman",
+          "url": "https://open.spotify.com/artist/6c3XGRQEI4x3hvu19S2X09"
+        }
+      ],
+      "duration_ms": 244868,
+      "name": "Don't Feel Like Doing Nothing Today",
+      "url": "https://open.spotify.com/track/3D0FfajIHNZWPz2E0yC0Su"
+    },
+    {
+      "added_at": "2026-06-19 10:17:43",
+      "album": {
+        "name": "More Songs About the Sun",
+        "url": "https://open.spotify.com/album/6bItXKrLIkLC9Tdjm224Ro"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        },
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+        }
+      ],
+      "duration_ms": 281480,
+      "name": "As We Begin",
+      "url": "https://open.spotify.com/track/4B6ybORmNnYfc3cy9R87KX"
+    },
+    {
+      "added_at": "2026-06-19 10:31:34",
+      "album": {
+        "name": "Big Life, Big Leaf",
+        "url": "https://open.spotify.com/album/5Mzg9bNuorIBUf2lCmbwKD"
+      },
+      "artists": [
+        {
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+        }
+      ],
+      "duration_ms": 269701,
+      "name": "Big Life, Big Leaf",
+      "url": "https://open.spotify.com/track/4nyU3dEPvVpJao0AckpGF2"
+    },
+    {
+      "added_at": "2026-06-19 10:28:18",
+      "album": {
+        "name": "Hard Reclining",
+        "url": "https://open.spotify.com/album/7aRTIqPwWFM5am0OOUSg2s"
+      },
+      "artists": [
+        {
+          "name": "foodman",
+          "url": "https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Hard Reclining",
+      "url": "https://open.spotify.com/track/5coCAX6FxXys61h7v0O0FT"
+    },
+    {
+      "added_at": "2026-06-19 10:24:08",
+      "album": {
+        "name": "Saecularhythmia\u2014\u2014The Rhythmanalyst relates to semiocoustic reason.",
+        "url": "https://open.spotify.com/album/0JTXglqM9If8Nzy3wUFkP2"
+      },
+      "artists": [
+        {
+          "name": "Speaker Music",
+          "url": "https://open.spotify.com/artist/1H0aWZUg7aOHQmo5h09xso"
+        }
+      ],
+      "duration_ms": 332215,
+      "name": "Saecularhythmia\u2014\u2014The Rhythmanalyst relates to semiocoustic reason.",
+      "url": "https://open.spotify.com/track/4HU5j0cYQFMqj5z5hiYHIo"
+    },
+    {
+      "added_at": "2026-06-19 10:20:11",
+      "album": {
+        "name": "Underlight",
+        "url": "https://open.spotify.com/album/5vATXzJ7DPUiByumTTgh24"
+      },
+      "artists": [
+        {
+          "name": "Stolen Velour",
+          "url": "https://open.spotify.com/artist/3YIXaWaXPfxxpWZKCDnePZ"
+        },
+        {
+          "name": "FLOCO",
+          "url": "https://open.spotify.com/artist/481UCPPSOM8exNyn4iDZHQ"
+        },
+        {
+          "name": "Aria SL",
+          "url": "https://open.spotify.com/artist/3H7dgdc50JIJDEqDIjOfxL"
+        }
+      ],
+      "duration_ms": 364000,
+      "name": "LOCH",
+      "url": "https://open.spotify.com/track/4PLbPerzheMMsKW3L4rtdM"
+    },
+    {
+      "added_at": "2026-06-19 10:27:41",
+      "album": {
+        "name": "still believe",
+        "url": "https://open.spotify.com/album/0vs4R19Xw14qB4c6uKVvTK"
+      },
+      "artists": [
+        {
+          "name": "BAE BAE",
+          "url": "https://open.spotify.com/artist/1I8UXmyHIrwwX2fMKG0EQU"
+        }
+      ],
+      "duration_ms": 242533,
+      "name": "still believe",
+      "url": "https://open.spotify.com/track/0p7Mlx3xITUKjau0yOA28b"
+    },
+    {
+      "added_at": "2026-06-19 10:28:00",
+      "album": {
+        "name": "Enarmoured",
+        "url": "https://open.spotify.com/album/3d2347wvFI9Tw76oKKZVBc"
+      },
+      "artists": [
+        {
+          "name": "The Hobknobs",
+          "url": "https://open.spotify.com/artist/4MVy6muaDxpiAfZKgYraNR"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "Enarmoured",
+      "url": "https://open.spotify.com/track/2WEANHCEXCvEh0PuouMi6p"
+    },
+    {
+      "added_at": "2026-06-19 10:21:12",
+      "album": {
+        "name": "Cloud Studies",
+        "url": "https://open.spotify.com/album/5B1yaanS9gEFRpxSXMSrsN"
+      },
+      "artists": [
+        {
+          "name": "Cloud Studies",
+          "url": "https://open.spotify.com/artist/1Az1x0icaEQS10RRXhdbNU"
+        }
+      ],
+      "duration_ms": 203013,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/4ZzJu5Lj4WOxIx0hjyFNyI"
+    },
+    {
+      "added_at": "2026-06-19 10:22:46",
+      "album": {
+        "name": "rollage vol.9: movin' thru EP",
+        "url": "https://open.spotify.com/album/1piZCBN8k01pVbXh27BJie"
+      },
+      "artists": [
+        {
+          "name": "Dusk",
+          "url": "https://open.spotify.com/artist/4iN6X4Gx2BHD9s6Q6Gg8Nn"
+        },
+        {
+          "name": "Blackdown",
+          "url": "https://open.spotify.com/artist/3ujX3LSXytB7rIVycrRCZJ"
+        },
+        {
+          "name": "Dusk + Blackdown",
+          "url": "https://open.spotify.com/artist/3iTDKZuNWU9nfeBQVHQSq9"
+        }
+      ],
+      "duration_ms": 239473,
+      "name": "Soul Wet Thru",
+      "url": "https://open.spotify.com/track/3ufMnl5BomQsk7osdgTCeJ"
+    },
+    {
+      "added_at": "2026-06-19 10:26:13",
+      "album": {
+        "name": "Have a Heart",
+        "url": "https://open.spotify.com/album/16zMTB8PDzkiMjbHD3PnGT"
+      },
+      "artists": [
+        {
+          "name": "The Klittens",
+          "url": "https://open.spotify.com/artist/1x52exMIN31XbiEfsG2kM2"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Have a Heart",
+      "url": "https://open.spotify.com/track/4LHpIlgOHSMOj8UL0n9th6"
+    },
+    {
+      "added_at": "2026-06-19 10:17:58",
+      "album": {
+        "name": "Children of the Cold War: Phase 7",
+        "url": "https://open.spotify.com/album/5hKVu0OYDDh07781Tf3rrD"
+      },
+      "artists": [
+        {
+          "name": "David A Jaycock",
+          "url": "https://open.spotify.com/artist/3SMHagl0r9hdZ6fmiXnlM6"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "In The Black Forrest",
+      "url": "https://open.spotify.com/track/03kZgjl5Zgnm78WDZMm5Do"
+    },
+    {
+      "added_at": "2026-06-19 10:20:56",
+      "album": {
+        "name": "We Owe Each Other Everything",
+        "url": "https://open.spotify.com/album/7cuDkydGksLd9m4eoVrDHK"
+      },
+      "artists": [
+        {
+          "name": "Dohnav\u00f9r",
+          "url": "https://open.spotify.com/artist/40qx2MT6wmy3RNKBg64WzB"
+        }
+      ],
+      "duration_ms": 291573,
+      "name": "Ready For '91",
+      "url": "https://open.spotify.com/track/1vyjrZEYvRPeaop8CfD2UR"
+    },
+    {
+      "added_at": "2026-06-19 10:21:36",
+      "album": {
+        "name": "Sorrows (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2NQ4ONyaJeDTfUnMf66mT4"
+      },
+      "artists": [
+        {
+          "name": "Cwfen",
+          "url": "https://open.spotify.com/artist/2osrICe2kgcit3D086z3Lo"
+        }
+      ],
+      "duration_ms": 341086,
+      "name": "Whispers - Live in Belfast 2026",
+      "url": "https://open.spotify.com/track/1GoZHm5YaNeD5BaCDX8acn"
+    },
+    {
+      "added_at": "2026-06-19 10:23:53",
+      "album": {
+        "name": "By The River",
+        "url": "https://open.spotify.com/album/10kyncNsR16LFRgdbddfcW"
+      },
+      "artists": [
+        {
+          "name": "Robo",
+          "url": "https://open.spotify.com/artist/3U041FxU4RcB1Bo1EsGYLX"
+        }
+      ],
+      "duration_ms": 133189,
+      "name": "By The River",
+      "url": "https://open.spotify.com/track/3nzDHSgvxRwv6OPvKRgnW4"
+    },
+    {
+      "added_at": "2026-06-19 10:24:38",
+      "album": {
+        "name": "Reaching Heart",
+        "url": "https://open.spotify.com/album/5kJPaw8LyKkWBIjDytMdPi"
+      },
+      "artists": [
+        {
+          "name": "Jad Atoui",
+          "url": "https://open.spotify.com/artist/4o39OjGDCEBAYFn4bMpYqU"
+        }
+      ],
+      "duration_ms": 362240,
+      "name": "Reaching Heart",
+      "url": "https://open.spotify.com/track/5lArJ0F97kxH9W32HavL31"
+    },
+    {
+      "added_at": "2026-06-19 10:22:14",
+      "album": {
+        "name": "John Henry | Who's Gonna Shoe Your Pretty Little Feet",
+        "url": "https://open.spotify.com/album/27IDGIRKiMXbB5q3ZT498v"
+      },
+      "artists": [
+        {
+          "name": "Bring It On Home",
+          "url": "https://open.spotify.com/artist/49XheYNQ0b5xjT0fM9Mmgo"
+        },
+        {
+          "name": "Holly Carter",
+          "url": "https://open.spotify.com/artist/1bPrgmIFsPve1nnLybWyoo"
+        }
+      ],
+      "duration_ms": 178906,
+      "name": "John Henry | Who's Gonna Shoe Your Pretty Little Feet",
+      "url": "https://open.spotify.com/track/5Lc7L16V7p9xySBzFiTqnR"
+    },
+    {
+      "added_at": "2026-06-19 10:31:18",
+      "album": {
+        "name": "Best of Luck",
+        "url": "https://open.spotify.com/album/1Hfro4hw5eaTOWgWSpvYo2"
+      },
+      "artists": [
+        {
+          "name": "Sniffany & The Nits",
+          "url": "https://open.spotify.com/artist/7ERaPawHEVtydVDH6DuolH"
+        }
+      ],
+      "duration_ms": 162255,
+      "name": "Best of Luck",
+      "url": "https://open.spotify.com/track/7vWNnUtYHpEHHLuffhctgY"
+    },
+    {
+      "added_at": "2026-06-19 10:31:54",
+      "album": {
+        "name": "Inopportune",
+        "url": "https://open.spotify.com/album/73cng08xzjn1ipPN04eaSZ"
+      },
+      "artists": [
+        {
+          "name": "Jim Haynes",
+          "url": "https://open.spotify.com/artist/4TdZ7h93sohq2fVe6wf2bI"
+        }
+      ],
+      "duration_ms": 702131,
+      "name": "V32",
+      "url": "https://open.spotify.com/track/00h1T6Q7J8gYSWlCARjIHE"
+    },
     {
       "added_at": "2026-06-12 07:52:54",
       "album": {
@@ -1379,210 +1707,6 @@
       "duration_ms": 182106,
       "name": "Teenage Bomb",
       "url": "https://open.spotify.com/track/7ipCKgxYRmos1ExvwdjLLI"
-    },
-    {
-      "added_at": "2026-05-15 06:04:37",
-      "album": {
-        "name": "Love And Trust",
-        "url": "https://open.spotify.com/album/6fCz0XqhXeT8JqXUoGfCj4"
-      },
-      "artists": [
-        {
-          "name": "The Explorers Club",
-          "url": "https://open.spotify.com/artist/1CR8qMZVkRSoIioetcA8u3"
-        }
-      ],
-      "duration_ms": 155335,
-      "name": "Love And Trust",
-      "url": "https://open.spotify.com/track/22eJ5ev5RDcLiuHMoFL2p0"
-    },
-    {
-      "added_at": "2026-05-15 06:04:57",
-      "album": {
-        "name": "I Don\u2019t Want To Go to Heaven",
-        "url": "https://open.spotify.com/album/1UnDAmZIDpgW5RIL0ZrIvw"
-      },
-      "artists": [
-        {
-          "name": "Doris Brendel",
-          "url": "https://open.spotify.com/artist/4pVeFYgp3ZMZDHvbQecxg5"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "I Don\u2019t Want To Go to Heaven",
-      "url": "https://open.spotify.com/track/7tYUb7MZgv7OOcF7oyDZ4K"
-    },
-    {
-      "added_at": "2026-05-08 07:46:26",
-      "album": {
-        "name": "Detached From The Rest Of You",
-        "url": "https://open.spotify.com/album/5DvB6X4LLP5jCheIPKZZ7X"
-      },
-      "artists": [
-        {
-          "name": "Loraine James",
-          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
-        },
-        {
-          "name": "Tirzah",
-          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
-        }
-      ],
-      "duration_ms": 277906,
-      "name": "Habits and Patterns",
-      "url": "https://open.spotify.com/track/4Tx2yFGnV22a4dkBHQCFun"
-    },
-    {
-      "added_at": "2026-05-08 07:49:29",
-      "album": {
-        "name": "Pause The Rain",
-        "url": "https://open.spotify.com/album/79wKFuWGRcC3hKUeyWCcNc"
-      },
-      "artists": [
-        {
-          "name": "Masal",
-          "url": "https://open.spotify.com/artist/57AGvkrbizJE4lN2c5KYSq"
-        },
-        {
-          "name": "Emma Anderson",
-          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Pause The Rain",
-      "url": "https://open.spotify.com/track/7cWrxxIL8alFNWGKot3SBi"
-    },
-    {
-      "added_at": "2026-05-08 07:52:06",
-      "album": {
-        "name": "Dawn (Drone version)",
-        "url": "https://open.spotify.com/album/3m7LjMy48rXkiapih22wfc"
-      },
-      "artists": [
-        {
-          "name": "Alev Lenz",
-          "url": "https://open.spotify.com/artist/5AbBmL35b74Ywd0sqILIdg"
-        },
-        {
-          "name": "Jas Shaw",
-          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
-        }
-      ],
-      "duration_ms": 262250,
-      "name": "Dawn - Drone version",
-      "url": "https://open.spotify.com/track/4zJ5lm9Y3gkQPPa7xTmwL9"
-    },
-    {
-      "added_at": "2026-05-08 07:49:44",
-      "album": {
-        "name": "Habban",
-        "url": "https://open.spotify.com/album/6gomVYgFYytLjceamt5d8l"
-      },
-      "artists": [
-        {
-          "name": "ABADIR",
-          "url": "https://open.spotify.com/artist/5x4riXfgUdVCXbrOIFxn51"
-        }
-      ],
-      "duration_ms": 343378,
-      "name": "Habban",
-      "url": "https://open.spotify.com/track/3ffzarUNaxCqXJYFpmtnEL"
-    },
-    {
-      "added_at": "2026-05-08 07:50:43",
-      "album": {
-        "name": "Passing By",
-        "url": "https://open.spotify.com/album/4oULhqRNGOQ6ULpBofQTPn"
-      },
-      "artists": [
-        {
-          "name": "HIGHDRIVE",
-          "url": "https://open.spotify.com/artist/2jT2rJpJiwpdC9IKlV5j5a"
-        }
-      ],
-      "duration_ms": 205921,
-      "name": "Passing By",
-      "url": "https://open.spotify.com/track/6TAWiWIwX2gh0pz0X34lnH"
-    },
-    {
-      "added_at": "2026-05-08 07:47:15",
-      "album": {
-        "name": "Play Monk",
-        "url": "https://open.spotify.com/album/2ovPvdyMbLZ4XNbtED7S55"
-      },
-      "artists": [
-        {
-          "name": "[Ahmed]",
-          "url": "https://open.spotify.com/artist/4Xpzmgiz0BRu9xYUlWtWWj"
-        }
-      ],
-      "duration_ms": 455509,
-      "name": "Epistrophy",
-      "url": "https://open.spotify.com/track/53EOC0cp5d6g6Z8ZUmc3p5"
-    },
-    {
-      "added_at": "2026-05-08 07:47:46",
-      "album": {
-        "name": "K-Swiss",
-        "url": "https://open.spotify.com/album/0Bqc2CGSmKwRWp1luTNxPk"
-      },
-      "artists": [
-        {
-          "name": "Angels in America",
-          "url": "https://open.spotify.com/artist/3cnJ18nJFHcGBhmAIYnsn9"
-        }
-      ],
-      "duration_ms": 221482,
-      "name": "K-Swiss",
-      "url": "https://open.spotify.com/track/1IrBaG8f4CfbCPO1YTtFcR"
-    },
-    {
-      "added_at": "2026-05-08 07:47:33",
-      "album": {
-        "name": "Draw a door in chalk on a wall and walk through it",
-        "url": "https://open.spotify.com/album/310AynPyjRXLrXI0xhr8GE"
-      },
-      "artists": [
-        {
-          "name": "Cut A Lonely Figure",
-          "url": "https://open.spotify.com/artist/5Sl9msKdyP73mYqozXFUck"
-        }
-      ],
-      "duration_ms": 649906,
-      "name": "Third Mantra",
-      "url": "https://open.spotify.com/track/4USoe0E6jMCtiBac1S754q"
-    },
-    {
-      "added_at": "2026-05-08 07:42:59",
-      "album": {
-        "name": "Dog Plug \u0643\u0644\u0627\u0628 \u0627\u0644\u0628\u0637\u0651\u0627\u0631\u064a\u0651\u0629",
-        "url": "https://open.spotify.com/album/0C2FKPTBMsyIbphUECQLl0"
-      },
-      "artists": [
-        {
-          "name": "Dog Plug \u0643\u0644\u0627\u0628 \u0627\u0644\u0628\u0637\u0651\u0627\u0631\u064a\u0651\u0629",
-          "url": "https://open.spotify.com/artist/3tOZgBlufXADfXpJgHEgfO"
-        }
-      ],
-      "duration_ms": 579709,
-      "name": "Hair Of The Dog",
-      "url": "https://open.spotify.com/track/4hT2lThFBZqgJB2v0c0Hcy"
-    },
-    {
-      "added_at": "2026-05-08 07:42:44",
-      "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/2M91QCP4oa55kALyn2G431"
-      },
-      "artists": [
-        {
-          "name": "Trader",
-          "url": "https://open.spotify.com/artist/1i0Add0rJDkz2TwcYKxUx2"
-        }
-      ],
-      "duration_ms": 199534,
-      "name": "Dragging",
-      "url": "https://open.spotify.com/track/3wC8ElvoI1he2vwBtvhAGW"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

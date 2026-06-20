@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "RHYE en portada.",
+  "description": "Q en portada.",
   "name": "el indie no es un g\u00e9nero ",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 313417,
       "name": "100,000",
       "url": "https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx"
@@ -3191,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Cuttin' Loose",
+        "url": "https://open.spotify.com/album/2anPHrx3xeMUBuP0s5TQO2"
+      },
+      "artists": [
+        {
+          "name": "The Something Specials",
+          "url": "https://open.spotify.com/artist/08AQp4Hb2peUdIgr3ZWfni"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210096,
+      "name": "Cuttin' Loose",
+      "url": "https://open.spotify.com/track/0awgcwoQN4wVh5ORE2GTWQ"
+    },
+    {
+      "album": {
         "name": "Springs Eternal",
         "url": "https://open.spotify.com/album/0uJRNa7jNGJhZLCFDDo44B"
       },
@@ -3532,7 +3550,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 203349,
       "name": "Delete Ya",
       "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
@@ -4064,7 +4082,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 179026,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N"
@@ -4788,7 +4806,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 196388,
       "name": "Fatal",
       "url": "https://open.spotify.com/track/2DBkUL9Uwq8LARm2XpYZXS"
@@ -6071,6 +6089,42 @@
     },
     {
       "album": {
+        "name": "hey there [i have a compulsive complex]",
+        "url": "https://open.spotify.com/album/4hJczqZb7VUIigRIp8utjA"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173570,
+      "name": "hey there [i have a compulsive complex]",
+      "url": "https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS"
+    },
+    {
+      "album": {
+        "name": "Hide a Smile",
+        "url": "https://open.spotify.com/album/0GZga1kVYMouOPb3NgvIMz"
+      },
+      "artists": [
+        {
+          "name": "Alex Crichton",
+          "url": "https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198227,
+      "name": "Hide a Smile",
+      "url": "https://open.spotify.com/track/1p1bfy2sjERluzsTQQhF21"
+    },
+    {
+      "album": {
         "name": "High Road",
         "url": "https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO"
       },
@@ -6302,7 +6356,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 280281,
       "name": "Hot Blooded - Rose City Rework",
       "url": "https://open.spotify.com/track/3OZPGHp1Qo0hJOJCR5Ljnj"
@@ -6592,10 +6646,32 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 184220,
       "name": "I Never See Her",
       "url": "https://open.spotify.com/track/4Mk8CHwAOp9VDoauZ5y7h8"
+    },
+    {
+      "album": {
+        "name": "i never should have left this place,",
+        "url": "https://open.spotify.com/album/4PBGFTgAT0UgrMkHoZ0cy9"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        },
+        {
+          "name": "Miranda Rain",
+          "url": "https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154357,
+      "name": "i never should have left this place,",
+      "url": "https://open.spotify.com/track/393RcUOsW2tqHYADZO3FMY"
     },
     {
       "album": {
@@ -7904,6 +7980,24 @@
       "duration_ms": 175108,
       "name": "Let Me Down",
       "url": "https://open.spotify.com/track/6qcUVmXpxlRQSuoBpSAsk3"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/0HiRotGMOWoUcbdEbe1W7T"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188726,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/0Bw0kB0fDnAS8IKks0S8Qu"
     },
     {
       "album": {
@@ -10299,6 +10393,28 @@
     },
     {
       "album": {
+        "name": "outta time",
+        "url": "https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "A. K. Paul",
+          "url": "https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251173,
+      "name": "outta time",
+      "url": "https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU"
+    },
+    {
+      "album": {
         "name": "Over My Head",
         "url": "https://open.spotify.com/album/5aRHF9PnlvDBv9IOyCPfHV"
       },
@@ -11145,6 +11261,28 @@
     },
     {
       "album": {
+        "name": "rain in the sunset",
+        "url": "https://open.spotify.com/album/6dfHxqfLgCsbOP2ea1zrAn"
+      },
+      "artists": [
+        {
+          "name": "Stevie Daniels",
+          "url": "https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK"
+        },
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176584,
+      "name": "rain in the sunset",
+      "url": "https://open.spotify.com/track/1jXk0WkZ70LqDFJ4MRTtom"
+    },
+    {
+      "album": {
         "name": "Neon Pill",
         "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
       },
@@ -11400,7 +11538,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 209000,
       "name": "Ride It Out",
       "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
@@ -11418,7 +11556,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 272878,
       "name": "Ride Lonesome",
       "url": "https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j"
@@ -12668,7 +12806,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 200853,
       "name": "Source",
       "url": "https://open.spotify.com/track/7lP1syYfoIL44KzSMJHlEf"
@@ -13208,6 +13346,24 @@
       "duration_ms": 182156,
       "name": "Sweet Hallelujah",
       "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
+    },
+    {
+      "album": {
+        "name": "swim",
+        "url": "https://open.spotify.com/album/4h4L56LbVAXREBss215iRB"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371887,
+      "name": "swim",
+      "url": "https://open.spotify.com/track/3TRP1MEDDkUw0YDsi8iQ3F"
     },
     {
       "album": {
@@ -15250,7 +15406,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 262335,
       "name": "Vivid Light",
       "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
@@ -15625,6 +15781,24 @@
     },
     {
       "album": {
+        "name": "Whatever You Wanna",
+        "url": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211486,
+      "name": "Whatever You Wanna",
+      "url": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
+    },
+    {
+      "album": {
         "name": "What's On Your Mind",
         "url": "https://open.spotify.com/album/3Zba9cZ8EP1DBcvjnVNrG6"
       },
@@ -15904,6 +16078,24 @@
       "duration_ms": 165889,
       "name": "Wish on Me",
       "url": "https://open.spotify.com/track/5yOGGUuECd2hsJwKWCBOwG"
+    },
+    {
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/5yVOyzUQcQFGsXkn8IsSI6"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232320,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/5yE7OnSteFeItR1YlmV9WI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: SOFFIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,243 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,289 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 7 | [Bist du noch da](https://open.spotify.com/track/4Sxg5naRGtlmeTE4NLQUzk) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Bist du noch da](https://open.spotify.com/album/2AXhD4rk0JIkt3rYReK6rm) | 3:41 |
 | 8 | [Sanft](https://open.spotify.com/track/1tLxFRRDxtDHnbmoW6Sq5p) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Sanft](https://open.spotify.com/album/5YfsSejkPMLwcLwLeGzyKe) | 3:43 |
 | 9 | [Wie man tanzt](https://open.spotify.com/track/24cEVAkUqDen6ZmYGfwf4T) | [Sarro](https://open.spotify.com/artist/6cFU9LlvHa1exQs5MJg6vB) | [Wie man tanzt](https://open.spotify.com/album/60QgySsUojKs6F7luRS14s) | 2:12 |
-| 10 | [Track 6](https://open.spotify.com/track/5xvyu9K4RFRVg7PVjqlzwN) | [diggidaniel](https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw) | [Neue Hoffnung, oder wie man sie nicht verliert](https://open.spotify.com/album/2MUn2mfBtCLrCVHfetvFIO) | 0:00 |
+| 10 | [NEUE HOFFNUNG](https://open.spotify.com/track/5xvyu9K4RFRVg7PVjqlzwN) | [diggidaniel](https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw) | [Neue Hoffnung, oder wie man sie nicht verliert](https://open.spotify.com/album/2MUn2mfBtCLrCVHfetvFIO) | 2:09 |
 | 11 | [Genauso allein](https://open.spotify.com/track/0bjarKTUb3IrD9yFuB4DKQ) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Genauso allein](https://open.spotify.com/album/6o0HGWZdCSM8K7J1buILoK) | 3:33 |
 | 12 | [Bademeister](https://open.spotify.com/track/0Vj1J0HvrZGpk6GvptnKmj) | [yara](https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C) | [Bademeister](https://open.spotify.com/album/2OkyCn8q3W3VuMOfGJKgZa) | 2:27 |
 | 13 | [Okay](https://open.spotify.com/track/0nV4seYGREUdjoCY2PUd7h) | [Jaq](https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV) | [Okay](https://open.spotify.com/album/2t4eDtFXjI5W9RJMxNopH4) | 3:09 |
 | 14 | [Romeo](https://open.spotify.com/track/2NTqEI0iCeSYvHRElRZBMk) | [Mende](https://open.spotify.com/artist/1XfqP1N38BVNsyLfMD2UTL) | [Romeo](https://open.spotify.com/album/5aXg6CGGSrnWbxCRocFaS7) | 3:08 |
 | 15 | [Magnolien](https://open.spotify.com/track/2nidsluLEAaLCN4BXp3TPp) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Magnolien](https://open.spotify.com/album/6T3scIZpn1hsE0rKsY3pLj) | 3:16 |
 | 16 | [ganz egal](https://open.spotify.com/track/5mYxmx18pW25tP2tySMdf9) | [jaschu](https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8) | [ganz egal EP](https://open.spotify.com/album/64k6ouKeUs8LtxZox04dr6) | 2:37 |
-| 17 | [Track 2](https://open.spotify.com/track/2hqJEsX7PNKKk9P1Z5uMj5) | [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi) | [Eine Wolke, die sich vor die Sonne schiebt](https://open.spotify.com/album/5VYpZwbtDV8lFazEL49DeG) | 0:00 |
+| 17 | [Eine Wolke, die sich vor die Sonne schiebt](https://open.spotify.com/track/2hqJEsX7PNKKk9P1Z5uMj5) | [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi) | [Eine Wolke, die sich vor die Sonne schiebt](https://open.spotify.com/album/5VYpZwbtDV8lFazEL49DeG) | 2:27 |
 | 18 | [habt euch lieb](https://open.spotify.com/track/0kcCoOpxg0uS341DdK4PDp) | [jaydee](https://open.spotify.com/artist/1cNaJ7b5yqUMmJeHKSBK8v), [zuender](https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW) | [habt euch lieb](https://open.spotify.com/album/7dv0hrWJd3nmAT76zshkgE) | 2:31 |
 | 19 | [tiefer fallen](https://open.spotify.com/track/5MXRDnpV7dWy1X0WvUiFBE) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [radio](https://open.spotify.com/album/0Z18Sfw4q1oueZ6O1RAHsr) | 4:09 |
 | 20 | [Halbe Schachtel](https://open.spotify.com/track/1NexEC05MHCDaeKOh00kre) | [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Halbe Schachtel](https://open.spotify.com/album/0T1irXefFwVu1hFGyJjFrS) | 2:40 |

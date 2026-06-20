@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-384 songs - 23 hr 10 min
+385 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Catnip Stun](https://open.spotify.com/track/4bcfDYa8s0gHGMcGsySJne) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [Catnip Stun](https://open.spotify.com/album/3IfmMhNxkyo4dmSXqOOZtK) | 4:39 | 2026-01-22 | 2026-02-19 |
 | [Chameleon](https://open.spotify.com/track/6h5960XVC4rZ0LWZQsO1aX) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Chameleon](https://open.spotify.com/album/2VhnmAWAqFcLJ4ehWm6grI) | 5:05 | 2025-11-17 | 2025-12-06 |
 | [Change](https://open.spotify.com/track/4R2lNQAf735RGb9Q1ujGj5) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Change](https://open.spotify.com/album/3IY95C3MaVS42sm8FXxGYj) | 2:48 | 2026-01-22 | 2026-02-19 |
+| [Chasing Taste](https://open.spotify.com/track/2OnXAQlNqA5ulvDJAdMbNm) | [ANCR TO PAST](https://open.spotify.com/artist/5JAtQYcWXv57H39UEom6ul) | [fibres](https://open.spotify.com/album/4yHAxaNLLxheJ688GXi9ko) | 3:51 | 2026-06-19 |  |
 | [CHERRIES](https://open.spotify.com/track/5ZsI8sZQCuKddaqgCU23O7) | [k0vn](https://open.spotify.com/artist/7B2CuYxTrTolxU6z1exymy) | [CHERRIES](https://open.spotify.com/album/2HUh8kMZwmcnIJOjrreooR) | 3:10 | 2025-11-12 | 2025-12-06 |
 | [Chilly](https://open.spotify.com/track/0fhXATRQObAWuSEUlNY6td) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:38 | 2026-03-21 | 2026-04-15 |
 | [Choke On Shame](https://open.spotify.com/track/3Uj9MWSuSluWsAwvLB9r5H) | [Wildchains](https://open.spotify.com/artist/6LTDVLBOAZYAcrn459uQf8) | [Choke On Shame](https://open.spotify.com/album/1PwPl6Nf3pfmr4gVvVu5SM) | 5:15 | 2026-02-18 | 2026-03-27 |

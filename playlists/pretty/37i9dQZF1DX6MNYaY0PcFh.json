@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: J Wax",
-  "num_followers": 105575,
+  "num_followers": 105591,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-06-18 23:00:46",
       "album": {
-        "name": "90S",
-        "url": "https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        },
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
-        }
-      ],
-      "duration_ms": 196911,
-      "name": "90S",
-      "url": "https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG"
-    },
-    {
-      "added_at": "2026-06-18 23:00:46",
-      "album": {
         "name": "Right Before My Eyes",
         "url": "https://open.spotify.com/album/4pQEJPHRmbnR31a6jL2KJf"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 217706,
       "name": "F\u00f3n P\u00f3ca (feat. Travy)",
       "url": "https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas"
+    },
+    {
+      "added_at": "2026-06-18 23:00:46",
+      "album": {
+        "name": "90S",
+        "url": "https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        },
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        }
+      ],
+      "duration_ms": 196911,
+      "name": "90S",
+      "url": "https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-06-18 23:00:46",
       "album": {
-        "name": "Rampage",
-        "url": "https://open.spotify.com/album/4UPganXnN0vfGwvuHHrY82"
-      },
-      "artists": [
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        },
-        {
-          "name": "ROKAR",
-          "url": "https://open.spotify.com/artist/1LLLQlvDT5CZamubBAYMkC"
-        }
-      ],
-      "duration_ms": 259910,
-      "name": "Rampage",
-      "url": "https://open.spotify.com/track/7hOUH2urY7ZKFvVvmeSQPl"
-    },
-    {
-      "added_at": "2026-06-18 23:00:46",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/0I7SWNmu6IRJ58aekoxlbt"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 199635,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/21tvog0dPrmzmIqRTKFYG9"
+    },
+    {
+      "added_at": "2026-06-18 23:00:46",
+      "album": {
+        "name": "Rampage",
+        "url": "https://open.spotify.com/album/4UPganXnN0vfGwvuHHrY82"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "ROKAR",
+          "url": "https://open.spotify.com/artist/1LLLQlvDT5CZamubBAYMkC"
+        }
+      ],
+      "duration_ms": 259910,
+      "name": "Rampage",
+      "url": "https://open.spotify.com/track/7hOUH2urY7ZKFvVvmeSQPl"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-06-18 23:00:46",
       "album": {
-        "name": "Swings",
-        "url": "https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk"
-      },
-      "artists": [
-        {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
-        }
-      ],
-      "duration_ms": 141535,
-      "name": "Swings",
-      "url": "https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY"
-    },
-    {
-      "added_at": "2026-06-18 23:00:46",
-      "album": {
         "name": "Draw a Line",
         "url": "https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 205162,
       "name": "Draw a Line",
       "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
+    },
+    {
+      "added_at": "2026-06-18 23:00:46",
+      "album": {
+        "name": "Swings",
+        "url": "https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "duration_ms": 141535,
+      "name": "Swings",
+      "url": "https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-06-18 23:00:46",
       "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/09slsqibNej7G9AHHekZ92"
+      },
+      "artists": [
+        {
+          "name": "Lockerz",
+          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
+        }
+      ],
+      "duration_ms": 204090,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/7sYlJeuvvQFKwC9g2M7k9u"
+    },
+    {
+      "added_at": "2026-06-18 23:00:46",
+      "album": {
         "name": "Welcome 2 LDN (feat. Flowdan)",
         "url": "https://open.spotify.com/album/08s53yPAoXtWg29VLYK8Ju"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 172548,
       "name": "Welcome 2 LDN (feat. Flowdan)",
       "url": "https://open.spotify.com/track/74yRHYEYFueRYYDriUFNIH"
-    },
-    {
-      "added_at": "2026-06-18 23:00:46",
-      "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/09slsqibNej7G9AHHekZ92"
-      },
-      "artists": [
-        {
-          "name": "Lockerz",
-          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
-        }
-      ],
-      "duration_ms": 204090,
-      "name": "Take Control",
-      "url": "https://open.spotify.com/track/7sYlJeuvvQFKwC9g2M7k9u"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2026-06-18 23:00:46",
       "album": {
-        "name": "Raw Flava",
-        "url": "https://open.spotify.com/album/3u3xY47nRe198VbsQWspBx"
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/3tymonwB9JiWJPxypF6LAb"
       },
       "artists": [
         {
-          "name": "J Wax",
-          "url": "https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ"
-        },
-        {
-          "name": "Seah",
-          "url": "https://open.spotify.com/artist/1TpMVu71X4YNKNi7E1HBNO"
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
         }
       ],
-      "duration_ms": 161890,
-      "name": "Raw Flava",
-      "url": "https://open.spotify.com/track/20PUfdaXDjgM8yLpag0SKL"
+      "duration_ms": 215538,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4rlEqGtM0PXoYjQKL2vPLB"
     }
   ],
   "unique_name": "New UK Garage",

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang dangdut ngetop Tanah Air\. Cover: Cici Faramida
+> Dendang dangdut ngetop Tanah Air\. Cover: Lesti
 
-303 songs - 23 hr 58 min
+304 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Ku Rela Kau Pilih Dia](https://open.spotify.com/track/1TaH2ozKqo0Jy40NDrjfMD) | [Hari Putra](https://open.spotify.com/artist/7rghk7Vdh0DpjZOpp9zSwN) | [Ku Rela Kau Pilih Dia](https://open.spotify.com/album/55aZkSCmAlpyHZ586K7sNx) | 6:09 | 2024-04-25 |  |
 | [Kuda Betina](https://open.spotify.com/track/7nGcHOBsZf7FQSPOTr2lie) | [Mansyur S](https://open.spotify.com/artist/4uq6QLz8nA9LAj01MDk58W) | [Kuda Betina](https://open.spotify.com/album/57I4jrhMIfAhZCzr7Df4Mx) | 5:08 | 2025-09-18 | 2025-12-19 |
 | [Kulepas Dengan ikhlas](https://open.spotify.com/track/0MMgF49ViaGpAonpNRbavI) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Kulepas Dengan Ikhlas](https://open.spotify.com/album/26nVfbBouNRMtdDOCn3Zq0) | 6:13 | 2021-08-23 |  |
+| [Kura Kura Dalam Perahu](https://open.spotify.com/track/3zvYKLiwgDN6nXJ811WdiN) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Kura Kura Dalam Perahu](https://open.spotify.com/album/3t9sLXkSajMshPSwgbBqDg) | 5:24 | 2026-06-19 |  |
 | [Kusuma Nala](https://open.spotify.com/track/0zmQTTdb4du9W5AYltC1FW) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kusuma Nala](https://open.spotify.com/album/3Ya3nTreVzuhYFowsZRyrB) | 4:39 | 2025-11-27 |  |
 | [Lagi Syantik](https://open.spotify.com/track/2t65pJQA9BpPXehQLkOydo) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Lagi Syantik](https://open.spotify.com/album/0IQVxZ7YaLlnnoy4v7I61t) | 3:49 | 2021-08-23 | 2024-04-19 |
 | [Lagi Syantik](https://open.spotify.com/track/2whJ6VW0y0EGhp1XYElDCp) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Lagi Syantik](https://open.spotify.com/album/5DIDVNHJvI0dc2HxgjxBzF) | 3:49 | 2021-08-23 | 2024-09-07 |

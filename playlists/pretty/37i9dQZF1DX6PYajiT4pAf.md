@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > DELLAFUENTE, SAIKO, Rvfv y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,025 likes - 69 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,556 likes - 69 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 5 | [Red Bull Espiral \#05](https://open.spotify.com/track/1nuVImTjVoRk7BBg7p2neV) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5) | [Red Bull Espiral \#05](https://open.spotify.com/album/5jjqKKckcNzqs8u8fCVKVB) | 3:28 |
 | 6 | [Caramel](https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Caramel](https://open.spotify.com/album/2zoELihgdzNwMCftYhosAI) | 2:14 |
 | 7 | [amoureux](https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [amoureux](https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh) | 2:13 |
-| 8 | [TOTY](https://open.spotify.com/track/5b9ot4BXL2fwKk3lQK6gZY) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [TOTY](https://open.spotify.com/album/1kxnHhwdshqIP9U7CfbKxj) | 2:49 |
+| 8 | [Nadie Never](https://open.spotify.com/track/6uEHbdVbhk9aMOACbAI5Kd) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [STONE BOY EUROPA](https://open.spotify.com/album/1aqyDDeDU5PPbQ6xAMd40l) | 2:17 |
 | 9 | [GATAS EN CELO](https://open.spotify.com/track/68Agzx2Ucbwha2xCGnxrAm) | [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [GATAS EN CELO](https://open.spotify.com/album/43jhVot6xCk84NLmEHTIWl) | 2:25 |
 | 10 | [Pelé](https://open.spotify.com/track/6bl50jhTpQRghTObaFQ5NN) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Pelé](https://open.spotify.com/album/0Lc9u4gwrhZSWM5bq2igrW) | 2:11 |
 | 11 | [PA QUE BAILE](https://open.spotify.com/track/3WrqWxl9Le6CsbWeu97WgE) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [PA QUE BAILE](https://open.spotify.com/album/0fTpOkBa9jlsQmAw7GjfWx) | 2:52 |
 | 12 | [NEXO 11\. Salta](https://open.spotify.com/track/4DwbSmGIVBJ0zCCJEngWzk) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [NEXO 11\. Salta](https://open.spotify.com/album/4KrNRDAXEudptBBWH0kl1V) | 2:30 |
 | 13 | [Carta Blanca](https://open.spotify.com/track/67RcaArJlHxXsvSfbsgl0b) | [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT) | [Carta Blanca](https://open.spotify.com/album/3eKyHfolsaVNEqsQv6hv2X) | 3:07 |
 | 14 | [Una casa en el Teide](https://open.spotify.com/track/72aG1rLcFRT8IPpkp2Hxpd) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Una casa en el Teide](https://open.spotify.com/album/604M2cC6V6Idy4Lnt4b63I) | 2:54 |
-| 15 | [ponte perrita](https://open.spotify.com/track/21Xsyt0igszpLj2I1sv435) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [ponte perrita](https://open.spotify.com/album/3BNPWO4wMBEtEXciP2rcp9) | 1:44 |
+| 15 | [poonte perritaa](https://open.spotify.com/track/21Xsyt0igszpLj2I1sv435) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [poonte perritaa](https://open.spotify.com/album/3BNPWO4wMBEtEXciP2rcp9) | 1:44 |
 | 16 | [Llorando Y Perreando](https://open.spotify.com/track/4dhmUBYHMPUxw5tHF4QG5C) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Llorando Y Perreando](https://open.spotify.com/album/2rATR8KKHLkJkFkelENVx5) | 3:26 |
 | 17 | [Diferente](https://open.spotify.com/track/2FBD0VDoKQlNgZhEljeirG) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Moha The B](https://open.spotify.com/artist/4E44IDMuWVpcKurInIgtco) | [Diferente](https://open.spotify.com/album/1b1RabvnCN8iAizsTz3NOn) | 3:18 |
 | 18 | [Ganas](https://open.spotify.com/track/5GDQytqIynUbhn3a045hrq) | [Nyno Vargas](https://open.spotify.com/artist/2dkbKcHXhN7ooFBdqAV76G) | [Ganas](https://open.spotify.com/album/0QtuwDio2kMZeXrDSIC9jb) | 2:22 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 68 | [Azul Nomeolvides](https://open.spotify.com/track/6hcceJihs18kAiA3PIag44) | [Nita](https://open.spotify.com/artist/3HOdV3YkWm5bpM4PHqukMR) | [Azul Nomeolvides](https://open.spotify.com/album/4eMGKb7ts8WWlIaKaOEnNY) | 2:44 |
 | 69 | [Momentos](https://open.spotify.com/track/2RNLqUB20UQgbfURhcgXlS) | [Anni B Sweet](https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw), [Pedro de Dios](https://open.spotify.com/artist/52TgpYE2nVGzH2uNpAllxt), [Popi González](https://open.spotify.com/artist/7qNLNOQxhUbNH0UI7PinLo), [Antonio Arias](https://open.spotify.com/artist/0kIv007LrwflJrXfMq2jEI), [Zeke Olmo](https://open.spotify.com/artist/1T91dtHVNwZSH3p5nPiBKH) | [Momentos](https://open.spotify.com/album/1BnR9S6ZQxdPEp5HscGTyM) | 4:02 |
 
-Snapshot ID: `AAAAAJMNbpagnV6lQRTVXHrfZVP3I9QI`
+Snapshot ID: `AAAAAKbgYdHfQgLcj0YXQ3963JxUJzat`

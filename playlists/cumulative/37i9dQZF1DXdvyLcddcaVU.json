@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 243880,
       "name": "(When You Gonna) Give It Up to Me - Radio Version",
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 182000,
       "name": "AVEC MOI",
       "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -3502,7 +3502,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 325970,
       "name": "Call It What You Like",
       "url": "https://open.spotify.com/track/0o92pLHQhjyP2FdieF7xqw"
@@ -4761,6 +4761,28 @@
     },
     {
       "album": {
+        "name": "Comme un Sheguey",
+        "url": "https://open.spotify.com/album/4YEshd0KpEtUTd8aC1EeCG"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157570,
+      "name": "Comme un Sheguey",
+      "url": "https://open.spotify.com/track/4NLwxB1oIGO4W3zd3BoUi0"
+    },
+    {
+      "album": {
         "name": "Comment Ne Pas Te Louer ( Remix )",
         "url": "https://open.spotify.com/album/7nY0IWieUolAE0sU1FAGNJ"
       },
@@ -5060,7 +5082,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 169653,
       "name": "Cow-girl moderne",
       "url": "https://open.spotify.com/track/6YhzM0nbo6xOPzpkoEdq6A"
@@ -5336,7 +5358,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 287055,
       "name": "DANCE...",
       "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
@@ -6272,7 +6294,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 218721,
       "name": "DU RAP HARDCORE",
       "url": "https://open.spotify.com/track/2Gw05KCSPmBdSoZyyd87Cq"
@@ -7304,7 +7326,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 256106,
       "name": "Flemme",
       "url": "https://open.spotify.com/track/2TL8q8EO60b9lWeozfqYnG"
@@ -7340,7 +7362,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 138005,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/29rkopcjI0XyhncrHOdWm0"
@@ -7982,7 +8004,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 125179,
       "name": "GMK",
       "url": "https://open.spotify.com/track/5yVEQgC0GuEvvEcv9D8NpG"
@@ -8142,6 +8164,32 @@
       "duration_ms": 205186,
       "name": "Guantanamera (She's Hot)",
       "url": "https://open.spotify.com/track/7CijDWxEEbKq76O5rpyCEN"
+    },
+    {
+      "album": {
+        "name": "Gut Genug (mit Blumengarten & Shirin David)",
+        "url": "https://open.spotify.com/album/2j3dLULErYg2IgQeBqEX1w"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        },
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Gut Genug (mit Blumengarten & Shirin David)",
+      "url": "https://open.spotify.com/track/7iNLydOMjLLb7BiwkdoPDU"
     },
     {
       "album": {
@@ -9850,7 +9898,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -11017,6 +11065,24 @@
     },
     {
       "album": {
+        "name": "Le Petit P\u00eacheur",
+        "url": "https://open.spotify.com/album/4nLOkWbNwkhHSLomZ9ThSX"
+      },
+      "artists": [
+        {
+          "name": "Manon Lisa",
+          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Le Petit P\u00eacheur",
+      "url": "https://open.spotify.com/track/3iIakZIJaIpxxpQuDN7ETx"
+    },
+    {
+      "album": {
         "name": "1983",
         "url": "https://open.spotify.com/album/2vZVdy9Me7olnm2GEbhPYv"
       },
@@ -11736,6 +11802,28 @@
       "duration_ms": 124110,
       "name": "LUNA BALA - Slowed",
       "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
+    },
+    {
+      "album": {
+        "name": "LUNA&MONICA",
+        "url": "https://open.spotify.com/album/6BVWI97mDrohAvULi5DXN1"
+      },
+      "artists": [
+        {
+          "name": "AVIE",
+          "url": "https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i"
+        },
+        {
+          "name": "Delil",
+          "url": "https://open.spotify.com/artist/1qE4CSDyGGLsSBOtlWoYqX"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159831,
+      "name": "LUNA&MONICA",
+      "url": "https://open.spotify.com/track/2YkoIehrZRoCCRimB3Ru6z"
     },
     {
       "album": {
@@ -14453,6 +14541,28 @@
     },
     {
       "album": {
+        "name": "NO EX NO STRESS (feat. Tiitof)",
+        "url": "https://open.spotify.com/album/7f7XKdVoTuxT8od0CDVSs4"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        },
+        {
+          "name": "Tiitof",
+          "url": "https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129411,
+      "name": "NO EX NO STRESS (feat. Tiitof)",
+      "url": "https://open.spotify.com/track/5ang7xKx9vHiPlByHGuyR1"
+    },
+    {
+      "album": {
         "name": "No Face",
         "url": "https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h"
       },
@@ -14768,7 +14878,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 177743,
       "name": "NOUS#2",
       "url": "https://open.spotify.com/track/0TnrSFmoT09nbrh0lK0G7e"
@@ -14980,7 +15090,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 164986,
       "name": "OG",
       "url": "https://open.spotify.com/track/4MhWzQysa4cZ2enHOyzs87"
@@ -18960,7 +19070,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 168114,
       "name": "SOLEIL",
       "url": "https://open.spotify.com/track/6AoOzPhqx5LbtYfKBlBrEG"
@@ -19537,6 +19647,24 @@
     },
     {
       "album": {
+        "name": "Sarah B.",
+        "url": "https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153061,
+      "name": "S\u00e9minaire",
+      "url": "https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd"
+    },
+    {
+      "album": {
         "name": "T'es en love",
         "url": "https://open.spotify.com/album/5cU2ZFG1LCu0HWLxc1u5JO"
       },
@@ -19762,7 +19890,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 150476,
       "name": "Tch\u00e9b\u00e9 2x",
       "url": "https://open.spotify.com/track/7l3b0X95GdYfRuW8Kq5ixC"
@@ -20348,7 +20476,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 278640,
       "name": "Tomb\u00e9 pour elle (feat. Amel Bent)",
       "url": "https://open.spotify.com/track/5DCxMQMmW3UFZUj1QtUvVc"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2Xvi7DdwYy.md) - [plain]
 
 > Demi Lovato, host of 4D with Demi, shares podcasts helping to celebrate important voices.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,383 likes - 4 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,381 likes - 4 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

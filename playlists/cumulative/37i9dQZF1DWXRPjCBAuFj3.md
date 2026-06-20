@@ -4,7 +4,7 @@
 
 > E lei traballa dentro all'auto e l'auto è tutta scassata
 
-1,049 songs - 2 day 5 hr 58 min
+1,051 songs - 2 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Chocolate \(feat\. Young Thug and Gunna\)](https://open.spotify.com/track/6PvHZ5vVjUhngh0t3pIsPc) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 3:28 | 2022-10-07 | 2022-10-29 |
 | [Chop \(Nouvelle École\)](https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Chop \(Nouvelle École\)](https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U) | 3:15 | 2022-07-15 | 2022-11-17 |
 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 | 2022-05-10 | 2023-08-19 |
+| [CHROME HEARTS \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/6bOwCTgqiUIEuGNdwTDpi5) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [WAR](https://open.spotify.com/album/3mFxzu5rkiqHh8P6xqJc7B) | 2:44 | 2026-06-19 |  |
 | [CHUCK E BLAIR](https://open.spotify.com/track/0UAApKJ0kOv4zXamsE8E0w) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [PACE E GUERRA](https://open.spotify.com/album/5pABP7mOe6LSish3LOGgA3) | 2:07 | 2026-03-12 | 2026-04-25 |
 | [City Lights](https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [City Lights](https://open.spotify.com/album/1lfQlXzzgUbMBNQmyrDBhp) | 3:56 | 2024-02-08 | 2024-03-16 |
 | [Ciò Che Fa Per Me](https://open.spotify.com/track/5ZaWtTA92lUt0MtnA3I6jZ) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Back Home](https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We) | 2:46 | 2025-09-05 | 2026-01-15 |
@@ -736,6 +737,7 @@
 | [Phénoménal](https://open.spotify.com/track/4VayCkXPEDlKeAo4DfPk89) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Phénoménal](https://open.spotify.com/album/3p24DyUwj5gN245PmCHhnT) | 3:24 | 2025-04-17 | 2025-07-04 |
 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 | 2022-05-22 | 2022-08-06 |
 | [PICCOLO](https://open.spotify.com/track/5xab2acNjhKo4q0T9KvwfG) | [MEC DELARUE](https://open.spotify.com/artist/4cQcT80mbYJ3KPe5atyfY6) | [PICCOLO](https://open.spotify.com/album/5F2Cu1tNM5sHiIOj54FmMb) | 2:59 | 2023-09-28 | 2023-10-07 |
+| [PIENXA EN MI](https://open.spotify.com/track/4MR5DmTbTZUA9asyyUmJgP) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [EL MOCO VERDE](https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH) | 2:53 | 2026-06-19 |  |
 | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 | 2023-05-11 | 2023-07-05 |
 | [PIU' SU](https://open.spotify.com/track/2cM6NVBphorrGhs5BqLaoD) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [COME VIVO](https://open.spotify.com/album/6HeBSFceg9xJPzVJcS4Q9x) | 2:10 | 2026-01-15 | 2026-02-20 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-03-16 | 2023-12-13 |

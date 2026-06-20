@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Hindi hai, Indie hai! Cover- Dhruv Visvanath\n",
+  "description": "Hindi hai, Indie hai! Cover- AtharvaMusic\n",
   "name": "hIndies",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 269160,
       "name": "3am Thoughts",
       "url": "https://open.spotify.com/track/347wKqohKOnydV7bsloEQf"
@@ -2328,6 +2328,28 @@
       "duration_ms": 235964,
       "name": "Intezaar",
       "url": "https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r"
+    },
+    {
+      "album": {
+        "name": "Isharey",
+        "url": "https://open.spotify.com/album/2xvDzxgUsM6IPnAfR9G16I"
+      },
+      "artists": [
+        {
+          "name": "AtharvaMusic",
+          "url": "https://open.spotify.com/artist/689wgdJ8FExzGjaiehjfTS"
+        },
+        {
+          "name": "Shubham J",
+          "url": "https://open.spotify.com/artist/6jlSVPIRWryMStqD58e63r"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152232,
+      "name": "Isharey",
+      "url": "https://open.spotify.com/track/7CLYyEz0QhDevkWyJ33MhW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: Brandão85
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,083 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,093 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 43 | [Ciclo](https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Ciclo](https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK) | 1:55 |
 | 44 | [garota gostosa da po\#$@](https://open.spotify.com/track/1vKBhJ5wQhwnPQDr41wy09) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [DKmixx](https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX), [CASA 11](https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy), [prod by bila](https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2) | [F.A.Q\. LUV](https://open.spotify.com/album/63jNMv0PaZWEPzRcVhzdY5) | 2:25 |
 | 45 | [Ruas Frias](https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Ruas Frias](https://open.spotify.com/album/12UMQAWVys24LITebtbIdY) | 3:33 |
-| 46 | [MODA 2](https://open.spotify.com/track/66zJjDbdSX8EGyDLtKcCZw) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [MODA 2](https://open.spotify.com/album/0ABSk1qJrZkcUXcusEEDwK) | 1:36 |
+| 46 | [placo no pulso](https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf) | [Menó Felps](https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP), [Caio Shock](https://open.spotify.com/artist/2izEQyLWlnMyweDkHfNrwp) | [placo no pulso](https://open.spotify.com/album/13AXMnEcwvaKf37hrMgb2X) | 2:56 |
 | 47 | [Spliff](https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN), [Vertigo](https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j) | [Spliff](https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C) | 2:17 |
-| 48 | [placo no pulso](https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf) | [Menó Felps](https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP), [Caio Shock](https://open.spotify.com/artist/2izEQyLWlnMyweDkHfNrwp) | [placo no pulso](https://open.spotify.com/album/13AXMnEcwvaKf37hrMgb2X) | 2:56 |
+| 48 | [MODA 2](https://open.spotify.com/track/66zJjDbdSX8EGyDLtKcCZw) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [MODA 2](https://open.spotify.com/album/0ABSk1qJrZkcUXcusEEDwK) | 1:36 |
 | 49 | [Grandeza](https://open.spotify.com/track/5laBIDKd6mfQJQGdZ6dhFa) | [Suiky](https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6), [Dactes](https://open.spotify.com/artist/2zYKxqey1SNN4lFLjMw0FS), [Celo Dut](https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV), [Young Piva](https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH) | [Lealdade Primeiro](https://open.spotify.com/album/5ArkkDvIggAFS3Lc2JCcM0) | 3:18 |
 | 50 | [ESTRATÉGIA](https://open.spotify.com/track/6t6aNasqHYxgPjBj9XkMKD) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Da Ponte Pra Lá O Futuro Das Ruas](https://open.spotify.com/album/4WJUEes5B3xjTKUmr28BxP) | 2:59 |
 
-Snapshot ID: `AAAAAIeAH5FG5kFTwz1xndNigN96r5ae`
+Snapshot ID: `AAAAAPTRK9LhRhWiK8XATxV+BkfvHM1U`

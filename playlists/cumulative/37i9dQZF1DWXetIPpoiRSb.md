@@ -4,7 +4,7 @@
 
 > Pop doesn't wait for anyone 🔂 cover: MNEK
 
-2,307 songs - 4 day 19 hr 16 min
+2,308 songs - 4 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -960,6 +960,7 @@
 | [I Don't Go Out](https://open.spotify.com/track/1MyaKBtXxY6fVXKpGnfpZh) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [I Don't Go Out](https://open.spotify.com/album/06IA3CmlGc7CO9MWkPG0Ib) | 2:38 | 2025-08-14 | 2025-12-12 |
 | [I Don't Speak French](https://open.spotify.com/track/42LMd0m0zj6DPaKFramUMS) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [A Little Louder, Please \(Deluxe\)](https://open.spotify.com/album/03wOikJOtHMA55JRvBsx0g) | 2:58 | 2025-10-23 | 2026-02-27 |
 | [I DON'T WANNA FISH](https://open.spotify.com/track/1uczFpoWLv0Xsh33V4DxSf) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [I DON'T WANNA FISH](https://open.spotify.com/album/1MokIHVCmfWzWzYkFfzCIg) | 2:38 | 2025-05-15 | 2025-07-12 |
+| [I Don't Wanna Hurt You](https://open.spotify.com/track/6untI22mqrOtoK6EYkm1yY) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [I Don't Wanna Hurt You](https://open.spotify.com/album/6WHYJdxXL7sK9NDBLxOUMV) | 3:05 | 2026-06-19 |  |
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/6cojDFKaio7R1mpGrjvr0C) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/album/5xTqRRAUJGDAQmGN8QGg29) | 3:15 | 2021-09-11 | 2022-01-11 |
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 3:15 | 2021-09-10 | 2021-09-11 |
 | [i dream of you and i](https://open.spotify.com/track/5Ee67DVwPmJs6fzA0yc7P3) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [fall in love with the dj \(deluxe\)](https://open.spotify.com/album/1KgxaU2u9eZoJ6TZO11Evo) | 3:35 | 2026-03-06 | 2026-05-22 |

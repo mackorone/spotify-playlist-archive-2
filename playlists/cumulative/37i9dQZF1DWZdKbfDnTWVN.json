@@ -6161,6 +6161,28 @@
     },
     {
       "album": {
+        "name": "MAFRANKOOO",
+        "url": "https://open.spotify.com/album/3o0Fzphu8K4Tk2JqNQ0c0M"
+      },
+      "artists": [
+        {
+          "name": "4Mr Frank White",
+          "url": "https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6"
+        },
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192537,
+      "name": "Mwachie",
+      "url": "https://open.spotify.com/track/7gf8MywNXvFGRPeloXPUgY"
+    },
+    {
+      "album": {
         "name": "EMOTIONAL GANGSTER",
         "url": "https://open.spotify.com/album/5bOgDyDjL2Iijyr36IRYMd"
       },
@@ -6918,6 +6940,36 @@
       "duration_ms": 198531,
       "name": "Nyo",
       "url": "https://open.spotify.com/track/55xiKBMDGv7Bs3X1lF8rAj"
+    },
+    {
+      "album": {
+        "name": "Shengspeare",
+        "url": "https://open.spotify.com/album/3IgjIy4eLYkYQfB73q63NT"
+      },
+      "artists": [
+        {
+          "name": "GTB Emzee",
+          "url": "https://open.spotify.com/artist/75pIMAgNt4bf8OWBW8eImv"
+        },
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        },
+        {
+          "name": "Lecco",
+          "url": "https://open.spotify.com/artist/7zLXHKSY0PTkpjE0KKQDy7"
+        },
+        {
+          "name": "AUGUST IV",
+          "url": "https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174193,
+      "name": "O.P.W",
+      "url": "https://open.spotify.com/track/5NnjyoTQqukaz2cFWlUbxQ"
     },
     {
       "album": {
@@ -7910,7 +7962,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 223014,
       "name": "Run Nairobi",
       "url": "https://open.spotify.com/track/6gOhSNtadzamlSselRjPqD"
@@ -10488,7 +10540,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 201064,
       "name": "Weyuat",
       "url": "https://open.spotify.com/track/0lQrV1lpPriQmwdwxPcQkg"

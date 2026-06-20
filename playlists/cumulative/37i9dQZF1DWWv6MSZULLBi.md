@@ -2,9 +2,9 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: The Army, The Navy
+> A laid\-back trip in the folk scene\. Cover: Allison Russell
 
-1,668 songs - 4 day 4 hr 19 min
+1,672 songs - 4 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Aaliyah](https://open.spotify.com/track/4yH2qoFWpypuS8RE4yubMa) | [The Bankes Brothers](https://open.spotify.com/artist/3O4NBsokz0M9tv0vGzpv4o) | [Aaliyah](https://open.spotify.com/album/6EHIfJvbNSzyWmmYay5zPN) | 2:54 | 2026-06-12 |  |
 | [Abilene](https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Abilene](https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw) | 4:16 | 2025-06-20 | 2025-08-29 |
 | [Abyss](https://open.spotify.com/track/1HDl1oOVvhqf5VU6qwVGaI) | [Wintersleep](https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE) | [Wishing Moon](https://open.spotify.com/album/2AdUlZJGxNEI6HJpsspGVl) | 4:29 | 2026-03-27 |  |
+| [Accidental Tattoo](https://open.spotify.com/track/0JxUqyj3Zum5eT9fY7MJjd) | [case/lang/veirs](https://open.spotify.com/artist/63I02CqRt2xKO0o5QvmHs5), [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586), [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Accidental Tattoo](https://open.spotify.com/album/3OwghTltlARrWaoSIhnQCM) | 3:15 | 2026-06-19 |  |
 | [Aches and Breaks](https://open.spotify.com/track/6GkgsEHMp9nWybnGkPTvnw) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Aches and Breaks](https://open.spotify.com/album/79HHbHJW8emSzzDufMmjaA) | 2:09 | 2025-07-18 | 2025-09-05 |
 | [Acid Washed](https://open.spotify.com/track/0bla0kPTlY0r1M3tOY6BfS) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Acid Washed](https://open.spotify.com/album/7ByICVrVB3zYNVoSfGbe7s) | 2:07 | 2026-04-17 |  |
 | [Acoustic Midwest](https://open.spotify.com/track/1cCedPXsGjIpxNlktIs9Zp) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [Midwest](https://open.spotify.com/album/2VBZSu0oiE6ggq0IoBRFbf) | 4:22 | 2025-02-07 | 2025-06-21 |
@@ -172,6 +173,7 @@
 | [Black & Thunder](https://open.spotify.com/track/2oJDtsC8StI3UIX1zEGiAr) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 5:01 | 2023-09-01 | 2023-11-18 |
 | [Black & Thunder](https://open.spotify.com/track/67o1YjulbnuP5zSAuCKuFN) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Black & Thunder](https://open.spotify.com/album/5KyfBZXbi33Sl7Zn426t8L) | 5:01 | 2023-06-30 | 2023-09-05 |
 | [Black Bird \- A COLORS SHOW](https://open.spotify.com/track/00SYX4AtIHCpSXopJUj5pP) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Black Bird \- A COLORS SHOW](https://open.spotify.com/album/3onGnASoMyRBbCSWp4H5AR) | 2:53 | 2024-06-07 | 2024-07-06 |
+| [Black Lavender \(ft\. Brittney Spencer\)](https://open.spotify.com/track/3AXNE72mnKIkaT3kigz7q9) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Black Lavender \(ft\. Brittney Spencer\)](https://open.spotify.com/album/3Z7VohZSNBdMa3qk67PQ0a) | 3:01 | 2026-06-19 |  |
 | [Black Lung](https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Sunflowers and Leather](https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59) | 3:30 | 2025-09-04 | 2025-10-25 |
 | [Black Monday](https://open.spotify.com/track/3C1rrayyLIC5Lda6Td50S8) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Black Monday](https://open.spotify.com/album/6OuwOOydUWhPmlz1PiL2zz) | 3:19 | 2024-07-12 | 2024-08-17 |
 | [Black Water \- Cinematic Version](https://open.spotify.com/track/3pMKzFAcMUDb74NbHitSFr) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Black Water \(Cinematic Version\)](https://open.spotify.com/album/3JLqLjiwfQfK2rUehzH5Dj) | 3:37 | 2025-10-03 | 2026-02-21 |
@@ -373,6 +375,7 @@
 | [Don't Mind \- Acoustic](https://open.spotify.com/track/4TBuKdjC1ii6PnjWul0Zbk) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0), [jed and the valentine](https://open.spotify.com/artist/7H4OVhyKr2lE5XWyLJa6Gs) | [Don't Mind \(Acoustic\)](https://open.spotify.com/album/4rXkly88k12Epggce9zAnz) | 4:14 | 2025-07-24 | 2025-09-19 |
 | [don't think twice, it's all right](https://open.spotify.com/track/25vZnGdv7idDqLEK0gghVa) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [stolen serenades](https://open.spotify.com/album/4VQd4EGNgistcqwBcx7yTo) | 4:45 | 2025-02-21 | 2025-07-05 |
 | [Don't Wake Me Up \[Feat\. Jesse Welles\]](https://open.spotify.com/track/28Lt8UhUhJLgGsJQpDEJDE) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Don't Wake Me Up \[Feat\. Jesse Welles\]](https://open.spotify.com/album/0FU6mSNsf8fDlQGQhwIg2M) | 4:13 | 2025-07-18 | 2025-09-12 |
+| [Don't Wanna Talk](https://open.spotify.com/track/2wHN2KgmzDPOszIJ8QMqHO) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Don't Wanna Talk](https://open.spotify.com/album/414F4S6uHCVsRZCJuBgY95) | 2:49 | 2026-06-19 |  |
 | [Don’t Let ‘Em \(Get Inside of Your Head\)](https://open.spotify.com/track/5Ji2fMtataaupfgg3SlLdS) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Don’t Let ‘Em \(Get Inside of Your Head\)](https://open.spotify.com/album/6t5AGNTVsSIsAGWhichoba) | 3:23 | 2025-10-24 | 2026-03-28 |
 | [Don’t Listen to Me](https://open.spotify.com/track/3p4o3npb3XvHNtdNNfXdYO) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [Don't Listen to Me](https://open.spotify.com/album/06dXUUq97AhxSoKp5x5rgt) | 3:51 | 2023-04-28 | 2023-06-03 |
 | [Doomed](https://open.spotify.com/track/1eSADzvm7DFVwRUOXpAmdf) | [Avery Laird](https://open.spotify.com/artist/3kwAG9BYmYer35EEMZHadZ) | [Doomed](https://open.spotify.com/album/29RCGtgIZKezj1TQuG60eq) | 5:38 | 2026-06-12 |  |
@@ -1333,6 +1336,7 @@
 | [Still Up Late](https://open.spotify.com/track/6UKwfhGhfYwHYRixMuHobY) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Still Up Late](https://open.spotify.com/album/00OJ79Opv0VIdznPhueG6R) | 2:51 | 2022-07-01 | 2022-08-06 |
 | [Stir the Ashes](https://open.spotify.com/track/3mdchH0HaDSPa3bK6DUlsu) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu) | [Stir the Ashes](https://open.spotify.com/album/23gdrtXeUIHbVcffDGYDD7) | 2:52 | 2022-06-10 | 2022-07-23 |
 | [Stolen Lands](https://open.spotify.com/track/3612vDRgEpnvWNy9DqSny1) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Beyond the Reservoir](https://open.spotify.com/album/3jA5Mx5hdVzDaY7dJbfC3W) | 6:10 | 2022-10-14 | 2023-02-04 |
+| [stolen moments](https://open.spotify.com/track/5HTWjQvFk08xEbi4XIgkGC) | [Eric Kane](https://open.spotify.com/artist/1c0It57ov3NYgwdU1trh2Y) | [stolen moments](https://open.spotify.com/album/0PY2oBUfwvhTLmdXPbKb9E) | 3:22 | 2026-06-19 |  |
 | [Stolen Valor](https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8), [The Bedroomer](https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB) | [Stolen Valor / Leash](https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0) | 2:33 | 2026-03-20 |  |
 | [Stone of June](https://open.spotify.com/track/3s2uRraehu5aAej8WZi9zo) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Stone of June](https://open.spotify.com/album/1WCFO7Blwa9axLdFz2fLGe) | 3:49 | 2024-06-07 | 2024-11-23 |
 | [Stop A Heart](https://open.spotify.com/track/5WPMwhD9u8THuItYQFhggn) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Stop A Heart](https://open.spotify.com/album/5Q5MxnYdlBCOhJWstXFyGJ) | 2:53 | 2022-05-13 | 2022-06-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468 likes - 65 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 469 likes - 65 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 53 | [Embarque Nesse Trem](https://open.spotify.com/track/6WeGeYFHvDNbrlc3KI7AIe) | [Dub Ataque](https://open.spotify.com/artist/50WcToXLB33txU8Tse0ITY), [Beleza](https://open.spotify.com/artist/1IDFjigtENXy8rm0h0Uqk3), [Rico Neurótico](https://open.spotify.com/artist/5RnbM8vxAn3jHP2sFymsUU), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sound System Cultura de Rua](https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO) | 4:18 |
 | 54 | [Cultura de Mantança](https://open.spotify.com/track/2I2nONGoK36KToKKCyGbbp) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor](https://open.spotify.com/album/1hBUpJgASOo4ljocpHr3tF) | 2:28 |
 | 55 | [Minha Trilha](https://open.spotify.com/track/4mHxl3TuQz1MuHzKD06Ddx) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Quimera](https://open.spotify.com/album/2s6Xis30Leau0FHqOgpWl4) | 4:27 |
-| 56 | [Guerra Padrão](https://open.spotify.com/track/15ty05GQRXZqpk81ZlttEH) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE) | [Alma de Favela, Pt\. 1](https://open.spotify.com/album/4szKhNy0JgoImu77ygVzL1) | 3:32 |
-| 57 | [Vida e Amor](https://open.spotify.com/track/0G7D5zwmnZ3mUEcMR6kHP2) | [Mellow Mood](https://open.spotify.com/artist/0DoxfbAxoISNySf35oVCN5), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [7 \(Deluxe Edition\)](https://open.spotify.com/album/17l5EQpLLbjLyJYsEsXE3y) | 3:13 |
+| 56 | [Vida e Amor](https://open.spotify.com/track/0G7D5zwmnZ3mUEcMR6kHP2) | [Mellow Mood](https://open.spotify.com/artist/0DoxfbAxoISNySf35oVCN5), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [7 \(Deluxe Edition\)](https://open.spotify.com/album/17l5EQpLLbjLyJYsEsXE3y) | 3:13 |
+| 57 | [Guerra Padrão](https://open.spotify.com/track/15ty05GQRXZqpk81ZlttEH) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE) | [Alma de Favela, Pt\. 1](https://open.spotify.com/album/4szKhNy0JgoImu77ygVzL1) | 3:32 |
 | 58 | [No Guanxa](https://open.spotify.com/track/2kdNjxTDo5gXu5ySnzeNMK) | [Mateus Pinguim](https://open.spotify.com/artist/6bpV6yiMTGBOLbhpIfC8z1), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sound System Cultura de Rua](https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO) | 3:40 |
 | 59 | [Minha Sina](https://open.spotify.com/track/4iImTv3CFPEL2KKg0UzB2k) | [Mateus Pinguim](https://open.spotify.com/artist/6bpV6yiMTGBOLbhpIfC8z1), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sound System Cultura de Rua](https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO) | 3:24 |
 | 60 | [Conscientização](https://open.spotify.com/track/2P0WN9HJPPCB2xH7t9g0m8) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Conscientização](https://open.spotify.com/album/3X1yGrd9u18zMCIBPoKUyI) | 2:52 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 64 | [Abraços de Resistência](https://open.spotify.com/track/0czqjbQD16beA5yejlA4V4) | [Laysa](https://open.spotify.com/artist/5Jycy1Tg8JDcxBxFDQL8A6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Abraços de Resistência](https://open.spotify.com/album/3qRWTyyDlw2cS6JiX6cakS) | 4:17 |
 | 65 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `AcUlggAAAAAYYVz3yhOzGnkRE5WfVLgo`
+Snapshot ID: `AcUq5gAAAADmUz/lM7FVRYei3S5CiH9N`

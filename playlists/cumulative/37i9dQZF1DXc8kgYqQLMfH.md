@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,325 songs - 2 day 2 hr 41 min
+1,326 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Autumn Haze](https://open.spotify.com/track/4mZxtbtBIEAyhif5WaXA9q) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Autumn Haze](https://open.spotify.com/album/1X5Pl4XgeUHlUr0SQLp9ao) | 2:03 | 2023-07-13 | 2026-04-10 |
 | [Autumn Lies](https://open.spotify.com/track/56Trob6SO6aJt6GLNACrfq) | [States Of Matter](https://open.spotify.com/artist/0zL5nus6xyjc2UbkjBgxaz) | [Seaweather](https://open.spotify.com/album/6Md6MVyHr8AlBayPkYSoB6) | 2:54 | 2022-01-27 | 2023-04-28 |
 | [Aviato](https://open.spotify.com/track/1cEdLUmlJNXQoazp48jxVg) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Aviato](https://open.spotify.com/album/4DBH0MPVET1AFcds7LSVcu) | 2:08 | 2022-10-01 | 2025-07-16 |
+| [awake to see the city sleep](https://open.spotify.com/track/34ZmkJqFjkNewux1wZJoAv) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [awake to see the city sleep](https://open.spotify.com/album/2YNkPhO8BG1hZwIVxybQcT) | 1:30 | 2026-06-19 |  |
 | [awakening](https://open.spotify.com/track/4lIBvM1LnA92nZ19U2vLPJ) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [awakening](https://open.spotify.com/album/5ZMVxKLha84fPOsC8K1ovb) | 2:04 | 2025-11-14 |  |
 | [awareness](https://open.spotify.com/track/4fkuzFLzXSzslhrHWSGGhI) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [awareness](https://open.spotify.com/album/0YErBks7Y3JioAcB3RHZDd) | 2:12 | 2021-11-10 | 2022-05-20 |
 | [Ayways](https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Ayways](https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ) | 1:54 | 2023-10-06 | 2025-07-16 |
@@ -550,7 +551,7 @@
 | [In Komplete Kontrol](https://open.spotify.com/track/5KvEw38ZCklqFAXlzBAIc5) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [In Komplete Kontrol](https://open.spotify.com/album/2WSUUFCgNI37r6djGyl5If) | 2:29 | 2023-02-17 | 2025-04-13 |
 | [In Limbo & Loving It](https://open.spotify.com/track/5kIsqbXbUNwaxQH1anoJ64) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [In Limbo & Loving It](https://open.spotify.com/album/19JbKTPT8GbfSv35qhY9Jq) | 2:43 | 2021-11-10 | 2022-07-22 |
 | [In motion](https://open.spotify.com/track/55tZAgea8vpky8Dgk5drC9) | [kdj\_77](https://open.spotify.com/artist/0gOMLuuQAYeuZZxFsS6AcO) | [In motion](https://open.spotify.com/album/6sfR2zcbUl3xBriQgY5OMq) | 2:53 | 2025-08-28 | 2025-09-26 |
-| [In My Dreams](https://open.spotify.com/track/2e0rVHWeslstKv2BJI1QOm) | [IMA](https://open.spotify.com/artist/5oWyfOpzOmgNnLHFtXBPBn), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT), [Pakora](https://open.spotify.com/artist/0Km8q2VEbS7WMPOGFnBDqz) | [In My Dreams](https://open.spotify.com/album/2N6YU7ddlN4bCPufIcgV36) | 2:13 | 2022-11-11 |  |
+| [In My Dreams](https://open.spotify.com/track/2e0rVHWeslstKv2BJI1QOm) | [IMA](https://open.spotify.com/artist/5oWyfOpzOmgNnLHFtXBPBn), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT), [Pakora](https://open.spotify.com/artist/0Km8q2VEbS7WMPOGFnBDqz) | [In My Dreams](https://open.spotify.com/album/2N6YU7ddlN4bCPufIcgV36) | 2:13 | 2022-11-11 | 2026-06-20 |
 | [In Parallell](https://open.spotify.com/track/2CV7GxX3vg5GYqBORRdCpR) | [Interscope](https://open.spotify.com/artist/288kcmSAmoRYgLiRKXTeZt) | [In Parallell](https://open.spotify.com/album/0GLUqN8vKfHSPsYsDwcWM1) | 1:46 | 2021-11-10 | 2022-06-10 |
 | [In Perpetuum](https://open.spotify.com/track/3ImHLPyqf739WgzXKjPqfU) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [In Perpetuum](https://open.spotify.com/album/2dou5NJzqX9nWvR6eoamLM) | 1:52 | 2022-02-18 | 2023-03-18 |
 | [In The Sky](https://open.spotify.com/track/2t8xuOOSyDjt1jDhUjoNGO) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN) | [In The Sky](https://open.spotify.com/album/6KPHCCekZmbCHQihlMB1Pm) | 2:12 | 2022-06-03 | 2023-08-04 |

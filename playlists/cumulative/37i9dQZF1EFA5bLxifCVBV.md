@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-299 songs - 15 hr 28 min
+300 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Fun To Be Fooled](https://open.spotify.com/track/0SfMN5K2PRkv4XF4LSPg0p) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Love Is The Thing](https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0) | 3:31 | 2025-12-01 |  |
 | [Fun To Be Fooled](https://open.spotify.com/track/00L8X3IhFXxBnGRDPmKoYC) | [Teddi King/John Meyer](https://open.spotify.com/artist/6IhptixFXSsZosa9MWOrYZ) | [Teddi King, Live at The Painted Pony](https://open.spotify.com/album/6sMYdzmRwcCsdYZN3mbPHD) | 2:16 | 2024-07-24 | 2025-12-02 |
 | [God's Country \(Remastered 2022\)](https://open.spotify.com/track/4j6CpdQi6vaMe5i4OhCAZq) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa) | [Remastered Classics, Vol\. 234: Al Jolson](https://open.spotify.com/album/6UFQ8p3IkdCn6nj2fhzWJV) | 2:43 | 2024-07-24 |  |
-| [Green Eyes](https://open.spotify.com/track/0ReM5j5IEK2PY7uRlFjUO5) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Jimmy Dorsey](https://open.spotify.com/artist/3xPpQCRiTBxgmL4PD8J5ek) | [Great Collection, Vol\. 1](https://open.spotify.com/album/4uTwTJ0Q124v7gsvmiBBnU) | 3:20 | 2026-02-19 |  |
+| [Green Eyes](https://open.spotify.com/track/0ReM5j5IEK2PY7uRlFjUO5) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Jimmy Dorsey](https://open.spotify.com/artist/3xPpQCRiTBxgmL4PD8J5ek) | [Great Collection, Vol\. 1](https://open.spotify.com/album/4uTwTJ0Q124v7gsvmiBBnU) | 3:20 | 2026-02-19 | 2026-06-20 |
+| [Green Eyes](https://open.spotify.com/track/4SMdUAvsupJMenl9tgkr4P) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Jimmy Dorsey](https://open.spotify.com/artist/3xPpQCRiTBxgmL4PD8J5ek) | [The Dorsey Brothers: Just the Hits, Vol\. 1](https://open.spotify.com/album/3xdUf6lJTwfd54wdQfNItc) | 3:20 | 2026-06-19 |  |
 | [Green Eyes](https://open.spotify.com/track/32TC1Ay0ccXZz8zSTHq5Jx) | [Tommy Dorsey / Jimmy Dorsey](https://open.spotify.com/artist/4gRI1O2PDMRfIV1pFShRcj) | [The Dorsey Brothers](https://open.spotify.com/album/2UfILZ3cxaEgaXYjeikYEe) | 3:15 | 2024-07-24 | 2026-02-20 |
 | [Happiest Girl in the World](https://open.spotify.com/track/4EAfQBOMsisU159cHoBxAl) | [Plus 4](https://open.spotify.com/artist/7bwxKK7KGQ37lZ1Fv0Neta) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:45 | 2024-07-24 | 2025-06-28 |
 | [Heads Up](https://open.spotify.com/track/0eguDkKSP6GvVrKpYr6gpP) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D), [Jimmy Halperin](https://open.spotify.com/artist/7Kru4D4d5ow7EB1KoNfvjG), [Barry Harris](https://open.spotify.com/artist/5IgSjABjN0VorY1Vo41ivX), [David Williams](https://open.spotify.com/artist/0eG6MFII1hM441t99rgV1q), [Albert Tootie Heath](https://open.spotify.com/artist/53yX28INJxLAZYpUbANw3K) | [Back Home](https://open.spotify.com/album/4FwTxmxcEYgWdjerrnj6lW) | 5:29 | 2024-07-24 | 2025-06-28 |

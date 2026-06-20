@@ -847,6 +847,36 @@
     },
     {
       "album": {
+        "name": "Midsummer",
+        "url": "https://open.spotify.com/album/5k3ebhH3W5Sp9VyHYzC0uQ"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Krist\u012bne Balanas",
+          "url": "https://open.spotify.com/artist/0lDBHW4HNd46bGdVEl6Sjt"
+        },
+        {
+          "name": "Margarita Balanas",
+          "url": "https://open.spotify.com/artist/5ZEgy7PqXSEYz9yz7YZDQ7"
+        },
+        {
+          "name": "Valdis Muktup\u0101vels",
+          "url": "https://open.spotify.com/artist/5aCJY6Rvuc6rWawL6nAT1u"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142090,
+      "name": "Fern Blossom (Arr. Muktup\u0101vels)",
+      "url": "https://open.spotify.com/track/7rOwojQLpmDgyaXz5bYixJ"
+    },
+    {
+      "album": {
         "name": "Bach: Autumn Leaves",
         "url": "https://open.spotify.com/album/3Xer8qLji6YQiLyRInApZL"
       },
@@ -1142,6 +1172,32 @@
       "duration_ms": 297000,
       "name": "Lakm\u00e9 / Act 1: \"Sous le d\u00f4me \u00e9pais\" (Flower Duet)",
       "url": "https://open.spotify.com/track/2YWM7FYspCbkM6xfo1v6gO"
+    },
+    {
+      "album": {
+        "name": "Latin American Suite No. 1 for String Quintet",
+        "url": "https://open.spotify.com/album/2GCs2foFjpOIyQRlaAve4T"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Marcondes",
+          "url": "https://open.spotify.com/artist/2mD77cPDGmHGBrJoSa5fS5"
+        },
+        {
+          "name": "Quarteto Top\u00e1zio",
+          "url": "https://open.spotify.com/artist/50ZrY3RTm2X1xHn1vgCsrR"
+        },
+        {
+          "name": "Gabriela Negri",
+          "url": "https://open.spotify.com/artist/1DmJBpPtrcUpnPXskm6SmS"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179591,
+      "name": "Latin American Suite No. 1 for String Quintet: III. Canci\u00f3n de Cuna",
+      "url": "https://open.spotify.com/track/2xQgjVA1M4aKo215KKeB2v"
     },
     {
       "album": {
@@ -2270,6 +2326,28 @@
       "duration_ms": 224280,
       "name": "String Quartet in E-Flat Major, H. 277: II. Allegretto",
       "url": "https://open.spotify.com/track/1xWatkcOFPdkyVubqPMkGC"
+    },
+    {
+      "album": {
+        "name": "Conversations \u00e0 trois",
+        "url": "https://open.spotify.com/album/479UgZeNRFxh6Qg6TXCMee"
+      },
+      "artists": [
+        {
+          "name": "Jean Fran\u00e7aix",
+          "url": "https://open.spotify.com/artist/3WYaVkaqreSv0ARzFzXDoW"
+        },
+        {
+          "name": "Trio Boccherini",
+          "url": "https://open.spotify.com/artist/3USv55jwHQsvrtfHtcLfEG"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202293,
+      "name": "String Trio : II. Scherzo. Vivo",
+      "url": "https://open.spotify.com/track/3PaiSdzCj6gHsUuggn70oa"
     },
     {
       "album": {

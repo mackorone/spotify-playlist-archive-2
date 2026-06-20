@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 92538,
+  "num_followers": 92542,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-06-18 00:39:30",
       "album": {
-        "name": "Una Vez Y Ya",
-        "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
-      },
-      "artists": [
-        {
-          "name": "RIA",
-          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Una Vez Y Ya",
-      "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
-    },
-    {
-      "added_at": "2026-06-18 00:39:30",
-      "album": {
         "name": "PVT0 VACIO",
         "url": "https://open.spotify.com/album/3fHRGNZdgIImWaAv07A8Br"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 231129,
       "name": "PVT0 VACIO",
       "url": "https://open.spotify.com/track/0YbULd63UGmfwLX0SjJMnY"
+    },
+    {
+      "added_at": "2026-06-18 00:39:30",
+      "album": {
+        "name": "Una Vez Y Ya",
+        "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "Una Vez Y Ya",
+      "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
     },
     {
       "added_at": "2026-06-18 00:39:30",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-06-18 00:39:30",
       "album": {
+        "name": "C\u00ednico",
+        "url": "https://open.spotify.com/album/2gnoJQ1HVX8hzNDsyi22gd"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "C\u00ednico",
+      "url": "https://open.spotify.com/track/5B7qTLdthcjJ7ZbIYjCDcv"
+    },
+    {
+      "added_at": "2026-06-18 00:39:30",
+      "album": {
         "name": "Llegan Y Se Van",
         "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 149652,
       "name": "Llegan Y Se Van",
       "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
-    },
-    {
-      "added_at": "2026-06-18 00:39:30",
-      "album": {
-        "name": "C\u00ednico",
-        "url": "https://open.spotify.com/album/2gnoJQ1HVX8hzNDsyi22gd"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "C\u00ednico",
-      "url": "https://open.spotify.com/track/5B7qTLdthcjJ7ZbIYjCDcv"
     },
     {
       "added_at": "2026-06-18 00:39:30",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-06-18 00:39:30",
       "album": {
-        "name": "URUS",
-        "url": "https://open.spotify.com/album/1L3Kqo9rwTmDUpRZxdGJuR"
-      },
-      "artists": [
-        {
-          "name": "FLVCKKA",
-          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
-        },
-        {
-          "name": "Kevin Santin",
-          "url": "https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "URUS",
-      "url": "https://open.spotify.com/track/1orFV83o0XxHF3HHyJCsLD"
-    },
-    {
-      "added_at": "2026-06-18 00:39:30",
-      "album": {
         "name": "PEKORITAS VOL.1",
         "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 147453,
       "name": "SOLA",
       "url": "https://open.spotify.com/track/7Em8Ee0KGibwIr5smqk1TJ"
+    },
+    {
+      "added_at": "2026-06-18 00:39:30",
+      "album": {
+        "name": "URUS",
+        "url": "https://open.spotify.com/album/1L3Kqo9rwTmDUpRZxdGJuR"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Kevin Santin",
+          "url": "https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "URUS",
+      "url": "https://open.spotify.com/track/1orFV83o0XxHF3HHyJCsLD"
     },
     {
       "added_at": "2026-06-18 00:39:30",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-06-18 00:39:30",
       "album": {
-        "name": "HIPERSENTIMENTAL",
-        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "HIPERSENTIMENTAL",
-      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
-    },
-    {
-      "added_at": "2026-06-18 00:39:30",
-      "album": {
         "name": "Trampa",
         "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 152928,
       "name": "Trampa",
       "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
+    },
+    {
+      "added_at": "2026-06-18 00:39:30",
+      "album": {
+        "name": "HIPERSENTIMENTAL",
+        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "HIPERSENTIMENTAL",
+      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
     },
     {
       "added_at": "2026-06-18 00:39:30",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-06-18 00:39:30",
       "album": {
+        "name": "KORA KORA",
+        "url": "https://open.spotify.com/album/2GeUPUMOXzVd9DrnoENWx2"
+      },
+      "artists": [
+        {
+          "name": "cKovi",
+          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
+        }
+      ],
+      "duration_ms": 131367,
+      "name": "KORA KORA",
+      "url": "https://open.spotify.com/track/6ndpaM4u9dss1lpC7RX92X"
+    },
+    {
+      "added_at": "2026-06-18 00:39:30",
+      "album": {
         "name": "T.V ADDICT (nitro)",
         "url": "https://open.spotify.com/album/727LHY7Z8C6n1S9qbbxbnJ"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 210258,
       "name": "buttermilk 2",
       "url": "https://open.spotify.com/track/2yT6DwSVxB3WgyIUmDrnDZ"
-    },
-    {
-      "added_at": "2026-06-18 00:39:30",
-      "album": {
-        "name": "KORA KORA",
-        "url": "https://open.spotify.com/album/2GeUPUMOXzVd9DrnoENWx2"
-      },
-      "artists": [
-        {
-          "name": "cKovi",
-          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
-        }
-      ],
-      "duration_ms": 131367,
-      "name": "KORA KORA",
-      "url": "https://open.spotify.com/track/6ndpaM4u9dss1lpC7RX92X"
     },
     {
       "added_at": "2026-06-18 00:39:30",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-06-18 00:39:30",
       "album": {
-        "name": "S\u00daPLICA",
-        "url": "https://open.spotify.com/album/6nRCtnVuAHAPiRhzqdYml2"
-      },
-      "artists": [
-        {
-          "name": "El Toed",
-          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
-        }
-      ],
-      "duration_ms": 207969,
-      "name": "S\u00daPLICA",
-      "url": "https://open.spotify.com/track/5kGoUV4bKVtMIDlmWMpWp4"
-    },
-    {
-      "added_at": "2026-06-18 00:39:30",
-      "album": {
         "name": "Ring Ring ft. Malo & Japanix",
         "url": "https://open.spotify.com/album/1nWZ8gWJVKfko5OdDVXpvq"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 124511,
       "name": "Ring Ring ft. Malo & Japanix",
       "url": "https://open.spotify.com/track/2agAnbaCqiwuEA0CF1xSfI"
+    },
+    {
+      "added_at": "2026-06-18 00:39:30",
+      "album": {
+        "name": "S\u00daPLICA",
+        "url": "https://open.spotify.com/album/6nRCtnVuAHAPiRhzqdYml2"
+      },
+      "artists": [
+        {
+          "name": "El Toed",
+          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
+        }
+      ],
+      "duration_ms": 207969,
+      "name": "S\u00daPLICA",
+      "url": "https://open.spotify.com/track/5kGoUV4bKVtMIDlmWMpWp4"
     },
     {
       "added_at": "2026-06-18 00:39:30",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2026-06-18 00:39:30",
       "album": {
-        "name": "Nadie Se Muere de Amor",
-        "url": "https://open.spotify.com/album/71taJC95SXuEr530zbzQ1u"
-      },
-      "artists": [
-        {
-          "name": "Lil Kobe",
-          "url": "https://open.spotify.com/artist/1EB2RiArYumWpFKlTPqYsY"
-        },
-        {
-          "name": "Ruzzo Doblezz",
-          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Nadie Se Muere de Amor",
-      "url": "https://open.spotify.com/track/3XHuPN5kMQxJ60S69re9b5"
-    },
-    {
-      "added_at": "2026-06-18 00:39:30",
-      "album": {
         "name": "YoPiensoEnTi",
         "url": "https://open.spotify.com/album/3HvYLKvg7TQ3ieqLsxK2lZ"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 156000,
       "name": "YoPiensoEnTi",
       "url": "https://open.spotify.com/track/6lAP7P3vWHS84ktoyX2ZLQ"
+    },
+    {
+      "added_at": "2026-06-18 00:39:30",
+      "album": {
+        "name": "Nadie Se Muere de Amor",
+        "url": "https://open.spotify.com/album/71taJC95SXuEr530zbzQ1u"
+      },
+      "artists": [
+        {
+          "name": "Lil Kobe",
+          "url": "https://open.spotify.com/artist/1EB2RiArYumWpFKlTPqYsY"
+        },
+        {
+          "name": "Ruzzo Doblezz",
+          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Nadie Se Muere de Amor",
+      "url": "https://open.spotify.com/track/3XHuPN5kMQxJ60S69re9b5"
     },
     {
       "added_at": "2026-06-18 00:39:30",

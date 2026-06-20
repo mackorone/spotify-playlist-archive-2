@@ -1,13 +1,49 @@
 {
   "description": "The best rock songs of the moment. Cover: Slow Pulp",
-  "num_followers": 193282,
+  "num_followers": 193277,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPDqbARUo6poeXpCY9vi9i3gNdxD",
+  "snapshot_id": "AAAAAIHOzhfypQXk3kuZSqKhKwmhGcBw",
   "tracks": [
+    {
+      "added_at": "2026-06-19 12:01:01",
+      "album": {
+        "name": "NEW AMERICA//",
+        "url": "https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Albert Hammond Jr",
+          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
+        }
+      ],
+      "duration_ms": 169155,
+      "name": "NEW AMERICA//",
+      "url": "https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0"
+    },
+    {
+      "added_at": "2026-06-19 12:01:01",
+      "album": {
+        "name": "CASI",
+        "url": "https://open.spotify.com/album/1itTUvcQvI3gQGyzfQZUTR"
+      },
+      "artists": [
+        {
+          "name": "casi",
+          "url": "https://open.spotify.com/artist/08KCycW58Ksyv5y5QaTyXH"
+        }
+      ],
+      "duration_ms": 267222,
+      "name": "ELEVEN87",
+      "url": "https://open.spotify.com/track/6GIzqPQn0a2L6AHt1ToSIb"
+    },
     {
       "added_at": "2026-06-12 04:03:12",
       "album": {
@@ -23,6 +59,130 @@
       "duration_ms": 183228,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx"
+    },
+    {
+      "added_at": "2026-06-19 12:01:01",
+      "album": {
+        "name": "Demain minuit",
+        "url": "https://open.spotify.com/album/3CPxTfaD77jkBWtXHKaldt"
+      },
+      "artists": [
+        {
+          "name": "\u00c9l\u00e9gie",
+          "url": "https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0"
+        }
+      ],
+      "duration_ms": 189540,
+      "name": "Demain minuit",
+      "url": "https://open.spotify.com/track/1HubFNujYKvxk5UfvJNLpV"
+    },
+    {
+      "added_at": "2026-06-19 12:01:01",
+      "album": {
+        "name": "Something On You",
+        "url": "https://open.spotify.com/album/3iky8ccX1SNTwDVpxoOYUb"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "duration_ms": 171196,
+      "name": "Something On You",
+      "url": "https://open.spotify.com/track/4q5GBTmaZoOde1Vsp1you5"
+    },
+    {
+      "added_at": "2026-06-19 12:01:01",
+      "album": {
+        "name": "Fascists Killed Yer Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/0TGpCN3D6yEfkkThsgkb9p"
+      },
+      "artists": [
+        {
+          "name": "Elephant Stone",
+          "url": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
+        }
+      ],
+      "duration_ms": 251708,
+      "name": "Fascists Killed Yer Rock'N' Roll",
+      "url": "https://open.spotify.com/track/5A0lCjxtn6HzuEfNWpNOBc"
+    },
+    {
+      "added_at": "2026-06-19 12:01:01",
+      "album": {
+        "name": "THOUGHTLEADER",
+        "url": "https://open.spotify.com/album/6kAszKgGGdTlWJVxxDdwvo"
+      },
+      "artists": [
+        {
+          "name": "Royal Tusk",
+          "url": "https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "THOUGHTLEADER",
+      "url": "https://open.spotify.com/track/7mYnestKsyAUDlpueTPv8E"
+    },
+    {
+      "added_at": "2026-06-19 12:01:01",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/0DB2BKVPSTFRMPENwL98Rk"
+      },
+      "artists": [
+        {
+          "name": "Dear Youth",
+          "url": "https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG"
+        },
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        },
+        {
+          "name": "Bethany Curtis",
+          "url": "https://open.spotify.com/artist/1rRdSFO0rilkbW4mRf8HjA"
+        }
+      ],
+      "duration_ms": 158116,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/1UzTXathgPOWc8vGtrb5FY"
+    },
+    {
+      "added_at": "2026-06-19 12:01:01",
+      "album": {
+        "name": "Happy Thought School",
+        "url": "https://open.spotify.com/album/7I8qdEOwQ9gdrlhCCVtINR"
+      },
+      "artists": [
+        {
+          "name": "Zoon",
+          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
+        }
+      ],
+      "duration_ms": 160615,
+      "name": "You Can't See Me (This Low)",
+      "url": "https://open.spotify.com/track/23LpUjU8tCRL4YZNV4zpiK"
+    },
+    {
+      "added_at": "2026-06-19 12:01:01",
+      "album": {
+        "name": "Step Up",
+        "url": "https://open.spotify.com/album/4cfUNEHjiBGpqnLr4AQrlj"
+      },
+      "artists": [
+        {
+          "name": "Art Of Dying",
+          "url": "https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe"
+        },
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        }
+      ],
+      "duration_ms": 195783,
+      "name": "Step Up",
+      "url": "https://open.spotify.com/track/0N5F2m28CZHvCiMLV1yQ0t"
     },
     {
       "added_at": "2026-06-12 04:03:12",
@@ -55,6 +215,22 @@
       "duration_ms": 162213,
       "name": "Dollar Bill",
       "url": "https://open.spotify.com/track/2sLeS5vOP2tl2TbF37FaLD"
+    },
+    {
+      "added_at": "2026-06-19 12:01:01",
+      "album": {
+        "name": "Springtime",
+        "url": "https://open.spotify.com/album/5KvVyopGkhfMBKfN8mE9YT"
+      },
+      "artists": [
+        {
+          "name": "Alex Henry Foster",
+          "url": "https://open.spotify.com/artist/3xxV7Humr8VBXGhNNbyWoY"
+        }
+      ],
+      "duration_ms": 253116,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/5t4ND65Wmfxr2U0IiyTliS"
     },
     {
       "added_at": "2026-06-12 04:03:12",
@@ -1743,22 +1919,6 @@
     {
       "added_at": "2026-05-22 04:02:53",
       "album": {
-        "name": "Like you mean it",
-        "url": "https://open.spotify.com/album/798jmpqSH0IYejKbp7mtRd"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        }
-      ],
-      "duration_ms": 147300,
-      "name": "Like you mean it",
-      "url": "https://open.spotify.com/track/4DCz1jb9Me9dn12CqqFk6N"
-    },
-    {
-      "added_at": "2026-05-22 04:02:53",
-      "album": {
         "name": "Remember The Humans",
         "url": "https://open.spotify.com/album/6skQ2cM5dafp4UdvvN0Xf9"
       },
@@ -1819,54 +1979,6 @@
       "duration_ms": 182440,
       "name": "Deny",
       "url": "https://open.spotify.com/track/3qNDAjV6W5COkDXypYdkk7"
-    },
-    {
-      "added_at": "2026-05-22 04:02:53",
-      "album": {
-        "name": "Boat Garage",
-        "url": "https://open.spotify.com/album/0SUMGjHajl25ox0yApi0DK"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 179071,
-      "name": "Boat Garage",
-      "url": "https://open.spotify.com/track/4iMztkHIUoyrc5budQ1fOk"
-    },
-    {
-      "added_at": "2026-05-22 04:02:53",
-      "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
-    },
-    {
-      "added_at": "2026-05-22 04:02:53",
-      "album": {
-        "name": "Redeemer",
-        "url": "https://open.spotify.com/album/2UejSXZV8wsfHIM47lo2hD"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/6rDVb2EImUpLRrOJkev2XE"
     },
     {
       "added_at": "2026-05-22 04:02:53",
@@ -2019,58 +2131,6 @@
       "duration_ms": 237956,
       "name": "Heresy - Nine Inch Noize Version",
       "url": "https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV"
-    },
-    {
-      "added_at": "2026-05-22 04:02:53",
-      "album": {
-        "name": "The Call",
-        "url": "https://open.spotify.com/album/61LVjKvyP3uRXdjnNv7kwC"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 253306,
-      "name": "The Call",
-      "url": "https://open.spotify.com/track/4teod5AtonjsogVrSl2EEW"
-    },
-    {
-      "added_at": "2026-05-22 04:02:53",
-      "album": {
-        "name": "Limelight",
-        "url": "https://open.spotify.com/album/28IX7vh0hoyFuc3FApLUyJ"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 260457,
-      "name": "Limelight",
-      "url": "https://open.spotify.com/track/3GwhbA75dAeVL1k4WUj16w"
-    },
-    {
-      "added_at": "2026-05-22 04:02:53",
-      "album": {
-        "name": "Track and Field",
-        "url": "https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA"
-      },
-      "artists": [
-        {
-          "name": "JJerome87",
-          "url": "https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio"
-        },
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 195448,
-      "name": "Track and Field",
-      "url": "https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE"
     }
   ],
   "unique_name": "Rock Now",

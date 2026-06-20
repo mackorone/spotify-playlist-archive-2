@@ -6,8 +6,204 @@
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAAChVHlCFShMqhtpSlXH/uIIBTK6gZk",
+  "snapshot_id": "AAACkDnt0kxE2cKfdu3Xj+pQzQPddSBE",
   "tracks": [
+    {
+      "added_at": "2026-06-19 22:45:45",
+      "album": {
+        "name": "shine",
+        "url": "https://open.spotify.com/album/09Oqa5fZoSgZRPlTqgrKfm"
+      },
+      "artists": [
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        },
+        {
+          "name": "statika",
+          "url": "https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "shine",
+      "url": "https://open.spotify.com/track/6mfXVWEQjdkNuv4hZ8wMEh"
+    },
+    {
+      "added_at": "2026-06-19 22:48:29",
+      "album": {
+        "name": "better selves",
+        "url": "https://open.spotify.com/album/4eqkoHm921UsWhFCq3TDRW"
+      },
+      "artists": [
+        {
+          "name": "statika",
+          "url": "https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83"
+        },
+        {
+          "name": "Sublime Endings",
+          "url": "https://open.spotify.com/artist/2P1kVMuj9QWO0oHk0KxE6i"
+        }
+      ],
+      "duration_ms": 156272,
+      "name": "better selves",
+      "url": "https://open.spotify.com/track/6lQ5Xv6vJtDaaTDA52Ropd"
+    },
+    {
+      "added_at": "2026-06-19 22:48:10",
+      "album": {
+        "name": "wakaranai",
+        "url": "https://open.spotify.com/album/0Ft9rgC7FpLreaTxY7ZMzc"
+      },
+      "artists": [
+        {
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
+        },
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 203678,
+      "name": "wakaranai",
+      "url": "https://open.spotify.com/track/7kE40m8PI0gC3Cy9Nmh7cO"
+    },
+    {
+      "added_at": "2026-06-19 22:47:26",
+      "album": {
+        "name": "hold me",
+        "url": "https://open.spotify.com/album/0ZNInJtrgHmeOMmygfycTC"
+      },
+      "artists": [
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        },
+        {
+          "name": "tosh",
+          "url": "https://open.spotify.com/artist/4uYio1hZDjNiKgsiOEupd8"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "hold me",
+      "url": "https://open.spotify.com/track/5S8U1r0PRX7n3ePsuGTqBF"
+    },
+    {
+      "added_at": "2026-06-19 22:47:11",
+      "album": {
+        "name": "vibrance",
+        "url": "https://open.spotify.com/album/2NvnnczDvAQ70PmoZbR5K3"
+      },
+      "artists": [
+        {
+          "name": "Etsu",
+          "url": "https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk"
+        }
+      ],
+      "duration_ms": 111157,
+      "name": "vibrance",
+      "url": "https://open.spotify.com/track/3Ce4Q55Y8fYkcJ3yr8eWbj"
+    },
+    {
+      "added_at": "2026-06-19 22:46:08",
+      "album": {
+        "name": "wish you were still alive",
+        "url": "https://open.spotify.com/album/4wDtvtatn2zIjwHmflkMDV"
+      },
+      "artists": [
+        {
+          "name": "Bluegaze",
+          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
+        },
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 93913,
+      "name": "wish you were still alive",
+      "url": "https://open.spotify.com/track/1zIopiDkgCHZaVGkvn6KpF"
+    },
+    {
+      "added_at": "2026-06-19 22:45:33",
+      "album": {
+        "name": "glossar",
+        "url": "https://open.spotify.com/album/4GNTgwyMOKltmSjfO9UEf0"
+      },
+      "artists": [
+        {
+          "name": "furosha",
+          "url": "https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l"
+        }
+      ],
+      "duration_ms": 97846,
+      "name": "glossar",
+      "url": "https://open.spotify.com/track/49YXmz2Fqa4owBOp2NVnG1"
+    },
+    {
+      "added_at": "2026-06-19 22:45:09",
+      "album": {
+        "name": "stereo love",
+        "url": "https://open.spotify.com/album/7g7Hhpexl78ZUNbBHMwwIU"
+      },
+      "artists": [
+        {
+          "name": "Inan",
+          "url": "https://open.spotify.com/artist/4oI5YoRw5Brc56oaK0JYAG"
+        }
+      ],
+      "duration_ms": 84947,
+      "name": "stereo love",
+      "url": "https://open.spotify.com/track/0ERYks3C58vtkhh9cNubd7"
+    },
+    {
+      "added_at": "2026-06-19 22:44:23",
+      "album": {
+        "name": "noclipped",
+        "url": "https://open.spotify.com/album/3fuJ0x3bo5I4amCpzavOib"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        }
+      ],
+      "duration_ms": 85714,
+      "name": "noclipped",
+      "url": "https://open.spotify.com/track/501wHSjq1TaT0b1zGCpFOT"
+    },
+    {
+      "added_at": "2026-06-19 22:44:52",
+      "album": {
+        "name": "sun goes down",
+        "url": "https://open.spotify.com/album/5ajbbHfaKDjFJzikmVwD1J"
+      },
+      "artists": [
+        {
+          "name": "Inlirium",
+          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
+        }
+      ],
+      "duration_ms": 98571,
+      "name": "sun goes down",
+      "url": "https://open.spotify.com/track/5fcn61odHQ70Z9IfkYRcnC"
+    },
+    {
+      "added_at": "2026-06-19 22:44:33",
+      "album": {
+        "name": "lotus",
+        "url": "https://open.spotify.com/album/3QATiFJGcOvmZTlnlERu6S"
+      },
+      "artists": [
+        {
+          "name": "empty street",
+          "url": "https://open.spotify.com/artist/7ELpHgqHZTRYMlIt1vm89X"
+        }
+      ],
+      "duration_ms": 105714,
+      "name": "lotus",
+      "url": "https://open.spotify.com/track/4l2zSRsQzFL6WzXVLR5OZu"
+    },
     {
       "added_at": "2026-06-13 17:52:45",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,103 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,106 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [Semaphore](https://open.spotify.com/track/0jaSqNvC4f8jogqB6yDXSV) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Semaphore](https://open.spotify.com/album/5MpUMWhfjkomwiCP38Jf7d) | 4:20 |
 | 80 | [Keep On Moving Up](https://open.spotify.com/track/0eO5J4bjVgjSLDB579BlkE) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Keep On Moving Up](https://open.spotify.com/album/5Wbi8QUhBMmpwUbEjnN7KX) | 3:05 |
 
-Snapshot ID: `AAAAAJWZ1WvbjfTYmCRFtaCPaeJoMuUx`
+Snapshot ID: `AAAAAN4RiFAwNNXOaGA/G3ygEb0kZnZY`

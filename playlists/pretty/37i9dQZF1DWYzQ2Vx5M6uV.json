@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
-  "num_followers": 143741,
+  "num_followers": 143752,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2026-05-24 07:04:55",
       "album": {
+        "name": "Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 138673,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
+    },
+    {
+      "added_at": "2026-05-24 07:04:55",
+      "album": {
         "name": "Tengo Un Plan (Remix)",
         "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 215448,
       "name": "Tengo Un Plan - Remix",
       "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
-    },
-    {
-      "added_at": "2026-05-24 07:04:55",
-      "album": {
-        "name": "Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 138673,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
     },
     {
       "added_at": "2026-05-24 07:04:55",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-05-24 07:04:55",
       "album": {
-        "name": "coletera",
-        "url": "https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9"
-      },
-      "artists": [
-        {
-          "name": "Akos",
-          "url": "https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy"
-        }
-      ],
-      "duration_ms": 97507,
-      "name": "coletera",
-      "url": "https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk"
-    },
-    {
-      "added_at": "2026-05-24 07:04:55",
-      "album": {
         "name": "No Esperes",
         "url": "https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 192230,
       "name": "Ese Habladito",
       "url": "https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf"
+    },
+    {
+      "added_at": "2026-05-24 07:04:55",
+      "album": {
+        "name": "coletera",
+        "url": "https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9"
+      },
+      "artists": [
+        {
+          "name": "Akos",
+          "url": "https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy"
+        }
+      ],
+      "duration_ms": 97507,
+      "name": "coletera",
+      "url": "https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk"
     },
     {
       "added_at": "2026-05-24 07:04:55",

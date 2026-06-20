@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-716 songs - 1 day 14 hr 32 min
+717 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,8 @@
 | [Noel C'est L'Amour](https://open.spotify.com/track/0YA39ajuqPWarCzm2F1zCL) | [Chante avec moi](https://open.spotify.com/artist/1loyZdJGUq4fABwm80n0ZR) | [Et le choeur des enfants \(Volume 16\)](https://open.spotify.com/album/4xYRC4VO5HxvCD65Jg20QE) | 2:24 | 2024-07-24 | 2025-06-28 |
 | [Noite e Dia](https://open.spotify.com/track/0GHM6p3dWeF42wfW6m0AeC) | [Vitoria Maldonado](https://open.spotify.com/artist/2nG4E6YcuST9Fql9uUQa3Q), [Ron Carter Quartet](https://open.spotify.com/artist/1FZbleR1waNhe2389QAtaN) | [BRASIL L.I.K.E\. Versões](https://open.spotify.com/album/29JD82mnjsGjt5E9Deq0yS) | 3:26 | 2024-07-24 | 2025-06-01 |
 | [Noite e Dia \(Night And Day\)](https://open.spotify.com/track/5m6TW4ENRkqaPSVcNOEWmb) | [Nelson Gonçalves](https://open.spotify.com/artist/2wi99swSP87YaFjVOI3zGJ) | [Joias Musicais](https://open.spotify.com/album/2RY0Pvr4HX2Ap0dY24Khf0) | 3:07 | 2025-05-31 |  |
-| [Now You Has Jazz](https://open.spotify.com/track/3KK0Wyaxhi4SwTSL8vrNiD) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Bing In Dixieland](https://open.spotify.com/album/1ZCljzvTaBOB92AUbvPFt6) | 3:41 | 2025-06-27 |  |
+| [Now You Has Jazz](https://open.spotify.com/track/3KK0Wyaxhi4SwTSL8vrNiD) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Bing In Dixieland](https://open.spotify.com/album/1ZCljzvTaBOB92AUbvPFt6) | 3:41 | 2025-06-27 | 2026-06-20 |
+| [Now You Has Jazz](https://open.spotify.com/track/777WXO13DfNM1OOittSk3k) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Bing In Dixieland](https://open.spotify.com/album/2JTF56lSwuyv6BiMXumawL) | 3:41 | 2026-06-19 |  |
 | [Nymph Errant: The Physician](https://open.spotify.com/track/2oruZcWvBgoayQ2Y477IEB) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Porter, Cole: But in the Morning, No \(1930\-1943\)](https://open.spotify.com/album/4bKjxnVbPozs10v7BhCnO5) | 3:04 | 2024-07-24 |  |
 | [Oatmeal \- Cyd Returns to Paris](https://open.spotify.com/track/2t8xh4cjWIUgOFCta0IyVX) | [Cole Porter \(composer\)](https://open.spotify.com/artist/2MlrdhziMAogDail35dBMR) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 1:27 | 2024-07-24 | 2025-10-31 |
 | [Oatmeal / Cyd Returns to Paris](https://open.spotify.com/track/5F94SRT8gJNrRzqcodjHk4) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 1:27 | 2025-10-30 |  |

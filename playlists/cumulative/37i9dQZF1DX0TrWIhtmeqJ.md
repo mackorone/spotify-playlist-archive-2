@@ -4,7 +4,7 @@
 
 > For the new generation of trendsetters coming through, we move\. Cover: SINN6R
 
-212 songs - 9 hr 17 min
+213 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [boss\_](https://open.spotify.com/track/1eTFEhKwOhyiVCwFosZ1RG) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ) | [boss\_](https://open.spotify.com/album/5k7POafDpZuVsYzW4s1xgW) | 3:12 | 2026-05-28 |  |
 | [BREAK THE LAW](https://open.spotify.com/track/0xdq4uF7HUgQIr4NhRomQw) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [NEW BRITANNICA](https://open.spotify.com/album/3s8ieBtNTOL1wk8CYn3jFB) | 1:59 | 2026-02-13 |  |
 | [Brick By Brick](https://open.spotify.com/track/0LL3KlF3Wexv0a8cOwwmvt) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Rvchet](https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75) | [Brick By Brick](https://open.spotify.com/album/19HcmpMWJsSKHK1rQNm3qj) | 2:20 | 2026-02-13 | 2026-05-29 |
+| [broken vase](https://open.spotify.com/track/4bDetS185jvSXnqSDo4IhC) | [SINN6R](https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY) | [broken vase](https://open.spotify.com/album/01IAsnb1GLx8tHiNv8MZvV) | 2:05 | 2026-06-18 |  |
 | [Built Different](https://open.spotify.com/track/4vNPEUTDUuHx35aiLl2dEP) | [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi) | [Built Different](https://open.spotify.com/album/7plXjLT8cUTfVOb9RowaKn) | 2:35 | 2026-02-20 | 2026-06-19 |
 | [burnt](https://open.spotify.com/track/29feY2YJtQY6apgmDe7y7H) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Loving Kills.](https://open.spotify.com/album/3uNj9VcF0CVAcKHFPP6Dml) | 2:20 | 2026-02-13 | 2026-05-01 |
 | [BUSY](https://open.spotify.com/track/1peSW56EXaVDkzbHeU6TBZ) | [JugJug](https://open.spotify.com/artist/0TQrCbghgGxsHKZGkNqdyx), [Marlow P](https://open.spotify.com/artist/7g8NLtQXt19NjYo6qrkbyh) | [BUSY](https://open.spotify.com/album/1NZStWVb3AXdxG0AKEaK2L) | 4:16 | 2025-10-23 | 2026-01-15 |

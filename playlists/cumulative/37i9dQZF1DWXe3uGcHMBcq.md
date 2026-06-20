@@ -4,7 +4,7 @@
 
 > Rock out to the \*perfect\* songs from all your favorite Disney Channel shows and movies!
 
-205 songs - 9 hr 43 min
+206 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Heartstomper](https://open.spotify.com/track/2jjNCDLZoljRG90Rel7J73) | [Anna Akana](https://open.spotify.com/artist/0YSxCnmIwDDphTykhROUWe) | [Battle of the Bands \(From "Amphibia"\)](https://open.spotify.com/album/4Yf1dpX0HRQHj98XWKZz2i) | 1:38 | 2024-05-22 | 2026-03-26 |
 | [Here We Go](https://open.spotify.com/track/2GYOC7EBfXulEeezqHzhfZ) | [Adam Hicks](https://open.spotify.com/artist/3dctbbXhrRgigX1icexnws), [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Lemonade Mouth](https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ) | 2:52 | 2024-05-22 |  |
 | [Hero](https://open.spotify.com/track/3q3pZHncNkvIWJebMeuQqQ) | [Christopher Wilde](https://open.spotify.com/artist/533HtQP5btWIZcKlHJtEWK) | [StarStruck](https://open.spotify.com/album/3FmqQtzrqovhBNjJfqTjsx) | 3:16 | 2024-05-22 | 2026-05-16 |
+| [Hoedown Throwdown](https://open.spotify.com/track/6ntkwU1MhehTKgx4BWxX3f) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:01 | 2026-06-19 |  |
 | [Holly Jolly Zolidays](https://open.spotify.com/track/5bDWUeuQ5XGEGp9v1S3z8t) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6), [Terry Hu](https://open.spotify.com/artist/5MQjEg9fHarQKj6FVZXQ6H), [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [Ariel Martin](https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42), [Kahyun Kim](https://open.spotify.com/artist/6I3GeKWE0BzFXprLkWWxeP), [Trevor Tordjman](https://open.spotify.com/artist/4cCKeV2O9AE36tLDYlyVZt), [Milo Manheim](https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5), [Kingston Foster](https://open.spotify.com/artist/08UrdFER3TwYUs2CzF252x), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5) | [Santler Claws Is Comin' To Town \(From "ZOMBIES: The Re\-Animated Series"\)](https://open.spotify.com/album/7uKBHAkOIOUBChOqbmEXHP) | 1:27 | 2024-12-06 | 2025-03-26 |
 | [I Am Who I Am](https://open.spotify.com/track/0v19Z17NOuQgmSDEQAaU3T) | [Samantha J\. Powell](https://open.spotify.com/artist/3Id8OBZnurFgLVQ743f500), [Marvel’s Moon Girl and Devil Dinosaur \- Cast](https://open.spotify.com/artist/5ziHQJ5duPlNgarkw4pmzV) | [Marvel's Moon Girl and Devil Dinosaur: Season 2 \- Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/45kuhHfvZJ1P3IrG54cSil) | 3:20 | 2025-02-21 |  |
 | [I Don't Dance](https://open.spotify.com/track/6p6TjiJHc1kJQt5dXzkdrs) | [CHAD](https://open.spotify.com/artist/75sB8pfxoJHfFPWY6fOyp9), [Lucas Grabeel](https://open.spotify.com/artist/0Ybn7NBu1okFzrFdrhzZs4), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 2 \(Original Soundtrack\)](https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49) | 3:37 | 2024-05-22 |  |

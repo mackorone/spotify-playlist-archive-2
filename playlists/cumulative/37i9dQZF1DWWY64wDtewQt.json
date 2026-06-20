@@ -10073,6 +10073,32 @@
     },
     {
       "album": {
+        "name": "MONTAGEM CONTAGION",
+        "url": "https://open.spotify.com/album/4DlGKq5EO0Slvqek5vOBEU"
+      },
+      "artists": [
+        {
+          "name": "SXXIKSER",
+          "url": "https://open.spotify.com/artist/7vqblR2qu0exeQWKaDxpdL"
+        },
+        {
+          "name": "weezyrsx",
+          "url": "https://open.spotify.com/artist/40wHE22g6LncLlOebhziyB"
+        },
+        {
+          "name": "Matra!",
+          "url": "https://open.spotify.com/artist/74zmQLLL7XinbAtJCgMgNJ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87581,
+      "name": "MONTAGEM CONTAGION - Super Slowed",
+      "url": "https://open.spotify.com/track/5qPVt7YojeqiBTix4XqCCv"
+    },
+    {
+      "album": {
         "name": "Montagem Coral",
         "url": "https://open.spotify.com/album/2VKY7nldcrex9oGUdr0ahM"
       },

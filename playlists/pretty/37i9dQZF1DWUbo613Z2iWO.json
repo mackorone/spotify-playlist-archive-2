@@ -1,13 +1,53 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: DAMEDAME*",
-  "num_followers": 59494,
+  "description": "R&B of the moment by the artists of the future. Cover: Dylan Sinclair",
+  "num_followers": 59500,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHpLlUf1ZrHaWf18Lw2lBR0tTcVr",
+  "snapshot_id": "AAAAAOWQvW+248krQtU1zMyJCFesvVbX",
   "tracks": [
+    {
+      "added_at": "2026-06-19 04:01:58",
+      "album": {
+        "name": "Make You Feel",
+        "url": "https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Spray (with JVCK JAMES)",
+      "url": "https://open.spotify.com/track/2mGxhluEmuB06abqZBzVUK"
+    },
+    {
+      "added_at": "2026-06-19 04:01:58",
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Aura (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI"
+    },
     {
       "added_at": "2026-06-12 05:12:18",
       "album": {
@@ -57,6 +97,38 @@
       "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
     },
     {
+      "added_at": "2026-06-19 04:01:58",
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/5yVOyzUQcQFGsXkn8IsSI6"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/5yE7OnSteFeItR1YlmV9WI"
+    },
+    {
+      "added_at": "2026-06-19 04:01:58",
+      "album": {
+        "name": "SOULSTAR DELUXE",
+        "url": "https://open.spotify.com/album/0CN5V9O6Ldnu5OIDfMndUB"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 203458,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/5l0FelDpLcRGzvpYhT9eCH"
+    },
+    {
       "added_at": "2026-06-12 05:12:18",
       "album": {
         "name": "Go To Hell",
@@ -73,20 +145,20 @@
       "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
     },
     {
-      "added_at": "2026-06-05 04:01:54",
+      "added_at": "2026-06-19 04:01:58",
       "album": {
-        "name": "Holding Back",
-        "url": "https://open.spotify.com/album/2JNlTV4RIRVGlNZScebsOK"
+        "name": "Luh Mo' Love",
+        "url": "https://open.spotify.com/album/07YxYfJhhvXyhXHUPOLthY"
       },
       "artists": [
         {
-          "name": "Ama",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+          "name": "EJ Jones",
+          "url": "https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC"
         }
       ],
-      "duration_ms": 199533,
-      "name": "Holding Back",
-      "url": "https://open.spotify.com/track/2VUqrHj4z85HUBMQVdjqmj"
+      "duration_ms": 220462,
+      "name": "Luh Mo' Love",
+      "url": "https://open.spotify.com/track/22fjiuuHawoPEnh9f0zL68"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -119,6 +191,58 @@
       "duration_ms": 235088,
       "name": "Not So Sweet",
       "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
+    },
+    {
+      "added_at": "2026-06-05 04:01:54",
+      "album": {
+        "name": "Papercut",
+        "url": "https://open.spotify.com/album/5q3xwmFq7Hgfyq6UUCgwpf"
+      },
+      "artists": [
+        {
+          "name": "Imani Imani",
+          "url": "https://open.spotify.com/artist/6xVhh5b5hrrFjSjBcSuQRQ"
+        }
+      ],
+      "duration_ms": 161843,
+      "name": "On Demand",
+      "url": "https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO"
+    },
+    {
+      "added_at": "2026-06-19 04:01:58",
+      "album": {
+        "name": "SOULAR (Deluxe)",
+        "url": "https://open.spotify.com/album/72m9kSdJefQyIOqeU7DVFz"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 155603,
+      "name": "Vanilla Skies",
+      "url": "https://open.spotify.com/track/6PPEgkKFHX2nvAr9eqICGV"
+    },
+    {
+      "added_at": "2026-06-19 04:01:58",
+      "album": {
+        "name": "FOR MIA",
+        "url": "https://open.spotify.com/album/3BUVBlmEdSCcGbScFDdy6t"
+      },
+      "artists": [
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/46ybPDszzb4l79tSMWZZAY"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -169,20 +293,20 @@
       "url": "https://open.spotify.com/track/6T0LS3bIOw6P74s8ZaGmNN"
     },
     {
-      "added_at": "2026-06-05 04:01:54",
+      "added_at": "2026-06-19 04:01:58",
       "album": {
-        "name": "Papercut",
-        "url": "https://open.spotify.com/album/5q3xwmFq7Hgfyq6UUCgwpf"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/1U22hjL3og5gV4xC2x7mQz"
       },
       "artists": [
         {
-          "name": "Imani Imani",
-          "url": "https://open.spotify.com/artist/6xVhh5b5hrrFjSjBcSuQRQ"
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
         }
       ],
-      "duration_ms": 161843,
-      "name": "On Demand",
-      "url": "https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO"
+      "duration_ms": 210214,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5yN8X3TofBg9IhN0jlb1XI"
     },
     {
       "added_at": "2026-06-05 04:01:54",
@@ -643,26 +767,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Laugh Later, Cry Now",
-        "url": "https://open.spotify.com/album/7kNkExIne21fch2RNJkvTJ"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        },
-        {
-          "name": "CARI",
-          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
-        }
-      ],
-      "duration_ms": 130235,
-      "name": "Laugh Later, Cry Now",
-      "url": "https://open.spotify.com/track/4i7sF4JEHhRzzBbokH1kIS"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Map Of Her Shadow",
         "url": "https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW"
       },
@@ -847,22 +951,6 @@
       "duration_ms": 148058,
       "name": "NEW HEADSTONE need MIX",
       "url": "https://open.spotify.com/track/63GhJimM2V6SKAa8NLTU6p"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "So\u2026",
-        "url": "https://open.spotify.com/album/0OzdBCnFDAXd02FELiFPuN"
-      },
-      "artists": [
-        {
-          "name": "Ama",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        }
-      ],
-      "duration_ms": 196631,
-      "name": "So\u2026",
-      "url": "https://open.spotify.com/track/1W31Osw7XybJ4YcS3NCOZ5"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -1207,22 +1295,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Higher Power",
-        "url": "https://open.spotify.com/album/5Idywy5cDCM5PO1N0ork1x"
-      },
-      "artists": [
-        {
-          "name": "James Savage",
-          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
-        }
-      ],
-      "duration_ms": 173743,
-      "name": "Higher Power",
-      "url": "https://open.spotify.com/track/4E6p9AY52g3h1A4eGD2YmF"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Splinter",
         "url": "https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB"
       },
@@ -1251,22 +1323,6 @@
       "duration_ms": 193100,
       "name": "Your Loss",
       "url": "https://open.spotify.com/track/1JQBKgAqvQ16UrJh5zeZ49"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/4oNiVZ9G3qyfQYLYU48w10"
-      },
-      "artists": [
-        {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
-        }
-      ],
-      "duration_ms": 195063,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/1JTXX2PRBauOOKWiR1sOkU"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -2571,22 +2627,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "w.t.a.",
-        "url": "https://open.spotify.com/album/37GWgZAdzbzzVm81jpIC6M"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 202564,
-      "name": "w.t.a.",
-      "url": "https://open.spotify.com/track/0E0A9dqRSYlXufh90ZMrxH"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "BACKWARD",
         "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
       },
@@ -2875,22 +2915,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "ijan",
-        "url": "https://open.spotify.com/album/46w2hjL3YXuL9BYMRoo5p1"
-      },
-      "artists": [
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "somewhere in the world",
-      "url": "https://open.spotify.com/track/3HnnRFYdAqC6lRQZx07fxu"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Bet",
         "url": "https://open.spotify.com/album/0OYistQeliN0hrwOmOUd7j"
       },
@@ -2923,26 +2947,6 @@
       "duration_ms": 160528,
       "name": "COME OVER (feat. WanMor)",
       "url": "https://open.spotify.com/track/0DK1f5rcYqVE80FYAMJlIj"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Gas Station Love (remix)",
-        "url": "https://open.spotify.com/album/7raN9uFr6FwxhFB1R6R0D3"
-      },
-      "artists": [
-        {
-          "name": "EJ Jones",
-          "url": "https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 245100,
-      "name": "Gas Station Love - remix",
-      "url": "https://open.spotify.com/track/43uvpEvaYB3jxp6TqIwzON"
     },
     {
       "added_at": "2026-05-29 04:02:53",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,783 likes - 140 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,793 likes - 140 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Higher](https://open.spotify.com/track/6tXMGNLpiWwkOLMDdP4vDe) | [SS City](https://open.spotify.com/artist/4OpSoBF444VaTHCWmhEzWn), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Higher](https://open.spotify.com/album/1vUikz4q80C4CMnoygne2G) | 2:24 |
 | 2 | [We Raise A Sound](https://open.spotify.com/track/25roQKgZN5cEzxI9DmvJHX) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/6E4YUnHFOOfL57krwBfgYl), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [We Raise A Sound](https://open.spotify.com/album/5ekhrynccEoe3lkq2c5wKh) | 8:22 |
 | 3 | [We will be many](https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [We will be many](https://open.spotify.com/album/4zBbD33yMF8YXqJPZDhAHX) | 3:14 |
-| 4 | [Track 1](https://open.spotify.com/track/6xVJYsNecWgmm603J0anpo) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Jesus is King](https://open.spotify.com/album/1aL7Zg1pDDo4Y1cjJDQ2fE) | 0:00 |
+| 4 | [Eze](https://open.spotify.com/track/6xVJYsNecWgmm603J0anpo) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/6E4YUnHFOOfL57krwBfgYl) | [Jesus is King](https://open.spotify.com/album/1aL7Zg1pDDo4Y1cjJDQ2fE) | 10:21 |
 | 5 | [ABBA FATHER \- raw](https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [ABBA FATHER \(raw\)](https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia) | 1:08 |
 | 6 | [Boku](https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [God, In all Seasons](https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc) | 3:57 |
 | 7 | [First and Last](https://open.spotify.com/track/0DkQE2DHIbCqMqdN4r28KF) | [Kainos Music](https://open.spotify.com/artist/0fe4LUoWX5oSySWjoN54YG), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [First and Last](https://open.spotify.com/album/2L9UxgoDgpQcOKlbkkztzB) | 8:15 |

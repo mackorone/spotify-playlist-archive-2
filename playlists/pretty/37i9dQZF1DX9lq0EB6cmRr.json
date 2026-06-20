@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \uc870\uc218\ubbf8(Sumi Jo)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5736,
+  "num_followers": 5735,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,26 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Chopin: \u00c9tudes, Opp. 10 & 25",
+        "url": "https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "duration_ms": 330693,
+      "name": "12 Etudes, Op. 25: No. 7 in C-Sharp Minor \"Cello\"",
+      "url": "https://open.spotify.com/track/0RAyUDOpyH8kYaNgVEWuMn"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Mozart: Die Zauberfl\u00f6te",
         "url": "https://open.spotify.com/album/0e8ebBTgGPU7a1KSUPm1fA"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 249240,
       "name": "Die Zauberfl\u00f6te, K. 620, Act II: No. 14, Der H\u00f6lle Rache \"Queen of the Night Aria\"",
       "url": "https://open.spotify.com/track/74R148YlWFrVqVTM1gjq6A"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Chopin: \u00c9tudes, Opp. 10 & 25",
-        "url": "https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Yunchan Lim",
-          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
-        }
-      ],
-      "duration_ms": 330693,
-      "name": "12 Etudes, Op. 25: No. 7 in C-Sharp Minor \"Cello\"",
-      "url": "https://open.spotify.com/track/0RAyUDOpyH8kYaNgVEWuMn"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Chopin: Piano Concerto No. 1; Ballades (Deluxe)",
+        "url": "https://open.spotify.com/album/0jvv6FS3zxUe56530Gjq4d"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "duration_ms": 469613,
+      "name": "Ballade No. 3 in A Flat Major, Op. 47",
+      "url": "https://open.spotify.com/track/6dcLNkvKE7zsCUqsMYM0eT"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Rachmaninoff: Piano Concerto No. 3 (Live from the 2022 Cliburn Competition)",
         "url": "https://open.spotify.com/album/0PTxe1JTvE79g8q92tjV0w"
       },
@@ -539,22 +559,18 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Chopin: Piano Concerto No. 1; Ballades (Deluxe)",
-        "url": "https://open.spotify.com/album/0jvv6FS3zxUe56530Gjq4d"
+        "name": "The Forestella",
+        "url": "https://open.spotify.com/album/6hs2qZO4ybDSIudDKpgxxU"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Seong-Jin Cho",
-          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
         }
       ],
-      "duration_ms": 469613,
-      "name": "Ballade No. 3 in A Flat Major, Op. 47",
-      "url": "https://open.spotify.com/track/6dcLNkvKE7zsCUqsMYM0eT"
+      "duration_ms": 284920,
+      "name": "My Heart Will Go On",
+      "url": "https://open.spotify.com/track/12Lo4EX0wt5uhUtKPwIaXe"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -587,22 +603,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "The Forestella",
-        "url": "https://open.spotify.com/album/6hs2qZO4ybDSIudDKpgxxU"
-      },
-      "artists": [
-        {
-          "name": "Forestella",
-          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
-        }
-      ],
-      "duration_ms": 284920,
-      "name": "My Heart Will Go On",
-      "url": "https://open.spotify.com/track/12Lo4EX0wt5uhUtKPwIaXe"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Ravel: The Complete Solo Piano Works",
         "url": "https://open.spotify.com/album/2I4Npa3S0lc14yerFPlLOj"
       },
@@ -619,6 +619,26 @@
       "duration_ms": 333133,
       "name": "Jeux d'eau, M. 30",
       "url": "https://open.spotify.com/track/22M8OkY0FrVRx6wqxS3eQW"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Chopin: \u00c9tudes, Opp. 10 & 25",
+        "url": "https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "duration_ms": 136200,
+      "name": "12 Etudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
+      "url": "https://open.spotify.com/track/27Tl9HCe5JKqqKVD9Mko3l"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -647,26 +667,6 @@
       "duration_ms": 653320,
       "name": "Piano Concerto No. 3 in D Minor, Op. 30: II. Intermezzo. Adagio - Live from the 2022 Cliburn Competition",
       "url": "https://open.spotify.com/track/34aRAR8kZkj4rdIsTJuiuQ"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Chopin: \u00c9tudes, Opp. 10 & 25",
-        "url": "https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Yunchan Lim",
-          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
-        }
-      ],
-      "duration_ms": 136200,
-      "name": "12 Etudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
-      "url": "https://open.spotify.com/track/27Tl9HCe5JKqqKVD9Mko3l"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "MOZART: Piano Works 1",
+        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
+      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Connected",
         "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 314573,
       "name": "8 Humoresques, Op.101: No.7, Poco lento e grazioso (Arr. for Violin, Vibraphone and Piano by Cho Yoonseung)",
       "url": "https://open.spotify.com/track/78BAlsZXq7OxquB7hsz4TM"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "MOZART: Piano Works 1",
-        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Kun-Woo Paik",
-          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
-      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Enrique Granados \u2013 Goyescas",
-        "url": "https://open.spotify.com/album/75PVaNZ1N9kSQ085p5ABAs"
-      },
-      "artists": [
-        {
-          "name": "Enrique Granados",
-          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
-        },
-        {
-          "name": "Kun-Woo Paik",
-          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
-        }
-      ],
-      "duration_ms": 412120,
-      "name": "Goyescas (Suite): No. 4, Quejas o la maja y el ruise\u00f1or",
-      "url": "https://open.spotify.com/track/6OHAz2t0UYmbMVvLQBQK9O"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "MOZART: Piano Works 1",
         "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 323600,
       "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
       "url": "https://open.spotify.com/track/6glPeRqNYvyWQs8hhHw3Cd"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Enrique Granados \u2013 Goyescas",
+        "url": "https://open.spotify.com/album/75PVaNZ1N9kSQ085p5ABAs"
+      },
+      "artists": [
+        {
+          "name": "Enrique Granados",
+          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "duration_ms": 412120,
+      "name": "Goyescas (Suite): No. 4, Quejas o la maja y el ruise\u00f1or",
+      "url": "https://open.spotify.com/track/6OHAz2t0UYmbMVvLQBQK9O"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
-      },
-      "artists": [
-        {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Camellia",
-      "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "MOZART: Piano Works 1",
         "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 157946,
       "name": "In Love",
       "url": "https://open.spotify.com/track/5sCjHL8W4IwCIwAegbL1x8"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Camellia",
+      "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1971,46 +1971,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Une Vie",
-        "url": "https://open.spotify.com/album/35ZxJ2C6cLe4x9mkWrR4xL"
-      },
-      "artists": [
-        {
-          "name": "Denis Sungho",
-          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
-        }
-      ],
-      "duration_ms": 253360,
-      "name": "Une Vie Part 1",
-      "url": "https://open.spotify.com/track/66V6BzDDI5U9xEsrB5tTkK"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Beethoven: Variations for violoncello and piano",
-        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Jungin Huh",
-          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
-        },
-        {
-          "name": "Ilya Rashkovskiy",
-          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
-        }
-      ],
-      "duration_ms": 329653,
-      "name": "Adelaide from Lieder, Op. 46 (arr. for Cello and Piano)",
-      "url": "https://open.spotify.com/track/6EcYdrzLVl1etzZi1ZQmaL"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Lost In Memory",
         "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
       },
@@ -2023,6 +1983,42 @@
       "duration_ms": 279613,
       "name": "The Red String",
       "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Beethoven: Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "HieYon Choi",
+          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
+        }
+      ],
+      "duration_ms": 441320,
+      "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo",
+      "url": "https://open.spotify.com/track/4w5ukjojktIUJSGJMcPqNb"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Une Vie",
+        "url": "https://open.spotify.com/album/35ZxJ2C6cLe4x9mkWrR4xL"
+      },
+      "artists": [
+        {
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
+        }
+      ],
+      "duration_ms": 253360,
+      "name": "Une Vie Part 1",
+      "url": "https://open.spotify.com/track/66V6BzDDI5U9xEsrB5tTkK"
     },
     {
       "added_at": "2026-05-07 06:03:41",

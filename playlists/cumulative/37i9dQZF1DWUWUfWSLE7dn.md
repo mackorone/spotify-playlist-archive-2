@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-200 songs - 9 hr 47 min
+201 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Snow Scene](https://open.spotify.com/track/6tlqa8M2qLusIX5eSG1fJQ) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Snow Scene](https://open.spotify.com/album/745UVNtTG3NGjMV85zFIld) | 3:01 | 2022-06-10 | 2022-11-09 |
 | [Softly Falling](https://open.spotify.com/track/1JlfK3eRD9gaZmkshcaNOp) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Softly Falling](https://open.spotify.com/album/33n2a5JdDY8gn8QmrAyI0K) | 2:45 | 2024-11-15 |  |
 | [Solitaire](https://open.spotify.com/track/4aXSGPgISzXyLxWubWj9hs) | [Carlos Hof](https://open.spotify.com/artist/34Il5iurwAMrpEHqVpbYDX) | [Places](https://open.spotify.com/album/6k4KdkEC2YrybTUP1660tc) | 2:25 | 2025-08-08 |  |
+| [Solution](https://open.spotify.com/track/6IOcpBgFb73lTEooi8iMtu) | [Ketil Bjørnstad](https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph), [Sandra Lied Haga](https://open.spotify.com/artist/18xWcfRbbPRIpnPwoFBojM) | [Solution](https://open.spotify.com/album/05oTPFtZfXZ4DHkkvvo8Ql) | 6:15 | 2026-06-19 |  |
 | [Someone Loves Us](https://open.spotify.com/track/0owIthsU5nNNPLK6MjdVOe) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 1:56 | 2022-11-08 |  |
 | [Stay With Me](https://open.spotify.com/track/2pd2wOETmzx0aTj7tnW5ID) | [Ivan Ibáñez](https://open.spotify.com/artist/0fV6GdJtP7B0zT4rmLmpUK), [Telecinco](https://open.spotify.com/artist/0XObwctODgMjE22VStmpUZ) | [Stay With Me](https://open.spotify.com/album/7DHqNJ9J58QRnsBDfuPOm0) | 1:41 | 2022-05-20 | 2022-11-09 |
 | [Storybook](https://open.spotify.com/track/71G421mQ7cWLT81NM5cOmu) | [Geoff Zanelli](https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd), [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Christopher Robin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Gb5WNBbET7YCwhyLd4ACK) | 1:22 | 2022-11-08 |  |

@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-267 songs - 22 hr 50 min
+268 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc) | 4:30 | 2022-06-23 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0kHc5lXxGsf4Dfe0iLhEsE) | [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/6onu3dtSozmPb5GBbcXL3m) | 5:15 | 2021-12-21 | 2023-02-23 |
 | [In This Moment](https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [In This Moment](https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G) | 3:43 | 2023-02-07 |  |
+| [In Your Own Sweet Way \- March 16, 1956 Version / Remastered 2026](https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles '56 \(Remastered 2026\)](https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU) | 4:34 | 2026-06-19 |  |
 | [Indian Summer](https://open.spotify.com/track/0gb4iUX1t4GJTE1ljMacEI) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Indian Summer](https://open.spotify.com/album/2SVFivIaBfPoqoFUviRirL) | 4:04 | 2022-02-10 | 2026-04-11 |
 | [Indian Summer](https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:04 | 2022-06-30 | 2024-04-19 |
 | [It Ain’t Necessarily So](https://open.spotify.com/track/0vwTHK0RI01avuLIrAHp8C) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Mary Lou Williams Presents Black Christ of the Andes](https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy) | 4:45 | 2025-11-21 |  |
@@ -128,7 +129,7 @@
 | [Let Me Take You for a Walk](https://open.spotify.com/track/12OrCaKyaaigMeFxCsHqxV) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Sun of June](https://open.spotify.com/album/5LzRK06BTasIf2T4H61zZm) | 5:06 | 2024-03-29 | 2026-03-21 |
 | [Let Me Take You for a Walk](https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Sun of June](https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4) | 5:06 | 2023-06-20 | 2024-04-19 |
 | [Liberated Brother](https://open.spotify.com/track/4ZVsHkOW4A3ChH1yeLqi1I) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [In Pursuit Of The 27th Man](https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp) | 5:23 | 2021-12-21 | 2022-09-28 |
-| [Little Bird of Passage](https://open.spotify.com/track/7Ax5oHgngxCgqJNsBBzaub) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Little Bird of Passage](https://open.spotify.com/album/2qRhnK6la2N6J1JMX6KeFT) | 5:21 | 2022-11-24 |  |
+| [Little Bird of Passage](https://open.spotify.com/track/7Ax5oHgngxCgqJNsBBzaub) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Little Bird of Passage](https://open.spotify.com/album/2qRhnK6la2N6J1JMX6KeFT) | 5:21 | 2022-11-24 | 2026-06-20 |
 | [Little Bird of Passage](https://open.spotify.com/track/5rIX9VD7y3GQW84rAzKyNI) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Migrating Songs](https://open.spotify.com/album/2lyItKoOOi0zMy7PNviiqF) | 5:22 | 2023-03-22 | 2024-04-19 |
 | [Lookin' Up](https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/1bQocL3Muez9zJLuA4JjVx) | [Lookin' Up](https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk) | 3:02 | 2022-11-24 | 2026-05-23 |
 | [Loose Caboose](https://open.spotify.com/track/2K9ntrYpyBdgpUhzR4w1H6) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [In a Sentimental Mood](https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l) | 3:48 | 2022-06-30 | 2024-01-18 |

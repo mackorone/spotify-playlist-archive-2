@@ -1,13 +1,29 @@
 {
   "description": "NSFW",
-  "num_followers": 11564,
+  "num_followers": 11643,
   "original_name": "sexy afro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAENG4r8Z0cU2zuLtZkfAYCQ6a7zK",
+  "snapshot_id": "AAAAADy1AUFiZEMFZ7fUdNuC06Fz9oK3",
   "tracks": [
+    {
+      "added_at": "2026-06-19 14:37:35",
+      "album": {
+        "name": "Red Benz",
+        "url": "https://open.spotify.com/album/4vqzeWLjVBjADTJT7wzERb"
+      },
+      "artists": [
+        {
+          "name": "EKENE",
+          "url": "https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP"
+        }
+      ],
+      "duration_ms": 186503,
+      "name": "Red Benz",
+      "url": "https://open.spotify.com/track/4p1OLcAB4oDmhboqikTuHG"
+    },
     {
       "added_at": "2026-06-19 00:02:05",
       "album": {

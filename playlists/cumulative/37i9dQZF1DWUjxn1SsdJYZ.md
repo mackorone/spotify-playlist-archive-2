@@ -2,9 +2,9 @@
 
 ### [Local Hype](https://open.spotify.com/playlist/37i9dQZF1DWUjxn1SsdJYZ)
 
-> The best new AUS & NZ Rap\. Cover: Rops1
+> The best new AUS & NZ Rap\. Cover: Chillinit
 
-1,588 songs - 3 day 1 hr 55 min
+1,589 songs - 3 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,6 +811,7 @@
 | [Lost For Words](https://open.spotify.com/track/4H9YOgkf9tWbOWgyHT8pWf) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Lost For Words](https://open.spotify.com/album/2Xp7aMi4BihxB4ypHhDOAJ) | 3:25 | 2025-09-18 | 2026-02-13 |
 | [LOST SOULS](https://open.spotify.com/track/0HTn7A9rEj6i7qRyCMrJLo) | [Kid Rey](https://open.spotify.com/artist/7o3qyJI8ODvWje1f5U52jp) | [LOST SOULS](https://open.spotify.com/album/589yXgWUhVd5EvKlIDaBx1) | 1:53 | 2023-10-26 | 2024-02-16 |
 | [Loui & Trap](https://open.spotify.com/track/48tSd85jnXAcvs9XAwIl4S) | [Hoodllandsz](https://open.spotify.com/artist/5mzjS8h7chFyWJFtA1HbcZ) | [Loui & Trap](https://open.spotify.com/album/4Oc00JjKH0zxbqIz4hJA7R) | 2:45 | 2023-07-13 | 2023-10-27 |
+| [Louie V](https://open.spotify.com/track/4bWPw0TEHHWsd1OwaIbvg3) | [CV](https://open.spotify.com/artist/5KJ5ykum0wqQtJF4krqGiS), [4orttune](https://open.spotify.com/artist/3YLy0CeBiLqr1PWAk6pnMp) | [For The Streets](https://open.spotify.com/album/2dcGIPqSec1V3V9OlZPOsR) | 2:07 | 2026-06-18 |  |
 | [Love For My Brothers](https://open.spotify.com/track/7ItsTOrorRRrkssIJXcNhK) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Love For My Brothers](https://open.spotify.com/album/79wnjeKYX6lZ7skUtJdTA1) | 2:52 | 2025-10-16 | 2026-02-27 |
 | [Love For My City](https://open.spotify.com/track/2oRJpZouHzN9Ly9PXgfzt3) | [See Naylors](https://open.spotify.com/artist/6qj1QgWdBHPCpPNz95wAot), [Zulu](https://open.spotify.com/artist/0eW1LoDjWUp5RxC5o6FDOX) | [Love For My City](https://open.spotify.com/album/0ZfRzGnc5emWL5nwbhmuJU) | 3:02 | 2022-05-05 | 2022-07-26 |
 | [Love Us Now](https://open.spotify.com/track/4V5hzyGVsBCEEYWySZDIOo) | [FMB](https://open.spotify.com/artist/1Kk4fSEcYeC4Z02ie8ZntE) | [Love Us Now](https://open.spotify.com/album/1OPn7cUUNM8YTDkvLubzIc) | 4:16 | 2022-09-29 | 2023-02-24 |
@@ -1049,6 +1050,7 @@
 | [PEAKED IN HIGH SCHOOL](https://open.spotify.com/track/1PEd6A29gWcXKat3abgtBh) | [WHO SHOT SCOTT](https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP) | [PEAKED IN HIGH SCHOOL](https://open.spotify.com/album/1lD7NCUKXloAuG7GqBJtxM) | 2:45 | 2026-05-07 |  |
 | [Pen To Paint](https://open.spotify.com/track/2puxNG3HvkrK8LfyNQts3o) | [Name UL](https://open.spotify.com/artist/4FJ0TYqGMHOXE9nIcZLAHv) | [Pen To Paint](https://open.spotify.com/album/75iJkKjWTh3WI532gEVgfw) | 2:40 | 2024-08-23 | 2024-11-15 |
 | [PENTHOUSE](https://open.spotify.com/track/4v2FKavHU5zVItKJzEYXuf) | [Anfa Rose](https://open.spotify.com/artist/6QyD04sHvKf1AjxkXrNRk1) | [PENTHOUSE](https://open.spotify.com/album/7HaBdu4Z4JMVMYvuZw0gjI) | 2:21 | 2026-04-23 |  |
+| [Perfect Tension](https://open.spotify.com/track/6kRUXZseQ0oUik1DeyffDK) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Wisdom Weed & Wordplay](https://open.spotify.com/album/6jZyq1IWlq8I3XKY8FK6kP) | 3:05 | 2026-06-19 |  |
 | [Phone Call \(feat\. Mabel\)](https://open.spotify.com/track/6W96fdY4F8f7E25vVJ4kMg) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [PHONE CALL](https://open.spotify.com/album/3ZeJ9Lo4KfxPDzYD6GrW1M) | 3:09 | 2025-02-13 | 2025-06-20 |
 | [PHUB](https://open.spotify.com/track/7sxhYc77TLlzwcngXPDI7C) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [PHUB](https://open.spotify.com/album/7ok21RJ2PDTpW5kQSMCjaD) | 1:57 | 2026-02-26 | 2026-05-29 |
 | [PINK PORSCHE](https://open.spotify.com/track/5CH3HucKWPtnT9THBXfBm6) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [PINK PORSCHE](https://open.spotify.com/album/0iWaEQUQrea3AijA0JUaUk) | 1:32 | 2025-10-30 | 2026-01-15 |
@@ -1414,7 +1416,6 @@
 | [Tough Love](https://open.spotify.com/track/7JmctumoH7K1lDaKlx5I6q) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh) | [Tough Love / No Other](https://open.spotify.com/album/1WYpq3GHsaOCsHpC7ezJca) | 2:18 | 2025-10-23 | 2025-11-28 |
 | [Toxic](https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq) | [Huskii](https://open.spotify.com/artist/7uXoqYYwYwTUMF2zSF9Fwl) | [Antihero](https://open.spotify.com/album/6WM5kbNyUzZ2UWl4GbS0rV) | 3:52 | 2022-03-21 | 2022-07-05 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-08-16 |
-| [Track 6](https://open.spotify.com/track/4bWPw0TEHHWsd1OwaIbvg3) | [CV](https://open.spotify.com/artist/5KJ5ykum0wqQtJF4krqGiS) | [For The Streets](https://open.spotify.com/album/2dcGIPqSec1V3V9OlZPOsR) | 0:00 | 2026-06-18 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/2LUxHvlSFN6iozCYnzJ5Us) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA) | 2:42 | 2022-12-04 | 2023-01-20 |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-11 | 2022-12-05 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-02 | 2023-04-21 |

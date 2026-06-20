@@ -4,7 +4,7 @@
 
 > the best underground club tracks for party criminals ⚔️ featuring Surusinghe ⚔️
 
-1,049 songs - 3 day 3 hr 11 min
+1,053 songs - 3 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Aria](https://open.spotify.com/track/2bBvkqFf4jFssDHYOxDUrU) | [Ehua](https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50) | [Panta Rei](https://open.spotify.com/album/3yQacbQfDovjruUyUy7BN4) | 4:45 | 2025-05-02 | 2025-09-06 |
 | [Arriba](https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Arriba](https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L) | 2:19 | 2021-12-10 | 2024-07-13 |
 | [Art Form](https://open.spotify.com/track/3DNwxBmythdYsgWhllekxe) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Art Form](https://open.spotify.com/album/7f3Ci8ekMScYRGovYnpHL9) | 4:12 | 2025-03-29 | 2025-06-14 |
+| [Artificial](https://open.spotify.com/track/2DG2EhND9DmbXOsOJjOo5F) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [Talons](https://open.spotify.com/artist/0qiRTNQwfvA91BL30UBRu1) | [Attenuation EP](https://open.spotify.com/album/0Ha3XGv6XE8c0aODehJHuW) | 4:38 | 2026-06-19 |  |
 | [As We Proceed](https://open.spotify.com/track/0i8TZwd2oux6VcJ2nrh7o1) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [Talons](https://open.spotify.com/artist/0qiRTNQwfvA91BL30UBRu1) | [First Touch Archives 001](https://open.spotify.com/album/4StlwVdqS7u8hTDCQLxbNP) | 4:08 | 2025-09-05 | 2025-10-11 |
 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 | 2024-07-12 | 2024-10-02 |
 | [ASCEND](https://open.spotify.com/track/20cOEyAbHE1aq1FUaPCs1N) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [ASCEND](https://open.spotify.com/album/5QRbzvr5etZIqrGonFYr58) | 3:23 | 2025-10-10 | 2026-02-21 |
@@ -596,6 +597,7 @@
 | [Me Pide](https://open.spotify.com/track/51qy7qcn3QrVLh40TT71Yf) | [DJ Bondiola](https://open.spotify.com/artist/7is4ba3OLZ4WxYGU0rLXAr) | [Me Pide](https://open.spotify.com/album/3B85ZivoIXn5enaExzExMt) | 3:29 | 2025-01-07 | 2025-03-30 |
 | [ME PRENDI](https://open.spotify.com/track/21pWwZqMrslp34bc0LuBQl) | [INVT](https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D), [Introspekt](https://open.spotify.com/artist/31ykDn30Wy1xVAZJesUwgn) | [TECTÓNICA](https://open.spotify.com/album/7x1BNRhhEhnEgTtuv260On) | 3:43 | 2024-12-06 | 2025-02-22 |
 | [Mecha \- Peder Mannerfelt Remix](https://open.spotify.com/track/74wro4HBePR7hlHy3HQXSs) | [Doctor Jeep](https://open.spotify.com/artist/1vBAyx7wNfBDrAmWsGDRdA), [Peder Mannerfelt](https://open.spotify.com/artist/3IuyAl5gMAvYhn0VjRzC1g) | [Mecha](https://open.spotify.com/album/6a8VbX45UZnPCaFtwSRAId) | 6:15 | 2024-07-12 | 2024-10-02 |
+| [Media Vuelta](https://open.spotify.com/track/0Y9bPzog6xoyDvOYOpUZMN) | [CRRDR](https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I) | [Media Vuelta](https://open.spotify.com/album/3Fg36RoBFdb0xLIUEDe4xZ) | 3:53 | 2026-06-19 |  |
 | [MEET ME AT THE TEMPLE](https://open.spotify.com/track/68L0K7SulwNR6ycmdWrDib) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [MEET ME AT THE TEMPLE](https://open.spotify.com/album/2ccNs12BJ1r0V2p9veFuIg) | 4:57 | 2024-11-26 | 2025-02-01 |
 | [Meltzone](https://open.spotify.com/track/1e5EN2UEaEMY7sxqPc92Bo) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [My Supernova](https://open.spotify.com/album/3IftXbAVrGtxxvAZ0jGfc5) | 4:59 | 2025-11-07 | 2025-12-08 |
 | [Memento Mori](https://open.spotify.com/track/3pVFR3uGFL1H2hALhv8Wip) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Memento Mori](https://open.spotify.com/album/1vqpFHw3VdTdFfnDCSkYP4) | 5:01 | 2025-05-30 | 2025-08-23 |
@@ -632,6 +634,7 @@
 | [Naive Step One](https://open.spotify.com/track/5NFgTTCFrf6cRsDECD6D2E) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Naive Step One \(Part of Dekmantel Ten: A Decade of Dekmantel Festival \- The Loop\)](https://open.spotify.com/album/5zs22Z17Ah4WUBEummEwSH) | 4:28 | 2024-07-12 | 2024-08-10 |
 | [nasty](https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [nasty](https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN) | 2:55 | 2021-12-10 | 2024-07-13 |
 | [Need Right](https://open.spotify.com/track/6yfA9fcHa6BDSWU8Osy5OO) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Need Right / Dogma](https://open.spotify.com/album/1Mwbe4PnWuhMnLSzVBgDdx) | 4:38 | 2025-01-24 | 2025-06-14 |
+| [Needle Guy \(Nick León Remix\)](https://open.spotify.com/track/5nRwtnmXZrtznLlYxsJLtM) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Needle Guy \(Nick León Remix\)](https://open.spotify.com/album/2yj6UVHAHd3wfKDiHk0R5G) | 2:46 | 2026-06-19 |  |
 | [Neuromance](https://open.spotify.com/track/2ft3P7O0Rc8s0p1i8pUHGm) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Neuromance](https://open.spotify.com/album/65esYnNVTuI9Pg1GCYwMWW) | 3:06 | 2025-07-11 | 2025-10-04 |
 | [New Flesh](https://open.spotify.com/track/3daS9RrrNM5272DXNQtJjr) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx) | [New Flesh](https://open.spotify.com/album/5mHOEgjrycXRAtuvBdMBTE) | 2:37 | 2025-03-07 | 2025-05-03 |
 | [New Love](https://open.spotify.com/track/0kUJfjcWxnb5tB151esGYo) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [Inter Transit](https://open.spotify.com/album/1KpYPR1f9vjA6JPFOEGnI8) | 4:20 | 2024-08-09 | 2024-11-16 |
@@ -928,6 +931,7 @@
 | [think & dream](https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [think & dream](https://open.spotify.com/album/3NWgXYTeSZ5q7sM0sqrjsH) | 3:36 | 2026-01-23 |  |
 | [Thinking About You](https://open.spotify.com/track/7llDFqI7CEsHzeT7L5Au8Z) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Thinking About You](https://open.spotify.com/album/75SlnGZsGCrIUY3Skf2vA8) | 5:14 | 2025-03-24 | 2025-05-10 |
 | [Thirst](https://open.spotify.com/track/7sD9Y6qy01sSMaR7XNVTDl) | [Bodhi](https://open.spotify.com/artist/1C545778m57qWQwISWGAHD) | [Fade](https://open.spotify.com/album/5KqRrS3Qa2CpQCZMeA2B02) | 5:15 | 2025-11-07 | 2026-04-02 |
+| [Those Sundays \- Tim Reaper Remix](https://open.spotify.com/track/53XjUnqqVfPJne5l9qBBnD) | [Cut Face](https://open.spotify.com/artist/6ePW2VRCCUcvTreIndzgiF), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Those Sundays \(Tim Reaper Remix\)](https://open.spotify.com/album/6otlyi193aASlsxJlTLOMe) | 4:51 | 2026-06-19 |  |
 | [Three Dot](https://open.spotify.com/track/34j5OD6lAAO2LrwiMLTJXQ) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Three Dot](https://open.spotify.com/album/1fpDxLGsE3DyWw641lVaMH) | 3:42 | 2025-12-05 | 2026-01-15 |
 | [Three Foxes Chasing Each Other](https://open.spotify.com/track/29w9L75FEZgCB9C3EZHGCX) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Three Foxes Chasing Each Other](https://open.spotify.com/album/4Oxx3dkxEELjYheEQKGOXZ) | 7:13 | 2025-02-28 | 2025-05-17 |
 | [Tighten Up](https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT) | [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p) | [Tighten Up](https://open.spotify.com/album/3veDY7nOtuBTTbzD3SQDX3) | 2:03 | 2021-12-10 | 2024-07-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Myles Smith, Jazzy, Fredo, FKA twigs and more! ",
-  "num_followers": 1028553,
+  "num_followers": 1029466,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGoM7gusW0NcyTY8dLx35WN+x0z7",
+  "snapshot_id": "AAAAAD2YHG7uwOlRExF1KTVrn01NcMx+",
   "tracks": [
     {
       "added_at": "2026-06-18 23:00:48",
@@ -63,6 +63,22 @@
       "duration_ms": 139907,
       "name": "Favourite In The Slums",
       "url": "https://open.spotify.com/track/042sYOwgKGAdmc3321kqeR"
+    },
+    {
+      "added_at": "2026-06-19 08:45:52",
+      "album": {
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
     },
     {
       "added_at": "2026-06-18 23:00:48",
@@ -125,6 +141,26 @@
       "url": "https://open.spotify.com/track/1bz58ig0f6mpl7S79KhvvM"
     },
     {
+      "added_at": "2026-06-19 08:45:52",
+      "album": {
+        "name": "I Don't Wanna Hurt You",
+        "url": "https://open.spotify.com/album/6WHYJdxXL7sK9NDBLxOUMV"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 185610,
+      "name": "I Don't Wanna Hurt You",
+      "url": "https://open.spotify.com/track/6untI22mqrOtoK6EYkm1yY"
+    },
+    {
       "added_at": "2026-06-18 23:00:48",
       "album": {
         "name": "Get Away From Me (I Think I'll Love You Soon)",
@@ -171,6 +207,22 @@
       "duration_ms": 242248,
       "name": "Meet Me In Love",
       "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
+    },
+    {
+      "added_at": "2026-06-19 08:45:52",
+      "album": {
+        "name": "Pulling Me Back",
+        "url": "https://open.spotify.com/album/3eBm6Mn7LwLSeFhd1Q1nRi"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 152093,
+      "name": "Pulling Me Back",
+      "url": "https://open.spotify.com/track/055xwGslsVRd40NwsOrj5I"
     },
     {
       "added_at": "2026-06-18 23:00:48",
@@ -742,6 +794,10 @@
         {
           "name": "KennyHoopla",
           "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Albert Hammond Jr",
+          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
         }
       ],
       "duration_ms": 169155,
@@ -1051,6 +1107,38 @@
       "duration_ms": 215384,
       "name": "Bullshit",
       "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
+    },
+    {
+      "added_at": "2026-06-18 23:00:48",
+      "album": {
+        "name": "Why Love",
+        "url": "https://open.spotify.com/album/4ttxJ5LiFvyeQMFHnqFFGP"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 195192,
+      "name": "Why Love",
+      "url": "https://open.spotify.com/track/452HcoqVduPCwSoyCXBfKt"
+    },
+    {
+      "added_at": "2026-06-18 23:00:48",
+      "album": {
+        "name": "broken vase",
+        "url": "https://open.spotify.com/album/01IAsnb1GLx8tHiNv8MZvV"
+      },
+      "artists": [
+        {
+          "name": "SINN6R",
+          "url": "https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY"
+        }
+      ],
+      "duration_ms": 125294,
+      "name": "broken vase",
+      "url": "https://open.spotify.com/track/4bDetS185jvSXnqSDo4IhC"
     },
     {
       "added_at": "2026-06-18 23:00:48",

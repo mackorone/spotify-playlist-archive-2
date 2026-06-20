@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Brand of Sacrifice
 
-11,840 songs - 32 day 16 hr 41 min
+11,841 songs - 32 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3064,6 +3064,7 @@
 | [Drown Me](https://open.spotify.com/track/48XTpfKcCq17EpDLBKHmK3) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Cherry Blossom Nightmare](https://open.spotify.com/album/6PuOhzkFGXSantf2QQccmw) | 3:51 | 2022-11-18 | 2022-11-26 |
 | [Drowning](https://open.spotify.com/track/1oXT4tOrAoBiv0dvaPxS11) | [9 Dead](https://open.spotify.com/artist/5JV2PBzK9hKbN4fhUKJMUT) | [Drowning](https://open.spotify.com/album/2t8dfRsbX4msE4geqUqza2) | 2:57 | 2025-03-21 | 2025-03-29 |
 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 | 2023-01-27 | 2023-02-04 |
+| [Drowning](https://open.spotify.com/track/1yceuVJSJ9M082CzRdlBJN) | [Prompts](https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl) | [Parasite Dream](https://open.spotify.com/album/4Nq9TrgLJUpIOBhi6ZUbbX) | 4:13 | 2026-06-19 |  |
 | [Drowning](https://open.spotify.com/track/5cYXapV7EV0LHi7pf91OVS) | [VAELE](https://open.spotify.com/artist/1XLD4E99FKLOyk20YLtmqD), [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [Drowning](https://open.spotify.com/album/2EJuQbL1o3m2KPGHO4CfOd) | 3:30 | 2025-08-09 | 2025-08-30 |
 | [Drowning Hymns](https://open.spotify.com/track/7d7xw1X9PB4wofouAzCUmF) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Drowning Hymns](https://open.spotify.com/album/1MCtQ9NwguBIkM7IPs1EJf) | 4:19 | 2022-08-26 | 2022-09-03 |
 | [Drowning Therapy](https://open.spotify.com/track/3n45ukssmt5LytBudtXKNJ) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Drowning Therapy](https://open.spotify.com/album/4pYbjMjeqlKS6wwExr27G8) | 3:31 | 2024-10-11 | 2024-10-19 |
@@ -9328,7 +9329,7 @@
 | [stranger](https://open.spotify.com/track/4IrvVPKtfxX5dI6zZh74HN) | [elijah](https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy) | [stranger](https://open.spotify.com/album/6esgtCfG0M42IyMFlOigvX) | 3:20 | 2026-06-05 |  |
 | [Stranger](https://open.spotify.com/track/6qHxyLa8Q6m0FcQt0X7aF5) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [Stranger](https://open.spotify.com/album/5AHsLYiS9kjRJB7qLeAWB3) | 3:15 | 2023-08-18 | 2023-08-26 |
 | [Stranger](https://open.spotify.com/track/6zh6UsTUWtUAMdJFuqcE8g) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [Stranger](https://open.spotify.com/album/6WjeKPzm8A3ipzFBMQU3oy) | 3:20 | 2026-03-20 | 2026-04-11 |
-| [Stranger](https://open.spotify.com/track/1X4Jidr8dWPJQWMCaZUtwS) | [Prompts](https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl), [Landon Tewers](https://open.spotify.com/artist/3j4ihH7xANVDGQhcDFJby7) | [Stranger](https://open.spotify.com/album/3qO9WTYglFdQkNz1KXwW4J) | 3:36 | 2025-03-14 |  |
+| [Stranger](https://open.spotify.com/track/1X4Jidr8dWPJQWMCaZUtwS) | [Prompts](https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl), [Landon Tewers](https://open.spotify.com/artist/3j4ihH7xANVDGQhcDFJby7) | [Stranger](https://open.spotify.com/album/3qO9WTYglFdQkNz1KXwW4J) | 3:36 | 2025-03-14 | 2026-06-20 |
 | [Strangers](https://open.spotify.com/track/08OJvBrXGfdRSYRgIsxs6K) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Strangers](https://open.spotify.com/album/4DUyH9tRhpYEqbVqKCtrmG) | 3:49 | 2024-03-15 | 2024-03-23 |
 | [Strangers](https://open.spotify.com/track/1cbrvTs3sYdtQCWoOrk2VR) | [Sakoya](https://open.spotify.com/artist/0x2dZoTljdt9Pfv26DMJv3) | [Strangers](https://open.spotify.com/album/1TMM6MAO6NhoxA8S5U0SNp) | 3:06 | 2026-06-12 |  |
 | [Strangers](https://open.spotify.com/track/1YNpO2PZvHr3MwekivffQB) | [Sorcerer](https://open.spotify.com/artist/2x8EjPnpXK19ZNVgoWuFAm), [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Strangers](https://open.spotify.com/album/5Ce8rKh0mR6CitOLVaJXmW) | 6:08 | 2023-09-01 | 2023-09-09 |

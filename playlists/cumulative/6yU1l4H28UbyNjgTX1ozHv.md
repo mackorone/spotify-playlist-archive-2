@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-327 songs - 16 hr 43 min
+329 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,9 @@
 | [Don't Stop \- Acoustic](https://open.spotify.com/track/4oVMAdooQBRZrhsK5tlPOm) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Don't Stop \(Acoustic\)](https://open.spotify.com/album/2GzqGJVYPGFlz13klXHfqY) | 2:37 | 2023-08-21 | 2023-12-14 |
 | [Don't Stop Believin' \- Acoustic](https://open.spotify.com/track/2YB9lhvzoCxdyplFqrkCCh) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Don't Stop Believin' \(Acoustic\)](https://open.spotify.com/album/1HMNMxNhkhxdgQyxnfttoO) | 3:35 | 2021-04-05 | 2023-12-14 |
 | [Don’t Look Back In Anger \- Acoustic](https://open.spotify.com/track/3PkHsRaRZSkIEVc3UmJu16) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Don’t Look Back In Anger \(Acoustic\)](https://open.spotify.com/album/0OQ08gOxNKQF2REAMJcz7c) | 3:29 | 2020-02-21 | 2024-04-30 |
+| [Don’t Stop Believin’ \- Acoustic](https://open.spotify.com/track/7tJPalk1Sk0UQJtlZEQoxg) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Don’t Stop Believin’ \(Acoustic\)](https://open.spotify.com/album/6rDlVxIAFuNQAyQCRRMRMF) | 3:45 | 2026-06-19 |  |
 | [Dream a Little Dream of Me \- Acoustic](https://open.spotify.com/track/2FzyBzNl3GdsUEu6UYvgaa) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Dream a Little Dream of Me \(Acoustic\)](https://open.spotify.com/album/2G2lk9Ge11GkDwlBR9BbUJ) | 2:38 | 2024-05-29 | 2025-02-10 |
+| [Dream Catch Me \- Acoustic](https://open.spotify.com/track/6gGReVbDXMtNmgYAKLmDW3) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Dream Catch Me \(Acoustic\)](https://open.spotify.com/album/6vDSeFV2p6B3YANoUGyjeC) | 3:04 | 2026-06-19 |  |
 | [Dreams \- Acoustic](https://open.spotify.com/track/7yR5WMFuIBqq3hHTWs1j3B) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Dave Moffatt](https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY) | [Dreams \(Acoustic\)](https://open.spotify.com/album/23JGW0yrp2NyWwlhiOrjzY) | 2:56 | 2023-09-01 | 2024-02-10 |
 | [Drops of Jupiter](https://open.spotify.com/track/6tq7RIjiez8WkGE9LVFfPF) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Drops of Jupiter](https://open.spotify.com/album/4HiTD3yyQzgjbacLpZI4mN) | 3:38 | 2025-04-25 |  |
 | [Drops of Jupiter \- Acoustic](https://open.spotify.com/track/41Mw2D2PZpuIBGbAwQOE5L) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Drops of Jupiter \(Acoustic\)](https://open.spotify.com/album/1Ezpx8ekXRMKbhREQ0lnKq) | 2:49 | 2024-05-10 |  |
@@ -230,7 +232,7 @@
 | [Save the Best for Last \- Acoustic](https://open.spotify.com/track/2ZWFn3j8hz50G6bigMOLqj) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Save the Best for Last \(Acoustic\)](https://open.spotify.com/album/2ZLa6AUy1jNRGSdipoYdl3) | 2:45 | 2023-09-01 | 2024-02-10 |
 | [Say My Name \- Acoustic](https://open.spotify.com/track/39vsqGcS9eHZYwfuvjLcKY) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Say My Name \(Acoustic\)](https://open.spotify.com/album/1jNMfAU9v8HNIfI0mDjbie) | 2:05 | 2024-07-05 | 2025-03-01 |
 | [Say Something \- Live from Spotify NYC](https://open.spotify.com/track/43cKoF3PLrsJSqGKgeqagV) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Spotify Sessions](https://open.spotify.com/album/4ipsAUmKH4ieH5Yh9tln9t) | 4:03 | 2019-10-13 |  |
-| [Say What You Want \- Acoustic](https://open.spotify.com/track/5eHuMdzFkMlid5tZcYIm7y) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Say What You Want \(Acoustic\)](https://open.spotify.com/album/1cJKl6O6qtecbzCMwQ4LCU) | 3:19 | 2024-08-17 |  |
+| [Say What You Want \- Acoustic](https://open.spotify.com/track/5eHuMdzFkMlid5tZcYIm7y) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Say What You Want \(Acoustic\)](https://open.spotify.com/album/1cJKl6O6qtecbzCMwQ4LCU) | 3:19 | 2024-08-17 | 2026-06-20 |
 | [Shape of You \- Acoustic](https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You \(Acoustic\)](https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw) | 3:43 | 2019-10-13 |  |
 | [She's Electric \- Acoustic](https://open.spotify.com/track/7Fqmr5xwLksBUgku1bfBFO) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [She's Electric \(Acoustic\)](https://open.spotify.com/album/1vdMBDG6eCCsInfSiIqc0E) | 3:36 | 2021-04-08 |  |
 | [Show Me Love \- Acoustic](https://open.spotify.com/track/3K6XGKHABwuTGex94DRZuy) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Show Me Love \(Acoustic\)](https://open.spotify.com/album/1pKNXryic0E9p65bLM25MP) | 3:11 | 2019-10-13 | 2022-08-07 |

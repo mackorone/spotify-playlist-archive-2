@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218480,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
+    },
+    {
+      "album": {
         "name": "Tempovision",
         "url": "https://open.spotify.com/album/39WwIm6bjNLXKdlYQYU1q5"
       },
@@ -143,6 +165,46 @@
     },
     {
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161322,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
+    },
+    {
+      "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
+    },
+    {
+      "album": {
         "name": "Bel Amour (Classic Vocal Mix)",
         "url": "https://open.spotify.com/album/6TnjDo2gzEmY0KCMsyJWrA"
       },
@@ -220,6 +282,24 @@
       "duration_ms": 282240,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5Hkfzomvg0jyKDesjouvSK"
+    },
+    {
+      "album": {
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276293,
+      "name": "Canop\u00e9e",
+      "url": "https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa"
     },
     {
       "album": {
@@ -361,6 +441,28 @@
     },
     {
       "album": {
+        "name": "The Wanderings Of The Avener",
+        "url": "https://open.spotify.com/album/7atFyt76W7KGXOEYKM9ywR"
+      },
+      "artists": [
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        },
+        {
+          "name": "Phoebe Killdeer",
+          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276600,
+      "name": "Fade Out Lines - The Avener Rework",
+      "url": "https://open.spotify.com/track/1gOANd4qcnkftl869IOvBu"
+    },
+    {
+      "album": {
         "name": "In The Light",
         "url": "https://open.spotify.com/album/4qwOZy8ImMsBk8Z3MZ8Mja"
       },
@@ -376,7 +478,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 312653,
       "name": "Fallin' in love",
       "url": "https://open.spotify.com/track/5yBiLaIDL1pwwNli16MGka"
@@ -680,7 +782,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 254066,
       "name": "In Love With You",
       "url": "https://open.spotify.com/track/2MciXM60hrG1cz5DE7ZWzK"
@@ -922,6 +1024,46 @@
       "duration_ms": 252493,
       "name": "Jacques You Body (Make Me Sweat)",
       "url": "https://open.spotify.com/track/0s7uW5Dknk4liaRaqen50U"
+    },
+    {
+      "album": {
+        "name": "Jubel EP",
+        "url": "https://open.spotify.com/album/29EeCNBZxGVdwHUAyos10R"
+      },
+      "artists": [
+        {
+          "name": "Klingande",
+          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "Jubel - Radio Edit",
+      "url": "https://open.spotify.com/track/58VSx2Adlz83g6YVDdJ0zR"
+    },
+    {
+      "album": {
+        "name": "La lune rousse (feat. Deva Premal)",
+        "url": "https://open.spotify.com/album/5Ynd9HKyuBq3GtTFjBM63X"
+      },
+      "artists": [
+        {
+          "name": "Fakear",
+          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
+        },
+        {
+          "name": "Deva Premal",
+          "url": "https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225256,
+      "name": "La lune rousse",
+      "url": "https://open.spotify.com/track/5Jlfld6JdyQSeDvNdv0XRE"
     },
     {
       "album": {
@@ -1307,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/3VZSHfMooekIWZFgymsD4m"
+      },
+      "artists": [
+        {
+          "name": "Else",
+          "url": "https://open.spotify.com/artist/2tUUqZeqBYInHt3aDp3a1B"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209708,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/2H7F7EfsVhy0jNLsVz8MLH"
+    },
+    {
+      "album": {
         "name": "Listener's Digest",
         "url": "https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB"
       },
@@ -1322,6 +1482,28 @@
       "duration_ms": 253706,
       "name": "Peace and Tranquility to Earth",
       "url": "https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR"
+    },
+    {
+      "album": {
+        "name": "Pola",
+        "url": "https://open.spotify.com/album/57rVwTtLt8rgScIabNzWvt"
+      },
+      "artists": [
+        {
+          "name": "Jabberwocky",
+          "url": "https://open.spotify.com/artist/7xfdx6PiB50V9VWI4Mq70R"
+        },
+        {
+          "name": "Elodie Wildstars",
+          "url": "https://open.spotify.com/artist/6azJLRL2YwHHtmYdSI12lL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280120,
+      "name": "Photomaton",
+      "url": "https://open.spotify.com/track/7FAyIPD8YLpUQc5r0MSv60"
     },
     {
       "album": {
@@ -1434,6 +1616,24 @@
       "duration_ms": 234240,
       "name": "Poison Lips",
       "url": "https://open.spotify.com/track/3zf7uD8ClQ2TXGMZlXISup"
+    },
+    {
+      "album": {
+        "name": "Transsiberian",
+        "url": "https://open.spotify.com/album/6YtM1Rx1qdF6phYUD36sAg"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293493,
+      "name": "Poly",
+      "url": "https://open.spotify.com/track/6n0E5CPhtGPLW1544OlSTg"
     },
     {
       "album": {
@@ -1581,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "Seve (Radio Edit)",
+        "url": "https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4"
+      },
+      "artists": [
+        {
+          "name": "Tez Cadey",
+          "url": "https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210853,
+      "name": "Seve - Radio Edit",
+      "url": "https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo"
+    },
+    {
+      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
       },
@@ -1658,7 +1876,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 130413,
       "name": "Skatesteak",
       "url": "https://open.spotify.com/track/4QwhvLfdH0gbjeRZgwTBrO"
@@ -1684,7 +1902,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 206346,
       "name": "Smile (feat. Alex Gopher & Asher Roth) - Vocal Mix",
       "url": "https://open.spotify.com/track/4SpXkrjuPnyErjE504cnFE"
@@ -1788,6 +2006,42 @@
       "duration_ms": 234400,
       "name": "Starlight - Radio Edit",
       "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
+    },
+    {
+      "album": {
+        "name": "Sunset Lover",
+        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237792,
+      "name": "Sunset Lover",
+      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
+    },
+    {
+      "album": {
+        "name": "TERRITORY",
+        "url": "https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276373,
+      "name": "TERRITORY",
+      "url": "https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim"
     },
     {
       "album": {
@@ -1914,6 +2168,28 @@
       "duration_ms": 433000,
       "name": "The Sound of Violence",
       "url": "https://open.spotify.com/track/0mJXMlZntHgMGKUyrPkMcp"
+    },
+    {
+      "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195546,
+      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
     },
     {
       "album": {

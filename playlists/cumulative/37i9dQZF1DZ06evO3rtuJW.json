@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 174043,
       "name": "Feel This",
       "url": "https://open.spotify.com/track/2QJXBol7qzL8PuNSCaR9W7"
@@ -2455,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Lil Herb: Lil Heroin Edition",
+        "url": "https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143120,
+      "name": "Mad People",
+      "url": "https://open.spotify.com/track/6fKbp9R2cVXuaFAyWjrOIL"
+    },
+    {
+      "album": {
         "name": "JUST RE'D UP 3",
         "url": "https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69"
       },
@@ -2610,7 +2628,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 171176,
       "name": "Motion (feat. G Herbo)",
       "url": "https://open.spotify.com/track/2VXh0JUDiwbgpuAOvS8kqZ"
@@ -3136,6 +3154,32 @@
       "duration_ms": 188246,
       "name": "Outside",
       "url": "https://open.spotify.com/track/34GXBoC7dTw0s6d6vGfYOT"
+    },
+    {
+      "album": {
+        "name": "Lil Herb: Lil Heroin Edition",
+        "url": "https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Big Opp",
+          "url": "https://open.spotify.com/artist/32dqY5hdEsWLMZVG7asCq0"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182700,
+      "name": "Outta Bounds (feat. Polo G & Big Opp)",
+      "url": "https://open.spotify.com/track/3kHEUnuyzFV2VylR3JT9pL"
     },
     {
       "album": {

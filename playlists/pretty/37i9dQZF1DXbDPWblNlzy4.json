@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Greeicy.",
-  "num_followers": 68272,
+  "num_followers": 68276,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACP0vXEd3K2hQ+vlREHQ4FsvksWI",
+  "snapshot_id": "AAAAAH1JZYoksgapD+oZFaqEK6SSuCcB",
   "tracks": [
     {
       "added_at": "2026-05-22 04:59:44",
@@ -59,6 +59,26 @@
       "duration_ms": 136615,
       "name": "TUTUTU",
       "url": "https://open.spotify.com/track/6Og7yuXfE5KyE8dSHU8yap"
+    },
+    {
+      "added_at": "2026-06-19 04:59:07",
+      "album": {
+        "name": "Gidi 2 Caracas (La M\u00fasica)",
+        "url": "https://open.spotify.com/album/2wXcuMCVdvsHaAje0TgNph"
+      },
+      "artists": [
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 165833,
+      "name": "Gidi 2 Caracas - La M\u00fasica",
+      "url": "https://open.spotify.com/track/3KDNjufpaTpwTiR9zAxDbY"
     },
     {
       "added_at": "2026-05-08 04:59:17",
@@ -117,6 +137,22 @@
       "url": "https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx"
     },
     {
+      "added_at": "2026-06-19 04:59:07",
+      "album": {
+        "name": "Alguien aqui",
+        "url": "https://open.spotify.com/album/4gD3yvy16Y9glyQvTAw3Z8"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        }
+      ],
+      "duration_ms": 141874,
+      "name": "Alguien aqui",
+      "url": "https://open.spotify.com/track/1cxiTnSdoLscxNU25iCPg5"
+    },
+    {
       "added_at": "2026-06-12 04:59:21",
       "album": {
         "name": "HAPPY \ud83e\udebd",
@@ -147,6 +183,38 @@
       "duration_ms": 159333,
       "name": "Se Vienen Cositas",
       "url": "https://open.spotify.com/track/7ulDhf05iMrq4IFWNbTrbI"
+    },
+    {
+      "added_at": "2026-06-19 04:59:07",
+      "album": {
+        "name": "No Llegamos Ni A Febrero",
+        "url": "https://open.spotify.com/album/6aNgiuAeoVLHICmNiZryZo"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 178848,
+      "name": "No Llegamos Ni A Febrero",
+      "url": "https://open.spotify.com/track/5yb9zjiSDK9cMBhQxI0TMs"
+    },
+    {
+      "added_at": "2026-06-19 04:59:07",
+      "album": {
+        "name": "WhyWhyWhy",
+        "url": "https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 159178,
+      "name": "WhyWhyWhy",
+      "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"
     },
     {
       "added_at": "2026-06-12 04:59:21",

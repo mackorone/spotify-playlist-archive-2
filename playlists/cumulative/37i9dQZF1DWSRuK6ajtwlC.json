@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 Espinoza Paz  y la Fiera de Ojinaga en portada \ud83d\udcf8",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 Los Primos del Este en portada \ud83d\udcf8",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 178808,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5NYSfjkZnx0aBAZxG5PJxc"
@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 187578,
       "name": "Estoy Enamorado De Ti",
       "url": "https://open.spotify.com/track/0iWeoEW9hPrYEAoTwyNaKG"
@@ -3046,7 +3046,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 189406,
       "name": "Intenso",
       "url": "https://open.spotify.com/track/6QiwerUtZaoNNoTscoA3AE"
@@ -5997,6 +5997,24 @@
     },
     {
       "album": {
+        "name": "Sexy Love",
+        "url": "https://open.spotify.com/album/0JebluuUDScPxmDraTqJuC"
+      },
+      "artists": [
+        {
+          "name": "Estrategia Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/4vIk33tlQ0uZrRguQxhwcO"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225523,
+      "name": "Sexy Love",
+      "url": "https://open.spotify.com/track/5yFTCeY9K36vB7KYQGzVod"
+    },
+    {
+      "album": {
         "name": "10.1 D-K-Da",
         "url": "https://open.spotify.com/album/1wZInWNMc0c7XDbUDdFZx0"
       },
@@ -6665,6 +6683,24 @@
     },
     {
       "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/4fYm6Ed22qyJGThEj9saM9"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/3HPrqYnWiIybFKtnpbcHRb"
+    },
+    {
+      "album": {
         "name": "Tenemos Algo Muy Bonito",
         "url": "https://open.spotify.com/album/2bfonfWR8osDy9axaknL4b"
       },
@@ -6716,6 +6752,24 @@
       "duration_ms": 171373,
       "name": "Todo Lo Fue",
       "url": "https://open.spotify.com/track/64GZDnrcHHW3lAnx05g7pI"
+    },
+    {
+      "album": {
+        "name": "Todo O Nada",
+        "url": "https://open.spotify.com/album/1UMVtkDSINwMSwblDr7Suv"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159705,
+      "name": "Todo O Nada",
+      "url": "https://open.spotify.com/track/437IdYmYEAgDoj0KAfTF5J"
     },
     {
       "album": {

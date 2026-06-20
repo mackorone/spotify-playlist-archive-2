@@ -1,12 +1,12 @@
 {
   "description": "Pump up your adrenaline with Cheema Y & more!",
-  "num_followers": 237344,
+  "num_followers": 237403,
   "original_name": "Punjabi Pump",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEuD4uEyO2YWYUY2fqp6BtUtT/S6",
+  "snapshot_id": "AAAAAHSrCUwJNlbmTPjAlshqExdKtpYA",
   "tracks": [
     {
       "added_at": "2026-06-17 09:54:00",
@@ -73,24 +73,28 @@
       "url": "https://open.spotify.com/track/2NHAkmYfm3HsyLpxz74SbB"
     },
     {
-      "added_at": "2026-06-17 09:54:00",
+      "added_at": "2026-06-19 09:52:01",
       "album": {
-        "name": "Enigma",
-        "url": "https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf"
+        "name": "201",
+        "url": "https://open.spotify.com/album/0k6DgqXoQCEdsjKE7oAwsU"
       },
       "artists": [
         {
-          "name": "Arjan Dhillon",
-          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+          "name": "Watan Sahi",
+          "url": "https://open.spotify.com/artist/60AHsnenfij85IExxs2456"
         },
         {
-          "name": "Mxrci",
-          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+          "name": "Kamm",
+          "url": "https://open.spotify.com/artist/2Hwm56KbsXBLJWZF88kqBg"
+        },
+        {
+          "name": "Nav Prince",
+          "url": "https://open.spotify.com/artist/43hVKGJyBP3vWbbMZKLQfF"
         }
       ],
-      "duration_ms": 163500,
-      "name": "Me Vs Me",
-      "url": "https://open.spotify.com/track/6bHzM2kuIvnereyctSmGeF"
+      "duration_ms": 148380,
+      "name": "201",
+      "url": "https://open.spotify.com/track/4rmbkWnmeotS7o3Lgx7b8Q"
     },
     {
       "added_at": "2026-06-17 09:54:00",
@@ -133,6 +137,26 @@
       "url": "https://open.spotify.com/track/5i2jG0ScOY5B40sTHMeb08"
     },
     {
+      "added_at": "2026-06-19 09:07:39",
+      "album": {
+        "name": "STATE OF MIND",
+        "url": "https://open.spotify.com/album/2qHHz4CeSeY6aYDz8vuSPG"
+      },
+      "artists": [
+        {
+          "name": "JK",
+          "url": "https://open.spotify.com/artist/30A8pUI01O6H41x7rvQpSt"
+        },
+        {
+          "name": "THIRD SIDE",
+          "url": "https://open.spotify.com/artist/5RJfe9bKlaFnM92Xjq9nbg"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "DESI GANN",
+      "url": "https://open.spotify.com/track/72sBOZVBWsfgKRWAF61jDA"
+    },
+    {
       "added_at": "2026-06-17 09:54:00",
       "album": {
         "name": "JATTCODE",
@@ -159,22 +183,6 @@
     {
       "added_at": "2026-06-17 09:54:00",
       "album": {
-        "name": "Chapter IV",
-        "url": "https://open.spotify.com/album/3RRSy7ypBCuUbPorgw6bO7"
-      },
-      "artists": [
-        {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Ace",
-      "url": "https://open.spotify.com/track/33H3JkG5kAlqwgtI5rYbpP"
-    },
-    {
-      "added_at": "2026-06-17 09:54:00",
-      "album": {
         "name": "Balenci",
         "url": "https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP"
       },
@@ -187,6 +195,34 @@
       "duration_ms": 182282,
       "name": "Balenci",
       "url": "https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw"
+    },
+    {
+      "added_at": "2026-06-19 06:47:45",
+      "album": {
+        "name": "2 Ghode",
+        "url": "https://open.spotify.com/album/7LWPdJPdnfX0jWIkOhRxh1"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Fateh Shergill",
+          "url": "https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb"
+        },
+        {
+          "name": "Guri Nimana",
+          "url": "https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f"
+        }
+      ],
+      "duration_ms": 165338,
+      "name": "2 Ghode",
+      "url": "https://open.spotify.com/track/5j0JB1qtxFR3jZXPlONSUa"
     },
     {
       "added_at": "2026-06-17 09:54:00",
@@ -255,26 +291,6 @@
       "duration_ms": 126185,
       "name": "Asla",
       "url": "https://open.spotify.com/track/2evIekFZQjJZJSetzjUBgA"
-    },
-    {
-      "added_at": "2026-06-17 09:54:00",
-      "album": {
-        "name": "House Navior",
-        "url": "https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4"
-      },
-      "artists": [
-        {
-          "name": "Navaan Sandhu",
-          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
-        },
-        {
-          "name": "JayB Singh",
-          "url": "https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM"
-        }
-      ],
-      "duration_ms": 187869,
-      "name": "Dapper Dan",
-      "url": "https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ"
     },
     {
       "added_at": "2026-06-17 09:54:00",

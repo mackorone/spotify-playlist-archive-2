@@ -4,7 +4,7 @@
 
 > New music from Angèle, Franglish x KeBlack x iDS, Tyla, Gambi and more...
 
-10,335 songs - 22 day 14 hr 1 min
+10,336 songs - 22 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7743,7 +7743,7 @@
 | [Saving All My Love](https://open.spotify.com/track/2aeBRy4Rb55mZEngtFeEIz) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Saving All My Love](https://open.spotify.com/album/7qPS8oM3jIPWvY1ea7BEL0) | 2:18 | 2025-10-09 | 2025-10-17 |
 | [Saving Grace](https://open.spotify.com/track/0ZvV7dwGbfnYtWMfGaeU34) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Saving Grace](https://open.spotify.com/album/4NXnn7cni1zD64KPtVl1A9) | 4:25 | 2026-05-07 | 2026-05-15 |
 | [SAXBRO](https://open.spotify.com/track/13DqvYk3EmtLDjRgUFeI21) | [Lander & Adriaan](https://open.spotify.com/artist/7fGMaOZYnod95gl4lcRg95) | [Saxbro](https://open.spotify.com/album/6pSj7lxxUvLIrf1MN0i1nz) | 4:13 | 2025-02-21 | 2025-02-28 |
-| [Say My Name \(The Riddle\) \- Radio edit](https://open.spotify.com/track/40mM9tEXWtgc3Il0z4pcXn) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Say My Name \(The Riddle\) \[Radio edit\]](https://open.spotify.com/album/62BqOiYvQ8tBYXwJfLmMqi) | 3:30 | 2026-06-18 |  |
+| [Say My Name \(The Riddle\)](https://open.spotify.com/track/40mM9tEXWtgc3Il0z4pcXn) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Say My Name \(The Riddle\)](https://open.spotify.com/album/62BqOiYvQ8tBYXwJfLmMqi) | 3:30 | 2026-06-18 |  |
 | [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 | 2025-11-20 | 2025-11-28 |
 | [Say No Prayer](https://open.spotify.com/track/3k9EAHWqEmKgPqsHUKNKOV) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Say No Prayer](https://open.spotify.com/album/6GyxOBOOGtlJMZzbyJ6vEc) | 2:29 | 2026-02-26 | 2026-03-06 |
 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-07-24 | 2025-08-01 |
@@ -9503,7 +9503,8 @@
 | [Use A Friend](https://open.spotify.com/track/7fGzH1N3Hv3TZOuscdSLvn) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Only Making It Worse](https://open.spotify.com/album/6W7mdEoe0lAIDFIhAYf8cx) | 3:18 | 2025-05-08 | 2025-05-16 |
 | [Used](https://open.spotify.com/track/2VyMa8vpD8RzCpv8nBl1KD) | [VITUCCI](https://open.spotify.com/artist/29kXgpl4zdUIbkkA2PA22l) | [Used](https://open.spotify.com/album/1XA7uEorTy3c00cFZIxVvx) | 2:24 | 2024-06-27 | 2024-07-05 |
 | [Useless \(Without You\)](https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Useless \(Without You\)](https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35) | 2:46 | 2025-08-14 | 2025-08-22 |
-| [Utopia](https://open.spotify.com/track/1XNUmD035Ft6LLXDuXCcJh) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Page Of Cups \(Reversed\)](https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr) | 3:54 | 2026-06-18 |  |
+| [Utopia](https://open.spotify.com/track/1XNUmD035Ft6LLXDuXCcJh) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Page Of Cups \(Reversed\)](https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr) | 3:54 | 2026-06-18 | 2026-06-20 |
+| [Utopia](https://open.spotify.com/track/645Nzy8pjijHCGktPNEv5O) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Utopia](https://open.spotify.com/album/0nfR3Ynoarnypo1jcpNwDj) | 3:54 | 2026-06-19 |  |
 | [Uuu](https://open.spotify.com/track/5csuzsYYgj1K2DSSY5COjl) | [Tessa Dixson](https://open.spotify.com/artist/7lIzEb23X68Dbt7Ka94Prh) | [Uuu](https://open.spotify.com/album/5AaeXfSr7DjS235wczQyKU) | 2:42 | 2024-11-15 | 2024-11-22 |
 | [Uuugly](https://open.spotify.com/track/0T0S3Ue6h1ozJRSu4A4uKs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 1:55 | 2024-06-28 | 2024-07-05 |
 | [UV](https://open.spotify.com/track/763vwfppEuPZjKQPtvXBNA) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Liminal](https://open.spotify.com/album/2KcyjDwJU1Y5sjXMIETiPR) | 5:06 | 2024-09-26 | 2024-10-04 |

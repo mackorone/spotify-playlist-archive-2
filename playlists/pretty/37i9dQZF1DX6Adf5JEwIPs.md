@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Aldo Trujillo 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,137 likes - 43 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,283 likes - 45 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 41 | [Tú Sin Mí \(En Vivo\)](https://open.spotify.com/track/3oVhXlkFiV1mysdIERVFfs) | [Destino](https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ) | [Tú Sin Mí \(En Vivo\)](https://open.spotify.com/album/2HairPWFrjKS5G35fUoFCO) | 3:31 |
 | 42 | [LA 2 NY](https://open.spotify.com/track/2yK0s3nZWOZ2PDeMGsb9I7) | [Los Alvarado](https://open.spotify.com/artist/4GfywMlztnQFR7cmCqCigT) | [LA 2 NY](https://open.spotify.com/album/023KdefnFLgpbLBc9LbpNl) | 2:53 |
 | 43 | [Sigo Siendo El Mismo](https://open.spotify.com/track/4nVBP8JHrWZTzPx2lHuDHS) | [Banda Tierra Alegre de Jerez](https://open.spotify.com/artist/4xktiBkTww2sbZZTbuhDd2) | [Sigo Siendo El Mismo](https://open.spotify.com/album/6p8RJiBO4WELiCCo6d4R64) | 2:25 |
+| 44 | [Cereza](https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [Cereza](https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR) | 3:18 |
+| 45 | [Ln Que Pedo:/?](https://open.spotify.com/track/3BOSQf5gjnAjgEKBxGXmgs) | [Gael Espinoza](https://open.spotify.com/artist/7vwGtdTr1n6j5tVVSud2ht) | [Ln Que Pedo:/?](https://open.spotify.com/album/6dMz7d1rPGNPdoqSzeYaOm) | 2:55 |
 
-Snapshot ID: `AAAAACrHhu7PLiFsS4pDATzGNCcHcYSk`
+Snapshot ID: `AAAAAJH+n1afyi5KtAjlf4kCTZosGryC`

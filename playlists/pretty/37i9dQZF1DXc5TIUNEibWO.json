@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 9220,
+  "num_followers": 9237,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
+        "name": "A. B Crentsil, Vol. 1",
+        "url": "https://open.spotify.com/album/719C77dYPxQBhH90NddnAq"
+      },
+      "artists": [
+        {
+          "name": "A.B. Crentsil",
+          "url": "https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs"
+        }
+      ],
+      "duration_ms": 295145,
+      "name": "I Go Pay You Tomorrow",
+      "url": "https://open.spotify.com/track/5I9fC7NCMlk8V3BHJGpECz"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
         "name": "Afia Donkor",
         "url": "https://open.spotify.com/album/52I8bvUNNV7N7N4ZpZKD3R"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 374770,
       "name": "Afia Donkor (feat. Bradez)",
       "url": "https://open.spotify.com/track/7ofWueS4D4RHRR8uhdKqmL"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
-        "name": "A. B Crentsil, Vol. 1",
-        "url": "https://open.spotify.com/album/719C77dYPxQBhH90NddnAq"
-      },
-      "artists": [
-        {
-          "name": "A.B. Crentsil",
-          "url": "https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs"
-        }
-      ],
-      "duration_ms": 295145,
-      "name": "I Go Pay You Tomorrow",
-      "url": "https://open.spotify.com/track/5I9fC7NCMlk8V3BHJGpECz"
     },
     {
       "added_at": "2026-02-20 08:28:52",

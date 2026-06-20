@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop MX 24k](https://open.spotify.com/playlist/37i9dQZF1DWTe5ECpTKzMo)
 
-> La tierra del Rap de oro puro\.  Millonario dominando
+> La tierra del Rap de oro puro\. Beto Sierra & Grupo Marca Registrada dominando.
 
 170 songs - 10 hr 27 min
 

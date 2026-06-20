@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> 100% rock brasileiro\. Foto: BAD LUV
+> 100% rock brasileiro\. Foto: Vespas Mandarinas
 
-641 songs - 1 day 11 hr 56 min
+642 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [N Era Amor \- Ao Vivo](https://open.spotify.com/track/31JMvaH6IbiOnS4CDq8f9l) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [N Era Amor \(Ao Vivo\)](https://open.spotify.com/album/0C2l6dhX4Pk0pTjviqso4W) | 3:20 | 2025-02-14 | 2025-03-08 |
 | [Na Contramão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 | 2024-11-22 | 2025-04-12 |
 | [Na Hora Do Almoço / A Palo Seco](https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Paulo Netto](https://open.spotify.com/artist/6ebH5jdXkPZICrWB9Tq5gm) | [Paulo Netto Canta Belchior](https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp) | 5:59 | 2022-09-02 | 2023-05-06 |
+| [Na Hora em Que Eu Me Perder](https://open.spotify.com/track/1D5JVv3hWd8L37YkeEJexl) | [Vespas Mandarinas](https://open.spotify.com/artist/39wvetWmzobDSXSkCHPEcv) | [Polaroid, Vol.1](https://open.spotify.com/album/2cTLo9WEp5o9W5pHg1WkeY) | 2:26 | 2026-06-19 |  |
 | [NA NOITE PASSADA EU NÃO DORMI](https://open.spotify.com/track/0iiytYOHwIudzWXgFg3NrM) | [BAD LUV](https://open.spotify.com/artist/3gnMduwfXqTAcuOHxtpkq8), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [NA NOITE PASSADA EU NÃO DORMI](https://open.spotify.com/album/3nX2Z3jKKDkdqy2qlFge4F) | 3:27 | 2025-07-04 | 2026-04-07 |
 | [Nada de nós dois](https://open.spotify.com/track/4Qaj8bQDsIUe621dwvh4K9) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Nada de nós dois](https://open.spotify.com/album/3TvHK5dU5TQ7iywXf9EmHW) | 3:21 | 2024-05-03 | 2024-10-12 |
 | [Nada Foi em Vão](https://open.spotify.com/track/4DKHR64lIMtbQXyjMghfHJ) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Nada Foi em Vão](https://open.spotify.com/album/0tFj3DD5NdoUfp5Y4T2d8A) | 3:01 | 2025-07-25 | 2025-10-18 |
@@ -489,7 +490,7 @@
 | [Quando o Encontro É Mais](https://open.spotify.com/track/5QA7rwtAFT2VsLwxhvS158) | [Projeto Caleidoscópio](https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW), [Jay Vaquer](https://open.spotify.com/artist/7LSLnoj6uCCnE2TJ1G6kvw) | [Quando o Encontro É Mais](https://open.spotify.com/album/4UHW7w22v7Za7oCU5Quooq) | 5:06 | 2022-01-14 | 2023-03-11 |
 | [quando saio de mim](https://open.spotify.com/track/0hOuuzrPqTTCAlKZIprcGf) | [Putz](https://open.spotify.com/artist/56HkciUnJHwVdl5yNQpIeb) | [quando saio de mim](https://open.spotify.com/album/4R9lTGeQuoDnhKxTRcHWod) | 2:57 | 2022-01-14 | 2022-09-18 |
 | [QUANDO VOCÊ VEM](https://open.spotify.com/track/4Lkp0oRReZbhWMHE9WpglU) | [RANCORE](https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM) | [QUANDO VOCÊ VEM](https://open.spotify.com/album/2KqTK4RL12QjgBKNevDA6l) | 2:38 | 2024-10-04 | 2025-02-15 |
-| [Quanto Vale a Liberdade \- Acústico](https://open.spotify.com/track/45QFkYJECUqnuVG06ZuK2D) | [Inocentes](https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2) | [Antes do Fim \(Deluxe\) \[Acústico\]](https://open.spotify.com/album/42aT2UtXhWnN19m93n6Lw9) | 2:56 | 2026-05-08 |  |
+| [Quanto Vale a Liberdade \- Acústico](https://open.spotify.com/track/45QFkYJECUqnuVG06ZuK2D) | [Inocentes](https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2) | [Antes do Fim \(Deluxe\) \[Acústico\]](https://open.spotify.com/album/42aT2UtXhWnN19m93n6Lw9) | 2:56 | 2026-05-08 | 2026-06-20 |
 | [Quarto quieto](https://open.spotify.com/track/3CjYCNx6nUzxHqwDaofFvk) | [Indigans](https://open.spotify.com/artist/1USySFkPtuL0cdVtROagEJ) | [Quarto Quieto](https://open.spotify.com/album/3AGC8ewacfxsl5TBLjW0MN) | 3:29 | 2025-10-03 | 2025-12-12 |
 | [Quase Perfeito](https://open.spotify.com/track/6uoeSnJvGJuLWaC5z1eG4X) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Quase Perfeito](https://open.spotify.com/album/03mhwPYhBSC24PVjOQEvuF) | 2:43 | 2022-06-24 | 2022-07-06 |
 | [Que Língua Falo Eu](https://open.spotify.com/track/2kQPQGayBHqN4Vf83fRYiV) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N) | [Acústico Lobão \(Deluxe\)](https://open.spotify.com/album/5QqrIMQ4D52VLMP7pYBs2G) | 3:06 | 2024-07-19 | 2024-08-10 |

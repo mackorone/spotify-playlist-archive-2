@@ -4,7 +4,7 @@
 
 > Struis, RADIO Z, YGN KAMII, Het Moment en meer..
 
-638 songs - 1 day 3 hr 30 min
+639 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Beseffen](https://open.spotify.com/track/6COOV7LnmZCWsLTyHEynRj) | [Ysavv](https://open.spotify.com/artist/1mloPWSzK1ktjXszZhg6Jn) | [Beseffen](https://open.spotify.com/album/0riyZIEq6DgVzFxlGGn9wK) | 2:26 | 2026-01-08 | 2026-02-13 |
 | [Beste Voor Jou](https://open.spotify.com/track/5B4hazJXJX68tYLO0aDItc) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs), [TB](https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s) | [Beste Voor Jou](https://open.spotify.com/album/6RcRiiZRb774Zi5erJi1SE) | 3:04 | 2025-07-17 | 2025-08-15 |
 | [Beter Zo](https://open.spotify.com/track/2ypLSnSq5by0JvEXvadgX2) | [Cappie](https://open.spotify.com/artist/0PC5oDSpWdRVQI9E6h2uhX) | [Beter Zo](https://open.spotify.com/album/7xKzouEH5bu5SN4E7QOxJF) | 2:05 | 2025-07-17 | 2025-08-15 |
-| [Bezig Zijn](https://open.spotify.com/track/3E9Ny2OgTctuerknreY0ka) | [TB](https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s) | [Bezig Zijn](https://open.spotify.com/album/5xLDnBpVHvvj2Y1YGaqgSl) | 2:27 | 2026-05-07 |  |
+| [Bezig Zijn](https://open.spotify.com/track/3E9Ny2OgTctuerknreY0ka) | [TB](https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s) | [Bezig Zijn](https://open.spotify.com/album/5xLDnBpVHvvj2Y1YGaqgSl) | 2:27 | 2026-05-07 | 2026-06-20 |
 | [Biggie Doen](https://open.spotify.com/track/3brdVfw3eyXHcSXXwua6Q1) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Biggie Doen](https://open.spotify.com/album/7lY4DNPL8Br8vCADS7mLJu) | 2:33 | 2025-07-17 | 2025-08-29 |
 | [Bij Zinnen](https://open.spotify.com/track/1OznBrEz4CKS2Y3svYQxlg) | [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW), [willymakeamilli](https://open.spotify.com/artist/4DVTlo97P1cDrE6Zzz9wOx), [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5) | [Bij Zinnen](https://open.spotify.com/album/4gEsKfDjG1mrOiDPI9uEoM) | 2:24 | 2026-02-12 | 2026-03-27 |
 | [Bitcoin](https://open.spotify.com/track/6CUOUZgr4dfgKSYRLioMY7) | [Dimmadims](https://open.spotify.com/artist/1AlHf9CIbtcxObnaToD1NC) | [Respectfully](https://open.spotify.com/album/36u8toQndJqtQJClLs2m3K) | 1:45 | 2026-05-28 |  |
@@ -244,6 +244,7 @@
 | [Haten](https://open.spotify.com/track/6KeLzjmdULnJxScv0gcXtD) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Haten](https://open.spotify.com/album/3DYtCrZMQQ4gsiNK5AUo8I) | 2:26 | 2026-03-16 | 2026-03-20 |
 | [Haten](https://open.spotify.com/track/767CZer0mDoCLZEJRW86LW) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Haten](https://open.spotify.com/album/1izmHwQe6Uxp6KhJ5UFb1x) | 2:28 | 2026-03-12 | 2026-03-17 |
 | [Havana Club](https://open.spotify.com/track/7dHVRgkpuXO46mJYFz2EDU) | [Vlekkeloos](https://open.spotify.com/artist/2qz4sJHkcI84vlbtsS2Y4i), [YUNG UMBRO](https://open.spotify.com/artist/40sfgug5w4oU06G2h0SLBw) | [Boze Ogen](https://open.spotify.com/album/35QFFnoDIqlNo1p96HhQQ9) | 2:11 | 2026-06-11 |  |
+| [Hchouma](https://open.spotify.com/track/1lY4ev4ihSy5MqbYkqnn8U) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Hchouma](https://open.spotify.com/album/7eOuhA16JceXZzclYtgHp9) | 2:40 | 2026-06-19 |  |
 | [Headshot \- Remix](https://open.spotify.com/track/5OYNNDgoKbrzAS1JbrY655) | [Dayvoo](https://open.spotify.com/artist/3Y7dSW6r0DdlIMpj8EnjAl), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T), [Ky Janea](https://open.spotify.com/artist/5jaQoL0k6l3BHdF24j42im) | [Headshot \(Remix\)](https://open.spotify.com/album/3rozI6XJA0YwpjMM3vzjDI) | 3:39 | 2026-01-08 | 2026-02-13 |
 | [HEADSHOT REVERSE](https://open.spotify.com/track/4pTbVkpsgoLG9YTnMI0Vxr) | [Sowtu](https://open.spotify.com/artist/2zCIjTItI9lPWdNQMIgEpi), [Madzz](https://open.spotify.com/artist/51HhLwdbSKDNQx7IPy44oV), [GS](https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA), [Optie](https://open.spotify.com/artist/37Ibw98hVYR0a2fowIvd8Y) | [HEADSHOT REVERSE](https://open.spotify.com/album/3em08WEE4Kj6DWNxKheIaM) | 4:10 | 2026-01-29 | 2026-03-13 |
 | [Heel FF](https://open.spotify.com/track/0ClOAV7p0YRWeDVt9ZzKbA) | [Gilly](https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN) | [Heel FF](https://open.spotify.com/album/08QHitCYHdSoByZOrLyeMq) | 2:12 | 2025-09-04 | 2025-10-17 |

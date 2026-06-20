@@ -1,6 +1,6 @@
 {
   "description": "Euphoric drum & bass tracks for raving in the sunshine!\n",
-  "num_followers": 78233,
+  "num_followers": 78249,
   "original_name": "Sunny dnb",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
+        "name": "Rave Kids",
+        "url": "https://open.spotify.com/album/4Uri1WMUN281HfpNz0vg6D"
+      },
+      "artists": [
+        {
+          "name": "Harriet Jaxxon",
+          "url": "https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu"
+        }
+      ],
+      "duration_ms": 158054,
+      "name": "Rave Kids",
+      "url": "https://open.spotify.com/track/0WEFilcF0zCqDatqjgut6C"
+    },
+    {
+      "added_at": "2026-06-18 23:00:26",
+      "album": {
         "name": "California (feat. CLOVES)",
         "url": "https://open.spotify.com/album/2phaPoiH6UKMMQfWvHh9Sx"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 198620,
       "name": "California (feat. CLOVES)",
       "url": "https://open.spotify.com/track/746tQhoQvvzAbLhi36Whd1"
-    },
-    {
-      "added_at": "2026-06-18 23:00:26",
-      "album": {
-        "name": "Rave Kids",
-        "url": "https://open.spotify.com/album/4Uri1WMUN281HfpNz0vg6D"
-      },
-      "artists": [
-        {
-          "name": "Harriet Jaxxon",
-          "url": "https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu"
-        }
-      ],
-      "duration_ms": 158054,
-      "name": "Rave Kids",
-      "url": "https://open.spotify.com/track/0WEFilcF0zCqDatqjgut6C"
     },
     {
       "added_at": "2026-06-18 23:00:26",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
-        "name": "Arctic",
-        "url": "https://open.spotify.com/album/7lnZnX50hruW4tLEKahF5E"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
-        }
-      ],
-      "duration_ms": 146371,
-      "name": "Arctic",
-      "url": "https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q"
-    },
-    {
-      "added_at": "2026-06-18 23:00:26",
-      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/1olN41ilLwcgf8egALwSvu"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 204827,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/0D5qWqcQzcWOsmUi8jAkgw"
+    },
+    {
+      "added_at": "2026-06-18 23:00:26",
+      "album": {
+        "name": "Arctic",
+        "url": "https://open.spotify.com/album/7lnZnX50hruW4tLEKahF5E"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "duration_ms": 146371,
+      "name": "Arctic",
+      "url": "https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q"
     },
     {
       "added_at": "2026-06-18 23:00:26",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/1jtXnbroF5oAba0vxMUPHl"
-      },
-      "artists": [
-        {
-          "name": "Javeon",
-          "url": "https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7"
-        },
-        {
-          "name": "Makoto",
-          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/6JSuAOYpPpckpZIdh92Dz7"
-    },
-    {
-      "added_at": "2026-06-18 23:00:26",
-      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/4yzoYL0O0VSACgnOytIqS5"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 201071,
       "name": "Curtain Call",
       "url": "https://open.spotify.com/track/2FpKhOSjXEIsML61zNDibJ"
+    },
+    {
+      "added_at": "2026-06-18 23:00:26",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1jtXnbroF5oAba0vxMUPHl"
+      },
+      "artists": [
+        {
+          "name": "Javeon",
+          "url": "https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7"
+        },
+        {
+          "name": "Makoto",
+          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/6JSuAOYpPpckpZIdh92Dz7"
     },
     {
       "added_at": "2026-06-18 23:00:26",
@@ -1991,18 +1991,22 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
-        "name": "whenever you're ready",
-        "url": "https://open.spotify.com/album/4WLvV4gXgXpjCVguqpgA7h"
+        "name": "Shoreline",
+        "url": "https://open.spotify.com/album/3CSAu9hFsNp31OvVBEaAs4"
       },
       "artists": [
         {
-          "name": "Maya Randle",
-          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
         }
       ],
-      "duration_ms": 207178,
-      "name": "whenever you're ready",
-      "url": "https://open.spotify.com/track/6b4f4npphxxMhUe0dMlTjZ"
+      "duration_ms": 207000,
+      "name": "Meet Again",
+      "url": "https://open.spotify.com/track/7wkpF9WoMdMR8XZPpu3lTK"
     },
     {
       "added_at": "2026-06-18 23:00:26",
@@ -2023,22 +2027,18 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
-        "name": "Shoreline",
-        "url": "https://open.spotify.com/album/3CSAu9hFsNp31OvVBEaAs4"
+        "name": "whenever you're ready",
+        "url": "https://open.spotify.com/album/4WLvV4gXgXpjCVguqpgA7h"
       },
       "artists": [
         {
-          "name": "Etherwood",
-          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
-        },
-        {
-          "name": "Charlotte Haining",
-          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+          "name": "Maya Randle",
+          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Meet Again",
-      "url": "https://open.spotify.com/track/7wkpF9WoMdMR8XZPpu3lTK"
+      "duration_ms": 207178,
+      "name": "whenever you're ready",
+      "url": "https://open.spotify.com/track/6b4f4npphxxMhUe0dMlTjZ"
     }
   ],
   "unique_name": "Sunny dnb",

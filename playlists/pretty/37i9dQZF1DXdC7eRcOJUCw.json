@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las mujeres de la M\u00fasica Mexicana! Rosalia Le\u00f3n en portada \ud83c\udf39",
-  "num_followers": 189172,
+  "num_followers": 189192,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,18 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Veracruz",
-        "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
+        "name": "Piel Azteca",
+        "url": "https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ"
       },
       "artists": [
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        },
-        {
-          "name": "Jos\u00e9 Carrillo",
-          "url": "https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz"
         }
       ],
-      "duration_ms": 222236,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
+      "duration_ms": 115537,
+      "name": "Piel Azteca",
+      "url": "https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm"
     },
     {
       "added_at": "2026-02-13 06:00:00",
@@ -975,18 +971,22 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Piel Azteca",
-        "url": "https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ"
+        "name": "Veracruz",
+        "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
       },
       "artists": [
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Jos\u00e9 Carrillo",
+          "url": "https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz"
         }
       ],
-      "duration_ms": 115537,
-      "name": "Piel Azteca",
-      "url": "https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm"
+      "duration_ms": 222236,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
     },
     {
       "added_at": "2026-02-13 06:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Tengo Ganas De Olvidarte",
-        "url": "https://open.spotify.com/album/2VTuVSJ6mock6liZb5NuD0"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        },
-        {
-          "name": "Cynthia Yolanda",
-          "url": "https://open.spotify.com/artist/1Llt3kcKErOoHO9Ez8SjWU"
-        }
-      ],
-      "duration_ms": 218061,
-      "name": "Tengo Ganas De Olvidarte",
-      "url": "https://open.spotify.com/track/7EJzVmKWei8WNDRkqmPWrE"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
         "name": "La Caponera (M\u00fasica de la Serie Original \u201cEl Gallo de Oro\u201d)",
         "url": "https://open.spotify.com/album/4muQXYTMJaQtFMtzJJ9DFD"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 169489,
       "name": "Jardinera (Caponera) - Musica de la Serie Original \"El Gallo de Oro\" (Versi\u00f3n Dueto)",
       "url": "https://open.spotify.com/track/0kkQsruogh3vbVkxKVye9D"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
+        "name": "Tengo Ganas De Olvidarte",
+        "url": "https://open.spotify.com/album/2VTuVSJ6mock6liZb5NuD0"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        },
+        {
+          "name": "Cynthia Yolanda",
+          "url": "https://open.spotify.com/artist/1Llt3kcKErOoHO9Ez8SjWU"
+        }
+      ],
+      "duration_ms": 218061,
+      "name": "Tengo Ganas De Olvidarte",
+      "url": "https://open.spotify.com/track/7EJzVmKWei8WNDRkqmPWrE"
     },
     {
       "added_at": "2026-02-13 06:00:00",

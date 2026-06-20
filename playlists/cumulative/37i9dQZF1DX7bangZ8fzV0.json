@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 198970,
       "name": "Jagtrip",
       "url": "https://open.spotify.com/track/3Nvl9XchMTkQtbSr9mJgSq"
@@ -6559,6 +6559,28 @@
     },
     {
       "album": {
+        "name": "Toelaat",
+        "url": "https://open.spotify.com/album/5JdyijoGX7ODZBtwQ4kMSn"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        },
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229017,
+      "name": "Toelaat",
+      "url": "https://open.spotify.com/track/2xv9q2QK3wWHRB5nM0TLde"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
       },
@@ -6971,6 +6993,24 @@
     },
     {
       "album": {
+        "name": "V\u00ear Van Die Huis Af",
+        "url": "https://open.spotify.com/album/27vixl2BCIve2VNi5HY41G"
+      },
+      "artists": [
+        {
+          "name": "ONS",
+          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159994,
+      "name": "V\u00ear Van Die Huis Af",
+      "url": "https://open.spotify.com/track/2Tsi2JPhmT0p1AiD4TwUoo"
+    },
+    {
+      "album": {
         "name": "Waar Gaan Ons Dans Vanaand?",
         "url": "https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd"
       },
@@ -7130,7 +7170,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 205454,
       "name": "Wie Anders",
       "url": "https://open.spotify.com/track/32wQgPOPIwmoRW2HulnKFT"

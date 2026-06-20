@@ -3981,6 +3981,28 @@
     },
     {
       "album": {
+        "name": "Rest Here",
+        "url": "https://open.spotify.com/album/0ZsH4uGGcDVSGUgvKGjIJL"
+      },
+      "artists": [
+        {
+          "name": "Car Culture",
+          "url": "https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4"
+        },
+        {
+          "name": "Physical Therapy",
+          "url": "https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237508,
+      "name": "Rest Here",
+      "url": "https://open.spotify.com/track/3kk2Dvffp73fZW3ZbFrInH"
+    },
+    {
+      "album": {
         "name": "Rivet Gun",
         "url": "https://open.spotify.com/album/0DAG064jI5VUY0CAWDYZG2"
       },
@@ -4448,6 +4470,28 @@
       "duration_ms": 157631,
       "name": "Someone",
       "url": "https://open.spotify.com/track/3fGJEc4DzxFTxgG735rJDo"
+    },
+    {
+      "album": {
+        "name": "Something For My Head REWORKS",
+        "url": "https://open.spotify.com/album/2imAVUf6b3Kyr2NpshuAgh"
+      },
+      "artists": [
+        {
+          "name": "thredd",
+          "url": "https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC"
+        },
+        {
+          "name": "Tiffi M",
+          "url": "https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165507,
+      "name": "Something For My Head - Tiffi M REWORK",
+      "url": "https://open.spotify.com/track/4VcAlqZULz0HJruvvhrv9D"
     },
     {
       "album": {

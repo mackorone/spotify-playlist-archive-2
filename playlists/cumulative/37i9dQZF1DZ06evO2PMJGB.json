@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 215732,
       "name": "Sempre Voc\u00ea",
       "url": "https://open.spotify.com/track/6OLRROXI8aDgzNDK5oDTNr"
@@ -2249,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "BRUTAL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91749,
+      "name": "Telefone",
+      "url": "https://open.spotify.com/track/2Tfpk9vbsgqUKD3dkDJ3hL"
+    },
+    {
+      "album": {
         "name": "Telefone",
         "url": "https://open.spotify.com/album/2va62ELLdq6PygdowajASo"
       },
@@ -2260,7 +2278,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 91749,
       "name": "Telefone",
       "url": "https://open.spotify.com/track/7rIeU9DvfVAz2hroqBAiuV"

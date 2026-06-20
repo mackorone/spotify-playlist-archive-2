@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal\ud83d\udcf8",
-  "num_followers": 367946,
+  "num_followers": 367953,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "La Perra",
-        "url": "https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "La Perra",
-      "url": "https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 174133,
       "name": "Malagradecido",
       "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "La Perra",
+        "url": "https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "La Perra",
+      "url": "https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Bien, \u00bfy t\u00fa?",
-        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
-      },
-      "artists": [
-        {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Bien, \u00bfy t\u00fa?",
-      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Coleccionando Corazones",
         "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 196766,
       "name": "Se Me Va A Pasar",
       "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Bien, \u00bfy t\u00fa?",
+        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
+      },
+      "artists": [
+        {
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Bien, \u00bfy t\u00fa?",
+      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
+        "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
+        "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 773154,
+      "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
+      "url": "https://open.spotify.com/track/0Bwl0TwMU8M4nS99dyT3g6"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
         "name": "Qu\u00e9 Manera De Perder",
         "url": "https://open.spotify.com/album/3gug01l53bHONxiMPjAJmQ"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
-        "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 773154,
-      "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
-      "url": "https://open.spotify.com/track/0Bwl0TwMU8M4nS99dyT3g6"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Pagar\u00e9 Condena",
         "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Traigan Las Otras",
-        "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 230806,
-      "name": "Traigan Las Otras",
-      "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Despecho Puro (En Vivo)",
         "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 173173,
       "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
       "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Traigan Las Otras",
+        "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 230806,
+      "name": "Traigan Las Otras",
+      "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
     },
     {
       "added_at": "2026-05-22 06:00:32",

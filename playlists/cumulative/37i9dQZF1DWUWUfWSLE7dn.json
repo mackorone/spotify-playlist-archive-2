@@ -2841,6 +2841,28 @@
     },
     {
       "album": {
+        "name": "Solution",
+        "url": "https://open.spotify.com/album/05oTPFtZfXZ4DHkkvvo8Ql"
+      },
+      "artists": [
+        {
+          "name": "Ketil Bj\u00f8rnstad",
+          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
+        },
+        {
+          "name": "Sandra Lied Haga",
+          "url": "https://open.spotify.com/artist/18xWcfRbbPRIpnPwoFBojM"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375986,
+      "name": "Solution",
+      "url": "https://open.spotify.com/track/6IOcpBgFb73lTEooi8iMtu"
+    },
+    {
+      "album": {
         "name": "Everest (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP"
       },

@@ -4,7 +4,7 @@
 
 > أفضل أغاني الراي
 
-245 songs - 19 hr 57 min
+246 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Manich Kima Bakri](https://open.spotify.com/track/1b6ylP8XBdY7jOD7bwSWZk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/3cjlTzZoHAlpC7VsWJBv8F) | 5:45 | 2023-02-20 | 2024-01-20 |
 | [Manich Kima Bakri](https://open.spotify.com/track/5dlisfuyJayuJXCDMEeov3) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 5:45 | 2022-11-14 | 2023-02-15 |
 | [Maniche Ghaya](https://open.spotify.com/track/4b3FfSiGHdCgRioDRgTe3B) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [Maniche Ghaya](https://open.spotify.com/album/0cZAAarZByPdTYTWlco14o) | 4:42 | 2021-10-19 | 2023-12-22 |
-| [Manini Manini Ntiya Cheba Wana Chbab](https://open.spotify.com/track/70XpKD6dYj12OWVx05ecQ0) | [Cheb Iyad](https://open.spotify.com/artist/2gqYRgONuLee9PC6qnAD0n), [Manini Sahar](https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c) | [Manini Manini Ntiya Cheba Wana Chbab](https://open.spotify.com/album/6FEJQrNJi728zBsHUMgWtZ) | 6:02 | 2023-08-25 |  |
+| [Manini Manini Ntiya Cheba Wana Chbab](https://open.spotify.com/track/70XpKD6dYj12OWVx05ecQ0) | [Cheb Iyad](https://open.spotify.com/artist/2gqYRgONuLee9PC6qnAD0n), [Manini Sahar](https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c) | [Manini Manini Ntiya Cheba Wana Chbab](https://open.spotify.com/album/6FEJQrNJi728zBsHUMgWtZ) | 6:02 | 2023-08-25 | 2026-06-20 |
 | [Matebkich & Madanit Netfarko](https://open.spotify.com/track/4dTKDe11H4a3yZrcZvnjWI) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Matebkich & Madanit Netfarko](https://open.spotify.com/album/14JGq86bpnMJ0i7fkYqWsy) | 3:42 | 2023-02-09 | 2023-05-02 |
 | [Matesem7ech Fi 3ach9ek](https://open.spotify.com/track/2z1eSaF4tmNJlzIrL6cupW) | [Ramzi 31](https://open.spotify.com/artist/52lAkeBbNbBfC529dteQNm) | [Matesem7ech Fi 3ach9ek](https://open.spotify.com/album/67CifKJ5B7obMBt0cNTM0P) | 7:05 | 2022-09-20 | 2022-12-01 |
 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 | 2021-10-19 | 2024-10-16 |
@@ -240,6 +240,7 @@
 | [شوفو لامور مدار فيا](https://open.spotify.com/track/3c58Jl3ddpirlnR6mkEiED) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [شوفو لامور مدار فيا](https://open.spotify.com/album/1PTe3yvpsDEAOpN06oB0jv) | 3:06 | 2023-09-25 | 2023-10-21 |
 | [طيري يا طيارة](https://open.spotify.com/track/0qJPN8mWjsORy7v2a6Benw) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [طيري يا طيارة](https://open.spotify.com/album/7jaNQ3MZzO2FS2aCkxP6Xv) | 3:07 | 2022-09-20 | 2023-07-12 |
 | [عشق الهالوين](https://open.spotify.com/track/3Bm5cjpmf3o8StNRGhtJmB) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A) | [عشق الهالوين](https://open.spotify.com/album/4qr2UkfLbj2qc94BmDJC4A) | 6:08 | 2025-11-17 |  |
+| [عشقك غير مؤهل](https://open.spotify.com/track/6CsW69ldFPdhOHuIqOJ0zE) | [Cheb Hamza 31](https://open.spotify.com/artist/61ZRunI7TA06eybmX3q9ag) | [عشقك غير مؤهل](https://open.spotify.com/album/0piqjmoNBfBCaYHjgomtzq) | 5:21 | 2026-06-19 |  |
 | [عشقها فات الحدود](https://open.spotify.com/track/2hI4PLjRtD6p9aeuwNIsqf) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [عشقها فات الحدود](https://open.spotify.com/album/7ngjklnX34oPZfnulpA0dB) | 5:10 | 2024-02-13 | 2024-03-08 |
 | [على رواحنا منكذبوش](https://open.spotify.com/track/5BaSu9ES2R8LIYxAZBTqQA) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [على رواحنا منكذبوش](https://open.spotify.com/album/0Oe1AG3aTF6lEyNyKAzo68) | 4:20 | 2021-10-19 | 2022-09-09 |
 | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/track/2H0aSCHi9R2UR3XmQwML3W) | [Cheb Nadir 22](https://open.spotify.com/artist/3eXk15TVlyGMQiajw6ra1l) | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/album/13nS0hTGyJMzeKhO5WCsdl) | 5:18 | 2024-05-13 | 2024-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,525 songs - 10 day 2 hr 2 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,530 songs - 10 day 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4533,5 +4533,10 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4523 | [She speaks in numbers](https://open.spotify.com/track/0ueey7xc28u36TcRpfoMWg) | [VicDigital](https://open.spotify.com/artist/5HbzK4iHOYfQxxBlHLPaOO), [Pr0fess0r](https://open.spotify.com/artist/2WssrSCJ4rSLFIQUqmRsxp) | [She speaks in numbers](https://open.spotify.com/album/7yoOw4R6VsdhlY4d2z0Z5G) | 3:30 |
 | 4524 | [Northwest Cold Front](https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Northwest Cold Front](https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c) | 3:07 |
 | 4525 | [Save Us](https://open.spotify.com/track/5CKVc9xlMamknLZwVDBBda) | [Sinsation](https://open.spotify.com/artist/7zkNESiCUt0wzQsSwKzTrS) | [Save Us](https://open.spotify.com/album/6rYTeQvcX9RF05gTGxy1uU) | 4:18 |
+| 4526 | [como la luna](https://open.spotify.com/track/50zdQV83gf1guuk6bBBUDJ) | [young llop.mp3](https://open.spotify.com/artist/1alG0IPqW3stdy2R7Sc7bK) | [como la luna](https://open.spotify.com/album/2vvmzqz0afaGSA1kSHons0) | 1:44 |
+| 4527 | [Shotgun Shell Breakfast](https://open.spotify.com/track/1yUa1cu6yUlogx6pSYafmz) | [Shooby Alexander](https://open.spotify.com/artist/2OJPVD3CO35MymnTq8bZkS) | [Shotgun Shell Breakfast](https://open.spotify.com/album/3RoiAPhbbQERs2tIwNBUPX) | 2:54 |
+| 4528 | [The Space Between](https://open.spotify.com/track/3BqObTaNraOvwEDI3tiGTv) | [Shade Over Winter](https://open.spotify.com/artist/6bUMhQG3m1Bm4CAsuMTzK0) | [The Space Between](https://open.spotify.com/album/3bffllwnQPxbRHOx0OmeN0) | 3:26 |
+| 4529 | [Tu Hai Toh](https://open.spotify.com/track/3BjYRmww0BVPv28wfGkWJv) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tu Hai Toh](https://open.spotify.com/album/1c0jWhoRT6biZMrqxUYx4g) | 4:11 |
+| 4530 | [Reasons To Stay](https://open.spotify.com/track/6GO9asq0BdWB3EMWZibLMc) | [Get Through](https://open.spotify.com/artist/5gF3q9VRL3x0zOyba99xIT) | [Reasons To Stay](https://open.spotify.com/album/1fgrJdJdPJhaz0KCN5PkVW) | 4:29 |
 
-Snapshot ID: `AAAI5r1Ht2UkTJGlXj7bA6uCm84yyVCS`
+Snapshot ID: `AAAI6z9p+0wncitgVz8a2M1WmMP38z1+`

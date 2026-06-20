@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Kris R, Ryan Castro, De La Rose & Cris MJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,666 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,168 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 72 | [Belleza](https://open.spotify.com/track/1RCLBRAJc2iEDE8DTXHCxj) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [Belleza](https://open.spotify.com/album/7dFEzeWR3MbGdQEykDTVbF) | 4:00 |
 | 73 | [Me Arrepiento](https://open.spotify.com/track/6KlMFpD7Ke4vj5pyKP1uMs) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [LAS QUE DEBÍ SUBIR EN SOUNDCLOUD](https://open.spotify.com/album/1idfZR7zVSTPH2JcK6vhNG) | 2:48 |
 | 74 | [Tu Turno](https://open.spotify.com/track/7sOVSH70TzdGTiUNsSlIst) | [Ronald El Killa](https://open.spotify.com/artist/2jE5NeCBZpgohvRLtQ6v0O), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Ruso Beats](https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Tu Turno](https://open.spotify.com/album/3dJHJPYipF9GPYvhysboHA) | 3:49 |
-| 75 | [Encima de Mi](https://open.spotify.com/track/0IeokvKfpv8XRniJPgtwtN) | [Otra Dosis](https://open.spotify.com/artist/547DiDbkwxxaiAkgrx92kZ), [KEEY205](https://open.spotify.com/artist/4LlttRZ4R2LEYkF44pQx1q) | [Encima de Mi](https://open.spotify.com/album/6SnKBe3rtdpb5VsycDL0aL) | 2:34 |
+| 75 | [Encima de Mi](https://open.spotify.com/track/0IeokvKfpv8XRniJPgtwtN) | [Otra Dosis](https://open.spotify.com/artist/547DiDbkwxxaiAkgrx92kZ) | [Encima de Mi](https://open.spotify.com/album/6SnKBe3rtdpb5VsycDL0aL) | 2:34 |
 | 76 | [ME LA PASO REBOTANDO](https://open.spotify.com/track/69tjfJOEQPhoPloTYvu6rq) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [El Bugg](https://open.spotify.com/artist/6o4L5N0aiAhdtN3pqEwG0P) | [CULONA EL MUNDO ES TUYO](https://open.spotify.com/album/0HtZPdT1LUYTENFs8GSVIN) | 2:40 |
 | 77 | [Candy](https://open.spotify.com/track/4vxSybnXSld4re7t8b0ZBz) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Bravvs](https://open.spotify.com/artist/2EstnBv92UlKvEoCLSPOOh) | [Candy](https://open.spotify.com/album/3hVfJYRT4xIDOasEO0UaLo) | 2:05 |
 | 78 | [YTQ](https://open.spotify.com/track/0gNoBKtG8eA1era2DzdXoR) | [K John](https://open.spotify.com/artist/1FmV3JhbfZN6l1jNarZyVz) | [YTQ](https://open.spotify.com/album/2HgIoFeBQSVddI4hin7H1x) | 2:02 |

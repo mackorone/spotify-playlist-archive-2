@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,673,225 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,673,364 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 99 | [Similar Minds](https://open.spotify.com/track/3FeSvzYNoejvNC4wl35dgL) | [Sera J](https://open.spotify.com/artist/5jcERq66fAe2jraFESRyBE) | [Symbiosis III](https://open.spotify.com/album/08BMofEoyizd04X7K2jyNm) | 4:36 |
 | 100 | [Frequency](https://open.spotify.com/track/6o6CnDrWJrujm26F3HVCDQ) | [Veerus](https://open.spotify.com/artist/7GZGpDZcYVX1wrbaOoDWOH) | [Frequency](https://open.spotify.com/album/5yNCd4EsYTca3tcbmG46Jo) | 4:19 |
 
-Snapshot ID: `AAAAABOq4xk2WAzqZxZF/ZVveno+8Sbx`
+Snapshot ID: `AAAAANfxVzVWILDDgvVYm5Q06UeEubtc`

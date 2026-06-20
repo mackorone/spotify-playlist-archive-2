@@ -1,12 +1,12 @@
 {
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring SLANDER",
-  "num_followers": 994276,
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Borgore",
+  "num_followers": 994310,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIgPBuTx0Ic5dHG/eq5WiDpmOqjb",
+  "snapshot_id": "AAAAAJo9MAaKSyRLFu5md7V6rHAFqpOS",
   "tracks": [
     {
       "added_at": "2026-06-12 04:24:40",
@@ -53,6 +53,26 @@
       "url": "https://open.spotify.com/track/42Wg4dxXp01ii2i4odEUIl"
     },
     {
+      "added_at": "2026-06-19 04:02:01",
+      "album": {
+        "name": "COLLABORATIVE EXTENDED PLAY",
+        "url": "https://open.spotify.com/album/715gAqiaUk7antz2sU7iIm"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Kayp",
+          "url": "https://open.spotify.com/artist/1Lp0WVwWH1SZbs5DRJrI3V"
+        }
+      ],
+      "duration_ms": 181324,
+      "name": "OBSESSED",
+      "url": "https://open.spotify.com/track/1eV4FSoEZKN7eIkAM8RzDQ"
+    },
+    {
       "added_at": "2026-05-29 04:02:45",
       "album": {
         "name": "Eyes Cut Deeper (Crankdat Remix)",
@@ -75,6 +95,30 @@
       "duration_ms": 243380,
       "name": "Eyes Cut Deeper - Crankdat Remix",
       "url": "https://open.spotify.com/track/2qwDBUFbjlzSQnOLOa6V7m"
+    },
+    {
+      "added_at": "2026-06-19 04:02:01",
+      "album": {
+        "name": "Push Up",
+        "url": "https://open.spotify.com/album/2afaHlpY3BkWzzaxCfNm6G"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Zoey808",
+          "url": "https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ"
+        }
+      ],
+      "duration_ms": 203142,
+      "name": "Push Up",
+      "url": "https://open.spotify.com/track/4wGzISKyZqIBGtWvCLOPHH"
     },
     {
       "added_at": "2026-06-05 04:01:32",
@@ -149,6 +193,74 @@
       "url": "https://open.spotify.com/track/4XUNSbxzT3vgIeAYBhPQsl"
     },
     {
+      "added_at": "2026-06-12 04:24:40",
+      "album": {
+        "name": "Like A G6 (Manila Killa Remix)",
+        "url": "https://open.spotify.com/album/6koeb2L0pkM8VATLCCrO1p"
+      },
+      "artists": [
+        {
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "The Cataracs",
+          "url": "https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "duration_ms": 184137,
+      "name": "Like A G6 - Manila Killa Remix",
+      "url": "https://open.spotify.com/track/4wh3fBDG8SfKhC42ofgjqh"
+    },
+    {
+      "added_at": "2026-06-19 04:02:01",
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/18dWMm2DXRXFIhjIaFU3Wb"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "duration_ms": 227327,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/27DXQ1nIW0tbdkUM5f0X07"
+    },
+    {
+      "added_at": "2026-05-15 04:02:24",
+      "album": {
+        "name": "Fuck The Whole World (Subtronics Remix)",
+        "url": "https://open.spotify.com/album/24kOcYxCPLESlexPHkM3Ct"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Fuck The Whole World - Subtronics Remix",
+      "url": "https://open.spotify.com/track/4D5abe8UYoP2K2sKxyx3mT"
+    },
+    {
       "added_at": "2026-05-15 04:02:24",
       "album": {
         "name": "Neon Soul",
@@ -163,6 +275,142 @@
       "duration_ms": 212571,
       "name": "Neon Soul",
       "url": "https://open.spotify.com/track/5ONOXYgmiuLZk8oxy2zr0X"
+    },
+    {
+      "added_at": "2026-06-12 04:24:40",
+      "album": {
+        "name": "NASTY",
+        "url": "https://open.spotify.com/album/7n9AqmiAkhwFbWNFaS9BZP"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "NASTY",
+      "url": "https://open.spotify.com/track/5bLtHN2kDNecQc1J4bVwgK"
+    },
+    {
+      "added_at": "2026-06-19 04:02:01",
+      "album": {
+        "name": "DUALITY",
+        "url": "https://open.spotify.com/album/4Dw28zBHujmDojEbZeViEk"
+      },
+      "artists": [
+        {
+          "name": "Lizdek",
+          "url": "https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG"
+        },
+        {
+          "name": "Malixe",
+          "url": "https://open.spotify.com/artist/0Aj37VEcCEFEZtoSFFvZzh"
+        },
+        {
+          "name": "Oddly Godly",
+          "url": "https://open.spotify.com/artist/35C4dxG2eg13VhzF1FaN7U"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "INSANE",
+      "url": "https://open.spotify.com/track/45JQqMg08DsvcDvpiJP7rE"
+    },
+    {
+      "added_at": "2026-04-17 04:04:06",
+      "album": {
+        "name": "WONKY SHIT",
+        "url": "https://open.spotify.com/album/7g4Yj4gmORFhAJf11XXuOL"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "J. Plaza",
+          "url": "https://open.spotify.com/artist/5byn1BtQQdomxOZgqd2S0Y"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "WONKY SHIT",
+      "url": "https://open.spotify.com/track/1HzfJVzAFhHxas1hpco7bs"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "DESTRUCTION OF A UFO",
+        "url": "https://open.spotify.com/album/7KToeeuacOaEySYFDzjVTk"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        }
+      ],
+      "duration_ms": 213230,
+      "name": "FALL WITH ME",
+      "url": "https://open.spotify.com/track/64R7y9nCSQtZXPTsSBxUhe"
+    },
+    {
+      "added_at": "2026-06-19 04:02:01",
+      "album": {
+        "name": "Bass Cannon (Flux's Version - Crankdat Remix)",
+        "url": "https://open.spotify.com/album/5ftcfTOC3YH5HPIbkfQngX"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 190801,
+      "name": "Bass Cannon (Flux's Version) - Crankdat Remix",
+      "url": "https://open.spotify.com/track/3b7doVly0rz4na3rqZUasE"
+    },
+    {
+      "added_at": "2026-06-05 04:01:32",
+      "album": {
+        "name": "Future Funk Volume 1",
+        "url": "https://open.spotify.com/album/2rQ5O2LTWYvzFJTOnYNPyZ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "duration_ms": 164835,
+      "name": "Rainbow Machine",
+      "url": "https://open.spotify.com/track/1tGLoKlVJksDcCTTVeTD6U"
+    },
+    {
+      "added_at": "2026-06-19 04:02:01",
+      "album": {
+        "name": "Pain to Pleasure",
+        "url": "https://open.spotify.com/album/7DpZpOQ55oKjPJZOYuMORE"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        },
+        {
+          "name": "Daemon",
+          "url": "https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt"
+        }
+      ],
+      "duration_ms": 161682,
+      "name": "Pain to Pleasure",
+      "url": "https://open.spotify.com/track/4zgz7tvD24hLRNxHP2GcS5"
     },
     {
       "added_at": "2026-06-12 04:24:40",
@@ -233,110 +481,6 @@
       "url": "https://open.spotify.com/track/2zHMiZkQJmKONaXotWbH3z"
     },
     {
-      "added_at": "2026-05-15 04:02:24",
-      "album": {
-        "name": "Fuck The Whole World (Subtronics Remix)",
-        "url": "https://open.spotify.com/album/24kOcYxCPLESlexPHkM3Ct"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Fuck The Whole World - Subtronics Remix",
-      "url": "https://open.spotify.com/track/4D5abe8UYoP2K2sKxyx3mT"
-    },
-    {
-      "added_at": "2026-06-05 04:01:32",
-      "album": {
-        "name": "Future Funk Volume 1",
-        "url": "https://open.spotify.com/album/2rQ5O2LTWYvzFJTOnYNPyZ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "ProbCause",
-          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
-        }
-      ],
-      "duration_ms": 164835,
-      "name": "Rainbow Machine",
-      "url": "https://open.spotify.com/track/1tGLoKlVJksDcCTTVeTD6U"
-    },
-    {
-      "added_at": "2026-06-12 04:24:40",
-      "album": {
-        "name": "Like A G6 (Manila Killa Remix)",
-        "url": "https://open.spotify.com/album/6koeb2L0pkM8VATLCCrO1p"
-      },
-      "artists": [
-        {
-          "name": "Far East Movement",
-          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
-        },
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "The Cataracs",
-          "url": "https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP"
-        },
-        {
-          "name": "DEV",
-          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
-        }
-      ],
-      "duration_ms": 184137,
-      "name": "Like A G6 - Manila Killa Remix",
-      "url": "https://open.spotify.com/track/4wh3fBDG8SfKhC42ofgjqh"
-    },
-    {
-      "added_at": "2026-04-17 04:04:06",
-      "album": {
-        "name": "WONKY SHIT",
-        "url": "https://open.spotify.com/album/7g4Yj4gmORFhAJf11XXuOL"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "J. Plaza",
-          "url": "https://open.spotify.com/artist/5byn1BtQQdomxOZgqd2S0Y"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "WONKY SHIT",
-      "url": "https://open.spotify.com/track/1HzfJVzAFhHxas1hpco7bs"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "DESTRUCTION OF A UFO",
-        "url": "https://open.spotify.com/album/7KToeeuacOaEySYFDzjVTk"
-      },
-      "artists": [
-        {
-          "name": "ATLiens",
-          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
-        }
-      ],
-      "duration_ms": 213230,
-      "name": "FALL WITH ME",
-      "url": "https://open.spotify.com/track/64R7y9nCSQtZXPTsSBxUhe"
-    },
-    {
       "added_at": "2026-06-12 04:24:40",
       "album": {
         "name": "Giant Caterpillar",
@@ -351,6 +495,26 @@
       "duration_ms": 268732,
       "name": "Giant Caterpillar",
       "url": "https://open.spotify.com/track/5o6WdlikuiRQaWxnHTPxZ4"
+    },
+    {
+      "added_at": "2026-06-19 04:02:01",
+      "album": {
+        "name": "SHOOT 2 KILL",
+        "url": "https://open.spotify.com/album/2h26ISASnahkhpEHzHQ8tz"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "duration_ms": 122400,
+      "name": "SHOOT 2 KILL",
+      "url": "https://open.spotify.com/track/7k5JqvfMRikQwzyn5tyq0g"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -421,22 +585,6 @@
       "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
     },
     {
-      "added_at": "2026-04-17 04:04:06",
-      "album": {
-        "name": "BBFL",
-        "url": "https://open.spotify.com/album/0CodZZC4AQt9FtcZTdM4EB"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "BBFL",
-      "url": "https://open.spotify.com/track/0pqlIvYxalvFLP1Oje5zD3"
-    },
-    {
       "added_at": "2026-06-12 04:24:40",
       "album": {
         "name": "TACTICAL NUKE",
@@ -487,22 +635,6 @@
       "duration_ms": 148965,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/2BRxZXodJKlPvC0eq5VZFn"
-    },
-    {
-      "added_at": "2026-06-12 04:24:40",
-      "album": {
-        "name": "NASTY",
-        "url": "https://open.spotify.com/album/7n9AqmiAkhwFbWNFaS9BZP"
-      },
-      "artists": [
-        {
-          "name": "HerShe",
-          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "NASTY",
-      "url": "https://open.spotify.com/track/5bLtHN2kDNecQc1J4bVwgK"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -785,26 +917,6 @@
       "url": "https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp"
     },
     {
-      "added_at": "2026-05-08 04:02:32",
-      "album": {
-        "name": "Original Style",
-        "url": "https://open.spotify.com/album/5IE1VPEhI3R17XvTdw1XLn"
-      },
-      "artists": [
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 154566,
-      "name": "Original Style",
-      "url": "https://open.spotify.com/track/62IL1Fj8GeneLQsmLu7ofk"
-    },
-    {
       "added_at": "2026-06-05 04:01:32",
       "album": {
         "name": "TRUE LOVE IN A MADE UP WORLD",
@@ -851,26 +963,6 @@
       "duration_ms": 195362,
       "name": "HARD IN DA PAINT",
       "url": "https://open.spotify.com/track/3CL5yUXDzK8YXCdMC8HWhr"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "THIGHS (up)",
-        "url": "https://open.spotify.com/album/25jdNZ36W7Yn7bWGfn3Qlz"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "Crumb Pit",
-          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "THIGHS (up)",
-      "url": "https://open.spotify.com/track/491ojG5dWqokrVgGltDdRH"
     },
     {
       "added_at": "2026-05-01 04:02:55",
@@ -1005,30 +1097,6 @@
       "url": "https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5"
     },
     {
-      "added_at": "2026-05-15 04:02:24",
-      "album": {
-        "name": "powerANTHEM / need (u)",
-        "url": "https://open.spotify.com/album/2OTkR8cOmqhBjSWya9fdPg"
-      },
-      "artists": [
-        {
-          "name": "No Signal",
-          "url": "https://open.spotify.com/artist/1aJGcBWhdgt1b8sEZ1Hupk"
-        },
-        {
-          "name": "FrostTop",
-          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
-        },
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "need (u)",
-      "url": "https://open.spotify.com/track/3Y2q0up7I4xfHZD59z3Yf4"
-    },
-    {
       "added_at": "2026-03-27 04:00:20",
       "album": {
         "name": "Word Scramble",
@@ -1093,22 +1161,6 @@
       "url": "https://open.spotify.com/track/4fi51l6vEHfAbq0vieFpMF"
     },
     {
-      "added_at": "2026-04-10 04:03:13",
-      "album": {
-        "name": "PART I - EXODUS",
-        "url": "https://open.spotify.com/album/3JzaD3OxtVSVwXwwBQkohd"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 213125,
-      "name": "Internal Shell",
-      "url": "https://open.spotify.com/track/2nVXgCTdJHSkouVNhM2Xca"
-    },
-    {
       "added_at": "2026-04-24 04:02:31",
       "album": {
         "name": "wakeup(crazy) [feat. Angst]",
@@ -1127,26 +1179,6 @@
       "duration_ms": 195517,
       "name": "wakeup(crazy) [feat. Angst]",
       "url": "https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30"
-    },
-    {
-      "added_at": "2026-05-08 04:02:32",
-      "album": {
-        "name": "DON'T LOOK DOWN",
-        "url": "https://open.spotify.com/album/02146G0WyPzuUdk5hABxt1"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "Coka Cobra",
-          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
-        }
-      ],
-      "duration_ms": 157384,
-      "name": "DON'T LOOK DOWN",
-      "url": "https://open.spotify.com/track/6zkI5zNfoilLBC9qvvETI6"
     },
     {
       "added_at": "2026-04-03 04:03:08",
@@ -1203,22 +1235,6 @@
       "duration_ms": 158095,
       "name": "his name is",
       "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
-    },
-    {
-      "added_at": "2026-04-24 04:02:31",
-      "album": {
-        "name": "999soundsystem",
-        "url": "https://open.spotify.com/album/45rkJHr1HWOLzbFpi1Mwg4"
-      },
-      "artists": [
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        }
-      ],
-      "duration_ms": 173017,
-      "name": "999soundsystem",
-      "url": "https://open.spotify.com/track/6mv33AvhAJWcz3O8XzQ2rc"
     },
     {
       "added_at": "2026-04-17 04:04:06",

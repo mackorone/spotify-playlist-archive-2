@@ -198,7 +198,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 166375,
       "name": "1Up",
       "url": "https://open.spotify.com/track/6ufaFmolT7QW3F7RCkm1yL"
@@ -14015,6 +14015,28 @@
     },
     {
       "album": {
+        "name": "House Call - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4UII47mIZbKyutKoW04fm8"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156864,
+      "name": "House Call - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3kr5GWissJcTzHdQaWmFxX"
+    },
+    {
+      "album": {
         "name": "How Many Times",
         "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
       },
@@ -23558,7 +23580,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 243449,
       "name": "Paranoid Riddim - Brawta Mini Mix",
       "url": "https://open.spotify.com/track/4rxs0CmzPD7MMLGxHcszWO"
@@ -28362,7 +28384,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 399314,
       "name": "SNOKONOKO",
       "url": "https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny"
@@ -32468,6 +32490,28 @@
       "duration_ms": 204279,
       "name": "Uhh Yeahh",
       "url": "https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P"
+    },
+    {
+      "album": {
+        "name": "Umteen",
+        "url": "https://open.spotify.com/album/6IsSqIOx95fmoINOwL4MNy"
+      },
+      "artists": [
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        },
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192512,
+      "name": "Umteen",
+      "url": "https://open.spotify.com/track/6dDkNhyawoK4GC1017Sb5K"
     },
     {
       "album": {

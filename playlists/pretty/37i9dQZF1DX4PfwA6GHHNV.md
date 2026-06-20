@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,260 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,263 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 28 | [QUERO \(AI AI AI\)](https://open.spotify.com/track/6kFinaKmlxjlslZ1lVJ9U1) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Thifany Kauany](https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL) | [QUERO \(AI AI AI\)](https://open.spotify.com/album/36oAKD2fmUrRz4z6hcAhpx) | 2:12 |
 | 29 | [Te Amo](https://open.spotify.com/track/4OHE1G5oqOF40LPcbduw6P) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Fat Family](https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Te Amo](https://open.spotify.com/album/7pDIW45Fh8ILGQ8lvxqYNH) | 2:56 |
 | 30 | [AYE O](https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo), [Ludom](https://open.spotify.com/artist/48eDQufEItjoNyPgM9OqQ0), [Marcelo de Lamare](https://open.spotify.com/artist/5HSTeVObdf6RyoInM3EUzM), [C\-AFROBRASIL](https://open.spotify.com/artist/3iXFPpErmAcOgnrS9vrrQx), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev) | [CORTAVENTO](https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF) | 3:50 |
-| 31 | [Me Balança Toda](https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Dreebeatmaker](https://open.spotify.com/artist/1dErfzWzRA1g7wtNmfsV21) | [Grande](https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW) | 3:54 |
-| 32 | [Pôkas](https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN) | [Amiri](https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p), [Deryck Cabrera](https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd) | [Pôkas / Mfalme](https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh) | 5:45 |
+| 31 | [Pôkas](https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN) | [Amiri](https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p), [Deryck Cabrera](https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd) | [Pôkas / Mfalme](https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh) | 5:45 |
+| 32 | [Me Balança Toda](https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Dreebeatmaker](https://open.spotify.com/artist/1dErfzWzRA1g7wtNmfsV21) | [Grande](https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW) | 3:54 |
 | 33 | [Fiona](https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J) | [BENSH47](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Fiona](https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF) | 2:52 |
 | 34 | [Fatal](https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [Fatal](https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4) | 2:24 |
 | 35 | [Rolls Royce](https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO) | [Rolls Royce](https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 49 | [Tobogã](https://open.spotify.com/track/44iMcueuRgLXnR1VfjXxcl) | [Renegado](https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f), [PMM](https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J) | [Tobogã](https://open.spotify.com/album/6K65JC2hkUGVCUIDRgkzzD) | 2:46 |
 | 50 | [RINGUE](https://open.spotify.com/track/5fwp4Me529FOYNKxyVAz1n) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Hobb The Goat](https://open.spotify.com/artist/6BY8aKKdrEbzOYWoD2EOAZ) | [RINGUE](https://open.spotify.com/album/5U60uRO6qeJOfwIiluPyTk) | 3:02 |
 
-Snapshot ID: `AAAAAMN/t1rU9n22c+4oTO+oYwzo0xGO`
+Snapshot ID: `AAAAAFNcPv7QeUxrNYFwGzBYMXwu42Zm`

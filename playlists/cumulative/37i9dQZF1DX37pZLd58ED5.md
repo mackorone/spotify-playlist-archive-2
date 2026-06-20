@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-371 songs - 18 hr 58 min
+373 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Buttare, buttare \(feat\. Latrelle\)](https://open.spotify.com/track/0BeeP8VwfLIziYkdv0m6lQ) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV) | [ANTI ANTI \(Doom Edition\)](https://open.spotify.com/album/6k1D9AV5IWPh8D43LIjkhi) | 2:44 | 2026-02-02 |  |
 | [BÂTIMENT \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gLwwaugbT9d8gxae5FZw3) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 3:24 | 2025-06-19 | 2025-09-05 |
 | [Bébé](https://open.spotify.com/track/1NaONd9FKyujY4ikVUtaPV) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 2:34 | 2022-06-09 | 2022-07-15 |
+| [Cadeva Pioggia](https://open.spotify.com/track/3o7sPh3FhSokL2DlWBSWN5) | [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu) | [Cadeva Pioggia](https://open.spotify.com/album/3Kvf6IqTcpXhANYcDoM1T0) | 2:33 | 2026-06-19 |  |
 | [CANZONE D'ODIO \(feat\. Lil Baby\)](https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:42 | 2024-09-19 |  |
 | [CARO INVERNO](https://open.spotify.com/track/1VErUT5dtBVxqtkdIFrCNM) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTROSPEZIONE](https://open.spotify.com/album/0j6Fj7S8xJ2yab0paEHRPI) | 1:45 | 2025-07-10 | 2025-09-05 |
 | [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 | 2022-04-28 |  |
@@ -359,6 +360,7 @@
 | [Tutto Ok](https://open.spotify.com/track/5jzjIA5ygCPfRUCNvhT262) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Glocky vs Kiddo](https://open.spotify.com/album/53DRh8HCYyMHCyMF7HbHJe) | 2:34 | 2025-05-15 | 2025-07-04 |
 | [Un milione di volte \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:01 | 2023-06-08 |  |
 | [Un uomo](https://open.spotify.com/track/66a9KTb7xAkpnOoKBiuuYa) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Un uomo](https://open.spotify.com/album/6UIivOLqmMh6fzOxNo1HAJ) | 3:13 | 2025-10-03 | 2025-11-07 |
+| [Una vita fa](https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Una vita fa](https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl) | 2:23 | 2026-06-19 |  |
 | [Univers](https://open.spotify.com/track/2hL3IwpnKgRkM2M1yGiLmA) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:32 | 2022-04-28 | 2022-05-20 |
 | [UOMO CATTIVO \(feat\. Nabi\)](https://open.spotify.com/track/3nv625SWTqVVctz7AtecoY) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [PROGETTO X](https://open.spotify.com/album/7wnvQLGtbRN9Y4zpCVYxdX) | 3:16 | 2025-09-30 | 2025-12-12 |
 | [Up](https://open.spotify.com/track/55bbclV2CNma8iNwua3Ks5) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P) | [MARIO III](https://open.spotify.com/album/7aAe08RqsSDaQrcAjbqWLX) | 2:49 | 2026-02-20 | 2026-04-17 |

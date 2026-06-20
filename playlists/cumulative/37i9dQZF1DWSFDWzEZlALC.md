@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: SOFFIE
 
-1,838 songs - 3 day 14 hr 32 min
+1,838 songs - 3 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Eine gute Nachricht](https://open.spotify.com/track/16ECxiYYnL687XixVWebEI) | [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Eine gute Nachricht](https://open.spotify.com/album/40mUOcvSIuoKBvxgKd8Nwg) | 3:20 | 2023-02-13 | 2024-02-16 |
 | [Eine kleine Nachtmusik](https://open.spotify.com/track/7h9brqwMYJ8eZcovfZp9ZP) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [Eine kleine Nachtmusik](https://open.spotify.com/album/7ClnGIbrMBboCvZ2LSDZIH) | 3:24 | 2025-05-29 | 2025-06-20 |
 | [Eine Ode an Wien](https://open.spotify.com/track/43ufwL96oO8ICPs6kQerlq) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Eine Ode an Wien](https://open.spotify.com/album/0LxX4gqN7Ys9Kvbz38gFvY) | 3:06 | 2023-04-13 | 2023-06-16 |
+| [Eine Wolke, die sich vor die Sonne schiebt](https://open.spotify.com/track/2hqJEsX7PNKKk9P1Z5uMj5) | [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi) | [Eine Wolke, die sich vor die Sonne schiebt](https://open.spotify.com/album/5VYpZwbtDV8lFazEL49DeG) | 2:27 | 2026-06-18 |  |
 | [Einfach sein](https://open.spotify.com/track/79ZfFZxU80HL49D6QdoaAU) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Einfach sein](https://open.spotify.com/album/0309n4dzi1kqWpZwXEabae) | 2:45 | 2025-07-10 | 2025-10-03 |
 | [Einmal verliebt \(Outro\)](https://open.spotify.com/track/2Ibp8UUZFcS6dnUXHR4ZIO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Wenn du weinst / Einmal verliebt \(Outro\)](https://open.spotify.com/album/6BC1PLrKcbHzvTv36uNZas) | 2:30 | 2023-11-30 | 2024-04-26 |
 | [Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Einsame Insel](https://open.spotify.com/album/2bA9VJUcbmzW47Nubm8yOJ) | 2:44 | 2023-02-23 | 2023-05-12 |
@@ -1134,6 +1135,7 @@
 | [Nazis erschiessen](https://open.spotify.com/track/5Bh3fCer3pZp49sBNL5130) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Nazis erschiessen](https://open.spotify.com/album/7C7n3Viy7sds2WZ8y0a0Su) | 2:51 | 2024-07-18 | 2024-10-25 |
 | [Nein sagen](https://open.spotify.com/track/4Q1BQevOOJPuQijwCRcldT) | [amelie](https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV) | [Nein sagen](https://open.spotify.com/album/5cPRYZDRSlCEc9hDeu8SW5) | 2:24 | 2026-02-26 | 2026-03-27 |
 | [Nero](https://open.spotify.com/track/1ySWFxPIPHpjA5EsRx39Q7) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Nero](https://open.spotify.com/album/3cBbmX6ACg8NdpVyr2QACS) | 3:02 | 2023-02-23 | 2023-03-31 |
+| [NEUE HOFFNUNG](https://open.spotify.com/track/5xvyu9K4RFRVg7PVjqlzwN) | [diggidaniel](https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw) | [Neue Hoffnung, oder wie man sie nicht verliert](https://open.spotify.com/album/2MUn2mfBtCLrCVHfetvFIO) | 2:09 | 2026-06-18 |  |
 | [neue Notiz](https://open.spotify.com/track/2YLzaZ3hhHd2ambyl3K0u3) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [neue Notiz](https://open.spotify.com/album/6QCo9CnoOWoSkmGOxiuPxX) | 2:09 | 2024-12-05 | 2025-01-25 |
 | [neue welt](https://open.spotify.com/track/4BahctFbZ15m6Yw1ZsSOuq) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [schönheit die in schmerzen liegt](https://open.spotify.com/album/0VHB5d6cpwtQi6KZ2UZfUB) | 2:51 | 2023-11-24 | 2024-05-24 |
 | [NEUER MANN](https://open.spotify.com/track/1m8rHHiDUjTJ27QTIpQooj) | [BENNET](https://open.spotify.com/artist/17TdNLofzzzDydX8ZjfLqq) | [NEUER MANN \- EP](https://open.spotify.com/album/6HqHYrL7KRTe4sbA6trx2l) | 3:37 | 2026-05-21 | 2026-06-05 |
@@ -1549,8 +1551,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 2](https://open.spotify.com/track/2hqJEsX7PNKKk9P1Z5uMj5) | [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi) | [Eine Wolke, die sich vor die Sonne schiebt](https://open.spotify.com/album/5VYpZwbtDV8lFazEL49DeG) | 0:00 | 2026-06-18 |  |
-| [Track 6](https://open.spotify.com/track/5xvyu9K4RFRVg7PVjqlzwN) | [diggidaniel](https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw) | [Neue Hoffnung, oder wie man sie nicht verliert](https://open.spotify.com/album/2MUn2mfBtCLrCVHfetvFIO) | 0:00 | 2026-06-18 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

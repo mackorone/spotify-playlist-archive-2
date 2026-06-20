@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Brand of Sacrifice
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,143 likes - 140 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,324 likes - 140 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 30 | [DISASSOCIATED](https://open.spotify.com/track/4WiJvqslXH4w8WT1NgBE1G) | [Lucifena](https://open.spotify.com/artist/4el1PRZYPKpK5a70AOYEQ9) | [DISASSOCIATED](https://open.spotify.com/album/0qlUxluDoQ5cYYC7ZczDHG) | 2:18 |
 | 31 | [shoulder](https://open.spotify.com/track/0ePykmexSe5TVJthgpThN5) | [SAME PAINS](https://open.spotify.com/artist/2INAf66tBjzPRqdfSgahvg) | [five flowers](https://open.spotify.com/album/7oBDIVjyqvNmkZkDhEhyvi) | 3:47 |
 | 32 | [Krieg](https://open.spotify.com/track/0CpUsjkbXm2qMoxPVChyML) | [Consvmer](https://open.spotify.com/artist/1kJPCB066I6xZNqadwZx9C) | [Krieg](https://open.spotify.com/album/1IeMFYIeQZfdyc4v4BpZmR) | 1:39 |
-| 33 | [Stranger](https://open.spotify.com/track/1X4Jidr8dWPJQWMCaZUtwS) | [Prompts](https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl), [Landon Tewers](https://open.spotify.com/artist/3j4ihH7xANVDGQhcDFJby7) | [Stranger](https://open.spotify.com/album/3qO9WTYglFdQkNz1KXwW4J) | 3:36 |
+| 33 | [Drowning](https://open.spotify.com/track/1yceuVJSJ9M082CzRdlBJN) | [Prompts](https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl) | [Parasite Dream](https://open.spotify.com/album/4Nq9TrgLJUpIOBhi6ZUbbX) | 4:13 |
 | 34 | [Ready To Talk](https://open.spotify.com/track/0N6XAJxfd261NPvdZvIKpH) | [Broken Earth](https://open.spotify.com/artist/1JirMH2xgDshYWN3G5t7hA) | [Ready To Talk](https://open.spotify.com/album/20cwKltC9fNd1FjaWcFqIH) | 3:17 |
 | 35 | [The Mire Of The Forgotten](https://open.spotify.com/track/7cmFnqbiXX2xBTbj8MgYcJ) | [Synlakross](https://open.spotify.com/artist/5C4cGwwVx56fKQECoCFljD) | [The Mire Of The Forgotten](https://open.spotify.com/album/43ajV9MG4GLrue5JkZ7RWh) | 4:54 |
 | 36 | [Godless Truth](https://open.spotify.com/track/3izM8Wd89puWpK3ocK9qdj) | [Convulse](https://open.spotify.com/artist/2v2h7Rs6h910kvmn8Y63IE) | [From Resuscitation to Reincarnation \- The Early Years](https://open.spotify.com/album/3HqmXUqqhL2jLHqlKgrG5d) | 3:04 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 139 | [Misery](https://open.spotify.com/track/4SeXz2SZnyvrjie45uAHFg) | [Embrace The Silence](https://open.spotify.com/artist/3p3Xhk8v0h5iYp9pRRKNnp) | [Misery](https://open.spotify.com/album/1NHWQ4uSFxtdWNt8hHXUsR) | 3:20 |
 | 140 | [Del Giorno](https://open.spotify.com/track/2J6ob6Fejzzqxp76AJSR8d) | [Duir](https://open.spotify.com/artist/5a4KQaWx8L5EFLqtWZeafP) | [Del Giorno](https://open.spotify.com/album/6xz4Gnn3i383NEl4XlkGRz) | 7:20 |
 
-Snapshot ID: `AAAAAEhes1N3IJMtOZW0DmQMqXFaQxjV`
+Snapshot ID: `AAAAAPGXpyT5SNKydBUkZj+Vqfrr6RYi`

@@ -1,6 +1,6 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 216099,
+  "num_followers": 216101,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-12-18 21:46:21",
       "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 272665,
-      "name": "Is There Anybody Out There?",
-      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
-    },
-    {
-      "added_at": "2025-12-18 21:46:21",
-      "album": {
         "name": "Venom (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 254609,
       "name": "You Want a Battle? (Here's a War)",
       "url": "https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk"
+    },
+    {
+      "added_at": "2025-12-18 21:46:21",
+      "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 272665,
+      "name": "Is There Anybody Out There?",
+      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
     },
     {
       "added_at": "2025-12-18 21:46:21",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-12-18 21:46:21",
       "album": {
-        "name": "Low Teens (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 223262,
-      "name": "It Remembers",
-      "url": "https://open.spotify.com/track/7prBRHezRILw1WbJJTQi2w"
-    },
-    {
-      "added_at": "2025-12-18 21:46:21",
-      "album": {
         "name": "Purge",
         "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 282909,
       "name": "Purge",
       "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
+    },
+    {
+      "added_at": "2025-12-18 21:46:21",
+      "album": {
+        "name": "Low Teens (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 223262,
+      "name": "It Remembers",
+      "url": "https://open.spotify.com/track/7prBRHezRILw1WbJJTQi2w"
     }
   ],
   "unique_name": "Heavy Gamers",

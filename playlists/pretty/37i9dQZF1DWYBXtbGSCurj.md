@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Brocasito, Abbot, BGK
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,987 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,093 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 4 | [Será](https://open.spotify.com/track/5Xc91bJzq66BUcX6cqiEMo) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD) | [Será](https://open.spotify.com/album/5w8RcZnej1jOM3LNsiEpum) | 2:42 |
 | 5 | [THE BOX MEDLEY 14 \(feat\. Dudu\)](https://open.spotify.com/track/1qdZA2efcPsR3NwPIy9zSa) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [Rei Bxd](https://open.spotify.com/artist/1JdfP7VPjcxfFv2SirZxrc), [Aimar](https://open.spotify.com/artist/6A8rC2RnuqMKJom5roADWy), [Ouroempessoa](https://open.spotify.com/artist/7tdbteHDBsaDH29OAQvMBb), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [THE BOX MEDLEY 14](https://open.spotify.com/album/1S5iCMINAe7XTg7mFqOZFx) | 4:53 |
 | 6 | [ZONA DE PERIGO](https://open.spotify.com/track/6q9KVAb0UgdBmgqJFdQrOM) | [OG BRITTO](https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy), [GFM](https://open.spotify.com/artist/4YDz87v1xGFjUr9Sovl0AM) | [SELVAGERIA](https://open.spotify.com/album/7dCbVm7RTCjDMHuOQ1KlhQ) | 2:19 |
-| 7 | [Track 3](https://open.spotify.com/track/2JKrXh8P3MrMRTZKTYGYdB) | [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [FOD\*SE A P\*RRA DO TRAP \(DLC\)](https://open.spotify.com/album/5KGP1AkuJ1IyJf5gI9W76v) | 0:00 |
+| 7 | [Bad and Boujee](https://open.spotify.com/track/2JKrXh8P3MrMRTZKTYGYdB) | [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [FOD\*SE A P\*RRA DO TRAP \(DLC\)](https://open.spotify.com/album/5KGP1AkuJ1IyJf5gI9W76v) | 2:52 |
 | 8 | [Umbrella](https://open.spotify.com/track/3FtRtoJHaUqrkY2FHRkEtX) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t) | [Umbrella](https://open.spotify.com/album/2dwGjp6JC9KinbMPD4vRl0) | 3:30 |
 | 9 | [Blue Balenciaga](https://open.spotify.com/track/5W6DR95vbfWQtVNcj7g8ir) | [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [A FÓRMULA](https://open.spotify.com/artist/2JjWIXlfhneMS1fsx4KW3W), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt) | [Blue Balenciaga](https://open.spotify.com/album/2bZRw6aSJeOs1V5AoqBGCN) | 2:03 |
 | 10 | [Te vi lá no Site](https://open.spotify.com/track/4jiI22iczGZ1FfITZfrxP9) | [Shenlong](https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Te vi lá no Site](https://open.spotify.com/album/3XnWWrxSRW23SYzsJq6pW0) | 2:37 |

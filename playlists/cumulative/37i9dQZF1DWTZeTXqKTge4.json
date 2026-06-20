@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Abeille",
+        "url": "https://open.spotify.com/album/7rXnuzAhTqzz7EiVHTJZsn"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Abeille",
+      "url": "https://open.spotify.com/track/3MQRhmb0LfmjKi0WuW93XV"
+    },
+    {
+      "album": {
         "name": "Abyssal",
         "url": "https://open.spotify.com/album/5uVyaKENiDR9K5Rjzruaf6"
       },
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 151794,
       "name": "Au clair de la lune",
       "url": "https://open.spotify.com/track/71X6JqWAmpb4w7LTn9bFoL"
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 96000,
       "name": "BackupBlessed",
       "url": "https://open.spotify.com/track/6oNK9Uxc9KtUsBKeSo5oY4"
@@ -5002,6 +5020,24 @@
       "duration_ms": 196363,
       "name": "CHROME HEARTS",
       "url": "https://open.spotify.com/track/4ZlaY8an3Sk87sW9m0mkil"
+    },
+    {
+      "album": {
+        "name": "SOLARIA",
+        "url": "https://open.spotify.com/album/5GGl1EIK37AbSyz3Gg0wCu"
+      },
+      "artists": [
+        {
+          "name": "FRE5H",
+          "url": "https://open.spotify.com/artist/3wHBt5vw5plrufZh1DdQVe"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141745,
+      "name": "CHROMI",
+      "url": "https://open.spotify.com/track/2jayHZIvrhTwLYXKZuBv3l"
     },
     {
       "album": {
@@ -9686,7 +9722,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 276621,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/06csBJCLcIQJbR113EuURC"
@@ -11011,6 +11047,28 @@
     },
     {
       "album": {
+        "name": "MONSTRE",
+        "url": "https://open.spotify.com/album/0PIKu8Kbqbef0MsIlb4GNV"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Ill\u00e9gal",
+      "url": "https://open.spotify.com/track/6xjGT0wCJvMU77T9SQUOlo"
+    },
+    {
+      "album": {
         "name": "IMPR\u00c9VU",
         "url": "https://open.spotify.com/album/29JLXPCwEw7zU8cmSW06Fz"
       },
@@ -11754,6 +11812,24 @@
       "duration_ms": 118000,
       "name": "Jeune Fiori",
       "url": "https://open.spotify.com/track/3g7ezTi7UhygHwHZ3UQgUN"
+    },
+    {
+      "album": {
+        "name": "JEUNE MAUDIT",
+        "url": "https://open.spotify.com/album/5Jp1s99yg5nPduWgek17MK"
+      },
+      "artists": [
+        {
+          "name": "KDS Requinzer",
+          "url": "https://open.spotify.com/artist/6ig5quIM4AJ5GRzccMh5r3"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145942,
+      "name": "JEUNE MAUDIT",
+      "url": "https://open.spotify.com/track/4ptCIjRZggIuDX7Swkd02d"
     },
     {
       "album": {
@@ -15454,7 +15530,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 192771,
       "name": "Monstrueux",
       "url": "https://open.spotify.com/track/2TDCLfUiTEoPSrjUIAI6V7"
@@ -15702,7 +15778,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 138823,
       "name": "Musical Chair",
       "url": "https://open.spotify.com/track/3BKm9QBDjVdEoVnZQbvdhu"
@@ -16516,6 +16592,32 @@
       "duration_ms": 176000,
       "name": "N\u00e9 pour briller",
       "url": "https://open.spotify.com/track/0baAzE9vvmyskTXLLJZwBF"
+    },
+    {
+      "album": {
+        "name": "N\u00e9m\u00e9sis",
+        "url": "https://open.spotify.com/album/7jMFywj3x0FGoKybuElZFz"
+      },
+      "artists": [
+        {
+          "name": "Lascar",
+          "url": "https://open.spotify.com/artist/4FzKLdBoUYXNK8BBmsAkyD"
+        },
+        {
+          "name": "Fragouler",
+          "url": "https://open.spotify.com/artist/2MyGKehJE31IpcxdxjCYSO"
+        },
+        {
+          "name": "Warlock",
+          "url": "https://open.spotify.com/artist/4L1mxYE147cEXT8CUruxW5"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246810,
+      "name": "N\u00e9m\u00e9sis",
+      "url": "https://open.spotify.com/track/16D5o0NvwrqVAWI4yYi0hr"
     },
     {
       "album": {
@@ -17940,7 +18042,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 173400,
       "name": "Phone Numbers",
       "url": "https://open.spotify.com/track/1XGlWjrNG4RRip8G7iXCdQ"
@@ -17984,6 +18086,24 @@
       "duration_ms": 220728,
       "name": "Pickup",
       "url": "https://open.spotify.com/track/3QR5mPpzBG26S4Uqe6XZi7"
+    },
+    {
+      "album": {
+        "name": "FREE MOI",
+        "url": "https://open.spotify.com/album/1UnHdl7psxcwXkNAbavqTZ"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/48OCj1qG6BPITStmgBVca3"
     },
     {
       "album": {
@@ -21140,7 +21260,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 200000,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/67eJZWzYimF4KzY8ywZSTx"
@@ -24015,6 +24135,24 @@
     },
     {
       "album": {
+        "name": "Vybe",
+        "url": "https://open.spotify.com/album/3acekCjoL7bTM42GJ7EZLQ"
+      },
+      "artists": [
+        {
+          "name": "Loussa",
+          "url": "https://open.spotify.com/artist/66JV0RT5jJXASMORQJCuEv"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Vybe",
+      "url": "https://open.spotify.com/track/5HbXF1Nks7r3rRfGEAfzN9"
+    },
+    {
+      "album": {
         "name": "Soin Entreprise (Vol. 2)",
         "url": "https://open.spotify.com/album/2pEpWeQlYb7cATfoEkvQC1"
       },
@@ -24430,7 +24568,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 163944,
       "name": "Yeah Yeah",
       "url": "https://open.spotify.com/track/7eX0iDWG4RbOdbe7NWQ61k"
@@ -24982,6 +25120,24 @@
       "duration_ms": 188800,
       "name": "\u00c9tat sauvage",
       "url": "https://open.spotify.com/track/1JutRIZ2wUehAR74oDa8Ot"
+    },
+    {
+      "album": {
+        "name": "\u00c9TOILES EN GUERRE",
+        "url": "https://open.spotify.com/album/7gLgNoNuwYm3x0vqBGsQgc"
+      },
+      "artists": [
+        {
+          "name": "LEDA",
+          "url": "https://open.spotify.com/artist/3mKGhLB7DGW0hthGaG0Lr8"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152543,
+      "name": "\u00c9TOILES EN GUERRE",
+      "url": "https://open.spotify.com/track/5BxY9Pcr33Rl91KfQGKOWh"
     },
     {
       "album": {

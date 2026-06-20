@@ -62371,6 +62371,24 @@
     },
     {
       "album": {
+        "name": "Starring",
+        "url": "https://open.spotify.com/album/4aOweR9nOEUCI30g6xYKQI"
+      },
+      "artists": [
+        {
+          "name": "Keanan Eksteen",
+          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190633,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/75oTJxEoLGIfMrJN6tsrg0"
+    },
+    {
+      "album": {
         "name": "Famous",
         "url": "https://open.spotify.com/album/4VQaTPt4KhpQh3477vbfPI"
       },
@@ -195615,6 +195633,28 @@
     },
     {
       "album": {
+        "name": "Stumble",
+        "url": "https://open.spotify.com/album/68QKrFE3Yfi5nxPjwNoAVU"
+      },
+      "artists": [
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228722,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/14TGG1rBUUBFJTK0wK971H"
+    },
+    {
+      "album": {
         "name": "Stupid Dumb",
         "url": "https://open.spotify.com/album/0fJZgO2wJlvVXalnpdoc9i"
       },
@@ -211980,24 +212020,6 @@
       "duration_ms": 0,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/0rIU6NfW2aSPdV1S5VBBYT"
-    },
-    {
-      "album": {
-        "name": "Starring",
-        "url": "https://open.spotify.com/album/4aOweR9nOEUCI30g6xYKQI"
-      },
-      "artists": [
-        {
-          "name": "Keanan Eksteen",
-          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
-        }
-      ],
-      "date_added": "2026-06-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/75oTJxEoLGIfMrJN6tsrg0"
     },
     {
       "album": {

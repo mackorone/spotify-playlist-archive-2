@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: EDDIE
+> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: MARAH
 
-202 songs - 11 hr 17 min
+203 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Syndicate](https://open.spotify.com/track/5s6NMmKfznLCgjE10p5lrp) | [Torcha](https://open.spotify.com/artist/4T3lVWSpnJHDwHMubsVjAl), [skxllflower](https://open.spotify.com/artist/5LmixEls7YhrtkWQ61n9fj) | [Monolith EP](https://open.spotify.com/album/3Iem6HWPUCg0Fs87SZOrhJ) | 2:32 | 2025-05-16 |  |
 | [Take ft\. Kimbra](https://open.spotify.com/track/65GMJ7KrLhUi8ya8uO9jJe) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Take ft\. Kimbra](https://open.spotify.com/album/40vNmeAq90YxNen2h1COXQ) | 2:50 | 2023-12-01 | 2025-05-03 |
 | [Takedown](https://open.spotify.com/track/1w57rbbZmsbeMpeDiQoaHx) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Takedown](https://open.spotify.com/album/62Nx27SgklKgnjIDB1A99T) | 2:51 | 2024-03-22 | 2024-11-09 |
+| [Talk To Me](https://open.spotify.com/track/1vYl9t9uItDdR80wL8Tz6J) | [MARAH](https://open.spotify.com/artist/0OXsxd2Fe85OZ36uZ6xTrX) | [Talk To Me](https://open.spotify.com/album/0b0WDAJRSoV3OkHhbcAvJi) | 3:26 | 2026-06-19 |  |
 | [Techno Prank](https://open.spotify.com/track/2JqbTRtUZmkTIHxPyBkurQ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Techno Prank](https://open.spotify.com/album/7GXvOmUgon63BfUk3AB5fS) | 3:23 | 2023-12-01 | 2025-05-03 |
 | [Telepathy](https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA) | [Telepathy](https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np) | 3:44 | 2025-05-09 |  |
 | [Tell Me](https://open.spotify.com/track/31qDXfNdobsc8nGIt6ue9B) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1) | [We Are Deadbeats Vol\. 5](https://open.spotify.com/album/4Y406A1WDA2ao3rRSQTSpZ) | 2:34 | 2023-12-01 | 2025-05-03 |

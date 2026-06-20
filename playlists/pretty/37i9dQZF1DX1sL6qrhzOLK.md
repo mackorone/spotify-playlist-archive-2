@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 
 > Sync Next 26에서 이어지는 감각적 몰입, 새로운 레이브를 경험해보세요\. \(Step into a new kind of rave \- born from the sensory immersion of Sync Next 26.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,161 likes - 27 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,164 likes - 27 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

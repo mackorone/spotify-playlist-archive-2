@@ -205,6 +205,28 @@
     },
     {
       "album": {
+        "name": "1besito",
+        "url": "https://open.spotify.com/album/2MAE8PDl00gJyO1AlCRW9b"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "1besito",
+      "url": "https://open.spotify.com/track/72lBhSO5SN6GqtTsmUXok5"
+    },
+    {
+      "album": {
         "name": "#CONTRACUERPOS",
         "url": "https://open.spotify.com/album/61DSTLiwVb9BcoA6T151jj"
       },
@@ -268,6 +290,24 @@
       "duration_ms": 178947,
       "name": "2017",
       "url": "https://open.spotify.com/track/27B79xeZdSBnvCfuFIE3ak"
+    },
+    {
+      "album": {
+        "name": "2032",
+        "url": "https://open.spotify.com/album/1ceg1kQ0KzwLpKTDjbuH9b"
+      },
+      "artists": [
+        {
+          "name": "THBBY",
+          "url": "https://open.spotify.com/artist/1WFQ7JIRJbUYJbxgX7jhdu"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209684,
+      "name": "2032",
+      "url": "https://open.spotify.com/track/2AS2c6PIy5Y6ihV7ioMSsw"
     },
     {
       "album": {
@@ -646,7 +686,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 157836,
       "name": "Alterno O\u2060_\u2060o",
       "url": "https://open.spotify.com/track/5PQMwOjEjUL0SrGUu02s6B"
@@ -2879,6 +2919,54 @@
     },
     {
       "album": {
+        "name": "DIME",
+        "url": "https://open.spotify.com/album/1DygHwEcUNLXePMmteh6g6"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "Baysec",
+          "url": "https://open.spotify.com/artist/5DylMz8kdzH19AwCLLXTeR"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "DIME",
+      "url": "https://open.spotify.com/track/76tAhDTUBolHxn2wOtxBlP"
+    },
+    {
+      "album": {
+        "name": "DIMEQ?!",
+        "url": "https://open.spotify.com/album/6eEDqia8VI9L4y0NiSlrGD"
+      },
+      "artists": [
+        {
+          "name": "DIELTI",
+          "url": "https://open.spotify.com/artist/1IfZq9mUVRlBJvnWKatzuE"
+        },
+        {
+          "name": "hantoo",
+          "url": "https://open.spotify.com/artist/6WAE8NtB1glWmBbnrNMjO5"
+        },
+        {
+          "name": "Frezzyyyy",
+          "url": "https://open.spotify.com/artist/616hBtYHr8h0XYSDkAcQHF"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "DIMEQ?!",
+      "url": "https://open.spotify.com/track/041aBasKTvxbf5AzsxRZ34"
+    },
+    {
+      "album": {
         "name": "Dismorfia",
         "url": "https://open.spotify.com/album/4zKIkjiwEzaHZ2ndAHVAC4"
       },
@@ -3280,7 +3368,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 125449,
       "name": "El alma de la fiesta",
       "url": "https://open.spotify.com/track/512TbNoyJjDVaCfid6NYh3"
@@ -7505,6 +7593,24 @@
     },
     {
       "album": {
+        "name": "No Se Si Es Amor",
+        "url": "https://open.spotify.com/album/2ESiTaW63HIxQdFiJriEvQ"
+      },
+      "artists": [
+        {
+          "name": "Uriel S. V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/4s3ux0QXjgaBei8QhxipQ4"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152170,
+      "name": "No Se Si Es Amor",
+      "url": "https://open.spotify.com/track/1C57mFhSPwsyzJAlRVspVW"
+    },
+    {
+      "album": {
         "name": "no s\u00e9",
         "url": "https://open.spotify.com/album/6z44re4pwE8Ye6YFOgJw7D"
       },
@@ -8486,7 +8592,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 196800,
       "name": "PRE$IO",
       "url": "https://open.spotify.com/track/4LosKbYMEoDNkn9GI7eALk"
@@ -10266,7 +10372,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 233015,
       "name": "sustancia (club)",
       "url": "https://open.spotify.com/track/6ixHf49fWUB35ygAEZpjAL"
@@ -11600,7 +11706,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-20",
       "duration_ms": 131555,
       "name": "YAT",
       "url": "https://open.spotify.com/track/4SOkNP1oGZaXt16R60nCF1"

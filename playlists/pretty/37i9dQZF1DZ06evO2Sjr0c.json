@@ -1,12 +1,12 @@
 {
   "description": "This is Grateful Dead. The essential tracks, all in one playlist.",
-  "num_followers": 180987,
+  "num_followers": 181021,
   "original_name": "This Is Grateful Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajHjgAAAAADIFiMA8sUI0DcBCOJdJBkL",
+  "snapshot_id": "ajM1AAAAAACabwwZ4cOr7gl0PQhiH7lx",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Workingman's Dead",
-        "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 194491,
-      "name": "Dire Wolf - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6rLfU9QCwLUMRW5gGG7BWA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cornell 5/8/77 (Live)",
         "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
       },
@@ -395,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terrapin Station (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98"
+        "name": "Workingman's Dead",
+        "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
       },
       "artists": [
         {
@@ -404,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 336578,
-      "name": "Estimated Prophet - 2014 Remaster",
-      "url": "https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi"
+      "duration_ms": 194491,
+      "name": "Dire Wolf - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6rLfU9QCwLUMRW5gGG7BWA"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
       "duration_ms": 293893,
       "name": "Deep Elem Blues - Live",
       "url": "https://open.spotify.com/track/2tu3n4gB1LUbuvnjrmb4Xw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terrapin Station (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 336578,
+      "name": "Estimated Prophet - 2014 Remaster",
+      "url": "https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi"
     },
     {
       "added_at": null,

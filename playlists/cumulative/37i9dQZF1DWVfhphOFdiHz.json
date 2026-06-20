@@ -3235,6 +3235,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188062,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
+    },
+    {
+      "album": {
         "name": "Smothered, Covered & Fried",
         "url": "https://open.spotify.com/album/1tPvOhlM7iBAQblo7CqfKl"
       },
@@ -5040,6 +5058,24 @@
       "duration_ms": 145128,
       "name": "in plain sight",
       "url": "https://open.spotify.com/track/5XNT7Opf0sMyfoqUEdsd1y"
+    },
+    {
+      "album": {
+        "name": "Internet Friends",
+        "url": "https://open.spotify.com/album/1NfBadyJgnrNo6z84UGhpr"
+      },
+      "artists": [
+        {
+          "name": "The Virgo Queen",
+          "url": "https://open.spotify.com/artist/7xUlGu35ihHhZtrzfBkEsv"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184159,
+      "name": "Internet Friends",
+      "url": "https://open.spotify.com/track/4zjGCNOQyRQINNKQyacBWm"
     },
     {
       "album": {
@@ -10016,6 +10052,24 @@
       "duration_ms": 126766,
       "name": "tiny purse, tiny top",
       "url": "https://open.spotify.com/track/1AhoAuvhcydhLy8i7uLPBq"
+    },
+    {
+      "album": {
+        "name": "tiptoeing",
+        "url": "https://open.spotify.com/album/4Mkhq0sACoEJoema2n6Zys"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154554,
+      "name": "tiptoeing",
+      "url": "https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX"
     },
     {
       "album": {
