@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Aina Abdul, Tyla, RIIZE, Liza Hanim, Luqman Podolski, Alpha, Daiyan Trisha,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,206 likes - 91 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,204 likes - 91 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 85 | [Beat Like A Key \(feat\. 2 Chainz\)](https://open.spotify.com/track/484L48EB1g6JuqlmnkS4ng) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [LIQUID FORM](https://open.spotify.com/album/4FJRRt6KogobrTxmpMb3R6) | 3:00 |
 | 86 | [Don't Wanna Go Home](https://open.spotify.com/track/7vpjvZjZoqlEdhCqiXVKx8) | [Foon](https://open.spotify.com/artist/5EIOF2u4SZ1l51AOpm2rhg) | [Don't Wanna Go Home](https://open.spotify.com/album/4YM3ABQuCSG90mZOiW9VFs) | 3:02 |
 | 87 | [Silly](https://open.spotify.com/track/0HP7PIaAw6zmMDz9dghpeW) | [Roypim](https://open.spotify.com/artist/2eYm3DvV9tmZipL51cfnzb) | [Silly](https://open.spotify.com/album/2Kq4YKtTW5IwkYyW5zqv2C) | 3:22 |
-| 88 | [White Dress](https://open.spotify.com/track/46BrWpkvFukYHSfSn5TcPE) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [DEW](https://open.spotify.com/artist/4r2Us41ZbkxQxAvVi86AMR) | [White Dress](https://open.spotify.com/album/5B5u70ANt9LicrR0MxcjbC) | 3:21 |
+| 88 | [White Dress](https://open.spotify.com/track/46BrWpkvFukYHSfSn5TcPE) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [DEW](https://open.spotify.com/artist/7zUABjJWWDy7uMwyllEsSS) | [White Dress](https://open.spotify.com/album/5B5u70ANt9LicrR0MxcjbC) | 3:21 |
 | 89 | [Catch Your Fever](https://open.spotify.com/track/1JT19X6iKUaX1dljA0iSwn) | [PYC](https://open.spotify.com/artist/2LFV9Tsf12CuTSAlGhS48D) | [Catch Your Fever](https://open.spotify.com/album/39jxL156bfSym2AGyQ9Yui) | 2:35 |
 | 90 | [Ain't No Need to Worry](https://open.spotify.com/track/1BUn0XXjncxfx2U2ItEmA3) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [Ain't No Need to Worry](https://open.spotify.com/album/08O80aSSjKzV9ePIvPxq3i) | 2:58 |
 | 91 | [maybe not tonight](https://open.spotify.com/track/0uqOCp3cDPVlAI7WvlM6iB) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [maybe not tonight](https://open.spotify.com/album/6fZPBWGC7T0r0PwDyOuh7p) | 3:45 |

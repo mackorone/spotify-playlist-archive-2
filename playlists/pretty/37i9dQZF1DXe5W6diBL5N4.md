@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: HOSHI\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,890 likes - 191 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,901 likes - 191 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 18 | [Do your dance](https://open.spotify.com/track/5POcU3tBNEXuIDgfYo4TEa) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [II \- The 2nd Mini Album](https://open.spotify.com/album/31DduRZUEYnZHXmiDwRb9R) | 2:57 |
 | 19 | [Glimmers](https://open.spotify.com/track/46w28mpfJkCHaybepEd3Eb) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7) | [New Edition 72](https://open.spotify.com/album/380DJfrIbF1vhKHSbtasEN) | 3:46 |
 | 20 | [Crow](https://open.spotify.com/track/1rB6vp7BlRCN7icEFiZPEe) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Crow](https://open.spotify.com/album/3i8Z25Okr8JS7Y2uTwNpwu) | 3:11 |
-| 21 | [You, Summer \(with Enoch\)](https://open.spotify.com/track/4H1QIbHpWfeaHoUAl6Ucrk) | [N\-Roo](https://open.spotify.com/artist/4DMSjYaaLBH5rupNmnGprM) | [YOU, SUMMER](https://open.spotify.com/album/5niq02wIRHtJThcO4Z53C6) | 2:57 |
+| 21 | [너는 여름이야 \(with 에녹\) \(You, Summer \(with Enoch\)\)](https://open.spotify.com/track/4H1QIbHpWfeaHoUAl6Ucrk) | [N\-Roo](https://open.spotify.com/artist/4DMSjYaaLBH5rupNmnGprM) | [YOU, SUMMER](https://open.spotify.com/album/5niq02wIRHtJThcO4Z53C6) | 2:57 |
 | 22 | [Prince of the Sea](https://open.spotify.com/track/0MEUp1Lx7eiDPnAFrKHd2S) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Prince of the Sea](https://open.spotify.com/album/7pnIXpnAl0dVEeki16ZqCg) | 3:06 |
 | 23 | [2 L0VE](https://open.spotify.com/track/6RFwKZfqEfRfz9aJMuxeBq) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [2:LOVE](https://open.spotify.com/album/1kslbMVRXKMwhPlyVI4MWg) | 3:01 |
 | 24 | [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 |

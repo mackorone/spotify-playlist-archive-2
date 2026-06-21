@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-233 songs - 17 hr 32 min
+235 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [This Can't Be Love \- Digitally Remastered](https://open.spotify.com/track/4emff6nFLGl610Bt6j3Sz6) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Genius of Jazz \- Ben Webster, Vol\. 2](https://open.spotify.com/album/69614zCrwPL3L9z4waAjkV) | 9:50 | 2023-08-25 | 2023-12-14 |
 | [This Can't Be Love: The Boys from Syracuse: This Can't Be Love](https://open.spotify.com/track/2uKLMLYcbqdDCaDQY3l4NT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Ed Thigpen](https://open.spotify.com/artist/7ofmO3RJ2eeaRhApcStDkI) | [Milestones of a Jazz Legend \- Ben Webster, Vol\. 2 \(1957, 1959\)](https://open.spotify.com/album/336zKOuYLlKKo9JIMDi4bP) | 9:51 | 2022-09-08 | 2023-08-20 |
 | [Tiffany](https://open.spotify.com/track/35WGvwOw4Be7RGXna1IvCJ) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:35 | 2022-09-08 |  |
+| [Tigress](https://open.spotify.com/track/0noCHxitAlY7F4lDCSyuag) | [Duke Ellington And His Orchestra](https://open.spotify.com/artist/2uRZKi0u39J5Ip0fMcSMVm) | [Afro Bossa](https://open.spotify.com/album/7M9vNpxkRVlKyV1gk9tbNB) | 3:09 | 2026-06-20 |  |
 | [Tonk](https://open.spotify.com/track/55zDLDvbE5ZTWkTqglNPN7) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Out Of The Past](https://open.spotify.com/album/52BjKc8aZ5xRZd5KWXVoxj) | 4:35 | 2026-02-19 |  |
 | [Tonk](https://open.spotify.com/track/5CsQisDoqqLgOqHwHWjuBf) | [The Art Farmer Quartet](https://open.spotify.com/artist/017N2VIptuU1ZIehQyCzWM) | [Perception](https://open.spotify.com/album/7pTyS4yTFJhDBBe0ve3Vpc) | 4:34 | 2022-09-08 | 2026-02-20 |
 | [Too Late](https://open.spotify.com/track/1r5kJWlDcyCp6KS9Y9HA9m) | [Victor Young](https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz) | [Black Moonlight Vol\. 5](https://open.spotify.com/album/2ItDs63YW6pRY08EjXLb7j) | 3:11 | 2022-10-19 |  |
@@ -234,6 +235,7 @@
 | [Up and Down, up and Down \(I Will Lead Them up and Down\)](https://open.spotify.com/track/2miKp3bcM2dEB9FmLOG9nT) | [Czechoslovak Radio Jazz Orchestra](https://open.spotify.com/artist/6YynL3WAOLrsD1V7JFgkJc) | [Duke Ellington: Such Sweet Thunder](https://open.spotify.com/album/10AJORtPWhhRy02XfXgZ5C) | 2:52 | 2025-09-10 |  |
 | [Up and Down, Up and Down \(I Will Lead Them Up and Down\) \[Puck\]](https://open.spotify.com/track/1Cs9WtbQl4eWqzeOLNlBwo) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:02 | 2022-09-08 | 2023-05-15 |
 | [Valse](https://open.spotify.com/track/71BIOhurzguCa78klmstoH) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Lush Life](https://open.spotify.com/album/06bL3slLObxuzHxNO8CDyQ) | 2:35 | 2022-09-08 |  |
+| [Watch Your Cue](https://open.spotify.com/track/4fIrY8PHX9KyEOIQTqoKjq) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Classics by Billy Strayhorn, Vol\. 1](https://open.spotify.com/album/1ObPYLjXyABeJNCVVUDOaH) | 3:10 | 2026-06-20 |  |
 | [What Else Can You Do With a Drum](https://open.spotify.com/track/5gYmkSgdzNS3ymOwR2t6pO) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Copenhagen 1958](https://open.spotify.com/album/49eb6TGttK5jEVK8H1bb29) | 2:03 | 2024-06-15 |  |
 | [What Else Can You Do With a Drum, Pt\. 1 \- Calypso](https://open.spotify.com/track/05NaZClsqp0omXp4gYF8S0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 1:52 | 2022-09-08 | 2024-06-16 |
 | [Wounded Love](https://open.spotify.com/track/0MilYv2CPSz8OSagzt4OZ3) | [Ack van Rooyen](https://open.spotify.com/artist/0vKyK79242pyAt7Q2Q098s), [Paul Heller](https://open.spotify.com/artist/0a1edbJ1q3RcJJVNs6OZE7), [Hubert Nuss](https://open.spotify.com/artist/2ZGQmeuUjYVQqFBlOuCHu8), [Ingmar Heller](https://open.spotify.com/artist/2eN5KGOnoYxAXKdGXUmlV8) | [Live & In Studio](https://open.spotify.com/album/1AX3jZbnAs6Y6dCsZsYZ93) | 3:20 | 2024-03-17 |  |

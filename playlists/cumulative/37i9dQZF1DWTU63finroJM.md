@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: JBABE
 
-2,417 songs - 5 day 10 hr 9 min
+2,418 songs - 5 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [calor](https://open.spotify.com/track/2QNT2MvSRO1DrqrmAnX47Y) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [calor](https://open.spotify.com/album/2eUfQWRGBq8xCFR51UK20N) | 3:13 | 2022-03-24 | 2022-12-15 |
 | [CAN YOU UNDERSTAND ME?](https://open.spotify.com/track/05L8jDAOFRNcnRRAQLctLw) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [CAN YOU UNDERSTAND ME?](https://open.spotify.com/album/74kgWhIusLVeT7pCNmFNxh) | 3:28 | 2024-02-26 | 2024-05-11 |
 | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 | 2026-05-26 | 2026-06-20 |
+| [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/3KQbhkqIGm1W577i5iw0gB) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't be blue](https://open.spotify.com/album/61f7Qz1pcOV9CmpDiWZIam) | 3:15 | 2026-06-20 |  |
 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-03-24 | 2022-04-19 |
 | [Cannibal](https://open.spotify.com/track/3Sg6B5YHoP2JvDEj4AndqL) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9) | [Cannibal](https://open.spotify.com/album/7M07KVSye8Bj8Qdn4ijnJ7) | 3:11 | 2025-03-28 | 2025-09-10 |
 | [Capelli blu \(feat\. ARIETE\)](https://open.spotify.com/track/5sXsXtwDBgINAVwhoX6Ys2) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Capelli blu \(feat\. ARIETE\)](https://open.spotify.com/album/1uAagTn6V0Uy7auhsgOCR5) | 2:44 | 2022-03-24 | 2022-08-02 |

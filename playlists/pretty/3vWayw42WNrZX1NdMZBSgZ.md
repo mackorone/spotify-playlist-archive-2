@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Mon Laferte
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 52,161 likes - 129 songs - 6 hr 52 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 52,155 likes - 129 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 25 | [TATTUU](https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [TATTUU](https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI) | 3:14 |
 | 26 | [Por un Pendejo no se llora](https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Por un Pendejo no se llora](https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f) | 2:31 |
 | 27 | [Melancolía](https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:50 |
-| 28 | [Poema](https://open.spotify.com/track/0R4jt27SnKZ4Z4zGHJF36E) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Poema](https://open.spotify.com/album/4ZMo7m59UfGiOOn7O7l0ED) | 3:14 |
+| 28 | [POEMA](https://open.spotify.com/track/0R4jt27SnKZ4Z4zGHJF36E) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [POEMA](https://open.spotify.com/album/4ZMo7m59UfGiOOn7O7l0ED) | 3:14 |
 | 29 | [Perspectiva](https://open.spotify.com/track/0nlqSRcepWQ1KpQQzGV6Ju) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que Puede Pasar](https://open.spotify.com/album/7cxK8DbJ1Sk5xvAyf9pbHC) | 2:31 |
 | 30 | [Reina](https://open.spotify.com/track/0LO1RZvuBOminFrXbDT7us) | [Beni](https://open.spotify.com/artist/6FD0tGJvtELivSMMrRqmE9), [Jheral](https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E) | [Reina](https://open.spotify.com/album/2adEYmTEjW7rnxS2OzkfOg) | 2:23 |
 | 31 | [Las guapas](https://open.spotify.com/track/2USuWC60sd6pQtTjH7lv4Z) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [¿Y ahora qué +?](https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb) | 3:30 |

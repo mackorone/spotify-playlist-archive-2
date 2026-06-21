@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Yammi
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,500 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,510 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 50 | [Wanijue](https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO) | [Micky Singer](https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG) | [Wanijue](https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD) | 3:14 |
 | 51 | [BELIEVE](https://open.spotify.com/track/1uUsDhq9xqnpH97Hb6BmAi) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [BELIEVE](https://open.spotify.com/album/0XampDY52VBFjRFWxuJOOB) | 1:41 |
 | 52 | [Tumeuona](https://open.spotify.com/track/3JK53Y1G5pQiv3Boxyew0Q) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Tumeuona](https://open.spotify.com/album/5VlX8ImZMnhGCj5FAKg7Sn) | 3:41 |
-| 53 | [Kuokota](https://open.spotify.com/track/66VHnhffxhc26mAnqeu6sF) | [Fama](https://open.spotify.com/artist/31gxuhZWlaTdq7awtYBkeE), [Marlaw](https://open.spotify.com/artist/2Mubfa0R9X7HoCHatHctGL), [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Kuokota](https://open.spotify.com/album/3qCkBRoCpgU297HVuKyiPT) | 4:02 |
-| 54 | [Penzi Jipya](https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e), [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Penzi Jipya](https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1) | 5:14 |
+| 53 | [Penzi Jipya](https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e), [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Penzi Jipya](https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1) | 5:14 |
+| 54 | [Kuokota](https://open.spotify.com/track/66VHnhffxhc26mAnqeu6sF) | [Fama](https://open.spotify.com/artist/31gxuhZWlaTdq7awtYBkeE), [Marlaw](https://open.spotify.com/artist/2Mubfa0R9X7HoCHatHctGL), [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Kuokota](https://open.spotify.com/album/3qCkBRoCpgU297HVuKyiPT) | 4:02 |
 | 55 | [Kamaliza \(feat\. Sholo Mwamba\)](https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 5:08 |
 | 56 | [Singeli Funk](https://open.spotify.com/track/2haTkqqkP8dtKRXsRQ8Rk4) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Singeli Funk](https://open.spotify.com/album/5stFPTtiCk2KmMHQxtbGYD) | 2:27 |
 | 57 | [Nalimwaga](https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nalimwaga](https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97) | 3:44 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 59 | [Sina Stress](https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W) | [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Sina Stress](https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L) | 3:49 |
 | 60 | [Dar Es Salaam](https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Dar Es Salaam](https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ) | 2:33 |
 | 61 | [Hatujui](https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 4:30 |
-| 62 | [GUGO](https://open.spotify.com/track/4AzK6l6gNs5OZXYlHIK8J5) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [GUGO](https://open.spotify.com/album/0ScNdVwWbHmSB9ni9bcxiv) | 2:17 |
-| 63 | [Mtaani Kwetu](https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA) | [Kumi Za Moto](https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL) | 3:26 |
+| 62 | [Mtaani Kwetu](https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA) | [Kumi Za Moto](https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL) | 3:26 |
+| 63 | [GUGO](https://open.spotify.com/track/4AzK6l6gNs5OZXYlHIK8J5) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [GUGO](https://open.spotify.com/album/0ScNdVwWbHmSB9ni9bcxiv) | 2:17 |
 | 64 | [Sina](https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Sina](https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu) | 4:58 |
 | 65 | [Dua](https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Dua](https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7) | 4:42 |
 | 66 | [Matunzo](https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Matunzo](https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj) | 3:03 |

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,208 songs - 2 day 22 hr 21 min
+1,209 songs - 2 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Fireworks Fall](https://open.spotify.com/track/2LmF5dQhaxFNnTpnFOn8z2) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Fireworks Fall](https://open.spotify.com/album/1a2GSekjvduf484J6N71yx) | 3:31 | 2026-06-14 |  |
 | [First Kiss](https://open.spotify.com/track/4MoYQiwBZqFX4DfCn7kQQ6) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [First Kiss](https://open.spotify.com/album/3sAIi79IKg3rmjV4RKtUL0) | 3:24 | 2026-06-11 |  |
 | [Fish Tank](https://open.spotify.com/track/2hDnvkxpCSo57nPmEMN6ND) | [Buckeye Belle](https://open.spotify.com/artist/1f5o9LL9uj7X7KOBVpSiGa) | [I'd Rather Be Sleeping](https://open.spotify.com/album/4sBEZPvbIVcubfxcde4KOR) | 3:44 | 2026-04-08 | 2026-05-14 |
+| [Flashback](https://open.spotify.com/track/7zphXBpoS3Qo1ybHyksW2i) | [East Collectors](https://open.spotify.com/artist/2jwnJc5ibEXh10jmTPz3mh), [Guðrun Sólja](https://open.spotify.com/artist/7u04eBVbYkvMPkUPkLHFu6) | [Flashback](https://open.spotify.com/album/1VvkRHbKvajkyILV44y9gt) | 3:37 | 2026-06-20 |  |
 | [Floto](https://open.spotify.com/track/0cpVDFhmJ5mRssyaE8ZjAo) | [Manu Geijo](https://open.spotify.com/artist/1Lcqhy5qgKAS6bvwjXIoxs) | [Floto](https://open.spotify.com/album/2Z8DVQAobcZtSFHc05afHk) | 3:58 | 2026-02-25 | 2026-03-25 |
 | [FLY \- Original Mix](https://open.spotify.com/track/0KGD6zRqbj2EgGeAmwB76v) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [J1 GTB](https://open.spotify.com/artist/6mm0pxFY41cqM9kjJve4jH) | [FLY \(Original Mix\)](https://open.spotify.com/album/5MUfhF7oOQvpysNAphGwEm) | 2:58 | 2026-04-02 | 2026-05-03 |
 | [follow my rhythm](https://open.spotify.com/track/0MiJdUtnv11W5MGNOMxGAB) | [MIRIIEM](https://open.spotify.com/artist/44UwKvv3KL8W83pbxsID5t), [Von Hortix](https://open.spotify.com/artist/5e0Spjepkjnoo1qJIGtcjQ) | [follow my rhythm](https://open.spotify.com/album/74OBwZJzchBJf6fpjrCFm9) | 1:59 | 2026-03-17 | 2026-04-12 |

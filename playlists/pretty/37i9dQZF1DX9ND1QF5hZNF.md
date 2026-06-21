@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,506 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,632 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 6 | [gravity](https://open.spotify.com/track/2NSGXSn3phBbGnEnWQyyx8) | [all things break](https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P) | [gravity](https://open.spotify.com/album/5Qix5py1APgc81jMkA9uTd) | 3:50 |
 | 7 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 8 | [Je t'attends](https://open.spotify.com/track/70rsrMZ6vCKv4rpT4kHm9l) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [Shahin Shantiaei](https://open.spotify.com/artist/2uMU6guzncNxQIWf2ROaHL) | [Je t'attends](https://open.spotify.com/album/75lBb0SaANAjcQqdChQJEE) | 3:20 |
-| 9 | [Love Story \- Indila Remix](https://open.spotify.com/track/7s5MyB83DXEcFcugi88Mjl) | [Mark Diaz](https://open.spotify.com/artist/49IR3RCQ4ihqBooEeK3ABq), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Love Story \- Indila Remix](https://open.spotify.com/album/465JtjlOIgA68GRNz7Obcs) | 5:02 |
-| 10 | [Sunset In Pretoria](https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [Sunset In Pretoria](https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD) | 3:58 |
+| 9 | [Sunset In Pretoria](https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [Sunset In Pretoria](https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD) | 3:58 |
+| 10 | [Love Story \- Indila Remix](https://open.spotify.com/track/7s5MyB83DXEcFcugi88Mjl) | [Mark Diaz](https://open.spotify.com/artist/49IR3RCQ4ihqBooEeK3ABq), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Love Story \- Indila Remix](https://open.spotify.com/album/465JtjlOIgA68GRNz7Obcs) | 5:02 |
 | 11 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
 | 12 | [Children](https://open.spotify.com/track/5ILwaOCqWGAxENyZoDobBk) | [H:dn](https://open.spotify.com/artist/4gD6ddSF1KwHyvk34XykYH) | [Children](https://open.spotify.com/album/5UGqZMgbqqhAmXxKwLb0w2) | 2:28 |
 | 13 | [Billie Jean](https://open.spotify.com/track/2EF2CzrJu9ixnL8yfHJddM) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ) | [Billie Jean](https://open.spotify.com/album/4T2sO5fW6pZ2nDTR4NF00F) | 3:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Missing You](https://open.spotify.com/track/6d6QihVmJ7M5Z7qwYoiHqG) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Missing You](https://open.spotify.com/album/6LYLOQazeVSk4nkh1ekbdp) | 3:06 |
 | 60 | [Nobody Behind](https://open.spotify.com/track/2PagiIAx6vIoQe0V8LVWf1) | [Beauvois](https://open.spotify.com/artist/6AbXJxYckXHpMDApmUyP8A) | [Bestowed](https://open.spotify.com/album/4blzr8i9VpBR2uqIsmGg8B) | 3:13 |
 
-Snapshot ID: `AAAAAJ+by8Glnm5w9Mg5DvyPfuMLmf5O`
+Snapshot ID: `AAAAAGH9O9kXoZgaspq0T6aRb3mernK6`

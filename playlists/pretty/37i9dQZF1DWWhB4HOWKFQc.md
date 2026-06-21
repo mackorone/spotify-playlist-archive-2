@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: no na
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504,666 likes - 98 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504,861 likes - 98 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 30 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
 | 31 | [What if I miss you for the rest of my life?](https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 3:06 |
 | 32 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
-| 33 | [Iqro'](https://open.spotify.com/track/1w0tQpNChqgM7oBWsV3erJ) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Iqro'](https://open.spotify.com/album/1tfOH9j7lcUsCMByB3j6RC) | 3:54 |
+| 33 | [iqro'](https://open.spotify.com/track/1w0tQpNChqgM7oBWsV3erJ) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Iqro'](https://open.spotify.com/album/1tfOH9j7lcUsCMByB3j6RC) | 3:54 |
 | 34 | [Impostor Syndrome](https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz) | 4:54 |
 | 35 | [Tak Sanggup Lagi](https://open.spotify.com/track/1XYFuCKBnWOBapFnOhuD1N) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Platinum Collection Rossa](https://open.spotify.com/album/5qU82fNj884qgKrfk77oX6) | 4:09 |
 | 36 | [Kicau Mania](https://open.spotify.com/track/39M8SHyEuWiJSXODMY3YJ3) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Banditoz Yaow 86](https://open.spotify.com/artist/0O2raE5sj6yswIJsbPCEnd), [BoyCord](https://open.spotify.com/artist/013S8tR42ftbcvE4iyIckP) | [Kicau Mania](https://open.spotify.com/album/3OSQenymqzQ47zZrSJgDFA) | 3:44 |

@@ -1,18 +1,18 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 110466,
+  "num_followers": 110479,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAADkDLI6vIz4oGQNZueSxQqp",
+  "snapshot_id": "ajSGgAAAAAB2v12T5JuEE+3cerCTalgZ",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Bad Penny (Live)",
-        "url": "https://open.spotify.com/album/72sCuVZ16PMX0aijHGQ0TR"
+        "name": "The Spirit Of Rory Live From Cork",
+        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 323013,
-      "name": "Bad Penny (Live)",
-      "url": "https://open.spotify.com/track/5g3BflMPyuIxdNaxX4aGUC"
+      "duration_ms": 478120,
+      "name": "A Million Miles Away (Live)",
+      "url": "https://open.spotify.com/track/0bJD6MRz7YPvVUsXv8kMQP"
     },
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "You Upset Me Baby",
+      "url": "https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sloe Gin",
         "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 492066,
       "name": "Sloe Gin",
       "url": "https://open.spotify.com/track/5hob2jVM2gA74CyJ4G4bJZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Had to Cry Today",
-        "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 411960,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
     },
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+        "name": "Had to Cry Today",
+        "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 215026,
-      "name": "You Upset Me Baby",
-      "url": "https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU"
+      "duration_ms": 411960,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 377360,
-      "name": "Mind\u2019s Eye",
-      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "America's Backroads",
         "url": "https://open.spotify.com/album/651gNFPela7FLEK33KW4Eg"
       },
@@ -303,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+        "name": "Time Clocks",
+        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
       },
       "artists": [
         {
@@ -312,9 +296,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 243733,
-      "name": "The Valley Runs Low",
-      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
+      "duration_ms": 377360,
+      "name": "Mind\u2019s Eye",
+      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
     },
     {
       "added_at": null,
@@ -351,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
       "artists": [
         {
@@ -360,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 189120,
-      "name": "Another Kind of Love",
-      "url": "https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0"
+      "duration_ms": 243733,
+      "name": "The Valley Runs Low",
+      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
     },
     {
       "added_at": null,
@@ -379,6 +363,38 @@
       "duration_ms": 279226,
       "name": "Different Shades of Blue",
       "url": "https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Another Kind of Love",
+      "url": "https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Penny (Live)",
+        "url": "https://open.spotify.com/album/72sCuVZ16PMX0aijHGQ0TR"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 323013,
+      "name": "Bad Penny (Live)",
+      "url": "https://open.spotify.com/track/5g3BflMPyuIxdNaxX4aGUC"
     },
     {
       "added_at": null,
@@ -515,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tales Of Time (Live)",
+        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 511933,
+      "name": "The Heart That Never Waits (Live)",
+      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues From The Heart Live (Live)",
         "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
       },
@@ -531,22 +563,6 @@
       "duration_ms": 349573,
       "name": "Summertime (Live)",
       "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tales Of Time (Live)",
-        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 511933,
-      "name": "The Heart That Never Waits (Live)",
-      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
     },
     {
       "added_at": null,
@@ -571,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B.B. King's Blues Summit 100",
-        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Paying The Cost To Be The Boss",
-      "url": "https://open.spotify.com/track/1V8SB5rBh9mhe8Rt4KfJdX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chains And Things",
         "url": "https://open.spotify.com/album/1JGZNt476A3wZ0YUwtI3Js"
       },
@@ -607,22 +603,6 @@
       "duration_ms": 303773,
       "name": "Chains And Things",
       "url": "https://open.spotify.com/track/2uK43c3VurRJmePMQKle84"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 409720,
-      "name": "Slow Train",
-      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
     },
     {
       "added_at": null,
@@ -647,6 +627,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "B.B. King's Blues Summit 100",
+        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Paying The Cost To Be The Boss",
+      "url": "https://open.spotify.com/track/1V8SB5rBh9mhe8Rt4KfJdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 409720,
+      "name": "Slow Train",
+      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
       },
@@ -656,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 346413,
-      "name": "Pain's On Me",
-      "url": "https://open.spotify.com/track/1PsuXNLxsQbBPShaXMrBmu"
+      "duration_ms": 244706,
+      "name": "Trigger Finger",
+      "url": "https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
       "duration_ms": 340186,
       "name": "One of these Days",
       "url": "https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Black Lung Heartache",
-      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Black Lung Heartache",
+      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
       },
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 244706,
-      "name": "Trigger Finger",
-      "url": "https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2"
+      "duration_ms": 346413,
+      "name": "Pain's On Me",
+      "url": "https://open.spotify.com/track/1PsuXNLxsQbBPShaXMrBmu"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tattoo'd Lady (Live)",
-        "url": "https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 600653,
-      "name": "I Fall Apart (Live)",
-      "url": "https://open.spotify.com/track/42f3gDMeYCO8C95XzRuJ3s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 333333,
       "name": "What I've Known For A Very Long Time",
       "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tattoo'd Lady (Live)",
+        "url": "https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 600653,
+      "name": "I Fall Apart (Live)",
+      "url": "https://open.spotify.com/track/42f3gDMeYCO8C95XzRuJ3s"
     },
     {
       "added_at": null,
@@ -827,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I\u2019m Going Home / Trying To Do Right",
-        "url": "https://open.spotify.com/album/1jAX2M9aW7DnJRgHFZXNhf"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "I\u2019m Going Home",
-      "url": "https://open.spotify.com/track/5DyjxEFavEjhc6MoM94Fpb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Love Comes To Town",
         "url": "https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3"
       },
@@ -875,22 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "B.B. King's Blues Summit 100",
-        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+        "name": "I\u2019m Going Home / Trying To Do Right",
+        "url": "https://open.spotify.com/album/1jAX2M9aW7DnJRgHFZXNhf"
       },
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
         },
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 284413,
-      "name": "Sweet Little Angel",
-      "url": "https://open.spotify.com/track/49jvNTBdS4idoirNOiraQc"
+      "duration_ms": 242946,
+      "name": "I\u2019m Going Home",
+      "url": "https://open.spotify.com/track/5DyjxEFavEjhc6MoM94Fpb"
     }
   ],
   "unique_name": "This Is Joe Bonamassa",

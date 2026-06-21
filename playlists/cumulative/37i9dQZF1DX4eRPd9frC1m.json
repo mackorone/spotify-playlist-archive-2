@@ -4524,7 +4524,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 152275,
       "name": "iwannaliveinadream - AVELLO Remix",
       "url": "https://open.spotify.com/track/5WRbrSJadVq4aoDM9aS6DT"
@@ -6950,6 +6950,32 @@
       "duration_ms": 185244,
       "name": "Push",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
+    },
+    {
+      "album": {
+        "name": "Push Up",
+        "url": "https://open.spotify.com/album/2afaHlpY3BkWzzaxCfNm6G"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Zoey808",
+          "url": "https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203142,
+      "name": "Push Up",
+      "url": "https://open.spotify.com/track/4wGzISKyZqIBGtWvCLOPHH"
     },
     {
       "album": {

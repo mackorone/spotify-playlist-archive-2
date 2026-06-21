@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,100 likes - 97 songs - 5 hr 57 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,100 likes - 98 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 95 | [Back 40](https://open.spotify.com/track/0iaNSdzQj8xsukNbny7g5Y) | [PICKLE JUICE](https://open.spotify.com/artist/02OYBGdYRGnzhcYR8AvHmS) | [The Whiteroom](https://open.spotify.com/album/5guju2jxu3skCcJqbijGHN) | 3:07 |
 | 96 | [Table for two](https://open.spotify.com/track/3MBEjrMog5LFLgbOFwgfDn) | [Seven Streets](https://open.spotify.com/artist/61zHO5qtdK8nvpi2aUQSiN) | [Table for two](https://open.spotify.com/album/51eiEwuzPoxAEIhYB7qtZQ) | 4:03 |
 | 97 | [Freefalling](https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Freefalling](https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us) | 3:09 |
+| 98 | [Silver Lake](https://open.spotify.com/track/3cMZDt1yPKZuP7UssRKfWI) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Silver Lake](https://open.spotify.com/album/4AMGWzEqgc2pui4p2vXC4y) | 4:11 |
 
-Snapshot ID: `AAAGhntRnBLXp8/0YcgK2XdYMrMxf+Ew`
+Snapshot ID: `AAAGh1lJTJqQyOaZitzYC5HKJ7o+3gSI`

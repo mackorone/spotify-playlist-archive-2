@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Saif Altaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,374 likes - 72 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,375 likes - 72 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

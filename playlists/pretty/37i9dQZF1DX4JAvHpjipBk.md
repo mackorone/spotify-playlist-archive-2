@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > Celebrate Juneteenth with new music from Tyla, Key Glock, Myles Smith, FKA twigs, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,595,432 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,595,479 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 36 | [Thinking What I'm Thinking](https://open.spotify.com/track/7ewkuUrCmy3FllHosZAwtN) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Thinking What I'm Thinking](https://open.spotify.com/album/23JijXiP8GcIuy44YnFMd3) | 4:42 |
 | 37 | [Cinderella](https://open.spotify.com/track/17SgupYV5TDPCZtF4wHdHC) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Cinderella](https://open.spotify.com/album/7xc8qjSipCIqZoBfHuj7X4) | 3:26 |
 | 38 | [Beso a Beso](https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Beso a Beso](https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln) | 2:17 |
-| 39 | [Why Does It \(With Jozzy\)](https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Why Does It \(With Jozzy\)](https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm) | 2:54 |
+| 39 | [Why Does It](https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Why Does It](https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm) | 2:54 |
 | 40 | [Tonight](https://open.spotify.com/track/4PjL6RLTiycYZItjJH53qb) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Tonight](https://open.spotify.com/album/6GeZJJ21reLqWLYZDCOZ3W) | 2:46 |
-| 41 | [Rich Luv \(with Chase Shakur\)](https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Make You Feel](https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y) | 2:44 |
+| 41 | [Rich Luv](https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Make You Feel](https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y) | 2:44 |
 | 42 | [Sweet Thang](https://open.spotify.com/track/1LseKUjL7AAgkZv7IjEBYk) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Sweet Thang](https://open.spotify.com/album/05wRlo4q22wpGkKDKEHBZe) | 2:34 |
 | 43 | [SIREN](https://open.spotify.com/track/0QmBQ3NnZ18hHcemeeQlsP) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [WHACK'S MUSEUM](https://open.spotify.com/album/46mboRimEXi5KPeUqtkC2i) | 2:18 |
 | 44 | [Bussin](https://open.spotify.com/track/3z6sboPUNI2a01dB1EsepW) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Bussin](https://open.spotify.com/album/6bfQG5tTWNM3Qi90p5WH0A) | 2:01 |

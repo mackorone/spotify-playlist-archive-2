@@ -12306,7 +12306,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 288146,
       "name": "Cross Your Heart",
       "url": "https://open.spotify.com/track/399Zwep95idEtdvUvLI1z8"
@@ -13394,7 +13394,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 368505,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
@@ -15278,7 +15278,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 246344,
       "name": "Dos mil canciones - En Vivo",
       "url": "https://open.spotify.com/track/4MqkeZfK8VH1eyVuX2ZowW"
@@ -21482,7 +21482,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 247146,
       "name": "Generator - Live Brussels - January 2025",
       "url": "https://open.spotify.com/track/3gwQy4PUFB4Z7m8QN9CkBq"
@@ -21522,7 +21522,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 213723,
       "name": "Gente Corriente",
       "url": "https://open.spotify.com/track/6EwCPztIC0yDruXtxPo575"
@@ -24809,6 +24809,24 @@
     },
     {
       "album": {
+        "name": "Black Out",
+        "url": "https://open.spotify.com/album/03cL3bdF8Sszu6N5TsuEc1"
+      },
+      "artists": [
+        {
+          "name": "Front 242",
+          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255893,
+      "name": "Hide and Seek - Live Brussels - January 2025",
+      "url": "https://open.spotify.com/track/6dReFbScmAe1BCzb9Srjhq"
+    },
+    {
+      "album": {
         "name": "High Flame (Tsuyobi) [From \"Fire Force\"] [En Espa\u00f1ol]",
         "url": "https://open.spotify.com/album/6rv1UXgP7VM6BE37sxhP57"
       },
@@ -27510,10 +27528,28 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 293500,
       "name": "I, Scvlptor",
       "url": "https://open.spotify.com/track/19PB1pfJHxAh3B9WMErZ7F"
+    },
+    {
+      "album": {
+        "name": "I, Scvlptor",
+        "url": "https://open.spotify.com/album/4jCDW7UHRoVXfgRBE9OFLR"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293500,
+      "name": "I, Scvlptor",
+      "url": "https://open.spotify.com/track/4hm5JzCH1wBuDWUsVYith9"
     },
     {
       "album": {
@@ -33410,7 +33446,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 595746,
       "name": "Light Pollution",
       "url": "https://open.spotify.com/track/04IRskU64H3yOCvkvxzcgJ"
@@ -36276,7 +36312,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 129214,
       "name": "Me Apestan",
       "url": "https://open.spotify.com/track/32HOzZ3fTYuAcLk9T671LQ"
@@ -36320,10 +36356,32 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 184080,
       "name": "Me Levantar\u00e9 Otra Vez",
       "url": "https://open.spotify.com/track/2yEFajNz4fcD7x5xuDEDPe"
+    },
+    {
+      "album": {
+        "name": "No Les Interesa",
+        "url": "https://open.spotify.com/album/4LACmDZJniVBmTjbFxPzpu"
+      },
+      "artists": [
+        {
+          "name": "Boikot",
+          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
+        },
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "Me Levantar\u00e9 Otra Vez",
+      "url": "https://open.spotify.com/track/4Y7IvjqVqxz0vokyU6V5Oq"
     },
     {
       "album": {
@@ -36854,7 +36912,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 256897,
       "name": "Metalheart",
       "url": "https://open.spotify.com/track/6nbMktERxgnegcTWKQtpul"
@@ -37126,7 +37184,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 237350,
       "name": "Mighty Morphin Power Rangers",
       "url": "https://open.spotify.com/track/4Ny1W1E3BqgA8k7KcMn3eN"
@@ -37156,7 +37214,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 223529,
       "name": "Mil Recuerdos",
       "url": "https://open.spotify.com/track/4oBJC51MOlkVEDZSjVvBpU"
@@ -44202,7 +44260,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 143100,
       "name": "Power Rangers Dino Thunder",
       "url": "https://open.spotify.com/track/2vYs4vqcsmTUukipESdtO1"
@@ -50644,7 +50702,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 397801,
       "name": "Sin Disfraz (Mariano Mellino Remix)",
       "url": "https://open.spotify.com/track/3oKziXaTWnggt8QoxLmKYQ"
@@ -53114,7 +53172,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 272567,
       "name": "Starless",
       "url": "https://open.spotify.com/track/0MXz52zYBIIe3wuqojwjsr"
@@ -55654,7 +55712,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 366520,
       "name": "Tectonic",
       "url": "https://open.spotify.com/track/1zgSvH1JVK95HrWYpvmNj6"
@@ -56750,7 +56808,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 357349,
       "name": "The Exonerated",
       "url": "https://open.spotify.com/track/523MPhlTsjoJdOnj90OtmQ"
@@ -58312,7 +58370,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 128303,
       "name": "The Quiet Beauty of Simple Moments",
       "url": "https://open.spotify.com/track/1mtYqtgVh1PrKIiqB7Xtvt"
@@ -59584,7 +59642,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 204906,
       "name": "Theme From New York, New York - 2008 Remastered",
       "url": "https://open.spotify.com/track/35rcZ5V1lwIXUTFAZAuBpE"
@@ -60120,6 +60178,64 @@
       "duration_ms": 63420,
       "name": "Throne of the Azure",
       "url": "https://open.spotify.com/track/51ockNCxAQixbkXkHsObyC"
+    },
+    {
+      "album": {
+        "name": "Where Silence Feels Like Home",
+        "url": "https://open.spotify.com/album/4TBOyv9JGMrRD8a25hExFa"
+      },
+      "artists": [
+        {
+          "name": "DVE",
+          "url": "https://open.spotify.com/artist/5mEsO7hgZjoJ8Wc6pIopHo"
+        },
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Johann Strauss II",
+          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
+        },
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157752,
+      "name": "Through the Window of a Peaceful Afternoon",
+      "url": "https://open.spotify.com/track/3oV3Iavgu4qgmFfKyBfLS6"
     },
     {
       "album": {
@@ -63452,7 +63568,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 97721,
       "name": "Villanos",
       "url": "https://open.spotify.com/track/4cAVPMLXIlzVGdJBZtrtcO"
@@ -68578,7 +68694,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 249266,
       "name": "\u6c50\u5165\u30ca\u30a4\u30c8\u30d5\u30a9\u30fc\u30eb",
       "url": "https://open.spotify.com/track/0U2gnhgXSoLhp8KNSbc1zl"

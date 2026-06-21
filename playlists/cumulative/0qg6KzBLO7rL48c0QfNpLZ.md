@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,541 songs - 2 day 20 hr 13 min
+1,542 songs - 2 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [Haunting Me](https://open.spotify.com/track/13HyBy8sVih8i5Pq5udf3t) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG) | [Haunting Me](https://open.spotify.com/album/2rO3BIIDq3FAFtHwm8vDHK) | 2:59 | 2025-10-31 | 2026-04-07 |
 | [Haven](https://open.spotify.com/track/3UIcBILSKwze021TGlanVo) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Haven](https://open.spotify.com/album/1GTPtU7LpCj4rJIwlwei7g) | 2:13 | 2025-10-24 | 2026-02-07 |
 | [Head Down For You](https://open.spotify.com/track/4Ty57TyhUNvVHQXsH5vrSD) | [Freyer](https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4), [Odeon](https://open.spotify.com/artist/3SWSnHWyLjxCkSREp4j6ye), [Senes](https://open.spotify.com/artist/0KwCPR1o24HHYihNcZTRw1) | [Head Down For You](https://open.spotify.com/album/7H4oXTvzUBSfEEF3UT2dtv) | 2:49 | 2024-09-27 | 2024-11-21 |
+| [Headlights](https://open.spotify.com/track/63HuRSLtTHIJJAvbRWnMJe) | [MARSTEREON](https://open.spotify.com/artist/7jEVO7yGtLTH2UsMcuA8Ap), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [Headlights](https://open.spotify.com/album/1Qej2i6EDLQ1Bo0iUvsSSI) | 2:41 | 2026-06-20 |  |
 | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:29 | 2023-12-22 | 2024-09-15 |
 | [Hear Me Now](https://open.spotify.com/track/0wrtKD0qovTXfjwCNLIYCp) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Hear Me Now](https://open.spotify.com/album/05LnxfemtMkSIcVqMjcuLL) | 3:12 | 2023-12-08 | 2024-09-11 |
 | [Hear Me Now](https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(feat\. Zeeba\)](https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o) | 3:14 | 2026-03-13 | 2026-04-20 |

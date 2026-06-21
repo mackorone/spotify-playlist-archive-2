@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816 likes - 19 songs - 42 min 25 sec
+[Spotify](https://open.spotify.com/user/spotify) - 815 likes - 20 songs - 43 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 12 | [Supper at Six](https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:48 |
 | 13 | [Playing Townes](https://open.spotify.com/track/7H3rsvWLf1KZZRvF1zQdzl) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 3:45 |
 | 14 | [You Always Let Me Down](https://open.spotify.com/track/0Ody3WBpj9lmh3rDFHUaqu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh), [David Stal](https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX) | [Hacks: Seasons 2\-5 \(Original Series Soundtrack\)](https://open.spotify.com/album/6SCMaaxakgzykc4Ujjxg5x) | 1:44 |
-| 15 | [A Lead](https://open.spotify.com/track/07g1Gd78OSWGuHhT2K15VU) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:02 |
-| 16 | [Sygrayem \(Let's Play\)](https://open.spotify.com/track/4OuuChRBdM8QPEl9yDIrSX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 2:11 |
-| 17 | [Getting Late Night](https://open.spotify.com/track/3OTeopQuiNsNLR2fonFZlU) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh), [David Stal](https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX) | [Hacks: Seasons 2\-5 \(Original Series Soundtrack\)](https://open.spotify.com/album/6SCMaaxakgzykc4Ujjxg5x) | 2:00 |
-| 18 | [Training With Mr\. Schaibel](https://open.spotify.com/track/1GZgxiTmZPfeYKsWQddxWV) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 3:04 |
-| 19 | [Deborah Vance](https://open.spotify.com/track/5MKvswPOgnzuFE7pIUaPof) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh), [David Stal](https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX) | [Hacks: Seasons 2\-5 \(Original Series Soundtrack\)](https://open.spotify.com/album/6SCMaaxakgzykc4Ujjxg5x) | 3:06 |
+| 15 | [You Lost Your Shadow, Bill](https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:26 |
+| 16 | [A Lead](https://open.spotify.com/track/07g1Gd78OSWGuHhT2K15VU) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:02 |
+| 17 | [Sygrayem \(Let's Play\)](https://open.spotify.com/track/4OuuChRBdM8QPEl9yDIrSX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 2:11 |
+| 18 | [Getting Late Night](https://open.spotify.com/track/3OTeopQuiNsNLR2fonFZlU) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh), [David Stal](https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX) | [Hacks: Seasons 2\-5 \(Original Series Soundtrack\)](https://open.spotify.com/album/6SCMaaxakgzykc4Ujjxg5x) | 2:00 |
+| 19 | [Training With Mr\. Schaibel](https://open.spotify.com/track/1GZgxiTmZPfeYKsWQddxWV) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 3:04 |
+| 20 | [Deborah Vance](https://open.spotify.com/track/5MKvswPOgnzuFE7pIUaPof) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh), [David Stal](https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX) | [Hacks: Seasons 2\-5 \(Original Series Soundtrack\)](https://open.spotify.com/album/6SCMaaxakgzykc4Ujjxg5x) | 3:06 |
 
-Snapshot ID: `ajM1AAAAAAA5YMTahcMoSUy9UJfKpV5e`
+Snapshot ID: `ajSGgAAAAAAUa+pA69i6IwP/Eh15iXvy`

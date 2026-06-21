@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 166350,
+  "num_followers": 166341,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "TGIF",
+        "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 243906,
       "name": "Chains & Whips",
       "url": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "TGIF",
-        "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "TGIF",
-      "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "Walk Like This",
-      "url": "https://open.spotify.com/track/59uB0hD8JtxgdEuV3CNgrD"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "I Said I Love You First",
         "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 162995,
       "name": "Bluest Flame",
       "url": "https://open.spotify.com/track/41goAg1ZxePWjXXfZ7PhG7"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "Walk Like This",
+      "url": "https://open.spotify.com/track/59uB0hD8JtxgdEuV3CNgrD"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Songs Of A Lost World",
+        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 408690,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "NAIKI",
         "url": "https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 145714,
       "name": "MASCARA",
       "url": "https://open.spotify.com/track/4CDD9QvqxvcquJYxAIPuOL"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Songs Of A Lost World",
-        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 408690,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2023,26 +2023,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Hard Headed Woman",
-        "url": "https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 267133,
-      "name": "Love Me Like You Used To Do [Feat. Tyler Childers]",
-      "url": "https://open.spotify.com/track/28520OoA1qXG46koPHUcSG"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "\u00bfY ahora qu\u00e9?",
         "url": "https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI"
       },
@@ -2059,6 +2039,26 @@
       "duration_ms": 153706,
       "name": "Hoy no me siento bien",
       "url": "https://open.spotify.com/track/05qgnj05ISVHo82ODxqgqs"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Hard Headed Woman",
+        "url": "https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "Love Me Like You Used To Do [Feat. Tyler Childers]",
+      "url": "https://open.spotify.com/track/28520OoA1qXG46koPHUcSG"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 179559,
+      "name": "Dammit Randy",
+      "url": "https://open.spotify.com/track/5YLedlTSZ4ovC2pbvAcNm7"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Cancionera",
         "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 258036,
       "name": "Como Quisiera Quererte",
       "url": "https://open.spotify.com/track/5gGOOM1oDSQ59lcGOXIvZL"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Postcards From Texas",
-        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 179559,
-      "name": "Dammit Randy",
-      "url": "https://open.spotify.com/track/5YLedlTSZ4ovC2pbvAcNm7"
     },
     {
       "added_at": "2025-11-12 17:50:29",

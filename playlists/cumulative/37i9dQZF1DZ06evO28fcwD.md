@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-191 songs - 12 hr 52 min
+192 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Diamonds on the Soles of Her Shoes](https://open.spotify.com/track/44SAkadYZkexOZgNiVtJr3) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 5:46 | 2022-01-28 | 2022-02-13 |
 | [Diamonds On The Soles Of Her Shoes](https://open.spotify.com/track/4w2pIHYNnRBCHVMTJ1AFE0) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Ladysmith Black Mambazo & Friends](https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG) | 5:41 | 2024-02-19 | 2024-04-27 |
 | [Diamonds on the Soles of Her Shoes \(Abridged Version\) \[Bonus Track\]](https://open.spotify.com/track/21uQrdwqR2AdN9gNP9b4dL) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 1:38 | 2022-06-04 | 2024-09-01 |
-| [Diamonds on the Soles of Her Shoes \(with Ladysmith Black Mambazo\) \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4XcXpnbNeYom3p24r29NLG) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 6:29 | 2022-01-24 |  |
+| [Diamonds on the Soles of Her Shoes \(with Ladysmith Black Mambazo\) \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4XcXpnbNeYom3p24r29NLG) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 6:29 | 2022-01-24 | 2026-06-21 |
 | [Different Colors Mean Nothing to Me \(Unkulunkulu Wethu\)](https://open.spotify.com/track/16SpALi3uf6RfumCDoiTKK) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 6:37 | 2022-03-09 | 2022-03-11 |
 | [Dlondlobala Njalo](https://open.spotify.com/track/67Ey8t5US5jijGZZnfOfeZ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Lihl' Ixhiba Likagogo \(My Grandmother's Kitchen\)](https://open.spotify.com/album/2mTxloMTnWHXML3dGLyiDt) | 4:16 | 2024-03-27 | 2025-02-05 |
 | [Eden's House](https://open.spotify.com/track/74nPMKhOnrBnFhYNfq3gDI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Mind The Moon](https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ) | 3:51 | 2021-12-28 |  |
@@ -72,6 +72,7 @@
 | [Introduction](https://open.spotify.com/track/0jsZz3MRyYyACXfzleO8MV) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 1:06 | 2022-10-13 | 2022-10-15 |
 | [Isimanga Salomhlaba \(Soul Drummer Mix\)](https://open.spotify.com/track/15Z4ir2D3mCxVVcdmp8JGa) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Chillout Sessions](https://open.spotify.com/album/4aZdSqdLXMHnLt3A6ZTfIj) | 8:01 | 2021-12-28 | 2022-10-09 |
 | [Isimanga Salomhlaba \(Soul Drummer Mix\)](https://open.spotify.com/track/7Hee2PI8TK81DKv8s8wm3o) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Chillout Sessions](https://open.spotify.com/album/62VrSNXS4GHmefkAexgufv) | 8:01 | 2022-10-09 | 2022-10-13 |
+| [Izithembiso Zenkosi](https://open.spotify.com/track/6C4gFbljIskuS5EnR9Rj51) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ulwandle Olungcwele](https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg) | 3:26 | 2026-06-21 |  |
 | [Izithembiso Zenkosi](https://open.spotify.com/track/5RrqBt4PeHsgxvZfAnRHa1) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Best Of Ladysmith Black Mambazo](https://open.spotify.com/album/17EskTB3qXuIeM0M7KrbyA) | 3:30 | 2024-02-26 | 2024-04-29 |
 | [Izithembiso Zenkosi](https://open.spotify.com/track/0R7QfL4BQ89G8PR2TgGMfr) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [African Tranquility: The Contemplative Soul of Africa](https://open.spotify.com/album/5yct2YFar38IONhbcTzWjm) | 3:34 | 2022-06-18 | 2022-06-20 |
 | [Kanye Nawe Nkosi Yami](https://open.spotify.com/track/0j0EJ0Ksus3dDhWR0kYSr2) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Phezulu Emafini](https://open.spotify.com/album/4F9xBh2KQYyz1KV5HGPzy0) | 2:40 | 2021-12-28 | 2022-10-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Deer Jade
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,642 likes - 91 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,671 likes - 91 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

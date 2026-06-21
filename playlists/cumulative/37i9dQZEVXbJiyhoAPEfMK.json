@@ -7196,7 +7196,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -33494,7 +33494,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -46378,7 +46378,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -46534,6 +46534,28 @@
       "duration_ms": 140373,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/1LFM6gtGwcTe8CXX6y1IK2"
+    },
+    {
+      "album": {
+        "name": "Mungu",
+        "url": "https://open.spotify.com/album/02PvRwFugzKFW86LVW5zgJ"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144080,
+      "name": "Mungu",
+      "url": "https://open.spotify.com/track/3tEQit2qjqSVcjeiXEm75A"
     },
     {
       "album": {
@@ -52982,6 +53004,28 @@
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
+    },
+    {
+      "album": {
+        "name": "Pil\u00e9 (Gospel)",
+        "url": "https://open.spotify.com/album/5ASuHiYQYuQU8VemaHSRNq"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Kano Choir",
+          "url": "https://open.spotify.com/artist/2i04Yoaa4wV8J75w8aPX1G"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123720,
+      "name": "Pil\u00e9 - Gospel",
+      "url": "https://open.spotify.com/track/1yOrvnfHb2t8CmMdfcBHTl"
     },
     {
       "album": {
@@ -66852,7 +66896,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -66870,7 +66914,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -67338,6 +67382,28 @@
       "duration_ms": 358807,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
+    },
+    {
+      "album": {
+        "name": "THUG LIFE",
+        "url": "https://open.spotify.com/album/5Mt1cLyfFmHKPFevznGbwL"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121394,
+      "name": "THUG LIFE",
+      "url": "https://open.spotify.com/track/6M3CMKJnzTrlezfUrIsGDe"
     },
     {
       "album": {

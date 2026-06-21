@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,241,589 likes - 100 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241,744 likes - 100 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 25 | [Flex It](https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [y3kfae](https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP) | [Flex It](https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O) | 2:56 |
 | 26 | [FUNK DO BOUNCE \(Slowed\)](https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [FUNK DO BOUNCE \(Slowed\)](https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1) | 1:47 |
 | 27 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
-| 28 | [CLIMA LINDO \- SLOWED](https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp) | [GXMZ](https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02), [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko) | [CLIMA LINDO](https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH) | 1:21 |
-| 29 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
+| 28 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
+| 29 | [CLIMA LINDO \- SLOWED](https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp) | [GXMZ](https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02), [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko) | [CLIMA LINDO](https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH) | 1:21 |
 | 30 | [SAY SOMETHING](https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [SAY SOMETHING](https://open.spotify.com/album/5GpGiO6KJyRuk73MEqsPdr) | 2:51 |
 | 31 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
 | 32 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 66 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
 | 67 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
 | 68 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
-| 69 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
+| 69 | [Butterfly 2026](https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Butterfly 2026](https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9) | 2:44 |
 | 70 | [The Basement](https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [The Basement](https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr) | 2:16 |
-| 71 | [Butterfly 2026](https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Butterfly 2026](https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9) | 2:44 |
+| 71 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
 | 72 | [Sea Of Problems](https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Sea Of Problems](https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95) | 1:50 |
 | 73 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
 | 74 | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0) | 2:19 |

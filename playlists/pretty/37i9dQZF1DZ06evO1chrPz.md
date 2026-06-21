@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,259 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,261 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 36 | [The Blessing](https://open.spotify.com/track/3b3r4F5ynaUxn3TpMd4F9e) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 6:52 |
 | 37 | [Ten Fe Corazón \(En Vivo\)](https://open.spotify.com/track/2lDF0n9AO9SKTt8NkSxHkj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8), [Raquel Vega](https://open.spotify.com/artist/3CWGrUvzZCBCxLI1bc9RgM) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn) | 5:12 |
 | 38 | [Luminosity](https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG) | 4:08 |
-| 39 | [My King Forever \(Live\)](https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 5:15 |
+| 39 | [You're Worthy of My Praise/As The Deer \- Live](https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 2:26 |
 | 40 | [Dancing on the Waves](https://open.spotify.com/track/7D2dX1omKWoLatKZyYMhCV) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 6:14 |
-| 41 | [You're Worthy of My Praise/As The Deer \- Live](https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 2:26 |
+| 41 | [My King Forever \(Live\)](https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 5:15 |
 | 42 | [We Praise You \(Live\)](https://open.spotify.com/track/3t8IxqbGlWeILQM6bPt5VU) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 6:55 |
 | 43 | [You Make Me Brave \(Live\)](https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm) | 6:06 |
 | 44 | [This Is a Move](https://open.spotify.com/track/3y3NMcB0IuMKrLbqwFKU8N) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/6i1NqxIGiZ5PmI4LAXDF4H) | 4:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Sing Of Your Love](https://open.spotify.com/track/6DLdrBq8O4phg4ZG9Fzcdx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Garett & Kate](https://open.spotify.com/artist/0XGtfaGeQDd2jje9soKMPM) | [Sing Of Your Love](https://open.spotify.com/album/01T3olM6t6V6Ey188YPFO9) | 4:46 |
 | 50 | [Elohim \- Live](https://open.spotify.com/track/15VivzmIja8IDxDE7zxRwC) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Noah Paul Harrison](https://open.spotify.com/artist/3n04pKYj4LrOJ9eUsQGXn4) | [Elohim \(Live\)](https://open.spotify.com/album/494zDW6D8pA2QUi4CTcQdR) | 7:26 |
 
-Snapshot ID: `ajM1AAAAAAC0Cz79Mgqv29rYWIvIzM5J`
+Snapshot ID: `ajSGgAAAAAAjCLG+FIE6XgWm0/PdgJeX`

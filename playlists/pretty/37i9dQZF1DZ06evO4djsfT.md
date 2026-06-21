@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,808 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,806 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 19 | [Prove It](https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [American Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 2:36 |
 | 20 | [Let It Reign \(feat\. Bizzle\)](https://open.spotify.com/track/51ibczFjbaSrxynt6yKKah) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 4:19 |
 | 21 | [KEANU'S SONG](https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [KEANU](https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY) | [KEANU'S SONG](https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo) | 2:32 |
-| 22 | [Not Today Satan](https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:06 |
-| 23 | [LEFT HAND \(feat\. Terrian\)](https://open.spotify.com/track/34GgEj9AUd92vmbwoVVhA5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [LEFT HAND](https://open.spotify.com/album/69hDMlOq1ihXMKWKx3nnwL) | 3:37 |
+| 22 | [LEFT HAND \(feat\. Terrian\)](https://open.spotify.com/track/34GgEj9AUd92vmbwoVVhA5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [LEFT HAND](https://open.spotify.com/album/69hDMlOq1ihXMKWKx3nnwL) | 3:37 |
+| 23 | [Not Today Satan](https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:06 |
 | 24 | [Glory Down](https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory Down](https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R) | 2:59 |
 | 25 | [The Saints](https://open.spotify.com/track/6OJgPdiryjvefJC3fsDAuA) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Heroes for Sale](https://open.spotify.com/album/4Ok6ziWADtgdRcy4nixjtL) | 3:58 |
 | 26 | [CAMPAIGN](https://open.spotify.com/track/3ybMOE4jaJ9xLkoDpze1OM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [CAMPAIGN](https://open.spotify.com/album/0fya4AYyhkXQPbxcWuudyy) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [Undefeated \(feat\. KB\)](https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:57 |
 | 50 | [Santo \(HLY FOREVER\)](https://open.spotify.com/track/6XBH2c7HSzkWGgr5OkziXm) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Santo \(HLY FOREVER\)](https://open.spotify.com/album/0CxDtqsBJbpiofMCp6MWtf) | 2:46 |
 
-Snapshot ID: `ajM1AAAAAAAX71/qWj4HI4yVxYUPmjPP`
+Snapshot ID: `ajSGgAAAAAAnmVamKFtrewh53JzDxpzR`

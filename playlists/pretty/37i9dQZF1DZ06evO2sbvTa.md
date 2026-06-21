@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,587 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,588 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 10 | [Trippple Cross \(feat\. Future & Young Thug\)](https://open.spotify.com/track/3Aflzeml3BDWtEOy0VUMRo) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 3:10 |
 | 11 | [Special \(feat\. Young Scooter\)](https://open.spotify.com/track/2XjcBGdV3h5NJ1hq5NFCy0) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 4:58 |
 | 12 | [DOH DOH \(feat\. Young Scooter\)](https://open.spotify.com/track/0U06Yqe0nkkJlptlr7O4uO) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [BEASTMODE 2](https://open.spotify.com/album/6Ew52HWkgfbth9ihRAq2Xd) | 3:40 |
-| 13 | [INTRO](https://open.spotify.com/track/1VJw9q9T994bRUTWXmA7rM) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [The Recipe](https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE) | 1:51 |
+| 13 | [Oooooh \(feat\. Young Scooter\)](https://open.spotify.com/track/5FMH3g2VYH4manoJWEDhUk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Beast Mode](https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ) | 3:09 |
 | 14 | [Real Talk \(feat\. Future\)](https://open.spotify.com/track/4aA3OzTBHR9cUKM8zILpqA) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 4:02 |
-| 15 | [Oooooh \(feat\. Young Scooter\)](https://open.spotify.com/track/5FMH3g2VYH4manoJWEDhUk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Beast Mode](https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ) | 3:09 |
-| 16 | [Columbia \(Dirty\)](https://open.spotify.com/track/20qSuLJ90dGjpIeTekNLEC) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Columbia](https://open.spotify.com/album/68CmqCHFatt5FppZEoRWxU) | 2:58 |
+| 15 | [Columbia \(Dirty\)](https://open.spotify.com/track/20qSuLJ90dGjpIeTekNLEC) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Columbia](https://open.spotify.com/album/68CmqCHFatt5FppZEoRWxU) | 2:58 |
+| 16 | [INTRO](https://open.spotify.com/track/1VJw9q9T994bRUTWXmA7rM) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [The Recipe](https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE) | 1:51 |
 | 17 | [Hustlin'](https://open.spotify.com/track/5jc0Ksd56qSw6zZwVsvEtg) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Jugg King](https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk) | 4:07 |
 | 18 | [Do It Big \(feat\. Future\)](https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 3:53 |
 | 19 | [Columbia Remix \(Dirty\)](https://open.spotify.com/track/7in3GxNPphXDq1Mcm586el) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Birdman & Gucci Mane](https://open.spotify.com/artist/6338faVaZp7nENCOEpgrTe), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Columbia Remix](https://open.spotify.com/album/1pk75KjlNX0OPNslAAoGZQ) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 49 | [Trust](https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Perfect Timing](https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK) | 3:21 |
 | 50 | [Number Game](https://open.spotify.com/track/4mmmxpXJVKKEJxDr0umiOJ) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:12 |
 
-Snapshot ID: `ajM1AAAAAAATRvn999C1pYzkCuX7UW/b`
+Snapshot ID: `ajSGgAAAAAAp5ynA76+vbuQRarjTldDB`

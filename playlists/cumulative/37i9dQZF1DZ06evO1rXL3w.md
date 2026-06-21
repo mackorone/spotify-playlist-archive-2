@@ -4,10 +4,11 @@
 
 > This is Kris Bowers\. The essential tracks, all in one playlist.
 
-26 songs - 52 min 43 sec
+27 songs - 54 min 3 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Country Visit \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/5x9r4AqvrFo5nZ9shHfQHT) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 1:19 | 2026-06-21 |  |
 | [A Feeling I've Never Been](https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:44 | 2026-06-17 |  |
 | [A Gift For Edwina \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/6Lm25vtg4Z9RPyjzWwv5fz) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 1:01 | 2026-06-17 |  |
 | [A Grand Finish](https://open.spotify.com/track/3FbIz3EP8RtaYUyl5DvWwi) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 3:33 | 2026-06-17 |  |
@@ -21,7 +22,7 @@
 | [Hearts and Flowers Ball \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/60tThvmnpVzWnYkPNYMJzV) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 1:22 | 2026-06-17 |  |
 | [I Am The Tea](https://open.spotify.com/track/03LELeiepIk1GZy1C1JYDH) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Four \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6Kk8aewGFrutyVj6EcuNi2) | 2:16 | 2026-06-17 |  |
 | [I Could Use a Boost](https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [The Wild Robot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i) | 3:07 | 2026-06-17 |  |
-| [I Love You \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/5oc5ZvJpEVHlxgOJYjnUr7) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 2:06 | 2026-06-17 |  |
+| [I Love You \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/5oc5ZvJpEVHlxgOJYjnUr7) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 2:06 | 2026-06-17 | 2026-06-21 |
 | [I Love You Charlotte \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/6f9hbu4xkABN8DSwyuNsIt) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 2:09 | 2026-06-17 |  |
 | [Kiss and Tell \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 1:35 | 2026-06-17 |  |
 | [Love is A Choice](https://open.spotify.com/track/02x4inTmIaDrlI0o7wQupM) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF) | 2:20 | 2026-06-17 |  |

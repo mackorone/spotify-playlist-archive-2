@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: Jai'len Josey",
+  "description": "Chill r&b. Cover: Masego",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -322,6 +322,24 @@
       "duration_ms": 192089,
       "name": "1:59 (feat. Gunna)",
       "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
+    },
+    {
+      "album": {
+        "name": "2 Many Days",
+        "url": "https://open.spotify.com/album/5C9EToByF5XDM3DXx4WewZ"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185770,
+      "name": "2 Many Days",
+      "url": "https://open.spotify.com/track/5xKsdMU9ssxhKSre7iMflV"
     },
     {
       "album": {
@@ -1983,6 +2001,28 @@
     },
     {
       "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Aura (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI"
+    },
+    {
+      "album": {
         "name": "Ready To Love",
         "url": "https://open.spotify.com/album/5Kmuhk7kKQkobguAK3VyLf"
       },
@@ -2128,6 +2168,28 @@
       "duration_ms": 220007,
       "name": "Baby!",
       "url": "https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF"
+    },
+    {
+      "album": {
+        "name": "baby, can we?",
+        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246422,
+      "name": "baby, can we?",
+      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
     },
     {
       "album": {
@@ -2472,6 +2534,24 @@
       "duration_ms": 127493,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/7lMYOIoIM5c3E5t8tndUcv"
+    },
+    {
+      "album": {
+        "name": "SOULSTAR DELUXE",
+        "url": "https://open.spotify.com/album/0CN5V9O6Ldnu5OIDfMndUB"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203458,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/5l0FelDpLcRGzvpYhT9eCH"
     },
     {
       "album": {
@@ -3959,6 +4039,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1ESGqa57ayFuz8ZpS6RxqX"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237188,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/28AnZq4Yo21iyneTWGjeUT"
+    },
+    {
+      "album": {
         "name": "Enigmatic Society",
         "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
       },
@@ -4154,7 +4252,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 205724,
       "name": "Burning Blue",
       "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
@@ -5056,7 +5154,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 236559,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
@@ -13370,7 +13468,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 195869,
       "name": "I CAN TELL",
       "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
@@ -14106,7 +14204,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 291046,
       "name": "Idea 5 (Call My Name) [feat. LULU.]",
       "url": "https://open.spotify.com/track/0H9K4Ul9aFjf2RV14K5Xzf"
@@ -17631,6 +17729,28 @@
     },
     {
       "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102034,
+      "name": "Main Attraction",
+      "url": "https://open.spotify.com/track/7u3qnFJuJCi7uYFXJkN66w"
+    },
+    {
+      "album": {
         "name": "In Pieces",
         "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
       },
@@ -17780,6 +17900,28 @@
       "duration_ms": 220573,
       "name": "Mama",
       "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
+    },
+    {
+      "album": {
+        "name": "BROWN (The Chocolate Edition)",
+        "url": "https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232736,
+      "name": "Man On A Mission (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep"
     },
     {
       "album": {
@@ -21397,6 +21539,28 @@
     },
     {
       "album": {
+        "name": "outta time",
+        "url": "https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "A. K. Paul",
+          "url": "https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251173,
+      "name": "outta time",
+      "url": "https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU"
+    },
+    {
+      "album": {
         "name": "Why Lawd?",
         "url": "https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe"
       },
@@ -21942,7 +22106,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 196977,
       "name": "PETTING ZOO",
       "url": "https://open.spotify.com/track/6dOoNq2InmdP57QnF6HdBU"
@@ -23397,6 +23561,28 @@
     },
     {
       "album": {
+        "name": "Make You Feel",
+        "url": "https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164488,
+      "name": "Rich Luv",
+      "url": "https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7"
+    },
+    {
+      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/2PgX96UzETtzpPDhGSyMti"
       },
@@ -23906,7 +24092,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 238479,
       "name": "S.I.T.L.",
       "url": "https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH"
@@ -24040,7 +24226,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 282444,
       "name": "Same Ol\u2019 Love",
       "url": "https://open.spotify.com/track/2UJV3mMuthhYHRa4KgeMBo"
@@ -25008,6 +25194,24 @@
       "duration_ms": 156586,
       "name": "She",
       "url": "https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL"
+    },
+    {
+      "album": {
+        "name": "she goes by.",
+        "url": "https://open.spotify.com/album/20GEur5fpZCdC8o6oVI6V2"
+      },
+      "artists": [
+        {
+          "name": "where.t.at",
+          "url": "https://open.spotify.com/artist/0kxG2FyO4bp80QsBwYQTvo"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177423,
+      "name": "she goes by.",
+      "url": "https://open.spotify.com/track/3kpGbIP1qVaFHNE78tTGEy"
     },
     {
       "album": {
@@ -27673,6 +27877,24 @@
     },
     {
       "album": {
+        "name": "Sweet Thang",
+        "url": "https://open.spotify.com/album/05wRlo4q22wpGkKDKEHBZe"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154971,
+      "name": "Sweet Thang",
+      "url": "https://open.spotify.com/track/1LseKUjL7AAgkZv7IjEBYk"
+    },
+    {
+      "album": {
         "name": "Sweetest Lullabye",
         "url": "https://open.spotify.com/album/7jnkkFtixmDeenVHmcPKBA"
       },
@@ -28144,6 +28366,28 @@
       "duration_ms": 115843,
       "name": "Talkin",
       "url": "https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH"
+    },
+    {
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132048,
+      "name": "Talking Dirty",
+      "url": "https://open.spotify.com/track/0TvgV79xVI0t2022ABkxS4"
     },
     {
       "album": {

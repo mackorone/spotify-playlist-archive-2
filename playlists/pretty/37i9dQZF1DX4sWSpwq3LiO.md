@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,898,175 likes - 133 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,898,248 likes - 133 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 132 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
 | 133 | [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 |
 
-Snapshot ID: `AAAAAKYge3QW6CZZrIPA3d7t4kx1VReV`
+Snapshot ID: `AAAAAKhkQX4UjlTzndX1yvIQuvwx5xYB`

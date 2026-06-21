@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Indira Paganotto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,295 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,297 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 9 | [wdym you don‘t like hardgroove? \- Radio Edit](https://open.spotify.com/track/7uyHeUCGHtlKeZ5IJ1G7yI) | [VIVI909](https://open.spotify.com/artist/0Oo01WMz8SsWQdSFpkchoL) | [wdym you don‘t like hardgroove?](https://open.spotify.com/album/5KAvS8DDDvMPhYOsMw2u80) | 2:41 |
 | 10 | [LaLaLo](https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Rave Kid EP](https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1) | 2:49 |
 | 11 | [make your move](https://open.spotify.com/track/5DLDirJKT4feWxCH686VM1) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [make your move](https://open.spotify.com/album/6oRqzKDM33wGQqY2XZLUmV) | 3:41 |
-| 12 | [What's Done Is Done](https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C) | 2:53 |
+| 12 | [What's Done Is Done](https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk) | 2:53 |
 | 13 | [Panda](https://open.spotify.com/track/7pa1a7s1TRHBI01cllS5j2) | [Sel](https://open.spotify.com/artist/0IHp9IbFZ9x8YFdDi2oriS) | [Panda](https://open.spotify.com/album/6wbhTQJ8dzn90wvd6puPuO) | 4:00 |
-| 14 | [Spirit Higher](https://open.spotify.com/track/5V1DrLET6vnoeerGE6ON25) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [EMJIE](https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh) | [Spirit Higher](https://open.spotify.com/album/5FidC368bZdJWTqRomYvy9) | 3:36 |
+| 14 | [Spirit Higher](https://open.spotify.com/track/1Oka1iKmhLiHvQohbQyvta) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [EMJIE](https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh) | [Spirit Higher](https://open.spotify.com/album/67nXClPyWHQ23wx8sr90EY) | 3:36 |
 | 15 | [Fail\-safe](https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Fail\-safe](https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt) | 3:27 |
 | 16 | [Here and Now](https://open.spotify.com/track/0luvadXP7x1Sw9a3ocLALE) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Shelter Our Time](https://open.spotify.com/album/3Vgo7btukFs2mh6VO5faf6) | 3:54 |
 | 17 | [Bad Love](https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Bad Love](https://open.spotify.com/album/0XOXWwZShooU7jQqST7rFB) | 2:43 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 84 | [Sexistential \- Arca’s Take](https://open.spotify.com/track/6EqCdqx5oY3J9PUsq54AMp) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Sexistential \(Arca’s Take\)](https://open.spotify.com/album/0CghpJDNKhaaPU9Pw20Og6) | 3:44 |
 | 85 | [Bakk2thafuture](https://open.spotify.com/track/5DaYqyXcCFmgtd1OWFmfpn) | [Ms\. Mada](https://open.spotify.com/artist/5Q2AHnOl7BbmHN3Q8Rgh3K) | [Bakk2thafuture](https://open.spotify.com/album/3ZQh0QFIhMuc6i1DEYWIzH) | 2:59 |
 | 86 | [Keep Dancing](https://open.spotify.com/track/4Q0RxLgLm5JDLLU43TmM6P) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Keep Dancing](https://open.spotify.com/album/57hZVGjBBoCxeVZUzGqnav) | 2:25 |
-| 87 | [Stitches \- Romy Remix](https://open.spotify.com/track/1o7ZhwiE86QL36V8zsXQct) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Stitches \(Romy Remix\)](https://open.spotify.com/album/558IG2B7fNDP0wSXeBhc13) | 4:27 |
+| 87 | [Stitches \- Romy Remix](https://open.spotify.com/track/2WGWanDe1L2rSeVOGsryMW) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Stitches \(Romy Remix\)](https://open.spotify.com/album/5WOEtViyN5DopzXL7mssxs) | 4:27 |
 | 88 | [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 |
 | 89 | [Dale Duro](https://open.spotify.com/track/7LnEMKpabO0Ju8PEUD4vNu) | [Lisa Korver](https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH) | [Dale Duro](https://open.spotify.com/album/7L5xGuL7Qd65NL8kCXqifB) | 2:47 |
 | 90 | [Revelation](https://open.spotify.com/track/1jFzo9qOLuxQYHN9M42zTi) | [Arielle](https://open.spotify.com/artist/6KltnIwOSDC583jsI2wxgE) | [Revelation](https://open.spotify.com/album/48NLIVF696oOe5qfs1AXdx) | 5:50 |

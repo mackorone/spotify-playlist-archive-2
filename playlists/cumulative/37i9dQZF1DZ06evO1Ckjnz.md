@@ -4,7 +4,7 @@
 
 > This is Rico Nasty\. The essential tracks, all in one playlist.
 
-81 songs - 3 hr 31 min
+82 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Jungle \- Rico Nasty Remix](https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jungle \(Rico Nasty Remix\)](https://open.spotify.com/album/6dEwlsUtkc8WRN8oYejxH2) | 3:33 | 2025-07-09 | 2025-08-24 |
 | [Jungle \- Rico Nasty Remix](https://open.spotify.com/track/51ZdiAjVcjhGGHO83nyYwv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [USB](https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB) | 3:33 | 2025-08-24 | 2025-10-16 |
 | [Jungle \- Rico Nasty Remix](https://open.spotify.com/track/3ycgBFWvzxjLtY2YJuQMms) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 3:33 | 2025-06-11 |  |
-| [Key Lime OG](https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sugar Trap 2](https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt) | 3:01 | 2025-06-11 |  |
+| [Key Lime OG](https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sugar Trap 2](https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt) | 3:01 | 2025-06-11 | 2026-06-21 |
 | [kmon](https://open.spotify.com/track/7IqopFSINrYTlqOHYGNFTx) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [komodo](https://open.spotify.com/album/39Tk0kOYx0Kew630XZ7zQN) | 2:44 | 2026-06-20 |  |
 | [Let It Out](https://open.spotify.com/track/1VFUkBoMOP4og0qandDdXC) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:28 | 2025-06-11 | 2026-03-28 |
 | [Mamacita \(feat\. Rico Nasty\)](https://open.spotify.com/track/5QoP9RStRznL8PNZ9nKXl5) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [The Fate of the Furious: The Album](https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ) | 3:22 | 2026-02-23 |  |
@@ -86,6 +86,7 @@
 | [Time Flies](https://open.spotify.com/track/2QXB9GugNcZqXrDXYowISU) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Time Flies](https://open.spotify.com/album/5sQcdmPjZvmsVA3uFZAqC5) | 3:05 | 2025-06-11 |  |
 | [Trust Issues](https://open.spotify.com/track/3U1er6n2pSve0xcNVn9eUu) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 3:17 | 2025-07-05 | 2026-03-29 |
 | [Vaderz \(feat\. Bktherula\)](https://open.spotify.com/track/4weoQ8CuXh0X9xvFfWsT6X) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 1:49 | 2025-06-11 |  |
+| [What](https://open.spotify.com/track/05gV5VWzzvDULZSFrT5h2S) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [What](https://open.spotify.com/album/2LvybGhYAFJlaViGZmpY5z) | 2:26 | 2026-06-21 |  |
 | [WHO WANT IT](https://open.spotify.com/track/3Qp6UhTS4KO6kGvFgnxpOK) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 1:47 | 2025-06-11 |  |
 | [YOU COULD NEVER](https://open.spotify.com/track/1h31TRX64PcICmCFNjwlGj) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL\-ER](https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq) | 2:43 | 2025-12-18 | 2026-03-02 |
 | [¡aquí yo mando!](https://open.spotify.com/track/05ufCucv6Z1oLMWeS8XapR) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:21 | 2025-06-11 |  |

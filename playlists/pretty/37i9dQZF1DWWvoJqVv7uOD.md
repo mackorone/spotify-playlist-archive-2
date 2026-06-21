@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Shaboozey
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,114 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,148 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 74 | [Gut Punch](https://open.spotify.com/track/0kG4t24uQCfcC1aZL3LyFu) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Gut Punch](https://open.spotify.com/album/7EPAooBQphOBWLEnYrljAn) | 3:08 |
 | 75 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
 
-Snapshot ID: `AAAAADZSJqjVR4ln+B9B5h78x7vgcPf8`
+Snapshot ID: `AAAAAA7pLhowdeAO2E6pM6LBvfV8BBrR`

@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "PASAJ",
+        "url": "https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146170,
+      "name": "3 PARMAK",
+      "url": "https://open.spotify.com/track/0xcGXOEEqflhk0tNs14G1w"
+    },
+    {
+      "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8"
       },
@@ -2562,7 +2580,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 133090,
       "name": "Ar\u0131yo",
       "url": "https://open.spotify.com/track/2tn5ROyAtMeBg4NCQMTTnD"
@@ -2732,6 +2750,28 @@
       "duration_ms": 145600,
       "name": "Astronaut In The Ocean - Ezhel Remix",
       "url": "https://open.spotify.com/track/1vTTuYbflWOI3R3LR4SozT"
+    },
+    {
+      "album": {
+        "name": "PASAJ",
+        "url": "https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Yung Kafa",
+          "url": "https://open.spotify.com/artist/7hEWPEIXEplnXurxdE87b4"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226730,
+      "name": "ATE\u015e G\u0130B\u0130S\u0130N",
+      "url": "https://open.spotify.com/track/5JIfCgelBA50OLXAs3v90e"
     },
     {
       "album": {
@@ -5692,7 +5732,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 207678,
       "name": "Bir \u00c7ift G\u00f6z",
       "url": "https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H"
@@ -6376,7 +6416,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 205706,
       "name": "Bu Y\u00fczden",
       "url": "https://open.spotify.com/track/7ARNzfrqpURb3Era5uY7rX"
@@ -6576,6 +6616,28 @@
       "duration_ms": 162146,
       "name": "Butter (Instrumental)",
       "url": "https://open.spotify.com/track/1e0Wxoraz9IzFhREDqgJAe"
+    },
+    {
+      "album": {
+        "name": "PASAJ",
+        "url": "https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173465,
+      "name": "BYE",
+      "url": "https://open.spotify.com/track/7y96ZlDK5dsa5bVP29BrHO"
     },
     {
       "album": {
@@ -6794,7 +6856,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 85168,
       "name": "CALIENTE 2.0",
       "url": "https://open.spotify.com/track/6qwuUFRlfKT7iRgf4oLnsD"
@@ -6812,7 +6874,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 230600,
       "name": "Cambaz",
       "url": "https://open.spotify.com/track/3ZkA3JnqluUWzwr64BBkl4"
@@ -8096,7 +8158,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 224080,
       "name": "De\u011filim",
       "url": "https://open.spotify.com/track/14goS0HYX8X0cQWn2N3BaG"
@@ -9667,6 +9729,24 @@
     },
     {
       "album": {
+        "name": "Unutaca\u011f\u0131m",
+        "url": "https://open.spotify.com/album/4IJjWvJufVG6aFLmks1eMB"
+      },
+      "artists": [
+        {
+          "name": "Serkan Ni\u015fanc\u0131",
+          "url": "https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198910,
+      "name": "Eller \u00dczer",
+      "url": "https://open.spotify.com/track/0MXBR6WWoTZSdSxsjjkLuq"
+    },
+    {
+      "album": {
         "name": "Eller \u00dczer",
         "url": "https://open.spotify.com/album/5pMJtaEOanoR0cWndtA0p4"
       },
@@ -9678,7 +9758,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 198910,
       "name": "Eller \u00dczer",
       "url": "https://open.spotify.com/track/2wV6HTsxC6lk4XbMkzU3hA"
@@ -12364,7 +12444,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 227428,
       "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
       "url": "https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI"
@@ -13236,6 +13316,28 @@
       "duration_ms": 141860,
       "name": "HAYIR",
       "url": "https://open.spotify.com/track/2V4rAqDOrVzthQXJ0PpoNW"
+    },
+    {
+      "album": {
+        "name": "PASAJ",
+        "url": "https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175555,
+      "name": "HAYIR DEMEL\u0130YD\u0130M",
+      "url": "https://open.spotify.com/track/0ZnEcjGeQEu7RFxMBviTqe"
     },
     {
       "album": {
@@ -19014,7 +19116,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 149823,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/6FGbxOWr2PhOHd6N06nafP"
@@ -20058,7 +20160,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 203778,
       "name": "Misafir",
       "url": "https://open.spotify.com/track/71rwEX50AtpDKdGTRguRLs"
@@ -20530,7 +20632,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 185216,
       "name": "nap\u0131yosun mesela ?",
       "url": "https://open.spotify.com/track/5QxnPSQq5E2N07b4n5zxGK"
@@ -23176,6 +23278,28 @@
       "duration_ms": 121714,
       "name": "RDM",
       "url": "https://open.spotify.com/track/2jxd1D0PUKtzFjML3gcuRK"
+    },
+    {
+      "album": {
+        "name": "PASAJ",
+        "url": "https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Khontkar",
+          "url": "https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160547,
+      "name": "REFILL",
+      "url": "https://open.spotify.com/track/0VpxyNnEK6usqohipFGHPT"
     },
     {
       "album": {
@@ -26823,6 +26947,28 @@
     },
     {
       "album": {
+        "name": "Timsahlar",
+        "url": "https://open.spotify.com/album/3ehDnWigd5HOYWLccjQ34G"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164241,
+      "name": "Timsahlar",
+      "url": "https://open.spotify.com/track/6wOuvnMDcWOTI9TTk8Jzem"
+    },
+    {
+      "album": {
         "name": "Tiryakinim",
         "url": "https://open.spotify.com/album/2akaQMyROHMG8Hy17lUwYE"
       },
@@ -27088,6 +27234,24 @@
       "duration_ms": 163021,
       "name": "Tutun Sen Bana",
       "url": "https://open.spotify.com/track/2AcCBpYHVbeV2IUU4iHP2Y"
+    },
+    {
+      "album": {
+        "name": "TUZAK",
+        "url": "https://open.spotify.com/album/1GtqOcWRUuWsS5jDlIo1gx"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "TUZAK",
+      "url": "https://open.spotify.com/track/1vYjLlQ91DqZ9x5uH0sSx9"
     },
     {
       "album": {
@@ -27880,6 +28044,28 @@
       "duration_ms": 126401,
       "name": "WAG1",
       "url": "https://open.spotify.com/track/4yrIO5r0yw9MBKJ1nrHcF7"
+    },
+    {
+      "album": {
+        "name": "PASAJ",
+        "url": "https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181632,
+      "name": "WAVES",
+      "url": "https://open.spotify.com/track/78DX0m2PUI8EalqVTVQN09"
     },
     {
       "album": {
@@ -29229,6 +29415,24 @@
     },
     {
       "album": {
+        "name": "PASAJ",
+        "url": "https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132888,
+      "name": "YER\u0130 AYRI",
+      "url": "https://open.spotify.com/track/5T5msBVsoYyTx8hBfZHIA2"
+    },
+    {
+      "album": {
         "name": "Yerle Yeksan",
         "url": "https://open.spotify.com/album/0f2SlmXKmMzyQ9hp39b5kN"
       },
@@ -29269,6 +29473,24 @@
     },
     {
       "album": {
+        "name": "PASAJ",
+        "url": "https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "YIN YANG",
+      "url": "https://open.spotify.com/track/1hvPVRogJLyumymUkWivXx"
+    },
+    {
+      "album": {
         "name": "YIN YANG",
         "url": "https://open.spotify.com/album/5zTpynQLSJo8yiG5U8rJXn"
       },
@@ -29280,7 +29502,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 180923,
       "name": "YIN YANG",
       "url": "https://open.spotify.com/track/3e0XM5ARlFVbWLfdR7zZvp"
@@ -30215,6 +30437,24 @@
     },
     {
       "album": {
+        "name": "PASAJ",
+        "url": "https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129444,
+      "name": "\u00c7\u0130LE",
+      "url": "https://open.spotify.com/track/2gWvzFs4nMT4bolqYW14QM"
+    },
+    {
+      "album": {
         "name": "\u00c7ocukluk A\u015fk\u0131ms\u0131n Galatasaray",
         "url": "https://open.spotify.com/album/6PUe2EfTVwr9iTEzyr4uuI"
       },
@@ -30410,7 +30650,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 162745,
       "name": "\u00c7\u0131kmaz Bir Sokakta",
       "url": "https://open.spotify.com/track/4SJjMPowhsrYSWgxM61yxm"
@@ -30472,6 +30712,24 @@
       "duration_ms": 229421,
       "name": "\u00d6lebilirim",
       "url": "https://open.spotify.com/track/5jtqm1ZWbtyaUfhX9zc0ls"
+    },
+    {
+      "album": {
+        "name": "PASAJ",
+        "url": "https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "\u00d6L\u00dc SESLER",
+      "url": "https://open.spotify.com/track/0xvD7ihRvRhFDXjY8lI1QO"
     },
     {
       "album": {
@@ -30970,10 +31228,28 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 163448,
       "name": "\u015eEHR\u0130ME BOMBALAR",
       "url": "https://open.spotify.com/track/52e9OPUMOE97on91NrpxnK"
+    },
+    {
+      "album": {
+        "name": "PASAJ",
+        "url": "https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163448,
+      "name": "\u015eEHR\u0130ME BOMBALAR",
+      "url": "https://open.spotify.com/track/64ZWtdLrzvY6KnIEYuQqr5"
     },
     {
       "album": {

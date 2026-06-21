@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-183 songs - 10 hr 2 min
+184 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Gotta Luv It](https://open.spotify.com/track/5BwvaW05K2lLDUcli2uzUU) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Gotta Luv It](https://open.spotify.com/album/2OdkWu9PJKbmjUSMIyye1z) | 3:13 | 2022-06-04 |  |
 | [Guap](https://open.spotify.com/track/7G0PgkkbavF7Rh4zNrUxH0) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 4:31 | 2022-06-04 |  |
 | [Had It](https://open.spotify.com/track/6bsYXpygQTDRO48RtDRhGP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq) | 3:19 | 2025-11-05 |  |
+| [Hate You](https://open.spotify.com/track/5WN4ByXJLl7SmsQMsx2yQr) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 | 2026-06-20 |  |
 | [Haze](https://open.spotify.com/track/4S1pXOs4WTATMqRIBtbKRS) | [MarcLo](https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X) | [11 DAYS](https://open.spotify.com/album/54sUAWVNEtPQLadklZwQLM) | 2:22 | 2026-04-29 |  |
 | [Heaven](https://open.spotify.com/track/6npZ8fQgQqvXwqzLzFhkhb) | [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Heaven](https://open.spotify.com/album/6qgCzcQfYKGv15NnFCoY2K) | 3:24 | 2025-06-26 |  |
 | [Here It Is \(feat\. Chris Brown\)](https://open.spotify.com/track/0lQ08hbjK1umHjCYvUrmCp) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:12 | 2022-06-04 |  |

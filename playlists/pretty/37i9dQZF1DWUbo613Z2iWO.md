@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Dylan Sinclair
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,500 likes - 199 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,512 likes - 199 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Spray \(with JVCK JAMES\)](https://open.spotify.com/track/2mGxhluEmuB06abqZBzVUK) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Make You Feel](https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y) | 3:33 |
+| 1 | [Spray](https://open.spotify.com/track/2mGxhluEmuB06abqZBzVUK) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Make You Feel](https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y) | 3:33 |
 | 2 | [Aura \(feat\. Bryson Tiller\)](https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [AMA](https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB) | 4:00 |
 | 3 | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK) | 2:47 |
 | 4 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Vi er klar til weekendens hedebølge med WAVY @lamin.wavy, right? 🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,114 likes - 97 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,134 likes - 97 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

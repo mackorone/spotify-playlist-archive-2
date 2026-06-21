@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 
 > Level up your gaming with these afro tracks\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,919 likes - 98 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,959 likes - 98 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 | 18 | [Hello](https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hello](https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr) | 2:50 |
 | 19 | [Lalala](https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:58 |
 | 20 | [For Days](https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [AYOMIPO](https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3) | [For Days](https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq) | 3:27 |
-| 21 | [10 MINUTES](https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [10 MINUTES](https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT) | 2:35 |
-| 22 | [Mentally](https://open.spotify.com/track/6IEYlownuHoYdpMikoyj58) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:17 |
+| 21 | [Mentally](https://open.spotify.com/track/6IEYlownuHoYdpMikoyj58) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:17 |
+| 22 | [10 MINUTES](https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [10 MINUTES](https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT) | 2:35 |
 | 23 | [PAIN III](https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Saint Edrah](https://open.spotify.com/artist/2kbp8NOIpu2kWcYvzj54qG) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:47 |
 | 24 | [Chose Me](https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [STREET THERAPIST](https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i) | 2:27 |
 | 25 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 |

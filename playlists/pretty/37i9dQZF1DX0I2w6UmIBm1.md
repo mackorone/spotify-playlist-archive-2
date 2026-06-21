@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Jordan St\. Cyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,880 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,922 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 74 | [Get Your Hopes Up](https://open.spotify.com/track/2pGhdjiwzN93tMYLgbk1eo) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Get Your Hopes Up](https://open.spotify.com/album/1SYyphGqCHjM5XLQuuyzqW) | 1:31 |
 | 75 | [Paths](https://open.spotify.com/track/1fR3dT23kscB6N9Y2xmcYB) | [TeenStreet Worship](https://open.spotify.com/artist/5QLXWYkK6YKyhnQYriMp4k), [Mylie Miller](https://open.spotify.com/artist/5uCAG3YYqydkmVcX1sCLND) | [Paths](https://open.spotify.com/album/5QYE1t8NMJwWaAJyWY8ylB) | 4:18 |
 
-Snapshot ID: `AAAAACX/lauB+m/X4AwxRS3lMWmvF8mz`
+Snapshot ID: `AAAAAGgFUlcWs3HsmWtJEDPuQdYN+4kn`

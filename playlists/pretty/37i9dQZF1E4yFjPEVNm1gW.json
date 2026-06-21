@@ -147,6 +147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Double Trouble",
+        "url": "https://open.spotify.com/album/5Mqq72DjK0WOPaa9mTheuJ"
+      },
+      "artists": [
+        {
+          "name": "Bloxkz",
+          "url": "https://open.spotify.com/artist/2EwoGXPSiIj22fOW34RJsw"
+        },
+        {
+          "name": "Kyi Torch",
+          "url": "https://open.spotify.com/artist/0tB0LU32h2aTsXJH0Y8mMS"
+        }
+      ],
+      "duration_ms": 138250,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/5U4gWtfgt9uddsz73UeDFj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rifferent 2",
         "url": "https://open.spotify.com/album/3adaiFx0vsDv3GfHacDGsU"
       },
@@ -199,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back In Dat Mode.",
+        "url": "https://open.spotify.com/album/2zVoDzPSa54s8NV1xd84rj"
+      },
+      "artists": [
+        {
+          "name": "Jayfrxm1300",
+          "url": "https://open.spotify.com/artist/2Nd6m6rmQ4ROQTybEz3z1O"
+        }
+      ],
+      "duration_ms": 109736,
+      "name": "Deal Wit It",
+      "url": "https://open.spotify.com/track/6tz1HzUoykWlrqCzBpp6kM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Karmic Pt. I",
         "url": "https://open.spotify.com/album/17T3OYjaaUTZPxd7IAMHDM"
       },
@@ -247,18 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back In Dat Mode.",
-        "url": "https://open.spotify.com/album/2zVoDzPSa54s8NV1xd84rj"
+        "name": "Aliv\u00eb",
+        "url": "https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My"
       },
       "artists": [
         {
-          "name": "Jayfrxm1300",
-          "url": "https://open.spotify.com/artist/2Nd6m6rmQ4ROQTybEz3z1O"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 109736,
-      "name": "Deal Wit It",
-      "url": "https://open.spotify.com/track/6tz1HzUoykWlrqCzBpp6kM"
+      "duration_ms": 153208,
+      "name": "WAR 1",
+      "url": "https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA"
     },
     {
       "added_at": null,
@@ -279,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aliv\u00eb",
-        "url": "https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 153208,
-      "name": "WAR 1",
-      "url": "https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloody Bruddas",
         "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
       },
@@ -307,58 +327,6 @@
       "duration_ms": 128312,
       "name": "AR-15",
       "url": "https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LORD",
-        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 143112,
-      "name": "Which 1 / Klueless",
-      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Double Trouble",
-        "url": "https://open.spotify.com/album/5Mqq72DjK0WOPaa9mTheuJ"
-      },
-      "artists": [
-        {
-          "name": "Bloxkz",
-          "url": "https://open.spotify.com/artist/2EwoGXPSiIj22fOW34RJsw"
-        },
-        {
-          "name": "Kyi Torch",
-          "url": "https://open.spotify.com/artist/0tB0LU32h2aTsXJH0Y8mMS"
-        }
-      ],
-      "duration_ms": 138250,
-      "name": "Double Trouble",
-      "url": "https://open.spotify.com/track/5U4gWtfgt9uddsz73UeDFj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "catastrophe",
-        "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 130422,
-      "name": "catastrophe",
-      "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
     },
     {
       "added_at": null,
@@ -439,6 +407,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "UP!",
+        "url": "https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud"
+      },
+      "artists": [
+        {
+          "name": "Trefuego",
+          "url": "https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP"
+        }
+      ],
+      "duration_ms": 110106,
+      "name": "UP!",
+      "url": "https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LORD",
+        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 143112,
+      "name": "Which 1 / Klueless",
+      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where Ya At Max",
         "url": "https://open.spotify.com/album/4g8ebMA7ezNCWbemBuQqMi"
       },
@@ -455,18 +455,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "UP!",
-        "url": "https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud"
+        "name": "catastrophe",
+        "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
       },
       "artists": [
         {
-          "name": "Trefuego",
-          "url": "https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 110106,
-      "name": "UP!",
-      "url": "https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E"
+      "duration_ms": 130422,
+      "name": "catastrophe",
+      "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Child, Chapter 3",
+        "url": "https://open.spotify.com/album/6vxo1Nywp8r7B0p9avT0SM"
+      },
+      "artists": [
+        {
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+        }
+      ],
+      "duration_ms": 125217,
+      "name": "Still the Same",
+      "url": "https://open.spotify.com/track/5dTmaw1TwugkUZk1SHqStE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outcast Loyalty",
+        "url": "https://open.spotify.com/album/3wBmmo5J0hujCTHn5YMMu9"
+      },
+      "artists": [
+        {
+          "name": "The Outcastkid",
+          "url": "https://open.spotify.com/artist/4BUKPBM2FnGlDqnNKE9FYt"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Outcast Loyalty",
+      "url": "https://open.spotify.com/track/2umGgxNHbu7lpwfv743kNl"
     },
     {
       "added_at": null,
@@ -491,58 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Child, Chapter 3",
-        "url": "https://open.spotify.com/album/6vxo1Nywp8r7B0p9avT0SM"
+        "name": "LO NE LY",
+        "url": "https://open.spotify.com/album/5hkZLRDPs9Npdp70zZH5wS"
       },
       "artists": [
         {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+          "name": "Khalil?",
+          "url": "https://open.spotify.com/artist/0TzMK687XQf4EwLFYvpDLz"
         }
       ],
-      "duration_ms": 125217,
-      "name": "Still the Same",
-      "url": "https://open.spotify.com/track/5dTmaw1TwugkUZk1SHqStE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spanglish",
-        "url": "https://open.spotify.com/album/0rOykZHoTWuBpRhdh3Bb8h"
-      },
-      "artists": [
-        {
-          "name": "novanitys",
-          "url": "https://open.spotify.com/artist/0qsn1uqtRSXT8IsBYysLBP"
-        },
-        {
-          "name": "wonder",
-          "url": "https://open.spotify.com/artist/4egc04cPnCS54Cp5Hz3IuE"
-        },
-        {
-          "name": "Saltyngget",
-          "url": "https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Spanglish",
-      "url": "https://open.spotify.com/track/5uTlnTxi8kQv6EuMvR725n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outcast Loyalty",
-        "url": "https://open.spotify.com/album/3wBmmo5J0hujCTHn5YMMu9"
-      },
-      "artists": [
-        {
-          "name": "The Outcastkid",
-          "url": "https://open.spotify.com/artist/4BUKPBM2FnGlDqnNKE9FYt"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Outcast Loyalty",
-      "url": "https://open.spotify.com/track/2umGgxNHbu7lpwfv743kNl"
+      "duration_ms": 143520,
+      "name": "LO NE LY",
+      "url": "https://open.spotify.com/track/4WLxfQq7p0iyvaoOQLTYyO"
     },
     {
       "added_at": null,
@@ -579,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LO NE LY",
-        "url": "https://open.spotify.com/album/5hkZLRDPs9Npdp70zZH5wS"
-      },
-      "artists": [
-        {
-          "name": "Khalil?",
-          "url": "https://open.spotify.com/artist/0TzMK687XQf4EwLFYvpDLz"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "LO NE LY",
-      "url": "https://open.spotify.com/track/4WLxfQq7p0iyvaoOQLTYyO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All 4 Bop",
         "url": "https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb"
       },
@@ -611,6 +587,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spanglish",
+        "url": "https://open.spotify.com/album/0rOykZHoTWuBpRhdh3Bb8h"
+      },
+      "artists": [
+        {
+          "name": "novanitys",
+          "url": "https://open.spotify.com/artist/0qsn1uqtRSXT8IsBYysLBP"
+        },
+        {
+          "name": "wonder",
+          "url": "https://open.spotify.com/artist/4egc04cPnCS54Cp5Hz3IuE"
+        },
+        {
+          "name": "Saltyngget",
+          "url": "https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy"
+        }
+      ],
+      "duration_ms": 222876,
+      "name": "Spanglish",
+      "url": "https://open.spotify.com/track/5uTlnTxi8kQv6EuMvR725n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purple Moncler",
+        "url": "https://open.spotify.com/album/0l5AcL7AVcyIrQacslnden"
+      },
+      "artists": [
+        {
+          "name": "recrafted",
+          "url": "https://open.spotify.com/artist/7iNudDHXqHSZXbX7HqTtEz"
+        }
+      ],
+      "duration_ms": 212088,
+      "name": "Purple Moncler",
+      "url": "https://open.spotify.com/track/1MJa2HpKbYeearRpypBFEB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Militia",
         "url": "https://open.spotify.com/album/16oIr5VESM6EX3czVoOoM5"
       },
@@ -623,38 +639,6 @@
       "duration_ms": 110221,
       "name": "Militia",
       "url": "https://open.spotify.com/track/0pB7v6fha2WcS1QJlreciH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Graduation Tape",
-        "url": "https://open.spotify.com/album/2mzb44bBSeedDR4y0ewbgG"
-      },
-      "artists": [
-        {
-          "name": "lil2posh",
-          "url": "https://open.spotify.com/artist/3h76PMHrHwdKLziJERRpAr"
-        }
-      ],
-      "duration_ms": 102870,
-      "name": "We Don't Care",
-      "url": "https://open.spotify.com/track/4KKo6OKDUak3by5jgC2crB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Leftovr Drugz",
-        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
-      },
-      "artists": [
-        {
-          "name": "sixsick",
-          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
-        }
-      ],
-      "duration_ms": 165009,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Graduation Tape",
+        "url": "https://open.spotify.com/album/2mzb44bBSeedDR4y0ewbgG"
+      },
+      "artists": [
+        {
+          "name": "lil2posh",
+          "url": "https://open.spotify.com/artist/3h76PMHrHwdKLziJERRpAr"
+        }
+      ],
+      "duration_ms": 102870,
+      "name": "We Don't Care",
+      "url": "https://open.spotify.com/track/4KKo6OKDUak3by5jgC2crB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scarecrow",
         "url": "https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h"
       },
@@ -707,34 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire in my heart",
-        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
       },
       "artists": [
         {
-          "name": "1400 Vault",
-          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
+          "name": "Cl4pers",
+          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
         }
       ],
-      "duration_ms": 229738,
-      "name": "Fire in my heart",
-      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Lose",
-        "url": "https://open.spotify.com/album/6UePZA2W3KscieTmTiJyax"
-      },
-      "artists": [
-        {
-          "name": "Backayarl",
-          "url": "https://open.spotify.com/artist/77MreVLzNRDkMwkF8MBB21"
-        }
-      ],
-      "duration_ms": 122070,
-      "name": "Opp's Hood",
-      "url": "https://open.spotify.com/track/2oe0X2oRea7TG5B77sDGO4"
+      "duration_ms": 163062,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
     },
     {
       "added_at": null,
@@ -755,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "POMPEII // UTILITY",
-        "url": "https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Niontay",
-          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
-        },
-        {
-          "name": "SURF GANG",
-          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "F.E.A.R. - feat. Niontay",
-      "url": "https://open.spotify.com/track/2gNXxgXqZTZuSLBiSV6HKS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intervals",
         "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
       },
@@ -791,6 +751,22 @@
       "duration_ms": 143775,
       "name": "Intervals",
       "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leftovr Drugz",
+        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
+      },
+      "artists": [
+        {
+          "name": "sixsick",
+          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
+        }
+      ],
+      "duration_ms": 165009,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
     },
     {
       "added_at": null,
@@ -811,50 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purple Moncler",
-        "url": "https://open.spotify.com/album/0l5AcL7AVcyIrQacslnden"
+        "name": "Fire in my heart",
+        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
       },
       "artists": [
         {
-          "name": "recrafted",
-          "url": "https://open.spotify.com/artist/7iNudDHXqHSZXbX7HqTtEz"
+          "name": "1400 Vault",
+          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
         }
       ],
-      "duration_ms": 212088,
-      "name": "Purple Moncler",
-      "url": "https://open.spotify.com/track/1MJa2HpKbYeearRpypBFEB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Narrow Road",
-        "url": "https://open.spotify.com/album/5G9CXkdUu2e4rys1cnasJn"
-      },
-      "artists": [
-        {
-          "name": "Favo",
-          "url": "https://open.spotify.com/artist/63zCqqFI6ZhxO5MHP00cAe"
-        }
-      ],
-      "duration_ms": 93226,
-      "name": "MITM",
-      "url": "https://open.spotify.com/track/4VtRuRYZHwErYuviKRE2Zb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bank Is Open",
-        "url": "https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim"
-      },
-      "artists": [
-        {
-          "name": "Nb Bankz",
-          "url": "https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb"
-        }
-      ],
-      "duration_ms": 138017,
-      "name": "P!NK GUN",
-      "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
+      "duration_ms": 229738,
+      "name": "Fire in my heart",
+      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
     },
     {
       "added_at": null,
@@ -871,6 +815,58 @@
       "duration_ms": 160000,
       "name": "No Blickout",
       "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teen X",
+        "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 106533,
+      "name": "Yale",
+      "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": ">Music",
+        "url": "https://open.spotify.com/album/1qSTmkNLnqc42ysyt43cba"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 156815,
+      "name": "Straight Forward",
+      "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuck Good Business (Remix)",
+        "url": "https://open.spotify.com/album/4mOtiqM6oNfuCQh3vjsVhP"
+      },
+      "artists": [
+        {
+          "name": "jamesstfu",
+          "url": "https://open.spotify.com/artist/0059K1YKhjK2bwNDjvJwEU"
+        },
+        {
+          "name": "Glokk40Spazz",
+          "url": "https://open.spotify.com/artist/5huQelNCoOS0IkUdYUDmgH"
+        }
+      ],
+      "duration_ms": 195433,
+      "name": "Fuck Good Business - Remix",
+      "url": "https://open.spotify.com/track/43McxIOhxbphUzPBUFS2Mk"
     }
   ],
   "unique_name": "Taewitdak Radio",

@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,009 songs - 2 day 0 hr 37 min
+1,010 songs - 2 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Bae Bae](https://open.spotify.com/track/5s33nLb8BCeeKep2rfG7To) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:34 | 2024-04-19 | 2024-11-22 |
 | [Balance It](https://open.spotify.com/track/5Wx88Xpkw3jipuWmfpa1JA) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/19H3D6ShaQ0aYDu3UAsijY) | 3:07 | 2022-07-28 | 2022-10-17 |
 | [Balance It](https://open.spotify.com/track/5lSAVaWdDWebYm6np4QAIk) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/76gTwaKCqPjsjwmJMuxjA1) | 3:07 | 2022-07-28 | 2022-08-21 |
-| [Be A Lover](https://open.spotify.com/track/4ulgOCX4KPIPaEOpOS6QFd) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Be A Lover](https://open.spotify.com/album/4V0X4r6sBK4R5RIQdJnSB0) | 2:45 | 2026-05-22 |  |
+| [Be A Lover](https://open.spotify.com/track/4ulgOCX4KPIPaEOpOS6QFd) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Be A Lover](https://open.spotify.com/album/4V0X4r6sBK4R5RIQdJnSB0) | 2:45 | 2026-05-22 | 2026-06-21 |
 | [Beautiful](https://open.spotify.com/track/4ccPHOzBCiCoBxilT5b00V) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Beautiful](https://open.spotify.com/album/3CkYnVyY3U8ALa3aBUtNST) | 3:07 | 2023-03-03 | 2023-03-18 |
 | [Beautiful](https://open.spotify.com/track/3Jbbpijvtlt7q8BQxdo7Aa) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Beautiful](https://open.spotify.com/album/3awn4URVbx6A9yzwevCbSo) | 3:08 | 2023-06-22 | 2023-08-04 |
 | [Beautiful \(Remix\)](https://open.spotify.com/track/3qUMr8mq6eZ2z98gVmWAZQ) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Beautiful](https://open.spotify.com/album/5xqPZ5JUNnRaaNj1fhAFDv) | 3:37 | 2025-06-20 | 2025-08-13 |
@@ -571,6 +571,7 @@
 | [Mad Oh](https://open.spotify.com/track/29cqKwAx1roM3IrgfNMYL6) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [SABALI](https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs) | 3:30 | 2025-10-10 | 2026-01-15 |
 | [Mad Over You](https://open.spotify.com/track/1jloWdvMh9nwHUu3mag8CL) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Mad Over You](https://open.spotify.com/album/1BeDVLt8DTIIN3jSLK5V78) | 3:36 | 2024-02-13 | 2024-02-16 |
 | [Mademoiselle \(feat\. ODUMODUBLVCK, Shallipopi, Theodora, Zeina\)](https://open.spotify.com/track/1iYBlO1RGEFeDnG3AH4gUE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:51 | 2025-10-08 | 2026-04-30 |
+| [MAGAA](https://open.spotify.com/track/1uXIywdXW2eaFnD3zJbfpl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [MAGAA](https://open.spotify.com/album/10BL9nd3OGaX5s47NWNIPA) | 3:01 | 2026-06-19 |  |
 | [Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Before We Became Strangers](https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte) | 3:30 | 2025-07-04 | 2025-08-26 |
 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:31 | 2024-12-06 | 2025-04-01 |
 | [Make Me Believe \(Nana\)](https://open.spotify.com/track/6tCXMkEeYrlU2fKf1YhNZO) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Make Me Believe \(Nana\)](https://open.spotify.com/album/03MqZoZQMFlQ6XiM2HalZ0) | 3:11 | 2023-06-30 | 2023-08-04 |

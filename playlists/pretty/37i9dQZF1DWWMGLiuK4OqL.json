@@ -1,6 +1,6 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 290424,
+  "num_followers": 290513,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Mystery Lady: Songs of Billie Holiday",
-        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "You Better Go Now",
         "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 170070,
       "name": "You Better Go Now",
       "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Mystery Lady: Songs of Billie Holiday",
+        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "My Romance",
-        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
-      },
-      "artists": [
-        {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
-        }
-      ],
-      "duration_ms": 170767,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Chansons",
         "url": "https://open.spotify.com/album/7d6I7tR73f3smXLcKQNgF9"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 226573,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/6oqlcJf6qJFiMgytmW4RfA"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "duration_ms": 170767,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "It Had To Be You",
-        "url": "https://open.spotify.com/album/4OCNUHcGGDd3ebWfFnQqMM"
-      },
-      "artists": [
-        {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
-        },
-        {
-          "name": "Colm \u00d3 Riain",
-          "url": "https://open.spotify.com/artist/5tcTYOhvC9z97PfsUC25mr"
-        }
-      ],
-      "duration_ms": 158875,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/6wHE239XacQWh9qJtGGaGJ"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/1h6FCpMolvagTQpoj9hlO9"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 192531,
       "name": "My True Love Is You",
       "url": "https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "It Had To Be You",
+        "url": "https://open.spotify.com/album/4OCNUHcGGDd3ebWfFnQqMM"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        },
+        {
+          "name": "Colm \u00d3 Riain",
+          "url": "https://open.spotify.com/artist/5tcTYOhvC9z97PfsUC25mr"
+        }
+      ],
+      "duration_ms": 158875,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/6wHE239XacQWh9qJtGGaGJ"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1523,6 +1523,38 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Ultimate Peggy Lee",
+        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "The Folks Who Live On The Hill",
+      "url": "https://open.spotify.com/track/2aP2eG8PpJ7jjcGxT7kDr8"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 288013,
+      "name": "Send In The Clowns",
+      "url": "https://open.spotify.com/track/30kplsNuLjewPoqzruJi5m"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "Impressions of Evans",
         "url": "https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6"
       },
@@ -1547,38 +1579,6 @@
       "duration_ms": 268066,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 288013,
-      "name": "Send In The Clowns",
-      "url": "https://open.spotify.com/track/30kplsNuLjewPoqzruJi5m"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Ultimate Peggy Lee",
-        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "The Folks Who Live On The Hill",
-      "url": "https://open.spotify.com/track/2aP2eG8PpJ7jjcGxT7kDr8"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Flirting With Twilight",
-        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Blame It On My Youth",
-      "url": "https://open.spotify.com/track/1eWkhs5WbRc8q4s2xtKuRL"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
       },
@@ -1883,6 +1867,22 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Flirting With Twilight",
+        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/1eWkhs5WbRc8q4s2xtKuRL"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "A Certain Someone",
         "url": "https://open.spotify.com/album/5UPRQVPIXbuOwOuEcnjif1"
       },
@@ -1895,22 +1895,6 @@
       "duration_ms": 252013,
       "name": "A Certain Someone",
       "url": "https://open.spotify.com/track/25yMnwMO9d5urUdVtPyWee"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Bird of Beauty",
-        "url": "https://open.spotify.com/album/2VKy0JyPz1r9LTmaHIoBej"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 295739,
-      "name": "Bird of Beauty",
-      "url": "https://open.spotify.com/track/1nJ1e4KA6flzNjWnkH8O5i"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1931,6 +1915,22 @@
       "duration_ms": 136813,
       "name": "Doop-Doo-De-Doop a Doodlin' Song",
       "url": "https://open.spotify.com/track/3EjfZfDx8fxsUZrhomIkNA"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Bird of Beauty",
+        "url": "https://open.spotify.com/album/2VKy0JyPz1r9LTmaHIoBej"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 295739,
+      "name": "Bird of Beauty",
+      "url": "https://open.spotify.com/track/1nJ1e4KA6flzNjWnkH8O5i"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Lazy Afternoon",
-        "url": "https://open.spotify.com/album/2yH09Pu2HzYcIq4hrC9vwL"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Freda Payne",
-          "url": "https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ"
-        }
-      ],
-      "duration_ms": 303266,
-      "name": "Lazy Afternoon",
-      "url": "https://open.spotify.com/track/2eLtQAYHNzglYKH2nGaBrn"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Let's Face the Music",
         "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 227867,
       "name": "Why Should I Care?",
       "url": "https://open.spotify.com/track/0rGRDmusUJI3byaiZWcurV"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Lazy Afternoon",
+        "url": "https://open.spotify.com/album/2yH09Pu2HzYcIq4hrC9vwL"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Freda Payne",
+          "url": "https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ"
+        }
+      ],
+      "duration_ms": 303266,
+      "name": "Lazy Afternoon",
+      "url": "https://open.spotify.com/track/2eLtQAYHNzglYKH2nGaBrn"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Sentimental Journey",
-        "url": "https://open.spotify.com/album/5Df4tcguBo4qkUYY8vA7IV"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 283693,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/0kDcnUVGfVX1JvRPkslQc3"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "At First Light",
         "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 250026,
       "name": "So Sorry For Your Love",
       "url": "https://open.spotify.com/track/5ijeJDlOJp63UtVYyAnyOD"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Sentimental Journey",
+        "url": "https://open.spotify.com/album/5Df4tcguBo4qkUYY8vA7IV"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/0kDcnUVGfVX1JvRPkslQc3"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Wish You Were Gay",
+        "url": "https://open.spotify.com/album/3roCz7s3bGhgE56EbaSnEb"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 188039,
+      "name": "Wish You Were Gay",
+      "url": "https://open.spotify.com/track/6tD34RjtffptSTGpIOp9EB"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "My Sweetie & I",
         "url": "https://open.spotify.com/album/2ey5s2msgrSIuW8BamCOHo"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 312817,
       "name": "Our Last Goodbye",
       "url": "https://open.spotify.com/track/67At7oengoEs0vS6v0lufo"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Wish You Were Gay",
-        "url": "https://open.spotify.com/album/3roCz7s3bGhgE56EbaSnEb"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 188039,
-      "name": "Wish You Were Gay",
-      "url": "https://open.spotify.com/track/6tD34RjtffptSTGpIOp9EB"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2683,38 +2683,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Little Bird \u2013 Live in Gothenburg",
-        "url": "https://open.spotify.com/album/3oahq8Twid1afhI48zNTva"
-      },
-      "artists": [
-        {
-          "name": "Alexander L\u00f6vmark",
-          "url": "https://open.spotify.com/artist/3Yogt8f0GlUYfTH5VBiUtC"
-        },
-        {
-          "name": "Carl Bagge",
-          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
-        },
-        {
-          "name": "Axel M\u00e5rdsj\u00f6",
-          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
-        },
-        {
-          "name": "Adam Ross",
-          "url": "https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM"
-        },
-        {
-          "name": "Arvid Jullander",
-          "url": "https://open.spotify.com/artist/1UopYoJ8AuJs0b1MpFQUfs"
-        }
-      ],
-      "duration_ms": 332800,
-      "name": "There's a Small Hotel - Live in Gothenburg",
-      "url": "https://open.spotify.com/track/1TFJF3DsaqprjHeIZUja5h"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Cantare Pieranunzi",
         "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
       },
@@ -2743,6 +2711,38 @@
       "duration_ms": 251109,
       "name": "You Know",
       "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Little Bird \u2013 Live in Gothenburg",
+        "url": "https://open.spotify.com/album/3oahq8Twid1afhI48zNTva"
+      },
+      "artists": [
+        {
+          "name": "Alexander L\u00f6vmark",
+          "url": "https://open.spotify.com/artist/3Yogt8f0GlUYfTH5VBiUtC"
+        },
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        },
+        {
+          "name": "Axel M\u00e5rdsj\u00f6",
+          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
+        },
+        {
+          "name": "Adam Ross",
+          "url": "https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM"
+        },
+        {
+          "name": "Arvid Jullander",
+          "url": "https://open.spotify.com/artist/1UopYoJ8AuJs0b1MpFQUfs"
+        }
+      ],
+      "duration_ms": 332800,
+      "name": "There's a Small Hotel - Live in Gothenburg",
+      "url": "https://open.spotify.com/track/1TFJF3DsaqprjHeIZUja5h"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Lady Sings the Blues",
-        "url": "https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Ferguson",
-          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/3CouChEohjqeO4TTR9V9Vh"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "All Or Nothing At All",
         "url": "https://open.spotify.com/album/0Y9LX6aX9SxXZnvd1K0HAz"
       },
@@ -2975,6 +2959,22 @@
       "duration_ms": 224016,
       "name": "All Or Nothing At All",
       "url": "https://open.spotify.com/track/0j6BoHPikfrtJFYZdVnIT8"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Lady Sings the Blues",
+        "url": "https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Ferguson",
+          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/3CouChEohjqeO4TTR9V9Vh"
     },
     {
       "added_at": "2026-02-09 08:12:01",

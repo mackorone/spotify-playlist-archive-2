@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Riordan & AlunaGeorge
 
-1,168 songs - 3 day 8 hr 57 min
+1,169 songs - 3 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,7 +608,7 @@
 | [Los Angeles Freestyle](https://open.spotify.com/track/1AVZ3Q3OwCYWoKtbeW0lGu) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Cole Terrazas](https://open.spotify.com/artist/5kSrrZnNYneJtk28xLuj7n) | [Los Angeles Freestyle](https://open.spotify.com/album/1omwyaDqy80qfjUFs2Fy6w) | 3:54 | 2025-11-21 | 2026-01-15 |
 | [lose my mind](https://open.spotify.com/track/37fil52Y3apEozIQbH0zhG) | [Jake Antonio](https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC) | [lose my mind](https://open.spotify.com/album/1ia16SZQvUZEg5HjnFETKn) | 3:12 | 2025-02-21 | 2025-04-12 |
 | [Losing Sleep](https://open.spotify.com/track/45yjPHECGDAkbo5lp2oItr) | [Di Chiara Brothers](https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H) | [Mystic Night EP](https://open.spotify.com/album/40YAAXoujQSwhXlvcjxYSD) | 3:18 | 2024-12-23 | 2025-02-01 |
-| [Lost in paradise x XTC](https://open.spotify.com/track/3Rbk1lBVkhpsnkr3XhqYCo) | [Cloonee](https://open.spotify.com/artist/0odt5AXuYYnvk97DttaqcD), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Samuel Collins](https://open.spotify.com/artist/1goHhP8bFYFDlHn1JX9BD5), [Jocelyn Enriquez](https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB) | [Lost in paradise x XTC](https://open.spotify.com/album/77ZKLr9rH8DAyJjyI6gqDi) | 4:27 | 2026-06-19 |  |
+| [Lost in paradise x XTC](https://open.spotify.com/track/3Rbk1lBVkhpsnkr3XhqYCo) | [Cloonee](https://open.spotify.com/artist/0odt5AXuYYnvk97DttaqcD), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Samuel Collins](https://open.spotify.com/artist/1goHhP8bFYFDlHn1JX9BD5), [Jocelyn Enriquez](https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB) | [Lost in paradise x XTC](https://open.spotify.com/album/77ZKLr9rH8DAyJjyI6gqDi) | 4:27 | 2026-06-19 | 2026-06-21 |
 | [Louder](https://open.spotify.com/track/6Gk16Y5baO26U4hmIfQ5F2) | [Vitess](https://open.spotify.com/artist/5DIVjY3STr8n4tEoN0dmui) | [Louder EP](https://open.spotify.com/album/6aFjBLSGnG2dvUPmIZwb4B) | 3:13 | 2026-01-09 | 2026-04-25 |
 | [Love Me](https://open.spotify.com/track/2K4ZCttA5SRyfDqmEzINfv) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Love Me / Here We Go](https://open.spotify.com/album/07EHEKqpc5xHak2NhneCGk) | 3:41 | 2026-05-01 |  |
 | [Love No Limit \- ReFreak](https://open.spotify.com/track/23L2ACZRwd2ayCUH2DJra1) | [Brandon Lucas](https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Love No Limit \- ReFreak](https://open.spotify.com/album/7yOIRhmL6SFqPycQsNFBxw) | 4:42 | 2022-06-03 | 2022-07-29 |
@@ -846,6 +846,7 @@
 | [Rizzla \- Mochakk Remix](https://open.spotify.com/track/3pE6Hl7fH4sbjmF9p8gzb5) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Rizzla \(Mochakk Remix\)](https://open.spotify.com/album/2blv3hfKbwCQubKJmCoNpw) | 5:21 | 2022-08-19 | 2024-08-24 |
 | [Rock & Rule](https://open.spotify.com/track/4hR9xYCDyufm6JBCzcrmnq) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Rock & Rule EP](https://open.spotify.com/album/5OfSzguxamws9IOutvWWWy) | 3:27 | 2025-10-17 | 2026-02-07 |
 | [Rock The House](https://open.spotify.com/track/6OyHx4GJwzOGaktpjOuDJ5) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac), [The Trip](https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW) | [Rock The House](https://open.spotify.com/album/1yefvdwmrtBQMyhN9lOfWm) | 3:54 | 2025-06-13 | 2025-11-22 |
+| [Rock The House](https://open.spotify.com/track/1GcTbiohctL5vneV8PQYt6) | [Lu.Re](https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN) | [Rock The House / All Night](https://open.spotify.com/album/7C5cVV387YCGLhbE8Wn5Xt) | 2:54 | 2026-06-20 |  |
 | [Rock The Place](https://open.spotify.com/track/2zmBCyxxYBmq9XRnXuobJV) | [Collier](https://open.spotify.com/artist/44KWTN5dWQd0oAzu1p5xCj) | [Ready?](https://open.spotify.com/album/2DF8uNJXjro2f88roGFqJ3) | 3:31 | 2025-12-29 | 2026-02-07 |
 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 | 2023-11-17 | 2025-01-25 |
 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 | 2025-04-18 |  |

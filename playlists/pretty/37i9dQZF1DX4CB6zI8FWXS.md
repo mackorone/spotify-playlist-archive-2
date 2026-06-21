@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,103 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,102 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 99 | [Love Me Twice](https://open.spotify.com/track/6RBWAgKA9mukk3nOs0doEk) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Love Me Twice](https://open.spotify.com/album/63R5hFgQ7DPeLdJijGmmoP) | 2:23 |
 | 100 | [full moon\. \(fall in tokyo\) \[bonus track\]](https://open.spotify.com/track/6fACn9e0wdMIWZa9CZJym8) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon \(Director's Cut\)](https://open.spotify.com/album/1xlNNw1T0pxoTpm1ZGWRG7) | 3:12 |
 
-Snapshot ID: `AAAAAEofYLgAeH1rfuPbeDGL0UG1tRrO`
+Snapshot ID: `AAAAAOCKKVvNQghXNyD9ChmvuIJnBNox`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las mujeres de la M\u00fasica Mexicana! Rosalia Le\u00f3n en portada \ud83c\udf39",
-  "num_followers": 189192,
+  "num_followers": 189211,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Tengo Ganas De Olvidarte",
-        "url": "https://open.spotify.com/album/2VTuVSJ6mock6liZb5NuD0"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        },
-        {
-          "name": "Cynthia Yolanda",
-          "url": "https://open.spotify.com/artist/1Llt3kcKErOoHO9Ez8SjWU"
-        }
-      ],
-      "duration_ms": 218061,
-      "name": "Tengo Ganas De Olvidarte",
-      "url": "https://open.spotify.com/track/7EJzVmKWei8WNDRkqmPWrE"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
         "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
         "url": "https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 196874,
       "name": "Qu\u00edtame Ese Hombre",
       "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
+        "name": "Tengo Ganas De Olvidarte",
+        "url": "https://open.spotify.com/album/2VTuVSJ6mock6liZb5NuD0"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        },
+        {
+          "name": "Cynthia Yolanda",
+          "url": "https://open.spotify.com/artist/1Llt3kcKErOoHO9Ez8SjWU"
+        }
+      ],
+      "duration_ms": 218061,
+      "name": "Tengo Ganas De Olvidarte",
+      "url": "https://open.spotify.com/track/7EJzVmKWei8WNDRkqmPWrE"
     },
     {
       "added_at": "2026-02-13 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,679 likes - 285 songs - 15 hr 11 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,682 likes - 292 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -293,5 +293,12 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 283 | [George III](https://open.spotify.com/track/5JOqeG8Qzp4WFEdeQpL1Pp) | [James Witham](https://open.spotify.com/artist/605ybKUppkju7z2MwMO5TW) | [George III](https://open.spotify.com/album/1arpkoi2EBEkU8vBKxa5G6) | 3:59 |
 | 284 | [One more Time](https://open.spotify.com/track/35NDUgeYanREA5dOCuKONo) | [LuumixX](https://open.spotify.com/artist/0YM7PRuqPpBZUzqnD5Wh6n) | [One more Time](https://open.spotify.com/album/1LXBpOjSXWUYnvGLfzuxdT) | 3:31 |
 | 285 | [Funeral \(For The Girl I Was\)](https://open.spotify.com/track/1tH8eiuY1koYpsKmcSmLC6) | [Fanny Alexandra](https://open.spotify.com/artist/0OBgzNzxjVAGrqGjHnXwGa) | [Funeral \(For The Girl I Was\)](https://open.spotify.com/album/3F11O1VLOqRG97Y9Yvakoc) | 4:47 |
+| 286 | [Tears of a River](https://open.spotify.com/track/1ZRl0ewspvp9KwRdL6EcQ9) | [Bunch of Ace](https://open.spotify.com/artist/1XXuxYYrw5pOBnEPkGNADi) | [Tears of a River](https://open.spotify.com/album/5eSxuBTzUEPrtlAHxSl2GM) | 2:32 |
+| 287 | [Save You Twice](https://open.spotify.com/track/3U5o2XlOWcww6MSaJvlfBi) | [Y\-IT](https://open.spotify.com/artist/403Mp7dj8xYW2xgtzgSF6c) | [Save You Twice](https://open.spotify.com/album/2fNPp3eiZKwkyiGHJBpZsd) | 2:22 |
+| 288 | [SOMEONE ELSE](https://open.spotify.com/track/5ZH8dz95XNW3wrMqxDeqxZ) | [Y\-IT](https://open.spotify.com/artist/403Mp7dj8xYW2xgtzgSF6c) | [SOMEONE ELSE](https://open.spotify.com/album/6V2MGYk4ro7AJ6kmaKAPZj) | 2:29 |
+| 289 | [Purple Car](https://open.spotify.com/track/29KbxS22yUM1Xk0daKA1b7) | [Cedric Saga](https://open.spotify.com/artist/0z2QGV6jeXk53Kxy2ofBNw) | [Purple Car](https://open.spotify.com/album/3ebI8wU0V6T967w8XaBVdi) | 3:07 |
+| 290 | [The way I am meant to live](https://open.spotify.com/track/5w8zpKUd6C5uyruvXgBhxJ) | [The MuseonVerse](https://open.spotify.com/artist/0zehomFnB0bI3vH8XFl0H7) | [The way I am meant to live](https://open.spotify.com/album/1TQKva6ZfKgtayctTx7tWk) | 3:09 |
+| 291 | [HEARTBEAT](https://open.spotify.com/track/58zkSk7ZQYAD9mRk9iUfO7) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [HEARTBEAT](https://open.spotify.com/album/4a2aIbSXEakYmtIP7dWEDI) | 1:59 |
+| 292 | [Sandy Feet](https://open.spotify.com/track/7bma8yjiFQ8xLd5dSYueIR) | [Olivia Farabaugh](https://open.spotify.com/artist/1tmqcd1USna0bubmfMsNoP) | [Sandy Feet](https://open.spotify.com/album/1s2v9i6kqewNywDwc547e8) | 3:21 |
 
-Snapshot ID: `AAA5oZcycbdBQ+s3oUeQPtZXlIIrJPOa`
+Snapshot ID: `AAA5qCiDbiKEipxOqpZkpMpATMZQdrLF`

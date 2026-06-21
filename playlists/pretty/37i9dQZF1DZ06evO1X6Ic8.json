@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 833121,
+  "num_followers": 833139,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAADtIwL3P+aEEsD2ziHi72Ej",
+  "snapshot_id": "ajSGgAAAAAAqvmXcyIPnjg8ABNL4UMij",
   "tracks": [
     {
       "added_at": null,
@@ -203,18 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 1975",
-        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
+        "name": "RIP Indo Hisashi",
+        "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
       },
       "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        },
         {
           "name": "The 1975",
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 207001,
-      "name": "Sex",
-      "url": "https://open.spotify.com/track/67ispalOAo3jnZWYSTTfZk"
+      "duration_ms": 195501,
+      "name": "Narcissist (feat. The 1975)",
+      "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
     },
     {
       "added_at": null,
@@ -235,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RIP Indo Hisashi",
-        "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
       },
       "artists": [
-        {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        },
         {
           "name": "The 1975",
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 195501,
-      "name": "Narcissist (feat. The 1975)",
-      "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
+      "duration_ms": 207001,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/67ispalOAo3jnZWYSTTfZk"
     },
     {
       "added_at": null,

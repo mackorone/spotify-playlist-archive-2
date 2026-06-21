@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Vicente Cifuentes y Joselo Osses en portada.",
-  "num_followers": 489498,
+  "num_followers": 489535,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 245481,
+      "name": "C\u00edrculo De Amor",
+      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
+    },
+    {
+      "added_at": "2026-05-01 06:00:35",
+      "album": {
         "name": "Chanchos Amigos",
         "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 262066,
       "name": "Quereme As\u00ed",
       "url": "https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw"
-    },
-    {
-      "added_at": "2026-05-01 06:00:35",
-      "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 245481,
-      "name": "C\u00edrculo De Amor",
-      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
     },
     {
       "added_at": "2026-05-01 06:00:35",
@@ -1475,18 +1475,22 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
-        "name": "Siempre nos tienes aqu\u00ed",
-        "url": "https://open.spotify.com/album/77nsHh74zcicF9tdrXt7hN"
+        "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
+        "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
       },
       "artists": [
         {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+          "name": "Raztlan",
+          "url": "https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE"
+        },
+        {
+          "name": "Melodycans",
+          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
         }
       ],
-      "duration_ms": 212144,
-      "name": "Siempre nos tienes aqu\u00ed",
-      "url": "https://open.spotify.com/track/68UOJnTi1oKjzAVWDIPg6f"
+      "duration_ms": 213602,
+      "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
+      "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
     },
     {
       "added_at": "2026-05-01 06:00:35",
@@ -1507,22 +1511,18 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
-        "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
-        "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
+        "name": "Siempre nos tienes aqu\u00ed",
+        "url": "https://open.spotify.com/album/77nsHh74zcicF9tdrXt7hN"
       },
       "artists": [
         {
-          "name": "Raztlan",
-          "url": "https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE"
-        },
-        {
-          "name": "Melodycans",
-          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
         }
       ],
-      "duration_ms": 213602,
-      "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
-      "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
+      "duration_ms": 212144,
+      "name": "Siempre nos tienes aqu\u00ed",
+      "url": "https://open.spotify.com/track/68UOJnTi1oKjzAVWDIPg6f"
     },
     {
       "added_at": "2026-05-01 06:00:35",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
-        "name": "\u00a1Hey T\u00fa!",
-        "url": "https://open.spotify.com/album/63wvcrQ5Kq5SeDEyOZ8imM"
-      },
-      "artists": [
-        {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 192262,
-      "name": "\u00a1Hey T\u00fa!",
-      "url": "https://open.spotify.com/track/06JUg2MqByeWM31ac7dLba"
-    },
-    {
-      "added_at": "2026-05-01 06:00:35",
-      "album": {
         "name": "En Vivo Desde el Teatro Metrop\u00f3litan",
         "url": "https://open.spotify.com/album/1zU1ZCHv0ZlTJNOmyCqzVc"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 241306,
       "name": "Fuera de Control - En Vivo",
       "url": "https://open.spotify.com/track/1XRXgTDztVIYcgGY6iwEzd"
+    },
+    {
+      "added_at": "2026-05-01 06:00:35",
+      "album": {
+        "name": "\u00a1Hey T\u00fa!",
+        "url": "https://open.spotify.com/album/63wvcrQ5Kq5SeDEyOZ8imM"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 192262,
+      "name": "\u00a1Hey T\u00fa!",
+      "url": "https://open.spotify.com/track/06JUg2MqByeWM31ac7dLba"
     },
     {
       "added_at": "2026-05-01 06:00:35",

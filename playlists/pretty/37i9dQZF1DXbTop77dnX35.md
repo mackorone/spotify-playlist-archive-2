@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Khaid, Tyla, Falz, Yemi Alade, Chris Brown and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,508 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,586 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 46 | [the yabz .](https://open.spotify.com/track/7CX8ZUiOx53CbMtEH52E5S) | [R33NZO](https://open.spotify.com/artist/2w34rjWGumCU3vOiCVd3J6), [Zen Univrse](https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [the yabz .](https://open.spotify.com/album/4Xexx4IL82AAPyMpIQLc6J) | 1:42 |
 | 47 | [Wahala](https://open.spotify.com/track/1fLwHmBlt0Tlg5c2gMtzBv) | [Kxyyz](https://open.spotify.com/artist/5IZlQUbmHJcbuBFRDHB3nB), [Patomant](https://open.spotify.com/artist/3Ceutye6nW8egv4yMn0jc5) | [Wahala](https://open.spotify.com/album/40WJbvKBBOX3U3zvfC0omJ) | 2:37 |
 | 48 | [Color](https://open.spotify.com/track/1bEpSnr5xX4QoyyXaOKq9b) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [Color / Wulo](https://open.spotify.com/album/3MPAuxza590Bd2JbPfxA56) | 2:02 |
-| 49 | [Que Sera Sera](https://open.spotify.com/track/0Zvvcg4ECVQlMW7bKuXw1v) | [boyBlandi](https://open.spotify.com/artist/6glaqL5S7Uw6gZ8Xn1dbaF), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Que Sera Sera/Mercy](https://open.spotify.com/album/0b6wpP1XLYxvB3GlwsE2a6) | 2:30 |
+| 49 | [Que Sera Sera](https://open.spotify.com/track/0Zvvcg4ECVQlMW7bKuXw1v) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp), [boyBlandi](https://open.spotify.com/artist/6glaqL5S7Uw6gZ8Xn1dbaF) | [Que Sera Sera/Mercy](https://open.spotify.com/album/0b6wpP1XLYxvB3GlwsE2a6) | 2:30 |
 | 50 | [Me + U \(Destiny\)](https://open.spotify.com/track/66jPFgVH0P7J8ZZRStOqu3) | [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Me + U \(Destiny\)](https://open.spotify.com/album/5RScNOObQXjy1hYSUWflfI) | 2:46 |
 | 51 | [Water](https://open.spotify.com/track/5gBssq6zruvHUSbO3BS6qQ) | [BOLA BMH](https://open.spotify.com/artist/497qEgixkGM0jhzjBqMerI), [Nello MXL](https://open.spotify.com/artist/3tTgOZaxLpzUirK4aKQalD) | [CURRENTS](https://open.spotify.com/album/3jCil0XHwejp2zJRQuHGlW) | 2:06 |
 | 52 | [Ball](https://open.spotify.com/track/3lKrtEaZ9ygyIBpNEzg2lB) | [Will B \(UK\)](https://open.spotify.com/artist/59nSOoGDeR6LmQjmvremjj), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Ball](https://open.spotify.com/album/5uzDexftqi4zPriTRpwBCP) | 5:29 |

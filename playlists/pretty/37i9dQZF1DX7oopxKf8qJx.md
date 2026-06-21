@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,677 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,710 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 44 | [My Funny Valentine](https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music For Lovers Only](https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs) | 3:22 |
 | 45 | [Forget Domani](https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [The Shadow of Your Smile & Other Great Themes](https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V) | 2:57 |
 | 46 | [Carnival](https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Latin Hits I Missed](https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6) | 2:13 |
-| 47 | [How Insensitive](https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Plays Latin Themes For Young Lovers](https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa) | 2:38 |
-| 48 | [The Warmth Of The Sun](https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH) | [Murry Wilson](https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82) | [The Many Moods Of Murry Wilson](https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq) | 2:48 |
+| 47 | [The Warmth Of The Sun](https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH) | [Murry Wilson](https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82) | [The Many Moods Of Murry Wilson](https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq) | 2:48 |
+| 48 | [How Insensitive](https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Plays Latin Themes For Young Lovers](https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa) | 2:38 |
 | 49 | [Jean](https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The America Album](https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW) | 4:24 |
 | 50 | [The Joy Of Living](https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [The Joy Of Living](https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU) | 2:49 |
 | 51 | [Bouquet](https://open.spotify.com/track/4l1bdE4tCuuSvQRJ4d2jxJ) | [The Percy Faith Strings](https://open.spotify.com/artist/0s6v2jpUZLV3Qs0xbm1n6f) | [Bouquet](https://open.spotify.com/album/5spJDNuS07TiEXZhYcuneJ) | 3:17 |
-| 52 | [You're My Everything](https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Music For Her \(Expanded Edition\)](https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH) | 3:45 |
-| 53 | [My Last Affair](https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Big Band Bash!](https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK) | 2:43 |
+| 52 | [My Last Affair](https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Big Band Bash!](https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK) | 2:43 |
+| 53 | [You're My Everything](https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Music For Her \(Expanded Edition\)](https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH) | 3:45 |
 | 54 | [Marylin](https://open.spotify.com/track/4mMky7LwvVButfAckz3upW) | [Frank Chacksfield](https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF) | [West of Sunset](https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7) | 2:27 |
 | 55 | [You And The Night And The Music](https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Hey...Let Yourself Go!](https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3) | 3:37 |
 | 56 | [Buttons and Bows](https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU) | [Arthur Fiedler](https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Pops Goes West](https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1) | 2:07 |

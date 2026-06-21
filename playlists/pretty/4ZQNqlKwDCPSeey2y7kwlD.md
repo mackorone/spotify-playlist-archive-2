@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZQNqlKwDCPSeey2y7kwlD.md) - [plain]
 
 > Start your morning with a mix of new and classic hits to keep you singing all day long! New songs from Olivia Rodrigo, Ariana Grande, and Sofia Camara.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,144 likes - 100 songs - 5 hr 46 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,140 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

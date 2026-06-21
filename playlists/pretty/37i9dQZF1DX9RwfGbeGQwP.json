@@ -1,6 +1,6 @@
 {
   "description": "chill beats for cool coffeehouse vibes.",
-  "num_followers": 549798,
+  "num_followers": 549838,
   "original_name": "lofi cafe",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Loose Kicks",
-        "url": "https://open.spotify.com/album/0d0398yXgXdrZSenztLHMX"
-      },
-      "artists": [
-        {
-          "name": "Woodly Fields",
-          "url": "https://open.spotify.com/artist/3ur5AmVKeInQ8lGOP4kvBF"
-        }
-      ],
-      "duration_ms": 105405,
-      "name": "Loose Kicks",
-      "url": "https://open.spotify.com/track/2pJmmSzJzgyBwUhyqqNntp"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
         "name": "oasis",
         "url": "https://open.spotify.com/album/0quVUjufhVdhBPiggdCl3k"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 130539,
       "name": "oasis",
       "url": "https://open.spotify.com/track/7GIBH22qY9MFfnoZZtBn4P"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "Loose Kicks",
+        "url": "https://open.spotify.com/album/0d0398yXgXdrZSenztLHMX"
+      },
+      "artists": [
+        {
+          "name": "Woodly Fields",
+          "url": "https://open.spotify.com/artist/3ur5AmVKeInQ8lGOP4kvBF"
+        }
+      ],
+      "duration_ms": 105405,
+      "name": "Loose Kicks",
+      "url": "https://open.spotify.com/track/2pJmmSzJzgyBwUhyqqNntp"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Hello, Good Morning!",
-        "url": "https://open.spotify.com/album/3hvSsFyDFI5qCjAtK1mY0L"
-      },
-      "artists": [
-        {
-          "name": "HYYPNOTIC",
-          "url": "https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM"
-        }
-      ],
-      "duration_ms": 145818,
-      "name": "Hello, Good Morning!",
-      "url": "https://open.spotify.com/track/6XFvaJB9C6DNsprLl7708B"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
         "name": "LIFE",
         "url": "https://open.spotify.com/album/2AlBd43zrdIshx5p8DUvti"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 136704,
       "name": "LIFE",
       "url": "https://open.spotify.com/track/6CEfKrDJPDNKHvnCcQjfkd"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "Hello, Good Morning!",
+        "url": "https://open.spotify.com/album/3hvSsFyDFI5qCjAtK1mY0L"
+      },
+      "artists": [
+        {
+          "name": "HYYPNOTIC",
+          "url": "https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM"
+        }
+      ],
+      "duration_ms": 145818,
+      "name": "Hello, Good Morning!",
+      "url": "https://open.spotify.com/track/6XFvaJB9C6DNsprLl7708B"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "abuela loca",
-        "url": "https://open.spotify.com/album/1NmesN5FuVxihPCWY0xYwR"
+        "name": "sunburn",
+        "url": "https://open.spotify.com/album/6NZfxSxsfouv5exah4wkzZ"
       },
       "artists": [
         {
-          "name": "the tofu paradigm",
-          "url": "https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe"
+          "name": "love_eight",
+          "url": "https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE"
         }
       ],
-      "duration_ms": 85479,
-      "name": "abuela loca",
-      "url": "https://open.spotify.com/track/3JC4V3lcxJmM9tADSUGtwa"
+      "duration_ms": 130832,
+      "name": "sunburn",
+      "url": "https://open.spotify.com/track/4U5WqVdkISyQaKIlAOICAt"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "sunburn",
-        "url": "https://open.spotify.com/album/6NZfxSxsfouv5exah4wkzZ"
+        "name": "abuela loca",
+        "url": "https://open.spotify.com/album/1NmesN5FuVxihPCWY0xYwR"
       },
       "artists": [
         {
-          "name": "love_eight",
-          "url": "https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE"
+          "name": "the tofu paradigm",
+          "url": "https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe"
         }
       ],
-      "duration_ms": 130832,
-      "name": "sunburn",
-      "url": "https://open.spotify.com/track/4U5WqVdkISyQaKIlAOICAt"
+      "duration_ms": 85479,
+      "name": "abuela loca",
+      "url": "https://open.spotify.com/track/3JC4V3lcxJmM9tADSUGtwa"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Take your time",
-        "url": "https://open.spotify.com/album/5QJETfJVFFzNn1VcM2jkR9"
-      },
-      "artists": [
-        {
-          "name": "Slowday",
-          "url": "https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz"
-        }
-      ],
-      "duration_ms": 154936,
-      "name": "Take your time",
-      "url": "https://open.spotify.com/track/05im9JXYw4AALEcOlwR8XW"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
         "name": "peaceful retreat",
         "url": "https://open.spotify.com/album/6YQVMzmgMWePPETt41Vzrv"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 101694,
       "name": "peaceful retreat",
       "url": "https://open.spotify.com/track/6rXdmMil3DpNl1YPB7BaK3"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "Take your time",
+        "url": "https://open.spotify.com/album/5QJETfJVFFzNn1VcM2jkR9"
+      },
+      "artists": [
+        {
+          "name": "Slowday",
+          "url": "https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz"
+        }
+      ],
+      "duration_ms": 154936,
+      "name": "Take your time",
+      "url": "https://open.spotify.com/track/05im9JXYw4AALEcOlwR8XW"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "capricorn",
-        "url": "https://open.spotify.com/album/5fNzYU0J9xK2ivT9UdkahG"
-      },
-      "artists": [
-        {
-          "name": "LAV8",
-          "url": "https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5"
-        }
-      ],
-      "duration_ms": 124526,
-      "name": "capricorn",
-      "url": "https://open.spotify.com/track/0slmLnFxVAM2qnV61MrvJV"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
         "name": "Jade",
         "url": "https://open.spotify.com/album/29YavysHsy2Nv210eD30FK"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
+        "name": "capricorn",
+        "url": "https://open.spotify.com/album/5fNzYU0J9xK2ivT9UdkahG"
+      },
+      "artists": [
+        {
+          "name": "LAV8",
+          "url": "https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5"
+        }
+      ],
+      "duration_ms": 124526,
+      "name": "capricorn",
+      "url": "https://open.spotify.com/track/0slmLnFxVAM2qnV61MrvJV"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
         "name": "Meanwhile",
         "url": "https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Birds Eye",
-        "url": "https://open.spotify.com/album/59huG1lCsqXCQFpjDjTyla"
-      },
-      "artists": [
-        {
-          "name": "Vincent Rayn",
-          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
-        }
-      ],
-      "duration_ms": 108800,
-      "name": "Birds Eye",
-      "url": "https://open.spotify.com/track/7yhPe48qrUGfHPve8SlCsu"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
         "name": "you, me & the breeze",
         "url": "https://open.spotify.com/album/0l3z2rKWputEafQDqBaeyX"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 127407,
       "name": "you, me & the breeze",
       "url": "https://open.spotify.com/track/5Oturu85XoGTEHA0uNpUm3"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "Birds Eye",
+        "url": "https://open.spotify.com/album/59huG1lCsqXCQFpjDjTyla"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "duration_ms": 108800,
+      "name": "Birds Eye",
+      "url": "https://open.spotify.com/track/7yhPe48qrUGfHPve8SlCsu"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Sodium Light",
-        "url": "https://open.spotify.com/album/4dv5BXCczbIXYggQzKETcG"
-      },
-      "artists": [
-        {
-          "name": "Pale Fiction",
-          "url": "https://open.spotify.com/artist/4rMd74iv02uwHdEs5Dc4XV"
-        }
-      ],
-      "duration_ms": 125142,
-      "name": "Sodium Light",
-      "url": "https://open.spotify.com/track/2skEJr6oMupZY7oZJJqF8N"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
         "name": "alice in dreamland",
         "url": "https://open.spotify.com/album/4Ahyx1rbiTOdsTekuXoGcc"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Pink Sunrise",
-        "url": "https://open.spotify.com/album/6lWcuOPaxToaHW5rRH6imA"
+        "name": "Sodium Light",
+        "url": "https://open.spotify.com/album/4dv5BXCczbIXYggQzKETcG"
       },
       "artists": [
         {
-          "name": "KiddoCalvin",
-          "url": "https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6"
+          "name": "Pale Fiction",
+          "url": "https://open.spotify.com/artist/4rMd74iv02uwHdEs5Dc4XV"
         }
       ],
-      "duration_ms": 135942,
-      "name": "Pink Sunrise",
-      "url": "https://open.spotify.com/track/6KklG381m3QoUb2bp1S7zk"
+      "duration_ms": 125142,
+      "name": "Sodium Light",
+      "url": "https://open.spotify.com/track/2skEJr6oMupZY7oZJJqF8N"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -1411,6 +1395,22 @@
       "duration_ms": 120750,
       "name": "Sunset Reflections",
       "url": "https://open.spotify.com/track/3x1N6JXLW9cj3oOP7vR5b3"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "Pink Sunrise",
+        "url": "https://open.spotify.com/album/6lWcuOPaxToaHW5rRH6imA"
+      },
+      "artists": [
+        {
+          "name": "KiddoCalvin",
+          "url": "https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6"
+        }
+      ],
+      "duration_ms": 135942,
+      "name": "Pink Sunrise",
+      "url": "https://open.spotify.com/track/6KklG381m3QoUb2bp1S7zk"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Osaka",
-        "url": "https://open.spotify.com/album/0Rfq7P7TnuNZTed3LHUeD6"
-      },
-      "artists": [
-        {
-          "name": "iasilma",
-          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
-        }
-      ],
-      "duration_ms": 120875,
-      "name": "Osaka",
-      "url": "https://open.spotify.com/track/3lRlUxwzbHwH6QyXZwO3do"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
         "name": "Rest Assured",
         "url": "https://open.spotify.com/album/5rCipxXRKwo2xSf8CEkVw3"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 107294,
       "name": "Rest Assured",
       "url": "https://open.spotify.com/track/0iNW8VuTW4JopOHFXo9Hmw"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "Osaka",
+        "url": "https://open.spotify.com/album/0Rfq7P7TnuNZTed3LHUeD6"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "duration_ms": 120875,
+      "name": "Osaka",
+      "url": "https://open.spotify.com/track/3lRlUxwzbHwH6QyXZwO3do"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -1939,22 +1939,18 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Soulful Views",
-        "url": "https://open.spotify.com/album/7e367sNgfpUFVxQ5N1RWrs"
+        "name": "Late Sunrise",
+        "url": "https://open.spotify.com/album/18YzKSSl7tYMFoimTuj3wM"
       },
       "artists": [
         {
-          "name": "Starlies",
-          "url": "https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips"
-        },
-        {
-          "name": "Ouflen",
-          "url": "https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7"
+          "name": "420am",
+          "url": "https://open.spotify.com/artist/2KPFkiMzNAp6jiKak35U6m"
         }
       ],
-      "duration_ms": 169062,
-      "name": "Soulful Views",
-      "url": "https://open.spotify.com/track/6wf4jJ4EH6cz766YHW3ds2"
+      "duration_ms": 141000,
+      "name": "Late Sunrise",
+      "url": "https://open.spotify.com/track/2hmUUF8FxwSJXallcZcwsS"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -1975,34 +1971,22 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Late Sunrise",
-        "url": "https://open.spotify.com/album/18YzKSSl7tYMFoimTuj3wM"
+        "name": "Soulful Views",
+        "url": "https://open.spotify.com/album/7e367sNgfpUFVxQ5N1RWrs"
       },
       "artists": [
         {
-          "name": "420am",
-          "url": "https://open.spotify.com/artist/2KPFkiMzNAp6jiKak35U6m"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Late Sunrise",
-      "url": "https://open.spotify.com/track/2hmUUF8FxwSJXallcZcwsS"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
-        "name": "Smoove it",
-        "url": "https://open.spotify.com/album/7DsMpXrDtMEZbnCd6WYBbE"
-      },
-      "artists": [
+          "name": "Starlies",
+          "url": "https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips"
+        },
         {
-          "name": "Gooee",
-          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
+          "name": "Ouflen",
+          "url": "https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7"
         }
       ],
-      "duration_ms": 159573,
-      "name": "Smoove it",
-      "url": "https://open.spotify.com/track/1TH9qGv02IQYNh8rWweltY"
+      "duration_ms": 169062,
+      "name": "Soulful Views",
+      "url": "https://open.spotify.com/track/6wf4jJ4EH6cz766YHW3ds2"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -2023,6 +2007,22 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
+        "name": "Smoove it",
+        "url": "https://open.spotify.com/album/7DsMpXrDtMEZbnCd6WYBbE"
+      },
+      "artists": [
+        {
+          "name": "Gooee",
+          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
+        }
+      ],
+      "duration_ms": 159573,
+      "name": "Smoove it",
+      "url": "https://open.spotify.com/track/1TH9qGv02IQYNh8rWweltY"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
         "name": "desert wind",
         "url": "https://open.spotify.com/album/1B2unQyvBRE0U6uNtrgieQ"
       },
@@ -2035,22 +2035,6 @@
       "duration_ms": 120407,
       "name": "time voyager",
       "url": "https://open.spotify.com/track/5Id0D63jXhclkF1rmXZNLf"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
-        "name": "Last call on what",
-        "url": "https://open.spotify.com/album/6QSf6cdpkGTAp0YtSK5lFr"
-      },
-      "artists": [
-        {
-          "name": "Calm Like Carl",
-          "url": "https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0"
-        }
-      ],
-      "duration_ms": 133643,
-      "name": "Last call on what",
-      "url": "https://open.spotify.com/track/5de261y9PMBp40oyycVd2h"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -2083,6 +2067,22 @@
       "duration_ms": 142800,
       "name": "It's All Good",
       "url": "https://open.spotify.com/track/3yLfbmMJxFHDDfC8nuZcoC"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "Last call on what",
+        "url": "https://open.spotify.com/album/6QSf6cdpkGTAp0YtSK5lFr"
+      },
+      "artists": [
+        {
+          "name": "Calm Like Carl",
+          "url": "https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0"
+        }
+      ],
+      "duration_ms": 133643,
+      "name": "Last call on what",
+      "url": "https://open.spotify.com/track/5de261y9PMBp40oyycVd2h"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "natten EP",
-        "url": "https://open.spotify.com/album/4BNeqht3X7y0yeNo9tE45h"
-      },
-      "artists": [
-        {
-          "name": "archipelago beats",
-          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "natten",
-      "url": "https://open.spotify.com/track/328jz9mv74DFbfzLQHU0BJ"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
         "name": "thankful",
         "url": "https://open.spotify.com/album/7r3eEEKheLFzti21hYnZ8L"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 139436,
       "name": "thankful",
       "url": "https://open.spotify.com/track/0nyqWzGxfKw9k30MK0rXZQ"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "natten EP",
+        "url": "https://open.spotify.com/album/4BNeqht3X7y0yeNo9tE45h"
+      },
+      "artists": [
+        {
+          "name": "archipelago beats",
+          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "natten",
+      "url": "https://open.spotify.com/track/328jz9mv74DFbfzLQHU0BJ"
     },
     {
       "added_at": "2026-04-23 08:45:52",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-04-23 08:45:52",
       "album": {
-        "name": "Greatest Year",
-        "url": "https://open.spotify.com/album/1M0KKzZByBREz6IffPJ1d0"
-      },
-      "artists": [
-        {
-          "name": "Euphemism",
-          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
-        }
-      ],
-      "duration_ms": 115588,
-      "name": "Greatest Year",
-      "url": "https://open.spotify.com/track/1CM4tAWU2hGEPnIQ8njOwN"
-    },
-    {
-      "added_at": "2026-04-23 08:45:52",
-      "album": {
         "name": "Floor 5",
         "url": "https://open.spotify.com/album/6No8Oc4ges6VLYY3wLJSZi"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 117337,
       "name": "Floor 5",
       "url": "https://open.spotify.com/track/2IEJDnXmqa2QEkcUureE1p"
+    },
+    {
+      "added_at": "2026-04-23 08:45:52",
+      "album": {
+        "name": "Greatest Year",
+        "url": "https://open.spotify.com/album/1M0KKzZByBREz6IffPJ1d0"
+      },
+      "artists": [
+        {
+          "name": "Euphemism",
+          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
+        }
+      ],
+      "duration_ms": 115588,
+      "name": "Greatest Year",
+      "url": "https://open.spotify.com/track/1CM4tAWU2hGEPnIQ8njOwN"
     },
     {
       "added_at": "2026-04-23 08:45:52",

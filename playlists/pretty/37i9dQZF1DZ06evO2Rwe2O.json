@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 13100,
+  "num_followers": 13103,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAAfTKOV9Y7CAZZWt91JRUEF",
+  "snapshot_id": "ajSGgAAAAADY4N3/YwSzTCbO79w8yXMc",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fields Of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 317560,
+      "name": "Heart Cries Holy",
+      "url": "https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lifesongs: A Celebration of the First 20 Years",
         "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 243917,
       "name": "If We Are The Body (feat. Hannah Kerr)",
       "url": "https://open.spotify.com/track/12AUzHL6cmZNCKZT3HZIMN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fields Of Grace",
-        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 317560,
-      "name": "Heart Cries Holy",
-      "url": "https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fields Of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Fields of Grace",
+      "url": "https://open.spotify.com/track/7I1jXhVC8QVJzjPzx93VAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 265600,
       "name": "You're Worthy Of My Praise",
       "url": "https://open.spotify.com/track/1WUmwcfpl8FPNwDEhqMQCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fields Of Grace",
-        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Fields of Grace",
-      "url": "https://open.spotify.com/track/7I1jXhVC8QVJzjPzx93VAQ"
     },
     {
       "added_at": null,

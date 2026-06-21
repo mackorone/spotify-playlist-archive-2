@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "babylona blue",
+        "url": "https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134867,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/4OxCCJYzYUnk5GhwcjSMzp"
+    },
+    {
+      "album": {
         "name": "Cero condiciones",
         "url": "https://open.spotify.com/album/5ibayOsl6yLK6WNIGNP7e1"
       },

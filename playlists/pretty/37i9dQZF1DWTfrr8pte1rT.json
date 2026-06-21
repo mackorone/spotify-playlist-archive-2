@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 355448,
+  "num_followers": 355518,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
+        "name": "Core (That's Who We Are)",
+        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Core (That's Who We Are)",
+      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
+    },
+    {
+      "added_at": "2026-06-12 16:24:53",
+      "album": {
         "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
         "url": "https://open.spotify.com/album/6k7ASb40R8wBiQymSSwwh0"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 230400,
       "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
       "url": "https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ"
-    },
-    {
-      "added_at": "2026-06-12 16:24:53",
-      "album": {
-        "name": "Core (That's Who We Are)",
-        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Core (That's Who We Are)",
-      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -2107,22 +2107,18 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "F\u00d8\u00d8L (Code:Pandorum Remix)",
-        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
+        "name": "Being One",
+        "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
       },
       "artists": [
         {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
-        },
-        {
-          "name": "Code: Pandorum",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
         }
       ],
-      "duration_ms": 188730,
-      "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
-      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
+      "duration_ms": 200000,
+      "name": "Being One",
+      "url": "https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -2171,6 +2167,26 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
+        "name": "F\u00d8\u00d8L (Code:Pandorum Remix)",
+        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
+      },
+      "artists": [
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        },
+        {
+          "name": "Code: Pandorum",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        }
+      ],
+      "duration_ms": 188730,
+      "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
+      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
+    },
+    {
+      "added_at": "2026-06-12 16:24:53",
+      "album": {
         "name": "Muted Blue",
         "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 185663,
       "name": "Just Thought You Should Know",
       "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
-    },
-    {
-      "added_at": "2026-06-12 16:24:53",
-      "album": {
-        "name": "Being One",
-        "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Being One",
-      "url": "https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -2339,18 +2339,18 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "Guts",
-        "url": "https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi"
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
       },
       "artists": [
         {
-          "name": "Ellie Dixon",
-          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
         }
       ],
-      "duration_ms": 126129,
-      "name": "Guts",
-      "url": "https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3"
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -2371,22 +2371,6 @@
       "duration_ms": 156863,
       "name": "Kore",
       "url": "https://open.spotify.com/track/7hkl3e3ltu3sE3UYNxKrlc"
-    },
-    {
-      "added_at": "2026-06-12 16:24:53",
-      "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -2431,6 +2415,22 @@
       "duration_ms": 235862,
       "name": "iF_i_FaLL",
       "url": "https://open.spotify.com/track/12O1jHrTRLaQE2fWeZatIz"
+    },
+    {
+      "added_at": "2026-06-12 16:24:53",
+      "album": {
+        "name": "Guts",
+        "url": "https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi"
+      },
+      "artists": [
+        {
+          "name": "Ellie Dixon",
+          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
+        }
+      ],
+      "duration_ms": 126129,
+      "name": "Guts",
+      "url": "https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3"
     },
     {
       "added_at": "2026-06-12 16:24:53",

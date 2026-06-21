@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/02Zegjy92TEyYM8PSxvf8Y">Luther Vandross</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483 likes - 63 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 485 likes - 63 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 9 | [Every Year, Every Christmas](https://open.spotify.com/track/5lPlakX2SJa6dOaMY8LiDj) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 5:06 |
 | 10 | [Your Secret Love](https://open.spotify.com/track/56JRqiQ6QRaehxkG8852pL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Your Secret Love](https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN) | 4:12 |
 | 11 | [Wait for Love](https://open.spotify.com/track/0y2O8TW10Pj3fel0Upqa54) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Night I Fell In Love](https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY) | 5:17 |
-| 12 | [Give Me the Reason](https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 4:47 |
-| 13 | [Any Love](https://open.spotify.com/track/1uQnqFPN4Fzvn17DGX0eBj) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Forever, For Always, For Luther](https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN) | 5:04 |
+| 12 | [Any Love](https://open.spotify.com/track/1uQnqFPN4Fzvn17DGX0eBj) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Forever, For Always, For Luther](https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN) | 5:04 |
+| 13 | [Give Me the Reason](https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 4:47 |
 | 14 | [Keeping My Faith In You](https://open.spotify.com/track/7ji63VKn7BttCU7hqnbZxF) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:55 |
 | 15 | [Now That I Have You](https://open.spotify.com/track/6vWs38PNWldAaIWLfYXbI4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:01 |
 | 16 | [Liberation Agitato / A Brand New Day / Liberation Ballet](https://open.spotify.com/track/3isUhqgO9KBLLP4fJ4oESl) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Nipsey Russell](https://open.spotify.com/artist/4SgnrTFxTLvwUfw98OsRsF), [Ted Ross](https://open.spotify.com/artist/3XeCvWBEUvxkF1IHZmB6rq), [The Wiz Choir](https://open.spotify.com/artist/1tT2npbBvB62y5sjsdfve2) | [The Wiz](https://open.spotify.com/album/2QrINaaKpAWNtQfjzNaP5y) | 7:48 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 62 | [This Strange Feeling](https://open.spotify.com/track/2iukFid6vhDSEXMgo4Ycng) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [Luther](https://open.spotify.com/album/06bM5GxUptd8xlB6ORNjdG) | 4:44 |
 | 63 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `AcUq8AAAAADjURZDQETY13qE9NdBQCNm`
+Snapshot ID: `AcUwkAAAAAB0kwWQBWh7zGrAypjWnU2t`

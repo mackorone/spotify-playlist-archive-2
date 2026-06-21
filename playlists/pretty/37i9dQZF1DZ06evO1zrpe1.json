@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAABrRnyfiXSRJg9mZ9nfS6Xo",
+  "snapshot_id": "ajSGgAAAAAAkMCDOw4Qac7FvYpkgLNQc",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 167339,
       "name": "Calidad (En Vivo)",
       "url": "https://open.spotify.com/track/4VKJhvRnTiogp2jkHWuQ1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La pi\u00f1ata",
+        "url": "https://open.spotify.com/album/0xpdjfOC6VYKaOAXzgLvX1"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 153166,
+      "name": "La pi\u00f1ata",
+      "url": "https://open.spotify.com/track/74T3B49Ur8mC9d04fiPSBv"
     },
     {
       "added_at": null,
@@ -75,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 223883,
-      "name": "Ya No Me Importa",
-      "url": "https://open.spotify.com/track/6T684u0tL0gliUK6Wb0z3X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -111,22 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
       },
       "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        },
         {
           "name": "Adriana R\u00edos",
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 212803,
-      "name": "Al\u00e9rgica",
-      "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
+      "duration_ms": 223883,
+      "name": "Ya No Me Importa",
+      "url": "https://open.spotify.com/track/6T684u0tL0gliUK6Wb0z3X"
     },
     {
       "added_at": null,
@@ -143,6 +139,26 @@
       "duration_ms": 173546,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 212803,
+      "name": "Al\u00e9rgica",
+      "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
     },
     {
       "added_at": null,
@@ -279,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Queda M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 201467,
-      "name": "No Me Queda M\u00e1s (En Vivo)",
-      "url": "https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00edtame ese Hombre",
         "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
       },
@@ -307,6 +307,22 @@
       "duration_ms": 196874,
       "name": "Qu\u00edtame Ese Hombre",
       "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Me Queda M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 201467,
+      "name": "No Me Queda M\u00e1s (En Vivo)",
+      "url": "https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentimientos de Cart\u00f3n",
-        "url": "https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "Sentimientos de Cart\u00f3n",
-      "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Bohemia (En Vivo)",
         "url": "https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 247737,
       "name": "Fuiste T\u00fa - En Vivo",
       "url": "https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentimientos de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "Sentimientos de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah\u00ed Va la Loca",
-        "url": "https://open.spotify.com/album/55RhyDsAQgggQohtZ8YLDs"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "Ah\u00ed Va la Loca",
-      "url": "https://open.spotify.com/track/6VCladFiLiyBBYeCRRZ4bD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Mejor Versi\u00f3n de Mi",
         "url": "https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO"
       },
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ah\u00ed Va la Loca",
+        "url": "https://open.spotify.com/album/55RhyDsAQgggQohtZ8YLDs"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "Ah\u00ed Va la Loca",
+      "url": "https://open.spotify.com/track/6VCladFiLiyBBYeCRRZ4bD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Azules Reflejos (En Vivo)",
         "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
       },
@@ -747,6 +763,22 @@
       "duration_ms": 207644,
       "name": "Chapul\u00edn - En Vivo",
       "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 214954,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
     },
     {
       "added_at": null,
@@ -771,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa"
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
       },
       "artists": [
         {
@@ -780,25 +812,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 214954,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Est\u00e1 en Ti (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 251147,
-      "name": "Est\u00e1 en Ti - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE"
+      "duration_ms": 201286,
+      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
     },
     {
       "added_at": null,
@@ -812,9 +828,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 201286,
-      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
+      "duration_ms": 231971,
+      "name": "Empiezo a Recordarte - En Vivo",
+      "url": "https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V"
     }
   ],
   "unique_name": "This Is Adriana R\u00edos",

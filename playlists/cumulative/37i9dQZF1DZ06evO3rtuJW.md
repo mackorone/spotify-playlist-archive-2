@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-237 songs - 11 hr 56 min
+238 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [My City](https://open.spotify.com/track/6uWykkthdJzx6GMLcFI2iB) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [My City \(FAST X Soundtrack\)](https://open.spotify.com/album/1aLqbEIzAVcrTLgx92YW1h) | 2:29 | 2023-05-20 |  |
 | [My City \- Sped Up](https://open.spotify.com/track/7y037ZKbgyiO1xXwToyxJn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [FAST X \(Sped Up / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nWrdoW9h7NJhk2Bt2rMPO) | 2:04 | 2023-06-10 | 2025-02-23 |
 | [Neph Nem \(feat\. Ballout & G Herbo\)](https://open.spotify.com/track/0IzqRBC2zj2ejfg5EvZ3o9) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Ballout](https://open.spotify.com/artist/0VlR93v41JFZlo1tRAgy2A), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Almighty So 2](https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp) | 2:37 | 2024-05-12 | 2025-04-16 |
-| [Never Scared \(feat\. Juice WRLD\)](https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 3:20 | 2022-10-28 |  |
+| [Neva Going Back](https://open.spotify.com/track/1Nv7HemMdxWuEs8f47gzMG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb: Lil Heroin Edition](https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW) | 2:06 | 2026-06-21 |  |
+| [Never Scared \(feat\. Juice WRLD\)](https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 3:20 | 2022-10-28 | 2026-06-21 |
 | [No Bap \(Bonus\)](https://open.spotify.com/track/1bEFWdOp1xDnMPZDO8mtAe) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb \(Extended\)](https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi) | 2:40 | 2025-11-16 | 2026-01-15 |
 | [No Guts, No Glory](https://open.spotify.com/track/2U31fKHbKf50KsrdccRCeL) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:45 | 2022-10-28 | 2023-01-12 |
 | [No Limit](https://open.spotify.com/track/6VCmEzSf3XXdFJPIsk4I0r) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Drench](https://open.spotify.com/artist/2Cw0UbFabztsBGoddiyQLe) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 1:59 | 2023-04-30 | 2023-08-06 |

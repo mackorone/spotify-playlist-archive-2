@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 78622,
+  "num_followers": 78617,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        }
-      ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 300026,
       "name": "Surrounded (Fight My Battles)",
       "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        }
+      ],
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "From The Inside Out",
-        "url": "https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 256970,
-      "name": "Lead Me To The Cross",
-      "url": "https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Land Of The Living (Live)",
         "url": "https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 421775,
       "name": "Oh The Cross - Live",
       "url": "https://open.spotify.com/track/4cRltwg0L1MX78Nu8YTHDG"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "From The Inside Out",
+        "url": "https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 256970,
+      "name": "Lead Me To The Cross",
+      "url": "https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Life & Breath",
-        "url": "https://open.spotify.com/album/0Wu88qLqxq6qBNejyHeEUr"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 279736,
-      "name": "Life & Breath",
-      "url": "https://open.spotify.com/track/2qQfEaRyb67f1XgvVjg9j5"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "You Will Be Saved",
         "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 374904,
       "name": "You Will Be Saved",
       "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Life & Breath",
+        "url": "https://open.spotify.com/album/0Wu88qLqxq6qBNejyHeEUr"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 279736,
+      "name": "Life & Breath",
+      "url": "https://open.spotify.com/track/2qQfEaRyb67f1XgvVjg9j5"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1187,8 +1187,8 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU"
       },
       "artists": [
         {
@@ -1196,13 +1196,13 @@
           "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
         },
         {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
         }
       ],
-      "duration_ms": 468208,
-      "name": "Come Alive (Resurrection Power) - Live",
-      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
+      "duration_ms": 310200,
+      "name": "Because Of Christ",
+      "url": "https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Good For Nothing",
-        "url": "https://open.spotify.com/album/1zRobWXPx0e1cDbHihNfGR"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "Good For Nothing",
-      "url": "https://open.spotify.com/track/3VgboIL9HZRZN9umNXAV7r"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "The Darker The Night / The Brighter The Morning",
         "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 254840,
       "name": "The Cross Has The Final Word",
       "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Good For Nothing",
+        "url": "https://open.spotify.com/album/1zRobWXPx0e1cDbHihNfGR"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "Good For Nothing",
+      "url": "https://open.spotify.com/track/3VgboIL9HZRZN9umNXAV7r"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU"
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
       },
       "artists": [
         {
@@ -1280,13 +1280,13 @@
           "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
         },
         {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
         }
       ],
-      "duration_ms": 310200,
-      "name": "Because Of Christ",
-      "url": "https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD"
+      "duration_ms": 468208,
+      "name": "Come Alive (Resurrection Power) - Live",
+      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 427389,
-      "name": "God So Loved - Live",
-      "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Breakthrough Miracle Power / You Are The Lord",
         "url": "https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 352520,
       "name": "Breakthrough Miracle Power",
       "url": "https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 427389,
+      "name": "God So Loved - Live",
+      "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Breakthrough Miracle Power / You Are The Lord",
         "url": "https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Yes He Lives",
         "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
       },
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "LIVE FROM IO WKND",
-        "url": "https://open.spotify.com/album/0rREJdGac7CLynSDpGaRxQ"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Clay Finnesand",
-          "url": "https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4"
-        }
-      ],
-      "duration_ms": 312898,
-      "name": "How Great The Love Of God - Live",
-      "url": "https://open.spotify.com/track/13NzMeG6afiIFc5bRBxgH1"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "The Worship Initiative, Vol. 8",
         "url": "https://open.spotify.com/album/10mYLdNmVV5zvPO6EVxzPB"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 286481,
       "name": "Nothing But the Blood",
       "url": "https://open.spotify.com/track/0lY7aTxHRprImCO03ueK5d"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "LIVE FROM IO WKND",
+        "url": "https://open.spotify.com/album/0rREJdGac7CLynSDpGaRxQ"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Clay Finnesand",
+          "url": "https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4"
+        }
+      ],
+      "duration_ms": 312898,
+      "name": "How Great The Love Of God - Live",
+      "url": "https://open.spotify.com/track/13NzMeG6afiIFc5bRBxgH1"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Our God Will See Us Through (Live)",
-        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        }
-      ],
-      "duration_ms": 253652,
-      "name": "This Is My Song - Live",
-      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Hill Of Grace",
         "url": "https://open.spotify.com/album/7EM6wAlDRK10dRvjVuGPq4"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 235104,
       "name": "Hill Of Grace",
       "url": "https://open.spotify.com/track/2B0F33PmOf3uc52uxnjLj8"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Our God Will See Us Through (Live)",
+        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        }
+      ],
+      "duration_ms": 253652,
+      "name": "This Is My Song - Live",
+      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/7tPxeU9EAOLcMGKRQFHEMe"
-      },
-      "artists": [
-        {
-          "name": "Ryan Horton",
-          "url": "https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa"
-        }
-      ],
-      "duration_ms": 459500,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/3JhcteIYMvEeCrAsQkEn1L"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Faith And Wonder (Live)",
         "url": "https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 359374,
       "name": "Who Could (Live)",
       "url": "https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/7tPxeU9EAOLcMGKRQFHEMe"
+      },
+      "artists": [
+        {
+          "name": "Ryan Horton",
+          "url": "https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa"
+        }
+      ],
+      "duration_ms": 459500,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/3JhcteIYMvEeCrAsQkEn1L"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2531,18 +2531,26 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "O Praise The Name (An\u00e1stasis)",
-        "url": "https://open.spotify.com/album/7vAkV9olYZRGokeYOFZuKx"
+        "name": "Who You Say I Am (Live)",
+        "url": "https://open.spotify.com/album/6AwxNZobkuWGt3PFL5wFVc"
       },
       "artists": [
         {
           "name": "Hillsong Worship",
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Reuben Morgan",
+          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
         }
       ],
-      "duration_ms": 206133,
-      "name": "Cornerstone",
-      "url": "https://open.spotify.com/track/2FTOHMSicuYvDBQGebowNq"
+      "duration_ms": 329080,
+      "name": "Who You Say I Am - Live",
+      "url": "https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp"
     },
     {
       "added_at": "2026-04-04 06:11:10",

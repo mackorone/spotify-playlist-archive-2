@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1074344,
+  "num_followers": 1074349,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "WHEN A GIRL CRIES",
-        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124590,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm"
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
         }
       ],
-      "duration_ms": 243667,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z"
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -787,6 +771,22 @@
       "duration_ms": 156463,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 243667,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "More!",
-        "url": "https://open.spotify.com/album/6ZsrUt5WHKhI2SU4klueuo"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 147747,
-      "name": "More!",
-      "url": "https://open.spotify.com/track/1tFeGs7Tbzbgpgv1rf8eg1"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "BITE ME",
         "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
       },
@@ -1071,22 +1055,6 @@
       "duration_ms": 172320,
       "name": "Kiss It Kiss It",
       "url": "https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
-        "name": "FU & UF",
-        "url": "https://open.spotify.com/album/6jcsn9AMkfslPTT3BVKQT1"
-      },
-      "artists": [
-        {
-          "name": "Skye Newman",
-          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
-        }
-      ],
-      "duration_ms": 159399,
-      "name": "FU & UF",
-      "url": "https://open.spotify.com/track/6vcMLDXzAHtw4fg2mI6veW"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1107,6 +1075,22 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
+        "name": "FU & UF",
+        "url": "https://open.spotify.com/album/6jcsn9AMkfslPTT3BVKQT1"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "duration_ms": 159399,
+      "name": "FU & UF",
+      "url": "https://open.spotify.com/track/6vcMLDXzAHtw4fg2mI6veW"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
         "name": "I've Tried Everything But Therapy (Complete Edition)",
         "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy"
+        "name": "More!",
+        "url": "https://open.spotify.com/album/6ZsrUt5WHKhI2SU4klueuo"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
         }
       ],
-      "duration_ms": 197533,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
+      "duration_ms": 147747,
+      "name": "More!",
+      "url": "https://open.spotify.com/track/1tFeGs7Tbzbgpgv1rf8eg1"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1151,6 +1135,22 @@
       "duration_ms": 164000,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "i guess u never really cared about me",
-        "url": "https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 191150,
-      "name": "i guess u never really cared about me",
-      "url": "https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Gucci Mane",
         "url": "https://open.spotify.com/album/6ixnfAvvM9Wdjb0hEPIUIW"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 166956,
       "name": "Gucci Mane",
       "url": "https://open.spotify.com/track/4uK4BCS6H19pOAknY1qj0K"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "i guess u never really cared about me",
+        "url": "https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 191150,
+      "name": "i guess u never really cared about me",
+      "url": "https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "I Said I Love You First... And You Said It Back",
-        "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
+        "name": "Lovesick Lullaby",
+        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 132539,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb"
+      "duration_ms": 175134,
+      "name": "Lovesick Lullaby",
+      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
     }
   ],
   "unique_name": "Pop Right Now",

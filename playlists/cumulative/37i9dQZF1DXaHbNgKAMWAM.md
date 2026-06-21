@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-380 songs - 22 hr 22 min
+381 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Love will find a way](https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv) | 3:43 | 2025-06-10 |  |
 | [LOVE x3](https://open.spotify.com/track/4Ea8gH70UgE7p99g8ZDo8B) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [LOVE x3](https://open.spotify.com/album/475Cmf5kwwgep8RD3ezRQO) | 2:40 | 2026-03-24 | 2026-04-08 |
 | [Love you like a Fool](https://open.spotify.com/track/2RNAIcJixTEHe2k33auTg6) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Spring Fever, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/5jqqQhTujHEUIHATQ4LDg9) | 3:12 | 2026-02-10 | 2026-04-22 |
-| [Love you like fools](https://open.spotify.com/track/2ZV3IpmuSujOXa9RwsGHbO) | [YOON SAN\-HA](https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW) | [CHAMELEON](https://open.spotify.com/album/61lFO56ewu4yjeGKc8UnA5) | 2:26 | 2025-07-15 |  |
+| [Love you like fools](https://open.spotify.com/track/2ZV3IpmuSujOXa9RwsGHbO) | [YOON SAN\-HA](https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW) | [CHAMELEON](https://open.spotify.com/album/61lFO56ewu4yjeGKc8UnA5) | 2:26 | 2025-07-15 | 2026-06-21 |
 | [Lover](https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lover](https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT) | 2:49 | 2023-07-07 | 2024-08-11 |
 | [LOVERS](https://open.spotify.com/track/4jENXV8X49X7yZzwCpDJIU) | [Obze](https://open.spotify.com/artist/7IkXZygwi0pf87bIeHK5ZX) | [Jewelry case](https://open.spotify.com/album/1ALi3pC1MocycJ9h4rzCBM) | 3:47 | 2022-05-11 | 2022-07-21 |
 | [LoveSketch](https://open.spotify.com/track/5gqvoIylmRdbGLArALFLuc) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [LoveSketch](https://open.spotify.com/album/5QlmHiqZU9iOfVMWY90ttK) | 3:35 | 2025-09-30 | 2025-12-05 |
@@ -372,6 +372,7 @@
 | [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/2alRAEyM5GvxE8G94Lav4R) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 3:40 | 2022-06-09 | 2022-07-28 |
 | [YOU YOU YOU](https://open.spotify.com/track/3sK8BhpcaBNqjiYU8rT8YL) | [Floody](https://open.spotify.com/artist/1btrLpznqZabTXLcxUHDUF) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'YOU YOU YOU'](https://open.spotify.com/album/0qIJnaW3ADumGC4HSwzxlX) | 3:45 | 2022-06-09 | 2022-07-25 |
 | [You'll be fine](https://open.spotify.com/track/6nRvFUhyQtBxw4gPCF3OzR) | [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [You'll be fine](https://open.spotify.com/album/60m28acTUmMG2FRi4oxYu8) | 2:56 | 2022-07-08 | 2022-07-29 |
+| [You're My Pretty Star](https://open.spotify.com/track/5X9mxcrFU743Y2XhkrBZUw) | [MRT](https://open.spotify.com/artist/2wczizmPu6o01FTA7XpIYj) | [You're My Pretty Star](https://open.spotify.com/album/3bvzvHQBoYwrSIX6M1cgVf) | 3:36 | 2026-04-21 |  |
 | [Your Smile, My Happiness](https://open.spotify.com/track/3tLpB2e0ElZNj2AT6J11ES) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [To The Moon, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/4Sz2FTCKw3pnUSx4wYz0LU) | 3:24 | 2025-10-15 | 2025-11-06 |
 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 | 2024-06-28 |  |
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-05-11 |  |

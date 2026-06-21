@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 821545,
+  "num_followers": 821476,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 181897,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Dusk Till Dawn",
         "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 208568,
       "name": "Dusk Till Dawn",
       "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 181897,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "drivers license",
-        "url": "https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 246345,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "I Still Haven't Found Found What I'm Looking For",
         "url": "https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 253686,
       "name": "I Still Haven't Found Found What I'm Looking For",
       "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "drivers license",
+        "url": "https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 246345,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Wayne Mack",
-        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
+        "name": "Lose You To Love Me (Acoustic)",
+        "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
       },
       "artists": [
         {
-          "name": "Wayne Mack",
-          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
         }
       ],
-      "duration_ms": 193412,
-      "name": "Everything I wanted",
-      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
+      "duration_ms": 254871,
+      "name": "Lose You To Love Me - Acoustic",
+      "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Lose You To Love Me (Acoustic)",
-        "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
+        "name": "Wayne Mack",
+        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
       },
       "artists": [
         {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+          "name": "Wayne Mack",
+          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
         }
       ],
-      "duration_ms": 254871,
-      "name": "Lose You To Love Me - Acoustic",
-      "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
+      "duration_ms": 193412,
+      "name": "Everything I wanted",
+      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
+        "name": "Here Comes Your Man",
+        "url": "https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
         }
       ],
-      "duration_ms": 232746,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
+      "duration_ms": 144274,
+      "name": "Here Comes Your Man",
+      "url": "https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Here Comes Your Man",
-        "url": "https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi"
-      },
-      "artists": [
-        {
-          "name": "Zoe",
-          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
-        }
-      ],
-      "duration_ms": 144274,
-      "name": "Here Comes Your Man",
-      "url": "https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Where Our Hearts Will Go (To Providence)",
         "url": "https://open.spotify.com/album/4pou3y0tzhknpZFcY7yYQE"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 252874,
       "name": "Where Our Hearts Will Go (To Providence)",
       "url": "https://open.spotify.com/track/0CRIiLoZLK9WLCziBamUvH"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Nothing Breaks Like a Heart",
-        "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
-      },
-      "artists": [
-        {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
-        }
-      ],
-      "duration_ms": 203261,
-      "name": "Nothing Breaks Like a Heart",
-      "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q"
       },
@@ -1835,18 +1819,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Weird Fishes",
-        "url": "https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv"
+        "name": "Nothing Breaks Like a Heart",
+        "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
         }
       ],
-      "duration_ms": 298720,
-      "name": "Paper Thin",
-      "url": "https://open.spotify.com/track/6D2ftw6BFEsczHNiqxuhHP"
+      "duration_ms": 203261,
+      "name": "Nothing Breaks Like a Heart",
+      "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1863,6 +1847,22 @@
       "duration_ms": 214917,
       "name": "Hablar de M\u00e1s",
       "url": "https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Weird Fishes",
+        "url": "https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 298720,
+      "name": "Paper Thin",
+      "url": "https://open.spotify.com/track/6D2ftw6BFEsczHNiqxuhHP"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "I Love You Madly EP",
-        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
-      },
-      "artists": [
-        {
-          "name": "Irene Diaz",
-          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Saturday Nights",
         "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
       },
@@ -1999,6 +1983,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "I Love You Madly EP",
+        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
+      },
+      "artists": [
+        {
+          "name": "Irene Diaz",
+          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "The Day I Left Hanoi",
         "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
       },
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Reyes",
-          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
       },
@@ -2063,18 +2047,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Leonardo Reyes",
+          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
         }
       ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
+      "duration_ms": 194310,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2091,6 +2075,22 @@
       "duration_ms": 253872,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Sentir Que No Sabes",
-        "url": "https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 177771,
-      "name": "Pantalla azul",
-      "url": "https://open.spotify.com/track/6QtA9isiOb6zymFQAKr5L5"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Terrace Rain/Grid Search",
         "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 262269,
       "name": "Medicine - Acoustic",
       "url": "https://open.spotify.com/track/7iLlwpist1NrZq3PU9EXF1"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Sentir Que No Sabes",
+        "url": "https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 177771,
+      "name": "Pantalla azul",
+      "url": "https://open.spotify.com/track/6QtA9isiOb6zymFQAKr5L5"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2403,6 +2403,26 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "better on my own (na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej)",
+        "url": "https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        },
+        {
+          "name": "Dawid P\u0142onka",
+          "url": "https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF"
+        }
+      ],
+      "duration_ms": 228520,
+      "name": "better on my own - na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej",
+      "url": "https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Reencontrarnos",
         "url": "https://open.spotify.com/album/3L5ujKZChuieBg8OspWra5"
       },
@@ -2431,26 +2451,6 @@
       "duration_ms": 198960,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/2jslzA7O0v1o15sN3z6SV6"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "better on my own (na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej)",
-        "url": "https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i"
-      },
-      "artists": [
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        },
-        {
-          "name": "Dawid P\u0142onka",
-          "url": "https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF"
-        }
-      ],
-      "duration_ms": 228520,
-      "name": "better on my own - na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej",
-      "url": "https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2503,18 +2503,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Voices In The Sky",
-        "url": "https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML"
+        "name": "The Best Sea",
+        "url": "https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1"
       },
       "artists": [
         {
-          "name": "Isobel Campbell",
-          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
         }
       ],
-      "duration_ms": 206584,
-      "name": "Never My Love",
-      "url": "https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I"
+      "duration_ms": 141897,
+      "name": "The Best Sea",
+      "url": "https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

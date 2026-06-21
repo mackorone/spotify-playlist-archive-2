@@ -1,6 +1,6 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 52475,
+  "num_followers": 52470,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
@@ -268,12 +268,12 @@
       },
       "artists": [
         {
-          "name": "boyBlandi",
-          "url": "https://open.spotify.com/artist/6glaqL5S7Uw6gZ8Xn1dbaF"
-        },
-        {
           "name": "Ruhdee",
           "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
+        },
+        {
+          "name": "boyBlandi",
+          "url": "https://open.spotify.com/artist/6glaqL5S7Uw6gZ8Xn1dbaF"
         }
       ],
       "duration_ms": 150047,

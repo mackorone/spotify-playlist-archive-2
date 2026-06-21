@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Angèle, Franglish x KeBlack x iDS, Tyla, Gambi and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,702 likes - 132 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,709 likes - 132 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 9 | [Pra todas](https://open.spotify.com/track/1yZA5pYK0Xhykh0wwjj8hq) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Pra todas](https://open.spotify.com/album/2v5FoJV0cCNCaAA2fHqKb0) | 3:18 |
 | 10 | [R&B SH\*T](https://open.spotify.com/track/7m8PKvUkxutSYHsXOyY68Q) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [R&B SH\*T](https://open.spotify.com/album/7LNisNMZx8RErvkiqSaKac) | 2:49 |
 | 11 | [after all](https://open.spotify.com/track/4UCuyeaovBIUlyeecxU9Q4) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [after all](https://open.spotify.com/album/7lzGyOwEpw8hCGQge8SS2D) | 3:13 |
-| 12 | [INVEST](https://open.spotify.com/track/54rzTWFXmNyXPgUA1p5c9M) | [JAZZ BRAK](https://open.spotify.com/artist/2tRYjTylYjQaBWdn0MA54U), [Vinny](https://open.spotify.com/artist/24tgYaWK52ZzD9iNuJzdfz) | [INVEST](https://open.spotify.com/album/7nXW7Cm1Ren94jaHHVYCn4) | 3:18 |
+| 12 | [INVEST](https://open.spotify.com/track/54rzTWFXmNyXPgUA1p5c9M) | [JAZZ BRAK](https://open.spotify.com/artist/2tRYjTylYjQaBWdn0MA54U), [Vinny](https://open.spotify.com/artist/4ZDIqLTT2TZuC199G4KwTD) | [INVEST](https://open.spotify.com/album/7nXW7Cm1Ren94jaHHVYCn4) | 3:18 |
 | 13 | [Tout pour toi](https://open.spotify.com/track/0HLGxzEdvtskPHP0H9PPvv) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Elisa Palmire](https://open.spotify.com/artist/3lq3wPMNtvu25QrtFqhluu) | [Tout pour toi](https://open.spotify.com/album/1CqSrchd9eXoY4gHHMOYdP) | 2:56 |
 | 14 | [I'll Work Under You](https://open.spotify.com/track/30V372wgvnCIbgkYmVKB7q) | [Mauro Pawlowski](https://open.spotify.com/artist/2PkKZewLFg57QduOcj97NQ) | [Unspectacular Times](https://open.spotify.com/album/51mwaTeKkQvoE8FIyBRtsG) | 3:45 |
 | 15 | [Heaven](https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Heaven](https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp) | 3:10 |

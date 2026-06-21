@@ -1,6 +1,6 @@
 {
   "description": "Chasing that runner's high!",
-  "num_followers": 645488,
+  "num_followers": 645517,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
@@ -623,26 +623,6 @@
     {
       "added_at": "2026-06-19 04:00:44",
       "album": {
-        "name": "That's When You Know",
-        "url": "https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 193842,
-      "name": "That's When You Know",
-      "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
-    },
-    {
-      "added_at": "2026-06-19 04:00:44",
-      "album": {
         "name": "There She Goes",
         "url": "https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 121874,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"
+    },
+    {
+      "added_at": "2026-06-19 04:00:44",
+      "album": {
+        "name": "That's When You Know",
+        "url": "https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "That's When You Know",
+      "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
     },
     {
       "added_at": "2026-06-19 04:00:44",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2026-06-19 04:00:44",
       "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 232796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
-    },
-    {
-      "added_at": "2026-06-19 04:00:44",
-      "album": {
         "name": "I'm Not Alone (MPH Remix)",
         "url": "https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5"
       },
@@ -1367,6 +1347,26 @@
     {
       "added_at": "2026-06-19 04:00:44",
       "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
+    },
+    {
+      "added_at": "2026-06-19 04:00:44",
+      "album": {
         "name": "One Question",
         "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
       },
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-06-19 04:00:44",
       "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se"
+    },
+    {
+      "added_at": "2026-06-19 04:00:44",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 173549,
       "name": "You",
       "url": "https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK"
-    },
-    {
-      "added_at": "2026-06-19 04:00:44",
-      "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se"
     },
     {
       "added_at": "2026-06-19 04:00:44",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-06-19 04:00:44",
       "album": {
+        "name": "Club To Your Arms",
+        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 191596,
+      "name": "Club To Your Arms",
+      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
+    },
+    {
+      "added_at": "2026-06-19 04:00:44",
+      "album": {
         "name": "Diet Coke",
         "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 124864,
       "name": "tell you straight",
       "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
-    },
-    {
-      "added_at": "2026-06-19 04:00:44",
-      "album": {
-        "name": "Club To Your Arms",
-        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 191596,
-      "name": "Club To Your Arms",
-      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
     },
     {
       "added_at": "2026-06-19 04:00:44",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-06-19 04:00:44",
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/4jUFrsx7SUpl3loOdo14MH"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 139867,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/0emddmBnIrINlvtvtuLkXI"
-    },
-    {
-      "added_at": "2026-06-19 04:00:44",
-      "album": {
         "name": "Girls MIA",
         "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 133848,
       "name": "Girls MIA",
       "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
+    },
+    {
+      "added_at": "2026-06-19 04:00:44",
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/4jUFrsx7SUpl3loOdo14MH"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 139867,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/0emddmBnIrINlvtvtuLkXI"
     },
     {
       "added_at": "2026-06-19 04:00:44",
@@ -2343,26 +2343,6 @@
     {
       "added_at": "2026-06-19 04:00:44",
       "album": {
-        "name": "Fuck My Computer (Frost Children Remix)",
-        "url": "https://open.spotify.com/album/3mkVo55KYmJAxy21rPssZ4"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 197956,
-      "name": "Fuck My Computer - Frost Children Remix",
-      "url": "https://open.spotify.com/track/4msZzTP3dJlqmHRhUb4v3f"
-    },
-    {
-      "added_at": "2026-06-19 04:00:44",
-      "album": {
         "name": "Work Dub",
         "url": "https://open.spotify.com/album/1bQczsMAUTzabEvTjzghAB"
       },
@@ -2383,6 +2363,26 @@
       "duration_ms": 190298,
       "name": "Work Dub",
       "url": "https://open.spotify.com/track/6cldCn0zKbOhBxoqMPR2o1"
+    },
+    {
+      "added_at": "2026-06-19 04:00:44",
+      "album": {
+        "name": "Fuck My Computer (Frost Children Remix)",
+        "url": "https://open.spotify.com/album/3mkVo55KYmJAxy21rPssZ4"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 197956,
+      "name": "Fuck My Computer - Frost Children Remix",
+      "url": "https://open.spotify.com/track/4msZzTP3dJlqmHRhUb4v3f"
     },
     {
       "added_at": "2026-06-19 04:00:44",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2026-06-19 04:00:44",
       "album": {
-        "name": "Supersonic/U Give Me Love",
-        "url": "https://open.spotify.com/album/1H4dvbpkkjTsRDz7iCsChN"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 133343,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/5mE2BgxJUZzpmFnmKEnjIt"
-    },
-    {
-      "added_at": "2026-06-19 04:00:44",
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/34vI2Yhs8mhxWMgWgK1Z9q"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 110878,
       "name": "Money",
       "url": "https://open.spotify.com/track/4EkzKYYjvYhrJICl3MlbeJ"
+    },
+    {
+      "added_at": "2026-06-19 04:00:44",
+      "album": {
+        "name": "Supersonic/U Give Me Love",
+        "url": "https://open.spotify.com/album/1H4dvbpkkjTsRDz7iCsChN"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 133343,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/5mE2BgxJUZzpmFnmKEnjIt"
     },
     {
       "added_at": "2026-06-19 04:00:44",

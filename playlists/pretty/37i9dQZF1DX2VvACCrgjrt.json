@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Disco Lines",
-  "num_followers": 1312940,
+  "num_followers": 1312958,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "CODEINE",
-        "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "CODEINE",
-      "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "4U",
         "url": "https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "CODEINE",
+        "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "CODEINE",
+      "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1435,30 +1435,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
-        "url": "https://open.spotify.com/album/09lXuOKN6H7VoiYY6BgTYN"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        },
-        {
-          "name": "RYA",
-          "url": "https://open.spotify.com/artist/64TQUhovZNp3Vt3N49yGTZ"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
-      "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "No Enemies (feat. Namasenda)",
         "url": "https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p"
       },
@@ -1479,6 +1455,30 @@
       "duration_ms": 160768,
       "name": "No Enemies (feat. Namasenda)",
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
+        "url": "https://open.spotify.com/album/09lXuOKN6H7VoiYY6BgTYN"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "RYA",
+          "url": "https://open.spotify.com/artist/64TQUhovZNp3Vt3N49yGTZ"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
+      "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
     },
     {
       "added_at": "2026-03-06 05:00:10",
@@ -1565,6 +1565,26 @@
       "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        }
+      ],
+      "duration_ms": 152288,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
+    },
+    {
       "added_at": "2026-04-10 04:02:08",
       "album": {
         "name": "Bad Girls",
@@ -1587,26 +1607,6 @@
       "duration_ms": 125199,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2M2mxEsoQpXXUujuxxBayv"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "Sam Silver",
-          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
-        }
-      ],
-      "duration_ms": 152288,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1661,26 +1661,6 @@
       "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
     },
     {
-      "added_at": "2026-02-06 05:00:42",
-      "album": {
-        "name": "KODAK",
-        "url": "https://open.spotify.com/album/7LdmGFahNZPl1EyBXeMyWS"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "KODAK",
-      "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Bass Face",
@@ -1699,6 +1679,26 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "added_at": "2026-02-06 05:00:42",
+      "album": {
+        "name": "KODAK",
+        "url": "https://open.spotify.com/album/7LdmGFahNZPl1EyBXeMyWS"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "KODAK",
+      "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1913,42 +1913,6 @@
       "url": "https://open.spotify.com/track/2TdF6zvbYsehxKHh7hgkn9"
     },
     {
-      "added_at": "2026-01-30 05:00:51",
-      "album": {
-        "name": "Get Wild",
-        "url": "https://open.spotify.com/album/2iFF3fDcodBi8SW2GkK4ad"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Bessey",
-          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
-        }
-      ],
-      "duration_ms": 164538,
-      "name": "Get Wild",
-      "url": "https://open.spotify.com/track/3F1VvVCelweDci1v0aJ6bV"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
-      },
-      "artists": [
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
-    },
-    {
       "added_at": "2026-01-23 05:00:24",
       "album": {
         "name": "GO GO GO",
@@ -1967,6 +1931,42 @@
       "duration_ms": 212307,
       "name": "GO GO GO",
       "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
+      },
+      "artists": [
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+        }
+      ],
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
+    },
+    {
+      "added_at": "2026-01-30 05:00:51",
+      "album": {
+        "name": "Get Wild",
+        "url": "https://open.spotify.com/album/2iFF3fDcodBi8SW2GkK4ad"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+        }
+      ],
+      "duration_ms": 164538,
+      "name": "Get Wild",
+      "url": "https://open.spotify.com/track/3F1VvVCelweDci1v0aJ6bV"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2065,6 +2065,22 @@
       "url": "https://open.spotify.com/track/4lNAIalHgxfJGztrrxVFom"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Sound of da Police",
+        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
+    },
+    {
       "added_at": "2026-04-03 04:01:48",
       "album": {
         "name": "SHE TOXIC",
@@ -2087,18 +2103,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Sound of da Police",
-        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
         }
       ],
-      "duration_ms": 140624,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
+      "duration_ms": 129461,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2117,20 +2133,20 @@
       "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-05-22 04:01:19",
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4p6EfGZqcdYmzg9ZVlGpHv"
       },
       "artists": [
         {
-          "name": "LUKE ALEXANDER",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
         }
       ],
-      "duration_ms": 129461,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
+      "duration_ms": 145036,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2151,22 +2167,6 @@
       "duration_ms": 182769,
       "name": "That's the Spot",
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
-    },
-    {
-      "added_at": "2026-05-22 04:01:19",
-      "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4p6EfGZqcdYmzg9ZVlGpHv"
-      },
-      "artists": [
-        {
-          "name": "MARTA",
-          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
-        }
-      ],
-      "duration_ms": 145036,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2277,22 +2277,6 @@
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
-      "added_at": "2026-02-27 05:00:47",
-      "album": {
-        "name": "Right Nahh",
-        "url": "https://open.spotify.com/album/2g99IUCFyi04QOYvPd6NDn"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 149817,
-      "name": "Right Nahh",
-      "url": "https://open.spotify.com/track/0WMZSRpCfrUwmqTUaqQZa3"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Freedom (Body Ocean Remix)",
@@ -2317,6 +2301,22 @@
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "Right Nahh",
+        "url": "https://open.spotify.com/album/2g99IUCFyi04QOYvPd6NDn"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 149817,
+      "name": "Right Nahh",
+      "url": "https://open.spotify.com/track/0WMZSRpCfrUwmqTUaqQZa3"
+    },
+    {
       "added_at": "2026-04-24 04:01:50",
       "album": {
         "name": "Mind On The Beat",
@@ -2335,38 +2335,6 @@
       "duration_ms": 164307,
       "name": "Mind On The Beat",
       "url": "https://open.spotify.com/track/7v0FrXXKGnVelJsJQubUxV"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 200610,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
-    },
-    {
-      "added_at": "2026-03-06 05:00:10",
-      "album": {
-        "name": "Hit The Ground",
-        "url": "https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 196521,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
     },
     {
       "added_at": "2026-05-22 04:01:19",
@@ -2391,6 +2359,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 200610,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
         "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
       },
@@ -2409,24 +2393,20 @@
       "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
     },
     {
-      "added_at": "2026-05-15 15:18:31",
+      "added_at": "2026-03-06 05:00:10",
       "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/3ZkDP7wAhnIXLH6MJilErr"
+        "name": "Hit The Ground",
+        "url": "https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ"
       },
       "artists": [
         {
-          "name": "G-POL",
-          "url": "https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM"
-        },
-        {
-          "name": "Arta (AE)",
-          "url": "https://open.spotify.com/artist/3LV6hrvnTleA3GdzN8RHsM"
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/3HH2w8W7uaauucUTOYcoAW"
+      "duration_ms": 196521,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
     },
     {
       "added_at": "2026-03-06 05:00:10",
@@ -2447,6 +2427,26 @@
       "duration_ms": 208636,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/26ymYN71kHUlWnK7i3xP3i"
+    },
+    {
+      "added_at": "2026-05-15 15:18:31",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/3ZkDP7wAhnIXLH6MJilErr"
+      },
+      "artists": [
+        {
+          "name": "G-POL",
+          "url": "https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM"
+        },
+        {
+          "name": "Arta (AE)",
+          "url": "https://open.spotify.com/artist/3LV6hrvnTleA3GdzN8RHsM"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/3HH2w8W7uaauucUTOYcoAW"
     }
   ],
   "unique_name": "Nasty Bits",

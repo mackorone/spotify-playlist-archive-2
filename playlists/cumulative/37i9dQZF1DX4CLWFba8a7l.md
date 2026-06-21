@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: The Avalanches
 
-660 songs - 1 day 12 hr 55 min
+661 songs - 1 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-31 |  |
 | [Music Sounds Better With Me](https://open.spotify.com/track/0eRtOlUsMueyPH3jIjkZrX) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [BCBC](https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN) | [it's Franky baby! \(Deluxe\)](https://open.spotify.com/album/6YJv1Ppcj1xKkkWPg1xmEq) | 2:41 | 2025-05-29 | 2025-06-06 |
 | [Must Be](https://open.spotify.com/track/4jYwgNne9MLJjkoQ3KTyX9) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Must Be](https://open.spotify.com/album/6AFChJzqPoA4WOpZVqtZTW) | 2:55 | 2026-03-26 | 2026-04-03 |
-| [My Baby's Place](https://open.spotify.com/track/5noMqCfgrkV3zOcCvpC6We) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [My Baby's Place](https://open.spotify.com/album/2SStqgA0tGcHofhYKgvyig) | 3:55 | 2026-03-19 |  |
+| [My Baby's Place](https://open.spotify.com/track/5noMqCfgrkV3zOcCvpC6We) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [My Baby's Place](https://open.spotify.com/album/2SStqgA0tGcHofhYKgvyig) | 3:55 | 2026-03-19 | 2026-06-21 |
 | [My House Divides](https://open.spotify.com/track/3aFrduOAwamwGOiyRkIP0T) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [My House Divides](https://open.spotify.com/album/0uZOSAVrPaP5YUg9V6ifcY) | 3:09 | 2026-03-12 | 2026-03-20 |
 | [my love](https://open.spotify.com/track/1rqnSTuaNTr3F5t2Q2gx3d) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [a few thoughts](https://open.spotify.com/album/6J01H7cgmsdyQzodSkTcoo) | 3:49 | 2025-02-13 | 2025-02-21 |
 | [My Loving](https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [My Loving](https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3) | 2:50 | 2026-02-26 |  |
@@ -457,6 +457,7 @@
 | [Prove](https://open.spotify.com/track/3b0xNfVAT1xj3hRkl23PD6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO) | [It Starts Again](https://open.spotify.com/album/6Pgc6rfkN8tH7Di52bEXnQ) | 3:04 | 2025-10-09 | 2025-10-17 |
 | [Punch Drunk Love](https://open.spotify.com/track/3pw0oGsWWY9vUVFcUlHq4O) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Punch Drunk Love](https://open.spotify.com/album/460d5gDLVH1L54u9wOyhbY) | 3:17 | 2025-09-18 | 2025-09-26 |
 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 | 2025-09-11 |  |
+| [Quiet When You’re Listening](https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Marginalia](https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot) | 2:58 | 2026-06-18 |  |
 | [R.I.P\. ME](https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [GODSPEED](https://open.spotify.com/album/7CUuQk7lCT1Stgs5bqt9hY) | 2:56 | 2025-11-28 | 2025-12-05 |
 | [Rage Against The Fatigue](https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Fall From The Light](https://open.spotify.com/album/1djGELF1UPU0WaaG8ChI7m) | 3:26 | 2025-07-31 | 2026-03-30 |
 | [Rain](https://open.spotify.com/track/1zB4PS1IM9J1bisacyxAUZ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Rain](https://open.spotify.com/album/2RtKnWQ5EI32NJxfmjTor6) | 3:28 | 2026-02-05 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Q\u00b4Lokura, Lauta & Amigo de Artistas",
-  "num_followers": 821150,
+  "num_followers": 821195,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "No Se Vivir Si No Es Contigo",
-        "url": "https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
-        }
-      ],
-      "duration_ms": 202149,
-      "name": "No Se Vivir Si No Es Contigo",
-      "url": "https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
         "name": "Ladr\u00f3n",
         "url": "https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 159215,
       "name": "Ladr\u00f3n",
       "url": "https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
+        "name": "No Se Vivir Si No Es Contigo",
+        "url": "https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "duration_ms": 202149,
+      "name": "No Se Vivir Si No Es Contigo",
+      "url": "https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -1915,22 +1915,18 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "El Trato",
-        "url": "https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire"
+        "name": "Atado a un Sentimiento",
+        "url": "https://open.spotify.com/album/3hNqD2OaRuOpj9EWUw7pSS"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+          "name": "Chipote",
+          "url": "https://open.spotify.com/artist/6zuShqSKzYP7ZPGMkMFhbL"
         }
       ],
-      "duration_ms": 191177,
-      "name": "El Trato",
-      "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
+      "duration_ms": 238576,
+      "name": "Los Gatos No Ladran",
+      "url": "https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -1955,18 +1951,22 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Atado a un Sentimiento",
-        "url": "https://open.spotify.com/album/3hNqD2OaRuOpj9EWUw7pSS"
+        "name": "El Trato",
+        "url": "https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire"
       },
       "artists": [
         {
-          "name": "Chipote",
-          "url": "https://open.spotify.com/artist/6zuShqSKzYP7ZPGMkMFhbL"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
         }
       ],
-      "duration_ms": 238576,
-      "name": "Los Gatos No Ladran",
-      "url": "https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF"
+      "duration_ms": 191177,
+      "name": "El Trato",
+      "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
     }
   ],
   "unique_name": "100% Cuarteto",

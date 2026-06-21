@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Esther Oji
 
-8,274 songs - 25 day 13 hr 48 min
+8,275 songs - 25 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1477,6 +1477,7 @@
 | [Dit Is Genade](https://open.spotify.com/track/0qrsmFLAFTzRf6Dt7IhESx) | [Charlie Dicks](https://open.spotify.com/artist/3ohWEhMUmqeRGBIpsXjU8C) | [Dit Is Genade](https://open.spotify.com/album/7e9gQ5eaOb9Y4fNXOH9THN) | 2:53 | 2023-05-26 | 2023-06-09 |
 | [DITFK \(Do it for the King\)](https://open.spotify.com/track/0RhDNxkypORUcETtRzpM3O) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS) | [DITFK \(Do it for the King\)](https://open.spotify.com/album/3VQb6OLg5lq1Y7PZotxKrN) | 1:31 | 2023-11-24 | 2023-12-08 |
 | [Divai \- Remix](https://open.spotify.com/track/4qkAgX71DqRKJIfetnxH0m) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Divai \(Remix\)](https://open.spotify.com/album/1P3nCDmnJjgaRS8PlzdT3K) | 1:16 | 2024-09-06 | 2024-09-20 |
+| [DIVINE](https://open.spotify.com/track/76YuA6sXu6j2rHke168FDj) | [Rosey](https://open.spotify.com/artist/2nUGMD83hQ6sJSOyNy559L) | [DIVINE](https://open.spotify.com/album/239WUfdExJsLxosZIEg9AE) | 2:50 | 2026-06-20 |  |
 | [Divine](https://open.spotify.com/track/3SZYa3CXgLNmWKiJ5747St) | [Sublime Elevation](https://open.spotify.com/artist/4tRNO66GV2N5FoE9fSD6ld), [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Divine](https://open.spotify.com/album/26yXm91wrbb5xW6sAxPn3D) | 2:48 | 2025-04-11 | 2025-04-18 |
 | [Divine \- Sped up](https://open.spotify.com/track/7L9mdS1kYjkNkJO3MKDPlo) | [Sublime Elevation](https://open.spotify.com/artist/4tRNO66GV2N5FoE9fSD6ld) | [Divine \(Sped up\)](https://open.spotify.com/album/0VVW79ZKQ0iRfjjQckB9t8) | 2:29 | 2025-06-13 | 2025-06-27 |
 | [Divine Encounter \- Remix](https://open.spotify.com/track/59O7FMhr73Dxxv5B1NVeY3) | [Mozis Bam](https://open.spotify.com/artist/32yYMGuMRWGAO4nmVKjV8c), [Firbrazy](https://open.spotify.com/artist/6K7LMHmz3TydG0mQyWVFNL) | [Divine Encounter \(Remix\)](https://open.spotify.com/album/0fh48e9Uy3ri7RFsSE2aD3) | 3:50 | 2024-02-02 | 2024-02-16 |

@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141364,
+  "num_followers": 141379,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -807,30 +807,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
-        "url": "https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1"
-      },
-      "artists": [
-        {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        },
-        {
-          "name": "Chavant\u00e9",
-          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
-        },
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        }
-      ],
-      "duration_ms": 152615,
-      "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
-      "url": "https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 130546,
       "name": "Carrousel",
       "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
+        "url": "https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        },
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "duration_ms": 152615,
+      "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
+      "url": "https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
+        "name": "yawa",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "yawa",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
         "name": "Van Mij Zijn",
         "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 166911,
       "name": "Van Mij Zijn",
       "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
-        "name": "yawa",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "yawa",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1463,26 +1463,18 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Herinnering",
-        "url": "https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV"
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
       },
       "artists": [
         {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+          "name": "Yssine",
+          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
         }
       ],
-      "duration_ms": 154663,
-      "name": "Herinnering",
-      "url": "https://open.spotify.com/track/17iAh2zKuYtwOSTFvQIYY0"
+      "duration_ms": 161901,
+      "name": "Wild West",
+      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1523,18 +1515,26 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
+        "name": "Herinnering",
+        "url": "https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV"
       },
       "artists": [
         {
-          "name": "Yssine",
-          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
         }
       ],
-      "duration_ms": 161901,
-      "name": "Wild West",
-      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
+      "duration_ms": 154663,
+      "name": "Herinnering",
+      "url": "https://open.spotify.com/track/17iAh2zKuYtwOSTFvQIYY0"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1659,30 +1659,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Ik Heb Je",
-        "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
-      },
-      "artists": [
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "Yssi SB",
-          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
-        }
-      ],
-      "duration_ms": 194347,
-      "name": "Ik Heb Je (met Henkie T & Yssi SB)",
-      "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "Baddie",
         "url": "https://open.spotify.com/album/0u9XpTRBvmMooQZokHW7il"
       },
@@ -1711,6 +1687,30 @@
       "duration_ms": 158927,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "Ik Heb Je",
+        "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        }
+      ],
+      "duration_ms": 194347,
+      "name": "Ik Heb Je (met Henkie T & Yssi SB)",
+      "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        },
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "duration_ms": 211304,
+      "name": "180",
+      "url": "https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
         "name": "Amazin\u2019 (Remix)",
         "url": "https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 175250,
       "name": "Amazin' - Remix",
       "url": "https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
-        "name": "180",
-        "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        },
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "180",
-      "url": "https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9"
     },
     {
       "added_at": "2026-06-11 07:46:46",

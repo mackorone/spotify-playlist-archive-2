@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover:  Leonardo Ringo
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,963 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,968 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 30 | [Stay](https://open.spotify.com/track/1Mk7OXg1AxopGOWsPL5GQf) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [Stay](https://open.spotify.com/album/1oA3WqpcTfAGsYzMixuToO) | 4:02 |
 | 31 | [Tentang Dunia dan Masa Muda](https://open.spotify.com/track/4gHRbKrk17CxWEEvEMLNpV) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Tentang Dunia dan Masa Muda](https://open.spotify.com/album/6OIxujlnQ7BUq9q1J4zEqJ) | 4:15 |
 | 32 | [February Ends](https://open.spotify.com/track/4cVwMS4jnuLRFvmEc3O5b6) | [aditt](https://open.spotify.com/artist/7cFuwo3V3uBt5FT62ap6gj) | [Trilogy of Gratitude](https://open.spotify.com/album/62fTJGjNItIoxe4p18KTRm) | 2:59 |
-| 33 | [Past Lives](https://open.spotify.com/track/5thA4P9tQFYxFQNJXqhJW8) | [adoracion](https://open.spotify.com/artist/24t67LUda95ichX4Rz0Rlr) | [Past Lives](https://open.spotify.com/album/11hQsk3ClOoOFmrOaGCpJz) | 3:54 |
+| 33 | [Past Lives](https://open.spotify.com/track/5thA4P9tQFYxFQNJXqhJW8) | [Adoracion](https://open.spotify.com/artist/2IdrP1cIBMKMzw2qxshiKF) | [Past Lives](https://open.spotify.com/album/11hQsk3ClOoOFmrOaGCpJz) | 3:54 |
 | 34 | [Had Enough](https://open.spotify.com/track/6hWP8Bt2AaJG6SZgyZ9Vve) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [On Me](https://open.spotify.com/album/60u16N14Yno47bQNlYo4jw) | 3:28 |
 | 35 | [In This Burnin' World](https://open.spotify.com/track/3CKIwwfOLHo0rmKlyjMqfS) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [In This Burnin' World](https://open.spotify.com/album/3Ws1eaRlUZRinh7TnrnJ9t) | 4:18 |
 | 36 | [Ok Not To Be Ok](https://open.spotify.com/track/6kCA2XMmaMhbXzvZC2MzBn) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk) | [Humanoid Heart](https://open.spotify.com/album/0dFsMYOJCh20Fk6tvxUcDe) | 3:12 |

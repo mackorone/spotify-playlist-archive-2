@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Motive
 
-1,043 songs - 1 day 22 hr 37 min
+1,044 songs - 1 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [Ghettobébé](https://open.spotify.com/track/3cWYzQQHEm6n55unS9ZWiz) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/0wqQ5avF8r5DKkQKSYb5bm) | 2:32 | 2025-11-13 | 2025-12-19 |
 | [GHETTOMAN](https://open.spotify.com/track/3hbWiGDEItdBZLtTCueewe) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [GHETTOMAN](https://open.spotify.com/album/0LZhkLhHJIPopDt0NjEF2M) | 2:28 | 2023-03-02 | 2023-03-25 |
 | [Gibi](https://open.spotify.com/track/4iKftOZWorMkLpeZpGI2nF) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [2024 Bootleg](https://open.spotify.com/album/2gHBAriairZLVMKT4yn0Mo) | 3:21 | 2025-01-02 | 2025-02-21 |
-| [Gibi](https://open.spotify.com/track/77zviObPi2tu9F5JvwwLAq) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [Gibi](https://open.spotify.com/album/76JYUj6Tp6mHJwmknYgIYW) | 2:53 | 2026-03-12 |  |
+| [Gibi](https://open.spotify.com/track/77zviObPi2tu9F5JvwwLAq) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [Gibi](https://open.spotify.com/album/76JYUj6Tp6mHJwmknYgIYW) | 2:53 | 2026-03-12 | 2026-06-21 |
 | [Gidemem](https://open.spotify.com/track/5VzWVTB0F3nVSK25OsJxVw) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh), [Kibariye](https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90) | [Gidemem](https://open.spotify.com/album/1oXVgFvLiexNS48eLlEuLV) | 2:28 | 2024-02-29 | 2024-04-12 |
 | [Giderim](https://open.spotify.com/track/0uGvVYlbjieugHG7ANUj5k) | [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Uni\-Q](https://open.spotify.com/artist/0bwcUoGBPilAxCL5wdYNzf) | [Giderim](https://open.spotify.com/album/0tAlX5pl15ZPHPdKWx8uBf) | 2:52 | 2024-05-09 | 2024-05-24 |
 | [Gitme Bebé](https://open.spotify.com/track/6hCQeXoFDXvYZ0pu2MDM0h) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Gitme Bebé](https://open.spotify.com/album/7pqk9NL58kPzkX1tayqO4G) | 2:36 | 2023-01-10 | 2023-02-03 |
@@ -484,7 +484,7 @@
 | [JET BABA](https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [JET BABA](https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm) | 2:20 | 2023-12-12 | 2024-11-29 |
 | [JUJU](https://open.spotify.com/track/4h5BOdxRn2L06t57r9201X) | [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [JUJU](https://open.spotify.com/album/5gKZKAvSznaBx7HirDxRyx) | 2:14 | 2025-07-10 | 2025-08-01 |
 | [Jurassic Park](https://open.spotify.com/track/3xWQkZCyuRyo8s1QGUon0b) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Jurassic Park](https://open.spotify.com/album/49wygB8XrpyS7fG8XdGkZ6) | 3:21 | 2023-01-10 | 2023-03-03 |
-| [Kadeh](https://open.spotify.com/track/53GwZ2Dd04184MmW8NAeX7) | [Ohash](https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [AsyA](https://open.spotify.com/artist/0GqpS2c6NoGY29lJ7FcvJY) | [HARMAN](https://open.spotify.com/album/37xNkJAFsxW8Hx7MMpt2xq) | 2:25 | 2026-06-11 |  |
+| [Kadeh](https://open.spotify.com/track/53GwZ2Dd04184MmW8NAeX7) | [Ohash](https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId) | [HARMAN](https://open.spotify.com/album/37xNkJAFsxW8Hx7MMpt2xq) | 2:25 | 2026-06-11 |  |
 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 | 2024-07-25 | 2025-10-03 |
 | [KAFAMA GÖRE](https://open.spotify.com/track/4FbfcDH6i1YeSm6ilNHXAw) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [KAFAMA GÖRE](https://open.spotify.com/album/0umpW0vx4KSlwunhKUW0MD) | 2:45 | 2023-09-07 | 2023-09-22 |
 | [KAFAMDA TAARUZLAR](https://open.spotify.com/track/2qNvy6faKCVR3mytQsuvDH) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2), [Mueckebeatz](https://open.spotify.com/artist/2mBcOvj8XfnVfyH1evRjSO) | [KAFAMDA TAARUZLAR](https://open.spotify.com/album/4IPAHEwFMOb9URHjyj5JPl) | 2:26 | 2026-03-19 | 2026-04-03 |
@@ -912,6 +912,7 @@
 | [Turkish Drill](https://open.spotify.com/track/0fbeXFhCD6uaKOt87QtLr4) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Turkish Drill](https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St) | 2:41 | 2023-01-10 | 2023-02-17 |
 | [TUZAK](https://open.spotify.com/track/4gGbpg8ReIJLP76IFyTLgs) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [TUZAK](https://open.spotify.com/album/17wcTygeAOQwBEIkGItzAX) | 3:16 | 2023-04-20 | 2023-05-04 |
 | [Tuzak](https://open.spotify.com/track/1FMJcAZRu3XbsFC72nZ22w) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [Tuzak](https://open.spotify.com/album/71SVOWI7ILlkWdTBZ3ah23) | 2:05 | 2023-01-10 | 2023-01-13 |
+| [TUZAK](https://open.spotify.com/track/1vYjLlQ91DqZ9x5uH0sSx9) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [TUZAK](https://open.spotify.com/album/1GtqOcWRUuWsS5jDlIo1gx) | 2:48 | 2026-06-20 |  |
 | [tüm dünya vatanım](https://open.spotify.com/track/1OxUBpLWJ83ot4ArgCWfMn) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [tüm dünya vatanım](https://open.spotify.com/album/2ABSNEgsr3mkclxbXT6gHk) | 2:28 | 2023-08-17 | 2023-09-01 |
 | [Türkiye'm](https://open.spotify.com/track/0XsqXgOOn0M3Qd4ttGPiPe) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Türkiye'm](https://open.spotify.com/album/0WVp1gOAwIOgaSxrpbF4QF) | 2:18 | 2026-06-04 | 2026-06-19 |
 | [Tütün ve Votka](https://open.spotify.com/track/3rChwQtcybuGqF5kfob8mw) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Tütün ve Votka](https://open.spotify.com/album/51y5OLSxt06tGylhpniMrB) | 1:44 | 2025-12-18 | 2026-01-30 |

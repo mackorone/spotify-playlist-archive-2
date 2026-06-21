@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > De beste nieuwe R&B releases \| Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,258 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,248 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,20 +47,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 37 | [Reclusive](https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Reclusive](https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz) | 3:06 |
 | 38 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
 | 39 | [DUVET](https://open.spotify.com/track/6AC9alC8qJ7cXuYifgAfQn) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST DELU/XXX \[for my delusional ex\]](https://open.spotify.com/album/4cwTNbK4eKfA98HHIdh4m0) | 2:31 |
-| 40 | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo) | 2:28 |
-| 41 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
-| 42 | [Elements](https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Elements](https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp) | 3:27 |
+| 40 | [Elements](https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Elements](https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp) | 3:27 |
+| 41 | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo) | 2:28 |
+| 42 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
 | 43 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 |
 | 44 | [Miss That](https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Miss That](https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9) | 2:56 |
 | 45 | [I Need Her](https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:37 |
 | 46 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
 | 47 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 |
 | 48 | [back 'n forth](https://open.spotify.com/track/57c824155MOILKW4B9i26h) | [Chuka, The Destroyer](https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys) | [back 'n forth](https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED) | 3:17 |
-| 49 | [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 |
-| 50 | [Damage Control](https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:30 |
+| 49 | [Damage Control](https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:30 |
+| 50 | [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 |
 | 51 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 |
-| 52 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
-| 53 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 |
+| 52 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 |
+| 53 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
 | 54 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
 | 55 | [U Gotta](https://open.spotify.com/track/20RR34NvvcSas9GdZUrAhq) | [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc), [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7) | [U Gotta](https://open.spotify.com/album/30VqT2rbEknTdCZt1n0Rci) | 2:02 |
 | 56 | [No](https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:26 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 59 | [Useless \(Without You\)](https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Useless \(Without You\)](https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35) | 2:46 |
 | 60 | [SPEECHLESS](https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [HIATUS](https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE) | 3:34 |
 | 61 | [Why](https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Why](https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes) | 2:32 |
-| 62 | [Just Like You](https://open.spotify.com/track/3vUbxLf8vr3KmI5Dqpfzqz) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just Like You](https://open.spotify.com/album/7Aqv6M8ONnqRIjBx99XLoQ) | 3:06 |
-| 63 | [I'm Still](https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [I'm Still](https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu) | 2:42 |
+| 62 | [I'm Still](https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [I'm Still](https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu) | 2:42 |
+| 63 | [Just Like You](https://open.spotify.com/track/3vUbxLf8vr3KmI5Dqpfzqz) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just Like You](https://open.spotify.com/album/7Aqv6M8ONnqRIjBx99XLoQ) | 3:06 |
 | 64 | [Priceless](https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Priceless](https://open.spotify.com/album/0rOB8NbQgAirEY5A2qvf84) | 2:39 |
 | 65 | [SA NA SAN](https://open.spotify.com/track/1YQ7UbplDV4LGXeLvWVwRj) | [Amazone](https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46) | [SA NA SAN](https://open.spotify.com/album/3UoYIWj5tFDxbxeh8VqIU8) | 2:35 |
 | 66 | [Sleepwalking](https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Sleepwalking](https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO) | 2:42 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 78 | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L) | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd) | 3:17 |
 | 79 | [Tricks Are For Kids](https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Tricks Are For Kids](https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO) | 2:20 |
 | 80 | [Cutesy](https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cutesy](https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6) | 3:01 |
-| 81 | [Desire \- Spotify Singles](https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Desire \- Spotify Singles](https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i) | 3:45 |
-| 82 | [10AM](https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [10AM](https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD) | 3:36 |
+| 81 | [10AM](https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [10AM](https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD) | 3:36 |
+| 82 | [Desire \- Spotify Singles](https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Desire \- Spotify Singles](https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i) | 3:45 |
 | 83 | [Overrated](https://open.spotify.com/track/2NN4IYo4XsCPn0jcl8n12K) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Overrated](https://open.spotify.com/album/5ehxxi3VjaQ825YmJrFHxL) | 3:11 |
 | 84 | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt) | 3:18 |
 | 85 | [What I Used To Get Into](https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Dark Nights](https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Watch You Leave](https://open.spotify.com/track/71H62uTyeyqMwIvtCispPT) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Watch You Leave](https://open.spotify.com/album/6k3Dsk5NOsGhXx78guGx1y) | 4:23 |
 | 100 | [From A Distance](https://open.spotify.com/track/1VW6rRYpdTRJ3WCgLovnOe) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [From A Distance](https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG) | 3:03 |
 
-Snapshot ID: `AAAAANKlezCcla7QBT2crtIprIn3HrPF`
+Snapshot ID: `AAAAAERomHWCzRrwdLi/e0cKgIP/7NYF`

@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: FIt For An Autopsy",
-  "num_followers": 296643,
+  "num_followers": 296729,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "To Rid Myself Of Truth",
-        "url": "https://open.spotify.com/album/4V7kK1ChSXsCvUFxqGHQnx"
+        "name": "Purge",
+        "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
       },
       "artists": [
         {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
         }
       ],
-      "duration_ms": 236250,
-      "name": "Natural Selection",
-      "url": "https://open.spotify.com/track/53V9f6KYje1szmkJeMBlJ5"
+      "duration_ms": 282909,
+      "name": "Purge",
+      "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Purge",
-        "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
+        "name": "To Rid Myself Of Truth",
+        "url": "https://open.spotify.com/album/4V7kK1ChSXsCvUFxqGHQnx"
       },
       "artists": [
         {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
         }
       ],
-      "duration_ms": 282909,
-      "name": "Purge",
-      "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
+      "duration_ms": 236250,
+      "name": "Natural Selection",
+      "url": "https://open.spotify.com/track/53V9f6KYje1szmkJeMBlJ5"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1039,22 +1039,6 @@
       "duration_ms": 221325,
       "name": "Snapped Neck",
       "url": "https://open.spotify.com/track/5cex1G9SdIUJjSOWInsJnp"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Born To Lose",
-        "url": "https://open.spotify.com/album/4vWFFMOKx27LnPbGP4HeF6"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 192553,
-      "name": "Born To Lose",
-      "url": "https://open.spotify.com/track/3w7hEGQDeQl6GKPIRT4hGp"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1079,22 +1063,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Carrion Ladder",
-        "url": "https://open.spotify.com/album/5qsI8CMeAR4im68zC3x1dn"
-      },
-      "artists": [
-        {
-          "name": "Archspire",
-          "url": "https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih"
-        }
-      ],
-      "duration_ms": 263655,
-      "name": "Carrion Ladder",
-      "url": "https://open.spotify.com/track/5g2t6L0K8b3p2lXFvYuNn9"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/7atT7sF2atM7kc7yR1krit"
       },
@@ -1107,6 +1075,38 @@
       "duration_ms": 266000,
       "name": "Dynasty",
       "url": "https://open.spotify.com/track/2th7mWLxZNhBqfa0IHC6b3"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Born To Lose",
+        "url": "https://open.spotify.com/album/4vWFFMOKx27LnPbGP4HeF6"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 192553,
+      "name": "Born To Lose",
+      "url": "https://open.spotify.com/track/3w7hEGQDeQl6GKPIRT4hGp"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Carrion Ladder",
+        "url": "https://open.spotify.com/album/5qsI8CMeAR4im68zC3x1dn"
+      },
+      "artists": [
+        {
+          "name": "Archspire",
+          "url": "https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih"
+        }
+      ],
+      "duration_ms": 263655,
+      "name": "Carrion Ladder",
+      "url": "https://open.spotify.com/track/5g2t6L0K8b3p2lXFvYuNn9"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Righteous Man",
-        "url": "https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI"
+        "name": "Bleeding Sun",
+        "url": "https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO"
       },
       "artists": [
         {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
         }
       ],
-      "duration_ms": 228444,
-      "name": "Righteous Man",
-      "url": "https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV"
+      "duration_ms": 219692,
+      "name": "Bleeding Sun",
+      "url": "https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Bleeding Sun",
-        "url": "https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO"
+        "name": "Righteous Man",
+        "url": "https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI"
       },
       "artists": [
         {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
         }
       ],
-      "duration_ms": 219692,
-      "name": "Bleeding Sun",
-      "url": "https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8"
+      "duration_ms": 228444,
+      "name": "Righteous Man",
+      "url": "https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Aeons of Oblivion",
+        "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        },
+        {
+          "name": "Adam Warren",
+          "url": "https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr"
+        }
+      ],
+      "duration_ms": 221446,
+      "name": "Aeons of Oblivion",
+      "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "Desecrate Infinite",
         "url": "https://open.spotify.com/album/5RiOQviWhbcKtjvO1F2e6Y"
       },
@@ -1423,26 +1443,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Aeons of Oblivion",
-        "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        },
-        {
-          "name": "Adam Warren",
-          "url": "https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr"
-        }
-      ],
-      "duration_ms": 221446,
-      "name": "Aeons of Oblivion",
-      "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Hivemind (feat. Mental Cruelty)",
         "url": "https://open.spotify.com/album/340YpLo1eaYz1Gxbd6LTjU"
       },
@@ -1459,6 +1459,30 @@
       "duration_ms": 385824,
       "name": "Hivemind (feat. Mental Cruelty)",
       "url": "https://open.spotify.com/track/68m6nXeQLEUYDdlvikMdHU"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Spirit (feat. Tyler Beam of The Last Ten Seconds Of Life)",
+        "url": "https://open.spotify.com/album/2kvMb8wE8J9hnrBzvBecNI"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        },
+        {
+          "name": "Tyler Beam",
+          "url": "https://open.spotify.com/artist/1YlQrEMacN3lLi1BKDtrLD"
+        },
+        {
+          "name": "The Last Ten Seconds of Life",
+          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
+        }
+      ],
+      "duration_ms": 173624,
+      "name": "Spirit (feat. Tyler Beam of The Last Ten Seconds Of Life)",
+      "url": "https://open.spotify.com/track/2hSjpNE3JZtPDuA8zG6pMT"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1495,46 +1519,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Moments of Misery",
-        "url": "https://open.spotify.com/album/3WAYSoXWabbEFu2yjSU4Qg"
-      },
-      "artists": [
-        {
-          "name": "Heavy//Hitter",
-          "url": "https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "Heaven's Gate",
-      "url": "https://open.spotify.com/track/7nqXXHiraoBCFk7JBcx17Q"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Spirit (feat. Tyler Beam of The Last Ten Seconds Of Life)",
-        "url": "https://open.spotify.com/album/2kvMb8wE8J9hnrBzvBecNI"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        },
-        {
-          "name": "Tyler Beam",
-          "url": "https://open.spotify.com/artist/1YlQrEMacN3lLi1BKDtrLD"
-        },
-        {
-          "name": "The Last Ten Seconds of Life",
-          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
-        }
-      ],
-      "duration_ms": 173624,
-      "name": "Spirit (feat. Tyler Beam of The Last Ten Seconds Of Life)",
-      "url": "https://open.spotify.com/track/2hSjpNE3JZtPDuA8zG6pMT"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Sing to the Grave",
         "url": "https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 159417,
       "name": "Sing to the Grave",
       "url": "https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Moments of Misery",
+        "url": "https://open.spotify.com/album/3WAYSoXWabbEFu2yjSU4Qg"
+      },
+      "artists": [
+        {
+          "name": "Heavy//Hitter",
+          "url": "https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "Heaven's Gate",
+      "url": "https://open.spotify.com/track/7nqXXHiraoBCFk7JBcx17Q"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/2AAnQSF4VAUQzIg8BSETpz"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        },
-        {
-          "name": "Tim Lambesis",
-          "url": "https://open.spotify.com/artist/5ZRwRGRwqJbmGUDlmxKsP9"
-        }
-      ],
-      "duration_ms": 269142,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/7deQhRSrzcKOoID5EPvHCl"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Empty Heaven",
         "url": "https://open.spotify.com/album/0rgqlUWqbfPrenCXaTeytf"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 171739,
       "name": "Good People",
       "url": "https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2AAnQSF4VAUQzIg8BSETpz"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        },
+        {
+          "name": "Tim Lambesis",
+          "url": "https://open.spotify.com/artist/5ZRwRGRwqJbmGUDlmxKsP9"
+        }
+      ],
+      "duration_ms": 269142,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/7deQhRSrzcKOoID5EPvHCl"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r"
-      },
-      "artists": [
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Alter of Self",
         "url": "https://open.spotify.com/album/1uaRwI5nCeV09tfBvhS1bD"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 189704,
       "name": "Alter of Self",
       "url": "https://open.spotify.com/track/222Pr7e0L9peOkdKVY9fIX"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Cut Off The Head",
-        "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
-      },
-      "artists": [
-        {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
-        }
-      ],
-      "duration_ms": 210352,
-      "name": "Cut off the Head",
-      "url": "https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Bullets in My Teeth",
         "url": "https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 295714,
       "name": "Bullets in My Teeth",
       "url": "https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Cut Off The Head",
+        "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
+      },
+      "artists": [
+        {
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+        }
+      ],
+      "duration_ms": 210352,
+      "name": "Cut off the Head",
+      "url": "https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8"
     },
     {
       "added_at": "2026-03-22 01:11:05",

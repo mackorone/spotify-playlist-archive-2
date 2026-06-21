@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 104498,
+  "num_followers": 104527,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAACTRt27fQEsg93vqDLdCfmL",
+  "snapshot_id": "ajSGgAAAAADdINNfj6LlZ+Rm+nxSVM4b",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Gran Fuga (Remastered 2024)",
+        "url": "https://open.spotify.com/album/1wTxhorwJ7sqFHqzgNi2Ak"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 265913,
+      "name": "Abuelita - Remastered 2024",
+      "url": "https://open.spotify.com/track/10fLErlEExaTeFbr7dZuZA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Del Solar De Los Aburridos",
         "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 364160,
       "name": "Ligia Elena",
       "url": "https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Gran Fuga (Remastered 2024)",
-        "url": "https://open.spotify.com/album/1wTxhorwJ7sqFHqzgNi2Ak"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 265913,
-      "name": "Abuelita - Remastered 2024",
-      "url": "https://open.spotify.com/track/10fLErlEExaTeFbr7dZuZA"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coraz\u00f3n Guerrero",
-        "url": "https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 422640,
       "name": "Dime",
       "url": "https://open.spotify.com/track/43Ste93jKi3inP498OAXP8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coraz\u00f3n Guerrero",
+        "url": "https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 295480,
-      "name": "Te Conozco",
-      "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 331440,
       "name": "Mar\u00eda Lionza",
       "url": "https://open.spotify.com/track/5MyPzq1IsxS1x7FkhdpJUF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 295480,
+      "name": "Te Conozco",
+      "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
     },
     {
       "added_at": null,

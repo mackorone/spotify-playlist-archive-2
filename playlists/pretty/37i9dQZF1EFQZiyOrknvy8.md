@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 66 | [Getting There](https://open.spotify.com/track/1YdUjBLiapo6at7XhMn0mq) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz), [Lapsi](https://open.spotify.com/artist/5ZcPF93TyiZ6F0M3S1cRLm) | [Getting There](https://open.spotify.com/album/7eKNpLH2MyOfStA0lgvfLf) | 2:36 |
 | 67 | [Can't Stop Now](https://open.spotify.com/track/3mA95S5jE0L2SYH7UR9deJ) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:03 |
 | 68 | [Drop It Down](https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Drop It Down](https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF) | 2:12 |
-| 69 | [Ain't Got You](https://open.spotify.com/track/398zDB2sTOxcEb5pLsHRyk) | [Bars and Melody](https://open.spotify.com/artist/6Tm0hIf7nSjDziOzpGFzKl) | [SADBOI](https://open.spotify.com/album/5Vtc4bUSEbiYTUOoeIDPga) | 3:01 |
-| 70 | [Du Fehlst Hier](https://open.spotify.com/track/5qD7oqZsxQ7JPSB4LE6EK8) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Halbzeit](https://open.spotify.com/album/5mbpVmDxFNVp1Y3QTI5mU5) | 2:49 |
+| 69 | [Du Fehlst Hier](https://open.spotify.com/track/5qD7oqZsxQ7JPSB4LE6EK8) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Halbzeit](https://open.spotify.com/album/5mbpVmDxFNVp1Y3QTI5mU5) | 2:49 |
+| 70 | [Ain't Got You](https://open.spotify.com/track/398zDB2sTOxcEb5pLsHRyk) | [Bars and Melody](https://open.spotify.com/artist/6Tm0hIf7nSjDziOzpGFzKl) | [SADBOI](https://open.spotify.com/album/5Vtc4bUSEbiYTUOoeIDPga) | 3:01 |
 | 71 | [Alle guten Dinge](https://open.spotify.com/track/3SgP2O7hlKFmf44IJwlAUp) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 2:38 |
 | 72 | [Neu erzählen](https://open.spotify.com/track/3i3Bll98MHvH79r5SqzwbD) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Neu erzählen](https://open.spotify.com/album/0hQxTlc00nOIwjL52YXnQy) | 3:26 |
 | 73 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 157 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 158 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcUq5gAAAACKtUx/FWrUWarHyhxVdw4Z`
+Snapshot ID: `AcUwwgAAAACGNpYeR2jsTKvK5V0TOLrq`

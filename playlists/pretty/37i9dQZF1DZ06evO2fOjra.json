@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 573053,
+  "num_followers": 573134,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAADgClKHfWAcVDUc1IBeDpWq",
+  "snapshot_id": "ajSGgAAAAAAYXkI/hL8uQFc6qE9Bva2e",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reward the Scars",
-        "url": "https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 215455,
-      "name": "Reward the Scars",
-      "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Issues",
         "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 235613,
       "name": "Make Me Bad",
       "url": "https://open.spotify.com/track/286ek1kspX7VFaheXFSvPk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reward the Scars",
+        "url": "https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 215455,
+      "name": "Reward the Scars",
+      "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Issues",
         "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 227590,
       "name": "Somebody Someone",
       "url": "https://open.spotify.com/track/4V78u7Pbx6G33eej60wwOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 244493,
-      "name": "Did My Time",
-      "url": "https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Untouchables",
         "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 272920,
       "name": "Thoughtless",
       "url": "https://open.spotify.com/track/6HlFxHQ5nn6HYGxOOYIrLm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "Did My Time",
+      "url": "https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH"
     },
     {
       "added_at": null,

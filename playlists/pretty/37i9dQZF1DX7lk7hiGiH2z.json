@@ -1,6 +1,6 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 60793,
+  "num_followers": 60790,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Lern- und Spa\u00dflieder",
-        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Das Farbenlied",
-      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
         "name": "Das Gelbe vom Schwamm",
         "url": "https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 210333,
       "name": "In den Urlaub",
       "url": "https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
+        "name": "Lern- und Spa\u00dflieder",
+        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
+      },
+      "artists": [
+        {
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Das Farbenlied",
+      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Meine Lieblingskinderlieder",
-        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 147374,
-      "name": "LiederTiger Lied",
-      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
         "name": "Schmetterlingskacke",
         "url": "https://open.spotify.com/album/4oN2rHeLP0ktDYl2RMZWc0"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 182213,
       "name": "Glitzer",
       "url": "https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
+        "name": "Meine Lieblingskinderlieder",
+        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 147374,
+      "name": "LiederTiger Lied",
+      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Kinderlieder f\u00fcr den Urlaub - EP",
-        "url": "https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 126232,
-      "name": "Ab in den Urlaub",
-      "url": "https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
         "name": "Giraffenaffen",
         "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "ordentlich durcheinander",
-        "url": "https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa"
+        "name": "Kinderlieder f\u00fcr den Urlaub - EP",
+        "url": "https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0"
       },
       "artists": [
         {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 178426,
-      "name": "Wir holen euch ab",
-      "url": "https://open.spotify.com/track/76mevuKh4WonFC305wU9BD"
+      "duration_ms": 126232,
+      "name": "Ab in den Urlaub",
+      "url": "https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -811,6 +795,22 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
+        "name": "ordentlich durcheinander",
+        "url": "https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa"
+      },
+      "artists": [
+        {
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Wir holen euch ab",
+      "url": "https://open.spotify.com/track/76mevuKh4WonFC305wU9BD"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
         "name": "Das gr\u00fcne Album",
         "url": "https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R"
       },
@@ -827,6 +827,34 @@
       "duration_ms": 134265,
       "name": "Sommerzeit",
       "url": "https://open.spotify.com/track/1naDrs3vJoTuF5CokDfPGi"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
+        "name": "Sommer",
+        "url": "https://open.spotify.com/album/07lh3EusxSMocrboK796JF"
+      },
+      "artists": [
+        {
+          "name": "Kinders",
+          "url": "https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN"
+        },
+        {
+          "name": "Gentleman",
+          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
+        },
+        {
+          "name": "Remmi Demmi",
+          "url": "https://open.spotify.com/artist/4bLZXiel2Er87VCdVLMEeW"
+        },
+        {
+          "name": "Matti MC",
+          "url": "https://open.spotify.com/artist/0c0NoscMWOTJGeYNsbAUjE"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "Sommer",
+      "url": "https://open.spotify.com/track/4fqDukYPhU2b4fwPXl2vNc"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -863,30 +891,34 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Sommer",
-        "url": "https://open.spotify.com/album/07lh3EusxSMocrboK796JF"
+        "name": "Sommertag",
+        "url": "https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf"
       },
       "artists": [
         {
-          "name": "Kinders",
-          "url": "https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN"
-        },
-        {
-          "name": "Gentleman",
-          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
-        },
-        {
-          "name": "Remmi Demmi",
-          "url": "https://open.spotify.com/artist/4bLZXiel2Er87VCdVLMEeW"
-        },
-        {
-          "name": "Matti MC",
-          "url": "https://open.spotify.com/artist/0c0NoscMWOTJGeYNsbAUjE"
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
         }
       ],
-      "duration_ms": 185840,
-      "name": "Sommer",
-      "url": "https://open.spotify.com/track/4fqDukYPhU2b4fwPXl2vNc"
+      "duration_ms": 128444,
+      "name": "Sommertag",
+      "url": "https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
+        "name": "Sommerkinder",
+        "url": "https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Wir wollen Sonne (Verde e amarelo)",
+      "url": "https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -919,38 +951,6 @@
       "duration_ms": 183920,
       "name": "Jetzt kommt die Biene Maja",
       "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
-        "name": "Sommerkinder",
-        "url": "https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Wir wollen Sonne (Verde e amarelo)",
-      "url": "https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
-        "name": "Sommertag",
-        "url": "https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 128444,
-      "name": "Sommertag",
-      "url": "https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3"
     },
     {
       "added_at": "2026-06-18 22:01:02",

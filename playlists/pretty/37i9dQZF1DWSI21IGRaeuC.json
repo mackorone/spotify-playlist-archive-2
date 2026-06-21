@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Riordan & AlunaGeorge",
-  "num_followers": 84828,
+  "num_followers": 84878,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPWdPNwt5DlKjCpzaij1TpvIE9qc",
+  "snapshot_id": "AAAAAA3ib/CLOVnqf1K22dqXTAQPyK4G",
   "tracks": [
     {
       "added_at": "2026-06-19 04:01:17",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-06-19 04:01:17",
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/2U07xqRus8Vm96YT2YZsSy"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nicholls",
+          "url": "https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5X8ir6VRntSttQwkDAncjn"
+    },
+    {
+      "added_at": "2026-06-19 04:01:17",
+      "album": {
         "name": "Energy Crew Pt. 1",
         "url": "https://open.spotify.com/album/3pDBOAKDjXCYjLswTu6vMe"
       },
@@ -111,34 +127,6 @@
       "duration_ms": 186363,
       "name": "Morning Light (feat. Mizbee)",
       "url": "https://open.spotify.com/track/0evpQOzmGKPoZo5LYFfKRt"
-    },
-    {
-      "added_at": "2026-06-19 04:01:17",
-      "album": {
-        "name": "Lost in paradise x XTC",
-        "url": "https://open.spotify.com/album/77ZKLr9rH8DAyJjyI6gqDi"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/0odt5AXuYYnvk97DttaqcD"
-        },
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Samuel Collins",
-          "url": "https://open.spotify.com/artist/1goHhP8bFYFDlHn1JX9BD5"
-        },
-        {
-          "name": "Jocelyn Enriquez",
-          "url": "https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB"
-        }
-      ],
-      "duration_ms": 267305,
-      "name": "Lost in paradise x XTC",
-      "url": "https://open.spotify.com/track/3Rbk1lBVkhpsnkr3XhqYCo"
     },
     {
       "added_at": "2026-06-12 04:01:31",
@@ -323,6 +311,22 @@
       "duration_ms": 167905,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
+    },
+    {
+      "added_at": "2026-06-20 14:52:23",
+      "album": {
+        "name": "Rock The House / All Night",
+        "url": "https://open.spotify.com/album/7C5cVV387YCGLhbE8Wn5Xt"
+      },
+      "artists": [
+        {
+          "name": "Lu.Re",
+          "url": "https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Rock The House",
+      "url": "https://open.spotify.com/track/1GcTbiohctL5vneV8PQYt6"
     },
     {
       "added_at": "2026-06-19 04:01:17",
@@ -711,22 +715,6 @@
       "duration_ms": 196555,
       "name": "Push Ya Back",
       "url": "https://open.spotify.com/track/5i5caeF79c3FuXWbJMZQww"
-    },
-    {
-      "added_at": "2026-06-19 04:01:17",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/2U07xqRus8Vm96YT2YZsSy"
-      },
-      "artists": [
-        {
-          "name": "Ryan Nicholls",
-          "url": "https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/5X8ir6VRntSttQwkDAncjn"
     },
     {
       "added_at": "2026-05-15 04:02:22",

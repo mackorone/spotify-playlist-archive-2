@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 273837,
+  "num_followers": 273785,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "Emanuel - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Emanuel - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "Estefan Family Christmas",
         "url": "https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 243666,
       "name": "Doy Gracias Por Ti",
       "url": "https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Emanuel - Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Emanuel - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "triste navidad",
-        "url": "https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "triste navidad",
-      "url": "https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Diciembre",
         "url": "https://open.spotify.com/album/5CD8YKCvtjjIvdCkpDIUP4"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 215064,
       "name": "Diciembre",
       "url": "https://open.spotify.com/track/78x8wenPIjaph6FFWYiJvM"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "triste navidad",
+        "url": "https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "triste navidad",
+      "url": "https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Mu\u00f1eco de Nieve",
-        "url": "https://open.spotify.com/album/1GBNPYgW4A9ZjDP3vPIWsQ"
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
       },
       "artists": [
         {
-          "name": "Blas Cant\u00f3",
-          "url": "https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46"
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
         }
       ],
-      "duration_ms": 170856,
-      "name": "Mu\u00f1eco de Nieve",
-      "url": "https://open.spotify.com/track/0XRktjuig0lpTs5xxSyloV"
+      "duration_ms": 195842,
+      "name": "Last Christmas (Spanish Version)",
+      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1147,6 +1147,22 @@
       "duration_ms": 186947,
       "name": "mi \u00fanico deseo",
       "url": "https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Mu\u00f1eco de Nieve",
+        "url": "https://open.spotify.com/album/1GBNPYgW4A9ZjDP3vPIWsQ"
+      },
+      "artists": [
+        {
+          "name": "Blas Cant\u00f3",
+          "url": "https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46"
+        }
+      ],
+      "duration_ms": 170856,
+      "name": "Mu\u00f1eco de Nieve",
+      "url": "https://open.spotify.com/track/0XRktjuig0lpTs5xxSyloV"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 195842,
-      "name": "Last Christmas (Spanish Version)",
-      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Love & Christmas",
         "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 217024,
       "name": "Viva La Navidad",
       "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Diciembre",
-        "url": "https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi"
-      },
-      "artists": [
-        {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "Diciembre",
-      "url": "https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "este diciembre.",
         "url": "https://open.spotify.com/album/0GvCjUOCj1CpfIRlBEC7GI"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 182000,
       "name": "este diciembre.",
       "url": "https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "A\u00f1o Nuevo, Misma Soledad (Live)",
-        "url": "https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 213547,
-      "name": "A\u00f1o Nuevo, Misma Soledad - Live",
-      "url": "https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+        "name": "A\u00f1o Nuevo, Misma Soledad (Live)",
+        "url": "https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
         }
       ],
-      "duration_ms": 255125,
-      "name": "Human Nature - En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
+      "duration_ms": 213547,
+      "name": "A\u00f1o Nuevo, Misma Soledad - Live",
+      "url": "https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1355,6 +1339,22 @@
       "duration_ms": 187668,
       "name": "Otra Navidad :(",
       "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 255125,
+      "name": "Human Nature - En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
     }
   ],
   "unique_name": "Feliz Navidad",

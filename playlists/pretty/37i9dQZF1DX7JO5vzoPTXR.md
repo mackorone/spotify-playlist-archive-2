@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by:  Andrea Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,453 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,470 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Mistletoe](https://open.spotify.com/track/58g2fd2QbtWanV150Aomvt) | [GIRLSHOUSE](https://open.spotify.com/artist/7f6pMdin7P3lrIO8Ux0d47) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:58 |
 | 50 | [Is There A Reason](https://open.spotify.com/track/5WukHjLReaDzCm2ilksKix) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:12 |
 
-Snapshot ID: `AAAAANsqMykcoQrSPBCT6p6OJIQy1XqK`
+Snapshot ID: `AAAAAAWGEjm404PKQM73eeSOxw2JYHuC`

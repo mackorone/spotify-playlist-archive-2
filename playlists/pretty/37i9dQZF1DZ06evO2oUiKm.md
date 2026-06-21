@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,550 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,552 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 49 | [A Window](https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:40 |
 | 50 | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg), [Matt Jones \(Re\-Collective Orchestra\)](https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC) | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy) | 3:12 |
 
-Snapshot ID: `ajM1AAAAAABEQyOS2K7QTJom7nnW6gd5`
+Snapshot ID: `ajSGgAAAAAAplSC2o+XYPrc4et1hteve`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Sofia the First: Royal Magic is now available to watch on Disney Jr\. and Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,270 likes - 157 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,278 likes - 157 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 | 156 | [Choo Choo Express](https://open.spotify.com/track/1rAoksjU0W2EMPvhda7J53) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Mickey Mouse Clubhouse: Meeska, Mooska, Mickey Mouse](https://open.spotify.com/album/5JELCeixADV7FQBTgSkqlr) | 1:58 |
 | 157 | [Hot Dog! Dance Break 2019 \- From "Mickey Mouse Mixed\-Up Adventures"](https://open.spotify.com/track/3496wR3HlANisZ2PnCSW7r) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Hot Dog! Dance Break 2019 \(From “Mickey Mouse Mixed\-Up Adventures”\)](https://open.spotify.com/album/0uPKxPvPWaKl5NvXwETJFA) | 1:23 |
 
-Snapshot ID: `AAAAAPb54JplNqwZPdGSImqI3aCv7j/B`
+Snapshot ID: `AAAAAEJqWk4awhRzJ38xls/7LG1gMgur`

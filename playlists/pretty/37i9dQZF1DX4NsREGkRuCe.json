@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 142197,
+  "num_followers": 142253,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 174823,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
         "name": "fine ting (fine $hit)",
         "url": "https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa"
       },
@@ -475,30 +475,6 @@
       "duration_ms": 195375,
       "name": "fine ting (fine $hit)",
       "url": "https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
-        "name": "One Condition",
-        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 234977,
-      "name": "One Condition",
-      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -523,6 +499,22 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
         "name": "Joanna",
         "url": "https://open.spotify.com/album/0iGHMZSyk18aFfJaTFIMGA"
       },
@@ -543,18 +535,26 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
+        "name": "One Condition",
+        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 174823,
-      "name": "Tornado",
-      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
+      "duration_ms": 234977,
+      "name": "One Condition",
+      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1059,30 +1059,18 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Come Slide",
-        "url": "https://open.spotify.com/album/1w5cLDjyPVMfV1tYbziBk4"
+        "name": "Akonuche",
+        "url": "https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI"
       },
       "artists": [
         {
-          "name": "KFMD",
-          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
         }
       ],
-      "duration_ms": 183947,
-      "name": "Come Slide",
-      "url": "https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c"
+      "duration_ms": 136500,
+      "name": "Akonuche",
+      "url": "https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1115,18 +1103,30 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Akonuche",
-        "url": "https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI"
+        "name": "Come Slide",
+        "url": "https://open.spotify.com/album/1w5cLDjyPVMfV1tYbziBk4"
       },
       "artists": [
         {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+          "name": "KFMD",
+          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 136500,
-      "name": "Akonuche",
-      "url": "https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg"
+      "duration_ms": 183947,
+      "name": "Come Slide",
+      "url": "https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
+        "name": "Till The Wheels Fall Off",
+        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Till The Wheels Fall Off",
+      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
       },
@@ -1195,22 +1215,6 @@
       "duration_ms": 223689,
       "name": "2:02PM IN LONDON (FREESTYLE)",
       "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
-        "name": "ON YOU",
-        "url": "https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz"
-      },
-      "artists": [
-        {
-          "name": "Timi Dre",
-          "url": "https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "ON YOU",
-      "url": "https://open.spotify.com/track/349C06rq0Yg8EHiP3kySIR"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1263,6 +1267,42 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
+        "name": "ON YOU",
+        "url": "https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz"
+      },
+      "artists": [
+        {
+          "name": "Timi Dre",
+          "url": "https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "ON YOU",
+      "url": "https://open.spotify.com/track/349C06rq0Yg8EHiP3kySIR"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/5KJYpO15Cv5uDPE4OZDJbP"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/2HNqGqMFyUjyjGyi6K58xm"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
@@ -1303,26 +1343,6 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Shake That",
-        "url": "https://open.spotify.com/album/5KJYpO15Cv5uDPE4OZDJbP"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Shake That",
-      "url": "https://open.spotify.com/track/2HNqGqMFyUjyjGyi6K58xm"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
-        "name": "Till The Wheels Fall Off",
-        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Till The Wheels Fall Off",
-      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
+        "name": "Allergies",
+        "url": "https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 173118,
+      "name": "Allergies",
+      "url": "https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
         "name": "Wrong Places",
         "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Allergies",
-        "url": "https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 173118,
-      "name": "Allergies",
-      "url": "https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -1431,6 +1431,26 @@
       "duration_ms": 136755,
       "name": "10 Kilo",
       "url": "https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH"
+    },
+    {
+      "added_at": "2026-06-19 00:02:01",
+      "album": {
+        "name": "Many People",
+        "url": "https://open.spotify.com/album/70JkP23kQm8ufn4XS6Bv0q"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "Many People",
+      "url": "https://open.spotify.com/track/33Bn3hhHkfVFKojsg41kb2"
     },
     {
       "added_at": "2026-06-19 00:02:01",
@@ -1487,26 +1507,6 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "Many People",
-        "url": "https://open.spotify.com/album/70JkP23kQm8ufn4XS6Bv0q"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
-        }
-      ],
-      "duration_ms": 175448,
-      "name": "Many People",
-      "url": "https://open.spotify.com/track/33Bn3hhHkfVFKojsg41kb2"
-    },
-    {
-      "added_at": "2026-06-19 00:02:01",
-      "album": {
         "name": "Find A Way",
         "url": "https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK"
       },
@@ -1543,22 +1543,18 @@
     {
       "added_at": "2026-06-19 00:02:01",
       "album": {
-        "name": "CLARITY OF MIND",
-        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+        "name": "May 10th",
+        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
       },
       "artists": [
         {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "ELMAH",
-          "url": "https://open.spotify.com/artist/0o07HRGPlEb5iAv8igSnAl"
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
         }
       ],
-      "duration_ms": 168908,
-      "name": "COPING MECHANISM",
-      "url": "https://open.spotify.com/track/4Jvng8y8F17cbIXnEic8Xj"
+      "duration_ms": 166530,
+      "name": "May 10th",
+      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

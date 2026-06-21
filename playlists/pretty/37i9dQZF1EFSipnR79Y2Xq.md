@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721 likes - 101 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 722 likes - 101 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 62 | [3DESEOS](https://open.spotify.com/track/63szpHW8E1jBkPDXuAEusn) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 2:51 |
 | 63 | [Antes](https://open.spotify.com/track/5h3YMVd2Jg3h7bf0a4RTrA) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Yo Te Extrañaré](https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20) | 2:53 |
 | 64 | [Membresía](https://open.spotify.com/track/6Cg0J9aZvUiGDbfbMqn4Py) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Membresía](https://open.spotify.com/album/1sVTUYzJNPcVfj7NNO8MYn) | 3:15 |
-| 65 | [Peor Que Mi Ex](https://open.spotify.com/track/7vJWa0MkrA1Dbc5qCfys9B) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Échale](https://open.spotify.com/album/5NlWnz4YflzjQ84vc8x8mW) | 2:34 |
-| 66 | [No Era De Tu Talla](https://open.spotify.com/track/4sHJngV1yusJSmevbZYMrT) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:24 |
+| 65 | [No Era De Tu Talla](https://open.spotify.com/track/4sHJngV1yusJSmevbZYMrT) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:24 |
+| 66 | [Peor Que Mi Ex](https://open.spotify.com/track/7vJWa0MkrA1Dbc5qCfys9B) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Échale](https://open.spotify.com/album/5NlWnz4YflzjQ84vc8x8mW) | 2:34 |
 | 67 | [Te pareces a mi ex](https://open.spotify.com/track/3VJDWbSHJvHQV7sWUhqNCI) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Te pareces a mi ex](https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW) | 2:30 |
 | 68 | [Doble T](https://open.spotify.com/track/0psYURhcteRbFcW9MH3Rj9) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [Emilio](https://open.spotify.com/artist/63AURDJ3zaxKaBcrm9q74B) | [Doble T](https://open.spotify.com/album/4P6cszM5VvuNEqBRpSPfgs) | 2:39 |
 | 69 | [Hazme Un Paro](https://open.spotify.com/track/0KFOwJrwBfWVhUTIYPYps5) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:45 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 78 | [Siempre Te Voy A Extrañar](https://open.spotify.com/track/0ckp8hGuGLcG5wpJaIgU3b) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [Siempre Te Voy A Extrañar](https://open.spotify.com/album/1NBLHCYkm4hgrh7BeSXWBP) | 3:16 |
 | 79 | [Por Si No Sabían](https://open.spotify.com/track/5JiXWzIwz574p5ha1HVMSH) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ) | [Por Si No Sabían](https://open.spotify.com/album/7kgqswkEQ6ig1otF3IDCol) | 3:14 |
 | 80 | [La Clave Está En Tomar](https://open.spotify.com/track/5fPBNjHFoZDBJhVHeeuUHW) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ) | [La Clave Está En Tomar](https://open.spotify.com/album/5LwpjpxsFDcchdPLPwVwab) | 3:03 |
-| 81 | [Del 1 al 10](https://open.spotify.com/track/3gOPcLnxngh69U84BjzOrK) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Del 1 al 10](https://open.spotify.com/album/47nBTDVl17CvrgXDXGwGxM) | 3:16 |
-| 82 | [Tu Amor Como Cigarro](https://open.spotify.com/track/538AGLz9NC2huGce8ggP1w) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Medio Borracho](https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc) | 4:00 |
+| 81 | [Tu Amor Como Cigarro](https://open.spotify.com/track/538AGLz9NC2huGce8ggP1w) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Medio Borracho](https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc) | 4:00 |
+| 82 | [Del 1 al 10](https://open.spotify.com/track/3gOPcLnxngh69U84BjzOrK) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Del 1 al 10](https://open.spotify.com/album/47nBTDVl17CvrgXDXGwGxM) | 3:16 |
 | 83 | [ESTÁN VIENDO](https://open.spotify.com/track/7A4iJgkr15ijTbjLKv0l82) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 2:43 |
 | 84 | [Último Aviso](https://open.spotify.com/track/1AAq8oRKRz1sNtK2cPXyiH) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [¿Qué Pasaría?](https://open.spotify.com/album/0vXUz7B7Oq0NsAwK27ZQyk) | 3:06 |
 | 85 | [Ya Convéncete](https://open.spotify.com/track/02hdSPNDvFWBjyJreepoLk) | [Cesar Arturo Navarro](https://open.spotify.com/artist/2Iq6ZunH7OSvgbsdFdvGSO) | [Ya Convéncete](https://open.spotify.com/album/1adWURSBFV4SgogIZfkGxb) | 2:40 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 100 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 101 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `AcUq5gAAAAA6nSrWv7yNVaIqQ5+q1O7P`
+Snapshot ID: `AcUwwgAAAAC/0zP2/K9i+Y0O6X7fns4Z`

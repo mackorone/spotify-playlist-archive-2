@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Drake",
-  "num_followers": 45082,
+  "num_followers": 45089,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-06-19 00:01:57",
       "album": {
-        "name": "BARA BARA",
-        "url": "https://open.spotify.com/album/2HTaD3yek7f21T97pvtJMV"
-      },
-      "artists": [
-        {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "BARA BARA",
-      "url": "https://open.spotify.com/track/3yAYLtB0WUSd3XBvBtWf2r"
-    },
-    {
-      "added_at": "2026-06-19 00:01:57",
-      "album": {
         "name": "2:02PM IN LONDON (FREESTYLE)",
         "url": "https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 223689,
       "name": "2:02PM IN LONDON (FREESTYLE)",
       "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
+    },
+    {
+      "added_at": "2026-06-19 00:01:57",
+      "album": {
+        "name": "BARA BARA",
+        "url": "https://open.spotify.com/album/2HTaD3yek7f21T97pvtJMV"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "BARA BARA",
+      "url": "https://open.spotify.com/track/3yAYLtB0WUSd3XBvBtWf2r"
     },
     {
       "added_at": "2026-06-19 00:01:57",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-06-19 00:01:57",
       "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta"
+    },
+    {
+      "added_at": "2026-06-19 00:01:57",
+      "album": {
         "name": "No Excuses Deluxe",
         "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 132413,
       "name": "FINE SHYT (feat. Tml Vibez)",
       "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
-    },
-    {
-      "added_at": "2026-06-19 00:01:57",
-      "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta"
     },
     {
       "added_at": "2026-06-19 00:01:57",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-06-19 00:01:57",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "NYEM EGO (feat. Jeriq)",
-      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
-    },
-    {
-      "added_at": "2026-06-19 00:01:57",
-      "album": {
         "name": "US",
         "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 139047,
       "name": "US",
       "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
+    },
+    {
+      "added_at": "2026-06-19 00:01:57",
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "NYEM EGO (feat. Jeriq)",
+      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
     },
     {
       "added_at": "2026-06-19 00:01:57",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-06-19 00:01:57",
       "album": {
-        "name": "The Odyssey",
-        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 179381,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
-    },
-    {
-      "added_at": "2026-06-19 00:01:57",
-      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 164844,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
+    },
+    {
+      "added_at": "2026-06-19 00:01:57",
+      "album": {
+        "name": "The Odyssey",
+        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 179381,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
     },
     {
       "added_at": "2026-06-19 00:01:57",

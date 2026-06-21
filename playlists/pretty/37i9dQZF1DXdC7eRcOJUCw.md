@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > ¡Las mujeres de la Música Mexicana! Rosalia León en portada 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,192 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,211 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 61 | [Amor Eterno](https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amor Eterno](https://open.spotify.com/album/7grFNupMrSIfmdGd5WDBNW) | 4:46 |
 | 62 | [Anoche te Soñé](https://open.spotify.com/track/5pa37lLkI3BbZnIpohVZxm) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Anoche te Soñé](https://open.spotify.com/album/1znu3OGbj8gbReWVP8V74f) | 3:39 |
 | 63 | [Jardinera \(Caponera\) \- Musica de la Serie Original "El Gallo de Oro" \(Versión Dueto\)](https://open.spotify.com/track/0kkQsruogh3vbVkxKVye9D) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Berenice](https://open.spotify.com/artist/0UvuOiWVA5hN7isFnkeuD4) | [La Caponera \(Música de la Serie Original “El Gallo de Oro”\)](https://open.spotify.com/album/4muQXYTMJaQtFMtzJJ9DFD) | 2:49 |
-| 64 | [Tengo Ganas De Olvidarte](https://open.spotify.com/track/7EJzVmKWei8WNDRkqmPWrE) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Cynthia Yolanda](https://open.spotify.com/artist/1Llt3kcKErOoHO9Ez8SjWU) | [Tengo Ganas De Olvidarte](https://open.spotify.com/album/2VTuVSJ6mock6liZb5NuD0) | 3:38 |
-| 65 | [Popurrí LAS PALOMAS: Paloma Negra / Cucurrucucú Paloma](https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Popurrí LAS PALOMAS: Paloma Negra / Cucurrucucú Paloma](https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343) | 5:10 |
-| 66 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
+| 64 | [Popurrí LAS PALOMAS: Paloma Negra / Cucurrucucú Paloma](https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Popurrí LAS PALOMAS: Paloma Negra / Cucurrucucú Paloma](https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343) | 5:10 |
+| 65 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
+| 66 | [Tengo Ganas De Olvidarte](https://open.spotify.com/track/7EJzVmKWei8WNDRkqmPWrE) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Cynthia Yolanda](https://open.spotify.com/artist/1Llt3kcKErOoHO9Ez8SjWU) | [Tengo Ganas De Olvidarte](https://open.spotify.com/album/2VTuVSJ6mock6liZb5NuD0) | 3:38 |
 | 67 | [Las Rejas No Matan](https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Las Rejas No Matan](https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9) | 2:58 |
 | 68 | [Vuélveme a Querer](https://open.spotify.com/track/5wqege8XFAluzO8iS2W3K1) | [Ian Serratto](https://open.spotify.com/artist/6OFoVuzuaZ7p5C0CP4OiGQ), [Mildred Feuchter](https://open.spotify.com/artist/2IvVdu1hyp120X5TIzNeKP) | [Vuélveme a Querer](https://open.spotify.com/album/7ebsAIjaxazDs1R6IXdpzq) | 3:55 |
 | 69 | [Échame A Mí La Culpa](https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Échame A Mí La Culpa](https://open.spotify.com/album/1UzNlPl5CuIzvLqZ9Suv50) | 3:13 |

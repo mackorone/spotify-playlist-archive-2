@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Serge Beynaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,304 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,383 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Eusseu toi tu me connais](https://open.spotify.com/track/5E0fsHZn7rKdrwguOZ7au7) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Jolina Verdigo](https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO), [Le Grand Homme](https://open.spotify.com/artist/3gX7vHBOQDEPYfBaryvhWN) | [Roi de L’ambiance \- Begin](https://open.spotify.com/album/6bJMKOkZ01GVq9NA2W4hTg) | 2:35 |
 | 40 | [YESSOUÉ](https://open.spotify.com/track/4xdFh8mBgHIV2vgdkTc1Lx) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [YESSOUÉ](https://open.spotify.com/album/5Byd6Vob8suZ49j47Naag8) | 3:04 |
 
-Snapshot ID: `AAAAAMZKCspHrkKWkubZN3paqEu+HAZ2`
+Snapshot ID: `AAAAAEViUx4Ie3VEefsmz4SegQzwBdmx`

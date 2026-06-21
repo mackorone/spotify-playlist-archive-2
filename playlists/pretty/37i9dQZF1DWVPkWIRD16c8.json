@@ -1,6 +1,6 @@
 {
   "description": "Let Jesus take the wheel...and the aux cord! ",
-  "num_followers": 259202,
+  "num_followers": 259291,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
+        "name": "Looking For You",
+        "url": "https://open.spotify.com/album/4rIGflo5TdNJmO9QsxcxEQ"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "duration_ms": 199698,
+      "name": "Looking For You",
+      "url": "https://open.spotify.com/track/4gKpsgQRhi3A8GCJRhZOrc"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
         "name": "The Hero & The Villain",
         "url": "https://open.spotify.com/album/4hTbkRnaRb9DDgwRZ4gYHz"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 193091,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "Looking For You",
-        "url": "https://open.spotify.com/album/4rIGflo5TdNJmO9QsxcxEQ"
-      },
-      "artists": [
-        {
-          "name": "Gable Price and Friends",
-          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
-        }
-      ],
-      "duration_ms": 199698,
-      "name": "Looking For You",
-      "url": "https://open.spotify.com/track/4gKpsgQRhi3A8GCJRhZOrc"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Higher Places",
-        "url": "https://open.spotify.com/album/2XhsRXdwWT7qPW6WtJGUXf"
-      },
-      "artists": [
-        {
-          "name": "Consumed By Fire",
-          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
-        }
-      ],
-      "duration_ms": 153237,
-      "name": "Higher Places",
-      "url": "https://open.spotify.com/track/2NncdfXTfnluYyhaep7AXI"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "Where Would I Be",
         "url": "https://open.spotify.com/album/3CATadYTCHrjRl9fyE9S9K"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 183213,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "Higher Places",
+        "url": "https://open.spotify.com/album/2XhsRXdwWT7qPW6WtJGUXf"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "duration_ms": 153237,
+      "name": "Higher Places",
+      "url": "https://open.spotify.com/track/2NncdfXTfnluYyhaep7AXI"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -611,18 +611,18 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Do It All Alone",
-        "url": "https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy"
+        "name": "open handed",
+        "url": "https://open.spotify.com/album/7KYDaBirndbDqQPTzfxYVF"
       },
       "artists": [
         {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+          "name": "Grace Runkle",
+          "url": "https://open.spotify.com/artist/3sB1uuUqvXkvicjALA4CwM"
         }
       ],
-      "duration_ms": 172738,
-      "name": "Do It All Alone",
-      "url": "https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d"
+      "duration_ms": 208932,
+      "name": "open handed",
+      "url": "https://open.spotify.com/track/2IXbgOj8rHiisb2msOzNVx"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -643,18 +643,34 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "open handed",
-        "url": "https://open.spotify.com/album/7KYDaBirndbDqQPTzfxYVF"
+        "name": "Do It All Alone",
+        "url": "https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy"
       },
       "artists": [
         {
-          "name": "Grace Runkle",
-          "url": "https://open.spotify.com/artist/3sB1uuUqvXkvicjALA4CwM"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 208932,
-      "name": "open handed",
-      "url": "https://open.spotify.com/track/2IXbgOj8rHiisb2msOzNVx"
+      "duration_ms": 172738,
+      "name": "Do It All Alone",
+      "url": "https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/71FvmMr5uZoUuYSaRHwSo3"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/5GNTb6qrTZr20saXzuamt6"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -679,22 +695,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/71FvmMr5uZoUuYSaRHwSo3"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/5GNTb6qrTZr20saXzuamt6"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "I Still Believe",
         "url": "https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Runs In The Blood",
-        "url": "https://open.spotify.com/album/2koZ327e01iwRUcOEzWd69"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 184203,
-      "name": "Runs In The Blood",
-      "url": "https://open.spotify.com/track/0VRNfCYpbLDM2QJapqw9aC"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "Far Country",
         "url": "https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 218000,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "Runs In The Blood",
+        "url": "https://open.spotify.com/album/2koZ327e01iwRUcOEzWd69"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 184203,
+      "name": "Runs In The Blood",
+      "url": "https://open.spotify.com/track/0VRNfCYpbLDM2QJapqw9aC"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
+        "name": "Everything_",
+        "url": "https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1"
+      },
+      "artists": [
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q"
+        }
+      ],
+      "duration_ms": 231151,
+      "name": "Everything_",
+      "url": "https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
         "name": "These Are The Days (feat. Blessing Offor)",
         "url": "https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 230644,
       "name": "These Are The Days (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "Everything_",
-        "url": "https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1"
-      },
-      "artists": [
-        {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q"
-        }
-      ],
-      "duration_ms": 231151,
-      "name": "Everything_",
-      "url": "https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "wake up",
-        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
-      },
-      "artists": [
-        {
-          "name": "Cade Biers",
-          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
-        }
-      ],
-      "duration_ms": 186558,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "give & take",
         "url": "https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 206719,
       "name": "give & take",
       "url": "https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "duration_ms": 186558,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/3l908EdsULb5j9vmSsNnvt"
-      },
-      "artists": [
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        }
-      ],
-      "duration_ms": 322502,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3bZBLuUUlBGOz3icz5zrRX"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "WILD!",
         "url": "https://open.spotify.com/album/50U3RqucJhkAvcvoO4zMfD"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 210000,
       "name": "WILD!",
       "url": "https://open.spotify.com/track/1D9gi1TwubKCnsd3ppHoah"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/3l908EdsULb5j9vmSsNnvt"
+      },
+      "artists": [
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "duration_ms": 322502,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/3bZBLuUUlBGOz3icz5zrRX"
     }
   ],
   "unique_name": "Christian Road Trip",

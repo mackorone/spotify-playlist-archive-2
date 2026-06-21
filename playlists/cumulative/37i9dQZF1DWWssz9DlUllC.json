@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Color / Wulo",
+        "url": "https://open.spotify.com/album/3MPAuxza590Bd2JbPfxA56"
+      },
+      "artists": [
+        {
+          "name": "Ashidapo",
+          "url": "https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122142,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/1bEpSnr5xX4QoyyXaOKq9b"
+    },
+    {
+      "album": {
         "name": "Dance for Jesus",
         "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
       },
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 163327,
       "name": "HOW FAR",
       "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
@@ -2782,7 +2800,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 356814,
       "name": "Move Faster",
       "url": "https://open.spotify.com/track/2P9bsl1PU6WpmtAsx1H1Z3"

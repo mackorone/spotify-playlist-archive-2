@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: TSHA, HoneyLuv & Ellie Maxwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,802 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,809 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 2 | [Invisible](https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Invisible](https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK) | 3:16 |
 | 3 | [Black Techno Guy](https://open.spotify.com/track/0GQ7Xh6mfh71Q0Az8sg3LT) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Black Techno Guy](https://open.spotify.com/album/3OO4Kb2Iw1qljp75qXh3hF) | 3:00 |
 | 4 | [Bounce UR Body](https://open.spotify.com/track/5o9ddwUhXw50hymQN26U90) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Bounce UR Body](https://open.spotify.com/album/0fTPlvWCBV1nfynDXRDDgV) | 2:29 |
-| 5 | [Why Does It \(With Jozzy\)](https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Why Does It \(With Jozzy\)](https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm) | 2:54 |
+| 5 | [Why Does It](https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Why Does It](https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm) | 2:54 |
 | 6 | [Champagne](https://open.spotify.com/track/7dfiOtJr96c3VGUI0JdnJE) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [MASSALA](https://open.spotify.com/artist/7xI763bNyhkwOTWpZq2xdG), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Champagne](https://open.spotify.com/album/1pgnVo1I3oh6EjBdOJjgI5) | 2:59 |
 | 7 | [Wave \(We Up\)](https://open.spotify.com/track/1i7LDTTZxAVZIxkXFnn1VS) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO), [James Nasty](https://open.spotify.com/artist/7wvP2lwU1zadibtqoebkFx), [Mateyo](https://open.spotify.com/artist/0B0O3zN1qA3VmxGoF7sHiE) | [Wave \(We Up\)](https://open.spotify.com/album/2LIclND7AmmkMr0nbU0rm1) | 4:16 |
 | 8 | [Automatic](https://open.spotify.com/track/6BgdkRfOOxxOnARUTuAFs8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY \(Nano Mixes\)](https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y) | 2:03 |

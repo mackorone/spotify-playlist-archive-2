@@ -1047,6 +1047,28 @@
     },
     {
       "album": {
+        "name": "CATHARSIS",
+        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        },
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226064,
+      "name": "CATHARSIS",
+      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
+    },
+    {
+      "album": {
         "name": "CELEBRATION (Sara Landry Remix)",
         "url": "https://open.spotify.com/album/0wti1ZxzH9QwP4J4DJaYMq"
       },
@@ -2166,7 +2188,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 116521,
       "name": "French Kiss",
       "url": "https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx"
@@ -6141,6 +6163,32 @@
     },
     {
       "album": {
+        "name": "Spring VIP",
+        "url": "https://open.spotify.com/album/2oOrAtdzUtg2UCXlEzzn3u"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155066,
+      "name": "Spring VIP",
+      "url": "https://open.spotify.com/track/6W2Otw9em8mMhoWsOcE05m"
+    },
+    {
+      "album": {
         "name": "Stumblin' In (Sonny Wern Remix)",
         "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
       },
@@ -7122,7 +7170,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 188706,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"

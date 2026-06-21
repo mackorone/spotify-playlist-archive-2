@@ -316,7 +316,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 180000,
       "name": "ABG",
       "url": "https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2"
@@ -3087,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "HVL",
+        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/4oZqNyQWRIYB4hzrLNong1"
+    },
+    {
+      "album": {
         "name": "IDOOMYTHANG",
         "url": "https://open.spotify.com/album/3H7Z2Z9rhP6DLEdk8QrOIl"
       },
@@ -3994,7 +4012,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 340724,
       "name": "Mu\u1ed1n anh \u0111au",
       "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
@@ -4202,6 +4220,28 @@
       "duration_ms": 259402,
       "name": "M\u1eaft B\u00e3o",
       "url": "https://open.spotify.com/track/2aoGg3figtbrChUCZIopCK"
+    },
+    {
+      "album": {
+        "name": "HVL",
+        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Tage",
+          "url": "https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192485,
+      "name": "M\u1eaft M\u00f4i Tay Ch\u00e2n (feat. Tage)",
+      "url": "https://open.spotify.com/track/5ze1OgIdC5fJLJfpvT9Jog"
     },
     {
       "album": {
@@ -4780,7 +4820,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 241190,
       "name": "nh\u1eafn nh\u1ee7",
       "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
@@ -7286,6 +7326,28 @@
       "duration_ms": 18390,
       "name": "Wxrdie xin ch\u00e0o",
       "url": "https://open.spotify.com/track/2wKXtatrvpIWuSm2eOQaIZ"
+    },
+    {
+      "album": {
+        "name": "HVL",
+        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217546,
+      "name": "Xa X\u00f4i (feat. Obito)",
+      "url": "https://open.spotify.com/track/3SJBCyImil9sNCH8lcCnqO"
     },
     {
       "album": {

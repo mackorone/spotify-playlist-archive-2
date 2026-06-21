@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > because I will go wherever you wannaaaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,365 likes - 140 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,372 likes - 140 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

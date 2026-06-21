@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Sunidhi Chauhan",
-  "num_followers": 1034739,
+  "num_followers": 1034559,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOlBP2z3eR15Y5W0zadC81L2BY1c",
+  "snapshot_id": "AAAAAEPPQDM3LhYM32ZoGrdHk3jUBENO",
   "tracks": [
     {
       "added_at": "2026-06-05 05:06:12",
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL"
     },
     {
-      "added_at": "2026-06-05 05:06:12",
+      "added_at": "2026-06-20 05:20:36",
       "album": {
         "name": "Dus",
         "url": "https://open.spotify.com/album/2ZMv24PkdTVTdFBCtSMJiX"
@@ -184,13 +184,13 @@
           "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
         },
         {
-          "name": "Krishna",
-          "url": "https://open.spotify.com/artist/5qG25VRsnLdydJTj1VGZSk"
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
         }
       ],
-      "duration_ms": 265800,
-      "name": "Deedar De",
-      "url": "https://open.spotify.com/track/5SCpszC2xg7sF0S6PE3TL1"
+      "duration_ms": 296173,
+      "name": "Deedar De (Nikhil Mix)",
+      "url": "https://open.spotify.com/track/19uybTRF0AmvCe1VpnbIv6"
     },
     {
       "added_at": "2026-06-05 05:06:12",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-06-05 05:06:12",
       "album": {
+        "name": "Unveilings",
+        "url": "https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5"
+      },
+      "artists": [
+        {
+          "name": "Amy Lo",
+          "url": "https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "\u85cd\u67d3",
+      "url": "https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6"
+    },
+    {
+      "added_at": "2026-06-05 05:06:12",
+      "album": {
         "name": "Dwa s\u0142o\u0144ca",
         "url": "https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 197793,
       "name": "Dwa s\u0142o\u0144ca",
       "url": "https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru"
-    },
-    {
-      "added_at": "2026-06-05 05:06:12",
-      "album": {
-        "name": "Unveilings",
-        "url": "https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5"
-      },
-      "artists": [
-        {
-          "name": "Amy Lo",
-          "url": "https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "\u85cd\u67d3",
-      "url": "https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6"
     },
     {
       "added_at": "2026-06-05 05:06:12",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-06-05 05:06:12",
       "album": {
-        "name": "THIS IS HOW I AM",
-        "url": "https://open.spotify.com/album/4GIIgSveSyls13q824SdUy"
-      },
-      "artists": [
-        {
-          "name": "SHINJIRO ATAE",
-          "url": "https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF"
-        }
-      ],
-      "duration_ms": 182490,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/71WYq0Dq4VWatUIFDW0jvz"
-    },
-    {
-      "added_at": "2026-06-05 05:06:12",
-      "album": {
         "name": "Sigui",
         "url": "https://open.spotify.com/album/4kiBVxzxHqE0FccC8JIxJD"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 197960,
       "name": "Sigui",
       "url": "https://open.spotify.com/track/5i0JVsQOIwqn9LKP29YXh3"
+    },
+    {
+      "added_at": "2026-06-05 05:06:12",
+      "album": {
+        "name": "THIS IS HOW I AM",
+        "url": "https://open.spotify.com/album/4GIIgSveSyls13q824SdUy"
+      },
+      "artists": [
+        {
+          "name": "SHINJIRO ATAE",
+          "url": "https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF"
+        }
+      ],
+      "duration_ms": 182490,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/71WYq0Dq4VWatUIFDW0jvz"
     },
     {
       "added_at": "2026-06-05 05:06:12",

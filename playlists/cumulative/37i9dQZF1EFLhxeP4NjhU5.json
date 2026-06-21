@@ -4580,10 +4580,32 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 238734,
       "name": "TATE QUIETA",
       "url": "https://open.spotify.com/track/1iQ3p8rAXU7LU52QarCzlO"
+    },
+    {
+      "album": {
+        "name": "PRIVATE SUITE (Complete EP Edition)",
+        "url": "https://open.spotify.com/album/0N85eGINyapou3Gl8yo6ky"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238734,
+      "name": "TATE QUIETA",
+      "url": "https://open.spotify.com/track/6R3jE2URVnEdA7djm9Ipsd"
     },
     {
       "album": {

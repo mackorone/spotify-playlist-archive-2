@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 86 | [Like Her](https://open.spotify.com/track/4LqwSyXww9XrEG6cN6w6V1) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Unlocked](https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC) | 3:22 |
 | 87 | [You Are To Me](https://open.spotify.com/track/3y4OfQMZOrGutkuuVPtBu6) | [Pryor Baird](https://open.spotify.com/artist/4vSCJNeLjX3H9utec8uO58) | [You Are To Me](https://open.spotify.com/album/1IsHAQU91h1cYPJZrt0o3e) | 3:52 |
 | 88 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 |
-| 89 | [Way of Life](https://open.spotify.com/track/2Pnl04NKw9jNodRsc9fsCD) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Way of Life](https://open.spotify.com/album/4tXZtaTZOPe6RgM3jOeZmP) | 3:05 |
-| 90 | [Good As Yours](https://open.spotify.com/track/2rShBgDGvdzpuXBleIMi1O) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I Didn't Come Here To Leave](https://open.spotify.com/album/1OnI72xhWUPmOmUeh6BInY) | 2:34 |
+| 89 | [Good As Yours](https://open.spotify.com/track/2rShBgDGvdzpuXBleIMi1O) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I Didn't Come Here To Leave](https://open.spotify.com/album/1OnI72xhWUPmOmUeh6BInY) | 2:34 |
+| 90 | [Way of Life](https://open.spotify.com/track/2Pnl04NKw9jNodRsc9fsCD) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Way of Life](https://open.spotify.com/album/4tXZtaTZOPe6RgM3jOeZmP) | 3:05 |
 | 91 | [Show Up](https://open.spotify.com/track/1ENpEBh3B1Sf7sQrhlj58C) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Show Up](https://open.spotify.com/album/0QnOXwlpdBKPJE5zZXMXri) | 3:02 |
 | 92 | [Girls Like Me](https://open.spotify.com/track/7nGnnHtErve02tHBqMeli5) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/16Oll25MEMHBenyxFSWANh) | 2:51 |
 | 93 | [Hell of a Hometown](https://open.spotify.com/track/62GUW1nFv6ekfNyprziCvo) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Hell of a Hometown](https://open.spotify.com/album/0JjAkZAQcXjrSPBrLXrJ9c) | 3:03 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 108 | [Anything Like Me](https://open.spotify.com/track/01ga3Bp8ucQM8kM9fcU1es) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5X4svYK600xTcLxv5mvrYb) | 3:30 |
 | 109 | [Better](https://open.spotify.com/track/15xlb7bnht6i3Y2ioy2Ewp) | [Brenna Bone](https://open.spotify.com/artist/0L79xgZmjcUCraxgHJoTek) | [Better](https://open.spotify.com/album/3BrMkb7LCKsdh2WZFz8rwt) | 3:24 |
 | 110 | [I'd Look Good In That Truck](https://open.spotify.com/track/5P9R7DNHtVtXpWDeHAVLJC) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Rooted](https://open.spotify.com/album/3tjdOyyLWIQeX6S79YjWbL) | 3:26 |
-| 111 | [The Best Kind](https://open.spotify.com/track/4QBnvCvtwniPVGNgqDPFQT) | [Lee Langston](https://open.spotify.com/artist/1lrPBxFvIFSAzT1vNJOnNT) | [The Best Kind](https://open.spotify.com/album/0SnM6LgLYRjPgTI6QvmzTD) | 3:45 |
-| 112 | [no man's](https://open.spotify.com/track/5EoJW3n1SC0ILmAcs3u6Ax) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:51 |
+| 111 | [no man's](https://open.spotify.com/track/5EoJW3n1SC0ILmAcs3u6Ax) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:51 |
+| 112 | [The Best Kind](https://open.spotify.com/track/4QBnvCvtwniPVGNgqDPFQT) | [Lee Langston](https://open.spotify.com/artist/1lrPBxFvIFSAzT1vNJOnNT) | [The Best Kind](https://open.spotify.com/album/0SnM6LgLYRjPgTI6QvmzTD) | 3:45 |
 | 113 | [Prettiest Girl In The Room](https://open.spotify.com/track/59WvgpXhQYHHh0jrstaSi5) | [John King](https://open.spotify.com/artist/32Cj2WsRALt1SCWaPBR9QP) | [Always Gonna Be You](https://open.spotify.com/album/6IuTM80djAskPLrCz6Ij0L) | 2:41 |
 | 114 | [Tunnel Vision](https://open.spotify.com/track/2C5ajossz6UOJxCOBxqllx) | [Karl Michael](https://open.spotify.com/artist/4zFqfg8R6X9aUWIdYm3xTT) | [Tunnel Vision](https://open.spotify.com/album/2h76wGQj1dACn0QorMaJBD) | 2:52 |
 | 115 | [Talk About Us](https://open.spotify.com/track/08RiWxHaYoIn1yLjhFj50p) | [Rosewood Ave](https://open.spotify.com/artist/4vVkRcAngiXV8RV6HMTnjC) | [Talk About Us](https://open.spotify.com/album/4aeHx1nPEoicC14Gwyj7DN) | 3:19 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 129 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcUq5gAAAAA1H/Uux9s/CEKzUf3xas16`
+Snapshot ID: `AcUwhgAAAACYNqPJLAZda72xWOff6n2G`

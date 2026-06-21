@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > New morning mercies\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,544 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,550 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 37 | [Rise My Soul, The Lord Is Risen](https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q) | [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Rise My Soul, The Lord Is Risen](https://open.spotify.com/album/6k2NpIoDbowre3D5Tloqyl) | 3:20 |
 | 38 | [Hopeful](https://open.spotify.com/track/0xujGe3mc7mKc7N655UpdL) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hopeful](https://open.spotify.com/album/3Ol2xD0wKSn172kgB85JnM) | 4:27 |
 | 39 | [Monday Morning Faith \- Acoustic](https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Monday Morning Faith \(Acoustic\)](https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi) | 5:38 |
-| 40 | [Days Like This](https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Not The Same](https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p) | 2:21 |
-| 41 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
+| 40 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
+| 41 | [Days Like This](https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Not The Same](https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p) | 2:21 |
 | 42 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |
 | 43 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
 | 44 | [Perfect](https://open.spotify.com/track/7uOKp6a6Vw6qrBA4ct3TJx) | [Mackenzie Phillips](https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Perfect](https://open.spotify.com/album/1LBfbkF1i6ikTkAQNIaQEH) | 3:07 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 61 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 |
 | 62 | [Good Morning](https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Good Morning](https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3) | 3:34 |
 | 63 | [Sunday Morning](https://open.spotify.com/track/0meZ1wG8nZT8Yw7edBonju) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Sunday Morning](https://open.spotify.com/album/2H6J9gtIWRPJkBwqAq97z6) | 2:19 |
-| 64 | [Windows](https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows](https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl) | 4:35 |
-| 65 | [Hope Builds \- Live](https://open.spotify.com/track/5z29OLLU0EQq2mSVR44TTE) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Jess Steer](https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4) | [Hope Builds \(Live\)](https://open.spotify.com/album/7nqbKIBhttgx5EXg8BW5sD) | 5:43 |
+| 64 | [Hope Builds \- Live](https://open.spotify.com/track/5z29OLLU0EQq2mSVR44TTE) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Jess Steer](https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4) | [Hope Builds \(Live\)](https://open.spotify.com/album/7nqbKIBhttgx5EXg8BW5sD) | 5:43 |
+| 65 | [Windows](https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows](https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl) | 4:35 |
 | 66 | [New Day](https://open.spotify.com/track/7ilYm200byu5tpaXE97NVR) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:43 |
 | 67 | [Power \- Acoustic](https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [Meditations](https://open.spotify.com/album/7emwnr2wmTB84uXqIkMYxk) | 3:18 |
 | 68 | [Good Morning](https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF) | [Jubril](https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX) | [Good Morning](https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB) | 2:25 |

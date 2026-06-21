@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 191484,
+  "num_followers": 191524,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
         "name": "Nterini - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 231923,
       "name": "Nterini - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Be Loved",
-        "url": "https://open.spotify.com/album/6AqdBFxzWYGO0OSeU8AnJG"
-      },
-      "artists": [
-        {
-          "name": "Kuzco",
-          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
-        }
-      ],
-      "duration_ms": 253214,
-      "name": "Be Loved",
-      "url": "https://open.spotify.com/track/0Wnq7CivkLqb2nBtgej9m0"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/5M7Ud3DDi9t5krP1OJczTN"
       },
@@ -983,22 +967,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Lazy",
-        "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mitch",
-          "url": "https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv"
-        }
-      ],
-      "duration_ms": 265378,
-      "name": "In the Hills",
-      "url": "https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Try Repeat",
         "url": "https://open.spotify.com/album/1iY0JUvqD7aDzc6x0VXEqc"
       },
@@ -1011,6 +979,38 @@
       "duration_ms": 237586,
       "name": "Try Repeat",
       "url": "https://open.spotify.com/track/50USlRjAUqxBrS3XyysixE"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "Be Loved",
+        "url": "https://open.spotify.com/album/6AqdBFxzWYGO0OSeU8AnJG"
+      },
+      "artists": [
+        {
+          "name": "Kuzco",
+          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
+        }
+      ],
+      "duration_ms": 253214,
+      "name": "Be Loved",
+      "url": "https://open.spotify.com/track/0Wnq7CivkLqb2nBtgej9m0"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "Lazy",
+        "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mitch",
+          "url": "https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv"
+        }
+      ],
+      "duration_ms": 265378,
+      "name": "In the Hills",
+      "url": "https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf"
     },
     {
       "added_at": "2026-04-03 04:00:50",

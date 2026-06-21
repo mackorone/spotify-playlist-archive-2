@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAACq/8ODvy8qHZ/35tUIhgND",
+  "snapshot_id": "ajSGgAAAAACfM/gNa4zxh47wmjiU1akc",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
+        "name": "halfway",
+        "url": "https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 499990,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
+      "duration_ms": 424000,
+      "name": "halfway",
+      "url": "https://open.spotify.com/track/3VfQLPkItSWRhuJFXmvY7U"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 384249,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/1GRsoPEqDv649lZDFdya0G"
+      "duration_ms": 238000,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/3gO9CRgwtyTo1aohvw6rYD"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 499990,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "bath",
         "url": "https://open.spotify.com/album/5O38jKRwlHHkDN4mu9M2cQ"
       },
@@ -299,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "halfway",
-        "url": "https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 424000,
-      "name": "halfway",
-      "url": "https://open.spotify.com/track/3VfQLPkItSWRhuJFXmvY7U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Late in life",
         "url": "https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R"
       },
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/3gO9CRgwtyTo1aohvw6rYD"
+      "duration_ms": 384249,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/1GRsoPEqDv649lZDFdya0G"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Depthscape",
+        "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Foggy",
+      "url": "https://open.spotify.com/track/48BaTYfr7tCqfUxAoU0ARE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Left",
         "url": "https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 351153,
       "name": "Culvert",
       "url": "https://open.spotify.com/track/1Y2fWkiSpIo4UP5N2hhsJO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 337937,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/3y0MWGcgTa2ITPYvn196Xi"
     },
     {
       "added_at": null,
@@ -411,38 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Depthscape",
-        "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Foggy",
-      "url": "https://open.spotify.com/track/48BaTYfr7tCqfUxAoU0ARE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "halfway",
-        "url": "https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 398000,
-      "name": "calm",
-      "url": "https://open.spotify.com/track/2ZuGJTPuvGNUwOvo7aOdxi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contour",
         "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
       },
@@ -452,9 +420,25 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 380624,
-      "name": "Dew",
-      "url": "https://open.spotify.com/track/5yUkO5rXLUsMTIRyGJujaj"
+      "duration_ms": 337937,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/3y0MWGcgTa2ITPYvn196Xi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Depthscape",
+        "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5UHUIEVxCXe07J7dUdmErI"
     },
     {
       "added_at": null,
@@ -475,6 +459,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "halfway",
+        "url": "https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 398000,
+      "name": "calm",
+      "url": "https://open.spotify.com/track/7yT4fFCdS0VVdRBL0FJyCW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 380624,
+      "name": "Dew",
+      "url": "https://open.spotify.com/track/5yUkO5rXLUsMTIRyGJujaj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Depthscape",
         "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
       },
@@ -484,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/5UHUIEVxCXe07J7dUdmErI"
+      "duration_ms": 624000,
+      "name": "Ten",
+      "url": "https://open.spotify.com/track/4qYZegpAWSfWecpp6qAYh2"
     },
     {
       "added_at": null,
@@ -516,25 +532,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 423999,
-      "name": "Abyssal",
-      "url": "https://open.spotify.com/track/20cam3yFQStfMT7eSzjpRn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Depthscape",
-        "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 624000,
-      "name": "Ten",
-      "url": "https://open.spotify.com/track/4qYZegpAWSfWecpp6qAYh2"
+      "duration_ms": 420979,
+      "name": "Hamon",
+      "url": "https://open.spotify.com/track/6mazXf0065n3ttcbEXQVba"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 257993,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/4nPWO2GRxNoTwlBFPgMqTh"
+      "duration_ms": 423999,
+      "name": "Abyssal",
+      "url": "https://open.spotify.com/track/20cam3yFQStfMT7eSzjpRn"
     }
   ],
   "unique_name": "This Is iu takahashi",

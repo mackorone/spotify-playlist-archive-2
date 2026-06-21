@@ -4,7 +4,7 @@
 
 > The best in Black music! Cover: <a href="spotify:artist:3SozjO3Lat463tQICI9LcE">Tyla</a>
 
-6,170 songs - 13 day 1 hr 7 min
+6,171 songs - 13 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2568,6 +2568,7 @@
 | [I CAN'T STAND Y'ALL](https://open.spotify.com/track/1Y2qbVBSXXFKmlLtANA3FG) | [NASCAR P 13k](https://open.spotify.com/artist/06tQPaqB8PniGzJoXlby0R) | [I CAN'T STAND Y'ALL](https://open.spotify.com/album/3boh4YIOlTWCWy1rDSirSt) | 2:00 | 2023-01-20 | 2023-02-04 |
 | [i cant tell \(love my money\)](https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle) | 2:43 | 2024-11-22 | 2024-11-25 |
 | [I CAN’T](https://open.spotify.com/track/1pfXsFILIkTDEgiHoZ8D2D) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [Kimani Jones](https://open.spotify.com/artist/4g1enWw9GOdsRNQ3LVGdSX) | [Come and See Deluxe: Command C](https://open.spotify.com/album/0K4QFlwgSqdYg3jaBRzh2X) | 2:27 | 2025-08-08 | 2025-08-30 |
+| [I CAN’T WAIT \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/6ImNhLq3RabOnEHfoRdvd4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [BULLY \- DELUXE](https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh) | 2:17 | 2026-06-20 |  |
 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 | 2025-10-24 | 2025-11-29 |
 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 | 2023-03-24 | 2023-04-09 |
 | [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 | 2026-01-30 | 2026-03-14 |

@@ -4,7 +4,7 @@
 
 > This is Adriana Ríos\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 35 min
+68 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,12 +26,12 @@
 | [Dónde Están?](https://open.spotify.com/track/08HWZEfo0P149Y5TGIt89E) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Dónde Están?](https://open.spotify.com/album/1l8xElIHmWNIOiJUHaVaMW) | 4:13 | 2024-08-08 |  |
 | [El Carlitos](https://open.spotify.com/track/6u8BKNLNsVUIG4LQQVwiv6) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [El Carlitos](https://open.spotify.com/album/42shtjuBd6DhoXfjABcJRw) | 2:19 | 2024-08-08 | 2026-03-14 |
 | [El que Quiero que Me Quiera](https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Asi Suena con Tequila](https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW) | 2:44 | 2024-08-08 |  |
-| [Empiezo a Recordarte \- En Vivo](https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:51 | 2024-08-08 | 2026-05-21 |
+| [Empiezo a Recordarte \- En Vivo](https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:51 | 2024-08-08 |  |
 | [En Donde Esta Tu Amor](https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [En Donde Esta Tu Amor](https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY) | 2:49 | 2024-08-08 | 2026-05-26 |
 | [Entre la Guerra y el Amor](https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Entre la Guerra y el Amor](https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO) | 2:58 | 2024-08-08 |  |
 | [Esa Hembra Es Mala \(En Vivo\)](https://open.spotify.com/track/6aOa9RIM1Jc0m9Ek1IUKgP) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Esa Hembra Es Mala \(En Vivo\)](https://open.spotify.com/album/7FiCupAPcUBRsVnTKDUaUJ) | 4:23 | 2026-05-10 |  |
 | [Este Corazón](https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Este Corazón](https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2) | 3:47 | 2024-08-08 |  |
-| [Está en Ti \- Versión Acústica](https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Está en Ti \(Versión Acústica\)](https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH) | 4:11 | 2024-08-08 |  |
+| [Está en Ti \- Versión Acústica](https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Está en Ti \(Versión Acústica\)](https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH) | 4:11 | 2024-08-08 | 2026-06-21 |
 | [Fuiste Tú \- En Vivo](https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Jr Salazar](https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 4:07 | 2024-08-08 |  |
 | [Hoy Dame el Gusto](https://open.spotify.com/track/49IgNGUL6SDq2OQGvg4q2m) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:12 | 2024-08-08 |  |
 | [Hubiera Querido](https://open.spotify.com/track/0Ww4kKGo0oejyFLahq3WAp) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:27 | 2024-10-28 | 2025-05-23 |
@@ -39,6 +39,7 @@
 | [La Cigarra](https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Cigarra](https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t) | 4:01 | 2024-08-08 |  |
 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 | 2024-08-08 |  |
 | [La Mejor Versión de Mi](https://open.spotify.com/track/51WdGGIKOxvlGZ7zIjxeGW) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Mejor Versión de Mi](https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO) | 2:17 | 2024-08-08 |  |
+| [La piñata](https://open.spotify.com/track/74T3B49Ur8mC9d04fiPSBv) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La piñata](https://open.spotify.com/album/0xpdjfOC6VYKaOAXzgLvX1) | 2:33 | 2026-06-21 |  |
 | [La Que Sigue de Mi](https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:15 | 2024-08-08 |  |
 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 | 2025-02-21 | 2025-03-09 |
 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/3YqCO55lqjeSnF9WPWgRqd) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 2:32 | 2024-08-08 |  |

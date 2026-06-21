@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "My Mess, My Heart, My Life.",
+        "url": "https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "Hate You",
+      "url": "https://open.spotify.com/track/5WN4ByXJLl7SmsQMsx2yQr"
+    },
+    {
+      "album": {
         "name": "11 DAYS",
         "url": "https://open.spotify.com/album/54sUAWVNEtPQLadklZwQLM"
       },

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAC3tUX95FoJ3+K5ohodnqKi",
+  "snapshot_id": "ajSGgAAAAAB+LBFqNzX3Xh2qeTZT7GNH",
   "tracks": [
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
         }
       ],
-      "duration_ms": 62666,
-      "name": "Around",
-      "url": "https://open.spotify.com/track/3qKNMvtL3n3zin2b4DrpQR"
+      "duration_ms": 162133,
+      "name": "Granted",
+      "url": "https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
         }
       ],
-      "duration_ms": 162133,
-      "name": "Granted",
-      "url": "https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw"
+      "duration_ms": 62666,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/3qKNMvtL3n3zin2b4DrpQR"
     }
   ],
   "unique_name": "This Is Chxrry",

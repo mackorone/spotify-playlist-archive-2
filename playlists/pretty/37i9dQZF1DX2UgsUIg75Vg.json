@@ -1,13 +1,69 @@
 {
-  "description": "Chill r&b. Cover: Jai'len Josey",
-  "num_followers": 2365105,
+  "description": "Chill r&b. Cover: Masego",
+  "num_followers": 2364971,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIi0HRk6tB2ZVL2c6EPeVSSgeD7I",
+  "snapshot_id": "AAAAABxRKeNBgQEqR1GZgT/QLXaYIirz",
   "tracks": [
+    {
+      "added_at": "2026-06-20 04:00:17",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1ESGqa57ayFuz8ZpS6RxqX"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 237188,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/28AnZq4Yo21iyneTWGjeUT"
+    },
+    {
+      "added_at": "2026-06-20 04:00:17",
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Aura (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI"
+    },
+    {
+      "added_at": "2026-06-20 04:00:17",
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 102034,
+      "name": "Main Attraction",
+      "url": "https://open.spotify.com/track/7u3qnFJuJCi7uYFXJkN66w"
+    },
     {
       "added_at": "2026-04-24 04:58:49",
       "album": {
@@ -97,6 +153,26 @@
       "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
     },
     {
+      "added_at": "2026-06-20 04:00:17",
+      "album": {
+        "name": "BROWN (The Chocolate Edition)",
+        "url": "https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 232736,
+      "name": "Man On A Mission (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep"
+    },
+    {
       "added_at": "2026-05-22 04:01:53",
       "album": {
         "name": "Love is the New Gangsta",
@@ -115,6 +191,58 @@
       "duration_ms": 182173,
       "name": "On Me (with Odeal)",
       "url": "https://open.spotify.com/track/1Hz7wkNn6EtrnMV1fRAZd5"
+    },
+    {
+      "added_at": "2026-06-20 04:00:17",
+      "album": {
+        "name": "Sweet Thang",
+        "url": "https://open.spotify.com/album/05wRlo4q22wpGkKDKEHBZe"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 154971,
+      "name": "Sweet Thang",
+      "url": "https://open.spotify.com/track/1LseKUjL7AAgkZv7IjEBYk"
+    },
+    {
+      "added_at": "2026-06-05 04:01:35",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 207138,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
+    },
+    {
+      "added_at": "2026-06-20 04:00:17",
+      "album": {
+        "name": "Make You Feel",
+        "url": "https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 164488,
+      "name": "Rich Luv",
+      "url": "https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7"
     },
     {
       "added_at": "2026-06-12 07:05:50",
@@ -169,36 +297,20 @@
       "url": "https://open.spotify.com/track/1nEzZ4l1LYmmaDNgWNzVCG"
     },
     {
-      "added_at": "2026-06-05 04:01:35",
+      "added_at": "2026-06-20 04:00:17",
       "album": {
-        "name": "Holding Back",
-        "url": "https://open.spotify.com/album/2JNlTV4RIRVGlNZScebsOK"
+        "name": "2 Many Days",
+        "url": "https://open.spotify.com/album/5C9EToByF5XDM3DXx4WewZ"
       },
       "artists": [
         {
-          "name": "Ama",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 199533,
-      "name": "Holding Back",
-      "url": "https://open.spotify.com/track/2VUqrHj4z85HUBMQVdjqmj"
-    },
-    {
-      "added_at": "2026-06-05 04:01:35",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 207138,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
+      "duration_ms": 185770,
+      "name": "2 Many Days",
+      "url": "https://open.spotify.com/track/5xKsdMU9ssxhKSre7iMflV"
     },
     {
       "added_at": "2026-06-12 07:05:50",
@@ -217,20 +329,60 @@
       "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
     },
     {
-      "added_at": "2025-11-21 09:24:23",
+      "added_at": "2026-06-20 04:00:17",
       "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+        "name": "outta time",
+        "url": "https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "A. K. Paul",
+          "url": "https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe"
         }
       ],
-      "duration_ms": 234080,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
+      "duration_ms": 251173,
+      "name": "outta time",
+      "url": "https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU"
+    },
+    {
+      "added_at": "2026-06-05 04:01:35",
+      "album": {
+        "name": "Holding Back",
+        "url": "https://open.spotify.com/album/2JNlTV4RIRVGlNZScebsOK"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 199533,
+      "name": "Holding Back",
+      "url": "https://open.spotify.com/track/2VUqrHj4z85HUBMQVdjqmj"
+    },
+    {
+      "added_at": "2026-06-20 04:00:17",
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 132048,
+      "name": "Talking Dirty",
+      "url": "https://open.spotify.com/track/0TvgV79xVI0t2022ABkxS4"
     },
     {
       "added_at": "2026-02-15 17:48:14",
@@ -295,6 +447,58 @@
       "duration_ms": 180313,
       "name": "Rain On Me",
       "url": "https://open.spotify.com/track/2MvohuUpHDbV207wzl30qq"
+    },
+    {
+      "added_at": "2026-06-20 04:00:17",
+      "album": {
+        "name": "baby, can we?",
+        "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 246422,
+      "name": "baby, can we?",
+      "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
+    },
+    {
+      "added_at": "2026-06-20 04:00:17",
+      "album": {
+        "name": "SOULSTAR DELUXE",
+        "url": "https://open.spotify.com/album/0CN5V9O6Ldnu5OIDfMndUB"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 203458,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/5l0FelDpLcRGzvpYhT9eCH"
+    },
+    {
+      "added_at": "2025-11-21 09:24:23",
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
     },
     {
       "added_at": "2026-06-12 07:05:50",
@@ -363,6 +567,22 @@
       "duration_ms": 165558,
       "name": "TABOO",
       "url": "https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY"
+    },
+    {
+      "added_at": "2026-06-20 04:00:17",
+      "album": {
+        "name": "she goes by.",
+        "url": "https://open.spotify.com/album/20GEur5fpZCdC8o6oVI6V2"
+      },
+      "artists": [
+        {
+          "name": "where.t.at",
+          "url": "https://open.spotify.com/artist/0kxG2FyO4bp80QsBwYQTvo"
+        }
+      ],
+      "duration_ms": 177423,
+      "name": "she goes by.",
+      "url": "https://open.spotify.com/track/3kpGbIP1qVaFHNE78tTGEy"
     },
     {
       "added_at": "2026-05-15 08:05:42",
@@ -1867,22 +2087,6 @@
       "duration_ms": 198720,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/2uT340YoNU82MQmG7fgKk0"
-    },
-    {
-      "added_at": "2026-02-27 07:03:38",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 236559,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
     },
     {
       "added_at": "2026-04-10 05:15:35",
@@ -3909,22 +4113,6 @@
       "url": "https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe"
     },
     {
-      "added_at": "2025-09-05 16:38:51",
-      "album": {
-        "name": "SWAG II",
-        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 196977,
-      "name": "PETTING ZOO",
-      "url": "https://open.spotify.com/track/6dOoNq2InmdP57QnF6HdBU"
-    },
-    {
       "added_at": "2025-09-05 04:33:13",
       "album": {
         "name": "Myself (feat. Jorja Smith)",
@@ -4157,22 +4345,6 @@
       "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
     },
     {
-      "added_at": "2025-07-11 06:25:06",
-      "album": {
-        "name": "It's Me, Not You",
-        "url": "https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI"
-      },
-      "artists": [
-        {
-          "name": "JANE HANDCOCK",
-          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
-        }
-      ],
-      "duration_ms": 282444,
-      "name": "Same Ol\u2019 Love",
-      "url": "https://open.spotify.com/track/2UJV3mMuthhYHRa4KgeMBo"
-    },
-    {
       "added_at": "2025-08-15 06:14:03",
       "album": {
         "name": "be careful",
@@ -4189,22 +4361,6 @@
       "url": "https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z"
     },
     {
-      "added_at": "2025-07-11 06:25:06",
-      "album": {
-        "name": "BELOVED",
-        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 195869,
-      "name": "I CAN TELL",
-      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
-    },
-    {
       "added_at": "2025-05-02 04:00:36",
       "album": {
         "name": "Spend It",
@@ -4219,42 +4375,6 @@
       "duration_ms": 165000,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "Burning Blue",
-        "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 205724,
-      "name": "Burning Blue",
-      "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
-    },
-    {
-      "added_at": "2025-07-11 06:25:06",
-      "album": {
-        "name": "Tuff Times Never Last",
-        "url": "https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        },
-        {
-          "name": "LULU.",
-          "url": "https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch"
-        }
-      ],
-      "duration_ms": 291046,
-      "name": "Idea 5 (Call My Name) [feat. LULU.]",
-      "url": "https://open.spotify.com/track/0H9K4Ul9aFjf2RV14K5Xzf"
     },
     {
       "added_at": "2025-01-31 10:12:57",
@@ -4287,22 +4407,6 @@
       "duration_ms": 125893,
       "name": "Phuckups (Hold Me)",
       "url": "https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ"
-    },
-    {
-      "added_at": "2025-04-21 15:47:04",
-      "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238479,
-      "name": "S.I.T.L.",
-      "url": "https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH"
     }
   ],
   "unique_name": "Chilled R&B",

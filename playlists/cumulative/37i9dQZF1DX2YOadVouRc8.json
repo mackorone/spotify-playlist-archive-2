@@ -2820,7 +2820,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 181727,
       "name": "Celine",
       "url": "https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59"
@@ -8444,6 +8444,28 @@
       "duration_ms": 171000,
       "name": "Mademoiselle (feat. ODUMODUBLVCK, Shallipopi, Theodora, Zeina)",
       "url": "https://open.spotify.com/track/1iYBlO1RGEFeDnG3AH4gUE"
+    },
+    {
+      "album": {
+        "name": "MAGAA",
+        "url": "https://open.spotify.com/album/10BL9nd3OGaX5s47NWNIPA"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181289,
+      "name": "MAGAA",
+      "url": "https://open.spotify.com/track/1uXIywdXW2eaFnD3zJbfpl"
     },
     {
       "album": {

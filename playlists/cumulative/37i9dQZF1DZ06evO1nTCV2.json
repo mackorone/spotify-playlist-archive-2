@@ -952,7 +952,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 290520,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 190213,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/35IXhsIR2ZgELZABz7iRVr"
@@ -3472,7 +3472,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 249485,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5"
@@ -3926,6 +3926,24 @@
       "duration_ms": 189880,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5cDkShsp5scmWw4gc2z3lX"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264333,
+      "name": "Somehow, Someday",
+      "url": "https://open.spotify.com/track/2X3cgDxTNhmkbW3HGl1gkS"
     },
     {
       "album": {

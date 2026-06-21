@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,947 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,958 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 50 | [Boys Like Me](https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h) | [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq) | [Kaleidoscope](https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9) | 3:22 |
 | 51 | [Outside In](https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Outside In](https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR) | 3:14 |
 | 52 | [Champion \(Ru X Blu\)](https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Blu Hydrangea](https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0) | [Champion \(Ru X Blu\)](https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ) | 2:58 |
-| 53 | [Finish Her!](https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [WNNR](https://open.spotify.com/artist/1QQDgJqgSf4OCy7zM2tgyf), [DJ Accident Report](https://open.spotify.com/artist/2sIY8jk1jkuxNsy1A9s7Pk) | [In My Feelings](https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F) | 3:45 |
-| 54 | [Flamin' Hot](https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb) | [Sharon Needles](https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae) | [Absolute Zero](https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli) | 3:18 |
+| 53 | [Flamin' Hot](https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb) | [Sharon Needles](https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae) | [Absolute Zero](https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli) | 3:18 |
+| 54 | [Finish Her!](https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [WNNR](https://open.spotify.com/artist/1QQDgJqgSf4OCy7zM2tgyf), [DJ Accident Report](https://open.spotify.com/artist/2sIY8jk1jkuxNsy1A9s7Pk) | [In My Feelings](https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F) | 3:45 |
 | 55 | [Zubi Zubi Zubi](https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Zubi Zubi Zubi](https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF) | 3:29 |
 | 56 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 |
 | 57 | [Drag Den](https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Drag Den](https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b) | 3:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover:  Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,382 likes - 54 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,376 likes - 54 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 13 | [Después de ti](https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Después de ti](https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92) | 4:35 |
 | 14 | [Ain't Over Me Yet](https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Ain't Over Me Yet](https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p) | 3:24 |
 | 15 | [Bitches](https://open.spotify.com/track/6M1i8I1dRCTw0VESPXikw6) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Bitches](https://open.spotify.com/album/6md6XQS1qEmxx4UDyEx9qa) | 3:48 |
-| 16 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
-| 17 | [Testimony](https://open.spotify.com/track/57raDV5u2fktsZTXZTqnpI) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Testimony](https://open.spotify.com/album/5U2jgBcYY2ajkqFfzGvAsc) | 4:02 |
+| 16 | [Testimony](https://open.spotify.com/track/57raDV5u2fktsZTXZTqnpI) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Testimony](https://open.spotify.com/album/5U2jgBcYY2ajkqFfzGvAsc) | 4:02 |
+| 17 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
 | 18 | [kiss goodbye](https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [kiss goodbye / brb](https://open.spotify.com/album/45omOM9b7ujbjudttnasFa) | 2:43 |
 | 19 | [You Can Have Him](https://open.spotify.com/track/2Fk3aGFUTMniC8tNSJWe4S) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [You Can Have Him](https://open.spotify.com/album/2sLwRHswcURQ3Oe0chhcN8) | 3:15 |
 | 20 | [Daisies](https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daisies](https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv) | 3:43 |
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 42 | [WYD](https://open.spotify.com/track/4VzsfQSUEwJ37RjyzAmQ5Y) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [WYD](https://open.spotify.com/album/3UQ4Eu0TwyHelMM8LR5smw) | 2:36 |
 | 43 | [no te vayas](https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [no te vayas](https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ) | 3:14 |
 | 44 | [AFRAID!](https://open.spotify.com/track/7CL73y6Alwtgh9UGeugLYH) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [AFRAID!](https://open.spotify.com/album/0MK4yks85NeMeaUhRKBHYj) | 2:44 |
-| 45 | [Berlin](https://open.spotify.com/track/7Ei6t0vqP6QsuEEok9oxZJ) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:23 |
-| 46 | [Plastic Fruit](https://open.spotify.com/track/2haZjYWVMFjpn3QxVuqANq) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Plastic Fruit](https://open.spotify.com/album/1NCa1RSwxfQ03vnXqzLH2D) | 3:29 |
+| 45 | [Plastic Fruit](https://open.spotify.com/track/2haZjYWVMFjpn3QxVuqANq) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Plastic Fruit](https://open.spotify.com/album/1NCa1RSwxfQ03vnXqzLH2D) | 3:29 |
+| 46 | [Berlin](https://open.spotify.com/track/7Ei6t0vqP6QsuEEok9oxZJ) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:23 |
 | 47 | [Clink](https://open.spotify.com/track/60eUWIGVnOBdVOs14dz0UP) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [SYNY 3 ACT III](https://open.spotify.com/album/4HGO4xsnxiXdUylihPjTUB) | 2:40 |
 | 48 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 |
 | 49 | [Oídos Sordos](https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Oídos Sordos](https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4) | 3:34 |
 | 50 | [Madrugá](https://open.spotify.com/track/7FMZshxfGrGTvsOvIUVHdK) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GOLOSA](https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr) | 3:08 |
-| 51 | [Your Mother](https://open.spotify.com/track/7eq64AWsnSuYEE2861FRuD) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [Sound of a Woman](https://open.spotify.com/album/1EXvOPcWpUOV0rU44OXDHD) | 5:16 |
-| 52 | [Wanderer](https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv) | [Ire Toluhi](https://open.spotify.com/artist/1uLf3V4Z9jtKJHJOb4Tx7K) | [Wanderer](https://open.spotify.com/album/4e7n1hfpPjDB9s9jpeqAsP) | 3:50 |
+| 51 | [Wanderer](https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv) | [Ire Toluhi](https://open.spotify.com/artist/1uLf3V4Z9jtKJHJOb4Tx7K) | [Wanderer](https://open.spotify.com/album/4e7n1hfpPjDB9s9jpeqAsP) | 3:50 |
+| 52 | [Your Mother](https://open.spotify.com/track/7eq64AWsnSuYEE2861FRuD) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [Sound of a Woman](https://open.spotify.com/album/1EXvOPcWpUOV0rU44OXDHD) | 5:16 |
 | 53 | [Jade](https://open.spotify.com/track/636MsYocCcRKzJxGWmhQ4Z) | [Maya Engen](https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm) | [Jade](https://open.spotify.com/album/2KIhBAxa9FMbVn9PToW2p0) | 4:04 |
 | 54 | [Suiza](https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Suiza](https://open.spotify.com/album/4Aj3BUUr8notfsXiwUJBpA) | 2:20 |
 

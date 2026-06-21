@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring Glenn Lewis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,215 likes - 99 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,202 likes - 99 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waiting](https://open.spotify.com/track/4ZuWgH2xw0T3vbkHDGchXv) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Overture](https://open.spotify.com/album/173YEGDpbqDZ6FFd5N9oiy) | 2:46 |
-| 2 | [Rich Luv \(with Chase Shakur\)](https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Make You Feel](https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y) | 2:44 |
+| 2 | [Rich Luv](https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Make You Feel](https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y) | 2:44 |
 | 3 | [DUSTY \(with Ty Dolla $ign\)](https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [A LITTLE VENGEANCE](https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44) | 3:13 |
 | 4 | [Something Bout It](https://open.spotify.com/track/0ATYGGx8AP7w0tsTsC1L4o) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Labor Of Love](https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st) | 2:36 |
 | 5 | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK) | 2:47 |

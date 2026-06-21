@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 43125,
+  "num_followers": 43132,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAACKqER4kuGa2eVejljt0waM",
+  "snapshot_id": "ajSGgAAAAAAojHVzyFPsJBKrOs8FFfcX",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "No Submission",
-      "url": "https://open.spotify.com/track/00AxXSPBavEKf4hwgX6ZMo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Regeneration, Vol. 2",
         "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 226734,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "No Submission",
+      "url": "https://open.spotify.com/track/00AxXSPBavEKf4hwgX6ZMo"
     },
     {
       "added_at": null,

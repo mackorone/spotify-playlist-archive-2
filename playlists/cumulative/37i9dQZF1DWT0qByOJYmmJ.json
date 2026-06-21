@@ -2093,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Mi Amigo Chapul\u00edn",
+        "url": "https://open.spotify.com/album/6k8Qp0O4XZhnIyw8pPE2TX"
+      },
+      "artists": [
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Mi Amigo Chapul\u00edn",
+      "url": "https://open.spotify.com/track/7bS79av4K7hPcAemnQabIl"
+    },
+    {
+      "album": {
         "name": "Mi Despedida",
         "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
       },
@@ -2332,7 +2350,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 202391,
       "name": "Nunca me encontr\u00e9 ;(",
       "url": "https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ"

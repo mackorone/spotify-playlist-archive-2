@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3S9miHGqiEuJftY8aaaBvm">Paul \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10 likes - 95 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11 likes - 95 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 94 | [Gas nur mit dir](https://open.spotify.com/track/58m3LEsLbH2ZBJqLZ87vHB) | [Yous39](https://open.spotify.com/artist/5dLEzOHOPykRTvRoan7DBK), [eightyoneace](https://open.spotify.com/artist/6aLtq5w4tLiDEMMBtyDluE) | [Gas nur mit dir](https://open.spotify.com/album/7s3S0KPiQJkpCOhWAUj182) | 2:11 |
 | 95 | [Catwoman](https://open.spotify.com/track/4p2zIDZA4oglBJuPJl6oOF) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Catwoman](https://open.spotify.com/album/52SI4Qw2cWcwRV0YNIFHqJ) | 2:16 |
 
-Snapshot ID: `AcUq8AAAAACWgm7oUj8Qed9KnffkciL6`
+Snapshot ID: `AcUwkAAAAAAGkyva6sYukOjAl4J2CE/s`

@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63053,
+  "num_followers": 63061,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -275,26 +275,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Crazy:B\u300cUTAKATA DANCE FLOOR\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/7IL5MKNaGP5Un8ZwcV6nDS"
-      },
-      "artists": [
-        {
-          "name": "Crazy:B",
-          "url": "https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 196125,
-      "name": "UTAKATA DANCE FLOOR",
-      "url": "https://open.spotify.com/track/3xQc38Pnh2pus6REcexcep"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u7460\u7483\u8309\u8389\u300c\u541b\u604b\u5fd7\u9858\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0",
         "url": "https://open.spotify.com/album/3vD9fOvl57rX25QxKy1eY9"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 238661,
       "name": "\u541b\u604b\u5fd7\u9858",
       "url": "https://open.spotify.com/track/1FpXk92XR1PgmCWnqZOxMB"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "Crazy:B\u300cUTAKATA DANCE FLOOR\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/7IL5MKNaGP5Un8ZwcV6nDS"
+      },
+      "artists": [
+        {
+          "name": "Crazy:B",
+          "url": "https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 196125,
+      "name": "UTAKATA DANCE FLOOR",
+      "url": "https://open.spotify.com/track/3xQc38Pnh2pus6REcexcep"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
+        "url": "https://open.spotify.com/album/0G67I9Ba3ayQHq7S22orfn"
+      },
+      "artists": [
+        {
+          "name": "Special for Princess!",
+          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
+        }
+      ],
+      "duration_ms": 238033,
+      "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
+      "url": "https://open.spotify.com/track/4s3WJBqODAeXk7kHlwq0Nh"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "\u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01Bright me up!!\u300f\u30a2\u30d7\u30ea\u4e3b\u984c\u6b4c\u300cBRIGHTEST STARS!!\u300d",
         "url": "https://open.spotify.com/album/5Ctyhj2QjC7DhCikMYdrNt"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 188639,
       "name": "BRIGHTEST STARS!! (ES\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba ver.)",
       "url": "https://open.spotify.com/track/6goODWB6IHzU96zSBLZEbf"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
-        "url": "https://open.spotify.com/album/0G67I9Ba3ayQHq7S22orfn"
-      },
-      "artists": [
-        {
-          "name": "Special for Princess!",
-          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
-        }
-      ],
-      "duration_ms": 238033,
-      "name": "\u30b9\u30ad\u30b9\u30ad\u30cf\u30f3\u30bf\u30fc\u2661",
-      "url": "https://open.spotify.com/track/4s3WJBqODAeXk7kHlwq0Nh"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u7d05\u6708\u300c\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/3oSqmv9f8hc0zMb4rmPGCz"
-      },
-      "artists": [
-        {
-          "name": "\u7d05\u6708",
-          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 260933,
-      "name": "\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c (2025 ver.)",
-      "url": "https://open.spotify.com/track/40CBtoFAQB16zgwkZfYRZf"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "Jin & Akiomi\u300c\u30cf\u30ca\u30cb\u30ca\u30ec\uff01\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
         "url": "https://open.spotify.com/album/30ZTn3ofR3ISSO1cdY2OGO"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 199112,
       "name": "\u30cf\u30ca\u30cb\u30ca\u30ec\uff01",
       "url": "https://open.spotify.com/track/32Rqmby8BxNZUvjcbvO88C"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u7d05\u6708\u300c\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/3oSqmv9f8hc0zMb4rmPGCz"
+      },
+      "artists": [
+        {
+          "name": "\u7d05\u6708",
+          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 260933,
+      "name": "\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c (2025 ver.)",
+      "url": "https://open.spotify.com/track/40CBtoFAQB16zgwkZfYRZf"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1311,46 +1311,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u4e59\u72e9 \u30a2\u30c9\u30cb\u30b9\u300cFar Away Song\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
-        "url": "https://open.spotify.com/album/3Mo2KFdXOZeP7cuwZE9fNx"
-      },
-      "artists": [
-        {
-          "name": "\u4e59\u72e9 \u30a2\u30c9\u30cb\u30b9(CV.\u7fbd\u591a\u91ce \u6e09)",
-          "url": "https://open.spotify.com/artist/2Z3YfRhupn8Dpz3VWCRzUj"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 235959,
-      "name": "Far Away Song",
-      "url": "https://open.spotify.com/track/2xN8r5MIGrMjbJ3IZV1x2s"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u7d05\u6708\u300c\u660e\u93e1\u6d41\u6c34\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/383W6Pd0RmZ3AdzkS8MOUl"
-      },
-      "artists": [
-        {
-          "name": "\u7d05\u6708",
-          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 217766,
-      "name": "\u660e\u93e1\u6d41\u6c34",
-      "url": "https://open.spotify.com/track/4dTrZCkSIFEcsrwyouLop3"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u300cOWN\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/0UJyFPjq1Qpr7vKQ0Jbtcc"
       },
@@ -1375,6 +1335,46 @@
       "duration_ms": 205990,
       "name": "OWN",
       "url": "https://open.spotify.com/track/2OoPeFUl5cVpemSwYasVzN"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u7d05\u6708\u300c\u660e\u93e1\u6d41\u6c34\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/383W6Pd0RmZ3AdzkS8MOUl"
+      },
+      "artists": [
+        {
+          "name": "\u7d05\u6708",
+          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 217766,
+      "name": "\u660e\u93e1\u6d41\u6c34",
+      "url": "https://open.spotify.com/track/4dTrZCkSIFEcsrwyouLop3"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u4e59\u72e9 \u30a2\u30c9\u30cb\u30b9\u300cFar Away Song\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/3Mo2KFdXOZeP7cuwZE9fNx"
+      },
+      "artists": [
+        {
+          "name": "\u4e59\u72e9 \u30a2\u30c9\u30cb\u30b9(CV.\u7fbd\u591a\u91ce \u6e09)",
+          "url": "https://open.spotify.com/artist/2Z3YfRhupn8Dpz3VWCRzUj"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 235959,
+      "name": "Far Away Song",
+      "url": "https://open.spotify.com/track/2xN8r5MIGrMjbJ3IZV1x2s"
     },
     {
       "added_at": "2026-04-21 15:00:41",

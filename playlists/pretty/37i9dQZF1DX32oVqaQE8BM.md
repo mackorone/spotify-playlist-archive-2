@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,409 likes - 170 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 985,324 likes - 170 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 169 | [wave catcher](https://open.spotify.com/track/5yq3LAl26VCbshRVgwssA9) | [citron love](https://open.spotify.com/artist/6a24frzzG1wS3gvqsvbjyQ) | [wave catcher](https://open.spotify.com/album/1EGrmVwf78EZzVDczU862G) | 2:28 |
 | 170 | [Submerge](https://open.spotify.com/track/5DIRSKcJSR3TVNCv1jHo67) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Submerge](https://open.spotify.com/album/3yMjoLQgkX3nuQS3iNrKeU) | 2:39 |
 
-Snapshot ID: `AAAAAPWVUVImbdYVmsjnmSrzWTbQSS8k`
+Snapshot ID: `AAAAALBrJt9O5U3Hmmel91I0fkhOs4Tx`

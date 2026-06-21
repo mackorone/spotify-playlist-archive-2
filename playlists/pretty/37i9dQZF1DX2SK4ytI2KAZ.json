@@ -1,6 +1,6 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1484273,
+  "num_followers": 1484256,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 193425,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
         "name": "Pacific Coast Highway (with Trevor Hall)",
         "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 156008,
       "name": "strawberry chainsaw",
       "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 193425,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
     },
     {
       "added_at": "2025-10-31 04:00:32",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
         "name": "Clueless",
         "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 211572,
       "name": "CLOSE ONE!",
       "url": "https://open.spotify.com/track/7DArJNtpFZrFQxb3o2arJe"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "Arrow",
-      "url": "https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP"
     },
     {
       "added_at": "2025-10-31 04:00:32",

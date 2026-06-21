@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With JUST LIZZY, Mercury Teardrop, Evil Level Live and more",
+  "description": "With Evil Level Live, JUST LIZZY, SCHANZ and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 277643,
       "name": "Be OK",
       "url": "https://open.spotify.com/track/2lpzdtjEiowOzlCQRglmIh"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 280576,
       "name": "Breath",
       "url": "https://open.spotify.com/track/4zhlONJOzkkfqLza6r687i"
@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -3012,7 +3012,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 213658,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2NPoB18VfIr1LWRXcPFiSM"
@@ -3078,6 +3078,24 @@
       "duration_ms": 280276,
       "name": "Cries from Heaven",
       "url": "https://open.spotify.com/track/3sqevh7Usx16zG831a4BDK"
+    },
+    {
+      "album": {
+        "name": "Alveola mercy",
+        "url": "https://open.spotify.com/album/2YusK6zvA2Fdn1cbYE83Y8"
+      },
+      "artists": [
+        {
+          "name": "The Birch",
+          "url": "https://open.spotify.com/artist/0f1yccwMizgOv0fVWIRo83"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240797,
+      "name": "Crimson claws",
+      "url": "https://open.spotify.com/track/14D573GGlemUBZNPTQ1iZO"
     },
     {
       "album": {
@@ -3876,7 +3894,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -5548,7 +5566,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 304000,
       "name": "go inside",
       "url": "https://open.spotify.com/track/42vnnaK0FSZ4Xp6Q3Ca0pJ"
@@ -5602,7 +5620,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 198625,
       "name": "Goldwing",
       "url": "https://open.spotify.com/track/7nYp7BAH04UGVw2PZvn3jj"
@@ -6238,7 +6256,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 226176,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6AKSiC9SFzHEoXvYgZ1y97"
@@ -6909,6 +6927,42 @@
     },
     {
       "album": {
+        "name": "In The End We Have Us",
+        "url": "https://open.spotify.com/album/30Pls60mzk73UYctv16GK8"
+      },
+      "artists": [
+        {
+          "name": "Atlantean Blood",
+          "url": "https://open.spotify.com/artist/3E4mZTEA4KDDLEVbeZXEEg"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211812,
+      "name": "In The End We Have Us",
+      "url": "https://open.spotify.com/track/0S3B8Giud1ArLmGHLHq1zG"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Y4W2FEnJrjSYpnjJdczbU"
+      },
+      "artists": [
+        {
+          "name": "The Sanctity Of Crows",
+          "url": "https://open.spotify.com/artist/2fsa5TrdZMTahBYov7XrKt"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/0kX8xsOYLbyqiln8goAbc3"
+    },
+    {
+      "album": {
         "name": "In This Twilight",
         "url": "https://open.spotify.com/album/38UbIY8B1lhUpuy5bYYJxk"
       },
@@ -7360,7 +7414,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 234475,
       "name": "Josie Says",
       "url": "https://open.spotify.com/track/0uWnu6GoHw5gJ1Lj2tokgn"
@@ -8731,6 +8785,28 @@
     },
     {
       "album": {
+        "name": "METALLIC BEAST",
+        "url": "https://open.spotify.com/album/0yYjgW8QmeT8SdzhLq0T6i"
+      },
+      "artists": [
+        {
+          "name": "Melissa Ivey",
+          "url": "https://open.spotify.com/artist/5mfPa2xKs5URDLzrE4BWIy"
+        },
+        {
+          "name": "SKYLIGHT'S MAGICAL HARMONY",
+          "url": "https://open.spotify.com/artist/4zomFAkUrKNu0sggz7B3SI"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "METALLIC BEAST",
+      "url": "https://open.spotify.com/track/30XG2FdH6qVUxzbgjkx0ms"
+    },
+    {
+      "album": {
         "name": "Midnight Reverie",
         "url": "https://open.spotify.com/album/7xvaxnrTRFjSfsflWv0O2q"
       },
@@ -9378,7 +9454,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 213653,
       "name": "NineFortyFive",
       "url": "https://open.spotify.com/track/7JqZf9dGzwk8AYg1tP4UbA"
@@ -9998,7 +10074,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 317910,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/0g6itTXpJMOVPm60MERs7x"
@@ -10638,7 +10714,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 256777,
       "name": "Red and Gold",
       "url": "https://open.spotify.com/track/0FDQYEOZpOerg4dFVgjvP9"
@@ -10700,6 +10776,24 @@
       "duration_ms": 284500,
       "name": "Renn",
       "url": "https://open.spotify.com/track/6u2xQ160Up9FmziOCI0wch"
+    },
+    {
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV"
+      },
+      "artists": [
+        {
+          "name": "David Von Beahm",
+          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308189,
+      "name": "Requiem for My Memories",
+      "url": "https://open.spotify.com/track/3yFsLOkdfCpXRzMWH2NLsZ"
     },
     {
       "album": {
@@ -10804,7 +10898,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 186549,
       "name": "Robey Ven",
       "url": "https://open.spotify.com/track/242Lof3nt3f8rFgauer135"
@@ -10858,7 +10952,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 241893,
       "name": "Roseblood",
       "url": "https://open.spotify.com/track/0SvqrLZMvV3uSJ4gavipef"
@@ -11154,7 +11248,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -11370,7 +11464,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 260365,
       "name": "Self-Proclaimed Crown - Queen Elizabeth",
       "url": "https://open.spotify.com/track/1MlP8yWBC0rl067IyqB0IU"
@@ -11414,6 +11508,24 @@
       "duration_ms": 376000,
       "name": "September",
       "url": "https://open.spotify.com/track/1T2ty4xOFcAyV3nrmPfniv"
+    },
+    {
+      "album": {
+        "name": "Serpent Queen",
+        "url": "https://open.spotify.com/album/4DbyPTiL29H0OAPUSi9ujh"
+      },
+      "artists": [
+        {
+          "name": "Dmitry Distant",
+          "url": "https://open.spotify.com/artist/4QkMxZPi7Sj43xqpl8j86R"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Serpent Queen",
+      "url": "https://open.spotify.com/track/1OiSthFjW7g0YndCdsjQPN"
     },
     {
       "album": {
@@ -11908,7 +12020,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 248000,
       "name": "Slipping away",
       "url": "https://open.spotify.com/track/67iGteenwJZQbZJ4yTBb2m"
@@ -12378,7 +12490,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5fCyLFWKW7V1A3W9I7Ik5E"
@@ -12450,7 +12562,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 292352,
       "name": "STANDSTILL (BONUS TRACK)",
       "url": "https://open.spotify.com/track/0LPizZAedkVdRghV6RxaLx"
@@ -13282,7 +13394,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 222388,
       "name": "The Bubble",
       "url": "https://open.spotify.com/track/5YVDqPKTVbqGgwXIYt0cuk"
@@ -14306,7 +14418,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 341834,
       "name": "Thy Womb Full of Black Nectar",
       "url": "https://open.spotify.com/track/6Yhuv8w23vsF3m06bGIho0"
@@ -14706,7 +14818,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 219465,
       "name": "Turn Off Everything",
       "url": "https://open.spotify.com/track/7bMZQysQDz6QuAHKgfGGai"
@@ -15224,6 +15336,24 @@
       "duration_ms": 266853,
       "name": "Wait for a Day",
       "url": "https://open.spotify.com/track/79WwDikRFMbWwdYiW8uvzk"
+    },
+    {
+      "album": {
+        "name": "Wait It Out",
+        "url": "https://open.spotify.com/album/0gjpzGUklBu41LXcoUdhMh"
+      },
+      "artists": [
+        {
+          "name": "Stonetree",
+          "url": "https://open.spotify.com/artist/5vK6TGFoPGFj7LMvxv7JdF"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173343,
+      "name": "Wait It Out",
+      "url": "https://open.spotify.com/track/0yMxJqJrA8F0Po13zP7Yze"
     },
     {
       "album": {
@@ -15776,7 +15906,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 226917,
       "name": "Whisper Park",
       "url": "https://open.spotify.com/track/6cCV0VdbECEBATuTYNXbNC"

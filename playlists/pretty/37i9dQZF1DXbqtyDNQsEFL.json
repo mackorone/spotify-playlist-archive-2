@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Anna Makula",
-  "num_followers": 117780,
+  "num_followers": 117798,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -613,6 +613,26 @@
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
     },
     {
+      "added_at": "2026-01-23 00:01:16",
+      "album": {
+        "name": "Run To God (R.T.G)",
+        "url": "https://open.spotify.com/album/2fPZrIhOH9tLM74XnDqpuT"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "Liya",
+          "url": "https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0"
+        }
+      ],
+      "duration_ms": 142132,
+      "name": "Run To God (R.T.G)",
+      "url": "https://open.spotify.com/track/26rCCAd1YcewQG1gdLBuCO"
+    },
+    {
       "added_at": "2025-10-10 00:01:08",
       "album": {
         "name": "Tamuno",
@@ -651,26 +671,6 @@
       "duration_ms": 260064,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
-    },
-    {
-      "added_at": "2026-01-23 00:01:16",
-      "album": {
-        "name": "Run To God (R.T.G)",
-        "url": "https://open.spotify.com/album/2fPZrIhOH9tLM74XnDqpuT"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        },
-        {
-          "name": "Liya",
-          "url": "https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0"
-        }
-      ],
-      "duration_ms": 142132,
-      "name": "Run To God (R.T.G)",
-      "url": "https://open.spotify.com/track/26rCCAd1YcewQG1gdLBuCO"
     },
     {
       "added_at": "2026-03-13 00:01:18",
@@ -1025,6 +1025,22 @@
       "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
     },
     {
+      "added_at": "2026-05-29 00:01:47",
+      "album": {
+        "name": "Joy Is Coming",
+        "url": "https://open.spotify.com/album/7luJgr2jPaTffmI16Nsfgk"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 154743,
+      "name": "Joy Is Coming",
+      "url": "https://open.spotify.com/track/4t9D6MbFQQ6SWhsrsAJpfb"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Better Me",
@@ -1055,22 +1071,6 @@
       "duration_ms": 221077,
       "name": "Jehovah Move",
       "url": "https://open.spotify.com/track/6qW4DOv4LVcjIuP96YTMX3"
-    },
-    {
-      "added_at": "2026-05-29 00:01:47",
-      "album": {
-        "name": "Joy Is Coming",
-        "url": "https://open.spotify.com/album/7luJgr2jPaTffmI16Nsfgk"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 154743,
-      "name": "Joy Is Coming",
-      "url": "https://open.spotify.com/track/4t9D6MbFQQ6SWhsrsAJpfb"
     },
     {
       "added_at": "2025-05-30 00:01:31",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8"
     },
     {
-      "added_at": "2025-01-10 12:58:00",
-      "album": {
-        "name": "Let It Show (Live)",
-        "url": "https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka"
-      },
-      "artists": [
-        {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
-        }
-      ],
-      "duration_ms": 479824,
-      "name": "Let It Show (Live)",
-      "url": "https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2"
-    },
-    {
       "added_at": "2025-10-31 00:01:29",
       "album": {
         "name": "The Journey",
@@ -1171,6 +1155,22 @@
       "duration_ms": 206678,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/1BwtXJJhh2WHMCzGEmOr3X"
+    },
+    {
+      "added_at": "2025-01-10 12:58:00",
+      "album": {
+        "name": "Let It Show (Live)",
+        "url": "https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "duration_ms": 479824,
+      "name": "Let It Show (Live)",
+      "url": "https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1361,6 +1361,26 @@
       "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
     },
     {
+      "added_at": "2026-06-12 08:45:30",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/07zqZ3Ux5B5RfUSx9UtN8n"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 501003,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Fragrance (feat. GGTQ All Stars)",
@@ -1395,26 +1415,6 @@
       "duration_ms": 505865,
       "name": "I CAN NOT BE STRANDED",
       "url": "https://open.spotify.com/track/1Bht3V5sKOb11mUdSX8KEl"
-    },
-    {
-      "added_at": "2026-06-12 08:45:30",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/07zqZ3Ux5B5RfUSx9UtN8n"
-      },
-      "artists": [
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        },
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 501003,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl"
     },
     {
       "added_at": "2024-08-30 00:01:00",
@@ -1533,20 +1533,20 @@
       "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
     },
     {
-      "added_at": "2025-07-04 00:01:36",
+      "added_at": "2026-02-27 00:01:20",
       "album": {
-        "name": "Desire (Live)",
-        "url": "https://open.spotify.com/album/2jdNxHWLRdhZg3cer80eOu"
+        "name": "NEVER BOW TO BAAL",
+        "url": "https://open.spotify.com/album/35OUrFXfiL2PvgTnYTaS1H"
       },
       "artists": [
         {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
         }
       ],
-      "duration_ms": 551456,
-      "name": "Desire - Live",
-      "url": "https://open.spotify.com/track/1yOW7Wm9TMN0O8bp4576gd"
+      "duration_ms": 538000,
+      "name": "NEVER BOW TO BAAL",
+      "url": "https://open.spotify.com/track/4bL7qOqEwsqhQsDZzah3Yd"
     }
   ],
   "unique_name": "Be Lifted ",

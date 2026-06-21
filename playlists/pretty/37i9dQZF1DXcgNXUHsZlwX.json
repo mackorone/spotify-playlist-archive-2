@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143696,
+  "num_followers": 143707,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -719,18 +719,22 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "Tu reviendras",
-        "url": "https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw"
+        "name": "Demain \u00e7a ira",
+        "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "Mah\u00e9ja",
+          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
         }
       ],
-      "duration_ms": 134581,
-      "name": "Tu reviendras",
-      "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
+      "duration_ms": 163374,
+      "name": "Demain \u00e7a ira",
+      "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -751,22 +755,18 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "Demain \u00e7a ira",
-        "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
+        "name": "Tu reviendras",
+        "url": "https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw"
       },
       "artists": [
         {
-          "name": "Mah\u00e9ja",
-          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
-        },
-        {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 163374,
-      "name": "Demain \u00e7a ira",
-      "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
+      "duration_ms": 134581,
+      "name": "Tu reviendras",
+      "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -887,8 +887,8 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+        "name": "C'est tout, c'est rien",
+        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
       },
       "artists": [
         {
@@ -896,9 +896,25 @@
           "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+      "duration_ms": 173515,
+      "name": "C'est tout, c'est rien",
+      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
+        "name": "The Music That Makes Me Dance",
+        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 307567,
+      "name": "The Music That Makes Me Dance",
+      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -939,22 +955,6 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "I'll Stand in the Doorway",
-        "url": "https://open.spotify.com/album/3EXBttlObB3082z4k9w15d"
-      },
-      "artists": [
-        {
-          "name": "Libby Ember",
-          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "I'll Stand in the Doorway",
-      "url": "https://open.spotify.com/track/1KbdgWnTRxWHhxmuyRWLKN"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -971,8 +971,8 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "C'est tout, c'est rien",
-        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
       },
       "artists": [
         {
@@ -980,9 +980,25 @@
           "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 173515,
-      "name": "C'est tout, c'est rien",
-      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
+        "name": "I'll Stand in the Doorway",
+        "url": "https://open.spotify.com/album/3EXBttlObB3082z4k9w15d"
+      },
+      "artists": [
+        {
+          "name": "Libby Ember",
+          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "I'll Stand in the Doorway",
+      "url": "https://open.spotify.com/track/1KbdgWnTRxWHhxmuyRWLKN"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -1015,22 +1031,6 @@
       "duration_ms": 219000,
       "name": "Parmi les autres",
       "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
-        "name": "The Music That Makes Me Dance",
-        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 307567,
-      "name": "The Music That Makes Me Dance",
-      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t"
+      },
+      "artists": [
+        {
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        },
+        {
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+        }
+      ],
+      "duration_ms": 238983,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
         "name": "Je t'aime (take 2)",
         "url": "https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 284415,
       "name": "R\u00e9gate",
       "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t"
-      },
-      "artists": [
-        {
-          "name": "La Force",
-          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
-        },
-        {
-          "name": "Unessential Oils",
-          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
-        }
-      ],
-      "duration_ms": 238983,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -1239,18 +1239,22 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "Quand je pleure, je suis content",
-        "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
+        "name": "Journal d'un Loup-Garou",
+        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
       },
       "artists": [
         {
-          "name": "Velours Velours",
-          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        },
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
         }
       ],
-      "duration_ms": 217773,
-      "name": "Quand je pleure, je suis content",
-      "url": "https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC"
+      "duration_ms": 193733,
+      "name": "Ariane",
+      "url": "https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -1267,6 +1271,38 @@
       "duration_ms": 209570,
       "name": "Elle vit dans les bois",
       "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
+        "name": "Quand je pleure, je suis content",
+        "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
+      },
+      "artists": [
+        {
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Quand je pleure, je suis content",
+      "url": "https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -1291,38 +1327,18 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
       "artists": [
         {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
-        "name": "Journal d'un Loup-Garou",
-        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
-      },
-      "artists": [
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        },
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Ariane",
-      "url": "https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79"
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -1343,34 +1359,18 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+        "name": "Belladonna Nocturne",
+        "url": "https://open.spotify.com/album/0MKmxWSoSEQoG5VoSyN633"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
         }
       ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+      "duration_ms": 87666,
+      "name": "Snow Lake",
+      "url": "https://open.spotify.com/track/0lULvza49oUyDVfcFTWqYn"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -1387,6 +1387,22 @@
       "duration_ms": 141509,
       "name": "Go Get It",
       "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
     },
     {
       "added_at": "2026-06-19 04:19:50",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
-        "name": "On s'est fait avaler",
-        "url": "https://open.spotify.com/album/0Cd8eCnOyMIDzUidgqVb2x"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Napol\u00e9on",
-          "url": "https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf"
-        }
-      ],
-      "duration_ms": 235735,
-      "name": "On s'est fait avaler",
-      "url": "https://open.spotify.com/track/5wh1ftmCIJItnYNNgbjDtA"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
         "name": "River Run (with Lila Dupont)",
         "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
       },
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-06-19 04:19:50",
       "album": {
+        "name": "On s'est fait avaler",
+        "url": "https://open.spotify.com/album/0Cd8eCnOyMIDzUidgqVb2x"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Napol\u00e9on",
+          "url": "https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf"
+        }
+      ],
+      "duration_ms": 235735,
+      "name": "On s'est fait avaler",
+      "url": "https://open.spotify.com/track/5wh1ftmCIJItnYNNgbjDtA"
+    },
+    {
+      "added_at": "2026-06-19 04:19:50",
+      "album": {
         "name": "Tout refaire",
         "url": "https://open.spotify.com/album/1d1S5Ep6n7ta7ShS6Q0LpU"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 152893,
       "name": "\u00c9coute",
       "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
-    },
-    {
-      "added_at": "2026-06-19 04:19:50",
-      "album": {
-        "name": "La lumi\u00e8re",
-        "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 240485,
-      "name": "La lumi\u00e8re",
-      "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
     },
     {
       "added_at": "2026-06-19 04:19:50",

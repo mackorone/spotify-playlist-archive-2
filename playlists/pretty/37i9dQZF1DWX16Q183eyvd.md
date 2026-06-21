@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,282 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,327 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 49 | [ABC You A G](https://open.spotify.com/track/0WJRF99Adva94LORA1Cyud) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS), [Stella Freelon](https://open.spotify.com/artist/07a4pfP7i1yw280o7TWBCk) | [AnceStars](https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc) | 1:53 |
 | 50 | [Best Day Ever](https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:30 |
 
-Snapshot ID: `AAAAAFK/pdSReEAea6zKPYnzVWpkw8Yy`
+Snapshot ID: `AAAAAGeY9iY08HftJA/nni0Yy1JZHhVo`

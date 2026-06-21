@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2000614,
+  "num_followers": 2000263,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Time Stands",
+      "url": "https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Little Talks",
         "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 219760,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "And It\u2019s Still Alright",
-        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Time Stands",
-      "url": "https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "You Don't Own Me Anymore",
+        "url": "https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "Kathy's Song",
+      "url": "https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc"
       },
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Carry You",
-        "url": "https://open.spotify.com/album/33XfLlgdcBspajzKFuTQcb"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/1MwdkGVOmlOEj13DBQHPuJ"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "New Person, Old Place",
         "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
       },
@@ -1475,18 +1475,34 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "You Don't Own Me Anymore",
-        "url": "https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC"
+        "name": "Idle Mind",
+        "url": "https://open.spotify.com/album/5PncSJwq9TMUU2c3Y54pGZ"
       },
       "artists": [
         {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+          "name": "Anna Mieke",
+          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
         }
       ],
-      "duration_ms": 223586,
-      "name": "Kathy's Song",
-      "url": "https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S"
+      "duration_ms": 295265,
+      "name": "Warped Window",
+      "url": "https://open.spotify.com/track/0C0ESa1ZZ5taXaYUxwnvx9"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Carry You",
+        "url": "https://open.spotify.com/album/33XfLlgdcBspajzKFuTQcb"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/1MwdkGVOmlOEj13DBQHPuJ"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1631,22 +1647,6 @@
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "A Folk Singer From Outer Space",
-        "url": "https://open.spotify.com/album/51V3Z965pyeUH5jywbLRIs"
-      },
-      "artists": [
-        {
-          "name": "Tom West",
-          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
-        }
-      ],
-      "duration_ms": 250405,
-      "name": "A Folk Singer From Outer Space",
-      "url": "https://open.spotify.com/track/36uU2KHot3kUhFjCvTbSXE"
     }
   ],
   "unique_name": "Afternoon Acoustic",

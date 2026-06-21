@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,595 likes - 150 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,559 likes - 150 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 149 | [Elysian](https://open.spotify.com/track/6ZOOPD3TEYhXzclWtU4Vqi) | [Astralis Flow](https://open.spotify.com/artist/3eKqQudeGj5deVk7gdUZxK) | [Elysian](https://open.spotify.com/album/5euhn9Cqj26wcP0l3d6HK8) | 2:24 |
 | 150 | [The Edge of Twilight](https://open.spotify.com/track/0Rr4EimL1oCuMoo6cpajEi) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [The Edge of Twilight](https://open.spotify.com/album/7wdCbXaCKqrszfjelscf00) | 3:15 |
 
-Snapshot ID: `AAAAAL3maacVjKBRPsh09DArUDc0MaFM`
+Snapshot ID: `AAAAAFduBrI8zm6CjeOxj/Ld7P5+E1CT`

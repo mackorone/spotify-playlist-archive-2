@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420680,
+  "num_followers": 420698,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
+        "name": "Caf\u00e9 da MaLu, Vol. 04",
+        "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
+      },
+      "artists": [
+        {
+          "name": "MaLu",
+          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
+        }
+      ],
+      "duration_ms": 163076,
+      "name": "P\u00e9 na Areia",
+      "url": "https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
         "name": "Oh! Chuva (Ao Vivo)",
         "url": "https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 194771,
       "name": "Oh! Chuva - Ao Vivo",
       "url": "https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
-        "name": "Caf\u00e9 da MaLu, Vol. 04",
-        "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
-      },
-      "artists": [
-        {
-          "name": "MaLu",
-          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
-        }
-      ],
-      "duration_ms": 163076,
-      "name": "P\u00e9 na Areia",
-      "url": "https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "Am\u00e9frica",
         "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 207378,
       "name": "Leve",
       "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -819,18 +819,18 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Magn\u00e9tica",
-        "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
+        "name": "S\u00f3 Pra Brilhar",
+        "url": "https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR"
       },
       "artists": [
         {
-          "name": "BRAZA",
-          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
         }
       ],
-      "duration_ms": 196056,
-      "name": "Magn\u00e9tica",
-      "url": "https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX"
+      "duration_ms": 198340,
+      "name": "S\u00f3 Pra Brilhar",
+      "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -851,18 +851,18 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "S\u00f3 Pra Brilhar",
-        "url": "https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR"
+        "name": "Magn\u00e9tica",
+        "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
       },
       "artists": [
         {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
         }
       ],
-      "duration_ms": 198340,
-      "name": "S\u00f3 Pra Brilhar",
-      "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
+      "duration_ms": 196056,
+      "name": "Magn\u00e9tica",
+      "url": "https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -907,22 +907,18 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Que seja um reggae (feat. Os Paralamas Do Sucesso)",
-        "url": "https://open.spotify.com/album/6wsQgv2V3kQ05UlhVNFnWE"
+        "name": "Roots Dance",
+        "url": "https://open.spotify.com/album/6afQ6HTPEO3pTjL99ncQso"
       },
       "artists": [
         {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        },
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
         }
       ],
-      "duration_ms": 249864,
-      "name": "Que seja um reggae - feat. Os Paralamas Do Sucesso",
-      "url": "https://open.spotify.com/track/3zd3n5iZXXcMZXWBh6Ibyr"
+      "duration_ms": 158819,
+      "name": "Roots Dance",
+      "url": "https://open.spotify.com/track/3rnUgJFac0V6O8D0MQQBMw"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -951,18 +947,22 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Roots Dance",
-        "url": "https://open.spotify.com/album/6afQ6HTPEO3pTjL99ncQso"
+        "name": "Que seja um reggae (feat. Os Paralamas Do Sucesso)",
+        "url": "https://open.spotify.com/album/6wsQgv2V3kQ05UlhVNFnWE"
       },
       "artists": [
         {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        },
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
         }
       ],
-      "duration_ms": 158819,
-      "name": "Roots Dance",
-      "url": "https://open.spotify.com/track/3rnUgJFac0V6O8D0MQQBMw"
+      "duration_ms": 249864,
+      "name": "Que seja um reggae - feat. Os Paralamas Do Sucesso",
+      "url": "https://open.spotify.com/track/3zd3n5iZXXcMZXWBh6Ibyr"
     },
     {
       "added_at": "2026-06-17 15:55:41",

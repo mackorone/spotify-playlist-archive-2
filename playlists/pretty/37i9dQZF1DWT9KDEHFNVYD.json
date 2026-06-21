@@ -1213,6 +1213,22 @@
       "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
     },
     {
+      "added_at": "2022-01-20 20:59:43",
+      "album": {
+        "name": "Ecdysis!",
+        "url": "https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 389869,
+      "name": "Ecdysis!",
+      "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
+    },
+    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Panther Rotate",
@@ -1231,22 +1247,6 @@
       "duration_ms": 309200,
       "name": "Don't Blow Experiment",
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
-    },
-    {
-      "added_at": "2022-01-20 20:59:43",
-      "album": {
-        "name": "Ecdysis!",
-        "url": "https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly"
-      },
-      "artists": [
-        {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
-        }
-      ],
-      "duration_ms": 389869,
-      "name": "Ecdysis!",
-      "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
     },
     {
       "added_at": "2022-08-19 02:50:25",

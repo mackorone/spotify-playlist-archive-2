@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,618 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,662 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 9 | [reading](https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/2YVst3ngUsry3PB4Gz3JWN) | 2:41 |
 | 10 | [Eyes Closed](https://open.spotify.com/track/0e7Zh5sczPvNV40Y9f5ujU) | [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Eyes Closed](https://open.spotify.com/album/0thdFPy1sf2iLHQCcvcRui) | 2:10 |
 | 11 | [Elevator Lover](https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender \(Deluxe Edition\)](https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx) | 2:38 |
-| 12 | [Counting Stars](https://open.spotify.com/track/7KMm1zF2QOTSw2t01IAFif) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [2nd Collection](https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW) | 4:07 |
+| 12 | [While You Dooooo \(Extended\)](https://open.spotify.com/track/7pbEoh1Jx2TSN6nAQ93WQz) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Collections 01](https://open.spotify.com/album/6MfmIuNJmgLZ0kGE5ot8vi) | 3:27 |
 | 13 | [Resonance](https://open.spotify.com/track/2LxGGThhhbFhyHkaZySaty) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Resonance](https://open.spotify.com/album/247WIvYS7i53FjiPEdCw6H) | 3:28 |
-| 14 | [While You Dooooo \(Extended\)](https://open.spotify.com/track/7pbEoh1Jx2TSN6nAQ93WQz) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Collections 01](https://open.spotify.com/album/6MfmIuNJmgLZ0kGE5ot8vi) | 3:27 |
+| 14 | [Counting Stars](https://open.spotify.com/track/7KMm1zF2QOTSw2t01IAFif) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [2nd Collection](https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW) | 4:07 |
 | 15 | [raw material](https://open.spotify.com/track/0J4xZOSAotgO9MKTXKWbrO) | [TSUTCHIE](https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY) | [samurai champloo music record masta](https://open.spotify.com/album/6X4szwJZewjNiooQquoQhO) | 4:52 |
 | 16 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 |
 | 17 | [ole](https://open.spotify.com/track/5GktrSt0vCcZjJALP61bak) | [fat jon](https://open.spotify.com/artist/5Fmr3KeGe2IAVFmMxUq1sD) | [samurai champloo music record departure](https://open.spotify.com/album/1sY71XLUTXSayYmvfayYKA) | 3:27 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4EMdfaADzDUr.md) - [plain]
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With After Cooking, BIRRD, GONE and more
+> With After Cooking, GONE, winterburn and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,439 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,443 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

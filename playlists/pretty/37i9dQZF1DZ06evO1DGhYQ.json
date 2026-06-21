@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9653,
+  "num_followers": 9654,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAATLonuyH/K3RXJABFuWjUU",
+  "snapshot_id": "ajSGgAAAAAAUnN2U2s/5UEyKzQMf+9NB",
   "tracks": [
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE, MUSIC AND DANCE",
-        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
+        "name": "LOST IN PARADISE",
+        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
       },
       "artists": [
         {
@@ -288,13 +288,13 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         },
         {
-          "name": "\u6885\u7530\u30b5\u30a4\u30d5\u30a1\u30fc",
-          "url": "https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2"
+          "name": "K.A.N.T.A",
+          "url": "https://open.spotify.com/artist/1sb3bbYGpYX84TKUvdw2dO"
         }
       ],
-      "duration_ms": 289293,
-      "name": "FEELIN' GOOD",
-      "url": "https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH"
+      "duration_ms": 262506,
+      "name": "MOONBEAMS SATELLITE",
+      "url": "https://open.spotify.com/track/2Qz5Jj0U1poQ6uZwWyemeK"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOST IN PARADISE",
-        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
+        "name": "LOVE, MUSIC AND DANCE",
+        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
       "artists": [
         {
@@ -328,13 +328,13 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         },
         {
-          "name": "K.A.N.T.A",
-          "url": "https://open.spotify.com/artist/1sb3bbYGpYX84TKUvdw2dO"
+          "name": "\u6885\u7530\u30b5\u30a4\u30d5\u30a1\u30fc",
+          "url": "https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2"
         }
       ],
-      "duration_ms": 262506,
-      "name": "MOONBEAMS SATELLITE",
-      "url": "https://open.spotify.com/track/2Qz5Jj0U1poQ6uZwWyemeK"
+      "duration_ms": 289293,
+      "name": "FEELIN' GOOD",
+      "url": "https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH"
     },
     {
       "added_at": null,
@@ -659,30 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOST IN PARADISE",
-        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u306a\u307f\u3061\u3048",
-          "url": "https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ"
-        },
-        {
-          "name": "GOMESS",
-          "url": "https://open.spotify.com/artist/37cFtvT8bs2rU39mvPLN0I"
-        }
-      ],
-      "duration_ms": 347706,
-      "name": "FAITH",
-      "url": "https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUSIC WORLD",
         "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
       },
@@ -707,8 +683,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "House of Music",
-        "url": "https://open.spotify.com/album/6OCgfySMEiSQCygcRAYSNU"
+        "name": "LOST IN PARADISE",
+        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u306a\u307f\u3061\u3048",
+          "url": "https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ"
+        },
+        {
+          "name": "GOMESS",
+          "url": "https://open.spotify.com/artist/37cFtvT8bs2rU39mvPLN0I"
+        }
+      ],
+      "duration_ms": 347706,
+      "name": "FAITH",
+      "url": "https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tokyo Pharaoh",
+        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 342350,
-      "name": "SPARKLE - House of Music ver.",
-      "url": "https://open.spotify.com/track/4kxiXEiR7DpxDpSNLdDRgL"
+      "duration_ms": 213406,
+      "name": "Tokyo Pharaoh",
+      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LONELY LONELY",
+        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 277700,
+      "name": "LONELY LONELY",
+      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INGLOURIOUS EASTERN COWBOY",
         "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
@@ -763,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
+        "name": "House of Music",
+        "url": "https://open.spotify.com/album/6OCgfySMEiSQCygcRAYSNU"
       },
       "artists": [
         {
@@ -772,25 +788,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 277700,
-      "name": "LONELY LONELY",
-      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tokyo Pharaoh",
-        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 213406,
-      "name": "Tokyo Pharaoh",
-      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
+      "duration_ms": 342350,
+      "name": "SPARKLE - House of Music ver.",
+      "url": "https://open.spotify.com/track/4kxiXEiR7DpxDpSNLdDRgL"
     },
     {
       "added_at": null,

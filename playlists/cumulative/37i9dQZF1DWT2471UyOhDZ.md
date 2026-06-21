@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Julia Jacklin
 
-455 songs - 1 day 5 hr 26 min
+457 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-07-18 | 2025-10-24 |
 | [Favourite Songs](https://open.spotify.com/track/6HRQ8K09zFUODljpu7lhn6) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Favourite Songs](https://open.spotify.com/album/32ha5xa9acLnslj6OpYcJ9) | 3:34 | 2024-06-14 | 2024-09-30 |
 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 | 2024-06-14 | 2025-01-31 |
+| [Fighting For You](https://open.spotify.com/track/3uPHcgBPAK3wfTQHWvyUJM) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [Fighting For You](https://open.spotify.com/album/6aUmqJropontQSpa4Elg9M) | 3:06 | 2026-06-18 |  |
 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 | 2024-06-14 | 2024-10-07 |
 | [Flags](https://open.spotify.com/track/0GkUyGCLewjgand5EEfCOO) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Flags](https://open.spotify.com/album/4tocgMB81kYzmX1J79SiiH) | 5:06 | 2026-02-20 |  |
 | [Flea](https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Flea](https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN) | 3:46 | 2024-06-14 | 2024-11-16 |
@@ -169,7 +170,7 @@
 | [Garden](https://open.spotify.com/track/5cICW30wJh0GNydrFw4v7d) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Garden](https://open.spotify.com/album/6AuJCBu9x0QF69P9Y8Zdfj) | 4:03 | 2025-02-28 | 2025-09-05 |
 | [Gasoline](https://open.spotify.com/track/1sAbFyl5tkdQyMBPNRjjVl) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Gasoline](https://open.spotify.com/album/3m2onmu3VRD4PBZKmBLLen) | 3:23 | 2026-01-12 |  |
 | [Gears](https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Gears](https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ) | 2:35 | 2024-06-14 | 2024-11-16 |
-| [GERM](https://open.spotify.com/track/3gylfpJh39G4WErX4QFV7y) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [GERM](https://open.spotify.com/album/0HP3FFeHsVIVeXkWZynFLm) | 5:06 | 2025-05-30 |  |
+| [GERM](https://open.spotify.com/track/3gylfpJh39G4WErX4QFV7y) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [GERM](https://open.spotify.com/album/0HP3FFeHsVIVeXkWZynFLm) | 5:06 | 2025-05-30 | 2026-06-21 |
 | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W) | 2:48 | 2026-06-18 |  |
 | [Gethsemane](https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Gethsemane](https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A) | 10:51 | 2025-03-21 | 2026-01-15 |
 | [Getting Killed](https://open.spotify.com/track/4gXvwRoP7GYoipYRTXQUxW) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 4:44 | 2025-10-02 |  |
@@ -195,6 +196,7 @@
 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 | 2024-06-14 | 2025-03-22 |
 | [Headliner](https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Headliner](https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl) | 3:12 | 2024-06-14 | 2025-10-24 |
 | [Heaven Is No Feeling](https://open.spotify.com/track/0O2xM3g14PLmfp5xKoBnkA) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Heaven Is No Feeling](https://open.spotify.com/album/5fwq4wZ66Fh8ebZ5uduuwT) | 3:48 | 2025-06-06 | 2025-11-16 |
+| [Heaven Knows You're Lonely](https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Heaven Knows You're Lonely](https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B) | 3:01 | 2026-06-18 |  |
 | [Here Today](https://open.spotify.com/track/15vXV6pd5WIJUhe2VJ34O7) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Here Today](https://open.spotify.com/album/5VCrEEZnhlnwwREQiDjQip) | 3:37 | 2024-10-06 | 2024-10-20 |
 | [Hit My Head All Day](https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 6:03 | 2025-10-02 | 2026-05-01 |
 | [Hog Calling Contest](https://open.spotify.com/track/2aDXjC0A2mnqslmeDdHIVH) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Hog Calling Contest](https://open.spotify.com/album/0plf2eqTDrtPJ2f9QeW7iH) | 3:20 | 2024-08-14 | 2024-11-10 |
@@ -289,7 +291,7 @@
 | [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 | 2025-06-06 | 2025-11-13 |
 | [Never Felt Better](https://open.spotify.com/track/4fxzJneKp90ru93KfMGmcv) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Never Felt Better](https://open.spotify.com/album/6LgXtpkfa3VlhfPZhWGhem) | 4:27 | 2025-02-28 | 2026-02-20 |
 | [Never The Same](https://open.spotify.com/track/5IZqxf8th5sQVZgAiotTMY) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [Selling A Vibe](https://open.spotify.com/album/5nSzIeVYqFB0laixl71FYq) | 2:50 | 2026-01-12 |  |
-| [Next To Die](https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Next To Die](https://open.spotify.com/album/0r52QUb7MBNVYBV8bn2B5P) | 4:08 | 2026-06-18 |  |
+| [Next To Die](https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Next To Die](https://open.spotify.com/album/0r52QUb7MBNVYBV8bn2B5P) | 4:08 | 2026-06-18 | 2026-06-21 |
 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 | 2024-06-14 | 2024-07-20 |
 | [No Body](https://open.spotify.com/track/4BdA7ZtP00Dda9UWiSAn2F) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [No Body](https://open.spotify.com/album/37Oqe9dvGu7jWs19pVLGPW) | 2:42 | 2024-06-14 | 2024-11-16 |
 | [NO HANDS](https://open.spotify.com/track/0Ius1utxt6FWkzrvPyrTQ2) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [PLAY ME](https://open.spotify.com/album/04tCM2W8CvOXQBy4bBHlXk) | 2:00 | 2026-04-30 |  |

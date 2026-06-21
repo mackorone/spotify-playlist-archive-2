@@ -4,7 +4,7 @@
 
 > Tristeza independiente para aquellos días de bajón.
 
-205 songs - 11 hr 44 min
+206 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Me Acordé](https://open.spotify.com/track/7imMmgvgkKM7I99m5LqvMM) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Mauricio Sanchez](https://open.spotify.com/artist/7uLKM7dYWaZi8ymQIDoMqq) | [Me Acordé](https://open.spotify.com/album/6hWp4jtQR5ohmPmLEqpVXC) | 3:02 | 2022-05-27 | 2022-06-18 |
 | [Me Haces Muy Bien \- Acústico](https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Dstance](https://open.spotify.com/artist/30nITczErPVyfkYEWmpGQT) | [Me Haces Muy Bien \(Acústico\)](https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP) | 3:25 | 2022-05-27 |  |
 | [Me La Saludan \(Versión Acústica\)](https://open.spotify.com/track/39IorjgSqhwcXOA3GHsXc4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Me La Saludan](https://open.spotify.com/album/0onsACtccTsYDdjF04SqFm) | 3:50 | 2023-02-24 | 2024-04-19 |
+| [Mi Amigo Chapulín](https://open.spotify.com/track/7bS79av4K7hPcAemnQabIl) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [Mi Amigo Chapulín](https://open.spotify.com/album/6k8Qp0O4XZhnIyw8pPE2TX) | 3:36 | 2024-07-11 |  |
 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 | 2022-05-27 |  |
 | [Modelo](https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Modelo](https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV) | 4:25 | 2024-05-10 | 2024-07-11 |
 | [Mujer Distante](https://open.spotify.com/track/6Zy0ITa16EjCAbbGuPzdRi) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 4:13 | 2022-05-27 | 2022-09-10 |
@@ -132,7 +133,7 @@
 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 | 2022-09-09 |  |
 | [nomás tú](https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [nomás tú](https://open.spotify.com/album/638iojk5ANMxC2zlVcjd16) | 2:37 | 2022-05-27 |  |
 | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/album/1SN273lz19UyGsPKrJkcsR) | 5:14 | 2022-05-27 | 2022-07-29 |
-| [Nunca me encontré ;\(](https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:22 | 2022-06-24 |  |
+| [Nunca me encontré ;\(](https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:22 | 2022-06-24 | 2026-06-21 |
 | [Nunca Sabrás](https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Nunca Sabrás](https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX) | 3:36 | 2022-05-27 |  |
 | [Nunca Te Olvido](https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj) | [Byebye Sayonara, Nunca Sabrás Que Esto Fue para Ti](https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56) | 3:51 | 2022-05-27 |  |
 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 | 2022-07-11 | 2024-04-19 |

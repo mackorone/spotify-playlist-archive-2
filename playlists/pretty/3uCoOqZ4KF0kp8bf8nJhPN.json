@@ -6,7 +6,7 @@
     "name": "Professor Poopypants",
     "url": "https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli"
   },
-  "snapshot_id": "AAAGospoW+nFcNr1/cFW0zYQ7TGOS5ID",
+  "snapshot_id": "AAAGp1PjYnHtqrpIx2CR29B6GIrU5nSz",
   "tracks": [
     {
       "added_at": "2025-07-12 04:36:03",
@@ -1441,6 +1441,22 @@
       "url": "https://open.spotify.com/track/0NAMg4Md7nJKeX7UvRdKRB"
     },
     {
+      "added_at": "2025-01-16 20:50:28",
+      "album": {
+        "name": "COME GET UR MANZ!",
+        "url": "https://open.spotify.com/album/5jLOkfL9CXuI7qalnW1gDD"
+      },
+      "artists": [
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        }
+      ],
+      "duration_ms": 145843,
+      "name": "COME GET UR MANZ!",
+      "url": "https://open.spotify.com/track/7FLjMlLRCwhMGXfSqxXKes"
+    },
+    {
       "added_at": "2026-01-23 05:28:07",
       "album": {
         "name": "MWAH! (B SIDE)",
@@ -2079,22 +2095,6 @@
       "duration_ms": 134418,
       "name": "ISSBEENAMINUTE!",
       "url": "https://open.spotify.com/track/58BtmAspg5FXJNcoxVcbSN"
-    },
-    {
-      "added_at": "2025-01-16 20:50:28",
-      "album": {
-        "name": "COME GET UR MANZ!",
-        "url": "https://open.spotify.com/album/5jLOkfL9CXuI7qalnW1gDD"
-      },
-      "artists": [
-        {
-          "name": "ISSBROKIE",
-          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
-        }
-      ],
-      "duration_ms": 145843,
-      "name": "COME GET UR MANZ!",
-      "url": "https://open.spotify.com/track/7FLjMlLRCwhMGXfSqxXKes"
     },
     {
       "added_at": "2025-09-05 14:50:32",
@@ -4643,6 +4643,22 @@
       "duration_ms": 142406,
       "name": "Bedrott - Instrumental Slowed",
       "url": "https://open.spotify.com/track/7q7StxVzHQ5LimdZLQV8xH"
+    },
+    {
+      "added_at": "2026-06-20 15:59:49",
+      "album": {
+        "name": "SWAGGOT! (B SIDE)",
+        "url": "https://open.spotify.com/album/0ebnfu4hXifVFCgrAv6l3Y"
+      },
+      "artists": [
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        }
+      ],
+      "duration_ms": 117350,
+      "name": "TRISH!",
+      "url": "https://open.spotify.com/track/0MQB4JqltuT3QoE3bbMqDc"
     }
   ],
   "unique_name": "sididudieisisisisisi",

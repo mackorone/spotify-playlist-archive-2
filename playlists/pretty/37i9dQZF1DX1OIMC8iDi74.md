@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap ❤️‍🔥 with Lizdek
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,150 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,106 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 73 | [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 |
 | 74 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
 | 75 | [BITE \(MY STYLE\)](https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [BITE \(MY STYLE\)](https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO) | 2:28 |
-| 76 | [Born Again](https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Born Again](https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7) | 2:38 |
-| 77 | [ALLNIGHTER](https://open.spotify.com/track/2aKPAURjIBg4SZ8U4wsVnm) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [ALLNIGHTER](https://open.spotify.com/album/4tatQg9UhiVwFbWMy8QGEp) | 2:48 |
+| 76 | [ALLNIGHTER](https://open.spotify.com/track/2aKPAURjIBg4SZ8U4wsVnm) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [ALLNIGHTER](https://open.spotify.com/album/4tatQg9UhiVwFbWMy8QGEp) | 2:48 |
+| 77 | [Born Again](https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Born Again](https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7) | 2:38 |
 | 78 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
 | 79 | [move! \(that body\)](https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [CHARIOT](https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA) | 2:24 |
 | 80 | [CONTROL](https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [CONTROL](https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6) | 2:25 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 95 | [Work](https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [imellem](https://open.spotify.com/album/5PxIYxaG1LM2DmuNmZSJOw) | 2:33 |
 | 96 | [it boy \- Zoey808 remix](https://open.spotify.com/track/0rzwlZaRSQWk0Qhe7htHXd) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ), [bbnogames](https://open.spotify.com/artist/58G2GxRyvmhDDXOojbE8Fw) | [it boy \(Zoey808 remix\)](https://open.spotify.com/album/3WbHhegbeap8dGA03i1GyO) | 3:08 |
 | 97 | [UH OH!](https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [UH OH!](https://open.spotify.com/album/6tCOYN1hYjW0HcUrQ2IDu2) | 3:58 |
-| 98 | [GO!](https://open.spotify.com/track/6mwrQ7UyriEE3P2DVUZzke) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [GO!](https://open.spotify.com/album/2ceqIvXa5nWgTq79Mzeq5t) | 2:21 |
+| 98 | [Teeth](https://open.spotify.com/track/7GtlY90JxaXqp7OvIR2b75) | [Know Good](https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx), [JEANLOUIS](https://open.spotify.com/artist/4DmcltY8WyzovcWhjXUvuK) | [Nothing To Lose](https://open.spotify.com/album/11rvFYFExXvLCLmune1Mf2) | 3:06 |
 | 99 | [CIRCLES](https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [CIRCLES](https://open.spotify.com/album/4cIQpUbjCi5J9DpSx3wg0E) | 3:08 |
-| 100 | [Teeth](https://open.spotify.com/track/7GtlY90JxaXqp7OvIR2b75) | [Know Good](https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx), [JEANLOUIS](https://open.spotify.com/artist/4DmcltY8WyzovcWhjXUvuK) | [Nothing To Lose](https://open.spotify.com/album/11rvFYFExXvLCLmune1Mf2) | 3:06 |
+| 100 | [GO!](https://open.spotify.com/track/6mwrQ7UyriEE3P2DVUZzke) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [GO!](https://open.spotify.com/album/2ceqIvXa5nWgTq79Mzeq5t) | 2:21 |
 
 Snapshot ID: `AAAAAFIHMr5SYGxCwWCc7gdVdOsQLqYk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,128 likes - 50 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,165 likes - 50 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 14 | [Ik Tu Hi Tu Hi \(Mehfil Mix\)](https://open.spotify.com/track/2nOHNCkYKM5964mADMnFp6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 5:51 |
 | 15 | [Ikko \- Mikke\-Title Track](https://open.spotify.com/track/0VLOjHoPU01al8NSwcIGIF) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Ikko \- Mikke](https://open.spotify.com/album/3QrDIIhCfGDnpnuw10GJtk) | 6:38 |
 | 16 | [Jogi](https://open.spotify.com/track/0HaC7Uip2vMyHwLO5bQbB3) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt), [Manpreet Singh](https://open.spotify.com/artist/0vqqFNT40Yi47BEE0XBkfg), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Jogi](https://open.spotify.com/album/0IG13ld7Mb7nAcSemcgjfb) | 4:45 |
-| 17 | [Mahiya Tere Vekan Nu](https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb) | [Aakash G](https://open.spotify.com/artist/5TeEeCl306oJtM8cz43GPh), [The Rish](https://open.spotify.com/artist/5JHD9Mys3Vg6IUgIWRjYN0), [Sharry Shayar](https://open.spotify.com/artist/5TBSoOt1ZXHA2YWqKDY4H8) | [Mahiya Tere Vekan Nu](https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh) | 3:41 |
-| 18 | [Waris Shah Nu](https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX), [Preeti Uttam](https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU) | [Pinjar](https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa) | 9:03 |
+| 17 | [Waris Shah Nu](https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX), [Preeti Uttam](https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU) | [Pinjar](https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa) | 9:03 |
+| 18 | [Mahiya Tere Vekan Nu](https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb) | [Aakash G](https://open.spotify.com/artist/5TeEeCl306oJtM8cz43GPh), [The Rish](https://open.spotify.com/artist/5JHD9Mys3Vg6IUgIWRjYN0), [Sharry Shayar](https://open.spotify.com/artist/5TBSoOt1ZXHA2YWqKDY4H8) | [Mahiya Tere Vekan Nu](https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh) | 3:41 |
 | 19 | [Nit Khair Manga](https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Nit Khair Manga](https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b) | 2:21 |
 | 20 | [Rutba](https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc) | 6:44 |
 | 21 | [Qubool Hai](https://open.spotify.com/track/3L0pDSx6tBEuBs6f2gk7tQ) | [Kanwar Grewal](https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu), [Anhad Kaur](https://open.spotify.com/artist/1xTTsDAwaJ17ufCVjpyV86) | [Qubool Hai](https://open.spotify.com/album/0YqdLvNV20CLUKQAZPfnf6) | 6:49 |

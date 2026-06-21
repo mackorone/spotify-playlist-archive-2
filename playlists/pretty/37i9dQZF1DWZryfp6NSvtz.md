@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: KennyHoopla
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,015 likes - 98 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,039 likes - 98 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 97 | [Cotton](https://open.spotify.com/track/2Dh62ulfuwM2lOWPy4TLEb) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Cotton](https://open.spotify.com/album/5Mtmv7PjVAPSikP9ZOWFzj) | 3:43 |
 | 98 | [DEADMEAT](https://open.spotify.com/track/4XCuMPrNAoO1Rw4AcNFSlV) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [DEADMEAT](https://open.spotify.com/album/75Nrza4VqqVE4sbKdrHBwZ) | 2:52 |
 
-Snapshot ID: `AAAAALTbNqX7zx2RVrLKKqeU3HiePI/B`
+Snapshot ID: `AAAAAAsX460j/noSO+bHbpEltSdLxzRJ`

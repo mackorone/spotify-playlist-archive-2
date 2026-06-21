@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,170 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,046 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 71 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 |
 | 72 | [Oh Mama Won't You Write Me](https://open.spotify.com/track/0Q7g49HqCHs3Se4F1lo4Cg) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Oh Mama Won't You Write Me](https://open.spotify.com/album/2DJxAEeSLkLJexjmdPDpja) | 3:01 |
 | 73 | [Mind/Heart](https://open.spotify.com/track/0s1mJLXycS02GAPs95tbcy) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Lighten Up](https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI) | 3:51 |
-| 74 | [Fictional](https://open.spotify.com/track/1p3EADNrUrhtMn5fHqEoIC) | [Jeremy Ferrara](https://open.spotify.com/artist/6oZXBEJb5RLmNeDRhFwW5e) | [Fictional](https://open.spotify.com/album/7rok3MsQRMRzlgNOdTu8Ng) | 3:58 |
-| 75 | [Highway Miles](https://open.spotify.com/track/5G4E6DAJDH7NkA7cyxiODa) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Break into Blossom](https://open.spotify.com/album/5SYgXqtohMgMhevigsAb6a) | 3:39 |
+| 74 | [Highway Miles](https://open.spotify.com/track/5G4E6DAJDH7NkA7cyxiODa) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Break into Blossom](https://open.spotify.com/album/5SYgXqtohMgMhevigsAb6a) | 3:39 |
+| 75 | [Fictional](https://open.spotify.com/track/1p3EADNrUrhtMn5fHqEoIC) | [Jeremy Ferrara](https://open.spotify.com/artist/6oZXBEJb5RLmNeDRhFwW5e) | [Fictional](https://open.spotify.com/album/7rok3MsQRMRzlgNOdTu8Ng) | 3:58 |
 
 Snapshot ID: `AAAAAL8C94Pv3xMs3ZMldIegA10J8+xc`

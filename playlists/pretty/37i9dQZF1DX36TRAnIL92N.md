@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,937 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,077 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 9 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 |
 | 10 | [Arrival](https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Arrival](https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww) | 3:24 |
 | 11 | [Bounce Back \- Sped Up](https://open.spotify.com/track/5QfJ0FdXn72ljBhKr3VyKA) | [Acidus](https://open.spotify.com/artist/7j3s7bQ9pNRILCVy8e36ZB), [MXGN](https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg) | [Bounce Back \(Sped Up\)](https://open.spotify.com/album/3coHVjbK1xd9PvtaWREtet) | 2:15 |
-| 12 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
-| 13 | [Disturbing Paradise](https://open.spotify.com/track/3ajiaigek9IkTjYXJzIMDY) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [44024](https://open.spotify.com/album/1s2FHooyT4QaTOvHC61QMf) | 3:50 |
+| 12 | [Disturbing Paradise](https://open.spotify.com/track/3ajiaigek9IkTjYXJzIMDY) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [44024](https://open.spotify.com/album/1s2FHooyT4QaTOvHC61QMf) | 3:50 |
+| 13 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
 | 14 | [Pain in my Heart](https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Sturm und Drang](https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK) | 3:44 |
 | 15 | [Amor \(feat\. CERES\)](https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Amor EP](https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX) | 6:12 |
 | 16 | [Hooked on the Bassline](https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Hooked on the Bassline](https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv) | 3:17 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 46 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
 | 47 | [Hymn](https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 8:13 |
 | 48 | [Bigger Than Techno](https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Bigger Than Techno](https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf) | 2:48 |
-| 49 | [Serenity](https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 2:49 |
+| 49 | [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 |
 | 50 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 |
 
 Snapshot ID: `AAAAANnhIK2tk08zXjGA7BBKUgvJjZcJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51qI8MDEx8N.md) - [plain]
 
 > Soft piano music to accompany your reading
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,576 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,606 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51qI8MDEx8N.md) - [plain]
 | 99 | [Settle Down In Somewhere](https://open.spotify.com/track/1e8NCyJxZaMd1XNZhKO9ez) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Settle Down In Somewhere](https://open.spotify.com/album/3nVJWV34H2s7zigZIZnxTr) | 2:37 |
 | 100 | [Vole Vers Moi](https://open.spotify.com/track/76tMNpO6rHIMyKu9s4aY55) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Vole Vers Moi](https://open.spotify.com/album/5regfEMlH6n002DCCKrN1H) | 2:38 |
 
-Snapshot ID: `AAAAAB5amiDFqg4q60QpyfR4xvbadIZZ`
+Snapshot ID: `AAAAAG+Ep9rK2cYLbRDj36zoW2OzoVJN`

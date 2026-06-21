@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 129395,
+  "num_followers": 129431,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Angular Blues",
         "url": "https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 315493,
       "name": "H\u00fcttengriffe",
       "url": "https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -791,18 +791,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "For Django",
-        "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
+        "name": "We'll Be Together Again",
+        "url": "https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL"
       },
       "artists": [
         {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+          "name": "Pat Martino",
+          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
         }
       ],
-      "duration_ms": 224613,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF"
+      "duration_ms": 286973,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "We'll Be Together Again",
-        "url": "https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL"
+        "name": "For Django",
+        "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
       },
       "artists": [
         {
-          "name": "Pat Martino",
-          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
         }
       ],
-      "duration_ms": 286973,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC"
+      "duration_ms": 224613,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Deep Song",
-        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 502440,
-      "name": "Brooklyn Sometimes",
-      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 492400,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Deep Song",
+        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 502440,
+      "name": "Brooklyn Sometimes",
+      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Heartcore",
-        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Blue Line",
-      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Bill Frisell, Ron Carter, Paul Motian",
         "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 356533,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Heartcore",
+        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Blue Line",
+      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "These Times",
+        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 397106,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Free Flying",
         "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 384413,
       "name": "Monk's Dream",
       "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "These Times",
-        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 397106,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
     },
     {
       "added_at": "2025-09-10 12:20:14",

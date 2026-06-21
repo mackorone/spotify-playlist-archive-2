@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚 Julieta Venegas y Bronco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,479 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,504 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 11 | [Miel Con Licor](https://open.spotify.com/track/6i14LuDm0BEtjcfa3hjElq) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Miel Con Licor](https://open.spotify.com/album/6L8cIWfvOnOB9Sf0YSf573) | 3:27 |
 | 12 | [Cosas Del Amor \- Live](https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC) | [Predilecto](https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2) | [Jammin' sessions](https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g) | 3:03 |
 | 13 | [OSADÍA](https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [OSADÍA](https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT) | 3:26 |
-| 14 | [Tu y Yo](https://open.spotify.com/track/0fZbQRMzIkltayJ8FhOFtH) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Tu y Yo](https://open.spotify.com/album/0nqwBPLrl4DZ3NsjyTV0aH) | 3:13 |
+| 14 | [TU Y YO](https://open.spotify.com/track/0fZbQRMzIkltayJ8FhOFtH) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [TU Y YO](https://open.spotify.com/album/0nqwBPLrl4DZ3NsjyTV0aH) | 3:13 |
 | 15 | [Hoy La Vi Pasar](https://open.spotify.com/track/5sdP4Y32tdclTWN9bIwKn0) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [Hoy La Vi Pasar](https://open.spotify.com/album/5pYF9PIn9tJmZB6Vk9qTmW) | 3:17 |
 | 16 | [El Chivo](https://open.spotify.com/track/25oNFTbkSVAmMQe8NQHNFc) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Chivo](https://open.spotify.com/album/3L0zckpRUWqCAzThmIjONA) | 2:53 |
 | 17 | [Ahorita Es Cuando](https://open.spotify.com/track/5Y9Bm6DCtIsJh7tfoqPxg4) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Entre Tragos y Pecados](https://open.spotify.com/album/2XD6tAeKkAo5aL4VsGU8he) | 2:43 |

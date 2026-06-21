@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Marcelo Tofani
 
-1,171 songs - 2 day 10 hr 2 min
+1,172 songs - 2 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [Não Sou De Me Entregar](https://open.spotify.com/track/0tCFKbw0cXe0TIa8PzQgc0) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [Não Sou De Me Entregar](https://open.spotify.com/album/7nR8G0opjRd3AAtzkv3qbr) | 4:02 | 2023-07-14 | 2023-08-26 |
 | [Não Volto](https://open.spotify.com/track/0coMyavxt9GBli4voSWNgs) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Marginal Supply](https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ) | [Não Volto](https://open.spotify.com/album/0fCXdqv9FuTBhCujTgurSB) | 2:50 | 2020-10-20 | 2022-07-26 |
 | [Não Vou Mais Ceder](https://open.spotify.com/track/4iV9n0PFuhKaFYHv0FHUoM) | [GHABI](https://open.spotify.com/artist/1yzhaT2wIvdMuJdrd2iRPM) | [Não Vou Mais Ceder](https://open.spotify.com/album/1EYEen74TH7ONTnfLKYBaf) | 3:00 | 2023-02-14 | 2023-04-01 |
+| [NÃO VOU PARAR](https://open.spotify.com/track/61NmBK1EVDR3uqdj6Y15Io) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [CASA MOLHADA](https://open.spotify.com/album/2sifLgponrzxbbcxOekNfk) | 2:25 | 2026-06-19 |  |
 | [NÃO É CULPA DE NINGUÉM](https://open.spotify.com/track/5IO2b23uTZkDNA8LR09hIu) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE](https://open.spotify.com/album/2rnBW5ksDgtam7tzL6jn9x) | 2:24 | 2024-04-26 | 2024-06-01 |
 | [Não é por maldade](https://open.spotify.com/track/6Ok8V8IETqRUzI4NxaNQ6E) | [KARINY PHONSY](https://open.spotify.com/artist/0632V7upZrgizBjf5Mmis0) | [Não é por maldade](https://open.spotify.com/album/565FzlVTKsqXii2FvjqkT3) | 3:54 | 2025-06-20 | 2025-07-05 |
 | [Nós](https://open.spotify.com/track/7kDQV2MzhzRGHeLrB09zMA) | [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj), [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Leoa do Asfalto](https://open.spotify.com/album/0UxqYcrRyinpMMf0osL6YJ) | 2:53 | 2025-05-13 | 2025-12-12 |
@@ -1133,7 +1134,7 @@
 | [Vibezinha](https://open.spotify.com/track/766QpS7OrDPmuEznTD798F) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2) | [Vibezinha](https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin) | 2:28 | 2024-08-02 | 2025-02-22 |
 | [viciado em mim](https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [viciado em mim](https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg) | 3:14 | 2025-06-13 | 2026-05-01 |
 | [Vida Melhor](https://open.spotify.com/track/5M7lhKC3A4k50x2cQMfzCt) | [Robson Sá](https://open.spotify.com/artist/1xtDLOFghpcmOKK9rW5lPh) | [Vida Melhor](https://open.spotify.com/album/5H9q5IocriQT6sVtDsWrQL) | 2:42 | 2023-08-04 | 2023-08-25 |
-| [Vida Não Termina](https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi) | [Pinotti](https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x), [Helena Serena](https://open.spotify.com/artist/1pxvtinDP1BbdZGKSc7sE4) | [Vida Não Termina](https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss) | 3:05 | 2026-03-20 |  |
+| [Vida Não Termina](https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi) | [Pinotti](https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x), [Helena Serena](https://open.spotify.com/artist/1pxvtinDP1BbdZGKSc7sE4) | [Vida Não Termina](https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss) | 3:05 | 2026-03-20 | 2026-06-21 |
 | [Vilã](https://open.spotify.com/track/6gHv2hEqyAgBvgnBr2DWs8) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Vilã](https://open.spotify.com/album/2W6EWkkAkkmMxQyeePtMTE) | 2:28 | 2023-09-22 | 2023-11-07 |
 | [Vilão](https://open.spotify.com/track/0PMMHK0q093BkQ85YpS7dt) | [VILLA](https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD), [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [Vilão](https://open.spotify.com/album/2jbBOf8fGp8btrQON5127d) | 2:32 | 2024-03-01 | 2024-04-20 |
 | [Vim de Longe](https://open.spotify.com/track/7ycoelWSebToQHOQScwFdv) | [SUPERALMA](https://open.spotify.com/artist/7f8jwHZAtx26tKaOWYmn3a) | [Vim de Longe](https://open.spotify.com/album/30Rtx6bJX8i9jPoYc48HJh) | 2:49 | 2025-08-22 | 2026-03-28 |

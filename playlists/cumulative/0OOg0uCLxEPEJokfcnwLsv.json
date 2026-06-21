@@ -7245,6 +7245,24 @@
     },
     {
       "album": {
+        "name": "Silver Lake",
+        "url": "https://open.spotify.com/album/4AMGWzEqgc2pui4p2vXC4y"
+      },
+      "artists": [
+        {
+          "name": "The Homme",
+          "url": "https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251248,
+      "name": "Silver Lake",
+      "url": "https://open.spotify.com/track/3cMZDt1yPKZuP7UssRKfWI"
+    },
+    {
+      "album": {
         "name": "Skin Deep",
         "url": "https://open.spotify.com/album/3g0JxbfNLFh4VTmdACc9f8"
       },

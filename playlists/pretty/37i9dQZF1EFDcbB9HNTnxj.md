@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDcbB9HNTnxj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5T3bEdkDNnvnAjPdA5dH6M">ROSALÍA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,475 likes - 102 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,477 likes - 102 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDcbB9HNTnxj.md) - [plain]
 | 62 | [Strawberry Kiwi](https://open.spotify.com/track/4jkZjaZkOCpgk2pqV8Wrw3) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:32 |
 | 63 | [A NINGÚN HOMBRE \- Cap.11: Poder](https://open.spotify.com/track/0RhO0RV0YKyF05kZ4uQOHW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 1:34 |
 | 64 | [PROMESA](https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:16 |
-| 65 | [Dio$ No$ Libre Del Dinero](https://open.spotify.com/track/5m9l5wILQ9iiLd8csLeR5v) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 1:48 |
-| 66 | [Mundo Nuevo](https://open.spotify.com/track/1LFM6gtGwcTe8CXX6y1IK2) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:20 |
+| 65 | [Mundo Nuevo](https://open.spotify.com/track/1LFM6gtGwcTe8CXX6y1IK2) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:20 |
+| 66 | [Dio$ No$ Libre Del Dinero](https://open.spotify.com/track/5m9l5wILQ9iiLd8csLeR5v) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 1:48 |
 | 67 | [CUUUUuuuuuute](https://open.spotify.com/track/3BQPPsoxlhuSIEPlNRHHZt) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:30 |
 | 68 | [DE AQUÍ NO SALES \- Cap.4: Disputa](https://open.spotify.com/track/0CaiddWO1F3v4nTQGgfk9A) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:24 |
 | 69 | [CAPRICHOSO](https://open.spotify.com/track/3Fm7EFSuLlW8KqWTPIYLZH) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 2:47 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDcbB9HNTnxj.md) - [plain]
 | 101 | [Seguiriya Madre](https://open.spotify.com/track/62idAqgmMxIIchpckGjMDU) | [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Flamenco\. Mausoleo de Celebración, Amor y Muerte](https://open.spotify.com/album/7EK2WnHyZAH02Rfu6MEOIg) | 4:10 |
 | 102 | [Mil Razones](https://open.spotify.com/track/21gOeRf8D8rLN4xbkwNgTY) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mil Razones](https://open.spotify.com/album/0IV1SE6tUNzoLDdBSSVBdT) | 2:46 |
 
-Snapshot ID: `AcUq8AAAAAD2iayc7Twv+O4ClGEeyKZl`
+Snapshot ID: `AcUwkAAAAAAM0Hn07trFal770pwCDG80`

@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 823239,
+  "num_followers": 823290,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 290573,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Always On My Mind",
-        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 213359,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Hunter Hayes (Encore)",
         "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 213359,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Richard Marx",
-        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 316040,
-      "name": "Hold On To The Nights",
-      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Amos Lee",
         "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 251440,
       "name": "Arms Of A Woman",
       "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 316040,
+      "name": "Hold On To The Nights",
+      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Vital Signs",
-        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "The Search Is Over",
-      "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "One In A Million You",
         "url": "https://open.spotify.com/album/3sT09KMUA39aQYCofvoA1j"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 252600,
       "name": "One in a Million You",
       "url": "https://open.spotify.com/track/1CzgvJvt2JRy4uEX3SVaxO"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "The Search Is Over",
+      "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Classics (Vol.4)",
-        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 162973,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "All I Need To Know",
         "url": "https://open.spotify.com/album/2OWY8X9HTnG6srfrO76bBL"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 219960,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/3f5rOhrNLYP53c9RcPfp02"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Classics (Vol.4)",
+        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 162973,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 285727,
-      "name": "There's Nothing Better Than Love",
-      "url": "https://open.spotify.com/track/5ufz4Pc89GU8FBAp1lPatq"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Gotta Get Thru This",
         "url": "https://open.spotify.com/album/6QCJavotgf93RyAbJXvWlL"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 257026,
       "name": "If You're Not The One",
       "url": "https://open.spotify.com/track/6B6aCxSBsECsulzOkJRxGv"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 285727,
+      "name": "There's Nothing Better Than Love",
+      "url": "https://open.spotify.com/track/5ufz4Pc89GU8FBAp1lPatq"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Songs About Jane",
-        "url": "https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "She Will Be Loved",
-      "url": "https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Exclusive",
         "url": "https://open.spotify.com/album/5t7BjMUC2HXa5cWDOWmnVg"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 252160,
       "name": "With You",
       "url": "https://open.spotify.com/track/1j3H54xdahpAkNI0q6S89q"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Songs About Jane",
+        "url": "https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 257133,
+      "name": "She Will Be Loved",
+      "url": "https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Best Of Extreme (An Accidental Collication Of Atoms)",
-        "url": "https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 335946,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Sweet Baby James",
         "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 200579,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Best Of Extreme (An Accidental Collication Of Atoms)",
+        "url": "https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 335946,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Deep Cuts: The Best Of The Ballads",
-        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "To Be With You",
-      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Elton John (Remastered Version)",
         "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
       },
@@ -2231,18 +2215,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "In The Lonely Hour (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB"
+      "duration_ms": 208066,
+      "name": "To Be With You",
+      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2259,6 +2243,22 @@
       "duration_ms": 290960,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "In The Lonely Hour (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB"
     },
     {
       "added_at": "2022-08-26 12:00:00",

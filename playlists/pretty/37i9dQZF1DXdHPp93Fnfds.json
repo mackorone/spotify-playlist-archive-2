@@ -1,6 +1,6 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 136511,
+  "num_followers": 136508,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "poco a poquito",
+        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "poco a poquito",
+      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "M\u00e1s Que Amigas",
         "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
       },
@@ -407,18 +423,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "poco a poquito",
-        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
+        "name": "blush",
+        "url": "https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK"
       },
       "artists": [
         {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 168320,
-      "name": "poco a poquito",
-      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
+      "duration_ms": 106222,
+      "name": "bruce willisss",
+      "url": "https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -439,22 +455,6 @@
       "duration_ms": 218039,
       "name": "El D\u00eda de las Flores",
       "url": "https://open.spotify.com/track/6IDE0OVT1hcMdf1bCqxxSp"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "blush",
-        "url": "https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 106222,
-      "name": "bruce willisss",
-      "url": "https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -491,22 +491,6 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "No Azara",
-        "url": "https://open.spotify.com/album/5UiqNGN6vSO7QRHosfbdHQ"
-      },
-      "artists": [
-        {
-          "name": "La Muchacha",
-          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
-        }
-      ],
-      "duration_ms": 236460,
-      "name": "No Azara",
-      "url": "https://open.spotify.com/track/4uIOcEPajm9DLUVZJnLFOO"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -559,6 +543,22 @@
       "duration_ms": 174975,
       "name": "No s\u00e9 qu\u00e9 tienes",
       "url": "https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "No Azara",
+        "url": "https://open.spotify.com/album/5UiqNGN6vSO7QRHosfbdHQ"
+      },
+      "artists": [
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+        }
+      ],
+      "duration_ms": 236460,
+      "name": "No Azara",
+      "url": "https://open.spotify.com/track/4uIOcEPajm9DLUVZJnLFOO"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "This is un volc\u00e1n",
+        "url": "https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif"
+      },
+      "artists": [
+        {
+          "name": "Russian Red",
+          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "This is un volc\u00e1n",
+      "url": "https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Fant\u00e1stico",
         "url": "https://open.spotify.com/album/7D0GfKfbXGfJW6YHfeAWTw"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 291914,
       "name": "Fant\u00e1stico",
       "url": "https://open.spotify.com/track/3FpnoOgJnoihLQoEmm9Y8h"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "This is un volc\u00e1n",
-        "url": "https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif"
-      },
-      "artists": [
-        {
-          "name": "Russian Red",
-          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "This is un volc\u00e1n",
-      "url": "https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "100PRE",
-        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 205511,
-      "name": "100PRE",
-      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Running Up That Hill - Spotify Singles",
         "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 220005,
       "name": "Running Up That Hill - Spotify Singles",
       "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "100PRE",
+        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 205511,
+      "name": "100PRE",
+      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "me da miedo que escuches esto",
-        "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 138509,
-      "name": "A TI",
-      "url": "https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Todo Va A Cambiar",
         "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 187105,
       "name": "Salvaje y tierno",
       "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "me da miedo que escuches esto",
+        "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 138509,
+      "name": "A TI",
+      "url": "https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Sue\u00f1o Raro",
-        "url": "https://open.spotify.com/album/1nHuKJvctkgkY63mVDeqJT"
-      },
-      "artists": [
-        {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
-        }
-      ],
-      "duration_ms": 217706,
-      "name": "Sue\u00f1o Raro",
-      "url": "https://open.spotify.com/track/6EWybNX5bRPGsdWUDqOHbo"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "ME FUI DE LA FIESTA",
         "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Sue\u00f1o Raro",
+        "url": "https://open.spotify.com/album/1nHuKJvctkgkY63mVDeqJT"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 217706,
+      "name": "Sue\u00f1o Raro",
+      "url": "https://open.spotify.com/track/6EWybNX5bRPGsdWUDqOHbo"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "llorando en la luna",
         "url": "https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 177265,
       "name": "llorando en la luna",
       "url": "https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Otro Plan",
-        "url": "https://open.spotify.com/album/5sPy8rb96FxPrJ2GA1zfjW"
-      },
-      "artists": [
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        }
-      ],
-      "duration_ms": 182462,
-      "name": "Otro Plan",
-      "url": "https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1219,6 +1203,42 @@
       "duration_ms": 147198,
       "name": "Tu Vereda",
       "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Otro Plan",
+        "url": "https://open.spotify.com/album/5sPy8rb96FxPrJ2GA1zfjW"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "duration_ms": 182462,
+      "name": "Otro Plan",
+      "url": "https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Onda en el Aire",
+        "url": "https://open.spotify.com/album/3eDODTj34wfIoppGzDdTHk"
+      },
+      "artists": [
+        {
+          "name": "Milagros",
+          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
+        },
+        {
+          "name": "YOGAROCK",
+          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
+        }
+      ],
+      "duration_ms": 195071,
+      "name": "Onda en el Aire",
+      "url": "https://open.spotify.com/track/3Kha9JcEmw6Mv8xonp3qeL"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1271,18 +1291,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Pasar\u00e1",
-        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
+        "name": "Novio Intelectual",
+        "url": "https://open.spotify.com/album/7MhKDU7f5tAR6DjtUoLNNg"
       },
       "artists": [
         {
-          "name": "Ino Guridi",
-          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
+          "name": "Potra",
+          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
         }
       ],
-      "duration_ms": 214989,
-      "name": "D\u00edas",
-      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
+      "duration_ms": 194188,
+      "name": "Novio Intelectual",
+      "url": "https://open.spotify.com/track/3FY0MSjwKGbviDgvwMmix1"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1303,18 +1323,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Novio Intelectual",
-        "url": "https://open.spotify.com/album/7MhKDU7f5tAR6DjtUoLNNg"
+        "name": "Pasar\u00e1",
+        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
       },
       "artists": [
         {
-          "name": "Potra",
-          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
+          "name": "Ino Guridi",
+          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
         }
       ],
-      "duration_ms": 194188,
-      "name": "Novio Intelectual",
-      "url": "https://open.spotify.com/track/3FY0MSjwKGbviDgvwMmix1"
+      "duration_ms": 214989,
+      "name": "D\u00edas",
+      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1331,26 +1351,6 @@
       "duration_ms": 157389,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Y vos dec\u00eds que me gust\u00e1s",
-        "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 153320,
-      "name": "Y vos dec\u00eds que me gust\u00e1s",
-      "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
     }
   ],
   "unique_name": "Mujeres del Indie",

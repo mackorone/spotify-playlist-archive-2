@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Victor Xamã, WillsBife
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,826 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,832 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Contas Pagas](https://open.spotify.com/track/5TIuyixiZOUdnYGOiyPBZE) | [pedrvso](https://open.spotify.com/artist/1dPnN5JbjdsN3E4IyQyiuw), [Lis Mc](https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE), [Thalin](https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd), [Sujoground](https://open.spotify.com/artist/2sngdu3B3WLqIsadMhHDa2) | [Direitos Não Reservados](https://open.spotify.com/album/09ixUAnB4zcOmB7YU4F0Gm) | 2:15 |
 | 75 | [Segredo](https://open.spotify.com/track/1DEDJGx9zG37eBxaQMdv9q) | [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Só Colhe Quem Planta](https://open.spotify.com/album/2mlr6nOWx2Qp5w4fdEC0xb) | 1:00 |
 
-Snapshot ID: `AAAAAPPkTl7RSrUpGBHBBrkW65Vw2m8Y`
+Snapshot ID: `AAAAAPtOPXTIahtsgRNRnVqmpqTdJzdd`

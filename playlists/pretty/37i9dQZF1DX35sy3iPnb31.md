@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,919 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,932 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 3 | [Cold](https://open.spotify.com/track/0y8qNHpC0yMIx31EASTQMX) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Cold](https://open.spotify.com/album/1BwbpGGY2EtTI68hMp0iIb) | 2:52 |
 | 4 | [Should've Known Better](https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Should've Known Better](https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt) | 3:16 |
 | 5 | [clear blue!](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 4:17 |
-| 6 | [BIRTHDAY](https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [BIRTHDAY](https://open.spotify.com/album/3D0LxzawBk0Q6YIawaq6Kw) | 3:40 |
+| 6 | [PARTY](https://open.spotify.com/track/1oRovB4I1ZmRMkk8qoouBr) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [PARTY](https://open.spotify.com/album/7GsDyPuQvAeuIAukkjV69V) | 3:37 |
 | 7 | [Can't Get You Out of My Head \- Spotify Singles](https://open.spotify.com/track/6j4kyvjM60Te1mU0H2LTwR) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Can't Get You Out of My Head \- Spotify Singles](https://open.spotify.com/album/6ynUBc9yQ4pq7kImTMdOql) | 2:58 |
-| 8 | [PARTY](https://open.spotify.com/track/1oRovB4I1ZmRMkk8qoouBr) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [PARTY](https://open.spotify.com/album/7GsDyPuQvAeuIAukkjV69V) | 3:37 |
+| 8 | [BIRTHDAY](https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [BIRTHDAY](https://open.spotify.com/album/3D0LxzawBk0Q6YIawaq6Kw) | 3:40 |
 | 9 | [Wanted Me To Be](https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Wanted Me To Be](https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK) | 3:05 |
 | 10 | [stone sculpted heart](https://open.spotify.com/track/10TQ5jFLDmJlOyfJQKIOMZ) | [.ape](https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju) | [stone sculpted heart](https://open.spotify.com/album/6aqZH96RIf4ikXh35FoQGX) | 2:56 |
 | 11 | [MAGFEST](https://open.spotify.com/track/61nYrNZFXChbd8HQnCM7do) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [MAGFEST](https://open.spotify.com/album/3tXUvtmuSLx2fwFuZmGLbZ) | 3:14 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 19 | [WAHALA RIDDIM](https://open.spotify.com/track/6cDoUJQTi3yANsfEQRh2x8) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [WAHALA RIDDIM](https://open.spotify.com/album/0SciOReSTeXfZT3hTo59kO) | 3:22 |
 | 20 | [BORN WINNER](https://open.spotify.com/track/4ACkAjg9smuLvjskptzLgE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [BORN WINNER](https://open.spotify.com/album/6V8vpu5MiLkOSLifAGfe2f) | 4:10 |
 | 21 | [In Da Jungle](https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [In Da Jungle](https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz) | 2:44 |
-| 22 | [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 |
-| 23 | [Out of Water](https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Out of Water](https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f) | 3:27 |
+| 22 | [Out of Water](https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Out of Water](https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f) | 3:27 |
+| 23 | [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 |
 | 24 | [On Cam](https://open.spotify.com/track/6X0gxQVDV5foS61ukGYJzb) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [On Cam](https://open.spotify.com/album/60fRgIaM94Ua327WIZ3nhr) | 4:04 |
 | 25 | [Like Heaven](https://open.spotify.com/track/5pZGuhprytXKB7QRMul3jq) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Like Heaven](https://open.spotify.com/album/2f4vxEOlp1k8ZSffiROoHE) | 3:38 |
 | 26 | [Only The Good I Keep](https://open.spotify.com/track/4zbYQmI3s9tMTCdOVIZgOD) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Remember The Humans](https://open.spotify.com/album/6skQ2cM5dafp4UdvvN0Xf9) | 3:27 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 34 | [Iya Yemoja](https://open.spotify.com/track/5TQ35IypatWLHzkLnYCr06) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Zapapaya](https://open.spotify.com/artist/2qDwLZAEADFu1KEpO3y126), [Okan](https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt), [Rob Rivera](https://open.spotify.com/artist/6QWBQN0e18qB6zj0szX7Vm) | [Iya Yemoja](https://open.spotify.com/album/46P8cuPwurhmpHzn1tFhGz) | 3:36 |
 | 35 | [THEO](https://open.spotify.com/track/4k1C99VNcTqtGgTJk8OMBt) | [k.alcordo](https://open.spotify.com/artist/4t8VuYPxKPp0iS9f2qjl3E) | [THEO](https://open.spotify.com/album/0Ia9aO3tQYbEWL9l4QERTv) | 2:56 |
 | 36 | [Little Boy](https://open.spotify.com/track/1xxgjvqq3jmyzDAYZ7xEUW) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Little Boy](https://open.spotify.com/album/6Qb2nkecGuW8cezFkA6IYy) | 3:38 |
-| 37 | [What You Say \- ft umru](https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [What You Say \(ft umru\)](https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb) | 3:39 |
-| 38 | [Where Do You Want To Be?](https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Where Do You Want To Be?](https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6) | 4:53 |
+| 37 | [Where Do You Want To Be?](https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Where Do You Want To Be?](https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6) | 4:53 |
+| 38 | [What You Say \- ft umru](https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [What You Say \(ft umru\)](https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb) | 3:39 |
 | 39 | [Marathon](https://open.spotify.com/track/1YBzcUoJZthEfBvamvR7Y6) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Marathon](https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj) | 2:28 |
 | 40 | [Who Do You Wanna Be](https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Mercy on the Skyline](https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s) | 3:42 |
 | 41 | [To Be Lost](https://open.spotify.com/track/05rBzLk023AtT5NnKplUiS) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [To Be Lost in a Dream](https://open.spotify.com/album/6aQQFR5r0EAfQIztJu5W3o) | 2:55 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 45 | [Univers](https://open.spotify.com/track/4b5mmyOtZQZR8RsmKuKohL) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Univers](https://open.spotify.com/album/7diFYGJ5FZ6x3iYwM5jJAn) | 2:24 |
 | 46 | [Tethered](https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Tethered](https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL) | 4:01 |
 | 47 | [Get It N Go](https://open.spotify.com/track/2mx5ILjJOOBgoVx690edNb) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Get It N Go](https://open.spotify.com/album/1Pob5uyZOs72497AiC2Qwj) | 2:57 |
-| 48 | [In Your Arms](https://open.spotify.com/track/5k5M9d3KpJv0zv6Y9LhraU) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [C The Reason](https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk) | [In Your Arms](https://open.spotify.com/album/2zR2CvE3sANYBc19r5dvC6) | 3:27 |
-| 49 | [Many Men](https://open.spotify.com/track/2QuWFGLmx5l6oFlmfiTNio) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [Many Men](https://open.spotify.com/album/57mPLz3Ii7CXM6kJqjvuWu) | 2:35 |
+| 48 | [Many Men](https://open.spotify.com/track/2QuWFGLmx5l6oFlmfiTNio) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [Many Men](https://open.spotify.com/album/57mPLz3Ii7CXM6kJqjvuWu) | 2:35 |
+| 49 | [In Your Arms](https://open.spotify.com/track/5k5M9d3KpJv0zv6Y9LhraU) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [C The Reason](https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk) | [In Your Arms](https://open.spotify.com/album/2zR2CvE3sANYBc19r5dvC6) | 3:27 |
 | 50 | [Fous de nous deux](https://open.spotify.com/track/34pKCpWbrzLva99r9lkF7n) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Fous de nous deux](https://open.spotify.com/album/0SXQw0b0sVz0LTGv7t6Utb) | 2:49 |
 
 Snapshot ID: `AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1`

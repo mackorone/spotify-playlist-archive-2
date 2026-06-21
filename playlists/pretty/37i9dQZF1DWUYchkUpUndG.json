@@ -1,12 +1,12 @@
 {
   "description": "Discover new christian and gospel music. Cover: Esther Oji",
-  "num_followers": 58060,
+  "num_followers": 58080,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMDhznqpEbbQpCLyMSOWqGR+3b45",
+  "snapshot_id": "AAAAADfReTW4QnY/UBoskNL87wVe4bvP",
   "tracks": [
     {
       "added_at": "2026-06-19 00:01:27",
@@ -207,6 +207,38 @@
       "duration_ms": 859846,
       "name": "Odaju - Live",
       "url": "https://open.spotify.com/track/6Cz4scuNSdC9w9qETfL19H"
+    },
+    {
+      "added_at": "2026-06-19 00:01:27",
+      "album": {
+        "name": "Sweet Jesus",
+        "url": "https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q"
+      },
+      "artists": [
+        {
+          "name": "Jordan Bangoji",
+          "url": "https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Sweet Jesus",
+      "url": "https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR"
+    },
+    {
+      "added_at": "2026-06-20 10:23:13",
+      "album": {
+        "name": "DIVINE",
+        "url": "https://open.spotify.com/album/239WUfdExJsLxosZIEg9AE"
+      },
+      "artists": [
+        {
+          "name": "Rosey",
+          "url": "https://open.spotify.com/artist/2nUGMD83hQ6sJSOyNy559L"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "DIVINE",
+      "url": "https://open.spotify.com/track/76YuA6sXu6j2rHke168FDj"
     },
     {
       "added_at": "2026-06-12 00:01:57",
@@ -511,22 +543,6 @@
       "duration_ms": 198000,
       "name": "Kaunar Allah",
       "url": "https://open.spotify.com/track/6Yu4gwqfUEIwHhK5JRIG5P"
-    },
-    {
-      "added_at": "2026-06-19 00:01:27",
-      "album": {
-        "name": "Sweet Jesus",
-        "url": "https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q"
-      },
-      "artists": [
-        {
-          "name": "Jordan Bangoji",
-          "url": "https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Sweet Jesus",
-      "url": "https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR"
     },
     {
       "added_at": "2026-06-19 00:01:27",

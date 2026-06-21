@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-290 songs - 17 hr 37 min
+291 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Chris \- Live at Carnegie Hall, May 14, 2022](https://open.spotify.com/track/4NSemr6oNuIcVCioLgo1r8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Return to Carnegie Hall \(Live at Carnegie Hall, May 14, 2022\)](https://open.spotify.com/album/4JUjiAuy48zaVjUhmwsaB9) | 3:39 | 2023-03-17 | 2023-05-27 |
 | [Chris \- Live at Carnegie Hall, May 14\. 2022](https://open.spotify.com/track/6PiCMlI8V5DjaSOdej5Cmn) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Return to Carnegie Hall](https://open.spotify.com/album/2owktfAn8N3ZeiQl75G58Q) | 3:26 | 2023-08-30 | 2023-12-14 |
 | [Cinnamon Girl \- Live from Calgary, AL\. 2023](https://open.spotify.com/track/1fbqDTZADDqo1BpVtvFtIJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Cinnamon Girl \(Live from Calgary, AL\. 2023\)](https://open.spotify.com/album/3mi2e18BqDgJGz1p8SZHqL) | 2:48 | 2024-06-02 | 2024-08-17 |
-| [Come Home](https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa) | 4:50 | 2022-02-06 | 2026-06-20 |
+| [Come Home](https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa) | 4:50 | 2022-02-06 |  |
 | [Come Pick Me Up](https://open.spotify.com/track/5X1UhM3dxWwLtCRPl2Oczn) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Come Pick Me Up](https://open.spotify.com/album/0BPSz0jNSRZo7lnLAS90Ix) | 4:44 | 2025-07-09 | 2025-08-05 |
 | [Come Pick Me Up](https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 5:18 | 2022-01-11 |  |
 | [Cracks in the Photograph](https://open.spotify.com/track/12hwupEjdzn47WVFyjD6Rl) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 4:04 | 2026-06-14 |  |
@@ -111,7 +111,7 @@
 | [Gimme Something Good](https://open.spotify.com/track/4bhspHrFFCtl1wSt74KcxL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/69K1Pef7hoy91Q81F6WPey) | 3:54 | 2024-09-23 | 2025-05-07 |
 | [Hall of Shame](https://open.spotify.com/track/1BdDHMSD1LtJ9fGCMee0D8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:33 | 2022-08-20 | 2022-11-01 |
 | [Hall of Shame](https://open.spotify.com/track/3jwnNTEjlyg6z1ctcxYWsV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI) | 3:33 | 2022-10-31 | 2022-12-16 |
-| [Hallelujah](https://open.spotify.com/track/35IXhsIR2ZgELZABz7iRVr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:10 | 2022-01-11 |  |
+| [Hallelujah](https://open.spotify.com/track/35IXhsIR2ZgELZABz7iRVr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:10 | 2022-01-11 | 2026-06-21 |
 | [Halloweenhead](https://open.spotify.com/track/04N3X9vfSzIpkgnD15pCzz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 3:23 | 2024-10-30 | 2025-11-19 |
 | [Harvest Moon \- Live from Calgary, AL\. 2023](https://open.spotify.com/track/3cTOXcZi3I61oAGqwAtc2y) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [After the Gold Rush \(Live from Calgary, AL\. 2023\)](https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k) | 3:58 | 2024-06-14 | 2024-07-15 |
 | [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 | 2022-01-11 |  |
@@ -200,7 +200,7 @@
 | [Poor Connection](https://open.spotify.com/track/7Ddfa5uVpCRmj1tpcITo07) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:49 | 2022-05-16 | 2022-08-16 |
 | [Pretenders](https://open.spotify.com/track/18dFKDJvv0Tz8Bubl3QMsJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:00 | 2026-06-14 |  |
 | [Prisoner](https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:11 | 2022-01-11 |  |
-| [Rollercoaster](https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:09 | 2022-05-14 |  |
+| [Rollercoaster](https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:09 | 2022-05-14 | 2026-06-21 |
 | [Romeo & Juliet](https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:42 | 2022-05-14 | 2022-11-04 |
 | [Romeo & Juliet \- Live at Carnegie Hall, May 14, 2022](https://open.spotify.com/track/0PnC3S5ayY5MoT0fqIi227) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Return to Carnegie Hall \(Live at Carnegie Hall, May 14, 2022\)](https://open.spotify.com/album/4JUjiAuy48zaVjUhmwsaB9) | 4:57 | 2023-04-02 | 2023-04-21 |
 | [Run](https://open.spotify.com/track/3Tsa7IQlaD0WDGMEE4DaCD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:37 | 2022-10-16 | 2022-12-19 |
@@ -226,6 +226,7 @@
 | [So Lost](https://open.spotify.com/track/3onoAfOvc9c2FrmvWb9shy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:41 | 2024-01-05 | 2024-04-29 |
 | [Some Might Say](https://open.spotify.com/track/7x6ABBb79YOYtEAxTMzsal) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 4:08 | 2023-04-17 | 2023-07-28 |
 | [Someday](https://open.spotify.com/track/5cDkShsp5scmWw4gc2z3lX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:09 | 2022-08-21 | 2022-10-31 |
+| [Somehow, Someday](https://open.spotify.com/track/2X3cgDxTNhmkbW3HGl1gkS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 4:24 | 2026-06-21 |  |
 | [Someone On my Mind](https://open.spotify.com/track/3V123jeAM3oXRebk3YL93u) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 2:24 | 2025-12-03 | 2025-12-29 |
 | [Somethings Missing](https://open.spotify.com/track/0VbtIu7vYixBGAfh8GxzRv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:17 | 2022-05-16 | 2024-11-01 |
 | [Speeding Car](https://open.spotify.com/track/74wT3PlIHz8txEw5wHtzF1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:27 | 2024-01-04 | 2024-08-15 |

@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 32736,
+  "num_followers": 32734,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
+        "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
+        "url": "https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL"
+      },
+      "artists": [
+        {
+          "name": "MoJaNad",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
+      "url": "https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
         "name": "Manama",
         "url": "https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 220904,
       "name": "Manama",
       "url": "https://open.spotify.com/track/3zOixogOi4v75PI7bkws2O"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
-        "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
-        "url": "https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL"
-      },
-      "artists": [
-        {
-          "name": "MoJaNad",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
-      "url": "https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
+        "name": "Affon Mennik",
+        "url": "https://open.spotify.com/album/3txVOVb4WHe4AzuvjMYrKn"
+      },
+      "artists": [
+        {
+          "name": "Atef Malhas",
+          "url": "https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Affon Mennik",
+      "url": "https://open.spotify.com/track/62tYV2LYspoAS5vvZKB1EL"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
         "name": "Hold Your Ground",
         "url": "https://open.spotify.com/album/6fxuBrz4h4iOuW5hVoiJmc"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 275017,
       "name": "Hold Your Ground",
       "url": "https://open.spotify.com/track/0KmiXlCv8005j9o340PW4e"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
-        "name": "Affon Mennik",
-        "url": "https://open.spotify.com/album/3txVOVb4WHe4AzuvjMYrKn"
-      },
-      "artists": [
-        {
-          "name": "Atef Malhas",
-          "url": "https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Affon Mennik",
-      "url": "https://open.spotify.com/track/62tYV2LYspoAS5vvZKB1EL"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -783,8 +783,8 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Ammal Tehlaw",
-        "url": "https://open.spotify.com/album/1GOZ3S72ib2ZU1MjpeRy42"
+        "name": "Hala O Ghala",
+        "url": "https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
         }
       ],
-      "duration_ms": 189870,
-      "name": "Ammal Tehlaw",
-      "url": "https://open.spotify.com/track/1hUZU0lCce1QzcaqWjwWiE"
+      "duration_ms": 211282,
+      "name": "Hala O Ghala",
+      "url": "https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -863,8 +863,8 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Hala O Ghala",
-        "url": "https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n"
+        "name": "Ammal Tehlaw",
+        "url": "https://open.spotify.com/album/1GOZ3S72ib2ZU1MjpeRy42"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
         }
       ],
-      "duration_ms": 211282,
-      "name": "Hala O Ghala",
-      "url": "https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi"
+      "duration_ms": 189870,
+      "name": "Ammal Tehlaw",
+      "url": "https://open.spotify.com/track/1hUZU0lCce1QzcaqWjwWiE"
     },
     {
       "added_at": "2024-12-21 19:38:19",

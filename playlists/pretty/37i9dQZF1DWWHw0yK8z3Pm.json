@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Stephen Wilson Jr.",
-  "num_followers": 70164,
+  "num_followers": 70161,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Pale Blue Eyes",
-        "url": "https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk"
-      },
-      "artists": [
-        {
-          "name": "Sydney Ross Mitchell",
-          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
-        }
-      ],
-      "duration_ms": 213147,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "Nosebleed",
         "url": "https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 287999,
       "name": "Nosebleed",
       "url": "https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Pale Blue Eyes",
+        "url": "https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "duration_ms": 213147,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Pink Living Room",
-        "url": "https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 236739,
-      "name": "Pink Living Room",
-      "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "A Crater Wide",
         "url": "https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 190781,
       "name": "Heavy, Heavy Love",
       "url": "https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Pink Living Room",
+        "url": "https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 236739,
+      "name": "Pink Living Room",
+      "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1411,26 +1411,18 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Darling Blue",
-        "url": "https://open.spotify.com/album/138Q5IZhEaKn49iENE1U3A"
+        "name": "Back to Me",
+        "url": "https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML"
       },
       "artists": [
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        },
-        {
-          "name": "The Marcus King Band",
-          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 247050,
-      "name": "The Shadows (feat. Noah Cyrus)",
-      "url": "https://open.spotify.com/track/5Sl9U0zlHnkdWhIETz3bhK"
+      "duration_ms": 181773,
+      "name": "Back to Me",
+      "url": "https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1455,18 +1447,26 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Back to Me",
-        "url": "https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML"
+        "name": "Darling Blue",
+        "url": "https://open.spotify.com/album/138Q5IZhEaKn49iENE1U3A"
       },
       "artists": [
         {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 181773,
-      "name": "Back to Me",
-      "url": "https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ"
+      "duration_ms": 247050,
+      "name": "The Shadows (feat. Noah Cyrus)",
+      "url": "https://open.spotify.com/track/5Sl9U0zlHnkdWhIETz3bhK"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
+        "name": "The Longer You Hold On",
+        "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "The Longer You Hold On",
+      "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
         "name": "Tumbleweeds and Chewing Gum",
         "url": "https://open.spotify.com/album/06POsA4cWPeLqwEZRg1rJl"
       },
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "The Longer You Hold On",
-        "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
+        "name": "So Long Little Miss Sunshine",
+        "url": "https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr"
       },
       "artists": [
         {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 172066,
-      "name": "The Longer You Hold On",
-      "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
+      "duration_ms": 224861,
+      "name": "Everything Burns",
+      "url": "https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "So Long Little Miss Sunshine",
-        "url": "https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr"
+        "name": "Trail Of Flowers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 224861,
-      "name": "Everything Burns",
-      "url": "https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX"
+      "duration_ms": 209176,
+      "name": "Dollar Bill Bar",
+      "url": "https://open.spotify.com/track/6YmqrvUwNRWZZWNvPuDpRT"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1615,22 +1631,6 @@
       "duration_ms": 210650,
       "name": "Darling",
       "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Trail Of Flowers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 209176,
-      "name": "Dollar Bill Bar",
-      "url": "https://open.spotify.com/track/6YmqrvUwNRWZZWNvPuDpRT"
     },
     {
       "added_at": "2026-05-22 04:02:59",

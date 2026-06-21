@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72500,
+  "num_followers": 72496,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAABuLKYOyInb23LfAT9XSbQd",
+  "snapshot_id": "ajSGgAAAAAAcImAGx3Qhcy5kJ0q9MIUj",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,34 @@
       "duration_ms": 163664,
       "name": "Freak",
       "url": "https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like Home (Remixes 2026)",
+        "url": "https://open.spotify.com/album/4bV8pNkHFNx2hHRtqNNYea"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "NORII",
+          "url": "https://open.spotify.com/artist/4I1nNVymsW8VCQpkkAiqn1"
+        }
+      ],
+      "duration_ms": 188743,
+      "name": "Like Home - Tujamo & NORII Remix",
+      "url": "https://open.spotify.com/track/2pxtG74DvzCkcMORMwY0No"
     },
     {
       "added_at": null,
@@ -95,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shout",
-        "url": "https://open.spotify.com/album/6JNDggJVATnmxnAgIvbv4e"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 209538,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/4utBk1Fp8UwMbc1YBcoA4D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Turning Back",
         "url": "https://open.spotify.com/album/2yT98IQ6Rl1oTn0wXGseU8"
       },
@@ -131,6 +139,26 @@
       "duration_ms": 181333,
       "name": "No Turning Back",
       "url": "https://open.spotify.com/track/4Q5ApVT7NHMx5AiZXP56Bc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shout",
+        "url": "https://open.spotify.com/album/6JNDggJVATnmxnAgIvbv4e"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 209538,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/4utBk1Fp8UwMbc1YBcoA4D"
     },
     {
       "added_at": null,
@@ -295,26 +323,6 @@
       "duration_ms": 138461,
       "name": "Where Do I Go",
       "url": "https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Like Home - Radio Edit",
-      "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
     },
     {
       "added_at": null,
@@ -563,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Word On The Street",
-        "url": "https://open.spotify.com/album/5z28qI3AWcvMNydkR2yl0Z"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Dr. Chaii",
-          "url": "https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og"
-        }
-      ],
-      "duration_ms": 162727,
-      "name": "Word On The Street",
-      "url": "https://open.spotify.com/track/0GOnuCVhVzwqo1YXX7X63C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sparks (Turn Off Your Mind) (Atmozfears & Audiotricz Remix)",
         "url": "https://open.spotify.com/album/0L0FpVSbtev9gdi2wIgjlD"
       },
@@ -611,6 +599,26 @@
       "duration_ms": 169404,
       "name": "Sparks (Turn Off Your Mind) - Atmozfears & Audiotricz Radio Mix",
       "url": "https://open.spotify.com/track/3I70IwAiyXo2RewHZVyvje"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Word On The Street",
+        "url": "https://open.spotify.com/album/5z28qI3AWcvMNydkR2yl0Z"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Dr. Chaii",
+          "url": "https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og"
+        }
+      ],
+      "duration_ms": 162727,
+      "name": "Word On The Street",
+      "url": "https://open.spotify.com/track/0GOnuCVhVzwqo1YXX7X63C"
     },
     {
       "added_at": null,
@@ -731,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're Still Young",
-        "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Olivia Penalva",
-          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "We're Still Young",
-      "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting For Me",
         "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
       },
@@ -775,6 +759,30 @@
       "duration_ms": 138102,
       "name": "Waiting For Me",
       "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We're Still Young",
+        "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "We're Still Young",
+      "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
     },
     {
       "added_at": null,
@@ -955,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost In Light",
-        "url": "https://open.spotify.com/album/7fIGGmEiq5Lr8ZTYSdvP4m"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Lost In Light",
-      "url": "https://open.spotify.com/track/6OMjEqdLABiCa42LtYMSUv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You Forever",
         "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
       },
@@ -995,6 +983,26 @@
       "duration_ms": 234609,
       "name": "Love You Forever",
       "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost In Light",
+        "url": "https://open.spotify.com/album/7fIGGmEiq5Lr8ZTYSdvP4m"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Lost In Light",
+      "url": "https://open.spotify.com/track/6OMjEqdLABiCa42LtYMSUv"
     },
     {
       "added_at": null,
@@ -1075,26 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funky Bitz",
-        "url": "https://open.spotify.com/album/2lVGe0ESR5rhrn4dYBQwwP"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
-        }
-      ],
-      "duration_ms": 201250,
-      "name": "Funky Bitz",
-      "url": "https://open.spotify.com/track/0cte9r80XqyGs6sg1r1B4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
       },
@@ -1115,6 +1103,26 @@
       "duration_ms": 245538,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funky Bitz",
+        "url": "https://open.spotify.com/album/2lVGe0ESR5rhrn4dYBQwwP"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "duration_ms": 201250,
+      "name": "Funky Bitz",
+      "url": "https://open.spotify.com/track/0cte9r80XqyGs6sg1r1B4h"
     },
     {
       "added_at": null,

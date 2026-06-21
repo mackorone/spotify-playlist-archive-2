@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- AtharvaMusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,759 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,771 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 64 | [Tere Gaon](https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:54 |
 | 65 | [Ranjhana](https://open.spotify.com/track/2Vm3XVjP7oumfIgpf8ifS0) | [Abhishek Dubey](https://open.spotify.com/artist/1F3kuxj7cocQq595sYWupE), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Ranjhana](https://open.spotify.com/album/6psi4CQmJrez1TDlSs647E) | 4:05 |
 | 66 | [maikhana](https://open.spotify.com/track/6yAb3fTPNYiJFxIRbw9Uyt) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL), [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y) | [maikhana](https://open.spotify.com/album/7JkHK1NfMiEzjS8rNs0R6E) | 3:48 |
-| 67 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
-| 68 | [Pyaar Kaafi Nahi](https://open.spotify.com/track/0emdpRC3rftireFUN9c00x) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd), [Taresh Agarwal](https://open.spotify.com/artist/2HupEq4pIUW6ksJvn9hGvi), [Gaurav Tiwari](https://open.spotify.com/artist/7cNKx3xlbjTwN9EkmiEGZE) | [Pyaar Kaafi Nahi](https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok) | 2:55 |
-| 69 | [Aadhi Chai](https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Aadhi Chai](https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b) | 3:37 |
+| 67 | [Pyaar Kaafi Nahi](https://open.spotify.com/track/0emdpRC3rftireFUN9c00x) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd), [Taresh Agarwal](https://open.spotify.com/artist/2HupEq4pIUW6ksJvn9hGvi), [Gaurav Tiwari](https://open.spotify.com/artist/7cNKx3xlbjTwN9EkmiEGZE) | [Pyaar Kaafi Nahi](https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok) | 2:55 |
+| 68 | [Aadhi Chai](https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Aadhi Chai](https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b) | 3:37 |
+| 69 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
 | 70 | [Tujhsa Na Koi](https://open.spotify.com/track/5vt6phoMEMvVREJcjvcnM0) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Pata](https://open.spotify.com/album/2MYx8x9zEVAX5c99paLZ0A) | 2:55 |
 | 71 | [Ratiyaan](https://open.spotify.com/track/6AW4SkLk5mYWpsPDz8lGXz) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:28 |
 | 72 | [Baaton](https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Baaton](https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4) | 2:05 |

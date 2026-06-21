@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från jalda, Dizzy och Valter Nilsson med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,462 likes - 86 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,453 likes - 86 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

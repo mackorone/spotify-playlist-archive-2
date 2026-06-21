@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 48027,
+  "num_followers": 48043,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-06-19 00:01:56",
       "album": {
-        "name": "Before The Morning Light",
-        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 193672,
-      "name": "Speak Up",
-      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
-    },
-    {
-      "added_at": "2026-06-19 00:01:56",
-      "album": {
         "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 144000,
       "name": "Compose",
       "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
+    },
+    {
+      "added_at": "2026-06-19 00:01:56",
+      "album": {
+        "name": "Before The Morning Light",
+        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 193672,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
     },
     {
       "added_at": "2026-06-19 00:01:56",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-06-19 00:01:56",
       "album": {
-        "name": "DON'T LOVE ME",
-        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 181942,
-      "name": "DON'T LOVE ME",
-      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
-    },
-    {
-      "added_at": "2026-06-19 00:01:56",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
+    },
+    {
+      "added_at": "2026-06-19 00:01:56",
+      "album": {
+        "name": "DON'T LOVE ME",
+        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 181942,
+      "name": "DON'T LOVE ME",
+      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
     },
     {
       "added_at": "2026-06-19 00:01:56",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2026-06-19 00:01:56",
       "album": {
+        "name": "Hashtag",
+        "url": "https://open.spotify.com/album/0ORYGBhSHeVpjKoslUKZas"
+      },
+      "artists": [
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "Hashtag",
+      "url": "https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8"
+    },
+    {
+      "added_at": "2026-06-19 00:01:56",
+      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 129449,
       "name": "BMF \u200b(f\u200beat\u200b. Byron Messia, Fireboy DML\u200b)",
       "url": "https://open.spotify.com/track/5479b6rH90I7QnI5QF1vnA"
-    },
-    {
-      "added_at": "2026-06-19 00:01:56",
-      "album": {
-        "name": "Hashtag",
-        "url": "https://open.spotify.com/album/0ORYGBhSHeVpjKoslUKZas"
-      },
-      "artists": [
-        {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        },
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "Hashtag",
-      "url": "https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8"
     },
     {
       "added_at": "2026-06-19 00:01:56",
@@ -1355,22 +1355,22 @@
     {
       "added_at": "2026-06-19 00:01:56",
       "album": {
-        "name": "US III",
-        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
+        "name": "MAGAA",
+        "url": "https://open.spotify.com/album/10BL9nd3OGaX5s47NWNIPA"
       },
       "artists": [
         {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         },
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         }
       ],
-      "duration_ms": 156190,
-      "name": "US III",
-      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
+      "duration_ms": 181289,
+      "name": "MAGAA",
+      "url": "https://open.spotify.com/track/1uXIywdXW2eaFnD3zJbfpl"
     },
     {
       "added_at": "2026-06-19 00:01:56",
@@ -1387,6 +1387,26 @@
       "duration_ms": 160000,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/6WZUaInW72Zy9r5Ar2E5yo"
+    },
+    {
+      "added_at": "2026-06-19 00:01:56",
+      "album": {
+        "name": "US III",
+        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "US III",
+      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
     },
     {
       "added_at": "2026-06-19 00:01:56",
@@ -1519,22 +1539,6 @@
       "duration_ms": 196471,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
-    },
-    {
-      "added_at": "2026-06-19 00:01:56",
-      "album": {
-        "name": "Celine",
-        "url": "https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 181727,
-      "name": "Celine",
-      "url": "https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59"
     }
   ],
   "unique_name": "Afro Chill",

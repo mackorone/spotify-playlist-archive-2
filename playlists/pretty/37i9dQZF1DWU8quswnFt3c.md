@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Sunidhi Chauhan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,739 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,559 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 7 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
 | 8 | [Shape of a Woman](https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 3:29 |
 | 9 | [Eurosummer \- Girls Trip](https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 2:50 |
-| 10 | [Deedar De](https://open.spotify.com/track/5SCpszC2xg7sF0S6PE3TL1) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Krishna](https://open.spotify.com/artist/5qG25VRsnLdydJTj1VGZSk) | [Dus](https://open.spotify.com/album/2ZMv24PkdTVTdFBCtSMJiX) | 4:25 |
+| 10 | [Deedar De \(Nikhil Mix\)](https://open.spotify.com/track/19uybTRF0AmvCe1VpnbIv6) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Dus](https://open.spotify.com/album/2ZMv24PkdTVTdFBCtSMJiX) | 4:56 |
 | 11 | [Meri Zindagi Hai Tu](https://open.spotify.com/track/5RYXTC4G3RYYP6pUmaF6s2) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn) | [Meri Zindagi Hai Tu](https://open.spotify.com/album/4FWgeZQOq8g7kLQAniEdzR) | 3:46 |
 | 12 | [Choka Choka](https://open.spotify.com/track/5WNTWK6ISkfnkth9JwxvCp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 2:11 |
 | 13 | [تباعاً تباعاً](https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [تباعاً تباعاً](https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu) | 4:06 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 33 | [BIGGER](https://open.spotify.com/track/4R2KJOgEUP2qO3re9BwIhs) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:46 |
 | 34 | [LOVE ME](https://open.spotify.com/track/6Xd1mqYyMIK9LWrGUciP80) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [LOVE ME](https://open.spotify.com/album/58arh5Ywb3hxmzDReTVuyJ) | 3:14 |
 | 35 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
-| 36 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
-| 37 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
+| 36 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
+| 37 | [Dwa słońca](https://open.spotify.com/track/5Ax2sqg4Yx4SJrPyKzG4ru) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Dwa słońca](https://open.spotify.com/album/4PDs9jOvqkvUjMo3ByG5Tp) | 3:17 |
 | 38 | [Therapy](https://open.spotify.com/track/78ZwA2gv2dKj92FqY3CwrU) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [Therapy](https://open.spotify.com/album/4I5mHJeEcs9QcTfxHUwWfk) | 3:18 |
 | 39 | [So Bad](https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [So Bad](https://open.spotify.com/album/4VUNZfosz2STVMWZDbSX7l) | 3:53 |
 | 40 | [Para Da Pa Dodu](https://open.spotify.com/track/7DwWI6exyodWIYB2RB3bmA) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Paulinha](https://open.spotify.com/artist/6QreKWSo4ectaWUuRmIBjU) | [Para Da Pa Dodu](https://open.spotify.com/album/4SHjfzq4G7Jp79kloT0xYo) | 3:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 45 | [Berlin](https://open.spotify.com/track/7Ei6t0vqP6QsuEEok9oxZJ) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:23 |
 | 46 | [ordinary love song](https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Acrobat](https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0) | 2:28 |
 | 47 | [¿ARDIDA QUIÉN?](https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [¿ARDIDA QUIÉN?](https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ) | 2:20 |
-| 48 | [Upside Down](https://open.spotify.com/track/71WYq0Dq4VWatUIFDW0jvz) | [SHINJIRO ATAE](https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF) | [THIS IS HOW I AM](https://open.spotify.com/album/4GIIgSveSyls13q824SdUy) | 3:02 |
-| 49 | [Sigui](https://open.spotify.com/track/5i0JVsQOIwqn9LKP29YXh3) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Sigui](https://open.spotify.com/album/4kiBVxzxHqE0FccC8JIxJD) | 3:17 |
+| 48 | [Sigui](https://open.spotify.com/track/5i0JVsQOIwqn9LKP29YXh3) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Sigui](https://open.spotify.com/album/4kiBVxzxHqE0FccC8JIxJD) | 3:17 |
+| 49 | [Upside Down](https://open.spotify.com/track/71WYq0Dq4VWatUIFDW0jvz) | [SHINJIRO ATAE](https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF) | [THIS IS HOW I AM](https://open.spotify.com/album/4GIIgSveSyls13q824SdUy) | 3:02 |
 | 50 | [setidaknya aku telah mencoba](https://open.spotify.com/track/4NhhEuSZb5uAj5mgIA5WJN) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [setidaknya aku telah mencoba](https://open.spotify.com/album/6g4AW1lAuD1jyQi2xGixLn) | 2:54 |
 
-Snapshot ID: `AAAAAOlBP2z3eR15Y5W0zadC81L2BY1c`
+Snapshot ID: `AAAAAEPPQDM3LhYM32ZoGrdHk3jUBENO`

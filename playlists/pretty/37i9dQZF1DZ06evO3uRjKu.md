@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,210 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,215 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,18 +33,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 23 | [No Me Hagas Callar](https://open.spotify.com/track/3ZjkflIADDBkA6jFm5WJBy) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 5:17 |
 | 24 | [Bella Mujer](https://open.spotify.com/track/4DCev1ZJxpVff4aOXmyN7K) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/2tdA8vWfgt8YRHAcecbl3v) | 3:26 |
 | 25 | [Un Minuto Con Vos](https://open.spotify.com/track/0x9DcGr4xIxgbqcmjXzj1j) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/3hNOEpLzOEpBOwKp4NbZ0k) | 4:05 |
-| 26 | [Todo Por un Sueño \- En Vivo](https://open.spotify.com/track/3pKEj0ARdyp1xVrafOr4Pn) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vivo Grandes Exitos en Buenos Aires \(En Vivo\)](https://open.spotify.com/album/6NZd767CliBYH3Fys8wyxY) | 4:11 |
+| 26 | [Soy un loco](https://open.spotify.com/track/5UmXB0hPoKr9JJOp5MttAx) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:46 |
 | 27 | [Casafantasmas](https://open.spotify.com/track/2MorQjaQcg4CFdfrN5nCqa) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 3:33 |
-| 28 | [Soy un loco](https://open.spotify.com/track/5UmXB0hPoKr9JJOp5MttAx) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:46 |
+| 28 | [Todo Por un Sueño \- En Vivo](https://open.spotify.com/track/3pKEj0ARdyp1xVrafOr4Pn) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vivo Grandes Exitos en Buenos Aires \(En Vivo\)](https://open.spotify.com/album/6NZd767CliBYH3Fys8wyxY) | 4:11 |
 | 29 | [Mojada](https://open.spotify.com/track/60Sd7uDet3UuNJHZdHAUSK) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [En Vivo Buenos Aires](https://open.spotify.com/album/4iPF9MbEkekyq8KOMDclzc) | 3:39 |
 | 30 | [Flaca](https://open.spotify.com/track/7r73K3Fjt5HIyIAqu16tAA) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Flaca](https://open.spotify.com/album/1fyPQRdEiDwkit84BB8I01) | 3:47 |
 | 31 | [Estúpida](https://open.spotify.com/track/6IiCJye3u6X8C83pR1WWLy) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Hecatombe Disco](https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0) | 3:31 |
 | 32 | [Demasiado Tarde](https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 5:50 |
 | 33 | [Te Quiero Comer la Boca](https://open.spotify.com/track/0jOcYlFjCBNSq1cXACI1D3) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Muchachos](https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM) | 3:49 |
-| 34 | [Son tus ojos](https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:06 |
-| 35 | [Hechicera Crayon](https://open.spotify.com/track/77eFgBJ4ZQPsSwN1z6AJxw) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 5:00 |
-| 36 | [Me Siento Loco](https://open.spotify.com/track/01TJE0vRdTfmFjcj2Z6Q4U) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Me Siento Loco](https://open.spotify.com/album/1sDQ7rlBAHZZAt8AJfNzzT) | 4:03 |
-| 37 | [La Noche Que Yo Te Vi](https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:17 |
+| 34 | [Hechicera Crayon](https://open.spotify.com/track/77eFgBJ4ZQPsSwN1z6AJxw) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 5:00 |
+| 35 | [Son tus ojos](https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:06 |
+| 36 | [La Noche Que Yo Te Vi](https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:17 |
+| 37 | [Me Siento Loco](https://open.spotify.com/track/01TJE0vRdTfmFjcj2Z6Q4U) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Me Siento Loco](https://open.spotify.com/album/1sDQ7rlBAHZZAt8AJfNzzT) | 4:03 |
 | 38 | [Hasta Allá En El Cielo / Bye Bye](https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Hasta Allá En El Cielo / Bye Bye](https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y) | 5:34 |
 | 39 | [Toque de Queda](https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 6:02 |
 | 40 | [Nada Mas](https://open.spotify.com/track/5Dc4Z7HiEVrDOScK87J4hU) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 49 | [Pasará](https://open.spotify.com/track/2yLPiANWzNWbULcpbQfk6x) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/2tdA8vWfgt8YRHAcecbl3v) | 4:27 |
 | 50 | [Bumerang](https://open.spotify.com/track/2Vx2DZxRtEGAvmipf71Yaw) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 3:12 |
 
-Snapshot ID: `ajM1AAAAAADICmKnMcYLqmqdGFVgMVcw`
+Snapshot ID: `ajSGgAAAAADxjdnj2SV01vn1bgekSIyf`

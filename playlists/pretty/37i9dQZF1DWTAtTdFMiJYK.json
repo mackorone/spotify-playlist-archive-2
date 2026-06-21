@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: JBABE",
-  "num_followers": 193546,
+  "num_followers": 193592,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
-        "name": "Maara Makka (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B"
-      },
-      "artists": [
-        {
-          "name": "rudh",
-          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Maara Makka - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
-    },
-    {
-      "added_at": "2026-06-19 05:52:28",
-      "album": {
         "name": "Anyayo",
         "url": "https://open.spotify.com/album/7CJq5roqrBmkCz5U2JP0yx"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 121914,
       "name": "Anyayo",
       "url": "https://open.spotify.com/track/5yCOc1MOoekBjy56pCYZHS"
+    },
+    {
+      "added_at": "2026-06-19 05:52:28",
+      "album": {
+        "name": "Maara Makka (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B"
+      },
+      "artists": [
+        {
+          "name": "rudh",
+          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Maara Makka - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
     },
     {
       "added_at": "2026-06-19 05:52:28",
@@ -715,6 +715,26 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
+        "name": "Jaadugari",
+        "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Jaadugari",
+      "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
+    },
+    {
+      "added_at": "2026-06-19 05:52:28",
+      "album": {
         "name": "Aas",
         "url": "https://open.spotify.com/album/3ouQsqA555hLFhrObzNezV"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 190234,
       "name": "Aas",
       "url": "https://open.spotify.com/track/7MLSIlkM9B2NhKMlAFRQc7"
-    },
-    {
-      "added_at": "2026-06-19 05:52:28",
-      "album": {
-        "name": "Jaadugari",
-        "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
-      },
-      "artists": [
-        {
-          "name": "maahi",
-          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
-        },
-        {
-          "name": "Shayra Apoorva",
-          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "Jaadugari",
-      "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
     },
     {
       "added_at": "2026-06-19 05:52:28",
@@ -871,6 +871,26 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
+        "name": "Bolo Bolo",
+        "url": "https://open.spotify.com/album/6n1ZzFVuQoI2NZLxQTxRUD"
+      },
+      "artists": [
+        {
+          "name": "W.i.S.H.",
+          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+        },
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "duration_ms": 237378,
+      "name": "Bolo Bolo",
+      "url": "https://open.spotify.com/track/4Aqd89LSf5OnqWGeKO9mP9"
+    },
+    {
+      "added_at": "2026-06-19 05:52:28",
+      "album": {
         "name": "Paatha Edathila",
         "url": "https://open.spotify.com/album/03VPIqFCLf2B3mCafybAya"
       },
@@ -895,26 +915,6 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
-        "name": "Bolo Bolo",
-        "url": "https://open.spotify.com/album/6n1ZzFVuQoI2NZLxQTxRUD"
-      },
-      "artists": [
-        {
-          "name": "W.i.S.H.",
-          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
-        },
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
-        }
-      ],
-      "duration_ms": 237378,
-      "name": "Bolo Bolo",
-      "url": "https://open.spotify.com/track/4Aqd89LSf5OnqWGeKO9mP9"
-    },
-    {
-      "added_at": "2026-06-19 05:52:28",
-      "album": {
         "name": "Heeriye",
         "url": "https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
-        "name": "Udd Chala",
-        "url": "https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu"
-      },
-      "artists": [
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        }
-      ],
-      "duration_ms": 286181,
-      "name": "Udd Chala",
-      "url": "https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I"
-    },
-    {
-      "added_at": "2026-06-19 05:52:28",
-      "album": {
         "name": "Dil Se",
         "url": "https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 257518,
       "name": "Dil Se",
       "url": "https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY"
+    },
+    {
+      "added_at": "2026-06-19 05:52:28",
+      "album": {
+        "name": "Udd Chala",
+        "url": "https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "duration_ms": 286181,
+      "name": "Udd Chala",
+      "url": "https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I"
     },
     {
       "added_at": "2026-06-19 05:52:28",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
-        "name": "Kahani",
-        "url": "https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD"
-      },
-      "artists": [
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        }
-      ],
-      "duration_ms": 245711,
-      "name": "Kahani",
-      "url": "https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH"
-    },
-    {
-      "added_at": "2026-06-19 05:52:28",
-      "album": {
         "name": "Jee Na Paaye",
         "url": "https://open.spotify.com/album/7ddSBdRGiFibkVZsqEztuL"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 232918,
       "name": "Jee Na Paaye",
       "url": "https://open.spotify.com/track/1IGvo9KLLTHiW35zisOi8I"
+    },
+    {
+      "added_at": "2026-06-19 05:52:28",
+      "album": {
+        "name": "Kahani",
+        "url": "https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "duration_ms": 245711,
+      "name": "Kahani",
+      "url": "https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH"
     },
     {
       "added_at": "2026-06-19 05:52:28",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-06-19 05:52:28",
       "album": {
-        "name": "Le Jaa",
-        "url": "https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA"
-      },
-      "artists": [
-        {
-          "name": "Adeetiiya",
-          "url": "https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s"
-        },
-        {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
-        }
-      ],
-      "duration_ms": 154015,
-      "name": "Le Jaa",
-      "url": "https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr"
-    },
-    {
-      "added_at": "2026-06-19 05:52:28",
-      "album": {
         "name": "Saanware Aijaiyo",
         "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 234713,
       "name": "Saanware Aijaiyo",
       "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
+    },
+    {
+      "added_at": "2026-06-19 05:52:28",
+      "album": {
+        "name": "Le Jaa",
+        "url": "https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA"
+      },
+      "artists": [
+        {
+          "name": "Adeetiiya",
+          "url": "https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s"
+        },
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "duration_ms": 154015,
+      "name": "Le Jaa",
+      "url": "https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr"
     },
     {
       "added_at": "2026-06-19 05:52:28",

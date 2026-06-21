@@ -1889,6 +1889,28 @@
     },
     {
       "album": {
+        "name": "SISTER",
+        "url": "https://open.spotify.com/album/0IojfyxFQMggZW9aNCeaV7"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190222,
+      "name": "RADIO (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/648EfIeWCsM2ssgEAB3s4k"
+    },
+    {
+      "album": {
         "name": "Reason Why (feat. Kim Petras & BC Kingdom)",
         "url": "https://open.spotify.com/album/5elJWlKT79phbaxMD20WWm"
       },

@@ -1981,6 +1981,36 @@
     },
     {
       "album": {
+        "name": "Koekoek (WK Versie)",
+        "url": "https://open.spotify.com/album/7u1XkQuMbf9CvZ3s9LnM7R"
+      },
+      "artists": [
+        {
+          "name": "John De Bever",
+          "url": "https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p"
+        },
+        {
+          "name": "Wilfred Genee",
+          "url": "https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs"
+        },
+        {
+          "name": "Wesley Sneijder",
+          "url": "https://open.spotify.com/artist/23Uo7jJGqKzrIwrtkvRk2m"
+        },
+        {
+          "name": "Rafael Van der Vaart",
+          "url": "https://open.spotify.com/artist/7ExZjNH9lwOcfBeIX1WcA1"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152360,
+      "name": "Koekoek (WK Versie)",
+      "url": "https://open.spotify.com/track/1hGMqvixdI8vCT1l0lC2s7"
+    },
+    {
+      "album": {
         "name": "Kroegentocht",
         "url": "https://open.spotify.com/album/1wl7El00tpdFrdCqC8kPMP"
       },
@@ -2102,6 +2132,24 @@
       "duration_ms": 191574,
       "name": "Lang Leve De Lol",
       "url": "https://open.spotify.com/track/1Do8jxwE6zBMHinAEjvfjQ"
+    },
+    {
+      "album": {
+        "name": "Left Right (Jumbo Versie)",
+        "url": "https://open.spotify.com/album/19axvgfGtyj16UrXsum45z"
+      },
+      "artists": [
+        {
+          "name": "Snollebollekes",
+          "url": "https://open.spotify.com/artist/2DbTbUZFWbi3U3QzgJqU0V"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160443,
+      "name": "Left Right - Jumbo Versie",
+      "url": "https://open.spotify.com/track/4r55o1VkuERYfd5F2uN7vb"
     },
     {
       "album": {
@@ -2623,6 +2671,24 @@
     },
     {
       "album": {
+        "name": "Rood Wit Blauw",
+        "url": "https://open.spotify.com/album/5a2vrk2ub2kUpcPgFAYuST"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152358,
+      "name": "Rood Wit Blauw",
+      "url": "https://open.spotify.com/track/7s9qxb3GPmk62Uher0sJoS"
+    },
+    {
+      "album": {
         "name": "Ruud & Mieke",
         "url": "https://open.spotify.com/album/5ACmcbFkvQUNmthG07qRBw"
       },
@@ -2730,6 +2796,28 @@
       "duration_ms": 154627,
       "name": "Sparen Voor De Nacht",
       "url": "https://open.spotify.com/track/44vgHjyTTFdOe0F01MhPir"
+    },
+    {
+      "album": {
+        "name": "Speedy Gonzales",
+        "url": "https://open.spotify.com/album/7uRpTmaN3tQ11c2T3wOsLD"
+      },
+      "artists": [
+        {
+          "name": "Bonte Carlo",
+          "url": "https://open.spotify.com/artist/3mnbX3HtlkbxMRIhSDLa1M"
+        },
+        {
+          "name": "Jeffrey Parmentier",
+          "url": "https://open.spotify.com/artist/0nGVFnSCZQDPf0hflywur0"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Speedy Gonzales",
+      "url": "https://open.spotify.com/track/452qliBRnC3wfHTngLg6Ka"
     },
     {
       "album": {
@@ -3199,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "Echt Niet Normaal!",
+        "url": "https://open.spotify.com/album/3YiSpWbD5hdbQxn9U7WUnh"
+      },
+      "artists": [
+        {
+          "name": "Wolter Kroes",
+          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170346,
+      "name": "Viva Hollandia",
+      "url": "https://open.spotify.com/track/0VCYoWWceUxg1jRwlPMBbv"
+    },
+    {
+      "album": {
         "name": "Waar Blijf Je Nou",
         "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
       },
@@ -3378,6 +3484,64 @@
       "duration_ms": 151714,
       "name": "Wereldwonder",
       "url": "https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU"
+    },
+    {
+      "album": {
+        "name": "Liefde, Leven, Geven",
+        "url": "https://open.spotify.com/album/2qiU6dDOf76eL1Py7zfqvi"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "Wij Houden Van Oranje",
+      "url": "https://open.spotify.com/track/7q6rFtxqkfGv3VtL1BqjMe"
+    },
+    {
+      "album": {
+        "name": "Wij zijn Oranje",
+        "url": "https://open.spotify.com/album/3bgZCShTUxIfuyFNehsajA"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        },
+        {
+          "name": "Harry Vermeegen",
+          "url": "https://open.spotify.com/artist/4OnBG3UxkyiX0Lgg9ELnU6"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158413,
+      "name": "Wij zijn Oranje",
+      "url": "https://open.spotify.com/track/06MCLA5xarilREknQgk1x7"
+    },
+    {
+      "album": {
+        "name": "Wij Zijn Oranje",
+        "url": "https://open.spotify.com/album/61dZNKlLXaWq8d1TDqj453"
+      },
+      "artists": [
+        {
+          "name": "Vinzzent",
+          "url": "https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172027,
+      "name": "Wij Zijn Oranje",
+      "url": "https://open.spotify.com/track/75Lts239jPbcMdW0jCzTsL"
     },
     {
       "album": {

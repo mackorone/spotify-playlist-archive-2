@@ -4,7 +4,7 @@
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-85 songs - 4 hr 26 min
+86 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 | 2024-10-20 |  |
 | [Sed de Acción \- Re\-versión](https://open.spotify.com/track/4c7GjdSskBPh6drENlszMY) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Sed de Acción Con Carolina Ross \(Re\-versión\)](https://open.spotify.com/album/6LBOwIpVw50EltrrnZqRAN) | 3:33 | 2025-09-16 | 2025-10-11 |
 | [Si Tú Quisieras](https://open.spotify.com/track/0stFNtovTjxUl4d6YS8iWQ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:23 | 2024-10-20 |  |
-| [Sin Plan B](https://open.spotify.com/track/0l2UZXjizWAHzdI8w64RV0) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Sin Plan B](https://open.spotify.com/album/7h1x794Hla1SRPGMvf2ve1) | 3:07 | 2025-09-05 |  |
+| [Sin Plan B](https://open.spotify.com/track/0l2UZXjizWAHzdI8w64RV0) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Sin Plan B](https://open.spotify.com/album/7h1x794Hla1SRPGMvf2ve1) | 3:07 | 2025-09-05 | 2026-06-21 |
+| [Sin Plan B](https://open.spotify.com/track/6wEzspgToSQT9zBzDWIThd) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Donde Quiero Estar](https://open.spotify.com/album/6w0nW1QepJjE6wlDD3FQFd) | 3:07 | 2026-06-21 |  |
 | [Sobrevivir](https://open.spotify.com/track/2e8BFnEIvvcCF2SW85cOst) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:01 | 2024-10-20 | 2025-09-17 |
 | [Soy](https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:07 | 2023-03-24 | 2026-04-16 |
 | [Tibio](https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 | 2023-03-24 |  |

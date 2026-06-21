@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 230087,
       "name": "Andersom (feat. Boef)",
       "url": "https://open.spotify.com/track/5kYM2ac4h8SDGyoT6O7Q0i"
@@ -4628,7 +4628,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 140782,
       "name": "Baila de Gasolina",
       "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
@@ -10666,7 +10666,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 134692,
       "name": "De Leeuw Komt Eraan",
       "url": "https://open.spotify.com/track/28GAHI5g37JbdtdwcTyfI7"
@@ -14272,7 +14272,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 221958,
       "name": "expectations",
       "url": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT"
@@ -19786,7 +19786,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 223013,
       "name": "honeybee",
       "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
@@ -22166,7 +22166,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
@@ -28646,7 +28646,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
@@ -29570,7 +29570,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 147367,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
@@ -33956,6 +33956,32 @@
       "duration_ms": 205498,
       "name": "Pakken Grof",
       "url": "https://open.spotify.com/track/6xRsuqHrhJu1V6KzshrjOW"
+    },
+    {
+      "album": {
+        "name": "Pakt Mij",
+        "url": "https://open.spotify.com/album/1KaoBUwB2I3VyJxgYvyEAZ"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        },
+        {
+          "name": "De Amsterdamse Zomer",
+          "url": "https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164653,
+      "name": "Pakt Mij",
+      "url": "https://open.spotify.com/track/7quqA00qtOBWoTcYJ2nLME"
     },
     {
       "album": {
@@ -46986,7 +47012,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 178432,
       "name": "Waar Blijf Je Nou",
       "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"

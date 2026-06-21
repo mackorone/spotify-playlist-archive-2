@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 
 > Our Rock editors' picks of the very best rock, alternative, metal and punk songs of last month\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,720 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,760 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

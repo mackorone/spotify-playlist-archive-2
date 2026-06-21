@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2484361,
+  "num_followers": 2484538,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,26 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "Can't Deny It",
+        "url": "https://open.spotify.com/album/2tYGrcqUZ1OASP2vMwDfBJ"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Spriitzz",
+          "url": "https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "Can't Deny It",
+      "url": "https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "Rule The World (Everybody)",
         "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 172500,
       "name": "Rule The World (Everybody)",
       "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
-        "name": "Can't Deny It",
-        "url": "https://open.spotify.com/album/2tYGrcqUZ1OASP2vMwDfBJ"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "Spriitzz",
-          "url": "https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "Can't Deny It",
-      "url": "https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -707,6 +707,26 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "Dancing Feet (feat. DNCE)",
+        "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 215203,
+      "name": "Dancing Feet (feat. DNCE)",
+      "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 157205,
       "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
-        "name": "Dancing Feet (feat. DNCE)",
-        "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 215203,
-      "name": "Dancing Feet (feat. DNCE)",
-      "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -967,6 +967,26 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Uffie",
+          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "Listen To Me",
         "url": "https://open.spotify.com/album/0lJlw16y8q0tfo9P6uZu5w"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 162214,
       "name": "Listen To Me",
       "url": "https://open.spotify.com/track/3fPXv60Pp9jLGYrjd1RoNd"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
-        "name": "Serotonin Moonbeams",
-        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Uffie",
-          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Serotonin Moonbeams",
-      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/06YNty6N97umwjZFABQnvn"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 230465,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "We Are Family",
         "url": "https://open.spotify.com/album/7xIWzkfjtty0GSWvD53ttB"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 153750,
       "name": "We Are Family",
       "url": "https://open.spotify.com/track/0XxPbVN8z9kyqarkrsl43J"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/06YNty6N97umwjZFABQnvn"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 230465,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 164885,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "Chills (Feel My Love)",
         "url": "https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 163666,
       "name": "Chills (Feel My Love)",
       "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 164885,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Good Feeling (feat. Rhys Lewis)",
-        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 214942,
-      "name": "Good Feeling (feat. Rhys Lewis)",
-      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "Pyramids",
         "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 232682,
       "name": "Pyramids",
       "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "Good Feeling (feat. Rhys Lewis)",
+        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 214942,
+      "name": "Good Feeling (feat. Rhys Lewis)",
+      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/0eVbfgaX5oyxgUMJ6hqf1v"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "Lucky (feat. Remi Wolf)",
         "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 127380,
       "name": "Lucky (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/0eVbfgaX5oyxgUMJ6hqf1v"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -2391,22 +2391,18 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Sunday Best",
-        "url": "https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe"
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
       },
       "artists": [
         {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
         }
       ],
-      "duration_ms": 171990,
-      "name": "Sunday Best",
-      "url": "https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n"
+      "duration_ms": 172867,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -2431,6 +2427,26 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "Sunday Best",
+        "url": "https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 171990,
+      "name": "Sunday Best",
+      "url": "https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/0weLliC8lL49CoiBpc6ieC"
       },
@@ -2443,22 +2459,6 @@
       "duration_ms": 167244,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/3EnPWB9QR0PyYV6Oey8si9"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
-      },
-      "artists": [
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        }
-      ],
-      "duration_ms": 172867,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "In It",
-        "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
-      },
-      "artists": [
-        {
-          "name": "Selena Faider",
-          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
-        }
-      ],
-      "duration_ms": 190952,
-      "name": "In It",
-      "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "Anemoia",
         "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
       },
@@ -2519,22 +2503,18 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "CHOOSE LOVE",
-        "url": "https://open.spotify.com/album/52YEViScMbvzOz7m27uUcT"
+        "name": "In It",
+        "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
       },
       "artists": [
         {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "Marlo Rex",
-          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
         }
       ],
-      "duration_ms": 166932,
-      "name": "CHOOSE LOVE",
-      "url": "https://open.spotify.com/track/2a7II5mNH3OkrRroCYWeri"
+      "duration_ms": 190952,
+      "name": "In It",
+      "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -2555,6 +2535,26 @@
       "duration_ms": 192034,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/1Hh1XYNF1OUOEShv5STkWJ"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "CHOOSE LOVE",
+        "url": "https://open.spotify.com/album/52YEViScMbvzOz7m27uUcT"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "Marlo Rex",
+          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+        }
+      ],
+      "duration_ms": 166932,
+      "name": "CHOOSE LOVE",
+      "url": "https://open.spotify.com/track/2a7II5mNH3OkrRroCYWeri"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -2599,6 +2599,30 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "So True",
+        "url": "https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt"
+      },
+      "artists": [
+        {
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        },
+        {
+          "name": "Laura Davie",
+          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
+        },
+        {
+          "name": "Lewis John",
+          "url": "https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb"
+        }
+      ],
+      "duration_ms": 163064,
+      "name": "So True",
+      "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "Zou bisou bisou",
         "url": "https://open.spotify.com/album/5CqrmtrA9zFl9N0dF7GvRe"
       },
@@ -2635,30 +2659,6 @@
       "duration_ms": 221683,
       "name": "THIS IS FOR YOU (feat. Niki & the Dove)",
       "url": "https://open.spotify.com/track/2EY0iypCKjix9tBeaGvm03"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
-        "name": "So True",
-        "url": "https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt"
-      },
-      "artists": [
-        {
-          "name": "Selena Faider",
-          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
-        },
-        {
-          "name": "Laura Davie",
-          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
-        },
-        {
-          "name": "Lewis John",
-          "url": "https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb"
-        }
-      ],
-      "duration_ms": 163064,
-      "name": "So True",
-      "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
     },
     {
       "added_at": "2026-06-08 19:50:59",

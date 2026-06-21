@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Foo Fighters",
-  "num_followers": 77264,
+  "num_followers": 77267,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGhgJNz7vvBME/tLi70BpPDMjflH",
+  "snapshot_id": "AAAAAAWo0TTodKu6Z/rvAWtc3T3IIbhj",
   "tracks": [
     {
       "added_at": "2026-06-12 16:24:20",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-06-12 16:24:20",
       "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 145147,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
+    },
+    {
+      "added_at": "2026-06-12 16:24:20",
+      "album": {
         "name": "Sacred Hearts Club",
         "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2026-06-12 16:24:20",
       "album": {
-        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
-    },
-    {
-      "added_at": "2026-06-12 16:24:20",
-      "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "added_at": "2026-06-12 16:24:20",
+      "album": {
+        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
     },
     {
       "added_at": "2026-06-12 16:24:20",
@@ -535,22 +551,6 @@
       "duration_ms": 288036,
       "name": "My Demons",
       "url": "https://open.spotify.com/track/3Xfg7AegXaDLoD5GOUMf2e"
-    },
-    {
-      "added_at": "2026-06-12 16:24:20",
-      "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 145147,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
     },
     {
       "added_at": "2026-06-12 16:24:20",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-06-12 16:24:20",
       "album": {
-        "name": "Blood // Water",
-        "url": "https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy"
+        "name": "Every Where Is Some Where",
+        "url": "https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr"
       },
       "artists": [
         {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
         }
       ],
-      "duration_ms": 216720,
-      "name": "Blood // Water",
-      "url": "https://open.spotify.com/track/0AUyNF6iFxMNQsNx2nhtrw"
+      "duration_ms": 231600,
+      "name": "High Enough",
+      "url": "https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2"
     },
     {
       "added_at": "2026-06-12 16:24:20",
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-06-12 16:24:20",
       "album": {
-        "name": "Every Where Is Some Where",
-        "url": "https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr"
+        "name": "Blood // Water",
+        "url": "https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy"
       },
       "artists": [
         {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
         }
       ],
-      "duration_ms": 231600,
-      "name": "High Enough",
-      "url": "https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2"
+      "duration_ms": 216720,
+      "name": "Blood // Water",
+      "url": "https://open.spotify.com/track/0AUyNF6iFxMNQsNx2nhtrw"
     },
     {
       "added_at": "2026-06-12 16:24:20",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-06-12 16:24:20",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "Mountain at My Gates",
-      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
-    },
-    {
-      "added_at": "2026-06-12 16:24:20",
-      "album": {
         "name": "Wasting Light",
         "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 257376,
       "name": "Walk",
       "url": "https://open.spotify.com/track/76Je5Wklky23mVoxiRszcN"
+    },
+    {
+      "added_at": "2026-06-12 16:24:20",
+      "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "Mountain at My Gates",
+      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
     },
     {
       "added_at": "2026-06-12 16:24:20",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-06-12 16:24:20",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
-    },
-    {
-      "added_at": "2026-06-12 16:24:20",
-      "album": {
         "name": "Servant Of The Mind (Deluxe)",
         "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 267826,
       "name": "Shotgun Blues",
       "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
+    },
+    {
+      "added_at": "2026-06-12 16:24:20",
+      "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
     },
     {
       "added_at": "2026-06-12 16:24:20",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-06-12 16:24:20",
       "album": {
-        "name": "Getting Killed",
-        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 224824,
-      "name": "Trinidad",
-      "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
-    },
-    {
-      "added_at": "2026-06-12 16:24:20",
-      "album": {
         "name": "sTraNgeRs",
         "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 195747,
       "name": "sTraNgeRs",
       "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
+    },
+    {
+      "added_at": "2026-06-12 16:24:20",
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 224824,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
     },
     {
       "added_at": "2026-06-12 16:24:20",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-06-12 16:24:20",
       "album": {
-        "name": "Where the Shadow Ends",
-        "url": "https://open.spotify.com/album/5JV9WVTMzKobLw2rbs2FDY"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Someone to You",
-      "url": "https://open.spotify.com/track/2amiYVWBp4ixa2Ja7ix5cx"
-    },
-    {
-      "added_at": "2026-06-12 16:24:20",
-      "album": {
         "name": "Crisis of Faith",
         "url": "https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 204076,
       "name": "Reckless Paradise",
       "url": "https://open.spotify.com/track/78RNxc9EMBSlv5yWIOjIzs"
+    },
+    {
+      "added_at": "2026-06-12 16:24:20",
+      "album": {
+        "name": "Where the Shadow Ends",
+        "url": "https://open.spotify.com/album/5JV9WVTMzKobLw2rbs2FDY"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Someone to You",
+      "url": "https://open.spotify.com/track/2amiYVWBp4ixa2Ja7ix5cx"
     },
     {
       "added_at": "2026-06-12 16:24:20",

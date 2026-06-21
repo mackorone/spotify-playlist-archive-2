@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Rod Melim
 
-952 songs - 1 day 23 hr 37 min
+953 songs - 1 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -684,7 +684,7 @@
 | [Prova De Amor](https://open.spotify.com/track/1bu9s8cHlqaezKvkmFJhNj) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Prova De Amor](https://open.spotify.com/album/4eYmX2aA4FDuWFegpIt1tE) | 3:05 | 2022-12-02 | 2023-03-25 |
 | [Pudim](https://open.spotify.com/track/6bAnkRCGOX7g5rT8WN5eci) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Brisa De Domingo](https://open.spotify.com/album/2Sey9AZyNtW7By104l6yTN) | 3:02 | 2024-12-23 | 2025-02-14 |
 | [putz](https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [putz](https://open.spotify.com/album/4jHIJVCbtAKEfvLg9gbdxl) | 1:48 | 2024-03-01 | 2024-05-11 |
-| [Pôr Do Sol Avisa](https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Pôr Do Sol Avisa](https://open.spotify.com/album/5iA2tzeH3oY00TtCvPbNYS) | 2:25 | 2025-12-12 |  |
+| [Pôr Do Sol Avisa](https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Pôr Do Sol Avisa](https://open.spotify.com/album/5iA2tzeH3oY00TtCvPbNYS) | 2:25 | 2025-12-12 | 2026-06-21 |
 | [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 | 2022-08-01 | 2023-01-28 |
 | [Quando](https://open.spotify.com/track/1hzBmDY92rHMRkWpydY120) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Quando](https://open.spotify.com/album/2iwPRtSrvVoBU9VpAeylfY) | 3:14 | 2022-11-18 | 2023-01-28 |
 | [Quando a Gente Existe](https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Quando a Gente Existe](https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5) | 3:24 | 2024-06-07 | 2024-10-12 |
@@ -748,6 +748,7 @@
 | [se for pra ser](https://open.spotify.com/track/125V81LGC3wVXjRhnb6mXr) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [se for pra ser](https://open.spotify.com/album/4lgDyBawg2FC6h3Jl2AMJ2) | 3:19 | 2023-12-15 | 2024-02-10 |
 | [SE JOGA](https://open.spotify.com/track/4OTfgTNwIXnAgcAYjb5Wqg) | [zawa](https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0), [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [SE JOGA](https://open.spotify.com/album/6XdllQEkShHSrhyzeEqJ8B) | 2:49 | 2023-09-01 | 2023-10-21 |
 | [Se Me Ver](https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Se Me Ver](https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T) | 2:55 | 2023-09-22 | 2024-08-31 |
+| [Se Namorar \- Ao vivo](https://open.spotify.com/track/59Miiv3WtpyPR3OyCkDUps) | [Ivo Mozart](https://open.spotify.com/artist/4yTuL3DV58ipi2dn3up6ny), [Casa da Canção](https://open.spotify.com/artist/5uZiWBY2TGLqJ4CAEMLQUH) | [Se Namorar \(Ao vivo\)](https://open.spotify.com/album/6bRr2xLchKz9K8DL4QBbwJ) | 2:16 | 2026-06-19 |  |
 | [Se Sêsse](https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj) | [Se Sêsse](https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA) | 2:51 | 2023-02-03 | 2023-07-22 |
 | [Se Um Dia Chorei](https://open.spotify.com/track/5dpNzysolHR2xCJKj4VCWZ) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Especiarias \- Ato I](https://open.spotify.com/album/5Rw3dZWSJklE8o8k6iVRnG) | 2:41 | 2025-10-03 | 2025-12-12 |
 | [Se Você Quiser \(Versão\)](https://open.spotify.com/track/7FDk8EX3fuUsSDVbS4gIB3) | [Joe Caetano](https://open.spotify.com/artist/0hUnMWEMD2Om6juG3dBJTE), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w), [Cabes](https://open.spotify.com/artist/00RYM1fJO6kr6Z2jOuD9BW) | [Se Você Quiser \(Versão\)](https://open.spotify.com/album/6373SGgFo7W2hyKe4oUbj4) | 2:42 | 2024-10-18 | 2025-01-18 |

@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 115216,
+  "num_followers": 115229,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-06-11 22:02:56",
       "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4Ls53fBNVfaXTROBi6X8Hw"
-    },
-    {
-      "added_at": "2026-06-11 22:02:56",
-      "album": {
         "name": "AYAYAY",
         "url": "https://open.spotify.com/album/3TV20ouePm2YUPAMSj4C0n"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 146250,
       "name": "AYAYAY",
       "url": "https://open.spotify.com/track/3xPMN6Ojy4uV0jicQf5dYZ"
+    },
+    {
+      "added_at": "2026-06-11 22:02:56",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4Ls53fBNVfaXTROBi6X8Hw"
     },
     {
       "added_at": "2026-06-11 22:02:56",
@@ -323,26 +323,6 @@
     {
       "added_at": "2026-06-11 22:02:56",
       "album": {
-        "name": "RYAN TED",
-        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 124464,
-      "name": "Felpa Nera (feat. ANNA)",
-      "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
-    },
-    {
-      "added_at": "2026-06-11 22:02:56",
-      "album": {
         "name": "VETRI NERI",
         "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 226906,
       "name": "NEON",
       "url": "https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak"
+    },
+    {
+      "added_at": "2026-06-11 22:02:56",
+      "album": {
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 124464,
+      "name": "Felpa Nera (feat. ANNA)",
+      "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
     },
     {
       "added_at": "2026-06-11 22:02:56",
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-06-11 22:02:56",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "I LOVE IT (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
-    },
-    {
-      "added_at": "2026-06-11 22:02:56",
-      "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 155493,
       "name": "EL PIBE DE ORO",
       "url": "https://open.spotify.com/track/69VAE3LA7jn5rGAsdflMOS"
+    },
+    {
+      "added_at": "2026-06-11 22:02:56",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "I LOVE IT (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
     },
     {
       "added_at": "2026-06-11 22:02:56",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-06-11 22:02:56",
       "album": {
-        "name": "ASPETTANDO LA BELLA VITA",
-        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "ANELLI E COLLANE (feat. ANNA)",
-      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
-    },
-    {
-      "added_at": "2026-06-11 22:02:56",
-      "album": {
         "name": "SANTANA MONEY GANG",
         "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 182245,
       "name": "NON METTERCI BECCO",
       "url": "https://open.spotify.com/track/0xruiSHt6TaFZvQuGdDlJV"
+    },
+    {
+      "added_at": "2026-06-11 22:02:56",
+      "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "ANELLI E COLLANE (feat. ANNA)",
+      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
       "added_at": "2026-06-11 22:02:56",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-06-11 22:02:56",
       "album": {
-        "name": "WAO",
-        "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
-      },
-      "artists": [
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        },
-        {
-          "name": "Blssd",
-          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
-        }
-      ],
-      "duration_ms": 149464,
-      "name": "WAO",
-      "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
-    },
-    {
-      "added_at": "2026-06-11 22:02:56",
-      "album": {
         "name": "BAMBOLA (feat. Niky Savage)",
         "url": "https://open.spotify.com/album/3M3ROZK07jqgSacqr6gcyX"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 194693,
       "name": "BAMBOLA (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/62OO2X47vPk5WxTx68HDqg"
+    },
+    {
+      "added_at": "2026-06-11 22:02:56",
+      "album": {
+        "name": "WAO",
+        "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        }
+      ],
+      "duration_ms": 149464,
+      "name": "WAO",
+      "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
     },
     {
       "added_at": "2026-06-11 22:02:56",
@@ -1407,6 +1407,38 @@
     {
       "added_at": "2026-06-11 22:02:56",
       "album": {
+        "name": "I CAN FLY",
+        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
+    },
+    {
+      "added_at": "2026-06-11 22:02:56",
+      "album": {
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+    },
+    {
+      "added_at": "2026-06-11 22:02:56",
+      "album": {
         "name": "PLC tape 1",
         "url": "https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF"
       },
@@ -1431,38 +1463,6 @@
       "duration_ms": 178721,
       "name": "MALA (feat. Lazza, Tony Effe, Juli)",
       "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
-    },
-    {
-      "added_at": "2026-06-11 22:02:56",
-      "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
-    },
-    {
-      "added_at": "2026-06-11 22:02:56",
-      "album": {
-        "name": "I CAN FLY",
-        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "I CAN FLY",
-      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
     },
     {
       "added_at": "2026-06-11 22:02:56",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-06-11 22:02:56",
       "album": {
-        "name": "Haribo",
-        "url": "https://open.spotify.com/album/033qgPue0caWczYCMdcfFa"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 136633,
-      "name": "Haribo",
-      "url": "https://open.spotify.com/track/1DiQcyWAklUoTLmBVVvTU6"
-    },
-    {
-      "added_at": "2026-06-11 22:02:56",
-      "album": {
         "name": "Glory Days EP",
         "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 222968,
       "name": "Blueface (feat. Izi, Tedua)",
       "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
+    },
+    {
+      "added_at": "2026-06-11 22:02:56",
+      "album": {
+        "name": "Haribo",
+        "url": "https://open.spotify.com/album/033qgPue0caWczYCMdcfFa"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 136633,
+      "name": "Haribo",
+      "url": "https://open.spotify.com/track/1DiQcyWAklUoTLmBVVvTU6"
     },
     {
       "added_at": "2026-06-11 22:02:56",

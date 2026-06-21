@@ -1,6 +1,6 @@
 {
   "description": "L'unica party playlist di cui hai bisogno, sempre aggiornata \ud83c\udf7e Top hit italiane e internazionali! ",
-  "num_followers": 342608,
+  "num_followers": 342640,
   "original_name": "Party 2026",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-04-06 10:29:12",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
-    },
-    {
-      "added_at": "2026-04-06 10:29:12",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2026-04-06 10:29:12",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2026-04-06 10:29:12",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2026-04-06 10:29:12",
       "album": {
-        "name": "Bam Bam (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 205604,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2026-04-06 10:29:12",
-      "album": {
         "name": "All Around The World (La La La)",
         "url": "https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp"
+    },
+    {
+      "added_at": "2026-04-06 10:29:12",
+      "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 205604,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "added_at": "2026-04-06 10:29:12",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-04-06 10:29:12",
       "album": {
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
+    },
+    {
+      "added_at": "2026-04-06 10:29:12",
+      "album": {
         "name": "Tell Me Why (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 171428,
       "name": "Tell Me Why - MEDUZA Remix",
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
-    },
-    {
-      "added_at": "2026-04-06 10:29:12",
-      "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
       "added_at": "2026-04-06 10:29:12",
@@ -1915,6 +1915,30 @@
     {
       "added_at": "2026-04-06 10:29:12",
       "album": {
+        "name": "VETRI NERI",
+        "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
+      },
+      "artists": [
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "VETRI NERI",
+      "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
+    },
+    {
+      "added_at": "2026-04-06 10:29:12",
+      "album": {
         "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
       },
@@ -1943,30 +1967,6 @@
     {
       "added_at": "2026-04-06 10:29:12",
       "album": {
-        "name": "VETRI NERI",
-        "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
-      },
-      "artists": [
-        {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "VETRI NERI",
-      "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
-    },
-    {
-      "added_at": "2026-04-06 10:29:12",
-      "album": {
         "name": "Pepas (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ"
       },
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2026-04-06 10:29:12",
       "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Greg Taro",
-          "url": "https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U"
-        }
-      ],
-      "duration_ms": 121417,
-      "name": "Exotica",
-      "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
-    },
-    {
-      "added_at": "2026-04-06 10:29:12",
-      "album": {
         "name": "SEXY RAVE (feat. Baby Gang)",
         "url": "https://open.spotify.com/album/0Rqdxqcqq0wKQISWQwGLT1"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 140160,
       "name": "SEXY RAVE (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/7ue5uvozLbamg0rjS65FeT"
+    },
+    {
+      "added_at": "2026-04-06 10:29:12",
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Greg Taro",
+          "url": "https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U"
+        }
+      ],
+      "duration_ms": 121417,
+      "name": "Exotica",
+      "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
     },
     {
       "added_at": "2026-04-06 10:29:12",

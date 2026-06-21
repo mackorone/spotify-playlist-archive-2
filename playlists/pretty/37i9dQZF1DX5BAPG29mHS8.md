@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 
 > Los hits de ahora en la playlist más grande de México\. Maná en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,017,967 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,017,452 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 | 20 | [Todo Lo Fue](https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:12 |
 | 21 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
 | 22 | [OSADÍA](https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [OSADÍA](https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT) | 3:26 |
-| 23 | [Tu y Yo](https://open.spotify.com/track/0fZbQRMzIkltayJ8FhOFtH) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Tu y Yo](https://open.spotify.com/album/0nqwBPLrl4DZ3NsjyTV0aH) | 3:13 |
+| 23 | [TU Y YO](https://open.spotify.com/track/0fZbQRMzIkltayJ8FhOFtH) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [TU Y YO](https://open.spotify.com/album/0nqwBPLrl4DZ3NsjyTV0aH) | 3:13 |
 | 24 | [Todo va Bien](https://open.spotify.com/track/4lVjokY2PSvcb0JTs5Tess) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Nunca Voy a Morir](https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy) | 2:34 |
 | 25 | [TÓXICOS](https://open.spotify.com/track/6wHkuPGYXCiURrF56PUuJi) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ETERNO](https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7) | 3:03 |
 | 26 | [Sapo](https://open.spotify.com/track/7KXVftJBnB4YZOnU6uPlqU) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sapo](https://open.spotify.com/album/7FkC78MOjfdeGni8AnMjei) | 3:54 |

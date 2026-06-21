@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,234,655 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,724 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Soldier Like Me](https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:50 |
 | 50 | [Living in Pain \(feat\. 2Pac, Mary J\. Blige & Nas\)](https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Duets: The Final Chapter](https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG) | 4:01 |
 
-Snapshot ID: `ajM1AAAAAAARPAsxxPwZUH7NqCMc6uRy`
+Snapshot ID: `ajSGgAAAAACQT5Y3XSXjKw6XPRpnEIBK`

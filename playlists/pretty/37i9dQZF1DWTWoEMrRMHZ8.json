@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
-  "num_followers": 355527,
+  "num_followers": 355514,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
+        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
+        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 266302,
+      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
+      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
         "name": "FLOR DA PELE",
         "url": "https://open.spotify.com/album/4RBRXwprXLVZJ5pMRrcbcG"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 163637,
       "name": "PESSOA PREFERIDA",
       "url": "https://open.spotify.com/track/5bsrJWraAOL6pHpZ9khD6N"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
-        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
-        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 266302,
-      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
-      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "Vera Cruz",
-        "url": "https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Vera Cruz",
-      "url": "https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
         "name": "Sembal",
         "url": "https://open.spotify.com/album/3jb0i7cPqumhnn9vSJRLiy"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 212853,
       "name": "Sembal",
       "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "Vera Cruz",
+        "url": "https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Vera Cruz",
+      "url": "https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "Depois do Breu",
-        "url": "https://open.spotify.com/album/2ZzOd4RWiJUBjRwsMoqsY7"
-      },
-      "artists": [
-        {
-          "name": "Juliana Linhares",
-          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
-        }
-      ],
-      "duration_ms": 250851,
-      "name": "Depois do Breu",
-      "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
         "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
         "url": "https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 223421,
       "name": "Saudades, Elder",
       "url": "https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "Depois do Breu",
+        "url": "https://open.spotify.com/album/2ZzOd4RWiJUBjRwsMoqsY7"
+      },
+      "artists": [
+        {
+          "name": "Juliana Linhares",
+          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
+        }
+      ],
+      "duration_ms": 250851,
+      "name": "Depois do Breu",
+      "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "Agudo Grave",
-        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        }
-      ],
-      "duration_ms": 190873,
-      "name": "Agudo Grave",
-      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
         "name": "Me Quedo Por Ti",
         "url": "https://open.spotify.com/album/1K6yA4zSBJJcG1WjmOGgTq"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 235238,
       "name": "Me Quedo Por Ti",
       "url": "https://open.spotify.com/track/2D3ZBmZU1ue8I5NcuU4frk"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "Agudo Grave",
+        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        }
+      ],
+      "duration_ms": 190873,
+      "name": "Agudo Grave",
+      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -987,6 +987,22 @@
       "duration_ms": 221684,
       "name": "Entre Amores e Danos",
       "url": "https://open.spotify.com/track/7dI4arfkb8h4yQKLVlkrBH"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "Minha Casa",
+        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        }
+      ],
+      "duration_ms": 200632,
+      "name": "Noite Severina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -1027,22 +1043,6 @@
       "duration_ms": 236000,
       "name": "Mais Simples",
       "url": "https://open.spotify.com/track/24keqRUA9bXehN7dkulmT3"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
-        "name": "Minha Casa",
-        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 200632,
-      "name": "Noite Severina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
     },
     {
       "added_at": "2026-06-17 12:55:23",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-06-17 12:55:23",
       "album": {
-        "name": "\u00c1gua na Boca",
-        "url": "https://open.spotify.com/album/24GviqykHxMtcO4B8fIJIM"
-      },
-      "artists": [
-        {
-          "name": "Marina Liori",
-          "url": "https://open.spotify.com/artist/7BFod5BXdWmmMuzQ6DDa5I"
-        },
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS"
-        }
-      ],
-      "duration_ms": 164708,
-      "name": "\u00c1gua na Boca",
-      "url": "https://open.spotify.com/track/7G6295CruG9k0omMKKn21Z"
-    },
-    {
-      "added_at": "2026-06-17 12:55:23",
-      "album": {
         "name": "Garotos II (Ao Vivo)",
         "url": "https://open.spotify.com/album/7zY74hy1FpTWzsHo6zCVEw"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 236061,
       "name": "Garotos II - Ao Vivo",
       "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
+    },
+    {
+      "added_at": "2026-06-17 12:55:23",
+      "album": {
+        "name": "\u00c1gua na Boca",
+        "url": "https://open.spotify.com/album/24GviqykHxMtcO4B8fIJIM"
+      },
+      "artists": [
+        {
+          "name": "Marina Liori",
+          "url": "https://open.spotify.com/artist/7BFod5BXdWmmMuzQ6DDa5I"
+        },
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS"
+        }
+      ],
+      "duration_ms": 164708,
+      "name": "\u00c1gua na Boca",
+      "url": "https://open.spotify.com/track/7G6295CruG9k0omMKKn21Z"
     },
     {
       "added_at": "2026-06-17 12:55:23",

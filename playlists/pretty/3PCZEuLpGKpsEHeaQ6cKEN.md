@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 258,848 likes - 425 songs - 22 hr 18 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 258,828 likes - 425 songs - 22 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

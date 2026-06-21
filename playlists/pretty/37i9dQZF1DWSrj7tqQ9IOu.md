@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,195 likes - 35 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,169 likes - 35 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 12 | [La Cumbia De Virgil](https://open.spotify.com/track/2r9OniMnG9dXIPCvLtjuwf) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [La Cumbia De Virgil](https://open.spotify.com/album/725hLNSjmqBjOIYPG89hN3) | 2:36 |
 | 13 | [lts here](https://open.spotify.com/track/1KpkbuhBrbk3e9hO8xFWjL) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Easy EP](https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH) | 2:34 |
 | 14 | [FOMO](https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Map Of Her Shadow](https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW) | 3:01 |
-| 15 | [Wide Eyed](https://open.spotify.com/track/62PpNCrIep6clOAMg2gKt7) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Wide Eyed](https://open.spotify.com/album/2PxLh2WHZRf4JOmxr1MHYn) | 3:22 |
-| 16 | [Autodéfense](https://open.spotify.com/track/2D7IEFxCt1DU1mac0K8yEL) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9), [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [Jeune & Laide](https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ) | 2:40 |
+| 15 | [Autodéfense](https://open.spotify.com/track/2D7IEFxCt1DU1mac0K8yEL) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9), [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [Jeune & Laide](https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ) | 2:40 |
+| 16 | [Wide Eyed](https://open.spotify.com/track/62PpNCrIep6clOAMg2gKt7) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Wide Eyed](https://open.spotify.com/album/2PxLh2WHZRf4JOmxr1MHYn) | 3:22 |
 | 17 | [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 |
 | 18 | [Yao](https://open.spotify.com/track/4MfWUAdEaVLHFM6qyLSGWb) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Yao](https://open.spotify.com/album/1XRsCJnR5qfOOkWLqyLIgX) | 3:07 |
 | 19 | [Les roses](https://open.spotify.com/track/5Ff8SOh8E69TbqLHJFHQjT) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Les roses](https://open.spotify.com/album/38jKknph0hxIEKMoaVB92i) | 4:37 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 29 | [nofuture](https://open.spotify.com/track/5q0Xh6gHDBngynqeRIjCVW) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [millénium](https://open.spotify.com/album/3zYyqINgPNfPl7YGQYMSGw) | 2:00 |
 | 30 | [The Big One](https://open.spotify.com/track/1VaeMX2S1N7PxH5aE6gwBd) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [The Big One](https://open.spotify.com/album/4UL5cSgVg7hj3cKW7H1IS6) | 3:38 |
 | 31 | [Replay](https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Replay](https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0) | 2:56 |
-| 32 | [Fire Away \(feat\. Slayyyter\)](https://open.spotify.com/track/2un4EaIKXxdVtQbO6cdYM4) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Fire Away \(feat\. Slayyyter\)](https://open.spotify.com/album/1PneNeTJUTq8ueNrXhjwQR) | 3:27 |
+| 32 | [Hula Hoop \(feat\. Tuerie\)](https://open.spotify.com/track/6C5SCWr6dl6XrPbMqweqee) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg), [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Chroniques terrestres, Vol\. 2](https://open.spotify.com/album/0KIS7MHEcUoYxmQFzsPN3T) | 3:23 |
 | 33 | [DJ Please](https://open.spotify.com/track/1u1xK8c5mC3mktwPbYzlhZ) | [Zonmai](https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU) | [DJ Please](https://open.spotify.com/album/05ji6ExwRNau8A0L70yNln) | 2:31 |
-| 34 | [Hula Hoop \(feat\. Tuerie\)](https://open.spotify.com/track/6C5SCWr6dl6XrPbMqweqee) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg), [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Chroniques terrestres, Vol\. 2](https://open.spotify.com/album/0KIS7MHEcUoYxmQFzsPN3T) | 3:23 |
+| 34 | [Fire Away \(feat\. Slayyyter\)](https://open.spotify.com/track/2un4EaIKXxdVtQbO6cdYM4) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Fire Away \(feat\. Slayyyter\)](https://open.spotify.com/album/1PneNeTJUTq8ueNrXhjwQR) | 3:27 |
 | 35 | [hardcore](https://open.spotify.com/track/4ShHkTTpQtvBhBDsAZ7HbL) | [Alvin Amaïzo](https://open.spotify.com/artist/4lhjjDpsGu9roJmU0TNlGh) | [hardcore](https://open.spotify.com/album/0JNl62tBnwsPAx8tc79zzJ) | 3:24 |
 
 Snapshot ID: `AAAAAIf6KT4BzyZ0uGrCw2M+Y5fwaej5`

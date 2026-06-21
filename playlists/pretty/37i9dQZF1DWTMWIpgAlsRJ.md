@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The Ultimate EA SPORTS FC Brazil Playlist: bringing together the sounds of Brazil in celebration of The World's Game\. Curated specially for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,000 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,975 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 42 | [Samba em Pliet](https://open.spotify.com/track/78kAZ5oDnMLV3iQEJbxZez) | [Luciana Oliveira](https://open.spotify.com/artist/14BLHqvV78OMxbuuLZCPzc) | [Pura](https://open.spotify.com/album/07OFJGulLMLuooQUnnzFGJ) | 2:34 |
 | 43 | [Solta O Frango](https://open.spotify.com/track/4zT5kYgu13nabeqThEfulB) | [Bonde Do Role](https://open.spotify.com/artist/5hpyMM40Urjie6x8vcmvsL) | [Bonde Do Role With Lasers](https://open.spotify.com/album/501ieBlWKl0qqcLiPxjKYV) | 2:15 |
 | 44 | [Beaver](https://open.spotify.com/track/6Em21HnNj06d5Sw5Codyy9) | [Holger](https://open.spotify.com/artist/27euzsPUnsiX6SutdBXti0) | [Sunga](https://open.spotify.com/album/0pxrlYTpYDGhsRgmXYvOKu) | 3:07 |
-| 45 | [Ozonio](https://open.spotify.com/track/1XUeiUC13X6cEAGYYGgmD1) | [Dom Um And Jadir De Castro](https://open.spotify.com/artist/11WJ3oGFpm1c5YRNohsgX6) | [Ginga: the Sound of Brazilian Football \(Mr Bongo presents\)](https://open.spotify.com/album/0nUAdjTmipeCkaIIShOR9s) | 2:58 |
-| 46 | [Bundalelê da Verdade](https://open.spotify.com/track/2s8PxbkkDMPeytykR3YADb) | [João Nabuco](https://open.spotify.com/artist/6621hNPzYKg1wrkA2CGvgo) | [Cinesamba Vol\. 2](https://open.spotify.com/album/6ORAY2nixGWWpdyplKTwaX) | 3:22 |
-| 47 | [Diam Riddim](https://open.spotify.com/track/3cYAF0SO8lMw2QQJy02d9s) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Waxploitation Presents: Future Sounds MMXIX](https://open.spotify.com/album/0NAtHL3j2P4xbT7e7RnDQo) | 2:47 |
-| 48 | [Zona Oeste](https://open.spotify.com/track/3VlwMKEPMiCh18ZSQK0xGN) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Zona Oeste](https://open.spotify.com/album/4Cq77GBYhNTJUiwvGa5ehy) | 3:38 |
+| 45 | [Bundalelê da Verdade](https://open.spotify.com/track/2s8PxbkkDMPeytykR3YADb) | [João Nabuco](https://open.spotify.com/artist/6621hNPzYKg1wrkA2CGvgo) | [Cinesamba Vol\. 2](https://open.spotify.com/album/6ORAY2nixGWWpdyplKTwaX) | 3:22 |
+| 46 | [Ozonio](https://open.spotify.com/track/1XUeiUC13X6cEAGYYGgmD1) | [Dom Um And Jadir De Castro](https://open.spotify.com/artist/11WJ3oGFpm1c5YRNohsgX6) | [Ginga: the Sound of Brazilian Football \(Mr Bongo presents\)](https://open.spotify.com/album/0nUAdjTmipeCkaIIShOR9s) | 2:58 |
+| 47 | [Zona Oeste](https://open.spotify.com/track/3VlwMKEPMiCh18ZSQK0xGN) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Zona Oeste](https://open.spotify.com/album/4Cq77GBYhNTJUiwvGa5ehy) | 3:38 |
+| 48 | [Diam Riddim](https://open.spotify.com/track/3cYAF0SO8lMw2QQJy02d9s) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Waxploitation Presents: Future Sounds MMXIX](https://open.spotify.com/album/0NAtHL3j2P4xbT7e7RnDQo) | 2:47 |
 | 49 | [Emoriô](https://open.spotify.com/track/4hCys2rwlk7hlEVjD7YhOn) | [Sergio Mendes & Brasil '77](https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk) | [Homecooking](https://open.spotify.com/album/5tgGFVeBKLdQG9Bo88qffs) | 3:08 |
 | 50 | [Calorzão](https://open.spotify.com/track/0qFDv5K2f5raLz8GdGCJKd) | [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Ruxell](https://open.spotify.com/artist/01afJHOJ6Lep5CFrmA5avI) | [Calorzão](https://open.spotify.com/album/3uwPZjtYIQodYvzo2HEbCH) | 2:57 |
 

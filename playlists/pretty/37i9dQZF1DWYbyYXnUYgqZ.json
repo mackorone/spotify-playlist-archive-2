@@ -1,6 +1,6 @@
 {
   "description": "Enjoy fantastic gameplay with k-pop music! (Cover: aespa)",
-  "num_followers": 175057,
+  "num_followers": 175063,
   "original_name": "K-Pop Gaming",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,18 @@
     {
       "added_at": "2026-05-29 05:16:14",
       "album": {
-        "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
-        "url": "https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL"
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 174000,
-      "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k"
+      "duration_ms": 180845,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
     },
     {
       "added_at": "2026-05-29 05:16:14",
@@ -383,18 +379,22 @@
     {
       "added_at": "2026-05-29 05:16:14",
       "album": {
-        "name": "DRIP",
-        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+        "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+        "url": "https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL"
       },
       "artists": [
         {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 180845,
-      "name": "DRIP",
-      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
+      "duration_ms": 174000,
+      "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k"
     },
     {
       "added_at": "2026-05-29 05:16:14",
@@ -431,18 +431,18 @@
     {
       "added_at": "2026-05-29 05:16:14",
       "album": {
-        "name": "FOCUS - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
+        "name": "WE GO UP",
+        "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
       },
       "artists": [
         {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 177052,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
+      "duration_ms": 195409,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/7jp2VW62Yt2bDOaRas3hR6"
     },
     {
       "added_at": "2026-05-29 05:16:14",
@@ -463,18 +463,18 @@
     {
       "added_at": "2026-05-29 05:16:14",
       "album": {
-        "name": "WE GO UP",
-        "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
+        "name": "FOCUS - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
       },
       "artists": [
         {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         }
       ],
-      "duration_ms": 195409,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/7jp2VW62Yt2bDOaRas3hR6"
+      "duration_ms": 177052,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
     },
     {
       "added_at": "2026-05-29 05:16:14",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-05-29 05:16:14",
       "album": {
+        "name": "BABYMONS7ER",
+        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 170356,
+      "name": "SHEESH",
+      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
+    },
+    {
+      "added_at": "2026-05-29 05:16:14",
+      "album": {
         "name": "THE SIN : VANISH",
         "url": "https://open.spotify.com/album/62K0QHi2SjuhMe94kfYxq3"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 195402,
       "name": "GO",
       "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
-    },
-    {
-      "added_at": "2026-05-29 05:16:14",
-      "album": {
-        "name": "BABYMONS7ER",
-        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 170356,
-      "name": "SHEESH",
-      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
     },
     {
       "added_at": "2026-05-29 05:16:14",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-05-29 05:16:14",
       "album": {
+        "name": "WE GO UP",
+        "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "WE GO UP",
+      "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
+    },
+    {
+      "added_at": "2026-05-29 05:16:14",
+      "album": {
         "name": "IT'z ME",
         "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 159000,
       "name": "Who is she",
       "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
-    },
-    {
-      "added_at": "2026-05-29 05:16:14",
-      "album": {
-        "name": "WE GO UP",
-        "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "WE GO UP",
-      "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
     },
     {
       "added_at": "2026-05-29 05:16:14",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-05-29 05:16:14",
       "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 131786,
-      "name": "Igloo",
-      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
-    },
-    {
-      "added_at": "2026-05-29 05:16:14",
-      "album": {
         "name": "SPOT!",
         "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
+    },
+    {
+      "added_at": "2026-05-29 05:16:14",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 131786,
+      "name": "Igloo",
+      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
       "added_at": "2026-05-29 05:16:14",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-05-29 05:16:14",
       "album": {
-        "name": "STAY",
-        "url": "https://open.spotify.com/album/7DNvj1SDO23YL3O4m2UlPl"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/6AYPwyxSFWIbLETZzeCO80"
-    },
-    {
-      "added_at": "2026-05-29 05:16:14",
-      "album": {
         "name": "bomb",
         "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
       },
@@ -1011,6 +995,22 @@
     {
       "added_at": "2026-05-29 05:16:14",
       "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/7DNvj1SDO23YL3O4m2UlPl"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/6AYPwyxSFWIbLETZzeCO80"
+    },
+    {
+      "added_at": "2026-05-29 05:16:14",
+      "album": {
         "name": "The Action",
         "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
       },
@@ -1023,22 +1023,6 @@
       "duration_ms": 148000,
       "name": "Hollywood Action",
       "url": "https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC"
-    },
-    {
-      "added_at": "2026-05-29 05:16:14",
-      "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
     },
     {
       "added_at": "2026-05-29 05:16:14",
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2026-05-29 05:16:14",
       "album": {
-        "name": "REVIVE+",
-        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 194171,
-      "name": "BLACKHOLE",
-      "url": "https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu"
+      "duration_ms": 199026,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
     },
     {
       "added_at": "2026-05-29 05:16:14",
@@ -1091,6 +1075,22 @@
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "added_at": "2026-05-29 05:16:14",
+      "album": {
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 194171,
+      "name": "BLACKHOLE",
+      "url": "https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu"
     },
     {
       "added_at": "2026-05-29 05:16:14",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-05-29 05:16:14",
       "album": {
-        "name": "Ice Cream",
-        "url": "https://open.spotify.com/album/39M5nhUfdu80zpwE8NI8FL"
-      },
-      "artists": [
-        {
-          "name": "YUNA",
-          "url": "https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/5JJl9DV0DAg5ekxnBSqZyO"
-    },
-    {
-      "added_at": "2026-05-29 05:16:14",
-      "album": {
         "name": "REBEL HEART",
         "url": "https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 172073,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
+    },
+    {
+      "added_at": "2026-05-29 05:16:14",
+      "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/39M5nhUfdu80zpwE8NI8FL"
+      },
+      "artists": [
+        {
+          "name": "YUNA",
+          "url": "https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/5JJl9DV0DAg5ekxnBSqZyO"
     },
     {
       "added_at": "2026-05-29 05:16:14",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-05-29 05:16:14",
       "album": {
-        "name": "Perfect Velvet - The 2nd Album",
-        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 189049,
-      "name": "Peek-A-Boo",
-      "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
-    },
-    {
-      "added_at": "2026-05-29 05:16:14",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 182000,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG"
+    },
+    {
+      "added_at": "2026-05-29 05:16:14",
+      "album": {
+        "name": "Perfect Velvet - The 2nd Album",
+        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 189049,
+      "name": "Peek-A-Boo",
+      "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
     },
     {
       "added_at": "2026-05-29 05:16:14",

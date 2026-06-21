@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > Your guide to R&B in Canada, with Dylan Sinclair from Thornhill, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,633 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,667 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rich Luv \(with Chase Shakur\)](https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Make You Feel](https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y) | 2:44 |
+| 1 | [Rich Luv](https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Make You Feel](https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y) | 2:44 |
 | 2 | [See You Again](https://open.spotify.com/track/3xy4wL1GcLWZ8VNYGfnTYf) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [See You Again](https://open.spotify.com/album/1C22AuImu7TeIpFZMlIqEv) | 2:59 |
 | 3 | [Waiting](https://open.spotify.com/track/4ZuWgH2xw0T3vbkHDGchXv) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Overture](https://open.spotify.com/album/173YEGDpbqDZ6FFd5N9oiy) | 2:46 |
 | 4 | [GIA](https://open.spotify.com/track/1ptcGWDgUZk1UHVG8NlJG1) | [Kuzi Cee](https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf) | [GIA](https://open.spotify.com/album/6Dr6gIJO5nSDOxEfxgDpf4) | 2:12 |

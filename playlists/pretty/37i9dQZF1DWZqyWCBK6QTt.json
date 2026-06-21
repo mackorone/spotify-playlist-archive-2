@@ -1,6 +1,6 @@
 {
   "description": "The songs you love, in ways you\u2019ve never heard before. Cover: AD\u00c9LA",
-  "num_followers": 488576,
+  "num_followers": 488578,
   "original_name": "Spotify Singles: Covers",
   "owner": {
     "name": "Spotify",
@@ -356,22 +356,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Waiting For Love - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3"
       },
       "artists": [
@@ -383,6 +367,22 @@
       "duration_ms": 269952,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Waiting For Love - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
     },
     {
-      "added_at": "2026-03-23 12:49:03",
-      "album": {
-        "name": "The Best of Both Worlds (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2ixVKMbXs7yUciceNEG2l9"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 180061,
-      "name": "The Best of Both Worlds - Spotify Singles",
-      "url": "https://open.spotify.com/track/0G72xBHu2lXcEAAbzo1Ehf"
-    },
-    {
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
@@ -515,6 +499,22 @@
       "duration_ms": 198293,
       "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+    },
+    {
+      "added_at": "2026-03-23 12:49:03",
+      "album": {
+        "name": "The Best of Both Worlds (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2ixVKMbXs7yUciceNEG2l9"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 180061,
+      "name": "The Best of Both Worlds - Spotify Singles",
+      "url": "https://open.spotify.com/track/0G72xBHu2lXcEAAbzo1Ehf"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-02 15:28:47",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 317106,
-      "name": "A Little Bit of Everything - Spotify Singles",
-      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
         "name": "Lay All Your Love On Me - Spotify Singles",
         "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 161125,
       "name": "Lay All Your Love On Me - Spotify Singles",
       "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 317106,
+      "name": "A Little Bit of Everything - Spotify Singles",
+      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
     },
     {
       "added_at": "2026-02-26 14:27:47",
@@ -645,22 +645,6 @@
       "url": "https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi"
     },
     {
-      "added_at": "2024-08-01 12:39:03",
-      "album": {
-        "name": "Cranes in the Sky",
-        "url": "https://open.spotify.com/album/260Kae28MIGcLpp248A869"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 268875,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
-    },
-    {
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
@@ -675,6 +659,22 @@
       "duration_ms": 149443,
       "name": "Daisy - Spotify Singles",
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+    },
+    {
+      "added_at": "2024-08-01 12:39:03",
+      "album": {
+        "name": "Cranes in the Sky",
+        "url": "https://open.spotify.com/album/260Kae28MIGcLpp248A869"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 268875,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -752,22 +752,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 154764,
-      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/7a7v27v9qrwjKBbsqrCZt9"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
       },
       "artists": [
@@ -779,6 +763,22 @@
       "duration_ms": 254834,
       "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 154764,
+      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/7a7v27v9qrwjKBbsqrCZt9"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -992,22 +992,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 117857,
-      "name": "Shot For Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
       },
       "artists": [
@@ -1019,6 +1003,22 @@
       "duration_ms": 246527,
       "name": "Hello \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 117857,
+      "name": "Shot For Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1284,22 +1284,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196772,
-      "name": "I Can't Make You Love Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
       },
       "artists": [
@@ -1311,6 +1295,22 @@
       "duration_ms": 215281,
       "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1724,22 +1724,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 206187,
-      "name": "As It Was - Spotify Singles",
-      "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
       },
       "artists": [
@@ -1767,6 +1751,22 @@
       "duration_ms": 182068,
       "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 206187,
+      "name": "As It Was - Spotify Singles",
+      "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1804,22 +1804,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 173641,
-      "name": "California Dreamin' - Spotify Singles",
-      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5s0EZrhetG2VJBPKtKtqsq"
       },
       "artists": [
@@ -1831,6 +1815,22 @@
       "duration_ms": 237880,
       "name": "The Greatest Show - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/7MhZa55xSOwyRQTsafEEjX"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1863,6 +1863,22 @@
       "duration_ms": 186600,
       "name": "Teenage Dirtbag \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU"
+    },
+    {
+      "added_at": "2023-11-08 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 302736,
+      "name": "Creep - Spotify Singles",
+      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -1901,22 +1917,6 @@
       "url": "https://open.spotify.com/track/7xQHkdNrmdGb5kh56MSoRr"
     },
     {
-      "added_at": "2023-11-08 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 302736,
-      "name": "Creep - Spotify Singles",
-      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
-    },
-    {
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
@@ -1952,22 +1952,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 319750,
-      "name": "Sign Of The Times - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
       "artists": [
@@ -1995,6 +1979,22 @@
       "duration_ms": 346397,
       "name": "Hallelujah - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -2180,22 +2180,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 145747,
-      "name": "- - Recorded at Electric Lady Studios, New York",
-      "url": "https://open.spotify.com/track/68H747D2LgwsPsPlVjFZUR"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0"
       },
       "artists": [
@@ -2207,6 +2191,22 @@
       "duration_ms": 204150,
       "name": "Wish I Didn't Miss You - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 145747,
+      "name": "- - Recorded at Electric Lady Studios, New York",
+      "url": "https://open.spotify.com/track/68H747D2LgwsPsPlVjFZUR"
     },
     {
       "added_at": "2023-10-02 15:28:47",
@@ -2276,22 +2276,6 @@
       "added_at": "2023-10-02 15:28:47",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        }
-      ],
-      "duration_ms": 205738,
-      "name": "In The Name Of Love - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi"
-    },
-    {
-      "added_at": "2023-10-02 15:28:47",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5G16B3RQcCPZ7LDVf3TwQ4"
       },
       "artists": [
@@ -2303,6 +2287,22 @@
       "duration_ms": 206579,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/4oU2j4VgtKXkYAM8xg6lrU"
+    },
+    {
+      "added_at": "2023-10-02 15:28:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        }
+      ],
+      "duration_ms": 205738,
+      "name": "In The Name Of Love - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi"
     },
     {
       "added_at": "2024-01-31 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,915 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,917 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 18 | [Who I Smoke](https://open.spotify.com/track/3093lstvMDfRjvimLc6ViU) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe), [FastMoney Goon](https://open.spotify.com/artist/6VdfJb2OJp9dbZz0t5bedv), [Whoppa Wit Da Choppa](https://open.spotify.com/artist/482lFlWgAXTKFGC8C6imWq) | [Life of Betrayal 2x](https://open.spotify.com/album/2T2cnxVLWceuy1QofrVNnn) | 2:14 |
 | 19 | [Top \(Remix\) feat\. Lil Durk](https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [In The Name Of Gee \(Still Most Hated\)](https://open.spotify.com/album/18sKqGhmvXhfhgnzu3uj0T) | 2:38 |
 | 20 | [NEVER LEFT](https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [NEVER LEFT](https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp) | 2:48 |
-| 21 | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT) | 3:51 |
-| 22 | [Free Shiest Life \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/0OruY3ybpkoHM9qG9xXbK3) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [King Of Killbranch](https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK) | 2:47 |
+| 21 | [Free Shiest Life \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/0OruY3ybpkoHM9qG9xXbK3) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [King Of Killbranch](https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK) | 2:47 |
+| 22 | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT) | 3:51 |
 | 23 | [Outside \(Better Days\)](https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [OG Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Outside \(Better Days\)](https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI) | 3:35 |
 | 24 | [Relentless \(feat\. Lil Durk\)](https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1) | [Booka600](https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Relentless \(feat\. Lil Durk\)](https://open.spotify.com/album/7805rgXmjrssqgW03U9ZTu) | 3:26 |
 | 25 | [On Go \(feat\. Polo G\)](https://open.spotify.com/track/3Ho13bRS28xEvGvgW4LOFM) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [On Go \(feat\. Polo G\)](https://open.spotify.com/album/5d1WnOlcSun3ghG0H3dV7z) | 3:00 |

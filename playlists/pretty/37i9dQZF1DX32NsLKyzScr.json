@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2597073,
+  "num_followers": 2596976,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-06-19 04:00:43",
       "album": {
-        "name": "Beautiful (with Joji)",
-        "url": "https://open.spotify.com/album/2CpahiICjXexEynp7scGe4"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "Beautiful (with Joji)",
-      "url": "https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"
-    },
-    {
-      "added_at": "2026-06-19 04:00:43",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
       },
@@ -571,18 +551,22 @@
     {
       "added_at": "2026-06-19 04:00:43",
       "album": {
-        "name": "3am",
-        "url": "https://open.spotify.com/album/4iwqQzA2I4bjGedTQjCKQV"
+        "name": "Beautiful (with Joji)",
+        "url": "https://open.spotify.com/album/2CpahiICjXexEynp7scGe4"
       },
       "artists": [
         {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 172928,
-      "name": "3am",
-      "url": "https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h"
+      "duration_ms": 215433,
+      "name": "Beautiful (with Joji)",
+      "url": "https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"
     },
     {
       "added_at": "2026-06-19 04:00:43",
@@ -603,6 +587,22 @@
       "duration_ms": 210923,
       "name": "In This Bih'",
       "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
+    },
+    {
+      "added_at": "2026-06-19 04:00:43",
+      "album": {
+        "name": "3am",
+        "url": "https://open.spotify.com/album/4iwqQzA2I4bjGedTQjCKQV"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 172928,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h"
     },
     {
       "added_at": "2026-06-19 04:00:43",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-06-19 04:00:43",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 204285,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
-    },
-    {
-      "added_at": "2026-06-19 04:00:43",
-      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
+    },
+    {
+      "added_at": "2026-06-19 04:00:43",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
     },
     {
       "added_at": "2026-06-19 04:00:43",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-06-19 04:00:43",
       "album": {
+        "name": "Going Existential In The Rave",
+        "url": "https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 187297,
+      "name": "Going Existential In The Rave",
+      "url": "https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0"
+    },
+    {
+      "added_at": "2026-06-19 04:00:43",
+      "album": {
         "name": "Ghost Dance",
         "url": "https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 372480,
       "name": "Ghost Dance",
       "url": "https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe"
-    },
-    {
-      "added_at": "2026-06-19 04:00:43",
-      "album": {
-        "name": "Going Existential In The Rave",
-        "url": "https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 187297,
-      "name": "Going Existential In The Rave",
-      "url": "https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0"
     },
     {
       "added_at": "2026-06-19 04:00:43",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2026-06-19 04:00:43",
       "album": {
+        "name": "Coming In Heavy",
+        "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "duration_ms": 231521,
+      "name": "Coming In Heavy",
+      "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
+    },
+    {
+      "added_at": "2026-06-19 04:00:43",
+      "album": {
         "name": "Lost In Time",
         "url": "https://open.spotify.com/album/1c7o9ajxJB1Cz3KuncnLDz"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 172615,
       "name": "Turn Up The Dose",
       "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
-    },
-    {
-      "added_at": "2026-06-19 04:00:43",
-      "album": {
-        "name": "Coming In Heavy",
-        "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Pan-Pot",
-          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
-        }
-      ],
-      "duration_ms": 231521,
-      "name": "Coming In Heavy",
-      "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
     },
     {
       "added_at": "2026-06-19 04:00:43",
@@ -1815,6 +1815,30 @@
     {
       "added_at": "2026-06-19 04:00:43",
       "album": {
+        "name": "Don't Want Your Love (R\u00d8Z Remix)",
+        "url": "https://open.spotify.com/album/3xrbpZqyJXzxyJeo6kI7DZ"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 163555,
+      "name": "Don't Want Your Love - R\u00d8Z Remix",
+      "url": "https://open.spotify.com/track/15kZV9MznawyHrCeExDXcj"
+    },
+    {
+      "added_at": "2026-06-19 04:00:43",
+      "album": {
         "name": "Enjoy the Silence (Don Diablo Version)",
         "url": "https://open.spotify.com/album/4QsFjDF4p71D1fkmC1Foh9"
       },
@@ -1871,22 +1895,6 @@
     {
       "added_at": "2026-06-19 04:00:43",
       "album": {
-        "name": "Turbo Speed",
-        "url": "https://open.spotify.com/album/0K72EPIuZhMavGaAjIvuUX"
-      },
-      "artists": [
-        {
-          "name": "Control Alt Delete",
-          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
-        }
-      ],
-      "duration_ms": 168275,
-      "name": "Turbo Speed",
-      "url": "https://open.spotify.com/track/0j5CaQ9881LxFM8Cwh9JuH"
-    },
-    {
-      "added_at": "2026-06-19 04:00:43",
-      "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/3CEENecoQXHFjOxgWpZVgE"
       },
@@ -1903,6 +1911,22 @@
       "duration_ms": 172900,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83"
+    },
+    {
+      "added_at": "2026-06-19 04:00:43",
+      "album": {
+        "name": "Turbo Speed",
+        "url": "https://open.spotify.com/album/0K72EPIuZhMavGaAjIvuUX"
+      },
+      "artists": [
+        {
+          "name": "Control Alt Delete",
+          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "Turbo Speed",
+      "url": "https://open.spotify.com/track/0j5CaQ9881LxFM8Cwh9JuH"
     },
     {
       "added_at": "2026-06-19 04:00:43",
@@ -1955,6 +1979,22 @@
     {
       "added_at": "2026-06-19 04:00:43",
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 163664,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S"
+    },
+    {
+      "added_at": "2026-06-19 04:00:43",
+      "album": {
         "name": "Lost My Mind",
         "url": "https://open.spotify.com/album/3vUMb6M2VrUH3750wk7HrV"
       },
@@ -1971,22 +2011,6 @@
       "duration_ms": 119869,
       "name": "Lost My Mind",
       "url": "https://open.spotify.com/track/7HyS0rgA4t34Ri1dYA95oH"
-    },
-    {
-      "added_at": "2026-06-19 04:00:43",
-      "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 163664,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S"
     },
     {
       "added_at": "2026-06-19 04:00:43",
@@ -2019,6 +2043,26 @@
       "duration_ms": 207619,
       "name": "Pump Up The Jam",
       "url": "https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ"
+    },
+    {
+      "added_at": "2026-06-19 04:00:43",
+      "album": {
+        "name": "World & Back (feat. Riko Dan)",
+        "url": "https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n"
+      },
+      "artists": [
+        {
+          "name": "Linska",
+          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "duration_ms": 179956,
+      "name": "World & Back (feat. Riko Dan)",
+      "url": "https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u"
     },
     {
       "added_at": "2026-06-19 04:00:43",
@@ -2059,26 +2103,6 @@
       "duration_ms": 157847,
       "name": "Abraza",
       "url": "https://open.spotify.com/track/5LTG0kxIlsJp6n5QIUKBo2"
-    },
-    {
-      "added_at": "2026-06-19 04:00:43",
-      "album": {
-        "name": "World & Back (feat. Riko Dan)",
-        "url": "https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n"
-      },
-      "artists": [
-        {
-          "name": "Linska",
-          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
-        },
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        }
-      ],
-      "duration_ms": 179956,
-      "name": "World & Back (feat. Riko Dan)",
-      "url": "https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u"
     },
     {
       "added_at": "2026-06-19 04:00:43",
@@ -2131,6 +2155,30 @@
       "duration_ms": 168904,
       "name": "Sirius",
       "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
+    },
+    {
+      "added_at": "2026-06-19 04:00:43",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "duration_ms": 213953,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy"
     },
     {
       "added_at": "2026-06-19 04:00:43",
@@ -2199,50 +2247,18 @@
     {
       "added_at": "2026-06-19 04:00:43",
       "album": {
-        "name": "Don't Want Your Love (R\u00d8Z Remix)",
-        "url": "https://open.spotify.com/album/3xrbpZqyJXzxyJeo6kI7DZ"
+        "name": "Listen To Me",
+        "url": "https://open.spotify.com/album/29Rs2iU1Zd71LKHIwlupC8"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
         }
       ],
-      "duration_ms": 163555,
-      "name": "Don't Want Your Love - R\u00d8Z Remix",
-      "url": "https://open.spotify.com/track/15kZV9MznawyHrCeExDXcj"
-    },
-    {
-      "added_at": "2026-06-19 04:00:43",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 213953,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy"
+      "duration_ms": 107076,
+      "name": "Listen To Me",
+      "url": "https://open.spotify.com/track/1nPlHQEL4IeM1mDGjseodk"
     },
     {
       "added_at": "2026-06-19 04:00:43",
@@ -2275,22 +2291,6 @@
       "duration_ms": 173547,
       "name": "Turn The Lights Off (with Jaxstyle) - HILLS & Dansyn Remix",
       "url": "https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw"
-    },
-    {
-      "added_at": "2026-06-19 04:00:43",
-      "album": {
-        "name": "Listen To Me",
-        "url": "https://open.spotify.com/album/29Rs2iU1Zd71LKHIwlupC8"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "Listen To Me",
-      "url": "https://open.spotify.com/track/1nPlHQEL4IeM1mDGjseodk"
     },
     {
       "added_at": "2026-06-19 04:00:43",

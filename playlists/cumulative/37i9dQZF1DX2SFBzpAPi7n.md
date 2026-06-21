@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YongYong\(용용\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: can't be blue\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,191 songs - 3 day 0 hr 16 min
+1,192 songs - 3 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Blessed \(Punk Tech\-XI Remix\)](https://open.spotify.com/track/2Waqgry98Xo11k2LdArGL0) | [D'scoTech\-XI](https://open.spotify.com/artist/3FWym5aKInnu807CBuJhGA), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [DTX 1st : Blessed ride](https://open.spotify.com/album/6qHCN2r5Y8smeXRDhkT5eS) | 3:03 | 2023-02-14 | 2023-02-24 |
 | [Bloomer](https://open.spotify.com/track/53J8QLyMIkwMwRVLKDkiFM) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Bloomer](https://open.spotify.com/album/14g0sNqOr1UXqvXCSpdmkL) | 4:24 | 2022-07-04 | 2022-07-23 |
 | [blu print](https://open.spotify.com/track/03B8ay9lItNvNIBbmPoL7C) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [KAIL](https://open.spotify.com/artist/4bephLmNrnXUBtw49vUZeO) | [blu\-print](https://open.spotify.com/album/0PeK8hbEin6A7aGO3HFQgV) | 3:34 | 2025-04-22 | 2025-05-08 |
+| [blue daisy \(feat\. Mulasaki Ima\)](https://open.spotify.com/track/3Fm1m14KmAljsk4CSNJe81) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [can't be blue](https://open.spotify.com/album/61f7Qz1pcOV9CmpDiWZIam) | 3:25 | 2026-06-20 |  |
 | [Blue Moon](https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Once in a BLUE MOON](https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4) | 3:35 | 2024-06-07 | 2024-11-07 |
 | [Blue Voyage](https://open.spotify.com/track/6s1vHqyxFQKPqAhMwHVZyT) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Trip:Tape \#03](https://open.spotify.com/album/2nX3XXhjp9ME34rATFEWk9) | 3:09 | 2022-06-03 | 2022-07-28 |
 | [Blue Whale](https://open.spotify.com/track/3YfmmJkPj0IH58IP1FN8Z0) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Special Single 'Blue Whale'](https://open.spotify.com/album/4J4HRHJCwGHHutsosHWA3J) | 4:06 | 2025-10-06 | 2025-11-05 |
@@ -456,7 +457,7 @@
 | [I Don’t Want To Live Without You](https://open.spotify.com/track/0OJmMcuSinPLXoWSb1MOLN) | [The Midnight Romance](https://open.spotify.com/artist/0pBFhZQVWFUZF6ChBiEsBi) | [I Don’t Want To Live Without You](https://open.spotify.com/album/1BzaYuNzCpY49BouMw53KL) | 4:56 | 2022-04-12 | 2022-05-16 |
 | [i feel love \(feat\. Jayci yucca\)](https://open.spotify.com/track/1gfSH49Vpbo76DrDX2zBQy) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [i feel love](https://open.spotify.com/album/0D2vmiOyC7BprkMwPz6ZDm) | 3:30 | 2025-11-27 | 2025-12-17 |
 | [I Guess](https://open.spotify.com/track/0UoSl0jx4wFUEhnXTuTMKM) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [I Guess](https://open.spotify.com/album/7r62nzSWNE1csFdkbeutfz) | 3:38 | 2024-04-22 | 2024-05-10 |
-| [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 | 2022-05-11 | 2024-11-07 |
+| [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 | 2022-05-11 |  |
 | [I Like You](https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Dearest](https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8) | 3:26 | 2022-10-18 | 2023-01-05 |
 | [I Loved You](https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:54 | 2023-06-13 |  |
 | [I Loved You](https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:54 | 2022-04-22 | 2023-06-07 |
@@ -483,7 +484,7 @@
 | [Ideal Type](https://open.spotify.com/track/4sfX9xKPZ8HAListUbnuGQ) | [Catch The Young](https://open.spotify.com/artist/422jw2by1jl14vn1FP9EGA) | [Ideal Type](https://open.spotify.com/album/1JuyNFdnp0B1AbxBxAtKnl) | 3:42 | 2025-06-30 | 2025-07-04 |
 | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b) | 4:10 | 2025-03-17 |  |
 | [If I were rich](https://open.spotify.com/track/6jHc4ETMA0MVnwwaFkt2zp) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK), [Ravi](https://open.spotify.com/artist/33Cti7pK8o3exjycH47Xk5) | [If I were rich](https://open.spotify.com/album/36uTV3j8uvWe4aRbdDBDQH) | 3:19 | 2022-04-12 | 2022-07-26 |
-| [Imagination](https://open.spotify.com/track/2U9cVyAs6E5wwY7YduXOB9) | [Sanbo](https://open.spotify.com/artist/2rKxDvJDT1Pv93k4ohx8Cp) | [Imagination](https://open.spotify.com/album/5fJ2UXhkmcbc37492C1uDZ) | 3:42 | 2026-06-16 |  |
+| [Imagination](https://open.spotify.com/track/2U9cVyAs6E5wwY7YduXOB9) | [Sanbo](https://open.spotify.com/artist/2rKxDvJDT1Pv93k4ohx8Cp) | [Imagination](https://open.spotify.com/album/5fJ2UXhkmcbc37492C1uDZ) | 3:42 | 2026-06-16 | 2026-06-21 |
 | [IN MY DREAM](https://open.spotify.com/track/4znEIFtqs9PeeHAQj9S7H6) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [IN MY DREAM \(Original Soundtrack from the Webtoon 'Reincarnator'\)](https://open.spotify.com/album/2KyreiehXIneH6JSLp3Aeb) | 3:16 | 2024-09-19 | 2024-11-30 |
 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 | 2022-10-02 | 2022-10-19 |
 | [In Our Lives](https://open.spotify.com/track/2C4d6wVmrpgE24JdJ5bbPs) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [IRON FAMILY, Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/1OxMrHYdDJUbK13N6exeMc) | 3:38 | 2024-11-12 | 2025-01-08 |
@@ -640,7 +641,7 @@
 | [Miracle](https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:43 | 2024-05-09 | 2024-11-07 |
 | [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:34 | 2022-10-28 | 2023-04-29 |
 | [missing my summer](https://open.spotify.com/track/6NwJhFsGnhOEEwnvFaOruj) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [missing my summer](https://open.spotify.com/album/3T2sKp5MhkB4xrA3Ycphwd) | 2:54 | 2022-09-05 | 2022-09-15 |
-| [MOJAVE \(with Kid Wine\)](https://open.spotify.com/track/40cmCV0GHzBSFMtLUnRyE9) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [yynitseD](https://open.spotify.com/album/1NVCVExvnnkWmx47zxYK80) | 3:53 | 2026-06-09 |  |
+| [MOJAVE \(with Kid Wine\)](https://open.spotify.com/track/40cmCV0GHzBSFMtLUnRyE9) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [yynitseD](https://open.spotify.com/album/1NVCVExvnnkWmx47zxYK80) | 3:53 | 2026-06-09 | 2026-06-21 |
 | [Monday Blues](https://open.spotify.com/track/3O74E8ISHqNjv8WUp52hlY) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [mYmY](https://open.spotify.com/album/73UpAwWuOaZPUqnsfYOO29) | 3:15 | 2024-03-21 | 2024-05-10 |
 | [Money](https://open.spotify.com/track/5QQoeh536jsmB0ziQsLGni) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Money \(Payback X Jung Dong Ha\)](https://open.spotify.com/album/6yyYl76bm43CSnDUejJwCu) | 3:11 | 2023-01-26 | 2023-02-15 |
 | [Monoamory](https://open.spotify.com/track/43DcjLAWHodB5pyzfJfEAA) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [Saya](https://open.spotify.com/album/7MRJH6oHeOvJqEH4WKWDkU) | 3:41 | 2025-02-05 | 2025-03-18 |

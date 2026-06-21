@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1108378,
+  "num_followers": 1108441,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAASzhu7k62UcUy6jYzRNd72",
+  "snapshot_id": "ajSGgAAAAAAYVY9GA5pnSXWTtIvSE8l4",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Favorite Toy",
-        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Your Favorite Toy",
-      "url": "https://open.spotify.com/track/0L9RHQ6I91En6Ic1ILQAEF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Foo Fighters",
         "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 132840,
       "name": "Big Me",
       "url": "https://open.spotify.com/track/6pb5BBnIM5IM7R1cqag6rE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Your Favorite Toy",
+      "url": "https://open.spotify.com/track/0L9RHQ6I91En6Ic1ILQAEF"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Favorite Toy",
-        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 240573,
-      "name": "If You Only Knew",
-      "url": "https://open.spotify.com/track/4sCttVI6WhAQSuNyJWM3QW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Foo Fighters",
         "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 233360,
       "name": "This Is a Call",
       "url": "https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 240573,
+      "name": "If You Only Knew",
+      "url": "https://open.spotify.com/track/4sCttVI6WhAQSuNyJWM3QW"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Favorite Toy",
-        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 256400,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/6XXGFvmgdr7DqUolaSxgYh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wasting Light",
         "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 267445,
       "name": "Arlandria",
       "url": "https://open.spotify.com/track/5TOYgNohZAFEPOtnchPhZS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 256400,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/6XXGFvmgdr7DqUolaSxgYh"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Favorite Toy",
-        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "Of All People",
-      "url": "https://open.spotify.com/track/1zIvUuzmbvaZNHhMJuaAaq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 248266,
       "name": "Hey, Johnny Park!",
       "url": "https://open.spotify.com/track/0M5xRyxGpFFDfzN2x0wdpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Of All People",
+      "url": "https://open.spotify.com/track/1zIvUuzmbvaZNHhMJuaAaq"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Favorite Toy",
-        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Caught In The Echo",
-      "url": "https://open.spotify.com/track/3W9BAlXhtg8zXKwKLHmo6w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "There Is Nothing Left To Lose",
         "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 227560,
       "name": "Generator",
       "url": "https://open.spotify.com/track/592nTDJAy8AucV4KKIDCmA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Caught In The Echo",
+      "url": "https://open.spotify.com/track/3W9BAlXhtg8zXKwKLHmo6w"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Today's Song",
-        "url": "https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 194819,
-      "name": "Today's Song",
-      "url": "https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "There Is Nothing Left To Lose",
         "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 276213,
       "name": "Next Year",
       "url": "https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Today's Song",
+        "url": "https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 194819,
+      "name": "Today's Song",
+      "url": "https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36"
     },
     {
       "added_at": null,

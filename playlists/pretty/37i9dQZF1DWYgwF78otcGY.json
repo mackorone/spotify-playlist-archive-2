@@ -1,6 +1,6 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 29810,
+  "num_followers": 29811,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Run To The Hills",
-        "url": "https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0"
-      },
-      "artists": [
-        {
-          "name": "Klara Hammarstr\u00f6m",
-          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "Run To The Hills",
-      "url": "https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "N\u00e4r vindarna viskar mitt namn - Single",
         "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
       },
@@ -219,22 +203,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Vem e som oss",
-        "url": "https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb"
-      },
-      "artists": [
-        {
-          "name": "Anis Don Demina",
-          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
-        }
-      ],
-      "duration_ms": 175604,
-      "name": "Vem e som oss",
-      "url": "https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "\u00c4r",
         "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
       },
@@ -247,6 +215,38 @@
       "duration_ms": 188293,
       "name": "Stad i ljus",
       "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Run To The Hills",
+        "url": "https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Run To The Hills",
+      "url": "https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Vem e som oss",
+        "url": "https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        }
+      ],
+      "duration_ms": 175604,
+      "name": "Vem e som oss",
+      "url": "https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -299,66 +299,18 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Genom Eld & Vatten - Spotify Singles",
-        "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
+        "name": "En Samling 1981 - 2001",
+        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
       },
       "artists": [
         {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
         }
       ],
-      "duration_ms": 186449,
-      "name": "Genom Eld & Vatten - Spotify Singles",
-      "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "Bada Nakna",
-        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
-      },
-      "artists": [
-        {
-          "name": "Samir & Viktor",
-          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
-        }
-      ],
-      "duration_ms": 191047,
-      "name": "Bada nakna",
-      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV"
-      },
-      "artists": [
-        {
-          "name": "Tusse",
-          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+      "duration_ms": 198706,
+      "name": "En dag",
+      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -379,34 +331,50 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
+        "name": "Bada Nakna",
+        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
       },
       "artists": [
         {
-          "name": "Janne Lucas",
-          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
+          "name": "Samir & Viktor",
+          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
         }
       ],
-      "duration_ms": 174720,
-      "name": "V\u00e4xeln hall\u00e5",
-      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
+      "duration_ms": 191047,
+      "name": "Bada nakna",
+      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
     },
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "En Samling 1981 - 2001",
-        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
       },
       "artists": [
         {
-          "name": "Tommy Nilsson",
-          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
         }
       ],
-      "duration_ms": 198706,
-      "name": "En dag",
-      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Genom Eld & Vatten - Spotify Singles",
+        "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 186449,
+      "name": "Genom Eld & Vatten - Spotify Singles",
+      "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -431,18 +399,34 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Kizunguzungu",
-        "url": "https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV"
       },
       "artists": [
         {
-          "name": "SaRaha",
-          "url": "https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso"
+          "name": "Tusse",
+          "url": "https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI"
         }
       ],
-      "duration_ms": 184506,
-      "name": "Kizunguzungu",
-      "url": "https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g"
+      "duration_ms": 184000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
+      },
+      "artists": [
+        {
+          "name": "Janne Lucas",
+          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "V\u00e4xeln hall\u00e5",
+      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -463,18 +447,18 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Mer av dig",
-        "url": "https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp"
+        "name": "Fr\u00e4mling 25 \u00e5r",
+        "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
       },
       "artists": [
         {
-          "name": "Theo",
-          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Mer av dig",
-      "url": "https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O"
+      "duration_ms": 177893,
+      "name": "Fr\u00e4mling",
+      "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -495,6 +479,38 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
+        "name": "Kizunguzungu",
+        "url": "https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj"
+      },
+      "artists": [
+        {
+          "name": "SaRaha",
+          "url": "https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Kizunguzungu",
+      "url": "https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Mer av dig",
+        "url": "https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp"
+      },
+      "artists": [
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Mer av dig",
+      "url": "https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
         "name": "As I Lay Me Down",
         "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
       },
@@ -507,38 +523,6 @@
       "duration_ms": 189120,
       "name": "As I Lay Me Down",
       "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "Fr\u00e4mling 25 \u00e5r",
-        "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Fr\u00e4mling",
-      "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
-      },
-      "artists": [
-        {
-          "name": "Eric Saade",
-          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Manboy",
-      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -559,18 +543,18 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Air",
-        "url": "https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy"
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
       },
       "artists": [
         {
-          "name": "Marcus & Martinus",
-          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+          "name": "Eric Saade",
+          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm"
+      "duration_ms": 180893,
+      "name": "Manboy",
+      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -591,6 +575,22 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
+        "name": "Diggiloo Diggiley",
+        "url": "https://open.spotify.com/album/1cJamo0hcqkWHwTQHOFORj"
+      },
+      "artists": [
+        {
+          "name": "Herreys",
+          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Diggiloo Diggiley",
+      "url": "https://open.spotify.com/track/43ZypSE73gRNdAySQTzyfs"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
         "name": "Fr\u00e5n nu till evighet",
         "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 181493,
       "name": "Evighet",
       "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -623,6 +639,22 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
+        "name": "Lena 20 \u00e5r",
+        "url": "https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo"
+      },
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Det g\u00f6r ont",
+      "url": "https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
         "name": "Det blir vad du g\u00f6r det till",
         "url": "https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs"
       },
@@ -635,22 +667,6 @@
       "duration_ms": 190013,
       "name": "Efter solsken",
       "url": "https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "Diggiloo Diggiley",
-        "url": "https://open.spotify.com/album/1cJamo0hcqkWHwTQHOFORj"
-      },
-      "artists": [
-        {
-          "name": "Herreys",
-          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Diggiloo Diggiley",
-      "url": "https://open.spotify.com/track/43ZypSE73gRNdAySQTzyfs"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -675,22 +691,6 @@
       "duration_ms": 176960,
       "name": "Where You Are (S\u00e1ve\u017ean)",
       "url": "https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "Lena 20 \u00e5r",
-        "url": "https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo"
-      },
-      "artists": [
-        {
-          "name": "Lena Philipsson",
-          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Det g\u00f6r ont",
-      "url": "https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
+        "name": "Skifs Hits!",
+        "url": "https://open.spotify.com/album/7eL1KLHKp4jJufO6wG6YsT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Skifs",
+          "url": "https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
+      ],
+      "duration_ms": 196013,
+      "name": "Michelangelo (Men s\u00e5 svara d\u00e5!)",
+      "url": "https://open.spotify.com/track/3qChO81Z9r3KDyIj4w1m4T"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
         "name": "Halcyon Days",
         "url": "https://open.spotify.com/album/69HuMCOG9mg3MkKY2fuYWg"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 204813,
       "name": "Temple of Love - Radio Edit",
       "url": "https://open.spotify.com/track/1cw6VQ7t4Wq4bIVKaLU768"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "Jalla dansa Sawa",
-        "url": "https://open.spotify.com/album/6BzQc2YaBRkbDAqgChHe7g"
-      },
-      "artists": [
-        {
-          "name": "Behrang Miri",
-          "url": "https://open.spotify.com/artist/5kQo9vxRzDvaNrmP3z6OFj"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "Jalla dansa sawa",
-      "url": "https://open.spotify.com/track/6mn9gln5HdtYE11FOjQdxN"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -807,6 +807,22 @@
       "duration_ms": 176578,
       "name": "90-talet",
       "url": "https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Jalla dansa Sawa",
+        "url": "https://open.spotify.com/album/6BzQc2YaBRkbDAqgChHe7g"
+      },
+      "artists": [
+        {
+          "name": "Behrang Miri",
+          "url": "https://open.spotify.com/artist/5kQo9vxRzDvaNrmP3z6OFj"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "Jalla dansa sawa",
+      "url": "https://open.spotify.com/track/6mn9gln5HdtYE11FOjQdxN"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -843,22 +859,6 @@
       "duration_ms": 181680,
       "name": "Blame It On The Disco",
       "url": "https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "Dance You Off",
-        "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 182134,
-      "name": "Dance You Off",
-      "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
     }
   ],
   "unique_name": "Mellofest! ",

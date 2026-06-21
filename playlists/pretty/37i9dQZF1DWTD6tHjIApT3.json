@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: LANA",
-  "num_followers": 137290,
+  "num_followers": 137285,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-06-16 15:00:11",
       "album": {
+        "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
+        "url": "https://open.spotify.com/album/3o7fMvUbIBPcXLR7EK0xzL"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 244781,
+      "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
+      "url": "https://open.spotify.com/track/4jeG0pnEjEFIphK0oLnGaW"
+    },
+    {
+      "added_at": "2026-06-16 15:00:11",
+      "album": {
         "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092",
         "url": "https://open.spotify.com/album/4BAoQY8BW3PTfjVUeH1Pfw"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 206493,
       "name": "Not a Goodbye",
       "url": "https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E"
-    },
-    {
-      "added_at": "2026-06-16 15:00:11",
-      "album": {
-        "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
-        "url": "https://open.spotify.com/album/3o7fMvUbIBPcXLR7EK0xzL"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 244781,
-      "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
-      "url": "https://open.spotify.com/track/4jeG0pnEjEFIphK0oLnGaW"
     },
     {
       "added_at": "2026-06-16 15:00:11",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-06-16 15:00:11",
       "album": {
-        "name": "\u767e\u65e5\u8349",
-        "url": "https://open.spotify.com/album/0U3TaCiy5hLI2urzi74CDG"
-      },
-      "artists": [
-        {
-          "name": "\u8309\u3072\u308b",
-          "url": "https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R"
-        }
-      ],
-      "duration_ms": 317812,
-      "name": "\u767e\u65e5\u8349",
-      "url": "https://open.spotify.com/track/2jPX3IZxD7y9gMKW7KhfAu"
-    },
-    {
-      "added_at": "2026-06-16 15:00:11",
-      "album": {
         "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
         "url": "https://open.spotify.com/album/38Keiou5ICfLBAdz69A3jU"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 259771,
       "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
       "url": "https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX"
+    },
+    {
+      "added_at": "2026-06-16 15:00:11",
+      "album": {
+        "name": "\u767e\u65e5\u8349",
+        "url": "https://open.spotify.com/album/0U3TaCiy5hLI2urzi74CDG"
+      },
+      "artists": [
+        {
+          "name": "\u8309\u3072\u308b",
+          "url": "https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R"
+        }
+      ],
+      "duration_ms": 317812,
+      "name": "\u767e\u65e5\u8349",
+      "url": "https://open.spotify.com/track/2jPX3IZxD7y9gMKW7KhfAu"
     },
     {
       "added_at": "2026-06-16 15:00:11",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-06-16 15:00:11",
       "album": {
+        "name": "LOVE BEAT",
+        "url": "https://open.spotify.com/album/37UN13u0Jj5CEZuHAojQWr"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "duration_ms": 221253,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/04GjqRcn7qbzFbH1MKSbvk"
+    },
+    {
+      "added_at": "2026-06-16 15:00:11",
+      "album": {
         "name": "\u5d16\u3063\u3077\u3061\u30eb\u30d3\u30fc (VS. \u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9)",
         "url": "https://open.spotify.com/album/7HjRgi9qbWdYzteTDPvNow"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2026-06-16 15:00:11",
       "album": {
-        "name": "LOVE BEAT",
-        "url": "https://open.spotify.com/album/37UN13u0Jj5CEZuHAojQWr"
+        "name": "Aile",
+        "url": "https://open.spotify.com/album/5G6lKTUQE8r3ukjVqwHaBj"
       },
       "artists": [
         {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+          "name": "Soala",
+          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
         }
       ],
-      "duration_ms": 221253,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/04GjqRcn7qbzFbH1MKSbvk"
+      "duration_ms": 248480,
+      "name": "\u3072\u3068\u308a\u3054\u3068",
+      "url": "https://open.spotify.com/track/1gziU1Gz0XftSB3OjCmW0V"
     },
     {
       "added_at": "2026-06-16 15:00:11",
@@ -1279,22 +1295,6 @@
       "duration_ms": 203712,
       "name": "Sonare",
       "url": "https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2"
-    },
-    {
-      "added_at": "2026-06-16 15:00:11",
-      "album": {
-        "name": "Aile",
-        "url": "https://open.spotify.com/album/5G6lKTUQE8r3ukjVqwHaBj"
-      },
-      "artists": [
-        {
-          "name": "Soala",
-          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "\u3072\u3068\u308a\u3054\u3068",
-      "url": "https://open.spotify.com/track/1gziU1Gz0XftSB3OjCmW0V"
     },
     {
       "added_at": "2026-06-16 15:00:11",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-06-16 15:00:11",
       "album": {
-        "name": "\u3042\u308f",
-        "url": "https://open.spotify.com/album/4dLGMFAdTKZTmdjhzViSLC"
-      },
-      "artists": [
-        {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "\u3042\u308f",
-      "url": "https://open.spotify.com/track/6O0LyEm9dwtPlG3KsNu6Ao"
-    },
-    {
-      "added_at": "2026-06-16 15:00:11",
-      "album": {
         "name": "tone (Special Edition)",
         "url": "https://open.spotify.com/album/2hlKSjcjfBda3i8YDDSlt9"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 292490,
       "name": "\u3055\u3059\u3089\u3044\u306e\u5504",
       "url": "https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej"
+    },
+    {
+      "added_at": "2026-06-16 15:00:11",
+      "album": {
+        "name": "\u3042\u308f",
+        "url": "https://open.spotify.com/album/4dLGMFAdTKZTmdjhzViSLC"
+      },
+      "artists": [
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "\u3042\u308f",
+      "url": "https://open.spotify.com/track/6O0LyEm9dwtPlG3KsNu6Ao"
     },
     {
       "added_at": "2026-06-16 15:00:11",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-06-16 15:00:11",
       "album": {
+        "name": "DECOTORA15",
+        "url": "https://open.spotify.com/album/13clnrelj5KAwEbD3I5v2i"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "DECOTORA15",
+      "url": "https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl"
+    },
+    {
+      "added_at": "2026-06-16 15:00:11",
+      "album": {
         "name": "Living",
         "url": "https://open.spotify.com/album/4H52JSvG8qKypi82WlJ7Oa"
       },
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2026-06-16 15:00:11",
       "album": {
-        "name": "DECOTORA15",
-        "url": "https://open.spotify.com/album/13clnrelj5KAwEbD3I5v2i"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "DECOTORA15",
-      "url": "https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl"
-    },
-    {
-      "added_at": "2026-06-16 15:00:11",
-      "album": {
         "name": "\u305c\u3093\u3076\u53ef\u611b\u3044\u306e\u305b\u3044",
         "url": "https://open.spotify.com/album/73uS2yvzIbEMt94JQsSJao"
       },
@@ -1471,6 +1471,30 @@
       "duration_ms": 217000,
       "name": "\u305c\u3093\u3076\u53ef\u611b\u3044\u306e\u305b\u3044",
       "url": "https://open.spotify.com/track/1dhdWekzCKLtMBOIavpLQZ"
+    },
+    {
+      "added_at": "2026-06-16 15:00:11",
+      "album": {
+        "name": "Tropical Paradise (3am girls) feat.f5ve, \u8a69\u7fbd",
+        "url": "https://open.spotify.com/album/51rrGc0RLI8rD8ctSTAoRc"
+      },
+      "artists": [
+        {
+          "name": "BACARDI RECORDS",
+          "url": "https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA"
+        },
+        {
+          "name": "f5ve",
+          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
+        },
+        {
+          "name": "\u8a69\u7fbd",
+          "url": "https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp"
+        }
+      ],
+      "duration_ms": 140732,
+      "name": "Tropical Paradise (3am girls) feat.f5ve, \u8a69\u7fbd",
+      "url": "https://open.spotify.com/track/07XtYE9j1lA8KwOnb1OeWy"
     },
     {
       "added_at": "2026-06-16 15:00:11",
@@ -1511,22 +1535,6 @@
     {
       "added_at": "2026-06-16 15:00:11",
       "album": {
-        "name": "\u306f\u306a\u308c\u3070\u306a\u308c",
-        "url": "https://open.spotify.com/album/66XnpUJbdZSQ3bn3JY54NP"
-      },
-      "artists": [
-        {
-          "name": "AYANE",
-          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
-        }
-      ],
-      "duration_ms": 257963,
-      "name": "\u306f\u306a\u308c\u3070\u306a\u308c",
-      "url": "https://open.spotify.com/track/5vpAgWkl4NgLs6Kuq6QFBu"
-    },
-    {
-      "added_at": "2026-06-16 15:00:11",
-      "album": {
         "name": "Ray",
         "url": "https://open.spotify.com/album/0bs97BumdpbyYhcfHWE9hg"
       },
@@ -1539,6 +1547,22 @@
       "duration_ms": 276200,
       "name": "Ray",
       "url": "https://open.spotify.com/track/7yx5pbQGDEXtpPifMy8u5d"
+    },
+    {
+      "added_at": "2026-06-16 15:00:11",
+      "album": {
+        "name": "\u306f\u306a\u308c\u3070\u306a\u308c",
+        "url": "https://open.spotify.com/album/66XnpUJbdZSQ3bn3JY54NP"
+      },
+      "artists": [
+        {
+          "name": "AYANE",
+          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
+        }
+      ],
+      "duration_ms": 257963,
+      "name": "\u306f\u306a\u308c\u3070\u306a\u308c",
+      "url": "https://open.spotify.com/track/5vpAgWkl4NgLs6Kuq6QFBu"
     },
     {
       "added_at": "2026-06-16 15:00:11",
@@ -1571,30 +1595,6 @@
       "duration_ms": 275826,
       "name": "\u3046\u308b\u308f\u3057\u304d\u3072\u3068",
       "url": "https://open.spotify.com/track/1M3v8EIemHoCqEOautFldv"
-    },
-    {
-      "added_at": "2026-06-16 15:00:11",
-      "album": {
-        "name": "Tropical Paradise (3am girls) feat.f5ve, \u8a69\u7fbd",
-        "url": "https://open.spotify.com/album/51rrGc0RLI8rD8ctSTAoRc"
-      },
-      "artists": [
-        {
-          "name": "BACARDI RECORDS",
-          "url": "https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA"
-        },
-        {
-          "name": "f5ve",
-          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
-        },
-        {
-          "name": "\u8a69\u7fbd",
-          "url": "https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp"
-        }
-      ],
-      "duration_ms": 140732,
-      "name": "Tropical Paradise (3am girls) feat.f5ve, \u8a69\u7fbd",
-      "url": "https://open.spotify.com/track/07XtYE9j1lA8KwOnb1OeWy"
     },
     {
       "added_at": "2026-06-16 15:00:11",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2026-06-16 15:00:11",
       "album": {
-        "name": "\u541b\u306e\u56fd",
-        "url": "https://open.spotify.com/album/4DqKNJBTh76GpRP1ypWu67"
+        "name": "Happy Ever After",
+        "url": "https://open.spotify.com/album/6gvgtKoAbqP46vLw46Hrlg"
       },
       "artists": [
         {
-          "name": "Foi",
-          "url": "https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB"
+          "name": "\u9df2\u5c3e\u4f36\u83dc",
+          "url": "https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf"
+        },
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
         }
       ],
-      "duration_ms": 221029,
-      "name": "\u541b\u306e\u56fd",
-      "url": "https://open.spotify.com/track/4qQHkh5PsWjggCFwHOiNji"
+      "duration_ms": 225533,
+      "name": "Happy Ever After",
+      "url": "https://open.spotify.com/track/6ht5QWPzQSQInoRN2v87Ac"
     }
   ],
   "unique_name": "Women's Voice",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 665542,
+  "num_followers": 665562,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAACP3hg4pZxisLbu25fHkSUw",
+  "snapshot_id": "ajSGgAAAAAAqIYQBpnj0d6ErTtKDI2wC",
   "tracks": [
     {
       "added_at": null,
@@ -367,30 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
-        "url": "https://open.spotify.com/album/7sZ70n45HG0bZ44E7ApqXq"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        },
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 268838,
-      "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
-      "url": "https://open.spotify.com/track/0tAf99mtQfyK9yeimT4yH2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -419,6 +395,30 @@
       "duration_ms": 191315,
       "name": "Tenth Avenue Freeze-Out",
       "url": "https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
+        "url": "https://open.spotify.com/album/7sZ70n45HG0bZ44E7ApqXq"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 268838,
+      "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
+      "url": "https://open.spotify.com/track/0tAf99mtQfyK9yeimT4yH2"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 205130,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The List",
         "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 186226,
       "name": "Sea Of Heartbreak",
       "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 205130,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
     },
     {
       "added_at": null,

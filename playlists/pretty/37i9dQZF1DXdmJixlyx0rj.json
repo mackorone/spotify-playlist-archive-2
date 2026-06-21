@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: I\u00d6N)",
-  "num_followers": 37312,
+  "num_followers": 37315,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-06-19 05:53:22",
       "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        }
-      ],
-      "duration_ms": 112965,
-      "name": "maybe baby",
-      "url": "https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS"
-    },
-    {
-      "added_at": "2026-06-19 05:53:22",
-      "album": {
         "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
         "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": "2026-06-19 05:53:22",
       "album": {
+        "name": "E",
+        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        }
+      ],
+      "duration_ms": 112965,
+      "name": "maybe baby",
+      "url": "https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS"
+    },
+    {
+      "added_at": "2026-06-19 05:53:22",
+      "album": {
         "name": "IF U WANT IT",
         "url": "https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 340660,
       "name": "I DON'T CARE",
       "url": "https://open.spotify.com/track/0N9WQE0WCPetQduRvRRu1r"
-    },
-    {
-      "added_at": "2026-06-19 05:53:22",
-      "album": {
-        "name": "MOVEURBODY",
-        "url": "https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW"
-      },
-      "artists": [
-        {
-          "name": "HYO",
-          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
-        }
-      ],
-      "duration_ms": 136817,
-      "name": "MOVEURBODY",
-      "url": "https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L"
     },
     {
       "added_at": "2026-06-19 05:53:22",
@@ -543,6 +527,22 @@
       "duration_ms": 152473,
       "name": "Nocturne 07 (for aerse)",
       "url": "https://open.spotify.com/track/3CV5geHX47MIejxoQ9evgA"
+    },
+    {
+      "added_at": "2026-06-19 05:53:22",
+      "album": {
+        "name": "MOVEURBODY",
+        "url": "https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "duration_ms": 136817,
+      "name": "MOVEURBODY",
+      "url": "https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L"
     },
     {
       "added_at": "2026-06-19 05:53:22",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-06-19 05:53:22",
       "album": {
-        "name": "YES",
-        "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
-      },
-      "artists": [
-        {
-          "name": "HYO",
-          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
-        }
-      ],
-      "duration_ms": 178230,
-      "name": "YES",
-      "url": "https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q"
-    },
-    {
-      "added_at": "2026-06-19 05:53:22",
-      "album": {
         "name": "FIX OFF Desire Project 1",
         "url": "https://open.spotify.com/album/2HMHEGg6vqtM2xCFhCbX8f"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 124637,
       "name": "ROAR (Raiden Hard Techno Ver.)",
       "url": "https://open.spotify.com/track/6KaoziVUc3ONLYv9D2Vz95"
+    },
+    {
+      "added_at": "2026-06-19 05:53:22",
+      "album": {
+        "name": "YES",
+        "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "duration_ms": 178230,
+      "name": "YES",
+      "url": "https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q"
     },
     {
       "added_at": "2026-06-19 05:53:22",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-06-19 05:53:22",
       "album": {
-        "name": "Billyeoon Goyangi (Do the Dance) (Remixes)",
-        "url": "https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        },
-        {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
-        }
-      ],
-      "duration_ms": 195177,
-      "name": "Billyeoon Goyangi (Do the Dance) (Snail's House Remix)",
-      "url": "https://open.spotify.com/track/5PHwWZbsXcu5vjsV7EVrpl"
-    },
-    {
-      "added_at": "2026-06-19 05:53:22",
-      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 208780,
       "name": "SCIENTIST (R3HAB Remix)",
       "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
+    },
+    {
+      "added_at": "2026-06-19 05:53:22",
+      "album": {
+        "name": "Billyeoon Goyangi (Do the Dance) (Remixes)",
+        "url": "https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+        }
+      ],
+      "duration_ms": 195177,
+      "name": "Billyeoon Goyangi (Do the Dance) (Snail's House Remix)",
+      "url": "https://open.spotify.com/track/5PHwWZbsXcu5vjsV7EVrpl"
     },
     {
       "added_at": "2026-06-19 05:53:22",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-06-19 05:53:22",
       "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
-      },
-      "artists": [
-        {
-          "name": "iiso",
-          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
-        }
-      ],
-      "duration_ms": 144262,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
-    },
-    {
-      "added_at": "2026-06-19 05:53:22",
-      "album": {
         "name": "iScreaM Vol.12 : Bad Boy Remixes",
         "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 221667,
       "name": "Bad Boy - PREP Remix",
       "url": "https://open.spotify.com/track/4J40k24yd1m6D3TaKQsepp"
+    },
+    {
+      "added_at": "2026-06-19 05:53:22",
+      "album": {
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
+      },
+      "artists": [
+        {
+          "name": "iiso",
+          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+        }
+      ],
+      "duration_ms": 144262,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
     },
     {
       "added_at": "2026-06-19 05:53:22",
@@ -1479,22 +1479,18 @@
     {
       "added_at": "2026-06-19 05:53:22",
       "album": {
-        "name": "Falling In Love (feat. Natalie Major)",
-        "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
+        "name": "We The One",
+        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
       },
       "artists": [
         {
           "name": "SakaZan",
           "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        },
-        {
-          "name": "Natalie Major",
-          "url": "https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ"
         }
       ],
-      "duration_ms": 214758,
-      "name": "Falling In Love (feat. Natalie Major)",
-      "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
+      "duration_ms": 195964,
+      "name": "We The One",
+      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
     },
     {
       "added_at": "2026-06-19 05:53:22",
@@ -1579,18 +1575,22 @@
     {
       "added_at": "2026-06-19 05:53:22",
       "album": {
-        "name": "We The One",
-        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
+        "name": "Falling In Love (feat. Natalie Major)",
+        "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
       },
       "artists": [
         {
           "name": "SakaZan",
           "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        },
+        {
+          "name": "Natalie Major",
+          "url": "https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ"
         }
       ],
-      "duration_ms": 195964,
-      "name": "We The One",
-      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
+      "duration_ms": 214758,
+      "name": "Falling In Love (feat. Natalie Major)",
+      "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
     },
     {
       "added_at": "2026-06-19 05:53:22",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2026-06-19 05:53:22",
       "album": {
+        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
+        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        },
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Make A Wish (Birthday Song) - Wuki Remix",
+      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
+    },
+    {
+      "added_at": "2026-06-19 05:53:22",
+      "album": {
         "name": "Iab",
         "url": "https://open.spotify.com/album/2fUQFQJIQwo14l0dUbH6Qr"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 194754,
       "name": "Queendom - Demicat Remix",
       "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
-    },
-    {
-      "added_at": "2026-06-19 05:53:22",
-      "album": {
-        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
-        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
-      },
-      "artists": [
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        },
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Make A Wish (Birthday Song) - Wuki Remix",
-      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
     },
     {
       "added_at": "2026-06-19 05:53:22",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-06-19 05:53:22",
       "album": {
-        "name": "LOTTO - The 3rd Album Repackage",
-        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 245189,
-      "name": "Monster - LDN Noise Creeper Bass Remix",
-      "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
-    },
-    {
-      "added_at": "2026-06-19 05:53:22",
-      "album": {
         "name": "MOLLAK",
         "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 126000,
       "name": "Narak",
       "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
+    },
+    {
+      "added_at": "2026-06-19 05:53:22",
+      "album": {
+        "name": "LOTTO - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 245189,
+      "name": "Monster - LDN Noise Creeper Bass Remix",
+      "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
     },
     {
       "added_at": "2026-06-19 05:53:22",

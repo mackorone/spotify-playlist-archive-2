@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 1853,
+  "num_followers": 1856,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAACnpWqD0OIs5zEjgkq1OiX0",
+  "snapshot_id": "ajSGgAAAAAApeRq/JlMe28B08Sr+X/ea",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
+        "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "duration_ms": 439946,
+      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
+      "url": "https://open.spotify.com/track/7uDF7mOD0K9RLZxfkB1UXz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nocturnes Part: 4",
         "url": "https://open.spotify.com/album/2r5y5S0KKUpodigEGIFmw9"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 307500,
       "name": "Nocturne In F Major, Op 6, No 2 From: Soire\u00e9s Musicales",
       "url": "https://open.spotify.com/track/3oJS2loNFEfeGHTwV5qfiH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
-        "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
-        }
-      ],
-      "duration_ms": 439946,
-      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
-      "url": "https://open.spotify.com/track/7uDF7mOD0K9RLZxfkB1UXz"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
-        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
-      },
-      "artists": [
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        },
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 372986,
-      "name": "Romance sans num\u00e9ro d'opus",
-      "url": "https://open.spotify.com/track/3lMTAVWatmWNlFFKdnuzL5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
         "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 663133,
       "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
       "url": "https://open.spotify.com/track/4A6eSx3diStwvHxkfs9YBO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
+        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 372986,
+      "name": "Romance sans num\u00e9ro d'opus",
+      "url": "https://open.spotify.com/track/3lMTAVWatmWNlFFKdnuzL5"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
-        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
-      },
-      "artists": [
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        },
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 737973,
-      "name": "Variations op.20",
-      "url": "https://open.spotify.com/track/2uspxzx6IIEmDrqu2FVNl2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Women Composers",
         "url": "https://open.spotify.com/album/44nfUcdSTmWtjvNvdkvKEN"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 207000,
       "name": "3 Romances, Op. 11: I. Andante",
       "url": "https://open.spotify.com/track/4AkbwbgCeXMiwte4Hr2cQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
+        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 737973,
+      "name": "Variations op.20",
+      "url": "https://open.spotify.com/track/2uspxzx6IIEmDrqu2FVNl2"
     },
     {
       "added_at": null,

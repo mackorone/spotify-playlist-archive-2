@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 20734,
+  "num_followers": 20761,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,26 @@
     {
       "added_at": "2026-06-12 00:01:52",
       "album": {
+        "name": "EVERLASTING",
+        "url": "https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 139487,
+      "name": "EVERLASTING",
+      "url": "https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G"
+    },
+    {
+      "added_at": "2026-06-12 00:01:52",
+      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -195,26 +215,6 @@
       "duration_ms": 172486,
       "name": "Puul",
       "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
-    },
-    {
-      "added_at": "2026-06-12 00:01:52",
-      "album": {
-        "name": "EVERLASTING",
-        "url": "https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 139487,
-      "name": "EVERLASTING",
-      "url": "https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G"
     },
     {
       "added_at": "2026-06-12 00:01:52",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-06-12 00:01:52",
       "album": {
-        "name": "LOVE AND CHAOS",
-        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
-    },
-    {
-      "added_at": "2026-06-12 00:01:52",
-      "album": {
         "name": "Sounds of the Diaspora 2",
         "url": "https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 210373,
       "name": "BACKKA",
       "url": "https://open.spotify.com/track/0vgRoHUufPIKoIStgC0ZRm"
+    },
+    {
+      "added_at": "2026-06-12 00:01:52",
+      "album": {
+        "name": "LOVE AND CHAOS",
+        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
     },
     {
       "added_at": "2026-06-12 00:01:52",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-06-12 00:01:52",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/6YgeKfh6ZsGp2E4WwWEOeG"
-      },
-      "artists": [
-        {
-          "name": "Kweku Darlington",
-          "url": "https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/13LJmsj0UnvhVpIa5ne5Pb"
-    },
-    {
-      "added_at": "2026-06-12 00:01:52",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/5zj0HDCApqZ7ZSVwJxzD7T"
       },
@@ -1071,22 +1055,18 @@
     {
       "added_at": "2026-06-12 00:01:52",
       "album": {
-        "name": "Yahooboy",
-        "url": "https://open.spotify.com/album/0dQp68Zmy4Sis0nGVh5mPG"
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/6YgeKfh6ZsGp2E4WwWEOeG"
       },
       "artists": [
         {
-          "name": "ACE TEE",
-          "url": "https://open.spotify.com/artist/3sqdh5sW8Cc1j1jdbmRJRm"
-        },
-        {
-          "name": "Ngb Muni",
-          "url": "https://open.spotify.com/artist/7CMDKouH1YHU3pJacnDrzm"
+          "name": "Kweku Darlington",
+          "url": "https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW"
         }
       ],
-      "duration_ms": 129924,
-      "name": "Yahooboy",
-      "url": "https://open.spotify.com/track/3gxE784U3RHs338iapWwos"
+      "duration_ms": 153750,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/13LJmsj0UnvhVpIa5ne5Pb"
     },
     {
       "added_at": "2026-06-12 00:01:52",
@@ -1107,6 +1087,26 @@
       "duration_ms": 180720,
       "name": "Continental (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz"
+    },
+    {
+      "added_at": "2026-06-12 00:01:52",
+      "album": {
+        "name": "Yahooboy",
+        "url": "https://open.spotify.com/album/0dQp68Zmy4Sis0nGVh5mPG"
+      },
+      "artists": [
+        {
+          "name": "ACE TEE",
+          "url": "https://open.spotify.com/artist/3sqdh5sW8Cc1j1jdbmRJRm"
+        },
+        {
+          "name": "Ngb Muni",
+          "url": "https://open.spotify.com/artist/7CMDKouH1YHU3pJacnDrzm"
+        }
+      ],
+      "duration_ms": 129924,
+      "name": "Yahooboy",
+      "url": "https://open.spotify.com/track/3gxE784U3RHs338iapWwos"
     },
     {
       "added_at": "2026-06-12 00:01:52",

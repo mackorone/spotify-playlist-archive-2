@@ -4,7 +4,7 @@
 
 > When my mouth has no words, let my spirit sing
 
-111 songs - 17 hr 4 min
+112 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Awake](https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:20 | 2024-07-26 |  |
 | [Awofuwo](https://open.spotify.com/track/4jDtIlGX6AmW2NFJTcRpiL) | [Olivertherain](https://open.spotify.com/artist/64E0RwV7Qxl8GSiaHHNbmh), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Awofuwo](https://open.spotify.com/album/5qWIB74h8PVysO1QMcSjCx) | 5:46 | 2024-11-01 | 2025-09-15 |
 | [Aye Ole](https://open.spotify.com/track/6XJ4mWDH46We0Mgr1cuHK1) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Aye Ole](https://open.spotify.com/album/2U0IrWZICHozN3wdBzaPqy) | 23:00 | 2024-07-26 |  |
+| [Benediction](https://open.spotify.com/track/2aS9WnLarRPsTSyzpzlGNU) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:29 | 2024-07-26 |  |
 | [Bowels of the Spirit \(Prayer Chant\)](https://open.spotify.com/track/09NtOUOldnVP8Me3DSaus5) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 46:05 | 2024-07-26 |  |
 | [Breathe on Me](https://open.spotify.com/track/47AuDsrAwLlkaKZMtthqX9) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak) | [Spirit Pray](https://open.spotify.com/album/0fEuILLwD5b4EIKuXg40k4) | 7:21 | 2024-07-26 | 2025-07-15 |
 | [Burning with the Holy Ghost](https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 5:29 | 2024-07-26 |  |
@@ -105,7 +106,7 @@
 | [The Call \(Chants\)](https://open.spotify.com/track/2vDlHYooR65OAg68He20Fy) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 7:48 | 2024-07-26 |  |
 | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj) | 8:44 | 2024-09-20 |  |
 | [There Is a Place](https://open.spotify.com/track/1kYq99JJMTYdGDtsaG3ZPR) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 2](https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP) | 8:47 | 2024-07-26 |  |
-| [There Is Prophecy over Me](https://open.spotify.com/track/6pKhtSc35N8WhiJNS0Dymx) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [There Is Prophecy over Me](https://open.spotify.com/album/1GxceZu3kgGHqGx8hXgDWH) | 13:20 | 2024-07-26 |  |
+| [There Is Prophecy over Me](https://open.spotify.com/track/6pKhtSc35N8WhiJNS0Dymx) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [There Is Prophecy over Me](https://open.spotify.com/album/1GxceZu3kgGHqGx8hXgDWH) | 13:20 | 2024-07-26 | 2026-06-21 |
 | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/track/70ULbNpGcjEJRjeqJZAiEm) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa) | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/album/3P98nKARTr1d2OA5QxEv97) | 14:59 | 2024-07-26 |  |
 | [We Behold\(Qavah Anthem\)](https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [We Behold\(Qavah Anthem\)](https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM) | 12:53 | 2024-07-26 |  |
 | [We Bless You Lord \(Chant\)](https://open.spotify.com/track/2JekJNFUyLBsuqZPtSO0YJ) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [We Bless You Lord \(Chant\)](https://open.spotify.com/album/1W9K0AwSqAk22B63mvHZcC) | 8:14 | 2025-10-17 |  |

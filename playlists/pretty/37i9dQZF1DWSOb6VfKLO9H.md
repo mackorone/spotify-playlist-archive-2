@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 
 > Alle oude party tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,510 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,543 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 | 23 | [Officieel](https://open.spotify.com/track/3e0gMtgOOLGPFLzPWR7xzb) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [We Moeten Door](https://open.spotify.com/album/5pSpczaiQq2pXJlFOeGHqE) | 3:24 |
 | 24 | [Way It Goes](https://open.spotify.com/track/6N9FSZAEYdWG7rhW8XXbUg) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [77 Nachten](https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc) | 3:05 |
 | 25 | [Overal \(feat\. DJ Youss\-F\)](https://open.spotify.com/track/7bQQ2B4EVLDiMA79EbT2qe) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [DJ Youss\-F](https://open.spotify.com/artist/5DP8uQLYvY07JGJvtVklwV) | [Overal \(feat\. DJ Youss\-F\)](https://open.spotify.com/album/7C5iaQAlPVjxtGnlbWswqx) | 3:02 |
-| 26 | [DomDoen](https://open.spotify.com/track/5vJpSCkDDqLE6bNF4cRqRG) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Jonna Fraser](https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10) | [Visionair](https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q) | 2:36 |
-| 27 | [Tout Est Bon](https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Allemaal Een Droom](https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J) | 2:35 |
+| 26 | [Tout Est Bon](https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Allemaal Een Droom](https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J) | 2:35 |
+| 27 | [DomDoen](https://open.spotify.com/track/5vJpSCkDDqLE6bNF4cRqRG) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Jonna Fraser](https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10) | [Visionair](https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q) | 2:36 |
 | 28 | [Ik Was Al Binnen](https://open.spotify.com/track/7L50xSfZiTi0uxgKLKGL7D) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Hard Work Pays Off 2](https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9) | 3:27 |
 | 29 | [Amsterdam](https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Amsterdam](https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3) | 2:53 |
 | 30 | [Hij Is Van Mij \(feat\. Bizzey\)](https://open.spotify.com/track/6716bTJI7qiHJFFSR0Ethe) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Hij Is Van Mij \(feat\. Bizzey\)](https://open.spotify.com/album/2H2PQhGTflXeBbPunZh2mL) | 3:34 |

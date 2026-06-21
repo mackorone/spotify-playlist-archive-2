@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 382079,
+  "num_followers": 382104,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 443013,
+      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Grande \u00e9 o Senhor (Ao Vivo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0ATcc09leJRsSbZQMe0eOk"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 246360,
       "name": "Grande \u00e9 o Senhor - Ao Vivo Ac\u00fastico",
       "url": "https://open.spotify.com/track/0MqA8iyuwOWym2tWj5qOJc"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 443013,
-      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -439,6 +439,26 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "Meu Barquinho",
+      "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 290250,
       "name": "Muda os Planos - Ao Vivo",
       "url": "https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        }
-      ],
-      "duration_ms": 236013,
-      "name": "Meu Barquinho",
-      "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "Hist\u00f3rias Vol. 1 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2zSnQpQr9HxRWCz4OaUPSx"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Quero Mais - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7gC2JG5pQNF2YJg0cFWlPC"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Sala De Estar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3nHyV7DRqfVWaM4gD6v1SJ"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 261936,
       "name": "Medley Ac\u00fastico: Pra Sempre Vou Te Amar Jesus / Dna de Maria - Ao Vivo",
       "url": "https://open.spotify.com/track/3Plrwm0cuHif9e4FfA8Y3g"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "Hist\u00f3rias Vol. 1 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2zSnQpQr9HxRWCz4OaUPSx"
-      },
-      "artists": [
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Quero Mais - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7gC2JG5pQNF2YJg0cFWlPC"
     },
     {
       "added_at": "2026-03-13 19:15:18",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-239 songs - 11 hr 15 min
+240 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [happiness](https://open.spotify.com/track/4hMcb6afvdD4zdPhGSJkxX) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7) | 3:16 | 2024-07-09 |  |
 | [Happy](https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Happy](https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9) | 2:13 | 2024-07-09 |  |
 | [happy for you](https://open.spotify.com/track/3f7FcNZs3eNL0TJNXM5hgl) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [MISS SICK WORLD](https://open.spotify.com/album/79oS6Ri5JCrY40hGDgCdAS) | 3:00 | 2024-07-09 |  |
+| [Hate You](https://open.spotify.com/track/5WN4ByXJLl7SmsQMsx2yQr) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 | 2026-06-20 |  |
 | [Haunt Me](https://open.spotify.com/track/2TuTlcE2yrwZGFlowFYwIZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 3:06 | 2024-07-09 |  |
 | [Hear It In Your Voice](https://open.spotify.com/track/4wfrovc9l7XAwNRHni11y9) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Everyone But Me](https://open.spotify.com/album/3ROBpz7qSXXgERjSzg1hgo) | 2:42 | 2024-07-09 |  |
 | [Heaven Feels Like](https://open.spotify.com/track/0nSxiyRH74IpDiVdYLVjsv) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Heaven Feels Like](https://open.spotify.com/album/6b9FZARXpkujci1C3uzozn) | 3:23 | 2024-12-11 |  |
@@ -122,7 +123,7 @@
 | [Hurry Up and Let Me Down](https://open.spotify.com/track/5vNIgtRteWg8GvF54Rpz4Z) | [David Alexander](https://open.spotify.com/artist/0Wjw5Ny6h7tYYlwYDLFYiE) | [Hurry Up and Let Me Down](https://open.spotify.com/album/7k08YP0Il6IRpHBF2T24kk) | 2:36 | 2024-10-03 |  |
 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 | 2024-07-09 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/7bH7LRAHdrZaWTlcuLuIYF) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [I Don't Wanna Know](https://open.spotify.com/album/5vXf3NU1ucc2wpTRNibX4b) | 3:48 | 2024-07-09 |  |
-| [i drive me mad](https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [teenage angst EP](https://open.spotify.com/album/2JxyP3DMXo84BCjj5EXLbX) | 2:57 | 2024-07-09 |  |
+| [i drive me mad](https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [teenage angst EP](https://open.spotify.com/album/2JxyP3DMXo84BCjj5EXLbX) | 2:57 | 2024-07-09 | 2026-06-21 |
 | [i drive me mad \- Mike Shinoda Mix](https://open.spotify.com/track/0DplYafqAQYY1fcx3XY3hv) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [i drive me mad \(Mike Shinoda Mix\)](https://open.spotify.com/album/74eZ7jc74TkCSI8esb81xd) | 2:48 | 2024-07-09 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-09 | 2024-07-14 |
 | [i like the way you kiss me](https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [yustyna](https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD) | 2:22 | 2024-07-13 |  |

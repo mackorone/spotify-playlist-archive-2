@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,943 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,906 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 44 | [Adore Ya](https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Adore Ya](https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX) | 3:32 |
 | 45 | [Gib mir mehr Du](https://open.spotify.com/track/6w0eHk8No2d9hAn9xym7Se) | [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Gib mir mehr Du](https://open.spotify.com/album/03ub248yWebL0kbqooEzpM) | 2:43 |
 | 46 | [4 Life](https://open.spotify.com/track/34RhKiUQ5JBU4MIVCwMcBG) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Sommerregen EP](https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4) | 1:56 |
-| 47 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 |
-| 48 | [Moment](https://open.spotify.com/track/1c2S8whRoKEsdzwAGKmo5p) | [Sean Biopcik](https://open.spotify.com/artist/1k4u2Vi2ORf72ZiJrVJG7j) | [Moment](https://open.spotify.com/album/2roalRSX5uIvsjNQ2HUQkP) | 3:07 |
+| 47 | [Moment](https://open.spotify.com/track/1c2S8whRoKEsdzwAGKmo5p) | [Sean Biopcik](https://open.spotify.com/artist/1k4u2Vi2ORf72ZiJrVJG7j) | [Moment](https://open.spotify.com/album/2roalRSX5uIvsjNQ2HUQkP) | 3:07 |
+| 48 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 |
 | 49 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
 | 50 | [Those Were The Days](https://open.spotify.com/track/1dlrW5uLrr1h7PpGA2bduV) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Those Were The Days](https://open.spotify.com/album/7drV33tKZrwRplzhehkqbN) | 3:00 |
 | 51 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 56 | [If You Wanna Be Adored](https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [If You Wanna Be Adored](https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz) | 2:25 |
 | 57 | [Wimpernschlag](https://open.spotify.com/track/6iSMn6NBEhuco0lZsPRs7c) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd), [Max Grimm](https://open.spotify.com/artist/0iVhzCx1AWbJgsVkeQorDl) | [Wimpernschlag](https://open.spotify.com/album/624ffjT6xFCdbDpQL0sV8B) | 2:41 |
 | 58 | [I Like You Best \- Cloud 9 Version](https://open.spotify.com/track/3Ihlrpj4BkhVIEkQKECy1F) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [I Like You Best \(Cloud 9 Version\)](https://open.spotify.com/album/3Psow0HwdFlSP024i2S33b) | 2:48 |
-| 59 | [Surprise Surprise](https://open.spotify.com/track/1qxP9aigVY42COVRva1rO9) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Surprise Surprise](https://open.spotify.com/album/7jyW62gM9VNH5NVd3XkfZA) | 2:55 |
+| 59 | [Thick Skin](https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Thick Skin](https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI) | 2:32 |
 | 60 | [I Don’t Fuck With You \- Live in LA](https://open.spotify.com/track/53WbL7M2FBvokQhzw3veB6) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [I Don’t Fuck With You \(Live in LA\)](https://open.spotify.com/album/5Bx56Rkyvb7CP5uWHXbLJV) | 1:42 |
 
 Snapshot ID: `AAAAAO+IwGlHvsTmSwiHWj+vmxyt1z66`

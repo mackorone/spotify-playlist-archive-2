@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 182950,
       "name": "Atsukim Laik\u0105",
       "url": "https://open.spotify.com/track/46YwX7ao55NOQR0xp4jDSE"
@@ -4820,7 +4820,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 265423,
       "name": "Ber\u017eas (feat. Monika Liu)",
       "url": "https://open.spotify.com/track/5GY1DG6DwtqCv7au849YRu"
@@ -8638,7 +8638,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -10554,7 +10554,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
@@ -10942,7 +10942,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -11304,7 +11304,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 259213,
       "name": "DULK\u0116S",
       "url": "https://open.spotify.com/track/3FdzoprjY8Eh4z2UVvMyOv"
@@ -13154,7 +13154,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -17972,7 +17972,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
@@ -21308,7 +21308,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 227375,
       "name": "Kely Sustoja Laikas",
       "url": "https://open.spotify.com/track/3NojqgEwViI2Q81SVD35i2"
@@ -21708,7 +21708,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 187200,
       "name": "KLOJA KLOJA",
       "url": "https://open.spotify.com/track/720fbrGDWMBvFI9mW8igv7"
@@ -26141,6 +26141,24 @@
     },
     {
       "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284373,
+      "name": "Meet Me Halfway",
+      "url": "https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg"
+    },
+    {
+      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
@@ -26152,7 +26170,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 284373,
       "name": "Meet Me Halfway",
       "url": "https://open.spotify.com/track/6wOYnPq1hPihRepcDClPUw"
@@ -32370,7 +32388,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "Pasilik Praeity",
       "url": "https://open.spotify.com/track/38grlitW19BsvUcEE5pz9Z"
@@ -40056,7 +40074,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 194754,
       "name": "Stadionai",
       "url": "https://open.spotify.com/track/2RfaNuS3O8IblZzeI7PEHp"
@@ -46490,7 +46508,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 180066,
       "name": "VIEN\u0104 DIEN\u0104",
       "url": "https://open.spotify.com/track/0lahTieWxkj8zsJqtRK9jZ"
@@ -50572,7 +50590,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 98769,
       "name": "\u042d\u041a\u0421\u041f\u041e\u041d\u0410\u0422",
       "url": "https://open.spotify.com/track/4Madyc0e7wYv1W8KllxuS8"

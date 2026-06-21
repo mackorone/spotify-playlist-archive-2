@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 453246,
+  "num_followers": 453348,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/2Tis4GWz7pJbxseWkgjvUJ"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 232411,
+      "name": "Mala Mujer",
+      "url": "https://open.spotify.com/track/7JNn2rhwOntQHy8Yvbu5d5"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 259466,
       "name": "Que nadie sepa mi sufrir (Amor de mis amores)",
       "url": "https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Colecci\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/2Tis4GWz7pJbxseWkgjvUJ"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 232411,
-      "name": "Mala Mujer",
-      "url": "https://open.spotify.com/track/7JNn2rhwOntQHy8Yvbu5d5"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Cumbia de Marisol",
+        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
+      },
+      "artists": [
+        {
+          "name": "Supergrupo Son Tepito",
+          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "Cumbia de Marisol",
+      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 197000,
       "name": "Me Va, Me Va (En Vivo)",
       "url": "https://open.spotify.com/track/5hD9sORqBGD0RsI9IkDr8C"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Cumbia de Marisol",
-        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
-      },
-      "artists": [
-        {
-          "name": "Supergrupo Son Tepito",
-          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Cumbia de Marisol",
-      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -2139,22 +2139,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/7gUYaG993XR9dyROUbSQn1"
+        "name": "P\u00eddeme",
+        "url": "https://open.spotify.com/album/3zNrb6P4PB5bnzwBmCRuDU"
       },
       "artists": [
         {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        },
-        {
-          "name": "Jorge Carmona",
-          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
+          "name": "Joe Rodriguez Y Su Grupo Latino",
+          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
         }
       ],
-      "duration_ms": 294146,
-      "name": "El Ni\u00f1o",
-      "url": "https://open.spotify.com/track/5qBRYiH8i7xHQDMzAQvG8s"
+      "duration_ms": 201220,
+      "name": "Nuestra Pobreza",
+      "url": "https://open.spotify.com/track/26ksJ520roTNYyCE8nz2bO"
     }
   ],
   "unique_name": "Fiesta de Barrio",

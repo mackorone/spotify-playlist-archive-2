@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Violet Grohl",
-  "num_followers": 791569,
+  "num_followers": 791617,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Ego Death At A Bachelorette Party",
-        "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 201372,
-      "name": "Mirtazapine",
-      "url": "https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -635,18 +619,34 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Under the Pink",
-        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
       },
       "artists": [
         {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
         }
       ],
-      "duration_ms": 305493,
-      "name": "Cornflake Girl",
-      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
+      "duration_ms": 201372,
+      "name": "Mirtazapine",
+      "url": "https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 295133,
+      "name": "Roam",
+      "url": "https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+        "name": "Under the Pink",
+        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
       },
       "artists": [
         {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
         }
       ],
-      "duration_ms": 295133,
-      "name": "Roam",
-      "url": "https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs"
+      "duration_ms": 305493,
+      "name": "Cornflake Girl",
+      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "The Clearing",
-        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 269826,
-      "name": "White Horses",
-      "url": "https://open.spotify.com/track/5FxdLsAmaOo8ofpNvsSun5"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "For I Am Death",
         "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 219395,
       "name": "For I Am Death",
       "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "The Clearing",
+        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 269826,
+      "name": "White Horses",
+      "url": "https://open.spotify.com/track/5FxdLsAmaOo8ofpNvsSun5"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Fall Back",
         "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 211964,
       "name": "Break the Girl",
       "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2026-05-01 18:02:47",

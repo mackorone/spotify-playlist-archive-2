@@ -4306,7 +4306,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 134399,
       "name": "Balans",
       "url": "https://open.spotify.com/track/0JK8MMdQNg1hHV51b2lsBA"
@@ -10676,6 +10676,24 @@
       "duration_ms": 182400,
       "name": "Cum Era (feat. NANE)",
       "url": "https://open.spotify.com/track/4vdpMmpHsaG0YoyHseym5n"
+    },
+    {
+      "album": {
+        "name": "CUM ESTI TU",
+        "url": "https://open.spotify.com/album/30KRfz9Ga7IjTyYaotuSPD"
+      },
+      "artists": [
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "CUM ESTI TU",
+      "url": "https://open.spotify.com/track/4P3HhqX7YTeenh0BywMsPR"
     },
     {
       "album": {
@@ -22208,7 +22226,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 120000,
       "name": "IN MINTEA TA",
       "url": "https://open.spotify.com/track/1Kkhr9ga7twQHj6fMmccrt"
@@ -28160,7 +28178,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 208695,
       "name": "MDS",
       "url": "https://open.spotify.com/track/7d90mcFcXgy1L4BJqiAoLX"
@@ -30544,7 +30562,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 92500,
       "name": "NE IMPACAM",
       "url": "https://open.spotify.com/track/0Hq2c1OBs9ECuPCtemOss1"
@@ -30707,12 +30725,12 @@
         },
         {
           "name": "Ian",
-          "url": "https://open.spotify.com/artist/67jmOUMmXY6qY19JcTpBoO"
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
         }
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Nefiu",
       "url": "https://open.spotify.com/track/7cqBCPSg3gGx5WLcThHq0c"
@@ -40443,6 +40461,28 @@
     },
     {
       "album": {
+        "name": "Sigur Dar Incet",
+        "url": "https://open.spotify.com/album/77AqgBXPY0mFmt1MoFnkZU"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        },
+        {
+          "name": "Azteca",
+          "url": "https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182775,
+      "name": "Sigur Dar Incet",
+      "url": "https://open.spotify.com/track/1GvAEveXYX53btltb0QCxm"
+    },
+    {
+      "album": {
         "name": "RMN",
         "url": "https://open.spotify.com/album/0kYZkGelkajt8OufvSU2qm"
       },
@@ -42937,6 +42977,28 @@
     },
     {
       "album": {
+        "name": "Suf\u0103r \u00een t\u0103cere",
+        "url": "https://open.spotify.com/album/46Qw3bBG5xVH1qA0Wh3RKD"
+      },
+      "artists": [
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+        },
+        {
+          "name": "EFRA",
+          "url": "https://open.spotify.com/artist/0XgqZLH6hcDOTlOt6v4v3w"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169859,
+      "name": "Suf\u0103r \u00een t\u0103cere",
+      "url": "https://open.spotify.com/track/7gk7ms2yEA5aRFBjw8a2je"
+    },
+    {
+      "album": {
         "name": "next chapter",
         "url": "https://open.spotify.com/album/3XPXxSPsjCYee7WSYqX133"
       },
@@ -43654,7 +43716,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -46684,7 +46746,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 118736,
       "name": "Trag \u00een ea",
       "url": "https://open.spotify.com/track/40TCHpYkSRk6rzJfOSB9Fu"

@@ -456,7 +456,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 190686,
       "name": "2010YPICO",
       "url": "https://open.spotify.com/track/4GRkjn3Jo0Bokx3i7ntBJm"
@@ -7814,7 +7814,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante RMX - Remix",
       "url": "https://open.spotify.com/track/56V7nzrqr6Sq1uFym4odwa"
@@ -7844,7 +7844,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante RMX - Remix",
       "url": "https://open.spotify.com/track/5sX4UiPdOdndSEWA6asUgh"
@@ -17594,7 +17594,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 134144,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7"
@@ -21508,7 +21508,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 168209,
       "name": "Me Mareo",
       "url": "https://open.spotify.com/track/6jBoUckd6VEImt6pg8RpDr"
@@ -21994,6 +21994,28 @@
       "duration_ms": 168000,
       "name": "Mi Luz (ft. Rels B)",
       "url": "https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq"
+    },
+    {
+      "album": {
+        "name": "BRIGADO,",
+        "url": "https://open.spotify.com/album/3fQbRic1J465dN6YtaP7Eq"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        },
+        {
+          "name": "3NOC",
+          "url": "https://open.spotify.com/artist/1KYVPfpjyJCqskDnUC1jas"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209375,
+      "name": "Mi modo de vida <3",
+      "url": "https://open.spotify.com/track/6R3XJpp4PBpMFMoxKNj77y"
     },
     {
       "album": {
@@ -23402,7 +23424,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 137142,
       "name": "Nadie Never",
       "url": "https://open.spotify.com/track/6uEHbdVbhk9aMOACbAI5Kd"
@@ -26050,6 +26072,28 @@
       "duration_ms": 202097,
       "name": "Patio de la C\u00e1rcel - Tangos",
       "url": "https://open.spotify.com/track/17BqQS5Cj899fQR8e6gvk9"
+    },
+    {
+      "album": {
+        "name": "LOS ANGELITOS",
+        "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218372,
+      "name": "PaToLasGyales",
+      "url": "https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae"
     },
     {
       "album": {

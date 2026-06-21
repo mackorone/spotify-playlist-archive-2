@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 259000,
       "name": "Hidden Words",
       "url": "https://open.spotify.com/track/2kQJ8c4sIys2FWDgmrfYnL"
@@ -2790,6 +2790,24 @@
       "duration_ms": 262000,
       "name": "Last Scene",
       "url": "https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R"
+    },
+    {
+      "album": {
+        "name": "TR.EE",
+        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Layback",
+      "url": "https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7"
     },
     {
       "album": {

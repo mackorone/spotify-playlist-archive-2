@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 17556,
+  "num_followers": 17558,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Love And Liberation",
+        "url": "https://open.spotify.com/album/4DbWKlb4SOElI7DYEE5TIR"
+      },
+      "artists": [
+        {
+          "name": "Jazzmeia Horn",
+          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
+        }
+      ],
+      "duration_ms": 319640,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/56B0uGixLoAvJCBj25wBfG"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 190534,
       "name": "Hello (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Love And Liberation",
-        "url": "https://open.spotify.com/album/4DbWKlb4SOElI7DYEE5TIR"
-      },
-      "artists": [
-        {
-          "name": "Jazzmeia Horn",
-          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
-        }
-      ],
-      "duration_ms": 319640,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/56B0uGixLoAvJCBj25wBfG"
     },
     {
       "added_at": "2022-10-01 16:57:49",

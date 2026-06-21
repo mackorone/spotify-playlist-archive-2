@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,330 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,333 likes - 49 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 48 | [Dust My Broom \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/4a0NdfY3aWOlZCB3nWz0vS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 5:02 |
 | 49 | [Wolf Is At Your Door](https://open.spotify.com/track/2UiNUUvCdmSJvy8ghyUehS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 2:55 |
 
-Snapshot ID: `ajM1AAAAAACj4r/USDFn9Izc4nDEgste`
+Snapshot ID: `ajSGgAAAAAAv6DQ0LoXsri+ofV3HI2Cx`

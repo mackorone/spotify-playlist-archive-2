@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-430 songs - 1 day 2 hr 30 min
+431 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [After a long time\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq) | 4:10 | 2022-07-22 | 2024-04-19 |
 | [After a long time\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/6PJ1sh2oLgYQE9hpUivC8k) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb), [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh) | [After a Long Time \(Digging Club Seoul Ver.\)](https://open.spotify.com/album/2tETtfB9qQGJ60gNmESEz3) | 4:12 | 2022-09-05 | 2023-09-06 |
 | [After this night](https://open.spotify.com/track/243eZR6OEAl0AKFAOWH6lK) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [After this night](https://open.spotify.com/album/1A31imB5bDtcwBogAvxIzG) | 4:22 | 2022-05-11 | 2025-04-25 |
-| [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 | 2022-05-11 |  |
+| [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 | 2022-05-11 | 2026-06-21 |
 | [Afterlife \(Feat\. OOHYO\) \- Voradory Ver.](https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:12 | 2022-05-11 | 2025-06-18 |
 | [Again](https://open.spotify.com/track/1F978CxXsPtQxnVy1X1tqo) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [My Troublesome Star, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/29ejO11XbyY7F77buHPw6W) | 3:52 | 2026-01-21 | 2026-03-26 |
 | [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 | 2023-11-02 | 2025-06-05 |
@@ -159,6 +159,7 @@
 | [Give Me The Light](https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V) | 3:10 | 2022-09-05 | 2024-04-19 |
 | [Give Me The Light](https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC) | 3:10 | 2022-07-22 | 2022-11-03 |
 | [Give Me The Light 불을 밝혀줘](https://open.spotify.com/track/0uJYbZ0tNOLrxncyLTOObR) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/3pyxq9x3nrxr2EdHwu6Lof) | 3:10 | 2022-05-11 | 2022-07-29 |
+| [Glimmers](https://open.spotify.com/track/46w28mpfJkCHaybepEd3Eb) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7) | [New Edition 72](https://open.spotify.com/album/380DJfrIbF1vhKHSbtasEN) | 3:46 | 2026-06-17 |  |
 | [Good Luck](https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Good Luck](https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR) | 3:40 | 2025-07-31 |  |
 | [Goodbye Boy](https://open.spotify.com/track/1drCzM3kJvHqrCK21QyGse) | [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy) | [Goodbye Boy](https://open.spotify.com/album/39tr8GJkE0Po4q5nZm2W7W) | 2:57 | 2022-05-11 | 2022-07-24 |
 | [Grace](https://open.spotify.com/track/3EpZgF7kexepykfMdUOxLl) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [CATNIP](https://open.spotify.com/album/5LD2dy3RzcRNKMUBGQk6Y9) | 4:05 | 2022-05-11 | 2022-07-29 |

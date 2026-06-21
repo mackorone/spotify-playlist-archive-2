@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 101847,
+  "num_followers": 101865,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Bwa Kale",
+        "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
+      },
+      "artists": [
+        {
+          "name": "Tony Mix",
+          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
+        },
+        {
+          "name": "T-Babas",
+          "url": "https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb"
+        }
+      ],
+      "duration_ms": 185965,
+      "name": "Bwa Kale",
+      "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "PWOTEJE M",
         "url": "https://open.spotify.com/album/39aT6K4C2FjfDOOAHj6UMa"
       },
@@ -751,22 +771,6 @@
       "duration_ms": 174216,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3fjdmSy0BjSLRsg0j5BM8Z"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Tous Ces D\u00e9tails",
-        "url": "https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ"
-      },
-      "artists": [
-        {
-          "name": "Durkheim",
-          "url": "https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0"
-        }
-      ],
-      "duration_ms": 144371,
-      "name": "Aidez Moi",
-      "url": "https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -791,22 +795,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Bwa Kale",
-        "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
+        "name": "Tous Ces D\u00e9tails",
+        "url": "https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ"
       },
       "artists": [
         {
-          "name": "Tony Mix",
-          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
-        },
-        {
-          "name": "T-Babas",
-          "url": "https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb"
+          "name": "Durkheim",
+          "url": "https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0"
         }
       ],
-      "duration_ms": 185965,
-      "name": "Bwa Kale",
-      "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
+      "duration_ms": 144371,
+      "name": "Aidez Moi",
+      "url": "https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Vodoo Adjae",
+        "url": "https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 574693,
+      "name": "Ke M Pa Sote",
+      "url": "https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Akouna",
         "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 230679,
       "name": "Akouna",
       "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Vodoo Adjae",
-        "url": "https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 574693,
-      "name": "Ke M Pa Sote",
-      "url": "https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Rasanbleman (Red Moon)",
+        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
+      },
+      "artists": [
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+        }
+      ],
+      "duration_ms": 400388,
+      "name": "Ayizan",
+      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Haiti debout",
         "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 171272,
       "name": "LAKAY",
       "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Rasanbleman (Red Moon)",
-        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
-      },
-      "artists": [
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
-        },
-        {
-          "name": "Anie Alerte",
-          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
-        }
-      ],
-      "duration_ms": 400388,
-      "name": "Ayizan",
-      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "PA KRIYE",
-        "url": "https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC"
-      },
-      "artists": [
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
-        },
-        {
-          "name": "Anie Alerte",
-          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "PA KRIYE",
-      "url": "https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Trip Tropikal",
         "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 252000,
       "name": "Na Va W\u00e8 Yo",
       "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "PA KRIYE",
+        "url": "https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC"
+      },
+      "artists": [
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "PA KRIYE",
+      "url": "https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl"
     },
     {
       "added_at": "2025-07-25 04:00:50",

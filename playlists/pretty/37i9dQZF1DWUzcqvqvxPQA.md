@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,089 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,098 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,15 +51,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 41 | [whisper and the wind \- b+CL version](https://open.spotify.com/track/4ccZ3mBc2gtSRW6xzrxEQb) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC), [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [whisper and the wind \(b+CL version\)](https://open.spotify.com/album/3nLiutNSYBngqPRzTOB7Br) | 3:18 |
 | 42 | [True Religion](https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [True Religion](https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk) | 4:02 |
 | 43 | [wildfire](https://open.spotify.com/track/4rYBBqMyM8dCdI9sad9FmO) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [wildfire](https://open.spotify.com/album/4U3TSSiZ9NZEnXP2IkFCbz) | 2:41 |
-| 44 | [Satisfy](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 2:55 |
+| 44 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 |
 | 45 | [redeemed](https://open.spotify.com/track/2lkHVcg3Ur0DK0YGR2RFT2) | [sun haze](https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2) | [redeemed](https://open.spotify.com/album/5Gz7B8CntlUIvMoGlKZY3f) | 3:25 |
-| 46 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 |
+| 46 | [Satisfy](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 2:55 |
 | 47 | [Koolaid](https://open.spotify.com/track/2VT2WRmWPN4Be318KrdFDo) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Koolaid](https://open.spotify.com/album/0di8Gum7drHw1FPmniZRvr) | 3:00 |
 | 48 | [give & take](https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [give & take](https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC) | 3:26 |
 | 49 | [Sunshine & Laughter](https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Krisirie](https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m) | [Sunshine & Laughter](https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG) | 2:56 |
 | 50 | [Emmaus](https://open.spotify.com/track/1ZtVGvGRzpEHlEwEgLgyh0) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Emmaus](https://open.spotify.com/album/4VQPtBO3Y1a1wy7d2gByMQ) | 3:57 |
-| 51 | [Love Me Anyway](https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Love Me To Life](https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9) | 2:30 |
-| 52 | [Take Over Me](https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Take Over Me](https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd) | 3:11 |
+| 51 | [Take Over Me](https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Take Over Me](https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd) | 3:11 |
+| 52 | [Love Me Anyway](https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Love Me To Life](https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9) | 2:30 |
 | 53 | [Always Summertime](https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Always Summertime](https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ) | 2:30 |
 | 54 | [MILLION WAYS](https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [MILLION WAYS](https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2) | 3:30 |
 | 55 | [How Good of God](https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [How Good of God](https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT) | 2:44 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 89 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 |
 | 90 | [closer](https://open.spotify.com/track/0OXZJHPmDYIyVaJ5nHM8YB) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [awakening](https://open.spotify.com/album/3AjLPYEKAkjxUZPKEKiXlv) | 2:07 |
 | 91 | [Song of the Summer](https://open.spotify.com/track/3m1hA3gecbWfbEKXYD0V7U) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Song of the Summer](https://open.spotify.com/album/0hhZ9wE0NXs2h6VsH0A764) | 3:00 |
-| 92 | [Thorns](https://open.spotify.com/track/51ntQprVv963OPeFxdLCJt) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Thorns](https://open.spotify.com/album/5alop0gQAbADANQLRa90uP) | 3:02 |
-| 93 | [Offline](https://open.spotify.com/track/0QB3afgc1QcucwYnuWzni2) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Finally Free](https://open.spotify.com/album/1OYhVxPpcpU6K7ZLtvhP6i) | 1:46 |
+| 92 | [Offline](https://open.spotify.com/track/0QB3afgc1QcucwYnuWzni2) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Finally Free](https://open.spotify.com/album/1OYhVxPpcpU6K7ZLtvhP6i) | 1:46 |
+| 93 | [Thorns](https://open.spotify.com/track/51ntQprVv963OPeFxdLCJt) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Thorns](https://open.spotify.com/album/5alop0gQAbADANQLRa90uP) | 3:02 |
 | 94 | [Good Feeling \- Live](https://open.spotify.com/track/0bJ3hmRDGCMLM6fOcHygq1) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Live\)](https://open.spotify.com/album/7g2I02ahVqOq019UvjtGbF) | 4:49 |
 | 95 | [fix my eyes](https://open.spotify.com/track/6Ep2zX7LwsYw1eMDZu0Ukx) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [fix my eyes](https://open.spotify.com/album/3nKZNJHgK4Gw4mOsrcMi0I) | 2:33 |
 | 96 | [Jump](https://open.spotify.com/track/0LS222XE1wYJZ30WEy2HBa) | [Life.Church Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Symphony \(Deluxe Edition\)](https://open.spotify.com/album/3DXs5BdYeUvolvS87Hr99V) | 3:25 |

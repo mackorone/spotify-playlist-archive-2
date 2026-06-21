@@ -1,6 +1,6 @@
 {
   "description": "A mega Anime hits mix! Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 734306,
+  "num_followers": 734412,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-04-28 15:01:21",
       "album": {
-        "name": "BLOODY STREAM",
-        "url": "https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW"
-      },
-      "artists": [
-        {
-          "name": "Coda",
-          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
-        }
-      ],
-      "duration_ms": 261920,
-      "name": "BLOODY STREAM",
-      "url": "https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw"
-    },
-    {
-      "added_at": "2026-04-28 15:01:21",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2qveemGCix2UWsDkepaq7G"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 138573,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg"
+    },
+    {
+      "added_at": "2026-04-28 15:01:21",
+      "album": {
+        "name": "BLOODY STREAM",
+        "url": "https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "duration_ms": 261920,
+      "name": "BLOODY STREAM",
+      "url": "https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw"
     },
     {
       "added_at": "2026-04-28 15:01:21",
@@ -1171,8 +1171,8 @@
     {
       "added_at": "2026-04-28 15:01:21",
       "album": {
-        "name": "The Story of Us",
-        "url": "https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV"
+        "name": "Anytime Anywhere",
+        "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
       },
       "artists": [
         {
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
         }
       ],
-      "duration_ms": 267133,
-      "name": "The Story of Us",
-      "url": "https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq"
+      "duration_ms": 230449,
+      "name": "Anytime Anywhere",
+      "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
     },
     {
       "added_at": "2026-04-28 15:01:21",
@@ -1239,38 +1239,6 @@
     {
       "added_at": "2026-04-28 15:01:21",
       "album": {
-        "name": "One Last Kiss",
-        "url": "https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 252026,
-      "name": "One Last Kiss",
-      "url": "https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M"
-    },
-    {
-      "added_at": "2026-04-28 15:01:21",
-      "album": {
-        "name": "Anytime Anywhere",
-        "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 230449,
-      "name": "Anytime Anywhere",
-      "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
-    },
-    {
-      "added_at": "2026-04-28 15:01:21",
-      "album": {
         "name": "\u6253\u4e0a\u82b1\u706b",
         "url": "https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS"
       },
@@ -1287,6 +1255,38 @@
       "duration_ms": 289334,
       "name": "\u6253\u4e0a\u82b1\u706b",
       "url": "https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ"
+    },
+    {
+      "added_at": "2026-04-28 15:01:21",
+      "album": {
+        "name": "The Story of Us",
+        "url": "https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "The Story of Us",
+      "url": "https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq"
+    },
+    {
+      "added_at": "2026-04-28 15:01:21",
+      "album": {
+        "name": "One Last Kiss",
+        "url": "https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "One Last Kiss",
+      "url": "https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M"
     },
     {
       "added_at": "2026-04-28 15:01:21",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-04-28 15:01:21",
       "album": {
-        "name": "\u307e\u306a\u3056\u3057\u306f\u5149",
-        "url": "https://open.spotify.com/album/7gZ6GXk5BJNcQZfEGjiiZC"
-      },
-      "artists": [
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        }
-      ],
-      "duration_ms": 207469,
-      "name": "\u307e\u306a\u3056\u3057\u306f\u5149",
-      "url": "https://open.spotify.com/track/0HI4lUmOWpFzxPB5NMlAXW"
-    },
-    {
-      "added_at": "2026-04-28 15:01:21",
-      "album": {
         "name": "INERTIA",
         "url": "https://open.spotify.com/album/0tjOB1djtnx8VIkISrO6cb"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 199486,
       "name": "INERTIA",
       "url": "https://open.spotify.com/track/2joT0CjcGqc1fr8Fvk7itj"
+    },
+    {
+      "added_at": "2026-04-28 15:01:21",
+      "album": {
+        "name": "\u307e\u306a\u3056\u3057\u306f\u5149",
+        "url": "https://open.spotify.com/album/7gZ6GXk5BJNcQZfEGjiiZC"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "duration_ms": 207469,
+      "name": "\u307e\u306a\u3056\u3057\u306f\u5149",
+      "url": "https://open.spotify.com/track/0HI4lUmOWpFzxPB5NMlAXW"
     },
     {
       "added_at": "2026-04-28 15:01:21",

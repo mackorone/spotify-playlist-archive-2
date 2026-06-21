@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? ",
-  "num_followers": 352062,
+  "num_followers": 352091,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFNx1cikC3o6b81BkzAB/lM1c9dB",
+  "snapshot_id": "AAAAALx6YVzLRQcwJX8nWU1Vo0ApzW5W",
   "tracks": [
     {
       "added_at": "2026-06-12 03:00:29",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-06-12 03:00:29",
       "album": {
-        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "Volv\u00ed a Nacer",
-      "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
-    },
-    {
-      "added_at": "2026-06-12 03:00:29",
-      "album": {
         "name": "\u00c9 Por Amor",
         "url": "https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 272693,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw"
+    },
+    {
+      "added_at": "2026-06-12 03:00:29",
+      "album": {
+        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "Volv\u00ed a Nacer",
+      "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
     },
     {
       "added_at": "2026-06-12 03:00:29",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-06-12 03:00:29",
       "album": {
+        "name": "Galeria Caribe",
+        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz"
+    },
+    {
+      "added_at": "2026-06-12 03:00:29",
+      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 221946,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
-    },
-    {
-      "added_at": "2026-06-12 03:00:29",
-      "album": {
-        "name": "Galeria Caribe",
-        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz"
     },
     {
       "added_at": "2026-06-12 03:00:29",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-06-12 03:00:29",
       "album": {
-        "name": "Kany Garc\u00eda",
-        "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Alguien",
-      "url": "https://open.spotify.com/track/5Yf9nkFp0JoR6V048LfnbG"
-    },
-    {
-      "added_at": "2026-06-12 03:00:29",
-      "album": {
         "name": "Pablo Alboran (Deluxe)",
         "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 251200,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/5vr2aeKPuH8koWDcjRvlEn"
+    },
+    {
+      "added_at": "2026-06-12 03:00:29",
+      "album": {
+        "name": "Kany Garc\u00eda",
+        "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Alguien",
+      "url": "https://open.spotify.com/track/5Yf9nkFp0JoR6V048LfnbG"
     },
     {
       "added_at": "2026-06-12 03:00:29",

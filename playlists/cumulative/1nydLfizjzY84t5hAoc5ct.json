@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Fake News",
+        "url": "https://open.spotify.com/album/7ir7HmoBWX0vEFU2b0aAYi"
+      },
+      "artists": [
+        {
+          "name": "Pivots",
+          "url": "https://open.spotify.com/artist/2txViAU1bQQ5NzCYpWR1G8"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176719,
+      "name": "Fake News",
+      "url": "https://open.spotify.com/track/2JiGE2hEdU2KgLc9gPhbSm"
+    },
+    {
+      "album": {
         "name": "Fear (Demo)",
         "url": "https://open.spotify.com/album/3Lq5YwfzGpgUfNhflySB4o"
       },

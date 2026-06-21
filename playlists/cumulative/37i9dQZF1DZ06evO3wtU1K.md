@@ -4,7 +4,7 @@
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-125 songs - 11 hr 37 min
+126 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Agnus Dei \- Live](https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 1:25 | 2022-10-10 |  |
 | [All Authority \- LIVE](https://open.spotify.com/track/7sr8oiWn2rhtA2rj06J89R) | [Woman Evolve Worship](https://open.spotify.com/artist/3WBfPh9zlMVP06nhky0VYN), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [All Authority \(LIVE\)](https://open.spotify.com/album/5kYO5bBkw7crmqnI2feBXn) | 9:12 | 2025-10-25 |  |
 | [Already Good \(Tasha Slide\)](https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Already Good \(Tasha Slide\)](https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF) | 3:42 | 2025-05-18 |  |
-| [Another Thing \(with Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/28dBWQUI19spbuQacMBPhc) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 3:56 | 2025-09-21 |  |
+| [Another Thing \(with Tasha Cobbs Leonard\) \- Live](https://open.spotify.com/track/28dBWQUI19spbuQacMBPhc) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 3:56 | 2025-09-21 | 2026-06-21 |
 | [Awake My Soul](https://open.spotify.com/track/1HkXH8anJdvM3zjouj4E9k) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/19yNOXDt9RzLmAU2j9YnML) | 3:45 | 2022-09-14 | 2025-07-12 |
 | [Awake My Soul](https://open.spotify.com/track/1OfkAN8mUaNCR2aXGpfrbg) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/0vtGFiSSmdHEnAb2faXyzC) | 3:45 | 2025-04-01 |  |
 | [Big Heart \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/66FuKEsGwkpIN2vpdQkSrK) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Made In The South](https://open.spotify.com/album/3QHcxJF7Phwk45RQ4aJb4d) | 4:02 | 2025-08-28 | 2025-11-18 |
@@ -35,6 +35,7 @@
 | [Fill Me Up \- Live](https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 5:58 | 2022-09-14 |  |
 | [Fill Me Up / Overflow \- Medley/1 Mic 1 Take](https://open.spotify.com/track/5K4x0ZKK32t6EWbrhzOoV1) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [1 Mic 1 Take](https://open.spotify.com/album/5n9MXmKpCKEryX2oITZ6H1) | 5:07 | 2022-09-14 |  |
 | [Fill My Cup Lord \- Live](https://open.spotify.com/track/5LirXMovN5QfincDuUFGCn) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 0:54 | 2022-09-14 | 2024-09-27 |
+| [Final Say](https://open.spotify.com/track/3aWTJQ27xr2EID0kXzXu7g) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Final Say](https://open.spotify.com/album/2RgeQaXAE1ZcEP3XmlAjm3) | 6:41 | 2026-06-21 |  |
 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 | 2022-09-14 |  |
 | [Forever At Your Feet](https://open.spotify.com/track/2fL7VG81TUm62B3fhJyr1Z) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:23 | 2022-10-12 |  |
 | [God In The Valley](https://open.spotify.com/track/2hb6mXABA5exLn0aX5OdEm) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:52 | 2025-07-31 | 2025-10-20 |

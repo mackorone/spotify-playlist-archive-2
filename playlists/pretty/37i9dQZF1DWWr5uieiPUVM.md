@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > e aí tue, como foi o show?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,545,966 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,545,962 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [XTRANHO](https://open.spotify.com/track/6sHWMvDDdgNNvkJ7JHktdl) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [XTRANHO](https://open.spotify.com/album/5ORsvI5ThmZw7PS1NTvZaB) | 3:33 |
 | 50 | [Stalker](https://open.spotify.com/track/4Qtv069FqWXt7yjutBUw1i) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr) | [ARꓘANO](https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl) | 3:04 |
 
-Snapshot ID: `AAAAAPlv4oh30AHL9rCoul2oXa4+reCj`
+Snapshot ID: `AAAAALhFc/8+xxUTuEkANUW5HSqwyT7b`

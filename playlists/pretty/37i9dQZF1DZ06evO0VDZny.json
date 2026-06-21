@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 514552,
+  "num_followers": 514651,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAC7VV4kRVi0P4lxETh0w9Fa",
+  "snapshot_id": "ajSGgAAAAACX1H04SN81NlLoEgeuaQGb",
   "tracks": [
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 222093,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy"
+      "duration_ms": 231106,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 231106,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"
+      "duration_ms": 222093,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy"
     },
     {
       "added_at": null,
@@ -623,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo-files",
-        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
       },
       "artists": [
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
         }
       ],
-      "duration_ms": 207982,
-      "name": "losT_404.nll",
-      "url": "https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB"
+      "duration_ms": 261733,
+      "name": "Pray for Plagues",
+      "url": "https://open.spotify.com/track/4hTn5kvaI6mTDckWU7gm91"
     },
     {
       "added_at": null,
@@ -659,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
       },
       "artists": [
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
         }
       ],
-      "duration_ms": 261733,
-      "name": "Pray for Plagues",
-      "url": "https://open.spotify.com/track/4hTn5kvaI6mTDckWU7gm91"
+      "duration_ms": 207982,
+      "name": "losT_404.nll",
+      "url": "https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB"
     },
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo-files",
-        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
       },
       "artists": [
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
         }
       ],
-      "duration_ms": 198246,
-      "name": "koolaid.xxo",
-      "url": "https://open.spotify.com/track/5O1gAdLo5wb7TpYkGNLsCy"
+      "duration_ms": 269626,
+      "name": "For Stevie Wonder's Eyes Only (Braille)",
+      "url": "https://open.spotify.com/track/7EIVI3qWBiGDB6G2Wx5Bl3"
     },
     {
       "added_at": null,
@@ -735,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
       },
       "artists": [
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Kanisan",
+          "url": "https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO"
         }
       ],
-      "duration_ms": 269626,
-      "name": "For Stevie Wonder's Eyes Only (Braille)",
-      "url": "https://open.spotify.com/track/7EIVI3qWBiGDB6G2Wx5Bl3"
+      "duration_ms": 208224,
+      "name": "seenitallbefore_xx.arch",
+      "url": "https://open.spotify.com/track/7nlMB8nDWH3pOFTxxwgfBm"
     },
     {
       "added_at": null,
@@ -767,50 +767,6 @@
       "duration_ms": 212572,
       "name": "Let\u2019s Get The Party Started (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/2ONPuwAuOVO6RbzKaiowxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo-files",
-        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
-        }
-      ],
-      "duration_ms": 182764,
-      "name": "king_sl@yer.fmk",
-      "url": "https://open.spotify.com/track/27lDLTm1KL0YsEdtMFUxgY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slave to the Rithm (I Hate Models Never Alone Remix)",
-        "url": "https://open.spotify.com/album/3PUupHLhm6hzK2bT42dMIu"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "I Hate Models",
-          "url": "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 274675,
-      "name": "Slave to the Rithm - I Hate Models Never Alone Remix",
-      "url": "https://open.spotify.com/track/4fAzikA2ID06WSfqd0pYDm"
     },
     {
       "added_at": null,
@@ -863,6 +819,46 @@
       "duration_ms": 129866,
       "name": "A Lot Like Vegas",
       "url": "https://open.spotify.com/track/0n1HOrTBNb87Ozqqs5ZiZD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "duration_ms": 182764,
+      "name": "king_sl@yer.fmk",
+      "url": "https://open.spotify.com/track/27lDLTm1KL0YsEdtMFUxgY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "duration_ms": 198246,
+      "name": "koolaid.xxo",
+      "url": "https://open.spotify.com/track/5O1gAdLo5wb7TpYkGNLsCy"
     },
     {
       "added_at": null,

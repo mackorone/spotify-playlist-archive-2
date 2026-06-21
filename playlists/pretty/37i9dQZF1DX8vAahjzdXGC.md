@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Fajar Noor, Tyla, Mario G Klau, Juan Reza dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,613 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,621 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 69 | [However Long It Takes \(Go!\)](https://open.spotify.com/track/5Im0t3P370wcX6ntTSvEAi) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Ready For Rapture](https://open.spotify.com/album/4LNnJ0DltJFSv7Wd7kMitx) | 4:00 |
 | 70 | [stepbystep](https://open.spotify.com/track/4csnapkNSfjVvUSdfunHbM) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [stepbystep](https://open.spotify.com/album/2OPm1Mxoon4x4gWbofZkfT) | 3:08 |
 | 71 | [Silly](https://open.spotify.com/track/0HP7PIaAw6zmMDz9dghpeW) | [Roypim](https://open.spotify.com/artist/2eYm3DvV9tmZipL51cfnzb) | [Silly](https://open.spotify.com/album/2Kq4YKtTW5IwkYyW5zqv2C) | 3:22 |
-| 72 | [White Dress](https://open.spotify.com/track/46BrWpkvFukYHSfSn5TcPE) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [DEW](https://open.spotify.com/artist/4r2Us41ZbkxQxAvVi86AMR) | [White Dress](https://open.spotify.com/album/5B5u70ANt9LicrR0MxcjbC) | 3:21 |
+| 72 | [White Dress](https://open.spotify.com/track/46BrWpkvFukYHSfSn5TcPE) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [DEW](https://open.spotify.com/artist/7zUABjJWWDy7uMwyllEsSS) | [White Dress](https://open.spotify.com/album/5B5u70ANt9LicrR0MxcjbC) | 3:21 |
 | 73 | [Catch Your Fever](https://open.spotify.com/track/1JT19X6iKUaX1dljA0iSwn) | [PYC](https://open.spotify.com/artist/2LFV9Tsf12CuTSAlGhS48D) | [Catch Your Fever](https://open.spotify.com/album/39jxL156bfSym2AGyQ9Yui) | 2:35 |
 | 74 | [Ain't No Need to Worry](https://open.spotify.com/track/1BUn0XXjncxfx2U2ItEmA3) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [Ain't No Need to Worry](https://open.spotify.com/album/08O80aSSjKzV9ePIvPxq3i) | 2:58 |
 | 75 | [maybe not tonight](https://open.spotify.com/track/0uqOCp3cDPVlAI7WvlM6iB) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [maybe not tonight](https://open.spotify.com/album/6fZPBWGC7T0r0PwDyOuh7p) | 3:45 |

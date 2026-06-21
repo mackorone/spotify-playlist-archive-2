@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 36057,
+  "num_followers": 36061,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAANQW1UfmjikGNJQXcd0m+3",
+  "snapshot_id": "ajSGgAAAAABQ0WUhvqad4xm4yqx38b9e",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Storm: Sorry 4 The Rain",
-        "url": "https://open.spotify.com/album/4QMV0g9J5HS87XSvCxAf7i"
-      },
-      "artists": [
-        {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 156015,
-      "name": "Clippers",
-      "url": "https://open.spotify.com/track/0DRZZuz7QinXaI3pKJ05vH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rookie Of The Year",
         "url": "https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 175729,
       "name": "Onna Come Up (feat. G Herbo) [Remix]",
       "url": "https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Storm: Sorry 4 The Rain",
+        "url": "https://open.spotify.com/album/4QMV0g9J5HS87XSvCxAf7i"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 156015,
+      "name": "Clippers",
+      "url": "https://open.spotify.com/track/0DRZZuz7QinXaI3pKJ05vH"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feet On Land",
-        "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 152658,
-      "name": "Feet On Land",
-      "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Survivor\u2019s Guilt (feat. G Herbo)",
         "url": "https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 183703,
       "name": "Survivor\u2019s Guilt (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feet On Land",
+        "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 152658,
+      "name": "Feet On Land",
+      "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chicken Talkin Bastard",
-        "url": "https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Ain't Easy",
-      "url": "https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
         "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
       },
@@ -687,22 +667,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zavier",
-        "url": "https://open.spotify.com/album/5ZcuJ1sGBS0tl32RnHUNx1"
+        "name": "Chicken Talkin Bastard",
+        "url": "https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R"
       },
       "artists": [
         {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 328574,
-      "name": "I Remember/Dear Zavier (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/4cuvj5fiaO0jAiodMUJHWp"
+      "duration_ms": 215000,
+      "name": "Ain't Easy",
+      "url": "https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome to Fazoland (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 256052,
+      "name": "Same Me",
+      "url": "https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4"
     },
     {
       "added_at": null,
@@ -723,18 +719,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Fazoland (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+        "name": "Zavier",
+        "url": "https://open.spotify.com/album/5ZcuJ1sGBS0tl32RnHUNx1"
       },
       "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 256052,
-      "name": "Same Me",
-      "url": "https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4"
+      "duration_ms": 328574,
+      "name": "I Remember/Dear Zavier (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4cuvj5fiaO0jAiodMUJHWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swervo",
+        "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 214344,
+      "name": "Honestly (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
     },
     {
       "added_at": null,
@@ -791,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swervo",
-        "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 214344,
-      "name": "Honestly (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 196659,
       "name": "Cap Guns",
       "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb: Lil Heroin Edition",
+        "url": "https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 143120,
+      "name": "Mad People",
+      "url": "https://open.spotify.com/track/6fKbp9R2cVXuaFAyWjrOIL"
     },
     {
       "added_at": null,
@@ -898,11 +914,19 @@
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Big Opp",
+          "url": "https://open.spotify.com/artist/32dqY5hdEsWLMZVG7asCq0"
         }
       ],
-      "duration_ms": 143120,
-      "name": "Mad People",
-      "url": "https://open.spotify.com/track/6fKbp9R2cVXuaFAyWjrOIL"
+      "duration_ms": 182700,
+      "name": "Outta Bounds (feat. Polo G & Big Opp)",
+      "url": "https://open.spotify.com/track/3kHEUnuyzFV2VylR3JT9pL"
     },
     {
       "added_at": null,
@@ -963,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 200490,
-      "name": "Never Scared (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lil Herb: Lil Heroin Edition",
         "url": "https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW"
       },
@@ -990,19 +994,11 @@
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Big Opp",
-          "url": "https://open.spotify.com/artist/32dqY5hdEsWLMZVG7asCq0"
         }
       ],
-      "duration_ms": 182700,
-      "name": "Outta Bounds (feat. Polo G & Big Opp)",
-      "url": "https://open.spotify.com/track/3kHEUnuyzFV2VylR3JT9pL"
+      "duration_ms": 126367,
+      "name": "Neva Going Back",
+      "url": "https://open.spotify.com/track/1Nv7HemMdxWuEs8f47gzMG"
     }
   ],
   "unique_name": "This Is G Herbo",

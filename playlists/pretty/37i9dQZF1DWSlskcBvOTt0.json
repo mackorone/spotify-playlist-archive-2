@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 589640,
+  "num_followers": 589746,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1699,6 +1699,30 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/3LOuosVLxpQ5k5Fs6TDj3z"
+      },
+      "artists": [
+        {
+          "name": "Ajna",
+          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+        },
+        {
+          "name": "Samm",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "Chelsea Como",
+          "url": "https://open.spotify.com/artist/5LjlABsYnzlQCHIqAgK2Ac"
+        }
+      ],
+      "duration_ms": 376271,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3sdKayfObt6VePZL7AhiU5"
+    },
+    {
+      "added_at": "2026-06-19 04:00:46",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7BqoBqQfo0DQiYgZ6dNXWv"
       },
@@ -1715,22 +1739,6 @@
       "duration_ms": 210297,
       "name": "Run",
       "url": "https://open.spotify.com/track/6kH58ciITQKhQ6x5kYQjPD"
-    },
-    {
-      "added_at": "2026-06-19 04:00:46",
-      "album": {
-        "name": "M\u00e1s Tiempo Vol. 2",
-        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 380625,
-      "name": "The Whistle Tune",
-      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -1763,26 +1771,18 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/3LOuosVLxpQ5k5Fs6TDj3z"
+        "name": "M\u00e1s Tiempo Vol. 2",
+        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
       },
       "artists": [
         {
-          "name": "Ajna",
-          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
-        },
-        {
-          "name": "Samm",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
-        },
-        {
-          "name": "Chelsea Como",
-          "url": "https://open.spotify.com/artist/5LjlABsYnzlQCHIqAgK2Ac"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 376271,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/3sdKayfObt6VePZL7AhiU5"
+      "duration_ms": 380625,
+      "name": "The Whistle Tune",
+      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -2007,30 +2007,6 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/1eAwTFl959hlcrLUN5s61k"
-      },
-      "artists": [
-        {
-          "name": "Naarly",
-          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
-        },
-        {
-          "name": "ERIICE",
-          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
-        },
-        {
-          "name": "Romy Janssen",
-          "url": "https://open.spotify.com/artist/5wizmv8KVwvSrcFyvagn8x"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "PULSE",
-      "url": "https://open.spotify.com/track/2d6hC7Uu13Pn1axD7LplmR"
-    },
-    {
-      "added_at": "2026-06-19 04:00:46",
-      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/5S8RSxz5dhVO1hEwbhl9JK"
       },
@@ -2055,46 +2031,26 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/0x1Tv2lL1eUoM6MWXz41do"
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/1eAwTFl959hlcrLUN5s61k"
       },
       "artists": [
         {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
         },
         {
-          "name": "Agoria",
-          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
         },
         {
-          "name": "Simone Santagati",
-          "url": "https://open.spotify.com/artist/4kucxpxFKtEXH98xR8GCPH"
-        },
-        {
-          "name": "Blas\u00e9",
-          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
+          "name": "Romy Janssen",
+          "url": "https://open.spotify.com/artist/5wizmv8KVwvSrcFyvagn8x"
         }
       ],
-      "duration_ms": 296000,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/19GkT8wYkfB3Gw9CokBCIV"
-    },
-    {
-      "added_at": "2026-06-19 04:00:46",
-      "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL"
-      },
-      "artists": [
-        {
-          "name": "Betical",
-          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u"
+      "duration_ms": 180983,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/2d6hC7Uu13Pn1axD7LplmR"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -2123,6 +2079,22 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL"
+      },
+      "artists": [
+        {
+          "name": "Betical",
+          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u"
+    },
+    {
+      "added_at": "2026-06-19 04:00:46",
+      "album": {
         "name": "Bilmirem",
         "url": "https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0"
       },
@@ -2139,6 +2111,34 @@
       "duration_ms": 162937,
       "name": "Bilmirem",
       "url": "https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ"
+    },
+    {
+      "added_at": "2026-06-19 04:00:46",
+      "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/0x1Tv2lL1eUoM6MWXz41do"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Agoria",
+          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
+        },
+        {
+          "name": "Simone Santagati",
+          "url": "https://open.spotify.com/artist/4kucxpxFKtEXH98xR8GCPH"
+        },
+        {
+          "name": "Blas\u00e9",
+          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/19GkT8wYkfB3Gw9CokBCIV"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
-        "name": "U Ain't Lyin'",
-        "url": "https://open.spotify.com/album/0FvXnVAn397FMfYjnIviyI"
-      },
-      "artists": [
-        {
-          "name": "Peace Control",
-          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "U Ain't Lyin'",
-      "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
-    },
-    {
-      "added_at": "2026-06-19 04:00:46",
-      "album": {
         "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
         "url": "https://open.spotify.com/album/3LxTnt5i5qLoYMZJhPna48"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 197546,
       "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
       "url": "https://open.spotify.com/track/7buuOG83BDx2R8dc36WAYn"
+    },
+    {
+      "added_at": "2026-06-19 04:00:46",
+      "album": {
+        "name": "U Ain't Lyin'",
+        "url": "https://open.spotify.com/album/0FvXnVAn397FMfYjnIviyI"
+      },
+      "artists": [
+        {
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "U Ain't Lyin'",
+      "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -2351,26 +2351,6 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
-        "name": "Feel the Rhythm",
-        "url": "https://open.spotify.com/album/67YOOGJXXbfL0N5xRjRpDl"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 196339,
-      "name": "Feel the Rhythm",
-      "url": "https://open.spotify.com/track/7mnmhbOCsqpYnJg8en0j4D"
-    },
-    {
-      "added_at": "2026-06-19 04:00:46",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh"
       },
@@ -2391,6 +2371,26 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
+        "name": "Feel the Rhythm",
+        "url": "https://open.spotify.com/album/67YOOGJXXbfL0N5xRjRpDl"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 196339,
+      "name": "Feel the Rhythm",
+      "url": "https://open.spotify.com/track/7mnmhbOCsqpYnJg8en0j4D"
+    },
+    {
+      "added_at": "2026-06-19 04:00:46",
+      "album": {
         "name": "Yours to Take",
         "url": "https://open.spotify.com/album/6chCBhvEyDp2WexX9hi7is"
       },
@@ -2400,33 +2400,13 @@
           "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
         },
         {
-          "name": "Ajna (BE)",
+          "name": "Ajna",
           "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
         }
       ],
       "duration_ms": 302815,
       "name": "Yours to Take",
       "url": "https://open.spotify.com/track/1lCnkwov638dkrJhQf2nmv"
-    },
-    {
-      "added_at": "2026-06-19 04:00:46",
-      "album": {
-        "name": "Sympathy For The Devil",
-        "url": "https://open.spotify.com/album/7j2bfbPa9SfdPLRGLOuNG1"
-      },
-      "artists": [
-        {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
-        },
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        }
-      ],
-      "duration_ms": 219963,
-      "name": "Sympathy For The Devil",
-      "url": "https://open.spotify.com/track/3rrbTQvYSZNPZ5qFrti0xO"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -2467,6 +2447,26 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
+        "name": "Sympathy For The Devil",
+        "url": "https://open.spotify.com/album/7j2bfbPa9SfdPLRGLOuNG1"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        }
+      ],
+      "duration_ms": 219963,
+      "name": "Sympathy For The Devil",
+      "url": "https://open.spotify.com/track/3rrbTQvYSZNPZ5qFrti0xO"
+    },
+    {
+      "added_at": "2026-06-19 04:00:46",
+      "album": {
         "name": "Shake It To The Max (FLY) [Major Lazer Remix]",
         "url": "https://open.spotify.com/album/5ILhc6FDbh6qqA22QLjnoh"
       },
@@ -2491,6 +2491,22 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
+        "name": "I'm Here",
+        "url": "https://open.spotify.com/album/3D52eLwtMbO0OLr0aloAI0"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        }
+      ],
+      "duration_ms": 205864,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
+    },
+    {
+      "added_at": "2026-06-19 04:00:46",
+      "album": {
         "name": "Diamond Baby",
         "url": "https://open.spotify.com/album/0G9kMkpwJPvgSBHmiHTFdh"
       },
@@ -2507,22 +2523,6 @@
       "duration_ms": 148000,
       "name": "Genie Baby",
       "url": "https://open.spotify.com/track/3uI4pCvoglYfqg0kmlSaOb"
-    },
-    {
-      "added_at": "2026-06-19 04:00:46",
-      "album": {
-        "name": "I'm Here",
-        "url": "https://open.spotify.com/album/3D52eLwtMbO0OLr0aloAI0"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        }
-      ],
-      "duration_ms": 205864,
-      "name": "I'm Here",
-      "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
     },
     {
       "added_at": "2026-06-19 04:00:46",
@@ -2671,22 +2671,22 @@
     {
       "added_at": "2026-06-19 04:00:46",
       "album": {
-        "name": "Tik Tak",
-        "url": "https://open.spotify.com/album/5NoroFqrKDMCxdjpdN4N38"
+        "name": "Blower",
+        "url": "https://open.spotify.com/album/2pK3RhDVE9XvD12aZGJJUE"
       },
       "artists": [
         {
-          "name": "MAXI MERAKI",
-          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+          "name": "JANAKEY",
+          "url": "https://open.spotify.com/artist/24udzsxakjNTTMYETGtOMx"
         },
         {
-          "name": "Gkat",
-          "url": "https://open.spotify.com/artist/4CX46ZO686NvuigcYb3UVD"
+          "name": "Cem Seckin",
+          "url": "https://open.spotify.com/artist/7mPKbXLm5SyzOwTQ99hel4"
         }
       ],
-      "duration_ms": 175892,
-      "name": "Tik Tak",
-      "url": "https://open.spotify.com/track/08Tj1ZcFC7UgmXmTf00iov"
+      "duration_ms": 208524,
+      "name": "Blower",
+      "url": "https://open.spotify.com/track/0fC67A99zxU0gzhLibyTsK"
     }
   ],
   "unique_name": "Tantra",

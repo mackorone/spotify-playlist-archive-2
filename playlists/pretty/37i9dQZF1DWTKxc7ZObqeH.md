@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 
 > Relaxing jazz for warm summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,352 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,442 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 44 | [Li´l Darlin](https://open.spotify.com/track/1lEcERHb1xMw2pxYKIE9qw) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Li´l Darlin](https://open.spotify.com/album/4RKdiX9Za8FoqUmNjU3yJZ) | 3:43 |
 | 45 | [Velvet Nightfall](https://open.spotify.com/track/44H2n9uGagQmP9k6TvAJ13) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Sapphire Dreams](https://open.spotify.com/album/3j4YOkM5ZR0yybllI5FiQO) | 3:59 |
 
-Snapshot ID: `AAAAAEeBjYvhCdmTKNzbshi+u2QN/0MY`
+Snapshot ID: `AAAAACnTeRhrlxc4aE+klKg3zOfaRsfa`

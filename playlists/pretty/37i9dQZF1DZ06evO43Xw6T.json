@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 184442,
+  "num_followers": 184453,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAAacc9lm2COphuyl81DEtYN",
+  "snapshot_id": "ajSGgAAAAACINzseVA0bTS90y40q+UK8",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gan\u00e9",
+        "url": "https://open.spotify.com/album/2XnvAhJy0R6qJT6GVYhKuZ"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 260949,
+      "name": "Gan\u00e9",
+      "url": "https://open.spotify.com/track/7ARRCcCMXLzdda2w5jxSY4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Se Llevan Serenatas",
         "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 197091,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gan\u00e9",
-        "url": "https://open.spotify.com/album/2XnvAhJy0R6qJT6GVYhKuZ"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 260949,
-      "name": "Gan\u00e9",
-      "url": "https://open.spotify.com/track/7ARRCcCMXLzdda2w5jxSY4"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 164687,
-      "name": "TENDIDO",
-      "url": "https://open.spotify.com/track/5jgvoAw4cyAYdxhPN7zwZb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Compa Primo",
         "url": "https://open.spotify.com/album/1cdxgijuBnrCsU7uhp7Ch4"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 192768,
       "name": "Compa Primo",
       "url": "https://open.spotify.com/track/2DdaY2TLmJU8MlTqCLG8lg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 164687,
+      "name": "TENDIDO",
+      "url": "https://open.spotify.com/track/5jgvoAw4cyAYdxhPN7zwZb"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REGALO DE DIOS",
-        "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 270328,
-      "name": "REGALO DE DIOS",
-      "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Gabacho",
         "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 162617,
       "name": "El Gabacho",
       "url": "https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REGALO DE DIOS",
+        "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 270328,
+      "name": "REGALO DE DIOS",
+      "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
     },
     {
       "added_at": null,

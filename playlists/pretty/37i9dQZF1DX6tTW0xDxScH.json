@@ -1,6 +1,6 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 743869,
+  "num_followers": 743860,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "Whipped Cream & Other Delights",
-        "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Ladyfingers",
-      "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "Rose in the Dark",
         "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 190400,
       "name": "When I Get My Hands On You",
       "url": "https://open.spotify.com/track/4Fs6KJzg4d0xrGZt7wrC0M"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "Whipped Cream & Other Delights",
+        "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Ladyfingers",
+      "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "look up",
-      "url": "https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 222400,
       "name": "This Too Shall Last",
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "look up",
+      "url": "https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "Blizzard",
-        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 165460,
-      "name": "Pale Song",
-      "url": "https://open.spotify.com/track/4eaWT26MQU3xfjni9MySYF"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 162466,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "Blizzard",
+        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 165460,
+      "name": "Pale Song",
+      "url": "https://open.spotify.com/track/4eaWT26MQU3xfjni9MySYF"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "Fragile Plane: B-Sides",
-        "url": "https://open.spotify.com/album/1RORYbQMEFI6n8LjzBJtWs"
-      },
-      "artists": [
-        {
-          "name": "Allegra Krieger",
-          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Living in the City is so Beautiful",
-      "url": "https://open.spotify.com/track/2zIvuPFKHOou4JJbOSFa94"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 246573,
       "name": "Honey Dove",
       "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "Fragile Plane: B-Sides",
+        "url": "https://open.spotify.com/album/1RORYbQMEFI6n8LjzBJtWs"
+      },
+      "artists": [
+        {
+          "name": "Allegra Krieger",
+          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Living in the City is so Beautiful",
+      "url": "https://open.spotify.com/track/2zIvuPFKHOou4JJbOSFa94"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N"
-      },
-      "artists": [
-        {
-          "name": "Pete Yorn",
-          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "The Hard Way",
-      "url": "https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "Black Hole Rainbow",
         "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 245080,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N"
+      },
+      "artists": [
+        {
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1"
     },
     {
       "added_at": "2026-01-07 19:33:17",

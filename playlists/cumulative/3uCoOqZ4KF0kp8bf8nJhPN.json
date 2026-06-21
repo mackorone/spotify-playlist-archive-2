@@ -4659,6 +4659,24 @@
     },
     {
       "album": {
+        "name": "SWAGGOT! (B SIDE)",
+        "url": "https://open.spotify.com/album/0ebnfu4hXifVFCgrAv6l3Y"
+      },
+      "artists": [
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117350,
+      "name": "TRISH!",
+      "url": "https://open.spotify.com/track/0MQB4JqltuT3QoE3bbMqDc"
+    },
+    {
+      "album": {
         "name": "TSUNDERE!",
         "url": "https://open.spotify.com/album/3NF21IyrfoNsN3dmCNqE3p"
       },

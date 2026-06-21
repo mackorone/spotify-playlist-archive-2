@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAACugAIcD+m2V6edacw2Q2wY",
+  "snapshot_id": "ajSGgAAAAADB4xOpImDeLOWSTa8WhbbV",
   "tracks": [
     {
       "added_at": null,
@@ -551,26 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coke Wave 3.5: Narcos",
-        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
+        "name": "semi-auto",
+        "url": "https://open.spotify.com/album/7KqYq0N1DyEOSTwJLvUxx8"
       },
       "artists": [
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Max B",
-          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+          "name": "Jos\u00e9 Guadalupe Estrada",
+          "url": "https://open.spotify.com/artist/0BFINpe01okw1htOTh9Flt"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 143757,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/4F2CPlyoNxK6JbeAcmZGjT"
+      "duration_ms": 235093,
+      "name": "semi-auto",
+      "url": "https://open.spotify.com/track/5XmVB20AVnn0B1rwEVeNRW"
     },
     {
       "added_at": null,
@@ -591,6 +587,30 @@
       "duration_ms": 122346,
       "name": "Close to Me",
       "url": "https://open.spotify.com/track/1LXShQsFNYrYgqnleZLn4d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coke Wave 3.5: Narcos",
+        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 143757,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/4F2CPlyoNxK6JbeAcmZGjT"
     },
     {
       "added_at": null,
@@ -635,26 +655,6 @@
       "duration_ms": 207230,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/6czMVryRhYgdMJz47iki8s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "semi-auto",
-        "url": "https://open.spotify.com/album/7KqYq0N1DyEOSTwJLvUxx8"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Guadalupe Estrada",
-          "url": "https://open.spotify.com/artist/0BFINpe01okw1htOTh9Flt"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "semi-auto",
-      "url": "https://open.spotify.com/track/5XmVB20AVnn0B1rwEVeNRW"
     },
     {
       "added_at": null,

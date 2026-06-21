@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60049,
+  "num_followers": 60044,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
-        "name": "m0ti0n",
-        "url": "https://open.spotify.com/album/2agpEAlJ7uDQjcIGswVPLM"
-      },
-      "artists": [
-        {
-          "name": "louna0nline",
-          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
-        }
-      ],
-      "duration_ms": 147562,
-      "name": "m0ti0n",
-      "url": "https://open.spotify.com/track/1bfGnvSonrY4NJcG8DAK0l"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
         "name": "Juhannusvalssi",
         "url": "https://open.spotify.com/album/6FUG0ajVmHL4lhSn0omaWc"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 224313,
       "name": "Juhannusvalssi",
       "url": "https://open.spotify.com/track/0lvrxwyl1PwFPrqjtQ7MPH"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
+        "name": "m0ti0n",
+        "url": "https://open.spotify.com/album/2agpEAlJ7uDQjcIGswVPLM"
+      },
+      "artists": [
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        }
+      ],
+      "duration_ms": 147562,
+      "name": "m0ti0n",
+      "url": "https://open.spotify.com/track/1bfGnvSonrY4NJcG8DAK0l"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
-        "name": "Sin\u00e4 ja se poitsu",
-        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
-        }
-      ],
-      "duration_ms": 183957,
-      "name": "Sin\u00e4 ja se poitsu",
-      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
         "name": "Kaikki p\u00e4\u00e4ttyy meihin",
         "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 172092,
       "name": "Kaikki p\u00e4\u00e4ttyy meihin",
       "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
+        "name": "Sin\u00e4 ja se poitsu",
+        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        }
+      ],
+      "duration_ms": 183957,
+      "name": "Sin\u00e4 ja se poitsu",
+      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
+        "name": "Sitke\u00e4 sissi",
+        "url": "https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT"
+      },
+      "artists": [
+        {
+          "name": "Suvi Ter\u00e4sniska",
+          "url": "https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS"
+        }
+      ],
+      "duration_ms": 181234,
+      "name": "Sitke\u00e4 sissi",
+      "url": "https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
         "name": "Mustat sunnuntait",
         "url": "https://open.spotify.com/album/6ImfgFNiEsPVp2ALClyCPt"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 183461,
       "name": "Mustat sunnuntait",
       "url": "https://open.spotify.com/track/1LmOOpRQCtYuCubwh2PoE3"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
-        "name": "Sitke\u00e4 sissi",
-        "url": "https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT"
-      },
-      "artists": [
-        {
-          "name": "Suvi Ter\u00e4sniska",
-          "url": "https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS"
-        }
-      ],
-      "duration_ms": 181234,
-      "name": "Sitke\u00e4 sissi",
-      "url": "https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
+        "name": "Sulhanen",
+        "url": "https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30"
+      },
+      "artists": [
+        {
+          "name": "Aleksanteri Hakaniemi",
+          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Sulhanen",
+      "url": "https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
         "name": "tuntuu niin paljon itkett\u00e4\u00e4",
         "url": "https://open.spotify.com/album/2fGfEH9IlmR2QHnxTRqHbm"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
-        "name": "Sulhanen",
-        "url": "https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30"
-      },
-      "artists": [
-        {
-          "name": "Aleksanteri Hakaniemi",
-          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Sulhanen",
-      "url": "https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
         "name": "Takas sun luo",
         "url": "https://open.spotify.com/album/4c2OE3BKnHjXIbLv5Ovf7E"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 168906,
       "name": "Takas sun luo",
       "url": "https://open.spotify.com/track/24AvVcuQHJg5EkTwOGqkHk"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
-        "name": "en tunne",
-        "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
-      },
-      "artists": [
-        {
-          "name": "Ella Herold",
-          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
-        }
-      ],
-      "duration_ms": 181607,
-      "name": "en tunne",
-      "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -1015,18 +999,18 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
-        "name": "Camouflage",
-        "url": "https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo"
+        "name": "en tunne",
+        "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
       },
       "artists": [
         {
-          "name": "Olavi Uusivirta",
-          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+          "name": "Ella Herold",
+          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
         }
       ],
-      "duration_ms": 226200,
-      "name": "Talking Heads",
-      "url": "https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS"
+      "duration_ms": 181607,
+      "name": "en tunne",
+      "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -1043,6 +1027,22 @@
       "duration_ms": 172186,
       "name": "Santana",
       "url": "https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
+        "name": "Camouflage",
+        "url": "https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo"
+      },
+      "artists": [
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Talking Heads",
+      "url": "https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
-        "name": "Viimeiseen hengenvetoon",
-        "url": "https://open.spotify.com/album/22h46Y8b4gQkLi5vrVT9HZ"
-      },
-      "artists": [
-        {
-          "name": "Vilma Alina",
-          "url": "https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19"
-        }
-      ],
-      "duration_ms": 201341,
-      "name": "Viimeiseen hengenvetoon",
-      "url": "https://open.spotify.com/track/4t3vRAfFDA9vuXE6iFAT7q"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
         "name": "V\u00e4rit",
         "url": "https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 169846,
       "name": "V\u00e4rit",
       "url": "https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
+        "name": "Viimeiseen hengenvetoon",
+        "url": "https://open.spotify.com/album/22h46Y8b4gQkLi5vrVT9HZ"
+      },
+      "artists": [
+        {
+          "name": "Vilma Alina",
+          "url": "https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19"
+        }
+      ],
+      "duration_ms": 201341,
+      "name": "Viimeiseen hengenvetoon",
+      "url": "https://open.spotify.com/track/4t3vRAfFDA9vuXE6iFAT7q"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
-        "name": "Rautaa",
-        "url": "https://open.spotify.com/album/4sFlXW6P8GXgZ8oAckX1HO"
-      },
-      "artists": [
-        {
-          "name": "Petra Gargano",
-          "url": "https://open.spotify.com/artist/4TkCzUif7TdJyGpvqyRvQ4"
-        }
-      ],
-      "duration_ms": 160130,
-      "name": "Rautaa",
-      "url": "https://open.spotify.com/track/79D4icNYZNeZ6i53WUN0Qu"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
         "name": "Jengi tekee sen virheen",
         "url": "https://open.spotify.com/album/5dDfkrgcQ6nkqDiOhVCH96"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 180880,
       "name": "Jengi tekee sen virheen",
       "url": "https://open.spotify.com/track/7792JXlYkHSXvk8bPUFUOa"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
+        "name": "Rautaa",
+        "url": "https://open.spotify.com/album/4sFlXW6P8GXgZ8oAckX1HO"
+      },
+      "artists": [
+        {
+          "name": "Petra Gargano",
+          "url": "https://open.spotify.com/artist/4TkCzUif7TdJyGpvqyRvQ4"
+        }
+      ],
+      "duration_ms": 160130,
+      "name": "Rautaa",
+      "url": "https://open.spotify.com/track/79D4icNYZNeZ6i53WUN0Qu"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
-        "name": "Aerobikki",
-        "url": "https://open.spotify.com/album/2gtjwgVXc1X5PWDZmmFCQC"
-      },
-      "artists": [
-        {
-          "name": "Antti Paalanen",
-          "url": "https://open.spotify.com/artist/04v74MPedb2oLX2pUbcC4V"
-        }
-      ],
-      "duration_ms": 168919,
-      "name": "Aerobikki",
-      "url": "https://open.spotify.com/track/4iwe9PNipEfC47IgXIwxj9"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
         "name": "Ymp\u00e4ri maailmaa",
         "url": "https://open.spotify.com/album/3PPoGONHbrijon7eHSJkFR"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 158000,
       "name": "Ymp\u00e4ri maailmaa",
       "url": "https://open.spotify.com/track/78k4zRWQ3gfREahzHXZCor"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
+        "name": "Aerobikki",
+        "url": "https://open.spotify.com/album/2gtjwgVXc1X5PWDZmmFCQC"
+      },
+      "artists": [
+        {
+          "name": "Antti Paalanen",
+          "url": "https://open.spotify.com/artist/04v74MPedb2oLX2pUbcC4V"
+        }
+      ],
+      "duration_ms": 168919,
+      "name": "Aerobikki",
+      "url": "https://open.spotify.com/track/4iwe9PNipEfC47IgXIwxj9"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
-        "name": "Se ei ollu min\u00e4",
-        "url": "https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ"
-      },
-      "artists": [
-        {
-          "name": "Joe L",
-          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
-        }
-      ],
-      "duration_ms": 130423,
-      "name": "Se ei ollu min\u00e4",
-      "url": "https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH"
-    },
-    {
-      "added_at": "2026-06-18 21:00:40",
-      "album": {
         "name": "Pallo jalast",
         "url": "https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 138773,
       "name": "Pallo jalast",
       "url": "https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d"
+    },
+    {
+      "added_at": "2026-06-18 21:00:40",
+      "album": {
+        "name": "Se ei ollu min\u00e4",
+        "url": "https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        }
+      ],
+      "duration_ms": 130423,
+      "name": "Se ei ollu min\u00e4",
+      "url": "https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH"
     },
     {
       "added_at": "2026-06-18 21:00:40",
@@ -1323,18 +1323,22 @@
     {
       "added_at": "2026-06-18 21:00:40",
       "album": {
-        "name": "110%",
-        "url": "https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW"
+        "name": "Kev\u00e4tkiima",
+        "url": "https://open.spotify.com/album/0IcYHhXS5oi0F6sJmgy0pT"
       },
       "artists": [
         {
-          "name": "Frans Harju",
-          "url": "https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5"
+          "name": "Sebastian Visa",
+          "url": "https://open.spotify.com/artist/5KGtBCbmfrpTqAq1ISbi1D"
+        },
+        {
+          "name": "Ira",
+          "url": "https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9"
         }
       ],
-      "duration_ms": 181985,
-      "name": "110%",
-      "url": "https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi"
+      "duration_ms": 153110,
+      "name": "Kev\u00e4tkiima",
+      "url": "https://open.spotify.com/track/6G2WYA3PdKa7lvgtwP6Ui0"
     }
   ],
   "unique_name": "Nousussa",

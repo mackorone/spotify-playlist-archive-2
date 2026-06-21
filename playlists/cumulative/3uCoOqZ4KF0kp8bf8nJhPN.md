@@ -4,7 +4,7 @@
 
 > 
 
-324 songs - 12 hr 51 min
+325 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [through thunder & lightning.](https://open.spotify.com/track/0uuk8tkyqYtmiqvYn9yiGJ) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [CALDER](https://open.spotify.com/artist/3rfH5SRk6ekMfiBZ5KVYw9) | [through thunder & lightning.](https://open.spotify.com/album/2hXBqVtxCv26RpUdjzUFHK) | 1:50 | 2025-04-10 |  |
 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 | 2025-01-23 | 2025-06-29 |
 | [TRAP](https://open.spotify.com/track/05qENdYgWWcNHUbWlq0j2l) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [TRAP](https://open.spotify.com/album/0CFlLbNscLiP0Wp92eJJeQ) | 1:21 | 2025-04-11 |  |
+| [TRISH!](https://open.spotify.com/track/0MQB4JqltuT3QoE3bbMqDc) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [SWAGGOT! \(B SIDE\)](https://open.spotify.com/album/0ebnfu4hXifVFCgrAv6l3Y) | 1:57 | 2026-06-20 |  |
 | [TSUNDERE!](https://open.spotify.com/track/6xA79k0WDTtz1f2KvfkGot) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [TSUNDERE!](https://open.spotify.com/album/3NF21IyrfoNsN3dmCNqE3p) | 2:06 | 2025-03-27 |  |
 | [TUMBLR SEXYMAN](https://open.spotify.com/track/351oQ68wGp63b1iAyVeGEi) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 1:56 | 2025-05-01 |  |
 | [Twilight Lament](https://open.spotify.com/track/3RxKY6Yxbqzs0gwsy1Fbtb) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Twilight Lament](https://open.spotify.com/album/6kMTAisbydVlrVkvwzxl2g) | 1:32 | 2025-04-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,546 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,547 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 34 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |
 | 35 | [All of the Lights](https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [All of the Lights](https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F) | 2:00 |
 | 36 | [My Favourite Game](https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA) | [My Favourite Game](https://open.spotify.com/album/6gBdKuFAJKsuV42mWX6309) | 3:23 |
-| 37 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
-| 38 | [Wicked Game](https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Wicked Game](https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx) | 2:55 |
+| 37 | [Wicked Game](https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Wicked Game](https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx) | 2:55 |
+| 38 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
 | 39 | [Don't Want Your Love](https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:12 |
 | 40 | [Coming Home](https://open.spotify.com/track/3T4LnWo07y2jlJoe4kedly) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Coming Home](https://open.spotify.com/album/2CcgpiaIAMwGLXUAP7Geax) | 2:48 |
 | 41 | [Mask Off](https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Mask Off](https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa) | 2:35 |

@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers. Plot twist-ul anului inclus. Ian \ud83e\udd1d Azteca",
-  "num_followers": 37298,
+  "num_followers": 37383,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,26 @@
     {
       "added_at": "2026-06-19 17:37:54",
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "added_at": "2026-06-19 17:37:54",
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
-    },
-    {
-      "added_at": "2026-06-19 17:37:54",
-      "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
       "added_at": "2026-06-19 17:37:54",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2026-06-19 17:37:54",
       "album": {
-        "name": "Gone Gone Gone",
-        "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 198004,
-      "name": "Gone Gone Gone",
-      "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
-    },
-    {
-      "added_at": "2026-06-19 17:37:54",
-      "album": {
         "name": "Movin' To The Sun",
         "url": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq"
       },
@@ -1091,6 +1067,30 @@
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
+    },
+    {
+      "added_at": "2026-06-19 17:37:54",
+      "album": {
+        "name": "Gone Gone Gone",
+        "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 198004,
+      "name": "Gone Gone Gone",
+      "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
     },
     {
       "added_at": "2026-06-19 17:37:54",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-06-19 17:37:54",
       "album": {
-        "name": "You Stole The Show",
-        "url": "https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 207190,
-      "name": "You Stole The Show",
-      "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
-    },
-    {
-      "added_at": "2026-06-19 17:37:54",
-      "album": {
         "name": "Shake It To The Max (FLY) (Remix)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
+    },
+    {
+      "added_at": "2026-06-19 17:37:54",
+      "album": {
+        "name": "You Stole The Show",
+        "url": "https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 207190,
+      "name": "You Stole The Show",
+      "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
     },
     {
       "added_at": "2026-06-19 17:37:54",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-06-19 17:37:54",
       "album": {
-        "name": "NOBLE",
-        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
-      },
-      "artists": [
-        {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "NOBLE",
-      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
-    },
-    {
-      "added_at": "2026-06-19 17:37:54",
-      "album": {
         "name": "THIS MUSIC MAY CONTAIN HOPE.",
         "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 205933,
       "name": "Azul",
       "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+    },
+    {
+      "added_at": "2026-06-19 17:37:54",
+      "album": {
+        "name": "NOBLE",
+        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "NOBLE",
+      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
     },
     {
       "added_at": "2026-06-19 17:37:54",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-06-19 17:37:54",
       "album": {
-        "name": "Choke Me",
-        "url": "https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW"
-      },
-      "artists": [
-        {
-          "name": "Alexandra C\u0103pit\u0103nescu",
-          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
-        }
-      ],
-      "duration_ms": 180725,
-      "name": "Choke Me",
-      "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
-    },
-    {
-      "added_at": "2026-06-19 17:37:54",
-      "album": {
         "name": "Zoo (From \"Zootopia 2\")",
         "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 190822,
       "name": "Zoo - From \"Zootopia 2\"",
       "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
+    },
+    {
+      "added_at": "2026-06-19 17:37:54",
+      "album": {
+        "name": "Choke Me",
+        "url": "https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW"
+      },
+      "artists": [
+        {
+          "name": "Alexandra C\u0103pit\u0103nescu",
+          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
+        }
+      ],
+      "duration_ms": 180725,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
     },
     {
       "added_at": "2026-06-19 17:37:54",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-06-19 17:37:54",
       "album": {
-        "name": "Wasted Love",
-        "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
-      },
-      "artists": [
-        {
-          "name": "JJ",
-          "url": "https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP"
-        }
-      ],
-      "duration_ms": 164998,
-      "name": "Wasted Love",
-      "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
-    },
-    {
-      "added_at": "2026-06-19 17:37:54",
-      "album": {
         "name": "Bara Bada Bastu",
         "url": "https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 166880,
       "name": "Bara Bada Bastu",
       "url": "https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv"
+    },
+    {
+      "added_at": "2026-06-19 17:37:54",
+      "album": {
+        "name": "Wasted Love",
+        "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP"
+        }
+      ],
+      "duration_ms": 164998,
+      "name": "Wasted Love",
+      "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
     },
     {
       "added_at": "2026-06-19 17:37:54",

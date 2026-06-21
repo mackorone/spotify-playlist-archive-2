@@ -6402,7 +6402,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 115488,
       "name": "ARDA SAAT\u00c7I",
       "url": "https://open.spotify.com/track/1fcwLSzAYLLiGsltmT69GA"
@@ -8268,7 +8268,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -12665,6 +12665,36 @@
     },
     {
       "album": {
+        "name": "BLN",
+        "url": "https://open.spotify.com/album/2oYj4jpctURNdT2Xfx6HDj"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        },
+        {
+          "name": "Gangsta Ralph",
+          "url": "https://open.spotify.com/artist/2N3l2KHvPvRPi4qFFoVZuU"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "DJ Desue",
+          "url": "https://open.spotify.com/artist/2olISwRbw41r9bC9GKGbCe"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213157,
+      "name": "BLN",
+      "url": "https://open.spotify.com/track/16sS9eDTyfAIF5NL2EW9nK"
+    },
+    {
+      "album": {
         "name": "Blocckind (feat. VOLO & Hanybal)",
         "url": "https://open.spotify.com/album/4dDqpgvj56uE1bxzSA7XNZ"
       },
@@ -16464,7 +16494,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 245565,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
@@ -18860,7 +18890,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -18882,7 +18912,7 @@
       ],
       "date_added": "2025-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 198786,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg"
@@ -22332,7 +22362,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
@@ -23240,7 +23270,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -31358,7 +31388,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/6WhwHYd38f4ZB2CefpDgLo"
@@ -39460,7 +39490,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -47264,7 +47294,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -53947,6 +53977,28 @@
     },
     {
       "album": {
+        "name": "Mungu",
+        "url": "https://open.spotify.com/album/02PvRwFugzKFW86LVW5zgJ"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144080,
+      "name": "Mungu",
+      "url": "https://open.spotify.com/track/3tEQit2qjqSVcjeiXEm75A"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -56984,7 +57036,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -57002,7 +57054,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -57568,6 +57620,28 @@
       "duration_ms": 145654,
       "name": "OCEAN",
       "url": "https://open.spotify.com/track/3n0ZmUTXK4GXf5Ymc1OCpg"
+    },
+    {
+      "album": {
+        "name": "nostalgia is killing me",
+        "url": "https://open.spotify.com/album/5XTbH2tBeaNqTC4U9ABlW7"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Odyssee",
+      "url": "https://open.spotify.com/track/6N9keILCbcoWcstFBDrwND"
     },
     {
       "album": {
@@ -76811,6 +76885,28 @@
     },
     {
       "album": {
+        "name": "THUG LIFE",
+        "url": "https://open.spotify.com/album/5Mt1cLyfFmHKPFevznGbwL"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121394,
+      "name": "THUG LIFE",
+      "url": "https://open.spotify.com/track/6M3CMKJnzTrlezfUrIsGDe"
+    },
+    {
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -80978,6 +81074,28 @@
       "duration_ms": 129982,
       "name": "VERLIEBT IN MICH",
       "url": "https://open.spotify.com/track/1XZK1B904mtFv1Ze3Rgeg2"
+    },
+    {
+      "album": {
+        "name": "Verliebt, verlobt",
+        "url": "https://open.spotify.com/album/4Xzu42KnpBYXJvmga6SlyA"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149830,
+      "name": "Verliebt, verlobt",
+      "url": "https://open.spotify.com/track/4rxIVcKytYM9F94QpJbg9D"
     },
     {
       "album": {
@@ -85892,6 +86010,24 @@
       "duration_ms": 238581,
       "name": "WIE EIN BOSS",
       "url": "https://open.spotify.com/track/0NglPTJ8DvYUuoyUkFvQHE"
+    },
+    {
+      "album": {
+        "name": "Wie es ist",
+        "url": "https://open.spotify.com/album/35MfavtToqQwImSyqH9aUQ"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145861,
+      "name": "Wie es ist",
+      "url": "https://open.spotify.com/track/1POGbywvBWYSPLvHepsLj5"
     },
     {
       "album": {

@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81"
     },
     {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u732b\u3068\u30a2\u30ec\u30eb\u30ae\u30fc",
+        "url": "https://open.spotify.com/album/42G6RaP6sG7YOPYSyOFkkK"
+      },
+      "artists": [
+        {
+          "name": "Kinokoteikoku",
+          "url": "https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "\u602a\u7363\u306e\u8155\u306e\u306a\u304b",
+      "url": "https://open.spotify.com/track/6MqrpdDa19FOxnhWfPsCgo"
+    },
+    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u3072\u3068\u3064\u306b\u306a\u308b\u3068\u304d",
@@ -699,22 +715,6 @@
       "duration_ms": 299666,
       "name": "\u3086\u308c\u308b",
       "url": "https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u732b\u3068\u30a2\u30ec\u30eb\u30ae\u30fc",
-        "url": "https://open.spotify.com/album/42G6RaP6sG7YOPYSyOFkkK"
-      },
-      "artists": [
-        {
-          "name": "Kinokoteikoku",
-          "url": "https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "\u602a\u7363\u306e\u8155\u306e\u306a\u304b",
-      "url": "https://open.spotify.com/track/6MqrpdDa19FOxnhWfPsCgo"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u30e6\u30b0\u30c9\u30e9\u30b7\u30eb",
-        "url": "https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico"
-      },
-      "artists": [
-        {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
-        }
-      ],
-      "duration_ms": 307013,
-      "name": "\u30b9\u30ce\u30fc\u30b9\u30de\u30a4\u30eb",
-      "url": "https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u7a32\u57a3\u6f64\u4e0025\u5468\u5e74\u30d9\u30b9\u30c8 Rainy Voice",
@@ -819,6 +803,22 @@
       "duration_ms": 269626,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f",
       "url": "https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u30e6\u30b0\u30c9\u30e9\u30b7\u30eb",
+        "url": "https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 307013,
+      "name": "\u30b9\u30ce\u30fc\u30b9\u30de\u30a4\u30eb",
+      "url": "https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/1a5QOzP02gtg1YxtqwuuZ6"
     },
     {
-      "added_at": "2025-12-11 02:28:39",
-      "album": {
-        "name": "Unmelting Snow",
-        "url": "https://open.spotify.com/album/1MfUL7JBk8NCMGQmuR4GWW"
-      },
-      "artists": [
-        {
-          "name": "Girls2",
-          "url": "https://open.spotify.com/artist/7vilEuvwalwkL7OxM9UuHR"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Unmelting Snow",
-      "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
-    },
-    {
       "added_at": "2025-12-24 00:34:11",
       "album": {
         "name": "\u51ac\u82b1\u706b\u2013EP",
@@ -1567,6 +1551,22 @@
       "duration_ms": 188080,
       "name": "\u51ac\u82b1\u2f55",
       "url": "https://open.spotify.com/track/4PO3o4sBZx3BIqQ0v014Vv"
+    },
+    {
+      "added_at": "2025-12-11 02:28:39",
+      "album": {
+        "name": "Unmelting Snow",
+        "url": "https://open.spotify.com/album/1MfUL7JBk8NCMGQmuR4GWW"
+      },
+      "artists": [
+        {
+          "name": "Girls2",
+          "url": "https://open.spotify.com/artist/7vilEuvwalwkL7OxM9UuHR"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Unmelting Snow",
+      "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
     },
     {
       "added_at": "2025-12-16 15:00:32",

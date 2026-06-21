@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Motive",
-  "num_followers": 1405719,
+  "num_followers": 1405752,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGk8eGmyYnsZ4GPYTaChi5sSajEx",
+  "snapshot_id": "AAAAAH86YQeG6auagwN3DlJp/2ABMHys",
   "tracks": [
     {
       "added_at": "2026-06-18 21:00:47",
@@ -59,6 +59,22 @@
       "duration_ms": 164241,
       "name": "Timsahlar",
       "url": "https://open.spotify.com/track/6wOuvnMDcWOTI9TTk8Jzem"
+    },
+    {
+      "added_at": "2026-06-20 08:13:33",
+      "album": {
+        "name": "TUZAK",
+        "url": "https://open.spotify.com/album/1GtqOcWRUuWsS5jDlIo1gx"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "TUZAK",
+      "url": "https://open.spotify.com/track/1vYjLlQ91DqZ9x5uH0sSx9"
     },
     {
       "added_at": "2026-06-18 21:00:47",
@@ -398,10 +414,6 @@
         {
           "name": "Cairo",
           "url": "https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId"
-        },
-        {
-          "name": "AsyA",
-          "url": "https://open.spotify.com/artist/0GqpS2c6NoGY29lJ7FcvJY"
         }
       ],
       "duration_ms": 145879,
@@ -847,22 +859,6 @@
       "duration_ms": 197304,
       "name": "Ya\u015f\u0131yoken Anla",
       "url": "https://open.spotify.com/track/0e86zY8kamEt5Jz5pAWpc9"
-    },
-    {
-      "added_at": "2026-06-18 21:00:47",
-      "album": {
-        "name": "Gibi",
-        "url": "https://open.spotify.com/album/76JYUj6Tp6mHJwmknYgIYW"
-      },
-      "artists": [
-        {
-          "name": "Keskin",
-          "url": "https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Gibi",
-      "url": "https://open.spotify.com/track/77zviObPi2tu9F5JvwwLAq"
     },
     {
       "added_at": "2026-06-18 21:00:47",

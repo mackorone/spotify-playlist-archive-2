@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Alessia Cara",
-  "num_followers": 732837,
+  "num_followers": 732830,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -1072,22 +1072,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 319750,
-      "name": "Sign Of The Times - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
       "artists": [
@@ -1099,6 +1083,22 @@
       "duration_ms": 167907,
       "name": "bad guy - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1304,22 +1304,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 225632,
-      "name": "Happier - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
       },
       "artists": [
@@ -1331,6 +1315,22 @@
       "duration_ms": 268840,
       "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
       "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 225632,
+      "name": "Happier - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1400,6 +1400,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 157692,
+      "name": "July - Spotify Singles",
+      "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc"
       },
       "artists": [
@@ -1416,17 +1432,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 157692,
-      "name": "July - Spotify Singles",
-      "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
+      "duration_ms": 267802,
+      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
     },
     {
       "added_at": "2023-06-22 04:00:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 200655,
       "name": "True Colors (Spotify Singles)",
       "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 267802,
-      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1756,22 +1756,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 337837,
-      "name": "Everything Now - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP"
       },
       "artists": [
@@ -1783,6 +1767,22 @@
       "duration_ms": 182387,
       "name": "One Kiss - Recorded At Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/3T8dc6UY2XubK8BTrYizA4"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 337837,
+      "name": "Everything Now - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1884,22 +1884,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "No Ordinary Love \u2013 Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe"
       },
       "artists": [
@@ -1911,6 +1895,22 @@
       "duration_ms": 163903,
       "name": "T-Shirt (Spotify Mix) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7yTGNfswQgcfZ0Y1LLI5aA"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "No Ordinary Love \u2013 Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
     },
     {
       "added_at": "2023-01-11 19:54:48",

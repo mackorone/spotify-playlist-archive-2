@@ -1455,6 +1455,40 @@
     },
     {
       "album": {
+        "name": "Live at The Gorge 2023",
+        "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304047,
+      "name": "Mona Lisas And Mad Hatters - Live at The Gorge 2023",
+      "url": "https://open.spotify.com/track/0gqg8i33K03pBRmkNmSdVW"
+    },
+    {
+      "album": {
         "name": "By the Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -2290,7 +2324,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 207600,
       "name": "Water Witch",
       "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"

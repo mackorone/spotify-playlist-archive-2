@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: アンジュルム
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,338 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,360 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 11 | [まだ恋じゃない](https://open.spotify.com/track/57whivcnD85OWvJvaM6JKw) | [瀬名 ちひろ](https://open.spotify.com/artist/1WgzGTMCJIEhmWDmquPGaE) | [まだ恋じゃない](https://open.spotify.com/album/7A6vICCKEs2rYHMhmuIgb8) | 3:58 |
 | 12 | [REFLECSION](https://open.spotify.com/track/42W2B0VvLI99zg4FFaseuD) | [SITUASION](https://open.spotify.com/artist/3DZHdWJBEltyQSd8krWwze) | [PALE IN FIRE](https://open.spotify.com/album/6Dka52RMStB26zQl0iP5sU) | 3:31 |
 | 13 | [LAST \- 11SOUL ver.](https://open.spotify.com/track/5UdZ3TWFrXRZMOawILj1t4) | [GANG PARADE](https://open.spotify.com/artist/221zNlzeMJxLOPMYUIAaLx) | [GANG FINALE](https://open.spotify.com/album/1vnLMPq2LoMaXkQP6x2JxT) | 4:38 |
-| 14 | [マーメイドキスサマー！](https://open.spotify.com/track/3eFykUukWoIsclhObIoItW) | [虹のコンキスタドール](https://open.spotify.com/artist/3ZdRpXbuyNbMM6MQFJMErr) | [マーメイドキスサマー！](https://open.spotify.com/album/0YvUqi3CAdF7w7QOD3JtuU) | 3:55 |
+| 14 | [マーメイドキス♡サマー！](https://open.spotify.com/track/3eFykUukWoIsclhObIoItW) | [虹のコンキスタドール](https://open.spotify.com/artist/3ZdRpXbuyNbMM6MQFJMErr) | [マーメイドキス♡サマー！](https://open.spotify.com/album/0YvUqi3CAdF7w7QOD3JtuU) | 3:55 |
 | 15 | [ぱわーオブらぶ](https://open.spotify.com/track/4HbZvnfT0aBmKNqsenv7Gb) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [ぱわーオブらぶ](https://open.spotify.com/album/0vHanfY89oaphFGSi4tjTI) | 4:01 |
 | 16 | [Wa! Ha! Ha! Ha!](https://open.spotify.com/track/3xfs76g8OVamycXtx8muW1) | [アップアップガールズ（仮）](https://open.spotify.com/artist/4y3VgnCyFylFGTRf1ArDKE) | [Wa! Ha! Ha! Ha!](https://open.spotify.com/album/1rAk5bEWzPIeDZfdkhqcTw) | 3:04 |
 | 17 | [夏いぞん](https://open.spotify.com/track/7xEVjnGpAS5r4NcA9c6z3v) | [櫻井優衣](https://open.spotify.com/artist/2aTe9pvRpGDAnqBO1PCDXi) | [夏いぞん](https://open.spotify.com/album/6BRs6YX4Fla1v6KiefhFr2) | 3:11 |

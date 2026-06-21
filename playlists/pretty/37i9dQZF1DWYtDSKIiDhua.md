@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > R&B and good vibe tracks for your current mood\. Cover: BOY SODA
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,067 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,057 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 3 | [Meron Siyang Class](https://open.spotify.com/track/7vBfUPu4C7tvm9Vu6njwzp) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [Meron Siyang Class](https://open.spotify.com/album/099tImoG47eIXfm5mD6lh1) | 4:23 |
 | 4 | [DEHADO](https://open.spotify.com/track/41Yxi7LPewbLM2sYjMcJsY) | [Mi'Kel](https://open.spotify.com/artist/107G4dbmWXjiAsYc0sz0lx) | [DEHADO](https://open.spotify.com/album/3FP5KvUF5J1h6GccuYgr2f) | 3:34 |
 | 5 | [Before You Left](https://open.spotify.com/track/6Bn2bgzn1Ak410q7AC6qBc) | [Camille de la Cruz](https://open.spotify.com/artist/19unJ2tL7xGtVAZ8XIyTqi) | [Before You Left](https://open.spotify.com/album/55klWigmxBqw3IRJia30z3) | 2:24 |
-| 6 | [White Dress](https://open.spotify.com/track/46BrWpkvFukYHSfSn5TcPE) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [DEW](https://open.spotify.com/artist/4r2Us41ZbkxQxAvVi86AMR) | [White Dress](https://open.spotify.com/album/5B5u70ANt9LicrR0MxcjbC) | 3:21 |
+| 6 | [White Dress](https://open.spotify.com/track/46BrWpkvFukYHSfSn5TcPE) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [DEW](https://open.spotify.com/artist/7zUABjJWWDy7uMwyllEsSS) | [White Dress](https://open.spotify.com/album/5B5u70ANt9LicrR0MxcjbC) | 3:21 |
 | 7 | [Tampa \(feat\. USHER\)](https://open.spotify.com/track/1spHLxrlBblm3s12J4892k) | [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Tampa](https://open.spotify.com/album/2PFL5PkWDL00RVI2B0vntA) | 3:38 |
 | 8 | [Stuck](https://open.spotify.com/track/2oIPGbsjmv1SOs1kBPKC23) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) | [Stuck](https://open.spotify.com/album/3eRE0K2YoL3HkPUyJqBsVc) | 2:19 |
 | 9 | [Daydreamin’](https://open.spotify.com/track/5m0UFKwzACWZBRACdP19kc) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL \(Deluxe\)](https://open.spotify.com/album/5woNSjHHIY0L01V4Dj0AlM) | 2:58 |

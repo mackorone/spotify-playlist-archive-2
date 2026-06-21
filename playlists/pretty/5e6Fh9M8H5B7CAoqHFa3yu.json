@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 337,
+  "num_followers": 338,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKKQSDR/qBhaX1AA1bwn2kn7Im49TM",
+  "snapshot_id": "AAAKLM0Xoz1kQZd5evGnGwy6xPRDJr3i",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -40767,6 +40767,54 @@
       "duration_ms": 135937,
       "name": "Lake Dreams",
       "url": "https://open.spotify.com/track/01RpNf6PPFJjaBYqd4LQGo"
+    },
+    {
+      "added_at": "2026-06-20 07:23:10",
+      "album": {
+        "name": "The Sun Is Coming Up",
+        "url": "https://open.spotify.com/album/2ZYCwtR1Pqh72iYkHhsoDR"
+      },
+      "artists": [
+        {
+          "name": "James J",
+          "url": "https://open.spotify.com/artist/6zJ4IDzZLFWmNTY3xRMAkt"
+        }
+      ],
+      "duration_ms": 220010,
+      "name": "The Sun Is Coming Up",
+      "url": "https://open.spotify.com/track/2vHtaaZyIRkT9sFgRmJ1vq"
+    },
+    {
+      "added_at": "2026-06-20 07:23:19",
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/3Ba69of6UprDdYXUFqi7Kx"
+      },
+      "artists": [
+        {
+          "name": "RamShackle",
+          "url": "https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV"
+        }
+      ],
+      "duration_ms": 217777,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/4121pSeIc1sxqnH4i3nEvi"
+    },
+    {
+      "added_at": "2026-06-20 07:23:27",
+      "album": {
+        "name": "INOPIA",
+        "url": "https://open.spotify.com/album/3nbySGkd2EomrxB8T0CYci"
+      },
+      "artists": [
+        {
+          "name": "Los Cansinos",
+          "url": "https://open.spotify.com/artist/5ruDyDWrPtFECWQjzuMehx"
+        }
+      ],
+      "duration_ms": 153440,
+      "name": "INOPIA",
+      "url": "https://open.spotify.com/track/0U4WS6XPqk2mTekMyf9hEF"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

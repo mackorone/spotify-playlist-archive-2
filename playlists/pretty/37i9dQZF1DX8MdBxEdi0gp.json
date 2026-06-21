@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 176975,
+  "num_followers": 177000,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Tiempo de oto\u00f1o",
-        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Alma, coraz\u00f3n y vida",
         "url": "https://open.spotify.com/album/4eiylM6nVpoQYl7kIkcKrY"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 198000,
       "name": "Coraz\u00f3n m\u00e1gico",
       "url": "https://open.spotify.com/track/2LGNlsFbufs6T6no1w8kfZ"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Tiempo de oto\u00f1o",
+        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Antolog\u00eda...Los Baby's",
+        "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        }
+      ],
+      "duration_ms": 178680,
+      "name": "Como sufro",
+      "url": "https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "Peerless 80 Aniversario - 24 Exitos Vol. 2",
         "url": "https://open.spotify.com/album/4r7lKZlexihhW6tGY89UoO"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 192426,
       "name": "Perfume de Gardenias",
       "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Antolog\u00eda...Los Baby's",
-        "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
-      },
-      "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        }
-      ],
-      "duration_ms": 178680,
-      "name": "Como sufro",
-      "url": "https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Yo Me Quedo",
-        "url": "https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 278825,
-      "name": "Yolanda",
-      "url": "https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
         "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 180426,
       "name": "Olvidarte Nunca - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Yo Me Quedo",
+        "url": "https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 278825,
+      "name": "Yolanda",
+      "url": "https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Flor de Azalea",
-      "url": "https://open.spotify.com/track/7EccAiD4tFrEx5gEmKGS55"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Lo Mejor De Mike Laure",
         "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 162017,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/5hBkk52TBXZc4buUa7zYIt"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Flor de Azalea",
+      "url": "https://open.spotify.com/track/7EccAiD4tFrEx5gEmKGS55"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Los \u00c9xitos de Mayte Gaos",
-        "url": "https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3"
-      },
-      "artists": [
-        {
-          "name": "Mayte Gaos",
-          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
-        }
-      ],
-      "duration_ms": 173560,
-      "name": "Vete Con Ella (Chappel of Love)",
-      "url": "https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Solo un Hombre",
         "url": "https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 158133,
       "name": "Fresa Salvaje",
       "url": "https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Los \u00c9xitos de Mayte Gaos",
+        "url": "https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3"
+      },
+      "artists": [
+        {
+          "name": "Mayte Gaos",
+          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "Vete Con Ella (Chappel of Love)",
+      "url": "https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/0C4pX9Q4zwFNvMvYOsiaSa"
-      },
-      "artists": [
-        {
-          "name": "Trigo Limpio",
-          "url": "https://open.spotify.com/artist/2D5GkhykibubYsgi1CpVAO"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "Cinco Canas Mas",
-      "url": "https://open.spotify.com/track/5riZDaCsIM7ylEIUTMOQo7"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Tesoros De Coleccion - Sonia Rivas",
         "url": "https://open.spotify.com/album/4ebWPRUoVQztHYZWmbqMN0"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 218426,
       "name": "El Reencuentro",
       "url": "https://open.spotify.com/track/53Af346CFsAjqvluCJud6T"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/0C4pX9Q4zwFNvMvYOsiaSa"
+      },
+      "artists": [
+        {
+          "name": "Trigo Limpio",
+          "url": "https://open.spotify.com/artist/2D5GkhykibubYsgi1CpVAO"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "Cinco Canas Mas",
+      "url": "https://open.spotify.com/track/5riZDaCsIM7ylEIUTMOQo7"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Canci\u00f3n para una esposa triste",
-        "url": "https://open.spotify.com/album/0L5mZ1bD6QWx3Fx2wZgai7"
-      },
-      "artists": [
-        {
-          "name": "Clemencia Torres",
-          "url": "https://open.spotify.com/artist/0c1FTsFR3DaD71wT3Ax4F7"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Canci\u00f3n para una esposa triste",
-      "url": "https://open.spotify.com/track/4ko8FYjfliwHI1GrjY5YjE"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/67aE1BSpSmbkOsfyea2rMT"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 229306,
       "name": "Hoy Te Confieso",
       "url": "https://open.spotify.com/track/3JKIPPWFQALCZj7TOagabC"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Canci\u00f3n para una esposa triste",
+        "url": "https://open.spotify.com/album/0L5mZ1bD6QWx3Fx2wZgai7"
+      },
+      "artists": [
+        {
+          "name": "Clemencia Torres",
+          "url": "https://open.spotify.com/artist/0c1FTsFR3DaD71wT3Ax4F7"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Canci\u00f3n para una esposa triste",
+      "url": "https://open.spotify.com/track/4ko8FYjfliwHI1GrjY5YjE"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Lo Mejor De Maria Conchita Alonso",
-        "url": "https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x"
-      },
-      "artists": [
-        {
-          "name": "Maria Conchita Alonso",
-          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "Acar\u00edciame",
-      "url": "https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Las Estrellas Del Fonografo RCA Victor",
         "url": "https://open.spotify.com/album/057uMF0PBt1w7hg04v5lJy"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 155786,
       "name": "Ego\u00edsmo",
       "url": "https://open.spotify.com/track/2rKv1hF2MDjSkukvh26dID"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Lo Mejor De Maria Conchita Alonso",
+        "url": "https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x"
+      },
+      "artists": [
+        {
+          "name": "Maria Conchita Alonso",
+          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "Acar\u00edciame",
+      "url": "https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5"
     },
     {
       "added_at": "2024-07-11 01:42:53",

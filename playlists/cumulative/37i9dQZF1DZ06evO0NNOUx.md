@@ -4,7 +4,7 @@
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 33 min
+96 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [NO L's](https://open.spotify.com/track/3uLuxijlvrmMLcSHoplmol) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:27 | 2025-05-23 |  |
 | [NO LONGER BOUND](https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 3:00 | 2025-04-09 |  |
 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 | 2025-04-09 |  |
-| [Nothing But The Blood](https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 3:08 | 2025-04-09 |  |
+| [Nothing But The Blood](https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 3:08 | 2025-04-09 | 2026-06-21 |
 | [NOTHING ELSE](https://open.spotify.com/track/10ngdDwCfjLTdFqDnkE2Jg) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 1:58 | 2025-06-15 |  |
 | [NOTHING ELSE](https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [NOTHING ELSE](https://open.spotify.com/album/6pMp0bsoaZqGcFYAngdsJ3) | 1:58 | 2025-04-09 | 2025-06-15 |
 | [OKAY!](https://open.spotify.com/track/3AqhSTSYYOm8EVMkD8tRaW) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [OKAY!](https://open.spotify.com/album/3i6UnjFI76QC3zakPBApV7) | 4:34 | 2026-05-07 |  |
@@ -91,6 +91,7 @@
 | [THE JESUS GENERATION](https://open.spotify.com/track/4GWv7LurvNh9ubvT5bbD6f) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [THE JESUS GENERATION](https://open.spotify.com/album/3aECJcdowUXQabxMNvCwkg) | 4:15 | 2026-06-14 |  |
 | [THE PRESENT](https://open.spotify.com/track/2nNP5SBmelGS7G59JjGHBQ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [THE PRESENT](https://open.spotify.com/album/1KVOQw2QpKnP1tTNDXsL51) | 3:03 | 2025-12-03 | 2026-02-13 |
 | [THE ROCK](https://open.spotify.com/track/62MEz6nR7fEtrUVwGLLNxq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [THE ROCK](https://open.spotify.com/album/3Sl6E162SNTBOZymtjRTKD) | 2:48 | 2025-08-24 |  |
+| [THE TRUTH WILL SET YOU FREE](https://open.spotify.com/track/4OxOqklOXdaMus3nB1DM7X) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [THE TRUTH WILL SET YOU FREE](https://open.spotify.com/album/6UYh85lNTBAP4nsfBqDYUB) | 3:24 | 2026-06-21 |  |
 | [THROUGH THE NIGHT](https://open.spotify.com/track/7wxU8ucEqL7Mtf8IBjXdmE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 2:44 | 2025-09-20 |  |
 | [UP!](https://open.spotify.com/track/1Bgj8C4oHOR5M3wuzb6Mmq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 2:16 | 2025-04-09 |  |
 | [UPS & DOWNS](https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:41 | 2025-04-09 |  |

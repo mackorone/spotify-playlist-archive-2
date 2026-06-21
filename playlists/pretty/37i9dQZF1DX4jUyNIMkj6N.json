@@ -511,22 +511,6 @@
     {
       "added_at": "2026-06-18 22:00:34",
       "album": {
-        "name": "A Perfect Storm",
-        "url": "https://open.spotify.com/album/2zcG8CLrB1510937KfbsVK"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "A Perfect Storm",
-      "url": "https://open.spotify.com/track/2VooUVWfcwhJA780U5yNa2"
-    },
-    {
-      "added_at": "2026-06-18 22:00:34",
-      "album": {
         "name": "Lonely Cowboy",
         "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 203235,
       "name": "Lonely Cowboy - Radio Edit",
       "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
+    },
+    {
+      "added_at": "2026-06-18 22:00:34",
+      "album": {
+        "name": "A Perfect Storm",
+        "url": "https://open.spotify.com/album/2zcG8CLrB1510937KfbsVK"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "A Perfect Storm",
+      "url": "https://open.spotify.com/track/2VooUVWfcwhJA780U5yNa2"
     },
     {
       "added_at": "2026-06-18 22:00:34",
@@ -683,38 +683,6 @@
     {
       "added_at": "2026-06-18 22:00:34",
       "album": {
-        "name": "v\u00e1r",
-        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
-      },
-      "artists": [
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "v\u00e1r",
-      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
-    },
-    {
-      "added_at": "2026-06-18 22:00:34",
-      "album": {
-        "name": "In a Dream",
-        "url": "https://open.spotify.com/album/5uPxm7BWG7FTtih1lcS8MO"
-      },
-      "artists": [
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
-        }
-      ],
-      "duration_ms": 196636,
-      "name": "In a Dream",
-      "url": "https://open.spotify.com/track/77Ez9vfUm0Hyb4BbCJOG6I"
-    },
-    {
-      "added_at": "2026-06-18 22:00:34",
-      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -743,6 +711,38 @@
       "duration_ms": 234000,
       "name": "Never Gonna Last - Radio Edit",
       "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+    },
+    {
+      "added_at": "2026-06-18 22:00:34",
+      "album": {
+        "name": "v\u00e1r",
+        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "v\u00e1r",
+      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
+    },
+    {
+      "added_at": "2026-06-18 22:00:34",
+      "album": {
+        "name": "In a Dream",
+        "url": "https://open.spotify.com/album/5uPxm7BWG7FTtih1lcS8MO"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "duration_ms": 196636,
+      "name": "In a Dream",
+      "url": "https://open.spotify.com/track/77Ez9vfUm0Hyb4BbCJOG6I"
     },
     {
       "added_at": "2026-06-18 22:00:34",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-06-18 22:00:34",
       "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/4FFPLBRqTbPJiE9btO3sJe"
-      },
-      "artists": [
-        {
-          "name": "Freyr",
-          "url": "https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y"
-        }
-      ],
-      "duration_ms": 224130,
-      "name": "No Fear",
-      "url": "https://open.spotify.com/track/7jIpbeX9pgpxDF8AlDoxXl"
-    },
-    {
-      "added_at": "2026-06-18 22:00:34",
-      "album": {
         "name": "No Jolene",
         "url": "https://open.spotify.com/album/71R93xVwsFtmiW7nCm4V5h"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 157188,
       "name": "No Jolene",
       "url": "https://open.spotify.com/track/32MwhuIuhW55LawKJa8jyQ"
+    },
+    {
+      "added_at": "2026-06-18 22:00:34",
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/4FFPLBRqTbPJiE9btO3sJe"
+      },
+      "artists": [
+        {
+          "name": "Freyr",
+          "url": "https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y"
+        }
+      ],
+      "duration_ms": 224130,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/7jIpbeX9pgpxDF8AlDoxXl"
     },
     {
       "added_at": "2026-06-18 22:00:34",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-06-18 22:00:34",
       "album": {
-        "name": "Simpler Times",
-        "url": "https://open.spotify.com/album/4uZZKroW4sf3973ravoU6s"
+        "name": "Tennessee",
+        "url": "https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s"
       },
       "artists": [
         {
-          "name": "Days of August",
-          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
         }
       ],
-      "duration_ms": 236375,
-      "name": "End of July",
-      "url": "https://open.spotify.com/track/6ag0v6PX7xlKu1RqmU6dm4"
+      "duration_ms": 159697,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc"
     }
   ],
   "unique_name": "Nordic Folk",

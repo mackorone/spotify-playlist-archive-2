@@ -4,11 +4,12 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-240 songs - 20 hr 32 min
+241 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Conversation With Alice](https://open.spotify.com/track/12mxhoIT5lU3o4NNAqSu3f) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2) | 4:19 | 2022-08-05 | 2022-12-29 |
+| [A Million Miles Away \(Live\)](https://open.spotify.com/track/0bJD6MRz7YPvVUsXv8kMQP) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Spirit Of Rory Live From Cork](https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq) | 7:58 | 2026-06-21 |  |
 | [A Thousand Heartaches](https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj) | 5:00 | 2023-03-19 | 2023-06-19 |
 | [Ace Of Spades](https://open.spotify.com/track/5MmG5hbnnNp87pS7xTtDct) | [The Sleep Eazys](https://open.spotify.com/artist/0YOfaMnBdhgZYpD0X2wwo9), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Easy To Buy, Hard To Sell](https://open.spotify.com/album/4cXGtJDtaqZwMgsmlSeklF) | 3:16 | 2022-08-05 | 2022-10-13 |
 | [Ain't No Way](https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 6:47 | 2022-08-05 | 2022-10-01 |
@@ -184,7 +185,7 @@
 | [Stronger Now In Broken Places \(Band Version\)](https://open.spotify.com/track/1PaRTBGZ8tfV1lO23kBskt) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 4:42 | 2022-10-28 | 2023-07-22 |
 | [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 | 2022-08-05 |  |
 | [Sweet Little Angel](https://open.spotify.com/track/13VHDjjcRPrkijON7JVd31) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [B.B\. King's Blues Summit 100, Vol\. III](https://open.spotify.com/album/1ftanCZBzedbtiJRhhjton) | 4:44 | 2025-11-16 | 2025-12-14 |
-| [Sweet Little Angel](https://open.spotify.com/track/49jvNTBdS4idoirNOiraQc) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 4:44 | 2026-02-21 |  |
+| [Sweet Little Angel](https://open.spotify.com/track/49jvNTBdS4idoirNOiraQc) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 4:44 | 2026-02-21 | 2026-06-21 |
 | [Sweet Little Angel](https://open.spotify.com/track/4hJlNxUrUYqtnfw7U2dPwf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Sweet Little Angel](https://open.spotify.com/album/38CihEFCpI6Cf9YBD4FOZA) | 4:44 | 2025-12-14 | 2026-02-21 |
 | [Take It Back](https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Take It Back](https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL) | 5:35 | 2022-10-05 | 2023-10-05 |
 | [Tattoo'd Lady \(Live\)](https://open.spotify.com/track/2F2MZqad3d1iWGqKh38HMu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tattoo'd Lady \(Live\)](https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg) | 6:20 | 2026-04-26 | 2026-05-24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 16068,
+  "num_followers": 16072,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAC1IgSfzaJA0qW9tiZNADvV",
+  "snapshot_id": "ajSGgAAAAAAVimgA52GcU7uKwRd0UIcJ",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
       },
@@ -123,30 +147,6 @@
       "duration_ms": 265234,
       "name": "Set Ajc 2",
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Todos os Garotos que j\u00e1 Mamei",
-        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
     },
     {
       "added_at": null,
@@ -1175,6 +1175,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Vitin.wav",
+          "url": "https://open.spotify.com/artist/4dVWrqP3FM2o5Bcocsrvwp"
+        },
+        {
+          "name": "Dagrace",
+          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/3SNjK2Lcy8CaPnWwXZ9Py7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DOISMILEVINTEHOJE",
         "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
@@ -1203,30 +1227,6 @@
       "duration_ms": 187317,
       "name": "Pasta Registrada",
       "url": "https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Vitin.wav",
-          "url": "https://open.spotify.com/artist/4dVWrqP3FM2o5Bcocsrvwp"
-        },
-        {
-          "name": "Dagrace",
-          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/3SNjK2Lcy8CaPnWwXZ9Py7"
     },
     {
       "added_at": null,

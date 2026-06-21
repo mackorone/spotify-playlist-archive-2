@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 551687,
+  "num_followers": 551781,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAABl3tejrtJtx5IodKtFqwLB",
+  "snapshot_id": "ajSGgAAAAADRLGR8Gxhf1idcD9iQ8/n1",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente la Mejor",
-        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 263893,
-      "name": "Amiga Si Lo Ves",
-      "url": "https://open.spotify.com/track/5FSZ1u0m46BQPGNXZEO5AS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Gran Se\u00f1ora (En Vivo)",
         "url": "https://open.spotify.com/album/10gxA0j90FN3wKfKOJWrqx"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 184026,
       "name": "\u00c9l - Banda",
       "url": "https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 263893,
+      "name": "Amiga Si Lo Ves",
+      "url": "https://open.spotify.com/track/5FSZ1u0m46BQPGNXZEO5AS"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se las Voy a Dar a Otro",
-        "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 215038,
-      "name": "Se Las Voy a Dar a Otro",
-      "url": "https://open.spotify.com/track/43BemmCZRTcjYDnT7HqJWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paloma Negra Desde Monterrey (En Vivo)",
         "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 200081,
       "name": "Sufriendo a Solas - En Vivo",
       "url": "https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se las Voy a Dar a Otro",
+        "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 215038,
+      "name": "Se Las Voy a Dar a Otro",
+      "url": "https://open.spotify.com/track/43BemmCZRTcjYDnT7HqJWW"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 238026,
-      "name": "Mariposa de Barrio",
-      "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simplemente la Mejor",
         "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 178840,
       "name": "Querida Socia",
       "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 238026,
+      "name": "Mariposa de Barrio",
+      "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Dama Divina",
-      "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Prestadas - Pop",
         "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 233666,
       "name": "Que Ganas de No Verte Nunca M\u00e1s - Pop",
       "url": "https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Dama Divina",
+      "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
     },
     {
       "added_at": null,

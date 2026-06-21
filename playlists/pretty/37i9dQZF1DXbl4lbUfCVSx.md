@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haïti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,117 likes - 40 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,128 likes - 40 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 14 | [Chouchou](https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chouchou](https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ) | 3:20 |
 | 15 | [I'll Yayad \- Pretty Bumpy](https://open.spotify.com/track/3PJiAnUAuy8FqnyMs85BkW) | [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat), [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi) | [I'll Yayad \(Pretty Bumpy\)](https://open.spotify.com/album/0N1TfneesRkQpizfFqsvvF) | 4:27 |
 | 16 | [Se ou'l ye](https://open.spotify.com/track/4ep65mItDTJ5f1O5CdW5V6) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Teddy Hashtag](https://open.spotify.com/artist/08IitAuzTfomRsaSf8YLnh) | [I'M OK](https://open.spotify.com/album/6TA3ulRMkO8UuBXKyBZgaO) | 4:05 |
-| 17 | [Pitit deyo](https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Fè'l Vini Avan](https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ) | 6:00 |
+| 17 | [Douce Tankou Sirop](https://open.spotify.com/track/3ovFI5AbptfOzODNeUsYE6) | [Massiv3](https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr), [Dj Son](https://open.spotify.com/artist/4CcCHfqnROkTsWA85BZ0BS), [Dj Excel](https://open.spotify.com/artist/6CWTh5dOTapfp6pJS0z98l) | [Douce Tankou Sirop](https://open.spotify.com/album/6aciWh0PwWbGK0eijriQVm) | 5:15 |
 | 18 | [Pi Bon Chwa](https://open.spotify.com/track/4nJhXIVIs9g5yIHfGIvt6d) | [Kenny Haiti](https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Time To Shine](https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK) | 3:07 |
-| 19 | [Douce Tankou Sirop](https://open.spotify.com/track/3ovFI5AbptfOzODNeUsYE6) | [Massiv3](https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr), [Dj Son](https://open.spotify.com/artist/4CcCHfqnROkTsWA85BZ0BS), [Dj Excel](https://open.spotify.com/artist/6CWTh5dOTapfp6pJS0z98l) | [Douce Tankou Sirop](https://open.spotify.com/album/6aciWh0PwWbGK0eijriQVm) | 5:15 |
+| 19 | [Pitit deyo](https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Fè'l Vini Avan](https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ) | 6:00 |
 | 20 | [DIS MOI](https://open.spotify.com/track/3XY89uVwerVVtRNiWWxvt6) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [DIS MOI](https://open.spotify.com/album/2gzMGjPQE1x5FTSoJlaOwy) | 3:50 |
 | 21 | [Spicy](https://open.spotify.com/track/3bLv5xvPDnSlIebugPc7sQ) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Spicy](https://open.spotify.com/album/2MHBqVE1knQkujPWYKBVWh) | 2:58 |
 | 22 | [LanmoU Pa PoU MweN](https://open.spotify.com/track/5ojRfwelVOjdphr7Tp6jUo) | [Kenny Haiti](https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM) | [LanmoU Pa PoU MweN](https://open.spotify.com/album/7iKnNCA9m3CIA4uB2OaGbs) | 4:24 |

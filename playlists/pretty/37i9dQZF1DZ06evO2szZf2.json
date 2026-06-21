@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAACCinL7dkpwS6c1Zu87kpfU",
+  "snapshot_id": "ajSGgAAAAADbhToOEgnE4s9UavcgKnfY",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,34 @@
       "duration_ms": 141273,
       "name": "Paga Pra Ser Gostosa",
       "url": "https://open.spotify.com/track/68VnSR2LiSkgo0k4KlUCBz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Randomer",
+          "url": "https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h"
+        },
+        {
+          "name": "Blawan",
+          "url": "https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 235034,
+      "name": "Thistle",
+      "url": "https://open.spotify.com/track/7ipmIWVARgxxwcXZxzRYUX"
     },
     {
       "added_at": null,
@@ -55,30 +83,62 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thistle",
-        "url": "https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP"
+        "name": "Vou Raspar Seu Bigodin",
+        "url": "https://open.spotify.com/album/2ZcCYXE80W6jZSkgricqPW"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Randomer",
-          "url": "https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h"
+          "name": "DJ S2K",
+          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Vou Raspar Seu Bigodin",
+      "url": "https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
+        "url": "https://open.spotify.com/album/7gYPTOcgOCGrtl2t4mkwIs"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         },
         {
-          "name": "Blawan",
-          "url": "https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI"
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
         },
         {
           "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
-      "duration_ms": 235034,
-      "name": "Thistle",
-      "url": "https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg"
+      "duration_ms": 367499,
+      "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
+      "url": "https://open.spotify.com/track/3J9pByZf567U83gNmzDfD1"
     },
     {
       "added_at": null,
@@ -107,26 +167,6 @@
       "duration_ms": 219403,
       "name": "Pente Rala",
       "url": "https://open.spotify.com/track/16zADfKuIBd0rB8YnpddBI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vou Raspar Seu Bigodin",
-        "url": "https://open.spotify.com/album/2ZcCYXE80W6jZSkgricqPW"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ S2K",
-          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Vou Raspar Seu Bigodin",
-      "url": "https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1"
     },
     {
       "added_at": null,
@@ -183,46 +223,6 @@
       "duration_ms": 573333,
       "name": "Revoada do Tubar\u00e3o",
       "url": "https://open.spotify.com/track/0C1cJj3ZNCS75sojrcMhZV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
-        "url": "https://open.spotify.com/album/7gYPTOcgOCGrtl2t4mkwIs"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Mc J Mito",
-          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
-        },
-        {
-          "name": "MC Xangai",
-          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 367499,
-      "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
-      "url": "https://open.spotify.com/track/3J9pByZf567U83gNmzDfD1"
     },
     {
       "added_at": null,
@@ -711,6 +711,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vida do Crime",
+        "url": "https://open.spotify.com/album/3D97mhE8FfyvJI5hhT3Tu4"
+      },
+      "artists": [
+        {
+          "name": "Dj Tg Da Inestan",
+          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
+        },
+        {
+          "name": "MC Fahah",
+          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Vida do Crime",
+      "url": "https://open.spotify.com/track/2zo4C4eJ9yjBjT34j8r156"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revoada do Tubar\u00e3o 2 (feat. Mc Davi, Mc PP da VS, Mc Pedrinho, Mc Dricka, Mc Lbx, Mc Kevin, Salvador Da Rima, Ferrugem, MC Kevinho, Gaab)",
         "url": "https://open.spotify.com/album/6SYKU2YKvPcBslCHjnFtKU"
       },
@@ -775,30 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida do Crime",
-        "url": "https://open.spotify.com/album/3D97mhE8FfyvJI5hhT3Tu4"
-      },
-      "artists": [
-        {
-          "name": "Dj Tg Da Inestan",
-          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
-        },
-        {
-          "name": "MC Fahah",
-          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Vida do Crime",
-      "url": "https://open.spotify.com/track/2zo4C4eJ9yjBjT34j8r156"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enche Minha Bunda De Tapa",
         "url": "https://open.spotify.com/album/6PnrpEkrfcDPJhXdyg1lab"
       },
@@ -835,6 +835,26 @@
       "duration_ms": 210520,
       "name": "Como Se T\u00e1 Maravilhosa",
       "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Existe Amor",
+        "url": "https://open.spotify.com/album/1U9ZS19DxCsX5zBobIUJBV"
+      },
+      "artists": [
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 106363,
+      "name": "N\u00e3o Existe Amor",
+      "url": "https://open.spotify.com/track/3osBy08YtmXBDCtlEqqQW0"
     },
     {
       "added_at": null,
@@ -891,22 +911,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Existe Amor",
-        "url": "https://open.spotify.com/album/1U9ZS19DxCsX5zBobIUJBV"
+        "name": "Mochila nas Costas / Empurra Empurra",
+        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
       },
       "artists": [
         {
-          "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+          "name": "DJ Felipe \u00danico",
+          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
         },
         {
           "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
         }
       ],
-      "duration_ms": 106363,
-      "name": "N\u00e3o Existe Amor",
-      "url": "https://open.spotify.com/track/3osBy08YtmXBDCtlEqqQW0"
+      "duration_ms": 241777,
+      "name": "Mochila nas Costas / Empurra Empurra",
+      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
     },
     {
       "added_at": null,
@@ -959,26 +983,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mochila nas Costas / Empurra Empurra",
-        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
+        "name": "Fala Mal De Mim Pros Outros",
+        "url": "https://open.spotify.com/album/21S0Nl37dHHXnfx3ZPmdML"
       },
       "artists": [
         {
-          "name": "DJ Felipe \u00danico",
-          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
+          "name": "DJ TS",
+          "url": "https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON"
         },
         {
           "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Mc Topre",
-          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+          "name": "Prime Funk",
+          "url": "https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x"
         }
       ],
-      "duration_ms": 241777,
-      "name": "Mochila nas Costas / Empurra Empurra",
-      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
+      "duration_ms": 138447,
+      "name": "Fala Mal De Mim Pros Outros",
+      "url": "https://open.spotify.com/track/4DBEmHoQi9x2nRE11CgLRF"
     },
     {
       "added_at": null,
@@ -1043,30 +1067,6 @@
       "duration_ms": 139826,
       "name": "Casal Mandrake",
       "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fala Mal De Mim Pros Outros",
-        "url": "https://open.spotify.com/album/21S0Nl37dHHXnfx3ZPmdML"
-      },
-      "artists": [
-        {
-          "name": "DJ TS",
-          "url": "https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Prime Funk",
-          "url": "https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x"
-        }
-      ],
-      "duration_ms": 138447,
-      "name": "Fala Mal De Mim Pros Outros",
-      "url": "https://open.spotify.com/track/4DBEmHoQi9x2nRE11CgLRF"
     },
     {
       "added_at": null,
@@ -1215,26 +1215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Acredito No Amor",
-        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJBHBHDJ",
-          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
-        }
-      ],
-      "duration_ms": 103384,
-      "name": "Como Acredito No Amor",
-      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soca Com Press\u00e3o",
         "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
       },
@@ -1259,6 +1239,46 @@
       "duration_ms": 140231,
       "name": "Soca Com Press\u00e3o",
       "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Acredito No Amor",
+        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJBHBHDJ",
+          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
+        }
+      ],
+      "duration_ms": 103384,
+      "name": "Como Acredito No Amor",
+      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+      },
+      "artists": [
+        {
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
     },
     {
       "added_at": null,
@@ -1299,26 +1319,6 @@
       "duration_ms": 139403,
       "name": "Sexo Sem Estresse",
       "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
-      },
-      "artists": [
-        {
-          "name": "Dj Ray Lais",
-          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 155145,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
     },
     {
       "added_at": null,
@@ -1399,6 +1399,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/4yLieDOwSzxfv2GJEiYxmV"
+      },
+      "artists": [
+        {
+          "name": "Tutu No Beat",
+          "url": "https://open.spotify.com/artist/7s6byUMXPKlpJVRdef4Ys6"
+        },
+        {
+          "name": "BEBEL",
+          "url": "https://open.spotify.com/artist/47dbVLKFjq7k6igP62trgk"
+        },
+        {
+          "name": "AKAZIN PLAYLOKA",
+          "url": "https://open.spotify.com/artist/6ac4b8uBDimNRZWbISLjcs"
+        },
+        {
+          "name": "Eo Renanzinho",
+          "url": "https://open.spotify.com/artist/3vSSqwGKqb50jZfFrNmod6"
+        },
+        {
+          "name": "LUKINHAS POSTURADO",
+          "url": "https://open.spotify.com/artist/5HSCboNkGSTuzQTfwUOkLb"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/1MbfMhMWzAIpCTVMlfgul6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rave Don't Start Now",
         "url": "https://open.spotify.com/album/3xOrZD9NxfMTD08Yjx4vt7"
       },
@@ -1447,26 +1483,6 @@
       "duration_ms": 125538,
       "name": "N\u00e3o Agrado Todos",
       "url": "https://open.spotify.com/track/0WbHf6LwbAh5k69ppYSwh9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rickweek",
-        "url": "https://open.spotify.com/album/3hWqmz0ezKfNe2pVW3eoNf"
-      },
-      "artists": [
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 126511,
-      "name": "Vagabunda do Caralho",
-      "url": "https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc"
     }
   ],
   "unique_name": "This Is MC Dricka",

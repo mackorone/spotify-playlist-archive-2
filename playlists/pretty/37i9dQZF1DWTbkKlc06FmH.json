@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 147150,
+  "num_followers": 147161,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-06-18 08:53:42",
       "album": {
-        "name": "FRI(END)S",
-        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 148082,
-      "name": "FRI(END)S",
-      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
         "name": "the feeling",
         "url": "https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 275936,
       "name": "the feeling",
       "url": "https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
     },
     {
       "added_at": "2026-06-18 08:53:42",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-06-18 08:53:42",
       "album": {
-        "name": "BELOVED: ACT II",
-        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 265127,
-      "name": "JEZEBEL",
-      "url": "https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
+        "name": "BELOVED: ACT II",
+        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 265127,
+      "name": "JEZEBEL",
+      "url": "https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY"
     },
     {
       "added_at": "2026-06-18 08:53:42",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-06-18 08:53:42",
       "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2026-06-18 08:53:42",
       "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Prema",
-      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
         "name": "Vie",
         "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 266021,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
+        "name": "\u6e80\u3061\u3066\u3086\u304f",
+        "url": "https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 310997,
+      "name": "\u6e80\u3061\u3066\u3086\u304f",
+      "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
     },
     {
       "added_at": "2026-06-18 08:53:42",
@@ -875,22 +891,6 @@
       "duration_ms": 239120,
       "name": "FIND GOD (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/51RDaTRAEHSitpeucJiHyU"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
-        "name": "\u6e80\u3061\u3066\u3086\u304f",
-        "url": "https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 310997,
-      "name": "\u6e80\u3061\u3066\u3086\u304f",
-      "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
     },
     {
       "added_at": "2026-06-18 08:53:42",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-06-18 08:53:42",
       "album": {
+        "name": "Talk On The Hill",
+        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 207774,
+      "name": "Talk On The Hill",
+      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
         "name": "\u98a8\u795e",
         "url": "https://open.spotify.com/album/2dkncPeCSULjpH34voco0k"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 291513,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
-        "name": "Talk On The Hill",
-        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 207774,
-      "name": "Talk On The Hill",
-      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
     },
     {
       "added_at": "2026-06-18 08:53:42",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-06-18 08:53:42",
       "album": {
+        "name": "Don't You Know",
+        "url": "https://open.spotify.com/album/6N990tXerv286f4znveHjL"
+      },
+      "artists": [
+        {
+          "name": "LAUV",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 146064,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/1mgiMU5E6hXziopHOjIZn4"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U"
       },
@@ -1199,54 +1215,6 @@
     {
       "added_at": "2026-06-18 08:53:42",
       "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/6NlUyo5ZQoHaDexCvKMKNX"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 192572,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
-        "name": "What's Done Is Done",
-        "url": "https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 173022,
-      "name": "What's Done Is Done",
-      "url": "https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 229331,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
         "name": "99 Steps",
         "url": "https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0"
       },
@@ -1267,6 +1235,54 @@
       "duration_ms": 197870,
       "name": "99 Steps",
       "url": "https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/6NlUyo5ZQoHaDexCvKMKNX"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 192572,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
+        "name": "What's Done Is Done",
+        "url": "https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 173022,
+      "name": "What's Done Is Done",
+      "url": "https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9"
     },
     {
       "added_at": "2026-06-18 08:53:42",
@@ -1319,22 +1335,6 @@
       "duration_ms": 161967,
       "name": "Kiss Me Right",
       "url": "https://open.spotify.com/track/4fXmBERnR3SDk053aqQqwa"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
-        "name": "Don't You Know",
-        "url": "https://open.spotify.com/album/6N990tXerv286f4znveHjL"
-      },
-      "artists": [
-        {
-          "name": "LAUV",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 146064,
-      "name": "Don't You Know",
-      "url": "https://open.spotify.com/track/1mgiMU5E6hXziopHOjIZn4"
     },
     {
       "added_at": "2026-06-18 08:53:42",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-06-18 08:53:42",
       "album": {
-        "name": "Welcome to the Mood",
-        "url": "https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 147046,
       "name": "No.1 (feat. Tems)",
       "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
+        "name": "Welcome to the Mood",
+        "url": "https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM"
     },
     {
       "added_at": "2026-06-18 08:53:42",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-06-18 08:53:42",
       "album": {
-        "name": "Welcome to the Mood (Special Edition)",
-        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
         "name": "KONNAKOL (Deluxe)",
         "url": "https://open.spotify.com/album/5woNSjHHIY0L01V4Dj0AlM"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 178144,
       "name": "Daydreamin\u2019",
       "url": "https://open.spotify.com/track/5m0UFKwzACWZBRACdP19kc"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
+        "name": "Welcome to the Mood (Special Edition)",
+        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
     },
     {
       "added_at": "2026-06-18 08:53:42",
@@ -1623,54 +1623,18 @@
     {
       "added_at": "2026-06-18 08:53:42",
       "album": {
-        "name": "golden hour (Fujii Kaze Remix)",
-        "url": "https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM"
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
         }
       ],
-      "duration_ms": 159000,
-      "name": "golden hour - Fujii Kaze Remix",
-      "url": "https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
-        "name": "Ride It Out",
-        "url": "https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Ride It Out",
-      "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 162379,
-      "name": "BITCH",
-      "url": "https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4"
+      "duration_ms": 156000,
+      "name": "Something Bout It",
+      "url": "https://open.spotify.com/track/0ATYGGx8AP7w0tsTsC1L4o"
     },
     {
       "added_at": "2026-06-18 08:53:42",
@@ -1691,6 +1655,58 @@
     {
       "added_at": "2026-06-18 08:53:42",
       "album": {
+        "name": "Ride It Out",
+        "url": "https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Ride It Out",
+      "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
+        "name": "golden hour (Fujii Kaze Remix)",
+        "url": "https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "golden hour - Fujii Kaze Remix",
+      "url": "https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
+        "name": "Sand Castle",
+        "url": "https://open.spotify.com/album/2mw5HgtbMr4tSrq5VEqbxC"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "duration_ms": 215339,
+      "name": "Sand Castle",
+      "url": "https://open.spotify.com/track/2hwKCIEZB2sK5Z6Xfws0MK"
+    },
+    {
+      "added_at": "2026-06-18 08:53:42",
+      "album": {
         "name": "sailing",
         "url": "https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 244221,
       "name": "sailing",
       "url": "https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm"
-    },
-    {
-      "added_at": "2026-06-18 08:53:42",
-      "album": {
-        "name": "Essex Honey",
-        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 262335,
-      "name": "Vivid Light",
-      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
     },
     {
       "added_at": "2026-06-18 08:53:42",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2026-06-18 08:53:42",
       "album": {
-        "name": "Labor Of Love",
-        "url": "https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st"
+        "name": "Essex Honey",
+        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
       },
       "artists": [
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Something Bout It",
-      "url": "https://open.spotify.com/track/0ATYGGx8AP7w0tsTsC1L4o"
+      "duration_ms": 262335,
+      "name": "Vivid Light",
+      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 187745,
+  "num_followers": 187791,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-06-18 22:01:41",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "If I Ever Feel Better",
-      "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
-    },
-    {
-      "added_at": "2026-06-18 22:01:41",
-      "album": {
         "name": "Old Lovers (feat. The Lumineers)",
         "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 213188,
       "name": "Old Lovers (feat. The Lumineers)",
       "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
+    },
+    {
+      "added_at": "2026-06-18 22:01:41",
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "If I Ever Feel Better",
+      "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
     },
     {
       "added_at": "2026-06-18 22:01:41",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-06-18 22:01:41",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Mi Negrita",
-      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
-    },
-    {
-      "added_at": "2026-06-18 22:01:41",
-      "album": {
         "name": "Exit Wounds",
         "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 211233,
       "name": "East Village",
       "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
+    },
+    {
+      "added_at": "2026-06-18 22:01:41",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Mi Negrita",
+      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
     },
     {
       "added_at": "2026-06-18 22:01:41",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-06-18 22:01:41",
       "album": {
-        "name": "Montgomery Ricky (Plus 3)",
-        "url": "https://open.spotify.com/album/1yBN6eCHN8Iw1mmjsAYwyi"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 205652,
-      "name": "Some Kind of Man",
-      "url": "https://open.spotify.com/track/0Ci9ch7w390MXYK9kr84Ma"
-    },
-    {
-      "added_at": "2026-06-18 22:01:41",
-      "album": {
         "name": "Two of Diamonds",
         "url": "https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 177440,
       "name": "Out of Time Man",
       "url": "https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a"
+    },
+    {
+      "added_at": "2026-06-18 22:01:41",
+      "album": {
+        "name": "Montgomery Ricky (Plus 3)",
+        "url": "https://open.spotify.com/album/1yBN6eCHN8Iw1mmjsAYwyi"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 205652,
+      "name": "Some Kind of Man",
+      "url": "https://open.spotify.com/track/0Ci9ch7w390MXYK9kr84Ma"
     },
     {
       "added_at": "2026-06-18 22:01:41",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2026-06-18 22:01:41",
       "album": {
-        "name": "Jardin d'hiver",
-        "url": "https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE"
+        "name": "hey there [i have a compulsive complex]",
+        "url": "https://open.spotify.com/album/4hJczqZb7VUIigRIp8utjA"
       },
       "artists": [
         {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 207493,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q"
+      "duration_ms": 173570,
+      "name": "hey there [i have a compulsive complex]",
+      "url": "https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS"
     },
     {
       "added_at": "2026-06-18 22:01:41",
@@ -1239,6 +1239,22 @@
       "duration_ms": 261493,
       "name": "Vacances",
       "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
+    },
+    {
+      "added_at": "2026-06-18 22:01:41",
+      "album": {
+        "name": "Jardin d'hiver",
+        "url": "https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE"
+      },
+      "artists": [
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q"
     },
     {
       "added_at": "2026-06-18 22:01:41",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2026-06-18 22:01:41",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2026-06-18 22:01:41",
-      "album": {
         "name": "Sacatela",
         "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 172026,
       "name": "Sacatela",
       "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2026-06-18 22:01:41",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2026-06-18 22:01:41",
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2026-06-18 22:01:41",
       "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-06-18 22:01:41",
-      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 249069,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
+    },
+    {
+      "added_at": "2026-06-18 22:01:41",
+      "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-06-18 22:01:41",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2026-06-18 22:01:41",
       "album": {
-        "name": "Is It Love?",
-        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 252894,
-      "name": "Is It Love?",
-      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
-    },
-    {
-      "added_at": "2026-06-18 22:01:41",
-      "album": {
         "name": "Keyring",
         "url": "https://open.spotify.com/album/3FKSfxyMWYpbz7yUtVIohl"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 198155,
       "name": "Keyring",
       "url": "https://open.spotify.com/track/0IY5BUE8RQCpMKN6712qwY"
+    },
+    {
+      "added_at": "2026-06-18 22:01:41",
+      "album": {
+        "name": "Is It Love?",
+        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "duration_ms": 252894,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
     },
     {
       "added_at": "2026-06-18 22:01:41",
@@ -1679,26 +1695,6 @@
       "duration_ms": 169160,
       "name": "Dark Blue",
       "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
-    },
-    {
-      "added_at": "2026-06-18 22:01:41",
-      "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/3iUULNrs4MKQVUphv0Pggk"
-      },
-      "artists": [
-        {
-          "name": "Kadebostany",
-          "url": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
-        },
-        {
-          "name": "Den Ze",
-          "url": "https://open.spotify.com/artist/2zOTxRKSncCCTHLxwRfuMY"
-        }
-      ],
-      "duration_ms": 138039,
-      "name": "Something Inside Me",
-      "url": "https://open.spotify.com/track/6d3T0nMjuKVyKdycqmExks"
     }
   ],
   "unique_name": "D\u00eener entre amis",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnZT5DhATDx.md) - [plain]
 
 > Listen to the most memorable tracks from Game of Thrones, House of the Dragon, and A Knight of the Seven Kingdoms.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,585 likes - 79 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,590 likes - 79 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,247 likes - 45 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,363 likes - 45 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 13 | [Everybody's Fool](https://open.spotify.com/track/0tWEB6BxbI48XN79QE1JbT) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:15 |
 | 14 | [What You Want](https://open.spotify.com/track/0uOo8xRtQ6okTZMR89ppVk) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:41 |
 | 15 | [All That I’m Living For](https://open.spotify.com/track/4iDQezFTnOwgnrPYiqQ6TP) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:48 |
-| 16 | [Self Destruct](https://open.spotify.com/track/3vHRBiWEvuWWs5BQzUwSXh) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:54 |
+| 16 | [Tell Me When You've Had Enough](https://open.spotify.com/track/6AGBZEHiJTtM0GE7iEFYRB) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:19 |
 | 17 | [Tourniquet](https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:38 |
 | 18 | [The Change](https://open.spotify.com/track/03cH7hozNkNX8qWi8xbkUA) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:42 |
 | 19 | [Lacrymosa](https://open.spotify.com/track/1M8YN6ekSgCnjc5UckHYpq) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:37 |
-| 20 | [Tell Me When You've Had Enough](https://open.spotify.com/track/6AGBZEHiJTtM0GE7iEFYRB) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:19 |
+| 20 | [Self Destruct](https://open.spotify.com/track/3vHRBiWEvuWWs5BQzUwSXh) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:54 |
 | 21 | [My Immortal \- Band Version](https://open.spotify.com/track/3PYdxIDuBIuJSDGwfptFx4) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:33 |
 | 22 | [Missing](https://open.spotify.com/track/1kvuT0SqjPAUUqQJW4bxjo) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:16 |
 | 23 | [Weight Of The World](https://open.spotify.com/track/1UfCIFhRr8Bci9LUJ68dvp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:37 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 44 | [The Game Is Over](https://open.spotify.com/track/1IjNTBTAFtqRZHvrezeG1n) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:22 |
 | 45 | [The Last Song I'm Wasting on You](https://open.spotify.com/track/0BeBYa53MXh2aQmzc64BHd) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 4:07 |
 
-Snapshot ID: `ajM1AAAAAADJt6bZcJN1Uomi48B+jwmr`
+Snapshot ID: `ajSGgAAAAABf1lbtpbIFpR8Y2w3tDn1Q`

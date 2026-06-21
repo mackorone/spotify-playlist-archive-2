@@ -1,6 +1,6 @@
 {
   "description": "POV: t\u00e1 fresco y la sombra del fresnito pega bien sabroso.",
-  "num_followers": 203729,
+  "num_followers": 203773,
   "original_name": "qu\u00e9 agusticidad",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Hablemos",
-        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 282885,
-      "name": "Yo Quisiera Entrar",
-      "url": "https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Soy Todo Tuyo",
         "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 187373,
       "name": "Soy Todo Tuyo",
       "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Hablemos",
+        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 282885,
+      "name": "Yo Quisiera Entrar",
+      "url": "https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Millas Y Millas",
-        "url": "https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Dos Botellas De Mezcal",
-      "url": "https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "El Amor Que Nunca Fue",
         "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 204360,
       "name": "Basta Ya",
       "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Millas Y Millas",
+        "url": "https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Dos Botellas De Mezcal",
+      "url": "https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Si Me Duele Que Duela",
-        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 171367,
-      "name": "Si Me Duele Que Duela",
-      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Siempre Estoy Pensando En Ti",
         "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 159573,
       "name": "Esta Noche Voy a Verla",
       "url": "https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Si Me Duele Que Duela",
+        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 171367,
+      "name": "Si Me Duele Que Duela",
+      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Imprescindibles",
-        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+        "name": "'10 Exitazos \"A Cada Instante\"",
+        "url": "https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC"
       },
       "artists": [
         {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Chaparra De Mi Amor",
-      "url": "https://open.spotify.com/track/6dNEvfhpiy394j8bZ4pSbT"
+      "duration_ms": 137733,
+      "name": "Pideme La Luna",
+      "url": "https://open.spotify.com/track/4j3Mb447tHZjjW5Q24aSvd"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "'10 Exitazos \"A Cada Instante\"",
-        "url": "https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC"
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
       "artists": [
         {
-          "name": "Julio Chaidez",
-          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 137733,
-      "name": "Pideme La Luna",
-      "url": "https://open.spotify.com/track/4j3Mb447tHZjjW5Q24aSvd"
+      "duration_ms": 191040,
+      "name": "Chaparra De Mi Amor",
+      "url": "https://open.spotify.com/track/6dNEvfhpiy394j8bZ4pSbT"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Yo Ya Sabia Pa Donde Iba",
-        "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 181611,
-      "name": "Yo Ya Sabia Pa Donde Iba",
-      "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "En Este Amor",
         "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 194626,
       "name": "Te Encontr\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/5MyH0HWPtx6Ua7IVdCsrjE"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Yo Ya Sabia Pa Donde Iba",
+        "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 181611,
+      "name": "Yo Ya Sabia Pa Donde Iba",
+      "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -2027,8 +2027,8 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Prueba De Fuego",
-        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
+        "name": "DIOS POR DELANTE",
+        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
       },
       "artists": [
         {
@@ -2036,9 +2036,9 @@
           "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 231855,
-      "name": "Prueba De Fuego",
-      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
+      "duration_ms": 214473,
+      "name": "DIOS POR DELANTE",
+      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
     },
     {
       "added_at": "2024-10-23 17:24:42",

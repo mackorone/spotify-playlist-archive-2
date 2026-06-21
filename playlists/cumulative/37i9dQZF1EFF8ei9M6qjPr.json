@@ -1873,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "My Mess, My Heart, My Life.",
+        "url": "https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "Hate You",
+      "url": "https://open.spotify.com/track/5WN4ByXJLl7SmsQMsx2yQr"
+    },
+    {
+      "album": {
         "name": "Dear Ella,",
         "url": "https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7"
       },
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 177181,
       "name": "i drive me mad",
       "url": "https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW"

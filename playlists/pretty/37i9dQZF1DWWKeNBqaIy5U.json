@@ -1,6 +1,6 @@
 {
   "description": "The gentle sound of some of the greatest voices and instrumentalists in Jazz. Your Jazz dinner soundtrack. ",
-  "num_followers": 87202,
+  "num_followers": 87227,
   "original_name": "Dinner Jazz",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "A Jazz Portrait Of Frank Sinatra",
-        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Mystic Moonlight Groove",
         "url": "https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 211079,
       "name": "Mystic Moonlight Groove",
       "url": "https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "A Jazz Portrait Of Frank Sinatra",
+        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 162733,
-      "name": "The Touch Of Your Lips",
-      "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Dancing Shadows",
         "url": "https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 204038,
       "name": "Dancing Shadows",
       "url": "https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 162733,
+      "name": "The Touch Of Your Lips",
+      "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "Where Are You - Remastered",
-      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "At Least I Know",
         "url": "https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 368388,
       "name": "Lonely Streets",
       "url": "https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Where Are You - Remastered",
+      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Leapin' And Lopin'",
-        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 402799,
-      "name": "Deep In A Dream",
-      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Pearl-button",
         "url": "https://open.spotify.com/album/2YLC9erulM0m04cnteK4lb"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
+        "name": "Leapin' And Lopin'",
+        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 402799,
+      "name": "Deep In A Dream",
+      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
         "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 290160,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/3oGqQ3Ly4wzilxFo4puTn9"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "You\u2019re Always Waiting",
+        "url": "https://open.spotify.com/album/1YNaoKQbG6i4xKUB7YQ2yQ"
+      },
+      "artists": [
+        {
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
+        }
+      ],
+      "duration_ms": 159720,
+      "name": "You\u2019re Always Waiting",
+      "url": "https://open.spotify.com/track/6zDxfk0SAZnMVX4fvQ4Z2c"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -499,22 +515,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "You\u2019re Always Waiting",
-        "url": "https://open.spotify.com/album/1YNaoKQbG6i4xKUB7YQ2yQ"
-      },
-      "artists": [
-        {
-          "name": "Hudson Harris & Haim",
-          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
-        }
-      ],
-      "duration_ms": 159720,
-      "name": "You\u2019re Always Waiting",
-      "url": "https://open.spotify.com/track/6zDxfk0SAZnMVX4fvQ4Z2c"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Passing Time",
         "url": "https://open.spotify.com/album/48s0tTqeqhWSHA24zIv1pL"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Oscar Peterson Plays The George Gershwin Song Book",
-        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/1AGglZcECKcyPu6pJWeez0"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Blue Notes in the Afternoon",
         "url": "https://open.spotify.com/album/6EmURthZGIJ8AGIpQSPkof"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 185287,
       "name": "Blue Notes in the Afternoon",
       "url": "https://open.spotify.com/track/6A3G2dwkman6zLHncJxJGG"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Oscar Peterson Plays The George Gershwin Song Book",
+        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/1AGglZcECKcyPu6pJWeez0"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Soulville",
-        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Penitentes",
         "url": "https://open.spotify.com/album/6rDN49jDeaRzg9GNWwZe7e"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Blues-A-Plenty",
-        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
+        "name": "Soulville",
+        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
       },
       "artists": [
         {
-          "name": "Johnny Hodges & His Orchestra",
-          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
         }
       ],
-      "duration_ms": 219680,
-      "name": "Don't Take Your Love From Me",
-      "url": "https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE"
+      "duration_ms": 271893,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1087,6 +1071,22 @@
       "duration_ms": 188730,
       "name": "I gotta run",
       "url": "https://open.spotify.com/track/7BB0KhE9SURfW1v8M826qo"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Blues-A-Plenty",
+        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+        }
+      ],
+      "duration_ms": 219680,
+      "name": "Don't Take Your Love From Me",
+      "url": "https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Brass/Trio",
-        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Count Me In",
         "url": "https://open.spotify.com/album/4J7FQxTSNaZTGx9oppZbk4"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 217085,
       "name": "Count Me In",
       "url": "https://open.spotify.com/track/76rD8liEuU0louCpIXDSKv"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Brass/Trio",
+        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
+        "name": "Una Mas",
+        "url": "https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 309266,
+      "name": "If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
         "name": "I'm in a Mess (feat. Samara Joy)",
         "url": "https://open.spotify.com/album/1KSkbrGOskyPFd5IVecxnj"
       },
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Una Mas",
-        "url": "https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 309266,
-      "name": "If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Once Upon A Summertime",
         "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
       },
@@ -1503,22 +1503,6 @@
       "duration_ms": 260000,
       "name": "Surrey With The Fringe On Top",
       "url": "https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
-        "name": "Love Is Here To Stay",
-        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
+        "name": "Love Is Here To Stay",
+        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -1551,6 +1551,54 @@
       "duration_ms": 287826,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/4YGHdT126xB7nAfUWM1Hf0"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Promenade With You",
+        "url": "https://open.spotify.com/album/5JQlQVIftPyM62yCSXYDVY"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "duration_ms": 220403,
+      "name": "Promenade With You",
+      "url": "https://open.spotify.com/track/3Dz2EW0ND8Mfc41DxtoWQH"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/3lqJF5gs2ygPZdYJqdHIlU"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 356133,
+      "name": "Walkin' Out Blues",
+      "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1575,54 +1623,6 @@
       "duration_ms": 181360,
       "name": "The Old Country",
       "url": "https://open.spotify.com/track/5DW1xv3m7sQ8gs3HoXkr5z"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/3lqJF5gs2ygPZdYJqdHIlU"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
-        "name": "Promenade With You",
-        "url": "https://open.spotify.com/album/5JQlQVIftPyM62yCSXYDVY"
-      },
-      "artists": [
-        {
-          "name": "Trio Rosa",
-          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
-        }
-      ],
-      "duration_ms": 220403,
-      "name": "Promenade With You",
-      "url": "https://open.spotify.com/track/3Dz2EW0ND8Mfc41DxtoWQH"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 356133,
-      "name": "Walkin' Out Blues",
-      "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Nice Try",
-        "url": "https://open.spotify.com/album/2xwZAOuNICjJdVgm6y2yCa"
-      },
-      "artists": [
-        {
-          "name": "da Su\u00e9cia",
-          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Nice Try",
-      "url": "https://open.spotify.com/track/0B1DkEpFZCbCIpw8UfI4kH"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Roll Call",
         "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
       },
@@ -1827,18 +1811,18 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Each Fall To Spring",
-        "url": "https://open.spotify.com/album/4pZHRclLtA56ij2xPa4obi"
+        "name": "Nice Try",
+        "url": "https://open.spotify.com/album/2xwZAOuNICjJdVgm6y2yCa"
       },
       "artists": [
         {
-          "name": "Malcolm Edmonstone Trio",
-          "url": "https://open.spotify.com/artist/1zLUuGQGwGHs9hTDz4hR1H"
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
         }
       ],
-      "duration_ms": 231610,
-      "name": "Each Fall To Spring",
-      "url": "https://open.spotify.com/track/0jPV9bDPhYqsMQP0rIDGms"
+      "duration_ms": 162000,
+      "name": "Nice Try",
+      "url": "https://open.spotify.com/track/0B1DkEpFZCbCIpw8UfI4kH"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1855,6 +1839,22 @@
       "duration_ms": 268894,
       "name": "Bathtub Bourbon",
       "url": "https://open.spotify.com/track/6LGK2OFycwxM4ulvpEYNdt"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Each Fall To Spring",
+        "url": "https://open.spotify.com/album/4pZHRclLtA56ij2xPa4obi"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Edmonstone Trio",
+          "url": "https://open.spotify.com/artist/1zLUuGQGwGHs9hTDz4hR1H"
+        }
+      ],
+      "duration_ms": 231610,
+      "name": "Each Fall To Spring",
+      "url": "https://open.spotify.com/track/0jPV9bDPhYqsMQP0rIDGms"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Onward",
-        "url": "https://open.spotify.com/album/2OVitFXJkPbXLZqRb75OuF"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Harrison",
-          "url": "https://open.spotify.com/artist/6twcQ04NrYtCVmngnEE76l"
-        }
-      ],
-      "duration_ms": 234226,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/3C7iZbonpl8guBGDOaZw5V"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "But Beautiful",
         "url": "https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq"
       },
@@ -1923,18 +1907,18 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Nostalgic Days",
-        "url": "https://open.spotify.com/album/20ld6T3TYuPvsjQx1dI3U6"
+        "name": "Onward",
+        "url": "https://open.spotify.com/album/2OVitFXJkPbXLZqRb75OuF"
       },
       "artists": [
         {
-          "name": "Arta Porting",
-          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+          "name": "Benjamin Harrison",
+          "url": "https://open.spotify.com/artist/6twcQ04NrYtCVmngnEE76l"
         }
       ],
-      "duration_ms": 353927,
-      "name": "Nostalgic Days",
-      "url": "https://open.spotify.com/track/5b2BUoXRVmB9fqNsIPyNy0"
+      "duration_ms": 234226,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/3C7iZbonpl8guBGDOaZw5V"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1963,6 +1947,22 @@
       "duration_ms": 202228,
       "name": "Can't Get out of This Mood",
       "url": "https://open.spotify.com/track/3ddbXEt3W1UZUd2AOi2HhF"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Nostalgic Days",
+        "url": "https://open.spotify.com/album/20ld6T3TYuPvsjQx1dI3U6"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "duration_ms": 353927,
+      "name": "Nostalgic Days",
+      "url": "https://open.spotify.com/track/5b2BUoXRVmB9fqNsIPyNy0"
     },
     {
       "added_at": "2026-05-25 14:17:25",

@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Guess Who",
-  "num_followers": 23279,
+  "num_followers": 23283,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,26 @@
     {
       "added_at": "2026-06-18 21:01:00",
       "album": {
+        "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
+        "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
+      },
+      "artists": [
+        {
+          "name": "POLLY",
+          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 193481,
+      "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
+      "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
+    },
+    {
+      "added_at": "2026-06-18 21:01:00",
+      "album": {
         "name": "Scandal",
         "url": "https://open.spotify.com/album/2IDxe57SCMfEJqfX4Vssph"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 211549,
       "name": "Scandal",
       "url": "https://open.spotify.com/track/1XaX10K3ed5guoy4sNgfTM"
-    },
-    {
-      "added_at": "2026-06-18 21:01:00",
-      "album": {
-        "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
-        "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
-      },
-      "artists": [
-        {
-          "name": "POLLY",
-          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
-        },
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 193481,
-      "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
-      "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
     },
     {
       "added_at": "2026-06-18 21:01:00",
@@ -827,8 +827,8 @@
     {
       "added_at": "2026-06-18 21:01:00",
       "album": {
-        "name": "PLAYBOY CITY",
-        "url": "https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi"
+        "name": "HE$OYAM",
+        "url": "https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2"
       },
       "artists": [
         {
@@ -836,13 +836,13 @@
           "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         },
         {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
         }
       ],
-      "duration_ms": 123191,
-      "name": "A.D.S.",
-      "url": "https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV"
+      "duration_ms": 183428,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT"
     },
     {
       "added_at": "2026-06-18 21:01:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-06-18 21:01:00",
       "album": {
-        "name": "Corina",
-        "url": "https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi"
-      },
-      "artists": [
-        {
-          "name": "B.U.G. Mafia",
-          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
-        },
-        {
-          "name": "Lexi Cali",
-          "url": "https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Corina",
-      "url": "https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD"
-    },
-    {
-      "added_at": "2026-06-18 21:01:00",
-      "album": {
         "name": "Asta-i \u021aara Mea",
         "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 169711,
       "name": "Asta-i \u021aara Mea",
       "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
+    },
+    {
+      "added_at": "2026-06-18 21:01:00",
+      "album": {
+        "name": "Corina",
+        "url": "https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi"
+      },
+      "artists": [
+        {
+          "name": "B.U.G. Mafia",
+          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
+        },
+        {
+          "name": "Lexi Cali",
+          "url": "https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Corina",
+      "url": "https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD"
     },
     {
       "added_at": "2026-06-18 21:01:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-06-18 21:01:00",
       "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/5ftH8hbrnUCFhJydF6kLCr"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        },
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 161860,
-      "name": "Hustler",
-      "url": "https://open.spotify.com/track/04tshGzLF1sydGIWCm5Fes"
-    },
-    {
-      "added_at": "2026-06-18 21:01:00",
-      "album": {
         "name": "Lumea toat\u0103",
         "url": "https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 135000,
       "name": "Lumea toat\u0103",
       "url": "https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql"
+    },
+    {
+      "added_at": "2026-06-18 21:01:00",
+      "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/5ftH8hbrnUCFhJydF6kLCr"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 161860,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/04tshGzLF1sydGIWCm5Fes"
     }
   ],
   "unique_name": "Suflet + Sunet",

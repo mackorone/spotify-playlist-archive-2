@@ -4,7 +4,7 @@
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 54 min
+62 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Antidote](https://open.spotify.com/track/1FNH1V63OdaLf69OvEvQBK) | [James Bambu](https://open.spotify.com/artist/2afGhKp80uOinsYCrDr2Wn), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Antidote](https://open.spotify.com/album/4qMSxLQ4cw8ZsQgX0V3o2R) | 3:47 | 2026-02-26 |  |
 | [Around](https://open.spotify.com/track/3F5owzlK86hpL1dkI3HTI4) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:33 | 2026-02-26 | 2026-05-04 |
 | [AYO!](https://open.spotify.com/track/2e6ihjsjRQuXRE9lkQeagx) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 3:55 | 2026-05-04 | 2026-06-10 |
+| [baby, can we?](https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [baby, can we?](https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ) | 4:06 | 2026-06-21 |  |
 | [Brick by Brick \- Durand Bernarr Version](https://open.spotify.com/track/7p9tm4Z4JZm7FsvoyyR9sT) | [The Voices of Saturday Church](https://open.spotify.com/artist/3p1fkrf1vEETjpSULCYpe4), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Saturday Church \(Official Concept Album\)](https://open.spotify.com/album/5MUbWieT5aVx5oVtrSgHxG) | 3:44 | 2026-02-26 | 2026-04-14 |
 | [Bump The Man \- Live](https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Raw In Amsterdam \(Live\)](https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd) | 4:51 | 2026-02-26 |  |
 | [Collide](https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:42 | 2026-02-26 |  |

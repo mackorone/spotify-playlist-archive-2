@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from Eartheater, the sound that chalk makes, B0YG1RL, Eera, &amp; more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,368 likes - 100 songs - 5 hr 22 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,362 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Slow Pulp
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,474 likes - 113 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,476 likes - 113 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 112 | [Trouble](https://open.spotify.com/track/3IU8gx0FlYarKKA4TOgraH) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 3:17 |
 | 113 | [Rockcurry](https://open.spotify.com/track/2AFeJ0e0kAoKi3IVU4GkGk) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Rockcurry](https://open.spotify.com/album/3S7q9XpuNwuj9Xp3eMSduV) | 3:29 |
 
-Snapshot ID: `AAAAACHoQmLhMhuGy/ktUeGv0hr0aAR7`
+Snapshot ID: `AAAAAKeGTyxuxAqjp/y/vJyCkLPQc5wQ`

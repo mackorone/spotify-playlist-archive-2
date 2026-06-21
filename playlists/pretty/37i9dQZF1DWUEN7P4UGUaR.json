@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 17775,
+  "num_followers": 17788,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
+        "name": "Surgery",
+        "url": "https://open.spotify.com/album/0tfEleQD9BlzcDrnLg3Gyg"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "duration_ms": 259588,
+      "name": "SEE ME THROUGH (RECOVERY)",
+      "url": "https://open.spotify.com/track/1LnkRZLQtjWBpbYtNdqBmb"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
         "name": "Come and See",
         "url": "https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 342981,
       "name": "Come and See",
       "url": "https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
-        "name": "Surgery",
-        "url": "https://open.spotify.com/album/0tfEleQD9BlzcDrnLg3Gyg"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 259588,
-      "name": "SEE ME THROUGH (RECOVERY)",
-      "url": "https://open.spotify.com/track/1LnkRZLQtjWBpbYtNdqBmb"
     },
     {
       "added_at": "2026-03-12 23:38:53",

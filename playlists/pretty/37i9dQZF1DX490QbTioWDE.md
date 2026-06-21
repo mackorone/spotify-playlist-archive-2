@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Q´Lokura, Lauta & Amigo de Artistas
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,150 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,195 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 82 | [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 |
 | 83 | [Esto se Acabó](https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Esto Se Acabó](https://open.spotify.com/album/1usW30QraosvadgKpteABF) | 3:19 |
 | 84 | [Dejarnos Ir](https://open.spotify.com/track/4897DeNh6RkeVG4YTsM0Ee) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Dejarnos Ir](https://open.spotify.com/album/4blgi7a5EMVZT2vnpRObV1) | 2:28 |
-| 85 | [No Se Vivir Si No Es Contigo](https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [No Se Vivir Si No Es Contigo](https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx) | 3:22 |
-| 86 | [Ladrón](https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ladrón](https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW) | 2:39 |
+| 85 | [Ladrón](https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ladrón](https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW) | 2:39 |
+| 86 | [No Se Vivir Si No Es Contigo](https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [No Se Vivir Si No Es Contigo](https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx) | 3:22 |
 | 87 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
 | 88 | [Baby Nueva](https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Baby Nueva](https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB) | 2:47 |
 | 89 | [No Cambié](https://open.spotify.com/track/7aXdVp1XeibjbKj679y9pX) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [No Cambié](https://open.spotify.com/album/5WSf0tR685VljhMi3uJGux) | 3:04 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 95 | [Por Qué Será](https://open.spotify.com/track/56s6HH4zgao2iu9QduHd0p) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Por Qué Será](https://open.spotify.com/album/3giuLFpvYRGQdoxaLTMbXn) | 2:48 |
 | 96 | [Amor Secreto](https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Facu Y La Fuerza](https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU) | [Amor Secreto](https://open.spotify.com/album/1qFNf8L4IPmAykJSk9AON2) | 3:04 |
 | 97 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
-| 98 | [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 |
+| 98 | [Los Gatos No Ladran](https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF) | [Chipote](https://open.spotify.com/artist/6zuShqSKzYP7ZPGMkMFhbL) | [Atado a un Sentimiento](https://open.spotify.com/album/3hNqD2OaRuOpj9EWUw7pSS) | 3:58 |
 | 99 | [No Dire Que Si](https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p), [Pia Ka](https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix) | [No Dire Que Si](https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj) | 3:33 |
-| 100 | [Los Gatos No Ladran](https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF) | [Chipote](https://open.spotify.com/artist/6zuShqSKzYP7ZPGMkMFhbL) | [Atado a un Sentimiento](https://open.spotify.com/album/3hNqD2OaRuOpj9EWUw7pSS) | 3:58 |
+| 100 | [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 |
 
 Snapshot ID: `AAAAAM6EAwupMjQwH5zO6hejUMX9UUlX`

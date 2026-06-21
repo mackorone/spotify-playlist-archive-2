@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 156486,
+  "num_followers": 156533,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 366173,
-      "name": "Nancy",
-      "url": "https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "The Steamer (Expanded Edition)",
         "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 390666,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 366173,
+      "name": "Nancy",
+      "url": "https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Two Of A Mind",
-        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 351280,
-      "name": "All the Things You Are",
-      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Sweet Rain",
         "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 429026,
       "name": "Sweet Rain",
       "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Two Of A Mind",
+        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 351280,
+      "name": "All the Things You Are",
+      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
-      },
-      "artists": [
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
         "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
+      },
+      "artists": [
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "West Coast Jazz (Expanded Edition)",
         "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 203826,
       "name": "A Handful Of Stars",
       "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 356133,
+      "name": "Walkin' Out Blues",
+      "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -715,22 +731,6 @@
       "duration_ms": 264533,
       "name": "Custard Puff",
       "url": "https://open.spotify.com/track/6QRA6ekJHWPYyxnqGpdlfY"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 356133,
-      "name": "Walkin' Out Blues",
-      "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Jimmy Giuffre 3",
-        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "That's the Way It Is",
-      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
         "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 178920,
       "name": "Waltz Me Blues",
       "url": "https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "The Jimmy Giuffre 3",
+        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
     },
     {
       "added_at": "2024-07-08 07:01:17",

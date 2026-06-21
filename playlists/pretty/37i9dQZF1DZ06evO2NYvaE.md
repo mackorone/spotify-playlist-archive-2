@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NYvaE.md) - [plain]
 
 > This is Spiritbox\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,895 likes - 40 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,928 likes - 40 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NYvaE.md) - [plain]
 | 26 | [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 |
 | 27 | [Fata Morgana](https://open.spotify.com/track/14iSCO87Qveq9UXCtN48Vm) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:21 |
 | 28 | [Ties That Bind \(feat\. Courtney LaPlante of Spiritbox\)](https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o) | [2XKO](https://open.spotify.com/artist/2jexkdFS1qPCzcyeOqq2fq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs), [Joe Ford](https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF) | [Ties That Bind \(feat\. Courtney LaPlante of Spiritbox\)](https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO) | 3:51 |
-| 29 | [Everything's Eventual](https://open.spotify.com/track/1YhdBg2KGOcFZ4XJkm7Ttv) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 3:56 |
-| 30 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
+| 29 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
+| 30 | [Everything's Eventual](https://open.spotify.com/track/1YhdBg2KGOcFZ4XJkm7Ttv) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 3:56 |
 | 31 | [Perennial](https://open.spotify.com/track/606gzX3gtYCeMp0iyBEjhV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Singles Collection](https://open.spotify.com/album/2qyxvqq9X7ncfHNdZajbPC) | 4:06 |
 | 32 | [The Beauty of Suffering](https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 5:37 |
 | 33 | [Belcarra](https://open.spotify.com/track/2MvUfBlXqqdVdGwJKYxgFL) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Singles Collection](https://open.spotify.com/album/2qyxvqq9X7ncfHNdZajbPC) | 3:55 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NYvaE.md) - [plain]
 | 39 | [Electric Cross](https://open.spotify.com/track/0ADnhZNVVnSApQStXz2XxK) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Singles Collection](https://open.spotify.com/album/2qyxvqq9X7ncfHNdZajbPC) | 5:23 |
 | 40 | [10:16](https://open.spotify.com/track/7cHXbLD2MHOwGTezFgAQIc) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 1:08 |
 
-Snapshot ID: `ajM1AAAAAADkB986jRSfX/LLsHXqHkls`
+Snapshot ID: `ajSGgAAAAAD7OEL05YN/KexDZ59s3YCR`

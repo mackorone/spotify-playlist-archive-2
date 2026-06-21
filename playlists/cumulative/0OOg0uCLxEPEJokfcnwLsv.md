@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-553 songs - 1 day 10 hr 11 min
+554 songs - 1 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [sidewalk](https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [sidewalk](https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI) | 2:48 | 2026-05-07 | 2026-05-26 |
 | [Siempre Estaré](https://open.spotify.com/track/7e8MvyqagvlJOJaQDNdh5m) | [Viejo Furgon](https://open.spotify.com/artist/4WyH8DQAXLGiVTtqniULWG) | [Reloj Espiritual](https://open.spotify.com/album/3LYQCmohEV9m7cVWhpWuam) | 3:17 | 2026-04-23 | 2026-06-13 |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
+| [Silver Lake](https://open.spotify.com/track/3cMZDt1yPKZuP7UssRKfWI) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Silver Lake](https://open.spotify.com/album/4AMGWzEqgc2pui4p2vXC4y) | 4:11 | 2026-06-20 |  |
 | [Skin Deep](https://open.spotify.com/track/5wsNvYOF9wR5BRWSKUSbft) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Skin Deep](https://open.spotify.com/album/3g0JxbfNLFh4VTmdACc9f8) | 4:28 | 2025-12-20 | 2026-01-21 |
 | [Skuggorna på vägen hem](https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG) | [KRAKEL](https://open.spotify.com/artist/5pFRPC7ssWGA2obcJOezqH) | [Skuggorna på vägen hem](https://open.spotify.com/album/2rOzxZC6pLM83WSwqIOa2z) | 4:02 | 2026-02-20 | 2026-03-22 |
 | [Sleepless Nights](https://open.spotify.com/track/2rx2mOt8glRMwPo2mKyBgc) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Sleepless Nights](https://open.spotify.com/album/6APVwDWm6gGbtYhfnbC0CT) | 5:07 | 2025-10-30 | 2025-11-22 |

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,325 songs - 5 day 17 hr 19 min
+2,328 songs - 5 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -909,6 +909,7 @@
 | [I Need to Dream](https://open.spotify.com/track/3GmSOrgbOnHCGxcejhD7Fm) | [Lou Lollio](https://open.spotify.com/artist/3e4hlZjeNc6W5jnfFXGYgd) | [I Need to Dream](https://open.spotify.com/album/5HsEOJ8TsbD3LlvJeLzoXp) | 3:15 | 2025-10-02 |  |
 | [I Regret That Now](https://open.spotify.com/track/08lf1HK8B1nfCg51ZMCh6G) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Enchanted](https://open.spotify.com/album/3ClfQCfOsysGWFKSQGN2bt) | 2:59 | 2025-10-26 |  |
 | [I Saw You Burn](https://open.spotify.com/track/4Q86bMh5hXc4Ew95w9Hi7D) | [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [I Saw You Burn](https://open.spotify.com/album/41Go2aP9lNmIDfKGvxpZwu) | 3:56 | 2024-03-04 |  |
+| [I See You](https://open.spotify.com/track/4121pSeIc1sxqnH4i3nEvi) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [I See You](https://open.spotify.com/album/3Ba69of6UprDdYXUFqi7Kx) | 3:37 | 2026-06-20 |  |
 | [I Still Remember](https://open.spotify.com/track/7JAti2ONpcLz6tqnz5tPB2) | [Leonardo Boim](https://open.spotify.com/artist/62BMqVGhureZeMoUk7CtN5) | [I Still Remember](https://open.spotify.com/album/5yeptka7yzMVVXWVhDBwd9) | 4:47 | 2026-03-27 |  |
 | [I That I](https://open.spotify.com/track/78iJPOFmQOs28jR92it9Cr) | [Raidio Tony](https://open.spotify.com/artist/78XTuE89tXERSbDscOB9Zy) | [R2024A](https://open.spotify.com/album/1d76Lwxku7MgjnXRkK42kg) | 2:52 | 2025-10-15 |  |
 | [I Think You Dropped This](https://open.spotify.com/track/2whLROnRc1krJPAulLNyPy) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:23 | 2026-03-25 |  |
@@ -965,6 +966,7 @@
 | [Inebria](https://open.spotify.com/track/2cXm93p3rCZbtIMd1Ola7I) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Inebria](https://open.spotify.com/album/2XsRfSCEQ0mGiHzSwxiPqP) | 4:35 | 2023-11-10 |  |
 | [Inity Step \(Jungle Dubplate\)](https://open.spotify.com/track/0YqvxLhjwn1zGji9vASMzJ) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 5:30 | 2024-03-25 |  |
 | [Innamorata](https://open.spotify.com/track/571xgXcow1zuU2O8TNmkip) | [Fabio Valenti](https://open.spotify.com/artist/6z1MdbazryEPy7gLvFLAgH) | [Innamorata](https://open.spotify.com/album/4O8iNGJ4C1zsYq5It5Q8FU) | 4:25 | 2025-10-18 |  |
+| [INOPIA](https://open.spotify.com/track/0U4WS6XPqk2mTekMyf9hEF) | [Los Cansinos](https://open.spotify.com/artist/5ruDyDWrPtFECWQjzuMehx) | [INOPIA](https://open.spotify.com/album/3nbySGkd2EomrxB8T0CYci) | 2:33 | 2026-06-20 |  |
 | [Insamnia](https://open.spotify.com/track/3BcWNoBrZwGizOgpnN72dA) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 5:03 | 2025-10-09 |  |
 | [Inside Out](https://open.spotify.com/track/3psRfBXa4Ei4niCOrxbQmJ) | [J Kyu](https://open.spotify.com/artist/4vz1hMAJRwIjBBl6esGocL) | [Inside Out](https://open.spotify.com/album/7HsKkIuJ73eYSzAqVWkDC1) | 4:44 | 2025-11-26 |  |
 | [Inside You \- Acoustic Serenade](https://open.spotify.com/track/7gbuBAwHgUZDGMbluLLIlS) | [Tornexia](https://open.spotify.com/artist/3NTtzMaYyWQSHSsRXXVKvh) | [Inside You \(Acoustic Serenade\)](https://open.spotify.com/album/381WuE3g9wNPnfWjbe0Wyl) | 3:58 | 2025-08-11 |  |
@@ -2012,6 +2014,7 @@
 | [the sleeppin dead](https://open.spotify.com/track/7kCk3ACL37w1qHkFJkNjxv) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [At the down of the sleepindead](https://open.spotify.com/album/36dQNlJRtZQbZvBsaMxDmK) | 4:22 | 2025-10-02 |  |
 | [The Spider’s Last Smoke](https://open.spotify.com/track/6ZCSojvDoaRgSEI8AXnH4w) | [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [Noir in Flames](https://open.spotify.com/album/5o9PPQXjyIyhtBeCdnp753) | 2:24 | 2026-03-23 |  |
 | [The Struggle \(Live\)](https://open.spotify.com/track/3FIMzIxareCADVGhBEQV7I) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF) | [The Struggle](https://open.spotify.com/album/12yCKhNpF3JAGb9N72tuGK) | 5:56 | 2024-04-29 |  |
+| [The Sun Is Coming Up](https://open.spotify.com/track/2vHtaaZyIRkT9sFgRmJ1vq) | [James J](https://open.spotify.com/artist/6zJ4IDzZLFWmNTY3xRMAkt) | [The Sun Is Coming Up](https://open.spotify.com/album/2ZYCwtR1Pqh72iYkHhsoDR) | 3:40 | 2026-06-20 |  |
 | [The Tragedy of Nature](https://open.spotify.com/track/14QfUpq7kylTo2dXW9KFij) | [Mello Marston](https://open.spotify.com/artist/55f0l7J5C0blvKjUW4m8pl) | [The Tragedy of Nature](https://open.spotify.com/album/1Lv5mVzI5nEOA1akUxkmXW) | 2:42 | 2025-09-19 |  |
 | [The Trap](https://open.spotify.com/track/4zHzsfgM5lgTjUkOCvOoX9) | [The DusT](https://open.spotify.com/artist/2N1MPCWuALMANw3moeyv0q) | [The Trap](https://open.spotify.com/album/1asSIuFNLP1T9FT3Vevf0R) | 3:31 | 2025-05-12 |  |
 | [The Wall](https://open.spotify.com/track/04H7RLRT5RaOilbjkhqiRs) | [Aliver J.](https://open.spotify.com/artist/5E8lyrqhUatr1baxiQcR6e), [Cris Vola](https://open.spotify.com/artist/2KEmA4t1YnKprGIX46KRGa) | [The Wall](https://open.spotify.com/album/0AZW2BONaVDnblt468l7SH) | 3:08 | 2022-08-13 |  |

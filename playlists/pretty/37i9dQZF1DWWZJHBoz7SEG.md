@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Entre partido y partido escucha lo mejor de la semana en compañía de AQUIHAYAQUIHAY y Cachirula
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,194,747 likes - 78 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,039 likes - 78 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

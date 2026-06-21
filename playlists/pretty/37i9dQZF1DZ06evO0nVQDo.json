@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAADTK35JQjc1ANp2T1/dZ4H6",
+  "snapshot_id": "ajSGgAAAAABv6odxjRVu8ASQm1mCbTLM",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 276266,
-      "name": "Shadow Spots",
-      "url": "https://open.spotify.com/track/79WiybZ6Ul4FaSBx1Q0sah"
+      "duration_ms": 327887,
+      "name": "Will O Wisp",
+      "url": "https://open.spotify.com/track/6Nk16b0mopM3PzzCRmBnRN"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 327887,
-      "name": "Will O Wisp",
-      "url": "https://open.spotify.com/track/6Nk16b0mopM3PzzCRmBnRN"
+      "duration_ms": 276266,
+      "name": "Shadow Spots",
+      "url": "https://open.spotify.com/track/79WiybZ6Ul4FaSBx1Q0sah"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 438000,
-      "name": "Dense Dusk",
-      "url": "https://open.spotify.com/track/2gwAB3X1wUtn3qPfP5hGeN"
+      "duration_ms": 308000,
+      "name": "Friendly Glow",
+      "url": "https://open.spotify.com/track/1m7rLMGoH3EIHQhzgAgRFb"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 209700,
-      "name": "Water / Earth",
-      "url": "https://open.spotify.com/track/1pnZHkdiCLlsIQ7Tb9KuUr"
+      "duration_ms": 182454,
+      "name": "Fire / Water",
+      "url": "https://open.spotify.com/track/6HlU5CCc6mav55VydY7ApD"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 344500,
-      "name": "2nd Wind",
-      "url": "https://open.spotify.com/track/12ywSB3U66OMMHE23p57uK"
+      "duration_ms": 108680,
+      "name": "Night Bloomer",
+      "url": "https://open.spotify.com/track/4WWcRgLAW5QgIga6uQuuTX"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 308000,
-      "name": "Friendly Glow",
-      "url": "https://open.spotify.com/track/1m7rLMGoH3EIHQhzgAgRFb"
+      "duration_ms": 438000,
+      "name": "Dense Dusk",
+      "url": "https://open.spotify.com/track/2gwAB3X1wUtn3qPfP5hGeN"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 114551,
-      "name": "Water / Fire",
-      "url": "https://open.spotify.com/track/0z1HLe2IOp8rGwfeQgkIKy"
+      "duration_ms": 209700,
+      "name": "Water / Earth",
+      "url": "https://open.spotify.com/track/1pnZHkdiCLlsIQ7Tb9KuUr"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 182454,
-      "name": "Fire / Water",
-      "url": "https://open.spotify.com/track/6HlU5CCc6mav55VydY7ApD"
+      "duration_ms": 114551,
+      "name": "Water / Fire",
+      "url": "https://open.spotify.com/track/0z1HLe2IOp8rGwfeQgkIKy"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
       "duration_ms": 229625,
       "name": "Vacant & Encouraging My Trophy Houseplant",
       "url": "https://open.spotify.com/track/2ofVGkLXke0899o5TmbWUk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recent Futures",
+        "url": "https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 704444,
+      "name": "Big Talk",
+      "url": "https://open.spotify.com/track/7xDE5QUC8CnVYLY6WMuSV7"
     },
     {
       "added_at": null,

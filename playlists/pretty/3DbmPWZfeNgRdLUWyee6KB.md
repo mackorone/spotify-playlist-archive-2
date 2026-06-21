@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 183 songs - 10 hr 23 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 184 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,5 +191,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 181 | [I Need To Know](https://open.spotify.com/track/1vLPOm6bkp4ui1nsxAPxp2) | [1976Piano/MJM](https://open.spotify.com/artist/51dGdERH5AOJVfardvCpi3) | [I Need To Know](https://open.spotify.com/album/5d1RZzDjTxXqzfPS2TVzm4) | 2:27 |
 | 182 | [Cool](https://open.spotify.com/track/0lEyuxEtiz90tgC542d3Iz) | [Tim Allan](https://open.spotify.com/artist/1PAvHNGevlHvYXRC5JityS) | [Not the Bad Boy](https://open.spotify.com/album/4fHVgR7PMm8nO8FPpaxIx1) | 2:45 |
 | 183 | [Temporale](https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Temporale](https://open.spotify.com/album/1GzSHr7iwT76nRnL2zRHh0) | 2:32 |
+| 184 | [Flashback](https://open.spotify.com/track/7zphXBpoS3Qo1ybHyksW2i) | [East Collectors](https://open.spotify.com/artist/2jwnJc5ibEXh10jmTPz3mh), [Guðrun Sólja](https://open.spotify.com/artist/7u04eBVbYkvMPkUPkLHFu6) | [Flashback](https://open.spotify.com/album/1VvkRHbKvajkyILV44y9gt) | 3:37 |
 
-Snapshot ID: `AAAVOZjBvaMkPDuUXUAcSTSpBAimuanJ`
+Snapshot ID: `AAAVOollPYfTA/cGYGJVHo1ShxJA40SV`

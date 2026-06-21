@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,482 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,479 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 32 | [Deixa Eu Gostar de Você](https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31) | [5 a Seco](https://open.spotify.com/artist/1R9QfzgBmhk1spLg3BiU1f), [Pedro Altério](https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td) | [Sentido](https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0) | 3:02 |
 | 33 | [Lucidez \- Ao Vivo](https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Eu Gosto no Pagode Vol\. 3 \- Homenagem ao Fundo de Quintal \(Gravado em Londres\) \[Ao Vivo\]](https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR) | 4:18 |
 | 34 | [pesimista](https://open.spotify.com/track/4h3UlQtw65wj5tiYZ4TZ3s) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:54 |
-| 35 | [Rota](https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Lucs Romero](https://open.spotify.com/artist/1yw5PZ4ceYDZWiptutFaAN) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 3:35 |
-| 36 | [sol na pele](https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq) | [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj) | [big buraco](https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN) | 3:00 |
+| 35 | [sol na pele](https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq) | [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj) | [big buraco](https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN) | 3:00 |
+| 36 | [Rota](https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Lucs Romero](https://open.spotify.com/artist/1yw5PZ4ceYDZWiptutFaAN) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 3:35 |
 | 37 | [A natureza das coisas](https://open.spotify.com/track/4zvqkPu8ajJc0Qglca07ZG) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Casa Coração](https://open.spotify.com/album/6vSNBpqihCHJcrCVTstJMv) | 4:01 |
 | 38 | [Lara](https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 3:18 |
 | 39 | [Cancionera](https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 5:36 |
 | 40 | [CONJUNTÃO DE TIME](https://open.spotify.com/track/3bvIkHpcpgw4vFXpAvrwZx) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MPC \(Música Popular Carioca\)](https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R) | 2:34 |
-| 41 | [Não Sou Mais Eu](https://open.spotify.com/track/5FbprHnY0bdQuslqVkUCdK) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [Onde Guardamos as Flores?](https://open.spotify.com/album/0lIYF35w3Bkiw8zKx3lG6z) | 4:47 |
-| 42 | [Volta](https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Do Velho Testamento](https://open.spotify.com/album/48XG3OIWFse7bJXCaOIaRF) | 2:27 |
+| 41 | [Volta](https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Do Velho Testamento](https://open.spotify.com/album/48XG3OIWFse7bJXCaOIaRF) | 2:27 |
+| 42 | [Não Sou Mais Eu](https://open.spotify.com/track/5FbprHnY0bdQuslqVkUCdK) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [Onde Guardamos as Flores?](https://open.spotify.com/album/0lIYF35w3Bkiw8zKx3lG6z) | 4:47 |
 | 43 | [Salto](https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Reações Adversas / Ao Persistirem os Sintomas](https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98) | 3:09 |
 | 44 | [Santo, Santo, Santo \- Ao Vivo](https://open.spotify.com/track/6uQznfXz7xrinjN56u7tbv) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memóri4s \(Ao Vivo\)](https://open.spotify.com/album/6nVfk6R3u1SWg2xsD72zu7) | 4:37 |
 | 45 | [Minta Meu Sonho \- Ao Vivo](https://open.spotify.com/track/5GSuFlMLylIOR9vGn13a7c) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Zeca Pagodinho \- 40 Anos \(Ao Vivo\)](https://open.spotify.com/album/54TvGrplEW3aKHJuYUuN3r) | 3:14 |

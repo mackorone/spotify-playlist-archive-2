@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,009,032 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,008,877 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 99 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 |
 | 100 | [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 |
 
-Snapshot ID: `AAAAAKO8hQkA6ojZoR+thX9OQ94tyQvd`
+Snapshot ID: `AAAAAF5QlNCJBQcp6gF2pxNipUJD1X6g`

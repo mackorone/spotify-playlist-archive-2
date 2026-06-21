@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,642,448 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,642,422 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 79 | [Sing a Song for You](https://open.spotify.com/track/01o6YGrdvMrUAFmWgwoDCb) | [Tim Buckley](https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr) | [Happy Sad](https://open.spotify.com/album/20CYfxjKvqXkCXBhAgOE39) | 2:41 |
 | 80 | [Not Alone](https://open.spotify.com/track/2SXtIzmLn2a8WHDbxAt6Ai) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Living With Ghosts](https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF) | 4:32 |
 | 81 | [Music Is Love](https://open.spotify.com/track/0O87QQVWgCkkXAfrhsal55) | [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [If I Could Only Remember My Name](https://open.spotify.com/album/4v9ZAufvuQKvTLcy21y6BM) | 3:22 |
-| 82 | [Tell Old Bill](https://open.spotify.com/track/2ddznUWfrjiPS0cYGGf2jy) | [Dave Van Ronk](https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz) | [Van Ronk Sings](https://open.spotify.com/album/34j8rWAn2K4du9ay3WRvmQ) | 4:24 |
-| 83 | [Green Mountain Road](https://open.spotify.com/track/4lSofToZxg0tPiVfv6AOMM) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [I Came to Sing the Song](https://open.spotify.com/album/2m19dJQ6TcCzfJUl3QcGpB) | 5:34 |
-| 84 | [Oh Dear, What Can The Matter Be](https://open.spotify.com/track/580Am1PtXEC1hVVibksKRE) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [The New Folk Sound Of Terry Callier \(Deluxe Edition\)](https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7) | 2:57 |
+| 82 | [Oh Dear, What Can The Matter Be](https://open.spotify.com/track/580Am1PtXEC1hVVibksKRE) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [The New Folk Sound Of Terry Callier \(Deluxe Edition\)](https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7) | 2:57 |
+| 83 | [Tell Old Bill](https://open.spotify.com/track/2ddznUWfrjiPS0cYGGf2jy) | [Dave Van Ronk](https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz) | [Van Ronk Sings](https://open.spotify.com/album/34j8rWAn2K4du9ay3WRvmQ) | 4:24 |
+| 84 | [Green Mountain Road](https://open.spotify.com/track/4lSofToZxg0tPiVfv6AOMM) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [I Came to Sing the Song](https://open.spotify.com/album/2m19dJQ6TcCzfJUl3QcGpB) | 5:34 |
 | 85 | [Great Day](https://open.spotify.com/track/6QP9DFKvDjegtwz2HQZFL7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Funny People \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zrPKpcz1dKsWWqQGICVrg) | 2:08 |
 | 86 | [Operator \- 50th Anniversary Edition](https://open.spotify.com/track/6H5GZTHuR8mZ752VLSNBsB) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Demo Tapes \(50th Anniversary Edition\)](https://open.spotify.com/album/3jLng533M56YEr2abSeEoW) | 3:45 |
 | 87 | [Woman Soul](https://open.spotify.com/track/7mnR1m62Ynkqgm9HiziFH8) | [Dory Previn](https://open.spotify.com/artist/4x3O97skvSMH61NkaKrZq8) | [We're Children Of Coincidence And Harpo Marx](https://open.spotify.com/album/2Z4PxWel0AXEpfy0rSLhXK) | 3:43 |

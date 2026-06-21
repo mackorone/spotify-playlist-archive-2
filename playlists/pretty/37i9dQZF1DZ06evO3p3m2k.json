@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 5833,
+  "num_followers": 5838,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAACaxPTabQsIOpPbe9M8LqnG",
+  "snapshot_id": "ajSGgAAAAAD1RdmLU9JgkRVPXB7TsEo9",
   "tracks": [
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Submarino",
-      "url": "https://open.spotify.com/track/458HEdjsqtvw5x7QXmFNL6"
+      "duration_ms": 187805,
+      "name": "Paciente",
+      "url": "https://open.spotify.com/track/2x6RrcueNTLQuloTnR1ULz"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 187805,
-      "name": "Paciente",
-      "url": "https://open.spotify.com/track/2x6RrcueNTLQuloTnR1ULz"
+      "duration_ms": 171000,
+      "name": "Submarino",
+      "url": "https://open.spotify.com/track/458HEdjsqtvw5x7QXmFNL6"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Narices Fr\u00edas",
+        "url": "https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 303088,
+      "name": "Narices Fr\u00edas",
+      "url": "https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Mala Hora",
         "url": "https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 199736,
       "name": "YA NO SIENTO FR\u00cdO",
       "url": "https://open.spotify.com/track/5pWKM3ZxK7T14uSyuxVrH5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Narices Fr\u00edas",
-        "url": "https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 303088,
-      "name": "Narices Fr\u00edas",
-      "url": "https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
+        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 163295,
+      "name": "\u00bfY C\u00f3mo Es \u00c9l? - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/0EFtIku6LZPToZJ2F3hath"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minuto Cien",
         "url": "https://open.spotify.com/album/0VgrHzob67ddWvWakNphCx"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 194526,
       "name": "Minuto Cien",
       "url": "https://open.spotify.com/track/2TAyzkX6AvXtsq8ToVSi0C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 163295,
-      "name": "\u00bfY C\u00f3mo Es \u00c9l? - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/0EFtIku6LZPToZJ2F3hath"
     },
     {
       "added_at": null,
@@ -755,6 +755,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
+        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 177610,
+      "name": "Que Locura Enamorarme de Ti - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Primera Vez",
+        "url": "https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS"
+      },
+      "artists": [
+        {
+          "name": "Opa!",
+          "url": "https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 305898,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 166227,
+      "name": "Monta\u00f1a Rusa",
+      "url": "https://open.spotify.com/track/0OC5zKdIxjR3oYiWuL3Tq1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/34KSApIN48IpEUePEJYV97"
       },
@@ -780,45 +832,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 177610,
-      "name": "Que Locura Enamorarme de Ti - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 166227,
-      "name": "Monta\u00f1a Rusa",
-      "url": "https://open.spotify.com/track/0OC5zKdIxjR3oYiWuL3Tq1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Primera Vez",
-        "url": "https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS"
-      },
-      "artists": [
-        {
-          "name": "Opa!",
-          "url": "https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ"
-        },
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 305898,
-      "name": "La Primera Vez",
-      "url": "https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if"
+      "duration_ms": 234358,
+      "name": "Coraz\u00f3n Part\u00edo - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
       "duration_ms": 170896,
       "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
       "url": "https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 234358,
-      "name": "Coraz\u00f3n Part\u00edo - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1452248,
+  "num_followers": 1452343,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-06-19 06:00:28",
       "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
-    },
-    {
-      "added_at": "2026-06-19 06:00:28",
-      "album": {
         "name": "El Androide",
         "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 178407,
       "name": "Singapur",
       "url": "https://open.spotify.com/track/5q7icrT1Wn8PHaePIjYYyg"
+    },
+    {
+      "added_at": "2026-06-19 06:00:28",
+      "album": {
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
       "added_at": "2026-06-19 06:00:28",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-06-19 06:00:28",
       "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
+    },
+    {
+      "added_at": "2026-06-19 06:00:28",
+      "album": {
         "name": "Veo Veo",
         "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 171344,
       "name": "Veo Veo",
       "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
-    },
-    {
-      "added_at": "2026-06-19 06:00:28",
-      "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2026-06-19 06:00:28",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-06-19 06:00:28",
       "album": {
-        "name": "BABYRECORDS.",
-        "url": "https://open.spotify.com/album/5oYfMTdeFQLcBk4mh5cONj"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 149345,
-      "name": "BABYRECORDS.",
-      "url": "https://open.spotify.com/track/7adWxffOcMRKBcRgOyX5vw"
-    },
-    {
-      "added_at": "2026-06-19 06:00:28",
-      "album": {
         "name": "CAIRO",
         "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 201280,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
+    },
+    {
+      "added_at": "2026-06-19 06:00:28",
+      "album": {
+        "name": "BABYRECORDS.",
+        "url": "https://open.spotify.com/album/5oYfMTdeFQLcBk4mh5cONj"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 149345,
+      "name": "BABYRECORDS.",
+      "url": "https://open.spotify.com/track/7adWxffOcMRKBcRgOyX5vw"
     },
     {
       "added_at": "2026-06-19 06:00:28",
@@ -1947,30 +1947,6 @@
     {
       "added_at": "2026-06-19 06:00:28",
       "album": {
-        "name": "SUPREME",
-        "url": "https://open.spotify.com/album/3xMzcA2wx69GXCwHAK8ydm"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        },
-        {
-          "name": "Enayy",
-          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "SUPREME",
-      "url": "https://open.spotify.com/track/7r0HxydZCYOG5ZqE66WCQC"
-    },
-    {
-      "added_at": "2026-06-19 06:00:28",
-      "album": {
         "name": "Pa las girlas (con DJ Urba) [Remix]",
         "url": "https://open.spotify.com/album/74nPXmgXFFSdwKsX0Ty6c9"
       },
@@ -1999,6 +1975,30 @@
       "duration_ms": 260254,
       "name": "Pa las girlas (con DJ Urba) - Remix",
       "url": "https://open.spotify.com/track/2kvSCKwcdYB8CaBoZm7sa9"
+    },
+    {
+      "added_at": "2026-06-19 06:00:28",
+      "album": {
+        "name": "SUPREME",
+        "url": "https://open.spotify.com/album/3xMzcA2wx69GXCwHAK8ydm"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "SUPREME",
+      "url": "https://open.spotify.com/track/7r0HxydZCYOG5ZqE66WCQC"
     },
     {
       "added_at": "2026-06-19 06:00:28",
@@ -2067,30 +2067,6 @@
     {
       "added_at": "2026-06-19 06:00:28",
       "album": {
-        "name": "\u00d1ero Session 23",
-        "url": "https://open.spotify.com/album/6qN493Dqvx508buRITESb6"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 164455,
-      "name": "\u00d1ero Session 23",
-      "url": "https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G"
-    },
-    {
-      "added_at": "2026-06-19 06:00:28",
-      "album": {
         "name": "Poblado",
         "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
       },
@@ -2135,6 +2111,26 @@
     {
       "added_at": "2026-06-19 06:00:28",
       "album": {
+        "name": "Dile A \u00c9L (Remix)",
+        "url": "https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 220189,
+      "name": "Dile A \u00c9L (Remix)",
+      "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
+    },
+    {
+      "added_at": "2026-06-19 06:00:28",
+      "album": {
         "name": "Reloj",
         "url": "https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk"
       },
@@ -2155,22 +2151,26 @@
     {
       "added_at": "2026-06-19 06:00:28",
       "album": {
-        "name": "Dile A \u00c9L (Remix)",
-        "url": "https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI"
+        "name": "\u00d1ero Session 23",
+        "url": "https://open.spotify.com/album/6qN493Dqvx508buRITESb6"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
         },
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
         }
       ],
-      "duration_ms": 220189,
-      "name": "Dile A \u00c9L (Remix)",
-      "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
+      "duration_ms": 164455,
+      "name": "\u00d1ero Session 23",
+      "url": "https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G"
     },
     {
       "added_at": "2026-06-19 06:00:28",

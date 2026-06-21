@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-204 songs - 12 hr 55 min
+205 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Loco Playa](https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Loco Playa](https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7) | 3:37 | 2021-10-20 |  |
 | [Loco por Tu Amor](https://open.spotify.com/track/6BdXIpQeiubbZhP7ZN944z) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Loco por Tu Amor](https://open.spotify.com/album/55NPFfTI9SG3aSbmUwfPMY) | 3:52 | 2025-05-19 |  |
 | [Los Chucos Suaves \(featuring Macha\)](https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Macha](https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:12 | 2021-10-20 | 2024-04-19 |
-| [Los Olvidados](https://open.spotify.com/track/7HHGXcIR0iUkBmgHrClR47) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropidélico](https://open.spotify.com/album/173jCDoA1pArfdouxi1kZ8) | 3:26 | 2021-10-20 |  |
+| [Los Olvidados](https://open.spotify.com/track/7HHGXcIR0iUkBmgHrClR47) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropidélico](https://open.spotify.com/album/173jCDoA1pArfdouxi1kZ8) | 3:26 | 2021-10-20 | 2026-06-21 |
 | [Los Olvidados \(Cumbia\)](https://open.spotify.com/track/1ENaWkSrM7Ls1TQw7Xu7IW) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e) | [Tropidélico](https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS) | 3:26 | 2021-10-20 | 2024-04-19 |
 | [Lotus](https://open.spotify.com/track/4wx8KI6mcAT2yjab2hgeul) | [Gia Fu](https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi) | [Lotus](https://open.spotify.com/album/0Z9uE1lFTTQVwPPuaKYbdJ) | 4:57 | 2024-10-04 | 2025-05-20 |
 | [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 | 2023-05-25 | 2025-12-02 |
@@ -146,6 +146,7 @@
 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 | 2021-10-20 |  |
 | [Noche triler](https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n) | [LA MECANICA POPULAR](https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK) | [Noche triler](https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId) | 3:58 | 2021-10-20 |  |
 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2021-10-20 | 2024-04-19 |
+| [Ocelote](https://open.spotify.com/track/6oIxxuAvq7K3DqEnDyNHA9) | [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Ocelote](https://open.spotify.com/album/5QjSfqwbwpzCtVEoXKflGK) | 7:14 | 2025-05-19 |  |
 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 | 2023-04-12 | 2024-04-19 |
 | [Onda tropical \- Cumbia Version](https://open.spotify.com/track/6jN40i3UnbYaQ10cvgEzci) | [Doble Play](https://open.spotify.com/artist/3vy6O47cuQ2Q9gEtmnG8S8), [Rodrigo Martínez Torres](https://open.spotify.com/artist/6ShKSeyhrhCraDsF8V6lQK), [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [Onda tropical \(Cumbia Version\)](https://open.spotify.com/album/6xrn1xN8mBj1rvPaSrE3o8) | 3:24 | 2024-08-07 |  |
 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 | 2021-10-20 | 2024-04-19 |

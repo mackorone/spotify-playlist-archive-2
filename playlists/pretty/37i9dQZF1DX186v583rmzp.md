@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,342,828 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,343,323 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 44 | [Gangsta Nation](https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf) | [Westside Connection](https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt) | [Terrorist Threats](https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB) | 4:53 |
 | 45 | [Mass Appeal](https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Hard To Earn](https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7) | 3:41 |
 | 46 | [Check the Rhime](https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Low End Theory](https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a) | 3:36 |
-| 47 | [They Reminisce Over You \(T.R.O.Y.\)](https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy) | [Pete Rock & C.L\. Smooth](https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq) | [Mecca And The Soul Brother](https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp) | 4:46 |
+| 47 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 48 | [It Ain't Hard to Tell](https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 3:22 |
-| 49 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
+| 49 | [They Reminisce Over You \(T.R.O.Y.\)](https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy) | [Pete Rock & C.L\. Smooth](https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq) | [Mecca And The Soul Brother](https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp) | 4:46 |
 | 50 | [Wu\-Tang Clan Ain't Nuthing ta F' Wit](https://open.spotify.com/track/24vNw0Z0srb4zYXwrakw8E) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 3:36 |
 | 51 | [Sound of da Police](https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Return of the Boom Bap](https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9) | 4:18 |
 | 52 | [Put Your Hands Where My Eyes Could See \(feat\. Jamal\)](https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [When Disaster Strikes...](https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP) | 3:14 |

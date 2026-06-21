@@ -1489,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "PALOMINO",
+        "url": "https://open.spotify.com/album/7LRLBrL0HfgkU2SqpzwePJ"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134586,
+      "name": "PALOMINO",
+      "url": "https://open.spotify.com/track/21sGzDAr9iuedExAktmkeT"
+    },
+    {
+      "album": {
         "name": "Prendemos",
         "url": "https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf"
       },
@@ -1588,7 +1606,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 160000,
       "name": "Si Te Vas Conmigo",
       "url": "https://open.spotify.com/track/3KxiuTv3b3HqmmqsKrGNVI"

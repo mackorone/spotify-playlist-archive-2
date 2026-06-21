@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 
 > Voices that are elevating nuestra cultura\. Cuco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,940 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,944 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 47 | [WASTED WEEKEND](https://open.spotify.com/track/22Pl1r4YyCoVe2BxgDDuUZ) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [NEVERENDING ROADTRIP](https://open.spotify.com/album/6p3eBZviVFViSdA9smwHZc) | 2:33 |
 | 48 | [YNMA](https://open.spotify.com/track/56TtgvmfpGa5kkwVuyUX0D) | [Alex O'aiza](https://open.spotify.com/artist/1uXqUMtQBxXM5IMvvz1LyT) | [YNMA](https://open.spotify.com/album/6sMk7fufRWSnlPaKg3hhzB) | 3:59 |
 | 49 | [cuando tú me besas](https://open.spotify.com/track/1iSwx9InMi6I6SKIWANKKv) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [cuando tú me besas](https://open.spotify.com/album/2QtFMf82Oxhy77QWX6xVgr) | 2:32 |
-| 50 | [Ponte Las Pilas](https://open.spotify.com/track/7KppB1az9E6tGBsHqGeJXN) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Ponte Las Pilas](https://open.spotify.com/album/6aCTwpnI4u4tGOE15vjMGg) | 2:52 |
+| 50 | [broken heart](https://open.spotify.com/track/5akkEq8y9Zp7vXj9AJg9WJ) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [broken heart](https://open.spotify.com/album/4GoqEbLTe9Sk56kS5uRH3V) | 2:42 |
 
 Snapshot ID: `AAAAAP4XU21TQ7q/NcndOuZ9syXf3fqG`

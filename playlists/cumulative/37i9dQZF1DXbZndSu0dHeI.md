@@ -4,7 +4,7 @@
 
 > Really lovely songs.
 
-552 songs - 1 day 9 hr 18 min
+554 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [a leith ross song](https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [a leith ross song](https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4) | 2:27 | 2025-03-29 |  |
 | [A Little Less Bored](https://open.spotify.com/track/7Mf4X2WRdXV3GCCkc6dlk0) | [Sir Simon](https://open.spotify.com/artist/66s4j0fEi6h0xeQfbh54FP) | [A Little Less Bored](https://open.spotify.com/album/4YbZzBoYBVEZeEceOu85iP) | 3:13 | 2021-11-12 | 2022-07-27 |
 | [A Postcard to Nina](https://open.spotify.com/track/0b1Cpu2geO7om7aW066a7K) | [Jens Lekman](https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx) | [Night Falls Over Kortedala](https://open.spotify.com/album/7JCBRYuae6ORVUFVJ1WFg7) | 5:00 | 2022-03-19 | 2022-04-16 |
+| [Accidental Tattoo](https://open.spotify.com/track/0JxUqyj3Zum5eT9fY7MJjd) | [case/lang/veirs](https://open.spotify.com/artist/63I02CqRt2xKO0o5QvmHs5), [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586), [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Accidental Tattoo](https://open.spotify.com/album/3OwghTltlARrWaoSIhnQCM) | 3:15 | 2026-06-18 |  |
 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 | 2026-04-23 |  |
 | [Actor With A Loaded Gun](https://open.spotify.com/track/3u8KqniHoAO7mdq3ynkqym) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Rain / Actor With A Loaded Gun](https://open.spotify.com/album/18NwctEsyhxA7ZQ1K6bkFL) | 2:57 | 2021-11-12 | 2022-06-20 |
 | [Alarms](https://open.spotify.com/track/43cNTR4dG6IbUb0F88pl4T) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Alarms](https://open.spotify.com/album/1iIXuLWSglIedAyUFpaN1J) | 3:12 | 2022-03-19 | 2022-04-16 |
@@ -150,6 +151,7 @@
 | [Empty In The Capital](https://open.spotify.com/track/3nk04NimXNUKFVpcDUuP6s) | [Grace Gillespie](https://open.spotify.com/artist/4owaayCKTzC8Y7PeADjuAk) | [Empty In The Capital](https://open.spotify.com/album/5EIxBWnno8tBztYfggVM3D) | 3:43 | 2021-11-12 | 2022-06-28 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-21 | 2025-03-30 |
 | [end of my street](https://open.spotify.com/track/2MtvVsQcdNvTIFKicaOwLr) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1HzHGZQVUwJeBBExUQuhPg) | 2:42 | 2022-03-19 | 2022-04-12 |
+| [Energizer](https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Energizer](https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs) | 2:31 | 2026-06-18 |  |
 | [Everybody](https://open.spotify.com/track/5nRaLv8g2AAtEf92IuQJyG) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Everybody](https://open.spotify.com/album/2QRzc3cbXi3DjaVk30t5Vj) | 6:34 | 2025-03-29 | 2026-04-24 |
 | [Everyone Around Me Dancing](https://open.spotify.com/track/6iAoohJqkZCOo6SdzkXyZI) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Singing](https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf) | 3:05 | 2026-05-01 |  |
 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 | 2021-11-12 |  |
@@ -239,7 +241,7 @@
 | [Hysterical Us](https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Hysterical Us](https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX) | 3:55 | 2021-11-12 | 2022-07-29 |
 | [I can do what I want](https://open.spotify.com/track/4ExoRP6SDTO8LvYIjUsyiK) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [I can do what I want](https://open.spotify.com/album/34syhtKXv345KDnYcJcmN7) | 3:00 | 2025-03-29 | 2026-06-18 |
 | [I Can See Clearly Now](https://open.spotify.com/track/12RfMGt8MdXrilOJNAhe6r) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [I Can See Clearly Now](https://open.spotify.com/album/7ijWsMC7YkQm4HiXwt9Epe) | 3:11 | 2022-06-22 | 2026-04-24 |
-| [I Can't Get My Head Around You](https://open.spotify.com/track/6SYqfDeq72Y5KJLO3MLbEz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can’t Get My Head Around You](https://open.spotify.com/album/1fSKT3XWJwbOMXxBznEyKZ) | 3:26 | 2025-03-29 |  |
+| [I Can't Get My Head Around You](https://open.spotify.com/track/6SYqfDeq72Y5KJLO3MLbEz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can’t Get My Head Around You](https://open.spotify.com/album/1fSKT3XWJwbOMXxBznEyKZ) | 3:26 | 2025-03-29 | 2026-06-21 |
 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 | 2023-03-08 | 2023-04-10 |
 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/05qTeP4xG8KXoRhN2HdKjS) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/7MjceL6iPFM86qxxeWCVEz) | 4:37 | 2022-03-19 | 2023-01-28 |
 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz) | 4:37 | 2022-08-05 | 2024-04-19 |
@@ -524,7 +526,7 @@
 | [Violet Light](https://open.spotify.com/track/0r9yhCdISMtd5dV63ts8Ju) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Violet Light](https://open.spotify.com/album/4qvtHR2G888pOiWntewVeG) | 3:21 | 2022-03-09 | 2022-06-06 |
 | [Waitin' \- Edit](https://open.spotify.com/track/0kBAFAVajRjCX8kXneVsZI) | [Boy Azooga](https://open.spotify.com/artist/4S2f4BosAW2oF9AfGEK8ZL) | [Waitin' \(Edit\)](https://open.spotify.com/album/68aYjlcWtBfK47iXFa0QA0) | 3:25 | 2022-03-19 | 2022-04-15 |
 | [Wallflower](https://open.spotify.com/track/4GEm1plrloLKfg2T4HxCiI) | [Latir](https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr) | [Wallflower](https://open.spotify.com/album/3TQO2baR2XJJi6ljcuv47y) | 3:04 | 2021-11-12 | 2022-07-29 |
-| [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 | 2021-11-12 |  |
+| [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 | 2021-11-12 | 2026-06-21 |
 | [welcome to the sidelines](https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [is that all there is?](https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK) | 2:57 | 2022-04-08 |  |
 | [What A Life](https://open.spotify.com/track/5fwr3bqXrW7ZTlaknYQ4Rv) | [Gabe Coulter](https://open.spotify.com/artist/5o8S3BWm7IgBj9nhPMGLP9) | [What A Life](https://open.spotify.com/album/75MvOLCBpMhKrqNclL3mi9) | 3:15 | 2022-03-19 | 2022-04-16 |
 | [What Are We Doing?](https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [What Are We Doing?](https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC) | 3:13 | 2021-11-12 |  |

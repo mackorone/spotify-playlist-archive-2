@@ -11165,6 +11165,24 @@
     },
     {
       "album": {
+        "name": "Por Voc\u00eas (Vol. 1) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1DhyCGWTjpk2WX7DaBJek2"
+      },
+      "artists": [
+        {
+          "name": "Clayton & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151168,
+      "name": "Calma A\u00ed Campe\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4de2pjWrgcAgBM18JacBAl"
+    },
+    {
+      "album": {
         "name": "La chair bleue, 2020-2022",
         "url": "https://open.spotify.com/album/7rlOFPXomTHR2yHUNxlq65"
       },
@@ -12958,7 +12976,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
@@ -18478,7 +18496,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
@@ -18970,7 +18988,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -24930,7 +24948,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -42908,7 +42926,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 191402,
       "name": "No Mesmo Lugar",
       "url": "https://open.spotify.com/track/1mdW2ieN6VWyoIQxJIlzuT"
@@ -45956,6 +45974,28 @@
       "duration_ms": 122070,
       "name": "PAINTING PICTURES",
       "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
+    },
+    {
+      "album": {
+        "name": "Panamera",
+        "url": "https://open.spotify.com/album/5G9hTrLVb9ePZQvxZFBLEk"
+      },
+      "artists": [
+        {
+          "name": "betbeats",
+          "url": "https://open.spotify.com/artist/4UjRM6JenT0k3T7nztgPbF"
+        },
+        {
+          "name": "DJ GROSSU",
+          "url": "https://open.spotify.com/artist/0IQwiLgh6AzKcFMvHGaydy"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134879,
+      "name": "Panamera",
+      "url": "https://open.spotify.com/track/5AsJQeUs4lneEwc5eUhktg"
     },
     {
       "album": {
@@ -56882,7 +56922,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -59122,7 +59162,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 235216,
       "name": "Talk To Me About",
       "url": "https://open.spotify.com/track/6xXvBgeUlVLDdGb1lusfE0"
@@ -61610,6 +61650,28 @@
       "duration_ms": 188523,
       "name": "Thru Your Phone",
       "url": "https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt"
+    },
+    {
+      "album": {
+        "name": "THUG LIFE",
+        "url": "https://open.spotify.com/album/5Mt1cLyfFmHKPFevznGbwL"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121394,
+      "name": "THUG LIFE",
+      "url": "https://open.spotify.com/track/6M3CMKJnzTrlezfUrIsGDe"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 142894,
+  "num_followers": 142888,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "When Christmas Comes To Town",
-        "url": "https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO"
-      },
-      "artists": [
-        {
-          "name": "Taylor Owen Trio",
-          "url": "https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "When Christmas Comes To Town",
-      "url": "https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Little Saint Nick",
         "url": "https://open.spotify.com/album/4N7C1nhf0lCBLoMVJEo80H"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 161430,
       "name": "Little Saint Nick",
       "url": "https://open.spotify.com/track/3ZujkFo6UN8jihSZirvbWz"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "When Christmas Comes To Town",
+        "url": "https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO"
+      },
+      "artists": [
+        {
+          "name": "Taylor Owen Trio",
+          "url": "https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "When Christmas Comes To Town",
+      "url": "https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "A Swingin' Christmas (feat. Count Basie Big Band)",
-        "url": "https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Count Basie Big Band",
-          "url": "https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Silver Bells (feat. Count Basie Big Band)",
-      "url": "https://open.spotify.com/track/3IFdgovo2BeNChD2DWBh7H"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Warm In December (Edit)",
         "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 137880,
       "name": "Christmas Island",
       "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "A Swingin' Christmas (feat. Count Basie Big Band)",
+        "url": "https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Count Basie Big Band",
+          "url": "https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Silver Bells (feat. Count Basie Big Band)",
+      "url": "https://open.spotify.com/track/3IFdgovo2BeNChD2DWBh7H"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "When You Wish Upon a Star",
-        "url": "https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI"
-      },
-      "artists": [
-        {
-          "name": "Erik Moreau",
-          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
-        }
-      ],
-      "duration_ms": 167725,
-      "name": "When You Wish Upon a Star",
-      "url": "https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Selections From Irving Berlin's White Christmas",
         "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 163240,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "When You Wish Upon a Star",
+        "url": "https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI"
+      },
+      "artists": [
+        {
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
+        }
+      ],
+      "duration_ms": 167725,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Christmas Love",
-        "url": "https://open.spotify.com/album/5STKuTbSZYWJxNinEf7Jua"
-      },
-      "artists": [
-        {
-          "name": "Baxter Williams",
-          "url": "https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Christmas Love",
-      "url": "https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Reflections III Christmas",
         "url": "https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Season's Greetings",
-        "url": "https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om"
+        "name": "Christmas Love",
+        "url": "https://open.spotify.com/album/5STKuTbSZYWJxNinEf7Jua"
       },
       "artists": [
         {
-          "name": "Eddie Harper",
-          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+          "name": "Baxter Williams",
+          "url": "https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg"
         }
       ],
-      "duration_ms": 195624,
-      "name": "Season's Greetings",
-      "url": "https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx"
+      "duration_ms": 193500,
+      "name": "Christmas Love",
+      "url": "https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1575,6 +1559,22 @@
       "duration_ms": 199006,
       "name": "All That Glitters",
       "url": "https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "duration_ms": 195624,
+      "name": "Season's Greetings",
+      "url": "https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Happy Xmas",
-        "url": "https://open.spotify.com/album/79KEShiLANv3mCRiMRFQ9Y"
-      },
-      "artists": [
-        {
-          "name": "Tannenbaum Trio",
-          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
-        }
-      ],
-      "duration_ms": 152101,
-      "name": "Happy Xmas",
-      "url": "https://open.spotify.com/track/4Be9ytN4YwdiRwZMldKqzo"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Let's Share Christmas",
         "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
       },
@@ -1827,18 +1811,18 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Merry Christmas from Jos\u00e9 James",
-        "url": "https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z"
+        "name": "Happy Xmas",
+        "url": "https://open.spotify.com/album/79KEShiLANv3mCRiMRFQ9Y"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
         }
       ],
-      "duration_ms": 177160,
-      "name": "Christmas in New York",
-      "url": "https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE"
+      "duration_ms": 152101,
+      "name": "Happy Xmas",
+      "url": "https://open.spotify.com/track/4Be9ytN4YwdiRwZMldKqzo"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1855,6 +1839,22 @@
       "duration_ms": 174759,
       "name": "Toyland",
       "url": "https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Merry Christmas from Jos\u00e9 James",
+        "url": "https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Christmas in New York",
+      "url": "https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE"
     },
     {
       "added_at": "2025-12-19 14:00:54",

@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 73652,
+  "num_followers": 73669,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "Machine Dreams",
-        "url": "https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 293786,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
         "name": "Adventures Beyond The Ultraworld",
         "url": "https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 267666,
       "name": "Little Fluffy Clouds",
       "url": "https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
+        "name": "Machine Dreams",
+        "url": "https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 293786,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "Sun Is Shining (Remixes)",
-        "url": "https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs"
-      },
-      "artists": [
-        {
-          "name": "Funkstar De Luxe",
-          "url": "https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2"
-        }
-      ],
-      "duration_ms": 250303,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/7mUTI3eMg0issonjzaVGDw"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
         "name": "Leftism",
         "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 312333,
       "name": "Melt - Remastered",
       "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
+        "name": "Sun Is Shining (Remixes)",
+        "url": "https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs"
+      },
+      "artists": [
+        {
+          "name": "Funkstar De Luxe",
+          "url": "https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2"
+        }
+      ],
+      "duration_ms": 250303,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/7mUTI3eMg0issonjzaVGDw"
     },
     {
       "added_at": "2024-12-17 13:01:13",

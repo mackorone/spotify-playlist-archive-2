@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 62006,
+  "num_followers": 62043,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "LemonJelly.ky",
-        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 405866,
-      "name": "A Tune For Jack",
-      "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "3D Reworks 001",
         "url": "https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 296250,
       "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
       "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "LemonJelly.ky",
+        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 405866,
+      "name": "A Tune For Jack",
+      "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Extended",
+        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "duration_ms": 200389,
+      "name": "Tacken",
+      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Extended",
-        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
-      },
-      "artists": [
-        {
-          "name": "Modeselektor",
-          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
-        }
-      ],
-      "duration_ms": 200389,
-      "name": "Tacken",
-      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 346586,
-      "name": "For Marmish",
-      "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "The Space Lady's Greatest Hits",
         "url": "https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 275372,
       "name": "I Had Too Much to Dream Last Night",
       "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 346586,
+      "name": "For Marmish",
+      "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Harmonic Frequencies",
         "url": "https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 383899,
       "name": "Music To Heal To",
       "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 642653,
+      "name": "Silhouettes (I, II, III)",
+      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Between Voids",
         "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 268000,
       "name": "The Psychedelic One",
       "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "duration_ms": 293026,
+      "name": "Endless Jasmine",
+      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Zero to Sixty",
         "url": "https://open.spotify.com/album/4LSkUOsye6mMhUOVVkUG7f"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 288000,
       "name": "Zero to Sixty",
       "url": "https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
-      },
-      "artists": [
-        {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
-        }
-      ],
-      "duration_ms": 293026,
-      "name": "Endless Jasmine",
-      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Vaganten",
-        "url": "https://open.spotify.com/album/3H5kcr1ZThSuLmDIe8cbax"
-      },
-      "artists": [
-        {
-          "name": "ToiToiToi",
-          "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Never a Dull Moment",
-      "url": "https://open.spotify.com/track/2E1CDNz0rRgpQaSIWXCEKh"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Empty Space",
         "url": "https://open.spotify.com/album/3Nw5LQwrewAs5dIzDkf89I"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 257789,
       "name": "Empty Space",
       "url": "https://open.spotify.com/track/6YjlOZqj0Cy2JiyA8hy0jQ"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Vaganten",
+        "url": "https://open.spotify.com/album/3H5kcr1ZThSuLmDIe8cbax"
+      },
+      "artists": [
+        {
+          "name": "ToiToiToi",
+          "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "Never a Dull Moment",
+      "url": "https://open.spotify.com/track/2E1CDNz0rRgpQaSIWXCEKh"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Das Ist Ein Groovybeat, Ja",
-        "url": "https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS"
-      },
-      "artists": [
-        {
-          "name": "Jake Slazenger",
-          "url": "https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh"
-        }
-      ],
-      "duration_ms": 379266,
-      "name": "Nautilus",
-      "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Meridians",
         "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 304366,
       "name": "Sister Species",
       "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Das Ist Ein Groovybeat, Ja",
+        "url": "https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS"
+      },
+      "artists": [
+        {
+          "name": "Jake Slazenger",
+          "url": "https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh"
+        }
+      ],
+      "duration_ms": 379266,
+      "name": "Nautilus",
+      "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 228289,
-      "name": "Fol-de-rol",
-      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Meridians",
         "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 283289,
       "name": "Meridians",
       "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 228289,
+      "name": "Fol-de-rol",
+      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
     },
     {
       "added_at": "2025-11-07 05:00:56",

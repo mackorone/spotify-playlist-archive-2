@@ -3894,7 +3894,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -10194,7 +10194,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -19849,6 +19849,24 @@
     },
     {
       "album": {
+        "name": "KRUV I SOS",
+        "url": "https://open.spotify.com/album/0GCR1eLCSoJnJ2ZJHuY783"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "KRUV I SOS",
+      "url": "https://open.spotify.com/track/3AheHkUhDbHGPHyn0b0qgX"
+    },
+    {
+      "album": {
         "name": "Notarialno zaveren",
         "url": "https://open.spotify.com/album/2YYmbSctz57pLARmtiFZ1h"
       },
@@ -22392,7 +22410,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 289846,
       "name": "Marrakesh",
       "url": "https://open.spotify.com/track/1uTz8M1MxvEQF9aOa1WaJt"
@@ -23212,7 +23230,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 285175,
       "name": "Mezhdu nas",
       "url": "https://open.spotify.com/track/17heWk1oi0qx7sdPsQQSWC"
@@ -23550,7 +23568,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 206917,
       "name": "Ministarat Na Veselieto",
       "url": "https://open.spotify.com/track/653RTe2vklxgMHS2yfYWqo"
@@ -30548,7 +30566,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 223698,
       "name": "Rezhim Neprilichna",
       "url": "https://open.spotify.com/track/1BDsCVdpvuR5qku8n8LUqG"
@@ -34810,7 +34828,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -42638,7 +42656,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 189176,
       "name": "\u0411\u0430\u043c \u0411\u0430\u043c \u0411\u0430\u043c",
       "url": "https://open.spotify.com/track/3cKFXnDX2AqTrLXGPIBI6j"
@@ -45006,7 +45024,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 210322,
       "name": "\u0418 \u043d\u0430 \u0432\u0441\u0438\u0447\u043a\u0438 \u043a\u0430\u0442\u043e \u0442\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/2ch2fanSZq6LCXdlPskq5C"
@@ -46342,7 +46360,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 203624,
       "name": "\u041c\u043e\u0435\u0442\u043e \u0441\u043b\u0430\u0431\u043e \u043c\u044f\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/46YeHpvSWbG2pHRlMcC5Rp"
@@ -47852,7 +47870,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 175483,
       "name": "\u041e\u0442\u043a\u0430\u0447\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/3fEpl8LU6WyIuE3C9P6pfI"

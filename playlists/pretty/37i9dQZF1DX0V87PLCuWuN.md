@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0V87PLCuWuN.md) - [plain]
 
 > Opulent Classical Music for your Boss Era 💅
 
-[Spotify](https://open.spotify.com/user/spotify) - 613 likes - 72 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 729 likes - 72 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

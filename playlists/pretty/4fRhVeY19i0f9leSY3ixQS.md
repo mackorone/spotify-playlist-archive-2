@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,397 likes - 239 songs - 13 hr 9 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,399 likes - 246 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,5 +247,12 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 237 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 |
 | 238 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 |
 | 239 | [BOYZ WITH NAIL POLISH](https://open.spotify.com/track/09RCC6rfTZWijrWnHFtcOH) | [Parcher](https://open.spotify.com/artist/0cL9x9HsXoi7kPhC8uV2zM), [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [GAY WHITE TRASH](https://open.spotify.com/album/3OIm0dEpCZ8JaZrtifCY4d) | 3:12 |
+| 240 | [Sunshine Guilt](https://open.spotify.com/track/3EREjMUSXp6OtElLTnF7ua) | [Little Low](https://open.spotify.com/artist/02N3dV1Ps0DjwAWibzdrt5) | [Sunshine Guilt](https://open.spotify.com/album/4P8PeTh4Aob6NFACa6ZSAq) | 3:06 |
+| 241 | [Moonhowl \(Live Multiforo CDMX 2025\)](https://open.spotify.com/track/4LUJ5zENStaLDaVBA479Mt) | [Peak Level](https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss) | [Bootleg: Live Mutations](https://open.spotify.com/album/6rdKfnNY3tDWIoSXhxpT47) | 4:59 |
+| 242 | [Going for Broke](https://open.spotify.com/track/59NYiANZLBxSEaMICgx4Or) | [Mad Drunken Americans](https://open.spotify.com/artist/4BMAsiTSi9wNoiHLlMZEpF) | [Going for Broke](https://open.spotify.com/album/5FkuuTaovedIOrbY1F9vUC) | 3:34 |
+| 243 | [Adrenaline Saints](https://open.spotify.com/track/6Nwo9nqWvOlsmWuS6hgO8u) | [Black Matter Project](https://open.spotify.com/artist/0sYEZfgEjLz61AUZETBVxD) | [Adrenaline Saints](https://open.spotify.com/album/0demizkRQ7Mb8MVzvjiKnP) | 4:40 |
+| 244 | [Gloucester](https://open.spotify.com/track/1L2P2iZ5ArV8n7aNNL51jU) | [Little Low](https://open.spotify.com/artist/02N3dV1Ps0DjwAWibzdrt5), [The Punk Cellist](https://open.spotify.com/artist/6XEij6SoYcsbC4IHC37iq8) | [Sunshine Guilt](https://open.spotify.com/album/4P8PeTh4Aob6NFACa6ZSAq) | 3:07 |
+| 245 | [Discípulo \(Early One, Live Festival Variable 2023\)](https://open.spotify.com/track/5XwD1NrTzPHWIGo6TSEmMY) | [Peak Level](https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss) | [Bootleg: Live Mutations](https://open.spotify.com/album/6rdKfnNY3tDWIoSXhxpT47) | 3:02 |
+| 246 | [Violet](https://open.spotify.com/track/450vQMoOuHJZpOZWaSd2eV) | [Crobu](https://open.spotify.com/artist/4dhod50flMdq1l1nLCH1fZ) | [More Than This](https://open.spotify.com/album/6SvIVLUiOVBmL1avYy7jPm) | 4:47 |
 
-Snapshot ID: `AAAQxkwFbr26vDcM06eZudJfzg21PPXz`
+Snapshot ID: `AAAQzd2fV6iSmio4Unp67ulHpJyGR2tD`

@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Cuarteto de Nos",
-  "num_followers": 126572,
+  "num_followers": 126579,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIjakTxPKtb0C2EVce3jAwuvxMkx",
+  "snapshot_id": "AAAAAD688/8Z7PeR3UMFTTNR6TKN9TVm",
   "tracks": [
     {
       "added_at": "2026-06-12 03:00:36",
@@ -135,22 +135,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 238625,
-      "name": "Si Supieras - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "En Vivo Gran Rex",
         "url": "https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 250426,
       "name": "El Coraz\u00f3n Sobre Todo - En Vivo",
       "url": "https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 238625,
+      "name": "Si Supieras - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -479,26 +479,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Obsesionario En La Mayor (feat. Abel Pintos) [En Vivo En River Plate]",
-        "url": "https://open.spotify.com/album/0Osnyn6jIth0tYOeMCuHoT"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 329865,
-      "name": "Obsesionario En La Mayor (feat. Abel Pintos) - En Vivo En River Plate",
-      "url": "https://open.spotify.com/track/2HcOKRBxqtfn4ooy4O7b8i"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "El Charro Chino (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
         "url": "https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 294334,
       "name": "El Charro Chino - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
       "url": "https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Obsesionario En La Mayor (feat. Abel Pintos) [En Vivo En River Plate]",
+        "url": "https://open.spotify.com/album/0Osnyn6jIth0tYOeMCuHoT"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 329865,
+      "name": "Obsesionario En La Mayor (feat. Abel Pintos) - En Vivo En River Plate",
+      "url": "https://open.spotify.com/track/2HcOKRBxqtfn4ooy4O7b8i"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
-        "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
-      "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "En Vivo en el Estadio \u00danico",
-        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
+        "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
+        "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
       },
       "artists": [
         {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
         }
       ],
-      "duration_ms": 341626,
-      "name": "Traicionero - En Vivo en el Estadio \u00danico",
-      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
+      "duration_ms": 267240,
+      "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
+      "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -643,6 +627,22 @@
       "duration_ms": 228144,
       "name": "Toro y Pampa - En Vivo",
       "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "En Vivo en el Estadio \u00danico",
+        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 341626,
+      "name": "Traicionero - En Vivo en el Estadio \u00danico",
+      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
+        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
+        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 339026,
+      "name": "La Leyenda del Hada y el Mago - En Vivo",
+      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 285053,
       "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
-        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 339026,
-      "name": "La Leyenda del Hada y el Mago - En Vivo",
-      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Ac\u00fastico Gran Rex, Vol. 2",
-        "url": "https://open.spotify.com/album/5FhGXJP1oaVkRnjoloyz4u"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 278137,
-      "name": "My Love - Ac\u00fastico Gran Rex Vol. 2",
-      "url": "https://open.spotify.com/track/3YmSjzUch6kPXI8gAc16Ug"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
         "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 383040,
       "name": "Espejismo - En Vivo",
       "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Ac\u00fastico Gran Rex, Vol. 2",
+        "url": "https://open.spotify.com/album/5FhGXJP1oaVkRnjoloyz4u"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 278137,
+      "name": "My Love - Ac\u00fastico Gran Rex Vol. 2",
+      "url": "https://open.spotify.com/track/3YmSjzUch6kPXI8gAc16Ug"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "En Vivo en el Teatro \u00d3pera",
-        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 304386,
-      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Solo Aqu\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 247578,
       "name": "Solo Aqui - En Vivo",
       "url": "https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "En Vivo en el Teatro \u00d3pera",
+        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 304386,
+      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Nuestro Verano - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/0ENYKDAMZMGiygBAOjs8tk"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "En Vivo Obras",
         "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 249144,
       "name": "S\u00e9 Vos - En Vivo",
       "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Nuestro Verano - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/0ENYKDAMZMGiygBAOjs8tk"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 156999,
-      "name": "Tormenta Roja - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/0ydhEMvXNvWXOuHivcnWaa"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
         "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 212106,
       "name": "Beatle - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 156999,
+      "name": "Tormenta Roja - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/0ydhEMvXNvWXOuHivcnWaa"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 188580,
-      "name": "S\u00e1bado - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "En Vivo-Vol.2",
         "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 201293,
       "name": "Me Puedo Programar (En Vivo",
       "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 188580,
+      "name": "S\u00e1bado - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU"
     },
     {
       "added_at": "2026-06-12 03:00:36",

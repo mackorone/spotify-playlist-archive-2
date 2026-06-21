@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAB8b+v6/hE2aScYVZU+iMXz",
+  "snapshot_id": "ajSGgAAAAACEbUzife5s1gexMHqviy6m",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Free Free (feat.\u5e7e\u7530\u308a\u3089)",
-        "url": "https://open.spotify.com/album/7nKNFCbybw9WLy5P4wGm4w"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "Lilas",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        }
-      ],
-      "duration_ms": 254233,
-      "name": "Free Free Free - feat.\u5e7e\u7530\u308a\u3089",
-      "url": "https://open.spotify.com/track/1yoIBbCENxL0dSkkhy88iB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u79c1\u305f\u3061\u306e\u30ab\u30ce\u30f3 (VS. Chevon)",
         "url": "https://open.spotify.com/album/0hvtWDratjgKHLzBw9X7oQ"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 249966,
       "name": "\u79c1\u305f\u3061\u306e\u30ab\u30ce\u30f3 (VS. Chevon)",
       "url": "https://open.spotify.com/track/2HzOUwqliTwC0Us4GTmGnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Free Free (feat.\u5e7e\u7530\u308a\u3089)",
+        "url": "https://open.spotify.com/album/7nKNFCbybw9WLy5P4wGm4w"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 254233,
+      "name": "Free Free Free - feat.\u5e7e\u7530\u308a\u3089",
+      "url": "https://open.spotify.com/track/1yoIBbCENxL0dSkkhy88iB"
     },
     {
       "added_at": null,
@@ -503,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOKYO SKA TREASURES\u301c\u30d9\u30b9\u30c8\u30fb\u30aa\u30d6\u30fb\u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u301c",
-        "url": "https://open.spotify.com/album/0wFDFV3dl6tYSf5iCoMVlC"
+        "name": "BEST OF TOKYO SKA 1998-2007",
+        "url": "https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc"
       },
       "artists": [
         {
           "name": "Tokyo Ska Paradise Orchestra",
           "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 301837,
-      "name": "\u8ffd\u61b6\u306e\u30e9\u30a4\u30e9\u30c3\u30af - feat.\u30cf\u30ca\u30ec\u30b0\u30df [2020 Remaster]",
-      "url": "https://open.spotify.com/track/5alRebdMl0mgrkyu1UlOLo"
+      "duration_ms": 253040,
+      "name": "\u661f\u964d\u308b\u591c\u306b",
+      "url": "https://open.spotify.com/track/6fcIUJpgdpRvyhSjJzQouI"
     },
     {
       "added_at": null,
@@ -539,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST OF TOKYO SKA 1998-2007",
-        "url": "https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc"
+        "name": "TOKYO SKA TREASURES\u301c\u30d9\u30b9\u30c8\u30fb\u30aa\u30d6\u30fb\u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u301c",
+        "url": "https://open.spotify.com/album/0wFDFV3dl6tYSf5iCoMVlC"
       },
       "artists": [
         {
           "name": "Tokyo Ska Paradise Orchestra",
           "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 253040,
-      "name": "\u661f\u964d\u308b\u591c\u306b",
-      "url": "https://open.spotify.com/track/6fcIUJpgdpRvyhSjJzQouI"
+      "duration_ms": 301837,
+      "name": "\u8ffd\u61b6\u306e\u30e9\u30a4\u30e9\u30c3\u30af - feat.\u30cf\u30ca\u30ec\u30b0\u30df [2020 Remaster]",
+      "url": "https://open.spotify.com/track/5alRebdMl0mgrkyu1UlOLo"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coco (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/0UYGH1uVYPr2Fzqw6lyjd9"
-      },
-      "artists": [
-        {
-          "name": "Kavka Shishido",
-          "url": "https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8"
-        },
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Remember Me (End Credit Version) - Japanese Version",
-      "url": "https://open.spotify.com/track/43bGrywq4gIWKawbTKVUUk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6563\u308a\u3086\u304f\u82b1\u306e\u305b\u3044\u3067",
         "url": "https://open.spotify.com/album/5rYnsyLY11mDwQVJVwxu5u"
       },
@@ -699,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coco (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/0UYGH1uVYPr2Fzqw6lyjd9"
+      },
+      "artists": [
+        {
+          "name": "Kavka Shishido",
+          "url": "https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Remember Me (End Credit Version) - Japanese Version",
+      "url": "https://open.spotify.com/track/43bGrywq4gIWKawbTKVUUk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\uff3bSKA\uff3dSHOWDOWN",
         "url": "https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 257933,
       "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 (VS. ALI)",
       "url": "https://open.spotify.com/track/6otLqvQTgaVxUit8cxBQ7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 168919,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/5TQthly71VsBZ7f0Ow2pU7"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 233666,
       "name": "\u3057\u3089\u3051\u3061\u307e\u3046\u305c",
       "url": "https://open.spotify.com/track/1PohOiwOj3bXB0Xyx2ChGR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 168919,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/5TQthly71VsBZ7f0Ow2pU7"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,107 songs - 4 day 18 hr 12 min
+2,108 songs - 4 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Again \- Prototype2020](https://open.spotify.com/track/3AC9GHZudMPxEFbhks2qqP) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Again \(Prototype2020\)](https://open.spotify.com/album/3kMyU0f3ZcOnO4SuwG9mUz) | 2:45 | 2025-04-13 | 2025-04-17 |
 | [Aghach](https://open.spotify.com/track/6up1lIMVpkXlNZ4Es3rGhg) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:39 | 2022-05-29 | 2022-05-31 |
 | [AGHARAS](https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [AGHARAS](https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2) | 3:27 | 2024-10-04 | 2024-10-18 |
+| [AGOGO](https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [AGOGO](https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl) | 3:07 | 2026-06-20 |  |
 | [Ah Bon](https://open.spotify.com/track/0yYoSGrzF15p22ow5wbcSJ) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Ah Bon](https://open.spotify.com/album/0qSLkM5OH8bhCkyxPwEGxC) | 3:42 | 2021-03-27\* | 2025-06-07 |
 | [Ahlam](https://open.spotify.com/track/6cS2fCLwfLs7HueULbZUlJ) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Ahlam](https://open.spotify.com/album/2UyRdrXsOWySJOtI1MNWwN) | 3:09 | 2023-05-27 | 2023-06-23 |
 | [Ahoo](https://open.spotify.com/track/2H5rb6rL9p6zKMLYiZDU7Q) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:58 | 2022-05-28 | 2022-06-06 |
@@ -278,7 +279,7 @@
 | [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 | 2023-09-09 | 2023-09-11 |
 | [Blue & Grey](https://open.spotify.com/track/0n2moJpAEWHwaPYYjkzMDl) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 4:14 | 2021-11-22 | 2021-11-23 |
 | [Blue & Grey](https://open.spotify.com/track/7Ki0hse0IfXEcXUlpyECbJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 4:14 | 2022-06-06 | 2022-06-08 |
-| [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2023-12-16 | 2026-06-20 |
+| [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2023-12-16 |  |
 | [Blue story \(feat\. Lil Baby\)](https://open.spotify.com/track/3t6CmLKKMFxclNBzvJd51t) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 4:18 | 2023-07-01 | 2023-07-03 |
 | [Boca](https://open.spotify.com/track/47VsJIFO9g5EVbGf7fpnkm) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 2:53 | 2021-09-15 | 2021-09-16 |
 | [BODIES \(feat\. Damso\)](https://open.spotify.com/track/3im90dPSC5z1PYJ305kgSy) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 2:46 | 2022-07-02 | 2022-07-11 |
@@ -289,7 +290,7 @@
 | [Bola](https://open.spotify.com/track/3BOo2w8IGRHAgVrTLPEkLg) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [DEIMI](https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb) | [MC3](https://open.spotify.com/album/4adJ7R9LtergjKVJJUYUmH) | 3:35 | 2025-09-13 | 2025-09-19 |
 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 | 2024-04-28 | 2024-09-03 |
 | [Bombonera](https://open.spotify.com/track/4xxNysr35mMhcRpfw6v1Fu) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alha9i9a \(الحقيقة\)](https://open.spotify.com/album/4ChviB4GBxtlmGtDk4Z81M) | 3:31 | 2025-06-07 | 2025-06-11 |
-| [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-06-28 |  |
+| [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-06-28 | 2026-06-21 |
 | [Bonne année](https://open.spotify.com/track/6H2GjPvnzQp3SeSD3ATQQk) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Nessun Dorma](https://open.spotify.com/album/3P3HOG65MAutJUYkKfByN9) | 3:09 | 2021-07-04 | 2021-07-15 |
 | [Boom Boom](https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [BOOM BOOM](https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk) | 3:32 | 2024-07-27 | 2024-10-23 |
 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 | 2025-12-20 | 2026-05-24 |
@@ -1808,7 +1809,7 @@
 | [T\-max 560](https://open.spotify.com/track/3t3ffqI2DxrrAawarNtwGw) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:58 | 2021-11-28 | 2021-11-30 |
 | [T3EQDNA](https://open.spotify.com/track/5FXzuIVsWsm1etUoohqXNc) | [ELHAFIDY](https://open.spotify.com/artist/3GJvh5FBiMYYwvQW28SWng) | [SILENT BATTLES](https://open.spotify.com/album/4YYVqtKRTFNA5ORSC9tRmY) | 3:12 | 2026-02-03 | 2026-02-09 |
 | [Ta7t Jna7i](https://open.spotify.com/track/5aOWc0G39X0CAZejwoD3TQ) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Ta7t Jna7i](https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN) | 3:19 | 2022-11-05 | 2022-11-19 |
-| [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 | 2024-11-21 |  |
+| [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 | 2024-11-21 | 2026-06-21 |
 | [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 | 2025-08-23 |  |
 | [TAF TAF](https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW) | [OldyGotTheSound](https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [TAF TAF](https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE) | 2:18 | 2025-06-01 |  |
 | [Taff](https://open.spotify.com/track/1ax1hArCzxeVcnsFHnJCd5) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Ok Wait](https://open.spotify.com/album/3k9wutDahqiqO2YfohyG4d) | 3:10 | 2024-10-24 | 2024-10-26 |

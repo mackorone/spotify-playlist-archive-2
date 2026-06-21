@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,670 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,692 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 52 | [If You're Here With Me](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [If You're Here With Me](https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M) | 3:28 |
 | 53 | [Keep Dancing](https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [Lily Denning](https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX) | [Keep Dancing](https://open.spotify.com/album/7478dTxcx2Gg9zuoKLF3RG) | 3:00 |
 | 54 | [Beside You](https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Beside You](https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS) | 4:41 |
-| 55 | [Fast](https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I) | [FUNFUN](https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Fast](https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf) | 3:18 |
-| 56 | [Chasing Ghosts](https://open.spotify.com/track/4uzqcDlCOl0et4pGtfkka5) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Chasing Ghosts](https://open.spotify.com/album/6SjsSADxNyzHxGbh0qQfq4) | 4:12 |
-| 57 | [Tales From Beyond](https://open.spotify.com/track/2PZdZJCcKJ82mXN90CGGz0) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Welcome To My World](https://open.spotify.com/album/0g85Ir9Nj7RWzQFJHU5cAe) | 3:38 |
-| 58 | [Only Human](https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Only Human](https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp) | 3:25 |
+| 55 | [Chasing Ghosts](https://open.spotify.com/track/4uzqcDlCOl0et4pGtfkka5) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Chasing Ghosts](https://open.spotify.com/album/6SjsSADxNyzHxGbh0qQfq4) | 4:12 |
+| 56 | [Fast](https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I) | [FUNFUN](https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Fast](https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf) | 3:18 |
+| 57 | [Only Human](https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Only Human](https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp) | 3:25 |
+| 58 | [Tales From Beyond](https://open.spotify.com/track/2PZdZJCcKJ82mXN90CGGz0) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Welcome To My World](https://open.spotify.com/album/0g85Ir9Nj7RWzQFJHU5cAe) | 3:38 |
 | 59 | [Wander](https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr) | [MXV](https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG), [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Wander](https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM) | 3:30 |
 | 60 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
 

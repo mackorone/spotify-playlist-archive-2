@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Sarah Phenom, Maleigh Zan, Brazy
 
-1,108 songs - 2 day 5 hr 26 min
+1,109 songs - 2 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Forever](https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:16 | 2024-06-07 | 2025-03-15 |
 | [Format](https://open.spotify.com/track/1QPucGEaFM7i3Z9Tm0voim) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Format](https://open.spotify.com/album/3iHPaIY7AqsJar6H165Wa1) | 2:28 | 2026-06-05 |  |
 | [Formula & Vim/Strangers in Accra](https://open.spotify.com/track/4rZOmXA1vGT1KRg3zVcDKq) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Papa Atey](https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB) | [Formula & Vim/Strangers in Accra](https://open.spotify.com/album/0gxmM3YdxrWLiEHRpTLBrp) | 5:12 | 2026-05-01 | 2026-05-29 |
+| [FOTM \(Running\)](https://open.spotify.com/track/2QR0JM3xIQ2CRFsUuagSWs) | [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Taitan](https://open.spotify.com/artist/4g1BJchdm4bno5b4MD9fxf) | [FOTM \(Running\)](https://open.spotify.com/album/7yl1WnKiLCaYuwY4uXkxUJ) | 2:27 | 2026-06-19 |  |
 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/7quB4D2OH6Q5WwzeEga1q5) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:29 | 2021-09-16 | 2022-03-18 |
 | [Foundry](https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk) | [Foundry](https://open.spotify.com/album/6oCN5GB1aumgfg8Y03feYe) | 3:55 | 2022-07-25 | 2023-06-17 |
 | [FOUR](https://open.spotify.com/track/6XUDoc4d4VptM17H72yJru) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [FOUR](https://open.spotify.com/album/2cFmmxso937CGNMaB8DLct) | 3:37 | 2021-10-28 | 2022-06-17 |
@@ -839,7 +840,7 @@
 | [Runaway](https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Runaway](https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T) | 3:40 | 2022-04-07 | 2023-05-05 |
 | [Running](https://open.spotify.com/track/21MSFhrfJzZOYUnKqNdkQr) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Haeven](https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H) | [Running](https://open.spotify.com/album/1EbYyDICzqwkKP79qtnERw) | 3:12 | 2023-10-13 | 2023-11-03 |
 | [Running](https://open.spotify.com/track/2qWaoTUBcVXXA1QgM5ODLc) | [Mēl](https://open.spotify.com/artist/0mBV9dVitzF9JNH3JRinMC), [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb), [malaïka](https://open.spotify.com/artist/3gdZY0Ui68OFFeZ27EpGZo) | [Running](https://open.spotify.com/album/5pMMj9DDKEHThmhAaxaHwl) | 3:12 | 2026-06-19 |  |
-| [RUSH](https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Hunter Drake](https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8) | [RUSH](https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX) | 4:13 | 2026-01-30 |  |
+| [RUSH](https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Hunter Drake](https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8) | [RUSH](https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX) | 4:13 | 2026-01-30 | 2026-06-21 |
 | [S.M.O.](https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy) | 4:30 | 2025-06-20 | 2025-11-22 |
 | [s\_t\_l](https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [s\_t\_l](https://open.spotify.com/album/46YeiqJANwshIypsGWn0fK) | 3:26 | 2023-03-17 | 2023-04-28 |
 | [Sacrifices \(feat\. Tim Lyre\)](https://open.spotify.com/track/3V28hy7t8rU0BwltQ9cJWU) | [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Sacrifices \(feat\. Tim Lyre\)](https://open.spotify.com/album/7zkWwAnfWFUBnBhkGveMWB) | 2:30 | 2021-06-25 | 2022-04-22 |

@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Willow Avalon",
-  "num_followers": 315052,
+  "num_followers": 315084,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 242493,
-      "name": "Mint Condition",
-      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "Under You",
         "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 228781,
       "name": "Under You",
       "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Mint Condition",
+      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Livin\u2019 In Shame",
-        "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
-      },
-      "artists": [
-        {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
-        }
-      ],
-      "duration_ms": 145253,
-      "name": "Livin\u2019 In Shame",
-      "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "You Make Sense To Me",
         "url": "https://open.spotify.com/album/4WpCPGJZZfQACuLkCxtfAn"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 235804,
       "name": "You Make Sense To Me",
       "url": "https://open.spotify.com/track/0H2E2WuQocHwRU7hHhZ1Sz"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Livin\u2019 In Shame",
+        "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "duration_ms": 145253,
+      "name": "Livin\u2019 In Shame",
+      "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Drive & Cry",
-        "url": "https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2"
-      },
-      "artists": [
-        {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "Rootin\u2019 For You",
-      "url": "https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 228962,
       "name": "I Feel Like Hank Williams Tonight",
       "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Drive & Cry",
+        "url": "https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "Rootin\u2019 For You",
+      "url": "https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
+        "name": "Family Reunion",
+        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 162697,
+      "name": "Dry Town",
+      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
         "name": "All My Exes Live in L.A.",
         "url": "https://open.spotify.com/album/0YDQ6x3Lf2bfReLsZfOLYw"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 198062,
       "name": "All My Exes Live in L.A.",
       "url": "https://open.spotify.com/track/3ixSiGWX59GYPNf8gnXU0c"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
-        "name": "Family Reunion",
-        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 162697,
-      "name": "Dry Town",
-      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Flyin'",
-        "url": "https://open.spotify.com/album/0V64rr5DiYFZHEbgtRvntA"
-      },
-      "artists": [
-        {
-          "name": "Coleman Jennings",
-          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
-        }
-      ],
-      "duration_ms": 145995,
-      "name": "Flyin'",
-      "url": "https://open.spotify.com/track/6IJRxlFtq6O9aih1J5kiBw"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "This Masquerade",
         "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 192750,
       "name": "This Masquerade",
       "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 237786,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Runnin'",
-        "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
+        "name": "Flyin'",
+        "url": "https://open.spotify.com/album/0V64rr5DiYFZHEbgtRvntA"
       },
       "artists": [
         {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
         }
       ],
-      "duration_ms": 237786,
-      "name": "Runnin'",
-      "url": "https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D"
+      "duration_ms": 145995,
+      "name": "Flyin'",
+      "url": "https://open.spotify.com/track/6IJRxlFtq6O9aih1J5kiBw"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "What Have I Done Wrong",
-        "url": "https://open.spotify.com/album/0AruFid9bNKPNydpHr4NFf"
-      },
-      "artists": [
-        {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
-        }
-      ],
-      "duration_ms": 175562,
-      "name": "What Have I Done Wrong",
-      "url": "https://open.spotify.com/track/4iBseQDtjvuxlzwDAzXXHo"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "What Have I Done Wrong",
+        "url": "https://open.spotify.com/album/0AruFid9bNKPNydpHr4NFf"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "duration_ms": 175562,
+      "name": "What Have I Done Wrong",
+      "url": "https://open.spotify.com/track/4iBseQDtjvuxlzwDAzXXHo"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Snakelife",
-        "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 277613,
-      "name": "Snakelife",
-      "url": "https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "Violets as Camouflage",
         "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 196339,
       "name": "I Thought You Were Somebody Else",
       "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Snakelife",
+        "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 277613,
+      "name": "Snakelife",
+      "url": "https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Long Haul",
-      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "Violets as Camouflage",
         "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 223713,
       "name": "Trouble Me Anytime",
       "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Long Haul",
+      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Swimming Alone",
-        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
-      },
-      "artists": [
-        {
-          "name": "Liz Rose",
-          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
-        }
-      ],
-      "duration_ms": 199339,
-      "name": "Yellow Room",
-      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "All Fifty States",
         "url": "https://open.spotify.com/album/4W2oK0yvYz7pOLwFkdZzpW"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 210426,
       "name": "All Fifty States",
       "url": "https://open.spotify.com/track/3UqKsB0FyJWHOo9rQpFCQA"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Swimming Alone",
+        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
+      },
+      "artists": [
+        {
+          "name": "Liz Rose",
+          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
+        }
+      ],
+      "duration_ms": 199339,
+      "name": "Yellow Room",
+      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
     },
     {
       "added_at": "2026-05-15 04:01:20",

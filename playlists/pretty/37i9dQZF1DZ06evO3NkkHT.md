@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,948 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,009 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [No Love \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4bA0warBsmbGTkVRFDTviU) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [No Love](https://open.spotify.com/album/0jNWu1J9xoi5MYDaCCBapr) | 2:29 |
 | 50 | [Good To Me](https://open.spotify.com/track/09fNbO1PnafsvOIANvJCZS) | [Mykfresh](https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR), [2RawQua](https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Good To Me](https://open.spotify.com/album/3ITvNAnHd2Ub45NyQLmZ2k) | 3:28 |
 
-Snapshot ID: `ajM1AAAAAAB0HYNZQejbdnwLqGOCcIHc`
+Snapshot ID: `ajSGgAAAAADX4HjVU4gX86jjEzvzAJ+i`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbWq91U1aMDH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbWq91U1aMDH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXbWq91U1aMDH)
 
-### [Empowering Young Adults](https://open.spotify.com/playlist/37i9dQZF1DXbWq91U1aMDH)
+### [Empowering Young Adults \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXbWq91U1aMDH)
 
 > 
 

@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153087,
+  "num_followers": 153104,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "can we start over?",
         "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 187596,
       "name": "spite",
       "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "petals",
-        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
-      },
-      "artists": [
-        {
-          "name": "Jessica Baio",
-          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
-        }
-      ],
-      "duration_ms": 157598,
-      "name": "he loves me, he loves me not",
-      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "FUNERAL",
         "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 181923,
       "name": "FUNERAL",
       "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "petals",
+        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "duration_ms": 157598,
+      "name": "he loves me, he loves me not",
+      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "eighteen",
-        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 189179,
-      "name": "eighteen",
-      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Oh No :: He Said What?",
         "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 228138,
       "name": "Oh No :: He Said What?",
       "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "eighteen",
+        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 189179,
+      "name": "eighteen",
+      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 163391,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "SUCKERPUNCH",
         "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 172510,
       "name": "SUCKERPUNCH",
       "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 163391,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "WHERE DID ALL THE BUTTERFLIES GO?",
-        "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
-      },
-      "artists": [
-        {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "HEART AWAY",
-      "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Under the Influence(r)",
         "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 159151,
       "name": "Pick Your Poison",
       "url": "https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "WHERE DID ALL THE BUTTERFLIES GO?",
+        "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "HEART AWAY",
+      "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "The Hart",
-        "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
-      },
-      "artists": [
-        {
-          "name": "Grayscale",
-          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
-        }
-      ],
-      "duration_ms": 220096,
-      "name": "Through The Landslide",
-      "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "DUMB",
         "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 205933,
       "name": "DUMB",
       "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "The Hart",
+        "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
+      },
+      "artists": [
+        {
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+        }
+      ],
+      "duration_ms": 220096,
+      "name": "Through The Landslide",
+      "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Past // Present // Future",
-        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 159308,
-      "name": "Say It (To My Face)",
-      "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Mugshot",
         "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 189101,
       "name": "Mugshot",
       "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
     },
     {
       "added_at": "2026-01-16 05:00:41",

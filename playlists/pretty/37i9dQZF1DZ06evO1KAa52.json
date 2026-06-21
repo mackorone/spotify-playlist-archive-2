@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 669175,
+  "num_followers": 669201,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAADjqzY9jZxgtMFRlHUHqhYt",
+  "snapshot_id": "ajSGgAAAAAAki9qflAf6MY1aapPYhcj8",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 236001,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XSCAPE",
         "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 246480,
       "name": "Love Never Felt So Good",
       "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 236001,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
     },
     {
       "added_at": null,
@@ -1119,34 +1119,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI"
+        "name": "The 20/20 Experience - 2 of 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU"
       },
       "artists": [
         {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "James Corden",
-          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
-        },
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "The Pop Trolls",
-          "url": "https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ"
         }
       ],
-      "duration_ms": 61923,
-      "name": "Trolls 2 Many Hits Mashup",
-      "url": "https://open.spotify.com/track/74PmqgIU0EU60QEgrjJIIk"
+      "duration_ms": 331133,
+      "name": "Drink You Away",
+      "url": "https://open.spotify.com/track/4pEaGoTSSU7YKu4hqor9Na"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

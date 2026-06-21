@@ -687,6 +687,32 @@
     },
     {
       "album": {
+        "name": "DE ROCE",
+        "url": "https://open.spotify.com/album/2lWUfYaJjdQsg3sLQ3XTJq"
+      },
+      "artists": [
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221379,
+      "name": "DE ROCE",
+      "url": "https://open.spotify.com/track/4RUgTRaPNQqcIinIVZu1S2"
+    },
+    {
+      "album": {
         "name": "Desarmados",
         "url": "https://open.spotify.com/album/6QQSmerojNi78RbZxlyKMW"
       },
@@ -1750,7 +1776,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 174374,
       "name": "No Salgas el Viernes",
       "url": "https://open.spotify.com/track/4hxxF8Peip9usTT4U9xTmH"
@@ -2061,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165841,
+      "name": "Para terminar en nada",
+      "url": "https://open.spotify.com/track/2Y2L7YqpXEGmVZldo73DA8"
+    },
+    {
+      "album": {
         "name": "Para terminar en nada",
         "url": "https://open.spotify.com/album/6Sqnexw9tuOgEk8z0zT7UZ"
       },
@@ -2072,7 +2116,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 165841,
       "name": "Para terminar en nada",
       "url": "https://open.spotify.com/track/3ZHF4Cvt5khSCrjOPOO7IM"

@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25837,
+  "num_followers": 25835,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAABFtvKVwSX9Veu8k2bWeYmW",
+  "snapshot_id": "ajSGgAAAAAAZQwQHAZ7RMG+7nf0XXe6i",
   "tracks": [
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 238220,
-      "name": "Gonna Have to Be You",
-      "url": "https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets - Love & Soul",
         "url": "https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 289271,
       "name": "Love TKO",
       "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        }
+      ],
+      "duration_ms": 238220,
+      "name": "Gonna Have to Be You",
+      "url": "https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Dave Hollister",
-          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
-        }
-      ],
-      "duration_ms": 243641,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the id",
         "url": "https://open.spotify.com/album/6TYleoMhZYHFUvYl8UQiqp"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 295266,
       "name": "My Nutmeg Phantasy (featuring Angie Stone & Mos Def) (feat. Angie Stone & Mos Def)",
       "url": "https://open.spotify.com/track/5YlIN4hkyrCUrNlYw09KA0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Dave Hollister",
+          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
+        }
+      ],
+      "duration_ms": 243641,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 209345,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "18 & 18 B-Sides",
         "url": "https://open.spotify.com/album/2moGNpXgrcBzIF5M1PqF4K"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 209345,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Art of Love & War",
         "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
@@ -892,25 +892,29 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
+      "duration_ms": 271493,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dance Vault Mixes - I Wasn't Kidding",
-        "url": "https://open.spotify.com/album/6528GcRgH2UDvBs8d18HpL"
+        "name": "Sing (If You Want It)",
+        "url": "https://open.spotify.com/album/5cc7w5H22O8rQ3KIOWs1Io"
       },
       "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        },
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 270680,
-      "name": "I Wasn't Kidding (Original Radio Edit)",
-      "url": "https://open.spotify.com/track/2mE4Rm30mmvZlDWu3EVcKl"
+      "duration_ms": 288653,
+      "name": "Stylin'",
+      "url": "https://open.spotify.com/track/7MQKwtihNSk435BmiQokl1"
     }
   ],
   "unique_name": "This Is Angie Stone",

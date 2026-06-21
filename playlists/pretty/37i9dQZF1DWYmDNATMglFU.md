@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. florence road
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,710 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,693 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 49 | [FMU](https://open.spotify.com/track/2X3iZXF1sWuginK1gQpJ0c) | [Castells](https://open.spotify.com/artist/3AdHVmIdILyqZWHWrrxpjs) | [FMU](https://open.spotify.com/album/6w7BvWkhXHShCXRbgnXyrO) | 3:04 |
 | 50 | [frissioN](https://open.spotify.com/track/1n0ucSZzAV8X752YGTKHav) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [frissioN](https://open.spotify.com/album/23s5RyusUkg6bnYVrD8suY) | 2:53 |
 
-Snapshot ID: `AAAAAPvtNz5FEWtN+u1PREDvNGB9VCvw`
+Snapshot ID: `AAAAAJUA/aVGPlqQbXaY6p2mgxwyaEKu`

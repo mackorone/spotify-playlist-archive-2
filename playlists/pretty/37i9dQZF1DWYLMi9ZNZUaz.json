@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI\n",
-  "num_followers": 122525,
+  "num_followers": 122545,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -307,26 +307,6 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "Don't C\u00f4i",
-        "url": "https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC"
-      },
-      "artists": [
-        {
-          "name": "RPT Orijinn",
-          "url": "https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l"
-        },
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 148880,
-      "name": "Don't C\u00f4i",
-      "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
-    },
-    {
-      "added_at": "2026-06-18 06:11:23",
-      "album": {
         "name": "NG\u1ef0A \u00d4",
         "url": "https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 215415,
       "name": "NG\u1ef0A \u00d4",
       "url": "https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech"
+    },
+    {
+      "added_at": "2026-06-18 06:11:23",
+      "album": {
+        "name": "Don't C\u00f4i",
+        "url": "https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC"
+      },
+      "artists": [
+        {
+          "name": "RPT Orijinn",
+          "url": "https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l"
+        },
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 148880,
+      "name": "Don't C\u00f4i",
+      "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -503,8 +503,8 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+        "name": "HVL",
+        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
       },
       "artists": [
         {
@@ -512,13 +512,13 @@
           "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
         },
         {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+          "name": "Tage",
+          "url": "https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW"
         }
       ],
-      "duration_ms": 141760,
-      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
-      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
+      "duration_ms": 192485,
+      "name": "M\u1eaft M\u00f4i Tay Ch\u00e2n (feat. Tage)",
+      "url": "https://open.spotify.com/track/5ze1OgIdC5fJLJfpvT9Jog"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -543,26 +543,22 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "M\u1eaft B\u00e3o",
-        "url": "https://open.spotify.com/album/0xZX8yjyrkRAVPdasLWNF7"
+        "name": "G\u1eb7p L\u1ea1i",
+        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
       },
       "artists": [
         {
-          "name": "T\u1ecdi",
-          "url": "https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i"
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
         },
         {
-          "name": "Long N\u00f3n L\u00e1",
-          "url": "https://open.spotify.com/artist/4XPmkusoYLS1cvgpHgQjiB"
-        },
-        {
-          "name": "Ph\u01b0\u01a1ng Nghi\u00eam",
-          "url": "https://open.spotify.com/artist/28GaoT4pqYOP6yiYsIlzay"
+          "name": "H\u00e0 L\u00ea",
+          "url": "https://open.spotify.com/artist/0hWPa5etsuzHraxEq4xt6U"
         }
       ],
-      "duration_ms": 259402,
-      "name": "M\u1eaft B\u00e3o",
-      "url": "https://open.spotify.com/track/2aoGg3figtbrChUCZIopCK"
+      "duration_ms": 233476,
+      "name": "N\u1ee3 (feat. H\u00e0 L\u00ea)",
+      "url": "https://open.spotify.com/track/63IS4xfPdOKsajtMi4U0FP"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -595,42 +591,46 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "G\u1eb7p L\u1ea1i",
-        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
+        "name": "M\u1eaft B\u00e3o",
+        "url": "https://open.spotify.com/album/0xZX8yjyrkRAVPdasLWNF7"
       },
       "artists": [
         {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+          "name": "T\u1ecdi",
+          "url": "https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i"
         },
         {
-          "name": "H\u00e0 L\u00ea",
-          "url": "https://open.spotify.com/artist/0hWPa5etsuzHraxEq4xt6U"
+          "name": "Long N\u00f3n L\u00e1",
+          "url": "https://open.spotify.com/artist/4XPmkusoYLS1cvgpHgQjiB"
+        },
+        {
+          "name": "Ph\u01b0\u01a1ng Nghi\u00eam",
+          "url": "https://open.spotify.com/artist/28GaoT4pqYOP6yiYsIlzay"
         }
       ],
-      "duration_ms": 233476,
-      "name": "N\u1ee3 (feat. H\u00e0 L\u00ea)",
-      "url": "https://open.spotify.com/track/63IS4xfPdOKsajtMi4U0FP"
+      "duration_ms": 259402,
+      "name": "M\u1eaft B\u00e3o",
+      "url": "https://open.spotify.com/track/2aoGg3figtbrChUCZIopCK"
     },
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "Wrong Times",
-        "url": "https://open.spotify.com/album/3jQb4fnTYtHAP90TNLaj3y"
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
       },
       "artists": [
         {
-          "name": "Puppy",
-          "url": "https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7"
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
         },
         {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Wrong Times",
-      "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"
+      "duration_ms": 141760,
+      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
+      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -707,6 +707,66 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
+        "name": "Wrong Times",
+        "url": "https://open.spotify.com/album/3jQb4fnTYtHAP90TNLaj3y"
+      },
+      "artists": [
+        {
+          "name": "Puppy",
+          "url": "https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Wrong Times",
+      "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"
+    },
+    {
+      "added_at": "2026-06-19 22:40:22",
+      "album": {
+        "name": "HVL",
+        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/4oZqNyQWRIYB4hzrLNong1"
+    },
+    {
+      "added_at": "2026-06-18 06:11:23",
+      "album": {
+        "name": "TETVOVEN",
+        "url": "https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        },
+        {
+          "name": "Machiot",
+          "url": "https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh"
+        }
+      ],
+      "duration_ms": 197230,
+      "name": "TETVOVEN",
+      "url": "https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn"
+    },
+    {
+      "added_at": "2026-06-18 06:11:23",
+      "album": {
         "name": "\u0110\u00fang Nh\u01b0 L\u1eddi H\u1ecd N\u00f3i",
         "url": "https://open.spotify.com/album/7DlarLBW6gOlbUKYZh8hxi"
       },
@@ -747,30 +807,6 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "TETVOVEN",
-        "url": "https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc"
-      },
-      "artists": [
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        },
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        },
-        {
-          "name": "Machiot",
-          "url": "https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh"
-        }
-      ],
-      "duration_ms": 197230,
-      "name": "TETVOVEN",
-      "url": "https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn"
-    },
-    {
-      "added_at": "2026-06-18 06:11:23",
-      "album": {
         "name": "\u0110\u00d4I CH\u00c2N \u0110I",
         "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
       },
@@ -787,6 +823,26 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
+        "name": "HVL",
+        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        }
+      ],
+      "duration_ms": 217546,
+      "name": "Xa X\u00f4i (feat. Obito)",
+      "url": "https://open.spotify.com/track/3SJBCyImil9sNCH8lcCnqO"
+    },
+    {
+      "added_at": "2026-06-18 06:11:23",
+      "album": {
         "name": "M\u1eaft Nh\u1eafm M\u1eaft M\u1edf",
         "url": "https://open.spotify.com/album/0f0fmMVSSKpTeKOHXrP9El"
       },
@@ -799,22 +855,6 @@
       "duration_ms": 204967,
       "name": "S\u1eafp N\u1ed5i Ti\u1ebfng 2",
       "url": "https://open.spotify.com/track/5UUNrCgGtC6JOrATM3y3ZT"
-    },
-    {
-      "added_at": "2026-06-18 06:11:23",
-      "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        }
-      ],
-      "duration_ms": 194005,
-      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
-      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -859,22 +899,6 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "N\u00f3i D\u1ed1i",
-        "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
-      },
-      "artists": [
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 206139,
-      "name": "N\u00f3i D\u1ed1i",
-      "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
-    },
-    {
-      "added_at": "2026-06-18 06:11:23",
-      "album": {
         "name": "Th\u1ee7 \u0110\u00f4 Cypher (RPT Phongkhin Remix)",
         "url": "https://open.spotify.com/album/71FoWxY6Mf348aLrnA6dVz"
       },
@@ -911,6 +935,22 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        }
+      ],
+      "duration_ms": 194005,
+      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
+      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
+    },
+    {
+      "added_at": "2026-06-18 06:11:23",
+      "album": {
         "name": "HOP ON DA SHOW",
         "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
       },
@@ -931,6 +971,22 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
+      },
+      "artists": [
+        {
+          "name": "Khoi Vu",
+          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
+        }
+      ],
+      "duration_ms": 138973,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
+    },
+    {
+      "added_at": "2026-06-18 06:11:23",
+      "album": {
         "name": "Cho B\u1ea3o",
         "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
       },
@@ -943,6 +999,22 @@
       "duration_ms": 244752,
       "name": "C\u00f2n Ai Ngo\u00e0i Anh V\u1edbi Em",
       "url": "https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F"
+    },
+    {
+      "added_at": "2026-06-18 06:11:23",
+      "album": {
+        "name": "N\u00f3i D\u1ed1i",
+        "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 206139,
+      "name": "N\u00f3i D\u1ed1i",
+      "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -963,78 +1035,6 @@
       "duration_ms": 205232,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE"
-    },
-    {
-      "added_at": "2026-06-18 06:11:23",
-      "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
-      },
-      "artists": [
-        {
-          "name": "Khoi Vu",
-          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
-        }
-      ],
-      "duration_ms": 138973,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
-    },
-    {
-      "added_at": "2026-06-18 06:11:23",
-      "album": {
-        "name": "TO LOVE AND BE LOVED",
-        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
-      },
-      "artists": [
-        {
-          "name": "Winno",
-          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
-        },
-        {
-          "name": "Hustlang Robber",
-          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
-        }
-      ],
-      "duration_ms": 340724,
-      "name": "Mu\u1ed1n anh \u0111au",
-      "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
-    },
-    {
-      "added_at": "2026-06-18 06:11:23",
-      "album": {
-        "name": "ABG",
-        "url": "https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l"
-      },
-      "artists": [
-        {
-          "name": "nhan.",
-          "url": "https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t"
-        },
-        {
-          "name": "Xuanpac",
-          "url": "https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "ABG",
-      "url": "https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2"
-    },
-    {
-      "added_at": "2026-06-18 06:11:23",
-      "album": {
-        "name": "nh\u1eafn nh\u1ee7",
-        "url": "https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE"
-      },
-      "artists": [
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 241190,
-      "name": "nh\u1eafn nh\u1ee7",
-      "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

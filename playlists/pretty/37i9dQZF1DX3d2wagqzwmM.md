@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Quintino
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,580 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,704 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 56 | [Party So Hard](https://open.spotify.com/track/4cVy5JeJst4DxracwylORB) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [Party So Hard](https://open.spotify.com/album/5nHZegXHDO2Fw7fLMwFfqa) | 2:55 |
 | 57 | [Flute](https://open.spotify.com/track/6JcKNv4AmCR6Ty5qThnGIW) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [Flute](https://open.spotify.com/album/6JM3FO3ijUAQVU4gdwcNvg) | 2:19 |
 | 58 | [Alte Keks](https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mo\-Do](https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f) | [Alte Keks](https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C) | 2:58 |
-| 59 | [Rotation](https://open.spotify.com/track/7hKhKRLA9zSPKOXr15ncVx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Rotation](https://open.spotify.com/album/0AwC1LDyfahYOptBEjMgca) | 2:54 |
-| 60 | [Gimme The Love](https://open.spotify.com/track/46IsWuEwNXTxa3zwRVbU9E) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Gimme The Love](https://open.spotify.com/album/7HZcbRZVXZQnatYKsbUN9L) | 3:02 |
+| 59 | [Gimme The Love](https://open.spotify.com/track/46IsWuEwNXTxa3zwRVbU9E) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Gimme The Love](https://open.spotify.com/album/7HZcbRZVXZQnatYKsbUN9L) | 3:02 |
+| 60 | [Rotation](https://open.spotify.com/track/7hKhKRLA9zSPKOXr15ncVx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Rotation](https://open.spotify.com/album/0AwC1LDyfahYOptBEjMgca) | 2:54 |
 | 61 | [RVN \(Raven\)](https://open.spotify.com/track/0SWSe8vswFpBkStUsi8k6L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [RVN \(Raven\)](https://open.spotify.com/album/16vSagAxXhiKV3F1ONz5yB) | 2:53 |
 | 62 | [Bad](https://open.spotify.com/track/11BtGhFCp0R6yRzB9grEKw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Bad](https://open.spotify.com/album/1F2ehGjO2DqYqrEDN6n7t9) | 2:32 |
 | 63 | [Outside World](https://open.spotify.com/track/5FriNJpgR0DT1p3ypBPhR9) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Outside World](https://open.spotify.com/album/05TsKnWBmFFER3b0K5VnW3) | 2:29 |

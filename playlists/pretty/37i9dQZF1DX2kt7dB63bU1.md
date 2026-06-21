@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,933 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,977 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [How I Wish](https://open.spotify.com/track/5HK4yDAEmmUA1588782PD5) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [How I Wish](https://open.spotify.com/album/7mi2Td5xgke6KBnfDjP4ao) | 4:14 |
 | 100 | [I Cover the Waterfront](https://open.spotify.com/track/6gzE7AzP73YongOc8OU56N) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Alan Hampton](https://open.spotify.com/artist/0D2V0AdCoK1eKTiJR15nzj), [Ted Poor](https://open.spotify.com/artist/5Stfdr5cRd6Gg9OMYmLR9Y) | [I Cover the Waterfront](https://open.spotify.com/album/0O35zsyZBnWVAJTQSqp1mu) | 4:51 |
 
-Snapshot ID: `AAAAAH1r/YnGWVvTq5iZUFbCpAaB7I/B`
+Snapshot ID: `AAAAAJtTkbe/0C9qTgRplJ67OGjyZNrL`

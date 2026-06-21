@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Jet Up",
+        "url": "https://open.spotify.com/album/6Q7nLZzALXUFwI3GeShNtG"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113548,
+      "name": "Jet Up",
+      "url": "https://open.spotify.com/track/7H2B9JA3QVET2f7QApQ7TA"
+    },
+    {
+      "album": {
         "name": "310degrees",
         "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
       },
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 126579,
       "name": "Pop Dat",
       "url": "https://open.spotify.com/track/3c6ZvhZQnLmDXU0SYKa4Lz"

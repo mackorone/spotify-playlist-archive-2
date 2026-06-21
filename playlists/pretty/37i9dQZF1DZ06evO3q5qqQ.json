@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118022,
+  "num_followers": 118023,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAABl20fzR24dGzWdMU6FmrBp",
+  "snapshot_id": "ajSGgAAAAAAYUaXdDQJmzNl+cBGX+42/",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 167211,
-      "name": "Celos Del Viento (En vivo)",
-      "url": "https://open.spotify.com/track/68Hq2EtftSiWf5lRRfIbsc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 195070,
       "name": "El Yuko (En vivo)",
       "url": "https://open.spotify.com/track/2Q7WUNDbsHITZO54t9JSUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 167211,
+      "name": "Celos Del Viento (En vivo)",
+      "url": "https://open.spotify.com/track/68Hq2EtftSiWf5lRRfIbsc"
     },
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Nueva Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L"
+        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM"
       },
       "artists": [
-        {
-          "name": "Somos 3",
-          "url": "https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6"
-        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 163034,
-      "name": "Mi Nueva Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf"
+      "duration_ms": 164258,
+      "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
+      "url": "https://open.spotify.com/track/2L3jQPodSgtQFcBB4A5FoQ"
     },
     {
       "added_at": null,
@@ -347,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM"
+        "name": "Mi Nueva Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L"
       },
       "artists": [
+        {
+          "name": "Somos 3",
+          "url": "https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6"
+        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 164258,
-      "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
-      "url": "https://open.spotify.com/track/2L3jQPodSgtQFcBB4A5FoQ"
+      "duration_ms": 163034,
+      "name": "Mi Nueva Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jalando La Bandona (En Vivo)",
-        "url": "https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E"
+        "name": "El Pato Nada",
+        "url": "https://open.spotify.com/album/0OhyD2tALC8PZSFLRydDfJ"
       },
       "artists": [
         {
@@ -452,13 +452,13 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         },
         {
-          "name": "Los Populares Del Llano",
-          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+          "name": "Jando Cartagena",
+          "url": "https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Prohibido (En vivo)",
-      "url": "https://open.spotify.com/track/1qGPyiu4WWIp3sc4jfQeO8"
+      "duration_ms": 164989,
+      "name": "El Pato Nada",
+      "url": "https://open.spotify.com/track/79ODiZgprtTlyPhRfIlcBl"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pato Nada",
-        "url": "https://open.spotify.com/album/0OhyD2tALC8PZSFLRydDfJ"
+        "name": "Jalando La Bandona (En Vivo)",
+        "url": "https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E"
       },
       "artists": [
         {
@@ -488,13 +488,13 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         },
         {
-          "name": "Jando Cartagena",
-          "url": "https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW"
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
         }
       ],
-      "duration_ms": 164989,
-      "name": "El Pato Nada",
-      "url": "https://open.spotify.com/track/79ODiZgprtTlyPhRfIlcBl"
+      "duration_ms": 172466,
+      "name": "Prohibido (En vivo)",
+      "url": "https://open.spotify.com/track/1qGPyiu4WWIp3sc4jfQeO8"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Aqui Soy",
-        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 168317,
-      "name": "De Aqui Soy",
-      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rapido (En Vivo)",
         "url": "https://open.spotify.com/album/4sVco7GWEEPfowzK2oMW1u"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 208405,
       "name": "El Rapido - En Vivo",
       "url": "https://open.spotify.com/track/5l3trGR8RlTZFuIg2p2GFJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Aqui Soy",
+        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 168317,
+      "name": "De Aqui Soy",
+      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
     },
     {
       "added_at": null,
@@ -859,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ra\u00edces de Acero",
-        "url": "https://open.spotify.com/album/0YjOVBSJx2XHYN9m7hdqlG"
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS"
       },
       "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 160325,
-      "name": "Me Preparaste Para Todo",
-      "url": "https://open.spotify.com/track/0bRsRqYTxqOXPtlRVfwOX9"
+      "duration_ms": 132328,
+      "name": "Aqui En Mi Corazon Tu Mandas",
+      "url": "https://open.spotify.com/track/4mTwrsBsii8ZgwhmhAHxrP"
     },
     {
       "added_at": null,

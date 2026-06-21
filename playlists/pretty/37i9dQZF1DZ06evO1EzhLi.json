@@ -1,12 +1,12 @@
 {
   "description": "This is 3 Doors Down. The essential tracks, all in one playlist.",
-  "num_followers": 181198,
+  "num_followers": 181214,
   "original_name": "This Is 3 Doors Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAADbR+2VUlRM159GJGAq6kvC",
+  "snapshot_id": "ajSGgAAAAAAZ05BwQk7edmrQFh9TBIx6",
   "tracks": [
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 166813,
-      "name": "The Broken",
-      "url": "https://open.spotify.com/track/3jdo9L1HZ17JJ3TTWq0v6R"
+      "duration_ms": 218146,
+      "name": "Pieces Of Me",
+      "url": "https://open.spotify.com/track/0sRrj1NwBTk8ldxl1lg7NC"
     },
     {
       "added_at": null,
@@ -643,38 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acoustic Back Porch Jam",
-        "url": "https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "The Real Life",
-      "url": "https://open.spotify.com/track/2eTshd2WZ4m6ta9aO157iF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Us And The Night",
-        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Pieces Of Me",
-      "url": "https://open.spotify.com/track/0sRrj1NwBTk8ldxl1lg7NC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Away From The Sun (Deluxe)",
         "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
       },
@@ -691,6 +659,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Us And The Night",
+        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "The Broken",
+      "url": "https://open.spotify.com/track/3jdo9L1HZ17JJ3TTWq0v6R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acoustic Back Porch Jam",
+        "url": "https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "The Real Life",
+      "url": "https://open.spotify.com/track/2eTshd2WZ4m6ta9aO157iF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seventeen Days",
         "url": "https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 195466,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/0z6aqMJAl7TbCP4okrKcHs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Away From The Sun (Deluxe)",
+        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Pop Song",
+      "url": "https://open.spotify.com/track/6LumUhm2FDJYwsRNE21V4J"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
       "duration_ms": 184840,
       "name": "Man In My Mind - Escatawpa Sessions",
       "url": "https://open.spotify.com/track/0yIKS8yoBE67mwyfMm1es4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Away From The Sun (Deluxe)",
-        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Pop Song",
-      "url": "https://open.spotify.com/track/6LumUhm2FDJYwsRNE21V4J"
     },
     {
       "added_at": null,

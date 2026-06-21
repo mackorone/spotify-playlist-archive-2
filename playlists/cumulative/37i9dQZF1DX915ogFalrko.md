@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-224 songs - 13 hr 9 min
+225 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Grizzly Bear](https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Angus & Julia Stone](https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6) | 4:08 | 2025-08-12 |  |
 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 | 2025-07-18 |  |
 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 | 2025-07-18 | 2025-08-13 |
+| [hey there \[i have a compulsive complex\]](https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [hey there \[i have a compulsive complex\]](https://open.spotify.com/album/4hJczqZb7VUIigRIp8utjA) | 2:53 | 2026-06-18 |  |
 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 | 2026-06-12 |  |
 | [Hopes](https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Hopes](https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H) | 2:44 | 2025-08-21 |  |
 | [Hotel](https://open.spotify.com/track/6GidQ1dZ3fn05tTDHu47In) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/7LnzOfYsMn2euc6xuZoQup) | 2:27 | 2025-07-18 | 2025-08-02 |
@@ -168,7 +169,7 @@
 | [Some Kind of Man](https://open.spotify.com/track/0Ci9ch7w390MXYK9kr84Ma) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky \(Plus 3\)](https://open.spotify.com/album/1yBN6eCHN8Iw1mmjsAYwyi) | 3:25 | 2026-04-02 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa) | [Freedom Dub](https://open.spotify.com/artist/4KWmY9RioiBzILyhpJjQ3J), [Angie](https://open.spotify.com/artist/7uGnvnboEMvBsBBGggqqC1) | [Chilling Effects](https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK) | 4:10 | 2025-07-18 |  |
 | [Something About Us](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:52 | 2025-07-18 |  |
-| [Something Inside Me](https://open.spotify.com/track/6d3T0nMjuKVyKdycqmExks) | [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [Den Ze](https://open.spotify.com/artist/2zOTxRKSncCCTHLxwRfuMY) | [The Outsider](https://open.spotify.com/album/3iUULNrs4MKQVUphv0Pggk) | 2:18 | 2026-04-30 |  |
+| [Something Inside Me](https://open.spotify.com/track/6d3T0nMjuKVyKdycqmExks) | [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [Den Ze](https://open.spotify.com/artist/2zOTxRKSncCCTHLxwRfuMY) | [The Outsider](https://open.spotify.com/album/3iUULNrs4MKQVUphv0Pggk) | 2:18 | 2026-04-30 | 2026-06-21 |
 | [Something Out Of Nothing](https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Something Out Of Nothing](https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2) | 3:26 | 2026-06-12 |  |
 | [Sorry](https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Sorry](https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ) | 3:17 | 2025-09-12 | 2025-11-12 |
 | [Sorry I'm Late, I Didn't Want To Come \- Roosevelt Remix](https://open.spotify.com/track/5oekWmarT1bxmufDNPRQcV) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Sorry I'm Late, I Didn't Want To Come \(Roosevelt Remix\)](https://open.spotify.com/album/40kYWTnePUZyDB8K59cAiW) | 4:47 | 2025-08-01 | 2025-10-17 |

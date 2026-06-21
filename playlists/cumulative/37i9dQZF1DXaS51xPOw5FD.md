@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-340 songs - 19 hr 57 min
+341 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,10 +336,11 @@
 | [Watercolour \- Full Version; Single](https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Immersion](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS) | 5:04 | 2022-08-05 | 2024-09-20 |
 | [Way We Move](https://open.spotify.com/track/4FIReaKIlDRnhfaPe9SXep) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Way We Move](https://open.spotify.com/album/6WcJxJnCuCsRPEoKy3Ex5O) | 3:57 | 2022-08-05 | 2025-06-16 |
 | [We All Need Someone](https://open.spotify.com/track/6w7lAYEIwnV5R0FxmgmGFP) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Empara Mi](https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6) | [We All Need Someone](https://open.spotify.com/album/7zIEQjvo9fnhRvUIKv0dpK) | 3:54 | 2022-08-05 | 2024-05-20 |
+| [What Can I Do](https://open.spotify.com/track/5FP1dR0ttFHQOCvrSiMsCo) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [What Can I Do](https://open.spotify.com/album/1B2434Cr2Q9G09VJbkc8k0) | 3:18 | 2026-06-18 |  |
 | [What You Came Here For](https://open.spotify.com/track/2LFuOES0fbFjpfIJpnLCjC) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby), [Zitah](https://open.spotify.com/artist/134jXtTPAypiWMWs2OozFJ) | [What You Came Here For](https://open.spotify.com/album/57mDv1eiouOl2xfQgMceII) | 4:02 | 2025-06-26 | 2026-05-16 |
 | [What You Heard About Me](https://open.spotify.com/track/1ErOaiF4mXvdhb5YQTG6vE) | [Posk](https://open.spotify.com/artist/0Se9VSGYSzcS0QmxztSJxe), [Ekstatic](https://open.spotify.com/artist/1VQbUvRt7zz4zzLGD3vrMD) | [What You Heard About Me](https://open.spotify.com/album/5AiGxsokv0sJxw1IOYR1pV) | 2:39 | 2024-10-16 |  |
 | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/album/4mvaF4ugSd44nVs4SLsTZs) | 2:07 | 2025-03-06 | 2025-03-30 |
-| [whenever you're ready](https://open.spotify.com/track/6b4f4npphxxMhUe0dMlTjZ) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [whenever you're ready](https://open.spotify.com/album/4WLvV4gXgXpjCVguqpgA7h) | 3:27 | 2025-08-07 |  |
+| [whenever you're ready](https://open.spotify.com/track/6b4f4npphxxMhUe0dMlTjZ) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [whenever you're ready](https://open.spotify.com/album/4WLvV4gXgXpjCVguqpgA7h) | 3:27 | 2025-08-07 | 2026-06-21 |
 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 | 2023-05-19 | 2026-04-17 |
 | [Where You Are](https://open.spotify.com/track/0D5qWqcQzcWOsmUi8jAkgw) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [shadxwgirl](https://open.spotify.com/artist/0VI8OJAF4LWfSHukdALwia) | [Where You Are](https://open.spotify.com/album/1olN41ilLwcgf8egALwSvu) | 3:24 | 2025-08-07 |  |
 | [White Noise](https://open.spotify.com/track/5MsnXwlc53vv0ym7NPw5gh) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [White Noise](https://open.spotify.com/album/2oXZn3B3jk9U1KTINe6qQa) | 3:07 | 2023-05-19 | 2024-05-10 |

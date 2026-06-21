@@ -4,7 +4,7 @@
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-158 songs - 8 hr 10 min
+159 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/0612bpbpVUQX7mwYNO36xj) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/album/56ZmDRD0prasmcVlSJwQNS) | 3:26 | 2024-01-29 | 2024-08-22 |
 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/46WJUGGILoo7R7GwheR1wh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \(En Vivo\)](https://open.spotify.com/album/63XdgF882pL2ryGEM8jPSR) | 3:26 | 2025-03-08 |  |
 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/7qpl6cleWADFbhMifTBkPg) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \(En Vivo\)](https://open.spotify.com/album/1pivskZf20uDpQV21sjkN3) | 3:26 | 2024-08-22 | 2025-03-08 |
-| [La Hija Del Señor](https://open.spotify.com/track/2DMb5Q3RcI8fR12AKbtMPH) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Calmados y No Dejados](https://open.spotify.com/album/3Yo3eHcPwmb9727m6Fd12d) | 3:13 | 2026-04-19 |  |
+| [La Güera](https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Güera](https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY) | 2:38 | 2026-06-21 |  |
+| [La Hija Del Señor](https://open.spotify.com/track/2DMb5Q3RcI8fR12AKbtMPH) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Calmados y No Dejados](https://open.spotify.com/album/3Yo3eHcPwmb9727m6Fd12d) | 3:13 | 2026-04-19 | 2026-06-21 |
 | [La Número 20 \- En Vivo](https://open.spotify.com/track/7IgCrY5WUgwzL2MxUzzLTF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Número 20 \(En Vivo\)](https://open.spotify.com/album/4apHcPQV70jZg475MOOh9B) | 3:10 | 2024-09-30 | 2025-02-26 |
 | [La Payasa](https://open.spotify.com/track/0L5wKmUHRWelBy19r86lGJ) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Payasa](https://open.spotify.com/album/4ERHeig5r52yomQqdYOVKC) | 3:26 | 2024-12-31 | 2025-03-08 |
 | [La Venia Bendita \- En Vivo](https://open.spotify.com/track/5P8jeaUuAnyiw6qRjLxKds) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [En Vivo Con Banda y Norteño](https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp) | 2:26 | 2026-01-24 | 2026-01-25 |

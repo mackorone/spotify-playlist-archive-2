@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With After Cooking, BIRRD, GONE and more
+> With After Cooking, GONE, winterburn and more
 
 300 songs - 22 hr 56 min
 

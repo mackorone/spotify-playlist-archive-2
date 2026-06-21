@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume! June ambassador: <a href=\"spotify:artist:0UMs6dTf23FC2fHc40fXNS\">KI/KI</a>",
-  "num_followers": 14260,
+  "num_followers": 14261,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
         "name": "Over & Over",
         "url": "https://open.spotify.com/album/1ZMj2cyEzE4J29liLEDkVd"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 171500,
       "name": "Over & Over",
       "url": "https://open.spotify.com/track/1Sr0O1mL61K0OaPEVpvaP3"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
-        "name": "Something Good",
-        "url": "https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Boy & Girl",
-        "url": "https://open.spotify.com/album/2EeT0iew6pYqXkeltRsL0m"
-      },
-      "artists": [
-        {
-          "name": "FENNE",
-          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "Boy & Girl",
-      "url": "https://open.spotify.com/track/3IYzAhD6EgmCSdYWUWDBe2"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Tranen In De Giftshop",
         "url": "https://open.spotify.com/album/1OQVA5LvlqTTebTLRHub9f"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 186437,
       "name": "Tranen In De Giftshop",
       "url": "https://open.spotify.com/track/6TOOdDpUpkx30Om2AGAbiF"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Boy & Girl",
+        "url": "https://open.spotify.com/album/2EeT0iew6pYqXkeltRsL0m"
+      },
+      "artists": [
+        {
+          "name": "FENNE",
+          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
+        }
+      ],
+      "duration_ms": 186463,
+      "name": "Boy & Girl",
+      "url": "https://open.spotify.com/track/3IYzAhD6EgmCSdYWUWDBe2"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Als Ik Dan Denk Aan Jou",
-        "url": "https://open.spotify.com/album/0iZaSvuDr3iWVJIyzdO5pp"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 204494,
-      "name": "Als Ik Dan Denk Aan Jou",
-      "url": "https://open.spotify.com/track/6tmBufwIoXjjshHTHSYsQ7"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Terug bij af",
         "url": "https://open.spotify.com/album/10Xf51oocS1HvLOpaFWwbC"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 169167,
       "name": "Terug bij af",
       "url": "https://open.spotify.com/track/64WcFZOOYjxo9JgyROBK2L"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Als Ik Dan Denk Aan Jou",
+        "url": "https://open.spotify.com/album/0iZaSvuDr3iWVJIyzdO5pp"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 204494,
+      "name": "Als Ik Dan Denk Aan Jou",
+      "url": "https://open.spotify.com/track/6tmBufwIoXjjshHTHSYsQ7"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Plankgas",
-        "url": "https://open.spotify.com/album/1ah6AWdgrlCwXJVTJiFeum"
-      },
-      "artists": [
-        {
-          "name": "Line De Dauw",
-          "url": "https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "Plankgas",
-      "url": "https://open.spotify.com/track/1CYwj9IOMLY1vX0EmMUXym"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Ben je dan niet blij",
         "url": "https://open.spotify.com/album/6ZJ5boHWv15ayyQu4giZhL"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 196653,
       "name": "Ben je dan niet blij",
       "url": "https://open.spotify.com/track/2lOype0E5KsoIM7klo1yRI"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Plankgas",
+        "url": "https://open.spotify.com/album/1ah6AWdgrlCwXJVTJiFeum"
+      },
+      "artists": [
+        {
+          "name": "Line De Dauw",
+          "url": "https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "Plankgas",
+      "url": "https://open.spotify.com/track/1CYwj9IOMLY1vX0EmMUXym"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/0hF6KksKFNs67Xc0R0YDXb"
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/39jJaarZplGt1gHKmCpcME"
       },
       "artists": [
         {
-          "name": "Celine Cairo",
-          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
         }
       ],
-      "duration_ms": 202289,
-      "name": "The Great Divide",
-      "url": "https://open.spotify.com/track/7fupI8FxcypgJ7HDjw7hQR"
+      "duration_ms": 200869,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/5yCOto2qdnC9d7cYWSgTFm"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -611,18 +611,18 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/39jJaarZplGt1gHKmCpcME"
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/0hF6KksKFNs67Xc0R0YDXb"
       },
       "artists": [
         {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
         }
       ],
-      "duration_ms": 200869,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/5yCOto2qdnC9d7cYWSgTFm"
+      "duration_ms": 202289,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/7fupI8FxcypgJ7HDjw7hQR"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Dicht Bij Mij",
-        "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
+        "name": "Everybody Wants To Fly",
+        "url": "https://open.spotify.com/album/3fRzEaAheLi2r4SlSVrueP"
       },
       "artists": [
         {
-          "name": "Sabien",
-          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
+          "name": "BIRTHE",
+          "url": "https://open.spotify.com/artist/4abnJNB1ZNdqTP8Q0zBbP7"
         }
       ],
-      "duration_ms": 178064,
-      "name": "Hoe Wij Hier Samen Staan",
-      "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
+      "duration_ms": 153535,
+      "name": "Everybody Wants To Fly",
+      "url": "https://open.spotify.com/track/3ZREjtAQbskSYJhJgnjFyu"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -695,18 +695,18 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Everybody Wants To Fly",
-        "url": "https://open.spotify.com/album/3fRzEaAheLi2r4SlSVrueP"
+        "name": "Dicht Bij Mij",
+        "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
       },
       "artists": [
         {
-          "name": "BIRTHE",
-          "url": "https://open.spotify.com/artist/4abnJNB1ZNdqTP8Q0zBbP7"
+          "name": "Sabien",
+          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
         }
       ],
-      "duration_ms": 153535,
-      "name": "Everybody Wants To Fly",
-      "url": "https://open.spotify.com/track/3ZREjtAQbskSYJhJgnjFyu"
+      "duration_ms": 178064,
+      "name": "Hoe Wij Hier Samen Staan",
+      "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/4SMEwj1X6KuwzHIyZkcLpE"
-      },
-      "artists": [
-        {
-          "name": "LAKSHMI",
-          "url": "https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/6akHA8IwpUr7vndAGw1oq7"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/3tJ4mXm9lntPtd0qj01xU8"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/4SMEwj1X6KuwzHIyZkcLpE"
+      },
+      "artists": [
+        {
+          "name": "LAKSHMI",
+          "url": "https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/6akHA8IwpUr7vndAGw1oq7"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
         "name": "Vliegen",
         "url": "https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 139931,
       "name": "Rustig Aan",
       "url": "https://open.spotify.com/track/00DY5arVSND7mosWaEuTpp"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Nothing Is Forever",
+        "url": "https://open.spotify.com/album/36C4Gj8bEgbDRx4KQlNr0A"
+      },
+      "artists": [
+        {
+          "name": "Isolde Lasoen",
+          "url": "https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci"
+        }
+      ],
+      "duration_ms": 194413,
+      "name": "Nothing Is Forever",
+      "url": "https://open.spotify.com/track/66gtR4jh2ZpaFcqr5IXoz0"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -947,22 +963,6 @@
       "duration_ms": 174255,
       "name": "Vrede",
       "url": "https://open.spotify.com/track/5nChDoJ0kXRw9Mmfyhn2ou"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
-        "name": "Nothing Is Forever",
-        "url": "https://open.spotify.com/album/36C4Gj8bEgbDRx4KQlNr0A"
-      },
-      "artists": [
-        {
-          "name": "Isolde Lasoen",
-          "url": "https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci"
-        }
-      ],
-      "duration_ms": 194413,
-      "name": "Nothing Is Forever",
-      "url": "https://open.spotify.com/track/66gtR4jh2ZpaFcqr5IXoz0"
     },
     {
       "added_at": "2026-06-04 22:00:35",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-06-04 22:00:35",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/1wNDKqVMj9zD7kGu4N9tDP"
-      },
-      "artists": [
-        {
-          "name": "Nicky Elisabeth",
-          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6y8DcPPyv3mqhYbmGtcewj"
-    },
-    {
-      "added_at": "2026-06-04 22:00:35",
-      "album": {
         "name": "Ik neem jou mee",
         "url": "https://open.spotify.com/album/3dnsEfOW87w8QI1xfyYrJB"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 221461,
       "name": "Welterusten, Mijnheer de president",
       "url": "https://open.spotify.com/track/4r6tPkeVJBWm9eWdMTdNUm"
+    },
+    {
+      "added_at": "2026-06-04 22:00:35",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1wNDKqVMj9zD7kGu4N9tDP"
+      },
+      "artists": [
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6y8DcPPyv3mqhYbmGtcewj"
     },
     {
       "added_at": "2026-06-04 22:00:35",

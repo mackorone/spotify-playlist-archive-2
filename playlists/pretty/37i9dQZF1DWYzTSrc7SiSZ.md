@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,659 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,592 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 69 | [Cardenal Cisneros](https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Cardenal Cisneros](https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc) | 4:12 |
 | 70 | [demasiado poco \(demasiado tarde\)](https://open.spotify.com/track/37u4ifh3hi3I9KpReEyL4S) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [demasiado poco \(demasiado tarde\)](https://open.spotify.com/album/4kWZOpPZKxqZyG59mCY85F) | 3:08 |
 | 71 | [Reconciliados](https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Reconciliados](https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3) | 2:49 |
-| 72 | [Lento](https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lento](https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB) | 3:03 |
-| 73 | [Justrylove \(Chill&Go Remix\)](https://open.spotify.com/track/3rWccLg6nMDF851IqYmdf5) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Justrylove \(Chill&Go Remix\)](https://open.spotify.com/album/6YK11Ru4UJLSEMjdfpopbD) | 3:12 |
+| 72 | [Justrylove \(Chill&Go Remix\)](https://open.spotify.com/track/3rWccLg6nMDF851IqYmdf5) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Justrylove \(Chill&Go Remix\)](https://open.spotify.com/album/6YK11Ru4UJLSEMjdfpopbD) | 3:12 |
+| 73 | [Lento](https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lento](https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB) | 3:03 |
 | 74 | [MENTE TREN](https://open.spotify.com/track/6KvP0vPANDvKf9ukERgJI0) | [FE7O](https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL), [ONTiNO!](https://open.spotify.com/artist/1JOzYwryx8bkT2o4RukRJ8) | [OCIO](https://open.spotify.com/album/3v5Dgv8zeXXIX5fRUnC7qV) | 3:25 |
 | 75 | [cAnAimA](https://open.spotify.com/track/2LKpAspoJbTagy6HdHsU7L) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 1:46 |
 | 76 | [I know](https://open.spotify.com/track/5xCUOxO46AyKy4x0W7dxeM) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [henry semler](https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS) | [I know](https://open.spotify.com/album/6GRPgTY3rk3dgxsG9ZOkCu) | 2:57 |
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 88 | [La Puerta](https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt) | [Chill Akiles](https://open.spotify.com/artist/7DWBR7jipfQ89DO1cUjuGL) | [La Puerta](https://open.spotify.com/album/0R02eSlXL3wZo5TceCaSoP) | 3:08 |
 | 89 | [Escápate](https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4) | [Malxs](https://open.spotify.com/artist/15vG2WQMHbjKWepVbj7lNY) | [Escápate](https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ) | 2:52 |
 | 90 | [5 letras, 2 palabras](https://open.spotify.com/track/4s3nqWkbqSisNpdrAPIwn3) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Lo que escribí mientras no estabas :\)](https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc) | 2:32 |
-| 91 | [Indirecta](https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Indirecta](https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o) | 3:20 |
-| 92 | [Trihte](https://open.spotify.com/track/74HszoDuZf9JzKqFDxailX) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 3:48 |
-| 93 | [Toma Mi Mano](https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Toma Mi Mano](https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj) | 3:02 |
-| 94 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
+| 91 | [Trihte](https://open.spotify.com/track/74HszoDuZf9JzKqFDxailX) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 3:48 |
+| 92 | [Indirecta](https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Indirecta](https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o) | 3:20 |
+| 93 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
+| 94 | [Toma Mi Mano](https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Toma Mi Mano](https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj) | 3:02 |
 | 95 | [hablé con ella ayer](https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:44 |
 | 96 | [Lalala](https://open.spotify.com/track/6bZo5hD6TLeReBF3kZWcv0) | [Bumont](https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa), [Fabuloso](https://open.spotify.com/artist/5DAsxR5uOROQzdxAjq6SLX) | [Lalala](https://open.spotify.com/album/63gnQZ2zbvNFstV9UoEkNp) | 2:56 |
 | 97 | [robusta](https://open.spotify.com/track/22B3ckVP0ELBQUdAhHySEe) | [iced latte](https://open.spotify.com/artist/5WT2j29ajCAxsK10dqksg2) | [robusta](https://open.spotify.com/album/04UNh2Lb7c5RYDcQMEe7dP) | 2:18 |

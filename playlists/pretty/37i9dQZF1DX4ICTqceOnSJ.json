@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 404991,
+  "num_followers": 404875,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Los A\u00f1os Futuros",
-        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 187824,
-      "name": "Extranjero",
-      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 222573,
       "name": "Baila",
       "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Los A\u00f1os Futuros",
+        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 187824,
+      "name": "Extranjero",
+      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 253600,
-      "name": "No vuelvo m\u00e1s",
-      "url": "https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 268280,
       "name": "Adelante",
       "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 253600,
+      "name": "No vuelvo m\u00e1s",
+      "url": "https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u"
     },
     {
       "added_at": "2024-06-14 04:59:00",

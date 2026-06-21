@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Avril Lavigne",
-  "num_followers": 348608,
+  "num_followers": 348772,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 287906,
       "name": "Speed of Sound",
       "url": "https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
     },
     {
       "added_at": "2024-07-02 21:20:51",

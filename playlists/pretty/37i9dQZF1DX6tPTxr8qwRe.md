@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- INJI on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,875 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,857 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [Cupid Must've Been High](https://open.spotify.com/track/3hcdiLMlKuJPqcVNOp90Mi) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Cupid Must've Been High](https://open.spotify.com/album/72Diyo40WtMIgw7im5ZpqY) | 2:42 |
 | 50 | [PAPERCUT](https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [PAPERCUT](https://open.spotify.com/album/1ZWy1gMLEjonQb9qytN3uo) | 3:14 |
 
-Snapshot ID: `AAAAAPpeaNMPm7raa9XWXm+16XQZwMVR`
+Snapshot ID: `AAAAAGawOabfsyRc7Ugshu+aaCMj8TfU`

@@ -11799,6 +11799,32 @@
     },
     {
       "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/1Qej2i6EDLQ1Bo0iUvsSSI"
+      },
+      "artists": [
+        {
+          "name": "MARSTEREON",
+          "url": "https://open.spotify.com/artist/7jEVO7yGtLTH2UsMcuA8Ap"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/63HuRSLtTHIJJAvbRWnMJe"
+    },
+    {
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },

@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 293050,
       "name": "Amazwe",
       "url": "https://open.spotify.com/track/4A6U9iDOEAO2EfvbjBJuSN"
@@ -5010,7 +5010,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 137647,
       "name": "B's On The Table (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr"
@@ -20988,7 +20988,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 386482,
       "name": "Head Movement",
       "url": "https://open.spotify.com/track/1uJXJdzBwA6Tx8WWi8ngBO"
@@ -24582,7 +24582,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 244218,
       "name": "Incenge Kancane",
       "url": "https://open.spotify.com/track/3x9eb22Epgzw3GAR3gig5t"
@@ -25501,6 +25501,24 @@
     },
     {
       "album": {
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -26288,7 +26306,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 240978,
       "name": "Ivangeli (feat. Thabo Smol)",
       "url": "https://open.spotify.com/track/4VDX92SfCYEHKa2YrulMLl"
@@ -34866,7 +34884,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 535310,
       "name": "Methodist Medley",
       "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
@@ -36050,7 +36068,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 272033,
       "name": "Mopepe",
       "url": "https://open.spotify.com/track/6L1PVPyrnb20UrFzuBBqoy"
@@ -46849,6 +46867,36 @@
     },
     {
       "album": {
+        "name": "SASEZOLA",
+        "url": "https://open.spotify.com/album/1UbsUDmRnBB2ik0uHnkuWq"
+      },
+      "artists": [
+        {
+          "name": "Novex",
+          "url": "https://open.spotify.com/artist/5GVZ2Ewk9iIGtzQYmeHNz7"
+        },
+        {
+          "name": "Born Kxng",
+          "url": "https://open.spotify.com/artist/5vNFVsHohiYAeRcVoxNX6v"
+        },
+        {
+          "name": "MOONLIGHT AFRIQA",
+          "url": "https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248717,
+      "name": "SASEZOLA",
+      "url": "https://open.spotify.com/track/1NNIWalTKTHhn3hLkgJXQ1"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -47694,7 +47742,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 278073,
       "name": "Sekuzolunga Mama",
       "url": "https://open.spotify.com/track/6W8CWNHx5yktT9EPIPBYFR"
@@ -64356,7 +64404,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 308241,
       "name": "ZEP (feat. Uncool MC)",
       "url": "https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax"
@@ -64608,7 +64656,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 302298,
       "name": "Zwo's Prayer for the nation",
       "url": "https://open.spotify.com/track/66csxfTZOMwerz9xAQAF9t"

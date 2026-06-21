@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: Original Broadway Cast of The Lost Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,610 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,616 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 49 | [Waiter's Song](https://open.spotify.com/track/2E0AjkiDgeQwAMLWyNudf5) | [Denis O'Hare](https://open.spotify.com/artist/6V61xKjFeKyRl9FAgKtKYS), [Amber Gray](https://open.spotify.com/artist/14i357yzHOFOHFma68eNJb), [Jeremy Shamos](https://open.spotify.com/artist/1gU6vW1dNs4oZMGoKDAW3h), [Steven Pasquale](https://open.spotify.com/artist/28Ni327TDo6yEqZXD10d5I), [Bobby Cannavale](https://open.spotify.com/artist/39ZMrrNEthdwHD5WrmBEk4), [Rachel Bay Jones](https://open.spotify.com/artist/73sIMDrtvzFVs4Y1WkUpTd), [Micaela Diamond](https://open.spotify.com/artist/4cwza2NZPQtmTcXotvpwWq) | [Here We Are \(Original Cast Recording\)](https://open.spotify.com/album/04SqfbxYwlEhk5GenxL4mv) | 4:21 |
 | 50 | [Stay Gold](https://open.spotify.com/track/6QMYeuubL00KcXBXxS5Zhn) | [Sky Lakota\-Lynch](https://open.spotify.com/artist/6tXiikauT8deFqOGJ9RCeI), [Brody Grant](https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj), [Original Broadway Cast of The Outsiders \- A New Musical](https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w) | [The Outsiders \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk) | 4:09 |
 
-Snapshot ID: `AAAAACnQ0OlSuVI6PtZSJlcVxunBQnFR`
+Snapshot ID: `AAAAAOQaWD2e68K3Q3RRb8+Sw+BcX/3G`

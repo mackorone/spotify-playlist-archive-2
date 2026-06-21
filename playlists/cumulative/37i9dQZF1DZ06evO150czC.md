@@ -4,7 +4,7 @@
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-90 songs - 7 hr 41 min
+91 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Meu Milagre \(Ao Vivo\)](https://open.spotify.com/track/5JlfhpLoJTtsQNqrRs8OAa) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Meu Milagre \(Ao Vivo\)](https://open.spotify.com/album/3rN0mzP5qJCoAI6SlSunXY) | 4:58 | 2023-07-09 |  |
 | [Nasci Pra Deus](https://open.spotify.com/track/3q6YCfW9zSrlMC4HRwRJbU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Nasci Pra Deus](https://open.spotify.com/album/0jYMssO9wqHGNRAtVbYTNg) | 3:26 | 2023-07-09 | 2024-06-09 |
 | [No Pares](https://open.spotify.com/track/6lhq52ulpv88jIYpqrZBFQ) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [No Pares](https://open.spotify.com/album/3OKxWsolYmrGBYJjWGIH0H) | 4:46 | 2023-07-09 | 2023-10-11 |
+| [Nova Jerusalém](https://open.spotify.com/track/7g4IeGjfYIaeTvl5O63HzQ) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Nova Jerusalém](https://open.spotify.com/album/3t6uGkt9cdpE6zxzTkwBZB) | 5:43 | 2026-06-21 |  |
 | [Novidade de Deus \(Ao Vivo\)](https://open.spotify.com/track/5R8dqjenu5rH1YPvUrapxk) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Novidade de Deus \(Ao Vivo\)](https://open.spotify.com/album/095KuEcSJ8p1hie8rfdEhW) | 3:59 | 2025-12-09 | 2026-03-24 |
 | [Não Desisto](https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Desisto](https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl) | 4:59 | 2024-07-23 | 2026-01-29 |
 | [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/track/57NfFc3A5Dwn2TvAwvYkKh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/album/5rTzbVeGpTUM2B1VzKMRSb) | 4:32 | 2026-03-12 |  |
@@ -92,7 +93,7 @@
 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 | 2023-07-09 |  |
 | [Vai Ter vida Aí \(Ao Vivo\)](https://open.spotify.com/track/6bFbESO9nUiWkDY7iPJMRb) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \- Louvorzão 2023 \(Ao Vivo\)](https://open.spotify.com/album/2SjA0yKEbiA7ygxYQZ2PF9) | 4:55 | 2024-05-07 | 2024-05-17 |
 | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE) | 5:25 | 2023-12-15 | 2025-01-27 |
-| [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/track/6YXNUfLSsMnptAL1dOAi7P) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Gisele Nascimento 20 Anos \(Ao Vivo\)](https://open.spotify.com/album/0GHSBOIstODdANsqZkz7v4) | 5:25 | 2025-01-27 |  |
+| [Vencer ou Vencer \(Ao Vivo\)](https://open.spotify.com/track/6YXNUfLSsMnptAL1dOAi7P) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Gisele Nascimento 20 Anos \(Ao Vivo\)](https://open.spotify.com/album/0GHSBOIstODdANsqZkz7v4) | 5:25 | 2025-01-27 | 2026-06-21 |
 | [Vida aos Sepulcros \(Ao Vivo\)](https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:02 | 2023-07-09 | 2026-04-12 |
 | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Misael J](https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD) | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI) | 13:49 | 2024-10-01 | 2025-07-04 |
 | [Você Não Imagina](https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Você Não Imagina](https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu) | 5:18 | 2023-07-09 |  |

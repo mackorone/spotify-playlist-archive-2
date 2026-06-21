@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 
 > Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2026 official playlist\. Cover: Chappell Roan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,900 likes - 35 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,901 likes - 35 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 | 21 | [Blue Strips](https://open.spotify.com/track/5kUXTPwxC6ZkduukaukCRT) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:27 |
 | 22 | [Goodies \(feat\. Petey Pablo\)](https://open.spotify.com/track/2H4MC4UVMBqDmv7pd8jX1v) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Goodies](https://open.spotify.com/album/1ZWSVbbHLBkDxohWmqOhzK) | 3:43 |
 | 23 | [Girl Crush](https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 3:13 |
-| 24 | [Gives You Hell](https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) | 3:33 |
-| 25 | [Break Ya Neck](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:51 |
+| 24 | [Break Ya Neck](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:51 |
+| 25 | [Gives You Hell](https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) | 3:33 |
 | 26 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
 | 27 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
 | 28 | [No Problem \(feat\. Lil Wayne & 2 Chainz\)](https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 5:04 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 | 31 | [Selfish](https://open.spotify.com/track/5UY8jf31X2hJkiAualFTyh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:43 |
 | 32 | [Shots](https://open.spotify.com/track/7cWNahjynBEP4wuXXhU0m6) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl) | [Crunk Rock \(Deluxe\)](https://open.spotify.com/album/49qpwRDGLfNAkUG9UeGoTV) | 3:38 |
 | 33 | [All Natural](https://open.spotify.com/track/57qr5kFDt871A0TTrBBlX7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [All Natural](https://open.spotify.com/album/0nwnZW95L9dJpMrugSne3n) | 3:02 |
-| 34 | [No More Old Men \(feat\. Jamila Woods\)](https://open.spotify.com/track/2Jtia4fDcSP17h2UkAhg9E) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [STAR LINE \(Clean\)](https://open.spotify.com/album/3JIQgXeFbirc0gDsToXBt6) | 4:53 |
-| 35 | [Love That About You](https://open.spotify.com/track/4nWHhF8R5RkTtFotcsOYnz) | [FILMORE](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [State I'm In](https://open.spotify.com/album/0rpP7RK9FEdwTC8BDjDSLj) | 2:37 |
+| 34 | [Love That About You](https://open.spotify.com/track/4nWHhF8R5RkTtFotcsOYnz) | [FILMORE](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [State I'm In](https://open.spotify.com/album/0rpP7RK9FEdwTC8BDjDSLj) | 2:37 |
+| 35 | [No More Old Men \(feat\. Jamila Woods\)](https://open.spotify.com/track/2Jtia4fDcSP17h2UkAhg9E) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [STAR LINE \(Clean\)](https://open.spotify.com/album/3JIQgXeFbirc0gDsToXBt6) | 4:53 |
 
 Snapshot ID: `AAAAAGnX32KwuZrzfAHba9x9n5iGLkJC`

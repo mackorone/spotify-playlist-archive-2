@@ -1,6 +1,6 @@
 {
   "description": "Your escape to the world of chill Indian pop. Cover - Thoda Thoda Pyaar",
-  "num_followers": 131842,
+  "num_followers": 131891,
   "original_name": "I-Pop Chill",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,26 @@
     {
       "added_at": "2026-06-16 07:23:10",
       "album": {
+        "name": "Jugnu",
+        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Jugnu",
+      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
+    },
+    {
+      "added_at": "2026-06-16 07:23:10",
+      "album": {
         "name": "Vaaste",
         "url": "https://open.spotify.com/album/7b0RW9Inq2jLmTGonmqv11"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 196043,
       "name": "Vaaste",
       "url": "https://open.spotify.com/track/0mJTAdmY8olbGQjopDYff3"
-    },
-    {
-      "added_at": "2026-06-16 07:23:10",
-      "album": {
-        "name": "Jugnu",
-        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Jugnu",
-      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
     },
     {
       "added_at": "2026-06-16 07:23:10",

@@ -4,7 +4,7 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-159 songs - 8 hr 32 min
+160 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,8 +84,9 @@
 | [Lighthouse \- Radio Edit](https://open.spotify.com/track/0GYvUa9kz7wNTs3qqfK3Gb) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lighthouse](https://open.spotify.com/album/0NspntfDBwf6LLgeCTXX6J) | 3:06 | 2025-02-26 | 2026-05-28 |
 | [Lights Up \- Dimitri Vegas & Like Mike Edit](https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Lights Up \(Dimitri Vegas & Like Mike Edit\)](https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp) | 3:10 | 2024-06-09 | 2025-11-28 |
 | [Like Home \- Radio Edit](https://open.spotify.com/track/3bUbOOpXfkdDlXg5iPGdJC) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/3knECzpm45ekkrm06q78TJ) | 3:20 | 2021-12-20 | 2024-09-02 |
-| [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 | 2022-07-06 |  |
+| [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 | 2022-07-06 | 2026-06-21 |
 | [Like Home \- Radio Mix](https://open.spotify.com/track/2RBq5Dl68WQXwWNpP77FQY) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/2vQhahYsf0a2TbGiTX3Uv5) | 3:20 | 2022-03-16 | 2024-11-24 |
+| [Like Home \- Tujamo & NORII Remix](https://open.spotify.com/track/2pxtG74DvzCkcMORMwY0No) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [NORII](https://open.spotify.com/artist/4I1nNVymsW8VCQpkkAiqn1) | [Like Home \(Remixes 2026\)](https://open.spotify.com/album/4bV8pNkHFNx2hHRtqNNYea) | 3:08 | 2026-06-21 |  |
 | [Live My Life](https://open.spotify.com/track/2a0Az8oSMkiZjOpWNzXICs) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Live My Life](https://open.spotify.com/album/7C4dHLELP7ivO6HXeLltK3) | 4:01 | 2025-04-06 |  |
 | [Lose My Mind](https://open.spotify.com/track/7vTaAwEWxj5vhhQpuWZpFm) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lose My Mind](https://open.spotify.com/album/4UohRlSH6iqad6ykrQL2wI) | 3:07 | 2022-03-26 | 2022-12-02 |
 | [Lost In Light](https://open.spotify.com/track/6OMjEqdLABiCa42LtYMSUv) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lost In Light](https://open.spotify.com/album/7fIGGmEiq5Lr8ZTYSdvP4m) | 3:12 | 2025-12-21 |  |

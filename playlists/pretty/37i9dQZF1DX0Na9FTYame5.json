@@ -1,12 +1,12 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Mucco",
-  "num_followers": 573703,
+  "num_followers": 573663,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHNv6pdEirbKL2QYUAS9XS2C28Ad",
+  "snapshot_id": "AAAAAFS+jxogpOgPVg/TcrShIl04LiEq",
   "tracks": [
     {
       "added_at": "2026-06-11 22:00:53",
@@ -647,6 +647,26 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
+        "name": "nie wieder normal",
+        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "duration_ms": 197618,
+      "name": "nie wieder normal",
+      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
         "name": "Fahrt ins Blaue",
         "url": "https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1"
       },
@@ -663,22 +683,6 @@
       "duration_ms": 172023,
       "name": "F\u00fcr immer",
       "url": "https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "Benzin",
-        "url": "https://open.spotify.com/album/3PBuFvcyS2PPcOPc17P0AT"
-      },
-      "artists": [
-        {
-          "name": "Mucco",
-          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
-        }
-      ],
-      "duration_ms": 156617,
-      "name": "Benzin",
-      "url": "https://open.spotify.com/track/3BjFI5GwXcgZHtW0n9bdrZ"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -703,26 +707,6 @@
       "duration_ms": 193906,
       "name": "Ich will",
       "url": "https://open.spotify.com/track/16HZAn6XX5XIzKMqcZYoIY"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "nie wieder normal",
-        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        },
-        {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        }
-      ],
-      "duration_ms": 197618,
-      "name": "nie wieder normal",
-      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -759,6 +743,22 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
+        "name": "Benzin",
+        "url": "https://open.spotify.com/album/3PBuFvcyS2PPcOPc17P0AT"
+      },
+      "artists": [
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "duration_ms": 156617,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/3BjFI5GwXcgZHtW0n9bdrZ"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
         "name": "21 Gramm",
         "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "nur f\u00fcr dich",
-        "url": "https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT"
-      },
-      "artists": [
-        {
-          "name": "IBRA",
-          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "nur f\u00fcr dich",
-      "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "UPPER CLASS",
         "url": "https://open.spotify.com/album/1g5qbFLy3b6tVBW2vJ7gBt"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
+        "name": "nur f\u00fcr dich",
+        "url": "https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT"
+      },
+      "artists": [
+        {
+          "name": "IBRA",
+          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "nur f\u00fcr dich",
+      "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
         "name": "Schatten",
         "url": "https://open.spotify.com/album/66ynoXazPbss2y4481rMZa"
       },
@@ -851,26 +851,6 @@
       "duration_ms": 182000,
       "name": "Schatten",
       "url": "https://open.spotify.com/track/4rBBKTHIGcjKhukjOno0t1"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "wegen dir.",
-        "url": "https://open.spotify.com/album/5G9TnMKD3nPTyxig4mHqv7"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        },
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 172857,
-      "name": "wegen dir.",
-      "url": "https://open.spotify.com/track/0V9tCM5tGcNicWoytK8D5o"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -903,18 +883,22 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "6 Kugeln",
-        "url": "https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T"
+        "name": "wegen dir.",
+        "url": "https://open.spotify.com/album/5G9TnMKD3nPTyxig4mHqv7"
       },
       "artists": [
         {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
         }
       ],
-      "duration_ms": 184877,
-      "name": "6 Kugeln",
-      "url": "https://open.spotify.com/track/7bFQISsrghalrVI3BbPXs2"
+      "duration_ms": 172857,
+      "name": "wegen dir.",
+      "url": "https://open.spotify.com/track/0V9tCM5tGcNicWoytK8D5o"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -931,6 +915,22 @@
       "duration_ms": 111206,
       "name": "Mach die Augen auf",
       "url": "https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "6 Kugeln",
+        "url": "https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 184877,
+      "name": "6 Kugeln",
+      "url": "https://open.spotify.com/track/7bFQISsrghalrVI3BbPXs2"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "Meilen",
-        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 139920,
-      "name": "Meilen",
-      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "wie du manchmal fehlst",
         "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 131773,
       "name": "wie du manchmal fehlst",
       "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "Meilen",
+        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 139920,
+      "name": "Meilen",
+      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "PECH",
-        "url": "https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "duration_ms": 139012,
-      "name": "Ohne Dach",
-      "url": "https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "Wenn der Himmel weint",
         "url": "https://open.spotify.com/album/32JXAbcmBvvZRJSCSsKQwJ"
       },
@@ -1091,6 +1075,26 @@
       "duration_ms": 128641,
       "name": "Wenn der Himmel weint",
       "url": "https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "Mann vom Fach",
+        "url": "https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "duration_ms": 160813,
+      "name": "Mann vom Fach",
+      "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1131,62 +1135,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "WAS ICH BIN",
-        "url": "https://open.spotify.com/album/2eqpPfHpit3GmkMsbUHujt"
-      },
-      "artists": [
-        {
-          "name": "FAYAN",
-          "url": "https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF"
-        },
-        {
-          "name": "Dalton",
-          "url": "https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk"
-        }
-      ],
-      "duration_ms": 129023,
-      "name": "WAS ICH BIN",
-      "url": "https://open.spotify.com/track/7syy0KIJDEXson69rGXK35"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "Mann vom Fach",
-        "url": "https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        },
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        }
-      ],
-      "duration_ms": 160813,
-      "name": "Mann vom Fach",
-      "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "Dunya",
-        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
-      },
-      "artists": [
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 174745,
-      "name": "Dunya",
-      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "Ich liebe.... (feat. MAJAN)",
         "url": "https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj"
       },
@@ -1215,18 +1163,34 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "OHNE DICH",
-        "url": "https://open.spotify.com/album/4Pmcl0b76Ka2AOEce4KXcO"
+        "name": "Dunya",
+        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
       },
       "artists": [
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
         }
       ],
-      "duration_ms": 175218,
-      "name": "OHNE DICH",
-      "url": "https://open.spotify.com/track/7x0s3muKqhVtxqXpk9RhvR"
+      "duration_ms": 174745,
+      "name": "Dunya",
+      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "PECH",
+        "url": "https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "duration_ms": 139012,
+      "name": "Ohne Dach",
+      "url": "https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1259,6 +1223,42 @@
       "duration_ms": 177208,
       "name": "Weisse Orchideen",
       "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "WAS ICH BIN",
+        "url": "https://open.spotify.com/album/2eqpPfHpit3GmkMsbUHujt"
+      },
+      "artists": [
+        {
+          "name": "FAYAN",
+          "url": "https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF"
+        },
+        {
+          "name": "Dalton",
+          "url": "https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk"
+        }
+      ],
+      "duration_ms": 129023,
+      "name": "WAS ICH BIN",
+      "url": "https://open.spotify.com/track/7syy0KIJDEXson69rGXK35"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "OHNE DICH",
+        "url": "https://open.spotify.com/album/4Pmcl0b76Ka2AOEce4KXcO"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 175218,
+      "name": "OHNE DICH",
+      "url": "https://open.spotify.com/track/7x0s3muKqhVtxqXpk9RhvR"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1443,6 +1443,42 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
+        "name": "Weg zu weit",
+        "url": "https://open.spotify.com/album/3qZ5Mp7tGNKbQhPEAnI3ag"
+      },
+      "artists": [
+        {
+          "name": "Paves 16",
+          "url": "https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM"
+        }
+      ],
+      "duration_ms": 151999,
+      "name": "Weg zu weit",
+      "url": "https://open.spotify.com/track/5lOM8wfa2HMTqFYO39ADCX"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "Gesegnet",
+        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 191450,
+      "name": "Gesegnet",
+      "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
@@ -1471,42 +1507,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "Gesegnet",
-        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 191450,
-      "name": "Gesegnet",
-      "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "Weg zu weit",
-        "url": "https://open.spotify.com/album/3qZ5Mp7tGNKbQhPEAnI3ag"
-      },
-      "artists": [
-        {
-          "name": "Paves 16",
-          "url": "https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM"
-        }
-      ],
-      "duration_ms": 151999,
-      "name": "Weg zu weit",
-      "url": "https://open.spotify.com/track/5lOM8wfa2HMTqFYO39ADCX"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "Eh zu kurz",
         "url": "https://open.spotify.com/album/6fDwn30tXqPNrSypjqPh0G"
       },
@@ -1523,6 +1523,26 @@
       "duration_ms": 144120,
       "name": "Eh zu kurz",
       "url": "https://open.spotify.com/track/29ubUu1EekkAvy3H2hxNNC"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "Alice Stark",
+          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1583,26 +1603,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        },
-        {
-          "name": "Alice Stark",
-          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "Bladerunner",
         "url": "https://open.spotify.com/album/60fRRwprifz4WrxAX400un"
       },
@@ -1651,22 +1651,6 @@
       "duration_ms": 195692,
       "name": "Therapie",
       "url": "https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "Magnolien",
-        "url": "https://open.spotify.com/album/0QRux57iIy0pHXAZWyAgfD"
-      },
-      "artists": [
-        {
-          "name": "Disarstar",
-          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
-        }
-      ],
-      "duration_ms": 146688,
-      "name": "Magnolien",
-      "url": "https://open.spotify.com/track/0wUwQ9bJiWsOVYwLtokobO"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1723,6 +1707,22 @@
       "duration_ms": 159500,
       "name": "WENN DU MICH SIEHST",
       "url": "https://open.spotify.com/track/6cT1JGlT1HZaRZLzq3iHjA"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "Magnolien",
+        "url": "https://open.spotify.com/album/0QRux57iIy0pHXAZWyAgfD"
+      },
+      "artists": [
+        {
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        }
+      ],
+      "duration_ms": 146688,
+      "name": "Magnolien",
+      "url": "https://open.spotify.com/track/0wUwQ9bJiWsOVYwLtokobO"
     },
     {
       "added_at": "2026-06-11 22:00:53",

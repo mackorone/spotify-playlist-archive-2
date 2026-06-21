@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13989,
+  "num_followers": 13990,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAADmgXxNtRd1DrNHDvVWCTM7",
+  "snapshot_id": "ajSGgAAAAAARiCWgiZshnDx6vtwSeNom",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "el silencio",
-        "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 218217,
-      "name": "el silencio",
-      "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KOR KOR LAKE",
         "url": "https://open.spotify.com/album/5oAqoeVSSkUgq52mNXfppk"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 193120,
       "name": "Quiero Estar",
       "url": "https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "el silencio",
+        "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 218217,
+      "name": "el silencio",
+      "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
     },
     {
       "added_at": null,
@@ -387,22 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u307e\u305f\u540c\u3058\u65e5",
-        "url": "https://open.spotify.com/album/6cVWLxrUKoczPWr0wFYgsL"
+        "name": "Aroma A Nostalgia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
         },
         {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 145705,
-      "name": "\u307e\u305f\u540c\u3058\u65e5",
-      "url": "https://open.spotify.com/track/3P1zpNFH8PFA2FAVv8x7C9"
+      "duration_ms": 351413,
+      "name": "Otros Colores",
+      "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
     },
     {
       "added_at": null,
@@ -455,22 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aroma A Nostalgia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ"
+        "name": "\u307e\u305f\u540c\u3058\u65e5",
+        "url": "https://open.spotify.com/album/6cVWLxrUKoczPWr0wFYgsL"
       },
       "artists": [
         {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        },
-        {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
         }
       ],
-      "duration_ms": 351413,
-      "name": "Otros Colores",
-      "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
+      "duration_ms": 145705,
+      "name": "\u307e\u305f\u540c\u3058\u65e5",
+      "url": "https://open.spotify.com/track/3P1zpNFH8PFA2FAVv8x7C9"
     },
     {
       "added_at": null,

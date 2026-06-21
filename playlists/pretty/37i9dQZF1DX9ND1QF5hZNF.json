@@ -1,12 +1,12 @@
 {
   "description": "Evadez-vous tout en douceur...",
-  "num_followers": 753506,
+  "num_followers": 753632,
   "original_name": "Electro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ+by8Glnm5w9Mg5DvyPfuMLmf5O",
+  "snapshot_id": "AAAAAGH9O9kXoZgaspq0T6aRb3mernK6",
   "tracks": [
     {
       "added_at": "2026-06-19 12:54:15",
@@ -179,26 +179,6 @@
     {
       "added_at": "2026-06-19 12:54:15",
       "album": {
-        "name": "Love Story - Indila Remix",
-        "url": "https://open.spotify.com/album/465JtjlOIgA68GRNz7Obcs"
-      },
-      "artists": [
-        {
-          "name": "Mark Diaz",
-          "url": "https://open.spotify.com/artist/49IR3RCQ4ihqBooEeK3ABq"
-        },
-        {
-          "name": "Indila",
-          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
-        }
-      ],
-      "duration_ms": 302509,
-      "name": "Love Story - Indila Remix",
-      "url": "https://open.spotify.com/track/7s5MyB83DXEcFcugi88Mjl"
-    },
-    {
-      "added_at": "2026-06-19 12:54:15",
-      "album": {
         "name": "Sunset In Pretoria",
         "url": "https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 238032,
       "name": "Sunset In Pretoria",
       "url": "https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai"
+    },
+    {
+      "added_at": "2026-06-19 12:54:15",
+      "album": {
+        "name": "Love Story - Indila Remix",
+        "url": "https://open.spotify.com/album/465JtjlOIgA68GRNz7Obcs"
+      },
+      "artists": [
+        {
+          "name": "Mark Diaz",
+          "url": "https://open.spotify.com/artist/49IR3RCQ4ihqBooEeK3ABq"
+        },
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        }
+      ],
+      "duration_ms": 302509,
+      "name": "Love Story - Indila Remix",
+      "url": "https://open.spotify.com/track/7s5MyB83DXEcFcugi88Mjl"
     },
     {
       "added_at": "2026-06-19 12:54:15",

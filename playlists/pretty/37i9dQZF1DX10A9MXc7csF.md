@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Los Lara 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,579 likes - 88 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,576 likes - 88 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 87 | [Mi Todo Que Dar](https://open.spotify.com/track/10S72dKdPOOn7tWWUo4Mte) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Mi Todo Que Dar](https://open.spotify.com/album/62J67rBV8L9rVZSLppm6aH) | 3:00 |
 | 88 | [ALTAR](https://open.spotify.com/track/3hcY5rLPNGs1HV4oxlMAFn) | [Martin Beltran](https://open.spotify.com/artist/7oKwuamCT99LkJECNqSUtR) | [ALTAR](https://open.spotify.com/album/52TSCOj0T7HiqVwE3FXrW1) | 2:51 |
 
-Snapshot ID: `AAAAALl35h6uy9TGF/KmjSl2Kxh1BWoF`
+Snapshot ID: `AAAAAP7a+YlHbqWaVsN124JWut2IO+sD`

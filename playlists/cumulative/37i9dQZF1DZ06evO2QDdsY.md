@@ -4,14 +4,14 @@
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 28 min
+100 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't Gonna Let Nobody Turn Me 'Round](https://open.spotify.com/track/4cBLEBRM8SqBlZ9o6JKie3) | [Paula Boggs Band](https://open.spotify.com/artist/00vtUBkRansXWuoZ8XBTjv), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Ain't Gonna Let Nobody Turn Me 'Round](https://open.spotify.com/album/0vKVm6BzOYeKcjBXmeyBNL) | 2:49 | 2026-03-01 | 2026-06-02 |
 | [All I Really Wanna Do](https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:43 | 2025-04-13 |  |
 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 | 2022-09-16 |  |
-| [Big Dream](https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN) | 2:23 | 2024-10-28 |  |
+| [Big Dream](https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN) | 2:23 | 2024-10-28 | 2026-06-21 |
 | [Big Dream](https://open.spotify.com/track/5lo4zC5rGaW50u2vWOAmRK) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Big Dream](https://open.spotify.com/album/4tDLw9FLXRaZI2VFk6iP1F) | 2:23 | 2024-03-21 | 2024-10-28 |
 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl) | 3:43 | 2023-01-03 | 2024-03-17 |
 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/4nNft158MTJ5fbbPt0tb2l) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:43 | 2022-09-16 |  |
@@ -63,6 +63,7 @@
 | [Pink Moon](https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 2:25 | 2022-09-16 |  |
 | [Pushin’ Against A Stone](https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 5:14 | 2022-09-18 |  |
 | [Rain Dance](https://open.spotify.com/track/0NyLQvtPwo19usBXekOgbs) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 2:47 | 2023-11-10 | 2025-01-15 |
+| [Reclaim All Of Your Time \(feat\. Valerie June and Wynonna\)](https://open.spotify.com/track/6VMrXWENo5E7PbIb2cVGfH) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [The Story of Michael and Tanya](https://open.spotify.com/album/4DsL4fp1EBMXavK10WxBkl) | 4:08 | 2026-06-21 |  |
 | [Rollin’ and Tumblin’](https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Rollin' and Tumblin'](https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1) | 3:28 | 2025-11-14 |  |
 | [Rudolph, the Red\-Nosed Reindeer](https://open.spotify.com/track/2mm8ljAmffVasjOkWVIgfW) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Gifts, Presents, and Treats from Valerie June](https://open.spotify.com/album/60XcRMgP7sDsFnXPctWmVb) | 1:46 | 2024-11-17 | 2024-12-15 |
 | [Runnin' and Searchin'](https://open.spotify.com/track/1WVXw5ovf3sTglDGnaSS91) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Runnin' and Searchin'](https://open.spotify.com/album/3eBwjqDE4nQ6MTcgCXh4nI) | 3:06 | 2025-10-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1639601,
+  "num_followers": 1639863,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALaMdEU/vbBqqcVJSDOtq69qSDp3",
+  "snapshot_id": "AAAAAGpDgckGU2TwS/3Klq5/G8Odd84u",
   "tracks": [
     {
       "added_at": "2026-06-11 16:08:55",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-06-11 16:08:55",
       "album": {
+        "name": "The Lost Soul Down (Slowed & Reverb)",
+        "url": "https://open.spotify.com/album/2nQUgF7PdSKzKOIagdHeqk"
+      },
+      "artists": [
+        {
+          "name": "NBSPLV",
+          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
+        }
+      ],
+      "duration_ms": 241111,
+      "name": "The Lost Soul Down - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw"
+    },
+    {
+      "added_at": "2026-06-11 16:08:55",
+      "album": {
         "name": "snowfall (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 150660,
       "name": "snowfall (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E"
-    },
-    {
-      "added_at": "2026-06-11 16:08:55",
-      "album": {
-        "name": "The Lost Soul Down (Slowed & Reverb)",
-        "url": "https://open.spotify.com/album/2nQUgF7PdSKzKOIagdHeqk"
-      },
-      "artists": [
-        {
-          "name": "NBSPLV",
-          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
-        }
-      ],
-      "duration_ms": 241111,
-      "name": "The Lost Soul Down - Slowed & Reverb",
-      "url": "https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw"
     },
     {
       "added_at": "2026-06-11 16:08:55",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-06-11 16:08:55",
       "album": {
-        "name": "WASTE",
-        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
-      },
-      "artists": [
-        {
-          "name": "KXLLSWXTCH",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "WASTE - Slowed Version",
-      "url": "https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI"
-    },
-    {
-      "added_at": "2026-06-11 16:08:55",
-      "album": {
         "name": "Never Let Go (Of Me) [Heist Edit]",
         "url": "https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 94028,
       "name": "Never Let Go (Of Me) - Slowed",
       "url": "https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK"
+    },
+    {
+      "added_at": "2026-06-11 16:08:55",
+      "album": {
+        "name": "WASTE",
+        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
+      },
+      "artists": [
+        {
+          "name": "KXLLSWXTCH",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "WASTE - Slowed Version",
+      "url": "https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI"
     },
     {
       "added_at": "2026-06-11 16:08:55",

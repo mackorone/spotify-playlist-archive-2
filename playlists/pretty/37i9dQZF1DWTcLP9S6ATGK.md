@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Timun Jelita
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,933 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,929 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 42 | [Bahagia Lagi](https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5) | [Piche Kota](https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM) | [Bahagia Lagi](https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX) | 3:47 |
 | 43 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 |
 | 44 | [Stop Bilang Iya](https://open.spotify.com/track/6Klr3EiAe7M0djc2eEx5fZ) | [DIKTA.](https://open.spotify.com/artist/5wRhCuhUmcR8EIpyud29nE) | [Unapologetic](https://open.spotify.com/album/6L4krj81zS3DzFJIBGbm3G) | 3:46 |
-| 45 | [Iqro'](https://open.spotify.com/track/1w0tQpNChqgM7oBWsV3erJ) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Iqro'](https://open.spotify.com/album/1tfOH9j7lcUsCMByB3j6RC) | 3:54 |
+| 45 | [iqro'](https://open.spotify.com/track/1w0tQpNChqgM7oBWsV3erJ) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Iqro'](https://open.spotify.com/album/1tfOH9j7lcUsCMByB3j6RC) | 3:54 |
 | 46 | [1000X](https://open.spotify.com/track/6ze1gnRU4GZVroIjLG68cX) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [1000X](https://open.spotify.com/album/6Af2yNV7t9ThcHfYboQLQN) | 4:12 |
 | 47 | [Hopeless Romantic](https://open.spotify.com/track/3xZvo0d7OAtzyBraUW4g2X) | [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui), [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [Hopeless Romantic](https://open.spotify.com/album/2YKlXbPogsdk61LAzCDphh) | 3:38 |
 | 48 | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/track/4m1rVxDrvVEsQlN7qw8WV2) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy) | 4:05 |

@@ -1,6 +1,6 @@
 {
   "description": "a strictly smooth mood...cover: Tems",
-  "num_followers": 207855,
+  "num_followers": 207860,
   "original_name": "Raw Silk ",
   "owner": {
     "name": "Spotify",
@@ -305,6 +305,22 @@
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
+      "added_at": "2026-06-11 14:00:36",
+      "album": {
+        "name": "Drop The Lo",
+        "url": "https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 161470,
+      "name": "Drop The Lo",
+      "url": "https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh"
+    },
+    {
       "added_at": "2026-03-06 05:47:45",
       "album": {
         "name": "REAL, Vol. 1",
@@ -323,22 +339,6 @@
       "duration_ms": 145492,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
-    },
-    {
-      "added_at": "2026-06-11 14:00:36",
-      "album": {
-        "name": "Drop The Lo",
-        "url": "https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 161470,
-      "name": "Drop The Lo",
-      "url": "https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh"
     },
     {
       "added_at": "2026-04-23 14:00:49",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-03-06 05:47:45",
       "album": {
-        "name": "Sincerely,",
-        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187455,
-      "name": "All I Can Say",
-      "url": "https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ"
-    },
-    {
-      "added_at": "2026-03-06 05:47:45",
-      "album": {
         "name": "Late Nights: The Album",
         "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
@@ -639,6 +623,38 @@
       "duration_ms": 245520,
       "name": "Impatient",
       "url": "https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ"
+    },
+    {
+      "added_at": "2026-03-06 05:47:45",
+      "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187455,
+      "name": "All I Can Say",
+      "url": "https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ"
+    },
+    {
+      "added_at": "2026-06-11 14:00:36",
+      "album": {
+        "name": "Don\u2019t Break Her Heart",
+        "url": "https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Don\u2019t Break Her Heart",
+      "url": "https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6"
     },
     {
       "added_at": "2026-03-06 05:47:45",
@@ -663,22 +679,6 @@
       "duration_ms": 226546,
       "name": "Ensalada (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28"
-    },
-    {
-      "added_at": "2026-06-11 14:00:36",
-      "album": {
-        "name": "Don\u2019t Break Her Heart",
-        "url": "https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 224920,
-      "name": "Don\u2019t Break Her Heart",
-      "url": "https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6"
     },
     {
       "added_at": "2026-03-06 05:47:45",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-03-06 05:47:45",
       "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 378733,
+      "name": "Cherry Pie",
+      "url": "https://open.spotify.com/track/3b0rbuHtD50p1gmfYeKCom"
+    },
+    {
+      "added_at": "2026-03-06 05:47:45",
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 180563,
       "name": "attention (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
-    },
-    {
-      "added_at": "2026-03-06 05:47:45",
-      "album": {
-        "name": "Diamond Life",
-        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 378733,
-      "name": "Cherry Pie",
-      "url": "https://open.spotify.com/track/3b0rbuHtD50p1gmfYeKCom"
     },
     {
       "added_at": "2026-03-06 05:47:45",

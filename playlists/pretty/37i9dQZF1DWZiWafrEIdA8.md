@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,871 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,882 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 36 | [Trip](https://open.spotify.com/track/1Z8I2cvV9JQZqB1YA0O3PY) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Hannah](https://open.spotify.com/artist/2XHuhBOiADOIR91vFkNq6Q) | [Trip](https://open.spotify.com/album/5xMDM5NhrHaiQ9yrcf7uKj) | 3:53 |
 | 37 | [Wifey](https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Wifey](https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0) | 2:04 |
 | 38 | [비누](https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [비누](https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs) | 3:02 |
-| 39 | [Fear](https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Show Me the Money 4 Episode 5](https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr) | 4:09 |
-| 40 | [ISLAND](https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [ISLAND](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) | 3:17 |
+| 39 | [ISLAND](https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [ISLAND](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) | 3:17 |
+| 40 | [Fear](https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Show Me the Money 4 Episode 5](https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr) | 4:09 |
 | 41 | [Never Ending Story \(Feat\. Dynamicduo\)](https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [TOYSTORY3](https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy) | 3:54 |
 | 42 | [Good Night \(Feat\. BE'O\)](https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [RE:UP](https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h) | 3:10 |
 | 43 | [Transcend \(Feat\. C JAMM\)](https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [The Movie Star](https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi) | 3:40 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 45 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
 | 46 | [It's Gone](https://open.spotify.com/track/5XDzUSWmrlz4MfogZ0salh) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Welcome to the Kicako House](https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy) | 4:29 |
 | 47 | [365&7 \(Feat\. JAMIE\)](https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [365&7](https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL) | 2:49 |
-| 48 | [I BE LIKE \(Feat\. SOLE\)](https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [UNSTEADY](https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz) | 3:04 |
-| 49 | [After a few summers \(My love X TOIL, Gist\)](https://open.spotify.com/track/2883Ewc2bLnXl77u6sANcP) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [After a few summers \(My love X TOIL, Gist\)](https://open.spotify.com/album/19acTbCpIgNX3KtBSzyQJA) | 2:57 |
+| 48 | [After a few summers \(My love X TOIL, Gist\)](https://open.spotify.com/track/2883Ewc2bLnXl77u6sANcP) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [After a few summers \(My love X TOIL, Gist\)](https://open.spotify.com/album/19acTbCpIgNX3KtBSzyQJA) | 2:57 |
+| 49 | [I BE LIKE \(Feat\. SOLE\)](https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [UNSTEADY](https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz) | 3:04 |
 | 50 | [Action! \(Feat\. GRAY\)](https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Action!](https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw) | 3:10 |
 
 Snapshot ID: `AAAAACEkx2MOoEG9JjWeZ3K70QdyyH9/`

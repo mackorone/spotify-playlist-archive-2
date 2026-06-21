@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 365055,
+  "num_followers": 365095,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "I Chose Wrong",
-        "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "I Chose Wrong",
-      "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "DaFuture Is Now",
         "url": "https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 171428,
       "name": "Sunset On The Shore",
       "url": "https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "I Chose Wrong",
+        "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "I Chose Wrong",
+      "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        }
-      ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Glimmer / Change",
         "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 215125,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        }
+      ],
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 269752,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "You Can't Run",
         "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 201142,
       "name": "You Can't Run",
       "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 269752,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "SAILORSATURDAYS",
-        "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
-      },
-      "artists": [
-        {
-          "name": "Kokonoku",
-          "url": "https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "SAILORSATURDAYS",
-      "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "CHEESECAKE+",
         "url": "https://open.spotify.com/album/2W1BtAraV5SGikigCgD8qO"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 259673,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/1tr1iSUzaqoxf8GjnG3XtH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "SAILORSATURDAYS",
+        "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
+      },
+      "artists": [
+        {
+          "name": "Kokonoku",
+          "url": "https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "SAILORSATURDAYS",
+      "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Notilde Tapes, Vol. 1",
-        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
-      },
-      "artists": [
-        {
-          "name": "Pop Up!",
-          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
-        }
-      ],
-      "duration_ms": 230655,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "\u4e2d\u5c71\u7f8e\u7a42 - Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
         "url": "https://open.spotify.com/album/3vDZoLb3zibICoeWzbeXXk"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 271793,
       "name": "CATCH ME (Night Tempo Showa Groove Mix)",
       "url": "https://open.spotify.com/track/6fEFEteEyD5ZCsh7KBl1tK"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Notilde Tapes, Vol. 1",
+        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
+      },
+      "artists": [
+        {
+          "name": "Pop Up!",
+          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
+        }
+      ],
+      "duration_ms": 230655,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki"
-      },
-      "artists": [
-        {
-          "name": "Versiple",
-          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
-        }
-      ],
-      "duration_ms": 303148,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "ICE CREAM",
         "url": "https://open.spotify.com/album/2U297DcmJRXYW0eOrgiSsF"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 161280,
       "name": "Sometime's He's Pretty",
       "url": "https://open.spotify.com/track/3nCA4kWJIZ5laYZHWIbzSU"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki"
+      },
+      "artists": [
+        {
+          "name": "Versiple",
+          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
+        }
+      ],
+      "duration_ms": 303148,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
     },
     {
       "added_at": "2023-07-18 02:21:29",

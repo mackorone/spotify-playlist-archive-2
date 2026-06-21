@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n">dance hits</a>, with Aluna & Riordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,830,412 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,830,245 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 14 | [The Wave](https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [The Wave](https://open.spotify.com/album/1Hlt6ok7aP4iHmQKIgrh3W) | 2:45 |
 | 15 | [that's my beach!](https://open.spotify.com/track/1MtlL1N2wTI08qiMjcwEu7) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [that's my beach!](https://open.spotify.com/album/5k7qkM1p2MhUi4ES3uTtd6) | 3:18 |
 | 16 | [I Never Knew](https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [I Never Knew](https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r) | 3:51 |
-| 17 | [Why Does It \(With Jozzy\)](https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Why Does It \(With Jozzy\)](https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm) | 2:54 |
+| 17 | [Why Does It](https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Why Does It](https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm) | 2:54 |
 | 18 | [Joy Without Sound](https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Joy Without Sound](https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy) | 3:15 |
 | 19 | [Beautiful Noise In My Head](https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Beautiful Noise In My Head](https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N) | 3:31 |
 | 20 | [Calling Out For U](https://open.spotify.com/track/7yal3wkT7U1BEDdKW9dZ9V) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [U](https://open.spotify.com/album/7q301yxHP0Ct6EmfRO88FK) | 3:03 |

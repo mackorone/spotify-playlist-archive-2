@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-786 songs - 1 day 14 hr 3 min
+787 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Catch Up!](https://open.spotify.com/track/6Ckhwztz0nfuS4XIZNpLeC) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Catch Up! // Lights](https://open.spotify.com/album/0nf3qQAlrY59xIDSV4ug7f) | 2:37 | 2023-06-30 | 2023-11-10 |
 | [Catch\-22](https://open.spotify.com/track/3Rs7oJOhAAqqyouYBYFQ18) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0), [Gabbie](https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3) | [Catch\-22](https://open.spotify.com/album/0ESSUNRDWfFE7oaqpjTaUV) | 3:01 | 2022-10-13 | 2023-03-18 |
 | [Caterpillar](https://open.spotify.com/track/0UYnnfZV0qVoYspA88nYSi) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [The Kazez](https://open.spotify.com/artist/64LWPt0A50JOTxHxurU5tN) | [Caterpillar](https://open.spotify.com/album/5fuqTYBeqn9qfQvOcIzO7h) | 2:20 | 2026-02-13 | 2026-03-17 |
-| [Celine](https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Celine](https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt) | 3:01 | 2026-03-27 |  |
+| [Celine](https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Celine](https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt) | 3:01 | 2026-03-27 | 2026-06-21 |
 | [Celine Dion](https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Celine Dion](https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4) | 3:09 | 2024-02-02 | 2024-10-05 |
 | [Chameleon](https://open.spotify.com/track/1GyQqn8Oc9h9TaBO7GaNj6) | [UCHE](https://open.spotify.com/artist/2btRDq0MHpAfXJREWx4Xzs), [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [Chameleon](https://open.spotify.com/album/0E5ET00DfPmrnOLzGLBlj9) | 3:00 | 2024-03-08 | 2024-04-26 |
 | [Champion](https://open.spotify.com/track/7r5uo3FG4UORf7hvN7TpbY) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Champion](https://open.spotify.com/album/1HAzzCe55dg421b4DmbKXp) | 3:02 | 2026-05-08 | 2026-05-15 |
@@ -413,6 +413,7 @@
 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2023-03-30 | 2023-12-10 |
 | [Mad](https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Diamond & Roses](https://open.spotify.com/album/3MVPTFnmsgLu4rvruGwAGf) | 2:39 | 2024-10-25 | 2024-11-22 |
 | [Mademoiselle \(feat\. ODUMODUBLVCK, Shallipopi, Theodora, Zeina\)](https://open.spotify.com/track/1iYBlO1RGEFeDnG3AH4gUE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:51 | 2025-10-08 | 2026-05-15 |
+| [MAGAA](https://open.spotify.com/track/1uXIywdXW2eaFnD3zJbfpl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [MAGAA](https://open.spotify.com/album/10BL9nd3OGaX5s47NWNIPA) | 3:01 | 2026-06-19 |  |
 | [MAGIC](https://open.spotify.com/track/4xAq1L431CBEpYit2yBY48) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [MAGIC](https://open.spotify.com/album/0g3F9EhMbH36hZUO3iSskb) | 2:57 | 2025-10-24 | 2026-04-03 |
 | [Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Before We Became Strangers](https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte) | 3:30 | 2025-07-04 | 2026-05-22 |
 | [Make Sense](https://open.spotify.com/track/4V5ewWUvecAPHQmgZ1TPQJ) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 3:09 | 2023-06-02 | 2024-01-31 |

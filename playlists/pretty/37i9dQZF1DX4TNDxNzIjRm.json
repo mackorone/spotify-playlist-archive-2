@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1287247,
+  "num_followers": 1287106,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "2+2",
-        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 198300,
-      "name": "2+2",
-      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
         "name": "POR SI ALGUIEN NOS ESCUCHA",
         "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 193386,
       "name": "D\u00d3NDE",
       "url": "https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
+        "name": "2+2",
+        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 198300,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/3bxnH77ofJYkCpBq97YVAg"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
         "name": "HASTA QUE ME ENAMORO",
         "url": "https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 180881,
       "name": "HASTA QUE ME ENAMORO",
       "url": "https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/3bxnH77ofJYkCpBq97YVAg"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "SELEDA.",
-        "url": "https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 131388,
-      "name": "SELEDA.",
-      "url": "https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
         "name": "MALPORTADA",
         "url": "https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG"
       },
@@ -2103,22 +2087,18 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets"
+        "name": "SELEDA.",
+        "url": "https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq"
       },
       "artists": [
         {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 264000,
-      "name": "EN LA DE ELLA",
-      "url": "https://open.spotify.com/track/00YJIj59W08LVdfTDZpHrg"
+      "duration_ms": 131388,
+      "name": "SELEDA.",
+      "url": "https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -2139,6 +2119,26 @@
       "duration_ms": 162245,
       "name": "pasarella \ud83d\udc60",
       "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "EN LA DE ELLA",
+      "url": "https://open.spotify.com/track/00YJIj59W08LVdfTDZpHrg"
     },
     {
       "added_at": "2026-03-18 17:58:35",

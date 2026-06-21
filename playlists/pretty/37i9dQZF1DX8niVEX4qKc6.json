@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Camila Buch",
-  "num_followers": 193386,
+  "num_followers": 193381,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "LA CUEVA",
-        "url": "https://open.spotify.com/album/26dJWqDIdIY9iAmntxjOiR"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 164318,
-      "name": "LA CUEVA",
-      "url": "https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 294146,
       "name": "Entre Canibales - MTV Unplugged",
       "url": "https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "LA CUEVA",
+        "url": "https://open.spotify.com/album/26dJWqDIdIY9iAmntxjOiR"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 164318,
+      "name": "LA CUEVA",
+      "url": "https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 198650,
-      "name": "Lara",
-      "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 267866,
       "name": "Fanky - Live",
       "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 198650,
+      "name": "Lara",
+      "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+        "name": "Celesteacustica",
+        "url": "https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+        },
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
         }
       ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+      "duration_ms": 233826,
+      "name": "Una Canci\u00f3n Diferente",
+      "url": "https://open.spotify.com/track/15JIAJtVW9FJe7q9BYIAsE"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1167,22 +1171,18 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Celesteacustica",
-        "url": "https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe"
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
       },
       "artists": [
         {
-          "name": "Celeste Carballo",
-          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
-        },
-        {
-          "name": "Juanse",
-          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 233826,
-      "name": "Una Canci\u00f3n Diferente",
-      "url": "https://open.spotify.com/track/15JIAJtVW9FJe7q9BYIAsE"
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Mil Mensajes",
-        "url": "https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo"
-      },
-      "artists": [
-        {
-          "name": "Salvapantallas",
-          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Mil Mensajes",
-      "url": "https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Congelamiento Global",
-        "url": "https://open.spotify.com/album/1zRInmv573tV80Asz4zYZJ"
+        "name": "Mil Mensajes",
+        "url": "https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo"
       },
       "artists": [
         {
-          "name": "Doble Valentina",
-          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
         }
       ],
-      "duration_ms": 185644,
-      "name": "Amar No Est\u00e1 de Moda",
-      "url": "https://open.spotify.com/track/6oS9syceL1xhMagN948BFn"
+      "duration_ms": 202500,
+      "name": "Mil Mensajes",
+      "url": "https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1363,6 +1347,22 @@
       "duration_ms": 204540,
       "name": "Seminare",
       "url": "https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Congelamiento Global",
+        "url": "https://open.spotify.com/album/1zRInmv573tV80Asz4zYZJ"
+      },
+      "artists": [
+        {
+          "name": "Doble Valentina",
+          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
+        }
+      ],
+      "duration_ms": 185644,
+      "name": "Amar No Est\u00e1 de Moda",
+      "url": "https://open.spotify.com/track/6oS9syceL1xhMagN948BFn"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 173209,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "De Mi Flor",
         "url": "https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 221651,
       "name": "Campanas en la Noche - Versi\u00f3n Juan Jos\u00e9 Vasconcellos",
       "url": "https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 173209,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7"
     },
     {
       "added_at": "2026-05-04 15:21:51",

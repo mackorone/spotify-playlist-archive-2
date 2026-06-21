@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 203898,
+  "num_followers": 203917,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAC1jl2URcDSDO6KDX2YciYq",
+  "snapshot_id": "ajSGgAAAAAB07WW8fBMNykxfUay50CRO",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 118653,
-      "name": "You Gave Your Love To Me Softly",
-      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
+      "duration_ms": 164693,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
       "artists": [
         {
@@ -516,25 +516,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 164693,
-      "name": "Troublemaker",
-      "url": "https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "O Girlfriend",
-      "url": "https://open.spotify.com/track/1EYwaLwf6fdS3NIlTbUZ3X"
+      "duration_ms": 118653,
+      "name": "You Gave Your Love To Me Softly",
+      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "O Girlfriend",
+      "url": "https://open.spotify.com/track/1EYwaLwf6fdS3NIlTbUZ3X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Raditude (Deluxe)",
         "url": "https://open.spotify.com/album/6J2BJd3FQDDlh2ZjL6QIpF"
       },
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Will Be Alright In The End",
-        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+        "name": "Pacific Daydream",
+        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
       },
       "artists": [
         {
@@ -580,25 +580,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 169293,
-      "name": "I've Had It Up To Here",
-      "url": "https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Don't Let Go",
-      "url": "https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k"
+      "duration_ms": 195893,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
     },
     {
       "added_at": null,
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacific Daydream",
-        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
       "artists": [
         {
@@ -628,9 +612,25 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 195893,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
+      "duration_ms": 179533,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 169293,
+      "name": "I've Had It Up To Here",
+      "url": "https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694"
     },
     {
       "added_at": null,

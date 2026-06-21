@@ -1,6 +1,6 @@
 {
-  "description": "Pacific reggae, roots rockers. Relax, you're on island time. Cover: Te Wehi",
-  "num_followers": 132215,
+  "description": "Pacific reggae, roots rockers. Relax, you're on island time. Cover: SIX60",
+  "num_followers": 132223,
   "original_name": "Island Time",
   "owner": {
     "name": "Spotify",
@@ -323,8 +323,8 @@
     {
       "added_at": "2026-06-18 01:08:00",
       "album": {
-        "name": "Independence Day",
-        "url": "https://open.spotify.com/album/29Nx0v2T1WBGvO4ZewkxBT"
+        "name": "Born & Raised",
+        "url": "https://open.spotify.com/album/0J1lLuvXebQmFLwm1Vn7QM"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 233386,
-      "name": "Jowenna",
-      "url": "https://open.spotify.com/track/3b6WpyfDootGVWTPUQ38vH"
+      "duration_ms": 272377,
+      "name": "Sweet Darlin'",
+      "url": "https://open.spotify.com/track/16xm2K8WsZl4OBojftNxeV"
     },
     {
       "added_at": "2026-06-18 01:08:00",
@@ -407,8 +407,8 @@
     {
       "added_at": "2026-06-18 01:08:00",
       "album": {
-        "name": "Born & Raised",
-        "url": "https://open.spotify.com/album/0J1lLuvXebQmFLwm1Vn7QM"
+        "name": "Independence Day",
+        "url": "https://open.spotify.com/album/29Nx0v2T1WBGvO4ZewkxBT"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 272377,
-      "name": "Sweet Darlin'",
-      "url": "https://open.spotify.com/track/16xm2K8WsZl4OBojftNxeV"
+      "duration_ms": 233386,
+      "name": "Jowenna",
+      "url": "https://open.spotify.com/track/3b6WpyfDootGVWTPUQ38vH"
     },
     {
       "added_at": "2026-06-18 01:08:00",
@@ -659,6 +659,30 @@
     {
       "added_at": "2026-06-18 01:08:00",
       "album": {
+        "name": "Slow Ride",
+        "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 232444,
+      "name": "Slow Ride",
+      "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
+    },
+    {
+      "added_at": "2026-06-18 01:08:00",
+      "album": {
         "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
         "url": "https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e"
       },
@@ -683,30 +707,6 @@
       "duration_ms": 236434,
       "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
       "url": "https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se"
-    },
-    {
-      "added_at": "2026-06-18 01:08:00",
-      "album": {
-        "name": "Slow Ride",
-        "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 232444,
-      "name": "Slow Ride",
-      "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
     },
     {
       "added_at": "2026-06-18 01:08:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-06-18 01:08:00",
       "album": {
+        "name": "Lay Your Head",
+        "url": "https://open.spotify.com/album/2PeRnswqeVdWq82jOh91Gu"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 177150,
+      "name": "Lay Your Head",
+      "url": "https://open.spotify.com/track/3xhDVsfxKTzhhPjqPjaMP9"
+    },
+    {
+      "added_at": "2026-06-18 01:08:00",
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 206741,
       "name": "Goddess (with Shenseea)",
       "url": "https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV"
-    },
-    {
-      "added_at": "2026-06-18 01:08:00",
-      "album": {
-        "name": "Lay Your Head",
-        "url": "https://open.spotify.com/album/2PeRnswqeVdWq82jOh91Gu"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        }
-      ],
-      "duration_ms": 177150,
-      "name": "Lay Your Head",
-      "url": "https://open.spotify.com/track/3xhDVsfxKTzhhPjqPjaMP9"
     },
     {
       "added_at": "2026-06-18 01:08:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-06-18 01:08:00",
       "album": {
+        "name": "M\u0101ori Ki Te Ao",
+        "url": "https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg"
+      },
+      "artists": [
+        {
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        }
+      ],
+      "duration_ms": 200734,
+      "name": "M\u0101ori Ki Te Ao",
+      "url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz"
+    },
+    {
+      "added_at": "2026-06-18 01:08:00",
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H"
       },
@@ -867,18 +883,22 @@
     {
       "added_at": "2026-06-18 01:08:00",
       "album": {
-        "name": "M\u0101ori Ki Te Ao",
-        "url": "https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg"
+        "name": "What's Up",
+        "url": "https://open.spotify.com/album/4CS7k60oGImQ1J6tuUFQeg"
       },
       "artists": [
         {
-          "name": "Stan Walker",
-          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+          "name": "KUKI",
+          "url": "https://open.spotify.com/artist/0Ys93xAGNkGBgPuPxYpv49"
+        },
+        {
+          "name": "Canaan Ene",
+          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
         }
       ],
-      "duration_ms": 200734,
-      "name": "M\u0101ori Ki Te Ao",
-      "url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz"
+      "duration_ms": 278571,
+      "name": "What's Up",
+      "url": "https://open.spotify.com/track/0hb5i5zsp4hPA0WMXu3Kf7"
     },
     {
       "added_at": "2026-06-18 01:08:00",
@@ -915,26 +935,6 @@
       "duration_ms": 225000,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
-    },
-    {
-      "added_at": "2026-06-18 01:08:00",
-      "album": {
-        "name": "What's Up",
-        "url": "https://open.spotify.com/album/4CS7k60oGImQ1J6tuUFQeg"
-      },
-      "artists": [
-        {
-          "name": "KUKI",
-          "url": "https://open.spotify.com/artist/0Ys93xAGNkGBgPuPxYpv49"
-        },
-        {
-          "name": "Canaan Ene",
-          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
-        }
-      ],
-      "duration_ms": 278571,
-      "name": "What's Up",
-      "url": "https://open.spotify.com/track/0hb5i5zsp4hPA0WMXu3Kf7"
     },
     {
       "added_at": "2026-06-18 01:08:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-18 01:08:00",
       "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 212716,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto"
-    },
-    {
-      "added_at": "2026-06-18 01:08:00",
-      "album": {
         "name": "That's The Way It Is",
         "url": "https://open.spotify.com/album/6pbOzrWNjX71ImAKpJSlvu"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 231785,
       "name": "That's The Way It Is",
       "url": "https://open.spotify.com/track/7KqpvPegNT530G3nAIfZ49"
+    },
+    {
+      "added_at": "2026-06-18 01:08:00",
+      "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 212716,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto"
     },
     {
       "added_at": "2026-06-18 01:08:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-06-18 01:08:00",
       "album": {
-        "name": "For Love",
-        "url": "https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE"
+        "name": "Return to the Roots",
+        "url": "https://open.spotify.com/album/5aPo5ap8k9H0v3MNSgcI02"
       },
       "artists": [
         {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Higher Than the Clouds",
-      "url": "https://open.spotify.com/track/10FYvZSZLste16zITxpQND"
+      "duration_ms": 316972,
+      "name": "Kiss the Sky",
+      "url": "https://open.spotify.com/track/0lzJGFS25DUEXxiAMyl3Xm"
     },
     {
       "added_at": "2026-06-18 01:08:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-06-18 01:08:00",
       "album": {
-        "name": "Return to the Roots",
-        "url": "https://open.spotify.com/album/5aPo5ap8k9H0v3MNSgcI02"
+        "name": "Do You Care?",
+        "url": "https://open.spotify.com/album/7MAXSqq19PZlZVEri0mKcD"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "Te Wehi",
+          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
         }
       ],
-      "duration_ms": 316972,
-      "name": "Kiss the Sky",
-      "url": "https://open.spotify.com/track/0lzJGFS25DUEXxiAMyl3Xm"
+      "duration_ms": 188000,
+      "name": "Do You Care?",
+      "url": "https://open.spotify.com/track/0xfasSrCCUKOXkX4F2Z7gG"
     },
     {
       "added_at": "2026-06-18 01:08:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2026-06-18 01:08:00",
       "album": {
-        "name": "Do You Care?",
-        "url": "https://open.spotify.com/album/7MAXSqq19PZlZVEri0mKcD"
+        "name": "For Love",
+        "url": "https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE"
       },
       "artists": [
         {
-          "name": "Te Wehi",
-          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Do You Care?",
-      "url": "https://open.spotify.com/track/0xfasSrCCUKOXkX4F2Z7gG"
+      "duration_ms": 223000,
+      "name": "Higher Than the Clouds",
+      "url": "https://open.spotify.com/track/10FYvZSZLste16zITxpQND"
     },
     {
       "added_at": "2026-06-18 01:08:00",

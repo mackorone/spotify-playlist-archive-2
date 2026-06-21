@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "hey there [i have a compulsive complex]",
+        "url": "https://open.spotify.com/album/4hJczqZb7VUIigRIp8utjA"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173570,
+      "name": "hey there [i have a compulsive complex]",
+      "url": "https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS"
+    },
+    {
+      "album": {
         "name": "High Hopes 3000",
         "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
       },
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 138039,
       "name": "Something Inside Me",
       "url": "https://open.spotify.com/track/6d3T0nMjuKVyKdycqmExks"

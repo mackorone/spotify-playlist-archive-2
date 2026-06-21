@@ -1,33 +1,13 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 32057,
+  "num_followers": 32063,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAAwASUT717L8aZXzQ+kyx0c",
+  "snapshot_id": "ajSGgAAAAABNwkAwOgq1/HICJn/xRGxJ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Recuerdo Que Dej\u00f3",
-        "url": "https://open.spotify.com/album/4Up6tMrKw9p929MnHKVSdT"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        },
-        {
-          "name": "Pancho Uresti",
-          "url": "https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd"
-        }
-      ],
-      "duration_ms": 192535,
-      "name": "El Recuerdo Que Dej\u00f3",
-      "url": "https://open.spotify.com/track/3C48UbZIHMs5cItujTxxqD"
-    },
     {
       "added_at": null,
       "album": {
@@ -248,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 267626,
-      "name": "Primavera Azul",
-      "url": "https://open.spotify.com/track/23tkUf3GABPnRTakTBRAe0"
+      "duration_ms": 292800,
+      "name": "Perd\u00f3name La Vida",
+      "url": "https://open.spotify.com/track/02h7NruKCxxOhS1beuFCpP"
     },
     {
       "added_at": null,
@@ -312,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 292800,
-      "name": "Perd\u00f3name La Vida",
-      "url": "https://open.spotify.com/track/02h7NruKCxxOhS1beuFCpP"
+      "duration_ms": 267626,
+      "name": "Primavera Azul",
+      "url": "https://open.spotify.com/track/23tkUf3GABPnRTakTBRAe0"
     },
     {
       "added_at": null,

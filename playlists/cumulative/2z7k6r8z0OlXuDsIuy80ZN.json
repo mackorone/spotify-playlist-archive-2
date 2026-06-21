@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-15",
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical en la \u00fanica e inimitable lista de LOS40! Actualizamos cada s\u00e1bado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar. Escucha a Taylor Swift, Rosal\u00eda, Rels B, HUNTR/X, y muchos m\u00e1s",
-  "name": "Lista de LOS40 (Oficial) - Tame Impala y Jennie en el N\u00ba1",
+  "name": "Lista de LOS40 (Oficial) - Quevedo y Elvis Crespo en el N\u00ba1",
   "tracks": [
     {
       "album": {
@@ -1080,6 +1080,24 @@
       "duration_ms": 164441,
       "name": "Butter",
       "url": "https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN"
+    },
+    {
+      "album": {
+        "name": "Historias de Aquella Ni\u00f1a",
+        "url": "https://open.spotify.com/album/4RXLf8KuQeXTONnsqerj33"
+      },
+      "artists": [
+        {
+          "name": "Leire Martinez",
+          "url": "https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172960,
+      "name": "Cabeza de rat\u00f3n",
+      "url": "https://open.spotify.com/track/1GzAqXWNGZpvrrDdUlhWfi"
     },
     {
       "album": {
@@ -2934,7 +2952,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -5724,7 +5742,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 190966,
       "name": "puzzle",
       "url": "https://open.spotify.com/track/3cZsGX3upHnsPfgKL7HneG"
@@ -5852,6 +5870,24 @@
       "duration_ms": 183898,
       "name": "Qui\u00e9n Dir\u00eda",
       "url": "https://open.spotify.com/track/0Fd3900xH77g0ARXQjtYvV"
+    },
+    {
+      "album": {
+        "name": "love love FLAKK",
+        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "QUI\u00c9N TE VE",
+      "url": "https://open.spotify.com/track/4EoOiioMXzEAUMQXR8qKKT"
     },
     {
       "album": {

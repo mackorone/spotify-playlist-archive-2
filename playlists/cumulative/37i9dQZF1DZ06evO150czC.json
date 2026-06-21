@@ -877,6 +877,28 @@
     },
     {
       "album": {
+        "name": "Nova Jerusal\u00e9m",
+        "url": "https://open.spotify.com/album/3t6uGkt9cdpE6zxzTkwBZB"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2026-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343541,
+      "name": "Nova Jerusal\u00e9m",
+      "url": "https://open.spotify.com/track/7g4IeGjfYIaeTvl5O63HzQ"
+    },
+    {
+      "album": {
         "name": "Novidade de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/095KuEcSJ8p1hie8rfdEhW"
       },
@@ -1724,7 +1746,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 325720,
       "name": "Vencer ou Vencer (Ao Vivo)",
       "url": "https://open.spotify.com/track/6YXNUfLSsMnptAL1dOAi7P"

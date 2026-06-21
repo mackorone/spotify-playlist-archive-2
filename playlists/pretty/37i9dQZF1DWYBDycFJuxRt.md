@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 米津玄師 \*👉 <a href="https://spice.eplus.jp/articles/346894">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,367 likes - 78 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,384 likes - 78 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 28 | [右目に稲妻](https://open.spotify.com/track/5lafnugWrfK5XuP9AYYZ3p) | [Arata Manako](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [良くなった動物](https://open.spotify.com/album/1fvgKlQKtpUOtL07PQKqNX) | 3:47 |
 | 29 | [セロリ](https://open.spotify.com/track/3ZnBfD6tpIrsRPDPvwY2so) | [Takuya Kimura](https://open.spotify.com/artist/7jZnmNs4rkoMqljfgaXxF9) | [セロリ](https://open.spotify.com/album/3XVX4OuLPsC2wlI5IImbYc) | 4:43 |
 | 30 | [Loved One](https://open.spotify.com/track/1JRGF0P4QeavZUxH86M1q0) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [Loved One](https://open.spotify.com/album/6swCMSD8cc9kCYg60SFlpc) | 4:26 |
-| 31 | [White Dress](https://open.spotify.com/track/46BrWpkvFukYHSfSn5TcPE) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [DEW](https://open.spotify.com/artist/4r2Us41ZbkxQxAvVi86AMR) | [White Dress](https://open.spotify.com/album/5B5u70ANt9LicrR0MxcjbC) | 3:21 |
+| 31 | [White Dress](https://open.spotify.com/track/46BrWpkvFukYHSfSn5TcPE) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [DEW](https://open.spotify.com/artist/7zUABjJWWDy7uMwyllEsSS) | [White Dress](https://open.spotify.com/album/5B5u70ANt9LicrR0MxcjbC) | 3:21 |
 | 32 | [If I](https://open.spotify.com/track/7sScucBpMHkMpQfz3BSvZn) | [Tosh Kugai](https://open.spotify.com/artist/126cRjPdUieqrzqLywzzdE) | [If I](https://open.spotify.com/album/4flBn0hPOgbKve8cODMTcU) | 3:30 |
 | 33 | [恋だったのさ](https://open.spotify.com/track/4JFjMTaajhVtm8d8Gk2Yx7) | [Tomoyuki Nagasawa](https://open.spotify.com/artist/7mlYR5bDCOrTeiTN6J9rnk) | [恋だったのさ](https://open.spotify.com/album/3QudhGWb8ietkjHoUHxFCe) | 4:36 |
 | 34 | [DEJAVU](https://open.spotify.com/track/0wBwGVOv58ImT12n60VhLD) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [DEJAVU](https://open.spotify.com/album/0Vsb8v8upnhhyIWHoy2SB5) | 2:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,907 likes - 96 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,908 likes - 96 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 95 | [Non cambia mai](https://open.spotify.com/track/4huAaH4Q2zf6pj6dhiCqOn) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/3NNCpZojXm9nasubGE0JTr) | 3:10 |
 | 96 | [Per sempre si](https://open.spotify.com/track/5FvH6VAvolNEooauCJFmA5) | [Couverture](https://open.spotify.com/artist/5MnkPWhF25sUyQKjkmFazf) | [Sanremo 2026 \- Strings & Piano Version](https://open.spotify.com/album/06hb15M2F0YbNC5XpoPovN) | 3:14 |
 
-Snapshot ID: `AcUq8AAAAABqZRvlNbDo5x/1IUZKs/y8`
+Snapshot ID: `AcUwkAAAAADagkfh1Dlv3nTh2bJ3tAQB`

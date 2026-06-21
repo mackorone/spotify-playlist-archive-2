@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,130 likes - 220 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,195 likes - 220 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 219 | [Mirage](https://open.spotify.com/track/6DRFqcpIn6lH267u3pIMnF) | [Foreglow](https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ) | [Mirage](https://open.spotify.com/album/4i0PuQlDnKEbyYe3Qh5nIX) | 2:38 |
 | 220 | [Weightless Hours](https://open.spotify.com/track/0co6X6NlJx2knESquaPjnS) | [Dreamhaven](https://open.spotify.com/artist/2LzHq1MhzyPCKQnzfk1R5Z) | [Weightless Hours](https://open.spotify.com/album/0CW9ihaepJWNxQci3niiHr) | 2:35 |
 
-Snapshot ID: `AAAAAK9455lgNZ4lvssewwoW1pwL7HX7`
+Snapshot ID: `AAAAAEUnEKYE6xviGJRDXlT9lod7qn8o`

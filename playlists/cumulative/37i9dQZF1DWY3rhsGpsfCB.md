@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-970 songs - 2 day 1 hr 51 min
+971 songs - 2 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -758,6 +758,7 @@
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 | 2023-02-11 |
 | [show u luv](https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [see u soon](https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5) | 2:40 | 2024-07-26 | 2024-11-02 |
 | [Silly Nigga](https://open.spotify.com/track/5A9jthOz2ZMepULTBPQACH) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV) | [Silly Nigga](https://open.spotify.com/album/1wHUHtcfT6Rs7rV9vj9ung) | 2:55 | 2023-04-20 | 2023-06-03 |
+| [SIMON SAYS feat isaiah falls, odeal & sasha keable](https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 4:20 | 2026-06-19 |  |
 | [Simple Things](https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Blended](https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw) | 2:48 | 2024-01-26 | 2024-06-28 |
 | [Since I Have A Lover](https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7) | 4:42 | 2023-03-03 | 2023-04-26 |
 | [Since I Have A Lover](https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 4:42 | 2023-04-21 | 2023-09-15 |
@@ -885,7 +886,7 @@
 | [Time Out](https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:41 | 2023-10-13 | 2023-10-18 |
 | [Timeless](https://open.spotify.com/track/3EkBW1RjjYnjDl1DJKTT7m) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Timeless](https://open.spotify.com/album/4805JZGMvu1ZqzmPnbOl2R) | 3:25 | 2024-12-21 | 2025-02-14 |
 | [Tiny Apartment](https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:40 | 2024-06-21 | 2025-04-18 |
-| [TNGHT](https://open.spotify.com/track/5oWZFpX95oaCZ69WWZNZzc) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [SAY Yours](https://open.spotify.com/album/5AIArg9AYwFRfvjh6QPkyv) | 2:45 | 2026-05-29 |  |
+| [TNGHT](https://open.spotify.com/track/5oWZFpX95oaCZ69WWZNZzc) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [SAY Yours](https://open.spotify.com/album/5AIArg9AYwFRfvjh6QPkyv) | 2:45 | 2026-05-29 | 2026-06-21 |
 | [To You \(ft\. Ogranya\)](https://open.spotify.com/track/6MSMIDVpizkkdMMhKU082Y) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [To You](https://open.spotify.com/album/3pStwpL31q7JJaeQJH6VFZ) | 2:58 | 2023-07-20 | 2023-07-29 |
 | [Tolo \(Faut m'oublier\)](https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Tolo \(Faut m'oublier\)](https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3) | 2:49 | 2024-05-08 | 2024-08-31 |
 | [Tonight](https://open.spotify.com/track/1yjQwZznEOdV0A2MxcWLgw) | [Emski](https://open.spotify.com/artist/5g0rOUJ6xuf0hspRISVfv3), [VERBB](https://open.spotify.com/artist/7btDUoOpCkFj1zrIEZKL1b) | [Tonight](https://open.spotify.com/album/2Vkj23aOMyO49z15o4H6Kw) | 2:24 | 2026-06-19 |  |

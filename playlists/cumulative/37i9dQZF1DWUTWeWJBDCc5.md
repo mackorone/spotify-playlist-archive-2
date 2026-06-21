@@ -4,7 +4,7 @@
 
 > 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: Gracie Abrams\)
 
-222 songs - 12 hr 8 min
+223 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Playlist \(feat\. Oh Yun\)](https://open.spotify.com/track/7f6L7Fzc6s0lhS7To2mTPy) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Oh Yun](https://open.spotify.com/artist/4CDLDdcillEXvJlBvQkfv3) | [Playlist](https://open.spotify.com/album/1E1niRqU1lkdDgwr2xl51E) | 2:17 | 2026-04-29 | 2026-05-06 |
 | [Pookie](https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:32 | 2025-12-04 | 2026-02-05 |
 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 | 2026-05-06 |  |
+| [Prescription](https://open.spotify.com/track/0iFXR1DPndRv8QbIc4fUxy) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Prescription](https://open.spotify.com/album/6GwGLVpDgjlhuLYLujkUpB) | 3:13 | 2026-06-20 |  |
 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 | 2026-05-06 |  |
 | [Pull Up](https://open.spotify.com/track/79MExvq75fclMHnLMLHcc1) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [1'ONLY](https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9) | 2:28 | 2026-03-03 | 2026-04-30 |
 | [PunKanon](https://open.spotify.com/track/6SETwOgYmyKKjzz8uNT7SC) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PunKanon](https://open.spotify.com/album/6jEUsHZYpOkF8SBC1mHBYd) | 4:43 | 2025-12-04 | 2026-02-05 |

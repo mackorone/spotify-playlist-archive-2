@@ -4,7 +4,7 @@
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-311 songs - 19 hr 40 min
+312 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Hello](https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV) | 4:04 | 2023-11-03 | 2024-01-10 |
 | [Hello](https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY) | 4:04 | 2023-12-06 | 2024-04-19 |
 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 | 2024-05-10 |
-| [Hidden Words](https://open.spotify.com/track/2kQJ8c4sIys2FWDgmrfYnL) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Still Shining OST Part.3](https://open.spotify.com/album/7farlwaCeA7X7HVdoV3SKu) | 4:19 | 2026-03-19 |  |
+| [Hidden Words](https://open.spotify.com/track/2kQJ8c4sIys2FWDgmrfYnL) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Still Shining OST Part.3](https://open.spotify.com/album/7farlwaCeA7X7HVdoV3SKu) | 4:19 | 2026-03-19 | 2026-06-21 |
 | [Hold Me Back](https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Queen of Tears \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE) | 3:52 | 2024-03-20 |  |
 | [Hold My Hand](https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM) | 3:30 | 2023-11-03 | 2024-02-02 |
 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 | 2023-11-03 | 2025-08-05 |
@@ -158,6 +158,7 @@
 | [Last Love](https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [Last Love](https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6) | 4:15 | 2026-02-13 |  |
 | [last night](https://open.spotify.com/track/3WVBb9WuUsHlfPSewks6oo) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [last night](https://open.spotify.com/album/19WqNz0etWx0WvHDD6zYRR) | 3:41 | 2025-05-16 | 2025-05-23 |
 | [Last Scene](https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Last Scene \- The 3rd Mini Album](https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7) | 4:22 | 2023-11-03 | 2024-03-06 |
+| [Layback](https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [TR.EE](https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA) | 3:11 | 2026-06-20 |  |
 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 | 2023-11-03 | 2026-03-14 |
 | [Let's Say Goodbye](https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4) | 4:03 | 2023-11-03 |  |
 | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao) | 4:18 | 2023-11-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Blue Ridge Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,063 likes - 189 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,065 likes - 189 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

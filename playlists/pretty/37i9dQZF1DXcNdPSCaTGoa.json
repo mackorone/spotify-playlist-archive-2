@@ -1,6 +1,6 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: J'Something",
-  "num_followers": 3708,
+  "num_followers": 3747,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "Work of Heart",
+        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
+      },
+      "artists": [
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "duration_ms": 59640,
+      "name": "Grateful - Interlude",
+      "url": "https://open.spotify.com/track/0x1zokrw2rQm2XcmQ5dZN5"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Bhambatha (Remastered 2024)",
         "url": "https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 217560,
       "name": "Don't Cry - Remastered 2024",
       "url": "https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
-        "name": "Work of Heart",
-        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
-      },
-      "artists": [
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 59640,
-      "name": "Grateful - Interlude",
-      "url": "https://open.spotify.com/track/0x1zokrw2rQm2XcmQ5dZN5"
     },
     {
       "added_at": "2026-04-24 07:22:05",

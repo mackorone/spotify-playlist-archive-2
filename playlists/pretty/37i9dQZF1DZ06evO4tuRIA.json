@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 105241,
+  "num_followers": 105274,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAACtoqP5ftKgJAUdSi3iHLq6",
+  "snapshot_id": "ajSGgAAAAAAOwl0JBnyLTldwd33JGA1Y",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L7X",
-        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 131754,
-      "name": "LOKO",
-      "url": "https://open.spotify.com/track/2ULfDRz0Ik8E8M9RzWV2LZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legado 7 En Vivo Desde OK Corral",
         "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 181800,
       "name": "Vida Peligrosa El Solecito (En Vivo)",
       "url": "https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L7X",
+        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 131754,
+      "name": "LOKO",
+      "url": "https://open.spotify.com/track/2ULfDRz0Ik8E8M9RzWV2LZ"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legado 7 En Vivo Desde OK Corral",
+        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 191688,
+      "name": "La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Magic, Vol.1",
         "url": "https://open.spotify.com/album/4MEuvVVOvDnERcJKrZxct2"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 191843,
       "name": "Pateando Latas",
       "url": "https://open.spotify.com/track/2z7N2urXPNsYHSA4kks2Dv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legado 7 En Vivo Desde OK Corral",
-        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 191688,
-      "name": "La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
     },
     {
       "added_at": null,
@@ -939,8 +939,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chambeando Recio",
-        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
+        "name": "100% Corridos Verdes",
+        "url": "https://open.spotify.com/album/2MHgqohl0QpnsFLEViC7Q4"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 157749,
-      "name": "Chambeando Recio",
-      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
+      "duration_ms": 190043,
+      "name": "El Sapo",
+      "url": "https://open.spotify.com/track/00t4yVNqkKf9FLFsCPmTjT"
     }
   ],
   "unique_name": "This Is LEGADO 7",

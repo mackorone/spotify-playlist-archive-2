@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Gambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,174 likes - 49 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,152 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

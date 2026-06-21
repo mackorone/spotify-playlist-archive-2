@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKvuMJR2hlfG.md) - [plain]
 | 59 | [She Gets It from Her Mother](https://open.spotify.com/track/2WFuYRB8SURvNMBtsonZog) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 3:24 |
 | 60 | [Boys Are Fun](https://open.spotify.com/track/2peyxOejy3a5eA5gsSEjOu) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 3:33 |
 | 61 | [Better Man](https://open.spotify.com/track/08LWD0M1Y9UfeC5afwkD4m) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 3:13 |
-| 62 | [Flowers](https://open.spotify.com/track/2GCf6BF7vIqwPMmArZOeKS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 2:26 |
-| 63 | [Pretty](https://open.spotify.com/track/0kmH5EWFvXs8l2rqZ3EC1w) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z) | 2:54 |
+| 62 | [Pretty](https://open.spotify.com/track/0kmH5EWFvXs8l2rqZ3EC1w) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z) | 2:54 |
+| 63 | [Flowers](https://open.spotify.com/track/2GCf6BF7vIqwPMmArZOeKS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 2:26 |
 | 64 | [Fighting Over Nothing](https://open.spotify.com/track/7qgZV7SLUSd1wavGDjxwF7) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 2:30 |
 
-Snapshot ID: `AcUq5gAAAAClI2Z6yQf68aPrspmmj7GM`
+Snapshot ID: `AcUwwgAAAADOazO1M1206CL33rRaVQTC`

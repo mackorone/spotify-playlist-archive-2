@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 763325,
+  "num_followers": 763530,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAAwsDGy/g8CbP0lgRptbEwl",
+  "snapshot_id": "ajSGgAAAAAC96Lil1pvYLXzR6t+UH92S",
   "tracks": [
     {
       "added_at": null,
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 205453,
-      "name": "Chasin' You",
-      "url": "https://open.spotify.com/track/0WiyWiJDkNCyGNqkv7NByy"
+      "duration_ms": 234346,
+      "name": "Whiskey Glasses",
+      "url": "https://open.spotify.com/track/57TEkZN3f84tFJFHFrD4pO"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 234346,
-      "name": "Whiskey Glasses",
-      "url": "https://open.spotify.com/track/57TEkZN3f84tFJFHFrD4pO"
+      "duration_ms": 205453,
+      "name": "Chasin' You",
+      "url": "https://open.spotify.com/track/0WiyWiJDkNCyGNqkv7NByy"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-        "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Heartless (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 197253,
       "name": "Up Down (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/2RfYofkWwN77WJjR1rpena"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+        "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Heartless (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 221880,
+      "name": "Talkin' Tennessee",
+      "url": "https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NASHVILLE, TENNESSEE",
         "url": "https://open.spotify.com/album/0fbS7loVI8hh7T06iymFU8"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 206146,
       "name": "Hangin\u2019 On (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/4arHG0ChWbyag5TB1drif4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 221880,
-      "name": "Talkin' Tennessee",
-      "url": "https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D"
     },
     {
       "added_at": null,

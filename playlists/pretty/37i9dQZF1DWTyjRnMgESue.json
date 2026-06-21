@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 89123,
+  "num_followers": 89134,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "last night you said you missed me",
-        "url": "https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "queen of the season",
-      "url": "https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Snipe Hunter",
         "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 176800,
       "name": "Bitin' List",
       "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "last night you said you missed me",
+        "url": "https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "queen of the season",
+      "url": "https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
+        "name": "Sue me",
+        "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
         "name": "Rattlesnake (feat. Zach Bryan)",
         "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 293836,
       "name": "Rattlesnake (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
-        "name": "Sue me",
-        "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Sue me",
-      "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Walking Through The Water",
-        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
+        "name": "I Know What I Want",
+        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
         }
       ],
-      "duration_ms": 301376,
-      "name": "Walking Through The Water",
-      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
+      "duration_ms": 230260,
+      "name": "5 More Minutes",
+      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -827,18 +827,34 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "I Know What I Want",
-        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
+        "name": "Walking Through The Water",
+        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
       },
       "artists": [
         {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
         }
       ],
-      "duration_ms": 230260,
-      "name": "5 More Minutes",
-      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
+      "duration_ms": 301376,
+      "name": "Walking Through The Water",
+      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Blue Ridge Run",
+        "url": "https://open.spotify.com/album/0QpJuq9cdEAVWWS4shEpkM"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "Blue Ridge Run",
+      "url": "https://open.spotify.com/track/5GZI4tMGES215gvXieul9v"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -859,22 +875,6 @@
       "duration_ms": 225231,
       "name": "Wait Up (feat. I'm With Her)",
       "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
-        "name": "Blue Ridge Run",
-        "url": "https://open.spotify.com/album/0QpJuq9cdEAVWWS4shEpkM"
-      },
-      "artists": [
-        {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "Blue Ridge Run",
-      "url": "https://open.spotify.com/track/5GZI4tMGES215gvXieul9v"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
         "name": "Don't Put It All On Me (feat. Fleet Foxes)",
         "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 247306,
       "name": "Don't Put It All On Me (feat. Fleet Foxes)",
       "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 239895,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Nothing I Need",
         "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 213283,
       "name": "Nothing I Need",
       "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 239895,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 110173,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/0qJSQOkbXfEKil9AjcLWxZ"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "You and Me Time",
         "url": "https://open.spotify.com/album/0m6wO7RR5ugYzk0wZW5ori"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 110173,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/0qJSQOkbXfEKil9AjcLWxZ"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
         "name": "Collarbones",
         "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 180947,
       "name": "Collarbones",
       "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
-        "name": "I Talk About You",
-        "url": "https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 210430,
-      "name": "I Talk About You",
-      "url": "https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Bus Back To Richmond / More Than Friends",
-        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
+        "name": "I Talk About You",
+        "url": "https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
         }
       ],
-      "duration_ms": 174744,
-      "name": "Bus Back To Richmond",
-      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
+      "duration_ms": 210430,
+      "name": "I Talk About You",
+      "url": "https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1595,6 +1579,22 @@
       "duration_ms": 243455,
       "name": "Earthstar",
       "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Bus Back To Richmond / More Than Friends",
+        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 174744,
+      "name": "Bus Back To Richmond",
+      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
     },
     {
       "added_at": "2026-05-15 15:12:25",

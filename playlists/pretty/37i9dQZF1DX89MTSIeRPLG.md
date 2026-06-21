@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,892 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,901 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 41 | [Federal](https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Federal](https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb) | 2:22 |
 | 42 | [Florida Nights](https://open.spotify.com/track/7srw45c946Fxo8Ve8tbRGl) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [Sayless](https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ) | 2:23 |
 | 43 | [Stay Ballin'](https://open.spotify.com/track/265lAH6iZlYiVvOIN18V6w) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [12/31](https://open.spotify.com/album/1JCrDXVsnCHZT4HdssPKP5) | 2:01 |
-| 44 | [No More Body's](https://open.spotify.com/track/5uxotViLWnfC0RxCMizmRX) | [Celfmade Cel](https://open.spotify.com/artist/7cUENUVA9oNBoIRFsK3A1s) | [No More Body's](https://open.spotify.com/album/033AXBxFDHyj2uKYNNoudx) | 1:50 |
-| 45 | [Trenches](https://open.spotify.com/track/4vvcUzyAm5lBXlNfcDGQUt) | [Tavey Baby](https://open.spotify.com/artist/2QBLcQmTu8qTGatJkUvgyd) | [Trenches](https://open.spotify.com/album/3UB4SNampTwUBbeCY5dzmE) | 2:35 |
+| 44 | [Trenches](https://open.spotify.com/track/4vvcUzyAm5lBXlNfcDGQUt) | [Tavey Baby](https://open.spotify.com/artist/2QBLcQmTu8qTGatJkUvgyd) | [Trenches](https://open.spotify.com/album/3UB4SNampTwUBbeCY5dzmE) | 2:35 |
+| 45 | [No More Body's](https://open.spotify.com/track/5uxotViLWnfC0RxCMizmRX) | [Celfmade Cel](https://open.spotify.com/artist/7cUENUVA9oNBoIRFsK3A1s) | [No More Body's](https://open.spotify.com/album/033AXBxFDHyj2uKYNNoudx) | 1:50 |
 | 46 | [Cruise Control](https://open.spotify.com/track/6VUP0NVCY6m7enzUyf8MzY) | [El'teainte](https://open.spotify.com/artist/6XCFoVBRPN2ciV01d43q07) | [Fuego](https://open.spotify.com/album/3NnZasbZ8ZHXdnewdLaQT2) | 3:24 |
 | 47 | [Bulgari Shades](https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [X\-Tra Laps](https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi) | 2:43 |
 | 48 | [Paid to Rap](https://open.spotify.com/track/6KTYCE6x5a8HyPNiGKqYJt) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [Wizzle](https://open.spotify.com/album/2Vvrzgq8XHNAEE6RIfYADd) | 1:41 |

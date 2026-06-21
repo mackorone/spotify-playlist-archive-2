@@ -1,12 +1,12 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 55045,
+  "num_followers": 55052,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALna1Mv0hQlcT0ieuj2509dNtA34",
+  "snapshot_id": "AAAAABFaSQwtx7OccqIMkMvpanu1Je8A",
   "tracks": [
     {
       "added_at": "2026-06-12 14:15:03",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "Greens",
-        "url": "https://open.spotify.com/album/13irODzikOapHKbxYIj42v"
-      },
-      "artists": [
-        {
-          "name": "Shopan",
-          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
-        },
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 250212,
-      "name": "Greens",
-      "url": "https://open.spotify.com/track/23mTYmF1nmxxTJoMjjIXzi"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "Dreamwave",
         "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 154838,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "Greens",
+        "url": "https://open.spotify.com/album/13irODzikOapHKbxYIj42v"
+      },
+      "artists": [
+        {
+          "name": "Shopan",
+          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
+        },
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 250212,
+      "name": "Greens",
+      "url": "https://open.spotify.com/track/23mTYmF1nmxxTJoMjjIXzi"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "So Long So Blue",
-        "url": "https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ"
+        "name": "Silently Beats",
+        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
       },
       "artists": [
         {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
         }
       ],
-      "duration_ms": 225600,
-      "name": "Goodbye Blurry Days",
-      "url": "https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop"
+      "duration_ms": 144000,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "Silently Beats",
-        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
+        "name": "So Long So Blue",
+        "url": "https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ"
       },
       "artists": [
         {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
+      "duration_ms": 225600,
+      "name": "Goodbye Blurry Days",
+      "url": "https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -635,38 +635,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "UP AND DOWN Original Soundtrack",
-        "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
-      },
-      "artists": [
-        {
-          "name": "Marihiko Hara",
-          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
-        }
-      ],
-      "duration_ms": 189696,
-      "name": "\u304a\u306f\u306a\u3057\u306e\u306f\u3058\u307e\u308a",
-      "url": "https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
-        "name": "Day of the Moon",
-        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Day of the Moon",
-      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "wave wave wave",
         "url": "https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP"
       },
@@ -679,6 +647,22 @@
       "duration_ms": 294193,
       "name": "The Next vacation",
       "url": "https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "UP AND DOWN Original Soundtrack",
+        "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
+      },
+      "artists": [
+        {
+          "name": "Marihiko Hara",
+          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
+        }
+      ],
+      "duration_ms": 189696,
+      "name": "\u304a\u306f\u306a\u3057\u306e\u306f\u3058\u307e\u308a",
+      "url": "https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -699,6 +683,22 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
+        "name": "Day of the Moon",
+        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Day of the Moon",
+      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
         "name": "Day Trip",
         "url": "https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 137000,
       "name": "Day Trip",
       "url": "https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
-        "name": "Resting Place",
-        "url": "https://open.spotify.com/album/5zqrCPsgymWf2bfYZQ7Rka"
-      },
-      "artists": [
-        {
-          "name": "E J R M",
-          "url": "https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ"
-        },
-        {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
-        }
-      ],
-      "duration_ms": 189723,
-      "name": "Resting Place",
-      "url": "https://open.spotify.com/track/0iB8cBNqKUv5CVbRI3cDJO"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -751,6 +731,26 @@
       "duration_ms": 228196,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "Resting Place",
+        "url": "https://open.spotify.com/album/5zqrCPsgymWf2bfYZQ7Rka"
+      },
+      "artists": [
+        {
+          "name": "E J R M",
+          "url": "https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ"
+        },
+        {
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+        }
+      ],
+      "duration_ms": 189723,
+      "name": "Resting Place",
+      "url": "https://open.spotify.com/track/0iB8cBNqKUv5CVbRI3cDJO"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -803,26 +803,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "When We Were Small",
-        "url": "https://open.spotify.com/album/0iJ6h9uWLJZCqS6l4yYbtm"
-      },
-      "artists": [
-        {
-          "name": "Naomi Eno",
-          "url": "https://open.spotify.com/artist/3ggj8CCCXXL0C9n6CLzifo"
-        },
-        {
-          "name": "mahiro iska",
-          "url": "https://open.spotify.com/artist/68hHRIEDCPLajRFRa9J3fo"
-        }
-      ],
-      "duration_ms": 133953,
-      "name": "When We Were Small",
-      "url": "https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "Abbot Kinney",
         "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
       },
@@ -843,6 +823,26 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
+        "name": "When We Were Small",
+        "url": "https://open.spotify.com/album/0iJ6h9uWLJZCqS6l4yYbtm"
+      },
+      "artists": [
+        {
+          "name": "Naomi Eno",
+          "url": "https://open.spotify.com/artist/3ggj8CCCXXL0C9n6CLzifo"
+        },
+        {
+          "name": "mahiro iska",
+          "url": "https://open.spotify.com/artist/68hHRIEDCPLajRFRa9J3fo"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "When We Were Small",
+      "url": "https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
       },
@@ -855,26 +855,6 @@
       "duration_ms": 102000,
       "name": "Breezy",
       "url": "https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
-        "name": "re: Sound Of Light",
-        "url": "https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0"
-      },
-      "artists": [
-        {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
-        },
-        {
-          "name": "Hitori",
-          "url": "https://open.spotify.com/artist/1BLxupu4NPracLOtvGHYbl"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "re: Sound Of Light",
-      "url": "https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -907,6 +887,26 @@
       "duration_ms": 283170,
       "name": "rias",
       "url": "https://open.spotify.com/track/3CZCrLdOuNdpprDXXjeH0S"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "re: Sound Of Light",
+        "url": "https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        },
+        {
+          "name": "Hitori",
+          "url": "https://open.spotify.com/artist/1BLxupu4NPracLOtvGHYbl"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "re: Sound Of Light",
+      "url": "https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "fresh",
-        "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
-      },
-      "artists": [
-        {
-          "name": "sukima",
-          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
-        }
-      ],
-      "duration_ms": 263341,
-      "name": "fresh",
-      "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "SHIBUYA 246",
         "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 171851,
       "name": "SHIBUYA 246",
       "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "fresh",
+        "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
+      },
+      "artists": [
+        {
+          "name": "sukima",
+          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
+        }
+      ],
+      "duration_ms": 263341,
+      "name": "fresh",
+      "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
         "name": "Higashi no Sora",
         "url": "https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "Jetty (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ia7tMgfKYEGdYi7yWpHfD"
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
       },
       "artists": [
         {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
         }
       ],
-      "duration_ms": 69720,
-      "name": "Boardwalk",
-      "url": "https://open.spotify.com/track/1zmVh7dWFDF5SLgRhGEzzI"
+      "duration_ms": 245200,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -1143,18 +1127,38 @@
     {
       "added_at": "2026-06-12 14:15:03",
       "album": {
-        "name": "Chamomile",
-        "url": "https://open.spotify.com/album/6xsSwoYLUzO1g2eVATDlbQ"
+        "name": "bed (rework)",
+        "url": "https://open.spotify.com/album/55TlZbTAmCgXIS1aGdQgRS"
       },
       "artists": [
         {
-          "name": "KOTARO SAITO",
-          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+          "name": "\u6a2a\u5c71\u8d77\u6717",
+          "url": "https://open.spotify.com/artist/0vlT69d2LzCebohSPMktHr"
+        },
+        {
+          "name": "sorami",
+          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
         }
       ],
-      "duration_ms": 196250,
-      "name": "Chamomile",
-      "url": "https://open.spotify.com/track/6LvQFF9REVEO1aYfG07e0z"
+      "duration_ms": 235339,
+      "name": "bed - rework",
+      "url": "https://open.spotify.com/track/2KsL8zTHdhq9UCoQS828JR"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "Jetty (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ia7tMgfKYEGdYi7yWpHfD"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 69720,
+      "name": "Boardwalk",
+      "url": "https://open.spotify.com/track/1zmVh7dWFDF5SLgRhGEzzI"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -1171,6 +1175,22 @@
       "duration_ms": 195164,
       "name": "Fantastic",
       "url": "https://open.spotify.com/track/28tdrDdSAkaQdf0EP7UAX6"
+    },
+    {
+      "added_at": "2026-06-12 14:15:03",
+      "album": {
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/6xsSwoYLUzO1g2eVATDlbQ"
+      },
+      "artists": [
+        {
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/6LvQFF9REVEO1aYfG07e0z"
     },
     {
       "added_at": "2026-06-12 14:15:03",
@@ -1207,26 +1227,6 @@
       "duration_ms": 272293,
       "name": "Colony",
       "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
-    },
-    {
-      "added_at": "2026-06-12 14:15:03",
-      "album": {
-        "name": "bed (rework)",
-        "url": "https://open.spotify.com/album/55TlZbTAmCgXIS1aGdQgRS"
-      },
-      "artists": [
-        {
-          "name": "\u6a2a\u5c71\u8d77\u6717",
-          "url": "https://open.spotify.com/artist/0vlT69d2LzCebohSPMktHr"
-        },
-        {
-          "name": "sorami",
-          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
-        }
-      ],
-      "duration_ms": 235339,
-      "name": "bed - rework",
-      "url": "https://open.spotify.com/track/2KsL8zTHdhq9UCoQS828JR"
     },
     {
       "added_at": "2026-06-12 14:15:03",

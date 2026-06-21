@@ -1,6 +1,6 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 248601,
+  "num_followers": 248656,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
@@ -219,8 +219,8 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Lo Hare Por Ti",
-        "url": "https://open.spotify.com/album/15lIqg78oQM9CjPoeUB40T"
+        "name": "No Te Olvidare",
+        "url": "https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
         }
       ],
-      "duration_ms": 250426,
-      "name": "Ayer Y Hoy",
-      "url": "https://open.spotify.com/track/5TMB9Xnfe1lbvDHZtjCUcZ"
+      "duration_ms": 229840,
+      "name": "No Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -299,8 +299,8 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "No Te Olvidare",
-        "url": "https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy"
+        "name": "Lo Hare Por Ti",
+        "url": "https://open.spotify.com/album/15lIqg78oQM9CjPoeUB40T"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
         }
       ],
-      "duration_ms": 229840,
-      "name": "No Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK"
+      "duration_ms": 250426,
+      "name": "Ayer Y Hoy",
+      "url": "https://open.spotify.com/track/5TMB9Xnfe1lbvDHZtjCUcZ"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4OcDyb089lSW7AUAm3Uvhb"
-      },
-      "artists": [
-        {
-          "name": "Los Palominos",
-          "url": "https://open.spotify.com/artist/0PWmxlpld6uKF8DXOupfQe"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "La Llama",
-      "url": "https://open.spotify.com/track/1UoU72fMy6ztND27wRtuFb"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Puro Tejano Gold",
         "url": "https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 186706,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4OcDyb089lSW7AUAm3Uvhb"
+      },
+      "artists": [
+        {
+          "name": "Los Palominos",
+          "url": "https://open.spotify.com/artist/0PWmxlpld6uKF8DXOupfQe"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "La Llama",
+      "url": "https://open.spotify.com/track/1UoU72fMy6ztND27wRtuFb"
     },
     {
       "added_at": "2024-05-02 04:14:20",

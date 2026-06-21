@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,869 likes - 275 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,896 likes - 275 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 5 | [outta time](https://open.spotify.com/track/0jlOdZleCUed8nv4LcLjjU) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [outta time](https://open.spotify.com/album/3detwCd3QLrrzJZAEAxcQB) | 4:11 |
 | 6 | [2 Many Days](https://open.spotify.com/track/5xKsdMU9ssxhKSre7iMflV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [2 Many Days](https://open.spotify.com/album/5C9EToByF5XDM3DXx4WewZ) | 3:05 |
 | 7 | [Sweet Thang](https://open.spotify.com/track/1LseKUjL7AAgkZv7IjEBYk) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Sweet Thang](https://open.spotify.com/album/05wRlo4q22wpGkKDKEHBZe) | 2:34 |
-| 8 | [Rich Luv \(with Chase Shakur\)](https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Make You Feel](https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y) | 2:44 |
+| 8 | [Rich Luv](https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Make You Feel](https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y) | 2:44 |
 | 9 | [Comets + Gold](https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Comets + Gold](https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W) | 3:08 |
 | 10 | [Save Her 4 Me](https://open.spotify.com/track/6bj2u9VRe7kq8Q7eINfUOz) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Save Her 4 Me](https://open.spotify.com/album/2AX5AoMK78qczFJHy2oE2F) | 2:55 |
 | 11 | [Face Card \(with Chris Brown & Bryson Tiller\)](https://open.spotify.com/track/5N3p9YjU6WGfU0y4jrgEGc) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Face Card \(with Chris Brown & Bryson Tiller\)](https://open.spotify.com/album/1LAFF8OUoMseRuHJLyq5MH) | 2:38 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 21 | [With You](https://open.spotify.com/track/5yN8X3TofBg9IhN0jlb1XI) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [With You](https://open.spotify.com/album/1U22hjL3og5gV4xC2x7mQz) | 3:30 |
 | 22 | [Fatherhood](https://open.spotify.com/track/1bJOZ0rHSnuCoeJR4OgEBQ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Fatherhood](https://open.spotify.com/album/02bDBJIfP9VBBvWzbK5xla) | 2:42 |
 | 23 | [See You Again](https://open.spotify.com/track/3xy4wL1GcLWZ8VNYGfnTYf) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [See You Again](https://open.spotify.com/album/1C22AuImu7TeIpFZMlIqEv) | 2:59 |
-| 24 | [Why Does It \(With Jozzy\)](https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Why Does It \(With Jozzy\)](https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm) | 2:54 |
+| 24 | [Why Does It](https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Why Does It](https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm) | 2:54 |
 | 25 | [Vanilla Skies](https://open.spotify.com/track/6PPEgkKFHX2nvAr9eqICGV) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SOULAR \(Deluxe\)](https://open.spotify.com/album/72m9kSdJefQyIOqeU7DVFz) | 2:35 |
 | 26 | [Wishing Well](https://open.spotify.com/track/5yE7OnSteFeItR1YlmV9WI) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Wishing Well](https://open.spotify.com/album/5yVOyzUQcQFGsXkn8IsSI6) | 3:52 |
 | 27 | [Life Isn't Fair](https://open.spotify.com/track/2JnzP01yZEDcTx86FG18XL) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [The Celestials!](https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9) | [Life Isn't Fair](https://open.spotify.com/album/4nKb1cY6EU7Y2DIJHeZm3s) | 4:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:playlist:37i9dQZF1EFQn0XRhyzu2L">Justin Tranter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,875 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,887 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 39 | [Anchored to The Sea](https://open.spotify.com/track/7dnikm1CK0EH0ecJQrFtZk) | [Alexandra King](https://open.spotify.com/artist/4ytGLHGNcVGDUc5rVw7WGR) | [Across the Pond](https://open.spotify.com/album/28uDIhLnUgMEmziw5MRFGc) | 3:48 |
 | 40 | [Bubble](https://open.spotify.com/track/3CovZjlHJtbvQZ3vmyO0tu) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [Bubble](https://open.spotify.com/album/0511kLldm2cMJORalk95HL) | 2:15 |
 
-Snapshot ID: `AAAAAGZ+Wo9PeRvuVGU4GETPJqMsAChm`
+Snapshot ID: `AAAAAGBZNCQ4AWW4BNUWbMQRLzLchiML`

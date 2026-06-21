@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAC5tzs7P4j1owc9MebqIG0+",
+  "snapshot_id": "ajSGgAAAAAC903x20p9nDQgNPqNP9iD3",
   "tracks": [
     {
       "added_at": null,
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 129973,
-      "name": "Ginny's Home",
-      "url": "https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW"
+      "duration_ms": 119346,
+      "name": "History of Lone Pine Falls",
+      "url": "https://open.spotify.com/track/57OTA1cCqy9ao89B4Epyw1"
     },
     {
       "added_at": null,
@@ -122,11 +122,15 @@
         {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        },
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
         }
       ],
-      "duration_ms": 113493,
-      "name": "New Cave",
-      "url": "https://open.spotify.com/track/0H1ih0eeTMjJd7sIZZ8N2b"
+      "duration_ms": 99826,
+      "name": "Dora the Explorer Theme Song",
+      "url": "https://open.spotify.com/track/0GZXWiRVm3cnG3wPFngXbs"
     },
     {
       "added_at": null,
@@ -140,9 +144,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 119346,
-      "name": "History of Lone Pine Falls",
-      "url": "https://open.spotify.com/track/57OTA1cCqy9ao89B4Epyw1"
+      "duration_ms": 129973,
+      "name": "Ginny's Home",
+      "url": "https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW"
     },
     {
       "added_at": null,
@@ -190,15 +194,11 @@
         {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        },
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
         }
       ],
-      "duration_ms": 99826,
-      "name": "Dora the Explorer Theme Song",
-      "url": "https://open.spotify.com/track/0GZXWiRVm3cnG3wPFngXbs"
+      "duration_ms": 113493,
+      "name": "New Cave",
+      "url": "https://open.spotify.com/track/0H1ih0eeTMjJd7sIZZ8N2b"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 61066,
-      "name": "Meatball Monkey",
-      "url": "https://open.spotify.com/track/4aH08aVsg9gRx8r5rU4nVN"
+      "duration_ms": 71400,
+      "name": "George And Doris",
+      "url": "https://open.spotify.com/track/6KeD0so6pe8IdCgl5giXck"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 107680,
-      "name": "Weather's Coming In",
-      "url": "https://open.spotify.com/track/2OqWXV1kcS7rfPSH7FkEME"
+      "duration_ms": 114920,
+      "name": "A Life Apart",
+      "url": "https://open.spotify.com/track/7DWCtu846C9kSdacjgLycc"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 71400,
-      "name": "George And Doris",
-      "url": "https://open.spotify.com/track/6KeD0so6pe8IdCgl5giXck"
+      "duration_ms": 61066,
+      "name": "Meatball Monkey",
+      "url": "https://open.spotify.com/track/4aH08aVsg9gRx8r5rU4nVN"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 54373,
-      "name": "Don't Give Up You Two",
-      "url": "https://open.spotify.com/track/6MyB4Txgtsq7YTHMAOPD71"
+      "duration_ms": 35842,
+      "name": "Wagon Discovery",
+      "url": "https://open.spotify.com/track/1PXbbMQvEhmVLRrvESSeA6"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 114920,
-      "name": "A Life Apart",
-      "url": "https://open.spotify.com/track/7DWCtu846C9kSdacjgLycc"
+      "duration_ms": 107680,
+      "name": "Weather's Coming In",
+      "url": "https://open.spotify.com/track/2OqWXV1kcS7rfPSH7FkEME"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 43440,
-      "name": "George Enters Castleland",
-      "url": "https://open.spotify.com/track/7KK62PyW3ul0If2xoO3OQm"
+      "duration_ms": 61293,
+      "name": "George's Pancake Practice",
+      "url": "https://open.spotify.com/track/2yDU7GOKPm3DPuEdF1HN5G"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 52093,
-      "name": "Monkey Mixup",
-      "url": "https://open.spotify.com/track/0Ou4tfO0Zel3VtA5gFQRAR"
+      "duration_ms": 112000,
+      "name": "George's Realization",
+      "url": "https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Margarita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
+        "name": "Shovel Buddies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR"
       },
       "artists": [
         {
@@ -576,9 +576,33 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 61724,
-      "name": "Margarita Buys a Ticket",
-      "url": "https://open.spotify.com/track/7huIymf44gWwlfa5Yv4yHF"
+      "duration_ms": 260302,
+      "name": "Accolades",
+      "url": "https://open.spotify.com/track/5ZOJzx35adBiazlTrQW4MS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Margarita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
+      },
+      "artists": [
+        {
+          "name": "Federico Ramos",
+          "url": "https://open.spotify.com/artist/21KfnWJ8r1OSD9sNEKrLfm"
+        },
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        },
+        {
+          "name": "Gabriela Martinez",
+          "url": "https://open.spotify.com/artist/6DxYmXAvO5MWIOvnwltlLk"
+        }
+      ],
+      "duration_ms": 144250,
+      "name": "No Me Dejes Atr\u00e1s (feat. Gabriela Martinez)",
+      "url": "https://open.spotify.com/track/146AOJ6INXeSHQEWjYHqsr"
     },
     {
       "added_at": null,

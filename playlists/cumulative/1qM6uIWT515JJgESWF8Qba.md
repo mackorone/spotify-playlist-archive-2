@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-262 songs - 16 hr 24 min
+264 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bored](https://open.spotify.com/track/2YG4sw9fnCT0WGHBS3bWqp) | [Uppercut](https://open.spotify.com/artist/6iAaDvMyMRJm4gFFg0qTQA) | [Bored](https://open.spotify.com/album/09qmqovsaeodwmhdnq81ou) | 3:10 | 2026-01-11 | 2026-02-23 |
 | [Boy Racer](https://open.spotify.com/track/3mjmoDsMcRZXIKGNYVDkQJ) | [Lost in Lilacs](https://open.spotify.com/artist/3yeEX4ZL3lpbKEe1hj2GtJ) | [Radiobed](https://open.spotify.com/album/0Q0KaneUvsWOisNrcsDnxO) | 3:28 | 2026-04-10 | 2026-05-19 |
 | [Break the Chain](https://open.spotify.com/track/0AA9NZXJtDtqkjRevrDgv7) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [My Tribe \- EP](https://open.spotify.com/album/782Sz599wkUZsZOXhuOTOh) | 3:27 | 2026-01-22 | 2026-02-23 |
+| [Break These Chains](https://open.spotify.com/track/6UXMNP2WDg7RhYpanEkSOL) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Break These Chains](https://open.spotify.com/album/5x59iPEINkuzJY35NV7hbf) | 3:24 | 2026-06-20 |  |
 | [Bring Your Love](https://open.spotify.com/track/05PP999Sbm9nVpjINfBNDB) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Bring Your Love](https://open.spotify.com/album/4qe45XUNWmGqzffApM2cZx) | 2:24 | 2025-11-26 |  |
 | [Broken Wings](https://open.spotify.com/track/5AxJgG2erlDiiwqPaRizts) | [Deully](https://open.spotify.com/artist/1tttcmDgOPmadXhAVQZLyr) | [Broken Wings](https://open.spotify.com/album/2Mz0dXbN2s0tRdOTujMPCT) | 4:21 | 2026-04-23 | 2026-05-19 |
 | [Buio \- Eng Version](https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42) | [Crosslane](https://open.spotify.com/artist/34gfe82kVOOUdmSdcghnGA) | [Buio Deluxe](https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx) | 3:42 | 2026-01-16 | 2026-02-23 |
@@ -215,6 +216,7 @@
 | [Seven](https://open.spotify.com/track/7tdZEErExaYhQI2Oa3cqWg) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 3:50 | 2026-04-13 |  |
 | [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 | 2025-12-29 |  |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
+| [Silver Lake](https://open.spotify.com/track/3cMZDt1yPKZuP7UssRKfWI) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Silver Lake](https://open.spotify.com/album/4AMGWzEqgc2pui4p2vXC4y) | 4:11 | 2026-06-20 |  |
 | [Silver Turns to Red](https://open.spotify.com/track/7jVXNz0jEKienLLq7zvVe5) | [Solar Flare Sunset](https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r) | [Forever Waiting](https://open.spotify.com/album/4ZRB1AQmBiXeW21EFg0tWz) | 4:27 | 2026-05-04 | 2026-06-14 |
 | [Ska Hitta Dig](https://open.spotify.com/track/3Mr9GgIBixXqp1CbbIC8XZ) | [Artikel 22](https://open.spotify.com/artist/2R9AIy5zKsWF3D838CMyGG) | [Ska Hitta Dig](https://open.spotify.com/album/3M3kg9EP5KdihRnjA5WwT2) | 3:30 | 2026-06-15 |  |
 | [Skin Deep](https://open.spotify.com/track/5wsNvYOF9wR5BRWSKUSbft) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Skin Deep](https://open.spotify.com/album/3g0JxbfNLFh4VTmdACc9f8) | 4:28 | 2025-12-20 | 2026-01-21 |

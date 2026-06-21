@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,899 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,900 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 | 23 | [Quiero Conocer A Jesús](https://open.spotify.com/track/3as9Rl3GJ1pP03e4Wxn8c5) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP) | [Quiero Conocer A Jesús](https://open.spotify.com/album/0AexjlzRjmXT5ix9GNKHOK) | 5:35 |
 | 24 | [Tu Gozo](https://open.spotify.com/track/5RJPlCkGknJW8E7GXTvUax) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [Tu Gozo](https://open.spotify.com/album/6uEcWET6bOZB3ulU57hA1R) | 2:27 |
 | 25 | [Se Fuerte y Fiel \(Ester\)](https://open.spotify.com/track/6wOMhNcTwPedGs5wANNQSE) | [Los Gigantes De La Fe](https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh) | [Se Fuerte y Fiel \(Ester\)](https://open.spotify.com/album/1w6wXQQFMDXgjpZ6HWkBIq) | 3:13 |
-| 26 | [Cristo Vive en Mi](https://open.spotify.com/track/6nTdPun60vE4jthdBgxcIf) | [Rey de Reyes Kids](https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao) | [Cristo Vive en Mi](https://open.spotify.com/album/1Z7Xv9XmVtB9ceLrQgjwmA) | 3:47 |
+| 26 | [El Nombre de los Animales](https://open.spotify.com/track/5cNIKowOY2ziEXhDY30oKT) | [In Christ Kids](https://open.spotify.com/artist/2gb7Y0cqEcAofKviKJWHtp) | [El Nombre de los Animales](https://open.spotify.com/album/397XoelPqOEKZNooMCp1X5) | 3:13 |
 | 27 | [Tus Cuerdas De Amor](https://open.spotify.com/track/7yMlFK4sLlG4ywbHV9vk5L) | [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Tus Cuerdas De Amor](https://open.spotify.com/album/79nTtbZUKxTAPEENJFbUG9) | 3:56 |
-| 28 | [El Nombre de los Animales](https://open.spotify.com/track/5cNIKowOY2ziEXhDY30oKT) | [In Christ Kids](https://open.spotify.com/artist/2gb7Y0cqEcAofKviKJWHtp) | [El Nombre de los Animales](https://open.spotify.com/album/397XoelPqOEKZNooMCp1X5) | 3:13 |
+| 28 | [Cristo Vive en Mi](https://open.spotify.com/track/6nTdPun60vE4jthdBgxcIf) | [Rey de Reyes Kids](https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao) | [Cristo Vive en Mi](https://open.spotify.com/album/1Z7Xv9XmVtB9ceLrQgjwmA) | 3:47 |
 | 29 | [Tu Mi Luz / My Lighthouse](https://open.spotify.com/track/5zhfBTPQuGsh6KG8empl2m) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Tu Mi Luz / My Lighthouse](https://open.spotify.com/album/0btwtH1HbnwnqiCvBeM5p5) | 3:40 |
 | 30 | [Esta Es Mi Canción](https://open.spotify.com/track/1bEan8FYcB8lRqygZP3DDC) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [Pequeños Heroes](https://open.spotify.com/album/3DinijBFSo5AdvS3V6AsEl) | 3:39 |
-| 31 | [Jehová Es Mi Pastor](https://open.spotify.com/track/6F9qH4lm0t3fHy4Hu5yVM0) | [Rey de Reyes Kids](https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao) | [Rey de Reyes Kids](https://open.spotify.com/album/70B2c1nBy7n7wUFUrECN0b) | 2:28 |
-| 32 | [Pegao \- Kids](https://open.spotify.com/track/6FpZ4f3xXCbArrZHkvv0av) | [Luis Fabián](https://open.spotify.com/artist/4rArd0dHJvlTE0l9Vk9fV2), [Emma Peña](https://open.spotify.com/artist/4cSINVqJU0O5L7UgmS5jyi) | [Pegao \(Kids\)](https://open.spotify.com/album/2xpbPqzlMUcNKQ4KTiCsuI) | 4:00 |
-| 33 | [Tanto, Tanto](https://open.spotify.com/track/5BCH1ZplYx6KHsXN59Mn9e) | [Xtreme Kids](https://open.spotify.com/artist/6cf6SfcHT6kRhSFghWqEId) | [Jesús Es Super Fuerte](https://open.spotify.com/album/01lgZAoD5nMvIbPE3iIecP) | 3:13 |
+| 31 | [Pegao \- Kids](https://open.spotify.com/track/6FpZ4f3xXCbArrZHkvv0av) | [Luis Fabián](https://open.spotify.com/artist/4rArd0dHJvlTE0l9Vk9fV2), [Emma Peña](https://open.spotify.com/artist/4cSINVqJU0O5L7UgmS5jyi) | [Pegao \(Kids\)](https://open.spotify.com/album/2xpbPqzlMUcNKQ4KTiCsuI) | 4:00 |
+| 32 | [Tanto, Tanto](https://open.spotify.com/track/5BCH1ZplYx6KHsXN59Mn9e) | [Xtreme Kids](https://open.spotify.com/artist/6cf6SfcHT6kRhSFghWqEId) | [Jesús Es Super Fuerte](https://open.spotify.com/album/01lgZAoD5nMvIbPE3iIecP) | 3:13 |
+| 33 | [Jehová Es Mi Pastor](https://open.spotify.com/track/6F9qH4lm0t3fHy4Hu5yVM0) | [Rey de Reyes Kids](https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao) | [Rey de Reyes Kids](https://open.spotify.com/album/70B2c1nBy7n7wUFUrECN0b) | 2:28 |
 | 34 | [El Gran Nombre De Dios](https://open.spotify.com/track/4lfIRMzRuLzjCwQ4BM3O92) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [El Gran Nombre De Dios](https://open.spotify.com/album/2HfBNHLiPsyhdtPZQBbIby) | 4:05 |
 | 35 | [Jesús, Mi Salvador](https://open.spotify.com/track/3ryVGls7EECMk2qlXySJDm) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [La Creación](https://open.spotify.com/album/07VDOOTqOTnSRKkcQUAtlC) | 4:20 |
 | 36 | [Mi Amigo Jesús](https://open.spotify.com/track/0EnosQiDCS467jQAvdEudf) | [La Patrulla del Rey](https://open.spotify.com/artist/1vrY5zhvK8YoWb5WO2FI4k), [Daniel Donoso](https://open.spotify.com/artist/1m82ijq3dIHYWlTIhj02Ge) | [Mi Amigo Jesús](https://open.spotify.com/album/5aACZqsXDA7iOFX1rE0Vgj) | 3:03 |

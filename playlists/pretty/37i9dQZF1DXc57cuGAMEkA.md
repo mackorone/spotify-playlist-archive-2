@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Myles Smith, Chris Brown, FKA twigs, Elmiene & Fujii Kaze and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,491 likes - 69 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,478 likes - 69 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 46 | [Una casa en el Teide](https://open.spotify.com/track/72aG1rLcFRT8IPpkp2Hxpd) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Una casa en el Teide](https://open.spotify.com/album/604M2cC6V6Idy4Lnt4b63I) | 2:54 |
 | 47 | [KATANA](https://open.spotify.com/track/3OS4929EixrJq1OW8JKgGc) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [KATANA](https://open.spotify.com/album/3tMKAgASj5dj8ffpt0qm6c) | 2:14 |
 | 48 | [Wanna](https://open.spotify.com/track/1hRpw7vgb6ksXg0vKxvQBU) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Wanna](https://open.spotify.com/album/1TI1Y6xASZ45AcPpLuxezg) | 3:32 |
-| 49 | [Mask off](https://open.spotify.com/track/3iGC1rLYsv0ZEKBkGF1I05) | [山根航海](https://open.spotify.com/artist/4zbt4MhFdpbBsraMSF6PYR) | [VV](https://open.spotify.com/album/6n8SZJHy5GfSxCTBJlZ2qJ) | 3:11 |
+| 49 | [Mask Off](https://open.spotify.com/track/3iGC1rLYsv0ZEKBkGF1I05) | [山根航海](https://open.spotify.com/artist/4zbt4MhFdpbBsraMSF6PYR) | [VV](https://open.spotify.com/album/6n8SZJHy5GfSxCTBJlZ2qJ) | 3:11 |
 | 50 | [How Do You Sleep?](https://open.spotify.com/track/4jPV9n9d4ofuJEeurNh7WE) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [How Do You Sleep?](https://open.spotify.com/album/21I90xcafuUMscBPvpalvt) | 2:55 |
 | 51 | [Defibrillator](https://open.spotify.com/track/71zdTsKVOPKvEQjUWRiHvO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Defibrillator](https://open.spotify.com/album/2BQMRPHCjPK4WN2ZtkJKTJ) | 2:41 |
 | 52 | [A Perfect Life is Such a Bore](https://open.spotify.com/track/3Asexp97zKH0k7SxXU6Kpe) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [A Perfect Life is Such a Bore](https://open.spotify.com/album/2mntyxTAs1gleybobNwXYc) | 3:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,112 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,131 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 49 | [Ceux qu'on était \- Version acoustique](https://open.spotify.com/track/03Nu6igh7gtptMbgJrcdrk) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/4JdvSrnVF0r39NGMm1Xree) | 3:20 |
 | 50 | [Je Vis Pour Elle \(feat\. Kendji Girac\) \- Acoustic](https://open.spotify.com/track/5GPgxzeHMdHja2eBhIHNAx) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Je Vis Pour Elle \(feat\. Kendji Girac\) \(Acoustic\)](https://open.spotify.com/album/7friF6osl3PuN7zdUEvNmu) | 4:26 |
 
-Snapshot ID: `AAAAANmt4VcWas3WdZsgKi8qXxgmsiBY`
+Snapshot ID: `AAAAADAQoaDC7EiQ62oGUtmsI/ZpFXLK`

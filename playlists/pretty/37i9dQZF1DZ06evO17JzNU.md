@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,123 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,129 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FERRARI](https://open.spotify.com/track/6LPA5jARmoB8MYsZoHFjIW) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [FERRARI](https://open.spotify.com/album/2gwCniqY1EvKAjcZYwhAto) | 2:14 |
-| 2 | [AMOR](https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 3:35 |
+| 1 | [AMOR](https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 3:35 |
+| 2 | [FERRARI](https://open.spotify.com/track/6LPA5jARmoB8MYsZoHFjIW) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [FERRARI](https://open.spotify.com/album/2gwCniqY1EvKAjcZYwhAto) | 2:14 |
 | 3 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 |
 | 4 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |
 | 5 | [Por Nada Te Cambio](https://open.spotify.com/track/4chVeYSaaPLrvjkgHoK6sT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Por Nada Te Cambio](https://open.spotify.com/album/7hWuy8jFQVmigUrWWH9z9X) | 3:25 |
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 10 | [Soy de Accion](https://open.spotify.com/track/0AK5p4gjgDOgNNKCvH4Zlm) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Hay Que Prender](https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH) | 3:11 |
 | 11 | [A La Orden](https://open.spotify.com/track/5ERFjbUT2UNZ2PrVl1tTW2) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [A La Orden](https://open.spotify.com/album/3LupoDx7BJIYwhk9D1VbZz) | 2:19 |
 | 12 | [VPPMHDSPPM](https://open.spotify.com/track/1p1wnpmPz3oGnZrscI0ayu) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [VPPMHDSPPM](https://open.spotify.com/album/6DBsROTJOvlSRbKNOoqEMs) | 1:55 |
-| 13 | [Contigo Me Veo](https://open.spotify.com/track/7LMMzvDbCVyKu3gF1uR9A5) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Contigo Me Veo](https://open.spotify.com/album/08zbwNKwS5DfmPRgDBTcQW) | 3:15 |
-| 14 | [y no te miento](https://open.spotify.com/track/0w0xbENXslPfLz28ihe1fV) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [y no te miento](https://open.spotify.com/album/0P0v8BqncsRNHX18MhxoEE) | 3:03 |
+| 13 | [y no te miento](https://open.spotify.com/track/0w0xbENXslPfLz28ihe1fV) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [y no te miento](https://open.spotify.com/album/0P0v8BqncsRNHX18MhxoEE) | 3:03 |
+| 14 | [Contigo Me Veo](https://open.spotify.com/track/7LMMzvDbCVyKu3gF1uR9A5) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Contigo Me Veo](https://open.spotify.com/album/08zbwNKwS5DfmPRgDBTcQW) | 3:15 |
 | 15 | [Hay Que Prender](https://open.spotify.com/track/5XFx9B2jKBSIg3GlBRaOim) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Hay Que Prender](https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH) | 3:40 |
 | 16 | [F\*CK](https://open.spotify.com/track/3UTNyW14rwM6rJHjliuJSP) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:07 |
 | 17 | [ME PORTO BONITO](https://open.spotify.com/track/6utwmYBwLhVwxCGsZEfG0i) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [ME PORTO BONITO](https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 49 | [Muchos Se Burlaron](https://open.spotify.com/track/0pV7q3SQa4c8C7etLHntxF) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bendecido](https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21) | 2:59 |
 | 50 | [Se Me Quedan Viendo Raro](https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Se Me Quedan Viendo Raro](https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR) | 3:17 |
 
-Snapshot ID: `ajM1AAAAAAC1bRrUFGzx+hHVXEWKo4wC`
+Snapshot ID: `ajSGgAAAAAAN0ZHsk7cgeRbHF3G5ER4h`

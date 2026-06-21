@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: The Paradox",
-  "num_followers": 604105,
+  "num_followers": 604133,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
+        "name": "2 LITER SPITE",
+        "url": "https://open.spotify.com/album/69iRuCRfkznWMQs3yBkrGv"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "2 LITER SPITE",
+      "url": "https://open.spotify.com/track/5arHMhKsZiD5spn1cX8cAl"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
         "name": "Highs and Lows",
         "url": "https://open.spotify.com/album/4QmqM5vTpq5TTljgWKd4Ld"
       },
@@ -371,18 +387,26 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "2 LITER SPITE",
-        "url": "https://open.spotify.com/album/69iRuCRfkznWMQs3yBkrGv"
+        "name": "Another Round of Radical 'Ritas, Please (feat. Tades Sanville // Hot Mulligan)",
+        "url": "https://open.spotify.com/album/41iiQ1tyESP2mxyNrtdjK2"
       },
       "artists": [
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "Riley!",
+          "url": "https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps"
+        },
+        {
+          "name": "Tades Sanville",
+          "url": "https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0"
+        },
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
         }
       ],
-      "duration_ms": 183500,
-      "name": "2 LITER SPITE",
-      "url": "https://open.spotify.com/track/5arHMhKsZiD5spn1cX8cAl"
+      "duration_ms": 222460,
+      "name": "Another Round of Radical 'Ritas, Please (feat. Tades Sanville // Hot Mulligan)",
+      "url": "https://open.spotify.com/track/7hz9VTMSxCCEOhC9b28vf9"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -419,30 +443,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Another Round of Radical 'Ritas, Please (feat. Tades Sanville // Hot Mulligan)",
-        "url": "https://open.spotify.com/album/41iiQ1tyESP2mxyNrtdjK2"
-      },
-      "artists": [
-        {
-          "name": "Riley!",
-          "url": "https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps"
-        },
-        {
-          "name": "Tades Sanville",
-          "url": "https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0"
-        },
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 222460,
-      "name": "Another Round of Radical 'Ritas, Please (feat. Tades Sanville // Hot Mulligan)",
-      "url": "https://open.spotify.com/track/7hz9VTMSxCCEOhC9b28vf9"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "Go For Broke",
         "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 176381,
-      "name": "Butterfly Effect",
-      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "I Think I've Heard This Before",
         "url": "https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 152624,
       "name": "Twice",
       "url": "https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 176381,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Rejects",
-        "url": "https://open.spotify.com/album/78grezRlmscONkCdIIvkQa"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 174634,
-      "name": "Rejects",
-      "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Rejects",
+        "url": "https://open.spotify.com/album/78grezRlmscONkCdIIvkQa"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 174634,
+      "name": "Rejects",
+      "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
-      },
-      "artists": [
-        {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 168552,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "MOON",
         "url": "https://open.spotify.com/album/5cUf1ovfEUKU3ZwcwXHzLB"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 166986,
       "name": "magnet",
       "url": "https://open.spotify.com/track/2HwweciLv84LZCPguyDpi4"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "duration_ms": 168552,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Before We Go",
-        "url": "https://open.spotify.com/album/6YfCG65Zj6tFvsLGSFNbMh"
-      },
-      "artists": [
-        {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
-        }
-      ],
-      "duration_ms": 154571,
-      "name": "Before We Go",
-      "url": "https://open.spotify.com/track/3UZ27Jo1YVIg40IjRcVTEY"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "Oh No!",
         "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 193166,
       "name": "Oh No!",
       "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Before We Go",
+        "url": "https://open.spotify.com/album/6YfCG65Zj6tFvsLGSFNbMh"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 154571,
+      "name": "Before We Go",
+      "url": "https://open.spotify.com/track/3UZ27Jo1YVIg40IjRcVTEY"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Second Thoughts",
-        "url": "https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u"
-      },
-      "artists": [
-        {
-          "name": "L\u00f8vesick",
-          "url": "https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl"
-        }
-      ],
-      "duration_ms": 161019,
-      "name": "Second Thoughts",
-      "url": "https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "77 (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 173842,
       "name": "77 - feat. Avril Lavigne",
       "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Second Thoughts",
+        "url": "https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u"
+      },
+      "artists": [
+        {
+          "name": "L\u00f8vesick",
+          "url": "https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl"
+        }
+      ],
+      "duration_ms": 161019,
+      "name": "Second Thoughts",
+      "url": "https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "when we were friends",
-        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "when we were friends",
-      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "oxygen.",
         "url": "https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 168472,
       "name": "oxygen.",
       "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "when we were friends",
+        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "when we were friends",
+      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Oxy Moron",
-        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
-      },
-      "artists": [
-        {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Oxy Moron",
-      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "Losing What We Love",
         "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 214505,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Oxy Moron",
+        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
+      },
+      "artists": [
+        {
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Oxy Moron",
+      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
     },
     {
       "added_at": "2026-06-05 10:35:57",

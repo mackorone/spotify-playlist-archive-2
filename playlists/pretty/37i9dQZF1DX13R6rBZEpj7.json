@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 283149,
+  "num_followers": 283180,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
-        "name": "BANGERS ONLY",
-        "url": "https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Take It Underground",
-      "url": "https://open.spotify.com/track/2opBz7WhOjx58AwrqeD3vF"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
         "name": "Pretty & Plump",
         "url": "https://open.spotify.com/album/6iPArDxTfZDMtj0Ync4SD3"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 246760,
       "name": "Bassline Girl",
       "url": "https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
+        "name": "BANGERS ONLY",
+        "url": "https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Take It Underground",
+      "url": "https://open.spotify.com/track/2opBz7WhOjx58AwrqeD3vF"
     },
     {
       "added_at": "2026-05-29 11:02:46",
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-05-29 11:02:46",
       "album": {
+        "name": "Big Truck",
+        "url": "https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi"
+      },
+      "artists": [
+        {
+          "name": "SIDEQUEST",
+          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
+        },
+        {
+          "name": "J Fado",
+          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
+        }
+      ],
+      "duration_ms": 111428,
+      "name": "Big Truck",
+      "url": "https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn"
+    },
+    {
+      "added_at": "2026-05-29 11:02:46",
+      "album": {
         "name": "Courvoisier",
         "url": "https://open.spotify.com/album/1Jt3GNK0Dg7YZqKvF68kRu"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 147104,
       "name": "Courvoisier",
       "url": "https://open.spotify.com/track/2Ma2iAaH8Q8OhbXUsg95sN"
-    },
-    {
-      "added_at": "2026-05-29 11:02:46",
-      "album": {
-        "name": "Big Truck",
-        "url": "https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi"
-      },
-      "artists": [
-        {
-          "name": "SIDEQUEST",
-          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
-        },
-        {
-          "name": "J Fado",
-          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
-        }
-      ],
-      "duration_ms": 111428,
-      "name": "Big Truck",
-      "url": "https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn"
     },
     {
       "added_at": "2026-05-29 11:02:46",

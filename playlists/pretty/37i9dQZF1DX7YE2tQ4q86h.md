@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Rebecca Black is having a main pop girl emergency 🆘
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,192 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,285 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 |
 | 100 | [Hunnybån](https://open.spotify.com/track/2eSa7Je2y3AfxAzDpYKY1E) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Hunnybån / Fine Curls](https://open.spotify.com/album/6ZyUFM1QJYUdSjGNpjAp6M) | 2:41 |
 
-Snapshot ID: `AAAAAJmTeerkMDZCSZLmfa418R8SBZZx`
+Snapshot ID: `AAAAAHGsZGiZ1px9xhaexsKC7neGGWFG`

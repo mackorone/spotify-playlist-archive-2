@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: selines",
-  "num_followers": 34845,
+  "num_followers": 34857,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+        "name": "Veo Veo",
+        "url": "https://open.spotify.com/album/2cigOfCH3CpVOO5JvfvPwf"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Gisun",
+          "url": "https://open.spotify.com/artist/0m7deAVzyDICJb3x1Lu8kj"
+        },
+        {
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
         }
       ],
-      "duration_ms": 244973,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
+      "duration_ms": 207999,
+      "name": "Veo Veo",
+      "url": "https://open.spotify.com/track/4j9pS5hEbPGQYhCscA7chz"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1235,22 +1239,18 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Veo Veo",
-        "url": "https://open.spotify.com/album/2cigOfCH3CpVOO5JvfvPwf"
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
       "artists": [
         {
-          "name": "Gisun",
-          "url": "https://open.spotify.com/artist/0m7deAVzyDICJb3x1Lu8kj"
-        },
-        {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 207999,
-      "name": "Veo Veo",
-      "url": "https://open.spotify.com/track/4j9pS5hEbPGQYhCscA7chz"
+      "duration_ms": 244973,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225221,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 165200,
       "name": "azul",
       "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "duration_ms": 225221,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
     },
     {
       "added_at": "2026-06-17 15:34:50",

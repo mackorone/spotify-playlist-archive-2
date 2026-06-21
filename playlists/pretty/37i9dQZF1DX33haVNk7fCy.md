@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,317 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,425 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 43 | [Stay](https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Stay](https://open.spotify.com/album/7p609zpBo0lsPEJcXlX9Jr) | 3:39 |
 | 44 | [Dil Lauta Do](https://open.spotify.com/track/1VfUpyKz9uN7et8t6Qhe7v) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dil Lauta Do](https://open.spotify.com/album/2VfuGeouepkWV0dsSoHZD8) | 5:02 |
 | 45 | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/track/1mp0zS57ydCqZp9Tm4VvIy) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/album/2W6ZCzLC2pezmRYJQKbr2C) | 4:35 |
-| 46 | [Dekha Ji Dekha Maine](https://open.spotify.com/track/0SA1zJy9pTG3xMKmyhTWiH) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Dekha Ji Dekha Maine](https://open.spotify.com/album/63sBGKjucjka12r1vXvOnT) | 3:29 |
-| 47 | [Apne Khilaaf \(Irshad \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/track/7ElISEDbwXtbB4xAvFRLqb) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Apne Khilaaf \(Irshad \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/album/10sOw0MEXv1HLJgJ8CsZSn) | 5:07 |
+| 46 | [Apne Khilaaf \(Irshad \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/track/7ElISEDbwXtbB4xAvFRLqb) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Apne Khilaaf \(Irshad \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/album/10sOw0MEXv1HLJgJ8CsZSn) | 5:07 |
+| 47 | [Dekha Ji Dekha Maine](https://open.spotify.com/track/0SA1zJy9pTG3xMKmyhTWiH) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Dekha Ji Dekha Maine](https://open.spotify.com/album/63sBGKjucjka12r1vXvOnT) | 3:29 |
 | 48 | [Jeene De Na](https://open.spotify.com/track/6cXDuCHAC7NASzRQcCdJb0) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx), [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Jeene De Na](https://open.spotify.com/album/705AQTppp5TzoozTbC5btL) | 4:46 |
 | 49 | [Khayaal Na Aaya \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/14K3tTCjpT6DAsxwvgDdC5) | [Inderjeet Singh](https://open.spotify.com/artist/1oGaz4k3dCQmX9lAqiBUaM) | [I\-Popstar: Vol\. 1 \| Episodes 4&5](https://open.spotify.com/album/4DsJYycQbtvQ1iKULeISuO) | 4:06 |
 | 50 | [Jiyaa](https://open.spotify.com/track/3zeoa4xhudPrJ2trQarPB5) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [I Loved You](https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq) | 3:23 |

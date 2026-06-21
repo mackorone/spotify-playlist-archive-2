@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 637523,
+  "num_followers": 637521,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAAOEmxN07nYm3Fe5T7t/5qf",
+  "snapshot_id": "ajSGgAAAAABtIcEi7X+ZP4w+fcDkZ9c2",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 237512,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
+      "duration_ms": 219370,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 219370,
-      "name": "LOSER",
-      "url": "https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z"
+      "duration_ms": 237512,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
     },
     {
       "added_at": null,

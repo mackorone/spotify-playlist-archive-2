@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Soy Yo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,481 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,446 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 30 | [Demasiado tarde](https://open.spotify.com/track/60k1tHFgwHhqMC58UnxUFz) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Demasiado tarde](https://open.spotify.com/album/5CQzkNsW9AoUQLbXbxpBMd) | 3:35 |
 | 31 | [119](https://open.spotify.com/track/2jdTwJjgRAIaO4yaxvlOcL) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [119](https://open.spotify.com/album/1rrk57whQ36G12xKGWF0EH) | 2:48 |
 | 32 | [Teskiya](https://open.spotify.com/track/2oc3n11K6mqke5KcASGH58) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [Teskiya](https://open.spotify.com/album/28dIXjCG8vMtgBE14wVFyq) | 2:17 |
-| 33 | [Tejido](https://open.spotify.com/track/2JhZm5cEIKhupJgzm3ielx) | [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws), [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ), [Curandeira](https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp) | [Maracanazo](https://open.spotify.com/album/3M59FMG2GkpnPrXEwBuZls) | 4:17 |
+| 33 | [TEJIDO](https://open.spotify.com/track/2JhZm5cEIKhupJgzm3ielx) | [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws), [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ), [Curandeira](https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp) | [MARACANAZO](https://open.spotify.com/album/3M59FMG2GkpnPrXEwBuZls) | 4:17 |
 | 34 | [Bonita \- Remix](https://open.spotify.com/track/6SYgSCJRj9qZs6bo2rjYOr) | [Cyluz](https://open.spotify.com/artist/6B2ybhyaJT5yd7V5dMX8BQ), [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy) | [Bonita \(Remix\)](https://open.spotify.com/album/6eFaU9DOdH8Akx7QZR3K3y) | 3:04 |
 | 35 | [Cupido](https://open.spotify.com/track/6ixKIH6pvaZcJA8Yfy0x7E) | [Smile](https://open.spotify.com/artist/47IdumnUeVozInz0gfdk6o) | [Chispa](https://open.spotify.com/album/25wH2Tv6k05aFZJiXBBbHw) | 3:25 |
 | 36 | [Lo borré](https://open.spotify.com/track/1gIeVobGl5iSxglT4qGs0J) | [Madrigal](https://open.spotify.com/artist/6l5BOrVZG2Plgjkjm1WTsa), [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Lo borré](https://open.spotify.com/album/1t2my3Dh6VzDkIgPfyCCb8) | 4:09 |

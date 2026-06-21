@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,257 songs - 3 day 2 hr 2 min
+1,258 songs - 3 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [BETTY](https://open.spotify.com/track/1sZMEQ5l9HCmasdqtxd5hY) | [Takumadrops](https://open.spotify.com/artist/469no6YyPirEUGHqqqyINS) | [BETTY](https://open.spotify.com/album/2R4WxFjANEHlSQ1X3abj6N) | 4:19 | 2023-06-29 | 2023-07-21 |
 | [BIG BUG BEAR](https://open.spotify.com/track/7fw70aWMuI2zr9EukkGmuF) | [Jeremy Quartus](https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy) | [BIG BUG BEAR](https://open.spotify.com/album/7jorTd8yPqVUjLzJbtuv51) | 3:46 | 2026-01-28 | 2026-03-19 |
 | [Bigger \- feat\. Choklate](https://open.spotify.com/track/1wBEGfsrI9V50EmfUvoxu2) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Choklate](https://open.spotify.com/artist/5LdWEVbA1btfMyR7FMEjO3) | [Bigger \(feat\. Choklate\)](https://open.spotify.com/album/0BloqjQ5VC2gNODlsgKuqq) | 4:49 | 2025-01-21 | 2025-02-12 |
-| [BITCH](https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR) | 2:42 | 2026-05-09 |  |
+| [BITCH](https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR) | 2:42 | 2026-05-09 | 2026-06-21 |
 | [Black or White?](https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Black or White?](https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q) | 3:34 | 2024-06-12 | 2024-08-29 |
 | [blame](https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [blame](https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa) | 2:54 | 2024-04-23 | 2024-05-19 |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-03-04 |  |
@@ -844,6 +844,7 @@
 | [sailing](https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [sailing](https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I) | 4:04 | 2026-05-30 |  |
 | [Salt](https://open.spotify.com/track/5yaek2XIbhZjsrl0yCAITG) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [Salt](https://open.spotify.com/album/2RHhwut0QHcYyd1Dwf9SFE) | 3:26 | 2024-05-01 | 2024-06-04 |
 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 | 2024-05-17 | 2024-08-04 |
+| [Sand Castle](https://open.spotify.com/track/2hwKCIEZB2sK5Z6Xfws0MK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Sand Castle](https://open.spotify.com/album/2mw5HgtbMr4tSrq5VEqbxC) | 3:35 | 2026-06-18 |  |
 | [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 | 2024-07-24 | 2024-10-13 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-02-22 | 2024-05-15 |
 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2024-07-12 | 2025-07-02 |

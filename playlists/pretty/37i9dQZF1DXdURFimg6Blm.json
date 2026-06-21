@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1482837,
+  "num_followers": 1482819,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-06-19 04:00:40",
       "album": {
+        "name": "On 2nite",
+        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 158848,
+      "name": "On 2nite",
+      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
+    },
+    {
+      "added_at": "2026-06-19 04:00:40",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 193384,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
-    },
-    {
-      "added_at": "2026-06-19 04:00:40",
-      "album": {
-        "name": "On 2nite",
-        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 158848,
-      "name": "On 2nite",
-      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
     },
     {
       "added_at": "2026-06-19 04:00:40",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-06-19 04:00:40",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
+    },
+    {
+      "added_at": "2026-06-19 04:00:40",
+      "album": {
         "name": "Release The Pressure",
         "url": "https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 203668,
       "name": "Release The Pressure",
       "url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
-    },
-    {
-      "added_at": "2026-06-19 04:00:40",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 208640,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
     },
     {
       "added_at": "2026-06-19 04:00:40",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-06-19 04:00:40",
       "album": {
-        "name": "That Acid",
-        "url": "https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL"
-      },
-      "artists": [
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "That Acid",
-      "url": "https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK"
-    },
-    {
-      "added_at": "2026-06-19 04:00:40",
-      "album": {
         "name": "SOMA",
         "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 203571,
       "name": "Noche Without You",
       "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
+    },
+    {
+      "added_at": "2026-06-19 04:00:40",
+      "album": {
+        "name": "That Acid",
+        "url": "https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "That Acid",
+      "url": "https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK"
     },
     {
       "added_at": "2026-06-19 04:00:40",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2026-06-19 04:00:40",
       "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 164423,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/4Nl32YRv6I3SenFccnCXN2"
+    },
+    {
+      "added_at": "2026-06-19 04:00:40",
+      "album": {
         "name": "Don't Wanna Go Home (feat. Henry Camamile)",
         "url": "https://open.spotify.com/album/1Vs2Q4ghAOsjUiTQoGDBAn"
       },
@@ -1287,22 +1307,30 @@
     {
       "added_at": "2026-06-19 04:00:40",
       "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X"
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         },
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
         }
       ],
-      "duration_ms": 164423,
-      "name": "Arizona",
-      "url": "https://open.spotify.com/track/4Nl32YRv6I3SenFccnCXN2"
+      "duration_ms": 129302,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
     },
     {
       "added_at": "2026-06-19 04:00:40",
@@ -1351,34 +1379,6 @@
       "duration_ms": 166429,
       "name": "DON'T KILL THE PARTY (feat. Shoreline Mafia, Quavo & Juicy J)",
       "url": "https://open.spotify.com/track/7xe8BiG8HHl1EetMA6ygey"
-    },
-    {
-      "added_at": "2026-06-19 04:00:40",
-      "album": {
-        "name": "Push It",
-        "url": "https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
-        },
-        {
-          "name": "Mason",
-          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
-        }
-      ],
-      "duration_ms": 129302,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
     },
     {
       "added_at": "2026-06-19 04:00:40",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2026-06-19 04:00:40",
       "album": {
-        "name": "The Dreams Strange and Eternal",
-        "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "FORS",
-          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
-        }
-      ],
-      "duration_ms": 233794,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
-    },
-    {
-      "added_at": "2026-06-19 04:00:40",
-      "album": {
         "name": "The Way I Are (Max Dean Remix)",
         "url": "https://open.spotify.com/album/2PGg01PDpfS5pJqUj7iaEj"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 183953,
       "name": "The Way I Are - Max Dean Remix",
       "url": "https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn"
+    },
+    {
+      "added_at": "2026-06-19 04:00:40",
+      "album": {
+        "name": "The Dreams Strange and Eternal",
+        "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+        }
+      ],
+      "duration_ms": 233794,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
     },
     {
       "added_at": "2026-06-19 04:00:40",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-06-19 04:00:40",
       "album": {
+        "name": "Bite Down",
+        "url": "https://open.spotify.com/album/4nyDDuVwF54WlDiJ5sZzIZ"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Bite Down",
+      "url": "https://open.spotify.com/track/4sCBDKHWDP3cBYrJW3fDzO"
+    },
+    {
+      "added_at": "2026-06-19 04:00:40",
+      "album": {
         "name": "Turn Up The Dose",
         "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 172615,
       "name": "Turn Up The Dose",
       "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
-    },
-    {
-      "added_at": "2026-06-19 04:00:40",
-      "album": {
-        "name": "Bite Down",
-        "url": "https://open.spotify.com/album/4nyDDuVwF54WlDiJ5sZzIZ"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 184545,
-      "name": "Bite Down",
-      "url": "https://open.spotify.com/track/4sCBDKHWDP3cBYrJW3fDzO"
     },
     {
       "added_at": "2026-06-19 04:00:40",

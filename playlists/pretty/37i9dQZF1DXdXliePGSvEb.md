@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,299 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,308 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 36 | [Love Will Win The Day \- Take 3 Radio Edit](https://open.spotify.com/track/4r4G0PQIrASzTRrT9R1Pd5) | [Nutty Nys](https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX) | [Love Will Win The Day \(Take 3 Radio Edit\)](https://open.spotify.com/album/6X8YeWB1WRps0m4DXEu23a) | 3:15 |
 | 37 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
 | 38 | [Roll the Dice \- Konstantin Sibold Remix](https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Roll the Dice \(Konstantin Sibold Remix\)](https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0) | 4:45 |
-| 39 | [Yours to Take](https://open.spotify.com/track/1lCnkwov638dkrJhQf2nmv) | [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Yours to Take](https://open.spotify.com/album/6chCBhvEyDp2WexX9hi7is) | 5:02 |
+| 39 | [Yours to Take](https://open.spotify.com/track/1lCnkwov638dkrJhQf2nmv) | [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Yours to Take](https://open.spotify.com/album/6chCBhvEyDp2WexX9hi7is) | 5:02 |
 | 40 | [Dolly Destructiva](https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Hotel Living](https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0) | 2:23 |
 | 41 | [oknottobeok](https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P) | 3:24 |
 | 42 | [Waxcap](https://open.spotify.com/track/4EqJGKB8ptzxBbbwFimdI3) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Under Tangled Silence](https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea) | 5:10 |

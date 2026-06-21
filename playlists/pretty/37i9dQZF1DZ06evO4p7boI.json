@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 96304,
+  "num_followers": 96311,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAABzwPUipFedPoD/4iEf2Nk6",
+  "snapshot_id": "ajSGgAAAAACqPV+bgQbqEbJ6ClUsN/aN",
   "tracks": [
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Man (2015)",
+        "url": "https://open.spotify.com/album/5mjgHjGJu6oAaDZ9LaPF6n"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 259472,
+      "name": "The Man (2015)",
+      "url": "https://open.spotify.com/track/2TWUcyxR1DmdZBbpgIKW9T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WUNNA (Deluxe)",
         "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 165013,
       "name": "NOTHING 4 FREE (feat. NAV)",
       "url": "https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Man (2015)",
-        "url": "https://open.spotify.com/album/5mjgHjGJu6oAaDZ9LaPF6n"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 259472,
-      "name": "The Man (2015)",
-      "url": "https://open.spotify.com/track/2TWUcyxR1DmdZBbpgIKW9T"
     },
     {
       "added_at": null,

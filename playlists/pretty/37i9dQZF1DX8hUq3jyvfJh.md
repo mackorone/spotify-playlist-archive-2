@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:3f5VCwd57gZsqMad28jyLV">Maria Bethânia</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,923 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,935 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 10 | [Sua Onda](https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Sua Onda](https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I) | 3:36 |
 | 11 | [Nada Mais](https://open.spotify.com/track/2sG4JlM2fO3RzXoXffRYyX) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Todas Elas \(Deluxe\)](https://open.spotify.com/album/34Z3IDAEuX79HesCNLuqL1) | 4:43 |
 | 12 | [Não Quero Te Querer](https://open.spotify.com/track/0ciIs0Cw2gV9E4W3xMQkDk) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Não Quero Te Querer](https://open.spotify.com/album/6ynXVWAUOFYjmaOHxxLg4W) | 3:01 |
-| 13 | [Um dia eu te encontro](https://open.spotify.com/track/37QAkaScwdWBOwj8pBpCLo) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Um dia eu te encontro](https://open.spotify.com/album/1XzOxqDFkg9PExs47Tip0a) | 3:29 |
-| 14 | [Alguém me avisou](https://open.spotify.com/track/6usciGiDOoFfmvnrC7Tyv5) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Sorriso negro](https://open.spotify.com/album/6Mpu9KUGFNTYJw6lQ5RcS8) | 2:34 |
+| 13 | [Alguém me avisou](https://open.spotify.com/track/6usciGiDOoFfmvnrC7Tyv5) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Sorriso negro](https://open.spotify.com/album/6Mpu9KUGFNTYJw6lQ5RcS8) | 2:34 |
+| 14 | [Um dia eu te encontro](https://open.spotify.com/track/37QAkaScwdWBOwj8pBpCLo) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Um dia eu te encontro](https://open.spotify.com/album/1XzOxqDFkg9PExs47Tip0a) | 3:29 |
 | 15 | [De Volta Pro Aconchego](https://open.spotify.com/track/6vzEUwK4CbcDMDvmJ09WsY) | [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Fogo Na Mistura](https://open.spotify.com/album/4AChNbwadWZ9nTyRLs1RMf) | 4:37 |
 | 16 | [Gota De Sangue](https://open.spotify.com/track/2hTnYpWgxPbW197EwbeAWm) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [Angela Roro](https://open.spotify.com/album/5b9KqfZmD65KQNs6vD4VBd) | 2:24 |
 | 17 | [Mulher do Fim do Mundo](https://open.spotify.com/track/0c3yWQVdaR6kFPxAMGg8zL) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Mulher do Fim do Mundo](https://open.spotify.com/album/2xjHr3ho0DJAsvxH0mj0W9) | 4:37 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 27 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
 | 28 | [Último desejo \(Participação especial de Francisco Sérgio e sua orquestra\)](https://open.spotify.com/track/0bWJu08ZYR14s2MT7ezN7D) | [Aracy de Almeida](https://open.spotify.com/artist/4dUyAH3f2lQ4QCXrUtJ778), [Francisco Sérgio e sua Orquestra](https://open.spotify.com/artist/3zTP7PA0jhORYttUqAX0MG) | [Sambas de Noel Rosa](https://open.spotify.com/album/4GBnrfMHbLji4DcNelwuFR) | 3:09 |
 | 29 | [Peito Aberto](https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Peito Aberto](https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w) | 3:11 |
-| 30 | [Meu Poeta](https://open.spotify.com/track/5KUKKu3icCNFq4VnzxC0hH) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Ópera Grunkie](https://open.spotify.com/album/1W3vMj7OmKb8SwdiHwpHfK) | 3:43 |
-| 31 | [Coração Melão](https://open.spotify.com/track/5samMlRFxbQbnYhSGEw5r1) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Umami](https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG) | 4:18 |
+| 30 | [Coração Melão](https://open.spotify.com/track/5samMlRFxbQbnYhSGEw5r1) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Umami](https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG) | 4:18 |
+| 31 | [Meu Poeta](https://open.spotify.com/track/5KUKKu3icCNFq4VnzxC0hH) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Ópera Grunkie](https://open.spotify.com/album/1W3vMj7OmKb8SwdiHwpHfK) | 3:43 |
 | 32 | [Pavilhão de Espelhos](https://open.spotify.com/track/7hqIOZiFjG8TEnn3NUb69X) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Tudo Que Cantei Sou](https://open.spotify.com/album/4FFKHEourvekB17Y3yRGhq) | 3:17 |
 | 33 | [Beatriz](https://open.spotify.com/track/72pMw0S2aWQmQoNGAtlyal) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Noites de Gala, Samba Na Rua](https://open.spotify.com/album/7nOAvR01AU3cbIMGTlMI5v) | 4:56 |
 | 34 | [Doce Presença](https://open.spotify.com/track/4izEvMiE7VGx7TEvbsLJ06) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn), [Cesar Camargo Mariano](https://open.spotify.com/artist/43B6M32q64TmvCjO9WAhWd) | [Voz E Suor](https://open.spotify.com/album/5kFLiVWINVn7Q5N6GVdmDI) | 4:03 |

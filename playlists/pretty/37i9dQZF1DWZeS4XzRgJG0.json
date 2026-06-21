@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 43556,
+  "num_followers": 43567,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-06-15 22:00:29",
       "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 175023,
-      "name": "that way",
-      "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
-    },
-    {
-      "added_at": "2026-06-15 22:00:29",
-      "album": {
         "name": "Nervous System",
         "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 176320,
       "name": "Issues",
       "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
+    },
+    {
+      "added_at": "2026-06-15 22:00:29",
+      "album": {
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 175023,
+      "name": "that way",
+      "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
     },
     {
       "added_at": "2026-06-15 22:00:29",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-06-15 22:00:29",
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "honeybee",
+      "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
+    },
+    {
+      "added_at": "2026-06-15 22:00:29",
+      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 221106,
       "name": "Supermarket Flowers",
       "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
-    },
-    {
-      "added_at": "2026-06-15 22:00:29",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "honeybee",
-      "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
     },
     {
       "added_at": "2026-06-15 22:00:29",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-06-15 22:00:29",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+      "duration_ms": 222800,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
       "added_at": "2026-06-15 22:00:29",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-06-15 22:00:29",
       "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 222800,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2026-06-15 22:00:29",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-06-15 22:00:29",
       "album": {
-        "name": "THE ART OF BEING A MESS (DELUXE)",
-        "url": "https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "somebody you're supposed to love",
-      "url": "https://open.spotify.com/track/0gGd0SR4Sw9VFJx26bHcPd"
-    },
-    {
-      "added_at": "2026-06-15 22:00:29",
-      "album": {
         "name": "Vienna",
         "url": "https://open.spotify.com/album/6jNeC1ZND8Cd5GzetoprLH"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 163209,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/6wgut7kOpJaVp3ge69Noou"
+    },
+    {
+      "added_at": "2026-06-15 22:00:29",
+      "album": {
+        "name": "THE ART OF BEING A MESS (DELUXE)",
+        "url": "https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "somebody you're supposed to love",
+      "url": "https://open.spotify.com/track/0gGd0SR4Sw9VFJx26bHcPd"
     },
     {
       "added_at": "2026-06-15 22:00:29",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-06-15 22:00:29",
       "album": {
-        "name": "Our Version Of Events (Special Edition)",
-        "url": "https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ"
-      },
-      "artists": [
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Clown",
-      "url": "https://open.spotify.com/track/7JogKto8cNNBqz3dZERgDh"
-    },
-    {
-      "added_at": "2026-06-15 22:00:29",
-      "album": {
         "name": "Dumb Love",
         "url": "https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 207068,
       "name": "Dumb Love",
       "url": "https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX"
+    },
+    {
+      "added_at": "2026-06-15 22:00:29",
+      "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Clown",
+      "url": "https://open.spotify.com/track/7JogKto8cNNBqz3dZERgDh"
     },
     {
       "added_at": "2026-06-15 22:00:29",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2026-06-15 22:00:29",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/6CBLXRfN2rYZxUdQ41XCoF"
-      },
-      "artists": [
-        {
-          "name": "Monday",
-          "url": "https://open.spotify.com/artist/2QdvFxDbJCy6w1TBx4nKGY"
-        }
-      ],
-      "duration_ms": 182352,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/4JlmHpay5SIOpc0HttOz2V"
-    },
-    {
-      "added_at": "2026-06-15 22:00:29",
-      "album": {
         "name": "Are You Still Sad?",
         "url": "https://open.spotify.com/album/5CbSQeKzlBtgSQN8NUOshS"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 237000,
       "name": "Are You Still Sad?",
       "url": "https://open.spotify.com/track/1KRdjt2jijCnRj7HjvuPmd"
+    },
+    {
+      "added_at": "2026-06-15 22:00:29",
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/6CBLXRfN2rYZxUdQ41XCoF"
+      },
+      "artists": [
+        {
+          "name": "Monday",
+          "url": "https://open.spotify.com/artist/2QdvFxDbJCy6w1TBx4nKGY"
+        }
+      ],
+      "duration_ms": 182352,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/4JlmHpay5SIOpc0HttOz2V"
     },
     {
       "added_at": "2026-06-15 22:00:29",
@@ -2475,6 +2475,22 @@
     {
       "added_at": "2026-06-15 22:00:29",
       "album": {
+        "name": "In A Perfect World",
+        "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
+    },
+    {
+      "added_at": "2026-06-15 22:00:29",
+      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
       },
@@ -2523,22 +2539,6 @@
     {
       "added_at": "2026-06-15 22:00:29",
       "album": {
-        "name": "In A Perfect World",
-        "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 305746,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
-    },
-    {
-      "added_at": "2026-06-15 22:00:29",
-      "album": {
         "name": "7 Layers",
         "url": "https://open.spotify.com/album/6j7rolGd1DxrUDzo2XfC8z"
       },
@@ -2583,6 +2583,22 @@
       "duration_ms": 236293,
       "name": "We Don't Have To Take Our Clothes Off",
       "url": "https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB"
+    },
+    {
+      "added_at": "2026-06-15 22:00:29",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8"
     },
     {
       "added_at": "2026-06-15 22:00:29",
@@ -2731,22 +2747,6 @@
       "duration_ms": 214533,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3InxJ55D8l1e4ZER6DRqvP"
-    },
-    {
-      "added_at": "2026-06-15 22:00:29",
-      "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8"
     },
     {
       "added_at": "2026-06-15 22:00:29",

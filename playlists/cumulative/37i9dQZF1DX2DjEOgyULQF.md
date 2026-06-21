@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-446 songs - 21 hr 4 min
+447 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,7 +351,7 @@
 | [Sleep Shine](https://open.spotify.com/track/1NSpVywHEnNOG53Nkz3jV5) | [Hwardo Ineso](https://open.spotify.com/artist/462RWWtGvZzX3dhgZmoXgg) | [Sleep Shine](https://open.spotify.com/album/3gwXQ7jSpRBFM5qO1fqCWT) | 2:34 | 2025-07-09 |  |
 | [Slow River](https://open.spotify.com/track/6Pepcvh8x9js9gD4Xq4Rh7) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Slow River](https://open.spotify.com/album/774opILeSkptANsD6z00tS) | 2:51 | 2026-04-03 |  |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-11-24 |  |
-| [Slumber](https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Slumber](https://open.spotify.com/album/6HwXGFUGqfDeaisYykNZGw) | 2:17 | 2024-08-23 |  |
+| [Slumber](https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Slumber](https://open.spotify.com/album/6HwXGFUGqfDeaisYykNZGw) | 2:17 | 2024-08-23 | 2026-06-21 |
 | [Soft and Secluded](https://open.spotify.com/track/3pm88ndOSvKfDbC28FGb7E) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Soft and Secluded](https://open.spotify.com/album/4EqmSSOmcAXzvtT18N3mUZ) | 3:00 | 2026-04-03 |  |
 | [Soft Lights](https://open.spotify.com/track/5wCsBYlomdTdpCMYoguRCg) | [Astral Ocean](https://open.spotify.com/artist/3bV8AeagkRMuP7GwSrK4J6) | [Soft Lights](https://open.spotify.com/album/2Xj4CDF8lq5dYHZEPCsrUd) | 3:02 | 2025-06-12 | 2026-06-13 |
 | [Solemn Echo](https://open.spotify.com/track/5NtSWnA98CIXpE6HloLurX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Solemn Echo](https://open.spotify.com/album/4b8EHzObZBqI6KXyU3DE2g) | 2:12 | 2023-04-28 | 2025-04-21 |
@@ -427,6 +427,7 @@
 | [Vibo Nuovo](https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Vibo Nuovo](https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i) | 3:34 | 2024-02-15 | 2024-04-02 |
 | [Visie](https://open.spotify.com/track/57mmBXolEEyg7pQZfmLB3Y) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Visie](https://open.spotify.com/album/03IvFQYVBG3UO2m4dkLVHW) | 2:41 | 2023-04-28 | 2025-03-20 |
 | [Walking The Path](https://open.spotify.com/track/2h0VLSP2AR1QKe3I3rJJvN) | [Sacred Orb](https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH) | [Walking The Path](https://open.spotify.com/album/0ArZ7AkBPUeJYrglsiUlCX) | 3:09 | 2024-07-19 | 2024-11-05 |
+| [Wandering Through Sunlit Paths](https://open.spotify.com/track/6POwuX20jUHiT5HPyH1IiU) | [Sandman](https://open.spotify.com/artist/62Sld5bJeNx6PsO8ulAk2a) | [Wandering Through Sunlit Paths](https://open.spotify.com/album/4x1laYk5oFc3JxxjRF3c5w) | 2:10 | 2026-06-12 |  |
 | [Watercolor](https://open.spotify.com/track/3t99n6xfreqB2M8DkInWsy) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Watercolor](https://open.spotify.com/album/63JYstDBGYwj9NkN6b2RHZ) | 2:46 | 2026-01-28 | 2026-05-28 |
 | [Wave Son](https://open.spotify.com/track/1zISOcapD0WOYWovAxE9Si) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Wave Son](https://open.spotify.com/album/4icmQJ3f32Xcz6FniCqQJE) | 2:38 | 2024-05-01 | 2026-04-04 |
 | [Wavy](https://open.spotify.com/track/2ZmBus1Smzpa4qRNkWd1Bu) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Wavy](https://open.spotify.com/album/0qGpUKxTfjjsUZJ0Hx3Jf2) | 4:02 | 2023-04-28 | 2025-03-21 |

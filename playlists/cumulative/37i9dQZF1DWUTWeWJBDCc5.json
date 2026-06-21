@@ -3115,6 +3115,24 @@
     },
     {
       "album": {
+        "name": "Prescription",
+        "url": "https://open.spotify.com/album/6GwGLVpDgjlhuLYLujkUpB"
+      },
+      "artists": [
+        {
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193070,
+      "name": "Prescription",
+      "url": "https://open.spotify.com/track/0iFXR1DPndRv8QbIc4fUxy"
+    },
+    {
+      "album": {
         "name": "Promise?",
         "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
       },

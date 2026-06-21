@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 267878,
+  "num_followers": 267966,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -827,26 +827,18 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
-        "url": "https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS"
+        "name": "Ella Dijo / Mil Horas",
+        "url": "https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f"
       },
       "artists": [
         {
-          "name": "Los Lamas",
-          "url": "https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n"
-        },
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        },
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         }
       ],
-      "duration_ms": 362235,
-      "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
-      "url": "https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC"
+      "duration_ms": 199435,
+      "name": "Ella Dijo / Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -867,18 +859,26 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Ella Dijo / Mil Horas",
-        "url": "https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f"
+        "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
+        "url": "https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+          "name": "Los Lamas",
+          "url": "https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n"
+        },
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        },
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
         }
       ],
-      "duration_ms": 199435,
-      "name": "Ella Dijo / Mil Horas - En Vivo",
-      "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
+      "duration_ms": 362235,
+      "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
+      "url": "https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/48a6h9MWyM2bxiAlc3B7Rr"
-      },
-      "artists": [
-        {
-          "name": "Daniel Cardozo",
-          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
-        }
-      ],
-      "duration_ms": 121087,
-      "name": "Tu Carcel - En Vivo",
-      "url": "https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 203253,
       "name": "M\u00e1tame",
       "url": "https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/48a6h9MWyM2bxiAlc3B7Rr"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        }
+      ],
+      "duration_ms": 121087,
+      "name": "Tu Carcel - En Vivo",
+      "url": "https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1683,6 +1683,38 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/28OBVQHbRD3faNpl4jW4U8"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 106272,
+      "name": "Enamorado de ti - Live",
+      "url": "https://open.spotify.com/track/2XlREDMzVX02dEcrv9qyeQ"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "Me Olvide de Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 128072,
+      "name": "Me Olvide de Ti - En Vivo",
+      "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
         "name": "Amaneciendo En Ti (En Vivo en la Casa Sabanera)",
         "url": "https://open.spotify.com/album/0sJ614rOz5MikiGV3ZIzmq"
       },
@@ -1703,22 +1735,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/28OBVQHbRD3faNpl4jW4U8"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 106272,
-      "name": "Enamorado de ti - Live",
-      "url": "https://open.spotify.com/track/2XlREDMzVX02dEcrv9qyeQ"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "En Vivo en el Teatro",
         "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 462272,
       "name": "Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor",
       "url": "https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
-        "name": "Me Olvide de Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 128072,
-      "name": "Me Olvide de Ti - En Vivo",
-      "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
     },
     {
       "added_at": "2026-05-22 03:00:27",

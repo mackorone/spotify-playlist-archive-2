@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 109510,
+  "num_followers": 109543,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Visionair",
-        "url": "https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q"
-      },
-      "artists": [
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10"
-        }
-      ],
-      "duration_ms": 156081,
-      "name": "DomDoen",
-      "url": "https://open.spotify.com/track/5vJpSCkDDqLE6bNF4cRqRG"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Allemaal Een Droom",
         "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 155433,
       "name": "Tout Est Bon",
       "url": "https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Visionair",
+        "url": "https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q"
+      },
+      "artists": [
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10"
+        }
+      ],
+      "duration_ms": 156081,
+      "name": "DomDoen",
+      "url": "https://open.spotify.com/track/5vJpSCkDDqLE6bNF4cRqRG"
     },
     {
       "added_at": "2024-07-19 06:38:33",

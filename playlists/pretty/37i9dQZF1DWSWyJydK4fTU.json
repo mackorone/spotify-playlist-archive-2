@@ -1,6 +1,6 @@
 {
   "description": "darf man so ?? (in den tag starten, kurz leben leben, bisschen pause machen) ",
-  "num_followers": 623943,
+  "num_followers": 623906,
   "original_name": "morning glow",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-06-18 22:00:56",
       "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/2roalRSX5uIvsjNQ2HUQkP"
+      },
+      "artists": [
+        {
+          "name": "Sean Biopcik",
+          "url": "https://open.spotify.com/artist/1k4u2Vi2ORf72ZiJrVJG7j"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/1c2S8whRoKEsdzwAGKmo5p"
+    },
+    {
+      "added_at": "2026-06-18 22:00:56",
+      "album": {
         "name": "nah am meer gebaut",
         "url": "https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 158201,
       "name": "nah am meer gebaut",
       "url": "https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es"
-    },
-    {
-      "added_at": "2026-06-18 22:00:56",
-      "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/2roalRSX5uIvsjNQ2HUQkP"
-      },
-      "artists": [
-        {
-          "name": "Sean Biopcik",
-          "url": "https://open.spotify.com/artist/1k4u2Vi2ORf72ZiJrVJG7j"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/1c2S8whRoKEsdzwAGKmo5p"
     },
     {
       "added_at": "2026-06-18 22:00:56",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-06-18 22:00:56",
       "album": {
-        "name": "Surprise Surprise",
-        "url": "https://open.spotify.com/album/7jyW62gM9VNH5NVd3XkfZA"
+        "name": "Thick Skin",
+        "url": "https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI"
       },
       "artists": [
         {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 175005,
-      "name": "Surprise Surprise",
-      "url": "https://open.spotify.com/track/1qxP9aigVY42COVRva1rO9"
+      "duration_ms": 152466,
+      "name": "Thick Skin",
+      "url": "https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam"
     },
     {
       "added_at": "2026-06-18 22:00:56",

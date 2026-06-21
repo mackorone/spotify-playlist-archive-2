@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 57071,
+  "num_followers": 57092,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAAdFW2xEln0Avlww/sPZPoF",
+  "snapshot_id": "ajSGgAAAAAAgFJOMG5w8rwbsOcUTyk0y",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is A Highway: Refueled Duets",
-        "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
       },
       "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 199733,
-      "name": "Yours If You Want It",
-      "url": "https://open.spotify.com/track/3dhOpqqd9x7Rl0aL0eDzqW"
+      "duration_ms": 161553,
+      "name": "Ruin My Weekend",
+      "url": "https://open.spotify.com/track/0LaZ4n2gyWeO4kFtzpHQ5M"
     },
     {
       "added_at": null,
@@ -395,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+        "name": "Life Is A Highway: Refueled Duets",
+        "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
       },
       "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 161553,
-      "name": "Ruin My Weekend",
-      "url": "https://open.spotify.com/track/0LaZ4n2gyWeO4kFtzpHQ5M"
+      "duration_ms": 199733,
+      "name": "Yours If You Want It",
+      "url": "https://open.spotify.com/track/3dhOpqqd9x7Rl0aL0eDzqW"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 210687,
-      "name": "Leaving New Orleans",
-      "url": "https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq"
+      "duration_ms": 187913,
+      "name": "So Do I",
+      "url": "https://open.spotify.com/track/0MjbiK4r82QTmDiJPvBngj"
     },
     {
       "added_at": null,

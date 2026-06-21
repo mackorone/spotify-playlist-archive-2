@@ -4,7 +4,7 @@
 
 > Sweet sounds and welcoming vibes—come on in and stay for a while
 
-265 songs - 16 hr 36 min
+266 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 | 2022-05-16 | 2024-04-19 |
 | [Church Street Blues](https://open.spotify.com/track/6OOVB3awfnJNb4MbVO0q39) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Church Street Blues](https://open.spotify.com/album/72mviqI8YSWDqwa3jREQoU) | 2:33 | 2021-11-19 | 2026-02-21 |
 | [Church Street Blues](https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:33 | 2022-05-16 | 2024-04-19 |
-| [Circles](https://open.spotify.com/track/4tHtFHy9v5jwIXjZRTIU8o) | [Esmé Patterson](https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa) | [Circles](https://open.spotify.com/album/0WsA33vc6Qc6MONy3mj0OT) | 3:09 | 2023-08-11 |  |
+| [Circles](https://open.spotify.com/track/4tHtFHy9v5jwIXjZRTIU8o) | [Esmé Patterson](https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa) | [Circles](https://open.spotify.com/album/0WsA33vc6Qc6MONy3mj0OT) | 3:09 | 2023-08-11 | 2026-06-21 |
 | [Cloud Corner](https://open.spotify.com/track/6iNO31NlTHD66Izp5vxry8) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Cloud Corner](https://open.spotify.com/album/67VwTfsOQ2vFAE6um5seLD) | 3:22 | 2021-11-19 |  |
 | [Clover On The Hillside](https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Clover On The Hillside](https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976) | 2:21 | 2023-11-10 |  |
 | [Colorado Blues](https://open.spotify.com/track/2qew8GpEiZ9ApwgWPamrj3) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Colorado Blues](https://open.spotify.com/album/7mk5dBCDyzFHhEmg3JwtWQ) | 2:37 | 2022-01-07 | 2026-02-21 |
@@ -184,6 +184,7 @@
 | [Poor Lost Souls](https://open.spotify.com/track/3wG5ynGTSJy7JtWzCIMDFR) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Poor Lost Souls](https://open.spotify.com/album/4rRGLoOo2DIwGg8szXLsrK) | 4:16 | 2021-11-19 | 2026-02-21 |
 | [Poor Lost Souls](https://open.spotify.com/track/4E7j3KHM7hCLrgEa1UF6MW) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Poor Lost Souls](https://open.spotify.com/album/3ZFe34ht2OPadmjKbAVT1v) | 4:16 | 2022-05-16 | 2022-11-13 |
 | [Poor Lost Souls](https://open.spotify.com/track/5saHD81HEsU6vCO07JJyVB) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [These 13](https://open.spotify.com/album/5e7me68eSPsVkbQoGdpEkh) | 4:16 | 2022-05-16 | 2024-04-19 |
+| [Reason To Live](https://open.spotify.com/track/2uMnzAOQM1lujLa1k1yUoX) | [Fruition](https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8) | [Reason To Live](https://open.spotify.com/album/04vOxQOY2dr5OmvgRSjPby) | 3:15 | 2026-06-19 |  |
 | [Red Bird Morning](https://open.spotify.com/track/6dZueQyPiXXlvhSZuOQ0IY) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 3:13 | 2021-11-19 |  |
 | [Rhododendron \- Alt Version](https://open.spotify.com/track/3BztjA6CxeX7vAAzQ92uLL) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron \(Alt Version\)](https://open.spotify.com/album/59EGA2TGxXHE6lVXFnybKp) | 5:22 | 2023-12-08 |  |
 | [Rhododendron \[Feat\. Ye Vagabonds\] \- Rocky Mount](https://open.spotify.com/track/1lw30X1dHXZ1Z5cPLFHYzw) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [Ain't That Fine \(Davis\)](https://open.spotify.com/album/4jepCP20tlZ6oG8AKUuTdM) | 5:35 | 2026-03-13 |  |

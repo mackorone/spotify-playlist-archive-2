@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1615932,
+  "num_followers": 1615990,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,46 @@
     {
       "added_at": "2026-06-19 04:00:45",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
+    },
+    {
+      "added_at": "2026-06-19 04:00:45",
+      "album": {
+        "name": "undux",
+        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "obvious",
+      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
+    },
+    {
+      "added_at": "2026-06-19 04:00:45",
+      "album": {
         "name": "Machine",
         "url": "https://open.spotify.com/album/5QhSoysXYsOllxEnA7qXio"
       },
@@ -1075,22 +1115,6 @@
     {
       "added_at": "2026-06-19 04:00:45",
       "album": {
-        "name": "undux",
-        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "obvious",
-      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
-    },
-    {
-      "added_at": "2026-06-19 04:00:45",
-      "album": {
         "name": "Strange",
         "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
       },
@@ -1103,30 +1127,6 @@
       "duration_ms": 224731,
       "name": "Strange",
       "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
-    },
-    {
-      "added_at": "2026-06-19 04:00:45",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 191076,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
     },
     {
       "added_at": "2026-06-19 04:00:45",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-06-19 04:00:45",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Bo Bruce",
-          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
-        }
-      ],
-      "duration_ms": 214764,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
-    },
-    {
-      "added_at": "2026-06-19 04:00:45",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/62zfpf6wMu4nMyPqPAO0L6"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 225361,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3fDv3H85PgOOg65JZZP6ki"
+    },
+    {
+      "added_at": "2026-06-19 04:00:45",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Bo Bruce",
+          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
+        }
+      ],
+      "duration_ms": 214764,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
     },
     {
       "added_at": "2026-06-19 04:00:45",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2026-06-19 04:00:45",
       "album": {
-        "name": "I Hear No More",
-        "url": "https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo"
-      },
-      "artists": [
-        {
-          "name": "Lumine",
-          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
-        },
-        {
-          "name": "Gino Ingrosso",
-          "url": "https://open.spotify.com/artist/4hXieI14EhBCUy3h4y4hNu"
-        }
-      ],
-      "duration_ms": 167792,
-      "name": "I Hear No More",
-      "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
-    },
-    {
-      "added_at": "2026-06-19 04:00:45",
-      "album": {
         "name": "Beg You",
         "url": "https://open.spotify.com/album/0BkeXVpMRmEu0V1mbmlh6I"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 211875,
       "name": "Beg You",
       "url": "https://open.spotify.com/track/2qUH8eikN8whXYSG9Pyu2l"
+    },
+    {
+      "added_at": "2026-06-19 04:00:45",
+      "album": {
+        "name": "I Hear No More",
+        "url": "https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo"
+      },
+      "artists": [
+        {
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
+        },
+        {
+          "name": "Gino Ingrosso",
+          "url": "https://open.spotify.com/artist/4hXieI14EhBCUy3h4y4hNu"
+        }
+      ],
+      "duration_ms": 167792,
+      "name": "I Hear No More",
+      "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
     },
     {
       "added_at": "2026-06-19 04:00:45",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-06-19 04:00:45",
       "album": {
+        "name": "My Love For You",
+        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "duration_ms": 173587,
+      "name": "My Love For You",
+      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
+    },
+    {
+      "added_at": "2026-06-19 04:00:45",
+      "album": {
         "name": "God In You",
         "url": "https://open.spotify.com/album/4s8AliMdTeyAh5HgXqgsJw"
       },
@@ -1595,18 +1611,22 @@
     {
       "added_at": "2026-06-19 04:00:45",
       "album": {
-        "name": "My Love For You",
-        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
+        "name": "Drop That Beat",
+        "url": "https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU"
       },
       "artists": [
         {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+        },
+        {
+          "name": "Ixxel",
+          "url": "https://open.spotify.com/artist/4FuPIvoA4iAe0sVoEfXhal"
         }
       ],
-      "duration_ms": 173587,
-      "name": "My Love For You",
-      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
+      "duration_ms": 208915,
+      "name": "Drop That Beat",
+      "url": "https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap"
     },
     {
       "added_at": "2026-06-19 04:00:45",
@@ -1631,26 +1651,6 @@
       "duration_ms": 241920,
       "name": "Live My Life",
       "url": "https://open.spotify.com/track/2a0Az8oSMkiZjOpWNzXICs"
-    },
-    {
-      "added_at": "2026-06-19 04:00:45",
-      "album": {
-        "name": "Drop That Beat",
-        "url": "https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU"
-      },
-      "artists": [
-        {
-          "name": "Mosimann",
-          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
-        },
-        {
-          "name": "Ixxel",
-          "url": "https://open.spotify.com/artist/4FuPIvoA4iAe0sVoEfXhal"
-        }
-      ],
-      "duration_ms": 208915,
-      "name": "Drop That Beat",
-      "url": "https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap"
     },
     {
       "added_at": "2026-06-19 04:00:45",
@@ -1951,6 +1951,26 @@
     {
       "added_at": "2026-06-19 04:00:45",
       "album": {
+        "name": "Enjoy the Silence",
+        "url": "https://open.spotify.com/album/25RHfRq0MV0U23aDJkGSNs"
+      },
+      "artists": [
+        {
+          "name": "Paul Thomas",
+          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
+        },
+        {
+          "name": "Christian Burns",
+          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
+        }
+      ],
+      "duration_ms": 209508,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/1s9xl5Nl6Ioo0oviSGww9e"
+    },
+    {
+      "added_at": "2026-06-19 04:00:45",
+      "album": {
         "name": "Wherever You Go",
         "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
       },
@@ -1975,42 +1995,22 @@
     {
       "added_at": "2026-06-19 04:00:45",
       "album": {
-        "name": "Enjoy the Silence",
-        "url": "https://open.spotify.com/album/25RHfRq0MV0U23aDJkGSNs"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/46N04V4j9W6MOzK8JdQ4ye"
       },
       "artists": [
         {
-          "name": "Paul Thomas",
-          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
         },
         {
-          "name": "Christian Burns",
-          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
         }
       ],
-      "duration_ms": 209508,
-      "name": "Enjoy the Silence",
-      "url": "https://open.spotify.com/track/1s9xl5Nl6Ioo0oviSGww9e"
-    },
-    {
-      "added_at": "2026-06-19 04:00:45",
-      "album": {
-        "name": "Attraction (Marsh's Mix)",
-        "url": "https://open.spotify.com/album/1DOvj0TbwyTUTlKzZJD18w"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 285797,
-      "name": "Attraction - Marsh's Mix",
-      "url": "https://open.spotify.com/track/0lqQP09YJFxYPd5M0AUTJc"
+      "duration_ms": 217213,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ"
     }
   ],
   "unique_name": "Night Rider",

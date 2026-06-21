@@ -4720,7 +4720,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 240485,
       "name": "La lumi\u00e8re",
       "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
@@ -9040,6 +9040,24 @@
       "duration_ms": 140178,
       "name": "Silver and Red",
       "url": "https://open.spotify.com/track/3F1E4OIeBjrsLUiukpbxsa"
+    },
+    {
+      "album": {
+        "name": "Belladonna Nocturne",
+        "url": "https://open.spotify.com/album/0MKmxWSoSEQoG5VoSyN633"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87666,
+      "name": "Snow Lake",
+      "url": "https://open.spotify.com/track/0lULvza49oUyDVfcFTWqYn"
     },
     {
       "album": {

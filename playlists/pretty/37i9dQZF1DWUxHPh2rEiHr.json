@@ -1,6 +1,6 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Shakira & Burna Boy ",
-  "num_followers": 500696,
+  "num_followers": 500759,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-05-22 04:00:54",
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "added_at": "2026-05-22 04:00:54",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 169911,
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
-    },
-    {
-      "added_at": "2026-05-22 04:00:54",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2026-05-22 04:00:54",
@@ -927,6 +927,26 @@
     {
       "added_at": "2026-05-22 04:00:54",
       "album": {
+        "name": "Love Letters / \u0631\u0633\u0627\u0626\u0644 \u062d\u0628 (Deluxe)",
+        "url": "https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Fares Sokar",
+          "url": "https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "DO YOU LOVE ME? / \u0633\u0646\u064a\u0648\u0631\u0629",
+      "url": "https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5"
+    },
+    {
+      "added_at": "2026-05-22 04:00:54",
+      "album": {
         "name": "Botshelo Ke Eng",
         "url": "https://open.spotify.com/album/6RzrPXXtvpM4X9enGMlx05"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 189357,
       "name": "Botshelo Ke Eng",
       "url": "https://open.spotify.com/track/5gBaYximqC7VruZHOkUKl8"
-    },
-    {
-      "added_at": "2026-05-22 04:00:54",
-      "album": {
-        "name": "Love Letters / \u0631\u0633\u0627\u0626\u0644 \u062d\u0628 (Deluxe)",
-        "url": "https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
-        {
-          "name": "Fares Sokar",
-          "url": "https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "DO YOU LOVE ME? / \u0633\u0646\u064a\u0648\u0631\u0629",
-      "url": "https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5"
     },
     {
       "added_at": "2026-05-22 04:00:54",

@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1474254,
+  "num_followers": 1474269,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
+        "name": "francisco forr\u00f3 y frevo",
+        "url": "https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 293509,
+      "name": "Deus Me Proteja",
+      "url": "https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
         "name": "Belchior Ac\u00fastico",
         "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 155960,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
-        "name": "francisco forr\u00f3 y frevo",
-        "url": "https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 293509,
-      "name": "Deus Me Proteja",
-      "url": "https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C"
     },
     {
       "added_at": "2026-05-22 11:20:59",

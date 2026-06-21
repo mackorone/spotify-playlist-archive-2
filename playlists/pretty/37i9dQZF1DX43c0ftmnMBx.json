@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 271471,
+  "num_followers": 271500,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,26 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 204324,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "No Es Casualidad",
         "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
       },
@@ -839,26 +859,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Nuestro Amor",
-        "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 204324,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Sentimiento",
         "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 216800,
       "name": "Los Pobres Tambien LLoran",
       "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Bachata A Su Tiempo",
+        "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/6B52JCVw2F1ZjlkNjzq2Rc"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -955,6 +971,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Bachata A Su Tiempo",
+        "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Ese Hombre Soy Yo",
+      "url": "https://open.spotify.com/track/4dGuCncg3xydBZ6A5vYI2Z"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Carta De Verano",
         "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
       },
@@ -991,22 +1023,6 @@
       "duration_ms": 156917,
       "name": "LAS BURBUJAS DEL JACUZZI",
       "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Bachata A Su Tiempo",
-        "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/6B52JCVw2F1ZjlkNjzq2Rc"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Bachata A Su Tiempo",
-        "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Ese Hombre Soy Yo",
-      "url": "https://open.spotify.com/track/4dGuCncg3xydBZ6A5vYI2Z"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Qui\u00e9reme Menos",
         "url": "https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic"
       },
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "LLAMADA PERDIDA",
-        "url": "https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
-        }
-      ],
-      "duration_ms": 229536,
-      "name": "Anestesiada (feat. Luis Miguel Del Amargue)",
-      "url": "https://open.spotify.com/track/0E4h8zC9FLEAFia0XzRL1e"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "SEROTONINA (DELUXE)",
         "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
       },
@@ -1219,18 +1199,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+        "name": "LLAMADA PERDIDA",
+        "url": "https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
         }
       ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
+      "duration_ms": 229536,
+      "name": "Anestesiada (feat. Luis Miguel Del Amargue)",
+      "url": "https://open.spotify.com/track/0E4h8zC9FLEAFia0XzRL1e"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 245146,
       "name": "A Quien Le Importa (Versi\u00f3n Bachata)",
       "url": "https://open.spotify.com/track/0PjlzKDwfuFVpvCT2Ev7KO"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Maestra",
+        "url": "https://open.spotify.com/album/5oTBkhFGfjSNTLYcZEiDCy"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/2Nbb9tYqcZvINNMbUsQn26"
+        }
+      ],
+      "duration_ms": 234031,
+      "name": "Maestra",
+      "url": "https://open.spotify.com/track/4uQf92w1IjsdnKZevVANAt"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 269490,
-      "name": "Vagabundo, Borracho y Loco",
-      "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Mi Regreso",
         "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 236306,
       "name": "Abrazame amor",
       "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 269490,
+      "name": "Vagabundo, Borracho y Loco",
+      "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 256428,
       "name": "Inmortal",
       "url": "https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 218565,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/3cZhoRYQFqJ8B9z0AN9gJB"
     }
   ],
   "unique_name": "Bachat\u00e9ame",

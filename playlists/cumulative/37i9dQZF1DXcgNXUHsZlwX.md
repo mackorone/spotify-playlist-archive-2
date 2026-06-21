@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-609 songs - 1 day 12 hr 18 min
+610 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [La forêt](https://open.spotify.com/track/307TfFnAVG0MN2pSFXz2AW) | [Jay Trepanier](https://open.spotify.com/artist/5GAcHj0ZkPL07NNkfgW7do) | [La forêt](https://open.spotify.com/album/1GMaKOEve0K68gFGPjjXbF) | 2:22 | 2024-09-13 | 2024-12-03 |
 | [La fumée des bougies](https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [La fumée des bougies](https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp) | 3:57 | 2022-12-16 | 2023-08-26 |
 | [La lettre](https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W) | [Juste Robert](https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi) | [Ta théorie sur la lumière](https://open.spotify.com/album/16smfu1rntYNsY9yYqvDDC) | 3:24 | 2022-02-11 | 2022-07-23 |
-| [La lumière](https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [La lumière](https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk) | 4:00 | 2025-06-20 |  |
+| [La lumière](https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [La lumière](https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk) | 4:00 | 2025-06-20 | 2026-06-21 |
 | [La maison jaune \(edit\)](https://open.spotify.com/track/3WtMKaUKG7thWKJstzcKNo) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [La maison jaune \(edit\)](https://open.spotify.com/album/3knYO0onnkgMwjU3VZCetN) | 4:06 | 2021-12-06 | 2022-04-19 |
 | [La mer rose](https://open.spotify.com/track/4DnUtxeDsHam1KdvdOgBVv) | [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Fantaisie](https://open.spotify.com/album/3VYyrIlSdin2xd7MQKxvtG) | 2:27 | 2025-02-07 | 2026-01-31 |
 | [La mort des étoiles](https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 4:19 | 2021-01-03\* | 2026-01-01 |
@@ -493,6 +493,7 @@
 | [Si tu reviens](https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Les grandes artères](https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY) | 3:24 | 2022-01-07 |  |
 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 | 2024-10-18 |  |
 | [Silver and Red](https://open.spotify.com/track/3F1E4OIeBjrsLUiukpbxsa) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Altogether Unaccompanied, Vol\. V](https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT) | 2:20 | 2025-02-11 | 2025-11-08 |
+| [Snow Lake](https://open.spotify.com/track/0lULvza49oUyDVfcFTWqYn) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna Nocturne](https://open.spotify.com/album/0MKmxWSoSEQoG5VoSyN633) | 1:27 | 2026-06-19 |  |
 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 | 2024-10-04 |  |
 | [Solitudes](https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Solitudes](https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi) | 4:08 | 2021-10-03 |  |
 | [Solutions to My Gloom](https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Unessential Oils](https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq) | 4:25 | 2025-12-19 |  |

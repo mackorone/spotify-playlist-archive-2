@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 303158,
+  "num_followers": 303171,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAABuF5DG0BTf1zai0en9qsaY",
+  "snapshot_id": "ajSGgAAAAAA1P/GU14i2zAQCXvKgJLTf",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slaves and Masters (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 326013,
-      "name": "King of Dreams",
-      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine Head - 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/3XXboc1gvm976jCATDdunA"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 378106,
       "name": "Smoke On the Water - 1997 Remix",
       "url": "https://open.spotify.com/track/2nILGstCPTvCM0RMeVa4Wu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slaves and Masters (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 326013,
+      "name": "King of Dreams",
+      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Book of Taliesyn",
-        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 391866,
-      "name": "Anthem - 2000 Remaster",
-      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turning to Crime",
         "url": "https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 293213,
       "name": "White Room",
       "url": "https://open.spotify.com/track/3nWDytplyudbnv36JdKmeW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Book of Taliesyn",
+        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 391866,
+      "name": "Anthem - 2000 Remaster",
+      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
     }
   ],
   "unique_name": "This Is Deep Purple",

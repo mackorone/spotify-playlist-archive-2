@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,550 likes - 150 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,615 likes - 150 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 149 | [PREY](https://open.spotify.com/track/6i4S0r1lpnCfvm5WvxIOGF) | [SZARY](https://open.spotify.com/artist/3hVzRHaqJWJvSg9DY4Y0Ca) | [PREY](https://open.spotify.com/album/380gcA5tfacYgprsHQVWrU) | 4:24 |
 | 150 | [Approaching](https://open.spotify.com/track/1HwGffKegkpj4oEIJH3U8j) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP) | [Approaching](https://open.spotify.com/album/6arIVpHOFRFuYWIy9JxekU) | 3:16 |
 
-Snapshot ID: `AAAAAPKT4HPnOyCGlViWTTYyCO+bywpd`
+Snapshot ID: `AAAAAK4l/UXeypNovk/SLq1x9bvNO19u`

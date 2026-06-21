@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 399370,
+  "num_followers": 399397,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "good grief!",
+        "url": "https://open.spotify.com/album/0SECyjYPCwwkKWRw1pEMdp"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 187303,
+      "name": "good grief!",
+      "url": "https://open.spotify.com/track/1Uj1wrgaz5Lt5yejefdxI7"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/1vXTJVrOhoSS1jafmseOaJ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 179000,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/1nnB4VJrgmQINmPxkeUJaU"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "good grief!",
-        "url": "https://open.spotify.com/album/0SECyjYPCwwkKWRw1pEMdp"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 187303,
-      "name": "good grief!",
-      "url": "https://open.spotify.com/track/1Uj1wrgaz5Lt5yejefdxI7"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Brighter Days (New Day Edition)",
-        "url": "https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 185874,
-      "name": "Brighter Days - New Day Edition",
-      "url": "https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Cloud",
         "url": "https://open.spotify.com/album/4DbQACQLLMvxUF9ooleJOT"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 243645,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/1OWwOQxvXElGhT7PX5acpn"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Brighter Days (New Day Edition)",
+        "url": "https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 185874,
+      "name": "Brighter Days - New Day Edition",
+      "url": "https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "That's who I praise (from the studio)",
-        "url": "https://open.spotify.com/album/7AOXR6g6lYcHAgg5Ecu14F"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 193926,
-      "name": "That's who I praise - from the studio",
-      "url": "https://open.spotify.com/track/24TAbFtyaWvFunN2nUUTdy"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "best thing",
         "url": "https://open.spotify.com/album/3cReeK55hE5LnvhpLA8kh9"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 233583,
       "name": "best thing",
       "url": "https://open.spotify.com/track/5GFxzXTom2S4ZhC7JSOBEh"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "That's who I praise (from the studio)",
+        "url": "https://open.spotify.com/album/7AOXR6g6lYcHAgg5Ecu14F"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 193926,
+      "name": "That's who I praise - from the studio",
+      "url": "https://open.spotify.com/track/24TAbFtyaWvFunN2nUUTdy"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1023,42 +1023,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Happily Hidden",
-        "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        },
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 233129,
-      "name": "Happily Hidden (with John Mark McMillan)",
-      "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "YES BE YES",
-        "url": "https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj"
-      },
-      "artists": [
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 165619,
-      "name": "YES BE YES",
-      "url": "https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "STRENGTH AND SONG",
         "url": "https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw"
       },
@@ -1079,6 +1043,42 @@
       "duration_ms": 213995,
       "name": "STRENGTH AND SONG",
       "url": "https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "YES BE YES",
+        "url": "https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 165619,
+      "name": "YES BE YES",
+      "url": "https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Happily Hidden",
+        "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 233129,
+      "name": "Happily Hidden (with John Mark McMillan)",
+      "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "How Can I Help A Friend",
+        "url": "https://open.spotify.com/album/2DQKbOewFwgxFCQLL5n7Yo"
+      },
+      "artists": [
+        {
+          "name": "Cether",
+          "url": "https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7"
+        },
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 257619,
+      "name": "How Can I Help A Friend",
+      "url": "https://open.spotify.com/track/7Dgm0SACIBvF9XQzpe5l8a"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "Your Lead",
         "url": "https://open.spotify.com/album/5azCVHO1QJp8hBcixAVWGc"
       },
@@ -1255,22 +1275,6 @@
       "duration_ms": 142978,
       "name": "Your Lead",
       "url": "https://open.spotify.com/track/0dfFm85NRrRj8XchR4nqEW"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "I See the Birds",
-        "url": "https://open.spotify.com/album/0VJ9aAYXGKg7DtsPMPFYqz"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 243808,
-      "name": "I See the Birds",
-      "url": "https://open.spotify.com/track/6iIZLd29ZRRnan0gqYrpsv"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1299,22 +1303,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "How Can I Help A Friend",
-        "url": "https://open.spotify.com/album/2DQKbOewFwgxFCQLL5n7Yo"
+        "name": "I See the Birds",
+        "url": "https://open.spotify.com/album/0VJ9aAYXGKg7DtsPMPFYqz"
       },
       "artists": [
         {
-          "name": "Cether",
-          "url": "https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7"
-        },
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 257619,
-      "name": "How Can I Help A Friend",
-      "url": "https://open.spotify.com/track/7Dgm0SACIBvF9XQzpe5l8a"
+      "duration_ms": 243808,
+      "name": "I See the Birds",
+      "url": "https://open.spotify.com/track/6iIZLd29ZRRnan0gqYrpsv"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/0CWgKwjftxN11Fay8KOjmB"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/5RnGsbzXKi1zAoI35mQqAz"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "You Hold It All",
         "url": "https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 198894,
       "name": "Waiting For You (feat. Reggie Dartey)",
       "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/0CWgKwjftxN11Fay8KOjmB"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/5RnGsbzXKi1zAoI35mQqAz"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "not alone",
-        "url": "https://open.spotify.com/album/3k0JfPDoQf2NQxVNakBo2o"
-      },
-      "artists": [
-        {
-          "name": "Meyta",
-          "url": "https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "not alone",
-      "url": "https://open.spotify.com/track/3PKCtiaRoDhrtnRuNBelaq"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Every Good Thing",
         "url": "https://open.spotify.com/album/750SKuZ1H4oRSAWy987LT1"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 289013,
       "name": "Every Good Thing",
       "url": "https://open.spotify.com/track/5HoBbFCyFU7qDdjCK8FYY6"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "not alone",
+        "url": "https://open.spotify.com/album/3k0JfPDoQf2NQxVNakBo2o"
+      },
+      "artists": [
+        {
+          "name": "Meyta",
+          "url": "https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "not alone",
+      "url": "https://open.spotify.com/track/3PKCtiaRoDhrtnRuNBelaq"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "In Hindsight (Acoustic EP)",
-        "url": "https://open.spotify.com/album/3lDLI1NeyJOyhVWenJTc9I"
-      },
-      "artists": [
-        {
-          "name": "Van Buren",
-          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
-        }
-      ],
-      "duration_ms": 256666,
-      "name": "Hindsight - Acoustic",
-      "url": "https://open.spotify.com/track/0tw0p2IoVXJctOjDm4QjM7"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "JESUS LOVES ME",
         "url": "https://open.spotify.com/album/2RYXajwuPeoUcfLa38irCx"
       },
@@ -1875,6 +1859,38 @@
       "duration_ms": 194437,
       "name": "JESUS LOVES ME",
       "url": "https://open.spotify.com/track/6uIarf6X3laYslxgXiii8m"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "In Hindsight (Acoustic EP)",
+        "url": "https://open.spotify.com/album/3lDLI1NeyJOyhVWenJTc9I"
+      },
+      "artists": [
+        {
+          "name": "Van Buren",
+          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
+        }
+      ],
+      "duration_ms": 256666,
+      "name": "Hindsight - Acoustic",
+      "url": "https://open.spotify.com/track/0tw0p2IoVXJctOjDm4QjM7"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Light of Heaven",
+        "url": "https://open.spotify.com/album/09kgncLTX6pFf77R1bHOZx"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 230965,
+      "name": "Light of Heaven",
+      "url": "https://open.spotify.com/track/6USsf7jYhhvclACQuK4JPF"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1919,18 +1935,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Light of Heaven",
-        "url": "https://open.spotify.com/album/09kgncLTX6pFf77R1bHOZx"
+        "name": "Far Far",
+        "url": "https://open.spotify.com/album/334ovjV48rjW7uZAv395fV"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
         }
       ],
-      "duration_ms": 230965,
-      "name": "Light of Heaven",
-      "url": "https://open.spotify.com/track/6USsf7jYhhvclACQuK4JPF"
+      "duration_ms": 155463,
+      "name": "Far Far",
+      "url": "https://open.spotify.com/track/3HJv7EgAFZQJrNGAZQemi4"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1951,22 +1967,6 @@
       "duration_ms": 212543,
       "name": "The Invitation",
       "url": "https://open.spotify.com/track/4AGlWzSEKMDsMgGUhQdcQx"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "Far Far",
-        "url": "https://open.spotify.com/album/334ovjV48rjW7uZAv395fV"
-      },
-      "artists": [
-        {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
-        }
-      ],
-      "duration_ms": 155463,
-      "name": "Far Far",
-      "url": "https://open.spotify.com/track/3HJv7EgAFZQJrNGAZQemi4"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2043,26 +2043,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "It Is Well",
-        "url": "https://open.spotify.com/album/1NJbyEjXlMh6tS3sUDvU5W"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        },
-        {
-          "name": "Kings Kaleidoscope Hymns",
-          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/237DdGVbH6tq0L3HGnFjbx"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Childlike",
         "url": "https://open.spotify.com/album/3B5TCTmp4qMynkhVWJVZCa"
       },
@@ -2083,22 +2063,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "interlude ellipsis",
-        "url": "https://open.spotify.com/album/2zJPJQt07jXEneZWIEJfNl"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 182168,
-      "name": "walk into the light",
-      "url": "https://open.spotify.com/track/5M92wDH3MFb1MgVSLS2GOy"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Abide",
         "url": "https://open.spotify.com/album/3nrLBnxj1hvWBRkmKgUcor"
       },
@@ -2115,6 +2079,22 @@
       "duration_ms": 145263,
       "name": "Abide",
       "url": "https://open.spotify.com/track/2zM6jZtTGq1gjEtGZLjS3V"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "interlude ellipsis",
+        "url": "https://open.spotify.com/album/2zJPJQt07jXEneZWIEJfNl"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "walk into the light",
+      "url": "https://open.spotify.com/track/5M92wDH3MFb1MgVSLS2GOy"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2147,6 +2127,26 @@
       "duration_ms": 184247,
       "name": "fair weather!",
       "url": "https://open.spotify.com/track/3ZIsd95wl3EGSYGt9lGpp2"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "It Is Well",
+        "url": "https://open.spotify.com/album/1NJbyEjXlMh6tS3sUDvU5W"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        },
+        {
+          "name": "Kings Kaleidoscope Hymns",
+          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/237DdGVbH6tq0L3HGnFjbx"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "You Started Fires",
-        "url": "https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 169002,
-      "name": "You Started Fires",
-      "url": "https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Slow Burn (Take Your Time)",
         "url": "https://open.spotify.com/album/6fIdUctKitYtODWnVbg2Dg"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 183205,
       "name": "Slow Burn (Take Your Time)",
       "url": "https://open.spotify.com/track/1g67bntsFM2MrXyz9u5Ken"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "You Started Fires",
+        "url": "https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 169002,
+      "name": "You Started Fires",
+      "url": "https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2487,6 +2487,30 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "KOKORO",
+        "url": "https://open.spotify.com/album/4efSUE9hlWysKFjH3fnO2E"
+      },
+      "artists": [
+        {
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        },
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/0RiFbgEIISn8DwOutzHis1"
+        }
+      ],
+      "duration_ms": 173932,
+      "name": "KOKORO",
+      "url": "https://open.spotify.com/track/3Pln8paCZTrsAAWzt91R0Z"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "BE LIKE YOU",
         "url": "https://open.spotify.com/album/3GSoVFUdlFJhCSwtRCili8"
       },
@@ -2515,30 +2539,6 @@
       "duration_ms": 255837,
       "name": "You Were There",
       "url": "https://open.spotify.com/track/3MeR0AmJgQcmYZgHNCdIaq"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "KOKORO",
-        "url": "https://open.spotify.com/album/4efSUE9hlWysKFjH3fnO2E"
-      },
-      "artists": [
-        {
-          "name": "Bridge Music",
-          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
-        },
-        {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
-        },
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/0RiFbgEIISn8DwOutzHis1"
-        }
-      ],
-      "duration_ms": 173932,
-      "name": "KOKORO",
-      "url": "https://open.spotify.com/track/3Pln8paCZTrsAAWzt91R0Z"
     },
     {
       "added_at": "2026-04-17 06:57:58",

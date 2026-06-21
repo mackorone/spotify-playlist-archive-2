@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 
 > De beste Studenten Hits 2026 op één plek! 🍻 Dé ultieme playlist voor je huisfeest of de kroeg\. Vol met de beste Nederpop, kroegenhits, meezingers en de hardste tracks van Bankzitters, Antoon, Turfy Gang en Roxy Dekker\. 🎤🔥 Cover: Roxy Dekker
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,351 likes - 84 songs - 3 hr 52 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,349 likes - 84 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Sunidhi Chauhan
 
-3,006 songs - 6 day 22 hr 30 min
+3,007 songs - 6 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,7 +605,8 @@
 | [december](https://open.spotify.com/track/51RH09LvrJLuh7843lZNh2) | [MARGE](https://open.spotify.com/artist/4C8EXdS7TXGlWixQydk9RW) | [december](https://open.spotify.com/album/5bsInJw5WiTqaE3FBRGwUE) | 2:45 | 2024-01-10 | 2024-02-08 |
 | [Decisions](https://open.spotify.com/track/1Vr1vDsnFyPtuQLi7cpUMW) | [WAYI](https://open.spotify.com/artist/6CbMqrM714vGa77HxOKoHI) | [Decisions](https://open.spotify.com/album/4o29z1nujib3PRGgdnU7ap) | 3:17 | 2022-07-06 | 2022-08-04 |
 | [Decostruire](https://open.spotify.com/track/6WoR1LIrwT7fhah2JVYtEK) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [Decostruire](https://open.spotify.com/album/4ZHVYWm8nQKkqAkNcBTdKB) | 2:49 | 2025-05-07 | 2025-06-05 |
-| [Deedar De](https://open.spotify.com/track/5SCpszC2xg7sF0S6PE3TL1) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Krishna](https://open.spotify.com/artist/5qG25VRsnLdydJTj1VGZSk) | [Dus](https://open.spotify.com/album/2ZMv24PkdTVTdFBCtSMJiX) | 4:25 | 2026-06-03 |  |
+| [Deedar De](https://open.spotify.com/track/5SCpszC2xg7sF0S6PE3TL1) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Krishna](https://open.spotify.com/artist/5qG25VRsnLdydJTj1VGZSk) | [Dus](https://open.spotify.com/album/2ZMv24PkdTVTdFBCtSMJiX) | 4:25 | 2026-06-03 | 2026-06-21 |
+| [Deedar De \(Nikhil Mix\)](https://open.spotify.com/track/19uybTRF0AmvCe1VpnbIv6) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Dus](https://open.spotify.com/album/2ZMv24PkdTVTdFBCtSMJiX) | 4:56 | 2026-06-20 |  |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-03-06 | 2024-03-21 |
 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-20 | 2025-01-09 |
 | [Defying Gravity \- Edit](https://open.spotify.com/track/7DYH202qpZ1MwLBMd7uvb1) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/1gLo9HojTvd3vN5rqPvk0I) | 3:33 | 2025-01-08 | 2025-02-06 |

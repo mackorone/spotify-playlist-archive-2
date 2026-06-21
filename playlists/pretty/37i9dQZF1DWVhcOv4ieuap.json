@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1037991,
+  "num_followers": 1037932,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "added_at": "2026-06-19 23:58:30",
+      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2026-06-19 23:58:30",
-      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -751,8 +751,8 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
-        "name": "COSITA LINDA",
-        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
+        "name": "CARACAS EN EL 2000",
+        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
       },
       "artists": [
         {
@@ -760,29 +760,17 @@
           "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 139483,
-      "name": "COSITA LINDA",
-      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
-    },
-    {
-      "added_at": "2026-06-19 23:58:30",
-      "album": {
-        "name": "Tu C\u00e1rcel",
-        "url": "https://open.spotify.com/album/614rbDLa3xPz4aeZCqfTzv"
-      },
-      "artists": [
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak"
         }
       ],
-      "duration_ms": 216149,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC"
+      "duration_ms": 227784,
+      "name": "CARACAS EN EL 2000",
+      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
     },
     {
       "added_at": "2026-06-19 23:58:30",
@@ -803,6 +791,22 @@
       "duration_ms": 191825,
       "name": "Hora Loca",
       "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
+    },
+    {
+      "added_at": "2026-06-19 23:58:30",
+      "album": {
+        "name": "Tu C\u00e1rcel",
+        "url": "https://open.spotify.com/album/614rbDLa3xPz4aeZCqfTzv"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 216149,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC"
     },
     {
       "added_at": "2026-06-19 23:58:30",
@@ -851,8 +855,8 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
-        "name": "CARACAS EN EL 2000",
-        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
+        "name": "COSITA LINDA",
+        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
       },
       "artists": [
         {
@@ -860,17 +864,13 @@
           "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         },
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 227784,
-      "name": "CARACAS EN EL 2000",
-      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+      "duration_ms": 139483,
+      "name": "COSITA LINDA",
+      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
     },
     {
       "added_at": "2026-06-19 23:58:30",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
-        "name": "GARC\u00cdA",
-        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 162721,
-      "name": "Garc\u00eda",
-      "url": "https://open.spotify.com/track/03Rj7wKcBWBT444nqDRVHa"
-    },
-    {
-      "added_at": "2026-06-19 23:58:30",
-      "album": {
         "name": "Wapa",
         "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 159776,
       "name": "Wapa",
       "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
+    },
+    {
+      "added_at": "2026-06-19 23:58:30",
+      "album": {
+        "name": "GARC\u00cdA",
+        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Garc\u00eda",
+      "url": "https://open.spotify.com/track/03Rj7wKcBWBT444nqDRVHa"
     },
     {
       "added_at": "2026-06-19 23:58:30",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
-        "name": "M\u00edrame Ahora",
-        "url": "https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 154536,
-      "name": "M\u00edrame Ahora",
-      "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
-    },
-    {
-      "added_at": "2026-06-19 23:58:30",
-      "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
+        "name": "M\u00edrame Ahora",
+        "url": "https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 154536,
+      "name": "M\u00edrame Ahora",
+      "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
+    },
+    {
+      "added_at": "2026-06-19 23:58:30",
+      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
       },
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
-        "name": "KAWASAKI (&TEAM Remix)",
-        "url": "https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8"
-      },
-      "artists": [
-        {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
-        },
-        {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
-        }
-      ],
-      "duration_ms": 161695,
-      "name": "KAWASAKI (&TEAM Remix)",
-      "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
-    },
-    {
-      "added_at": "2026-06-19 23:58:30",
-      "album": {
         "name": "Hey Mor",
         "url": "https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
+    },
+    {
+      "added_at": "2026-06-19 23:58:30",
+      "album": {
+        "name": "KAWASAKI (&TEAM Remix)",
+        "url": "https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        },
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "duration_ms": 161695,
+      "name": "KAWASAKI (&TEAM Remix)",
+      "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
     },
     {
       "added_at": "2026-06-19 23:58:30",
@@ -1515,42 +1515,6 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
-        "name": "Encubiertos",
-        "url": "https://open.spotify.com/album/4Ykjfr35jOU2EQnFwYz9ui"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "Encubiertos",
-      "url": "https://open.spotify.com/track/3AShwV9UQ0K0xXB83zAwZi"
-    },
-    {
-      "added_at": "2026-06-19 23:58:30",
-      "album": {
-        "name": "La_Playlist.mpeg",
-        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "La_Playlist.mpeg",
-      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
-    },
-    {
-      "added_at": "2026-06-19 23:58:30",
-      "album": {
         "name": "CUCARACHEO",
         "url": "https://open.spotify.com/album/3YgQj8RwGWcZpSn6FQP5kQ"
       },
@@ -1571,18 +1535,38 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
-        "name": "aiaiaiaiai",
-        "url": "https://open.spotify.com/album/080bvrS3d0ZPPwlAz3ui1T"
+        "name": "La_Playlist.mpeg",
+        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 140844,
-      "name": "aiaiaiaiai",
-      "url": "https://open.spotify.com/track/1OWeVALbBJNeVRn09ZKB53"
+      "duration_ms": 149571,
+      "name": "La_Playlist.mpeg",
+      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
+    },
+    {
+      "added_at": "2026-06-19 23:58:30",
+      "album": {
+        "name": "Encubiertos",
+        "url": "https://open.spotify.com/album/4Ykjfr35jOU2EQnFwYz9ui"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "duration_ms": 155226,
+      "name": "Encubiertos",
+      "url": "https://open.spotify.com/track/3AShwV9UQ0K0xXB83zAwZi"
     },
     {
       "added_at": "2026-06-19 23:58:30",
@@ -1599,6 +1583,22 @@
       "duration_ms": 254705,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
+    },
+    {
+      "added_at": "2026-06-19 23:58:30",
+      "album": {
+        "name": "aiaiaiaiai",
+        "url": "https://open.spotify.com/album/080bvrS3d0ZPPwlAz3ui1T"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 140844,
+      "name": "aiaiaiaiai",
+      "url": "https://open.spotify.com/track/1OWeVALbBJNeVRn09ZKB53"
     },
     {
       "added_at": "2026-06-19 23:58:30",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
+        "name": "Besito en la Frente",
+        "url": "https://open.spotify.com/album/6rvkTbkg2SAzq67J0wF0mX"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 161622,
+      "name": "Besito en la Frente",
+      "url": "https://open.spotify.com/track/6PBoSxskeHXpOuyz7fuPNC"
+    },
+    {
+      "added_at": "2026-06-19 23:58:30",
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 172503,
       "name": "Cohete",
       "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
-    },
-    {
-      "added_at": "2026-06-19 23:58:30",
-      "album": {
-        "name": "Besito en la Frente",
-        "url": "https://open.spotify.com/album/6rvkTbkg2SAzq67J0wF0mX"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 161622,
-      "name": "Besito en la Frente",
-      "url": "https://open.spotify.com/track/6PBoSxskeHXpOuyz7fuPNC"
     },
     {
       "added_at": "2026-06-19 23:58:30",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-06-19 23:58:30",
       "album": {
-        "name": "Cur\u00e1ndote",
-        "url": "https://open.spotify.com/album/20oYOzxKp2XQZAZ2qLSzJm"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 142021,
-      "name": "Cur\u00e1ndote",
-      "url": "https://open.spotify.com/track/4AJlSjQppatiHS61OrZJd8"
-    },
-    {
-      "added_at": "2026-06-19 23:58:30",
-      "album": {
         "name": "SEGUNDO INTENTO",
         "url": "https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 191368,
       "name": "SEGUNDO INTENTO",
       "url": "https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ"
+    },
+    {
+      "added_at": "2026-06-19 23:58:30",
+      "album": {
+        "name": "Cur\u00e1ndote",
+        "url": "https://open.spotify.com/album/20oYOzxKp2XQZAZ2qLSzJm"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 142021,
+      "name": "Cur\u00e1ndote",
+      "url": "https://open.spotify.com/track/4AJlSjQppatiHS61OrZJd8"
     }
   ],
   "unique_name": "Despierta y Sonr\u00ede",

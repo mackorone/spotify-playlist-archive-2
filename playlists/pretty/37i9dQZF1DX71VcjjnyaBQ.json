@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 443324,
+  "num_followers": 443340,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
-        "name": "These Simple Things",
-        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
-      },
-      "artists": [
-        {
-          "name": "Triosence",
-          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
-        }
-      ],
-      "duration_ms": 308525,
-      "name": "These Simple Things",
-      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
-    },
-    {
-      "added_at": "2026-06-19 04:00:56",
-      "album": {
         "name": "In This Moment",
         "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 223706,
       "name": "In This Moment",
       "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
+    },
+    {
+      "added_at": "2026-06-19 04:00:56",
+      "album": {
+        "name": "These Simple Things",
+        "url": "https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl"
+      },
+      "artists": [
+        {
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+        }
+      ],
+      "duration_ms": 308525,
+      "name": "These Simple Things",
+      "url": "https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat"
     },
     {
       "added_at": "2026-06-19 04:00:56",
@@ -711,6 +711,34 @@
       "duration_ms": 386786,
       "name": "Uncle John\u2019s Band",
       "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
+    },
+    {
+      "added_at": "2026-06-19 04:00:56",
+      "album": {
+        "name": "PEARL",
+        "url": "https://open.spotify.com/album/0gfmzQ2h5XslfUtAZKm4oj"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "PEARL",
+      "url": "https://open.spotify.com/track/33E2bU4xRVvjuc6Y4dtk5k"
     },
     {
       "added_at": "2026-06-19 04:00:56",
@@ -899,22 +927,6 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
-        "name": "The Rumor",
-        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
-      },
-      "artists": [
-        {
-          "name": "Ron Miles",
-          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
-        }
-      ],
-      "duration_ms": 270613,
-      "name": "The Rumor",
-      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
-    },
-    {
-      "added_at": "2026-06-19 04:00:56",
-      "album": {
         "name": "Around The World With U",
         "url": "https://open.spotify.com/album/3v4eINJb7PG6tyW91TtEOx"
       },
@@ -927,6 +939,22 @@
       "duration_ms": 307346,
       "name": "Mo\u2019 Betta Blues",
       "url": "https://open.spotify.com/track/0JoLYqF8Nq29tRzlR384vk"
+    },
+    {
+      "added_at": "2026-06-19 04:00:56",
+      "album": {
+        "name": "The Rumor",
+        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
+      },
+      "artists": [
+        {
+          "name": "Ron Miles",
+          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
+        }
+      ],
+      "duration_ms": 270613,
+      "name": "The Rumor",
+      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
     },
     {
       "added_at": "2026-06-19 04:00:56",
@@ -1015,6 +1043,22 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
+        "name": "BUT BEAUTIFUL",
+        "url": "https://open.spotify.com/album/4bLtGLKzbkAS5KUehR9jdq"
+      },
+      "artists": [
+        {
+          "name": "Sadao Watanabe",
+          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "BUT BEAUTIFUL",
+      "url": "https://open.spotify.com/track/3kFmqdyWdJqj5ZIxFZPJqo"
+    },
+    {
+      "added_at": "2026-06-19 04:00:56",
+      "album": {
         "name": "Smoke Rings",
         "url": "https://open.spotify.com/album/3cuyGBeGovNSkafVyR5V9Q"
       },
@@ -1055,22 +1099,6 @@
       "duration_ms": 341695,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
-    },
-    {
-      "added_at": "2026-06-19 04:00:56",
-      "album": {
-        "name": "BUT BEAUTIFUL",
-        "url": "https://open.spotify.com/album/4bLtGLKzbkAS5KUehR9jdq"
-      },
-      "artists": [
-        {
-          "name": "Sadao Watanabe",
-          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "BUT BEAUTIFUL",
-      "url": "https://open.spotify.com/track/3kFmqdyWdJqj5ZIxFZPJqo"
     },
     {
       "added_at": "2026-06-19 04:00:56",
@@ -1207,30 +1235,18 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
-        "name": "PEARL",
-        "url": "https://open.spotify.com/album/0gfmzQ2h5XslfUtAZKm4oj"
+        "name": "Miles '56 (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
-        },
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        },
-        {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 231066,
-      "name": "PEARL",
-      "url": "https://open.spotify.com/track/33E2bU4xRVvjuc6Y4dtk5k"
+      "duration_ms": 274303,
+      "name": "In Your Own Sweet Way - March 16, 1956 Version / Remastered 2026",
+      "url": "https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8"
     },
     {
       "added_at": "2026-06-19 04:00:56",
@@ -1299,22 +1315,6 @@
       "duration_ms": 152030,
       "name": "Santa Fe Peanut Co.",
       "url": "https://open.spotify.com/track/4bc7tN8lGDAxpMRSkbipPs"
-    },
-    {
-      "added_at": "2026-06-19 04:00:56",
-      "album": {
-        "name": "Miles '56 (Remastered 2026)",
-        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 274303,
-      "name": "In Your Own Sweet Way - March 16, 1956 Version / Remastered 2026",
-      "url": "https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8"
     },
     {
       "added_at": "2026-06-19 04:00:56",

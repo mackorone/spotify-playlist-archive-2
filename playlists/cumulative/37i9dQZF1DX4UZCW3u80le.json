@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Fever (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2QDWFfsBr3EngvBwPtxoIY"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/7MoKXLQeI0Bh2QodCjDO4K"
+    },
+    {
+      "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
@@ -2990,7 +3008,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 254466,
       "name": "The Game of Love (feat. Michelle Branch) - Main / Radio Mix",
       "url": "https://open.spotify.com/track/41IShViF79gmulEkIHAjcb"

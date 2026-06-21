@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u5927\u6c5f\u5343\u91cc",
-  "num_followers": 50126,
+  "num_followers": 50131,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -121,28 +121,20 @@
       "url": "https://open.spotify.com/track/6eGDP2ObBt7zbVVUT0tJJQ"
     },
     {
-      "added_at": "2026-06-02 15:00:28",
+      "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Rainbow's End",
-        "url": "https://open.spotify.com/album/0BpHSTSKw2IdCoMfTbKhdQ"
+        "name": "soraya",
+        "url": "https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e"
       },
       "artists": [
         {
-          "name": "\u4e09\u7530\u73e0\u7406\u3068\u5e02\u5ddd\u7a7a",
-          "url": "https://open.spotify.com/artist/6KsMJkVdTl4AKJmKH1Ooz4"
-        },
-        {
-          "name": "\u4e09\u7530\u73e0\u7406",
-          "url": "https://open.spotify.com/artist/2HTIBIzcYQYA5rcOTsHIws"
-        },
-        {
-          "name": "\u5e02\u5ddd\u7a7a",
-          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
+          "name": "soraya",
+          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
         }
       ],
-      "duration_ms": 272326,
-      "name": "Rainbow's End",
-      "url": "https://open.spotify.com/track/7wsd88N5KRB2OjSkZLcf4G"
+      "duration_ms": 188830,
+      "name": "\u611b\u306e\u3057\u308b\u3057",
+      "url": "https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -201,20 +193,28 @@
       "url": "https://open.spotify.com/track/7EuPou4Xsee5MjH8HScM3r"
     },
     {
-      "added_at": "2026-04-28 15:00:54",
+      "added_at": "2026-06-02 15:00:28",
       "album": {
-        "name": "soraya",
-        "url": "https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e"
+        "name": "Rainbow's End",
+        "url": "https://open.spotify.com/album/0BpHSTSKw2IdCoMfTbKhdQ"
       },
       "artists": [
         {
-          "name": "soraya",
-          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
+          "name": "\u4e09\u7530\u73e0\u7406\u3068\u5e02\u5ddd\u7a7a",
+          "url": "https://open.spotify.com/artist/6KsMJkVdTl4AKJmKH1Ooz4"
+        },
+        {
+          "name": "\u4e09\u7530\u73e0\u7406",
+          "url": "https://open.spotify.com/artist/2HTIBIzcYQYA5rcOTsHIws"
+        },
+        {
+          "name": "\u5e02\u5ddd\u7a7a",
+          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
         }
       ],
-      "duration_ms": 188830,
-      "name": "\u611b\u306e\u3057\u308b\u3057",
-      "url": "https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY"
+      "duration_ms": 272326,
+      "name": "Rainbow's End",
+      "url": "https://open.spotify.com/track/7wsd88N5KRB2OjSkZLcf4G"
     },
     {
       "added_at": "2026-06-02 15:00:28",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/23W2GyzpuPaoMYqKq4CGYa"
     },
     {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
-        "name": "My summer",
-        "url": "https://open.spotify.com/album/1vJ4vwHNJSrhmNRqjGd6Z5"
-      },
-      "artists": [
-        {
-          "name": "Sakura Fujiwara",
-          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
-        }
-      ],
-      "duration_ms": 242846,
-      "name": "My summer",
-      "url": "https://open.spotify.com/track/7CTY2G11hGQYt4p71CVwfo"
-    },
-    {
       "added_at": "2026-06-09 15:00:20",
       "album": {
         "name": "Supersonic (from \"Butterfly\" 2026 Take)",
@@ -263,6 +247,22 @@
       "duration_ms": 232666,
       "name": "Supersonic - from \"Butterfly\" 2026 Take",
       "url": "https://open.spotify.com/track/3D1rtLG5MdPuWQLkzfpK2j"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "My summer",
+        "url": "https://open.spotify.com/album/1vJ4vwHNJSrhmNRqjGd6Z5"
+      },
+      "artists": [
+        {
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "duration_ms": 242846,
+      "name": "My summer",
+      "url": "https://open.spotify.com/track/7CTY2G11hGQYt4p71CVwfo"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -435,26 +435,6 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "\u76f8\u601d\u76f8\u611b",
-        "url": "https://open.spotify.com/album/2PP0pTkcnDPdjaO3WaNOkU"
-      },
-      "artists": [
-        {
-          "name": "C&K",
-          "url": "https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj"
-        },
-        {
-          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
-          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
-        }
-      ],
-      "duration_ms": 269200,
-      "name": "\u76f8\u601d\u76f8\u611b",
-      "url": "https://open.spotify.com/track/3AFRCpDoQaEzblHCvDcXbr"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
         "name": "cure jazz",
         "url": "https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 210933,
       "name": "This city is too jazzy to be in love",
       "url": "https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "\u76f8\u601d\u76f8\u611b",
+        "url": "https://open.spotify.com/album/2PP0pTkcnDPdjaO3WaNOkU"
+      },
+      "artists": [
+        {
+          "name": "C&K",
+          "url": "https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj"
+        },
+        {
+          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
+          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+        }
+      ],
+      "duration_ms": 269200,
+      "name": "\u76f8\u601d\u76f8\u611b",
+      "url": "https://open.spotify.com/track/3AFRCpDoQaEzblHCvDcXbr"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -576,8 +576,8 @@
       },
       "artists": [
         {
-          "name": "\u77f3\u5ddd\u5468\u4e4b\u4ecb",
-          "url": "https://open.spotify.com/artist/0USuuHr06Mmk5TLrg1ctkt"
+          "name": "Shunosuke Ishikawa",
+          "url": "https://open.spotify.com/artist/4NHbJ9owmGLA39C8yzjvu0"
         }
       ],
       "duration_ms": 312564,

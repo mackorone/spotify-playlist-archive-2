@@ -1,13 +1,29 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 70088,
+  "num_followers": 70091,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAACt+MiYUfw3sP9pPgjoWFes",
+  "snapshot_id": "ajSGgAAAAAANax2/3iQJ4icT2yzk9Qqu",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "PALOMINO",
+        "url": "https://open.spotify.com/album/7LRLBrL0HfgkU2SqpzwePJ"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 134586,
+      "name": "PALOMINO",
+      "url": "https://open.spotify.com/track/21sGzDAr9iuedExAktmkeT"
+    },
     {
       "added_at": null,
       "album": {
@@ -719,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2r23a27qGkIUR9BCgi0X6q"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "Hot (with Lunay)",
+      "url": "https://open.spotify.com/track/3dAV3458kU5IEMAa5bzQMW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Mi Habitaci\u00f3n",
         "url": "https://open.spotify.com/album/5YluAzUmLLk8ajKIsHj0lY"
       },
@@ -743,26 +779,6 @@
       "duration_ms": 235226,
       "name": "En Mi Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/4ie9colBgieHEOULuCfK3E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qui\u00e9n es Dei V?",
-        "url": "https://open.spotify.com/album/2r23a27qGkIUR9BCgi0X6q"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Hot (with Lunay)",
-      "url": "https://open.spotify.com/track/3dAV3458kU5IEMAa5bzQMW"
     },
     {
       "added_at": null,
@@ -1059,6 +1075,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gym",
+        "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 138260,
+      "name": "Gym",
+      "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Condado",
         "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
       },
@@ -1079,22 +1111,6 @@
       "duration_ms": 232813,
       "name": "Condado",
       "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gym",
-        "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 138260,
-      "name": "Gym",
-      "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
     },
     {
       "added_at": null,
@@ -1211,22 +1227,6 @@
       "duration_ms": 176000,
       "name": "360",
       "url": "https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si Te Vas Conmigo",
-        "url": "https://open.spotify.com/album/6AAlu0DqcjBVH2bkJZoInM"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Si Te Vas Conmigo",
-      "url": "https://open.spotify.com/track/3KxiuTv3b3HqmmqsKrGNVI"
     }
   ],
   "unique_name": "This Is Lunay",

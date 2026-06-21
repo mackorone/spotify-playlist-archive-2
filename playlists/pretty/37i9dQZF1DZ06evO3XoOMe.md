@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XoOMe.md) - [plain]
 | 17 | [Ride 4 Me](https://open.spotify.com/track/7k8b7rSMp7MMfaLcKt4XVs) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:29 |
 | 18 | [Badness](https://open.spotify.com/track/3TxgHlJngpKLYAQUq2IQ5W) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:49 |
 | 19 | [Alone](https://open.spotify.com/track/7BF1cr6h98dIWhdXrBnRox) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 3:55 |
-| 20 | [Around](https://open.spotify.com/track/3qKNMvtL3n3zin2b4DrpQR) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 1:02 |
+| 20 | [Granted](https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:42 |
 | 21 | [Blockstar](https://open.spotify.com/track/21kF1UzbKfKTNIiRjTgTCT) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:23 |
 | 22 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 |
-| 23 | [Granted](https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:42 |
+| 23 | [Around](https://open.spotify.com/track/3qKNMvtL3n3zin2b4DrpQR) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 1:02 |
 
-Snapshot ID: `ajM1AAAAAAC3tUX95FoJ3+K5ohodnqKi`
+Snapshot ID: `ajSGgAAAAAB+LBFqNzX3Xh2qeTZT7GNH`

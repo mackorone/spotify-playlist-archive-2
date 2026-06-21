@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdeKAiJdkLM.md) - [plain]
 
 > Curated by The Virgo Queen \- Y2K Black Girl Magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 227 likes - 37 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 37 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

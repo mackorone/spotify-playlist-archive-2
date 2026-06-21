@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,294 likes - 100 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,306 likes - 100 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

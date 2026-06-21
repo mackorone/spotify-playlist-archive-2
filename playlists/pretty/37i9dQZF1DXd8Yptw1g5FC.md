@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Derya Uluğ ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,852 likes - 121 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,952 likes - 121 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

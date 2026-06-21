@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 154707,
+  "num_followers": 157486,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAABw4QU2XIXYKOpANGvAguYX",
+  "snapshot_id": "ajSGgAAAAADyjEk8ZTRrCOWqEr1hWVJl",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cowboy Tears",
+        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 148365,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn It Up (feat. Tommy Cash)",
         "url": "https://open.spotify.com/album/6QtloaQlP1TQEDBMJsTtG8"
       },
@@ -707,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboy Tears",
-        "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
       "artists": [
         {
@@ -716,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 148365,
-      "name": "Playing With Fire",
-      "url": "https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG"
+      "duration_ms": 132236,
+      "name": "When You're Around",
+      "url": "https://open.spotify.com/track/27RyeAlW8qufycdeSz2K2o"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
       "duration_ms": 162877,
       "name": "I Hate You",
       "url": "https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 132236,
-      "name": "When You're Around",
-      "url": "https://open.spotify.com/track/27RyeAlW8qufycdeSz2K2o"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All That",
-        "url": "https://open.spotify.com/album/5QtIcYSfyu7OmG4Sp2sMEu"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 166991,
-      "name": "All That",
-      "url": "https://open.spotify.com/track/2rzl7pljzUTkNI66aPTz3A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
         "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 193986,
       "name": "Every Type of Friend",
       "url": "https://open.spotify.com/track/4857wFBWpbuhm5caykSZSO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All That",
+        "url": "https://open.spotify.com/album/5QtIcYSfyu7OmG4Sp2sMEu"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 166991,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/2rzl7pljzUTkNI66aPTz3A"
     },
     {
       "added_at": null,

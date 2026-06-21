@@ -4,7 +4,7 @@
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-82 songs - 3 hr 36 min
+83 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [In Da Club](https://open.spotify.com/track/7E7OFnZu69rHd9X0MqP565) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Da Club](https://open.spotify.com/album/3evYwYBBhiBBELqgILVM0G) | 2:36 | 2024-06-07 | 2024-11-15 |
 | [In Person \(With OG Parker feat\. Tyga\)](https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:10 | 2022-10-28 |  |
 | [INDECISIVE](https://open.spotify.com/track/78bTSkfWKOKbNvmSaoEP1i) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [INDECISIVE](https://open.spotify.com/album/4XoU7QIkfbptrYjv2piTuA) | 2:56 | 2025-03-02 |  |
+| [Jet Up](https://open.spotify.com/track/7H2B9JA3QVET2f7QApQ7TA) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Jet Up](https://open.spotify.com/album/6Q7nLZzALXUFwI3GeShNtG) | 1:53 | 2026-06-21 |  |
 | [look easy](https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:04 | 2024-10-07 |  |
 | [Love Song](https://open.spotify.com/track/3wng4XZaYVJtYPsW8QqdvY) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Keymix III](https://open.spotify.com/album/3ZkhHJ5yXx7q5EIPONr7Ni) | 2:24 | 2024-12-02 | 2025-01-20 |
 | [Loving Me](https://open.spotify.com/track/4GpydPt9VVVb3djc7lzwzk) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:59 | 2024-10-20 | 2026-06-16 |
@@ -64,7 +65,7 @@
 | [Ooh Ahh](https://open.spotify.com/track/7iCmwZaQJOAOxTUp1kI2OM) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Keymix III](https://open.spotify.com/album/3ZkhHJ5yXx7q5EIPONr7Ni) | 2:38 | 2024-12-04 | 2025-01-18 |
 | [Out Your Mind](https://open.spotify.com/track/69mT96YFnkOLuV2giQbW95) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:24 | 2026-02-11 | 2026-02-21 |
 | [Perfect](https://open.spotify.com/track/7nOkNaXqygqopH34aDBmUl) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:21 | 2022-10-28 |  |
-| [Pop Dat](https://open.spotify.com/track/3c6ZvhZQnLmDXU0SYKa4Lz) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 2:06 | 2025-10-26 |  |
+| [Pop Dat](https://open.spotify.com/track/3c6ZvhZQnLmDXU0SYKa4Lz) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 2:06 | 2025-10-26 | 2026-06-21 |
 | [Pop Dat](https://open.spotify.com/track/69IaTU22g3APresMDbF4g9) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 2:06 | 2022-10-28 | 2025-11-12 |
 | [Poppin](https://open.spotify.com/track/2ALg7dHbjG6S2HrlRN8n6R) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:34 | 2022-10-28 |  |
 | [Pretty Brown](https://open.spotify.com/track/2H0wxi6MurPj7C6JxuuDEs) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Keymix III](https://open.spotify.com/album/3ZkhHJ5yXx7q5EIPONr7Ni) | 2:25 | 2024-12-02 | 2025-01-20 |

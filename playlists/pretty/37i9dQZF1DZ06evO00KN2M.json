@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1169591,
+  "num_followers": 1169736,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAAozR9gK62TN6MFaGuXUfVE",
+  "snapshot_id": "ajSGgAAAAABCoCuB683ZprB4tVNaoEvA",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Then Play On (2013 Remaster; Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Oh Well, Pt. 1 - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 189760,
       "name": "Mystified - 2017 Remaster",
       "url": "https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Then Play On (2013 Remaster; Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Oh Well, Pt. 1 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp"
     },
     {
       "added_at": null,

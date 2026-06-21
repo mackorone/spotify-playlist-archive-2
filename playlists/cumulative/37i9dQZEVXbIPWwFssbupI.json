@@ -10083,6 +10083,28 @@
     },
     {
       "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/78ijzTj0ysexqmMCF1brXN"
+      },
+      "artists": [
+        {
+          "name": "Anyme023",
+          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
+        },
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123495,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/0x6IplozYNa5nzqm9jawbv"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -10322,7 +10344,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 212093,
       "name": "Chemin d'or",
       "url": "https://open.spotify.com/track/5kfAx6phDHPpz5g8IAPyc2"
@@ -21478,7 +21500,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 248000,
       "name": "Huracan",
       "url": "https://open.spotify.com/track/6QRy8EXr1ZzPQNRXlAm4TH"
@@ -31113,6 +31135,28 @@
     },
     {
       "album": {
+        "name": "En Croix",
+        "url": "https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv"
+      },
+      "artists": [
+        {
+          "name": "Lagui",
+          "url": "https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147555,
+      "name": "Mandat de d\u00e9p\u00f4t",
+      "url": "https://open.spotify.com/track/1CGRRKN4SgR4z1JiaL5Sz8"
+    },
+    {
+      "album": {
         "name": "Maniac",
         "url": "https://open.spotify.com/album/1fyjw6K3xbKMNhrqzTEa09"
       },
@@ -37922,7 +37966,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
@@ -40710,7 +40754,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 210247,
       "name": "P\u00e9tunias",
       "url": "https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu"
@@ -47776,7 +47820,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
@@ -50930,7 +50974,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 128920,
       "name": "Tu dors ?",
       "url": "https://open.spotify.com/track/6JnsxE0leMVkUvTV0n969D"

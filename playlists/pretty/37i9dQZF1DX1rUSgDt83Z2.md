@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,642 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,651 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 22 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
 | 23 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |
 | 24 | [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 |
-| 25 | [Toen Ik Je Zag](https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Beste Zangers 2024 \(Claude\)](https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7) | 3:36 |
-| 26 | [Iedereen is van de wereld \(Titelsong Van De Film 'Iedereen is van de wereld'\)](https://open.spotify.com/track/3oom0huw1DOVJp9PvhbPEv) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Iedereen is van de wereld \(Titelsong Van De Film 'Iedereen is van de wereld'\)](https://open.spotify.com/album/5M6BCWP2bNLQd35bksJ1NC) | 2:45 |
-| 27 | [Oktober](https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Oktober](https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW) | 3:21 |
-| 28 | [Kingsize Bed](https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Kingsize Bed](https://open.spotify.com/album/14h229HZfdrktan1EQaaIT) | 2:34 |
+| 25 | [Iedereen is van de wereld \(Titelsong Van De Film 'Iedereen is van de wereld'\)](https://open.spotify.com/track/3oom0huw1DOVJp9PvhbPEv) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Iedereen is van de wereld \(Titelsong Van De Film 'Iedereen is van de wereld'\)](https://open.spotify.com/album/5M6BCWP2bNLQd35bksJ1NC) | 2:45 |
+| 26 | [Toen Ik Je Zag](https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Beste Zangers 2024 \(Claude\)](https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7) | 3:36 |
+| 27 | [Kingsize Bed](https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Kingsize Bed](https://open.spotify.com/album/14h229HZfdrktan1EQaaIT) | 2:34 |
+| 28 | [Oktober](https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Oktober](https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW) | 3:21 |
 | 29 | [Dit Is Zo'n Dag](https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Dit Is Zo'n Dag](https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H) | 3:27 |
 | 30 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 |
 | 31 | [Droom Een Beetje Meer](https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Droom Een Beetje Meer](https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt) | 3:25 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 45 | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37) | 3:17 |
 | 46 | [Is Het Gek](https://open.spotify.com/track/1imEuX1GPOSvGMlGbzJCD2) | [SANN!E](https://open.spotify.com/artist/2K6EYEUYCstKryMWqZDbGf), [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Is Het Gek](https://open.spotify.com/album/1yJ0JSDA5BESShXio4fuT2) | 2:33 |
 | 47 | [Plus 1](https://open.spotify.com/track/3ypWTDKWHj7dtfYB6zXVrt) | [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Plus 1](https://open.spotify.com/album/6qlG8hIZMSR6DOamCzu5rE) | 3:03 |
-| 48 | [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 |
-| 49 | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/track/3My7OXHwp10NwgbCoR3KRt) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/album/0SUcRdL1V8ddBXH3MKjkf6) | 3:01 |
+| 48 | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/track/3My7OXHwp10NwgbCoR3KRt) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/album/0SUcRdL1V8ddBXH3MKjkf6) | 3:01 |
+| 49 | [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 |
 | 50 | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/track/3IkpXUu95h0zEOnkxzbqjU) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/album/1ybW8KtzTEhTOuEp1JFXLi) | 3:42 |
 
 Snapshot ID: `AAAAABkeqS/Ex7B6jmEbk8lOxBobWtml`

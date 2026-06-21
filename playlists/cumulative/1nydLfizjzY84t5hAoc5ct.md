@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-292 songs - 18 hr 8 min
+293 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Excess & Lewis Findlay\)](https://open.spotify.com/track/0Itvhn3niERQXu4y0bDNVY) | [Homegrownalwaysbest](https://open.spotify.com/artist/3EwGYKjWb6aQXjammXz7T7), [Tribal John](https://open.spotify.com/artist/2wOJ5rlkn1qN6EovfmygGe), [MOG](https://open.spotify.com/artist/7L97CynQqmNmrfCcHt5qqI), [Werd \(SOS\)](https://open.spotify.com/artist/2JmBusSS5IQxCb3U4PV3z0), [Lewis Findlay](https://open.spotify.com/artist/7HEb5QxdsYnm5r5oA2iBpQ) | [Vol 1 \(Experience, Strength and Broke\)](https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy) | 4:58 | 2026-02-02 | 2026-05-04 |
 | [Fables](https://open.spotify.com/track/2rsylxMg1zRvbpIFu4CZjG) | [Harry Miles\-Watson](https://open.spotify.com/artist/1LpNzV3qzrt2gEXNVZ3MwP) | [Fables](https://open.spotify.com/album/5WdpNTaCyzuYPmYkfjsMK6) | 3:08 | 2026-02-08 |  |
 | [Fabric](https://open.spotify.com/track/6s4gLAxyCfKpkOufiXgVfJ) | [Marie Franc](https://open.spotify.com/artist/7B5muqDPjK6TvSood5ZgVf) | [Fabric](https://open.spotify.com/album/0qjEYQTjzkDcJndFhXs17t) | 3:30 | 2026-04-19 | 2026-05-04 |
+| [Fake News](https://open.spotify.com/track/2JiGE2hEdU2KgLc9gPhbSm) | [Pivots](https://open.spotify.com/artist/2txViAU1bQQ5NzCYpWR1G8) | [Fake News](https://open.spotify.com/album/7ir7HmoBWX0vEFU2b0aAYi) | 2:56 | 2026-06-20 |  |
 | [Fear \- Demo](https://open.spotify.com/track/1xGQKuz3lqVEjEdGaa2U7J) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Fear \(Demo\)](https://open.spotify.com/album/3Lq5YwfzGpgUfNhflySB4o) | 6:08 | 2026-02-27 | 2026-03-07 |
 | [Feet on the ground](https://open.spotify.com/track/58343pX3daGgogNc9ONZr6) | [Ant Thomaz](https://open.spotify.com/artist/2feSaRrLlSdjoDPVyibesT) | [Feet on the ground](https://open.spotify.com/album/4enfg1hvO7ul2Wo42lA74k) | 2:56 | 2025-11-16 | 2025-11-24 |
 | [Fever](https://open.spotify.com/track/2CaeoDenCPTMU1ilc4f19z) | [CRASHKID!](https://open.spotify.com/artist/79gH2g5UhKfGvukkk3Mria) | [Fever](https://open.spotify.com/album/37Hg5Pzk6T83nxMSBy4ivP) | 3:15 | 2025-11-16 | 2026-05-18 |

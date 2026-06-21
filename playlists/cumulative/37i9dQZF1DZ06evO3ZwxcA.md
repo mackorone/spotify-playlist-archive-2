@@ -4,7 +4,7 @@
 
 > This is P.O.D.\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 27 min
+58 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Babylon The Murderer](https://open.spotify.com/track/7MozRmzIvmvsoxLjjOoG9O) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 4:18 | 2024-10-23 | 2025-12-10 |
 | [Beautiful](https://open.spotify.com/track/0lcWp2uXDDQul6oHa4Al00) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:52 | 2024-10-23 |  |
 | [Boom](https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:10 | 2024-10-23 |  |
-| [Booyaka 619 \(Rey Mysterio\)](https://open.spotify.com/track/1LGv7oHSOGKzpkY3Z8pzc3) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [WWE: Wreckless Intent](https://open.spotify.com/album/2m4KqjduGuZ3Vd4xdCnwMc) | 3:12 | 2024-10-23 |  |
+| [Booyaka 619 \(Rey Mysterio\)](https://open.spotify.com/track/1LGv7oHSOGKzpkY3Z8pzc3) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [WWE: Wreckless Intent](https://open.spotify.com/album/2m4KqjduGuZ3Vd4xdCnwMc) | 3:12 | 2024-10-23 | 2026-06-21 |
+| [Booyaka 619 \(Rey Mysterio\)](https://open.spotify.com/track/7tVdfovxNIloBxOkyNK5Jl) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [WWE: Wreckless Intent](https://open.spotify.com/album/1168n2EYwmtBVYj3w1lTdD) | 3:12 | 2026-06-21 |  |
 | [BREAKING](https://open.spotify.com/track/7GMVsr90LiDFsNLFCJfsLq) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 4:07 | 2025-02-16 |  |
 | [Bullet the Blue Sky](https://open.spotify.com/track/5BF8EgFap9pLtSnINN3Ah4) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 5:18 | 2024-10-23 | 2025-09-16 |
 | [Change the World \- 2006 Remaster; Warriors EP Version](https://open.spotify.com/track/3Wtl9G9a0EutLyvNXFIwhu) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Payable on Death \(U.S\. Version\)](https://open.spotify.com/album/05gn8OafjiVteVcSQrPp9J) | 3:03 | 2024-10-23 |  |

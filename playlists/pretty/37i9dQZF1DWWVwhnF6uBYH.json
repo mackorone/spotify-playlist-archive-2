@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 765746,
+  "num_followers": 766049,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
-        "name": "2+2",
-        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 198300,
-      "name": "2+2",
-      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
         "name": "Cholo 2",
         "url": "https://open.spotify.com/album/275lbusSPofF1Oqr0wOdhL"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 183873,
       "name": "Cholo 2",
       "url": "https://open.spotify.com/track/6IMTgx19KOecnpXmbkgkyN"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
+        "name": "2+2",
+        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 198300,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -699,6 +699,26 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
+        "name": "Mejores Jordans",
+        "url": "https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 234077,
+      "name": "Mejores Jordans",
+      "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
         "name": "4x4",
         "url": "https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 288671,
       "name": "4x4",
       "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
-        "name": "Mejores Jordans",
-        "url": "https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 234077,
-      "name": "Mejores Jordans",
-      "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
-        "name": "Ay Mamita",
-        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
-      },
-      "artists": [
-        {
-          "name": "Alan Arrieta",
-          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Ay Mamita",
-      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
         "name": "La Cita Fresita (En Vivo)",
         "url": "https://open.spotify.com/album/6Oo34Jcr1pKCy8lIOFxQ1L"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 180163,
       "name": "La Cita Fresita - En Vivo",
       "url": "https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
+        "name": "Ay Mamita",
+        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
+      },
+      "artists": [
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Ay Mamita",
+      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 200658,
+      "name": "BLANCA ROSITA Y MARIA",
+      "url": "https://open.spotify.com/track/1wsDxqEDpsvNCatbXHjOje"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
         "name": "La Ciudad del Sol",
         "url": "https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 205714,
       "name": "La Ciudad del Sol",
       "url": "https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 200658,
-      "name": "BLANCA ROSITA Y MARIA",
-      "url": "https://open.spotify.com/track/1wsDxqEDpsvNCatbXHjOje"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
-        "name": "Lokota",
-        "url": "https://open.spotify.com/album/3VgpuRu1Dh0ir1oUHSR43I"
-      },
-      "artists": [
-        {
-          "name": "Alan Arrieta",
-          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
-        }
-      ],
-      "duration_ms": 143750,
-      "name": "Lokota",
-      "url": "https://open.spotify.com/track/6t6nppgClHgZlwYfwyuiTW"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
       },
@@ -1591,22 +1575,6 @@
       "duration_ms": 210000,
       "name": "Sin Miedo - En Vivo",
       "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
-        "name": "Hoy Todo Cambio",
-        "url": "https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 203885,
-      "name": "Hoy Todo Cambio",
-      "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -1635,6 +1603,38 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
+        "name": "Hoy Todo Cambio",
+        "url": "https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 203885,
+      "name": "Hoy Todo Cambio",
+      "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
+        "name": "Lokota",
+        "url": "https://open.spotify.com/album/3VgpuRu1Dh0ir1oUHSR43I"
+      },
+      "artists": [
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "duration_ms": 143750,
+      "name": "Lokota",
+      "url": "https://open.spotify.com/track/6t6nppgClHgZlwYfwyuiTW"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
         "name": "R\u00e1pido Soy",
         "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
       },
@@ -1647,26 +1647,6 @@
       "duration_ms": 114125,
       "name": "R\u00e1pido Soy",
       "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
-        "name": "Bonnie & Clyde (Sin enamorarse)",
-        "url": "https://open.spotify.com/album/1jSUMmZw8PsXg989FmYbaL"
-      },
-      "artists": [
-        {
-          "name": "Alan Arrieta",
-          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
-        },
-        {
-          "name": "Miranda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Bonnie & Clyde (Sin enamorarse)",
-      "url": "https://open.spotify.com/track/0sRoQ9DZ7bLehsDYtkRiKM"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -1739,6 +1719,26 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
+        "name": "Bonnie & Clyde (Sin enamorarse)",
+        "url": "https://open.spotify.com/album/1jSUMmZw8PsXg989FmYbaL"
+      },
+      "artists": [
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        },
+        {
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Bonnie & Clyde (Sin enamorarse)",
+      "url": "https://open.spotify.com/track/0sRoQ9DZ7bLehsDYtkRiKM"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
@@ -1755,22 +1755,6 @@
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": "2026-02-27 18:51:46",
-      "album": {
-        "name": "Con Toda La Fe",
-        "url": "https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 144726,
-      "name": "Con Toda La Fe",
-      "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -1795,22 +1779,18 @@
     {
       "added_at": "2026-02-27 18:51:46",
       "album": {
-        "name": "El Plumas",
-        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
+        "name": "Con Toda La Fe",
+        "url": "https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
         }
       ],
-      "duration_ms": 150528,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+      "duration_ms": 144726,
+      "name": "Con Toda La Fe",
+      "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
     },
     {
       "added_at": "2026-02-27 18:51:46",
@@ -1827,6 +1807,26 @@
       "duration_ms": 187372,
       "name": "El Compa Lonche",
       "url": "https://open.spotify.com/track/4DS2qYSS7H4i19ZYMf09Dp"
+    },
+    {
+      "added_at": "2026-02-27 18:51:46",
+      "album": {
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 150528,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
     },
     {
       "added_at": "2026-02-27 18:51:46",

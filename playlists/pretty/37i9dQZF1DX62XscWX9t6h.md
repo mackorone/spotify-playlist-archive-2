@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,076 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,130 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 35 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 |
 | 36 | [Go Dig My Grave](https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 8:38 |
 | 37 | [Yemayá](https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Yemayá](https://open.spotify.com/album/2sJglv0TslV4flsyAqQGmz) | 3:59 |
-| 38 | [CHIENA 'E SCIPPE](https://open.spotify.com/track/29z4FTyuYn0Hflj9jwIl3c) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [FURÈSTA](https://open.spotify.com/album/17LP7L6YElIuVYK1gg7S37) | 3:18 |
-| 39 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 |
+| 38 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 |
+| 39 | [CHIENA 'E SCIPPE](https://open.spotify.com/track/29z4FTyuYn0Hflj9jwIl3c) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [FURÈSTA](https://open.spotify.com/album/17LP7L6YElIuVYK1gg7S37) | 3:18 |
 | 40 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
 | 41 | [Sina Vaishu](https://open.spotify.com/track/3uKyFQLFROMWoaNAVQ7Mw4) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Yawanawa Saiti Kaya](https://open.spotify.com/artist/5MfMwcmD7YoH6QLYhcTCl1), [Coleção Som Nativo](https://open.spotify.com/artist/0h305Rcjz5GdVBYlWuHNGq) | [THE FUTURE IS ANCESTRAL](https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3) | 3:29 |
 | 42 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 62 | [Los Chucos Suaves \(featuring Macha\)](https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Macha](https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:12 |
 | 63 | [Alsutur](https://open.spotify.com/track/6GBTuDftjpSehy0GHLN0Fl) | [Dar Disku](https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR), [FLANAH](https://open.spotify.com/artist/5DqIuKnov00pkcf2dlq8W5) | [Dar Disku](https://open.spotify.com/album/2WPTr25DfIdlsDZDcb2aHY) | 2:39 |
 | 64 | [Turkish Coffee](https://open.spotify.com/track/4XwNMzzX2Am9G4WbRl6nMi) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Turkish Coffee](https://open.spotify.com/album/32NlU7M1aJkrf4dJBiRNTW) | 3:37 |
-| 65 | [Totomami](https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU) | [Pony Bravo](https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF) | [Gurú](https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq) | 3:38 |
-| 66 | [Silky](https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Mentallogenic](https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym) | 4:19 |
+| 65 | [Silky](https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Mentallogenic](https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym) | 4:19 |
+| 66 | [Totomami](https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU) | [Pony Bravo](https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF) | [Gurú](https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq) | 3:38 |
 | 67 | [Newcastle](https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 5:43 |
 | 68 | [Hustle](https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Black To The Future](https://open.spotify.com/album/6AfA0FZhzRTpjDDYHkCd5B) | 5:18 |
 | 69 | [Ghibli](https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG) | [Ghibli](https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As) | 3:55 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 84 | [Makeda](https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 5:53 |
 | 85 | [Lam Phu Thai \# 1](https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr) | [Khun Narin](https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1) | [Khun Narin's Electric Phin Band](https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S) | 5:57 |
 | 86 | [Remotely Close: Silkyway](https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Elif Çağlar](https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv) | [Remotely Close: Silkyway](https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw) | 3:50 |
-| 87 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
-| 88 | [Lele Yane](https://open.spotify.com/track/0ft5jkeELw5jdq6NZ9Bmh5) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV), [Irina Mikhailova](https://open.spotify.com/artist/2WJ3FV4yMhfoY9H5VOTscR) | [Up from the Dust](https://open.spotify.com/album/54RiFl146sDKcHQr5Poi58) | 6:15 |
-| 89 | [Junchuch](https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0) | [Junchuch](https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY) | 4:36 |
+| 87 | [Junchuch](https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0) | [Junchuch](https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY) | 4:36 |
+| 88 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
+| 89 | [Lele Yane](https://open.spotify.com/track/0ft5jkeELw5jdq6NZ9Bmh5) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV), [Irina Mikhailova](https://open.spotify.com/artist/2WJ3FV4yMhfoY9H5VOTscR) | [Up from the Dust](https://open.spotify.com/album/54RiFl146sDKcHQr5Poi58) | 6:15 |
 | 90 | [Enkaz](https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Enkaz](https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH) | 3:20 |
 | 91 | [El suïcidi i el cant](https://open.spotify.com/track/7GquvFJQ0RKEOgH6uNAhkU) | [Tarta Relena](https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP) | [Fiat Lux](https://open.spotify.com/album/4hjKxlkH171FW6UmzpOD36) | 4:02 |
 | 92 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 96 | [Ya Watan](https://open.spotify.com/track/3ArBO06WybP4GQCtwCwTgw) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Manara](https://open.spotify.com/album/39bOQIKF8BRXuf8zSh1yeG) | 2:50 |
 | 97 | [Charango Dub](https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Charango Dub](https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU) | 4:44 |
 | 98 | [Wee Rosebud](https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Wee Rosebud](https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD) | 4:21 |
-| 99 | [アダンの海辺](https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 3:18 |
-| 100 | [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 |
+| 99 | [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 |
+| 100 | [アダンの海辺](https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 3:18 |
 
 Snapshot ID: `AAAAAOgBIqsM/lsR2ymIcRvX926UOZt7`

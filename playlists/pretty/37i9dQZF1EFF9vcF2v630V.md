@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 4 | [11:11](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 |
 | 5 | [Now You're Gone \(feat\. Zara Larsson\)](https://open.spotify.com/track/2oVoSgGAlog02WQ2pLCxcT) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:32 |
 | 6 | [Bad Together](https://open.spotify.com/track/4O2mz1CYlIwaYbUV93eHKZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:58 |
-| 7 | [Dreams](https://open.spotify.com/track/6VMqlhUv1V98yKas8xMefk) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:40 |
+| 7 | [Dreams](https://open.spotify.com/track/2iAixc4YYP7wEonPub71SO) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/3SXqs6UQiQyIOnk1TeodLo) | 3:40 |
 | 8 | [So Good](https://open.spotify.com/track/20js7QbHkIuzrgecUTPfl7) | [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [So Good](https://open.spotify.com/album/0nuSy7w6zQ5Rzu3PW4Ya1R) | 3:10 |
 | 9 | [Wild](https://open.spotify.com/track/1kEc9ep3rFqhwG4OlqbjLH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 |
 | 10 | [Happy](https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Happy](https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk) | 3:41 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 72 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
 | 73 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [dreamhouse](https://open.spotify.com/artist/4RfivXSc4tPlg4avnBN5PJ) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 
-Snapshot ID: `AcUq5gAAAADxEyn/b/NiiDL0/kGfBaIg`
+Snapshot ID: `AcUwhgAAAAASg+mMcmlFWs3t9Ju6+Sb3`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,462 songs - 3 day 10 hr 47 min
+1,463 songs - 3 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -889,7 +889,7 @@
 | [הכי קרוב אלייך](https://open.spotify.com/track/7xluxbbxxQ8ovB6xrJUlim) | [Elai Botner](https://open.spotify.com/artist/6E1teCjsYmOlunh0OoPPA0), [Avraham Aviv Alush](https://open.spotify.com/artist/5hoXNR3dL6TafUYqk8b1m2) | [הכי קרוב אלייך](https://open.spotify.com/album/3lw6fJkAZ7btTA2W8e9MMt) | 3:51 | 2022-02-20 | 2022-05-31 |
 | [הלב שלי](https://open.spotify.com/track/7Ck421SAROdN0Q6RXMbic7) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 3:59 | 2021-09-17 | 2025-10-08 |
 | [הלוואי](https://open.spotify.com/track/6MwsuFL115vgX9mCHlTZyU) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs), [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [הלוואי](https://open.spotify.com/album/2NxRJboinERkx6D6k675Ei) | 3:49 | 2026-04-06 |  |
-| [המבט בעיניך](https://open.spotify.com/track/6VYbnnpUYShqFn22MERtmP) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [21](https://open.spotify.com/album/6Fvp2M2J5FRFPC7dYIGD34) | 3:08 | 2025-11-25 | 2026-06-19 |
+| [המבט בעיניך](https://open.spotify.com/track/6VYbnnpUYShqFn22MERtmP) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [21](https://open.spotify.com/album/6Fvp2M2J5FRFPC7dYIGD34) | 3:08 | 2025-11-25 |  |
 | [המכתב האחרון](https://open.spotify.com/track/2o7VQHDfkMWdnBNbOkNHwe) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [עידן עמדי](https://open.spotify.com/album/38ULaBgGevy5UhbI9yXAvg) | 3:20 | 2022-05-05 | 2023-04-28 |
 | [המלחמה האחרונה](https://open.spotify.com/track/1u7dx4QxbZbcWWEGfgFo0z) | [יאיר אלייצור](https://open.spotify.com/artist/7m09aLn1QHUz5D7hqNnkW2), [בר קופרשטיין](https://open.spotify.com/artist/4UMGNDRC0FJGJ7axLEYKKI) | [המלחמה האחרונה](https://open.spotify.com/album/3UKO9mogGg9UVqH3kDVqRZ) | 3:40 | 2026-04-10 | 2026-04-12 |
 | [המלך בשדה](https://open.spotify.com/track/5LqzGpUPRQXbN9WwFdKY17) | [Bar Tzabary](https://open.spotify.com/artist/3lDTgudSVNR05wyiJ1RptF), [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [המלך בשדה](https://open.spotify.com/album/1SSBNUr8VSBq5ht9ZQge7Y) | 3:16 | 2025-10-02 | 2025-10-04 |
@@ -964,7 +964,7 @@
 | [חתולים](https://open.spotify.com/track/7IGkkk83NInOaTmLALMP7L) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [חתולים](https://open.spotify.com/album/6SSW04Xf7QMwtQSvaVUYjx) | 3:38 | 2021-03-27\* | 2021-05-29 |
 | [טאטע תטהר \- גרסה אקוסטית](https://open.spotify.com/track/5bFrsEk5efTVlOTwtLBLn2) | [יאיר אלייצור](https://open.spotify.com/artist/7m09aLn1QHUz5D7hqNnkW2), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [טאטע תטהר \(גרסה אקוסטית\)](https://open.spotify.com/album/0WS1PjaiDwUw5PzHAhYQK0) | 2:38 | 2025-01-18 | 2025-05-31 |
 | [טיל פצמר](https://open.spotify.com/track/0JoYMP7hvEwxKCjj9szUo6) | [ליעד מאיר](https://open.spotify.com/artist/0pv7p5CElqhjhzyPD4eXpe) | [טיל פצמר](https://open.spotify.com/album/7pkmnnhjVV4vSCbUnguYcj) | 2:15 | 2023-08-12 | 2023-12-26 |
-| [טקילה](https://open.spotify.com/track/5ppuL7dOIhd7td0YCJJuwf) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:40 | 2024-11-11 |  |
+| [טקילה](https://open.spotify.com/track/5ppuL7dOIhd7td0YCJJuwf) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:40 | 2024-11-11 | 2026-06-21 |
 | [טרילילי טרללה](https://open.spotify.com/track/7hYZJ0COHvJxMx6tBSJ1T6) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL) | [טרילילי טרללה](https://open.spotify.com/album/22CJZ4LX8d7fI0Kqk6c1hk) | 3:23 | 2021-06-23 | 2022-05-08 |
 | [טרנטולה](https://open.spotify.com/track/4py8ddBPFRTYqL3vbh2FXq) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 2:10 | 2023-02-23 | 2023-08-01 |
 | [טרנטונה](https://open.spotify.com/track/5pszKUrVXrL8MZ3UJb2fX3) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 2:49 | 2021-12-18 | 2021-12-26 |
@@ -1360,7 +1360,7 @@
 | [רולקס וקסקט](https://open.spotify.com/track/7iepAdmAykL8gh7dYMzpsM) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [רולקס וקסקט](https://open.spotify.com/album/4wSuACXEqtT9x2aj8dt5uE) | 3:12 | 2026-01-15 |  |
 | [רונדלים](https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 1:54 | 2023-02-23 | 2024-10-23 |
 | [רוצה שלום](https://open.spotify.com/track/4L4dPjtEVEpZ0ER2deHAJA) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [רוצה שלום](https://open.spotify.com/album/3TsFkrLXnknyMa3GegwMOR) | 3:28 | 2021-03-27\* | 2021-12-19 |
-| [רוצי ילדה](https://open.spotify.com/track/4QcmYhQnuOT79zUwmsAOnE) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [שמחה](https://open.spotify.com/album/4NOVlhjP1eEwh5Xh9mx1ic) | 3:35 | 2026-06-15 |  |
+| [רוצי ילדה](https://open.spotify.com/track/4QcmYhQnuOT79zUwmsAOnE) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [שמחה](https://open.spotify.com/album/4NOVlhjP1eEwh5Xh9mx1ic) | 3:35 | 2026-06-15 | 2026-06-21 |
 | [רוקד לי על העצב](https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [רוקד לי על העצב](https://open.spotify.com/album/0RcgspZ4OvKayfaPDS1gcY) | 2:58 | 2025-05-14 | 2026-04-12 |
 | [רוקד עם הכאב](https://open.spotify.com/track/4ra4WsUIRDxIQ6p0l5t276) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [כוחה של אהבה](https://open.spotify.com/album/2L5KLSiiUaV5xJRKZ0tXTB) | 4:01 | 2025-09-19 | 2026-02-20 |
 | [רוקי](https://open.spotify.com/track/1oZbzZEpWVtmwMjxo12SzV) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [Van da'M](https://open.spotify.com/album/4f4oaIUkUWwveb5KZe1pNx) | 3:09 | 2025-10-06 | 2026-05-16 |
@@ -1453,6 +1453,7 @@
 | [תל אביב זה אני ואת](https://open.spotify.com/track/6ssR8XxeSyPytTMkSaJn9e) | [Amir Ve Ben](https://open.spotify.com/artist/6UReeaqNcjIfzIH13kTHKE), [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [תל אביב זה אני ואת](https://open.spotify.com/album/1KyVY1Ich1xiE8CWTYnuIY) | 3:41 | 2021-05-03 | 2021-06-03 |
 | [תמיד אוהב אותי](https://open.spotify.com/track/3CZdlwKHGTvfveatbfKD3q) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [תמיד אוהב אותי](https://open.spotify.com/album/1YdxoBErtg9MusUuZ6hjSp) | 2:52 | 2024-09-22 | 2025-12-29 |
 | [תמיד עולה המנגינה](https://open.spotify.com/track/5LcJmCO4h3UPAOIuI1FbVX) | [Lehakat Heil Ha'avir](https://open.spotify.com/artist/5Pb2wwzEYyMV1e3ieKq3Ze) | [מוכרחים להמשיך לנגן](https://open.spotify.com/album/6Y5fwvVTHecdPJzRGp2fOh) | 3:44 | 2023-04-27 | 2026-04-25 |
+| [תמיד רציתי עוד](https://open.spotify.com/track/7JthqxqRulP1lxrSM0fNlh) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [תמיד רציתי עוד](https://open.spotify.com/album/6r6e6Fu2aGJLPIoqSRqRlm) | 3:22 | 2026-06-20 |  |
 | [תמיד שלך](https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תמיד שלך](https://open.spotify.com/album/1Z1HDlBUvh8iS8N3vEwSpS) | 2:53 | 2022-06-26 | 2023-01-22 |
 | [תן לי את האששש](https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [תן לי את האששש](https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5) | 2:47 | 2024-12-11 | 2025-05-23 |
 | [תן לי תפילה](https://open.spotify.com/track/2biQCM9i8PaFYVEYyVkn31) | [שמואל](https://open.spotify.com/artist/2HTxp63G47uFSTqQ5urmbU) | [תן לי תפילה](https://open.spotify.com/album/493G2YlzQqNP6czOoAxfv4) | 3:03 | 2024-10-12 | 2024-10-14 |

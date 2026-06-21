@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,429 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,427 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 49 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 |
 | 50 | [Talk Talk Talk](https://open.spotify.com/track/1ktSui7aiz9XceMdTDeCUF) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Talk Talk Talk](https://open.spotify.com/album/2P2GJ1cTTO7tWABUUMwrIE) | 2:28 |
 | 51 | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd) | 2:25 |
-| 52 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 |
-| 53 | [Fantasy Girl](https://open.spotify.com/track/0x0UAeFDjDrFr9mahXB7ti) | [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a), [Sarah Lahn](https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa) | [Fantasy Girl](https://open.spotify.com/album/3H1EjhaEw3ZPi2oXpP9mcC) | 3:15 |
-| 54 | [Mask Off](https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Mask Off](https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl) | 2:31 |
-| 55 | [Bang Bang](https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Bang Bang](https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U) | 2:42 |
+| 52 | [Fantasy Girl](https://open.spotify.com/track/0x0UAeFDjDrFr9mahXB7ti) | [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a), [Sarah Lahn](https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa) | [Fantasy Girl](https://open.spotify.com/album/3H1EjhaEw3ZPi2oXpP9mcC) | 3:15 |
+| 53 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 |
+| 54 | [Bang Bang](https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Bang Bang](https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U) | 2:42 |
+| 55 | [Mask Off](https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Mask Off](https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl) | 2:31 |
 | 56 | [Find U \(Ready Or Not\)](https://open.spotify.com/track/2MAoL7dgDHVwQTZ5eRhazJ) | [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Find U \(Ready Or Not\)](https://open.spotify.com/album/519IjT6psFBPMdjMePkkbK) | 2:17 |
 | 57 | [Ride Ride Ride](https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz) | [Victoria Kern](https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Ride Ride Ride](https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg) | 2:42 |
-| 58 | [SexyBack](https://open.spotify.com/track/0dWdBtUyXGPwfGJAXvYMtH) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Fella](https://open.spotify.com/artist/0dm0kGiPyhp2mps5nutUUa) | [SexyBack](https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr) | 2:36 |
-| 59 | [Wishing Well](https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Wishing Well](https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH) | 2:22 |
+| 58 | [Wishing Well](https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Wishing Well](https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH) | 2:22 |
+| 59 | [SexyBack](https://open.spotify.com/track/0dWdBtUyXGPwfGJAXvYMtH) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Fella](https://open.spotify.com/artist/0dm0kGiPyhp2mps5nutUUa) | [SexyBack](https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr) | 2:36 |
 | 60 | [Nirvana](https://open.spotify.com/track/18MCxsPkUPmVczH6MwcmMt) | [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9) | [Nirvana](https://open.spotify.com/album/4NYL4SD5w2GP3f5Q8EoYZp) | 2:44 |
 
 Snapshot ID: `AAAAAC0jRXMwnGV4WQg7cmvgkQSmQerI`

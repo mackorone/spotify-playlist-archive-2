@@ -3506,7 +3506,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 187178,
       "name": "armastan, ei armasta",
       "url": "https://open.spotify.com/track/7gy6n6xauco1dttxquR39d"
@@ -16174,7 +16174,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -19628,7 +19628,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
@@ -21654,7 +21654,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 245837,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
@@ -23736,7 +23736,7 @@
       ],
       "date_added": "2021-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 199354,
       "name": "Incognito",
       "url": "https://open.spotify.com/track/1xTFpnwtAB56vb8KqySM1d"
@@ -28602,7 +28602,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 154077,
       "name": "leekiv armastus",
       "url": "https://open.spotify.com/track/00hNKV1irlhbazTD3p7Uea"
@@ -29050,7 +29050,7 @@
       ],
       "date_added": "2021-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -30716,7 +30716,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -34194,7 +34194,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 206000,
       "name": "Miss You - Bonus Track",
       "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
@@ -48154,7 +48154,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "soolane v\u00e4rska",
       "url": "https://open.spotify.com/track/6e8woXAZJO7CNxahQ35dQR"
@@ -51266,7 +51266,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 223057,
       "name": "Tamburiin",
       "url": "https://open.spotify.com/track/3TKhfQOOHtA7QNtoju4cXn"
@@ -52238,7 +52238,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -53390,6 +53390,24 @@
       "duration_ms": 292880,
       "name": "Thunderstruck",
       "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "album": {
+        "name": "TIIGER",
+        "url": "https://open.spotify.com/album/77yJJjIHKN3ENrRZRLalJJ"
+      },
+      "artists": [
+        {
+          "name": "PRODIGYBOYS",
+          "url": "https://open.spotify.com/artist/31iPwhyJeGRard5sLii6qf"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133069,
+      "name": "TIIGER",
+      "url": "https://open.spotify.com/track/3CZkADjuAGtge8amQMtETa"
     },
     {
       "album": {
@@ -57676,7 +57694,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"

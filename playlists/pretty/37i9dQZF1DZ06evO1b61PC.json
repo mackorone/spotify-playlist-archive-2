@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11403,
+  "num_followers": 11402,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAABGpqn192bYkQUYGmNPGBYo",
+  "snapshot_id": "ajSGgAAAAABdFrTfa6VtSRtDfl4H202d",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/4enJwfK8u2T1Z8OjOs26n5"
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l"
       },
       "artists": [
         {
@@ -404,17 +404,13 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         },
         {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+          "name": "Lyncs",
+          "url": "https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr"
         }
       ],
-      "duration_ms": 182571,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/11h1KwP4Ii4ASDUxY9zpMg"
+      "duration_ms": 180847,
+      "name": "Looper",
+      "url": "https://open.spotify.com/track/5tlWfIu4uaZthTMj7xKw8d"
     },
     {
       "added_at": null,
@@ -435,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/4enJwfK8u2T1Z8OjOs26n5"
       },
       "artists": [
         {
@@ -444,13 +440,17 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         },
         {
-          "name": "Lyncs",
-          "url": "https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr"
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
         }
       ],
-      "duration_ms": 180847,
-      "name": "Looper",
-      "url": "https://open.spotify.com/track/5tlWfIu4uaZthTMj7xKw8d"
+      "duration_ms": 182571,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/11h1KwP4Ii4ASDUxY9zpMg"
     },
     {
       "added_at": null,
@@ -719,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy For Me (Jai Wolf Club Babu Remix)",
-        "url": "https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY"
+        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/33grfTaPLm4SqiDAavBFFv"
       },
       "artists": [
-        {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
-        },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 201444,
-      "name": "Easy For Me - Jai Wolf Club Babu Remix",
-      "url": "https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg"
+      "duration_ms": 294034,
+      "name": "Half Hearted - Demo",
+      "url": "https://open.spotify.com/track/6gJE6XB52DP0TefBjpO3fh"
     },
     {
       "added_at": null,
@@ -755,18 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/33grfTaPLm4SqiDAavBFFv"
+        "name": "Easy For Me (Jai Wolf Club Babu Remix)",
+        "url": "https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY"
       },
       "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 294034,
-      "name": "Half Hearted - Demo",
-      "url": "https://open.spotify.com/track/6gJE6XB52DP0TefBjpO3fh"
+      "duration_ms": 201444,
+      "name": "Easy For Me - Jai Wolf Club Babu Remix",
+      "url": "https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg"
     },
     {
       "added_at": null,

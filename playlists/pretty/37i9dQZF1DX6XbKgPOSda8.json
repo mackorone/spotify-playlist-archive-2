@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
-  "num_followers": 252227,
+  "num_followers": 252281,
   "original_name": "Cumbias Para Bailar",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
+        "name": "Sigueme",
+        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
+      },
+      "artists": [
+        {
+          "name": "Los Extra\u00f1os",
+          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
         "name": "Fake Lover",
         "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 204280,
       "name": "Todo Lo Encuentro En Ti",
       "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Sigueme",
-        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
-      },
-      "artists": [
-        {
-          "name": "Los Extra\u00f1os",
-          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1527,70 +1527,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "M\u00fasica Tropical de Colombia (Vol. 11)",
-        "url": "https://open.spotify.com/album/2cLqohSX24vIgyyOmyWijh"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 244963,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/2YM0K9Xgqyy8hNcj5cPmTE"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "20 Exitos Originales 20",
-        "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Que Nota",
-          "url": "https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv"
-        }
-      ],
-      "duration_ms": 277028,
-      "name": "El Amor de la Nena",
-      "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Amor Sin Primavera",
-      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "30 Mezcladitas de Oro para la Farra",
-        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
-      },
-      "artists": [
-        {
-          "name": "Los L\u00edderes",
-          "url": "https://open.spotify.com/artist/7EJn4vZj5szazWw9hAwCFW"
-        }
-      ],
-      "duration_ms": 71893,
-      "name": "Pedacito de Mi Vida",
-      "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Desafiando Estilos",
         "url": "https://open.spotify.com/album/2REmS5o5mh0QWNuZa6WGhs"
       },
@@ -1611,6 +1547,70 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
+        "name": "M\u00fasica Tropical de Colombia (Vol. 11)",
+        "url": "https://open.spotify.com/album/2cLqohSX24vIgyyOmyWijh"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 244963,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/2YM0K9Xgqyy8hNcj5cPmTE"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Amor Sin Primavera",
+      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "20 Exitos Originales 20",
+        "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Que Nota",
+          "url": "https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv"
+        }
+      ],
+      "duration_ms": 277028,
+      "name": "El Amor de la Nena",
+      "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "30 Mezcladitas de Oro para la Farra",
+        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
+      },
+      "artists": [
+        {
+          "name": "Los L\u00edderes",
+          "url": "https://open.spotify.com/artist/7EJn4vZj5szazWw9hAwCFW"
+        }
+      ],
+      "duration_ms": 71893,
+      "name": "Pedacito de Mi Vida",
+      "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
         "name": "Tus Jefes No Me Quieren",
         "url": "https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "El Condor Legendario",
-        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+        "name": "Serie 20 Exitos Los Yes Yes",
+        "url": "https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t"
       },
       "artists": [
         {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
         }
       ],
-      "duration_ms": 266866,
-      "name": "El Diario De Un Borracho",
-      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
+      "duration_ms": 313613,
+      "name": "El Verde De Tus Ojos",
+      "url": "https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Serie 20 Exitos Los Yes Yes",
-        "url": "https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t"
+        "name": "El Condor Legendario",
+        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
       },
       "artists": [
         {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
         }
       ],
-      "duration_ms": 313613,
-      "name": "El Verde De Tus Ojos",
-      "url": "https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3"
+      "duration_ms": 266866,
+      "name": "El Diario De Un Borracho",
+      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
     },
     {
       "added_at": "2024-07-10 22:10:17",

@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 | 24 | [来訪者 \- Long Version](https://open.spotify.com/track/4tKj8h6sJQ4fK4HtT9Qu2Y) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 4:30 |
 | 25 | [戦いの鐘 \- Long Version](https://open.spotify.com/track/6EByiOlFcxdA5zj8Gcu0wU) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:38 |
 
-Snapshot ID: `ajM1AAAAAAATd13W8oe7ODsVDEB5kFfZ`
+Snapshot ID: `ajSGgAAAAAAqPbDvqE4VxWuW97xI386g`

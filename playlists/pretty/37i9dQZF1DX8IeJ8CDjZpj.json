@@ -1,6 +1,6 @@
 {
   "description": "Celebremos que nuestro equipo sali\u00f3 vencedor. ",
-  "num_followers": 91746,
+  "num_followers": 91709,
   "original_name": "Nos Vamos al \u00c1ngel",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-06-11 20:48:54",
       "album": {
+        "name": "Historia De Un Idolo Vol.II",
+        "url": "https://open.spotify.com/album/6S9uJJ8HUhvHrE42UIdaMH"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/32r25QdtfHgAxjohp2EoPH"
+    },
+    {
+      "added_at": "2026-06-11 20:48:54",
+      "album": {
         "name": "Los Reyes de la Cumbia Playera (Versi\u00f3n 2015)",
         "url": "https://open.spotify.com/album/0D4KjknzTsf7HgAPSqFhdS"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 302680,
       "name": "Arrem\u00e1ngala Arremp\u00fajala",
       "url": "https://open.spotify.com/track/1eiEHx5HeyTB3cjVxvFwUO"
-    },
-    {
-      "added_at": "2026-06-11 20:48:54",
-      "album": {
-        "name": "Historia De Un Idolo Vol.II",
-        "url": "https://open.spotify.com/album/6S9uJJ8HUhvHrE42UIdaMH"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/32r25QdtfHgAxjohp2EoPH"
     },
     {
       "added_at": "2026-06-11 20:48:54",

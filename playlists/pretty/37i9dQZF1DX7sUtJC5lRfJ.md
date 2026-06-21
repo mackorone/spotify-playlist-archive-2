@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hà An Huy
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,799 likes - 30 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,805 likes - 30 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

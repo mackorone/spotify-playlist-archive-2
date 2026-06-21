@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 222525,
+  "num_followers": 222541,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -1603,30 +1603,6 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
-        "url": "https://open.spotify.com/album/3IabT6Sk0Bmg0ELcLxQ0fS"
-      },
-      "artists": [
-        {
-          "name": "Johann Pachelbel",
-          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
-        },
-        {
-          "name": "Gabriele Bagnati",
-          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
-        },
-        {
-          "name": "Esther Abrami",
-          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
-        }
-      ],
-      "duration_ms": 138040,
-      "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
-      "url": "https://open.spotify.com/track/20w3NJjTyToeNiwTXtpgY1"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1647,6 +1623,30 @@
       "duration_ms": 138239,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
       "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
+        "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
+        "url": "https://open.spotify.com/album/3IabT6Sk0Bmg0ELcLxQ0fS"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        }
+      ],
+      "duration_ms": 138040,
+      "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
+      "url": "https://open.spotify.com/track/20w3NJjTyToeNiwTXtpgY1"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -2187,30 +2187,6 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Variations concertantes, Op. 17/MWV Q 19/I. Thema",
-        "url": "https://open.spotify.com/album/3h4QI2qTDymFjAd6sR47WG"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Sol Gabetta",
-          "url": "https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN"
-        },
-        {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
-        }
-      ],
-      "duration_ms": 65560,
-      "name": "Variations concertantes, Op. 17/MWV Q 19: I. Thema",
-      "url": "https://open.spotify.com/track/6niR0Jo6cYUMeNpcRGsIt3"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
         "name": "A Lionel Tertis Celebration",
         "url": "https://open.spotify.com/album/6PQmsEvXXCMSTjxkFyqcS2"
       },
@@ -2231,6 +2207,30 @@
       "duration_ms": 163173,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/3z7waGD32zmOs9ndMqPhPl"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
+        "name": "Variations concertantes, Op. 17/MWV Q 19/I. Thema",
+        "url": "https://open.spotify.com/album/3h4QI2qTDymFjAd6sR47WG"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Sol Gabetta",
+          "url": "https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 65560,
+      "name": "Variations concertantes, Op. 17/MWV Q 19: I. Thema",
+      "url": "https://open.spotify.com/track/6niR0Jo6cYUMeNpcRGsIt3"
     },
     {
       "added_at": "2026-05-22 04:00:51",

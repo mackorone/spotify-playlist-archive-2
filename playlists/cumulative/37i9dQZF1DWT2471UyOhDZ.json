@@ -2667,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Fighting For You",
+        "url": "https://open.spotify.com/album/6aUmqJropontQSpa4Elg9M"
+      },
+      "artists": [
+        {
+          "name": "Arab Strap",
+          "url": "https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186325,
+      "name": "Fighting For You",
+      "url": "https://open.spotify.com/track/3uPHcgBPAK3wfTQHWvyUJM"
+    },
+    {
+      "album": {
         "name": "Fishbrain",
         "url": "https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc"
       },
@@ -3022,7 +3040,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 306009,
       "name": "GERM",
       "url": "https://open.spotify.com/track/3gylfpJh39G4WErX4QFV7y"
@@ -3484,6 +3502,24 @@
       "duration_ms": 228783,
       "name": "Heaven Is No Feeling",
       "url": "https://open.spotify.com/track/0O2xM3g14PLmfp5xKoBnkA"
+    },
+    {
+      "album": {
+        "name": "Heaven Knows You're Lonely",
+        "url": "https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181773,
+      "name": "Heaven Knows You're Lonely",
+      "url": "https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e"
     },
     {
       "album": {
@@ -5214,7 +5250,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 248730,
       "name": "Next To Die",
       "url": "https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps"

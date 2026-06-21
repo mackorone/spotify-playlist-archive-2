@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > Trending rn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,251 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,356 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 49 | [ASANA](https://open.spotify.com/track/3unkTgCb5VBehD5EBcNgB5) | [Mr Blayy](https://open.spotify.com/artist/2wmlFVbnzQl8344TDxdAiZ), [Fahim Dumba](https://open.spotify.com/artist/3rQMvcltVUru8FC92uY56R) | [ASANA](https://open.spotify.com/album/1IX1PCNExmr3K5ExB8faqK) | 1:29 |
 | 50 | [Rent Is Due](https://open.spotify.com/track/7Larf3KwXkvcM3sSDapHt7) | [MfanaTouchLine](https://open.spotify.com/artist/2RV0TompTWunZpF57DdQzJ) | [Ntjaka](https://open.spotify.com/album/7k1dEmha7q7RqOrTmJHWTe) | 1:55 |
 
-Snapshot ID: `AAAAAOS6FfX/fkCAk4Ofh7ntwvBy3huh`
+Snapshot ID: `AAAAAM4JVGA3fOjUkrbOv4jNRbXRSE6D`

@@ -4,7 +4,7 @@
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-160 songs - 7 hr 42 min
+161 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Alumno Y Maestro](https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Alumno Y Maestro](https://open.spotify.com/album/3G37quZRXG46KePSj4uMat) | 2:59 | 2024-08-27 |  |
 | [Amigos Mis Huevos](https://open.spotify.com/track/2psdyq0rZCpZINw5C55GcG) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Amigos Mis Huevos](https://open.spotify.com/album/1RXRTjAoDzIbi0z96VsaW1) | 2:29 | 2024-01-29 | 2024-08-20 |
 | [Ansiedad](https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ansiedad](https://open.spotify.com/album/3hlzeDhRlrd9ICvrokcUTb) | 2:57 | 2024-10-21 |  |
+| [Aqui En Mi Corazon Tu Mandas](https://open.spotify.com/track/4mTwrsBsii8ZgwhmhAHxrP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS) | 2:12 | 2026-06-21 |  |
 | [Aqui En Mi Corazon Tu Mandas](https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:12 | 2024-02-03 | 2026-04-18 |
 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 | 2024-01-29 |  |
 | [Bien Belicones \(En vivo\)](https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Bien Belicones \(En vivo\)](https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda) | 2:30 | 2024-01-29 | 2025-09-16 |
@@ -130,7 +131,7 @@
 | [Los Mitotes](https://open.spotify.com/track/5BEf4JOghSSfTBVMlGVPoR) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/7jpqgiHrZJ8SYEiXsAzV5t) | 3:28 | 2026-04-18 | 2026-05-20 |
 | [M&G](https://open.spotify.com/track/65JrwoN5AgA9KOGYtYCxou) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Resiliencia](https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve) | 2:32 | 2025-11-03 | 2025-11-29 |
 | [Matitas Verdes \(En Vivo\)](https://open.spotify.com/track/6602oDHS6ArzmjCXUz1DeS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Matitas Verdes \(En Vivo\)](https://open.spotify.com/album/6dFaDaCDQqEKfdcELahkAt) | 2:41 | 2024-01-29 | 2026-04-17 |
-| [Me Preparaste Para Todo](https://open.spotify.com/track/0bRsRqYTxqOXPtlRVfwOX9) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Raíces de Acero](https://open.spotify.com/album/0YjOVBSJx2XHYN9m7hdqlG) | 2:40 | 2026-03-28 |  |
+| [Me Preparaste Para Todo](https://open.spotify.com/track/0bRsRqYTxqOXPtlRVfwOX9) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Raíces de Acero](https://open.spotify.com/album/0YjOVBSJx2XHYN9m7hdqlG) | 2:40 | 2026-03-28 | 2026-06-21 |
 | [Mi Mas Grande Anhelo \(En vivo\)](https://open.spotify.com/track/2Cde8a3wPwILh4vljdyoIY) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:51 | 2024-08-11 | 2024-10-26 |
 | [Mi Nueva Versión](https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Mi Nueva Versión](https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L) | 2:43 | 2026-02-17 |  |
 | [Modo Avion](https://open.spotify.com/track/4pljc9DdwyxBPojzgHpoL4) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Modo Avion](https://open.spotify.com/album/1RV8eX7Z0Prav12ViroXxd) | 3:05 | 2024-02-13 | 2026-03-01 |

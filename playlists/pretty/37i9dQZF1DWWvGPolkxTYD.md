@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,204 likes - 40 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,201 likes - 40 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 35 | [First Meeting](https://open.spotify.com/track/1OUvyFR4u1CrHlqDBUBQ9O) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 2:15 |
 | 36 | [Tents \(feat\. Rami Khalife, Peter Herbert & Bachar Khalife\)](https://open.spotify.com/track/0XUoW4Vbq6YXUVlP3jDHZr) | [Marcel Khalife](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ), [Rami Khalife](https://open.spotify.com/artist/6EnXmpJo9WetzndYpNAm9k), [Peter Herbert](https://open.spotify.com/artist/3HLr5HkSrGDJ2nyZF7wtHE), [Bachar Khalifé](https://open.spotify.com/artist/3lC4htJrE2CcNRIspeUwyp) | [Caress](https://open.spotify.com/album/5Xs9817ihv263FH34HgRtX) | 3:50 |
 | 37 | [Long Wait](https://open.spotify.com/track/2kkAw4ryowf5wBv2lUI0Lr) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Longing \(Best of Omar Faruk Tekbilek\)](https://open.spotify.com/album/3aKIaTCMukq8X8JsUteUqc) | 6:01 |
-| 38 | [Hijaz](https://open.spotify.com/track/3oINCsaTDaEaKVpgr344vM) | [Mohai Eddine](https://open.spotify.com/artist/7xAZRH3XRgD0S4ku0X9Ng3) | [Authentic Instrumental Music By the Most Famous Arab Artists](https://open.spotify.com/album/7jtHS5TeiUrjJ6NpOkuP3w) | 5:06 |
-| 39 | [Lamentations bipolaires](https://open.spotify.com/track/3j0obpF6E4yxU6fUXoQ0xu) | [Abderraouf Ouertani](https://open.spotify.com/artist/7fLHLIzQkhIOqrotQlR1rA), [Patrick Villanueva](https://open.spotify.com/artist/3NluZeUS7m52HzFmA4uojj) | [Duo Deux Rives](https://open.spotify.com/album/2VIiaWaN6unj1ORZ630O7N) | 5:35 |
+| 38 | [Lamentations bipolaires](https://open.spotify.com/track/3j0obpF6E4yxU6fUXoQ0xu) | [Abderraouf Ouertani](https://open.spotify.com/artist/7fLHLIzQkhIOqrotQlR1rA), [Patrick Villanueva](https://open.spotify.com/artist/3NluZeUS7m52HzFmA4uojj) | [Duo Deux Rives](https://open.spotify.com/album/2VIiaWaN6unj1ORZ630O7N) | 5:35 |
+| 39 | [Hijaz](https://open.spotify.com/track/3oINCsaTDaEaKVpgr344vM) | [Mohai Eddine](https://open.spotify.com/artist/7xAZRH3XRgD0S4ku0X9Ng3) | [Authentic Instrumental Music By the Most Famous Arab Artists](https://open.spotify.com/album/7jtHS5TeiUrjJ6NpOkuP3w) | 5:06 |
 | 40 | [Improvisation / Oum El Rouba](https://open.spotify.com/track/1vvSYFSKMRUQTv9jaM6IyO) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [To My Father](https://open.spotify.com/album/1iLYA1Er67QwAYFjs5SPkL) | 12:03 |
 
 Snapshot ID: `AAAAALGo33CILLSdfu4WEzC05OJAI6KM`

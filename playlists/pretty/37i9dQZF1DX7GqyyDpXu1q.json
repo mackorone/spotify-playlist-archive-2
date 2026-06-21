@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 95076,
+  "num_followers": 95087,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Old Tricks",
-        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 148778,
-      "name": "Old Tricks",
-      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
         "url": "https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 233250,
       "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
       "url": "https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Old Tricks",
+        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "duration_ms": 148778,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
+        "name": "15 Minute Smog Check",
+        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
+      },
+      "artists": [
+        {
+          "name": "The Takes",
+          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+        }
+      ],
+      "duration_ms": 234036,
+      "name": "15 Minute Smog Check",
+      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
         "name": "Stare At The Sun",
         "url": "https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 272493,
       "name": "Stare at the Sun",
       "url": "https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
-        "name": "15 Minute Smog Check",
-        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
-      },
-      "artists": [
-        {
-          "name": "The Takes",
-          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
-        }
-      ],
-      "duration_ms": 234036,
-      "name": "15 Minute Smog Check",
-      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
     },
     {
       "added_at": "2026-04-10 16:28:54",

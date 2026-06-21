@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Get ready to go back in time and groove with it! Listen to 'Bandhu 2.0' from Cocktail 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,615 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,843 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

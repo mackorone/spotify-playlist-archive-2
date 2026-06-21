@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-257 songs - 14 hr 42 min
+258 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [Taki Taki](https://open.spotify.com/track/2sbG3rc9Sm4qIdpuVfBs4i) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Taki Taki](https://open.spotify.com/album/1kAjDpFtp6DN2SyCL4aExv) | 3:51 | 2023-12-13 | 2024-02-02 |
 | [Taki Taki \(feat\. Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:32 | 2022-06-04 |  |
 | [Tanto Que Me Gusta](https://open.spotify.com/track/4BUzGwNWP8ZI1r7i1IWEpK) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Tanto Que Me Gusta](https://open.spotify.com/album/3lOtFDx1YT75eZQB21l3ki) | 3:43 | 2022-06-04 |  |
-| [TATE QUIETA](https://open.spotify.com/track/1iQ3p8rAXU7LU52QarCzlO) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Private Suite \(Vol\. 2\)](https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9) | 3:58 | 2026-03-18 |  |
+| [TATE QUIETA](https://open.spotify.com/track/1iQ3p8rAXU7LU52QarCzlO) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Private Suite \(Vol\. 2\)](https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9) | 3:58 | 2026-03-18 | 2026-06-21 |
+| [TATE QUIETA](https://open.spotify.com/track/6R3jE2URVnEdA7djm9Ipsd) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [PRIVATE SUITE \(Complete EP Edition\)](https://open.spotify.com/album/0N85eGINyapou3Gl8yo6ky) | 3:58 | 2026-06-20 |  |
 | [TBC](https://open.spotify.com/track/1YU5ieZXPkwHoDSob6n6Zo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:32 | 2022-06-04 |  |
 | [Te Lo Dije](https://open.spotify.com/track/12lkzBhUysiCPRIKrFLtVQ) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:12 | 2022-06-04 |  |
 | [Te Necesito](https://open.spotify.com/track/5x5kN5Qx1zptllSZV42jfh) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:55 | 2026-03-18 |  |

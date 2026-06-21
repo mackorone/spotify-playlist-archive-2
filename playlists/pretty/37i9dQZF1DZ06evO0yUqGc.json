@@ -1,12 +1,12 @@
 {
   "description": "This is Lily Allen. The essential tracks, all in one playlist.",
-  "num_followers": 96046,
+  "num_followers": 96070,
   "original_name": "This Is Lily Allen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAADmkKswuEudUXvLEP0yp+bz",
+  "snapshot_id": "ajSGgAAAAABshQJRRo8TICb68Y+zEuyk",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 241693,
-      "name": "Pussy Palace",
-      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
+      "duration_ms": 175413,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/1GpM5w7maS7MGVkZdg6jPE"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 175413,
-      "name": "Madeline",
-      "url": "https://open.spotify.com/track/1GpM5w7maS7MGVkZdg6jPE"
+      "duration_ms": 241693,
+      "name": "Pussy Palace",
+      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
     },
     {
       "added_at": null,

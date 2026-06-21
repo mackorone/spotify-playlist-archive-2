@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,862 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,880 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 49 | [手紙](https://open.spotify.com/track/3SAMYU262odmIWLwrQVwUP) | [Jamosa](https://open.spotify.com/artist/0rb7MhRkE4vmiA0dsVAxXu), [DABO](https://open.spotify.com/artist/6H8SjX28BTgSSf8Ndz8SJs) | [DREAM](https://open.spotify.com/album/0la82foXYhL5ASSzU97KFq) | 4:41 |
 | 50 | [LET'S GO!](https://open.spotify.com/track/2yS62ySi7e53qMzJ32ClQH) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Sunny Side Of Original Love](https://open.spotify.com/album/1tXNcSMy345oksuxlQppRH) | 6:07 |
 
-Snapshot ID: `AAAAAEsw64rQGFdzlwNsP00YnaIHxONW`
+Snapshot ID: `AAAAABX6e0ZR/qubZ/MC3TYdYQrRoqL6`

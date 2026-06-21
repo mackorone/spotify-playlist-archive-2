@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: CalledOut Music
 
-1,753 songs - 3 day 21 hr 3 min
+1,754 songs - 3 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [DIFFERENT](https://open.spotify.com/track/0vR9pFGJ5bablYFMmmItSM) | [Naaden](https://open.spotify.com/artist/5qU6gTTRleyLllhGkf5hks) | [DIFFERENT](https://open.spotify.com/album/5wt5K0v4XzGd2WD3WFGNvB) | 2:19 | 2025-09-19 | 2025-10-24 |
 | [Different III](https://open.spotify.com/track/5RsulP5zwdchInZR7l3kTh) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6), [Blesside](https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32) | [Different III](https://open.spotify.com/album/4pEGht1yG8LwjW98rhxKiM) | 2:25 | 2024-12-20 | 2025-01-10 |
 | [DITFK \(Do it for the King\)](https://open.spotify.com/track/0RhDNxkypORUcETtRzpM3O) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS) | [DITFK \(Do it for the King\)](https://open.spotify.com/album/3VQb6OLg5lq1Y7PZotxKrN) | 1:31 | 2023-11-24 | 2023-12-01 |
+| [DIVINE](https://open.spotify.com/track/76YuA6sXu6j2rHke168FDj) | [Rosey](https://open.spotify.com/artist/2nUGMD83hQ6sJSOyNy559L) | [DIVINE](https://open.spotify.com/album/239WUfdExJsLxosZIEg9AE) | 2:50 | 2026-06-20 |  |
 | [DNA](https://open.spotify.com/track/2yfc79Ai0LwFSFokyEdoVT) | [Benjamin Israel](https://open.spotify.com/artist/5qGo4F4KRcg0fBmJBD2Ubq) | [DNA](https://open.spotify.com/album/4uA9c80POUZ6RsdQuI6Kie) | 5:21 | 2024-04-19 | 2024-05-24 |
 | [DND \(Dey Move\)](https://open.spotify.com/track/3e41yejRviEFLEsWmxSdOA) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [DND \(Dey Move\)](https://open.spotify.com/album/3cf0WJublbmm7CmlVUD28n) | 2:25 | 2025-11-14 | 2025-11-18 |
 | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw) | 4:39 | 2025-10-03 | 2026-02-27 |

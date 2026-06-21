@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,577 likes - 80 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,724 likes - 80 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

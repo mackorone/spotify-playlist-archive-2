@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKSE2y4O5/h5aR4OHU6ZVTsnM9CD",
+  "snapshot_id": "AAAAAJh6tYIDfL6cphPtnDeu+pFMsekJ",
   "tracks": [
     {
       "added_at": "2026-06-12 12:59:12",
@@ -339,26 +339,6 @@
     {
       "added_at": "2026-06-12 12:59:12",
       "album": {
-        "name": "My Universe",
-        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
-    },
-    {
-      "added_at": "2026-06-12 12:59:12",
-      "album": {
         "name": "Save Me Tonight",
         "url": "https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 196003,
       "name": "Save Me Tonight",
       "url": "https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG"
+    },
+    {
+      "added_at": "2026-06-12 12:59:12",
+      "album": {
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
     },
     {
       "added_at": "2026-06-12 12:59:12",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-06-12 12:59:12",
       "album": {
-        "name": "Ready To Be Loved",
-        "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
-      },
-      "artists": [
-        {
-          "name": "St. Lundi",
-          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
-        }
-      ],
-      "duration_ms": 180581,
-      "name": "Ready To Be Loved",
-      "url": "https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v"
-    },
-    {
-      "added_at": "2026-06-12 12:59:12",
-      "album": {
         "name": "All I Know So Far",
         "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 277413,
       "name": "All I Know So Far",
       "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
+    },
+    {
+      "added_at": "2026-06-12 12:59:12",
+      "album": {
+        "name": "Ready To Be Loved",
+        "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
+      },
+      "artists": [
+        {
+          "name": "St. Lundi",
+          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
+        }
+      ],
+      "duration_ms": 180581,
+      "name": "Ready To Be Loved",
+      "url": "https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v"
     },
     {
       "added_at": "2026-06-12 12:59:12",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-06-12 12:59:12",
       "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/105LdQFucx264gr5MMo2AX"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 193181,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA"
-    },
-    {
-      "added_at": "2026-06-12 12:59:12",
-      "album": {
         "name": "GROWING UP IS _____",
         "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 233587,
       "name": "GROWING UP IS _____",
       "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
+    },
+    {
+      "added_at": "2026-06-12 12:59:12",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/105LdQFucx264gr5MMo2AX"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 193181,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA"
     },
     {
       "added_at": "2026-06-12 12:59:12",

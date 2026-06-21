@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,519 likes - 135 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,626 likes - 135 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 134 | [The Songbird](https://open.spotify.com/track/6r0SpNHMhuuUcndaJZ9Zxy) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [The Songbird](https://open.spotify.com/album/0ifVCB5Y3UiwEHjbUnM0xJ) | 2:42 |
 | 135 | [Marianne](https://open.spotify.com/track/3aH1PozU6rrvTLGlCISgAH) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Marianne](https://open.spotify.com/album/0X43eSNXIfJFDw6FpKWU2N) | 2:09 |
 
-Snapshot ID: `AAAAAA8p3Y6vpU5uu3yYxRB3/XoeW1F1`
+Snapshot ID: `AAAAAE9/FqleJP/HMXGP/PL/qdLKYNVL`

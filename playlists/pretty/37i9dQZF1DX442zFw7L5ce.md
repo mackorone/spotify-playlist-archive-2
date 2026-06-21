@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Sreeleela
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,869 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,894 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 36 | [Bapu Gari Bommo](https://open.spotify.com/track/1e3pqyiPgPzqnDm8m91x5F) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Attarrintiki Daaredi](https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk) | 4:40 |
 | 37 | [Ninnu Chudagaane](https://open.spotify.com/track/1E5zyR7GT3PKjH3cqhVXVf) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Attarrintiki Daaredi](https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk) | 5:31 |
 | 38 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 |
-| 39 | [Sweety](https://open.spotify.com/track/42klh3NhK69sw8bUVLkJU7) | [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Rabbit M C](https://open.spotify.com/artist/3EwmY8hOYo6ApKtlOIfgVV), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Yadgiri](https://open.spotify.com/artist/4cFHhARoiyyIOh49Qwhdoj) | [Race Gurram](https://open.spotify.com/album/7gdmmHxZh8XMWMHDOqGSZd) | 4:25 |
+| 39 | [Sweety](https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW) | [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Rabbit M C](https://open.spotify.com/artist/3EwmY8hOYo6ApKtlOIfgVV) | [Race Gurram](https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n) | 4:25 |
 | 40 | [Vayari Bhama](https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu) | [Ramana Gogula](https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv) | [Thammudu](https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh) | 5:16 |
 | 41 | [Chandrullo Unde](https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 4:15 |
 | 42 | [Buggey Bangarama](https://open.spotify.com/track/18RUE4llLj46NIQKojerlw) | [Rajesh](https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK) | [Chandamama](https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC) | 4:32 |

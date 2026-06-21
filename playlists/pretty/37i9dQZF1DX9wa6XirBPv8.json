@@ -1,6 +1,6 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1911832,
+  "num_followers": 1911989,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Doppelganger",
-        "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
-      },
-      "artists": [
-        {
-          "name": "The Fall of Troy",
-          "url": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "F.C.P.R.E.M.I.X.",
-      "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "In Keeping Secrets Of Silent Earth: 3",
         "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 234702,
       "name": "A Favor House Atlantic",
       "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Doppelganger",
+        "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
+      },
+      "artists": [
+        {
+          "name": "The Fall of Troy",
+          "url": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "F.C.P.R.E.M.I.X.",
+      "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Never Take Friendship Personal",
-        "url": "https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "The Feel Good Drag",
-      "url": "https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "Deja Entendu",
         "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 186493,
       "name": "Sic Transit Gloria ... Glory Fades",
       "url": "https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Never Take Friendship Personal",
+        "url": "https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "The Feel Good Drag",
+      "url": "https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "The Albatross",
-        "url": "https://open.spotify.com/album/7AiC8x8GIRbQK2ZROLox5f"
-      },
-      "artists": [
-        {
-          "name": "Foxing",
-          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "The Medic",
-      "url": "https://open.spotify.com/track/5KzuAU7zxcP0bq0CPdRRyr"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "Casually Dressed And Deep In Conversation",
         "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "White Lies",
-        "url": "https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs"
+        "name": "The Albatross",
+        "url": "https://open.spotify.com/album/7AiC8x8GIRbQK2ZROLox5f"
       },
       "artists": [
         {
-          "name": "Lovehatehero",
-          "url": "https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq"
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
         }
       ],
-      "duration_ms": 213413,
-      "name": "Goodbye My Love",
-      "url": "https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM"
+      "duration_ms": 202840,
+      "name": "The Medic",
+      "url": "https://open.spotify.com/track/5KzuAU7zxcP0bq0CPdRRyr"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs"
+      },
+      "artists": [
+        {
+          "name": "Lovehatehero",
+          "url": "https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Goodbye My Love",
+      "url": "https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
         "name": "J.A.C.K.",
         "url": "https://open.spotify.com/album/6LPiuWcOA9oPH8IERVWhGr"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Phantoms",
-        "url": "https://open.spotify.com/album/4TV5UrWG9ZnI6FxSawplwM"
-      },
-      "artists": [
-        {
-          "name": "Acceptance",
-          "url": "https://open.spotify.com/artist/4zCbNayYzorqdzd9mPrghW"
-        }
-      ],
-      "duration_ms": 184440,
-      "name": "So Contagious",
-      "url": "https://open.spotify.com/track/3Nnm4EROP8wEnMpcmapvLR"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "One Fell Swoop",
         "url": "https://open.spotify.com/album/0zpPut1LDImgvq2ihslxOL"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 183960,
       "name": "Polygraph, Right Now!",
       "url": "https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Phantoms",
+        "url": "https://open.spotify.com/album/4TV5UrWG9ZnI6FxSawplwM"
+      },
+      "artists": [
+        {
+          "name": "Acceptance",
+          "url": "https://open.spotify.com/artist/4zCbNayYzorqdzd9mPrghW"
+        }
+      ],
+      "duration_ms": 184440,
+      "name": "So Contagious",
+      "url": "https://open.spotify.com/track/3Nnm4EROP8wEnMpcmapvLR"
     },
     {
       "added_at": "2025-08-05 14:57:44",

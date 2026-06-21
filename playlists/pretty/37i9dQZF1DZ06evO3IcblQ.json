@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 36721,
+  "num_followers": 36725,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAA7NLuA7JJOt0oqv2Vb96s/",
+  "snapshot_id": "ajSGgAAAAACUIORn2FaOQps+mPTL9CGS",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "Date With Destiny - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4yVw3NIv9RTBRM6TQnv6fo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Ashes",
         "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 179626,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1UVLt0qDBrP2wqE1P8YOEK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "Date With Destiny - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4yVw3NIv9RTBRM6TQnv6fo"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "You'll Never Make It - 2005 Remaster",
-      "url": "https://open.spotify.com/track/28yjAloJc2iqkyjfFOFn2v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pennywise (2005 Remaster)",
         "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
@@ -531,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Ashes",
-        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
       },
       "artists": [
         {
@@ -540,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 161573,
-      "name": "Something to Change",
-      "url": "https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w"
+      "duration_ms": 155506,
+      "name": "You'll Never Make It - 2005 Remaster",
+      "url": "https://open.spotify.com/track/28yjAloJc2iqkyjfFOFn2v"
     },
     {
       "added_at": null,
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+        "name": "From The Ashes",
+        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
       },
       "artists": [
         {
@@ -572,9 +556,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 176213,
-      "name": "Get A Life - 2005 Remaster",
-      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
+      "duration_ms": 161573,
+      "name": "Something to Change",
+      "url": "https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
       "duration_ms": 117160,
       "name": "Can't Believe It",
       "url": "https://open.spotify.com/track/1BPFNUHoHNBGI09Ii5qj61"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "Get A Life - 2005 Remaster",
+      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "Never Gonna Die",
-      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pennywise (2005 Remaster)",
         "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 158080,
       "name": "No Reason Why - 2005 Remaster",
       "url": "https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "Never Gonna Die",
+      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 196026,
-      "name": "It's Up To Me - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2K6a1zQRxVh7lvvNf3gSCR"
+      "duration_ms": 185493,
+      "name": "Dying to Know - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6wHh6CHqcIQR1gpmmjeaKL"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 185493,
-      "name": "Dying to Know - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6wHh6CHqcIQR1gpmmjeaKL"
+      "duration_ms": 196026,
+      "name": "It's Up To Me - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2K6a1zQRxVh7lvvNf3gSCR"
     },
     {
       "added_at": null,

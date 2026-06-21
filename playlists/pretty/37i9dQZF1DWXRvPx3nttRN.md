@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,758 likes - 122 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,786 likes - 122 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 55 | [I Wanna Know \- Acoustic](https://open.spotify.com/track/78dhp5G3n3KbA2ThlSkl2b) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [I Wanna Know \(Acoustic\)](https://open.spotify.com/album/6qLfMUCl0M4VHGOYKjc7ek) | 3:20 |
 | 56 | [All My Broken Pieces](https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [All My Broken Pieces](https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif) | 4:02 |
 | 57 | [Dove](https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 6:09 |
-| 58 | [Rescue Me \- Acoustic](https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Rescue Me \(Acoustic\)](https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ) | 2:44 |
-| 59 | [Don't Call Me Up \- Acoustic](https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Don't Call Me Up \(Acoustic\)](https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr) | 3:32 |
+| 58 | [Don't Call Me Up \- Acoustic](https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Don't Call Me Up \(Acoustic\)](https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr) | 3:32 |
+| 59 | [Rescue Me \- Acoustic](https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Rescue Me \(Acoustic\)](https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ) | 2:44 |
 | 60 | [Hotel Walls \- Acoustic Version](https://open.spotify.com/track/5pW8171RuTAYU9hAN54QpM) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Hotel Walls \(Acoustic Version\)](https://open.spotify.com/album/6a7fNHZ8qbkAvmoOEhpIuC) | 3:27 |
 | 61 | [Just Let It Go](https://open.spotify.com/track/4IDe0WWK5PbypEgZ7Lusec) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Just Let It Go](https://open.spotify.com/album/7FcwV8GFESKvmdEUV7WAC0) | 3:29 |
 | 62 | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/track/7Js0XIcvp0lavx7G8fInJA) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/album/1SvB73HwvP9xGYvNwUKfBB) | 3:43 |

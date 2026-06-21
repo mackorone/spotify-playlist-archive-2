@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 181913,
+  "num_followers": 181939,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "Mine or Yours",
-        "url": "https://open.spotify.com/album/3qWvYtAQ2E46KGBAX82neO"
+        "name": "masshiro (pure white)",
+        "url": "https://open.spotify.com/album/6YChKs8gVLOWqQhmUyybOg"
       },
       "artists": [
         {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 262335,
-      "name": "Mine or Yours",
-      "url": "https://open.spotify.com/track/71BFBz7Yc1Hq4MPXdn9ivo"
+      "duration_ms": 294141,
+      "name": "masshiro (pure white)",
+      "url": "https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -403,8 +403,24 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "masshiro (pure white)",
-        "url": "https://open.spotify.com/album/6YChKs8gVLOWqQhmUyybOg"
+        "name": "Mine or Yours",
+        "url": "https://open.spotify.com/album/3qWvYtAQ2E46KGBAX82neO"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 262335,
+      "name": "Mine or Yours",
+      "url": "https://open.spotify.com/track/71BFBz7Yc1Hq4MPXdn9ivo"
+    },
+    {
+      "added_at": "2026-06-09 15:24:41",
+      "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw"
       },
       "artists": [
         {
@@ -412,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 294141,
-      "name": "masshiro (pure white)",
-      "url": "https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi"
+      "duration_ms": 260778,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -447,22 +463,6 @@
       "duration_ms": 259146,
       "name": "\u30ad\u30e3\u30e9\u30d0\u30f3",
       "url": "https://open.spotify.com/track/6bIELZs1M0OXx6dXHdU6Mq"
-    },
-    {
-      "added_at": "2026-06-09 15:24:41",
-      "album": {
-        "name": "Obscure Ride",
-        "url": "https://open.spotify.com/album/2W7WcHZSESKr99oh6Ul6F0"
-      },
-      "artists": [
-        {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
-        }
-      ],
-      "duration_ms": 295080,
-      "name": "Orphans",
-      "url": "https://open.spotify.com/track/5UHLQuObG0omP6vN0P73Gu"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw"
+        "name": "Obscure Ride",
+        "url": "https://open.spotify.com/album/2W7WcHZSESKr99oh6Ul6F0"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
         }
       ],
-      "duration_ms": 260778,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5"
+      "duration_ms": 295080,
+      "name": "Orphans",
+      "url": "https://open.spotify.com/track/5UHLQuObG0omP6vN0P73Gu"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "\u5fae\u70ad\u9178",
-        "url": "https://open.spotify.com/album/2yvUedNwMr1aq1bFXvUXFA"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 180441,
-      "name": "\u5fae\u70ad\u9178",
-      "url": "https://open.spotify.com/track/3BpigDZZmi6bRACtKhCUeu"
-    },
-    {
-      "added_at": "2026-06-09 15:24:41",
-      "album": {
         "name": "Guess Who?",
         "url": "https://open.spotify.com/album/0vbmhoUstB351YpKBO2hM7"
       },
@@ -663,22 +647,6 @@
       "duration_ms": 279000,
       "name": "NEW ERA",
       "url": "https://open.spotify.com/track/1mJxoz6ErtRhtkZHVgOuK6"
-    },
-    {
-      "added_at": "2026-06-09 15:24:41",
-      "album": {
-        "name": "\u30b7\u30c6\u30a3\u30db\u30c6\u30eb",
-        "url": "https://open.spotify.com/album/34ITjp6W3YHh8AGyQiwvJW"
-      },
-      "artists": [
-        {
-          "name": "Khaki",
-          "url": "https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd"
-        }
-      ],
-      "duration_ms": 233399,
-      "name": "\u30b7\u30c6\u30a3\u30db\u30c6\u30eb",
-      "url": "https://open.spotify.com/track/3L2RXDGiE3CdalnwpJiE6s"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -699,6 +667,38 @@
       "duration_ms": 310160,
       "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483 (feat. Cory Wong)",
       "url": "https://open.spotify.com/track/7p2X86CP7JrIjbVEsZHU0h"
+    },
+    {
+      "added_at": "2026-06-09 15:24:41",
+      "album": {
+        "name": "\u30b7\u30c6\u30a3\u30db\u30c6\u30eb",
+        "url": "https://open.spotify.com/album/34ITjp6W3YHh8AGyQiwvJW"
+      },
+      "artists": [
+        {
+          "name": "Khaki",
+          "url": "https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd"
+        }
+      ],
+      "duration_ms": 233399,
+      "name": "\u30b7\u30c6\u30a3\u30db\u30c6\u30eb",
+      "url": "https://open.spotify.com/track/3L2RXDGiE3CdalnwpJiE6s"
+    },
+    {
+      "added_at": "2026-06-09 15:24:41",
+      "album": {
+        "name": "\u5fae\u70ad\u9178",
+        "url": "https://open.spotify.com/album/2yvUedNwMr1aq1bFXvUXFA"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 180441,
+      "name": "\u5fae\u70ad\u9178",
+      "url": "https://open.spotify.com/track/3BpigDZZmi6bRACtKhCUeu"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -735,18 +735,22 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "DAILY BOP",
-        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
+        "name": "\u30e6\u30fc\u30df\u30f3\u4e7e\u676f!!\uff5e\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30b3\u30e9\u30dc\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\uff5e",
+        "url": "https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        },
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
         }
       ],
-      "duration_ms": 145384,
-      "name": "\u30a8\u30e2\u3081\u306e\u590f",
-      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
+      "duration_ms": 202880,
+      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4",
+      "url": "https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -767,22 +771,18 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "\u30e6\u30fc\u30df\u30f3\u4e7e\u676f!!\uff5e\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30b3\u30e9\u30dc\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\uff5e",
-        "url": "https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX"
+        "name": "DAILY BOP",
+        "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        },
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 202880,
-      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4",
-      "url": "https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH"
+      "duration_ms": 145384,
+      "name": "\u30a8\u30e2\u3081\u306e\u590f",
+      "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
-      },
-      "artists": [
-        {
-          "name": "RETRORIRON",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 248098,
-      "name": "TOMODACHI",
-      "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
-    },
-    {
-      "added_at": "2026-06-09 15:24:41",
-      "album": {
         "name": "Purple Dream",
         "url": "https://open.spotify.com/album/3RmwOMZX7KqloQesVFo90q"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 256096,
       "name": "Purple Dream",
       "url": "https://open.spotify.com/track/4FicsGG1Qz8LjI0bEoxPa4"
+    },
+    {
+      "added_at": "2026-06-09 15:24:41",
+      "album": {
+        "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
+      },
+      "artists": [
+        {
+          "name": "RETRORIRON",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 248098,
+      "name": "TOMODACHI",
+      "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
+        "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 207707,
+      "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
+    },
+    {
+      "added_at": "2026-06-09 15:24:41",
+      "album": {
         "name": "NEW GRAVITY",
         "url": "https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 228733,
       "name": "ASH feat. Vaundy",
       "url": "https://open.spotify.com/track/00lGrbFYsAmvWUktnujaKO"
-    },
-    {
-      "added_at": "2026-06-09 15:24:41",
-      "album": {
-        "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
-        "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 207707,
-      "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
-      "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "Deja-vu",
-        "url": "https://open.spotify.com/album/7jcNtagY3SxbU1fEz8qgUQ"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
       },
       "artists": [
         {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 255866,
-      "name": "Deja-vu",
-      "url": "https://open.spotify.com/track/7J9I6C6AE9XPbhfYUwamjf"
+      "duration_ms": 217659,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+        "name": "Deja-vu",
+        "url": "https://open.spotify.com/album/7jcNtagY3SxbU1fEz8qgUQ"
       },
       "artists": [
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
         }
       ],
-      "duration_ms": 217659,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
+      "duration_ms": 255866,
+      "name": "Deja-vu",
+      "url": "https://open.spotify.com/track/7J9I6C6AE9XPbhfYUwamjf"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "4:00 A.M. (2025 Re-edit Version)",
-        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
-      },
-      "artists": [
-        {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
-        }
-      ],
-      "duration_ms": 283854,
-      "name": "4:00 A.M. (2025 Re-edit Version)",
-      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
-    },
-    {
-      "added_at": "2026-06-09 15:24:41",
-      "album": {
         "name": "\u6708\u306f\u30df\u30e9\u30fc\u30dc\u30fc\u30eb -Under the Mirror Moon- (feat.\u8ca1\u6d25\u30de\u30a4)",
         "url": "https://open.spotify.com/album/4pRpdtVHThhF7zwvtt2x0j"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 293553,
       "name": "\u6708\u306f\u30df\u30e9\u30fc\u30dc\u30fc\u30eb -Under the Mirror Moon- (feat.\u8ca1\u6d25\u30de\u30a4)",
       "url": "https://open.spotify.com/track/0CUhMWSWWdp07rVfF6vNb2"
+    },
+    {
+      "added_at": "2026-06-09 15:24:41",
+      "album": {
+        "name": "4:00 A.M. (2025 Re-edit Version)",
+        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
+      },
+      "artists": [
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "duration_ms": 283854,
+      "name": "4:00 A.M. (2025 Re-edit Version)",
+      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "IMAGINE",
-        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
-      },
-      "artists": [
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "ENDLESS",
-      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
-    },
-    {
-      "added_at": "2026-06-09 15:24:41",
-      "album": {
         "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
         "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
       },
@@ -1679,6 +1659,26 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
+        "name": "IMAGINE",
+        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "ENDLESS",
+      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
+    },
+    {
+      "added_at": "2026-06-09 15:24:41",
+      "album": {
         "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73\uff01\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
         "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
       },
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+        "name": "\u3048\u3093\u3077\u3066\u3044",
+        "url": "https://open.spotify.com/album/0nqp3bNhOtFKlLQHdeHDfu"
       },
       "artists": [
         {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+          "name": "\u3048\u3093\u3077\u3066\u3044",
+          "url": "https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh"
         }
       ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+      "duration_ms": 182138,
+      "name": "\u541b\u306f\u304d\u3063\u3068",
+      "url": "https://open.spotify.com/track/2jmzz93dnIgQOgJcZYqTjy"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

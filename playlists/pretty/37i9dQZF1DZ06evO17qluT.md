@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,013 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,054 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 49 | [ANJO DA MADRUGADA](https://open.spotify.com/track/2c0x0hg7DlzlPk6XLXhNgH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 2:29 |
 | 50 | [Rei da Noite](https://open.spotify.com/track/1VmX5IO6VCOPVVaEQgNy08) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 2:25 |
 
-Snapshot ID: `ajM1AAAAAAAKdIcOiBA9+bYFm7AIbhKf`
+Snapshot ID: `ajSGgAAAAAA/6I1bNzrgqmO83x55sqdB`

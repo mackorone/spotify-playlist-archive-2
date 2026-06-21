@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-966 songs - 2 day 15 hr 43 min
+967 songs - 2 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [Moonlight](https://open.spotify.com/track/2APtffxTwkZAde3re7lPwT) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Moonlight](https://open.spotify.com/album/672QCcQwdw98EnUQ57E4yJ) | 3:17 | 2022-11-24 | 2023-02-08 |
 | [Moonlight Cruising \(feat\. KIRINJI\)](https://open.spotify.com/track/0nNm926REE3qYr5DJ6vZV4) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [Moonlight Cruising \(feat\. KIRINJI\)](https://open.spotify.com/album/2uecghGOcoxkqCySA4kPH8) | 3:18 | 2025-04-15 | 2025-08-16 |
 | [Moonset](https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Moonset with KozyPop](https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19) | 3:46 | 2022-08-02 | 2023-04-04 |
-| [Moonshine](https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moonshine](https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv) | 3:12 | 2022-06-07 |  |
+| [Moonshine](https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moonshine](https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv) | 3:12 | 2022-06-07 | 2026-06-21 |
 | [muse](https://open.spotify.com/track/6XWpWjw67Zi5edXcbUnqQV) | [YOLK](https://open.spotify.com/artist/2xYLcZf0kXruMDlEeiGaIn) | [muse](https://open.spotify.com/album/2TyNsyTZjsX4Zv0VurnFvk) | 4:00 | 2023-03-21 | 2023-03-29 |
 | [Music, Dance & Love](https://open.spotify.com/track/2DAJbIQTf3xv8l12NJMwey) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [MUSIC, DANCE & LOVE](https://open.spotify.com/album/4KAOXSADegSXNIkGkHoQJq) | 4:33 | 2022-11-15 | 2022-11-23 |
 | [Music, Dance & Love](https://open.spotify.com/track/3QN1ptGLRym2YgBXOy8esa) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/1fvF659Q8PetSR3R8HaQDE) | 4:33 | 2022-11-01 | 2022-11-03 |
@@ -828,6 +828,7 @@
 | [君の居場所](https://open.spotify.com/track/2p2aLfEpB9ItHaT5yC9Ylx) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [君の居場所](https://open.spotify.com/album/15x6ok2P0OFJrmk9DcAVUN) | 3:43 | 2023-12-19 | 2023-12-22 |
 | [君は1000%](https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [君は1000%](https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr) | 4:17 | 2022-08-09 | 2022-10-06 |
 | [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/track/7fbisFzuaxYSmIjhPhYotu) | [PAPER MOON PROJECT](https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9), [ミズノマリ \(from paris match\)](https://open.spotify.com/artist/1YDvWXGgyyceWTsBziydY7) | [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/album/3owjP8KGMy2LE1alSWSQSI) | 4:39 | 2023-06-06 | 2023-08-20 |
+| [君はきっと](https://open.spotify.com/track/2jmzz93dnIgQOgJcZYqTjy) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [えんぷてい](https://open.spotify.com/album/0nqp3bNhOtFKlLQHdeHDfu) | 3:02 | 2026-06-09 |  |
 | [君は幻](https://open.spotify.com/track/1YEGUAQz96PSwUL9FGAV1Z) | [Koki Okamoto](https://open.spotify.com/artist/6feb6ezsQcTkzVJoZKkK7i) | [君は幻](https://open.spotify.com/album/0wbSh6gSs5M9riJ38XAExS) | 3:27 | 2022-06-02 | 2022-07-26 |
 | [呼応](https://open.spotify.com/track/0OMJowWWNkPNcN2ljEsHqA) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [呼応](https://open.spotify.com/album/4qLnMrut2t1aAVCbHXU4oU) | 4:37 | 2022-08-11 | 2022-08-17 |
 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-06-16 | 2023-07-05 |

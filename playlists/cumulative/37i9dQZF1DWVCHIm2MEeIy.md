@@ -4,7 +4,7 @@
 
 > The party has arrived! 🪩  Cover: Solomun
 
-675 songs - 2 day 6 hr 4 min
+676 songs - 2 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ahmed](https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Mainacht](https://open.spotify.com/album/1iPW3GbDkNYheqeyWjMDn8) | 6:48 | 2022-06-24 | 2022-10-01 |
 | [Akemie](https://open.spotify.com/track/7681uiIdoVOKhHuwz3z1VJ) | [Kotelett](https://open.spotify.com/artist/2OkHxgCvFhNIP49ie7DMDQ), [Sascha Cawa](https://open.spotify.com/artist/1bneKKlE0IwYyauLPQBDgP) | [Akemie](https://open.spotify.com/album/2d9EbZyGhG3w3W2kQUtOhc) | 7:09 | 2022-05-20 | 2022-06-08 |
 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-13 | 2023-08-12 |
+| [Alelele](https://open.spotify.com/track/0xjDB0xOosNejbk6X9Zrzv) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [PÆDE](https://open.spotify.com/artist/0q9ulkly0h5gV9BLdyQGnQ) | [Alelele](https://open.spotify.com/album/5ekq2ga3bdG5Y5LuFi3bC0) | 4:10 | 2026-06-11 |  |
 | [Alicante](https://open.spotify.com/track/5TqvSIrg2JO71XuWEDCwJj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Danny Roma x Manrix](https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1), [Yuliesky Gonzalez](https://open.spotify.com/artist/6wwPgJrI25XI6qKu5yOGkM) | [Alicante](https://open.spotify.com/album/7LY3V8BTAWVDeKp9QF3rlm) | 3:12 | 2025-03-03 |  |
 | [Alive](https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Alive](https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y) | 5:58 | 2022-06-24 | 2022-07-27 |
 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 | 2024-10-10 |  |
@@ -127,7 +128,7 @@
 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 | 2022-12-30 | 2024-06-25 |
 | [Circles](https://open.spotify.com/track/6XeyK7aMTmNbS9G7VKQdhw) | [Kristian Llov](https://open.spotify.com/artist/5I8TkdfxJsKIEGhGQSBmyc) | [Circles](https://open.spotify.com/album/0nI7aCghT6qgLfWzTkS3XA) | 2:58 | 2026-04-23 |  |
 | [CIRCLES \- Rodriguez Jr\. Remix](https://open.spotify.com/track/0PwaykhbrTRE7DdtCM5hKR) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [CIRCLES \(Rodriguez Jr\. Remix\)](https://open.spotify.com/album/3HJEiJoDYSoT967vQQBui6) | 5:21 | 2023-02-03 | 2023-04-09 |
-| [Close Your Eyes](https://open.spotify.com/track/3t4qCykvePOC9UkFzkkpOO) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Close Your Eyes](https://open.spotify.com/album/7bwDOWw83kF0dwfMol6XqL) | 3:33 | 2026-04-30 |  |
+| [Close Your Eyes](https://open.spotify.com/track/3t4qCykvePOC9UkFzkkpOO) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Close Your Eyes](https://open.spotify.com/album/7bwDOWw83kF0dwfMol6XqL) | 3:33 | 2026-04-30 | 2026-06-21 |
 | [Closer](https://open.spotify.com/track/1rGnpPG0QHfqjDgM8cIf4A) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Montserrat / Closer](https://open.spotify.com/album/2XkPQxDWtW7gS4CHy6ab67) | 7:40 | 2024-01-22 |  |
 | [Cloudy Eyes \(Dance Tonight\)](https://open.spotify.com/track/1NkhNXHEv33NZgMF4W4SeB) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Cloudy Eyes \(Dance Tonight\)](https://open.spotify.com/album/4l5eC0UIf7x6jKuxaFNUUr) | 4:24 | 2025-09-25 |  |
 | [Cocobolo](https://open.spotify.com/track/7Ac8bqsRr34uJZmNDHqy8N) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN) | [Cocobolo](https://open.spotify.com/album/6ZubdaQhIB94oOnBMC3W3J) | 6:04 | 2022-04-15 | 2022-05-24 |

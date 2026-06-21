@@ -6225,6 +6225,28 @@
     },
     {
       "album": {
+        "name": "can't be blue",
+        "url": "https://open.spotify.com/album/61f7Qz1pcOV9CmpDiWZIam"
+      },
+      "artists": [
+        {
+          "name": "can't be blue",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        },
+        {
+          "name": "HAN",
+          "url": "https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "can't love (feat. HAN (Stray Kids))",
+      "url": "https://open.spotify.com/track/3KQbhkqIGm1W577i5iw0gB"
+    },
+    {
+      "album": {
         "name": "Cancelo",
         "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
       },

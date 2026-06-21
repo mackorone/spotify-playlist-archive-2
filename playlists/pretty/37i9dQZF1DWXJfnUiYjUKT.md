@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Olivia Rodrigo on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,406 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,468 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Crazy](https://open.spotify.com/track/3e98KFohMydiffbocGQgbH) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Been There Done That](https://open.spotify.com/album/7DctejlgEzk5lMv8H34l0B) | 2:59 |
 | 100 | [If You're Lucky](https://open.spotify.com/track/6Qy5z9NA0XMTR8Yuur1MjD) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [I Didn't Come Here To Leave \(Deluxe\)](https://open.spotify.com/album/5mOfSVIwCZlgNhPvJDNE4D) | 2:36 |
 
-Snapshot ID: `AAAAALNAH4bXOkJauJxzlAJJE99pnAZ7`
+Snapshot ID: `AAAAAN09fuf0XPNZVlW+VLliz0juNjhJ`

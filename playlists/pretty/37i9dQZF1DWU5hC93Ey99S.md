@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,162 likes - 248 songs - 13 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,270 likes - 248 songs - 13 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Why Does It \(With Jozzy\)](https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Why Does It \(With Jozzy\)](https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm) | 2:54 |
+| 1 | [Why Does It](https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Why Does It](https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm) | 2:54 |
 | 2 | [If I could stop time...](https://open.spotify.com/track/1kni5NOsxhGawUi4CfWaEz) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [If I could stop time...](https://open.spotify.com/album/6ljrkih4qJTkkmJOVtnlrc) | 2:31 |
 | 3 | [Lovers On The Dancefloor](https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Lovers On The Dancefloor](https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN) | 2:33 |
 | 4 | [Feel For You](https://open.spotify.com/track/5erP6H73cDKlE3ChJz3KCt) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [Feel For You](https://open.spotify.com/album/7IQTG1D8cmjJ3qTPUbuumb) | 2:45 |

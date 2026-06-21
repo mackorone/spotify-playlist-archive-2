@@ -1,6 +1,6 @@
 {
   "description": "young soundsss!! Monaqi p\u00e5 forsiden \ud83c\udf54",
-  "num_followers": 47174,
+  "num_followers": 47176,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,26 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
+        "name": "Lille hus i Jylland (feat. Dahlin)",
+        "url": "https://open.spotify.com/album/3N62lUJDomKSPBDbX7w1c7"
+      },
+      "artists": [
+        {
+          "name": "Albert Heath",
+          "url": "https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L"
+        },
+        {
+          "name": "Dahlin",
+          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
+        }
+      ],
+      "duration_ms": 164805,
+      "name": "Lille hus i Jylland (feat. Dahlin)",
+      "url": "https://open.spotify.com/track/6tt5xtseCg8LGm8CvE0aAl"
+    },
+    {
+      "added_at": "2026-06-19 08:10:56",
+      "album": {
         "name": "H\u00e6ng En Mand",
         "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
       },
@@ -663,42 +683,6 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
-        "name": "Spring summer",
-        "url": "https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 128012,
-      "name": "Spring summer",
-      "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"
-    },
-    {
-      "added_at": "2026-06-19 08:10:56",
-      "album": {
-        "name": "Lille hus i Jylland (feat. Dahlin)",
-        "url": "https://open.spotify.com/album/3N62lUJDomKSPBDbX7w1c7"
-      },
-      "artists": [
-        {
-          "name": "Albert Heath",
-          "url": "https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L"
-        },
-        {
-          "name": "Dahlin",
-          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
-        }
-      ],
-      "duration_ms": 164805,
-      "name": "Lille hus i Jylland (feat. Dahlin)",
-      "url": "https://open.spotify.com/track/6tt5xtseCg8LGm8CvE0aAl"
-    },
-    {
-      "added_at": "2026-06-19 08:10:56",
-      "album": {
         "name": "Kun for os",
         "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 200674,
       "name": "Kun for os",
       "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
+    },
+    {
+      "added_at": "2026-06-19 08:10:56",
+      "album": {
+        "name": "Spring summer",
+        "url": "https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 128012,
+      "name": "Spring summer",
+      "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"
     },
     {
       "added_at": "2026-06-19 08:10:56",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
-        "name": "S\u00f8vnl\u00f8s",
-        "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
-      },
-      "artists": [
-        {
-          "name": "Fri\u00f0a Saiya",
-          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
-        }
-      ],
-      "duration_ms": 149304,
-      "name": "S\u00f8vnl\u00f8s",
-      "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
-    },
-    {
-      "added_at": "2026-06-19 08:10:56",
-      "album": {
         "name": "Hygge & Hustle",
         "url": "https://open.spotify.com/album/2Srx5oXpWlK50X7XF4RYpb"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 191764,
       "name": "Forfra",
       "url": "https://open.spotify.com/track/4XWWYB5MDDdSJD0d2VMd9X"
+    },
+    {
+      "added_at": "2026-06-19 08:10:56",
+      "album": {
+        "name": "S\u00f8vnl\u00f8s",
+        "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0a Saiya",
+          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
+        }
+      ],
+      "duration_ms": 149304,
+      "name": "S\u00f8vnl\u00f8s",
+      "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
     },
     {
       "added_at": "2026-06-19 08:10:56",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
+        "name": "D\u00f8dvande",
+        "url": "https://open.spotify.com/album/0PjEG7TBeZ3o3pPEDwxFKL"
+      },
+      "artists": [
+        {
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+        }
+      ],
+      "duration_ms": 130749,
+      "name": "D\u00f8dvande",
+      "url": "https://open.spotify.com/track/4xmR81dksRzRinebqUDKb9"
+    },
+    {
+      "added_at": "2026-06-19 08:10:56",
+      "album": {
         "name": "Starsound",
         "url": "https://open.spotify.com/album/5LAbuBRSMKL4SvvCpRfvfd"
       },
@@ -955,18 +971,22 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
-        "name": "F\u00f8rhen",
-        "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
+        "name": "Til Enden Og Tilbage (feat. Ungklang)",
+        "url": "https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu"
       },
       "artists": [
         {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+          "name": "Cyd",
+          "url": "https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A"
+        },
+        {
+          "name": "Ungklang",
+          "url": "https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD"
         }
       ],
-      "duration_ms": 199313,
-      "name": "F\u00f8rhen",
-      "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
+      "duration_ms": 189831,
+      "name": "Til Enden Og Tilbage (feat. Ungklang)",
+      "url": "https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc"
     },
     {
       "added_at": "2026-06-19 08:10:56",
@@ -987,22 +1007,18 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
-        "name": "Til Enden Og Tilbage (feat. Ungklang)",
-        "url": "https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu"
+        "name": "F\u00f8rhen",
+        "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
       },
       "artists": [
         {
-          "name": "Cyd",
-          "url": "https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A"
-        },
-        {
-          "name": "Ungklang",
-          "url": "https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD"
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
         }
       ],
-      "duration_ms": 189831,
-      "name": "Til Enden Og Tilbage (feat. Ungklang)",
-      "url": "https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc"
+      "duration_ms": 199313,
+      "name": "F\u00f8rhen",
+      "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
     },
     {
       "added_at": "2026-06-19 08:10:56",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2026-06-19 08:10:56",
       "album": {
-        "name": "Bobler",
-        "url": "https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE"
-      },
-      "artists": [
-        {
-          "name": "Lea Romea",
-          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
-        }
-      ],
-      "duration_ms": 161764,
-      "name": "Bobler",
-      "url": "https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7"
-    },
-    {
-      "added_at": "2026-06-19 08:10:56",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/6YBO3bVKIZgS2R6AE9eSby"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 149271,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2GSY5xLQQdgBcbf04nlNm3"
+    },
+    {
+      "added_at": "2026-06-19 08:10:56",
+      "album": {
+        "name": "Bobler",
+        "url": "https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        }
+      ],
+      "duration_ms": 161764,
+      "name": "Bobler",
+      "url": "https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7"
     },
     {
       "added_at": "2026-06-19 08:10:56",
@@ -1183,22 +1199,6 @@
       "duration_ms": 234138,
       "name": "Uden At T\u00e6nke P\u00e5 Dig",
       "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
-    },
-    {
-      "added_at": "2026-06-19 08:10:56",
-      "album": {
-        "name": "M\u00f8ntvask",
-        "url": "https://open.spotify.com/album/08bOXvVbQVvTeKEx5Wk1Ts"
-      },
-      "artists": [
-        {
-          "name": "Magnus \u00d8",
-          "url": "https://open.spotify.com/artist/6Nnv81bjs2w1KkRv4eTTnM"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "M\u00f8ntvask",
-      "url": "https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP"
     }
   ],
   "unique_name": "ung kniv ",

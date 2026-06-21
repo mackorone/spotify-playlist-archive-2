@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes! As\u00ed suena la Perla de Occidente.",
-  "num_followers": 132930,
+  "num_followers": 132920,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
@@ -59,30 +59,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Debo Entender",
-        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 238419,
-      "name": "Debo Entender",
-      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Por Mi M\u00e9xico (Remix)",
         "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
       },
@@ -115,6 +91,30 @@
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Debo Entender",
+        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 238419,
+      "name": "Debo Entender",
+      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "El Mariachi Loco",
+      "url": "https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
         "name": "Red Album",
         "url": "https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 311493,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/223Aw7RpWKcmhgGJ2mYoAt"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
-        "name": "Fiesta Mexicana Con Mariachi (USA)",
-        "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "El son de la negra",
-      "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
+        "name": "Fiesta Mexicana Con Mariachi (USA)",
+        "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "El son de la negra",
+      "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
         "name": "Explotar",
         "url": "https://open.spotify.com/album/5jLGn7aHYTJm18dyDbj3hL"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 191605,
       "name": "Explotar",
       "url": "https://open.spotify.com/track/09Yc3FvIm6wrSCt6mzGriT"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "El Mariachi Loco",
-      "url": "https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Soy Tuyo",
-        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
-      },
-      "artists": [
-        {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        }
-      ],
-      "duration_ms": 159227,
-      "name": "Soy Tuyo",
-      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Las Numero 1 Del Mariachi Vargas De Tecalitlan",
         "url": "https://open.spotify.com/album/7bfB8Xz308wXzASUXxQKIy"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 156066,
       "name": "Jarabe Tapat\u00edo",
       "url": "https://open.spotify.com/track/7MrFOPlklS8xnxElrcJWXl"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "duration_ms": 159227,
+      "name": "Soy Tuyo",
+      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "c\u00e9lulas adolescentes",
-        "url": "https://open.spotify.com/album/4gg7Tkx76AySifr2gDqazm"
-      },
-      "artists": [
-        {
-          "name": "babas tutsipop",
-          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
-        }
-      ],
-      "duration_ms": 174534,
-      "name": "c\u00e9lulas adolescentes",
-      "url": "https://open.spotify.com/track/0nQZqZDrPXqTCA1aAoQuL6"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "M\u00fasica de America",
         "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 187040,
       "name": "Tecalitl\u00e1n",
       "url": "https://open.spotify.com/track/1HNSDDyd03NzyopKAMjkU0"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "c\u00e9lulas adolescentes",
+        "url": "https://open.spotify.com/album/4gg7Tkx76AySifr2gDqazm"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "duration_ms": 174534,
+      "name": "c\u00e9lulas adolescentes",
+      "url": "https://open.spotify.com/track/0nQZqZDrPXqTCA1aAoQuL6"
     },
     {
       "added_at": "2026-06-08 22:39:48",

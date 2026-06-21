@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 257086,
+  "num_followers": 257048,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajM1AAAAAAC3aJUTZJgDO7SpdTrBfI96",
+  "snapshot_id": "ajSGgAAAAAB9QuhdTQyucoCOifj+538L",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genio Atrapado",
-        "url": "https://open.spotify.com/album/7edxAWf9U5vtuc6Ny6wAYw"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 161178,
-      "name": "Genio Atrapado",
-      "url": "https://open.spotify.com/track/2ctChUbjtzD0TiJo1JSs3U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "como si no importara",
         "url": "https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 173052,
       "name": "como si no importara",
       "url": "https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Genio Atrapado",
+        "url": "https://open.spotify.com/album/7edxAWf9U5vtuc6Ny6wAYw"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 161178,
+      "name": "Genio Atrapado",
+      "url": "https://open.spotify.com/track/2ctChUbjtzD0TiJo1JSs3U"
     },
     {
       "added_at": null,
@@ -483,30 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTA",
-        "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "BOTA",
-      "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MASNA REMIX",
         "url": "https://open.spotify.com/album/1vfrfkUV2mKB8KPaOcdyaS"
       },
@@ -531,6 +507,30 @@
       "duration_ms": 248000,
       "name": "MASNA REMIX",
       "url": "https://open.spotify.com/track/6wDig9zSE2qpDbw1W3qqIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOTA",
+        "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "BOTA",
+      "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
     },
     {
       "added_at": null,

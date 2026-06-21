@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 436206,
+  "num_followers": 436195,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Prati",
-        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 145566,
-      "name": "Prati",
-      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Amenable",
         "url": "https://open.spotify.com/album/7lTPmvctkCtwVtMyJZtPaw"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 174471,
       "name": "Amenable",
       "url": "https://open.spotify.com/track/45hCCandEc5IGL5p6rUy7g"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Prati",
+        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 145566,
+      "name": "Prati",
+      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Noct\u00e9",
-        "url": "https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK"
-      },
-      "artists": [
-        {
-          "name": "Van Kahloo",
-          "url": "https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Noct\u00e9",
-      "url": "https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Au matin du magicien",
         "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
       },
@@ -871,22 +855,6 @@
       "duration_ms": 122560,
       "name": "Au matin du magicien",
       "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
-        "name": "Warm Embrace",
-        "url": "https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY"
-      },
-      "artists": [
-        {
-          "name": "Ann Hildering",
-          "url": "https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx"
-        }
-      ],
-      "duration_ms": 163072,
-      "name": "Warm Embrace",
-      "url": "https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -907,6 +875,38 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
+        "name": "Noct\u00e9",
+        "url": "https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK"
+      },
+      "artists": [
+        {
+          "name": "Van Kahloo",
+          "url": "https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Noct\u00e9",
+      "url": "https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Warm Embrace",
+        "url": "https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY"
+      },
+      "artists": [
+        {
+          "name": "Ann Hildering",
+          "url": "https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx"
+        }
+      ],
+      "duration_ms": 163072,
+      "name": "Warm Embrace",
+      "url": "https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
         "name": "From a Distance",
         "url": "https://open.spotify.com/album/7joeG2oftim1xUZGqznAxa"
       },
@@ -919,38 +919,6 @@
       "duration_ms": 147348,
       "name": "From a Distance",
       "url": "https://open.spotify.com/track/7DSAwNkmall9lAltVsoWFw"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
-        "name": "Slowly \u6162\u6162\u5730",
-        "url": "https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx"
-      },
-      "artists": [
-        {
-          "name": "Li Zemin",
-          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
-        }
-      ],
-      "duration_ms": 129828,
-      "name": "Slowly \u6162\u6162\u5730",
-      "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
-        "name": "Como Nights",
-        "url": "https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F"
-      },
-      "artists": [
-        {
-          "name": "Marcello Fiorenza",
-          "url": "https://open.spotify.com/artist/4tkBlLUThSYUXx9MuDyD5G"
-        }
-      ],
-      "duration_ms": 150854,
-      "name": "Como Nights",
-      "url": "https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -971,6 +939,22 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
+        "name": "Slowly \u6162\u6162\u5730",
+        "url": "https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "duration_ms": 129828,
+      "name": "Slowly \u6162\u6162\u5730",
+      "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
         "name": "Secret Meadow",
         "url": "https://open.spotify.com/album/3vqbinG3yAqZhYdCuq9eKM"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 147524,
       "name": "Secret Meadow",
       "url": "https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Como Nights",
+        "url": "https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F"
+      },
+      "artists": [
+        {
+          "name": "Marcello Fiorenza",
+          "url": "https://open.spotify.com/artist/4tkBlLUThSYUXx9MuDyD5G"
+        }
+      ],
+      "duration_ms": 150854,
+      "name": "Como Nights",
+      "url": "https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Campania",
-        "url": "https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8"
-      },
-      "artists": [
-        {
-          "name": "Gilded Reverie",
-          "url": "https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym"
-        }
-      ],
-      "duration_ms": 141014,
-      "name": "Campania",
-      "url": "https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/6BYs44BM5V0a4neWaQ5u1l"
       },
@@ -1303,6 +1287,38 @@
       "duration_ms": 157347,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/2qmKMYVvHxOQqW0GbMr5VR"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Into the Light",
+        "url": "https://open.spotify.com/album/103ieLQ54WKXA1dqhtcif5"
+      },
+      "artists": [
+        {
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Into the Light",
+      "url": "https://open.spotify.com/track/2cilJhRbesAUmkwLn9dlkR"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Campania",
+        "url": "https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8"
+      },
+      "artists": [
+        {
+          "name": "Gilded Reverie",
+          "url": "https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym"
+        }
+      ],
+      "duration_ms": 141014,
+      "name": "Campania",
+      "url": "https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1335,22 +1351,6 @@
       "duration_ms": 175354,
       "name": "A passing season",
       "url": "https://open.spotify.com/track/0kcNgvxO5miMzPqkFYoeqK"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
-        "name": "Into the Light",
-        "url": "https://open.spotify.com/album/103ieLQ54WKXA1dqhtcif5"
-      },
-      "artists": [
-        {
-          "name": "Kristoffer Wallin",
-          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Into the Light",
-      "url": "https://open.spotify.com/track/2cilJhRbesAUmkwLn9dlkR"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "It Rained Last Night",
-        "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
-      },
-      "artists": [
-        {
-          "name": "Casimir Roux",
-          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
-        }
-      ],
-      "duration_ms": 132509,
-      "name": "It Rained Last Night",
-      "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Fleur De Vie",
         "url": "https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 176717,
       "name": "Fleur De Vie",
       "url": "https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "It Rained Last Night",
+        "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
+      },
+      "artists": [
+        {
+          "name": "Casimir Roux",
+          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
+        }
+      ],
+      "duration_ms": 132509,
+      "name": "It Rained Last Night",
+      "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Sound Of Mind",
-        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
-      },
-      "artists": [
-        {
-          "name": "Macan Moreira",
-          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
-        }
-      ],
-      "duration_ms": 122998,
-      "name": "Sound Of Mind",
-      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Southern Air",
         "url": "https://open.spotify.com/album/6q7W9ZSRvSUvxR8PF1be6G"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 226835,
       "name": "Southern Air",
       "url": "https://open.spotify.com/track/1WiDUpSUjuQkOzOCvbSkzY"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Sound Of Mind",
+        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
+      },
+      "artists": [
+        {
+          "name": "Macan Moreira",
+          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
+        }
+      ],
+      "duration_ms": 122998,
+      "name": "Sound Of Mind",
+      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
+        "name": "Interim",
+        "url": "https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0"
+      },
+      "artists": [
+        {
+          "name": "Nino Carl",
+          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
+        }
+      ],
+      "duration_ms": 139124,
+      "name": "Interim",
+      "url": "https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
         "name": "Quiet Suns",
         "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 151900,
       "name": "fallen leaves",
       "url": "https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
-        "name": "Interim",
-        "url": "https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0"
-      },
-      "artists": [
-        {
-          "name": "Nino Carl",
-          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
-        }
-      ],
-      "duration_ms": 139124,
-      "name": "Interim",
-      "url": "https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/6qKgI8XrspuFdKoIMZx8OQ"
-      },
-      "artists": [
-        {
-          "name": "Aubrey Lo",
-          "url": "https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/13ZdrqLb7T8qeZktOecD6I"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Tranquil Landscape",
         "url": "https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta"
       },
@@ -1803,18 +1787,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "The Shortest Distance",
-        "url": "https://open.spotify.com/album/48Pzdi9h9my2o6G1FgQLDY"
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/6qKgI8XrspuFdKoIMZx8OQ"
       },
       "artists": [
         {
-          "name": "Kisane",
-          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+          "name": "Aubrey Lo",
+          "url": "https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5"
         }
       ],
-      "duration_ms": 161000,
-      "name": "The Shortest Distance",
-      "url": "https://open.spotify.com/track/1IvutkNuvq7URH4twRVeSD"
+      "duration_ms": 136750,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/13ZdrqLb7T8qeZktOecD6I"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1835,6 +1819,22 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
+        "name": "The Shortest Distance",
+        "url": "https://open.spotify.com/album/48Pzdi9h9my2o6G1FgQLDY"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "The Shortest Distance",
+      "url": "https://open.spotify.com/track/1IvutkNuvq7URH4twRVeSD"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
         "name": "Apr\u00e8s Tout",
         "url": "https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3"
       },
@@ -1847,22 +1847,6 @@
       "duration_ms": 147250,
       "name": "Apr\u00e8s tout",
       "url": "https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
-        "name": "Armonia",
-        "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
-      },
-      "artists": [
-        {
-          "name": "Elion Veero",
-          "url": "https://open.spotify.com/artist/23t1xJeBxLCYomcRBWqVtO"
-        }
-      ],
-      "duration_ms": 180830,
-      "name": "Armonia",
-      "url": "https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1899,18 +1883,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Eirene",
-        "url": "https://open.spotify.com/album/2jpigLGuZCzZYZzpSsmjGH"
+        "name": "Armonia",
+        "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
       },
       "artists": [
         {
-          "name": "Henry Flower",
-          "url": "https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E"
+          "name": "Elion Veero",
+          "url": "https://open.spotify.com/artist/23t1xJeBxLCYomcRBWqVtO"
         }
       ],
-      "duration_ms": 152635,
-      "name": "Eirene",
-      "url": "https://open.spotify.com/track/3L7VyBjJaix0WPor72ykEU"
+      "duration_ms": 180830,
+      "name": "Armonia",
+      "url": "https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1943,6 +1927,22 @@
       "duration_ms": 179281,
       "name": "Emanate",
       "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Eirene",
+        "url": "https://open.spotify.com/album/2jpigLGuZCzZYZzpSsmjGH"
+      },
+      "artists": [
+        {
+          "name": "Henry Flower",
+          "url": "https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E"
+        }
+      ],
+      "duration_ms": 152635,
+      "name": "Eirene",
+      "url": "https://open.spotify.com/track/3L7VyBjJaix0WPor72ykEU"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Hudson",
-        "url": "https://open.spotify.com/album/7LYdaydEH7nuNW0jTx3VfW"
-      },
-      "artists": [
-        {
-          "name": "Lluvio",
-          "url": "https://open.spotify.com/artist/1kzkKhacDbiz7kbMewpWLV"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Hudson",
-      "url": "https://open.spotify.com/track/4X21nr52GfvHOUgN25yUC5"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 207219,
       "name": "Affection",
       "url": "https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Hudson",
+        "url": "https://open.spotify.com/album/7LYdaydEH7nuNW0jTx3VfW"
+      },
+      "artists": [
+        {
+          "name": "Lluvio",
+          "url": "https://open.spotify.com/artist/1kzkKhacDbiz7kbMewpWLV"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Hudson",
+      "url": "https://open.spotify.com/track/4X21nr52GfvHOUgN25yUC5"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Red Ridge Road",
-        "url": "https://open.spotify.com/album/3v0jNmPIt6mj7vRB2H1umM"
-      },
-      "artists": [
-        {
-          "name": "Alfons Daiminger",
-          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
-        }
-      ],
-      "duration_ms": 163514,
-      "name": "Red Ridge Road",
-      "url": "https://open.spotify.com/track/2BNF35bgujUs1KtGl5Xww0"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Marche Lente",
         "url": "https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 131436,
       "name": "Marche Lente",
       "url": "https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Red Ridge Road",
+        "url": "https://open.spotify.com/album/3v0jNmPIt6mj7vRB2H1umM"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "duration_ms": 163514,
+      "name": "Red Ridge Road",
+      "url": "https://open.spotify.com/track/2BNF35bgujUs1KtGl5Xww0"
     },
     {
       "added_at": "2026-05-29 04:00:30",

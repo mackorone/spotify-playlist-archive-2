@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Lesti
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,109 likes - 102 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,135 likes - 102 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Joepraize
 
-569 songs - 1 day 21 hr 0 min
+570 songs - 1 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Dependable God \- Live from London](https://open.spotify.com/track/2OWowRrWrSP4v3R11eZVIh) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Dependable God \(Live from London\)](https://open.spotify.com/album/23iBFmRGMwcc2BoZXnRuwO) | 5:07 | 2025-03-21 | 2025-04-22 |
 | [devotion](https://open.spotify.com/track/0hzwqsORr0LMEmeASvvRrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [devotion](https://open.spotify.com/album/2CoJ8PPfjEjBGXTqan0COe) | 2:16 | 2025-10-17 | 2025-10-24 |
 | [Dike](https://open.spotify.com/track/6eu2QBwKajebnVcH7o815n) | [SONOJ ONOJA](https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM) | [Dike](https://open.spotify.com/album/1lyOTU8sBHyKjshkdbYqNn) | 4:43 | 2025-06-27 | 2025-08-08 |
+| [DIVINE](https://open.spotify.com/track/76YuA6sXu6j2rHke168FDj) | [Rosey](https://open.spotify.com/artist/2nUGMD83hQ6sJSOyNy559L) | [DIVINE](https://open.spotify.com/album/239WUfdExJsLxosZIEg9AE) | 2:50 | 2026-06-20 |  |
 | [Do It Again \(feat\. Travis Greene & Kierra Sheard\)](https://open.spotify.com/track/6nwgAHelU0nQndfju6YFur) | [Elevation Collective](https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Evidence](https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo) | 9:59 | 2025-04-18 | 2025-04-22 |
 | [Do Something](https://open.spotify.com/track/7hMCer4q0483Uxdb7EcvG2) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Holy Ghost](https://open.spotify.com/album/4wJuzLINYvguF70TkdSbYB) | 3:26 | 2024-03-29 | 2024-04-05 |
 | [Doh Doh Doh](https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Ife](https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK) | [Doh Doh Doh](https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN) | 2:33 | 2023-11-03 | 2023-12-13 |
@@ -437,7 +438,7 @@
 | [pure](https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [pure](https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0) | 5:56 | 2023-12-29 | 2024-07-27 |
 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 | 2023-04-09 | 2024-09-07 |
 | [Reckless Love](https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/7HNYFbvMJdUyD7oiUTTXRg) | 5:33 | 2025-07-18 |  |
-| [Reckless Lover](https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Reckless Lover](https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB) | 8:57 | 2026-03-13 |  |
+| [Reckless Lover](https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Reckless Lover](https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB) | 8:57 | 2026-03-13 | 2026-06-21 |
 | [Refresh](https://open.spotify.com/track/4389ZHH3tiQzRgThj2dobk) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Refresh](https://open.spotify.com/album/3llWrDIH2w699etgKIvMHG) | 6:00 | 2025-07-28 | 2026-03-13 |
 | [Remember](https://open.spotify.com/track/04wVpeALDGkERQJUxcUVDh) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Remember](https://open.spotify.com/album/0WYQeKtos7ECUjiA8k1Yao) | 3:48 | 2024-03-29 | 2024-04-05 |
 | [Repairman](https://open.spotify.com/track/57H3m5G16XYRB2KeEdqU4M) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Repairman](https://open.spotify.com/album/5kHJz08R4LRFGFiUurfSkm) | 2:55 | 2026-03-13 | 2026-03-27 |

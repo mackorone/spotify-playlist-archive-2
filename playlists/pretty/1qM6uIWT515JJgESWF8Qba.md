@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 483 likes - 61 songs - 3 hr 52 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 484 likes - 63 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 59 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 |
 | 60 | [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 |
 | 61 | [Freefalling](https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Freefalling](https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us) | 3:09 |
+| 62 | [Silver Lake](https://open.spotify.com/track/3cMZDt1yPKZuP7UssRKfWI) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Silver Lake](https://open.spotify.com/album/4AMGWzEqgc2pui4p2vXC4y) | 4:11 |
+| 63 | [Break These Chains](https://open.spotify.com/track/6UXMNP2WDg7RhYpanEkSOL) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Break These Chains](https://open.spotify.com/album/5x59iPEINkuzJY35NV7hbf) | 3:24 |
 
-Snapshot ID: `AAAB60nBir9HUH6BvJd5JiyRh+VTPYOR`
+Snapshot ID: `AAAB7UvtGvFeUTXeILrSMDnGeMtiTXQG`

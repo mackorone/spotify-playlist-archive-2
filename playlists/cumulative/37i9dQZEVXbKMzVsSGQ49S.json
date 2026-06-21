@@ -842,7 +842,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 194602,
       "name": "2MG",
       "url": "https://open.spotify.com/track/72ZjtDHr1vVXW5A3ApOu2y"
@@ -2684,7 +2684,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 269893,
       "name": "All the Pretty Girls",
       "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
@@ -14286,7 +14286,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -14958,7 +14958,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -25200,7 +25200,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 207911,
       "name": "Hj\u00e1 \u00fe\u00e9r",
       "url": "https://open.spotify.com/track/6bMexmPJgSkZyNDV0QZGsI"
@@ -36506,7 +36506,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 228437,
       "name": "Meira en mig",
       "url": "https://open.spotify.com/track/7kjODx9vY0aDqTGUYtOQcq"
@@ -36750,7 +36750,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 269482,
       "name": "Me\u00f0al mannsins (\u00fej\u00f3\u00f0s\u00f6ngurinn)",
       "url": "https://open.spotify.com/track/6cpmOZMT1cS9MUULSP05C8"
@@ -56106,7 +56106,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -57250,6 +57250,28 @@
       "duration_ms": 234166,
       "name": "Til \u00ed allt, Pt. III",
       "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"
+    },
+    {
+      "album": {
+        "name": "Ungur",
+        "url": "https://open.spotify.com/album/1cM0e7Q48E77lBo2zC8DeU"
+      },
+      "artists": [
+        {
+          "name": "ungurorri",
+          "url": "https://open.spotify.com/artist/75eF74YBqbjLPxrYO9fkFh"
+        },
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166768,
+      "name": "Tilgang",
+      "url": "https://open.spotify.com/track/0FVcwYFzmNPB09KlaAMjVM"
     },
     {
       "album": {
@@ -61988,7 +62010,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 213706,
       "name": "Way down We Go",
       "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"

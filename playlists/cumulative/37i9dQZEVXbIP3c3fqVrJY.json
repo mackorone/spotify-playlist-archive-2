@@ -4036,7 +4036,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -4802,7 +4802,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -8730,7 +8730,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -18447,6 +18447,28 @@
     },
     {
       "album": {
+        "name": "Ja si t\u011b br\u00e1t nebudu",
+        "url": "https://open.spotify.com/album/3SQgimEDd3L20OnV3IHsCe"
+      },
+      "artists": [
+        {
+          "name": "Vesna",
+          "url": "https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6"
+        },
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162312,
+      "name": "Ja si t\u011b br\u00e1t nebudu",
+      "url": "https://open.spotify.com/track/1UhYbsFtlV6bU1lVT5zgyL"
+    },
+    {
+      "album": {
         "name": "CA$HFLOW",
         "url": "https://open.spotify.com/album/7rGfyqpAB472BHOmYCb7pK"
       },
@@ -26774,7 +26796,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Na ost\u0159\u00ed no\u017ee",
       "url": "https://open.spotify.com/track/2QvaPJZpFrlFa660GxjmFs"
@@ -26792,7 +26814,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 223426,
       "name": "Na ost\u0159\u00ed no\u017ee",
       "url": "https://open.spotify.com/track/4Khglv8L82X1jD5KAEMYwT"
@@ -38966,7 +38988,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 205048,
       "name": "Strach",
       "url": "https://open.spotify.com/track/5JShUXhGOwqhqwJVGjqVWk"
@@ -39176,7 +39198,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -42994,7 +43016,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 123076,
       "name": "TYPE BEAT",
       "url": "https://open.spotify.com/track/3OhcMbapB8evsgarEoPGH0"
@@ -43078,7 +43100,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-21",
       "duration_ms": 220661,
       "name": "T\u011blo",
       "url": "https://open.spotify.com/track/6J3NPKeiWFSRLvp2g9Hv4Q"

@@ -1,6 +1,6 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2445728,
+  "num_followers": 2445784,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-05 21:46:01",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2024-07-05 21:46:01",
-      "album": {
         "name": "Yourself or Someone Like You",
         "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 268333,
       "name": "Give Me One Reason",
       "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY"
+    },
+    {
+      "added_at": "2024-07-05 21:46:01",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2024-07-05 21:46:01",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-07-05 21:46:01",
       "album": {
-        "name": "[What's The Story] Morning Glory",
-        "url": "https://open.spotify.com/album/1GIiLeoqfB5s7lMYPNPzbB"
+        "name": "First Band On The Moon",
+        "url": "https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
         }
       ],
-      "duration_ms": 258906,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/7JrUo70YjhU4S7flcJtK0k"
+      "duration_ms": 193893,
+      "name": "Lovefool - Radio Edit",
+      "url": "https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX"
     }
   ],
   "unique_name": "90s Acoustic",

@@ -4,7 +4,7 @@
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 35 min
+93 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,10 +89,11 @@
 | [Te Acordarás De Mí](https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Te Acordarás De Mí](https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An) | 2:36 | 2024-08-08 |  |
 | [TE MUEVES MUY BIEN](https://open.spotify.com/track/3qGkq4PS76m3i2BdxtNMgz) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:32 | 2025-08-24 |  |
 | [Te Quiero a Ti \(Version Norteña\)](https://open.spotify.com/track/1iu43Iufwvx3tk4svcNKxZ) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:21 | 2025-02-02 | 2026-01-26 |
+| [Te Vi](https://open.spotify.com/track/3HPrqYnWiIybFKtnpbcHRb) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Te Vi](https://open.spotify.com/album/4fYm6Ed22qyJGThEj9saM9) | 2:37 | 2026-06-21 |  |
 | [Tesec](https://open.spotify.com/track/3gGiXwtdax32RF2Zb687OB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 2:12 | 2024-08-08 | 2025-08-24 |
 | [Todita Me Encantas](https://open.spotify.com/track/7neeZNumEtyUe93ybWqr3N) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Todita Me Encantas](https://open.spotify.com/album/15qYJqe46DroUxj9Fa7b74) | 2:17 | 2025-11-02 |  |
 | [Toxicuh](https://open.spotify.com/track/1PV85zmIhRwnW1oC0zNFDs) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Briant Rangel](https://open.spotify.com/artist/3632WStjylo2le6C4k0gcx) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:21 | 2024-08-08 | 2024-10-28 |
-| [Tú Me Haces Falta](https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:43 | 2024-08-08 |  |
+| [Tú Me Haces Falta](https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:43 | 2024-08-08 | 2026-06-21 |
 | [Una Noche Nomas](https://open.spotify.com/track/1qND5NqKyn93Y6rOxuDYzR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:20 | 2024-08-08 |  |
 | [Una Rosa Blanca](https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Una Rosa Blanca](https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o) | 3:20 | 2024-08-08 | 2026-01-21 |
 | [Ven Conmigo](https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ven Conmigo](https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo) | 3:22 | 2024-08-08 | 2025-02-02 |
